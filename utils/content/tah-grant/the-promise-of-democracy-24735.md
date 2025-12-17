@@ -1,0 +1,9 @@
+---
+title: The Promise of Democracy
+date: '2011-06-06T17:04:31'
+lastmod: '2017-12-01T14:23:42'
+type: tah_grant
+draft: false
+drupal_nid: 24735
+---
+

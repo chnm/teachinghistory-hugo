@@ -1,0 +1,10 @@
+---
+title: 'Lincoln''s Biography, Part Two: Indian Fighting and Politics in New Salem,
+  1831-1836'
+date: '2008-05-21T13:59:19'
+lastmod: '2017-12-01T13:36:59'
+type: history_in_multimedia
+draft: false
+drupal_nid: 19340
+---
+

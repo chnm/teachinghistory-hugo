@@ -1,0 +1,9 @@
+---
+title: Impact of America's Wars on Democracy, Social Reform and American Identity
+date: '2008-02-22T14:15:53'
+lastmod: '2017-12-01T14:23:42'
+type: tah_grant
+draft: false
+drupal_nid: 18972
+---
+

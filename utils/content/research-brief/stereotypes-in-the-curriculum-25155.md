@@ -1,0 +1,18 @@
+---
+title: Stereotypes in the Curriculum
+date: '2011-09-15T12:23:44'
+lastmod: '2017-12-01T15:52:16'
+type: research_brief
+draft: false
+drupal_nid: 25155
+---
+
+In his article “Popular Culture, Curriculum, and Historical Representation,” [John Wills](http://www.facultydirectory.ucr.edu/cgi-bin/pub/public_individual.pl?faculty=492) sought to examine the perpetuation of stereotypes in the American History curriculum by examining the treatment of Native Americans. Wills found that despite a variety of representations of Indians in the curriculum, teachers and students tended to emphasize a romanticized stereotype of Plains Indians. What did this indicate, he wondered, about the possibility of challenging narratives shaped by racial and ethnic stereotypes in American history?
+> Refuting one stereotype of Natives as uncivilized savages, teachers perpetuated another: the romanticized image of Natives as buffalo-hunting nomads.
+
+Wills, a professor in the [Graduate School of Education](http://education.ucr.edu/) at the University of California, Riverside, spent an academic year in three 8th-grade classrooms exploring the interaction between cultural texts and their readers. He observed and videotaped 130 lessons at a predominantly white suburban middle school in San Diego County, transcribing teacher lectures, class discussions, and multimedia and student presentations.
+What he found was that although these teachers were concerned with challenging stereotypical representations of Native Americans, they often struggled to move past overly simplistic portrayals. Refuting one stereotype of Natives as uncivilized savages, teachers perpetuated another: the romanticized image of Natives as buffalo-hunting nomads. So what did this indicate about American history and the portrayal of racial and ethnic minorities?
+**Natives and “the Story” of American History**
+As [research by other scholars](http://teachinghistory.org/issues-and-research/research-brief/23488) has revealed, American history classrooms are often characterized by a dominant narrative of perpetual progress. In this narrative, Americans of European descent drive history forward to produce expanded rights and opportunities, with the exception, as one teacher put it, of “a few black marks.” The consequence of this, Wills pointed out, was that racial and ethnic minorities remain largely incidental to the story being told. The exceptions are the stories of the enslavement of African Americans and the removal of Native Americans from conquered territory.
+Wills showed that despite changes in textbooks, Native Americans were still confined to a small place in popular historical narratives. Natives only “fit” into the story during the period of westward expansion, when nomadic Plains Indians presented an obstacle to settlers. Because this was the established “place” of Native Americans in the popular story of American history, they were predominantly represented as nomadic, buffalo-hunting Plains Indians.
+The addition of more racial and ethnic minorities, as well as women and members of the working class, to the story of American history provides students with more diverse images of particular groups. Wills argued, however, that as long as these images are framed by the dominant narrative of perpetual progress, students’ understandings will be limited and partial, compromised by stereotypes of these groups.

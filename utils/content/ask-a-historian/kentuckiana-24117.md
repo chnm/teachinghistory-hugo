@@ -1,0 +1,19 @@
+---
+title: Kentuckiana
+date: '2010-07-16T15:52:36'
+lastmod: '2018-09-19T13:39:25'
+type: ask_a_historian
+draft: false
+drupal_nid: 24117
+question: I am sorry, but this Kentuckiana Library is really confusing to me. What
+  I know is that Kentucky and Indiana are two different states, located in two separate
+  regions of the USA. Each state has its own culture and tradition, Kentucky being
+  of southern and Indiana of northern. You have Kentuckians with their own accent,
+  while Indiana people talk with their own. I do not, for the life of me, see any
+  comparison between the two states. How do you combine a library to include both
+  as one, without taking a chance of harming the character of our children and their
+  own history?
+url: /history-content/ask-a-historian/24117
+---
+
+I assume you are referring to the [Kentuckiana Digital Library](http://kdl.kyvl.org/), the website of which is reviewed [elsewhere](https://teachinghistory.org/history-content/website-reviews/14718) on our NHEC site. Our website has no connection with the Kentuckiana Digital Library, which is run by the University of Kentucky in Lexington by a consortium comprising state-assisted university libraries in Kentucky. You may want to contact them directly with questions about the website. Having said that, I think the confusion may have stemmed from the word “Kentuckiana.” It has two meanings. “Kentuckiana” is an old word. Its first and oldest use is to mean items “of or relating to Kentucky.” In its oldest uses it has the flavor of a colorful or quaint and perhaps somewhat haphazard collection of things—stories, pictures, written records, folkways, government records, news items, maps, and other objects—all of which are specifically characteristic of Kentucky. Newspapers readers in the 19th century, for example, coming across an article entitled “Kentuckiana” would probably expect to be entertained by a set of amusing stories that prominently featured Bowie knives, whiskey, bears, and backwoods politics. In later usage, the *-ana* suffix has more or less lost the sense of eccentricity or quaintness it originally implied. Nowadays, “Kentuckiana” simply is to Kentucky as “Americana” is to America. This meaning of “Kentuckiana”—“a collection of items from or relating to Kentucky”—is the one that the word has in “Kentuckiana Digital Library.” No geographical or cultural amalgamation is implied at all. Your confusion may arise because of the second meaning of “Kentuckiana,” which is to refer to the geographical region around the borders of Kentucky and Indiana, especially centered on Louisville, since it is the main metropolitan center for that region, the industries and economies of which are interwoven around the Ohio River. Used this way, the word “Kentuckiana” means something like “the [indefinitely large] region where Kentucky and Indiana meet.” An entry on “Kentuckiana” by George H. Yater in the *Encyclopedia of Louisville* (Lexington: University Press of Kentucky, 2000), edited by John E. Kleber, pegs the origins of this meaning of “Kentuckiana” to newspaper coverage of the region in the *Louisville Courier-Journal* and the *Louisville Times*, possibly beginning in the 1940s (p. 459).

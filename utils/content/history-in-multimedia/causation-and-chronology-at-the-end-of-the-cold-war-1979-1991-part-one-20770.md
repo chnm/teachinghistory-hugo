@@ -1,0 +1,9 @@
+---
+title: Causation and Chronology at the End of the Cold War, 1979-1991, Part One
+date: '2009-01-29T15:36:26'
+lastmod: '2017-12-01T13:36:59'
+type: history_in_multimedia
+draft: false
+drupal_nid: 20770
+---
+

@@ -1,0 +1,33 @@
+---
+title: Teacher Representatives
+date: '2011-03-13T13:34:40'
+lastmod: '2018-09-10T16:43:38'
+type: page
+draft: false
+drupal_nid: 24576
+url: /about/teacher-representatives
+---
+
+Teachinghistory.org annually selects a diverse group of teachers representing various grade levels, parts of the country, and types of schools to serve as Teacher Representatives. Teacher Representatives ensure that Teachinghistory.org is the best possible resource for educators by providing feedback and content from the classroom.
+
+![Todd Beuke](/sites/default/files/Beuke2.jpg "Todd Beuke")**Todd Beuke** has been a middle level Social Studies teacher for the past 15 years and currently teaches at Sequim Middle School in Sequim, WA. He earned degrees in both History and Education from the University of Washington and Eastern Washington University respectively. Students in his classroom learn about the past through their exposure to primary sources. Todd has also encouraged his students to create and enter projects in the National History Day program where many of them have found success at the state and national contests.
+
+![Jeffrey DiLollo](/sites/default/files/DiLollo.jpg "Jeffrey DiLollo")**Jeffrey DiLollo** is a teacher of AP American History and IB History at West Morris Central High School in Chester, NJ. He serves as co-advisor of the National History and Veterans Oral History Club. Through professional associations and a TAH grant awarded to his school district, Jeff has worked with eminent historians pursuing the study of personal narratives in history and the use of primary sources in the classroom. Jeff received his undergraduate degree in history from Seton Hall University and his Masters in school administration from St. Elizabeth's College in Madison, NJ.
+
+![Bridget Federspiel](/sites/default/files/Federspiel.jpg "Bridget Federspiel")**Bridget Federspiel** is a high school teacher in Dayton Public Schools, teaching at Stivers School for the Arts. Bridget has a BA in history from the University of Dayton and a MA in history from Wright State University. Bridget has taught for 20 years, the last nine in Dayton Public Schools. She also teaches part-time at Sinclair. She is a National Board Certified Teacher and a Fulbright-Hays Fellow.
+
+![Karla Galdámez](/sites/default/files/Galdamez.jpg "Karla Galdámez")**Karla Galdámez** teaches American History and journalism at Hollenbeck Middle School in Los Angeles. She has a MA in Latin American Studies with a focus in U.S. foreign policy from UCLA and a BA in American History from the University of California, Irvine. She is currently in her 10th year of teaching and has taught elementary and high school prior to teaching eighth grade. Karla spends her summers traveling and studying throughout the country and the world to expand her knowledge of history.
+
+![Linda Hardin](/sites/default/files/Hardin.jpg "Linda Hardin")**Linda Hardin** teachers ESOL at Tanglewood Middle School in Greenville, SC. She graduated from Furman University, the University of Missouri, and the University of Georgia. She studied at Oxford University in England and East China University in Shanghai with Fulbright Scholarships. With inspiration from Bread Loaf School of English, Linda enjoys local history and tramping around historic sites with her husband, Eugene, and her son, Ramsey. She has published a book, *Famous Greenville Firsts*, plays and stories.
+
+![Ian McDougall](/sites/default/files/McDougall.jpg "Ian McDougall")**Ian McDougall** has taught history to a huge cross-section of students as a teacher in multiple states and countries. Experience in the classroom and time spent traveling the world allows him to bring history to life for his students. Teaching AP World History has allowed him to use history to challenge students' knowledge and skills in the subject to better prepare them for career and college success. He hopes to help others teachers improve the study of history.
+
+![Jennifer Orr](/sites/default/files/Orr.jpg "Jennifer Orr")**Jennifer Orr** is a 1st-grade teacher at Annandale Terrace Elementary School in Fairfax County, VA, a Title I school. A National Board Certified Teacher in middle childhood, she has taught fourth, fifth, and first grades since 1998. She graduated from Mary Washington College and earned a master’s degree in Social Foundations of Education from the University of Virginia. She has taught professional development courses and workshops on classroom management, social studies, and technology.
+
+![Lynn Roach](/sites/default/files/Roach2.JPG "Lynn Roach")**Lynn Roach** is currently a Social Studies teacher at Classical Magnet School in Hartford, CT. She holds certification as a *History Alive* Coach. She has been involved in educational publications and materials for Saint Joseph College’s teacher training programs, and the Harriet Beecher Stowe Center. She has worked with the George Washington Teacher Institute at Mt. Vernon and has participated in a three-year TAH grant with Yale University and local Connecticut school districts. Lynn is dedicated to advancing pedagogical approaches that produce optimal results for teachers.
+
+![Seth Swihart](/sites/default/files/Swihart.jpg "Seth Swihart")**Seth Swihart** teaches history and government at Hillsboro High School in Nashville, TN. He attended Kenyon College for his undergraduate degree and Vanderbilt University for his Masters in Education. He is in his eighth year of teaching. Seth teaches both AP U.S. History and IB History of the Americas. Seth also participates in the *We the People* competition through his AP Government class and his team has won the state finals the past three years.
+
+![Amy Van Zanten](/sites/default/files/Zanten.jpg "Amy Van Zanten")**Amy Van Zanten** has taught elementary social studies in the Valley Central School District in upstate New York for the past 11 years. She has participated in the Gilder Lehrman History Institute as well as the Hudson Valley Writing Project. Currently Amy is a moderator for the National Writing Project iAnthology website.
+
+![Deb Vojslavek](/sites/default/files/Vojslavek.jpg "Deb Vojslavek")**Deb Vojslavek** is a 5th-grade teacher for the Rockwood School District in the St. Louis area. She has participated in two TAH grants and has served as a peer facilitator at the CWTI. The Missouri Council of the Social Studies (MCSS) named Deb Outstanding Elementary Teacher in 2008. She has written social studies curriculum and has mentored teachers to help them engage their students with primary sources. Deb has presented "Of Primary Importance" at the NCSS and "Fighting the Yawn Factor in an Elementary Classroom" at the MCSS.

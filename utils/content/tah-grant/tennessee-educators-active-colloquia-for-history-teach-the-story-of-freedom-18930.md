@@ -1,0 +1,9 @@
+---
+title: 'Tennessee Educator''s Active Colloquia for History (TEACH): The Story of Freedom'
+date: '2008-02-22T14:15:48'
+lastmod: '2017-12-01T14:23:42'
+type: tah_grant
+draft: false
+drupal_nid: 18930
+---
+
