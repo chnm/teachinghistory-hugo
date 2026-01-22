@@ -1,0 +1,27 @@
+name: "[teachinghistory-website] Build, Release, Deploy"
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+      - "preview"
+    paths:
+      - "teachinghistory-website/**"
+
+jobs:
+  hugo-build-release-deploy:
+    uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
+    secrets: inherit
+    with:
+      container-registry: "ghcr.io"
+      container-image-name: "teachinghistory-website"
+      hugo-context-root: "teachinghistory-website"
+      hugo-devl-url: "https://dev.teachinghistory.org"
+      hugo-prod-url: "https://dev.teachinghistory.org"
+
+      build-artifact-name: "teachinghistory-website"
+      release-tag-name-type: "iso"
+
+      website-devl-fqdn: "dev.teachinghistory.org"
+      website-prod-fqdn: "dev.teachinghistory.org"
