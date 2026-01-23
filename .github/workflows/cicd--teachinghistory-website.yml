@@ -10,8 +10,8 @@ on:
       - "teachinghistory-website/**"
 
 jobs:
-  hugo-build-release-deploy:
-    uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
+  build-release:
+    uses: chnm/.github/.github/workflows/hugo--build-release.yml@main
     secrets: inherit
     with:
       container-registry: "ghcr.io"
@@ -23,5 +23,13 @@ jobs:
       build-artifact-name: "teachinghistory-website"
       release-tag-name-type: "iso"
 
+      website-devl-fqdn: "dev.teachinghistory.org"
+      website-prod-fqdn: "dev.teachinghistory.org"
+
+  deploy:
+    uses: chnm/.github/.github/workflows/docker--deploy.yml@main
+    needs: [build-release]
+    secrets: inherit
+    with:
       website-devl-fqdn: "dev.teachinghistory.org"
       website-prod-fqdn: "dev.teachinghistory.org"
