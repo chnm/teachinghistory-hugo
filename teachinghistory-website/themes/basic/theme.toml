@@ -1,0 +1,4 @@
+name = "Basic"
+license = "MIT"
+description = "Minimal theme for TeachingHistory"
+min_version = "0.100.0"

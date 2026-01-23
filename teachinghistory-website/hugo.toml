@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dev.teachinghistory.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'TeachingHistory.org'
+theme = 'basic'
+
+[params]
+  description = 'TeachingHistory.org - Resources for History Educators'

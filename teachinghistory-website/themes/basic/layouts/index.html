@@ -1,0 +1,18 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<h1>{{ .Site.Title }}</h1>
+<p>Welcome to TeachingHistory.org</p>
+
+<h2>Recent Content</h2>
+<ul>
+    {{ range first 10 .Site.RegularPages }}
+    <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ if .Date }}
+        - <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        {{ end }}
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
