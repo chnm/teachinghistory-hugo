@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshops-and-Lectures on Teaching History</title>
+    <link>http://localhost:1313/workshops-and-lectures/</link>
+    <description>Recent content in Workshops-and-Lectures on Teaching History</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Dec 2017 08:43:31 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/workshops-and-lectures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Iconography of Slavery</title>
+      <link>http://localhost:1313/workshops-and-lectures/the-iconography-of-slavery-23902/</link>
+      <pubDate>Fri, 19 Mar 2010 18:11:52 +0000</pubDate>
+      <guid>http://localhost:1313/workshops-and-lectures/the-iconography-of-slavery-23902/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

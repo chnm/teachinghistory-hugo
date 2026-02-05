@@ -1,0 +1,33 @@
+---
+title: Historical Thinking Interactive Poster!
+date: '2012-07-31T16:16:18'
+lastmod: '2017-10-06T15:21:32'
+type: blog
+draft: false
+drupal_nid: 25688
+url: /nhec-blog/25688
+---
+
+So how do we top the popularity of our historical thinking poster? We make a good thing even better! Check out *Teachinghistory.org’s* interactive version of the historical thinking poster for the 2012–2013 school year!
+Just like the original poster, we created a version specifically for [elementary](http://teachinghistory.org/historical-thinking-poster-1) classrooms and another for [secondary](http://teachinghistory.org/historical-thinking-poster-2) grade use.
+
+## What will you find?
+
+With links to lessons, primary sources, teaching ideas and more, the interactive poster helps guide you to great resources found on *Teachinghistory.org*, such as:
+
+* A [quiz](http://teachinghistory.org/history-content/quiz/25072) to test your knowledge of primary and secondary sources
+* A [video](http://teachinghistory.org/historical-thinking-intro) on “What is Historical Thinking?”
+* Lesson plans focused on key elements of historical thinking
+* Ideas for teaching with text, photographs, art, maps, objects, and more
+
+## How can you use it?
+
+Here are a few ideas to get you started:
+
+* Project the poster up on your smartboard and use it to introduce the concept of historical thinking
+* Select a different teaching resource from the poster each week to reinforce a particular historical thinking skill
+* Use the source information to model how to cite sources from the web
+
+## Want more?
+
+Be sure to check out Teachinghistory.org’s interactive Civil War [poster](http://teachinghistory.org/civil-war) filled with teaching resources related to the primary sources depicted!

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>History on Teaching History</title>
+    <link>http://localhost:1313/tags/history/</link>
+    <description>Recent content in History on Teaching History</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample Post</title>
+      <link>http://localhost:1313/posts/sample-post/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sample-post/</guid>
+      <description>&lt;p&gt;This is a sample post with metadata. You can use this as a template for your actual content.&lt;/p&gt;&#xA;&lt;h2 id=&#34;metadata-displayed&#34;&gt;Metadata Displayed&lt;/h2&gt;&#xA;&lt;p&gt;This post includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Title&lt;/li&gt;&#xA;&lt;li&gt;Date&lt;/li&gt;&#xA;&lt;li&gt;Categories&lt;/li&gt;&#xA;&lt;li&gt;Tags&lt;/li&gt;&#xA;&lt;li&gt;Author&lt;/li&gt;&#xA;&lt;li&gt;Description&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+---
+title: Partners
+date: '2008-01-30T15:04:03'
+lastmod: '2012-05-23T16:21:15'
+type: page
+draft: false
+drupal_nid: 14871
+url: /about/partners
+---
+
+Founded in 1994, the [**Roy Rosenzweig Center for History and New Media**](http://chnm.gmu.edu/ "Center for History and New Media") is a leading national digital history center, making active use of the Web for teaching and learning history through more than 60 digital history projects with more than $13 million in external funding. Its sites attract 11 million visitors and 300 million hits each year, including more than a million annual visitors to [History Matters: The US Survey Course on the Web](http://historymatters.gmu.edu) the most trafficked portal on the Web for high school and college U.S. history teachers. CHNM has been nationally recognized for its high-quality resources. Projects produced by CHNM have received the AHA’s James Harvey Robinson Prize four times for their "outstanding contribution to the teaching and learning of history." Equally important, CHNM has substantively participated in Teaching American History grants nationally, serving as a managing partner in six grants.
+
+[**The American Historical Association**](http://www.historians.org/ "American Historical Association") (AHA) is the oldest and largest professional historical organization in the United States, bringing together nearly 5,000 institutions and more than 14,000 individual members, including college and university faculty, public historians, independent scholars, elementary and secondary school teachers, archivists, and librarians. The AHA maintains a network of 100 affiliated societies with a combined membership exceeding 80,000, and has served as the development source of numerous specialized organizations, including the National History Center. AHA’s participation grounds this project in the latest and best historical scholarship, and confers the prestige of that organization onto the entire initiative. The AHA has taken a leading role in shaping history education in the United States since 1898, when its Committee of Seven released an influential report called “The Study of History in Schools.”
+
+[**A founding partner of Teachinghistory.org, the Stanford History Education Group**](http://ed.stanford.edu/faculty-profiles "Stanford University School of Education") was established in 2002 by Sam Wineburg, Professor at Stanford's School of Education and Professor of History (by courtesy), with a focus on history education, becoming the first program to prepare doctoral students as “history educators.” Since 2002, the History Education Group’s various projects have been supported by nearly $2 million in grants from the National Science Foundation, as well as various private foundations (Hewlett, Spencer, Carnegie Corporation,and Wallenberg, among others).

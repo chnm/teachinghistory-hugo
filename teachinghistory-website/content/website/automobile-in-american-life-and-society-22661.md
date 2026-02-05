@@ -1,0 +1,10 @@
+---
+title: Automobile in American Life and Society
+date: '2009-09-08T14:27:27'
+lastmod: '2017-12-01T14:53:33'
+type: website
+draft: false
+drupal_nid: 22661
+url: /history-content/website-reviews/22661
+---
+

@@ -1,0 +1,162 @@
+---
+title: 'Texas: 6th-Grade Standards'
+date: '2009-02-08T20:16:17'
+lastmod: '2017-12-01T14:23:42'
+type: teaching_standard
+draft: false
+drupal_nid: 21468
+---
+
+## §113.18. Social Studies, Grade 6, Beginning with School Year 2011-2012.
+
+### Introduction
+
+1. In Grade 6, students study people, places, and societies of the contemporary world. Societies for study are from the following regions of the world: Europe, Russia and the Eurasian republics, North America, Central America and the Caribbean, South America, Southwest Asia-North Africa, Sub-Saharan Africa, South Asia, East Asia, Southeast Asia, Australia, and the Pacific realm. Students describe the influence of individuals and groups on historical and contemporary events in those societies and identify the locations and geographic characteristics of various societies. Students identify different ways of organizing economic and governmental systems. The concepts of limited and unlimited government are introduced, and students describe the nature of citizenship in various societies. Students compare institutions common to all societies such as government, education, and religious institutions. Students explain how the level of technology affects the development of the various societies and identify different points of view about events. The concept of frame of reference is introduced as an influence on an individual's point of view.
+2. To support the teaching of the essential knowledge and skills, the use of a variety of rich primary and secondary source material such as biographies, autobiographies, novels, speeches, letters, poetry, songs, and artworks is encouraged. Motivating resources are available from museums, art galleries, and historical sites.
+3. The eight strands of the essential knowledge and skills for social studies are intended to be integrated for instructional purposes. Skills listed in the social studies skills strand in subsection (b) of this section should be incorporated into the teaching of all essential knowledge and skills for social studies. A greater depth of understanding of complex content material can be attained when integrated social studies content from the various disciplines and critical-thinking skills are taught together. Statements that contain the word "including" reference content that must be mastered, while those containing the phrase "such as" are intended as possible illustrative examples.
+4. Students identify the role of the U.S. free enterprise system within the parameters of this course and understand that this system may also be referenced as capitalism or the free market system.
+5. Throughout social studies in Kindergarten-Grade 12, students build a foundation in history; geography; economics; government; citizenship; culture; science, technology, and society; and social studies skills. The content, as appropriate for the grade level or course, enables students to understand the importance of patriotism, function in a free enterprise society, and appreciate the basic democratic values of our state and nation as referenced in the Texas Education Code (TEC), §28.002(h).
+6. Students understand that a constitutional republic is a representative form of government whose representatives derive their authority from the consent of the governed, serve for an established tenure, and are sworn to uphold the constitution.
+7. State and federal laws mandate a variety of celebrations and observances, including Celebrate Freedom Week.
+
+* a. Each social studies class shall include, during Celebrate Freedom Week as provided under the TEC, §29.907, or during another full school week as determined by the board of trustees of a school district, appropriate instruction concerning the intent, meaning, and importance of the Declaration of Independence and the U.S. Constitution, including the Bill of Rights, in their historical contexts. The study of the Declaration of Independence must include the study of the relationship of the ideas expressed in that document to subsequent American history, including the relationship of its ideas to the rich diversity of our people as a nation of immigrants, the American Revolution, the formulation of the U.S. Constitution, and the abolitionist movement, which led to the Emancipation Proclamation and the women's suffrage movement.
+* b. Each school district shall require that, during Celebrate Freedom Week or other week of instruction prescribed under subparagraph (A) of this paragraph, students in Grades 3-12 study and recite the following text: "We hold these Truths to be self-evident, that all Men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the Pursuit of Happiness--That to secure these Rights, Governments are instituted among Men, deriving their just Powers from the Consent of the Governed."
+
+8. Students identify and discuss how the actions of U.S. citizens and the local, state, and federal governments have either met or failed to meet the ideals espoused in the founding documents.
+
+### Knowledge and skills
+
+1. History:
+   **The student understands that historical events influence contemporary events. The student is expected to:**
+   * a. trace characteristics of various contemporary societies in regions that resulted from historical events or factors such as invasion, conquests, colonization, immigration, and trade; and
+   * b. analyze the historical background of various contemporary societies to evaluate relationships between past conflicts and current conditions.
+2. History:
+   **The student understands the influences of individuals and groups from various cultures on various historical and contemporary societies. The student is expected to:**
+   * a. identify and describe the influence of individual or group achievements on various historical or contemporary societies such as the classical Greeks on government and the American Revolution on the French Revolution; and
+   * b. evaluate the social, political, economic, and cultural contributions of individuals and groups from various societies, past and present.
+3. Geography.
+   **The student uses geographic tools to answer geographic questions. The student is expected to:**
+   * a. pose and answer geographic questions, including: Where is it located? Why is it there? What is significant about its location? How is its location related to the location of other people, places, and environments?;
+   * b. pose and answer questions about geographic distributions and patterns for various world regions and countries shown on maps, graphs, charts, models, and databases;
+   * c. compare various world regions and countries using data from geographic tools, including maps, graphs, charts, databases, and models; and
+   * d. create thematic maps, graphs, charts, models, and databases depicting aspects such as population, disease, and economic activities of various world regions and countries.
+4. Geography:
+   **The student understands the factors that influence the locations and characteristics of locations of various contemporary societies on maps and globes and uses latitude and longitude to determine absolute locations. The student is expected to:**
+   * a. locate various contemporary societies on maps and globes using latitude and longitude to determine absolute location;
+   * b. identify and explain the geographic factors responsible for patterns of population in places and regions;
+   * c. explain ways in which human migration influences the character of places and regions;
+   * d. identify and locate major physical and human geographic features such as landforms, water bodies, and urban centers of various places and regions;
+   * e. draw sketch maps that illustrate various places and regions; and
+   * f. identify the location of major world countries such as Canada, Mexico, France, Germany, the United Kingdom, Italy, Spain, Norway, Sweden, Russia, South Africa, Nigeria, Iraq, Afghanistan, Israel, Iran, India, Pakistan, the People's Republic of China, the Republic of China (Taiwan), Japan, North and South Korea, Indonesia, and Australia.
+5. Geography:
+   **The student understands how geographic factors influence the economic development, political relationships, and policies of societies. The student is expected to:**
+   * a. identify and explain the geographic factors responsible for the location of economic activities in places and regions;
+   * b. identify geographic factors such as location, physical features, transportation corridors and barriers, and distribution of natural resources that influence a society's ability to control territory; and
+   * c. explain the impact of geographic factors on economic development and the domestic and foreign policies of societies.
+6. Geography:
+   **The student understands that geographical patterns result from physical environmental processes. The student is expected to:**
+   * a. describe and explain the effects of physical environmental processes such as erosion, ocean currents, and earthquakes on Earth's surface;
+   * b. identify the location of renewable and nonrenewable natural resources such as fresh water, fossil fuels, fertile soils, and timber; and
+   * c. analyze the effects of the interaction of physical processes and the environment on humans.
+7. Geography:
+   **The student understands the impact of interactions between people and the physical environment on the development and conditions of places and regions. The student is expected to:**
+   * a. identify and analyze ways people have adapted to the physical environment in various places and regions;
+   * b. identify and analyze ways people have modified the physical environment such as mining, irrigation, and transportation infrastructure; and
+   * c. describe ways in which technology influences human interactions with the environment such as humans building dams for flood control.
+8. Economics:
+   **The student understands the factors of production in a society's economy. The student is expected to:**
+   * a. describe ways in which the factors of production (natural resources, labor, capital, and entrepreneurs) influence the economies of various contemporary societies;
+   * b. identify problems and issues that may arise when one or more of the factors of production is in relatively short supply; and
+   * c. explain the impact of relative scarcity of resources on international trade and economic interdependence among and within societies.
+9. Economics:
+   **The student understands the various ways in which people organize economic systems. The student is expected to:**
+   * a. compare ways in which various societies organize the production and distribution of goods and services;
+   * b. compare and contrast free enterprise, socialist, and communist economies in various contemporary societies, including the benefits of the U.S. free enterprise system;
+   * b. understand the importance of morality and ethics in maintaining a functional free enterprise system; and
+   * b. examine the record of collective, non-free market economic systems in contemporary world societies.
+10. Economics:
+    **The student understands the various ways in which people organize economic systems. The student is expected to:**
+    * a. compare ways in which various societies organize the production and distribution of goods and services;
+    * b. compare and contrast free enterprise, socialist, and communist economies in various contemporary societies, including the benefits of the U.S. free enterprise system;
+    * c. understand the importance of morality and ethics in maintaining a functional free enterprise system; and
+    * d. examine the record of collective, non-free market economic systems in contemporary world societies.
+11. Economics:
+    **The student understands categories of economic activities and the data used to measure a society's economic level. The student is expected to:**
+    * a. define and give examples of agricultural, wholesale, retail, manufacturing (goods), and service industries;
+    * b. describe levels of economic development of various societies using indicators such as life expectancy, gross domestic product (GDP), GDP per capita, and literacy; and
+    * c. identify and describe the effects of government regulation and taxation on economic development and business planning.
+12. Government:
+    **The student understands the concepts of limited and unlimited governments. The student is expected to:**
+    * a. identify and describe examples of limited and unlimited governments such as constitutional (limited) and totalitarian (unlimited);
+    * b. compare the characteristics of limited and unlimited governments;
+    * c. identify reasons for limiting the power of government; and
+    * d. review the record of human rights abuses of limited or unlimited governments such as the oppression of Christians in Sudan.
+13. Government:
+    **The student understands various ways in which people organize governments. The student is expected to:**
+    * a. identify and give examples of governments with rule by one, few, or many;
+    * b. compare ways in which various societies such as China, Germany, India, and Russia organize government and how they function; and
+    * c. identify historical origins of democratic forms of government such as Ancient Greece.
+14. Citizenship:
+     **The student understands that the nature of citizenship varies among societies. The student is expected to:**
+    * a. describe roles and responsibilities of citizens in various contemporary societies, including the United States;
+    * b. explain how opportunities for citizens to participate in and influence the political process vary among various contemporary societies; and
+    * c. compare the role of citizens in the United States with the role of citizens from various contemporary societies with representative and nonrepresentative governments.
+15. Citizenship:
+     **The student understands the relationship among individual rights, responsibilities, duties, and freedoms in societies with representative governments. The student is expected to:**
+    * a. identify and explain the duty of civic participation in societies with representative governments; and
+    * b. explain relationships among rights, responsibilities, and duties in societies with representative governments.
+16. Culture:
+     **The student understands the similarities and differences within and among cultures in various world societies. The student is expected to:**
+    * a. define culture and the common traits that unify a culture region;
+    * b. identify and describe common traits that define cultures;
+    * c. define a multicultural society and consider both the positive and negative qualities of multiculturalism;
+    * d. analyze the experiences and evaluate the contributions of diverse groups to multicultural societies;
+    * e. analyze the similarities and differences among various world societies; and
+    * f. identify and explain examples of conflict and cooperation between and among cultures.
+17. Culture:
+     **The student understands that all societies have basic institutions in common even though the characteristics of these institutions may differ. The student is expected to:**
+    * a. identify institutions basic to all societies, including government, economic, educational, and religious institutions;
+    * b. compare characteristics of institutions in various contemporary societies; and
+    * c. analyze the efforts and activities institutions use to sustain themselves over time such as the development of an informed citizenry through education and the use of monumental architecture by religious institutions.
+18. Culture:
+     **The student understands relationships that exist among world cultures. The student is expected to:**
+    * a. identify and describe how culture traits such as trade, travel, and war spread;
+    * b. identify and describe factors that influence cultural change such as improved communication, transportation, and economic development;
+    * c. evaluate the impact of improved communication technology among cultures;
+    * d. identify and define the impact of cultural diffusion on individuals and world societies; and
+    * e. identify examples of positive and negative effects of cultural diffusion.
+19. Culture:
+     **The student understands the relationship that exists between the arts and the societies in which they are produced. The student is expected to:**
+    * a. explain the relationships that exist between societies and their architecture, art, music, and literature;
+    * b. relate ways in which contemporary expressions of culture have been influenced by the past;
+    * c. describe ways in which contemporary issues influence creative expressions; and
+    * d. identify examples of art, music, and literature that have transcended the boundaries of societies and convey universal themes such as religion, justice, and the passage of time.
+20. Culture:
+     **The student understands the relationships among religion, philosophy, and culture. The student is expected to:**
+    * a. explain the relationship among religious ideas, philosophical ideas, and cultures; and
+    * b. explain the significance of religious holidays and observances such as Christmas, Easter, Ramadan, the annual hajj, Yom Kippur, Rosh Hashanah, Diwali, and Vaisakhi in various contemporary societies.
+21. Science, technology, and society:
+    **The student understands the influences of science and technology on contemporary societies. The student is expected to:**
+    * a. give examples of scientific discoveries and technological innovations, including the roles of scientists and inventors, that have transcended the boundaries of societies and have shaped the world;
+    * b. explain how resources, belief systems, economic factors, and political decisions have affected the use of technology; and
+    * c. make predictions about future social, political, economic, cultural, and environmental impacts that may result from future scientific discoveries and technological innovations.
+22. Social studies skills:
+     **The student applies critical-thinking skills to organize and use information acquired through established research methodologies from a variety of valid sources, including electronic technology. The student is expected to:**
+    * a. differentiate between, locate, and use valid primary and secondary sources such as computer software; interviews; biographies; oral, print, and visual material; and artifacts to acquire information about various world cultures;
+    * b. analyze information by sequencing, categorizing, identifying cause-and-effect relationships, comparing, contrasting, finding the main idea, summarizing, making generalizations and predictions, and drawing inferences and conclusions;
+    * c. organize and interpret information from outlines, reports, databases, and visuals, including graphs, charts, timelines, and maps;
+    * d. identify different points of view about an issue or current topic;
+    * e. identify the elements of frame of reference that influenced participants in an event; and
+    * f. use appropriate mathematical skills to interpret social studies information such as maps and graphs.
+23. Social studies skills:
+     **The student communicates in written, oral, and visual forms. The student is expected to:**
+    * a. use social studies terminology correctly;
+    * b. incorporate main and supporting ideas in verbal and written communication based on research;
+    * c. express ideas orally based on research and experiences;
+    * d. create written and visual material such as journal entries, reports, graphic organizers, outlines, and bibliographies based on research;
+    * e. use standard grammar, spelling, sentence structure, and punctuation; and
+    * f. use proper citations to avoid plagiarism.
+24. Social studies skills:
+     **The student uses problem-solving and decision-making skills, working independently and with others, in a variety of settings. The student is expected to:**
+    * a. use a problem-solving process to identify a problem, gather information, list and consider options, consider advantages and disadvantages, choose and implement a solution, and evaluate the effectiveness of the solution; and
+    * b. use a decision-making process to identify a situation that requires a decision, gather information, identify options, predict consequences, and take action to implement a decision.

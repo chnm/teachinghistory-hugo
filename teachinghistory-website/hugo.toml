@@ -1,7 +1,28 @@
 baseURL = 'https://dev.teachinghistory.org/'
 languageCode = 'en-us'
 title = 'TeachingHistory.org'
-theme = 'basic'
+theme = 'ananke'
 
 [params]
   description = 'TeachingHistory.org - Resources for History Educators'
+
+# Preserve all Drupal metadata
+[frontmatter]
+  date = ['date', 'publishDate', 'lastmod']
+  lastmod = ['lastmod', ':git', 'date', 'publishDate']
+
+[params]
+  description = "Teaching History content verification"
+  show_reading_time = true
+  recent_posts_number = 10
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 10

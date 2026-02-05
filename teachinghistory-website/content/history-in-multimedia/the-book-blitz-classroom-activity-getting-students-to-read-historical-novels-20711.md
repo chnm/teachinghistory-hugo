@@ -1,0 +1,9 @@
+---
+title: 'The Book Blitz Classroom Activity: Getting Students to Read Historical Novels'
+date: '2009-01-26T13:04:33'
+lastmod: '2017-12-01T13:36:59'
+type: history_in_multimedia
+draft: false
+drupal_nid: 20711
+---
+

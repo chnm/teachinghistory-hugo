@@ -1,0 +1,41 @@
+---
+title: Historical Evidence in the Material World
+date: '2008-09-22T11:41:14'
+lastmod: '2017-10-06T15:21:32'
+type: lessons_learned
+draft: false
+drupal_nid: 19827
+---
+
+On more than one occasion, teachers participating in our Teaching American History (TAH) project have speculated that one reason their middle school students often have trouble understanding historical texts may be because they have not yet developed the ability to imagine the past. Because they are young their experience is limited and many have yet to discover museums, historic houses, or other places of historical interest. In addition, the historical past is not immediately evident on the surface in New York City, where it is often difficult to see through the many layers of changes in the landscape and the built environment.
+> . . . one reason their middle school students often have trouble understanding historical texts may be because they have not yet developed the ability to imagine the past.
+
+As a museum educator, I have been encouraging teachers to bring the tools of art history and material culture studies to their classrooms by presenting works of art and architecture, photographs, and historical artifacts to students. In this way, the definition of the primary source is expanded beyond the written word to include the visual and the tactile; the historical source material available for consideration and evaluation is greatly increased; and students are offered the possibility of a sensory as well as intellectual encounter with the past.
+In periodic visits to art museums, historical collections, and historic houses in New York City, as well as in a series of after-school workshops, our group of middle school teachers has explored a range of art and artifacts with an eye toward conducting similar explorations with their students. Teachers are learning a process of investigation that involves observation, deduction, speculation, and interpretive analysis to uncover the meaning of art and objects.
+The technique, standard in museum education, is simple and direct: It asks students (or anyone seriously approaching a work of art) to begin by describing the object, to analyze its structure, to consider the circumstance of its creation, and only then to propose an interpretation of the meaning of the piece.
+> . . . students are offered the possibility of a sensory as well as intellectual encounter with the past.
+
+## Exploring Art and Artifacts
+
+Here are the basic guidelines for exploring a work of art or artifact of culture:
+> 1. Sensory experience is at the heart of our interaction with works of art or artifacts of culture. Observe the piece for at least one full minute—this is surprisingly long for many students.
+> 2. Take note of your first response. Aesthetic response is personal and often emotional. It deserves our attention. Here students can register their reaction and then set emotion and opinion aside.
+> 3. Describe the work. Make note of the obvious in neutral language, e.g. "seated female figure in green dress, landscape background . . ." This constructs a visual/verbal inventory that serves to focus our viewing. It is especially important in conversational settings with students because we cannot assume that we all see the same things. Articulating the description brings everyone to a kind of consensus about what is being looked at.
+> > Articulating the description brings everyone to a kind of consensus about what is being looked at.
+>
+> 4. The formal elements of a work of art or artifact of culture constitute the language by which it communicates. Analyze the piece by examining the use of line, shape, color, form, composition, format, medium, etc.
+> 5. Consider the context where the work would originally have been seen; the purpose it might have served; the physical condition in which the work has survived; when, where, and by whom the piece was made; and the title. All of these conditions contribute to the meaning of an object.
+> 6. Make historical connections. How does the piece connect with the broader historical context? Young students exercise their chronological thinking here to contextualize the piece at hand. Recalling contemporaneous events and issues, students consider how the object relates to the larger historical picture. Steps five and six often require additional research outside the object itself.
+> 7. Reevaluate your response. Has it changed? Has it become more nuanced? Is it possible to appreciate the work on multiple levels (intellectual, emotional, historical)? Close reading of objects deepens our understanding of the historical past and teaches us to consider the evidence before forming opinions.
+
+This process has been developed primarily for group conversations, the principal mode of teaching in the museum context. In the classroom or on a self-guided museum visit, teachers may have their students work individually or in small groups to create a written record of their investigations. This allows the students to choose the object of their investigations, either from the museum collection, a museum's online resource, or a collection of photographs or reproductions.
+Whether in the classroom or the museum, requiring students, even reluctant artists, to draw their chosen object serves to slow down their observation process and forces them to notice all the aspects of the piece from overall structure to fine details. In this way, they are firmly grounded in the actuality of the object before advancing speculation about its function, meaning, or historical significance.
+
+## Enjoying the Past
+
+When conducted in a disciplined yet free-flowing and open-ended fashion in the hands of an experienced teacher, this type of engagement with art and artifacts empowers students to enjoy the materiality of the past, develop their powers of reasoning, make critical historical connections, and furnish their historical imaginations. It encourages students to propose possible alternative meanings and to develop the ability to hold multiple, sometimes contradictory interpretations simultaneously. This method provides authentic contact with art and artifacts and teaches close reading of objects, thereby engaging students in the type of work historians do on a daily basis.
+At the very least, aesthetic experience can spark excitement and curiosity in students. Many times, teachers have remarked to me that a particular student who is not normally engaged in the classroom was very responsive to a work of art or more generally to the excitement of a museum visit.
+> . . . a particular student who is not normally engaged in the classroom was very responsive to a work of art. . .
+
+A few years ago, I had an experience that forever convinced me of the value of this work. I was working with a group of 4th-grade students in a series of classroom visits in which we had looked at, considered, and discussed a variety of works in the collection of the Metropolitan Museum of Art. With the goals of sparking their curiosity, introducing the idea of connections between art, history, and culture and developing their critical-thinking skills, we looked at projected images of art and artifacts from Ancient Egypt, colonial America, and the modern period.
+On a class visit to the museum, students were eager to encounter the real thing in person. As we made our way to our destination, Romare Bearden's six-panel collage entitled *The Block,* I could feel the excitement mounting. As the children seated themselves in front of the work on the floor there were murmurings of recognition among the students who remembered seeing photographs of the piece in their classroom. As I was about to invite the students to look quietly at the work, 10-year-old Leticia, who was normally very quiet in class, raised her hand impatiently, bursting to say what was on her mind. "I think art is about ideas," she said. "It's about the ideas the artist has—and those can change. And it's about the ideas we have when we look at it." This is precisely the lesson I wish to share with my TAH teachers and their students.
