@@ -1,0 +1,65 @@
+{{ define "main" }}
+<main class="pa3 pa4-l mw8 center">
+  <header class="mb4">
+    <h1 class="f2 lh-title mb2">{{ .Title }}</h1>
+    <p class="f5 lh-copy gray">
+      <strong>Section:</strong> {{ .Section }} |
+      <strong>Total Items:</strong> {{ len .Pages }}
+    </p>
+    {{ with .Content }}
+      <div class="f5 lh-copy mt3">
+        {{ . }}
+      </div>
+    {{ end }}
+  </header>
+
+  <section class="mt4">
+    <h2 class="f4 mb3">Items in this section</h2>
+
+    {{ range .Pages.ByDate.Reverse }}
+      <article class="bb b--black-10 pb3 mb3">
+        <h3 class="f4 mb2">
+          <a href="{{ .Permalink }}" class="link blue hover-dark-blue">
+            {{ .Title }}
+          </a>
+        </h3>
+
+        <div class="f6 gray mb2">
+          {{ with .Params.date }}
+            <span class="mr3"><strong>Date:</strong> {{ dateFormat "2006-01-02" . }}</span>
+          {{ end }}
+          {{ with .Params.type }}
+            <span class="mr3"><strong>Type:</strong> {{ . }}</span>
+          {{ end }}
+          {{ with .Params.drupal_nid }}
+            <span class="mr3"><strong>Drupal NID:</strong> {{ . }}</span>
+          {{ end }}
+          {{ with .Params.lastmod }}
+            <span class="mr3"><strong>Last Modified:</strong> {{ dateFormat "2006-01-02" . }}</span>
+          {{ end }}
+        </div>
+
+        {{ with .Params.question }}
+          <div class="f6 mb2">
+            <strong>Question:</strong> {{ . }}
+          </div>
+        {{ end }}
+
+        {{ with .Params.summary }}
+          <div class="f6 lh-copy gray">
+            <strong>Summary:</strong> {{ . | truncate 200 }}
+          </div>
+        {{ end }}
+
+        {{ if not .Params.summary }}
+          {{ with .Summary }}
+            <div class="f6 lh-copy gray">
+              {{ . }}
+            </div>
+          {{ end }}
+        {{ end }}
+      </article>
+    {{ end }}
+  </section>
+</main>
+{{ end }}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annual-Reports on Teaching History</title>
+    <link>http://localhost:1313/annual-report/</link>
+    <description>Recent content in Annual-Reports on Teaching History</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jan 2012 13:25:13 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/annual-report/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Report on the State of History Education</title>
+      <link>http://localhost:1313/annual-report/report-on-the-state-of-history-education-23470/</link>
+      <pubDate>Fri, 30 Oct 2009 11:44:42 +0000</pubDate>
+      <guid>http://localhost:1313/annual-report/report-on-the-state-of-history-education-23470/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://teachinghistory.org/system/files/teachinghistory_special_report_2011.pdf&#34;&gt;&lt;img src=&#34;http://teachinghistory.org/files/image-STAR2011.jpg&#34; alt=&#34;A report on the state of history education&#34; title=&#34;The State of History Education&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Updated in Fall 2011 to include world history requirements and assessments, this revised &lt;em&gt;Report on the State of History Education&lt;/em&gt; describes changes in state policies regarding history standards, assessments, and requirements for initial teacher licensure between August 2008 and September 2010.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

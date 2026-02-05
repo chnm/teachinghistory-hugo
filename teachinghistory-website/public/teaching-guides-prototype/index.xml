@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching-Guides-Prototypes on Teaching History</title>
+    <link>http://localhost:1313/teaching-guides-prototype/</link>
+    <description>Recent content in Teaching-Guides-Prototypes on Teaching History</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2017 15:39:10 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/teaching-guides-prototype/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching with Historical Film Clips</title>
+      <link>http://localhost:1313/teaching-guides-prototype/teaching-with-historical-film-clips-24299/</link>
+      <pubDate>Wed, 20 Oct 2010 11:56:01 +0000</pubDate>
+      <guid>http://localhost:1313/teaching-guides-prototype/teaching-with-historical-film-clips-24299/</guid>
+      <description>This guide explains an approach for teaching with historical film clips that meets two purposes: teaching students that film needs to be questioned just like other historical accounts, and deepening students&amp;rsquo; historical understanding of particular topics.</description>
+    </item>
+  </channel>
+</rss>

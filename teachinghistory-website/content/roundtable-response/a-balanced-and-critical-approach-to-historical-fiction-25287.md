@@ -1,0 +1,23 @@
+---
+title: A Balanced and Critical Approach to Historical Fiction
+date: '2011-11-01T13:07:54'
+lastmod: '2017-10-06T15:21:32'
+type: roundtable_response
+draft: false
+drupal_nid: 25287
+---
+
+Students usually enjoy reading historical fiction, certainly more than they enjoy reading textbooks. This is partly because they are exposed to stories from their earliest encounters with picture books and cartoons. As a result, when students read historical fiction they are already expecting characters, a setting, and a problem to be resolved. They can be especially captivated by stories that give them the chance to imagine taking part in the events of the past, or to explore how people responded to dramatic circumstances such as those involving fear, discrimination, or tragedy.
+> Precisely because historical stories can be so powerful, students are not usually critical of them.
+
+Historical fiction also encourages a search for meaning in the past. A story is not a random list of events; it’s a narrative that has a coherent plot and some kind of resolution. When students read historical fiction, then, they are encouraged not to think of the past as just one thing after another but to look for patterns and sequences, for causes and consequences, for agents and their motivations. This is an important part of historical understanding.
+But this quest for meaning is also potentially a drawback, because the past itself does not have shape or coherence. The past is just a countless collection of people, places, and happenings, which we turn into history when we impose order onto it. Others might find different patterns or meanings. But when students read historical fiction, it is easy for them to become convinced that they know “what really happened” and not to look for alternative explanations or viewpoints. Precisely because historical stories can be so powerful, students are not usually critical of them.
+> Teachers need to call students’ attention to how societal contexts influenced the characters they read about.
+
+Another drawback to historical fiction derives from its emphasis on individuals rather than on abstract entities such as governments or the economy. This can feed into students’ tendency to explain history in terms of individuals and to ignore broader social contexts. Students often think of the civil rights movement, for example, as a time when a famous leader such as Martin Luther King, Jr. gave a speech that changed the attitudes of white Americans. They are less likely to see that the movement involved long-term, collective efforts to bring about changes in laws and institutional structures. The individualistic focus of historical fiction can reinforce rather than counter this tendency.
+To capitalize on the potential of historical fiction while overcoming its drawbacks, teachers need to make sure that students have a chance to extend their encounters in particular ways. First, teachers need to call students’ attention to how societal contexts influenced the characters they read about. They need to help students understand what social, political, or economic forces enabled or constrained the choices these characters made, as well as the ways in which characters may have banded together with others to solve the problems they faced.
+Teachers also should focus students’ attention on the diversity of people and events in the past. For any period of time, students need to be aware of the experiences of multiple groups of people, and of how different stories could be told about them. Students should always be reminded to consider questions such as “Whose story is this?” and “What other stories were going on at this time?”
+> Perhaps most importantly, students need to be aware that all historical accounts are created by authors.
+
+And perhaps most importantly, students need to be aware that all historical accounts are created by authors. They should explore why authors have focused on particular people or events, as well as consider the consequences of those choices. Students should examine the alternatives open to authors and the ways they might have approached their subject differently. This can be particularly meaningful when students have the chance to draw upon original historical sources to create their own accounts of the same time periods.
+Historical fiction can be highly motivating and can encourage a search for meaning, but teachers have to counter the tendency of good stories to seduce students into uncritically accepting what they read.

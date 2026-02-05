@@ -1,3 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Teaching History'
+theme = 'ananke'
+
+# Preserve all Drupal metadata
+[frontmatter]
+  date = ['date', 'publishDate', 'lastmod']
+  lastmod = ['lastmod', ':git', 'date', 'publishDate']
+
+[params]
+  description = "Teaching History content verification"
+  show_reading_time = true
+  recent_posts_number = 10
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 10

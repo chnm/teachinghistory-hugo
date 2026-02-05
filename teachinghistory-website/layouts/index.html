@@ -1,0 +1,47 @@
+{{ define "main" }}
+<main class="pa3 pa4-l mw8 center">
+  <h1 class="f2 lh-title mb3">{{ .Title }}</h1>
+
+  <div class="f5 lh-copy mb4">
+    {{ .Content }}
+  </div>
+
+  <section class="mt4">
+    <h2 class="f3 mb3">Content Sections</h2>
+    <p class="f5 lh-copy mb3">This site contains content exported from the Drupal database. Below are all content sections with item counts:</p>
+
+    <div class="measure-wide">
+      {{ $sections := .Site.Sections }}
+      {{ $totalPages := 0 }}
+
+      <table class="f6 w-100 mb4" cellspacing="0">
+        <thead>
+          <tr class="bb b--black-20">
+            <th class="tl pb3 pr3">Section</th>
+            <th class="tr pb3 pr3">Item Count</th>
+            <th class="tl pb3">Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{ range $sections.ByTitle }}
+            {{ $count := len .Pages }}
+            {{ $totalPages = add $totalPages $count }}
+            <tr class="bb b--black-10">
+              <td class="pv3 pr3">{{ .Title }}</td>
+              <td class="tr pv3 pr3">{{ $count }}</td>
+              <td class="pv3"><a href="{{ .Permalink }}" class="link blue hover-dark-blue">View →</a></td>
+            </tr>
+          {{ end }}
+        </tbody>
+        <tfoot>
+          <tr class="bt b--black-20">
+            <td class="pv3 pr3 b">Total</td>
+            <td class="tr pv3 pr3 b">{{ $totalPages }}</td>
+            <td class="pv3"></td>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+  </section>
+</main>
+{{ end }}

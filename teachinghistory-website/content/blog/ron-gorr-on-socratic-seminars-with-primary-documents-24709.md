@@ -1,0 +1,43 @@
+---
+title: Ron Gorr on Socratic Seminars with Primary Documents
+date: '2011-05-27T15:02:38'
+lastmod: '2017-12-05T08:46:32'
+type: blog
+draft: false
+drupal_nid: 24709
+url: /nhec-blog/24709
+---
+
+One of my favorite ways to teach is by using Socratic seminars. If done well, an effective Socratic lesson can not only take me (the teacher) off the stage, but invest my students in their own learning by creating an environment of academic discourse, improvisational questioning and answering, critical analysis, and free-flowing exploration of content.
+Of course, for all of these wonderful things to happen, class sizes must be manageable; instructors must design compelling questions that are specific enough to narrow focus, but also broad enough to elicit multiple answers; and, most importantly, students must bring a competent level of prior knowledge to the seminar so they can intelligently participate in the discussions. Over the years, I have found that prior knowledge is the biggest challenge in conducting an effective Socratic seminar. How do I get the kids to connect with the material before I ask them to discuss it?
+Traditionally, I provide prior knowledge through brief lectures, homework assignments, and readings in the text. This year, I added primary sources to student preparation and I saw a dramatic difference in how my students connected with the material. Here is how I set up the lesson for two separate Socratic seminars; the first was on slavery and the second was on the 1920s.
+
+## Socratic Seminar #1: Slavery
+
+I chose the slavery unit for my first Socratic seminar of the year because every student knows what slavery is and brings with them a basic understanding of the topic and its place in American history. My hope was that this prior knowledge would allow a certain degree of comfort and thus more participation by the students.
+In order to make sure all of my students had a similar grasp of the topic, I asked the students to read the chapter on slavery in our text and identify the most significant points and ideas (I used a reading guide to do this). Secondly, I assigned each student a primary source from David Kennedy and Thomas Bailey’s collection of primary sources called *The American Spirit*. Each student was asked to read his or her document and connect it to the material from their textbook. Both of these assignments were due on the day of the Socratic seminar.
+> The depth of discussion improved and students were excited to incorporate their documents into the course of discussion because they had become personally tied to them.
+
+On the day of the seminar, I started the class by having each person quickly introduce their primary source and tell the class how it applied to the content from this chapter. (We have 90-minute block periods, so we were able to fit all of this into one day. You may want to break it up if your classes are shorter.) Each student was allowed 30 seconds to a minute to present their material and upon starting the seminar, I asked each student to incorporate their source into the free-flowing discussion. In essence, this forced participation while also allowing each student the freedom to chime in whenever they felt comfortable.
+I found that by using this method, the focus of the seminar became grounded in primary resources and not just the secondary material that the text provided. I found that the depth of discussion improved and students were excited to incorporate their documents into the course of discussion because they had become personally tied to them. More students actively participated, the discussions were rooted in facts and not conjecture, and for the most part, the students really seemed to enjoy the process.
+One more note: The documents dealing with slavery elicited a powerful reaction from my students. Content areas like slavery, the Great Depression, and World War II can offer a treasure trove of primary sources that will engage students in this process. The sources related to these topics are often easy to connect to and allow students to invest personally in each document.
+
+## Socratic Seminar #2: The 1920s
+
+For years, I found myself struggling to communicate to my students the depth and vibrancy of the post-World War I period. From the intolerance of the KKK, the Red Scare, and the Sacco-Vanzetti case to the cultural revolutions involving flappers, the Harlem Renaissance, and the Lost Generation writers, to the long-ranging ramifications of the automobile, the radio, and the advertising boom, I struggled to develop a focused timeline or lesson that connected these diverse topics in a coherent manner.
+By using a Socratic seminar, I found that I didn't have to worry about connecting the topics—the kids did it for themselves! This might sound like a cop-out, and to some degree it was, but what I found was that by letting the students dictate the direction of the discussions after they completed a search for and chose a relevant primary source, it became more clear to all of us how many of these seemingly unrelated topics combined to tell a more complete story of the 1920s. Here's how I did it.
+> By letting the students dictate the direction of the discussions . . . it became more clear to all of us how many of these seemingly unrelated topics combined to tell a more complete story of the 1920s.
+
+Prior to the seminar, I gave each student two assignments. The first was a chapter-wide review that touched on most of the items any teacher might want a student to get from this period. Second, I assigned each of the students one of the major topics from the period (examples of these included the Sacco Vanzetti Case, the Red Scare, flappers, Al Capone, Prohibition, the Scopes Monkey trial, the 19th Amendment, the Advertising Boom, and many more—see "For More Information" below for the complete list.) I asked them to research their topic more deeply and be prepared to share what they discovered. In addition, they were to find an applicable primary source directly connected to their assigned topic. This would also have to be presented. I recommended numerous research sites, but I always try to steer them to Teachinghistory.org.
+When the students came to class on the day of the seminar, they presented their topics and primary sources in the same fashion as they did for the slavery seminar, and when they were done, we started the seminar.
+After about 15–20 minutes of discussion (or when things stagnated), I asked all of the students to look at their topic cards. Each card had a number (1–10) on it that was associated with a theme or idea that I wanted the students to understand. I asked all of the students to find other students with the same number on their cards and sit together. (We all know how physical movement can positively affect a classroom environment. I found that doing it during a free-flowing Socratic seminar can help refocus the group and entice some of the quieter kids to start speaking up.)
+Once in their groups, I asked each person to quickly remind each member of their topic and then, AS A GROUP, deduce the common theme that brought them together. They presented this finding to the class and proceeded with the seminar by focusing on some of the new themes discovered.
+After about 15–20 minutes, I followed the same process, but this time, I combined multiple groups with common themes and then asked each to figure out what brought them all together. We presented the new findings and then spent the remainder of class wrapping up the seminar.
+By combining primary sources and student critical thinking we were able to come to a much deeper and multi-tiered understanding of the 1920s. There was a stark difference between the superficial chronology that I had used in the past and this dynamic interaction that forced students to make connections and inferences about the diverse topics presented to them by the Roaring Twenties.
+
+## Powerful Tools for Historical Understanding
+
+In both of these lessons, the use of primary sources allowed me to enrich the content areas and connect students to actual events, people, and time periods. As historians, I think it is our responsibility to incorporate these powerful tools into the fantastic lessons that we are already doing. Hopefully, this article will inspire another day of greatness in your classroom. And if it does, please share it with me!
+Ron Gorr
+Air Academy High School
+ronald.gorr at asd20.org

@@ -1,0 +1,27 @@
+---
+title: What to Do When You Teach It All
+date: '2008-02-08T18:12:10'
+lastmod: '2017-10-06T15:21:32'
+type: lessons_learned
+draft: false
+drupal_nid: 14953
+---
+
+Teaching American History (TAH) has been an exciting opportunity for me in several ways. As a participating middle school teacher, I gained access to materials, ideas, and knowledge that enhanced my ability to teach American history. After the TAH experience, students left my classroom with more than the traditional rote memorization of historical facts; they developed a wider outlook on historical events and people. I wanted to share that positive experience, so I now work as the History Content Coach for elementary school teachers in another TAH grant.
+Teachers who participate in the Savannah-Chatham County Public School grant are involved in a number of content-rich activities. They read scholarly books, such as *The California Gold Rush and the Coming of the Civil War* by Leonard L. Richards, and answer reading response questions. For each book or topic, they participate in an all-day symposium where they hear from the author or an authority on the topic in the morning and spend the afternoon focused on teaching the new content.
+Teachers receive a binder with additional background information on the content area and teaching resources, such as vocabulary activities, poems and songs from the time period, reading comprehension activities, lesson plans complete with primary sources, Internet links, and rubrics. Participating teachers leave the symposium with materials ready for immediate classroom use.
+
+## The Boon of Multi-Disciplinary History
+
+Addressing the needs of elementary teachers has been a different kind of learning experience for me. They are eager for content and resources, but also for ways to present the content that appeal to a myriad of learning styles. Elementary school teachers are responsible for many subject areas and have limited time to devote solely to social studies. Integrating historical content into other academic areas allows them to teach history throughout the day. Connections with reading and language arts work for a range of topics, but history also works with other parts of the curriculum. For example, sources on Lewis and Clark fit into a unit in science on biomes, minerals, plants, and the environment. The possibilities are endless.
+> Integrating historical content into other academic areas allows [elementary school teachers] to teach history throughout the day.
+
+Our local TAH program provides a Resource Library that supplements limited supplies at individual schools and facilitates this integration. Teachers can check out class sets of biographies, autobiographies, and historical fiction, helping them combine language arts standards with history content. Access to resources has allowed more elementary school teachers to incorporate social studies reading into their classes.
+The Resource Library also provides primary and secondary sources, as well as advice on using the sources in the classroom. Photographs and pictures work especially well with younger students. One teacher created a "walk through" gallery of pictures showing daily life in the 19th century. She asked students to explain what the pictures told them about the time period, appealing to both visual and kinesthetic learners. Students are very observant and can learn much about a person, event, or time period by analyzing images.
+> One teacher created a "walk through" gallery of pictures showing daily life in the 19th century. She asked students to explain what the pictures told them about the time period, appealing to both visual and kinesthetic learners.
+
+## Keeping Lessons Concise
+
+Time is always a key factor, especially for elementary school teachers. When finding or developing lesson plans, we try to keep a realistic time frame in mind. A lesson can be very exciting, but if it requires one hour a day for seven consecutive days and focuses on a narrow topic, teachers will not use it. In many schools, social studies is taught at most three days a week for 30 to 45 minutes. Taking that same lesson and pulling out a part that pertains to a grade-specific standard is a good solution—it presents an interesting lesson that fits with the existing schedule. Another strategy for saving time in the classroom, especially for lessons that rely on online resources, is to put reading selections and primary sources together ahead of time on a CD for easy access.
+Elementary school teachers who participate in grant activities are excited to learn new content. The challenge is taking what they have learned back to their classrooms and students. One answer is to provide lesson plans that are ready to use, address various learning styles, and can be incorporated into other subjects such as reading and language arts. This is one of my most important "lessons learned." To facilitate this, I focus on the standards each grade teaches—for elementary school, this includes social studies and language arts—and then emphasize strategies for teaching history within the existing framework.
+> . . . provide lesson plans that are ready to use, address various learning styles, and can be incorporated into other subjects such as reading and language arts.

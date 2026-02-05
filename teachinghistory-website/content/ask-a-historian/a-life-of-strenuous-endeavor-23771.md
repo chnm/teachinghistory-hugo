@@ -1,0 +1,51 @@
+---
+title: A Life of Strenuous Endeavor
+date: '2010-01-18T14:24:29'
+lastmod: '2017-12-05T08:43:31'
+type: ask_a_historian
+draft: false
+drupal_nid: 23771
+question: A while back, there was a *Dirty Jobs* episode all about safety. In the
+  episode, Mike Rowe quoted a letter that Teddy Roosevelt wrote to his son. It included
+  a section that said "there is nothing more dangerous than.... absolute safety" and
+  there were three kinds of absolute safety in particular. Do you know where I can
+  get a copy of this letter or what he said specifically?
+url: /history-content/ask-a-historian/23771
+---
+
+I often watch *Dirty Jobs*. The episode on fishing for slime eels off the coast of Maine has to have been some of the most weirdly compelling television ever. Unfortunately, I did not see the episode about safety, "Safety Third," episode 05x18, which was first aired November 24, 2009.
+
+## The Letter
+
+Poking about the blogosphere for comments on that episode, I see that several people refer to the Roosevelt quote, and mention that it was from a letter that Roosevelt wrote to his son. The quote they refer to, however, is not from a letter to Roosevelt's son. It is part of a letter that Roosevelt wrote to Solomon Stanwood Menken, the head of the National Security League and the chairman of its Congress of Constructive Patriotism, on January 10, 1917. Roosevelt's younger sister, Mrs. Corinne Roosevelt Robinson, read the letter to a national meeting of the organization on January 26, 1917. The quote is in bold below, with more of the letter reproduced for context:
+> Americanism means many things. It means equality of rights and, therefore, equality of duty and of obligation. It means service to our common country. It means loyalty to one flag, to our flag, the flag of all of us. It means on the part of each of us respect for the rights of the rest of us. It means that all of us guarantee the rights of each of us. It means free education, genuinely representative government, freedom of speech and thought, equality before the law for all men, genuine political and religious freedom and the democratizing of industry so as to give at least a measurable equality of opportunity for all, and so as to place before us as our ideal in all industries where this ideal is possible of attainment, the system of cooperative ownership and management, in order that the tool users may, so far as possible, become the tool owners. Everything is un-American that tends either to government by a plutocracy or government by a mob. To divide along the lines of section or caste or creed is un-American. All privileges based on wealth, and all enmity to honest men merely because they are wealthy, are un-American—both of them equally so. Americanism means the virtues of courage, honor, justice, truth, sincerity, and hardihood—the virtues that made America.**The things that will destroy America are prosperity-at-any-price, peace-at-any-price, safety-first instead of duty-first, the love of soft living and the get-rich-quick theory of life.**
+> Preparedness must be of the soul no less than of the body. We must keep lofty ideals steadily before us, and must train ourselves in practical fashion so that we may realize these ideals. Throughout our whole land we must have fundamental common purposes, to be achieved through education, through intelligent organization and through the recognition of the great vital standards of life and living. We must make Americanism and Americanization mean the same thing to the native-born and to the foreign-born; to the man and to the woman; to the rich and to the poor; to the employer and to the wage-worker. If we believe in American standards, we shall insist that all privileges springing from them be extended to immigrants, and that they in return accept these standards with whole-hearted and entire loyalty. Either we must stand absolutely by our ideals and conceptions of duty, or else we are against them. There is no middle course, and if we attempt to find one, we insure for ourselves defeat and disaster.
+
+## The National Security League
+
+The National Security League was founded by Menken and General Leonard Wood (the Army Chief of Staff) in December 1914. It emphasized the need for American "preparedness" in the face of challenges around the world. A swirl of various worries contributed to its rapid growth. Roosevelt echoed some of them here, including a conviction that American character had grown weak and soft, and so its ability to resist challenges had been dangerously reduced. Its young men had been "mollycoddled" by parents, especially mothers, who doted on them. The League's idea was to keep America at peace by keeping it strong. It formed the Military Training Camps Association of America, which operated summer camps for boys, the most successful one at Plattsburgh on Lake Champlain in upstate New York.
+The League also heavily promoted (along with the American Legion and the American Red Cross) a 1915 movie, "The Battle Cry of Peace," starring Norma Talmadge in her first leading role, in which American pacifists, used as dupes by foreign agents, successfully lobby against defense spending. America is then invaded and New York and Washington are destroyed and enslaved. Admiral George Dewey and General Wood both played themselves in the film.
+The challenges that the League had in mind were not only direct confrontations with foreign powers, which appeared to be looming in dark political clouds throughout Europe and Asia, but also more indirect confrontations within American society between democracy and its foes: an elite, moneyed oligarchy from the right, and a violent, fracturing anarchism from the left, both of which were popularly seen as being unnatural, foreign importations into America.
+Among other efforts to promote American preparedness, the League proposed universal athletic and military training for young men, which would not only prepare them for possible battles, but also increase the general "vigor" of the population, and contribute to the assimilation of immigrants into the mainstream. Despite the League's early popularity across the spectrum of political allegiances, after a few years it lost most of its membership when it veered off into a form of xenophobic nativism that encouraged the formation of paramilitary units among youth.
+
+## Roosevelt on Safety in Rough Sports
+
+Roosevelt, as is well known, was a firm believer in the virtues of physical exercise and adventures that tested and developed one's courage and inner resources. It is no surprise that he should criticize "safety-first instead of duty first." But he placed duty above physical prowess as well.
+President Roosevelt wrote to his son Kermit, who was at Groton Academy, on October 4, 1903:
+> I am delighted to have you play football. I believe in rough, manly sports. But I do not believe in them if they degenerate into the sole end of any one's existence. I don't want you to sacrifice standing well in your studies to any over-athleticism; and I need not tell you that character counts for a great deal more than either intellect or body in winning success in life. Athletic proficiency is a mighty good servant, and like so many other good servants, a mighty bad master. Did you ever read Pliny's letter to Trajan, in which he speaks of its being advisable to keep the Greeks absorbed in athletics, because it distracted their minds from all serious pursuits, including soldiering, and prevented their ever being dangerous to the Romans? . . .. A man must develop his physical prowess up to a certain point; but after he has reached that point there are other things that count more.
+
+On September 27, 1905, he wrote:
+> Have you started at your football? I think this is important, too, although of course it must be sacrificed to your studies if necessary. But it would be good for you to have the bodily development that comes from football, and it unquestionably has some effect in helping you with the other boys.
+
+Roosevelt was very fond of football, of all organized team sports. But during 1905, his older son, Ted, played football on the freshman team at Harvard, and during the Harvard-Yale game, the young man appears to have had his nose broken deliberately by the Yale players, who laid him out on the field three times and kicked him in the face. It was all of a piece with an escalation of violence in college football that caused many schools to consider banning the sport. On October 9, 1905, the President wrote to Kermit:
+> To-day I see the football men of Harvard, Yale and Princeton, to try to get them to come to a gentleman's agreement not to have mucker play.
+
+In fact, he invited two representatives from all three universities to the White House and voiced his concerns to them about the unsportsmanlike aura of unbridled violence that had come to be a feature of college football. Partly as a result of the publicity from this meeting, the college football association agreed the following year to a series of rule changes to the game that were meant to reduce pointless violence.
+
+## When Duty Calls
+
+After Roosevelt left office and war broke out in Europe, he became heartsick at what he regarded as Woodrow Wilson's attempts to keep America out of the war despite German outrages on American lives and property. He attempted to raise a volunteer force to fight for the Allies and, defending the effort, Roosevelt wrote:
+> Let us pay with our bodies for our souls' desire. Let us, without one hour's unnecessary delay, put the American flag at the battle-front in this great war for Democracy and civilization, and for the reign of justice and fair-dealing among the nations of mankind.
+
+He used his considerable influence to place his sons (with their eager permission) at the very front of the fighting when American forces were sent. He had already written the justification back in 1905, in an address he entitled "The Strenuous Life":
+> If we stand idly by, if we seek merely swollen, slothful ease and ignoble peace, if we shrink from the hard contests where men must win at the hazard of their lives and at the risk of all they hold dear, then the bolder and stronger peoples will pass us by, and will win for themselves the domination of the world.

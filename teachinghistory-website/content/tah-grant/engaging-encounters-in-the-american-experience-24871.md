@@ -1,0 +1,9 @@
+---
+title: Engaging Encounters in the American Experience
+date: '2011-06-14T18:56:14'
+lastmod: '2017-12-01T14:23:42'
+type: tah_grant
+draft: false
+drupal_nid: 24871
+---
+
