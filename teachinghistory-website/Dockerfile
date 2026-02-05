@@ -41,3 +41,4 @@ FROM nginx:1.23-alpine
 
 COPY --from=build-stage /app/public/ /usr/share/nginx/html
 
+
