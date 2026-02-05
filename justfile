@@ -11,10 +11,6 @@ site := "teachinghistory-website"
 serve:
     cd {{site}} && hugo server -D --navigateToChanged
 
-# Start dev server binding to all interfaces (for testing on other devices)
-serve-lan:
-    cd {{site}} && hugo server -D --bind 0.0.0.0 --baseURL http://localhost:1313
-
 # Build the site for production
 build:
     cd {{site}} && hugo --minify
@@ -31,10 +27,6 @@ clean:
 new path:
     cd {{site}} && hugo new content/{{path}}
 
-# Show site stats
-stats:
-    cd {{site}} && hugo --printMemoryUsage --printPathWarnings
-
 # Check for broken internal links and other issues
 check:
     cd {{site}} && hugo --printUnusedTemplates --printPathWarnings
@@ -49,7 +41,3 @@ docker-run tag="teachinghistory:latest":
 
 # Build and run Docker container
 docker-up: docker-build docker-run
-
-# Watch for changes and rebuild (without server)
-watch:
-    cd {{site}} && hugo --watch
