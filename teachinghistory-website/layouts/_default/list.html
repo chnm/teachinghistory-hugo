@@ -40,24 +40,20 @@
         </div>
 
         {{ with .Params.question }}
-          <div class="f6 mb2">
-            <strong>Question:</strong> {{ . }}
+          <div class="f6 mb2 i">
+            {{ . | truncate 150 }}
           </div>
         {{ end }}
 
-        {{ with .Params.summary }}
-          <div class="f6 lh-copy gray">
-            <strong>Summary:</strong> {{ . | truncate 200 }}
-          </div>
-        {{ end }}
-
-        {{ if not .Params.summary }}
-          {{ with .Summary }}
-            <div class="f6 lh-copy gray">
-              {{ . }}
-            </div>
+        <div class="f6 lh-copy gray">
+          {{ with .Params.summary }}
+            {{ . | plainify | truncate 150 }}
+          {{ else }}
+            {{ .Summary | plainify | truncate 150 }}
           {{ end }}
-        {{ end }}
+        </div>
+
+        <a href="{{ .Permalink }}" class="f6 link blue hover-dark-blue">Read more &rarr;</a>
       </article>
     {{ end }}
   </section>

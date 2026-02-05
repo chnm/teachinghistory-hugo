@@ -3,22 +3,24 @@ languageCode = 'en-us'
 title = 'TeachingHistory.org'
 theme = 'ananke'
 
-[params]
-  description = 'TeachingHistory.org - Resources for History Educators'
-
 # Preserve all Drupal metadata
 [frontmatter]
   date = ['date', 'publishDate', 'lastmod']
   lastmod = ['lastmod', ':git', 'date', 'publishDate']
 
 [params]
-  description = "Teaching History content verification"
+  description = 'TeachingHistory.org - Resources for History Educators'
   show_reading_time = true
   recent_posts_number = 10
 
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [menu]
   [[menu.main]]
