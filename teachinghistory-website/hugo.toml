@@ -1,7 +1,6 @@
 baseURL = 'https://dev.teachinghistory.org/'
 languageCode = 'en-us'
 title = 'TeachingHistory.org'
-theme = 'ananke'
 
 # Preserve all Drupal metadata
 [frontmatter]
@@ -10,8 +9,6 @@ theme = 'ananke'
 
 [params]
   description = 'TeachingHistory.org - Resources for History Educators'
-  show_reading_time = true
-  recent_posts_number = 10
 
 [taxonomies]
   category = 'categories'
@@ -22,9 +19,34 @@ theme = 'ananke'
     [markup.goldmark.renderer]
       unsafe = true
 
+# Navigation — matches DESIGN.md NavBar spec
 [menu]
   [[menu.main]]
-    identifier = 'home'
-    name = 'Home'
-    url = '/'
+    identifier = 'about'
+    name = 'About Us'
+    url = '/about/'
     weight = 10
+
+  [[menu.main]]
+    identifier = 'teaching-materials'
+    name = 'Teaching Materials'
+    url = '/teaching-materials/'
+    weight = 20
+
+  [[menu.main]]
+    identifier = 'history-content'
+    name = 'History Content'
+    url = '/history-content/'
+    weight = 30
+
+  [[menu.main]]
+    identifier = 'best-practices'
+    name = 'Best Practices'
+    url = '/best-practices/'
+    weight = 40
+
+  [[menu.main]]
+    identifier = 'digital-classroom'
+    name = 'Digital Classroom'
+    url = '/digital-classroom/'
+    weight = 50

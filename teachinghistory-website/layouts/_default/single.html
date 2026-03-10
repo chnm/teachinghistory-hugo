@@ -1,82 +1,22 @@
 {{ define "main" }}
-<main class="pa3 pa4-l mw7 center">
-  <article>
-    <header class="mb4 pb3 bb b--black-10">
-      <h1 class="f2 lh-title mb2">{{ .Title }}</h1>
-
-      <div class="f6 gray mb3">
-        <span class="mr3"><strong>Section:</strong> {{ .Section }}</span>
-        {{ with .Params.type }}
-          <span class="mr3"><strong>Type:</strong> {{ . }}</span>
+<main class="pt-[60px] flex-1">
+  <div class="max-w-3xl mx-auto px-6 py-10">
+    <article>
+      <header class="mb-8">
+        <h1 class="font-heading text-4xl font-bold mb-3">{{ .Title }}</h1>
+        {{ with .Params.date }}
+          <time class="text-sm text-gray-400">{{ dateFormat "January 2, 2006" . }}</time>
         {{ end }}
+      </header>
+
+      <div class="font-body leading-relaxed">
+        {{ .Content }}
       </div>
 
-      <div class="bg-light-gray pa3 br2 f6">
-        <h2 class="f5 mb2 b">Metadata</h2>
-        <dl class="lh-copy">
-          {{ with .Params.drupal_nid }}
-            <dt class="b mt2">Drupal Node ID:</dt>
-            <dd class="ml0 mb0">{{ . }}</dd>
-          {{ end }}
-
-          {{ with .Params.date }}
-            <dt class="b mt2">Date:</dt>
-            <dd class="ml0 mb0">{{ dateFormat "January 2, 2006 at 3:04pm" . }}</dd>
-          {{ end }}
-
-          {{ with .Params.lastmod }}
-            <dt class="b mt2">Last Modified:</dt>
-            <dd class="ml0 mb0">{{ dateFormat "January 2, 2006 at 3:04pm" . }}</dd>
-          {{ end }}
-
-          {{ with .Params.url }}
-            <dt class="b mt2">Original URL:</dt>
-            <dd class="ml0 mb0"><code class="f7">{{ . }}</code></dd>
-          {{ end }}
-
-          {{ with .Params.question }}
-            <dt class="b mt2">Question:</dt>
-            <dd class="ml0 mb0">{{ . }}</dd>
-          {{ end }}
-
-          {{ with .Params.summary }}
-            <dt class="b mt2">Summary:</dt>
-            <dd class="ml0 mb0">{{ . }}</dd>
-          {{ end }}
-
-          {{ with .Params.author_bio }}
-            <dt class="b mt2">Author Bio:</dt>
-            <dd class="ml0 mb0">{{ . | truncate 200 }}</dd>
-          {{ end }}
-
-          <dt class="b mt2">Draft Status:</dt>
-          <dd class="ml0 mb0">{{ if .Draft }}Draft{{ else }}Published{{ end }}</dd>
-
-          <dt class="b mt2">Word Count:</dt>
-          <dd class="ml0 mb0">{{ .WordCount }}</dd>
-
-          {{ if .Params }}
-            <dt class="b mt2">All Front Matter:</dt>
-            <dd class="ml0 mb0">
-              <details class="mt1">
-                <summary class="pointer blue hover-dark-blue">View raw YAML</summary>
-                <pre class="f7 bg-white pa2 br2 overflow-auto mt2"><code>{{ .Params | jsonify (dict "indent" "  ") }}</code></pre>
-              </details>
-            </dd>
-          {{ end }}
-        </dl>
-      </div>
-    </header>
-
-    <section class="f5 lh-copy measure-wide">
-      {{ .Content }}
-    </section>
-
-    <footer class="mt4 pt3 bt b--black-10">
-      <p class="f6 gray">
-        <a href="/{{ .Section }}/" class="link blue hover-dark-blue">← Back to {{ .Section | humanize }}</a>
-      </p>
-    </footer>
-  </article>
+      <footer class="mt-10 pt-4 border-t border-gray-light">
+        <a href="/{{ .Section }}/" class="text-sm hover:underline">&larr; Back to {{ .Section | humanize }}</a>
+      </footer>
+    </article>
+  </div>
 </main>
 {{ end }}

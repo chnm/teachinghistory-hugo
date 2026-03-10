@@ -1,47 +1,71 @@
 {{ define "main" }}
-<main class="pa3 pa4-l mw8 center">
-  <h1 class="f2 lh-title mb3">{{ .Title }}</h1>
+<main class="pt-[60px] flex-1">
+  {{/* TODO: Phase 5 — Full homepage implementation */}}
+  <div class="max-w-5xl mx-auto px-6 py-10">
+    <h1 class="font-heading text-4xl font-bold mb-4">{{ .Site.Title }}</h1>
 
-  <div class="f5 lh-copy mb4">
-    {{ .Content }}
-  </div>
+    {{/* Token verification block — remove after Phase 1 review */}}
+    <section class="mb-10">
+      <h2 class="font-heading text-2xl mb-4">Design Token Preview</h2>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+        <div class="rounded p-4 text-center text-sm text-white" style="background: var(--color-orange);">Orange<br>#F26522</div>
+        <div class="rounded p-4 text-center text-sm" style="background: var(--color-yellow);">Yellow<br>#FFC20E</div>
+        <div class="rounded p-4 text-center text-sm text-white" style="background: var(--color-green);">Green<br>#37A99C</div>
+        <div class="rounded p-4 text-center text-sm" style="background: var(--color-pale-blue);">Pale Blue<br>#DCEBF9</div>
+        <div class="rounded p-4 text-center text-sm" style="background: var(--color-orange-tint); border: 1px solid var(--color-orange);">Orange Tint</div>
+        <div class="rounded p-4 text-center text-sm" style="background: var(--color-yellow-tint); border: 1px solid var(--color-yellow);">Yellow Tint</div>
+        <div class="rounded p-4 text-center text-sm" style="background: var(--color-green-tint); border: 1px solid var(--color-green);">Green Tint</div>
+        <div class="rounded p-4 text-center text-sm" style="background: var(--color-pale-blue-tint); border: 1px solid var(--color-pale-blue);">Pale Blue Tint</div>
+        <div class="rounded p-4 text-center text-sm text-white" style="background: var(--color-dark);">Dark<br>#1a1a1a</div>
+        <div class="rounded p-4 text-center text-sm" style="background: var(--color-gray-light);">Gray Light<br>#E5E5E5</div>
+      </div>
 
-  <section class="mt4">
-    <h2 class="f3 mb3">Content Sections</h2>
-    <p class="f5 lh-copy mb3">This site contains content exported from the Drupal database. Below are all content sections with item counts:</p>
+      <h2 class="font-heading text-2xl mb-4">Typography Preview</h2>
+      <div class="space-y-3 mb-8">
+        <p class="font-heading text-4xl">Heading &mdash; Lora 2.25rem (4xl)</p>
+        <p class="font-heading text-3xl">Heading &mdash; Lora 1.875rem (3xl)</p>
+        <p class="font-heading text-2xl">Heading &mdash; Lora 1.5rem (2xl)</p>
+        <p class="font-heading text-xl">Heading &mdash; Lora 1.25rem (xl)</p>
+        <p class="font-body text-base">Body &mdash; Roboto Slab 1rem (base)</p>
+        <p class="font-body text-sm">Body &mdash; Roboto Slab 0.875rem (sm)</p>
+        <p class="font-body text-xs">Body &mdash; Roboto Slab 0.75rem (xs)</p>
+      </div>
+    </section>
 
-    <div class="measure-wide">
-      {{ $sections := .Site.Sections }}
-      {{ $totalPages := 0 }}
-
-      <table class="f6 w-100 mb4" cellspacing="0">
-        <thead>
-          <tr class="bb b--black-20">
-            <th class="tl pb3 pr3">Section</th>
-            <th class="tr pb3 pr3">Item Count</th>
-            <th class="tl pb3">Link</th>
-          </tr>
-        </thead>
-        <tbody>
-          {{ range $sections.ByTitle }}
-            {{ $count := len .Pages }}
-            {{ $totalPages = add $totalPages $count }}
-            <tr class="bb b--black-10">
-              <td class="pv3 pr3">{{ .Title }}</td>
-              <td class="tr pv3 pr3">{{ $count }}</td>
-              <td class="pv3"><a href="{{ .Permalink }}" class="link blue hover-dark-blue">View →</a></td>
+    {{/* Content sections table — temporary */}}
+    <section>
+      <h2 class="font-heading text-2xl mb-4">Content Sections</h2>
+      <div class="overflow-x-auto">
+        <table class="w-full text-sm">
+          <thead>
+            <tr class="border-b-2 border-black text-left">
+              <th class="pb-2 pr-4">Section</th>
+              <th class="pb-2 pr-4 text-right">Items</th>
+              <th class="pb-2">Link</th>
             </tr>
-          {{ end }}
-        </tbody>
-        <tfoot>
-          <tr class="bt b--black-20">
-            <td class="pv3 pr3 b">Total</td>
-            <td class="tr pv3 pr3 b">{{ $totalPages }}</td>
-            <td class="pv3"></td>
-          </tr>
-        </tfoot>
-      </table>
-    </div>
-  </section>
+          </thead>
+          <tbody>
+            {{ $total := 0 }}
+            {{ range .Site.Sections.ByTitle }}
+              {{ $count := len .Pages }}
+              {{ $total = add $total $count }}
+              <tr class="border-b border-gray-light">
+                <td class="py-2 pr-4">{{ .Title }}</td>
+                <td class="py-2 pr-4 text-right">{{ $count }}</td>
+                <td class="py-2"><a href="{{ .Permalink }}" class="hover:underline text-orange">View &rarr;</a></td>
+              </tr>
+            {{ end }}
+          </tbody>
+          <tfoot>
+            <tr class="border-t-2 border-black font-bold">
+              <td class="py-2 pr-4">Total</td>
+              <td class="py-2 pr-4 text-right">{{ $total }}</td>
+              <td></td>
+            </tr>
+          </tfoot>
+        </table>
+      </div>
+    </section>
+  </div>
 </main>
 {{ end }}

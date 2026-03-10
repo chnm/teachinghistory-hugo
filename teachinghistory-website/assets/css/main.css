@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ==========================================================================
+   Design Tokens — TeachingHistory.org
+   ========================================================================== */
+
+@layer base {
+  :root {
+    /* Colors */
+    --color-orange: #F26522;
+    --color-orange-tint: #FFFAF8;
+    --color-yellow: #FFC20E;
+    --color-yellow-tint: #FBF9F4;
+    --color-green: #37A99C;
+    --color-green-tint: #F5FBFA;
+    --color-black: #000000;
+    --color-pale-blue: #DCEBF9;
+    --color-pale-blue-tint: #F5FAFF;
+    --color-dark: #1a1a1a;
+    --color-white: #FFFFFF;
+    --color-gray-light: #E5E5E5;
+
+    /* Typography — Font Families */
+    --font-heading: 'Lora', serif;
+    --font-body: 'Roboto Slab', serif;
+
+    /* Typography — Scale */
+    --text-xs: 0.75rem;
+    --text-sm: 0.875rem;
+    --text-base: 1rem;
+    --text-lg: 1.125rem;
+    --text-xl: 1.25rem;
+    --text-2xl: 1.5rem;
+    --text-3xl: 1.875rem;
+    --text-4xl: 2.25rem;
+  }
+
+  /* Global resets & defaults */
+  html {
+    font-family: var(--font-body);
+    font-size: var(--text-base);
+    color: var(--color-black);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+}

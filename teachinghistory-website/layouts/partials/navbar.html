@@ -1,0 +1,16 @@
+{{/* TODO: Phase 2 — Full NavBar implementation */}}
+<nav class="h-[60px] fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-light flex items-center px-6">
+  <div class="flex items-center justify-between w-full max-w-7xl mx-auto">
+    <a href="/" class="flex items-center">
+      <img src="/images/th_logo.png" alt="teachinghistory.org" class="h-10">
+    </a>
+    <div class="flex items-center gap-1 font-body text-sm">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" class="px-3 py-2 hover:underline">{{ .Name }}</a>
+        {{ if not (eq .Identifier "digital-classroom") }}
+          <span class="text-gray-light">|</span>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</nav>
