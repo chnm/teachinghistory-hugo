@@ -56,7 +56,7 @@ Each of the Navigation sections have their own color scheme.
 ## Typography
 
 ```css
---font-heading: 'Quincy CF', serif;
+--font-heading: 'Lora', serif;
 --font-body:    'Roboto Slab', serif;
 
 /* Scale (approximate from designs) */
@@ -87,14 +87,14 @@ Reused across all section index and detail pages.
 
 - **Layout:** Full-width banner, fixed height (~100px), section accent color background
 - **Content:** Single centered `<h1>` in a black rectangular pill/badge with white text
-- **Font:** Quincy CF, ~28–32px
+- **Font:** Lora, ~28–32px
 
 ### ContentCard
 
 Used in all horizontal carousels and grid listings.
 
 - **Structure:**
-  - Title (top, above image, Quincy CF ~14px, bold)
+  - Title (top, above image, Lora ~14px, bold)
   - Image (fixed-height rectangle, ~160px tall; gray `#E5E5E5` placeholder when no image)
   - Body text (Roboto Slab, ~13px, 3–4 lines max, truncate with ellipsis)
 - **Border:** 1px solid light gray
@@ -112,13 +112,15 @@ Used on all section index pages. Each content category gets one carousel row.
 
 ### Footer
 
-- **Background:** Black, sits at end of page
-- **Layout:** 4-column grid
+- Above the footer: a single black bar. On the left are a header font Quick Links with a right arrow pointing at three white buttons: "Teaching History Blog," "National History Day Resources," and "Featured Activity."
+- Below the black bar, a white footer in five columns. 
+- **Layout:** 5-column grid
   - Col 1: teachinghistory.org logo (th_logo_stacked.png)
-  - Col 2: Site links — Staff, Project Partners, Technical Working Group, Research Advisors
-  - Col 3: Disclaimer text (U.S. Dept of Education policy language)
-  - Col 4: Copyright + Creative Commons license text
-- **Bottom bar:** Single centered line — "Teachinghistory.Org Outreach | Privacy Policy"
+  - Col 2: Site links — Staff, Project Partners, Technical Working Group, Research Advisors. Each link is stacked, and separated by a light gray border-bottom.
+  - Col 3: Disclaimer text: "The content of this website does not necessarily reflect the views or policies of the U.S. Department of Education nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government."
+  - Col 4: Copyright: "© 2026 Created by the Roy Rosenzweig Center for History and New Media at George Mason University with funding from the U.S. Department of Education (Contract Number ED-07-CO-0088)"
+  - Col 5: CC text: "Except where otherwise noted, the content on this site is licensed under a Creative Commons Attribution Non-Commercial Share Alike 3.0 License."
+- **Bottom bar:** Single centered line. Below that: "Teachinghistory.Org Outreach | Privacy Policy"
 - **Font size:** ~12px, light gray on black
 
 ## Pages & Routes
@@ -156,7 +158,7 @@ Used on all section index pages. Each content category gets one carousel row.
 #### 1a. Hero / Featured Resources Carousel
 
 - **Background:** Light gray or white
-- **Left side (~25% width):** Large display text — "Explore Our Resources and Materials" — Quincy CF, ~36px. Below: plain `→` text arrow link.
+- **Left side (~25% width):** Large display text — "Explore Our Resources and Materials" — Lora, ~36px. Below: plain `→` text arrow link.
 - **Right side (~75% width):** Three overlapping/offset content feature cards for Teaching Materials, History Content, and Best Practices. Each card has:
   - Category label (e.g., "Teaching Materials") top-left in white on dark overlay
   - Featured image (fills card)
@@ -169,13 +171,13 @@ Used on all section index pages. Each content category gets one carousel row.
 - **Layout:** Full-width, ~50% image / ~50% text split
 - **Left:** Collage of historical B&W photographs (civil rights, WWII, Woodstock, MLK, etc.)
 - **Right:** White background
-  - Heading: "Think Historically" — Quincy CF, large, in section orange
+  - Heading: "Think Historically" — Lora, large, in section orange
   - Body paragraph: site description text
   - CTA: "▶ View Video" — outlined pill button
 
 #### 1c. Explore by Grade Level
 
-- **Heading:** "Explore by Grade Level" — centered, Quincy CF
+- **Heading:** "Explore by Grade Level" — centered, Lora
 - **Layout:** Three equal-width cards in a row
   - Each: full-width photo of classroom setting + label below ("Elementary School Teachers", "Middle School Teachers", "High School Teachers") + `→` arrow
   - Bottom of each card: label bar with text + arrow on white/light background
@@ -215,7 +217,7 @@ Used on all section index pages. Each content category gets one carousel row.
 Two distinct panels:
 
 **Panel 1 — At a Glance**
-- Header: "At a Glance" — Quincy CF, large
+- Header: "At a Glance" — Lora, large
 - Fields (each separated by horizontal rule):
   - **TOPICS** (uppercase label) + topic text
   - **WEBSITE** (uppercase label) + linked external site name
@@ -224,14 +226,14 @@ Two distinct panels:
   - **GRADE(S)** (uppercase label) + grade number(s)
 
 **Panel 2 — Lesson Format**
-- Header: "Lesson Format" — Quincy CF, large
+- Header: "Lesson Format" — Lora, large
 - Interactive 1–5 scale with filled circles; selected circle is filled black, others are outlined
 - Below scale: "Unstructured ←——→ Structured" label
 - CTA: Orange pill button — "Download Lesson Plan →"
 
 #### Main Content
 
-- **Title:** Quincy CF, ~32px
+- **Title:** Lora, ~32px
 - **Hero image:** Full-width, max ~460px tall
 - **Lede/summary paragraph:** Roboto Slab
 - **Body sections with bold headings:** "Review", etc. — bold inline headings (h3 style)
@@ -239,7 +241,7 @@ Two distinct panels:
 
 #### Related Topics (below main content, full-width)
 
-- **Heading:** "Related Topics" — Quincy CF
+- **Heading:** "Related Topics" — Lora
 - **Layout:** 2-column card grid
 - Each card: Title top, image middle, body text below
 - Uses ContentCard component
@@ -281,7 +283,7 @@ Expanded state: chevron points down, section label + body text visible in a bord
 
 #### Main Content
 
-- **Title:** Large Quincy CF — phrased as "Central Question: [question text]"
+- **Title:** Large Lora — phrased as "Central Question: [question text]"
 - **Hero image:** Full-width
 - **Body paragraphs:** Roboto Slab
 
@@ -320,7 +322,7 @@ Expanded state: chevron points down, section label + body text visible in a bord
 *(Simpler than Teaching Materials; no grade/duration fields visible in this example)*
 
 **Panel 2 — About the Author**
-- Header: "About the Author" — Quincy CF
+- Header: "About the Author" — Lora
 - Circular avatar image (gray placeholder ~120px diameter)
 - Author name + bio text below
 
@@ -339,14 +341,14 @@ Expanded state: chevron points down, section label + body text visible in a bord
 
 **Layout:**
 
-- **Section heading:** "Staff" — Quincy CF, centered, large
+- **Section heading:** "Staff" — Lora, centered, large
 - **Sub-heading:** "LEADERSHIP AND CONTENT TEAM" — uppercase, small, centered
 - **Grid:** 3-column responsive grid of StaffCard components
 
 #### StaffCard
 
 - Circular avatar image (~160px diameter, gray placeholder)
-- Name — Quincy CF, ~20px
+- Name — Lora, ~20px
 - Title/Role — uppercase, small, letter-spaced
 - "Read Bio" button — solid black pill button, white text
 
@@ -358,7 +360,7 @@ Triggered by "Read Bio" button on About Us page.
 - **Modal:** White card, centered, ~480px wide, scrollable
   - `×` close button top-right
   - Circular avatar (~120px)
-  - Name — Quincy CF, large
+  - Name — Lora, large
   - Role — uppercase, small
   - Bio text — Roboto Slab, with hyperlinks inline
 
@@ -374,7 +376,7 @@ Triggered by "Read Bio" button on About Us page.
 
 - **Label:** "TEACHER'S PICK" — uppercase, small, in section accent color (orange for elementary, presumably consistent across grade levels)
 - **Layout:** Two-column — left: title + description + "Read More →" button; right: large featured image (~460px wide)
-- **Title font:** Quincy CF, large (~32–36px)
+- **Title font:** Lora, large (~32–36px)
 - **Button:** Black solid pill, "Read More →"
 
 #### Resource Category Rows
@@ -382,12 +384,12 @@ Triggered by "Read Bio" button on About Us page.
 Two rows visible per page:
 
 **Row 1 — Grade Band Resources**
-- Left: Colored block label (yellow `#FFC20E` background) — e.g., "K-12 Resources", "6-8 Resources", "9-12 Resources" — Quincy CF, large, white text
+- Left: Colored block label (yellow `#FFC20E` background) — e.g., "K-12 Resources", "6-8 Resources", "9-12 Resources" — Lora, large, white text
 - Right: 2+ ContentCards (same card pattern as section index pages)
 - *Note: Elementary page shows K-12 and 3-5 rows; this suggests multiple grade-band sections per page*
 
 **Row 2 — Classroom Tools**
-- Left: Teal (`#37A99C`) block label — "Classroom Tools" — Quincy CF, large, white text
+- Left: Teal (`#37A99C`) block label — "Classroom Tools" — Lora, large, white text
 - Right: 2+ ContentCards
 
 **Grade band label colors:**

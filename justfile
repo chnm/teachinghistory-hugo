@@ -19,6 +19,11 @@ build:
 build-drafts:
     cd {{site}} && hugo -D
 
+# Rebuild Tailwind CSS (clears Hugo's cached assets and rebuilds)
+css:
+    rm -rf {{site}}/resources/_gen
+    cd {{site}} && hugo --minify
+
 # Clean generated files
 clean:
     rm -rf {{site}}/public {{site}}/resources/_gen
