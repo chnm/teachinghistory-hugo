@@ -1,15 +1,12 @@
 {{ define "main" }}
-<main class="pt-[60px] flex-1">
+{{ $color := partial "section-color.html" .Section }}
+{{ partial "page-hero.html" (dict "title" .Title "color" $color) }}
+
+<main class="flex-1">
   <div class="max-w-5xl mx-auto px-6 py-10">
-    <header class="mb-8">
-      <h1 class="font-heading text-4xl font-bold mb-2">{{ .Title }}</h1>
-      <p class="text-sm text-gray-500">
-        {{ len .Pages }} items
-      </p>
-      {{ with .Content }}
-        <div class="mt-4">{{ . }}</div>
-      {{ end }}
-    </header>
+    {{ with .Content }}
+      <div class="mb-8">{{ . }}</div>
+    {{ end }}
 
     <section>
       {{ range .Pages.ByDate.Reverse }}

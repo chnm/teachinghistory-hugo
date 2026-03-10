@@ -1,5 +1,8 @@
 {{ define "main" }}
-<main class="pt-[60px] flex-1">
+{{ $color := partial "section-color.html" .Section }}
+{{ partial "page-hero.html" (dict "title" (.Section | humanize | title) "color" $color) }}
+
+<main class="flex-1">
   <div class="max-w-3xl mx-auto px-6 py-10">
     <article>
       <header class="mb-8">
