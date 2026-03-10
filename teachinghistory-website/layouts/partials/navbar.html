@@ -1,14 +1,42 @@
-{{/* TODO: Phase 2 — Full NavBar implementation */}}
-<nav class="h-[60px] fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-light flex items-center px-6">
+{{/*
+  NavBar — fixed top, 60px tall
+  Active state: section link renders in orange.
+  Section detection uses the current page's URL prefix.
+*/}}
+
+{{/* Determine which nav section is active */}}
+{{ $currentSection := "" }}
+{{ $url := .RelPermalink }}
+{{ if hasPrefix $url "/teaching-materials/" }}
+  {{ $currentSection = "teaching-materials" }}
+{{ else if hasPrefix $url "/history-content/" }}
+  {{ $currentSection = "history-content" }}
+{{ else if hasPrefix $url "/best-practices/" }}
+  {{ $currentSection = "best-practices" }}
+{{ else if hasPrefix $url "/about/" }}
+  {{ $currentSection = "about" }}
+{{ else if hasPrefix $url "/digital-classroom/" }}
+  {{ $currentSection = "digital-classroom" }}
+{{ end }}
+
+<nav class="h-[60px] fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-light flex items-center px-6" aria-label="Main navigation">
   <div class="flex items-center justify-between w-full max-w-7xl mx-auto">
-    <a href="/" class="flex items-center">
+    <a href="/" class="flex items-center shrink-0">
       <img src="/images/th_logo.png" alt="teachinghistory.org" class="h-10">
     </a>
-    <div class="flex items-center gap-1 font-body text-sm">
+
+    <div class="flex items-center font-body text-sm">
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}" class="px-3 py-2 hover:underline">{{ .Name }}</a>
+        {{ $isActive := eq .Identifier $currentSection }}
+
+        <a href="{{ .URL }}"
+           class="px-3 py-2 hover:underline {{ if $isActive }}font-bold text-orange{{ end }}"
+           {{ if $isActive }}aria-current="true"{{ end }}>
+          {{- .Name -}}
+        </a>
+
         {{ if not (eq .Identifier "digital-classroom") }}
-          <span class="text-gray-light">|</span>
+          <span class="text-gray-light select-none" aria-hidden="true">|</span>
         {{ end }}
       {{ end }}
     </div>

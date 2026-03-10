@@ -1,0 +1,30 @@
+{{/*
+  PageHero — full-width banner with section accent color background.
+  Displays a centered <h1> inside a black rectangular pill/badge.
+
+  Usage:
+    {{ partial "page-hero.html" (dict "title" "Teaching Materials" "color" "orange") }}
+
+  Accepted color values: "orange", "yellow", "green", "pale-blue"
+*/}}
+
+{{ $title := .title }}
+{{ $color := .color | default "pale-blue" }}
+
+{{/* Map color name to Tailwind bg class */}}
+{{ $bgClass := "bg-pale-blue" }}
+{{ if eq $color "orange" }}
+  {{ $bgClass = "bg-orange" }}
+{{ else if eq $color "yellow" }}
+  {{ $bgClass = "bg-yellow" }}
+{{ else if eq $color "green" }}
+  {{ $bgClass = "bg-green" }}
+{{ end }}
+
+<section class="pt-[60px]">
+  <div class="{{ $bgClass }} w-full flex items-center justify-center" style="min-height: 100px;">
+    <h1 class="font-heading text-3xl bg-black text-white px-6 py-2 rounded">
+      {{- $title -}}
+    </h1>
+  </div>
+</section>

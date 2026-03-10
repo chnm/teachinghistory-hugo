@@ -1,6 +1,50 @@
-{{/* TODO: Phase 2 — Full Footer implementation */}}
-<footer class="bg-dark text-white mt-auto">
-  <div class="max-w-7xl mx-auto px-6 py-12 text-xs opacity-80">
-    <p>&copy; {{ now.Year }} TeachingHistory.org</p>
+{{/* Quick Links bar — black background */}}
+<div class="bg-black">
+  <div class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-center gap-4">
+    <span class="font-heading text-yellow text-lg">Quick Links &rarr;</span>
+    <div class="flex items-center gap-3">
+      <a href="/blog/" class="inline-block rounded-full bg-white text-black text-xs px-4 py-2 hover:bg-gray-light transition">Teaching History Blog</a>
+      <a href="/national-resource-centers/" class="inline-block rounded-full bg-white text-black text-xs px-4 py-2 hover:bg-gray-light transition">National History Day Resources</a>
+      {{/* TODO: Confirm correct link for Featured Activity */}}
+      <a href="#" class="inline-block rounded-full bg-white text-black text-xs px-4 py-2 hover:bg-gray-light transition">Featured Activity</a>
+    </div>
+  </div>
+</div>
+
+{{/* Main footer — white background, 5-column grid */}}
+<footer class="bg-white border-t border-gray-light mt-auto">
+  <div class="max-w-7xl mx-auto px-6 py-10 grid grid-cols-1 md:grid-cols-5 gap-8 text-xs text-gray-600">
+
+    {{/* Col 1: Logo */}}
+    <div>
+      <img src="/images/th_logo_stacked.png" alt="teachinghistory.org" class="w-32">
+    </div>
+
+    {{/* Col 2: Site links */}}
+    <nav aria-label="Footer links">
+      <ul class="space-y-0">
+        <li class="py-2 border-b border-gray-light"><a href="/about/#staff" class="hover:underline">Staff</a></li>
+        <li class="py-2 border-b border-gray-light"><a href="/about/#partners" class="hover:underline">Project Partners</a></li>
+        <li class="py-2 border-b border-gray-light"><a href="/about/#technical" class="hover:underline">Technical Working Group</a></li>
+        <li class="py-2"><a href="/about/#advisors" class="hover:underline">Research Advisors</a></li>
+      </ul>
+    </nav>
+
+    {{/* Col 3: Disclaimer */}}
+    <p class="leading-relaxed">The content of this website does not necessarily reflect the views or policies of the U.S. Department of Education nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government.</p>
+
+    {{/* Col 4: Copyright */}}
+    <p class="leading-relaxed">&copy; {{ now.Year }} Created by the Roy Rosenzweig Center for History and New Media at George Mason University with funding from the U.S. Department of Education (Contract Number ED-07-CO-0088)</p>
+
+    {{/* Col 5: Creative Commons */}}
+    <p class="leading-relaxed">Except where otherwise noted, the content on this site is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" class="underline hover:text-black">Creative Commons Attribution Non-Commercial Share Alike 3.0 License</a>.</p>
+  </div>
+
+  {{/* Bottom bar */}}
+  <div class="border-t border-gray-light">
+    <div class="max-w-7xl mx-auto px-6 py-4 text-center text-xs text-gray-500">
+      {{/* TODO: Confirm correct link destinations for Outreach and Privacy Policy */}}
+      <a href="/outreach/" class="hover:underline">Teachinghistory.Org Outreach</a> | <a href="/privacy/" class="hover:underline">Privacy Policy</a>
+    </div>
   </div>
 </footer>
