@@ -2,11 +2,15 @@
 title: Opening Up the Textbook
 date: '2008-07-01T12:09:21'
 lastmod: '2012-05-15T14:46:13'
-type: teaching_with_textbooks
+content_type: teaching_with_textbooks
 draft: false
 drupal_nid: 19438
 url: /best-practices/teaching-with-textbooks/19438
+splash_image_fid: '4004'
+summary: Make the most of your textbook—engage students in close reading and analysis.
+splash_image: /files/OpeningUpSplash.jpg
 ---
+
 
 ## Why do it?
 

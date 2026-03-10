@@ -2,8 +2,12 @@
 title: President Benjamin Harrison Home [IN]
 date: '2008-01-08T13:26:50'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 5108
+website_url: http://www.presidentbenjaminharrison.org/
 ---
 
+The President Benjamin Harrison Home is the former residence of President Benjamin Harrison (1889 to 1893). The museum is dedicated to his achievements
+and his impact on United States history.
+The home offers exhibits, tours, educational programs, and recreational and educational events (including living history events).

@@ -2,11 +2,16 @@
 title: Primary Sources, Historical Reenactments, and Twitter
 date: '2009-12-10T11:38:56'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23628
 url: /nhec-blog/23628
+date_published: '2009-12-10T00:00:00'
+image_fid: '3733'
+summary: A new approach to leading your students through primary sources.
+image: /files/twhistory.jpg
 ---
+
 
 Earlier this week, [*The Chronicle of Higher Education*](http://chronicle.com) reported on a [reenactment of the Battle of Gettysburg](http://chronicle.com/blogPost/What-Lincoln-Would-Have/9056/?sid=wc&utm_source=wc&utm_medium=en).
 At this reenactment, participants didn't discuss the authenticity of their uniforms or whether today's weather reflected actual battlefield conditions. Rather, the emphasis lay in communicating the historical voices of Gettysburg in 1863 based on texts of primary source documents.

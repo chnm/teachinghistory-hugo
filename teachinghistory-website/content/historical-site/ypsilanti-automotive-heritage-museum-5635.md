@@ -2,8 +2,11 @@
 title: Ypsilanti Automotive Heritage Museum
 date: '2008-01-08T13:27:17'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 5635
+website_url: http://www.ypsiautoheritage.org
 ---
 
+The Museum houses automobiles and artifacts related to Ypsilanti's automobile production industry history, including original Hudson Dealer memorabilia. It is also home to the world's last Hudson Dealer, with records dating to 1927.
+The museum offers exhibits and occasional vehicle shows.

@@ -2,11 +2,25 @@
 title: 'Anthony Pellegrino''s Classroom Simulations: Begin with Paris'
 date: '2011-03-29T13:16:30'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24596
 url: /nhec-blog/24596
+author_bio: Anthony Pellegrino is an assistant professor of social studies/history
+  education in the secondary education program at George Mason University. He received
+  his doctorate in Secondary Social Science Education from Florida State University.
+date_published: '2011-04-27T00:00:00'
+image_fid: '7307'
+splash_image_fid: '7306'
+author_image_fid: '7291'
+summary: Re-enact the Paris Peace Conference with your students, and let them experience
+  dissatisfaction (or satisfaction) with the results themselves.
+splash_image: /files/parissplash.jpg
+image: /files/parisimage.jpg
+author_image: /files/author_image/Pellegrino_Image_2.jpg
 ---
+
+
 
 ## Costumes Not Required
 

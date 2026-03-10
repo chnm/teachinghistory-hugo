@@ -2,11 +2,29 @@
 title: Michael Yell on a Strategy for the Use of Textbooks in the History Classroom
 date: '2011-05-09T12:37:05'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24678
 url: /nhec-blog/24678
+author_bio: 'Michael Yell is a 7th-grade history teacher at the Hudson Middle
+
+  School in Hudson, WI. He holds National Board Certification in Early
+
+  Adolescent Social Studies—History, and is a past president of the
+
+  National Council for the Social Studies.'
+date_published: '2011-06-01T00:00:00'
+image_fid: '7535'
+splash_image_fid: '7480'
+author_image_fid: '7479'
+summary: Students aren't always working with primary sources. Seventh-grade history
+  teacher Mike Yell leads students in getting the GIST of secondary sources.
+splash_image: /files/textbookssplash.jpg
+image: /files/image-blog-mygist.jpg
+author_image: /files/author_image/mYell_2.jpg
 ---
+
+
 
 *[The readers] fundamental purpose is to understand the text, to grasp what is being said from the point of view of the person writing.*
 

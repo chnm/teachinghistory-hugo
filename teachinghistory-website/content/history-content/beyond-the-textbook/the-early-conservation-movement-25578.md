@@ -2,11 +2,18 @@
 title: The Early Conservation Movement
 date: '2012-04-20T13:19:19'
 lastmod: '2018-07-03T10:34:59'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 25578
 url: /history-content/beyond-the-textbook/25578
+author_bio: Christopher Wells is an assistant professor of environmental history at
+  Macalester College. He received his PhD from the University of Wisconsin, and specializes
+  in environmental history, the history of technology, and U.S. cultural and intellectual
+  history.
+author_image_fid: '9188'
+author_image: /files/author_image/author_wells.jpg
 ---
+
 
 ## Conservation and Environmental Change
 

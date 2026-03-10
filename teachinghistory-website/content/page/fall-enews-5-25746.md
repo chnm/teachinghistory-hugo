@@ -2,7 +2,7 @@
 title: Fall Enews 5
 date: '2012-09-17T16:00:49'
 lastmod: '2012-09-21T16:51:43'
-type: page
+content_type: page
 draft: false
 drupal_nid: 25746
 ---

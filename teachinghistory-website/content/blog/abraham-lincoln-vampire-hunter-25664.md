@@ -2,11 +2,19 @@
 title: Abraham Lincoln, Vampire Hunter?
 date: '2012-07-09T17:50:07'
 lastmod: '2017-12-01T15:52:16'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25664
 url: /nhec-blog/25664
+date_published: '2012-07-24T00:00:00'
+image_fid: '9405'
+splash_image_fid: '9404'
+summary: Students reading over-the-top fiction? Remind them to read historical fiction
+  and secondary sources with critical eyes.
+splash_image: /files/splash-blog-alvh.jpg
+image: /files/image-blog-alvh.jpg
 ---
+
 
 While your students likely won't see Timur Bekmambetov's film *Abraham Lincoln: Vampire Hunter* in theatres (it's rated R), there's a chance they might read the book it's based on.
 In his mashup of historical details and fictional supernatural conspiracy, author Seth Grahame-Smith imagines Abraham Lincoln's life as a secret quest to rid the U.S. of vampires. As Lincoln grows up and becomes a lawyer, politician, and, finally, president, he slays monsters that threaten the safety of his friends, family, and country.

@@ -2,10 +2,12 @@
 title: IF . . . the Omnibus Spending Bill
 date: '2009-02-27T14:27:01'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 21760
 url: /nhec-blog/21760
+date_published: '2009-02-27T00:00:00'
+summary: What's in your wallet?
 ---
 
 The [National Coalition for History Washington Update](http://historycoalition.org/newsletter/) for February 27, 2009 offers a comprehensive summary of the financial implications of the FY '09 Omnibus Funding Bill to the field of history and historians.

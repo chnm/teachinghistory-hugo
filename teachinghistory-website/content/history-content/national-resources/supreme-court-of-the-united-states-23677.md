@@ -2,12 +2,18 @@
 title: Supreme Court of the United States
 date: '2010-01-05T15:38:39'
 lastmod: '2018-09-20T15:22:21'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23677
 url: /history-content/national-resources/23677
 featured: true
+website_url: https://www.supremecourt.gov/
+splash_image_fid: '5051'
+summary: From John Jay to Sonia Sotomayor, the Supreme Court is the final word in
+  law.
+splash_image: /files/SupremeCourt432x240.jpg
 ---
+
 
 The Supreme Court is an essential body in the teaching of U.S. history and civics. So what does it do, and where did it come from? To begin, the Supreme Court's existence was specified in Article III of the U.S. Constitution. As for its duties, the Supreme Court serves largely to hear appeals from cases which originated at a lower level. However, original cases are heard when they involve ambassadors, public ministers, consuls, and/or when a U.S. state is involved.
 The Supreme Court's page may not be the most beautiful website on the block, nor the most technologically up-to-date. However, the navigation is clear; and the site does provide information which could easily be of use to you in the classroom.

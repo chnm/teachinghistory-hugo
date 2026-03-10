@@ -2,11 +2,21 @@
 title: Finding Professional Development
 date: '2010-11-11T15:15:52'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24336
 url: /nhec-blog/24336
+date_published: '2010-11-15T00:00:00'
+image_fid: '6811
+
+
+  6811'
+splash_image_fid: '6810'
+summary: It's never too early to start considering professional development. What
+  opportunities are available to you?
+splash_image: /files/splash-blog-pd.jpg
 ---
+
 
 Is professional development on your schedule for next summer? It may seem early to start planning, but many summer programs will soon (or have already) opened their applications. And professional development opportunities aren't limited to the summer! Organizations offer workshops, seminars, and other chances to network, expand your teaching repertoire, and earn professional credits throughout the year.
 
@@ -14,7 +24,7 @@ Is professional development on your schedule for next summer? It may seem early 
 
 Where might you look for these opportunities? You don't have to look far afield—museums, historic sites, national parks, and historical societies in your area may offer professional development. Search a museum's website for its "Education" or "Teachers" section, and take a look. Does it offer programs for educators?
 Large museums often provide a schedule of open houses (check for these in the fall), workshops, and pre-field trip orientations just for educators (see the Chicago History Museum [Educator Programs page](http://chicagohistory.org/education/educatorprograms) or the U.S. Holocaust Memorial Museum [online catalogue](http://www.ushmm.org/education/foreducators/prodev/currentapplications/) of professional development opportunities.
-Not finding anything? ![](http://teachinghistory.org/files/image-blog-pd2.jpg)Maybe you have a presidential library and museum nearby, providing educators with workshops on using archival resources. Or a local university that offers professional development courses for teachers (such as the [Learn NC program](http://www.learnnc.org/) at the University of North Carolina at Chapel Hill).
+Not finding anything? ![](/files/image-blog-pd2.jpg)Maybe you have a presidential library and museum nearby, providing educators with workshops on using archival resources. Or a local university that offers professional development courses for teachers (such as the [Learn NC program](http://www.learnnc.org/) at the University of North Carolina at Chapel Hill).
 Professional development opportunities may also spring up in unexpected places, in response to events and celebrations. Abraham Lincoln's Bicentennial in 2009 prompted Lincoln-related workshops, conferences, seminars, and other training opportunities nationwide.
 
 ## What Should I Know?

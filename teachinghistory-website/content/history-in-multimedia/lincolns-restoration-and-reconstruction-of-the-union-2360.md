@@ -2,8 +2,16 @@
 title: Lincoln's Restoration and Reconstruction of the Union
 date: '2008-01-04T14:04:02'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 2360
+duration: 01:23:51
+keywords: presidents, politicians, oratory, orators, speeches, speechmaking, Civil
+  War, war, wars, slaves, race, racism, race relations, Reconstruction
+website_url: http://teachingamericanhistory.org/institutes/2004/lincoln_readings.html
+date_published: '2004-06-23T00:00:00'
+series_name: Abraham Lincoln, Slavery, and the Civil War
 ---
 
+Professor William C. Harris overviews Abraham Lincoln's perception of the goals and definition of the Reconstruction following the Civil War.
+To listen to this lecture, scroll to the Wednesday, June 23rd, 7:30 pm-9:30pm session; and select the corresponding RealAudio link to the left.

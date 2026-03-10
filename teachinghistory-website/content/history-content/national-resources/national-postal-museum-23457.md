@@ -2,12 +2,20 @@
 title: National Postal Museum
 date: '2009-10-26T16:44:55'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23457
 url: /history-content/national-resources/23457
 featured: true
+website_url: http://www.postalmuseum.si.edu/index.html
+splash_image_fid: '5060'
+thumbnail_fid: '2218'
+summary: When going postal is actually a good thing! Explore the Museum's extensive
+  online resources, including 15 exhibits.
+thumbnail: /files/website_image/SeattleBlackImage_0.jpg
+splash_image: /files/NationalPostal432x240.jpg
 ---
+
 
 The National Postal Museum is a Smithsonian museum dedicated to sharing the United States' mail communications history.
 In the days of e-mail, facebook, Skype, and AOL messaging, the "snail mail" may seem obsolete to many of your students, short of receiving orders purchased online. However, if you can get them to consider what it may have been like to wait weeks, months, or years for the tiniest bits of information from another place, you will be appealing to their historical imagination.

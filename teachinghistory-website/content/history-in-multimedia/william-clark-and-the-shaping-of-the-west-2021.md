@@ -2,8 +2,16 @@
 title: William Clark and the Shaping of the West
 date: '2008-01-04T14:03:52'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 2021
+duration: 00:53:18
+keywords: Lewis and Clark Expedition, Lewis and Clark, race, racism, race relations,
+  Native Americans, wars, war, the American West, the West, exploration, explorers,
+  Louisiana Purchase
+website_url: http://dev.forum-network.org/lecture/william-clark-and-shaping-west
+date_published: '2004-04-23T00:00:00'
+series_name: 'Ken Burns: The West'
 ---
 
+Landon Y. Jones, vice president of the National Council for the Lewis and Clark Bicentennial, covers the life history of William Clark, including his life after the expedition, when he took part in the seizing of the West from Native Americans.

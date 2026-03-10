@@ -2,11 +2,21 @@
 title: 'Teachinghistory.org’s AHA Workshop: Teaching the Past in a Digital World'
 date: '2012-01-12T17:45:39'
 lastmod: '2017-12-01T15:52:16'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25380
 url: /nhec-blog/25380
+author_bio: Jennifer Rosenfeld is Outreach Director for Teachinghistory.org.
+date_published: '2012-01-25T00:00:00'
+image_fid: '8755'
+author_image_fid: '8751'
+summary: Missed our workshop at the American Historical Association in Chicago? Catch
+  a recap here.
+image: /files/img_0530.jpeg
+author_image: /files/author_image/jennifer1.jpg
 ---
+
+
 
 For those of you who couldn’t make it to Chicago on January 7 for our workshop, “Teaching the Past in a Digital World: New Perspectives for History Education,” at the [American Historical Association (AHA) Annual Meeting](https://www.historians.org/annual/2012/index.cfm), you not only missed the balmy 50 degree temperatures (not bad for Chicago in January!), but also quite a few great resources worth sharing. Here’s a recap:
 After a welcome by Anne Hyde of Colorado College, I provided a brief overview of Teachinghistory.org. With about half the audience already familiar with the site, I was able to get everyone up to speed and highlight a few new features, including the newly unveiled [Favorites](http://teachinghistory.org/favorites) tool, as well as the new [Spotlight Pages](http://www.teachinghistory.org/spotlight). Responding to a commonly asked question about world history, I highlighted the many [teaching materials](http://www.teachinghistory.org/teaching-materials) and [best practices](http://www.teachinghistory.org/best-practices) that can apply to all historical topics, whether you teach the American or the French Revolution.

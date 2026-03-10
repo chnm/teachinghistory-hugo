@@ -2,11 +2,27 @@
 title: 'Anthony Pellegrino: Let the Music Play!...in Our Classrooms'
 date: '2010-11-11T17:19:15'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24344
 url: /nhec-blog/24344
+author_bio: Anthony Pellegrino is an assistant professor of social studies/history
+  education in the secondary education program at George Mason University. He received
+  his doctorate in Secondary Social Science Education from Florida State University.
+date_published: '2010-12-13T00:00:00'
+image_fid: '6817
+
+
+  6817'
+splash_image_fid: '6816'
+author_image_fid: '6821'
+summary: Teach with punk, hip hop, and classic rock with these suggestions from teacher
+  educator Anthony Pellegrino.
+splash_image: /files/splash-blog-ap-music1.jpg
+author_image: /files/author_image/Pellegrino_Image.jpg
 ---
+
+
 
 Music has been a source of inspiration, of protest, of wisdom, and of emotion for millennia. In the United States, music became woven into the fabric of our culture well before we became a nation, and it remains so today. Through songs of protest and patriotism from the 18th and 19th centuries to music of today commenting on and influencing social or political issues, music has found its way into nearly every era and event in American history, inspiring it or reflecting on it.
 

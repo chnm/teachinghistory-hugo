@@ -2,10 +2,23 @@
 title: Good Models of Collaboration
 date: '2010-03-09T16:44:11'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 23877
+author_bio: Arnita Jones is Executive Director of the American Historical Association.
+  She was previously the Executive Director of the Organization of American Historians,
+  a Program Officer for Planning and Assessment at the National Endowment for the
+  Humanities, and was the first director of the National Coordinating Committee for
+  the Promotion of History.
+author_image_fid: '4171'
+summary: For more than a hundred years historians, teachers and the public have been
+  fussing about the sad state of history knowledge among the nation’s high school
+  and college students. Yet despite various reform efforts in nearly every decade
+  of the 20th century, complaints about the lack of a history curriculum that will
+  actively engage students’ attention persist.
+author_image: /files/author_image/jones.jpg
 ---
+
 
 For more than a hundred years historians, teachers and the public have been fussing about the sad state of history knowledge among the nation’s high school and college students. Yet despite various reform efforts in nearly every decade of the 20th century, complaints about the lack of a history curriculum that will actively engage students’ attention persist. And, for their part, history departments are regularly blamed for not taking on a greater role in the training of history teachers. Has anything changed? Will it?
 There is certainly some truth to the charge that history departments have neglected opportunities to educate and train the students who will be the nation’s history teachers, although there have always been some that took this responsibility seriously. More, though, have not reached out to schools of education and instead have complained about the quality of students these schools attract. But have they offered students wishing to enter the teaching profession a rigorous alternative?

@@ -2,11 +2,19 @@
 title: Constitution Day 2010
 date: '2010-09-08T14:36:39'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24230
 url: /nhec-blog/24230
+date_published: '2010-09-08T00:00:00'
+image_fid: '6486'
+splash_image_fid: '6669'
+summary: Explore these online Constitution Day resources for September 17 and throughout
+  the year.
+splash_image: /files/splash-blog-cd10.jpg
+image: /files/image-blog-CD2010.jpg
 ---
+
 
 Every September 17, Constitution Day calls on teachers to memorialize—and critically engage with—Constitutional history in the classroom. But what approach to the Constitution should you take? What quality teaching resources are available? How can you interest your students in a document that is more than 200 years old?
 In 2008, Teachinghistory.org published a [roundup](http://teachinghistory.org/nhec-blog/19505) of Constitution Day resources. Many of those resources remain available, but online Constitution Day content continues to grow. Check out the sites below for materials that recount the Constitutional Convention of 1787, compare the Articles of Confederation with the Constitution, explore U.S. Supreme Court cases that have interpreted the Constitution, and apply the Constitution to contemporary debates.

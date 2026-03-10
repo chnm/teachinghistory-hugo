@@ -2,11 +2,30 @@
 title: Cintia Cabib's Interdisciplinary Gardening
 date: '2011-05-02T16:11:16'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24668
 url: /nhec-blog/24668
+author_bio: Cintia Cabib is an independent producer, videographer, and editor whose
+  award-winning programs have aired on PBS affiliates and on cable television.  Many
+  of her videos have been distributed to nonprofit organizations, school systems and
+  libraries. Her latest documentary, *A Community of Gardeners*, explores the vital
+  role of seven community gardens in Washington, DC, and shows how these green spaces
+  are changing people’s lives, their communities, and their environment. The film
+  also traces the history of community gardening in the United States.  For more information,
+  visit [Communityofgardeners.com](http://communityofgardeners.com/).
+date_published: '2011-05-20T00:00:00'
+image_fid: '7437'
+splash_image_fid: '7438'
+author_image_fid: '7439'
+summary: Walk through the history of student gardening with documentarian Cintia Cabib,
+  and see how you can use gardens in the classroom.
+splash_image: /files/gardeningsplash.jpg
+image: /files/gardeningimage.jpg
+author_image: /files/author_image/cintiacabibheadshot.jpg
 ---
+
+
 
 Soaring food prices, a hunger for locally grown produce, high obesity rates, and the desire by people to reconnect with nature and with each other have sparked a national renaissance in community gardening. As part of this movement, school gardens are sprouting up everywhere. Teachers are using these green spaces to teach a variety of subjects, including horticulture, nutrition, history, science, math, writing, and art.
 

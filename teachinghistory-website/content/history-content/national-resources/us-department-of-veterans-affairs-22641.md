@@ -2,12 +2,19 @@
 title: U.S. Department of Veterans Affairs
 date: '2009-09-07T14:01:16'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22641
 url: /history-content/national-resources/22641
 featured: true
+website_url: http://www.va.gov/
+splash_image_fid: '5131'
+thumbnail_fid: '2173'
+summary: Learn about the men who fought for American ideals and survived.
+splash_image: /files/USDeptVet432x240.jpg
+thumbnail: /files/quiz_thumbnail/Augustina_Thumb.jpg
 ---
+
 
 In the words of Abraham Lincoln, the Department of Veteran Affairs exists "to care for him who shall have borne the battle and for his widow, and his orphan."
 Primarily intended for veterans, the Department of Veteran Affairs does, nonetheless, provide a number of fascinating statistical offerings.

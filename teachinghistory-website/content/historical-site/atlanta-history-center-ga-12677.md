@@ -2,8 +2,11 @@
 title: Atlanta History Center [GA]
 date: '2008-01-08T13:38:46'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 12677
+website_url: http://www.atlantahistorycenter.com
 ---
 
+The Atlanta History Center consists of the Atlanta History Museum, Swan House, Tullie Smith Farm, Centennial Olympic Games Museum, historic gardens, Kenan Research Center, and the Margaret Mitchell House. The Atlanta History Museum depicts the story of Atlanta, GA, from early settlement to modern day. Permanent exhibits address historical development, the Civil War, folk arts, and golfer Bobby Jones. The Olympic museum presents the history of the Olympic Games and the sports which take place at the games via a collection of artifacts and photographs. Topics addressed include financing the event, community involvement, global travel to the Olympics, the bid process, and building game venues. The six historic gardens represent groups of people who influenced the development of Atlanta. The Kenan Research Center provides resources for the study of the history and culture of Atlanta and the South. Particular emphasis is given to gardens, military history, decorative arts, and genealogy. The 1928 Swan House portrays life in the 1920s-1930s; while the 1840s Tullie Smith Farm home is representative of area rural life, and is surrounded by outbuildings, such as a blacksmith shop. The Margaret Mitchell House is listed separately within this database.
+The center offers guided student tours, self-guided student tours, traveling trunks, interactive outreach programs for students, homeschool days, educator workshops, lectures, toddler programs, summer camps, musical performances, gardens, and living history presentations. The Atlanta History Museum offers exhibits, summer camps, and a cafe. The Centennial Olympic Games Museum offers interactive and traditional exhibits, a sports lab, and multimedia presentations. The Kenan Research Center offers research library access. The Swan House offers an exhibit of decorative arts, audio tours, guided tours, and period rooms. The Tullie Smith Farm offers period rooms, guided tours, and demonstrations. The website offers lesson plans, a virtual tour, and a game based on the P.O.W. experience.

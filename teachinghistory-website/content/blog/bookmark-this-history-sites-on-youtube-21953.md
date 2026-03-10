@@ -2,11 +2,16 @@
 title: Bookmark This! History Sites on YouTube
 date: '2009-04-08T14:40:35'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 21953
 url: /nhec-blog/21953
+date_published: '2009-04-08T00:00:00'
+image_fid: '1040'
+summary: History and art museums and archives join the YouTube communications field.
+image: /files/news.jpg
 ---
+
 
 Numerous museums have launched channels on YouTube. The result? Videos of lectures, oral histories, exhibits, and digital archives with accompanying commentary and analysis are available with the click of a mouse. One avenue to find them is simply to use the search term *museum* and select the *Channels* option.
 Art repositories—always amazing sources for visual and material cultures for the history classroom—outnumber history museums, but you'll find the following:

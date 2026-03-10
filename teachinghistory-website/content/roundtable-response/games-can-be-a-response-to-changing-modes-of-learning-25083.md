@@ -2,9 +2,29 @@
 title: Games Can Be a Response to Changing Modes of Learning
 date: '2011-08-17T23:06:29'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25083
+author_bio: 'Roberta Devlin-Scherer’s degrees are in Curriculum and Instruction, English
+  Education, with post-doctoral work in Special Education. She has experience teaching
+  in middle and high school, birth-3 home visit program, resource room, and residential
+  special education settings. At Seton Hall University in South Orange, NJ, she teaches
+  graduate and undergraduate classes that focus on teaching methods and evaluation.
+  She has published articles on gaming, ePortfolios, technology applications, civic
+  participation, video analysis of teaching, and student-faculty telecommunications.
+
+  Nancy B. Sardone is an Assistant Professor and Chairperson of the Teacher Education
+  Department at Georgian Court University, NJ. She teaches graduate and undergraduate
+  classes in Instructional Technology and Social Studies Methods. Her research focuses
+  on the intersection of digital technologies and learning, and she has written articles
+  on digital learning games for the social studies, and on learning through authentic
+  and virtual simulations.'
+author_image_fid: '8294
+
+
+  8294'
+summary: Exposure to mass media, affordability of technological devices, and a growing
+  expectation of immediacy among students are leading to a changing learning environment.
 ---
 
 *The Handbook of Research in Social Studies Education* (2008) notes that the teaching of social studies has not changed much over the past 50-100 years; yet, children have in ways they prefer to learn. Exposure to mass media, affordability of technological devices, and a growing expectation of immediacy among students are leading to a changing learning environment. Electronic content offers the ability to teach and we can design unique learning opportunities to deliver important content with appealing devices. For the past four years, we have taught a variety of electronic games to preservice teachers and observed their use with K-12 students. Below we highlight the games that preservice teachers found interesting to play and useful for their future teaching.

@@ -2,11 +2,16 @@
 title: New Visitor's Center Opens at Monticello
 date: '2009-04-14T08:18:34'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 21984
 url: /nhec-blog/21984
+date_published: '2009-04-14T00:00:00'
+image_fid: '1047'
+summary: What would Thomas Jefferson Say?
+image: /files/1openingb.jpg
 ---
+
 
 [Monticello](http://www.monticello.org), the home of Thomas Jefferson, officially opens a new visitor center on April 15. The [Visitor Center](http://www.monticello.org/site/visit/thomas-jefferson-visitor-center-and-smith-education-center) billed as the *21st-century gateway to Thomas Jefferson's Monticello*, offers hands-on, thought-provoking, interactive views and experiences of the artifacts and ideas that help define Jefferson and his times.
 A [New York Times](http://www.nytimes.com) museum review, [*Jefferson's Blind Spots and Ideals, in Brick and Mortar*](http://www.nytimes.com/2009/04/10/arts/design/10mont.html?_r=1), emphasizes that the overwhelming sweep of the new exhibits serves, in part, to highlight the diversity, tension, and contradictions of Jefferson's genius and the effect of that genius on his personal life and his vision for the nation.

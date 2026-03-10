@@ -2,11 +2,35 @@
 title: Diana Laufenberg on Teaching History Thematically
 date: '2011-03-22T11:06:09'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24585
 url: /nhec-blog/24585
+author_bio: 'Diana Laufenberg has taught grade levels from 7-12 in Social Studies.
+
+  She currently teaches at the Science Leadership Academy in
+
+  Philadelphia, an inquiry-driven, project-based high school focused on
+
+  modern learning. She has also taught in Flagstaff, AZ, and was named
+
+  Technology Teacher of the Year for Arizona and a member of the
+
+  Governor''s Master Teacher Corps. Her work has been published in,
+
+  among other places, the New York Times Learning blog.'
+date_published: '2011-04-20T00:00:00'
+image_fid: '7266'
+splash_image_fid: '7267'
+author_image_fid: '7263'
+summary: Teaching chronologically is not always effective. Check out these tips to
+  create a more unique learning experience.
+splash_image: /files/thematicsplash_0.jpg
+image: /files/thematicimage_0.jpg
+author_image: /files/author_image/dlaufenberg1_0.jpg
 ---
+
+
 
 ## The Pitfalls of Chronology
 

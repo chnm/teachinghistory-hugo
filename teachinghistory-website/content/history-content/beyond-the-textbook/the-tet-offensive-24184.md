@@ -2,11 +2,18 @@
 title: The Tet Offensive
 date: '2010-08-31T11:50:30'
 lastmod: '2018-07-03T11:07:58'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 24184
 url: /history-content/beyond-the-textbook/24184
+author_bio: Fritz Fischer is a Professor of History and Director of History Education
+  at the University of Northern Colorado. He is the 1998 recipient of the College
+  of Arts and Sciences award for outstanding teaching and the recipient of the Mortar
+  Board Outstanding Teacher Award in 2003 and 2006.
+author_image_fid: '6956'
+author_image: /files/author_image/fritz_bio_0.jpg
 ---
+
 
 ## A Complicated Story Simplified
 

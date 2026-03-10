@@ -2,11 +2,24 @@
 title: 'Immigration from Asia Post-1970: A Guide for Pre-Service Teachers'
 date: '2024-10-18T10:41:01'
 lastmod: '2024-10-23T10:39:45'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25878
 url: /teaching-materials/teaching-guides/25878
+author_bio: Nate Sleeter is a research assistant professor at the Roy Rosenzweig Center
+  for History and New Media where he oversees educational projects. He is also a former
+  K-12 teacher.
+image_fid: '10270'
+splash_image_fid: '10273'
+author_image_fid: '10274'
+summary: Help students understand recent immigration history by exploring photographs
+  of Asian immigrant communities in the U.S.
+splash_image: /files/AutocareBig.jpg
+image: /files/HalalMarket.jpg
+author_image: /files/author_image/NATE_SLEETER (1)_0_0.jpeg
 ---
+
+
 
 ### What is it?
 
@@ -63,173 +76,173 @@ The primary sources below are all photographs that depict Asian immigrant commun
 
  Kim, a Korean immigrant, showing a suit to Michael, Jinny's, Broadway, Gary, IN | Library of Congress | www.loc.gov/item/2022650724/
 
-![A woman stands points to one of several suits hanging in front of a closed garaged door.](/sites/default/files/inline-images/SuitsBig.jpg)
+![A woman stands points to one of several suits hanging in front of a closed garaged door.](/files/inline-images/SuitsBig.jpg)
 
 Vietnamese immigrants playing cards outside Tan Phat Noodle House, 3301 Westfield Ave., Camden, NJ 2015 | Library of Congress | www.loc.gov/item/2020698722/
 
-![Outdoors in a parking spot between two parked cars four men play cards at a table.](/sites/default/files/inline-images/cards.jpg)
+![Outdoors in a parking spot between two parked cars four men play cards at a table.](/files/inline-images/cards.jpg)
 
 Hookah lounge in Hamtramck, Michigan. Known in the 20th century as a vibrant center of Polish-American life and culture, Hamtramck has continued to attract immigrants, especially Yemenis and Bangladeshis. Hookah lounges are places where patrons share communal hookahs, or water pipes | Library of Congress | www.loc.gov/item/2020722865/
 
-![A corner store with two large signs reading Tropical Hookah facing each steet above the door.](/sites/default/files/inline-images/hookah.jpg)
+![A corner store with two large signs reading Tropical Hookah facing each steet above the door.](/files/inline-images/hookah.jpg)
 
 A Middle Eastern-themed interior design shop in Hamtramck, Michigan. Known in the 20th century as a vibrant center of Polish-American life and culture, Hamtramck has continued to attract immigrants, especially Yemenis and Bangladeshis | Library of Congress | www.loc.gov/item/2020722860/
 
-![A store window containing pillows and chairs with ornate fabric designs.](/sites/default/files/inline-images/InteriorDesign.jpg)
+![A store window containing pillows and chairs with ornate fabric designs.](/files/inline-images/InteriorDesign.jpg)
 
 A barber named Hani gives a customer, Ali, (both gave only their first names) a haircut in Hamtramck, Michigan. Known in the 20th century as a vibrant center of Polish-American life and culture, Hamtramck has continued to attract immigrants, especially Yemenis and Bangladeshis | Library of Congress | www.loc.gov/item/2020722862/
 
-![A barber cuts a gray-haired man's hair in front of a mirror with an ornate border.](/sites/default/files/inline-images/barber.jpg)
+![A barber cuts a gray-haired man's hair in front of a mirror with an ornate border.](/files/inline-images/barber.jpg)
 
 Store in Hamtramck, Michigan, selling clothing, including burqas, or enveloping outer garment worn by women in some Islamic traditions. Known in the 20th century as a vibrant center of Polish-American life and culture, Hamtramck has continued to attract immigrants, especially Yemenis and Bangladeshis | Library of Congress | www.loc.gov/item/2020722864
 
-![A small store advertises Abaya and Gifts in English and Arabic.](/sites/default/files/inline-images/WomensGarments.jpg)
+![A small store advertises Abaya and Gifts in English and Arabic.](/files/inline-images/WomensGarments.jpg)
 
 Nail-care shop in Hamtramck, Michigan. Known in the 20th century as a vibrant center of Polish-American life and culture, Hamtramck has continued to attract immigrants, especially Yemenis and Bangladeshis. In 2015, its city council became the first city council in the United States with a majority of the members of the Muslim faith | Library of Congress| www.loc.gov/item/2020722863/
 
-![Small store front with a sign above the door reading Nails.](/sites/default/files/inline-images/NailCare.jpg)
+![Small store front with a sign above the door reading Nails.](/files/inline-images/NailCare.jpg)
 
 The Makka Hi Fruit Market in Hamtramck, Michigan. Known in the 20th century as a vibrant center of Polish-American life and culture, Hamtramck has continued to attract immigrants, especially Yemenis and Bangladeshis. In 2015, its city council became the first city council in the United States with a majority of the members of the Muslim faith | Library of Congress | www.loc.gov/item/2020722869/
 
-![Sign in front of a building reads Makka Hi Fruit Market then Arabic script below that Halal Food Vegetable.](/sites/default/files/inline-images/FruitMarket.jpg)
+![Sign in front of a building reads Makka Hi Fruit Market then Arabic script below that Halal Food Vegetable.](/files/inline-images/FruitMarket.jpg)
 
 A colorful tire shop in Hamtramck, Michigan. Known in the 20th century as a vibrant center of Polish-American life and culture, Hamtramck has continued to attract immigrants, especially Yemenis and Bangladeshis. In 2015, its city council became the first city council in the United States with a majority of the members of the Muslim faith | Library of Congress | [www.loc.gov/item/2020722824/](https://www.loc.gov/item/2020722824/)
 
-![A shop called Number 1 Al's Auto Care Fix (english and arabic) is painted outside with pictures of different car parts](/sites/default/files/inline-images/AutoShop.jpg)
+![A shop called Number 1 Al's Auto Care Fix (english and arabic) is painted outside with pictures of different car parts](/files/inline-images/AutoShop.jpg)
 
 The Al-Qamar pizza parlor in Hamtramck, Michigan. Known in the 20th century as a vibrant center of Polish-American life and culture, Hamtramck has continued to attract immigrants, especially Yemenis and Bangladeshis. In 2015, its city council became the first city council in the United States with a majority of the members of the Muslim faith | Library of Congress |  www.loc.gov/item/2020722826/
 
-![A small building has a sign reading Al-Qamar pizza and grill with pictures of pizzas on the windows](/sites/default/files/inline-images/Pizza.jpg)
+![A small building has a sign reading Al-Qamar pizza and grill with pictures of pizzas on the windows](/files/inline-images/Pizza.jpg)
 
 Burk's Igloo ice-cream stand in Hamtramck, Michigan. Known in the 20th century as a vibrant center of Polish-American life and culture, Hamtramck has continued to attract immigrants, especially Yemenis and Bangladeshis. In 2015, its city council became the first city council in the United States with a majority of the members of the Muslim faith - original digital file | Library of Congress |  www.loc.gov/resource/highsm.60598/
 
-![Ice cream stand decorated with a large ice cream cone. ](/sites/default/files/inline-images/IceCream.jpg)
+![Ice cream stand decorated with a large ice cream cone. ](/files/inline-images/IceCream.jpg)
 
 Masjidun-Nur, a Muslim place of worship in Hamtramck, Michigan. Known in the 20th century as a vibrant center of Polish-American life and culture, Hamtramck has continued to attract immigrants, especially Yemenis and Bangladeshis. In 2015, its city council became the first city council in the United States with a majority of the members of the Muslim faith | Library of Congress | www.loc.gov/item/2020722828/
 
-![One-story white building with a "Masjidun-Nur" sign and green minaret designs.](/sites/default/files/inline-images/Masjidun-Nur.jpg)
+![One-story white building with a "Masjidun-Nur" sign and green minaret designs.](/files/inline-images/Masjidun-Nur.jpg)
 
 Clothing store in Hamtramck, Michigan. Note the welcoming sign in three languages in the window. Known in the 20th century as a vibrant center of Polish-American life and culture, Hamtramck has continued to attract immigrants, especially Yemenis and Bangladeshis. In 2015, its city council became the first city council in the United States with a majority of the members of the Muslim faith | Library of Congress | www.loc.gov/item/2020722866/
 
-![Store front with chalkboard in front of the store reading "A Collectible Clothing Boutique. A Place for Something Unique."](/sites/default/files/inline-images/ClothingStore.jpg)
+![Store front with chalkboard in front of the store reading "A Collectible Clothing Boutique. A Place for Something Unique."](/files/inline-images/ClothingStore.jpg)
 
  
 
 Crivijit, originally from India, working for Uber, Myrtle Ave. at Wyckoff Ave., Brooklyn | Library of Congress | [www.loc.gov/item/2021653446/](https://www.loc.gov/item/2021653446/) 
 
-![A man in a hoodie sits on a parked scooter with a large insulated backpack on his back](/sites/default/files/inline-images/Uber_0.jpg)
+![A man in a hoodie sits on a parked scooter with a large insulated backpack on his back](/files/inline-images/Uber_0.jpg)
 
 The Hindu Temple and Cultural Center, near the town of Madrid in Boone County, Iowa | Library of Congress |  [www.loc.gov/item/2016630539/](https://www.loc.gov/item/2016630539/)
 
-![An ornate white building with carved designs and figures.](/sites/default/files/inline-images/Temple_0.jpg)
+![An ornate white building with carved designs and figures.](/files/inline-images/Temple_0.jpg)
 
 One of several elaborate carvings outside the Hindu Temple and Cultural Center, near the town of Madrid in Boone County, Iowa | Library of Congress | [www.loc.gov/item/2016630538/](https://www.loc.gov/item/2016630538/)
 
-![Elephant sculpture in front of temple.](/sites/default/files/inline-images/TempleSculpture.jpg)
+![Elephant sculpture in front of temple.](/files/inline-images/TempleSculpture.jpg)
 
 The OK Boss Asian grocery stores in Windom, Minnesota. As of 2020, Asian restaurants and stores proliferated in small, southern Minnesota towns | Library of Congress | www.loc.gov/item/2020723773/
 
-![A small building with a OK Boss Asian Grocery Store sign. The sign also has a cartoon of a cowboy feeding a horse some green leaves.](/sites/default/files/inline-images/OkBoss.jpg)
+![A small building with a OK Boss Asian Grocery Store sign. The sign also has a cartoon of a cowboy feeding a horse some green leaves.](/files/inline-images/OkBoss.jpg)
 
 Chinese food shops in the Lakewood neighborhood, Chicago, Illinois | Library of Congress | www.loc.gov/resource/afc1981004.145/?sp=1
 
-![Store front with Chinese characters. Porcelain cups can be see in the window. In the foreground 2 women get into a car.](/sites/default/files/inline-images/ChineseStoreChicago.jpg)
+![Store front with Chinese characters. Porcelain cups can be see in the window. In the foreground 2 women get into a car.](/files/inline-images/ChineseStoreChicago.jpg)
 
 Yoga studio in the Lakewood neighborhood, Chicago, Illinois | Library of Congress | www.loc.gov/resource/afc1981004.145/?sp=11
 
-![Building with an International Institute of Shinsundo Shinsun Yoga sign with image of a person doing yoga.](/sites/default/files/inline-images/Yoga.jpg)
+![Building with an International Institute of Shinsundo Shinsun Yoga sign with image of a person doing yoga.](/files/inline-images/Yoga.jpg)
 
  Chinese women playing cards. Bayard St. and Baxter St., Chinatown, Manhattan | Library of Congress |  [www.loc.gov/item/2022642962/](https://www.loc.gov/item/2022642962/)
 
-![The women sit at tables with each other. The venue appears to be sunny and outdoors. Many of them have suitcases and backpacks with them.](/sites/default/files/inline-images/Chinese%20Women%20Playing%20Cards_0.jpg)
+![The women sit at tables with each other. The venue appears to be sunny and outdoors. Many of them have suitcases and backpacks with them.](/files/inline-images/Chinese Women Playing Cards_0.jpg)
 
 Elderly men playing Chinese chess. Columbus Park, Bayard St., Chinatown, Manhattan | Library of Congress | [www.loc.gov/item/2022885526/](https://www.loc.gov/item/2022885526/)
 
-![Elderly men gather around an outdoor table in New York City. Four of them sit across from each other on either side of the table on park benches and the rest of the men stand and observe.](/sites/default/files/inline-images/Men%20Play%20Chinese%20Chess_0.jpg)
+![Elderly men gather around an outdoor table in New York City. Four of them sit across from each other on either side of the table on park benches and the rest of the men stand and observe.](/files/inline-images/Men Play Chinese Chess_0.jpg)
 
 Jolllybee, Filipino Restaurant, 609 8th Ave., Manhattan | Library of Congress | [www.loc.gov/item/2021643708/](https://www.loc.gov/item/2021643708/)
 
-![Three employees taking, assembling, and packaging orders. There are two customers waiting to pick up their orders and two customers placing their orders.](/sites/default/files/inline-images/Jollybee%20Restaurant.jpg)
+![Three employees taking, assembling, and packaging orders. There are two customers waiting to pick up their orders and two customers placing their orders.](/files/inline-images/Jollybee Restaurant.jpg)
 
 Filipino street vendors, 67-12 Roosevelt Ave., Queens | Library of Congress | <www.loc.gov/item/2022885550/>
 
-![A small group of Filipino women sell headbands and other goods at their booth on a street in New York City](/sites/default/files/inline-images/Filipino%20Street%20Vendors.jpg)
+![A small group of Filipino women sell headbands and other goods at their booth on a street in New York City](/files/inline-images/Filipino Street Vendors.jpg)
 
 Baptism celebration, Kabayan Bistro, a Filipino Lounge, 6909 Roosevelt Ave., Queens | Library of Congress |[www.loc.gov/item/2024696323/]( www.loc.gov/item/2024696323/)
 
-![A family gathers around tables at a Filipino restaurant to celebrate a baptism. ](/sites/default/files/inline-images/Baptism%20Celebration.jpg)
+![A family gathers around tables at a Filipino restaurant to celebrate a baptism. ](/files/inline-images/Baptism Celebration.jpg)
 
 The Fil Am float, representing the Filipino American Association of Portland & Vicinity, Inc., passes by in the Fred Meyer Junior Parade, one several events in Portland, Oregon's, annual Rose Festival | Library of Congress | [www.loc.gov/item/2018699497/](https://www.loc.gov/item/2018699497/)
 
-![The float has lots of roses and flowers around the bottom and a crown floating at the top above a group of young girls who sit on the float and wave.](/sites/default/files/inline-images/Fil%20Am%20Parade%20Float_0.jpg)
+![The float has lots of roses and flowers around the bottom and a crown floating at the top above a group of young girls who sit on the float and wave.](/files/inline-images/Fil Am Parade Float_0.jpg)
 
 Vietnamese laundromat and Pizzeria, Saunders St. at N. 27th St., Camden, NJ, 2023 | Library of Congress |  [www.loc.gov/item/2024695773/](https://www.loc.gov/item/2024695773/)
 
-![Photo taken in 2023 of a brick building with two signs on it written in Vietnamese indicating where to enter for pizza or for laundry service.](/sites/default/files/inline-images/Vietnamese%20Laudromat%20and%20Pizzeria.jpg)
+![Photo taken in 2023 of a brick building with two signs on it written in Vietnamese indicating where to enter for pizza or for laundry service.](/files/inline-images/Vietnamese Laudromat and Pizzeria.jpg)
 
 Vietnamese laundromat and Mexican Taqueria, Saunders St. at N. 27th St., Camden NJ, 2006 | Library of Congress |  <www.loc.gov/item/2020702024/>
 
-![Photo taken in 2006 of the same brick building as above on Saunders Street in Camden, New Jersey. Two signs on the outside of the building written in Vietnamese indicating where to enter for the mexican restaurant and for laundry service](/sites/default/files/inline-images/Vietnames%20Laundromat%20and%20Mexican%20Taqueria_0.jpg)
+![Photo taken in 2006 of the same brick building as above on Saunders Street in Camden, New Jersey. Two signs on the outside of the building written in Vietnamese indicating where to enter for the mexican restaurant and for laundry service](/files/inline-images/Vietnames Laundromat and Mexican Taqueria_0.jpg)
 
 Korean musicians, Broad St. at Market St., Newark, NJ | Library of Congress | <www.loc.gov/item/2021635295/>
 
-![At the corner of Broad street and Market Street in Newark, New Jersey a small group of Korean musicians perform for the public. They stand next to the crosswalk lights and one of them plays a guitar.](/sites/default/files/inline-images/Korean%20Musicians%20Newark.jpg)
+![At the corner of Broad street and Market Street in Newark, New Jersey a small group of Korean musicians perform for the public. They stand next to the crosswalk lights and one of them plays a guitar.](/files/inline-images/Korean Musicians Newark.jpg)
 
 Entrance sign at the Assi Plaza Asian grocery and Korean and Chinese specialty store in the Flushing neighborhood of the New York City borough, or county-like jurisdiction, of Queens | Library of Congress | <www.loc.gov/item/2018701181/>
 
-![Sign over the entrance to Assi plaza where there is an Asian grocery store as well as a Korean and Chinese specialty store. The sign includes Chinese, English, and Korean writing.](/sites/default/files/inline-images/Assi%20Plaza.jpg)
+![Sign over the entrance to Assi plaza where there is an Asian grocery store as well as a Korean and Chinese specialty store. The sign includes Chinese, English, and Korean writing.](/files/inline-images/Assi Plaza.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | <www.loc.gov/item/2018699994/>
 
-![There are street vendors, resting pedestrians, and people walking by in front of a Chinese pharmacy.](/sites/default/files/inline-images/Chinatown%20Manhattan.jpg)
+![There are street vendors, resting pedestrians, and people walking by in front of a Chinese pharmacy.](/files/inline-images/Chinatown Manhattan.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | <www.loc.gov/item/2018699995/>
 
-![People walk past the GV Trading store on the corner of a street in Chinatown. Someone rides theirbike past](/sites/default/files/inline-images/GV%20Trading%20Chinatown.jpg)
+![People walk past the GV Trading store on the corner of a street in Chinatown. Someone rides theirbike past](/files/inline-images/GV Trading Chinatown.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | [www.loc.gov/item/2018699996/](https://www.loc.gov/item/2018699996/)
 
-![Pedestrians walk in front of a store with a red awning reading K.L. Seafood Corps in Chinatown](/sites/default/files/inline-images/SeaFood%20Corps%20China%20Town.jpg)
+![Pedestrians walk in front of a store with a red awning reading K.L. Seafood Corps in Chinatown](/files/inline-images/SeaFood Corps China Town.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | [www.loc.gov/item/2018699997/](https://www.loc.gov/item/2018699997/)
 
-![Pedestrians walk in front of Huan Jin Vegetable store front in China Town](/sites/default/files/inline-images/Huang%20Jin%20Vegetable%20China%20Town%20Manhattan.jpg)
+![Pedestrians walk in front of Huan Jin Vegetable store front in China Town](/files/inline-images/Huang Jin Vegetable China Town Manhattan.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | <www.loc.gov/item/2018699998/>
 
-![A small crowd of people walk in front of a store front titled Dahing Seafood Market. ](/sites/default/files/inline-images/China%20Town%20Seafood%20Market.jpg)
+![A small crowd of people walk in front of a store front titled Dahing Seafood Market. ](/files/inline-images/China Town Seafood Market.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress |  www.loc.gov/item/2018700000/
 
-![Store front reading Vivi Bubble Tea with a pink background. A statue of Marge Simpson sits on a bench in front of the store.](/sites/default/files/inline-images/Vivi%20Bubble%20Tea%20China%20Town.jpg)
+![Store front reading Vivi Bubble Tea with a pink background. A statue of Marge Simpson sits on a bench in front of the store.](/files/inline-images/Vivi Bubble Tea China Town.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | www.loc.gov/item/2018700001/
 
-![Front of building reading NG Fook Funeral Services. Construction equipment surrounds the building.](/sites/default/files/inline-images/NG%20Fook%20Funeral%20Services%2C%20China%20Town.jpg)
+![Front of building reading NG Fook Funeral Services. Construction equipment surrounds the building.](/files/inline-images/NG Fook Funeral Services, China Town.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | www.loc.gov/item/2018699941/
 
-![A man sits cross-legged on a chair in front of a store called New China Beauty Salon. ](/sites/default/files/inline-images/Store%20fronts%20in%20China%20Town%2C%20Manhattan.jpg)
+![A man sits cross-legged on a chair in front of a store called New China Beauty Salon. ](/files/inline-images/Store fronts in China Town, Manhattan.jpg)
 
 Fish market in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | www.loc.gov/item/2018699985/
 
-![Fish arranged on tables in the market as a few people in the background survey the various fish.](/sites/default/files/inline-images/China%20Town%20Fish%20Market.jpg)
+![Fish arranged on tables in the market as a few people in the background survey the various fish.](/files/inline-images/China Town Fish Market.jpg)
 
 Produce stand in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | www.loc.gov/item/2018699986/
 
-![Crates of spinach, radishes, scallions, and other green vegetables sit in the foreground with prices. A few men stand behind the produce wearing gloves and interacting with the produce. ](/sites/default/files/inline-images/China%20Town%20Produce%20Stand.jpg)
+![Crates of spinach, radishes, scallions, and other green vegetables sit in the foreground with prices. A few men stand behind the produce wearing gloves and interacting with the produce. ](/files/inline-images/China Town Produce Stand.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | www.loc.gov/item/2018699987/
 
-![A man lens on a fire hydrant in front of a store in China Town. A woman walks behind him. ](/sites/default/files/inline-images/Man%20in%20China%20Town%20Manhattan.jpg)
+![A man lens on a fire hydrant in front of a store in China Town. A woman walks behind him. ](/files/inline-images/Man in China Town Manhattan.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | www.loc.gov/item/2018699988/
 
-![A woman walks past a store-front building in China Town carrying a bag](/sites/default/files/inline-images/Manhattan%20China%20Town_0.jpg)
+![A woman walks past a store-front building in China Town carrying a bag](/files/inline-images/Manhattan China Town_0.jpg)
 
 Some of the hundreds of participants at the 10th-annual Hmong New Year Celebration in downtown Chico, California, pose | Library of Congress | [www.loc.gov/item/2013631121/](https://www.loc.gov/item/2013631121/)
 
-![A group of 12 people organized in two lines, the frontline kneeling and the back line standing behind. Participants are wearing traditional clothing. ](/sites/default/files/inline-images/Hmong_New_Year.jpg)
+![A group of 12 people organized in two lines, the frontline kneeling and the back line standing behind. Participants are wearing traditional clothing. ](/files/inline-images/Hmong_New_Year.jpg)
 
 ### General Tips for Teaching Controversial Subjects
 

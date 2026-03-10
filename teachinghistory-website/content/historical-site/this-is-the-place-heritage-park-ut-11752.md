@@ -2,8 +2,11 @@
 title: This is the Place Heritage Park [UT]
 date: '2008-01-08T13:37:52'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 11752
+website_url: http://www.thisistheplace.org/
 ---
 
+Visitors can journey back in time at Old Deseret Village, a collection of more than 40 historic homes and buildings brought to life by historical interpreters. This is the Place Monument, located in the park, marks the end of the 1,300-mile Mormon trail.
+The park offers exhibits, tours, educational programs, demonstrations, and educational and recreational events (including living history events).

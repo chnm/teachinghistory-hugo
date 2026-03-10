@@ -2,11 +2,26 @@
 title: Using Old Maps as Tools to Explore Our World
 date: '2010-06-01T10:49:36'
 lastmod: '2018-09-21T14:10:26'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 24070
 url: /teaching-materials/teaching-guides/24070
+author_bio: Gerald A. Danzer is Professor of History, Emeritus at the University of
+  Illinois at Chicago. For three decades he directed an MA program for teachers of
+  history. Author or editor of over a dozen books, textbooks, and atlases, his special
+  interest is the use of old maps as historical documents. His work has been recognized
+  twice by the James Harvey Robinson award from the American Historical Association.
+image_fid: '5031'
+splash_image_fid: '5030'
+author_image_fid: '5029'
+summary: Maps show far more than how to go from point A to point B! Discover how to
+  incorporate maps into your classroom.
+splash_image: /files/UsingOld432x240.jpg
+image: /files/UsingOld150x133.jpg
+author_image: /files/author_image/AuthorPhotoDanzer.jpg
 ---
+
+
 
 ## What Is It?
 

@@ -2,9 +2,19 @@
 title: 'Pockets from the Past: Daily Life at Monticello'
 date: '2019-06-13T11:12:36'
 lastmod: '2019-06-13T12:22:39'
-type: ex_of_historical_thinking
+content_type: ex_of_historical_thinking
 draft: false
 drupal_nid: 25858
 url: /best-practices/examples-of-historical-thinking/25858
+splash_image_fid: '10204'
+summary: What do the contents of pockets say about their owners? TAH teachers model
+  strategies for examining and questioning artifacts.
+splash_image: /files/mysterypocketsplash_0.jpg
 ---
 
+
+/sites/default/files/media/video/mysterypocket1.mp4
+
+video/mp4
+
+[![Establishing the Theme](/files/media/video/thumbs/mysterypocket1.jpg)](/sites/default/files/media/video/mysterypocket1.mp4) [![Establishing the Theme](/files/media/video/thumbs/mysterypocket2.jpg)](/sites/default/files/media/video/mysterypocket2.mp4) [![Establishing the Theme](/files/media/video/thumbs/mysterypocket3.jpg)](/sites/default/files/media/video/mysterypocket3.mp4)

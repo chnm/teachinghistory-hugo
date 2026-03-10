@@ -2,11 +2,23 @@
 title: 20th-century Jewish Immigration
 date: '2011-07-29T14:04:43'
 lastmod: '2018-07-03T10:51:23'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 25059
 url: /history-content/beyond-the-textbook/25059
+author_bio: 'Dr. Melissa R. Klapper is Professor of History at Rowan University, where
+  she teaches American, Jewish, and women''s history. She received her BA from Goucher
+  College and her PhD from Rutgers University. She is the author of *Jewish Girls
+  Coming of Age in America, 1860-1920* (NYU Press, 2005) and *Small Strangers: The
+  Experiences of Immigrant Children in the United States*, 1880-1925 (Ivan R. Dee,
+  Publisher, 2007).'
+image_fid: '7878'
+author_image_fid: '8412'
+image: /files/jewishimm_crop.jpg
+author_image: /files/author_image/klapper_pr_photo.jpg
 ---
+
+
 
 ## Jewish Immigration to the United States
 

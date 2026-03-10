@@ -2,10 +2,20 @@
 title: Lessons Learned from Five TAH Grants
 date: '2012-02-10T10:14:09'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25428
+author_bio: Jack Bareilles directs the Humboldt County Teaching American History (TAH)
+  grant program and works as a curriculum coordinator and evaluator for other TAH
+  grants nationwide. He is actively involved in organizing California's TAH Directors'
+  Consortium as well as regional TAH conferences.
+author_image_fid: '8877'
+summary: Professional development is not a summer-exclusive activity. In fact, it
+  is often easier to integrate information learned during professional development
+  experiences if they occur during the school year.
+author_image: /files/author_image/author_bareilles.jpg
 ---
+
 
 I’ve been asked why our five Teaching American History (TAH) grants don’t meet during the summer. There are many reasons, starting with the survey I did back in May 2002 while writing our first TAH in which teachers indicated they didn’t want to meet in the summer and wanted the opportunity to earn an MA (which over 50 will have by the end of our current grant). This predicated a three-year schedule of regular meetings (five evenings and five Saturdays per semester) with 100 hours of meeting time per school year and infrequent summer activities (aside from one study-trip per cohort).
 > Even as a young teacher I realized that if I could bring back one or two things from an inservice and implement them in my classes I was doing well.

@@ -2,11 +2,23 @@
 title: 'Visiting History:  A Guide for Professional Development'
 date: '2012-03-15T17:33:19'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25501
 url: /nhec-blog/25501
+author_bio: Jennifer Rosenfeld is Outreach Director for *Teachinghistory.org*. A museum
+  educator by training, she is happy to be a part of the DC Museum Collaborative.
+date_published: '2012-04-20T00:00:00'
+image_fid: '9026'
+splash_image_fid: '9179'
+author_image_fid: '9027'
+summary: Summer's around the corner . . . time to go visiting history!
+splash_image: /files/splash-blog-vh.jpg
+image: /files/-2.jpg
+author_image: /files/author_image/jennifer1_0.jpg
 ---
+
+
 
 Planning a teacher professional development experience this summer that will take your teachers on the road and outside of the classroom? Whether you are going across town to a local museum or across the country to visit a number of sites, be sure to check out *Teachinghistory.org’s* new professional development planning guide, *[Visiting History](http://teachinghistory.org/visiting-history)*.
 Designed to help professional development coordinators plan a successful trip to a museum, library, or historic site, the guide opens with a [video](http://teachinghistory.org/visiting-history) that poses the question: What is good professional development?

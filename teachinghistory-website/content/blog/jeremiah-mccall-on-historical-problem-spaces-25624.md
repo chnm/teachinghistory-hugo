@@ -2,11 +2,25 @@
 title: Jeremiah McCall on Historical Problem Spaces
 date: '2012-05-24T17:56:10'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25624
 url: /nhec-blog/25624
+author_bio: 'Jeremiah McCall, PhD, teaches high school history at Cincinnati Country
+  Day School. He is the author of *Gaming the Past: Using Video Games to Teach Secondary
+  History*. He also maintains the site [gamingthepast.net](http://gamingthepast.net/).'
+date_published: '2012-06-04T00:00:00'
+image_fid: '9288'
+splash_image_fid: '9287'
+author_image_fid: '9285'
+summary: Students solve "problem spaces" when they play video games. Apply "problem
+  space" thinking to studying history!
+splash_image: /files/simgamessplash.jpg
+image: /files/simgamesimage.jpg
+author_image: /files/author_image/authorphotojeremiahmccall75x75_2_1_0_0.jpg
 ---
+
+
 
 *Years of working with simulation games have prompted me to re-examine and re-evaluate the content, methods, and skills of studying the past. Since last May, I have been slowly developing a new framework for using simulations games and simulation game thinking in the study of the past that I’d like to share in this last [installment](http://teachinghistory.org/nhec-blog?keys=jeremiah+mccall). This is still very much in the initial conceptual stages, but already proving successful in my own classes.*
 Spending time with simulation games suggests that countless human situations past and present can be studied as **problem spaces**. In this context, the term “problem space” borrows elements from the field of problem solving and game theory. A problem space in the historical or current political, economic, social, etc. sense can be likened to a simulation game. There are **players** with **roles**, though we would more likely term these players ***agents*** or ***actors***. These players have **motives** and **goals**, though they may not always seek them or know them—the goals may not be rational or achievable. Player/agents have **choices** and **strategies**, though not all choices or strategies are always readily perceived, and those that observers outside the space identify may not have been choices at all at the time. Finally, the environment itself—the physical space, objects, and resources—offers **affordances** (aids to carrying out decisions and strategies) and **constraints** (limits to carrying out decisions and strategies). Additional affordances and constraints are posed by psychological and cultural factors.

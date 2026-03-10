@@ -2,11 +2,19 @@
 title: A Day On, Not a Day Off
 date: '2011-01-16T17:59:05'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24456
 url: /nhec-blog/24456
+date_published: '2011-01-17T00:00:00'
+image_fid: '7029'
+splash_image_fid: '8722'
+summary: Happy Martin Luther King Jr. Day! Celebrate this holiday as a day of public
+  service.
+splash_image: /files/splash-mlk-dosblog.jpg
+image: /files/Untitled.jpg
 ---
+
 
 Happy Martin Luther King Jr. Day! Since 1994 and the signing into law of the King Holiday and Service Act, the holiday is a "day on, not a day off," a national day of service. According to the [King Center](http://www.thekingcenter.org/king-holiday), King's widow, Coretta Scott King, described the holiday this way:
 > *Every King Holiday has been a national "teach-in" on the values of nonviolence, including unconditional love, tolerance, forgiveness and reconciliation, which are so desperately needed to unify America. It is a day of intensive education and training in Martin's philosophy and methods of nonviolent social change and conflict-reconciliation. The Holiday provides a unique opportunity to teach young people to fight evil, not people, to get in the habit of asking themselves, "what is the most loving way I can resolve this conflict?"*

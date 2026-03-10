@@ -2,7 +2,7 @@
 title: 'Alaska: 1st-Grade Standards'
 date: '2009-02-08T20:07:37'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20874
 ---

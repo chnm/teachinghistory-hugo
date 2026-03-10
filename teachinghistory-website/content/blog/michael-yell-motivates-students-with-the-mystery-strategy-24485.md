@@ -2,11 +2,26 @@
 title: Michael Yell Motivates Students with the Mystery Strategy
 date: '2011-02-01T14:11:36'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24485
 url: /nhec-blog/24485
+author_bio: Michael Yell is a 7th-grade history teacher at the Hudson Middle School
+  in Hudson, WI. He holds National Board Certification in Early Adolescent Social
+  Studies–History, and is a past president of the National Council for the Social
+  Studies.
+date_published: '2011-03-07T00:00:00'
+image_fid: '7192'
+splash_image_fid: '7084'
+author_image_fid: '7083'
+summary: Piece together history from a handful of clues with 7th-grade teacher Michael
+  Yell's Mystery strategy.
+splash_image: /files/24295_432x240.jpg
+image: /files/Room-4-2.jpg
+author_image: /files/author_image/mYell_0.jpg
 ---
+
+
 
 > *The word history comes from the Greek* historein*—meaning “to inquire.” Recommendations for using inquiry [for learning history] have a long tradition.*
 > *People learn through inquiry. . . . inquiry is an approach consistent with current theory and research on human learning. When understanding is needed, inquiry appears to be one of the best ways to get there.*

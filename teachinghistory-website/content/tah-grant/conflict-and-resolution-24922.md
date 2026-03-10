@@ -2,8 +2,9 @@
 title: Conflict and Resolution
 date: '2011-06-15T15:23:53'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24922
 ---
 
+This project will serve high-need, low-performing rural and urban-fringe districts in New York State. Eight of the 10 districts include schools that failed to achieve Adequate Yearly Progress; two schools are in state-designed school improvement status. Each year, teachers will participate in (1) two content-specific 3-day workshops, taught by academic/pedagogic experts from the Smithsonian Institution; (2) a credit-bearing, week-long summer institute taught by professors from Cornell University; and (3) bi-monthly professional learning community sessions, which allow teachers to discuss content, pedagogy strategies and best practices through feedback, modeling and support (six sessions per year). In Years 2 and 4, they will attend summer learning excursions in Washington, D.C., to study with university historians, museum educators and content specialists. In Years 1, 3 and 5, they will visit local historic sites that offer on-site studies of war, social conflict and conflict resolution. The project will involve at least 35 teachers per year, encouraging repeat attendance in multiple activities. The content will investigate social, political and military conflict throughout American history. It also will examine key figures, critical events and social movements that changed the course of history, and the conflicts and resolutions that altered the American experience. The project framework captures the work of countless historians and educators to identify main ideas, people and unifying themes in American history. All activities will help teachers develop strategies that incorporate primary sources into daily lessons. The project Web site will feature lesson plans, primary sources and an electronic library of workshops, seminars and institute lectures.

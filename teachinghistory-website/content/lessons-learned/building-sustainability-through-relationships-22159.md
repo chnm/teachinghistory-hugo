@@ -2,10 +2,23 @@
 title: Building Sustainability Through Relationships
 date: '2009-05-14T12:54:42'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 22159
+author_bio: Pamela Gothart is the TAH Project Director for three Teaching American
+  History grants and was Coordinator for a past TAH grant. She is also the Gilder
+  Lehrman Coordinator for Madison County Schools, AL, where there are two schools
+  that host Gilder Lehrman programs and two affiliate schools.
+image_fid: '1081'
+splash_image_fid: '4569'
+author_image_fid: '4142'
+summary: How much does your local Board of Education know about your TAH grant program?
+splash_image: /files/MakingConnections.jpg
+image: /files/gothartim.jpg
+author_image: /files/author_image/gothart_0.jpg
 ---
+
+
 
 How much does your local Board of Education know about your TAH program? Have you ever invited them to attend one of your training sessions? What about central office personnel, have you ever involved them in your program? Hopefully, you are ahead of the game and have done these things already; but if not, let’s look at the possibilities.
 In 2002, a colleague asked me to co-write a TAH grant. I was intrigued, as my largest endeavor to date was $3,000. Our system did not have a grant writer nor did they have curriculum specialists, but the superintendent was willing to allow us to embark upon this adventure. In the fall of 2002, we received word—our grant proposal was awarded. We were truly blessed!

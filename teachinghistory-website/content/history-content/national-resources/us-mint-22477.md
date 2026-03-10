@@ -2,11 +2,18 @@
 title: U.S. Mint
 date: '2009-08-19T12:05:42'
 lastmod: '2018-09-20T11:33:04'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22477
 url: /history-content/national-resources/22477
+website_url: http://www.usmint.gov/
+splash_image_fid: '5076'
+thumbnail_fid: '2155'
+summary: A magician may be able to pull coins out of thin air, but most of us can't.
+splash_image: /files/USMint432x240.jpg
+thumbnail: /files/quiz_thumbnail/SenecaVillage_Thumb.jpg
 ---
+
 
 The U.S. Mint, founded in 1792, creates all U.S. coins; and guards the nation's gold and silver, as well as the U.S. Bullion Depository.
 The Mint site offers a wealth of educational resources, not just within the "Kids and Teachers" section. Some are difficult to locate, but the following links should prove helpful.

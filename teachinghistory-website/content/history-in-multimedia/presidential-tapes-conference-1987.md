@@ -2,8 +2,14 @@
 title: Presidential Tapes Conference
 date: '2008-01-04T14:03:51'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 1987
+duration: 00:47:11
+keywords: Presidents, public relations, mass media, media coverae, recording, records,
+  reportage, reporting, Presidential Tapes
+website_url: http://dev.forum-network.org/lecture/presidential-tapes-conference
+date_published: '2003-02-17T00:00:00'
 ---
 
+A panel discusses the uncovering and content of the Presidential Tapes and what these recordings say about these presidents, their choices, and their personalities. The presentation includes excerpts from the Presidential Tapes.

@@ -2,11 +2,19 @@
 title: 150 Years Ago Today...
 date: '2011-01-25T16:31:22'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24465
 url: /nhec-blog/24465
+date_published: '2011-02-25T00:00:00'
+image_fid: '7157'
+splash_image_fid: '7156'
+summary: April 12th will mark the 150th anniversary of the American Civil War. How
+  is your state celebrating?
+splash_image: /files/splash-blog-sesqui11.jpg
+image: /files/image-blog-sesqui11.jpg
 ---
+
 
 The bicentennial of Abraham Lincoln's birth was celebrated in 2009. This year, 2011, marks a related sesquicentennial. Sesqui? What's that? It means "one and a half," and a sesquicentennial marks something's 150th anniversary. In 1861, 150 years ago as of April 12, Confederates fired on Fort Sumter, SC, and the American Civil War began.
 Historical sites, museums, societies, and other organizations have been gearing up to celebrate this anniversary for months, if not years—and as educators you can take advantage of their materials and events.

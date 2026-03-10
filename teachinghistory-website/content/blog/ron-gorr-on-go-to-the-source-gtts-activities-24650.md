@@ -2,11 +2,28 @@
 title: Ron Gorr on Go to the Source (GTTS) Activities
 date: '2011-04-26T14:08:18'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24650
 url: /nhec-blog/24650
+author_bio: Ron Gorr currently teaches A.P. U.S. history at Air Academy High School
+  in Colorado Springs, CO. He has a MA in history from the University of Colorado—Colorado
+  Springs and is currently in his 15th year of teaching (mostly in U.S. history).
+  In addition to working as a teaching representative during the redesign process
+  of Teachinghistory.org, Ron has recently presented primary sources lessons at the
+  National Council for Social Studies and the National Council for History Education.
+date_published: '2011-05-04T00:00:00'
+image_fid: '7403'
+splash_image_fid: '7404'
+author_image_fid: '7401'
+summary: Primary sources are crucial for historical study. AP history teacher Ron
+  Gorr suggests ways to better incorporate them into lesson plans.
+splash_image: /files/GttSsplash.jpg
+image: /files/GttSimage.jpg
+author_image: /files/author_image/ron-headshot.jpg
 ---
+
+
 
 To teach history without primary sources is analogous to building a house without walls. Without the structure of authentic historical references, student understanding will collapse if it is confined to the subjectivity of teachers, texts, and the modern world around them. Albeit, most teachers and texts attempt to provide a balanced delivery of content, but *nothing beats the analytical dissection of an actual primary document and the historical truth that can be garnered from it.* As an added bonus, primary-source activities can augment the redevelopment of history curricula that are finally beginning to recognize the significance of these critical resources.
 > I think [my students] know what primary documents are, but I'm not sure they understand why they are important.

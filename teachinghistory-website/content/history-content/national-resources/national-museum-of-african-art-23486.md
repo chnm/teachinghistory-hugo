@@ -2,12 +2,17 @@
 title: National Museum of African Art
 date: '2009-11-04T14:04:04'
 lastmod: '2018-09-20T14:45:14'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23486
 url: /history-content/national-resources/23486
 featured: true
+website_url: https://africa.si.edu/
+splash_image_fid: '5036'
+summary: Approach African American history and culture through African art.
+splash_image: /files/MuseumofAfrican432x240.jpg
 ---
+
 
 According to the National Museum of African Art's mission statement, the museum ". . . fosters the discovery and appreciation of the visual arts of Africa, the cradle of humanity."
 While African art, as differentiated from African American art, is not necessarily directly applicable to teaching American history, it should not be written off as irrelevant. After all, the Middle Passage, slavery, and the Great Migration are major historical U.S. institutions and events which all involved Africans and/or African Americans. This art can be used to discuss the cultures in which today's African American populations originated, and how these cultures played into their lives in the United States—in the past and today.

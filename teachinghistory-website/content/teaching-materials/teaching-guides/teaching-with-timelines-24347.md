@@ -2,11 +2,24 @@
 title: Teaching with Timelines
 date: '2010-11-16T15:08:43'
 lastmod: '2017-10-06T15:21:32'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 24347
 url: /teaching-materials/teaching-guides/24347
+author_bio: Elise Fillpot is director of the Bringing History Home Project and is
+  currently a visiting fellow at the University of Iowa College of Education and a
+  visiting assistant professor in the UI Department of History.
+image_fid: '6824'
+splash_image_fid: '6825'
+author_image_fid: '6823'
+summary: Construct an ongoing, shared classroom timeline in middle and elementary
+  classrooms, and help students tackle the chronology of history.
+splash_image: /files/timelinesplash.jpg
+image: /files/timelineimage.jpg
+author_image: /files/author_image/fillpot_1_0.jpg
 ---
+
+
 
 ## What Is It?
 

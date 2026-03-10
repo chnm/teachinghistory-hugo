@@ -2,12 +2,19 @@
 title: Structured Academic Controversy (SAC)
 date: '2009-02-18T18:28:32'
 lastmod: '2018-09-21T14:37:08'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 21731
 url: /teaching-materials/teaching-guides/21731
 featured: true
+image_fid: '4101'
+splash_image_fid: '4045'
+summary: Are classroom discussions about winning the argument or about understanding
+  alternative positions?
+splash_image: /files/StructuredAcademicSplash.jpg
+image: /files/StructuredAcademic-150x113.jpg
 ---
+
 
 ## What Is It?
 

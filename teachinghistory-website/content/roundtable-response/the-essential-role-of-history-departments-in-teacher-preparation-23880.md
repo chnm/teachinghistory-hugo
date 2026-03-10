@@ -2,10 +2,22 @@
 title: The Essential Role of History Departments in Teacher Preparation
 date: '2010-03-09T17:45:38'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 23880
+author_bio: Michael Wallace is an educational consultant specializing in the teaching
+  of history and the social sciences. During his forty-year career he has been a classroom
+  teacher, university instructor, director of pupil services, and assistant superintendent
+  and acting superintendent. He is co-author of a high school text, *Practical Politics
+  and Government*.
+author_image_fid: '4175'
+summary: Ultimately, whether teachers view history as an established set of facts
+  objectively presented in textbooks, or as an ongoing construction of the past that
+  is complex, uncertain, and open to revision and interpretation, greatly influences
+  the type of history they teach.
+author_image: /files/author_image/wallace.jpg
 ---
+
 
 The essential role of history departments in the preparation of pre-collegiate level teachers is to teach them how historians think and to provide a broad base of historical knowledge.
 The typical K–12 history teacher is not a professional historian; in fact, only two-thirds of secondary history teachers have even majored in history. The instructional choices these teachers make are guided by state curricula and, chiefly, by their experiences as learners and their beliefs about the nature of history. And, ultimately, whether teachers view history as an established set of facts objectively presented in textbooks, or as an ongoing construction of the past that is complex, uncertain, and open to revision and interpretation, greatly influences the type of history they teach.

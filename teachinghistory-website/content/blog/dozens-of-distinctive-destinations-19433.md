@@ -2,10 +2,12 @@
 title: Dozens of Distinctive Destinations
 date: '2008-06-30T10:06:06'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19433
 url: /nhec-blog/19433
+date_published: '2008-06-30T00:00:00'
+summary: Vacation with living history outside the classroom.
 ---
 
 Vacation with living history outside the classroom. Each year since 2000, the National Trust for Historic Preservation selects a [Dozen Distinctive Destinations](http://www.preservationnation.org/travel-and-sites/travel/dozen-distinctive-destinations/) across the country where visitors can have terrific vacations in communities committed to historic preservation and revitalization.

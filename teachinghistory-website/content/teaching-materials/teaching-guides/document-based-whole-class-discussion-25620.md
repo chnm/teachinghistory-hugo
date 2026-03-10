@@ -2,11 +2,25 @@
 title: Document-Based Whole-Class Discussion
 date: '2012-05-22T14:52:35'
 lastmod: '2018-08-02T22:06:45'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25620
 url: /teaching-materials/teaching-guides/25620
+author_bio: Abby Reisman is a Senior Researcher at UCLA's National Center for Research
+  on Evaluation, Standards, & Student Testing (CRESST). She was the Project Director
+  for *Reading Like a Historian* in San Francisco, the first extended history curriculum
+  intervention in urban high schools.
+image_fid: '9282'
+splash_image_fid: '9283'
+author_image_fid: '9278'
+summary: Classroom discussions need not be argumentative and unproductive. Discover
+  a way to facilitate healthy discussion in your classroom.
+splash_image: /files/discussionsplash.jpg
+image: /files/discussionimage.jpg
+author_image: /files/author_image/author_4.jpg
 ---
+
+
 
 ## What Is It?
 

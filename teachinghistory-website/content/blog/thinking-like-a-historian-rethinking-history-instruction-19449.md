@@ -2,10 +2,12 @@
 title: 'Thinking Like a Historian: Rethinking History Instruction'
 date: '2008-07-17T09:27:44'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19449
 url: /nhec-blog/19449
+date_published: '2008-07-17T00:00:00'
+summary: Are students ever too young to start learning to think like historians?
 ---
 
 Are students ever too young to start learning to think like historians? Not according to the historians and educators working through the University of Wisconsin, Whitewater, to develop [*Thinking Like a Historian: Rethinking History Instruction*](http://www.uww.edu/cls/history/for-teachers). Written materials and accompanying DVD demonstrate how educators always teach critical thinking to students of all grade levels.

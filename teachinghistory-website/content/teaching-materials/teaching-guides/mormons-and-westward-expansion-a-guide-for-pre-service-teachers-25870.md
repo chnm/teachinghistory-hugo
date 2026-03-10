@@ -2,11 +2,26 @@
 title: 'Mormons and Westward Expansion: A Guide for Pre-Service Teachers'
 date: '2022-08-23T10:12:26'
 lastmod: '2022-09-13T14:05:08'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25870
 url: /teaching-materials/teaching-guides/25870
+author_bio: Nate Sleeter is a research assistant professor at the Roy Rosenzweig Center
+  for History and New Media where he oversees educational projects. He is also a former
+  K-12 teacher.
+image_fid: '10234'
+splash_image_fid: '10235'
+author_image_fid: '10236'
+summary: Teachers guide students to create interactive digital maps detailing the
+  migration of Mormons using Library of Congress primary sources.
+spotlight: Teachers guide students to create interactive digital maps detailing the
+  migration of Mormons using Library of Congress primary sources.
+splash_image: /files/MormonRouteMapsplash.jpg
+image: /files/MormonRouteMap.jpg
+author_image: /files/author_image/NATE_SLEETER (1)_2.JPG
 ---
+
+
 
 **What is it?**
 

@@ -2,14 +2,18 @@
 title: Forebears’ Furniture
 date: '2010-04-13T12:36:12'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23947
 question: Can you suggest any sources for a furnishing plan for a 1790 second floor
   bedroom of the house of a well-to-do 3rd generation Scots-Irish farm family who
   lived just north of Harrisburg, Pennsylvania?
 url: /history-content/ask-a-historian/23947
+splash_image_fid: '4523'
+summary: How would a 1790 Pennsylvania farmhouse have been furnished?
+splash_image: /files/floor-plan.jpg
 ---
+
 
 Depending on how much information you already have about the house, you might have to begin with examples of basic architectural plans of other houses from the time that are roughly in the same area. A good place to look for this is in the Historic American Buildings Survey (a New Deal project), all of which is now available [online](”http://www.loc.gov/pictures/collection/hh/”) from the Library of Congress.
 Architectural drawings, made during the 1930s, of a wide variety of almost 40,000 historic buildings around the country are provided, as well as photographs, and written descriptions, including notes on changes and additions that had been made since the buildings were first completed. An example from the database is the documentation of the [William Maclay Mansion](”http://www.loc.gov/pictures/collection/hh/item/PA0395/?sid=e4095e9e321fd224a53c4f4b0f560079”), built in downtown Harrisburg in 1793.
@@ -34,3 +38,9 @@ Even famous houses of the 18th century that were later restored—such as Washin
 Except for the very wealthiest people in the 18th century, and well into the 19th century (when furniture became mass-produced and relatively less expensive), most people’s sleeping room would have had only a bed, a chest, and perhaps a chair and a small table. A spinning wheel might also have found space there.
 Sometimes, letters from the time mention items of furniture—if they’ve been broken or replaced or given as wedding gifts or in token of friendship or esteem. That can be helpful in reconstructing a family’s furnishings.
 Another place to look is in wills, inventories, and probate records. Specific items of furniture are often recorded there, as they are disbursed to the next generation. It is sometimes evident where the deceased lived and some information is often provided about social status and occupation. Historian Barbara Clark Smith, [elsewhere](”http://historymatters.gmu.edu/mse/sia/inventory.htm#”) on this website, shows how useful this can be by looking an example of an 1804 probate inventory of the possessions of Thomas Spring of New Castle County, Delaware.
+
+---
+
+[**Daily Objects, 19th-century America**](http://teachinghistory.org/best-practices/examples-of-historical-thinking/23423)
+[**National Gallery of Art: Press Office**](http://www.nga.gov/press/2010/acqui_kaufman.shtm)
+[National Gallery of Art: Decorative Arts](http://www.nga.gov/collection/gallery/decarts.shtm)

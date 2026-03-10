@@ -2,11 +2,29 @@
 title: Michael Yell's Strategies for Using Primary Sources in Your Classroom
 date: '2011-04-26T17:51:32'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24651
 url: /nhec-blog/24651
+author_bio: 'Michael Yell is a 7th-grade history teacher at the Hudson Middle
+
+  School in Hudson, WI. He holds National Board Certification in Early
+
+  Adolescent Social Studies–History, and is a past president of the
+
+  National Council for the Social Studies.'
+date_published: '2011-05-09T00:00:00'
+image_fid: '7414'
+splash_image_fid: '7417'
+author_image_fid: '7405'
+summary: Combine strategies to create new techniques! Mike Yell combines DBQs and
+  Response Groups.
+splash_image: /files/Strategiessplash.jpg
+image: /files/Strategiesimage.jpg
+author_image: /files/author_image/mYell_1.jpg
 ---
+
+
 
 > *As you enter a classroom ask yourself this question: "If there were no students in the room, could I do what I am planning to do?" If your answer to the question is yes, don't do it. (*
 > —General Ruben Cubero [[1](#note1)])

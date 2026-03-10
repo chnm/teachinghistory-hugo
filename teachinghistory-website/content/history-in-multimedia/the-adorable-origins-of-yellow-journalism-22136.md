@@ -2,8 +2,13 @@
 title: The Adorable Origins of Yellow Journalism
 date: '2009-05-08T17:52:22'
 lastmod: '2017-12-01T14:53:33'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 22136
+duration: 00:07:12
+website_url: http://backstoryradio.org/the-adorable-origins-of-yellow-journalism/
+date_published: '2009-05-07T00:00:00'
+series_name: BackStory
 ---
 
+Rachel Quimby looks at the pop culture icon the Yellow Kid and the connection of this figure with yellow journalism.

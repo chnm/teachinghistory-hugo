@@ -2,11 +2,17 @@
 title: Patents as Primary Sources
 date: '2010-09-07T16:20:18'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24215
 url: /nhec-blog/24215
+date_published: '2010-09-28T00:00:00'
+image_fid: '6623'
+summary: Patents as primary sources? These documents can give your students clues
+  to development of U.S. science, technology, business, and social concerns.
+image: /files/blog-patents.jpg
 ---
+
 
 Ever tried teaching with technology? No, we don't mean Twitter, Facebook, iPods, cutting-edge interactive whiteboards, or even video and DVD players.
 We mean patents.

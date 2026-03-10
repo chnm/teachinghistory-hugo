@@ -2,11 +2,14 @@
 title: Picturing America Program Unveiled at White House
 date: '2008-01-31T11:47:31'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 14883
 url: /nhec-blog/14883
 featured: true
+date_published: '2008-04-01T00:00:00'
+summary: Bring some of America’s greatest works of art into your classroom as teaching
+  tools to foster historical thinking and analysis.
 ---
 
 The [National Endowment for the Humanites](http://www.neh.gov) recently launched [*Picturing America*](http://picturingamerica.neh.gov/) at the White House. The initiative offers 40 images of American art for use in social studies and history classrooms to K-12 schools and public libraries. Educational materials include an illustrated, 119-page teachers resource book as well as the web site containing additional information and lesson plans.

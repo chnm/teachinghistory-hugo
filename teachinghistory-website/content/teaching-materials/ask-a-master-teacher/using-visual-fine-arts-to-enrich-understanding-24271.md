@@ -2,7 +2,7 @@
 title: Using Visual Fine Arts to Enrich Understanding
 date: '2010-09-29T14:21:55'
 lastmod: '2017-12-05T08:46:32'
-type: ask_an_educator
+content_type: ask_an_educator
 draft: false
 drupal_nid: 24271
 question: 'What resources or techniques would you recommend for teaching using art
@@ -11,7 +11,14 @@ question: 'What resources or techniques would you recommend for teaching using a
   Thinking" on your site. In this instance, we are concentrating on the visual fine
   arts – painting and photography.'
 url: /teaching-materials/ask-a-master-teacher/24271
+image_fid: '6630'
+splash_image_fid: '6634'
+summary: The socio-cultural impact of historic events or time periods and the interpretation
+  through various forms of media.
+splash_image: /files/WPAposter_splash.jpg
+image: /files/art_crop.jpg
 ---
+
 
 Things have changed since teachers had to go through their private and local libraries to create slideshows using art to teach history. Now with a click of a mouse and a projector, we can show students provocative works of art. And while including art in your teaching will, no doubt, engage some of your reluctant students and add variety and aesthetic appeal to your curriculum, deliberate methods are required when teaching students to analyze the visual fine arts as a means to learn about the past. And those methods require slowing down when we observe and discuss a piece of art.
 It may be useful to think about three things as critical to teaching students how to analyze art as historical artifacts:
@@ -32,3 +39,12 @@ See this [entry](http://teachinghistory.org/tah-grants/lessons-learned/24086) to
 At teachinghistory.org, see our [“Using Primary Sources”](http://teachinghistory.org/best-practices/using-primary-sources) feature for links to worksheets that can be used to analyze varied kinds of sources, including photos and art. See both our entry about the National Archive’s [worksheets](http://teachinghistory.org/best-practices/using-primary-sources/14578) and the Library of Congress’ [worksheets](http://teachinghistory.org/best-practices/using-primary-sources/14576). In the Library’s excellent [Prints and Photograph collection](http://www.loc.gov/rr/print/list/listguid.html), you can also find help in preparing to teach students and teachers about analyzing photos as historical sources rather than as truth-telling images. Check out their resources on Dorothea Lange’s iconic migrant mother photo [here](http://memory.loc.gov/ammem/awhhtml/awpnp6/migrant_mother.html) and [here](http://www.loc.gov/rr/print/list/128_migm.html) to help you use this photo to illustrate the choices and selection that the photographer makes.
 See [“Using documentary photography”](http://teachinghistory.org/best-practices/using-primary-sources/14568) for a comprehensive guide that uses the photos of Jacob Riis to illustrate the process of photo analysis. Especially helpful may be the guide’s [list of questions](http://historymatters.gmu.edu/mse/photos/question1.html).
 Good luck! And we’d love to hear what was most helpful to you.
+
+---
+
+For other helpful resources see:
+
+* Check out the [Fall 2010](http://teachinghistory.org/nhec-blog/24199) newsletter that focuses on the use of images in the History classroom;
+* A [guide](http://teachinghistory.org/teaching-materials/teaching-guides/21806 ) to using K-W-L charts for helping students analyze photos;
+* This [question](http://teachinghistory.org/digital-classroom/ask-a-digital-historian/23885) for a guide to online photo archives;* The “What is Historical Thinking” video on our home page. It can help make clear some of the key facets of analyzing any historical source; and
+  * Search “website reviews” in the [History Content section](http://teachinghistory.org/history-content) to locate websites that have art and teacher resources for using that art in the classroom.

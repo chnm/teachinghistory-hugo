@@ -2,11 +2,16 @@
 title: Bookmark This! Gilder Lehrman's History Now
 date: '2009-09-23T09:51:50'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22907
 url: /nhec-blog/22907
+date_published: '2009-09-23T00:00:00'
+image_fid: '2376'
+summary: It's all about the American Revolution.
+image: /files/home_pic2.jpg
 ---
+
 
 The quarterly journal of [The Gilder Lehrman Institute of American History](http://www.gilderlehrman.org/), [*History Now*](http://www.gilderlehrman.org/history-now/2009-09/american-revolution), is always excellent, and the issue focusing on the American Revolution is no exception.
 What's there? An in-depth ideological and historiographic look at the Revolution and materials to help teach about the era—including, but not limited to the following:

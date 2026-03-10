@@ -2,10 +2,20 @@
 title: What to Do When You Teach It All
 date: '2008-02-08T18:12:10'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 14953
+author_bio: A former middle school teacher, Delicia Worrill is in her first year as
+  the elementary History Content Coach for the Savannah-Chatham Public School System
+  Teaching American History Grant and her seventh year as an educator. She received
+  her undergraduate degree from Spelman College and a Master in Middle Grades Education
+  from Armstrong Atlantic State University.
+splash_image_fid: '4963'
+summary: Teaching American History (TAH) has been an exciting opportunity for me in
+  several ways. . .
+splash_image: /files/What_to_Do_When_You_Teach_It_All_-_432x240.jpg
 ---
+
 
 Teaching American History (TAH) has been an exciting opportunity for me in several ways. As a participating middle school teacher, I gained access to materials, ideas, and knowledge that enhanced my ability to teach American history. After the TAH experience, students left my classroom with more than the traditional rote memorization of historical facts; they developed a wider outlook on historical events and people. I wanted to share that positive experience, so I now work as the History Content Coach for elementary school teachers in another TAH grant.
 Teachers who participate in the Savannah-Chatham County Public School grant are involved in a number of content-rich activities. They read scholarly books, such as *The California Gold Rush and the Coming of the Civil War* by Leonard L. Richards, and answer reading response questions. For each book or topic, they participate in an all-day symposium where they hear from the author or an authority on the topic in the morning and spend the afternoon focused on teaching the new content.

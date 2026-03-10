@@ -3,11 +3,25 @@ title: 'Valerie Tripp''s Looking Backward, Looping Forward: How to Make a Period
   History Matter to Your Students'
 date: '2011-06-18T10:15:16'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24978
 url: /nhec-blog/24978
+author_bio: Valerie Tripp is an American author best known for her American Girl historical
+  characters Felicity, Kit, Josefina, Molly, and Samantha. Ms. Tripp has also written
+  poems, songs, stories, and nonfiction educational materials.
+date_published: '2011-10-24T00:00:00'
+image_fid: '7638'
+splash_image_fid: '7639'
+author_image_fid: '8344'
+summary: Start with memoirs or historical fiction and small issues children can relate
+  to, and build from there!
+splash_image: /files/valerietrippon432x240b.jpg
+image: /files/valerietrippon113x150.jpg
+author_image: /files/author_image/author_tripp_1.jpg
 ---
+
+
 
 When I visit classrooms and Brownie troops to talk about the historical fiction that I write for American Girl, one child always asks, "Where do the ideas for the stories come from?" My answer is simple. I say, "You." Whenever I sit down to write a story, I begin the same way. I begin by thinking about my reader's life right now, in 2011, and I try to create a lovely, silky, satiny ribbon of connection that starts with her and flows through time and connects her to my character, who lived long ago and often far away. That ribbon of connection is made up of the things they have in common: school, family, friends, challenges, triumphs, and chores. The ribbon is flexible, but it has integrity.
 How can you make a period of history matter to your students? Begin where they are, right now, and connect them to the past by telling them what their lives would be like if they lived back then. Begin with the practical, the tangible, the everyday. For example, what would they be learning in school? What would they have for lunch? How would they celebrate their birthdays? What chores would they be expected to do? Then stretch a bit to the abstract: What would their parents' and teachers' aspirations be for them? What would their own hopes and dreams be? You’ll make a long ago time matter to your students today if you enable them to look backward and loop forward, to compare their lives now to children's lives in the past; and practical, child-oriented facts are your tools to do so.

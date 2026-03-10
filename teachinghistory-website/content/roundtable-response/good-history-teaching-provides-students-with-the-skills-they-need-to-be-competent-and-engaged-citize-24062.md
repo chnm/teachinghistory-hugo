@@ -3,10 +3,19 @@ title: Good history teaching . . . provid[es] students with the skills they need
   be competent and engaged citizens
 date: '2010-05-12T19:16:41'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24062
+author_bio: Michelle M. Herczog is the History-Social Science Consultant of the Los
+  Angeles County Office of Education and serves on the Board of Directors for both
+  the California Curriculum Commission and the National Council for the Social Studies.
+author_image_fid: '4703'
+summary: By being intentional about developing [21st-century] skills within the history
+  curriculum, educators can bridge the profound gap between what most students learn
+  in school and what they need in demanding 21st century communities and workplaces.
+author_image: /files/author_image/Herczog.jpg
 ---
+
 
 Anyone who actually remembers typing a term paper on an electric typewriter can tell you that the 21st century symbolizes more than the introduction of new toys, gizmos, and gadgets. We are witnessing a revolutionary “flattening” of a global economy, an explosion of technological capabilities, and an insatiable demand for natural and human resources that command our attention to respond to the challenges of the world in critical, creative ways.
 How can the world, let alone schools be expected to keep up with the ever-growing amount of information we *need* to know? We can’t. Education as a paradigm needs to change from acquiring knowledge, to finding, understanding, and *using* knowledge to become responsible, engaged members of the human race capable of solving complex problems in a complex world.

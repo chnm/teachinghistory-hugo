@@ -2,8 +2,9 @@
 title: American Success Through Purposeful Instruction and Rigorous Education
 date: '2011-06-15T13:56:41'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24903
 ---
 
+This project will help northeastern Michigan districts where about one-fourth of history teachers still need to reach highly qualified status. Each year, teachers will participate in a credit-bearing graduate course, six 3-hour historical encounter sessions, online WebLessons, a 2-day summer colloquium and a variety of sessions focused on pedagogy and lesson development. In addition, 20 teachers each year will attend the summer field experience in New York City. Teachers will participate in one of two cohorts: the first (Years 1-3) will include 40 teachers from Grades K-5, and the second (Years 3-5) will include 40 teachers from Grades 6-12. *American Success Through Purposeful Instruction and Rigorous Education* will focus on turning points and themes in American history to prepare teachers to help students understand how social, political and legal institutions have been shaped. Graduate courses, guided readings and historical encounter sessions led by historians will help teachers explore the framework of the nation; primary source documents, Web-based resources, recent scholarship and field experiences will present a variety of perspectives on economic, legal and social issues. Pedagogical workshops will focus on strategies that utilize 21st century tools. As part of their learning, teachers will develop lessons that define how the words and deeds of key individuals and interpretations of the nation's founding documents have determined the course of American history. These lessons, videos of historical encounter sessions and links to primary sources will be provided on a project Web site and through a Moodle interactive interface. Project partners will collaborate to create an online theme-based professional development program that can be used by other programs and teachers.

@@ -2,13 +2,17 @@
 title: Rock Paper Scissors
 date: '2010-04-08T10:29:22'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23932
 question: Is the Rochambeau game (rock-paper-scissors) named after the French army
   general who served during the American Revolution?
 url: /history-content/ask-a-historian/23932
+splash_image_fid: '4805'
+summary: Gamester extraordinaire Comte de Rochambeau?
+splash_image: /files/rochambeau-new.jpg
 ---
+
 
 Maybe, but in a roundabout way.
 You will probably not be surprised to learn that this question is apparently not something that has elicited a lot of serious historical research up to now ("Where do I find historical evidence for a simple game played by children that requires no equipment?" and "Will I hurt my chances for tenure if I spend much time researching such a seemingly trivial subject?"), so I will have to go out on a limb here with my own theory, which is based only on circumstantial evidence. Because this is just my theory, I am going to have to explain how I arrived at it.
@@ -54,3 +58,8 @@ The Rochambeau statue had been erected in 1902 and, in 1931, had been the focus 
 But why bother with making up a new name for the game? Well, it was a Japanese game and English-speaking children might have been leery of a name as unfamiliar as "Jankenpon." Diplomatic relations between Japan and the United States were growing quite cool by the mid-1930s, so perhaps the Children's Bureau reduced the "foreign" feeling of the name "Jankenpon" by attaching a foreign name to it that was nevertheless indubitably a "patriotic" one: "Rochambeau."
 The upshot is that the name "Rochambeau" does appear to link the game to the French General, but it is likely his statue, not the gentleman himself, that is responsible for the link.
 So that is my theory, and I am sticking to it. At least for now. It seems more reasonable than supposing Washington, Cornwallis, and Rochambeau were playing hand games together during the British surrender. However, my theory is based almost entirely on a long chain of guesses and circumstantial evidence. If or when someone runs across some early mention of "Rochambeau" applied to the game, the entire limb I have climbed out on will be sawed off. But for now, that is the best I can come up with.
+
+---
+
+Douglas and Graham Walker's [World RPS Society](http://www.worldrps.com/)
+[The Straight Dope](http://www.straightdope.com/) ("What's the origin of 'Rock, Paper, Scissors'?" July 10, 2001).

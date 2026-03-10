@@ -2,10 +2,13 @@
 title: Schools and Social Networking Tools
 date: '2008-07-24T09:31:12'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19472
 url: /nhec-blog/19472
+date_published: '2008-07-24T00:00:00'
+summary: Schools are beginning to treat social networking tools as an essential part
+  of preparing students for the 21st century.
 ---
 
 A longitudinal survey of [The American Association of School Librarians (AASL)](http://www.ala.org/aasl/), a division of the [American Library Association (ALA)](http://www.ala.org), indicates that elementary, middle and high schools are beginning to treat social networking tools as an essential part of preparing students for the 21st century.

@@ -2,7 +2,7 @@
 title: DC Museum Collaborative
 date: '2012-02-17T16:29:13'
 lastmod: '2012-04-05T11:31:37'
-type: page
+content_type: page
 draft: false
 drupal_nid: 25453
 ---

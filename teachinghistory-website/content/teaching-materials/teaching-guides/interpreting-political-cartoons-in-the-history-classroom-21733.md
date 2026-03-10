@@ -2,12 +2,27 @@
 title: Interpreting Political Cartoons in the History Classroom
 date: '2009-02-19T13:46:57'
 lastmod: '2018-09-11T15:56:34'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 21733
 url: /teaching-materials/teaching-guides/21733
 featured: true
+author_bio: After teaching secondary school history for several years, Jonathan Burack
+  became Editor-in-Chief of *Newscurrents*, a weekly current events program for schools
+  (1984–95). In 1995, he conceived and began to create *MindSparks*, a project that
+  focuses on primary source analysis, writing and debating skills, and the development
+  of habits of historical thinking.
+image_fid: '800'
+splash_image_fid: '4588'
+author_image_fid: '4127'
+summary: Political cartoons are often conceptually complex, but offer valuable insights
+  into history.
+splash_image: /files/UnderstandingPoli.jpg
+image: /files/carimg.jpg
+author_image: /files/author_image/burak_1_0.jpg
 ---
+
+
 
 ## What Is It?
 

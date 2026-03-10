@@ -2,10 +2,19 @@
 title: Thinking About the Future in a World War II Barrack
 date: '2011-12-13T14:59:42'
 lastmod: '2017-12-05T08:46:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25342
+author_bio: Allyson Nakamoto is the Teacher Programs Manager at the Japanese American
+  National Museum where she develops resources and programs in collaboration with
+  educators from across the nation.
+author_image_fid: '8661'
+summary: Material culture brings history to life so when students see the gaps between
+  the barrack floorboards and hear the volunteers recount the mass removal and confinement
+  without due process, they often respond by saying, "That's not fair."
+author_image: /files/author_image/allyson.jpeg
 ---
+
 
 Material culture is at the heart of the work of the Japanese American National Museum (JANM). Using material culture, we fulfill our mission of promoting the understanding and appreciation of America’s ethnic and cultural diversity by sharing the Japanese American experience. JANM has a permanent collection of over 60,000 photographs, documents, crafts, artwork, and moving images. These artifacts make up the material culture that illustrates and substantiates the history of one ethnic group in the United States.
 One of the largest artifacts in our collection is a barrack from a World War II-era American concentration camp. During World War II this barrack was located in Heart Mountain, WY, and housed Japanese American families forcibly removed from the West Coast. It is now on display as part of *Common Ground: The Heart of Community*, JANM's ongoing exhibition covering the history and culture of Japanese Americans from the 1880s to the present.

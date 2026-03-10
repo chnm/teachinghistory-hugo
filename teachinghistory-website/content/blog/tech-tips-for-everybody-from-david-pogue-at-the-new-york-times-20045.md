@@ -2,10 +2,12 @@
 title: Tech Tips for Everybody from David Pogue at The New York Times
 date: '2008-10-13T02:28:40'
 lastmod: '2011-06-14T10:02:45'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20045
 url: /nhec-blog/20045
+date_published: '2008-10-16T00:00:00'
+summary: More than 1,200 readers share tips on this New York Times technology column.
 ---
 
 [David Pogue](http://pogue.blogs.nytimes.com) blogs on technology for [*The New York Times*](http://www.nytimes.com) and plans to write a book one day called *The Basics*. "It's going to be a compendium of the essential tech bits that you just assume everyone knows—but you're wrong," he explains.

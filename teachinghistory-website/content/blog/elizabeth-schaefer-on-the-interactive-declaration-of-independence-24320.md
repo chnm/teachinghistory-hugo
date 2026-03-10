@@ -2,11 +2,32 @@
 title: Elizabeth Schaefer on the Interactive Declaration of Independence
 date: '2010-11-02T15:29:49'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24320
 url: /nhec-blog/24320
+author_bio: Elizabeth Schaefer teaches 8th-grade U.S. history at Paul Public Charter
+  School in Washington, DC. After graduating from Lafayette College with degrees in
+  Psychology and American Studies, Elizabeth worked with an after-school program in
+  New York City public schools. Getting to know the youth in the Urban Dove program
+  motivated her to return to school for her MA in Teaching from American University.
+date_published: '2010-11-08T00:00:00'
+image_fid: '6766
+
+
+  6766
+
+
+  6766'
+splash_image_fid: '6770'
+author_image_fid: '6769'
+summary: Eighth-grade U.S. history teacher Elizabeth Schaefer "warps" the Declaration
+  of Independence into the future with interactives from the Library of Congress.
+splash_image: /files/splash-schaefer-blog-doiinter.jpg
+author_image: /files/author_image/Author_Photo_Elizabeth_Schaefer_75x75.jpg
 ---
+
+
 
 ## The Library of Congress's Interactive Declaration of Independence
 
@@ -14,7 +35,7 @@ The Library of Congress has created a brilliant [interactive tool](http://myloc.
 
 ## What is It?
 
-![](http://teachinghistory.org/files/schaefer-blog-doiinter.jpg?1288725384) The template for the computer interactive is a real rough draft of the Declaration of Independence, complete with edits made by Thomas Jefferson, John Adams, and Benjamin Franklin. On the "Overview" page, students can scroll their mouse over Thomas Jefferson's original script, transforming sections from the original handwriting to student-friendly printed font with word-processor-style edits.
+![](/files/schaefer-blog-doiinter.jpg) The template for the computer interactive is a real rough draft of the Declaration of Independence, complete with edits made by Thomas Jefferson, John Adams, and Benjamin Franklin. On the "Overview" page, students can scroll their mouse over Thomas Jefferson's original script, transforming sections from the original handwriting to student-friendly printed font with word-processor-style edits.
 The remaining tabs highlight specific concepts included in the Declaration (All Men Are Created Equal, Pursuit of Happiness, Consent of the Governed, Train of Abuses, and Slavery). For each section, four antecedent sources can be chosen which relate to the same concept and in some cases, use the same words.
 
 ## Why Do I Love It?
@@ -30,7 +51,7 @@ The interactive supports a range of lesson aims and a variety of historic analys
 
 ## How Can I Use It in the Classroom?
 
-![](http://teachinghistory.org/files/schaefer-blog-doiinter2.jpg?1288805363)
+![](/files/schaefer-blog-doiinter2.jpg)
 My actual lesson included a three-page packet with very specific steps for the students. Below is a sampling of some activities that I used.
 **Primary Source Observations**
 The "Overview" page explains what the source is. Once students read this, you can ask a variety of questions about the document. You can use your typical observation format, but due to the large amount of information, I recommend that you select a more narrow focus.

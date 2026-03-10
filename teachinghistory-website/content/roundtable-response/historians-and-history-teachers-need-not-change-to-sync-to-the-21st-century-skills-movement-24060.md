@@ -3,10 +3,21 @@ title: Historians and history teachers need not change to “sync” to the 21st
   skills movement . . .
 date: '2010-05-12T18:55:44'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24060
+author_bio: Fritz Fischer is Professor of History and Director of History Education
+  at the University of Northern Colorado. He is Chair of the Board of Trustees of
+  the National Council for History Education and was co-chair of the 2009 Colorado
+  Standards Writing Committee in Social Studies and History.
+author_image_fid: '4701'
+summary: History teachers need not change their teaching, but can and should make
+  the case that we already teach “21st century skills” . . .. The “new” skills include
+  “critical thinking,” “communication,” and “information literacy”—all skills taught
+  by the strongest history teachers for decades.
+author_image: /files/author_image/Fischer.jpg
 ---
+
 
 Historical concepts, historical understandings, and historical thinking always need to come first for history teachers. So, no, the teaching of history should not be changed to sync with "21st–century skills." Entering a new century does not mean that we all need to develop an entirely new set of skills to function in society. There is a danger in the 21st century skills movement of tossing out "old–fashioned subjects" to be replaced by "interdisciplinary themes." History might be especially threatened because a simplistic view suggests that since historians study the past, and the past is old, and old is dusty and old fashioned, we should just toss it out as irrelevant.
 Yet strong and thoughtful history teaching actually does a better job in helping students learn "21st–century skills" than any other subject and better than any newly invented theme. History teachers need not change their teaching, but can and should make the case that we *already* teach

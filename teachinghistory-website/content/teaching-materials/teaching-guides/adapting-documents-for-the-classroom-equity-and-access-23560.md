@@ -2,11 +2,25 @@
 title: 'Adapting Documents for the Classroom: Equity and Access'
 date: '2009-11-18T12:47:48'
 lastmod: '2018-09-21T14:21:40'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 23560
 url: /teaching-materials/teaching-guides/23560
+author_bio: The Stanford History Education Group, located at the nation's leading
+  School of Education, engages in projects at the forefront of how students learn
+  history. Our staff have decades of history teaching experience in high school, middle
+  school, and elementary school classrooms.
+image_fid: '4097'
+splash_image_fid: '4047'
+author_image_fid: '3634'
+summary: Documents are riddled with difficult vocabulary. Don't be afraid to adapt
+  texts.
+splash_image: /files/AdaptingDocumentsSplash.jpg
+image: /files/AdaptingDocuments-150x113.jpg
+author_image: /files/author_image/Logo SHEG.jpg
 ---
+
+
 
 ## What Is It?
 

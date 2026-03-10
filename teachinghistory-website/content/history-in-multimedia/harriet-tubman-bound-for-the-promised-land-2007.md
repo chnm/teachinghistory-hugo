@@ -2,8 +2,15 @@
 title: 'Harriet Tubman: Bound for the Promised Land'
 date: '2008-01-04T14:03:52'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 2007
+duration: 00:52:45
+keywords: slaves, civil rights, Underground Railroad, race, race relations, racism,
+  biographies
+website_url: http://dev.forum-network.org/lecture/harriet-tubman-bound-promised-land
+date_published: '2004-02-10T00:00:00'
+series_name: Slavery and the Making of America
 ---
 
+Historian Kate Clifford Larson reviews the life of Harriet Tubman and Tubman's work in freeing other slaves along the Underground Railroad. Larson focuses on unsimplifying Tubman's life story and presenting it in its complexity and full breadth.

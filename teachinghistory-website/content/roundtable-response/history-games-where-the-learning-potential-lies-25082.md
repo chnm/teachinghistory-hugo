@@ -2,10 +2,23 @@
 title: 'History Games: Where the Learning Potential Lies'
 date: '2011-08-17T22:47:41'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25082
+author_bio: 'Bill Tally (upper left) is Senior Research Scientist at the Center for
+  Children and Technology, a division of the nonprofit Education Development Center,
+  Inc. He has studied teaching and learning in digital and classroom environments,
+  with a focus on history and the humanities, for over 25 years.
+
+  Jim Diamond (lower right) is a Research Associate at the Education Development Center/Center
+  for Children and Technology, where his research and development work focuses on
+  game-based teaching and learning in history and social studies education.'
+author_image_fid: '9208'
+summary: Like any other instructional medium, digital history games will only be as
+  effective as the quality of design—instructional AND game—underlying them.
+author_image: /files/author_image/authors.jpg
 ---
+
 
 As interactive media, digital history games have the potential to capture students' interest and imagination and engage them in historical thinking in ways that few other "non-participatory" media offer. Broadly defined, games are packaged problem spaces that can require players to apply strategy and disciplined responses to overcome obstacles and achieve goals. Historical dilemmas as posed in games are still ill-defined and subject to the interpretive challenges of a humanistic discipline. But game systems are dynamic in ways that document-based questions and narratives of the past, either in film or print, cannot be. Games can enable students to imaginatively enter a constructed historical world, interact with research-based social and political archetypes, and contemplate the consequences of their actions.
 > Games can enable students to imaginatively enter a constructed historical world, interact with research-based social and political archetypes, and contemplate the consequences of their actions.

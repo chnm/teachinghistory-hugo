@@ -2,8 +2,9 @@
 title: America's Many Trails of Freedom
 date: '2011-06-09T16:05:42'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24771
 ---
 
+*America's Many Trails of Freedom* targets six school districts served by the Kentucky Educational Development Cooperative and the Wilderness Trail Educational Cooperative in south central Kentucky. Students in these districts have shown little or no improvement on the state social studies assessment over a two-year period. To mitigate the lack of regional professional development opportunities related to teaching American history, the program will offer six components: six 3-hour Historical Encounter sessions per year that include collaborative work in grade-level teams; 3-day summer colloquia in alternate years; Colonial Williamsburg Teacher Institutes in Years 1, 2, and 4; opportunities to participate in mentoring, observation and feedback on standards-based lessons; 15 hours of Web-based lesson content development through Learners Online; and a 12-hour Teachers Curriculum Institute that features multiple instructional strategies that support the History Alive program. A cohort of 50 will participate in Years 1-3, and many of these will become teacher leaders; a second cohort of 50 will join in Years 4-5. Teachers will explore how the principles of liberty and democratic government have shaped America’s social, political, and legal institutions. The program will emphasize standards-based instruction that integrates conceptual and contextual content and incorporates role-playing and other instructional strategies that engage students. Each teacher will create a "traveling trunk" with a standards-based unit and related period costumes, music, art and artifacts. These resources, along with Electronic Resource Notebooks loaded with primary sources, will be made available to districts throughout the cooperative.

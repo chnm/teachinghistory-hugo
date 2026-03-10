@@ -2,14 +2,27 @@
 title: 'Digital Tools: Outfitting a Teacher''s Arsenal'
 date: '2012-05-21T12:29:39'
 lastmod: '2017-10-06T15:21:32'
-type: ask_a_digital_historian
+content_type: ask_a_digital_historian
 draft: false
 drupal_nid: 25612
 question: I have been promoted to head our school's technology committee and have
   a moderate budget. Are there any new tools that you feel would help promote the
   study of history?
 url: /digital-classroom/ask-a-digital-historian/25612
+author_bio: Ben Walsh has been involved in history teaching in the UK for over 25
+  years as a teacher and head of department, textbook author, and examiner. He is
+  currently Deputy President of the Historical Association, which represents history
+  teachers in England.
+image_fid: '9266'
+splash_image_fid: '9267'
+author_image_fid: '9265'
+summary: Ensure technology serves history and not vice-versa. Find out how!
+splash_image: /files/toolssplash.jpg
+image: /files/lesson_image/toolsimage.jpg
+author_image: /files/author_image/walsh_author_0.jpeg
 ---
+
+
 
 I would not recommend spending substantial funds on software packages or similar resources to study history. There are so many excellent free resources available that the problem is not so much finding material as deciding what you should use and how to use it.
 Of course, a good starting point is right here on Teachinghistory.org! But even with a great guide such as this it helps to start with clear priorities. As a teacher and subsequently as a researcher and teacher trainer I have been examining what technology offers history teachers since the mid 1990s. I think that technology can be very powerful, but I am not convinced that the answers are found by *starting* with either hardware or software.
@@ -24,3 +37,7 @@ Technology can make finding, collecting, and sharing primary sources easier (see
 The key is in the intellectual activity rather than the finished product. [Dipity](http://www.dipity.com/), for example, creates easy-to-use timelines. For me, getting students to create timelines is the beginning of the learning process. The really interesting discussions begin when we discuss whether particular events in the sequence are more significant than others or whether an event would have taken place at all if one or more of the preceding events had not taken place.
 Invest in professional development that models using digital tools as tools. By doing so, you will help teachers learn that digital tools are just *tools*—tools should always serve the teaching, not the other way around! In the end, think first about the priorities for you, your teachers and students. Technology can be a powerful motivator, but it is better used as a facilitator. Encourage teachers to view teaching strategies and content as the motivator—one that can be enhanced, but not replaced, by technological tools.
 My best advice is to direct funds into technology via people rather than the other way around.
+
+---
+
+Learn more about digital tools—for free! See our [*Tech for Teachers*](http://teachinghistory.org/digital-classroom/tech-for-teachers) section.

@@ -2,11 +2,22 @@
 title: Teaching Historical Interpretation through Planning Documentary Films
 date: '2008-11-20T10:08:53'
 lastmod: '2018-09-26T09:11:22'
-type: examples_of_teaching
+content_type: examples_of_teaching
 draft: false
 drupal_nid: 20341
 url: /best-practices/teaching-in-action/20341
+author_bio: Dale Banham teaches 9th-grade students at Holbrook High School in England.
+image_fid: '4088'
+splash_image_fid: '5002'
+author_image_fid: '4160'
+summary: Watch this 9th-grade teacher lead his class in planning, writing, and organizing
+  their own documentary films.
+splash_image: /files/Teaching_Historical_Interpretation_through_Planning_-_432x240.jpg
+image: /files/TeachingHistInterpretation150x113.jpg
+author_image: /files/author_image/DaleBanham75x75.jpg
 ---
+
+
 
 *\*Please note that this video is no longer hosted by the Teachers TV website. It may be hosted on a different site and found through doing an internet search on the video's title.*
 

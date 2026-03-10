@@ -2,11 +2,25 @@
 title: Elizabeth Glynn on Personal Tablet Computers
 date: '2011-09-13T15:54:11'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25152
 url: /nhec-blog/25152
+author_bio: Elizabeth Glynn is the Project Director for the Teaching American History
+  (TAH) Grant at Loudoun County Public Schools, VA. Previously, she was an 11th-grade
+  U.S. History teacher at Heritage High School in Leesburg, VA.
+date_published: '2012-01-16T00:00:00'
+image_fid: '8083'
+splash_image_fid: '8082'
+author_image_fid: '8076'
+summary: Personal tablet computers are everywhere, but what role do personal tablet
+  computers have in the classroom?
+splash_image: /files/tabletsplash.jpg
+image: /files/tabletimage.jpg
+author_image: /files/author_image/author-glynn_0.jpg
 ---
+
+
 
 Personal tablet computers are everywhere, but what role do personal tablet computers have in the classroom?
 This past spring, I was in a graduate class where we discussed the role of technology in education. We watched a [YouTube clip](http://www.youtube.com/watch?v=68KgAcx_9jU ) on the iSchool Initiative created by Kearns High School, UT, senior Travis Allen. The [iSchool Initiative](www.ischoolinitiative.com) is a vision by Allen to integrate technology into the classroom through the use of the iPod Touch and the iPad. These two products would assist in instruction of the students in all subjects. We watched Allen introduce the initiative, showing the various ways that these digital devices could aid classroom education. It made me think about the use of personal tablet computers in the classroom—especially, could a personal tablet computer in the classroom help students acquire all the necessary skills and content for a subject?

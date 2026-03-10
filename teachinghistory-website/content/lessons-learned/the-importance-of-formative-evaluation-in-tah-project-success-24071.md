@@ -2,10 +2,20 @@
 title: The Importance of Formative Evaluation in TAH Project Success
 date: '2010-06-03T13:43:26'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 24071
+author_bio: Karen Kortecamp, Associate Professor of Secondary Education at George
+  Washington University, earned her BA at the University of Massachusetts, Amherst,
+  and her M.Ed and PhD at the University of Chicago, Illinois.
+splash_image_fid: '5114'
+author_image_fid: '5115'
+summary: Thorough evaluation must collect formative as well as summative data.
+splash_image: /files/splash-ll-evaluation.jpg
+author_image: /files/author_image/kortecamp-author.jpg
 ---
+
+
 
 As every LEA awarded TAH funding knows well, the required evaluation to determine whether and to what extent project outcomes are met is a fairly expensive component of the grant. The U.S. Department of Education (DOE) expects rigorous evaluation designs that, ideally, produce evidence that monies spent to increase teachers' knowledge of American history lead to improved student achievement.
 To that end, the DOE has stipulated that each LEA must have clearly defined outcome measures, particularly tests of teacher knowledge, and must report performance annually and at the end of the project. These directives have shaped the form and substance of project evaluations which, by necessity, focus on producing summative data. This is good! Every project needs to know if its teachers have benefited from the professional development and the DOE needs to know if TAH funding should continue.

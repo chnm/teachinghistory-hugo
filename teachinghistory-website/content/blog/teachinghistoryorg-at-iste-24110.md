@@ -2,11 +2,17 @@
 title: Teachinghistory.org at ISTE
 date: '2010-07-12T09:19:56'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24110
 url: /nhec-blog/24110
+date_published: '2010-07-14T00:00:00'
+image_fid: '6142'
+summary: More than 17,500 educators and exhibitors attended ISTE 2010 in Denver at
+  the end of June.
+image: /files/ISTE.jpg
 ---
+
 
 What is it like when almost 20,000 educators dedicated to promoting, collaborating, and communicating about teaching with technology all converge on a single location?
 That was the story at the [2010 conference of the International Society for Technology in Education](http://center.uoregon.edu/ISTE/2010/program/) held in Denver June 27-30 this year. The Clearinghouse was there both presenting information about teachinghistory.org and other resources available through the [Center for History and New Media](http://chnm.gmu.edu) and participating in workshops and information sessions.

@@ -2,10 +2,21 @@
 title: Transcending Facts to Discover Knowledge
 date: '2011-12-01T12:21:51'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25330
+author_bio: Tim Bryant has taught in grades three, four, and five over an 18-year
+  career in four different Texas elementary schools. Although he has taught all the
+  core subjects from time to time, it has been his pleasure to teach social studies
+  each year of his career. Currently he teaches social studies, reading, and writing
+  at Windsor Elementary in Amarillo, TX.
+author_image_fid: '8609'
+summary: Elementary history education lies in need of a paradigm shift. In a time
+  when critical thinking and problem solving drive instruction, educators need to
+  realize history provides an avenue to practice these skills.
+author_image: /files/author_image/author_bryant.jpg
 ---
+
 
 Too often elementary history education in America consists of only exposing students to who did what, where, and when in hopes they will remember and appreciate it. The common tools employed in this shortsighted approach to history consist of the textbook, trade books, and possibly a video that present the subject in a predigested form where historical thinking has been subtracted from the lesson and replaced with reading skills at best. Little evidence exists to prove the effectiveness of these instruction techniques, but they continue to be used. If student math skills were equal to their history skills, a call for improved strategies would have been made long ago. Think of how often "man on the street" interviews ask a history question just to hear the dumb answers people give. How did we come to the point of asking history questions for humor?
 > The reality of testing cannot be ignored, but ignoring history instruction overlooks a valuable test preparation tool.

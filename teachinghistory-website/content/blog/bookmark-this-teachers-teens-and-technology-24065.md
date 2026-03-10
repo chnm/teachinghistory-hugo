@@ -2,11 +2,16 @@
 title: Bookmark This! Teachers, Teens, and Technology
 date: '2010-05-17T10:43:41'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24065
 url: /nhec-blog/24065
+date_published: '2010-05-17T00:00:00'
+image_fid: '4721'
+summary: Who does what with technology?
+image: /files/et.jpg
 ---
+
 
 Summer vacation is near. For many, less structured days might also mean more time spent cruising around the web or maybe twittering, blogging, flickr-ing and otherwise networking or building cyber-projects. How DO we use technology? A few recent surveys among teens and teachers offer perspective.
 At [ESchool](http://www.eschoolnews.com), the article [Survey reveals gaps in school technology perceptions](http://www.eschoolnews.com/2010/05/05/survey-reveals-gaps-in-school-technology-perceptions/2/?), reports the results of *Unleashing the Future* a massive, nationwide survey about the use of emerging technologies for learning.(You may need to register to read—it's free.) Students, according to the report, use technology to personalize their own education. Which educators are the most fervent proponents of technology in education? District administrators are the strongest promoters—both for collaboration among teachers and as instructional tools. (Follow the *survey* link in the first paragraph for the full report.

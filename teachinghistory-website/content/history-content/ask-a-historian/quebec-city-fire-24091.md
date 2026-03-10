@@ -2,7 +2,7 @@
 title: Quebec City Fire
 date: '2010-06-22T16:02:10'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24091
 question: Who started the Quebec City fire of June 28, 1845? It was depicted in an
@@ -11,7 +11,11 @@ question: Who started the Quebec City fire of June 28, 1845? It was depicted in 
   of her master's home, and being so angry she burnt down their house and started
   the fire. She wound up being hung. Is this true?
 url: /history-content/ask-a-historian/24091
+splash_image_fid: '5578'
+summary: Were the great fires of 1845 the result of arson or accident?
+splash_image: /files/view-of-quebec.jpg
 ---
+
 
 I have been unable to find anything about an angry slave being responsible for the fire. And what I have found appears to make such a story highly unlikely.
 
@@ -27,3 +31,8 @@ About 11 o’clock on the night of June 28th, another fire broke out in a shed i
 As before, the weather had been hot and dry that day and a gale wind once again blew over the city. Throughout the night of June 28th, the fire spread out and by morning the entire St.-Jean section, another third of the city, along with 1,300 houses, churches, and schools, had been destroyed. During the night, thousands of people who had fled the St.-Roch fire and had settled temporarily in the St.-Jean section again had to flee.
 Joseph Légaré’s painting of this fire, a copy of which is now in the Art Gallery of Ontario, depicts “an apocalyptic vision of orange flames and fiery sparks heat[ing] up the black sky in an earthly inferno,” as art historian Anne Newlands says in her book, *Canadian Art: From Its Beginnings to 2000*. Many of the terrified residents the night of that fire did indeed see something like an apocalypse, a providential pursuit of the city. Newspapers reported that many people saw terrible angels of flame in the sky above the city that night, which skeptics attributed to reflected mirages playing across the layers of heated air. One month later, practically the entire city stayed awake and on edge during the day and night of July 28th, on the possibility that Quebec would be revisited by a third and final fire. But that did not happen.
 In all, the two fires destroyed two-thirds of the city, but I have found no evidence that either of the fires was caused by anything other than accidents.
+
+---
+
+Joseph Légaré, [*The Fire in the Saint-Jean Quarter, Seen Looking Westward*](http://www.ago.net/agoid429) (1848), Art Gallery of Ontario. See also the [copy](http://www.mnba.qc.ca/Contenu.aspx?page=1476&langue=en”) at the Musée national des beaux-arts du Québec.
+John Murray, [*View of Québec, Canada, from the river St. Charles, shewing the conflagration of June 28, 1845, and the ruins of the fire of May 28th, 1845*](http://www.musee-mccord.qc.ca/scripts/viewobject.php?section=162&Lang=1&tourID=GE_P1_3_EN&seqNumber=1”) (1845), colored ink on paper, at the McCord Museum in Montreal.

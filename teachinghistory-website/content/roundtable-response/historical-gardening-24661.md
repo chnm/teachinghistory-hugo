@@ -2,10 +2,24 @@
 title: Historical Gardening
 date: '2011-05-02T11:37:25'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24661
+author_bio: Fiona Halloran teaches US history at Rowland Hall-St. Marks School in
+  Salt Lake City, Utah. She came to Rowland Hall from Eastern Kentucky University,
+  where she taught 19th-century American history for four years. Halloran holds a
+  PhD in history from UCLA, and is a recipient of fellowships from the Huntington
+  Library, the National Endowment for the Humanities, and the Gilder-Lehrman Institute
+  of American History, as well as being an Associate Fellow of the Rothermere American
+  Institute at the University of Oxford.
+author_image_fid: '7429'
+summary: As with most things, teaching US history in high school requires balance.
+  A strict sense of where you’re going and when you’ll get there helps keep the class
+  moving forward. Tempering the rigidity of the course outline with an open-minded
+  approach to assignments allows students to shine and to take risks.
+author_image: /files/author_image/Fiona-Halloran.jpg
 ---
+
 
 It seems to me that the two most important factors in an efficient organization are ruthlessness and liberty.
 Students regularly complain that high school history courses “never made it past the Depression!” This reflects a lot of wonderful qualities in teachers—their enthusiasm for the subject as well as their willingness to slow down, re-teach, and listen to student questions. But it also reflects the frustration students feel when they want to reach the late twentieth century but can’t quite get there.

@@ -2,10 +2,18 @@
 title: AP Emphasizes Crucial Skills and Offers College Preparation
 date: '2011-06-17T09:35:37'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24970
+author_bio: Heather Steven is a National Board Certified high school teacher in Annapolis,
+  MD, where she has been teaching AP U.S. History for the past four years. She holds
+  a MA in Education and works as an Examination Reader for College Board.
+author_image_fid: '7614'
+summary: Does AP U.S. History enhance or distract student learning? Overall, I believe
+  that the AP U.S. History program is extremely beneficial to students.
+author_image: /files/author_image/heathersteven75x75.jpg
 ---
+
 
 Does AP U.S. History enhance or distract student learning? Overall, I believe that the AP U.S. History program is extremely beneficial to students. Students are exposed to a variety of primary source documents and asked to evaluate sources, which is an important skill for any citizen. Students also learn how to write a historical essay and construct a solid thesis statement. These are skills that are required of the students on the test, and are taught in every AP history class. In my experience, AP U.S. History teachers are excellent teachers who go beyond teaching the skills needed by students to do well on the AP exam and strive to engage students and excite them about the content. Students participate in a variety of class activities including debates, simulations, and class discussions to further their understanding of historical events. Students make connections between the past and current events.
 AP U.S. History reflects current historiography and emphasizes new scholarship and trends, such as social history and women's history. The course is rigorous and students are expected to do a lot of reading at home. This is beneficial in that it prepares them for the independent reading and workload they will face in college. It can also be a detriment because there is not always sufficient time to ensure that students fully understand the content. AP U.S. History is a survey course and is extremely fast-paced. In order to cover U.S. history from colonization through the present between August and May, we rush through it. There is not enough time to have the students do in-depth research papers or study the changes in how historians have chronicled a certain era during class time before the exam. These are the kinds of skills high school students need to be taught before getting into college so that they can be successful. My classes usually do a research paper after the AP exam.

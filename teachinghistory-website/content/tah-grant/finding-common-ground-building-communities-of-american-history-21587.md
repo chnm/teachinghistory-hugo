@@ -2,8 +2,9 @@
 title: 'Finding Common Ground: Building Communities of American History'
 date: '2009-02-10T13:33:41'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 21587
 ---
 
+Finding Common Ground (FCG) is a comprehensive program of professional development designed to strengthen American history teachers' ability to teach traditional American history as a separate academic subject by connecting them with: 1) local and national historians; 2) a variety of historical resources; 3) best practice teaching strategies and technological tools; 4) colleagues and their ideas and resources; and 5) a sustainable blueprint for excellent teaching. FCG participants will study traditional American history with an emphasis on finding common ground between diverse voices, events, and decisions. Historical periods and themes are taken from the National Assessment of Educational Progress (NAEP) U.S. History Framework. Each year, the project will cover a different era of American history beginning with colonization and settlement. Teachers' study will consist of primary and secondary source documents, books, multimedia, and online resources. FCG will provide teachers with high-quality, thematic study materials. Teachers' study of these resources will prepare them for participation in additional FCG activities. FCG project leaders will provide in-class mentoring to help teachers implement new teaching strategies and the use of historical content and resources. FCG will serve middle and secondary American history teachers as all seven district schools identified for improvement are secondary level schools. Also, the results of a district survey indicate that nearly three quarters of potential project participants have not taken a formal course on American history in over five years, and 35% of potential participants took only one or two American history courses during college.

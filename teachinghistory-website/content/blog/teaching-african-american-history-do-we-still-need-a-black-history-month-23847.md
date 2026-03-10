@@ -2,11 +2,19 @@
 title: 'Teaching African American History: Do We Still Need a Black History Month?'
 date: '2010-02-09T09:51:12'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23847
 url: /nhec-blog/23847
+date_published: '2010-02-09T00:00:00'
+image_fid: '4024'
+splash_image_fid: '7153'
+summary: Black History Month is as important now as when Carter Woodson first thought
+  of it.
+splash_image: /files/slavesplash.jpg
+image: /files/woodson_letter.jpg
 ---
+
 
 During an interview on 60 Minutes few years ago, actor Morgan Freeman stated that Black History Month is no longer necessary. "Black history is American history," he told the interviewer. He sparked a debate about whether focusing on special groups long left out of the historical narrative backfires—whether it is actually more isolating than it is inclusive.
 Freeman's concern wasn't new. Since the beginning of Negro History Week in 1926, at different times in the last century and for different reasons, people of all races have contested the need for and the importance of paying special attention to Black history.

@@ -2,11 +2,17 @@
 title: 'Especially for Secondary School Teachers: American History on Facebook'
 date: '2009-09-25T15:04:31'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22928
 url: /nhec-blog/22928
+date_published: '2009-09-25T00:00:00'
+image_fid: '2431'
+summary: History and art museums, archives, and libraries share information and resources
+  via Facebook.
+image: /files/smith.jpg
 ---
+
 
 This post explores engaging your secondary school students in public history through the activities of museums and historic sites on Facebook. But with a caveat. This post requires a Facebook account to enable you to see the sites that are referenced.
 So first, let's address perhaps the primary reservation educators may have about creating Facebook accounts—privacy.

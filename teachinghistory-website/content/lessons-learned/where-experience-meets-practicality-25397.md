@@ -2,10 +2,28 @@
 title: Where Experience Meets Practicality
 date: '2012-01-27T11:42:17'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 25397
+author_bio: 'Kayla Haveles is currently the Education Coordinator at the American
+
+  Antiquarian Society. She has also worked in the outreach departments
+
+  of several museums, including the Emily Dickinson Museum and Historic
+
+  New England.'
+image_fid: '8801'
+splash_image_fid: '8802'
+author_image_fid: '8800'
+summary: How can historians, curators, and the organizations they represent best meet
+  the needs of teachers? By listening to and sharing with everyone involved in professional
+  development.
+splash_image: /files/workshopsplash.jpg
+image: /files/workshopimage.jpg
+author_image: /files/author_image/bio_haveles_0.jpg
 ---
+
+
 
 Over the course of the many different TAH grants in which the American Antiquarian Society (AAS) has participated, it has become increasingly clear that listening and sharing are not just skills taught in kindergarten to get children through elementary school. Rather, they are essential skills for life, particularly when your work requires constant collaboration with a wide range of groups, including teachers, scholars, libraries, museums, and school administrators. It has also become clear that it is through listening and sharing with these many different stakeholders that the most rewarding results are achieved. This is where we find ways to make the experiences we provide meet practice in the classroom.
 Institutions like museums and libraries have a unique set of resources that can enrich and revive teachers’ intellectual lives and interest in history. Beyond access to primary sources, these institutions can also provide valuable interactions with historians and curators. This is not always easy, however. One of the most common criticisms among teachers throughout our most recent TAH grant has been that while the scholars have offered a lot of interesting information, most of it is inapplicable to their classroom or grade level. In answer to this repeated concern, the TAH team, which included the AAS, Old Sturbridge Village, and the Worcester Public Schools, decided to offer separate sessions with the scholars for the different grade levels, and encouraged the scholars to follow a more informal, interactive lecture format. The feedback has been very positive and the teachers have begun to fully appreciate what specialty speakers have to offer.

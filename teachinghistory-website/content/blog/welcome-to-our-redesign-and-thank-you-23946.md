@@ -2,11 +2,17 @@
 title: Welcome to Our Redesign, and Thank You
 date: '2010-04-13T07:42:15'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23946
 url: /nhec-blog/23946
+date_published: '2010-04-13T00:00:00'
+image_fid: '4520'
+summary: New content, new graphic interface, and streamlined search and save tools
+  get you where you need to go.
+image: /files/newdesign_0.jpg
 ---
+
 
 The National History Education Clearinghouse, teachinghistory.org, is now about two years old. Our shakedown phase is over, and we have been listening to you when you tell us what works, what doesn't, and what we can do to help you teach American history to your K-12 students. Thank you for your feedback.
 We've launched this redesign to reflect what educators have told us. You'll find new and improved content types, a new graphic interface, video overviews of historical thinking, suggestions for using teachinghistory.org by grade level, more comprehensive searching mechanisms and a backpack tool that helps you build and save content you need.

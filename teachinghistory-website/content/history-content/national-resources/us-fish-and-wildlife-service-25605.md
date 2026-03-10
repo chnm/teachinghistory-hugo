@@ -2,11 +2,16 @@
 title: U.S. Fish and Wildlife Service
 date: '2012-05-15T19:46:10'
 lastmod: '2017-12-01T15:52:16'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 25605
 url: /history-content/national-resources/25605
+website_url: http://www.fws.gov/
+splash_image_fid: '9264'
+summary: The government acts for fauna as well as society. When did this start? Why?
+splash_image: /files/usfishwildlife432x240.jpg
 ---
+
 
 As [stated](http://www.fws.gov/help/about_us.html) on the U.S Fish and Wildlife Service (FWS) website, the organization's "mission is to work with others to conserve, protect and enhance fish, wildlife and plants and their habitats for the continuing benefit of the American people."
 While the menu for the FWS website is daunting, skip the "Kids, Educators, Parents" section, and try "[History](http://training.fws.gov/history/index.html)." The former is aimed toward the exploration of nature and the biological sciences, and would need modification for the history classroom.

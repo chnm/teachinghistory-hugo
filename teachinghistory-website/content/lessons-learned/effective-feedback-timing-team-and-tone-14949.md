@@ -2,10 +2,23 @@
 title: 'Effective Feedback: Timing, Team, and Tone'
 date: '2008-02-08T18:04:39'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 14949
+author_bio: Currently a history education consultant, Eleanor Greene is a former TAH
+  Project Director with seven Virginia school districts and George Mason University,
+  helping teachers improve content mastery and develop more effective strategies.
+  Greene taught secondary social studies for 22 years and has collaboratively designed
+  curricula in history, law-related education, and conflict management education.
+splash_image_fid: '4957'
+author_image_fid: '4154'
+summary: Collaboration is the key! Conduct feedback with your teachers, not upon them,
+  to build mutual respect.
+splash_image: /files/Effective-Feedback_-_432x240.jpg
+author_image: /files/author_image/EleanorGreene_0.jpg
 ---
+
+
 
 Our goal throughout [Peopling the American Past](http://chnm.gmu.edu/7tah/)—a Teaching American History (TAH) project partnership of seven small and rural Virginia school districts and George Mason University—was to support teachers in developing TAH skills, especially in teaching effectively with primary sources. To accomplish this goal with each of three teacher cohorts we provided feedback on classroom observations and on their written work.
 > Our intention was to keep feedback collaborative, something that was done with, not to, teachers.

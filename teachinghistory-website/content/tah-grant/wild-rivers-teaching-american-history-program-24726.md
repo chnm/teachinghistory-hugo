@@ -2,8 +2,9 @@
 title: Wild Rivers Teaching American History Program
 date: '2011-06-06T16:06:39'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24726
 ---
 
+The six rural counties—three in northwestern California and three in southwestern Oregon—involved in the Wild Rivers Program have many American Indian students and many low-performing schools. To help teachers build their knowledge and skills, the project will offer each cohort 150 hours of professional development, consisting of eight Saturday workshops, two Friday workshops, a 7-day summer study trip, a 3-day archives study trip, a 2-day literature camp, and a 2-day summer curriculum workshop. The final semester, when all cohorts come together, is designed to build collaboration, curriculum, and sustainability. Three cohorts of 35 teachers, each participating for three semesters and all participating in the final semester, will be organized as follows: Cohort 1 will consist of elementary teachers, Cohort 2 of middle school teachers, and Cohort 3 of high school teachers. To make American history more engaging and relevant to Wild Rivers Program students, the project will connect American history with American Indian history and incorporate American Indian case studies. A rigorous schedule of graduate-level lectures, discussions, and book studies will introduce content and support exploration of classroom strategies. Study trips to archives and historical sites will introduce primary documents and research strategies. As teachers focus on blending academic understanding of history with good teaching practices, they will build connections within their groups and between themselves and the historians working with the project: this learning community will help sustain the project's work after the grant ends. The instructional units teachers create during the project will be made available to all teachers in the region.

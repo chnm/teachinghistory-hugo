@@ -2,8 +2,16 @@
 title: The Age of Wood
 date: '2009-01-05T16:36:29'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 20596
+duration: 00:14:17
+keywords: carpenters, carpentry, architecture, buildings, Virginia, Williamsburg,
+  apprentices, apprenticeship, restoration, reconstruction, conservation, colonies,
+  colonists
+website_url: http://podcast.history.org/2007/08/06/the-age-of-wood/
+date_published: '2006-08-08T00:00:00'
+series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
 ---
 
+Garland Wood, Colonial Williamsburg's master carpenter, describes the work of a carpenter, both in the colonial era and present-day Colonial Williamsburg.

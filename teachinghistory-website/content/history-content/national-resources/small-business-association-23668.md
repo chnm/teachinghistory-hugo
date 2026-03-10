@@ -2,12 +2,18 @@
 title: Small Business Association
 date: '2009-12-21T21:07:25'
 lastmod: '2018-09-20T15:19:29'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23668
 url: /history-content/national-resources/23668
 featured: true
+website_url: http://www.sba.gov/
+splash_image_fid: '5047'
+summary: What is the FAR? Looking for copies of small business laws? Well, you have
+  come to the right place.
+splash_image: /files/SmallBusiness432x240.jpg
 ---
+
 
 In the organization's own words, "The U.S. Small Business Administration (SBA) was created in 1953 as an independent agency of the federal government to aid, counsel, assist and protect the interests of small business concerns, to preserve free competitive enterprise and to maintain and strengthen the overall economy of our nation."
 The small business association homepage is not going to provide you with lesson plans or anything so *directly* applicable to the history classroom. However, what it does offer is nothing to scoff at.

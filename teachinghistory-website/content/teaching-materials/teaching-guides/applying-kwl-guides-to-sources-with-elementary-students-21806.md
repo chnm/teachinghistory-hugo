@@ -2,11 +2,24 @@
 title: Applying KWL Guides to Sources with Elementary Students
 date: '2009-03-10T13:22:59'
 lastmod: '2018-09-21T14:35:32'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 21806
 url: /teaching-materials/teaching-guides/21806
+author_bio: Elise Fillpot is director of the Bringing History Home Project and is
+  currently a visiting fellow at the University of Iowa College of Education and a
+  visiting assistant professor in the UI Department of History.
+image_fid: '950'
+splash_image_fid: '7945'
+author_image_fid: '4128'
+summary: To engage with a source, ask, "What do I *know*, what do I *want* to know,
+  and what have I *learned*?"
+splash_image: /files/kwl_0.jpg
+image: /files/kwl.jpg
+author_image: /files/author_image/fillpot_1.jpg
 ---
+
+
 
 ## What Is It?
 

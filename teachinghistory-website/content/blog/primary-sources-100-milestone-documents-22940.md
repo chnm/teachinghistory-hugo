@@ -2,11 +2,17 @@
 title: 'Primary Sources: 100 Milestone Documents'
 date: '2009-10-01T10:57:18'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22940
 url: /nhec-blog/22940
+date_published: '2009-10-01T00:00:00'
+image_fid: '2448'
+summary: Consolidated access to pivotal diplomatic, legal, and political primary source
+  documents.
+image: /files/louisianap.jpg
 ---
+
 
 The website [100 Milestone Documents](http://www.ourdocuments.gov) chronicles United States history from 1776 to 1965 through a chronologically-ordered compilation of primary sources. Cosponsored by [National History Day](http://www.nationalhistoryday.org) and the [National Archives](http://www.archives.gov/index.html), the selected materials range from [Richard Henry Lee's resolution for independence in 1776](http://www.ourdocuments.gov/doc.php?doc=1) to the [Voting Rights Act of 1965](http://www.ourdocuments.gov/doc.php?flash=false&doc=100).
 Each entry includes background information, images of the document (online or accessible as PDFs), a transcription, links to related documents, and teaching suggestions. The section [Tools for Educators](http://www.ourdocuments.gov/content.php?page=tools) also includes a sourcebook for working with the documents and other ideas for teachers.

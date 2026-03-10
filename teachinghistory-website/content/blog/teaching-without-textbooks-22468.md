@@ -2,11 +2,16 @@
 title: Teaching without Textbooks?
 date: '2009-08-09T14:47:14'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22468
 url: /nhec-blog/22468
+date_published: '2009-08-09T00:00:00'
+image_fid: '1481'
+summary: Can't live with them; can't live without them?
+image: /files/09textbook.600.jpg
 ---
+
 
 In Arizona and California, among other school systems across the globe, open-source materials and digital resources are supplementing or supplanting standard textbooks. Why?
 According to [In a Digital Future, Textbooks Are History](http://www.nytimes.com/2009/08/09/education/09textbook.html?em) in the August 8 [*New York Times*](http://www.nytimes.com), today's kids are "digitally nimble. They multitask, transpose and extrapolate. . . .Students don’t engage with textbooks that are finite, linear and rote."

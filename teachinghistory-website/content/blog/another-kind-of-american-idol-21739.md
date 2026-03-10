@@ -2,11 +2,19 @@
 title: Another Kind of American Idol
 date: '2009-02-19T17:13:56'
 lastmod: '2017-12-01T14:53:33'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 21739
 url: /nhec-blog/21739
+date_published: '2009-02-19T00:00:00'
+image_fid: '808'
+splash_image_fid: '9246'
+summary: 'Explore the history of America''s most iconic image—the American flag. But
+  remember: lip-syncing is not allowed!'
+splash_image: /files/flagsplash.jpg
+image: /files/ssb.jpg
 ---
+
 
 The impressive Star-Spangled Banner, America's almost 200-year old, 34-by-34-foot flag that inspired Francis Scott Key to pen the national anthem, is a highlight exhibit at the [Smithsonian Museum of American History](http://americanhistory.si.edu/).
 But as important as the flag and the anthem are to our national identity, it's no secret that singing the anthem is not for the faint-of-voice or for the monotone, although it's publicly sung in every imaginable venue by choirs, opera singers, pop and rap performers, and many, many, many more. Now, the Smithsonian offers visitors to the [online Star-Spangled Banner exhibit](http://americanhistory.si.edu/starspangledbanner/) a chance to show the world how it ought to be sung on YouTube.

@@ -2,11 +2,30 @@
 title: 'Housing and Houselessness: A Guide for Pre-Service Teachers'
 date: '2024-10-10T13:07:46'
 lastmod: '2024-10-24T15:07:33'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25876
 url: /teaching-materials/teaching-guides/25876
+author_bio: 'Amber Pelham is a Ph.D. student in History at George Mason University.
+  She holds an M.A. in Public History from New York University, with a specialized
+  focus on the preservation of local communities in the Carolinas. Amber''s research
+  is dedicated to exploring migration patterns of African Americans within the Carolinas.
+
+
+  Beyond her academic pursuits, Amber is deeply committed to community engagement.
+  She actively participates in the creation of resources aimed at fostering digital
+  interaction within rural communities.'
+image_fid: '10264'
+splash_image_fid: '10265'
+author_image_fid: '10266'
+summary: Help students understand the how policy and structural forces have shaped
+  how people in the U.S. access housing.
+splash_image: /files/HousingStruggleSplash.jpg
+image: /files/HousingStruggle.jpg
+author_image: /files/author_image/AMBER-PELHAM-650x650.jpg
 ---
+
+
 
 ### **What is it?**
 
@@ -93,25 +112,25 @@ Ask students: Who decides what constitutes a home?  
 
 1. Typical Housing in Greenbelt, Maryland- <https://www.loc.gov/item/2018699737/>
 
-![Outdoor view of two houses side by side. The house on the left is blue, and the house on the right is white. Both houses have flat roofs, two stories, and five windows. Grass and trees border the houses. ](/sites/default/files/inline-images/Typical%20Housing%20in%20Greenbelt%2C%20Maryland.jpg)
+![Outdoor view of two houses side by side. The house on the left is blue, and the house on the right is white. Both houses have flat roofs, two stories, and five windows. Grass and trees border the houses. ](/files/inline-images/Typical Housing in Greenbelt, Maryland.jpg)
 
 **Annotation:**These houses should be categorized as homes. Students should be able to identify residency in both homes by examining them. A satellite dish, curtains, and other identifiers provide proof of occupancy. The individual in this home is either the owner or renter, and the structure has gone through a legal process to become a permanent structure. Housing communities in the Greenbelt District were developed during the New Deal Era in 1935 under the United States Resettlement Administration. This administration was designed to resettle farmers and migrant workers affected by the Dust Bowl.  
 
 2. One of Many Small Ponds Surrounded By Housing Developments in Gilbert, Arizona, a Southern Suburb of Phoenix, Arizona- <https://www.loc.gov/pictures/item/2018702325/>
 
-![A large pond takes up most of the photo, and it is lined with palm trees, which are reflected in the pond. Toward the back of the photo are houses overlooking the pond.](/sites/default/files/inline-images/Housing%20Developments%2C%20Gilbert%2C%20Arizona.jpg)
+![A large pond takes up most of the photo, and it is lined with palm trees, which are reflected in the pond. Toward the back of the photo are houses overlooking the pond.](/files/inline-images/Housing Developments, Gilbert, Arizona.jpg)
 
 **Annotation:**The homes in this picture are recently built. This picture was taken in 2018. Students should recognize that these are permanent structures and think about what these homes do to the environment and homes of other organisms. This picture shows a pond and clear signs of human manipulation of this environment. Teachers should guide students to conclude that homes that are this way permanently displace other living things and their habitats while creating new ones for others. 
 
 3. Housing Development Around a Private Lake in the Northern Reaches of Indianapolis, Indiana-   <https://www.loc.gov/pictures/item/2016631680/>
 
-![Outside aerial view of a private lake and the housing development that surrounds it. The sky is clear, and an interstate sits in front of the private community.](/sites/default/files/inline-images/Housing%20Development%20Private%20Lake%2C%20Indianapolis%20.jpg)
+![Outside aerial view of a private lake and the housing development that surrounds it. The sky is clear, and an interstate sits in front of the private community.](/files/inline-images/Housing Development Private Lake, Indianapolis .jpg)
 
 **Annotation:**This image is an aerial view of housing development. Have students notice the exclusiveness of this property. It is essential to identify this lake as private. Some indicators show that there are very few entry points into this neighborhood. This is designed for the safety of the community. Students should reference the previous discussion that safety and community building are critical to creating permanence. Also, the concept of privatizing property, such as the lake, relates to the debate on property rights. This lesson will discuss the conversations between policymakers and citizens on whether housing initiatives should depend on government subsidies or become a private corporate venture. Students should begin to acknowledge the differences and outcomes between the two.  
 
 4. Abandoned Public-Housing Units in the Liberty City Neighborhood of Miami, Florida- <https://www.loc.gov/resource/highsm.62362/>
 
-![One full housing unit is in view, which is light blue, two stories, and has twelve windows and two doors. Two other housing units are partially visible, and a paved concrete path leads to the units. A telephone pole stands in front of the unit.](/sites/default/files/inline-images/Abandoned%20Public%20Housing%2C%20Miami%20.jpg)
+![One full housing unit is in view, which is light blue, two stories, and has twelve windows and two doors. Two other housing units are partially visible, and a paved concrete path leads to the units. A telephone pole stands in front of the unit.](/files/inline-images/Abandoned Public Housing, Miami .jpg)
 
 **Annotation:**The housing units in this image were a government-subsidized public housing project built in the 1930s. The housing units, while no longer in use, are the physical representation of the changes in housing reform. These units were once heavily populated during the early stages of housing reform. However, they are vacant over time due to many policy changes.
 
@@ -141,7 +160,7 @@ Educators should print out the Library of Congress’s Public Improvement map an
 
 Program objectives diagram 1: 1967-1985 public improvement program priorities (partial accounting) : [District of Columbia]. - <https://www.loc.gov/resource/g3851g.ct010988/?r=-0.279,0.116,1.856,0.957,0> 
 
-![Map of Washington, DC. Shaded areas correspond to urban renewal projects](/sites/default/files/inline-images/Program%20Objectives%20Diagram.jpg)
+![Map of Washington, DC. Shaded areas correspond to urban renewal projects](/files/inline-images/Program Objectives Diagram.jpg)
 
 This city-planning map displays urban renewal plans in Washington, D.C., created in 1967 to illustrate development plans from 1967-1985. This map shows where new schools will be built, transit systems, parks, and other infrastructure for public improvement. Have students pay attention to where these activities are located. In tandem with this source, have students examine Mapping Segregation DC’s, [Restricted Housing and Racial Change, 1940-1970 map,](http://mappingsegregationdc.org/#maps) and have students identify who lives in the neighborhoods that will be affected. Choose the layers of the map that coordinate with the time of this development plan. ‘
 
@@ -159,7 +178,7 @@ Educators can print out this source or display it digitally. 
 
 The Housing Struggle in Crisis, National Tenant Organization Poster, 1973- <https://www.loc.gov/item/2016649888/> 
 
-![Poster featuring a crumbling building. The text reads The Housing Struggle in Crisis. The 1973 National Tenants Organization, National convention Aug. 30 thru Sept. 3 Pick-Congress Hotel Chicago, IL](/sites/default/files/inline-images/Housing%20Struggle%20in%20Crisis%20Poster.jpg)
+![Poster featuring a crumbling building. The text reads The Housing Struggle in Crisis. The 1973 National Tenants Organization, National convention Aug. 30 thru Sept. 3 Pick-Congress Hotel Chicago, IL](/files/inline-images/Housing Struggle in Crisis Poster.jpg)
 
 This source is a poster for the National Tenant Organization’s National Convention in 1973, held in Chicago, Illinois. The poster shows an apartment building being demolished. The National Tenant Organization was formed in 1969 to help with tenants' rights issues. The National Tenants Organization vs. HUD (U.S. Department of Housing and Urban Development) determined that HUD’s restriction in deductions to secondary wage earners resulted in overcharging those tenants. The courts determined that this was a violation and that HUD must carry out the deductions. Students examining this source should contemplate the types and levels of advocacy during housing reform. 
 
@@ -193,7 +212,7 @@ This station should center on the preservation of communities. Educators should 
 
 Bulletin board at Johnson Houses, E. 115th St. at Lexington Ave., Harlem, 1989 digital file from original- <https://www.loc.gov/resource/vrg.07713/> 
 
-![Bulletin board under an analog clock with various posters, pamphlets, and photographs pinned to it.](/sites/default/files/inline-images/Bulletin%20board%20at%20Johnson%20House.jpg)
+![Bulletin board under an analog clock with various posters, pamphlets, and photographs pinned to it.](/files/inline-images/Bulletin board at Johnson House.jpg)
 
 This is a bulletin board in a public housing project in Harlem, NY. It is filled with advertisements about drug prevention and bulletins that encourage Black success. There is also a sign in Spanish. This primary source shows what some public housing communities faced during this time in these housing projects. This source also shows the dichotomy of the needs of Black and Brown community members. It shows the upliftment and success of the Black and Brown communities while protecting their communities from crime. 
 

@@ -2,8 +2,11 @@
 title: Job Carr Cabin Museum
 date: '2008-01-08T13:26:35'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 4437
+website_url: http://www.jobcarrmuseum.org/
 ---
 
+The Job Carr Cabin replication is a museum commemorating the original Euro-American settler of what is now Tacoma and his vision of locating the terminus of the Northern Pacific Railroad on Commencement Bay.
+The museum offers tours, exhibits, historical reenactors, and educational and recreational programs.

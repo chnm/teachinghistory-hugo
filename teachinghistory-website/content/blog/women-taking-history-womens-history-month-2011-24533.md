@@ -2,11 +2,19 @@
 title: 'Women Taking History: Women''s History Month 2011'
 date: '2011-02-22T18:21:29'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24533
 url: /nhec-blog/24533
+date_published: '2011-03-04T00:00:00'
+image_fid: '7198'
+splash_image_fid: '7197'
+summary: This Women's History Month, remind your students that women have made history
+  in more ways then one—by recording it, as well as *being* recorded.
+splash_image: /files/splash-blog-wom2011.jpg
+image: /files/image-blog-wom2011.jpg
 ---
+
 
 African American History Month ends, and Women's History Month begins! Take a glance around the internet, and you'll find plenty of resources for teaching women's history—whether it be the Seneca Falls Convention, heroes of the American Revolution and the Civil War, social activists, First Ladies, workers during the World Wars, jazz and blues stars, or presidential candidates. You'll find photographs of many of these women, too—working in factories, on the campaign trail, helping the wounded, conducting scientific experiments.
 But who takes these photographs? Who makes these images that become the records of history? Aren't the people behind the camera as significant as the ones in front of it?

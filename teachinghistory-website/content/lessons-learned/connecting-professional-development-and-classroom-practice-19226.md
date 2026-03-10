@@ -2,10 +2,22 @@
 title: Connecting Professional Development and Classroom Practice
 date: '2008-04-22T19:53:38'
 lastmod: '2017-10-06T15:39:58'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 19226
+author_bio: Stanley L. Pesick directs the Oakland Unified School District Teaching
+  American History (TAH) grant. A former history and government teacher, he earned
+  his Ph.D. in curriculum and teaching education from Stanford University. He currently
+  teaches history/social science methods courses at Mills College and has conducted
+  professional development workshops for history teachers since 1988.
+splash_image_fid: '4970'
+author_image_fid: '4151'
+summary: You've gone to the workshops. Now, how do you put what you learned into practice?
+splash_image: /files/Lesson_Study_and_TAH_-_432x240.jpg
+author_image: /files/author_image/Pesick-1.jpg
 ---
+
+
 
 In the library of an Oakland, CA, middle school, four 8th-grade American history teachers are gathered around a table. A doctoral student in U.S. History, the school librarian, and two staff members from the Oakland Unified Teaching American History (TAH) Grant's professional development project join them. The teachers have come from three different schools to observe a lesson on the Fourth Amendment they have planned together.
 They wanted students to understand the ideas, rights, and controversy embedded in the dry language of the Constitution. The lesson began in a dramatic fashion. The teacher who was teaching the lesson arranged for a campus security guard to walk into the classroom and search the backpacks of three students. The students had agreed before class to participate in the simulation. After the search, students in the class were asked to write a brief response explaining whether they thought the search was legal. A discussion of this question followed. Then the students read and tried to rewrite the Fourth Amendment in their own words.

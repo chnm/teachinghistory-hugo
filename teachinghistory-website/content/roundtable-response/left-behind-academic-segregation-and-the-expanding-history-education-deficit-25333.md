@@ -2,10 +2,26 @@
 title: 'Left Behind: Academic Segregation and the Expanding History Education Deficit'
 date: '2011-12-01T13:37:39'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25333
+author_bio: 'Named California Teacher of the Year 2008 for his efforts in teaching
+  English Language Learners, Michael Long specializes in teacher training centered
+  upon helping students find a civic voice through combined studies in writing and
+  history. Michael currently serves as a school administrator at Lake Marie Elementary
+  in Whittier California and adjunct faculty for Biola University’s School of Education,
+  and is the co-author of *Freedom to Express: Promoting Civic Literacy, Reading,
+  and Writing for English Language Learners* (Los Angeles County Office Of Education,
+  2011).'
+author_image_fid: '8612'
+summary: Teachers often blame time-consuming standardized testing for the history
+  education deficit; however, school subjects are segregated because we no longer
+  use teaching methods that allow for natural overlaps in content. Specifically, reading
+  should not be a stand-alone subject, but rather, relayed through historic accounts
+  and primary documents to teach history content and model civic language and values.
+author_image: /files/author_image/author_long.jpg
 ---
+
 
 Recently a physical fitness expert came to a local school to work with staff and students on promoting healthy habits. Before leaving he brought forth a pile of prizes to award to students who were able to answer seemingly innocuous questions. One of his questions, “Who can tell me the capital of California?” was met with blank stares. Finally, one brave young man raised his hand, yelling, “I know! Capital C!” Silence resumed until he was awarded the prize for effort and cuteness. After all, technically, he *was* correct. The scene worsened as adult onlookers audibly groaned, however, when the students were unable to name our nation’s first president.
 Amidst the sadness and humor, the history lovers present recognized the poignancy of the moment: our students often do not even know their geographic location, let alone how we came to be a nation. They might decode words, read short passages, and solve for x in simple equations, but fall short when faced with the task of speaking to other content areas. They learn the basics of what we teach them, gaining the ability to critically tackle tests, moving forward through respective grade levels. In the end, many do not learn the basics of geography, the history of our nation, the importance of civic function, or the meaning of constitutional freedom.

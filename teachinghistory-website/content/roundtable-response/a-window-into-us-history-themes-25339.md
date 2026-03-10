@@ -2,10 +2,19 @@
 title: A Window into U.S. History Themes
 date: '2011-12-07T10:40:21'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25339
+author_bio: Rebecca Hanly has served as project director and museum/historical society
+  partner on several TAH grants in Kentucky since 2002. She holds an MA in history
+  from the University of Kentucky.
+author_image_fid: '8747'
+summary: A 1978 Ford LTD. Coppertone SPF 2 suntan oil. . .. Material culture allows
+  students to make sense of the items in a way that more traditional primary sources
+  don’t always permit.
+author_image: /files/author_image/author_hanly.jpg
 ---
+
 
 A 1978 Ford LTD. Coppertone SPF 2 suntan oil. A cassette tape of *Chicago 17* playing on an oversized, yet portable stereo. These three items of material culture help tell the story of my coming of age years in the 1980s. With them (or with images of them) I can engage students in a historical narrative that might come across something like this in a textbook: "In the 1970s, American auto manufacturers continued building the same large, tank-like cars with poor fuel efficiency that they had been making since the 1950s. The dangers of skin cancer were still not widely known or heeded as sunbathers used suntan oil as a means of accelerating the tanning process rather than blocking it. Cassette tapes replaced eight-tracks and portable 'boom boxes' crept into youth culture."
 > …the appeal of displaying artifacts…is the sense that…the viewer makes his or her own sense of the items, unlike a history textbook or classroom lecture where an authority tells one what is important.

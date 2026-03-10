@@ -2,7 +2,7 @@
 title: World War and Literature
 date: '2012-03-22T12:49:13'
 lastmod: '2017-12-05T08:51:59'
-type: ask_an_educator
+content_type: ask_an_educator
 draft: false
 drupal_nid: 25505
 question: Can you suggest any literature covering World War I to World War II that
@@ -10,7 +10,20 @@ question: Can you suggest any literature covering World War I to World War II th
   from that period that would interest my students. I would like stories that include
   what life was like during these years for young people.
 url: /teaching-materials/ask-a-master-teacher/25505
+author_bio: Gã Lombard is a manager and buyer at Bookshop Santa Cruz, a large independent
+  bookstore with an extensive children's section. She has previously worked as an
+  editor and a librarian.
+image_fid: '9053'
+splash_image_fid: '9052'
+author_image_fid: '9051'
+summary: Can you suggest any literature covering World War I to World War II that
+  my 10th-grade world history class can read?
+splash_image: /files/splash-aamt-hf.jpg
+image: /files/image-aamt-hf.jpg
+author_image: /files/author_image/author_lombard.jpg
 ---
+
+
 
 Historical literature can really grab your students' interest. Consider the following excerpt:
 *They had come for him just after midnight. Three men in suits and ties and black fedoras with FBI badges under their coats. 'Grab your toothbrush,' they’d said. This was back in December, right after Pearl Harbor, when they were still living in the white house on the wide street in Berkeley not far from the sea. The Christmas tree was up and the whole house smelled of pine, and from his window the boy had watched as they led his father out across the lawn in his bathrobe and slippers to the black car that was parked at the curb.*
@@ -61,3 +74,8 @@ The narrator of Ruta Sepetys's ***Between Shades of Gray***, 15-year-old Lina, b
 * *Between Shades of Gray* by Ruta Sepetys
 * *The Endless Steppe: Growing Up in Siberia* by Esther Hautzig
 * *Homestead* by Rosina Lippi
+
+---
+
+See [here](http://www.cde.ca.gov/ci/rl/ll/ap/litsearch.asp) to search the California literature recommendations. Choose “historical fiction” as one of your search parameters.
+This *Ask a Master Teacher* [entry](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/20685) has some other helpful resources for finding historical literature.

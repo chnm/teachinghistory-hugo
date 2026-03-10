@@ -2,11 +2,24 @@
 title: Jeremiah McCall on Using Simulation Games in the History Classroom
 date: '2011-09-07T12:05:19'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25117
 url: /nhec-blog/25117
+author_bio: 'Jeremiah McCall, PhD, teaches high school history at Cincinnati Country
+  Day School. He is the author of *Gaming the Past: Using Video Games to Teach Secondary
+  History*. He also maintains the site [gamingthepast.net](http://gamingthepast.net/).'
+date_published: '2011-10-03T00:00:00'
+image_fid: '8050'
+splash_image_fid: '8039'
+author_image_fid: '8037'
+summary: How can you teach—not just distract—with digital games?
+splash_image: /files/gamingsplash.jpg
+image: /files/gamessplash.jpg
+author_image: /files/author_image/authorphotojeremiahmccall75x75_2.jpg
 ---
+
+
 
 *(Note: This blog entry is the first part of a six-part series. Read more on using games in the classroom in parts [two](http://teachinghistory.org/nhec-blog/25225), [three](http://teachinghistory.org/nhec-blog/25338), [four](http://teachinghistory.org/nhec-blog/25451), [five](http://teachinghistory.org/nhec-blog/25523), and [six](http://teachinghistory.org/nhec-blog/25624).)*
 Using simulation games effectively in the classroom poses challenges. The power of such games to offer compelling and unique learning opportunities is very real, however, and well worth the effort. I invite readers to use the guidelines in this series to harness the power of simulation games. I encourage teachers to engage in their own play, experimenting with simulations thoughtfully, taking calculated risks in the classroom, wading into the chaos, and guiding students towards a more meaningful and relevant study of the past.

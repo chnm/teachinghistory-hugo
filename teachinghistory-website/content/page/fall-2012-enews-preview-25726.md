@@ -2,7 +2,7 @@
 title: Fall 2012 Enews Preview
 date: '2012-08-31T10:59:12'
 lastmod: '2012-08-31T13:44:08'
-type: page
+content_type: page
 draft: false
 drupal_nid: 25726
 ---

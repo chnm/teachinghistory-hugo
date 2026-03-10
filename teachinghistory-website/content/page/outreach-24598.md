@@ -2,7 +2,7 @@
 title: Outreach
 date: '2011-03-30T09:49:36'
 lastmod: '2012-02-17T12:33:18'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24598
 ---

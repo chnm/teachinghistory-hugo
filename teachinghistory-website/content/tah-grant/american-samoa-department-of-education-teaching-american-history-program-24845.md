@@ -2,8 +2,9 @@
 title: American Samoa Department of Education Teaching American History Program
 date: '2011-06-13T19:29:13'
 lastmod: '2017-10-06T15:37:32'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24845
 ---
 
+The project will serve public schools on the five islands of American Samoa, where all students qualify for free school lunches. A needs survey demonstrated that 96 percent of history teachers had not majored in history and that student achievement in history needs to improve—58 percent of fourth graders, 36 percent of eighth graders and 38 percent of twelfth graders scored below average on the history cluster of the 2009 SAT-10. Through this project, two cohorts of 25 teachers will participate in 480 hours of American history instruction and professional development regarding classroom-ready teaching techniques. This training will include (1) 10 day-long symposia on American history content, six core content-related teaching practices and response-to-intervention implementation; (2) a 3-day summer institute and field study focused on topics that align with grade-level curriculum content, including training in teaching strategies, standards review and lesson development from the field study; and (3) teacher networking through after-school meetings held twice monthly to review student performance and develop intervention strategies. Cohort 1 (Grades 5-8) will receive training in the first 3 years, with Cohort 2 (Grades 9-12) following in the final two years. After the summer institutes of 2012 (for Cohort 1) and 2015 (for Cohort 2), the project teachers will travel to the mainland to visit historic sites most have only read about. They will learn to use content-related teaching methods, including primary source documents, artifacts, fine art, illustrations and maps to translate newly mastered content into their classes. The project will post online curriculum developed by the project, best practices and other materials.

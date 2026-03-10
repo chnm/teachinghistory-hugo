@@ -2,10 +2,20 @@
 title: An Opportunity for Enhanced History Teaching and Learning
 date: '2011-12-19T12:08:47'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25351
+author_bio: Sarah Drake Brown is an Assistant Professor of History and Director of
+  the History Department’s Teacher Education Program at Ball State University in Muncie,
+  IN.
+author_image_fid: '8678'
+summary: 'The language in the standards merely skims the surface of historical thinking,
+  but the CC provides us with two key opportunities: to educate the public about what
+  a vibrant history classroom looks like and to spearhead rigorous history teacher
+  preparation.'
+author_image: /files/author_image/author_sdbrown.jpg
 ---
+
 
 At first glance, the Common Core Standards mean very little for history teaching and learning. Buried under language arts literacy skills and lacking references to deep disciplinary thinking, the Common Core (CC) might lead history teachers to simply shake our heads, ignore the standards, and let language arts specialists grapple with reading and writing. But, if we can move past the fact that history has once again been afforded second-class status and barely emerges as part of a “college and career readiness” curriculum, we might use the CC to our advantage. The language in the standards merely skims the surface of historical thinking, but the CC provides us with two key opportunities: to educate the public about what a vibrant history classroom looks like and to spearhead rigorous history teacher preparation.
 > If we can move past the fact that history has once again been afforded second-class status . . . we might use the CC to our advantage.

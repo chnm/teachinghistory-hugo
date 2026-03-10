@@ -2,14 +2,33 @@
 title: Jeremiah McCall on Structuring Lesson Plans Using Simulation Games
 date: '2011-12-06T14:21:45'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25338
 url: /nhec-blog/25338
+author_bio: 'Jeremiah McCall, PhD, teaches high school history at Cincinnati Country
+  Day School. He is the author of *Gaming the Past: Using Video Games to Teach Secondary
+  History*. He also maintains the site [gamingthepast.net](http://gamingthepast.net/).'
+date_published: '2012-02-13T00:00:00'
+image_fid: '8653
+
+
+  8653
+
+
+  8653'
+splash_image_fid: '8654'
+author_image_fid: '8647'
+summary: What can you learn from analyzing a history-based game? How to critique models
+  of systems and presentations of history, says teacher Jeremiah McCall.
+splash_image: /files/games3splash.jpg
+author_image: /files/author_image/authorphotojeremiahmccall75x75_2_1.jpg
 ---
 
+
+
 *(Note: This blog entry is the third part of a six-part series. Read more on using games in the classroom in parts [one](http://teachinghistory.org/nhec-blog/25117), [two](http://teachinghistory.org/nhec-blog/25225), [four](http://teachinghistory.org/nhec-blog/25451), [five](http://teachinghistory.org/nhec-blog/25523), and [six](http://teachinghistory.org/nhec-blog/25624).)*
-At the heart of any lesson or unit involving a simulation game is a three-step structure. First, students must learn to play the game; once they have learned to play they should observe and analyze the game; finally they must discuss and evaluate the game. Throughout these steps, the teacher serves as the critical learning expert and facilitator. This installment in my series of blog entries on games (see [Part One](http://teachinghistory.org/nhec-blog/25117) and [Part Two](http://teachinghistory.org/nhec-blog/25225)) explores the first two steps in detail, leaving issues of discussion, evaluation, and assessment for the next entry in the series. Before beginning, however, it is important to note these steps assume students will play the game individually or in small groups on a set of computers. This is not the only way to use simulations effectively in the classroom, however, and other configurations will be discussed in the next installment. ![Graphic Organizer](http://teachinghistory.org/files/games3.jpg)
+At the heart of any lesson or unit involving a simulation game is a three-step structure. First, students must learn to play the game; once they have learned to play they should observe and analyze the game; finally they must discuss and evaluate the game. Throughout these steps, the teacher serves as the critical learning expert and facilitator. This installment in my series of blog entries on games (see [Part One](http://teachinghistory.org/nhec-blog/25117) and [Part Two](http://teachinghistory.org/nhec-blog/25225)) explores the first two steps in detail, leaving issues of discussion, evaluation, and assessment for the next entry in the series. Before beginning, however, it is important to note these steps assume students will play the game individually or in small groups on a set of computers. This is not the only way to use simulations effectively in the classroom, however, and other configurations will be discussed in the next installment. ![Graphic Organizer](/files/games3.jpg)
 
 ## Step 1: Learning to Play
 
@@ -34,7 +53,7 @@ Providing guidelines helps foster the most effective observations. For example, 
 
 The more sophisticated the game, the more a general set of guidelines for observations will help. Many short web-based games, however, are simple enough that players can record every major choice they make, their reasons for doing so, and the impact of those choices on the game. Either way the goal of note-taking is not only to accustom students to the practice of observation and recording so critical for gathering evidence, but to encourage them to become familiar with the workings of the game—the better to reflect upon it, engage with it, and learn from the experience.
 In addition to note-taking, providing students with comprehension and analysis questions helps students explore the details of the game. These are questions about basic gameplay that require an understanding of gameplay fundamentals. Screenshots from the game are helpful illustrations for these sorts of questions. So, for example, given the following screenshot from [*Energyville*](http://teachinghistory.org/digital-classroom/tech-for-teachers/25173), students can identify and explain the functions of the:
-![Energyville screenshot](http://teachinghistory.org/files/blog-image-jmenergy.jpg)
+![Energyville screenshot](/files/blog-image-jmenergy.jpg)
 > * White buttons listed at the bottom
 > * The exclamation points over buildings
 > * The graph in the upper right column

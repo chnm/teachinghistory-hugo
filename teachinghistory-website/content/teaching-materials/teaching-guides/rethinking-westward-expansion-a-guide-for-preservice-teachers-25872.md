@@ -2,11 +2,25 @@
 title: 'Rethinking "Westward Expansion": A Guide for Preservice Teachers'
 date: '2023-09-29T12:44:09'
 lastmod: '2023-09-29T14:28:26'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25872
 url: /teaching-materials/teaching-guides/25872
+author_bio: Nate Sleeter is a research assistant professor at the Roy Rosenzweig Center
+  for History and New Media where he oversees educational projects. He is also a former
+  K-12 teacher.
+image_fid: '10244'
+splash_image_fid: '10245'
+author_image_fid: '10247'
+summary: Help students reconsider the how the expansion of the United States from
+  1865 to 1890 was perceived by Native peoples in the west using primary sources from
+  the Library of Congress.
+splash_image: /files/Zitkala-Sa-Portrait-2-scaled.jpg
+image: /files/ZitkalaSa.png
+author_image: /files/author_image/NATE_SLEETER (1)_0_0.JPG
 ---
+
+
 
 **What is it?**
 

@@ -2,14 +2,18 @@
 title: Breaking the Confederate Line at Antietam
 date: '2010-09-21T16:07:05'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24265
 question: Which Union regiments fought at Antietam? Who was the Union general who
   led the attack across the bridge at Antietam on Confederate lines and how many times
   did he charge before breaking through?
 url: /history-content/ask-a-historian/24265
+splash_image_fid: '6601'
+summary: Hour by hour account of how Union Generals moved on the battlefield at Sharpsburg.
+splash_image: /files/LincolnandMcClellan_splash.jpg
 ---
+
 
 The battle at Antietam Creek on September 17, 1862, ended Confederate General Robert E. Lee’s first invasion of the North. The Confederate Army of Northern Virginia faced Union General George B. McClellan’s Army of the Potomac near Sharpsburg, Maryland; by the end of the day, 6,000 Americans lay dead or dying and another 17,000 were wounded. It remains the bloodiest single day in American history.
 The Confederate Army fielded two corps (Longstreet’s and Jackson’s), organized into nine infantry divisions and a cavalry division and comprising more than 130 individual regiments, together totaling more than 38,000 men. The Union Army of the Potomac fielded six corps (I, II, V, VI, IX, and XII) organized into 18 infantry divisions and a cavalry division; more than 191 individual regiments numbering some 75,000 federal troops fought in the battle at Antietam. (An exhaustive list of every corps, division, brigade and regiment, along with the officers that commanded them—known as the order of battle—can be found in Stephen Sears’ [Landscape Turned Red: The Battle of Antietam](http://www.amazon.com/Landscape-Turned-Red-Battle-Antietam/dp/0618344195/ref=sr_1_1?s=books&ie=UTF8&qid=1285099281&sr=1-1), pp. 359-372.
@@ -21,3 +25,10 @@ Finally, at around 2 p.m., two Northern regiments hand-picked for their toughnes
 > Most observers judged the battle at Antietam a draw
 
 Burnside’s ineffective leadership at the bridge during led McClellan to write to his wife little more than a week later describing him as “very slow” and “not fit to command more than a regiment.” McClellan’s evaluation may have been correct; nevertheless, McClellan’s own performance at Antietam led to his removal by Abraham Lincoln on November 7, 1862. The Army of the Potomac’s next commander would be none other than Ambrose Burnside, who led the Union forces in the even more disastrous and lopsided defeat at Fredericksburg that December.
+
+---
+
+[The War of the Rebellion: a Compilation of the Official Records of the Union and Confederate Armies](http://digital.library.cornell.edu/m/moawar/waro.html), U.S. War Department, 1880-1901, Making of America, *Cornell University Library*.
+["Order of Battle."](http://antietam.aotw.org/oob.php) **Antietam on the Web**, 2010.
+Kennedy, Frances H., ed. *The Civil War Battlefield Guide.* 2nd ed. Boston: Houghton Mifflin Co., 1998.
+[**Roads to Antietam**](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/23729)

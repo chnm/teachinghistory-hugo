@@ -2,8 +2,9 @@
 title: The Movers and Shakers History Grant
 date: '2011-06-15T16:34:20'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24937
 ---
 
+In this northeastern Ohio consortium, the teachers lack adequate preparation in American history, and the fifth grade passage rate for the Ohio Achievement Test in American history is less than half the state expected average. The project will include (1) professional development with field study experience; (2) a teacher training program for CICERO: History Beyond the Textbook; (3) a monthly online, live professional development program for historical content and strategies; and (4) a bimonthly book reading and discussion group. Each year, 40 fellows will participate in a 2-day fall colloquium, a 3-day winter colloquium, a 2-day field study, four half days of research and review, and a 5-day summer institute. All elementary and U.S. history teachers not selected for a fellowship will be allowed to participate in the online professional development program and attend one day of CICERO training. The project's overarching themes are to examine traditional American history through the lenses of conflict and cooperation, and to study the political, economic, legal, social and ideological contrasts found throughout American history. The teachers will learn to research substantive historical content and collaborate with fellow students, teachers, project historians and history education specialists to generate historical narratives. Scholars will instruct the teachers in investigating specific events, primary sources, personalities, turning points, contemporary interpretations and historiographies pertaining to each field of study. Teacher-developed Web 2.0 sites will include wikis, blogs, peer-reviewed historical narratives and lessons, book reviews and teacher-vetted student work. In addition, student and teacher video resources will be made available on TeacherTube.com.

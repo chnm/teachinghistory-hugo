@@ -2,11 +2,16 @@
 title: Bookmark This! Beneath the Surface of Wikipedia
 date: '2009-04-23T13:19:32'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22028
 url: /nhec-blog/22028
+date_published: '2009-04-29T00:00:00'
+image_fid: '1059'
+summary: A tool for teaching analytical thinking or classroom pariah?
+image: /files/wikip.jpg
 ---
+
 
 Wikipedia, the online, open-source encyclopedia, is no longer a new kid on the research web, but questions about its merits and use in the classroom continue to recycle.
 Wikipedia is perhaps the most extensive example of democratic scholarship on the web. Tens of thousands of volunteer contributors have collectively written, revised, and edited nearly 3 million encyclopedia entries in English and other languages. Almost any Google search on topics relevant to teaching and learning history (among other subjects) elicits a Wikipedia entry among the top five search results—and frequently it occupies the number-one slot.

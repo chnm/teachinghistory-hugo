@@ -2,11 +2,17 @@
 title: James Madison Memorial Fellowship Foundation
 date: '2012-04-06T13:41:26'
 lastmod: '2018-09-20T15:46:38'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 25563
 url: /history-content/national-resources/25563
+website_url: https://www.jamesmadison.gov/
+splash_image_fid: '9144'
+summary: Looking for a way to fund graduate education related to teaching the U.S.
+  Constitution?
+splash_image: /files/jamesmadisonmemorial432x240.jpg
 ---
+
 
 The James Madison Memorial Fellowship Foundation provides fellowships for graduate education related to teaching the U.S. Constitution. Fellowships are awarded annually to one secondary teacher (or pre-service teacher) from each state as well as from Washington, DC, Puerto Rico, and (as a unit) Guam, the U.S. Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 The fellowship was created to improve the teaching of the U.S. Constitution, as well as to offer professional development to passionate educators.

@@ -2,10 +2,29 @@
 title: Collaborating on Content for American History Teachers
 date: '2009-10-14T17:26:17'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 23426
+author_bio: 'Ann Marie Ryan is an assistant professor in the School of Education at
+  Loyola University Chicago. She has been involved in three TAH grants serving the
+  Chicago Public Schools, including the [Chicago History Project](http://www.newberry.org/chicagohistoryproject/aboutus.html).
+  She currently serves as one of the academic co-directors for the American History
+  Matters Collaborative.
+
+  Frank Valadez is Executive Director of the [Chicago Metro History Education Center](http://www.chicagohistoryfair.org),
+  a nonprofit organization that promotes inquiry- and project-based approaches to
+  history education. He holds a master''s degree in American history from the University
+  of Illinois at Urbana-Champaign and a bachelor''s degree in history from Northwestern
+  University.'
+splash_image_fid: '4745'
+author_image_fid: '3437
+
+
+  3437'
+summary: With effective collaboration, TAH Grant projects can change and grow.
+splash_image: /files/Collaborating_on_Content-based_Professional_Development_-_432x240.jpg
 ---
+
 
 Effective collaboration is essential to successful implementation of Teaching American History (TAH) programs. Program leaders and partners need to collaborate well in order to effectively address problems, improve the program during implementation, and ensure that the program runs smoothly. Participants benefit from collaboration because it provides them an opportunity to learn from one another, and not just from the project leaders. Teachers, administrators, history education specialists, and historians bring different perspectives to the task of improving the teaching and learning of history in middle and high school classrooms. The experience of the Chicago History Project (CHP), shows that effective collaboration among all of these groups can contribute to programs that meet participants' needs.
 

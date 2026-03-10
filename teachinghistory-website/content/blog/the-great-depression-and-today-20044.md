@@ -2,11 +2,16 @@
 title: The Great Depression and Today
 date: '2008-10-10T19:27:15'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20044
 url: /nhec-blog/20044
+date_published: '2008-10-13T00:00:00'
+image_fid: '311'
+summary: Does the current financial crisis echo the Great Depression?
+image: /files/02895r.jpg
 ---
+
 
 The anniversary of the October stock market crash of 1929 approaches, and many are comparing the current financial crisis to the beginning of the Great Depression. Here are some classroom resources for teaching about economic issues and commentary by historians on similarities and differences between 1929 and now.
 [Annenberg Media's Learner.org](http://www.learner.org) offers teacher resources to guide classroom discussion. [Economics U$A](http://www.learner.org/resources/series79.html) looks at critical issues in U.S. economics, with programs including The Banking System, The Federal Reserve, Stabilization Policy, Exchange Rates. The program "Reducing Poverty" looks at policies enacted under FDR during The Great Depression. [Inside the Global Economics](http://www.learner.org/resources/series86.html) looks at vivid examples around the world, from hyperinflation in Argentina to petrodollar recycling in the 1970s to "shock therapy" in Poland.

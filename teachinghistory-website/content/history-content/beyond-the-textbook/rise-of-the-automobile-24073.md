@@ -2,11 +2,17 @@
 title: Rise of the Automobile
 date: '2010-06-03T18:02:47'
 lastmod: '2018-07-03T11:16:01'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 24073
 url: /history-content/beyond-the-textbook/24073
+author_bio: David Blanke is Joe B. Frantz Associate Professor of History at Texas
+  A&M University-Corpus Christi. He earned his BS at the University of Kentucky and
+  his MA and PhD at Loyola University Chicago.
+author_image_fid: '5174'
+author_image: /files/author_image/author_blanke.jpg
 ---
+
 
 U.S. history textbooks typically relate early automobile use from the perspective of three distinct narratives. One focuses on Henry Ford, the inventor of the Model T and founder of Ford Motor Company. Ford was a hands-on mechanic who enjoyed tinkering with automobiles. He formed his own firm in 1903 to create a reliable, low-cost, easy-to-operate and easier-to-fix device for the masses. While ultimately successful, it took Ford five years and several failed product lines to produce the Model T. Affectionately called the "Tin Lizzie" or "flivver" (so-called because its bouncy ride was supposedly good "for the liver"), the car remained in production for over 20 years. The second story locates the car within the economic transformation of the 1920s. Ford's mass production techniques increased worker productivity and throughput. This allowed Ford to make more cars and sell them for less money. But these methods remained hard on laborers, many of whom were required to perform routine repetitive tasks for hours on end (made famous by Charlie Chaplin in *Modern Times*). In order to retain trained workers, Ford paid higher hourly wages and lowered the work shift from 12 to eight hours per day.
 

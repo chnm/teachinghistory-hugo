@@ -2,10 +2,20 @@
 title: Losing Our History, Losing Ourselves
 date: '2011-11-28T13:07:50'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25323
+author_bio: Kurt Leichtle is professor of history and chair of the History and Philosophy
+  Department at the University of Wisconsin—River Falls. He received his PhD and MA
+  from the University of Illinois, and his BA from Luther College. His areas of focus
+  include educational techniques in the social studies and 19th-century U.S. history.
+author_image_fid: '8602'
+summary: A nation without history is but an empty shell. The present state of history
+  in the elementary schools is in danger of becoming an empty shell despite the efforts
+  of effective, dedicated teachers.
+author_image: /files/author_image/leichtle_author.jpg
 ---
+
 
 American history or any historical study is endangered today in America’s elementary schools. As the realities of No Child Left Behind (NCLB) became the driving force behind curriculum, time committed to history shrank. Why is history taught, why is history important? History defines a people. Not surprisingly as nation states emerged, history rose in importance. The elementary school is the first point at which a person engages in the organized study of their country’s history, their past. NCLB has driven that history away—from 45 minutes a day to 45 minutes every other day if that much. History along with science was hit by assemblies, testing, and everything else to preserve math and reading times. The results are becoming clear.
 Eight years ago some schools were departmentalizing their 5th and 6th grades, meaning that teachers with expertise in a discipline whether it was history/social studies, science, math, or language arts taught that subject to all the fifth or sixth graders. One could expect that student achievement and interest would rise after exposure to a teacher who had specific training in that subject and was energized by the subject. The state of history was good and appeared to be getting better.

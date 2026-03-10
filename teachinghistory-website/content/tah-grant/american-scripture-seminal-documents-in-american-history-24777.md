@@ -2,8 +2,9 @@
 title: 'American Scripture: Seminal Documents in American History'
 date: '2011-06-09T16:46:07'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24777
 ---
 
+Boston Public Schools includes 143 schools. The 79 schools in the *American Scripture* project constitute the district's lowest-performing schools, where teacher turnover is high and student scores in reading and English language arts are especially low. To address student needs and teachers' weak American history credentials, the project will offer the following activities annually: a 5-day summer institute that includes exploration of Boston’s historical sites and research of manuscript collections; follow-up seminars during the school year to build a teacher-leader network and supply new content; teacher inquiry groups that incorporate Lesson Study; 3-day historical investigations led by Facing History and Ourselves; and summer content workshops. Three district history coaches will support participants' development as teacher leaders. The 3-year *American Scripture* program will provide professional development to 50 teachers in Year 1, another 100 in Year 2, and yet another 100 in Year 3 for a total of 250 teachers. Each annual program will focus on a different theme (liberty, equality, and constructing community) and will investigate enduring achievements and challenges of American national life that recur generation after generation. Instructional strategies will focus on using primary documents as a springboard for the development of historical thinking and writing skills. Students in all grades will write a multidraft essay in response to a district-wide common writing assignment in history. Lesson plans and videotaped lessons created during the program will be posted on the district's Intranet.

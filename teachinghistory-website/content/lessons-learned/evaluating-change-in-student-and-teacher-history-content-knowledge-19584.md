@@ -2,10 +2,22 @@
 title: Evaluating Change in Student and Teacher History Content Knowledge
 date: '2008-08-27T17:47:26'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 19584
+author_bio: 'Robert Peterson is with the independent firm Evaluation Solutions in
+  Little Meadows, PA.
+
+  Kevin T. Brady, Ph.D. founded and serves as President of the American Institute
+  for History Education (AIHE).'
+image_fid: '3858'
+splash_image_fid: '4778'
+summary: Evaluation is an absolute necessity to determine teacher growth and corresponding
+  classroom impact.
+splash_image: /files/Evaluating_Change_in_Student_and_Teacher_-_432x240.jpg
+image: /files/EvaluateLLImage.jpg
 ---
+
 
 The Teaching American History grant program (TAH) was established primarily to raise student achievement by improving teachers' knowledge and understanding of and appreciation for traditional U.S. history. Rigorous evaluation is required to determine the extent to which teacher knowledge and understanding of and appreciation for U.S. history has increased and to correlate this increase with increased student performance as a result of TAH program efforts.
 The [American Institute for History Education (AIHE)](http://americaninstituteforhistory.org/) has worked with over 60 school districts nationwide to tailor TAH professional development training to local needs while meeting substantive history standards. AIHE's 35 Liberty Fellowship programs blend in-depth history content, including lectures by top university professors, history education specialists' viewpoints, historical research projects, and on-site field-study tours, as well as diverse digital and traditional resources and proven classroom practices.

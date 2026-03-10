@@ -2,11 +2,25 @@
 title: Jennifer Orr on Teaching Heroes
 date: '2011-10-19T11:39:32'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25243
 url: /nhec-blog/25243
+author_bio: Jennifer Orr is a 1st-grade teacher at Annandale Terrace Elementary School
+  in Fairfax County, VA. A National Board Certified Teacher in middle childhood, she
+  has taught 4th, 5th, and 1st grades since 1998.
+date_published: '2011-11-07T00:00:00'
+image_fid: '8349'
+splash_image_fid: '8348'
+author_image_fid: '8347'
+summary: How do you teach cultural heroes without simplifying history? First-grade
+  teacher Jennifer Orr takes care to make historical figures three-dimensional.
+splash_image: /files/heroessplash.jpg
+image: /files/heroesimage.jpg
+author_image: /files/author_image/jennifer-orr_0_0_0.png
 ---
+
+
 
 Early elementary studies in history often focus on specific people. As students mature they are able to explore history over the course of periods of time and consider how certain events impacted other times and people. However, our youngest students do not have the necessary background knowledge and life experience to do so. As a result, early elementary history standards tend to be about individuals from the past.
 My 1st graders study George Washington, Benjamin Franklin, Abraham Lincoln, and George Washington Carver, at least according to our state standards. My school district has added Eleanor Roosevelt to that list, one assumes in order to have at least one woman. The standard relates to U.S. leaders and their contributions to our country.

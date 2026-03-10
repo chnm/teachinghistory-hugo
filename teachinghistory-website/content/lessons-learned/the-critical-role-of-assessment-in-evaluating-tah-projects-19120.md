@@ -2,10 +2,21 @@
 title: The Critical Role of Assessment in Evaluating TAH Projects
 date: '2008-03-27T11:52:28'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 19120
+author_bio: Dr. Michael Herrick founded Herrick Research, a consulting firm specializing
+  in formative and summative program evaluation, staff development in large scale
+  and classroom assessment, and workshops on data-driven decision making. Dr. Herrick's
+  most recent evaluation contracts include external evaluations of Teaching American
+  History Grants. He has also conducted evaluations of school-based literacy programs,
+  a web-based assessment system, gifted and talented programs, and alcohol prevention
+  programs. Dr. Herrick received his Ph.D. from the University of Minnesota.
+splash_image_fid: '4967'
+summary: What makes a Teaching American History (TAH) evaluation successful?
+splash_image: /files/Critical_Role_of_Assessment_-_432x240.jpg
 ---
+
 
 Evaluation requirements for Teaching American History (TAH) grants have varied from year to year, but in some years, grants were required to utilize experimental or quasi-experimental designs. This requirement helps the federal government and local project directors learn if the TAH projects are accomplishing what they ultimately are expected to accomplish. Measuring the ultimate expectations, or outcomes, is a crucial part of the evaluation design. For many projects, outcomes are expressed as gains in student achievement as a direct result of TAH projects, so the assessment of student achievement can be the linchpin of an evaluation design.
 The question then remains, "What is a valid assessment?" The key to answering that question, based on my experience evaluating several TAH grants, is the extent to which the assessments used in the evaluation are "content valid," or aligned to the content and goals of the project. There are many excellent and well-researched assessments available to TAH evaluators. For example, the National Assessment of Education Progress (NAEP) publishes test items, including history items, on their [website](http://nces.ed.gov/nationsreportcard/ITMRLS/portal.asp?type=search&subject=history), which are in the public domain.

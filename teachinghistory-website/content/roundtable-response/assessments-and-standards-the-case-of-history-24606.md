@@ -2,10 +2,21 @@
 title: 'Assessments and Standards: The Case of History'
 date: '2011-04-01T12:33:38'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24606
+author_bio: Theodore K. Rabb is retired from the history department at Princeton University.
+  For over ten years he was Chair of the National Council for History Education.
+author_image_fid: '7310'
+summary: '"Assessment" and "accountability" are the current buzz words in education.
+  In an ideal world, evaluation would be unnecessary. Socrates never gave grades.
+  But in our imperfect world, mechanisms of judgment are everywhere. Most standardized
+  tests today reveal nothing significant about a student''s understanding. Consequently,
+  accountability has become a chimera. Any system that promotes mindless "teach to
+  the test" practices is inherently a failure...'
+author_image: /files/author_image/trabb_0.jpg
 ---
+
 
 “Assessment” and “accountability” are the current buzzwords in education. In an ideal world, evaluation would be unnecessary. Socrates never gave grades. But in our imperfect world, mechanisms of judgment are everywhere.
 Most standardized tests today reveal nothing significant about a student’s understanding. Consequently, accountability has become a chimera. Any system that promotes mindless “teach to the test” practices is inherently a failure. What, then, is the alternative?

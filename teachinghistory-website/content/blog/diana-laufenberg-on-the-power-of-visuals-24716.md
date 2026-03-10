@@ -2,11 +2,28 @@
 title: Diana Laufenberg on the Power of Visuals
 date: '2011-06-02T18:04:40'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24716
 url: /nhec-blog/24716
+author_bio: Diana Laufenberg has taught grade levels from 7-12 in Social Studies.
+  She currently teaches at the Science Leadership Academy in Philadelphia, an inquiry-driven,
+  project-based high school focused on modern learning. She has also taught in Flagstaff,
+  AZ, and was named Technology Teacher of the Year for Arizona and a member of the
+  Governor's Master Teacher Corps. Her work has been published in, among other places,
+  the New York Times Learning blog.
+date_published: '2011-06-15T00:00:00'
+image_fid: '7551'
+splash_image_fid: '7550'
+author_image_fid: '7549'
+summary: Modern U.S. history instruction relies on reading and writing. Teacher Diana
+  Laufenberg argues that students need more than text to engage their minds.
+splash_image: /files/splash-blog-dlvisual.jpg
+image: /files/image-blog-dlvisuals.jpg
+author_image: /files/author_image/dlaufenberg1_1.jpg
 ---
+
+
 
 History teachers (tend to) love history. Students do not (often) love it so much. This is a perplexing situation that I have bounced around in my brain for the past two decades. When I was a student, I liked the teachers and felt as though I was being educated, but I did not love my history classes. That is until I enrolled in a special freshman seminar at the University of Wisconsin-Eau Claire: "Medieval Foundations of the Modern West," co-taught by a history professor, Dr. Thomas Miller, and an Academic Adviser with an art degree, Jeannie Harms. This course was about nurturing freshmen as students but also approaching history from an interdisciplinary angle. It was incredibly unconventional and I loved every minute of it. There was a significant 'visualness' to the history—we were constantly digging into paintings and illustrations and artifacts of the era to extract their history, for ourselves.
 

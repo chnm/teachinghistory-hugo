@@ -2,11 +2,25 @@
 title: Jennifer Orr on Integrating History into 1st-grade Instruction
 date: '2011-04-27T11:59:24'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24652
 url: /nhec-blog/24652
+author_bio: Jennifer Orr is a 1st-grade teacher at Annandale Terrace Elementary School
+  in Fairfax County, VA. A National Board Certified Teacher in middle childhood, she
+  has taught 4th, 5th, and 1st grades since 1998.
+date_published: '2011-05-16T00:00:00'
+image_fid: '7411'
+splash_image_fid: '7410'
+author_image_fid: '7408'
+summary: U.S. history doesn't usually have its own place in 1st-grade curriculum.
+  How can you integrate it with other subjects?
+splash_image: /files/Integrationsplash.jpg
+image: /files/Integrationimage.jpg
+author_image: /files/author_image/jennifer-orr_0_3.jpg
 ---
+
+
 
 As a primary school teacher my focus is on building basic academic skills in ways that are developmentally appropriate for my students. That means we focus most of our time on reading, writing, and math while ensuring that we have chances to play and explore our world.
 As one can imagine, this leaves little time for social studies and science. I have standards and objectives to teach in these areas, but they are prioritized below the others. As a result, I look for ways to integrate them into other parts of our day.

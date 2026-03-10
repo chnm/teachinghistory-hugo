@@ -2,11 +2,16 @@
 title: 'Tonight''s the Night: PBS Broadcasts We Shall Remain'
 date: '2009-04-13T09:31:49'
 lastmod: '2017-12-01T14:53:33'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 21980
 url: /nhec-blog/21980
+date_published: '2009-04-13T00:00:00'
+image_fid: '1046'
+summary: Television well-worth watching.
+image: /files/pbs.jpg
 ---
+
 
 The five-episode PBS series *We Shall Remain* begins tonight. Check local listings for broadcast times of this *American Experience* documentary.
 [Teaching Guides and Lesson Plans](http://www.pbs.org/wgbh/amex/weshallremain/beyond_broadcast/teach_and_learn) are now available on the [rich, interactive, and immersive series website](http://www.pbs.org/wgbh/amex/weshallremain/). Teaching Guides are defined by episode, and each includes discussion questions, student activities, additional resources, and lists of relevant themes corresponding to those developed by the National Council for the Social Studies Curriculum Standards and common state social studies standards.

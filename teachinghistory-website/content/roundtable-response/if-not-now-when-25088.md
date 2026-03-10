@@ -2,10 +2,22 @@
 title: If Not Now, When?
 date: '2011-08-19T19:37:07'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25088
+author_bio: Alice Reilly is the K–12 social studies coordinator for Fairfax County
+  Public Schools in Fairfax, VA. She is currently a doctoral student in Educational
+  Administration and Policy at George Washington University, and holds an Ed.S. in
+  Administration from the University of Virginia and a MEd in Curriculum and Instruction
+  from Virginia Tech.
+author_image_fid: '7954'
+summary: As the world increasingly utilizes technology in all aspects of life, schools
+  must ensure that **all** students develop the digital literacy skills needed to
+  become productive citizens. Digital textbooks are one way to ensure that process
+  begins in education.
+author_image: /files/author_image/author-reilly.jpg
 ---
+
 
 One only has to look around to realize how much technology permeates our lives, from electronic banking to online shopping to filing taxes electronically to programming and watching television. Consider the lives of our students: they wake up to the music on their iPod, text their friends to meet at lunch, check their phone messages at their locker, search the web for the movie schedules to plan an outing, and buy their tickets online.
 The world today uses technology to increase efficiency and communication. Warschauer and Matuchniak of the University of California, Irvine note that S. Harnad "calls this phenomena of computer communication 'a fourth revolution in the means of production of knowledge' following the previous revolutions of language, writing and print" ([1](#note1)). It is argued that schools are not taking advantage of technology to motivate and increase academic achievement. While students today may be digitally savvy, they are not necessarily digitally literate. The tendency in schools today is for kids to be told to "power down" in school while they "power up" outside of school.

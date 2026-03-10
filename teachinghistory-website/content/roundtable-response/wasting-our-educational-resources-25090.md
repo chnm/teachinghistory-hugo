@@ -2,10 +2,20 @@
 title: Wasting Our Educational Resources
 date: '2011-08-19T20:31:03'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25090
+author_bio: Neeru Khosla is the co-founder and executive director of [CK-12 Foundation](http://www.ck12.org),
+  a leading provider of standards-aligned, free digital textbooks. She has a Masters
+  Degree in Molecular Biology from San José State University and a Masters in Education
+  from Stanford University, and was named one of *Tech & Learning's* most influential
+  people affecting the advancement of technology in education.
+author_image_fid: '8138'
+summary: Do we dare take a new direction with the authorship and delivery of educational
+  resources? We cannot afford not to.
+author_image: /files/author_image/author-khosla.jpg
 ---
+
 
 Today's textbooks represent a system of learning and knowledge transfer that is centuries old and sorely outpaced by modern technologies. Digital textbook providers are changing the textbook paradigm but, of course, adoption is the key. Do we dare take a new direction with the authorship and delivery of educational resources? We cannot afford not to.
 Traditional textbooks are often expensive, rigid, and difficult to update. It is not unusual for these texts to be out of date before they go to the book binder, leaving many students learning from outdated materials that cannot be customized, individualized, or leveraged for multimedia.

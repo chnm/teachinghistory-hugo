@@ -2,12 +2,18 @@
 title: Voice of America
 date: '2009-12-08T15:24:32'
 lastmod: '2018-09-20T15:08:03'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23630
 url: /history-content/national-resources/23630
 featured: true
+website_url: https://www.voanews.com/
+splash_image_fid: '5090'
+summary: Find out how to pronounce tricky names, and listen to official international
+  radio programs.
+splash_image: /files/VoiceofAmerica432x240.jpg
 ---
+
 
 The Voice of America, the United States' first official international radio service, began airing in 1942, during WWII. Since then, the service has provided a global audience with "a consistently reliable and authoritative source of the news," according to the VOA website. Besides news features, VOA also covers cultural, informative, and educational broadcasts; and the service is provided in 45 languages.
 If you are interested in U.S. media history, the first place you may want to look is at the [VOA organizational history](https://www.insidevoa.com/a/3794247.html), which is broken down by period, or at the [historical highlights](https://www.insidevoa.com/p/5829.html) timelines.

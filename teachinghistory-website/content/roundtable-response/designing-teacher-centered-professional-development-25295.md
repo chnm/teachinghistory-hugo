@@ -2,10 +2,19 @@
 title: Designing Teacher-Centered Professional Development
 date: '2011-11-03T12:37:49'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25295
+author_bio: Michael Grady is a Professor of Education at Saint Louis University in
+  St. Louis, MO. He teaches program evaluation and research methods and consults in
+  program design and evaluation for educational organizations.
+author_image_fid: '8512'
+summary: Teachers should be active partners in their quest for professional development.
+  Acknowledging that teachers know what they need to know encourages them to pursue
+  that knowledge.
+author_image: /files/author_image/author_grady.jpg
 ---
+
 
 Ask most history teachers about how effective their professional development is and you will usually receive a negative answer. This unenthusiastic response is engendered by the deficit approach that traditional professional development often takes. A subject supervisor looks at end-of-course state assessments and assumes something is wrong with the way history teachers are teaching. He or she then sets out to correct the problem, frequently with the help of an external consultant. This consultant is responsible for determining teacher needs, designing the professional development, and identifying resources.
 > I suggest a professional development model that responds to history teachers’ self-determined needs for growth.

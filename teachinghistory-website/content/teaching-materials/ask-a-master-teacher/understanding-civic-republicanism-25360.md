@@ -2,13 +2,26 @@
 title: Understanding Civic Republicanism
 date: '2011-12-19T18:26:11'
 lastmod: '2017-10-06T15:21:32'
-type: ask_an_educator
+content_type: ask_an_educator
 draft: false
 drupal_nid: 25360
 question: Can you provide a few examples of how to teach civic republicanism to California
   middle-schoolers?
 url: /teaching-materials/ask-a-master-teacher/25360
+author_bio: Jeff Matlock teaches middle school history in Scotts Valley, CA. He enjoys
+  designing new curricula that involve primary sources and navigating the complex
+  terrains of history that make up our collective memory.
+image_fid: '8694'
+splash_image_fid: '8695'
+author_image_fid: '8692'
+summary: In order for students to grasp the importance of American civic republicanism,
+  they must first understand its origins.
+splash_image: /files/republicanismsplash.jpg
+image: /files/republicanismimage.jpg
+author_image: /files/author_image/matlock_photo.jpg
 ---
+
+
 
 *California State History-Social Science Content Standard 8.1.4: Describe the nation’s blend of civic republicanism, classical liberal principles, and English parliamentary traditions.*
 There is a famous story about the day the Constitutional Convention ended in September 1787. Benjamin Franklin was walking out of Independence Hall, and a woman ran to him and asked, “Dr. Franklin, what kind of government have you given us?” He replied, “A republic, if you can keep it.” Whether apocryphal or not, this statement shapes the definition of active citizenship in this country. At the heart of Franklin’s challenge is the idea of civic republicanism. The notion that it is imperative for people of this country to remain attentive and devoted to the maintenance of our institutions for their sustainability is still one of America’s cherished ideals.
@@ -28,3 +41,9 @@ Many textbooks have sections regarding the roles of citizenship that can prove q
 ## An Important Idea!
 
 Again, this concept is not an easy one to teach, especially with the limited time our school schedules are allowing year after year. While teaching our subject matter is essential, we must remember that ultimately our responsibility as educators demands that we are constantly guiding our students to be active citizens who are energized by their potential to play a part in achieving a better society. Citizens in a republic must stay engaged in the social fabric of making their institutions better. Our students must be reassured and impressed with the idea that civic participation has benefited civilization since ancient times, as can be seen throughout their studies of history in the middle years.
+
+---
+
+Students can learn more about the responsibilities of modern-day citizens and the workings of U.S. government at [iCivics](http://teachinghistory.org/history-content/website-reviews/25018). Online games explore the responsibilities of citizens and each of the three branches of government.
+What resources can you use to teach about civics and civic republicanism? A previous [*Ask a Master Teacher*](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/25062) shares more suggestions.
+Do you teach ELL students? You don't need advanced English comprehension to learn about the rights and responsibilities that are part of living in a republic! Michael Long shares a [teaching strategy](http://teachinghistory.org/teaching-materials/english-language-learners/24139).

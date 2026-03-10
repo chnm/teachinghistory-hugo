@@ -2,11 +2,28 @@
 title: Well-behaved Women [and Men] Seldom Make History
 date: '2009-03-24T09:28:35'
 lastmod: '2018-09-21T14:41:07'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 21867
 url: /teaching-materials/teaching-guides/21867
+author_bio: Myra Zarnowski teaches in the Department of Elementary & Early Childhood
+  Education at Queens College, CUNY. A former elementary and middle school teacher,
+  she has taught in grades 3, 5, and 7.
+image_fid: '976
+
+
+  976'
+splash_image_fid: '4725'
+author_image_fid: '4129'
+summary: Help your elementary school students get more out of historical biographies.
+spotlight: History is made by those who are unafraid to push the envelope and redefine
+  the society in which they live. Encourage your students to examine the men and women
+  who worked to make America what it is today with this creative activity.
+splash_image: /files/WellBehaved432x240.jpg
+author_image: /files/author_image/zarnowski_0.jpg
 ---
+
+
 
 ## Rationale
 

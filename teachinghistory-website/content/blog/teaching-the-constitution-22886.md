@@ -2,11 +2,18 @@
 title: Teaching the Constitution
 date: '2009-09-14T12:00:26'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22886
 url: /nhec-blog/22886
+date_published: '2009-09-14T00:00:00'
+image_fid: '2319'
+splash_image_fid: '7890'
+summary: Teach the Constitution on Constitution Day (or all year 'round)!
+splash_image: /files/splash-cdblogold2.jpg
+image: /files/constday.jpg
 ---
+
 
 Jim Leach, Chairman of the [National Endowment for the Humanities](http://www.neh.gov), reminds us that the U.S. Constitution has "provided the world the most enlightened model of governance ever created" because of its capacity to accommodate change and to advance individual rights. These qualities, says Leach, deserve celebration and require constant care.
 On Constitution Day, September 17, Americans celebrate the signing of this important document in 1787, and educational institutions receiving Federal funds are mandated to conduct an educational program on the Constitution on that day. Teaching resources highlighted in the [Clearinghouse blog](http://teachinghistory.org/nhec-blog/19505) last year are still valid, and here are a couple of strong recommendations.

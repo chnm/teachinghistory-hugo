@@ -2,11 +2,25 @@
 title: Children’s Voices from the Civil War
 date: '2009-08-06T14:25:24'
 lastmod: '2017-12-01T14:53:33'
-type: teaching_with_textbooks
+content_type: teaching_with_textbooks
 draft: false
 drupal_nid: 22467
 url: /best-practices/teaching-with-textbooks/22467
+author_bio: Maria Garriott is curriculum program coordinator for the Johns Hopkins
+  University Talent Development program, located at the [Center for Social Organization
+  of Schools](http://www.jhucsos.org/). Garriott and her colleague, the late Susan
+  Dangle, wrote lessons to accompany Joy Hakim's 10-volume series, *A History of US*.
+  Garriott also has written curriculum to accompany Hakim's *The Story of Science*
+  and the PBS series *Freedom*, as well as numerous study guides for adolescent literature.
+splash_image_fid: '3918'
+author_image_fid: '1570'
+summary: Help students identify with the past via children who lived through the Civil
+  War.
+splash_image: /files/ChildrensVoicesCWSplash.jpg
+author_image: /files/author_image/Maria.jpg
 ---
+
+
 
 ## Why do it?
 

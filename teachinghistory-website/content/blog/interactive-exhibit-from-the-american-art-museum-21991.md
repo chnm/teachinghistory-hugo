@@ -2,11 +2,17 @@
 title: Interactive Exhibit from the American Art Museum
 date: '2009-04-16T08:33:13'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 21991
 url: /nhec-blog/21991
+date_published: '2009-04-16T00:00:00'
+image_fid: '1048'
+summary: Against the backdrop of the Great Depression, President Franklin Delano Roosevelt's
+  administration created the Public Works of Art Program.
+image: /files/1934.jpg
 ---
+
 
 Earlier in April, we [highlighted a few resources for teaching about the New Deal](/nhec-blog/21783), but here's one addition well worth checking out.
 An exhibition, [*1934: A New Deal for Artists*](http://americanart.si.edu/exhibitions/archive/2009/1934/), is on view at the [Smithsonian American Art Museum and the Renwick Gallery](http://americanart.si.edu/) until January 2010, and a multifaceted, online educational website complements this display.

@@ -2,10 +2,22 @@
 title: Wither the History Textbook in the Age of Wikipedia?
 date: '2011-08-19T20:01:42'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25089
+author_bio: 'Steven Mintz is a professor of History and director of the Graduate School
+  of Arts & Sciences Teaching Center at Columbia University. An authority on the history
+  of children and families, he is President of the Society for the History of Children
+  and Youth and author or editor of 13 books. A pioneer in the application of new
+  technologies to history education, he is past president of H-Net: Humanities and
+  Social Sciences Online, and creator of the [Digital History website](http://www.digitalhistory.uh.edu).'
+author_image_fid: '7955'
+summary: A free online textbook [should] present the "big picture" and serve as a
+  reference work, providing students with essential background, answers to student
+  questions, and a framework for understanding.
+author_image: /files/author_image/author-mintz.jpg
 ---
+
 
 The textbook. From Frances Fitzgerald to James W. Loewen, critics of history textbooks have—quite rightly—decried these tomes as bland and boring. No one reads a textbook for pleasure. Weighty, humorless, and fact-filled, textbooks lack the qualities that engage readers of non-fiction: drama, vivid character portraits, and a distinctive vision and authorial voice. Usually written by teams of authors, even the best textbooks tend to be dull, tedious, and lifeless. The textbook, we are told repeatedly, is a boring and overwhelming conglomeration of facts, preoccupied with politics, war, and diplomacy.
 > The textbook, we are told repeatedly, is a boring and overwhelming conglomeration of facts, preoccupied with politics, war, and diplomacy.

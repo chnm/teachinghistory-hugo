@@ -2,10 +2,12 @@
 title: Bookmark This! Resources for Movie Friday
 date: '2009-03-27T10:50:00'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 21892
 url: /nhec-blog/21892
+date_published: '2009-03-27T00:00:00'
+summary: Internet sites with films for historical analysis and classroom presentation.
 ---
 
 Looking for online film resources?

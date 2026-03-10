@@ -2,11 +2,24 @@
 title: “A Push” in the Right Direction
 date: '2012-07-30T10:31:02'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25686
 url: /nhec-blog/25686
+author_bio: Scott Campbell is an AP U.S. History and AP Government teacher at Thomas
+  Jefferson High School for Science and Technology in Alexandria, VA.
+date_published: '2012-08-06T00:00:00'
+image_fid: '9416'
+splash_image_fid: '9412'
+author_image_fid: '9417'
+summary: AP U.S. History teacher Scott Campbell and his students use Twitter to reach
+  out to other AP U.S. History classes.
+splash_image: /files/tweetsplash.jpg
+image: /files/twitter_image.png
+author_image: /files/author_image/author_campbell.png
 ---
+
+
 
 ## Introduction
 

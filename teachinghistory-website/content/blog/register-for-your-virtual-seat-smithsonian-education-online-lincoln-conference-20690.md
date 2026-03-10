@@ -2,10 +2,13 @@
 title: 'Register for Your Virtual Seat: Smithsonian Education Online Lincoln Conference'
 date: '2009-01-23T12:54:15'
 lastmod: '2017-12-01T13:36:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20690
 url: /nhec-blog/20690
+date_published: '2009-01-23T00:00:00'
+summary: 'If you missed this two-day online event, watch the videos from the Abraham
+  Lincoln: a Smithsonian Education Online Conference on the website.'
 ---
 
 Register now for the free [*Abraham Lincoln: a Smithsonian Education Online Conference*](http://www.learningtimes.net/si_lincoln/index.html), airing February 4–5, 2009. The conference takes place completely over the internet, so tune in from wherever you are. The Smithsonian promises opportunities to meet peers, share information, expand professional networks, and learn from talented colleagues.

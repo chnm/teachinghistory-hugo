@@ -2,10 +2,22 @@
 title: Digital Textbooks and Students with Special Needs
 date: '2011-08-19T21:32:09'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25092
+author_bio: Jennifer Courduff is a teacher and educational technologist for the Etiwanda
+  School District in Southern California. She is also an adjunct professor at Azusa
+  Pacific University where she develops and teaches courses in the Master of Arts;
+  Digital Teaching and Learning program. She is an active member of ISTE and recently
+  presented at the Denver 2010 ISTE convention. Jennifer is a doctoral candidate in
+  the Ph.D. Educational Technology program through Walden University. Her research
+  focuses on technology integration within the Resource Specialist Program (RSP) environment.
+author_image_fid: '7957'
+summary: For students with special needs, the time for digital textbooks came nearly
+  a decade ago. Why is this taking so long?
+author_image: /files/author_image/author-courduff.jpg
 ---
+
 
 The inclusive nature of digital textbooks has the potential to powerfully meet the diverse learning needs of students who are exceptional. The most practical elements of digital text are the simple ones. For example, students with vision impairments can use the *text-to-speech* or *screen readers* found within universal access programs to have text read aloud to them. Students can tailor text to their specific needs by changing font size and type. A simple change of background color can greatly improve text readability for learners.
 With features like these, along with more advanced features, digital textbooks could decrease teacher-planning time and increase teacher-student interaction with content. For teachers, digital textbooks provide assistive technology in compliance with the *Individuals with Disabilities in Education Act* (IDEA, 2004). This law requires that assistive technology resources be made available to all persons with disabilities and provides funding to make these resources possible. In addition, Public Law 100-407, the *Technology-Related Assistance for Individuals with Disabilities Act*, requires that all students who are exceptional receive technology resources that support access to grade-level appropriate content.

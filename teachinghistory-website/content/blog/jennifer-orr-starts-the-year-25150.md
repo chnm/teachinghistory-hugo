@@ -2,11 +2,24 @@
 title: Jennifer Orr Starts the Year
 date: '2011-09-13T13:34:27'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25150
 url: /nhec-blog/25150
+author_bio: Jennifer Orr is a 1st-grade teacher at Annandale Terrace Elementary School
+  in Fairfax County, VA. A National Board Certified Teacher in middle childhood, she
+  has taught 4th, 5th, and 1st grades since 1998.
+date_published: '2011-09-19T00:00:00'
+image_fid: '8065'
+splash_image_fid: '8066'
+author_image_fid: '8064'
+summary: How do you introduce history and social studies to early elementary students?
+splash_image: /files/startsplash.jpg
+image: /files/startimage.jpg
+author_image: /files/author_image/jennifer-orr_0_0.png
 ---
+
+
 
 The beginning of the school year is crazy for so many reasons. Teachers have to unpack and set up their classrooms, get to know a whole batch of new students, determine the best way to communicate with parents, and plan engaging lessons designed to get students learning and help teachers assess students’ reading, writing, and math skills.
 That list really only begins to scratch the surface of the start of the year reality. The first few weeks of school establish routines and set the tone for the year. This time can also be used to introduce students to the year’s curriculum and to get them excited about it.

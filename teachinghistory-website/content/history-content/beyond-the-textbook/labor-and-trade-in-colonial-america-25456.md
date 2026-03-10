@@ -2,11 +2,17 @@
 title: Labor and Trade in Colonial America
 date: '2012-02-22T11:25:08'
 lastmod: '2018-09-12T11:05:26'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 25456
 url: /history-content/beyond-the-textbook/25456
+author_bio: Catherine Denial is an Associate Professor of History at Knox College
+  in Galesburg, IL. Since 2000, she has worked on curriculum development in Iowa through
+  Bringing History Home, a TAH grant-funded project.
+author_image_fid: '8917'
+author_image: /files/author_image/author_denial.jpg
 ---
+
 
 ## Common Misconceptions
 

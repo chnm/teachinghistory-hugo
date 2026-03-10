@@ -3,11 +3,17 @@ title: Watch It Live! President Barack Obama Addresses America's Students on Sep
   8
 date: '2009-09-03T16:26:45'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22626
 url: /nhec-blog/22626
+date_published: '2009-09-04T00:00:00'
+image_fid: '1730'
+summary: President Obama speaks directly to the nation’s children and youth about
+  persisting and succeeding in school.
+image: /files/announce.jpg
 ---
+
 
 On September 8, 2009 at noon Eastern Time (EDT), President Barack Obama will deliver a national address to the students of America. During this special address, the president will speak directly to the nation’s children and youth about persisting and succeeding in school.
 The [White House website](http://www.whitehouse.gov/live) and [C-SPAN](http://www.c-span.org/) will broadcast the speech live. After President Obama's speech concludes, C-SPAN will open its phone lines for students and teachers to comment about what they heard. If you or your students would like to call in and comment, you can use these numbers: (202) 737-0001 for students; (202) 737-0002 for teachers.

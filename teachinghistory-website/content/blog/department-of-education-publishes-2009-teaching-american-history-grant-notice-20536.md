@@ -2,10 +2,12 @@
 title: Department of Education Publishes 2009 Teaching American History Grant Notice
 date: '2008-12-19T11:41:26'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20536
 url: /nhec-blog/20536
+date_published: '2008-12-19T00:00:00'
+summary: Application process opens for 2009 Teaching American History Grants.
 ---
 
 On December 23, 2009, the U.S. Department of Education published a Notice Inviting Applications for New Awards for FY 2009 for Teaching American History (TAH) grants. Complete details [are in the notice](http://edocket.access.gpo.gov/2008/pdf/E8-30554.pdf).

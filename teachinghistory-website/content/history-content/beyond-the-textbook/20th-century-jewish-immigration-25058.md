@@ -2,7 +2,7 @@
 title: 20th-century Jewish Immigration
 date: '2011-07-29T14:03:27'
 lastmod: '2017-12-05T08:46:32'
-type: beyond_the_textbook
+content_type: beyond_the_textbook
 draft: false
 drupal_nid: 25058
 summary: '## Jewish Immigration to the United States'
@@ -109,5 +109,19 @@ author_bio: '## Jewish Immigration to the United States
   immigrant groups that altered the course of American history.'
 question: How is Jewish immigration generalized by textbooks?
 url: /history-content/beyond-the-textbook/25058
+splash_image_fid: '7877'
+splash_image: /files/jewishimm_splash.jpg
 ---
 
+
+## What Textbooks Say
+
+Some textbook narratives point out large, well-known anti-Semitic groups but fail to examine in detail acts of violence against religious and cultural minorities or the acts those groups took to combat the virulent, unapologetic anti-Semitism.
+
+## What Historians Say
+
+American Jewish history provides a test case for the question of how different the experiences of the “old” and “new” immigrants actually were, with a growing number of historians convinced that the period between 1820 and 1924 should more properly be seen as a continuous century of American Jewish migration that saw more structural similarities than discontinuities.
+
+## What Sources Say
+
+A shared wellspring of religious and cultural traditions helped keep even the most contentious elements of the American Jewish community intertwined in some ways. For example, the 1910 Protocol of Peace was negotiated and signed by Jewish communal leaders and lawyers who represented both Jewish garment manufacturers and factory owners, and Jewish workers and labor activists.

@@ -2,12 +2,19 @@
 title: U.S. Fire Administration
 date: '2009-10-14T16:57:32'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23425
 url: /history-content/national-resources/23425
 featured: true
+website_url: http://www.usfa.dhs.gov/index.shtm
+splash_image_fid: '5126'
+thumbnail_fid: '2206'
+summary: Give historical fires perspective through modern statistics.
+thumbnail: /files/website_image/RareMap_Image.jpg
+splash_image: /files/FireSafety432x240.jpg
 ---
+
 
 The United States Fire Administration is a division within the Federal Emergency Management Agency. It exists specifically to assist in the prevention of and response to fire.
 So, what does the USFA website have to do with teaching history? Narrowly speaking, not a great deal. However, the service does provide [a statistics page](https://www.usfa.dhs.gov/statistics/). While the statistics are decidedly recent, remember that what has just happened gives students an excellent frame of reference for "living," that is, really absorbing, historical knowledge by relating it to what they know.

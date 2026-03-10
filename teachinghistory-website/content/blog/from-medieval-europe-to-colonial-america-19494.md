@@ -2,10 +2,12 @@
 title: From Medieval Europe to Colonial America
 date: '2008-07-29T15:13:51'
 lastmod: '2017-12-01T13:36:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19494
 url: /nhec-blog/19494
+date_published: '2008-07-29T00:00:00'
+summary: What did Colonial America and Medieval Europe have in common?
 ---
 
 What did Colonial America and Medieval Europe have in common? The website [*Building Community: Medieval Technology and American History,*](http://www.engr.psu.edu/mtah/) developed at the University of Pennsylvania through a grant from the National Endowment for the Humanities, demonstrates that colonial technology was a transplantation of Old World ways of doing and making to a new continent.

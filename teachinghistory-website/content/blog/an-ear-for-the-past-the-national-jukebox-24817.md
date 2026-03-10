@@ -2,11 +2,19 @@
 title: 'An Ear for the Past: The National Jukebox'
 date: '2011-06-10T14:13:19'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24817
 url: /nhec-blog/24817
+date_published: '2011-07-02T00:00:00'
+image_fid: '7581'
+splash_image_fid: '7582'
+summary: Catchy primary sources? You bet! With the Library of Congress's National
+  Jukebox, get your students humming history.
+splash_image: /files/splash-blog-nationaljukebox.jpg
+image: /files/image-blog-nationaljukebox.jpg
 ---
+
 
 You don't have to look far to see how important music is to modern American life. Young people (as well as adults) talk about music, listen to music, download music, remix music, share music, and define themselves by music. In classrooms across the country, MP3 players and pop-tune ringtones give students' musical tastes away (and get them in trouble). But has music always been this personal, portable, and repeatable?
 Ask your students to think back. Do they remember a time when music wasn't something you could own? When they, someone in their family, or someone they knew didn't have an MP3 player—or a CD, tape, or record player?

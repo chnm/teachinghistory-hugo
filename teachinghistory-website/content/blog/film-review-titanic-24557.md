@@ -2,11 +2,23 @@
 title: 'Film Review: Titanic'
 date: '2011-03-08T17:11:56'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24557
 url: /nhec-blog/24557
+author_bio: 'Steven Biel is Executive Director of the Humanities Center at Harvard
+  University, as well as Senior Lecturer in History and Literature. He is author of
+  *Down with the Old Canoe: A Cultural History of the Titanic Disaster* and *American
+  Gothic: A Life of America''s Most Famous Painting*.'
+date_published: '2011-05-18T00:00:00'
+image_fid: '7249'
+splash_image_fid: '9145'
+summary: Are historical films like James Cameron's *Titanic* most useful as ways to
+  interest students in history—or as primary sources for the present day?
+splash_image: /files/splash-titanic-jup.jpg
+image: /files/image-titanic-jahblog_1.jpg
 ---
+
 
 *This marks the beginning of a series of film reviews reprinted from the* [Journal of American History](http://www.journalofamericanhistory.org/). *These reviews model ways of looking critically at popular films, documentaries, miniseries, and other history-based features. Look for one each month!*
 

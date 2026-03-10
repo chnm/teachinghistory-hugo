@@ -2,10 +2,20 @@
 title: There is no better subject for 21st century learning than history.
 date: '2010-05-12T18:47:20'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24059
+author_bio: Edward L. Ayers is President and Professor of History at the University
+  of Richmond. Named as "National Professor of the Year" and winner of the Bancroft
+  Prize, Ayers created [The Valley of the Shadow](http://valley.lib.virginia.edu/),
+  a pioneering digital archive.
+author_image_fid: '4700'
+summary: We can devise more intentional, targeted, and interesting ways of teaching
+  history for the 21st century. . . We have the opportunity to create new tools and
+  redefine our purposes so that we teach history with the excitement it deserves.
+author_image: /files/author_image/Ayers.jpg
 ---
+
 
 History is essential to self-understanding and to our collective life, shaping the ways young people see themselves in the world. Yet history can seem tame, dulled from casual familiarity. Consequently, new ways of connecting students to the past are crucial in the new century.
 History is put before our students from the time preschoolers are introduced to Thanksgiving to the time they prepare for Advanced Placements tests. And the repetition of names and concepts can create the illusion that our students understand more than they really do. It can create pressure to settle issues with pat answers that cannot, in fact, be settled with multiple choice exams and memorized replies. History can appear boring because it seems resolved, fixed, and inert.

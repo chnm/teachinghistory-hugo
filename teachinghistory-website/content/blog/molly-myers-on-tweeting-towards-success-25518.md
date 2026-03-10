@@ -2,11 +2,25 @@
 title: Molly Myers on Tweeting Towards Success
 date: '2012-03-28T13:46:56'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25518
 url: /nhec-blog/25518
+author_bio: Molly Myers has taught high school history for 10 years. She earned her
+  BA from the University of Arkansas, attended graduate school at Clemson University,
+  and received a MAT from the University of Illinois-Chicago.
+date_published: '2012-04-30T00:00:00'
+image_fid: '9087'
+splash_image_fid: '9103'
+author_image_fid: '9206'
+summary: Do you tweet? With social media, you can turn to the wired world for teaching
+  advice and support.
+splash_image: /files/twittersplash.jpg
+image: /files/twitterimage.jpg
+author_image: /files/author_image/author_myers.jpg
 ---
+
+
 
 I began [tweeting](http://teachinghistory.org/digital-classroom/tech-for-teachers/21851) a little over a year ago at the 2011 NCSS conference in Denver, CO. I used the hashtag #ncss2011 to see what I was missing in other sessions and to see how others were experiencing the conference. From there, I began to follow fellow social studies teachers and learned about the Monday night [#sschat](http://sschat.ning.com/). I was hooked after the first chat. In Twitter, I found a tribe of teachers who, like me, think about work too much and naively aim for (and miss) perfection in every lesson. I grew my tribe each day by following those who tweeted resources, teaching ideas, challenging questions, and words of comfort.
 My Twitter tribe is now an essential part of my daily learning community and many of those I met online have become both virtual and face-to-face friends. At first, I took far more than I gave (Twitter elders assume this to be the natural first step of entering the tribe) but now I hope I have gained the confidence that true community offers and I give at least as much as I get.

@@ -2,11 +2,16 @@
 title: Bookmark This! Virtual Fieldtrips
 date: '2009-10-11T13:36:24'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22950
 url: /nhec-blog/22950
+date_published: '2009-10-13T00:00:00'
+image_fid: '3426'
+summary: As good as the real thing?
+image: /files/annf_0.jpg
 ---
+
 
 Field trips to museums and historic sites are great ways to generate enthusiasm and understanding about history. But budget cuts, logistics, and learning objectives on overload often bump class field trips to the bottom of the priority list.
 Virtual field trips are alternatives. A great many historians, educators, and historic sites bill the resources they offer online as virtual field trips, but here we're defining them as tools that offer some degree of interactivity and three-dimensionalism—online experiences beyond the text-and-image format.

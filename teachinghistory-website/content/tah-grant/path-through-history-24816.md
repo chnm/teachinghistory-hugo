@@ -2,8 +2,9 @@
 title: Path Through History
 date: '2011-06-09T23:05:01'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24816
 ---
 
+The *Path Through History* (*Path*) districts occupy nearly 18,000 square miles in predominantly rural central Oregon, a region where many schools are isolated from cultural and historical resources and lack access to many professional development opportunities. *Path* will provide teachers in these districts with face-to-face and online professional development activities—workshops, lectures, field trips, Web courses and more—designed to bring historical resources to even the most remote locations. In some cases, teachers will travel to meeting sites; in others, project staff and teacher-leaders will make school visits for classroom observations and one-on-one coaching sessions. Each year, 30 teachers—preferably in school or grade-level teams—will be recruited from schools with the greatest needs. Five additional teachers who participated in a previous Teaching American History grant will be recruited to act as district teacher-leaders who can develop all teachers' skills and work with administrators to implement structural changes. *Pat* will apply five historical inquiry themes developed in the previous grant—the American Dream, the Growth of Democracy, Cultural Conflict, Expansion of Borders, and Technology and Change. Each year's content will align with the grade level(s) of the year's participants. Instructional approaches will include constructivist theory, standards-based teaching and learning, formative assessment, differentiated instruction, use of primary and online resources, and employing critical thinking skills. In addition to skilled teachers who can support their colleagues, the project will produce a research study on the project's effects on teacher and student knowledge, a Web site that includes constructivist, rigorous, and standards-based lesson plans, and ongoing Professional Learning Communities.

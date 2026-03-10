@@ -2,12 +2,18 @@
 title: Remember the Alamo
 date: '2010-01-14T20:15:31'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23741
 question: How did the Alamo happen?
 url: /history-content/ask-a-historian/23741
+splash_image_fid: '4868'
+thumbnail_fid: '375'
+summary: How did the Alamo happen?
+thumbnail: /files/website_image/ReclaimingtheEverglades.jpg
+splash_image: /files/dawn-alamo-new.jpg
 ---
+
 
 When Americans started to move westward after the Louisiana Purchase in 1803, many found the Mexican government happy to have them in Texas (they were called "Texians" there), alongside the Tejanos (Texans of Mexican or Latin-American descent). Because settlements were few and far between, the Mexican government needed settlers to protect the area from the Apaches and the Comanches, and the central government, centered far to the south in Mexico City, therefore encouraged the formation of regional militias.
 
@@ -39,3 +45,8 @@ On March 19, 1836, 90 miles to the southeast, at the Battle of Coleto, forces un
 Santa Anna was branded throughout Texas as bloodthirsty, and as a result, Houston's forces grew with outraged volunteers. Sam Houston and his newly formed army proceeded into east Texas, closely pursued by Santa Anna, whose divided forces clashed several times with Texans.
 At San Jacinto, 250 miles east of the Alamo, the Texan forces turned on Santa Anna's overconfident army in a surprise attack during siesta time. The Mexican army was defeated in 20 minutes. Seven Texans were wounded and up to 300 Mexicans died.
 In the confusion, Santa Anna attempted to escape by donning the uniform of a corporal and hiding in a marsh, but the Texans noticed that the "corporal" was wearing silk underwear and figured out his identity. Under a tree nearby, Houston and Santa Anna negotiated a treaty giving Texas its independence and Santa Anna was released.
+
+---
+
+The Alamo has an extensive [website](http://www.thealamo.org/main.html) that includes a good [reading list](http://www.thealamo.org/readings.html) on the battle at the Alamo and the Texas Revolution.
+The Texas State Library and Archives Commission's [website](http://www.tsl.state.tx.us/treasures/republic/index.html) has a number of primary documents from the events surrounding the Alamo battle.

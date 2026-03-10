@@ -2,8 +2,9 @@
 title: American Dreams
 date: '2009-02-10T13:33:54'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 21617
 ---
 
+The academic performance of the high schools represented in the consortium is of particular concern. All of the high schools listed above have been identified either for corrective action, are currently in state academic watch status (AWS), or are at risk of falling into corrective action because they did not make Adequate Yearly Progress (AYP). The consortium anticipates that at least two-thirds of the teachers who participate in the program will come from the high schools listed in the application. State achievement data at these schools suggest an even more striking academic disparity when special populations are taken into consideration. American Dreams aims to strengthen the teaching and learning of traditional American history in a consortium of culturally and economically diverse suburban Chicago middle and high schools. The project's focus is on building teacher capacity through rigorous professional development that weaves together traditional American history content, historical practice, and effective strategies for planning and delivering quality history instruction. The two primary goals of American Dreams are to: 1) improve the knowledge and classroom performance of U.S. history teachers, and 2) increase academic achievement in U.S. history by students. Course content will explore: Foundations of American Dreams: Legacies of the American Revolution and Constitution; Americans Dreams to 1877: Many Dreams of Freedom and Boundless Frontiers; Colonial Encounters and Early American Dreams; Slavery and Emancipation; Suffrage and Citizenship; American Dreams past 1877: Fighting for Democracy Working for the American Dream; War and American Society; Reform and its Limits.

@@ -2,11 +2,24 @@
 title: Joe Jelen Makes Students' Thinking Visible with Backchannel Discussion
 date: '2011-10-12T12:34:40'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25200
 url: /nhec-blog/25200
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+date_published: '2012-02-27T00:00:00'
+image_fid: '8284'
+splash_image_fid: '8285'
+author_image_fid: '8283'
+summary: Can you turn classroom chatter to constructive ends? Joe Jelen says digital
+  tools can help.
+splash_image: /files/textingsplash.jpg
+image: /files/textingimage.jpg
+author_image: /files/author_image/author_image_joe_jelen_75x75_3_0.jpg
 ---
+
+
 
 It is difficult to step into the minds of our students. As teachers, we are frequently seeking feedback from students and looking for those signals that let us know they understand. It is challenging to figure out both when students don’t understand something and what students don’t understand. Fortunately, much research has gone into this dilemma and we know that we must go beyond the simple tasks of checking for understanding and clarifying confusion. We must offer ample opportunity for students to explain their reasoning and foster [metacognition](http://en.wikipedia.org/wiki/Metacognition). New technology, backchannel discussion, is making students’ thinking more visible to us teachers.
 

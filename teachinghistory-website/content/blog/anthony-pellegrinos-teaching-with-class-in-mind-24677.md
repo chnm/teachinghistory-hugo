@@ -2,11 +2,26 @@
 title: Anthony Pellegrino's Teaching with Class in Mind
 date: '2011-05-09T12:12:08'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24677
 url: /nhec-blog/24677
+author_bio: Anthony Pellegrino is an assistant professor of social studies/history
+  education in the secondary education program at George Mason University. He received
+  his doctorate in Secondary Social Science Education from Florida State University.
+date_published: '2011-05-25T00:00:00'
+image_fid: '7477'
+splash_image_fid: '7476'
+author_image_fid: '7478'
+summary: How can you make history relevant to your students? Social studies/history
+  education professor Anthony Pellegrino suggests teaching thematically—in this case,
+  with class and labor.
+splash_image: /files/classsongssplash.jpg
+image: /files/classsongsimage.jpg
+author_image: /files/author_image/Pellegrino_Image_3.jpg
 ---
+
+
 
 One of the issues with which I struggled as a new teacher was the recognition of major themes prevalent in American history. In my first year of teaching I was often more concerned with getting through the next unit, next lesson, even the next class rather than thinking about the bigger picture. And my ignorance of the important themes of history did a disservice to my students. The event-focused history as I taught it failed to reveal connections and humanize the actors of history; it felt irrelevant to most of my students. The content, in fact, was presented as simply a series of inevitable events; each one distinct from the last, never to be considered again as we marched through time. As I became more comfortable in my teaching, I realized the importance of weaving salient themes of history, including race, class, and nationalism, throughout my lessons as a way to make the content more meaningful. Thus, I began the conscious effort of highlighting the manifestations of these themes in history for the benefit of my students. I discovered that the connections we made through class activities based on these themes allowed my students to see relationships within the content and gain a deeper understanding of the material.
 

@@ -2,11 +2,20 @@
 title: 'Jim Crow Segregation: The Difficult and Anti-Democratic Work of White Supremacy'
 date: '2011-05-12T18:52:42'
 lastmod: '2018-09-12T11:07:55'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 24693
 url: /history-content/beyond-the-textbook/24693
+author_bio: 'Katherine Mellen Charron is an Associate Professor of History at North
+  Carolina State University. She is the author of the award-winning [*Freedom''s Teacher:
+  The Life of Septima Clark*](http://www.uncpress.unc.edu/browse/book_detail?title_id=1637)
+  (UNC Press, 2009), and the co-editor of [*Recollections of My Slavery Days*](http://docsouth.unc.edu/neh/singleton/menu.html)
+  by William Henry Singleton (1999). Her teaching and research interests include African
+  American, Women''s, and Southern history.'
+author_image_fid: '7528'
+author_image: /files/author_image/kmc_biopic.jpg
 ---
+
 
 Segregation contradicts what most students have learned about American freedom and democracy. Textbooks locate segregation's origins in Southern disenfranchisement laws of the 1890s and highlight the Supreme Court's 1896 "separate but equal" ruling in *Plessy* v. *Ferguson*. The majority of African Americans still lived in the South and worked as agricultural laborers for white landowners who denied them an education and exploited them economically. New job opportunities during World War I offered one escape. More than a million African American Southerners joined the Great Migration to the North, where they could vote but where "custom and tradition" meant they encountered discrimination in employment and housing. Textbooks emphasize the National Association for the Advancement of Colored People's legal challenges, and portray the 1954 *Brown* v. *Board* decision as the culmination of the fight. Thus, from the 1890s to the 1950s, African Americans endured as best they could.
 

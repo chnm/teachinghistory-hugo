@@ -2,11 +2,21 @@
 title: The Multiple Dilemmas of Abraham Lincoln
 date: '2010-10-29T10:31:20'
 lastmod: '2018-04-24T10:28:57'
-type: lesson_plan_reviews
+content_type: lesson_plan_reviews
 draft: false
 drupal_nid: 24311
 url: /teaching-materials/lesson-plan-reviews/24311
+flexibility_scale: '2'
+topic: Abraham Lincoln's Presidency
+website_url: http://www.tulane.edu/~sumter/index.html
+image_fid: '6747'
+splash_image_fid: '6746'
+summary: An interactive exploration of the decisions Abraham Lincoln had to make during
+  his presidency.
+splash_image: /files/lincolnsplash.jpg
+image: /files/lesson_image/lincolnimage.jpg
 ---
+
 
 This [lesson](http://www.tulane.edu/~sumter/index.html), an interactive historical simulation, presents students with five difficult decisions Abraham Lincoln made between his election in November 1860 and the battle of Fort Sumter in April 1861. The strength of this lesson is the wealth of [primary and secondary source evidence](http://www.tulane.edu/~sumter/Dilemmas/DWeedAdvice.html) that it uses to help students understand the challenging questions Lincoln faced.
 This lesson is designed for students to complete online, but can be modified for classrooms that lack computer access. It is presented through five online modules, each centered around a different dilemma. All modules provide students with [historical background](http://www.tulane.edu/~sumter/Dilemmas/Dilemmas_intro.html), an explanation of the [issues facing Lincoln](http://www.tulane.edu/~sumter/Dilemmas/Prob1.html) and resources that shed light on some of the information Lincoln had to consider when making the decision.

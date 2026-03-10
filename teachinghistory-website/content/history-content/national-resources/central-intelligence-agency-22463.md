@@ -2,11 +2,19 @@
 title: Central Intelligence Agency
 date: '2009-08-05T13:14:15'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22463
 url: /history-content/national-resources/22463
+website_url: https://www.cia.gov/index.html
+splash_image_fid: '1471'
+thumbnail_fid: '2149'
+summary: You've seen spy movies, but what is the *real* history of U.S. intelligence
+  operations?
+splash_image: /files/CIAsplsh.jpg
+thumbnail: /files/quiz_thumbnail/LewisandClarkMaps_Thumb.jpg
 ---
+
 
 President Harry S. Truman created the CIA in 1947 when he signed the National Security Act. Today, the agency performs worldwide reconnaissance, advises the President and key national decision makers based on the intelligence acquired, and operates additional covert missions as directed in order to protect U.S. interests.
 The CIA website offers a wealth of information, particularly in the form of web-based articles, on the history of intelligence operations within the United States. These text-based features discuss intelligence during the [Revolutionary War](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/intelligence/index.html) and [Civil War](https://www.cia.gov/library/publications/additional-publications/civil-war/index.html), the [Office of Strategic Services](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/oss/index.htm), the *Corona* project and [space reconnaissance](https://www.cia.gov/library/publications/additional-publications/corona-between-the-sun-and-the-earth/index.html), and [heroin use worldwide](https://www.cia.gov/library/publications/additional-publications/heroin-movement-worldwide/index.html). The Revolutionary War and Civil War articles include suggested reading lists, and the former also offers a [letter by George Washington](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/intelligence/letter.html).

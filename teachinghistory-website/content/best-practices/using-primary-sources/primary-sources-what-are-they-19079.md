@@ -2,11 +2,16 @@
 title: 'Primary Sources: What Are They?'
 date: '2008-02-28T10:01:04'
 lastmod: '2018-11-28T08:25:49'
-type: primary_source_guide
+content_type: primary_source_guide
 draft: false
 drupal_nid: 19079
 url: /best-practices/using-primary-sources/19079
+splash_image_fid: '4754'
+summary: The *National History Day’s* guidelines for defining and locating primary
+  sources.
+splash_image: /files/splash-usp-ps.jpg
 ---
+
 
 *[National History Day,](https://www.nhd.org) an annual program for elementary and secondary students designed to "teach essential historical literacy that motivates students to secure the future of democracy," defines primary sources as follows:*
 What is a primary source? Primary sources are materials directly related to a topic by time or participation. These materials include letters, speeches, diaries, newspaper articles from the time, oral history interviews, documents, photographs, artifacts, or anything else that provides firsthand accounts about a person or event.

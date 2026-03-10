@@ -2,13 +2,19 @@
 title: Great Expectations for the Civil War
 date: '2010-11-29T13:09:08'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24413
 question: What happened to Civil War farmers who went home to take care of the crops
   and then came back to fight?
 url: /history-content/ask-a-historian/24413
+splash_image_fid: '6883'
+summary: Many believed the Civil War would be a short, bloodless battle. The reality
+  of the drawn out combat led many soldiers in the North and South to desert the military
+  to return home to farm and family.
+splash_image: /files/CW_Farmers_splash.jpg
 ---
+
 
 Very few Civil War farmers went home to take care of the crops and then returned to fight. The American Civil War was far longer and more destructive than virtually anyone expected. At the outset of the war, many eager volunteers signed 90-day papers, evidence of the widespread belief that the war would be brief and nearly bloodless. Instead, the struggle stretched nearly four full years. Between 1861 and 1865, the Union and Confederacy mobilized more than three million men for the fighting and suffered some 600,000 deaths. The war remains the bloodiest conflict America has ever fought.
 One of the reasons for the dramatic increase in the length of the war, the size of the armies, and the magnitude of the casualty rolls was the technological improvements in agricultural production that occurred in the decades leading up to the war. In the eighteenth century, the food demands of the population at large served as an important limit on the amount of manpower that could be mobilized into the army and on the length of time those armies could be maintained in the field. In those years, a nation that diverted a large proportion of its agricultural labor force to the military and kept it in the field for months at a time risked deprivation and starvation on the home front.
@@ -20,3 +26,9 @@ This is not to say that soldiers never returned to their homes and farms during 
 > Many soldiers elected to leave the ranks and return home to provide for their families, officially a capital crime in the eyes of the military system
 
 In the South, the deprivations of war affected individual soldiers more acutely. Non-slaveholding white farmers—those who farmed small parcels of land for sustenance, as opposed to large planters growing cash crops—frequently joined the army in the belief that they were defending homes and families from Yankee invasion. As the war dragged on, and Federal troops pushed deeper into the Confederacy seizing crops and blocking transportation lines, many of those families suffered intensely from the scarcity of basic supplies. When letters arrived from home telling of wives, children, and siblings threatened with starvation, many of those rebel soldiers elected to leave the ranks and return home to provide for their families. Those desertions—officially a capital crime in the eyes of the military system—became more and more widespread in the last years of the war; historians estimate that as many as one in three Confederate soldiers had deserted by the final months of the war. Very few of those deserters returned voluntarily to continue the fight.
+
+---
+
+Burns, Ken. [**The Civil War**](http://www.pbs.org/civilwar/). WETA, 2002.
+[**Farmer's Museum[NY]**](http://teachinghistory.org/history-content/historical-places/9935)
+McPherson, James. [*For Cause and Comrades: Why Men Fought in the Civil War*](http://www.oup.com/us/catalog/general/subject/HistoryAmerican/CivilWarReconstruction/?view=usa&ci=9780195090239). Oxford University Press, USA, 1998.

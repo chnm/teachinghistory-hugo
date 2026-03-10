@@ -2,10 +2,18 @@
 title: Off the Shelf and into the Classroom
 date: '2011-12-01T14:17:50'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25334
+author_bio: Barbara Mathews is the Director of the Deerfield Teachers’ Center at the
+  Pocumtuck Valley Memorial Association in Deerfield, MA.
+author_image_fid: '8613'
+summary: I often witness the power of “stuff” (aka material culture) to connect students
+  of all ages to historical events and people that might otherwise seem both remote
+  and irrelevant . . .
+author_image: /files/author_image/author_mathews.jpg
 ---
+
 
 History kits (“trunks,” “boxes,” etc.), available for rent or purchase, have attracted attention from school districts, museums, and funders as a tool for integrating material culture into history instruction, and rightly so. As a museum educator and historian, I often witness the power of “stuff” (aka material culture) to connect students of all ages to historical events and people that might otherwise seem both remote and irrelevant. ([1](#note1))
 As an educator once cautioned me, however, “The world is full of dead kits.” You may have come across some yourself—boxes full of objects and notebooks stuffed with resources and lesson plans—developed with the best intentions and often at some expense, yet languishing on museum shelves or in curriculum directors’ offices. No matter how attractively packaged and thoughtfully conceived, using neat stuff in a history classroom is no slam-dunk.

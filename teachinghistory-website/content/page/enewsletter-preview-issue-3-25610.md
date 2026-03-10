@@ -2,7 +2,7 @@
 title: Enewsletter Preview Issue 3
 date: '2012-05-17T17:55:37'
 lastmod: '2012-06-13T13:24:23'
-type: page
+content_type: page
 draft: false
 drupal_nid: 25610
 ---

@@ -2,10 +2,18 @@
 title: 'Making It Personal: Using Material Culture to Engage Students'
 date: '2012-03-26T14:26:19'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25511
+author_bio: Charles D. Chamberlain III, PhD, is the Museum Historian for the Louisiana
+  State Museum, where he works to promote the museum as an extension of the traditional
+  classroom.
+author_image_fid: '9068'
+summary: Studying material culture engages students to think and ask questions, not
+  just passively accept the teacher's view of history . . .
+author_image: /files/author_image/author_chamberlain.jpg
 ---
+
 
 Teachers today face a great challenge in keeping students' attention in a media-saturated world in which these students are immersed in fast-moving imagery, multitasking, and instant gratification. As history educators increasingly view the traditional textbook as a limited instruction tool, many are exploring methods of teaching that develop essential historical research and analysis skills while also making history interesting and fun.
 The Louisiana State Museum actively encourages educators to use our exhibits and collections for studying material culture, as we embrace a mission where the museum provides a hands-on extension of the classroom. The museum's collection, which focuses on the history and culture of Louisiana, provides a diverse array of objects for studying history from the past 4,000 years.

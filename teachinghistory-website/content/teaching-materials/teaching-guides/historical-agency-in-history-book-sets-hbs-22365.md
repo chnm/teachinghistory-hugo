@@ -2,11 +2,30 @@
 title: Historical Agency in History Book Sets (HBS)
 date: '2009-07-16T14:02:30'
 lastmod: '2018-09-11T15:43:23'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 22365
 url: /teaching-materials/teaching-guides/22365
+author_bio: Linda Levstik is a Professor of Education at the University of Kentucky.
+  Her areas of academic interest and expertise include the development of historical
+  thinking, classroom contexts for teaching history and the social studies, the development
+  of inquiry skills in elementary age children, and children's literature.
+image_fid: '4098'
+splash_image_fid: '4046'
+author_image_fid: '4126'
+summary: Looking for ways to use fiction in your elementary history curriculum? Read
+  on for suggestions!
+spotlight: Non-fiction is almost always present in the history curriculum, however,
+  does fiction have a place in historical study? By combining fictional and non-fiction
+  sources into History Book Sets, you can not only enable your students to directly
+  connect with specific historical periods, but you can also encourage pupils to think
+  about historical agency.
+splash_image: /files/UsingHistoryBooksSplash.jpg
+image: /files/UsingHistoryBook-150x113.jpg
+author_image: /files/author_image/s-levstik_0_0.jpg
 ---
+
+
 
 ## What Is It?
 

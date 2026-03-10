@@ -2,11 +2,24 @@
 title: Using Historical Ephemera in the Classroom
 date: '2011-06-30T11:53:57'
 lastmod: '2018-09-21T12:06:23'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25028
 url: /teaching-materials/teaching-guides/25028
+author_bio: John Lee is an associate professor of social studies education at North
+  Carolina State University. His scholarship focuses on digital history and new literacies.
+  For more on his work please see the Digital History and Pedagogy Project.
+image_fid: '7768'
+splash_image_fid: '7769'
+author_image_fid: '7758'
+summary: Ticket stubs. Report cards. Photographs. All of these things have historical
+  meaning.
+splash_image: /files/learninghistorywith432x240.jpg
+image: /files/learninghistorywith150x113.jpg
+author_image: /files/author_image/authorphotojohnlee75x75.jpg
 ---
+
+
 
 ## What Is It?
 

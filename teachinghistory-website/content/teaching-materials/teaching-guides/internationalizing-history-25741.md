@@ -2,11 +2,24 @@
 title: Internationalizing History
 date: '2012-09-12T11:48:08'
 lastmod: '2018-09-11T15:11:46'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25741
 url: /teaching-materials/teaching-guides/25741
+author_bio: Jeremy Greene teaches history at Chelmsford High School, MA, and is interested
+  in globalizing U.S history. He is a member of the New England History Teachers'
+  Association executive board, the New England Regional World History Association,
+  and the World History Association's Teaching Committee.
+image_fid: '9499'
+splash_image_fid: '9500'
+author_image_fid: '9505'
+summary: Discover the resources you need to "globalize" your U.S. history lesson plans!
+splash_image: /files/internationalsplash.jpg
+image: /files/internationalimage.jpg
+author_image: /files/author_image/author_green.jpg
 ---
+
+
 
 ## What Is It?
 

@@ -2,11 +2,19 @@
 title: 'In Remembrance: September 11, 2001'
 date: '2011-08-16T13:08:30'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25078
 url: /nhec-blog/25078
+date_published: '2011-08-24T00:00:00'
+image_fid: '7943'
+splash_image_fid: '7944'
+summary: September 11, 2011 marks the 10th anniversary of the 9/11 attacks. When does
+  the recent past become history?
+splash_image: /files/splash-blog-201110.jpg
+image: /files/image-blog-201110.jpg
 ---
+
 
 Some students in class today may have clear memories of the events of September 11, 2001. Some may have vague memories. Others may have been born years after the attacks. The 10th anniversary of 9/11 presents an opportunity for educators to explore with students what it means to *experience* history. Were students alive during the attacks? Do they remember them? How do their parents remember the attacks? How did adults they know make sense of the events as they happened? How do people who were alive during the attacks interpret the past when its events are close and painful? How long does it take for historians to find a framework in which to fit events such as 9/11? People watching the World Trade Center towers collapse knew that 9/11 would appear in history books later—what has happened during students' lifetimes that they think was "history in the making?"
 One way to teach 9/11 is to compare and contrast it with other past events that witnesses believed were history in the making. Lesson plans often feature the bombing of Pearl Harbor and the assassination of JFK as comparable to 9/11, but what about the bombing of Hiroshima and Nagasaki? The assassination of Abraham Lincoln? The assassination of William McKinley? The Boston Massacre? The Springfield Race Riot of 1908?
@@ -14,7 +22,7 @@ How many people witnessed those events? How many of them witnessed them in perso
 
 ## Teachinghistory.org Resources
 
-[![September 11 Spotlight](http://teachinghistory.org/files/spotlight-blog-9112011.jpg)](http://teachinghistory.org/spotlight/september11)
+[![September 11 Spotlight](/files/spotlight-blog-9112011.jpg)](http://teachinghistory.org/spotlight/september11)
 Regardless of how you choose to teach 9/11 and whether or not you contrast it with other historical events, approach the subject thoughtfully and with clear goals. To honor the anniversary and to help you as you learn about, teach, and remember the day and its effects, we've gathered together our 9/11 resources on one page: "[In Remembrance: Teaching 9/11](http://teachinghistory.org/spotlight/september11)."
 
 ## Teaching the Recent Past

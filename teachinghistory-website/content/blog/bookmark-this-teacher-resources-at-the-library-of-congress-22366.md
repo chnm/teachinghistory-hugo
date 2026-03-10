@@ -2,11 +2,18 @@
 title: Bookmark This! Teacher Resources at the Library of Congress
 date: '2009-07-01T11:16:50'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22366
 url: /nhec-blog/22366
+date_published: '2009-07-07T00:00:00'
+image_fid: '1170'
+thumbnail_fid: '852'
+summary: The Library of Congress expedites educator access to primary sources and
+  professional development.
+image: /files/loc1.jpg
 ---
+
 
 So, you're certain the Library of Congress has the resources you need to teach a particular unit, but the website is huge; the search categories, diverse; and the determination of exactly which resources you need and how to present them—daunting.
 The new [home for teachers at the Library of Congress](http://www.loc.gov/teachers/) tackles those issues and expedites and facilitates teacher access to library resources. The new site also guides teachers in creating their own professional development modules and provides tools to help integrate materials into classroom curricula.

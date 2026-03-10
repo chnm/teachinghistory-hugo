@@ -2,7 +2,7 @@
 title: NHEC Contributors
 date: '2008-01-30T15:04:40'
 lastmod: '2012-05-23T16:33:08'
-type: page
+content_type: page
 draft: false
 drupal_nid: 14872
 url: /about/research-advisors

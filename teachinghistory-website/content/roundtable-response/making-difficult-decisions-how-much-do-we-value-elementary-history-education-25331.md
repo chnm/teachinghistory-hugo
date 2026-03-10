@@ -2,10 +2,21 @@
 title: 'Making Difficult Decisions: How Much Do We Value Elementary History Education?'
 date: '2011-12-01T12:45:39'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25331
+author_bio: Stacy Hoeflich teaches fourth grade in Alexandria, VA, and was National
+  History Teacher of the Year for 2011. She received her BA in English and Masters
+  of Education from George Washington University.
+author_image_fid: '8610'
+summary: As a result of the federal push for qualitative and quantitative skills and
+  the state emphasis on knowledge of regional history, teachers are forced to relay
+  vast amounts of information to their students in a very limited amount of time.
+  Can this issue be solved by extensive teaching preparation? Or is elementary history
+  education beyond repair?
+author_image: /files/author_image/author_hoeflich_0.jpg
 ---
+
 
 > The district I teach for allots a total of 25 minutes per day for me to cover…more than 400 years of story.
 

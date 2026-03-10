@@ -2,11 +2,17 @@
 title: Bookmark This! Contests for Students and Teachers
 date: '2010-01-11T11:23:25'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23710
 url: /nhec-blog/23710
+date_published: '2009-01-11T00:00:00'
+image_fid: '3842'
+summary: Spring deadlines for teacher and student competitions based on pedagogical
+  and academic excellence.
+image: /files/teachofyr.jpg
 ---
+
 
 ## Preserve America History Teacher of the Year Award, 2010
 

@@ -2,11 +2,19 @@
 title: The History of America(ns)
 date: '2012-07-09T14:37:14'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25663
 url: /nhec-blog/25663
+date_published: '2012-07-30T00:00:00'
+image_fid: '9390'
+splash_image_fid: '9389'
+summary: Where do Americans come from? Many places! Use these resources to teach immigration
+  history.
+splash_image: /files/splash-immigration-blog_0.jpg
+image: /files/image-immigration-blog.jpg
 ---
+
 
 As the presidential campaigns of Barack Obama and Mitt Romney move into full swing, both men have to stake out positions on many issues. From health care to economic revival to the environment, Obama and Romney make promises and set priorities.
 So far, one of the defining issues of 2012 has been immigration: How should the U.S. handle illegal immigration and possible immigration reform?

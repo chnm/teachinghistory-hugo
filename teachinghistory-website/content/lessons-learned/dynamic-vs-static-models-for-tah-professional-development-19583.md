@@ -2,10 +2,29 @@
 title: Dynamic vs. Static Models for TAH Professional Development
 date: '2008-08-27T17:26:10'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 19583
+author_bio: 'John Trampush is an Alaskan educator with experience teaching students
+  in all grades from kindergarten through graduate school. Within Alaska he has worked
+  in schools as small as two-room "bush" schoolhouses and as large as Anchorage high
+  schools with over 2,000 students. He has worked and taught within many cultures,
+  from the Arctic coast to Southeast Alaska. His certifications and primary interests
+  are in history, social studies, and educational technology.
+
+  Currently he is coordinating the Alaska Network for Understanding American History
+  (ANUAH), a newly organized ''08 TAH Grant project, organized to create a TAH "networked
+  community of practice" within Alaska.'
+image_fid: '3997'
+splash_image_fid: '3998'
+author_image_fid: '4146'
+summary: A strategic balance is crucial for getting the most out of your grant.
+splash_image: /files/DynvStatSplash2.jpg
+image: /files/DynvsStatImage.jpg
+author_image: /files/author_image/JOHN22.jpg
 ---
+
+
 
 For educators privileged to help implement a Teaching American History (TAH) project, perhaps the most important question that we can continue to ask ourselves and each other is: how can we make our projects even better? Each new TAH project funded by the Office of Innovation and Improvement creates a new learning organization, centered on the understanding and teaching of American history. But these organizations can be very different depending on the vision and professional development (P-D) model that organizers use to implement their goals and processes.
 The P-D model used in the design of a TAH project (whether explicit or implicit) provides the architecture in which all human interactions within a project are organized and valued. Like the building where learning activities are conducted, the structural organization can have a significant impact on organizational learning results and sustainability. What follows are a few thoughts contrasting static and dynamic elements in professional development models. My goal is simply to foster dialogue about the art and science of developing these TAH learning organizations.

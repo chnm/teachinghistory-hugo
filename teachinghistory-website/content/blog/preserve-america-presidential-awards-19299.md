@@ -2,10 +2,14 @@
 title: Preserve America Presidential Awards
 date: '2008-05-15T12:10:03'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19299
 url: /nhec-blog/19299
+date_published: '2008-05-15T00:00:00'
+summary: First Lady Laura Bush presented the 2008 Preserve America Presidential Awards,
+  the highest national award for historic preservation achievement, in a White House
+  ceremony May 12.
 ---
 
 First Lady Laura Bush presented the 2008 Preserve America Presidential Awards, the highest national award for historic preservation achievement, in a White House ceremony May 12.

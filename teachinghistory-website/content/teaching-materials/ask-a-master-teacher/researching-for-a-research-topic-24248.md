@@ -2,7 +2,7 @@
 title: Researching for a Research Topic
 date: '2010-09-16T09:53:45'
 lastmod: '2017-12-05T08:46:32'
-type: ask_an_educator
+content_type: ask_an_educator
 draft: false
 drupal_nid: 24248
 question: 'I am searching for an unique topic for the National History Day 2010-2011.
@@ -12,7 +12,13 @@ question: 'I am searching for an unique topic for the National History Day 2010-
   is a way diplomacy and the concept of spies is related. Is there any event in specific
   having to do with spies and diplomacy that can relate to the theme? Thank You!'
 url: /teaching-materials/ask-a-master-teacher/24248
+image_fid: '6694'
+splash_image_fid: '6543'
+summary: Paring down a larger idea to answer one specific question.
+splash_image: /files/spyshadow_splash.jpg
+image: /files/spyglass_crop.jpg
 ---
+
 
 Kudos on getting started on your NHD project. You ask a specific question about whether diplomacy and spies are related, and the shortest answer is yes, indeed, there are many events and issues you could explore that connect to both of these subjects. But before I get specific, let me share some approaches to finding those topics.
 Choosing a topic for historical research can be a lengthier process that we expect. While you’ve done the key initial step of identifying a personal interest that connects to the theme, below are some tips to help you answer your own question.
@@ -41,3 +47,16 @@ One thing to keep in mind throughout your research is that it is an iterative pr
 
 Finally, remember that espionage is a secret enterprise. If you pick a less current topic, you may find that more sources are available.
 Good Luck!
+
+---
+
+**Here are some other resources that may help you think through the process:**
+
+* Historian William Cronon’s helpful [site](http://www.williamcronon.net/researching/index.htm). Especially helpful for choosing a topic is the section titled [“asking good questions.”](http://www.williamcronon.net/researching/questions.htm)
+* National History Day’s [Eight Steps of Historical Research](http://www.nationalhistoryday.org/EightSteps.htm). Steps 2, 3, and 4 are most relevant to your question.
+* Local resources including school and local librarians, professors, teachers, museums, and historical societies. Use the search function at our  [page to find local museums and historical sites (scroll down and look in the right column).](http://teachinghistory.org/history-content>)
+
+Places you may want to browse to do some background reading and look for topics specific to spies include:
+
+* [The International Spy Museum website](http://www.spymuseum.org/): Spend some time with the “From Spy” and “exhibits” sections to find ideas for topics.
+* [The National Security Archives](http://www.gwu.edu/~nsarchiv/): Browse the search function and explore some of those results.

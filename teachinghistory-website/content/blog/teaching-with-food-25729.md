@@ -2,11 +2,18 @@
 title: Teaching with Food
 date: '2012-09-04T14:40:51'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25729
 url: /nhec-blog/25729
+date_published: '2012-10-15T00:00:00'
+image_fid: '9542'
+splash_image_fid: '9541'
+summary: Teach with all five senses, including taste!
+splash_image: /files/splash-foodways.jpg
+image: /files/image-foodblog.jpg
 ---
+
 
 We need food to live, but don't always think about where food that comes from. We carry foods and foodways with us as we immigrate, emigrate, or migrate. We share food and celebrate with it. Every bite we eat has a long history involving geography, trade, science, technology, global contact, and more.
 Take advantage of this rich history by asking questions about the foods students love. These seven links can get you started on taste-testing the past:

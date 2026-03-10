@@ -2,8 +2,9 @@
 title: 'People and Places: Our Story of Freedom, Liberty, and Equality'
 date: '2011-06-09T15:35:15'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24766
 ---
 
+The *People and Places* consortium is in southern Illinois just east of the Mississippi River and near St. Louis. It has 23 schools in need of improvement, corrective action, or restructuring. Many elementary teachers do not have history teaching endorsements. Secondary teachers who participated in a previous Teaching American History grant will mentor elementary teachers as they design lessons and create Web-based portfolios related to the content of seminars, summer institutes, study tours to historical sites, and other activities. Participants will network with teachers outside the project and with preservice teachers in quarterly reading seminars, Web-supported discussions, and 1-day workshops. *People and Places* is designed to support the elementary teachers who introduce students to their first experience with U.S. history. To this end, it hopes to develop at least one teacher leader per building in consortium schools. Three cohorts of 40 teachers will participate for three years each and experience identical content organized around the theme of exploring the nation through the historical contexts that shaped and transformed its ideological heritage. During this exploration, teachers will engage in rigorous, research-based strategies such as higher level questioning and differentiating for different ability levels, integrating technology into teaching and learning, and applying historical thinking skills. The content of this professional development will rely in part on local and national primary sources, and teachers will learn how to turn their classrooms into historical laboratories. *People and Places* participants will share units of study they develop during the project and join a county-wide cadre to improve American history education.

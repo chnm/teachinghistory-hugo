@@ -2,11 +2,17 @@
 title: 'Resources: Asian Pacific American Heritage Month'
 date: '2009-04-23T11:51:52'
 lastmod: '2017-10-06T15:39:58'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22027
 url: /nhec-blog/22027
+date_published: '2009-04-23T00:00:00'
+image_fid: '1056'
+summary: The term Asian Pacific American covers millions of people, thousands of cultures,
+  and dozens of countries.
+image: /files/commonground.jpg
 ---
+
 
 Asian Pacific Heritage Month, a celebration of Asian and Pacific islanders living in the United States, began as a 10-day observance in 1977. Congress passed Pub. L. 95-419 which requested the President to issue a proclamation designating the seven-day period beginning on May 4, 1979 as Asian/Pacific American Heritage Week. In 1978, President Carter spoke of the significant role Asian-Americans have played in the creation of a dynamic and pluralistic American society and made the observation an annual event. Then, in 1990, President George H.W. Bush proclaimed the entire month of May to be Asian Pacific American Heritage Month.
 

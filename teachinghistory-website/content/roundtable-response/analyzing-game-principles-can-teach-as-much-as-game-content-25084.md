@@ -2,10 +2,19 @@
 title: Analyzing Game Principles Can Teach as Much as Game Content
 date: '2011-08-18T10:05:10'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25084
+author_bio: 'Jeremiah McCall, PhD, teaches high school history at Cincinnati Country
+  Day School. He is the author of *Gaming the Past: Using Video Games to Teach Secondary
+  History*. He also maintains the site [gamingthepast.net](http://gamingthepast.net/).'
+author_image_fid: '7950'
+summary: '[Games] have a promising future in the teaching of history as a more investigative,
+  arguable, immersive, evidence-based discipline, rather than simply as a subject
+  consisting of established facts.'
+author_image: /files/author_image/authorphotojeremiahmccall75x75_0.jpg
 ---
+
 
 *Note: This essay focuses on simulation games, defined as those that represent the real world in some defensible ways. Most serious digital games can be considered simulation games.*
 Without question historical simulation games offer effective tools to learn the skills of a historian and the content of history. Simulation games offer dynamic and manipulable models of the world, interactive interpretations of how and why things have happened in the past.

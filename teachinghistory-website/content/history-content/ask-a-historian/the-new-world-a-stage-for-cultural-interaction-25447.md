@@ -2,14 +2,20 @@
 title: 'The New World: A Stage for Cultural Interaction'
 date: '2012-02-15T11:43:14'
 lastmod: '2017-12-05T08:51:59'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 25447
 question: During European colonization, how did the French, Spanish, and Dutch view
   the Native Americans and how did their interaction differ? What affect did their
   interaction have on colonization?
 url: /history-content/ask-a-historian/25447
+splash_image_fid: '8862'
+summary: Religion and profit were driving motivations behind European colonization.
+  Discover how Spanish, French, and Dutch explorers differed in their attempts to
+  accomplish these goals.
+splash_image: /files/interactionsplash.jpg
 ---
+
 
 Interactions among Europeans and Native Americans varied from place to place, and members of each nation forged relationships with Indians in very different ways, depending on a variety of economic, social and political factors. While we should be mindful of this diversity, we can still make certain generalizations. Few Europeans considered Native Americans their equals, because of differences in religion, agricultural practice, housing, dress, and other characteristics that—to Europeans—indicated Native American inferiority. However, the French, Spanish, and Dutch sought profit through trade and exploitation of New World resources, and they knew that the native people would be important to their success. Europeans also wanted to convert Native Americans to Christianity. Therefore, economic gain and religion were the two factors that most affected the dynamics of European and indigenous American relationships.
 **The Spanish:**
@@ -20,3 +26,9 @@ Like the Spanish colonies in North America, New France did not attract many Fren
 Unlike the French and Spanish, the Dutch did not emphasize religious conversion in their relationships with Native Americans. Instead, they focused on trade with American Indians in present-day New York and New Jersey. They established a fur trade alliance with the Iroquois confederacy, the most powerful Native American empire in 17th-century North America. Although smallpox and other European diseases drastically reduced the Iroquois population, the confederation remained strong because they negotiated an advantageous alliance with the Dutch. Dutch weapons helped the Iroquois to defeat the Huron, who were leaders of the other major pan-Indian confederacy in the area.
 **Native Americans:**
 As often as possible, Native Americans took advantage of rivalries among European powers to maintain or enhance their own political and economic positions. Wars between England and the Netherlands spilled into North America, and in 1664 during the Second Anglo-Dutch War, England seized control over New Netherland and renamed the colony New York. The Iroquois quickly signed an alliance and trade treaty with the English. However, they also maintained friendly relations with the French and welcomed Jesuit missionaries into their midst. The Iroquois were generally successful at playing the French and English off one another until the English drove the French out of North America at the end of the French and Indian War (1763).
+
+---
+
+Axtell, James. *Natives and Newcomers: The Cultural Origins of North America*. New York: Oxford University Press, 2001.
+Richter, Daniel K., *Ordeal of the Longhouse: The Peoples of the Iroquois League in the Era of European Colonization*. Chapel Hill, NC: University of North Carolina Press, 1992.
+White, Richard. *The Middle Ground: Indians, Empires, and Republics in the Great Lakes Region, 1650-1815*. New York: Cambridge University Press, 1991.

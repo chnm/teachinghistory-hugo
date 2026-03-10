@@ -3,11 +3,17 @@ title: National Council for History Education (NCHE) Presents Award to Senator R
   Byrd
 date: '2008-10-20T13:18:46'
 lastmod: '2011-06-14T10:02:45'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20138
 url: /nhec-blog/20138
+date_published: '2008-10-20T00:00:00'
+image_fid: '321'
+summary: Byrd award intended for policymakers and public figures advocating history
+  in education.
+image: /files/byrd.jpg
 ---
+
 
 On September 24, 2008, more than a hundred guests including Senators, Chiefs of Staff, historians, educators, and directors of historical organizations and museums filled the historic Mansfield Room in the U.S. Capitol to witness the National Council for History Education (NCHE) present Senator Robert C. Byrd an award named in his honor.
 The award, recognizing Senator Byrd’s distinguished leadership in advancing the study of history in our nation's schools, was presented by David McCullough—Pulitzer Prize-winning historian, Medal of Freedom recipient, and member of the NCHE Board of Trustees—and by Theodore K. Rabb, Chairman of the NCHE Board of Trustees and emeritus professor of history at Princeton University.

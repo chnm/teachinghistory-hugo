@@ -2,11 +2,19 @@
 title: Veterans, Oral History, and the Library of Congress
 date: '2009-10-27T14:08:52'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23463
 url: /nhec-blog/23463
+date_published: '2009-10-27T00:00:00'
+image_fid: '3519'
+splash_image_fid: '8360'
+summary: Veteran oral history projects relate the classroom to real people and real
+  life.
+splash_image: /files/splash-him-vd2.jpg
+image: /files/locvhp.jpg
 ---
+
 
 An oral history project with veterans is a great way to involve students in family, community, national, and global history. And it's a useful methodology for teaching how to work with historical evidence.
 Far more than simple question and answer sessions, oral history is actually a systematized, disciplined effort to record, preserve, and interpret memories of historical significance. It helps students find out about the past, and encourages them to ask critical questions about who tells the story and how it's told. Good oral history projects require research into primary and secondary sources; they exercise planning and interpretive skills; and they ask students to unite mega and micro narratives. Kindergarten pupils can do it, and so can AP history students with learner-appropriate requirements for exercising historical thinking skills—it's an activity adaptable across the curriculum and across grade levels.

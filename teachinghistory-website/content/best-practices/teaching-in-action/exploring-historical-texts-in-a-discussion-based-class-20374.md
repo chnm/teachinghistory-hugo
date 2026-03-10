@@ -2,12 +2,22 @@
 title: Exploring Historical Texts in a Discussion-Based Class
 date: '2008-11-21T12:57:37'
 lastmod: '2018-08-07T10:15:18'
-type: examples_of_teaching
+content_type: examples_of_teaching
 draft: false
 drupal_nid: 20374
 url: /best-practices/teaching-in-action/20374
 featured: true
+author_bio: Avram Barlowe teaches high school history at the Urban Academy in New
+  York City, NY.
+website_url: http://www.learner.org/resources/series172.html#program_descriptions
+splash_image_fid: '5001'
+author_image_fid: '1531'
+summary: Trying to promote more productive and engaging discussions?
+splash_image: /files/Exploring_Historical_Texts_-_432x240.jpg
+author_image: /files/author_image/avram.jpg
 ---
+
+
 
 [*Learning from Others: Learning in a Social Context*](http://www.learner.org/resources/series172.html?pop=yes&pid=1864#) from [Annenberg Media](http://www.learner.org) is a video made up of two sections, the second half of which documents the practice of Avram Barlowe, a high school history teacher at the Urban Academy in New York City. (Go to Session 7 and view video from 13:58–25:55.) This video provides examples of two promising practices:
 

@@ -2,11 +2,26 @@
 title: Teaching and Learning History in the Digital Age (AHA 2011)
 date: '2011-02-10T15:15:22'
 lastmod: '2017-12-01T15:52:16'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24526
 url: /nhec-blog/24526
+author_bio: Rwany Sibaja is a PhD student of History at George Mason University and
+  a Graduate Research Assistant at the [Center for History and New Media](http://chnm.gmu.edu).
+  He previously taught high school history (World and AP European) and Spanish, later
+  working as a K-12 curriculum program manager in NC.
+date_published: '2011-03-11T00:00:00'
+image_fid: '7143'
+splash_image_fid: '7144'
+author_image_fid: '7205'
+summary: Rwany Sibaja recaps our presentation at the 2011 American Historical Association
+  conference in Boston.
+splash_image: /files/prezisplashimage_0.jpg
+image: /files/2011aha.jpg
+author_image: /files/author_image/ThO.jpg
 ---
+
+
 
 The degree of difficulty educators face when dealing with new technologies varies, but the sensation of feeling like a “newbie” when it comes to technology can often create tech-wariness among teachers. Educators should not feel this way.
 Teachinghistory.org's presentation at the 2011 American Historical Association (AHA) conference, entitled “Teaching and Learning History in the Digital Age,” offered attendees exposure to free and easy-to-use tools that can work for teachers, regardless of their technological abilities. The main message of this presentation? *Start small and be willing to face unexpected hiccups along the way.* 

@@ -2,11 +2,25 @@
 title: Students Working in Local Historic Preservation
 date: '2010-09-21T15:02:24'
 lastmod: '2018-09-21T14:01:38'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 24264
 url: /teaching-materials/teaching-guides/24264
+author_bio: Roseanne Lichatin was selected as the Preserve America Teacher of the
+  Year in 2006. Currently she teaches the Pre-Advanced Placement U.S. History I class
+  as well as U.S. History II at West Morris Central High School in Chester, NJ. She
+  also is the co-advisor of the National History Club.
+image_fid: '6606'
+splash_image_fid: '6600'
+author_image_fid: '6597'
+summary: Engage your students in preserving local history! Use this teacher's successful
+  service learning activity to guide you.
+splash_image: /files/museum_crop.jpg
+image: /files/histsociety_crop_0.jpg
+author_image: /files/author_image/Lichatinn_crop.jpg
 ---
+
+
 
 ## What Is It?
 

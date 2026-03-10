@@ -2,12 +2,17 @@
 title: Who Invented the Telephone?
 date: '2009-08-19T16:28:21'
 lastmod: '2017-12-01T14:53:33'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 22481
 question: Who invented the telephone?
 url: /history-content/ask-a-historian/22481
+splash_image_fid: '4852'
+summary: The history of the invention of the telephone is as clear as a Bell . . .
+  or is it?
+splash_image: /files/Helen-of-Many-Glacier-Hotel-new.jpg
 ---
+
 
 The answer to this question has been argued ever since Alexander Graham Bell filed his patent application for the telephone in 1876. Much of the argument has focused on whether Bell should be awarded the palm for its invention or whether it should go to Chicago inventor Elisha Gray, who was conducting experiments at the same time as Bell, was in contact with him, and who filed documentation with the patent office for a telephone device a few hours before Bell. Newspaper reporting at the time—noticeable especially in *The Chicago Tribune* (Gray lived in nearby Highland Park)—waffled in whether to attribute the new invention to Bell or to Gray.
 
@@ -21,3 +26,16 @@ Not only historians, however, wade into historical questions of who was first wi
 ## The One and the Many
 
 History would be easier if each invention had a single inventor. Sometimes this is the case—but often it is not, despite our tendency to identify a solitary genius in whose mind a great idea suddenly lit up fully-formed. Rather (more?) often, many people work on a problem at the same time, making incremental approaches toward a solution, and influencing each other in the process. In such cases, crediting one person with *the* solution or invention can seem arbitrary. The claim to invention *per se* is sometimes buttressed through impressive efforts at self-promotion or by successes in organizing the invention's commercial exploitation.
+
+---
+
+Alexander Graham Bell, Lab notebook, describing his experiments with the telephone, Manuscript Division, Library of Congress:
+http://www.loc.gov/exhibits/treasures/trr002.html.
+Bell's patent application (174465, July 27, 1875) for the telephone, at the U.S. Patent and Trademark Office:
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=0174465.PN.&OS=PN/0174465&RS=PN/0174465.
+Elisha Gray's patent application (166095, July 27, 1875) for an "Electrical Telegraph for Transmitting Musical Tones" at the U.S. Patent and Trademark Office:
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=0166095.PN.&OS=PN/0166095&RS=PN/0166095.
+Elisha Gray's "caveat" filed at the Patent Office a few hours before Bell's patent application:
+http://www.acmi.net.au/AIC/GRAY\_PATENT.html.
+"Antonio Meucci Revisited":
+http://www.chezbasilio.it/antenna.htm.

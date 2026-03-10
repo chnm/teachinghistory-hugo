@@ -2,11 +2,16 @@
 title: Primary Source Sets on the Web
 date: '2011-02-03T11:04:51'
 lastmod: '2018-09-21T13:54:49'
-type: primary_source_guide
+content_type: primary_source_guide
 draft: false
 drupal_nid: 24490
 url: /best-practices/using-primary-sources/24490
+splash_image_fid: '7087'
+summary: Check out these sites for primary sources grouped into sets by topic, grade-level
+  appropriateness, and other factors.
+splash_image: /files/PS-SetsSplash.jpg
 ---
+
 
 It can be time-consuming to find and prepare primary sources for your lessons. On each of the below sites, you will find primary sources that address multiple topics in U.S. History. Many of the sites provide sources that have been prepared for the classroom, from excerpting lengthy documents to providing clear headnotes and source information. Start at one of these sites to find primary sources to use in your next lesson!
 

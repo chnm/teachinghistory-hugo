@@ -2,11 +2,19 @@
 title: Organize Your Thinking to Critically Analyze Text
 date: '2012-02-24T14:46:07'
 lastmod: '2017-10-06T15:37:32'
-type: examples_of_teaching
+content_type: examples_of_teaching
 draft: false
 drupal_nid: 25461
 url: /best-practices/teaching-in-action/25461
+website_url: https://www.teachingchannel.org/videos/organize-your-thinking-to-critically-analyze-text?resume=0
+image_fid: '8927'
+splash_image_fid: '8926'
+summary: Discover the multiple strategies 5th-grade teacher Jennifer Brouhard uses
+  in her classroom to promote student understanding of historic texts.
+splash_image: /files/thinkingsplash.jpeg
+image: /files/thinkingimage_0.jpeg
 ---
+
 
 This 15-minute [video](https://www.teachingchannel.org/videos/organize-your-thinking-to-critically-analyze-text?resume=0) features 5th-grade teacher Jennifer Brouhard using several strategies for prompting deep understanding of historical texts. Brouhard explains how she noticed that her students were reading quickly and considered themselves finished with a text before going deeply into it or “doing anything” with it. Here, she explains several strategies that prompted her students to delve deeper into text and draw more meaning from it than a quick read allows.
 This video provides examples of three promising practices:

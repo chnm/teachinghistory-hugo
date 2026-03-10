@@ -2,12 +2,16 @@
 title: Decisive Battles in the War of Independence
 date: '2012-08-13T13:55:43'
 lastmod: '2017-12-05T08:51:59'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 25698
 question: What were the most important battles of the American Revolution?
 url: /history-content/ask-a-historian/25698
+splash_image_fid: '9454'
+summary: What were the most important battles of the American Revolution?
+splash_image: /files/battlesplash.jpg
 ---
+
 
 Historians count the Saratoga and Yorktown campaigns as among the most consequential in the American War of Independence. The Saratoga campaign began in the summer of 1777, when more than 8,000 British troops under the command of General John Burgoyne began marching from Quebec to Albany, NY. Their ultimate aim was to control the routes across the Hudson River, isolating New England—hotbed of the rebellion—in the process.
 Encumbered by an unusually large baggage train and by 138 artillery pieces, Burgoyne’s progress was slow, and he repeatedly delayed while awaiting the delivery of supplies. American forces under Henry Gates harassed the British force as it made its way south. Finally, in a series of battles fought in September and October 1777, the campaign came to a climax as British troops attacked fortified positions around Saratoga, NY. American forces (rallied at one point by patriot General Benedict Arnold, who had not yet defected to the British) inflicted heavy casualties on their opponents.
@@ -20,3 +24,8 @@ The fact that even the surrender at Yorktown did not end Britain’s ability to 
 > The Patriot side could win the war simply by not losing it, and waiting for the British to tire.
 
 The Patriot side pursued a very different strategy, in accordance with a different set of goals. No one imagined that Washington’s forces needed to cross the Atlantic and capture London in order to secure their victory. Rather, the Patriots could hope to win the war simply by forcing a protracted struggle that forced the British to devote increasing amounts of time, money, and troops to their war effort. The colonists could thus make war on British will, rather than on their armies: in essence, the Patriot side could win the war simply by not losing it, and waiting for the British to tire. Victories at crucial junctures like Saratoga and Yorktown helped the Patriots extend the war so long that the British no longer perceived the continued effort and expense to be justified.
+
+---
+
+Higginbotham, Don. *The War of American Independence*. New York: Macmillan, 1973.
+Royster, Charles. *A Revolutionary People At War: The Continental Army and American Character, 1775-1783*. Chapel Hill: University of North Carolina Press, 1980.

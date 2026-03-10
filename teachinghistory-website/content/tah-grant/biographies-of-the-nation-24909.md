@@ -2,8 +2,9 @@
 title: Biographies of the Nation
 date: '2011-06-15T14:28:59'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24909
 ---
 
+Teachers will come from three of Montana's largest districts, and will include many who have never participated in focused history professional development and who have the greatest need of support (e.g., have taken few history courses, are new to teaching American history, have switched grade levels and subjects). Each year, teachers will learn from historians, biographers, instructional experts and master teachers at a 2-day fall colloquium (in conjunction with a state conference), a 3-day winter colloquium and a 4-day summer institute. Local teacher coordinators will lead school-based book study groups, where participants will read and discuss two books each year. Teachers will be able to earn graduate credits for participation. Project leaders will recruit 36 teachers and keep as many as possible for all 3 years, recruiting new teachers to replace any who leave. With the goal of bringing teachers and students into a community of practice, the project will weave together biography and history to teach major historical themes and narratives and to help students understand how American history is relevant to their lives. Project historians and instructional specialists will focus on helping teachers build their historical literacy. Participants will focus on teaching history as contextualized stories, using metahistorical concepts such as time, change, empathy, evidence and accounts. They will learn how to investigate and teach with artifacts and primary source documents, including America's founding documents. Each year, every teacher will create an instructional plan, and these plans will be posted to a Web site as resources for all teachers.

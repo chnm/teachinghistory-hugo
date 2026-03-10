@@ -2,10 +2,23 @@
 title: Teaching American History and Parallel Schools
 date: '2008-04-04T17:12:31'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 19141
+author_bio: Bill Obrochta currently works as Director of Education at the Virginia
+  Historical Society in Richmond. In this capacity, he supervises school programs
+  and tours; develops curricular materials for teachers; and organizes conferences,
+  seminars, workshops, and other programs for students, teachers, and out-of-school
+  adults across the state. Image courtesy of the Virginia Historical Society.
+splash_image_fid: '4968'
+author_image_fid: '4153'
+summary: When schools partner with the history institutions in their own communities,
+  the various stakeholders in history education are brought together.
+splash_image: /files/Teaching_American_History_and_Parallel_Schools_-_432x240.jpg
+author_image: /files/author_image/tahobrachta_0.jpg
 ---
+
+
 
 Until 1990, the Virginia Historical Society served a very small number of scholars and genealogists, and we made our collections available through our publications and our research library. Those collections now include some 200,000 photographs; 1,000 paintings; 160,000 books (15,000 of which are considered rare); 5,000 maps; 25,000 museum objects; and some eight million processed manuscripts—letters, diaries, deeds, accounts, plats, minute books—virtually anything and everything that has been committed to paper over the past four centuries. Today, the VHS operates a museum and a research library, and serves as an educational forum. Although I was trained as an archivist, I was hired as the Society's first education director in 1990.
 We identified Virginia's school teachers as one of our most important audiences, largely because of our statewide mandate and our mission to interpret all Virginia history—all people, all regions, and all time periods. We conducted workshops around the state, providing teachers with resources (primary sources) and strategies to teach Virginia and American history. We developed teaching kits and history boxes using reproductions of artifacts, facsimiles of documents, and enlargements of photographs from our collections. In 1994, we received a grant from the National Endowment for the Humanities to offer our first teacher institute—a three-week residential program that brought teachers into contact with some of the nation's leading historians. Participating teachers also worked with our reference staff developing primary-source-based lesson plans to be used in their classrooms. The institute is now in its 15th year, and more than 280 Virginia school teachers have attended the program.

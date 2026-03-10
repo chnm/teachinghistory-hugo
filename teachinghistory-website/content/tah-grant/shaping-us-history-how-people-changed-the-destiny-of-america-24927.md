@@ -2,8 +2,9 @@
 title: 'Shaping U.S. History: How People Changed the Destiny of America'
 date: '2011-06-15T15:46:59'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24927
 ---
 
+This project will serve the public schools of Queens, where nearly 50 percent of 8th-graders have failed the Intermediate Social Studies test and 25 percent of high school students have failed the U.S. History and Government Regents exam. Each year, the project teachers will attend eight 1-day workshops, in which professional historians examine how people have shaped events through interactions, collaborations and conflicts; the teachers will align this content with pedagogical skills and will receive classroom materials, books and history resources, with an emphasis on biographies. An annual 5-day summer institute will cover topics too large in scope to be addressed in a 1-day workshop and will feature field trips to New York City sites. The first cohort of 30 teachers will participate for the first two years, followed by a second cohort of 30 teachers over the next two years. During the fifth year, 30 teachers—selected from the two cohorts—will participate in eight full-day Master American History workshops. The project activities will show teachers how to align content with the New York State Core Curriculum in U.S. history by using strategies that students find engaging, such as curating museum exhibits, writing newspaper articles, role playing and oral history. The teachers also will learn to use media, library and museum collections, and maps; modify primary sources for different learning levels; plan effective field trips; differentiate learning for students with diverse needs and backgrounds; and find easily accessible resources. The teachers' lesson plans and materials will be disseminated through the project's Open Educational Resources Commons Web site.

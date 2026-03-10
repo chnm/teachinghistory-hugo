@@ -2,7 +2,7 @@
 title: Favorites
 date: '2010-03-29T10:44:20'
 lastmod: '2012-01-04T13:45:08'
-type: page
+content_type: page
 draft: false
 drupal_nid: 23913
 ---

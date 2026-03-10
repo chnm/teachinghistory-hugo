@@ -2,10 +2,12 @@
 title: 'Omnibus Spending Bill, FY ''09 Passes: Good News for History'
 date: '2009-03-13T12:41:23'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 21823
 url: /nhec-blog/21823
+date_published: '2009-03-13T00:00:00'
+summary: A winning outcome for public history, research, and history education.
 ---
 
 Oh March 11, 2009, President Obama signed into law the the omnibus fiscal year (FY) 2009 budget. The bill provides funding for federal agencies left unfunded by the previous Congress, and it's good news for history, history education, and historians.

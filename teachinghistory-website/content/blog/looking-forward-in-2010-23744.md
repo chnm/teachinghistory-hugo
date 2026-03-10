@@ -2,11 +2,16 @@
 title: Looking Forward in 2010
 date: '2010-01-18T09:42:02'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23744
 url: /nhec-blog/23744
+date_published: '2010-01-16T00:00:00'
+image_fid: '3877'
+summary: Is it ever too late to send best wishes for a happy new year?
+image: /files/nhecredesign.jpg
 ---
+
 
 So, we're almost three weeks into 2010, and it's past time for the Clearinghouse staff to send very best wishes to everyone for a happy, productive teaching year.
 Most of us work on college campuses—George Mason and Stanford Universities—and today winter break officially ends, classes rev up, and our campuses are again filled with students. In the interim, Clearinghouse staff worked at home and on the road. We conducted workshops at the TAH Project Directors meeting in Washington, DC and you'll see videos of that meeting under [TAH Grants](http://teachinghistory.org/tah-grants) on the Clearinghouse site shortly. Clearinghouse staff also presented workshops and poster sessions at the [Annual Meeting of the American Historical Association (AHA)](http://www.historians.org/annual/2010/index.cfm) in San Diego and conducted a focus group with San Francisco [Teach for America](http://www.teachforamerica.org/) group. And, we've spent the quiet time looking ahead and working on new design and content for the Clearinghouse.

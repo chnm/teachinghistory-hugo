@@ -2,11 +2,17 @@
 title: Presidential Campaign Commercials 1952-2008
 date: '2008-09-19T20:38:37'
 lastmod: '2017-10-06T15:37:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19826
 url: /nhec-blog/19826
+date_published: '2008-09-20T00:00:00'
+image_fid: '282'
+summary: Take a look at the political arguments intrinsic to 20th-century campaign
+  commercials.
+image: /files/commercial.jpg
 ---
+
 
 [The Museum of the Moving Image](http://www.movingimage.us/site/site.php) presents [*The Living Room Candidate*](http://www.livingroomcandidate.org/), an online film exhibit of campaign commercials from Dwight Eisenhower through the current election, highlighting issues from bomb shelters to race to economics, war, and poverty.
 As David Schwartz, Chief Curator of the Museum of the Moving Image, explains in his introduction to [*Curator's Choice*](http://www.livingroomcandidate.org/commercials/curator) selections,

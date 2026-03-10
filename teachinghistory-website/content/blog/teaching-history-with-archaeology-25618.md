@@ -2,11 +2,18 @@
 title: Teaching History with Archaeology
 date: '2012-05-22T13:19:02'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25618
 url: /nhec-blog/25618
+date_published: '2012-06-20T00:00:00'
+image_fid: '9290'
+splash_image_fid: '9289'
+summary: Teach your students to "think archaeologically" as well as historically!
+splash_image: /files/splash-blog-archaeo.jpg
+image: /files/image-blog-archaeo.jpg
 ---
+
 
 Have you had time to get outdoors this summer? Toured any historical sites? As you walked across a battlefield, by a historical house, or through the remains of an abandoned pueblo or factory, have you thought about how we know what we know about these places? Primary sources describing some sites exist, but we can also learn about historical places through exploration and observation, treating the site itself as a primary source. Archaeologists analyze a place with sharp eyes, specialized tools, and historical knowledge, keeping close records of what they discover.
 > Remember that archaeology doesn't have to mean ancient history!

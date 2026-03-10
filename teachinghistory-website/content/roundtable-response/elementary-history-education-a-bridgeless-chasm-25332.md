@@ -2,10 +2,20 @@
 title: 'Elementary History Education: A Bridgeless Chasm'
 date: '2011-12-01T13:02:47'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25332
+author_bio: Elise Fillpot is director of the Bringing History Home Project and is
+  currently a visiting fellow at the University of Iowa College of Education and a
+  visiting assistant professor in the UI Department of History.
+author_image_fid: '8611'
+summary: The current state of history education in elementary schools denies students
+  the right to systematically study the past. However, projects like Bringing History
+  Home and an increased focus on information literacy might be able to fill in the
+  gaps in historical study.
+author_image: /files/author_image/fillpot_1_0_0_0_0.jpg
 ---
+
 
 In U.S. 5th-grade classrooms, students typically study math, language arts, science, physical education and fine arts, and social studies, which is often focused on history from early Atlantic encounters through the American Revolution. In all of these academic and artistic fields, 5th graders engage new material using knowledge and skills they have developed sequentially since kindergarten—that is, in all the fields except history.
 Unlike their experiences in the other disciplines, elementary students do not systematically, year-by-year, learn the heuristics or skills to analyze and interpret historic sources; they are not given the tools to develop historic accounts, grapple with historic causation, or learn historical chronologies; and they are not given opportunities to explore relationships between geography and human experiences over time. The fact that we plunge 5th graders into history without allowing them to develop discipline-specific skills and knowledge in earlier grades suggests that we don’t expect them to study the past with integrity or depth of understanding. Instead of teaching history as an interpretive, evidence-based process that requires discipline-specific skills, we teach it as an exercise in memorizing codified narratives and disembodied dates and facts.

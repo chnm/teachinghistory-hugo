@@ -2,11 +2,18 @@
 title: Center for Disease Control and Prevention
 date: '2009-08-24T11:46:59'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22511
 url: /history-content/national-resources/22511
+website_url: http://www.cdc.gov/
+splash_image_fid: '4752'
+thumbnail_fid: '2161'
+summary: For when those historical figures suffered conditions you don't recognize.
+splash_image: /files/CenterforDisease432x240.jpg
+thumbnail: /files/quiz_thumbnail/LCTreasures_Thumb.jpg
 ---
+
 
 The Center for Disease Prevention and Control exists to disperse information and techniques useful to prevent disease, disability, and injury, as well as to promote readiness for potential widespread threats to U.S. citizens' physical wellness.
 While, the CDC offers an extensive [children's page](http://www.bam.gov/index.html) and [education resource collection](http://www.cdc.gov/education/), the vast majority of the content is geared toward health/physical education and science courses. A select number of resources may prove useful to history teachers.

@@ -2,11 +2,18 @@
 title: U.S. Coast Guard
 date: '2009-08-05T11:45:03'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22462
 url: /history-content/national-resources/22462
+website_url: http://www.uscg.mil/
+splash_image_fid: '5132'
+thumbnail_fid: '2146'
+summary: Who protects U.S. interests in international and domestic waters?
+thumbnail: /files/website_image/SumterInteractive_Image.jpg
+splash_image: /files/USCoastGuard.jpg
 ---
+
 
 The United States Coast Guard, one of the five U.S. military branches, protects the environment and U.S. citizens, economic interests, and security in the world's oceans and bodies of inland water. Specific duties include rescue operations and maritime law.
 The Coast Guard's home on the web is certainly not the easiest to navigate of the Armed Forces sites. However, it does contain a noteworthy amount of content which could be put to use in the classroom, particularly background information for teachers or for student reports.

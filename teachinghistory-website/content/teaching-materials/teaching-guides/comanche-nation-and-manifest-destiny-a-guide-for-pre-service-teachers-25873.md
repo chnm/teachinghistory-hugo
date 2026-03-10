@@ -2,11 +2,25 @@
 title: 'Comanche Nation and "Manifest Destiny":  A Guide for Pre-Service Teachers'
 date: '2023-10-03T08:33:27'
 lastmod: '2023-10-04T11:24:16'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25873
 url: /teaching-materials/teaching-guides/25873
+author_bio: Nate Sleeter is a research assistant professor at the Roy Rosenzweig Center
+  for History and New Media where he oversees educational projects. He is also a former
+  K-12 teacher.
+image_fid: '10248'
+splash_image_fid: '10254'
+author_image_fid: '10255'
+summary: Help students better understand the history behind the term "Manifest Destiny"
+  by exploring the history of the Comanche people using primary sources from the Library
+  of Congress.
+splash_image: /files/service-pnp-cph-3b40000-3b44000-3b44200-3b44254v.jpeg
+image: /files/iiif-service_gmd_gmd432_g4322_g4322s_ct006428-full-pct_12.5-0-default.jpg
+author_image: /files/author_image/NATE_SLEETER (1)_0_1.JPG
 ---
+
+
 
 **What is it?**
 
@@ -124,13 +138,13 @@ https://www.loc.gov/resource/mss39768.017\_0007\_0246/?sp=4
 https://www.loc.gov/resource/mss39768.017\_0007\_0246/?sp=5  
 https://www.loc.gov/resource/mss39768.017\_0007\_0246/?sp=6
 
-![Handwritten letter excerpted above](/sites/default/files/inline-images/Sherman1.png)
+![Handwritten letter excerpted above](/files/inline-images/Sherman1.png)
 
-![Handwritten letter excerpted above.](/sites/default/files/inline-images/Sherman2.png)
+![Handwritten letter excerpted above.](/files/inline-images/Sherman2.png)
 
-![Handwritten letter excerpted above.](/sites/default/files/inline-images/Sherman3.png)
+![Handwritten letter excerpted above.](/files/inline-images/Sherman3.png)
 
-![Handwritten letter excerpted above.](/sites/default/files/inline-images/Sherman4.png)
+![Handwritten letter excerpted above.](/files/inline-images/Sherman4.png)
 
 By some estimates, this campaign resulted in the killing of 31 million American bison between 1868 and 1881. Some were harvested for their valuable hides or meat, but many were just left to rot. The purpose was to deny the resource to the Native people. Thus deprived of their primary source of food and their most valuable trade good, the Comanche were unable to mount as formidable a military force as they had in the pre-Civil War period. As historian David D. Smits argues: “In the end, the frontier army’s well-calculated policy of destroying the buffalo in order to conquer the Plains Indians proved more effective than any other weapon in its arsenal.” Under the charismatic leadership of Quanah Parker, however, the Comanches continued to hold out against efforts by the U.S. Army to confine them to the reservation. Not until September 28, 1874 with the Battle of Palo Duro Canyon, part of what was known as the Red River Wars, were the Comanche forces defeated.
 

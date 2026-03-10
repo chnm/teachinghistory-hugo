@@ -2,11 +2,19 @@
 title: 'Teaching Strategies for Museums: Graphic Organizers'
 date: '2010-09-07T18:09:11'
 lastmod: '2017-10-06T15:37:32'
-type: examples_of_teaching
+content_type: examples_of_teaching
 draft: false
 drupal_nid: 24216
 url: /best-practices/teaching-in-action/24216
+website_url: http://www.smithsoniansource.org/display/topic/video/viewdetailstea.aspx?TopicId=1033
+image_fid: '6479'
+splash_image_fid: '6480'
+summary: Eighth-grade teacher Amy Trenkle keeps students on-task before, during, and
+  after a museum visit with graphic organizers.
+splash_image: /files/splash-tia-graphicorgan.jpeg
+image: /files/image-TiA-stamps.jpeg
 ---
+
 
 In this four-and-a-half-minute [video](http://www.smithsoniansource.org/display/topic/video/viewdetailstea.aspx?TopicId=1033), 8th-grade teacher Amy Trenkle demonstrates the use of graphic organizers in museum visits. Through pre- and post-visit lessons, she prepares students for a visit to the Postal Museum in Washington, DC, and then prompts her students to summarize and contextualize the information they've collected.
 This video provides examples of two promising practices:

@@ -2,10 +2,23 @@
 title: Hey! Don't I Know You? Making Connections to the Past and Present
 date: '2008-10-14T12:41:54'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 20053
+author_bio: Lee Ann Potter is Director of Education at the National Archives and Records
+  Administration (NARA). She works with educators across the country to develop lesson
+  plans, curriculum units, and teaching activities that enable students to study historical
+  documents firsthand as a complement to the learning they obtain from secondary sources.
+splash_image_fid: '4692'
+author_image_fid: '4143'
+summary: Communities of history educators certainly existed before the TAH program
+  began . . . but before TAH, while some partnerships existed, interaction was uncommon
+  for members different communities.
+splash_image: /files/dontiknowyou432x240.jpg
+author_image: /files/author_image/Potter_author_0.jpg
 ---
+
+
 
 In the fall of 2007, I had the good fortune to be invited by Alex Stein of the U.S. Department of Education to speak at the Teaching American History (TAH) Grant Project Coordinators' Conference in New Orleans, LA. To the audience of more than 750 participants, I told a story about an intriguing personal research experience inspired by a vague reference in an old annual report.
 My talk began with a suggestion for making connections to information through documentary research; it concluded with a plea for making connections to people. In many ways, the transformation of my message in that presentation is reflective of my experience with the TAH program.

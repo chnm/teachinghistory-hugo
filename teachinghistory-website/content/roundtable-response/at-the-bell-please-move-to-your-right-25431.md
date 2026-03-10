@@ -2,10 +2,18 @@
 title: At the Bell, Please Move to Your Right
 date: '2012-02-10T10:46:06'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25431
+author_bio: 'Mark Wilensky is a 5th-grade teacher in Colorado, the author of *The
+  Elementary Common Sense of Thomas Paine: An Interactive Adaptation for All Ages*,
+  and a TAH team instructor for the National Council for History Education.'
+author_image_fid: '8849'
+summary: 'Effective professional development should have only two rules for history
+  teachers: leave everything at the door and hold on tight.'
+author_image: /files/author_image/author_wilensky.jpg
 ---
+
 
 Effective professional development should have only two rules for history teachers: leave everything at the door and hold on tight. I’m convinced all history teachers would benefit from training that is run like an elementary school classroom, led by a team of instructors from multiple content areas.
 > Instructors who lead professional development need to ramp up their skill set. Never have I been contacted in advance to determine specific needs I might be pining for.

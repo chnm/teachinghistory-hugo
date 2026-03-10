@@ -2,7 +2,7 @@
 title: What is Historical Thinking?
 date: '2010-11-29T11:05:50'
 lastmod: '2018-09-19T15:40:00'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24407
 url: /historical-thinking-intro

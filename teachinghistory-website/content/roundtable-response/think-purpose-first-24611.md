@@ -2,10 +2,25 @@
 title: Think Purpose First
 date: '2011-04-01T13:09:43'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24611
+author_bio: 'Shelly Weintraub recently retired from coordinating the K–12 history
+  curriculum and staff development program for Oakland (California) Unified School
+  District. She also teaches curriculum and instruction in history and social studies
+  at Mills College in Oakland. Previously, she was a classroom teacher in Oakland
+  for 15 years. Her article titled, "''What''s This New Crap? What''s Wrong with the
+  Old Crap?'': Changing History-Teaching in Oakland, California" can be found in *Knowing,
+  Teaching & Learning History: National and International Perspectives*, published
+  by New York University Press.'
+author_image_fid: '7354'
+summary: 'Supporters of multiple choice testing often accept the notion that assessment
+  is about accountability. But there are at least two other purposes for a broader
+  understanding of assessment: to provide feedback for the teacher and to create the
+  basis for a common conversation among colleagues.'
+author_image: /files/author_image/Weintraub-Photo.jpg
 ---
+
 
 I wish I had had a copy of [Rabb's critique](http://teachinghistory.org/issues-and-research/roundtable-response/24606) of multiple-choice assessments when I argued with administrators in my school district about the trivializing nature of multiple-choice tests. Maybe they would have been convinced. Now, however, teachers in large urban school districts like mine must pay attention to these tests. They have no choice. Even teachers in our district who hate such tests spend time giving practice questions—not only because of No Child Left Behind, but also because of the AP, SAT, etc. It's just the coin of the realm.
 Supporters for multiple-choice testing often accept the notion that assessment is about accountability. But there are at least two other purposes for a broader understanding of assessment: to provide feedback for the teacher, and to create the basis for a common conversation among colleagues.

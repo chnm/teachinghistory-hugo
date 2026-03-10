@@ -2,11 +2,25 @@
 title: Mark Smith on Using Constructivist Video Production
 date: '2011-09-30T11:09:26'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25183
 url: /nhec-blog/25183
+author_bio: Mark Smith is Director of the Education Study Group, a practitioner-based
+  research company, and a technology curriculum specialist at a K–5 Title-1 school
+  outside Washington, DC.
+date_published: '2011-12-05T00:00:00'
+image_fid: '8583'
+splash_image_fid: '8232'
+author_image_fid: '8231'
+summary: Do you use video creation as a culminating activity? Teacher Mark Smith suggests
+  trying it at the *beginning* of a unit.
+splash_image: /files/videosplash.jpg
+image: /files/4403229264_46fcb14716_b.jpg
+author_image: /files/author_image/author_msmith.jpg
 ---
+
+
 
 The best way to use video in [teaching](http://en.wikipedia.org/wiki/Education) history is short [student](http://en.wikipedia.org/wiki/Student)-created segments for direct instruction. This post discusses what a group of teachers at the [Education Study Group](http://edustudygroup.com/) found works best for at-risk populations.
 At my school, the figures are dismal: On the first day of school, you look at 23 students. Seventeen didn't eat breakfast at home, 16 struggle with English, five are designated [Special Needs](http://en.wikipedia.org/wiki/Special_education). On the last day of school, you still have 23, but nine of the faces changed without warning at some time during the year, due to high student mobility.

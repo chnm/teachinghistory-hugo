@@ -2,7 +2,7 @@
 title: Burr-Hamilton Duel
 date: '2010-11-28T19:18:03'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24404
 question: I am teaching AP American History. We are talking about the Burr Hamilton
@@ -10,7 +10,11 @@ question: I am teaching AP American History. We are talking about the Burr Hamil
   the duel. Was it against the law in New Jersey? Why was New York able to indict
   Burr if it happened in New Jersey?
 url: /history-content/ask-a-historian/24404
+splash_image_fid: '6870'
+summary: Was it illegal? Was it dishonorable? Was it a duel or was it murder?
+splash_image: /files/martha-lamb-history-of-city-of-ny.jpg
 ---
+
 
 A review of the secondary literature on the Burr-Hamilton duel does indeed reveal some inconsistency on whether the duel was illegal. Perhaps the inconsistency is partly the result of conflicting personal and political judgments contemporary to the event: Burr and Hamilton were leaders of opposing political factions.
 The duel was fought on the early morning of July 11, 1804. Burr and Hamilton, and their seconds, had rowed out separately from New York City across the Hudson River to a narrow spot just below the Palisades at Weehawken, New Jersey. It was a secluded grassy ledge, only about six feet wide and thirty feet long above the river, with no footpath or road leading to it. Cedar trees growing on the ledge partially obscured it from across the river.
@@ -27,3 +31,9 @@ After the duel, Burr was apparently surprised at the public outrage over the aff
 He wrote to his daughter Theodosia: "There is a contention of a singular nature between the two States of New York and New Jersey. The subject in dispute is, which shall have the honor of hanging the Vice-President. You shall have due notice of time and place. Whenever it may be, you may rely on a great concourse of company, much gayety, and many rare sights."
 He was still the Vice President, however, and he determined to go back to Washington to act as President of the Senate during its upcoming session and preside over the debate and vote concerning the impeachment of Supreme Court justice Samuel Chase. The impeachment proceedings were part of a partisan struggle between Jeffersonian Republicans and Federalists, and Burr might be expected to influence the outcome if he were allowed to preside over the Senate. A large group of Congressmen signed a letter to New Jersey Governor Joseph Bloomfield describing the Hamilton-Burr affair as a fair duel and asking him to urge the Bergen County prosecutor to enter a *nolle prosequi* in the case of the indictment, in other words, to drop the case. This is what eventually happened.
 The murder charge in New York was eventually dropped as well, but Burr was convicted of the misdemeanor dueling charge, which meant that he could neither vote, practice law, nor occupy a public office for 20 years.
+
+---
+
+Ryan Chamberlain, *Pistols, Politics, and the Press: Dueling in 19th-Century American Journalism*. Jefferson, NC: McFarland, 2009.
+Joseph J. Ellis, *Founding Brothers: The Revolutionary Generation*. New York: Random House, 2000.
+Arnold A. Rogow, *A Fatal Friendship: Alexander Hamilton and Aaron Burr*. New York: Hill and Wang, 1998.

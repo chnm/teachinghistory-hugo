@@ -2,11 +2,17 @@
 title: Black Americans in Congress
 date: '2008-10-02T13:23:51'
 lastmod: '2011-06-14T10:02:45'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19983
 url: /nhec-blog/19983
+date_published: '2008-10-06T00:00:00'
+image_fid: '304'
+summary: Since 1870, a total of 123 African Americans have served as U.S. Representatives
+  or Senators.
+image: /files/intro-first-vote-lb.jpg
 ---
+
 
 Since 1870, when Senator Hiram Revels of Mississippi and Representative Joseph Rainey of South Carolina became the first African Americans to serve in Congress, a total of 123 African Americans have served as U.S. Representatives or Senators.
 The website, [Black Americans in Congress](http://baic.house.gov/) chronicles African Americans’ participation in the federal legislature and their struggle to attain full civil rights.

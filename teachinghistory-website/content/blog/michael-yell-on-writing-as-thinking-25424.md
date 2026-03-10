@@ -2,11 +2,26 @@
 title: Michael Yell on Writing as Thinking
 date: '2012-02-06T10:30:52'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25424
 url: /nhec-blog/25424
+author_bio: Michael Yell is a 7th-grade history teacher at the Hudson Middle School
+  in Hudson, WI. He is a past president of the National Council for the Social Studies.
+date_published: '2012-03-19T00:00:00'
+image_fid: '8833
+
+
+  8833'
+splash_image_fid: '8835'
+author_image_fid: '8831'
+summary: Practicing writing practices good habits of thought, says Mike Yell. Two
+  strategies can get your students writing every day.
+splash_image: /files/writingsplash.jpg
+author_image: /files/author_image/myell_0.jpg
 ---
+
+
 
 > *When a student’s [writing] consists of nothing more than handouts and notes copied verbatim, a learning opportunity has been missed.*
 >
@@ -20,7 +35,7 @@ There is one overriding thing that we can do to help our students improve their 
 **Processing Notebooks**. Students can use writing notebooks to process the varied learning experiences in which they engage. Whatever these experiences, be they interacting with learning stations, viewing a segment from a video, or reading from primary sources or their textbooks, students need to process the information and ideas they are learning. There are many [quick-write strategies](http://teachinghistory.org/nhec-blog/25266) that can be used for this processing. Whatever students write, the emphasis should be on clarity and completeness (“make it short and sweet”).
 **Magnet Summaries**. The magnet summary strategy is an excellent strategy that asks your students to process their understanding of content by thinking it through completely and writing it out. Students read over a passage and then write a one- or two-word “magnet word” which captures what that passage is all about (it may be the title of a section or speech). This word, or phrase holds the rest of the ideas together (as a magnet would hold nails). The magnet word "attracts" just main ideas, so students next list three or four phrases that contain the main ideas of the section. They then use the magnet words and main idea phrases in writing a concise summary of one or two sentences that briefly but completely explains the content of the reading. Following the summary, I ask students for a connection piece. Connection is a literacy strategy in which students think and write about how a reading connects to something they have learned previously, something in current events, or something in their daily lives.
 As an example, imagine you have assigned a magnet summary for President Lincoln’s Gettysburg Address. Here is what a magnet summary might look like:
-![Magnet Summary](http://teachinghistory.org/files/image-blog-magnet.jpg)
+![Magnet Summary](/files/image-blog-magnet.jpg)
 > ***Summary**: In the Gettysburg Address, President Lincoln spoke of the Revolutionary War and the creation of the American nation dedicated to freedom and liberty for all people. He told the people that we were now fighting a Civil War testing whether this type of government could survive, fighting to bring about a new birth of freedom for those held in slavery who did not have liberty, and fighting to ensure that our form of government (by and for the people of America) would last forever.*
 > *Connection: I connect President Lincoln’s new birth of freedom to the rights to life, liberty, and the pursuit of happiness in our Declaration of Independence and the Bill of Rights. President Lincoln said that we were fighting the Civil War to make certain everyone had those rights.*
 

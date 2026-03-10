@@ -2,7 +2,7 @@
 title: Tippecanoe and Walking Canes Too
 date: '2011-08-21T01:41:33'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 25094
 question: Is there an account of the U.S. president at the dedication of the Tippecanoe
@@ -10,7 +10,11 @@ question: Is there an account of the U.S. president at the dedication of the Tip
   Jacob Warrick’s widow? A cane has been handed down to the oldest son carrying the
   Warrick name.
 url: /history-content/ask-a-historian/25094
+splash_image_fid: '7961'
+summary: A family’s oral history intersects with larger events in U.S. history.
+splash_image: /files/battle-tippecanoe.jpg
 ---
+
 
 This is the sort of question that motivates family genealogists (the question was submitted by a Warrick descendent) to spend years traveling to archives, poring through dusty bound volumes of local newspapers, small-run pamphlets, and family papers—in this case, perhaps, the Tippecanoe County Historical Association, the Gibson County Historical Society, the Indiana Historical Society in Indianapolis (for example, in its clipping file on the battle of Tippecanoe) or the Library of Congress in Washington, DC (for example, in its collected papers of William Henry Harrison). This particular question, however, also touches on people and events that are of wider interest outside the Warrick family, so I have spent some time researching an answer.
 > This question touches on people and events that are of wider interest outside the Warrick family.
@@ -79,3 +83,16 @@ And there were Tippecanoe walking canes. The order for the Tippecanoe Club celeb
 Were at least some of them made from wood cut from the Tippecanoe battle site, as the Warrick cane is said to have been? Yes, at least according to a notice published in the Washington, DC newspaper, *The National Intelligencer*, placed there by Indiana Whig Congressman, James Rariden, on June 13, 1840:
 *The undersigned has the pleasure to announce the receipt of a Cane, cut off the Tippecanoe battle-ground, by the Log-Cabin and Hard-Cider boys of Tippecanoe county, Indiana, to be in their name presented to each of the members of the 25th Congress who have enlisted with the People, and form a part of the national militia. They are presented as a pledge to a common cause, from which no stealthy or midnight assault shall divert them; no threats or menaces deter them; nor promises seduce them. As a pledge, that though their wages may be reduced to those of the bond-men of Europe and Asia, and their log-cabins filled with hunger and nakedness by the desolating course of those who, in the night of confidence, have stolen into power—that all this will they endure in defence of the sacred legacy of Republicanism, bequeathed them by their fathers, to be transmitted unimpaired to the generations that are to come after them.*
 Confirming that presentation canes were indeed cut from the woods at the Tippecanoe battleground is as close as I can get, through the historical sources, to the Warrick cane. But now that I've spent some time researching Jacob Warrick, I'll raise a glass to him this November 7th, the bicentennial of the Battle of Tippecanoe.
+
+---
+
+Alfred A. Cave, *Prophets of the Great Spirit*. Lincoln: University of Nebraska Press, 2006.
+Freeman Cleaves, *Old Tippecanoe: William Henry Harrison and His Time*. Newtown, CT: American Political Biography Press, 1990.
+Catherine Dike, *Canes in the United States: Illustrated Mementoes of American History, 1607-1953*. Ladue, MO: Cane Curiosa Press, 1994.
+R. David Edmunds, *The Shawnee Prophet*. Lincoln: University of Nebraska Press, 1985.
+Roger A. Fischer, *Tippecanoe and Trinkets Too: the material culture of American presidential campaigns, 1828-1984*. Urbana: University of Illinois Press, 1988.
+A. J. Langguth, *Union 1812: The Americans Who Fought the Second War of Independence*. New York: Simon and Shuster, 2006.
+George H. Meyer and Kay White Meyer, *American Folk Art Canes: Personal Sculpture*. Seattle: University of Washington Press, 1992.
+Robert Martin Owens, *Mr. Jefferson’s Hammer: William Henry Harrison and the Origins of American Indian Policy*. Norman, OK.: University of Oklahoma Press, 2007.
+Jeffrey B. Snyder, *Canes and Walking Sticks: A Stroll through Time and Place*. Atglen, PA.: Schiffer, 2004.
+[Papers of the War Department](http://wardepartmentpapers.org/)

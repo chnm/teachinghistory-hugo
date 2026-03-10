@@ -2,11 +2,19 @@
 title: Teaching American History Program Invites 2011 Applications
 date: '2011-02-09T18:10:21'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24524
 url: /nhec-blog/24524
+date_published: '2011-02-16T00:00:00'
+image_fid: '7148'
+splash_image_fid: '7146'
+summary: The Department of Education invites applications for its Teaching American
+  History Program in 2011.
+splash_image: /files/24238_432x240.jpg
+image: /files/image-blog-tah11.jpg
 ---
+
 
 On Feb. 2, the Department of Education released the Teaching American History Grant Program [Notice Inviting Applications for New Awards for Fiscal Year (FY) 2011](http://www.federalregister.gov/articles/2011/02/02/2011-2290/teaching-american-history-grant-program-office-of-innovation-and-improvement-overview-information).
 According to the Department, the Teaching American History program is

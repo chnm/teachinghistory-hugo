@@ -2,11 +2,24 @@
 title: Concept Formation
 date: '2011-09-30T12:44:29'
 lastmod: '2018-09-21T12:05:23'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25184
 url: /teaching-materials/teaching-guides/25184
+author_bio: Walter Parker is a professor of education and an adjunct professor of
+  political science at the University of Washington. He specializes in the civic development
+  of children and adolescents, and social studies curriculum and instruction K-12.
+image_fid: '8238'
+splash_image_fid: '8239'
+author_image_fid: '8235'
+summary: In order to understand topics, you must first understand concepts. Learn
+  all about conceptualization here!
+splash_image: /files/constructionsplash.jpg
+image: /files/constructionimage.jpg
+author_image: /files/author_image/author_parker.jpg
 ---
+
+
 
 ## What Is It?
 

@@ -2,11 +2,25 @@
 title: 'History of Education and Indigenous Americans: A Guide for Pre-Service Teachers'
 date: '2023-10-05T11:10:00'
 lastmod: '2023-10-05T11:50:09'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25875
 url: /teaching-materials/teaching-guides/25875
+author_bio: Nate Sleeter is a research assistant professor at the Roy Rosenzweig Center
+  for History and New Media where he oversees educational projects. He is also a former
+  K-12 teacher.
+image_fid: '10259'
+splash_image_fid: '10260'
+author_image_fid: '10261'
+summary: Help students reflect on the purpose of learning history and of education
+  in general by using Library of Congress primary sources to better understand the
+  history of education of Indigenous people in the United States.
+splash_image: /files/service-pnp-yan-1a38000-1a38500-1a38537v.jpg
+image: /files/Main Image AIM.jpeg
+author_image: /files/author_image/NATE_SLEETER (1)_0_3.JPG
 ---
+
+
 
 **What is it?**  
 Education and learning cannot be neutral. What we decide is important for young people to know necessarily reflects our values. This guide takes a look at two topics in history education of Indigenous people in the United States. First, the Federal Indian Boarding Schools which were a deliberate attempt to separate indigenous people from their communities and their cultures. The second topic is the emergence of the American Indian Movement and specifically that movement’s efforts to defend Indigenous culture and also establish schools, called “survival schools” to teach Indigenous young people about their history and culture.

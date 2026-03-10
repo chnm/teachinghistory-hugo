@@ -2,7 +2,7 @@
 title: Historical Thinking Interactive Poster Announcement
 date: '2012-09-04T09:46:39'
 lastmod: '2012-09-04T11:07:12'
-type: page
+content_type: page
 draft: false
 drupal_nid: 25728
 ---

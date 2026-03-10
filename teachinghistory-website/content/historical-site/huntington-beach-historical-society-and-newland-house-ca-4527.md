@@ -2,8 +2,11 @@
 title: Huntington Beach Historical Society and Newland House [CA]
 date: '2008-01-08T13:26:38'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 4527
+website_url: http://www.hbnews.us/nwhouse.html
 ---
 
+The Society maintains the 1898 Newland House, the oldest residence built in the city of Huntington Beach, as a museum.
+The museum offers tours.

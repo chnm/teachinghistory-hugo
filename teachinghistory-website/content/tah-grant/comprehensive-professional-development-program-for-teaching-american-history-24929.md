@@ -2,8 +2,9 @@
 title: Comprehensive Professional Development Program for Teaching American History
 date: '2011-06-15T15:54:43'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24929
 ---
 
+In these New York state districts, teachers have minimal American history training and limited access to content-specific training or professional experiences. During each school year, monthly seminars will incorporate recent scholarship and historical thinking skills. These meetings will be supplemented by online book chats using the project's Blackboard site. After completing the 10 seminars, teachers will attend a 5-day summer institute and learn to integrate newly learned content as well as develop tools to evaluate existing teaching materials and student work. By attending the summer institute, teachers will earn three graduate credits from the State University of New York College at Cortland. They also will participate in hands-on field experiences and in a teaching fellows program. Each year, the project will organize four content teams of six teachers, paired with a project historian and master teacher. These teams will develop content-specific curriculum units using the Understanding by Design framework. The project content will emphasize the impact of the nation's foundational documents and events on the lives of ordinary Americans. Highlighting these individual stories will help teachers appreciate the ways Americans have experienced significant turning points in history. Historians will share significant primary sources, identify valuable online archives, and model analysis and interpretation of the materials. The project also will help teachers engage students in critical analysis and higher level thinking. The products will include unit-level teaching materials, a project that superimposes the curriculum onto a U.S. map, and other teacher-created resources, such as the team-developed curriculum units, which will be reviewed for historical accuracy and field-tested to ensure alignment with learning objectives.

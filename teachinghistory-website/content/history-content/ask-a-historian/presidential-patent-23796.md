@@ -2,12 +2,16 @@
 title: Presidential Patent
 date: '2010-01-26T13:42:20'
 lastmod: '2018-09-19T13:49:05'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23796
 question: Was Abraham Lincoln the only president with a patent?
 url: /history-content/ask-a-historian/23796
+splash_image_fid: '4829'
+summary: How many presidents have applied for and received patents?
+splash_image: /files/jolly-flatboatmen-new.jpg
 ---
+
 
 Many presidents have been intensely interested in science, technology, and invention. Early presidents signed the certificates that the Patent Office issued, and collectors of these certificates sometimes refer to them as "Presidential patents." But Abraham Lincoln was the only president to receive a patent himself.
 
@@ -24,3 +28,10 @@ Lincoln's patent application was almost certainly the result of a problem he had
 His second trip, however, was more eventful. In the spring of 1831, a business entrepreneur from Springfield, Illinois, Denton Offut, hired Lincoln and two other men to take a flatboat from Old Sangamon town on the Sangamon River, near Springfield, to New Orleans. Offut could find no available boat in the area, so he hired Lincoln and the others to fell timber and build a boat which took them a month. They loaded it with produce and launched it. When they reached the little village of New Salem, 20 miles downstream, a drama unfolded, as Ida Tarbell later described it:
 
 > "At the village of New Salem there was a mill-dam. On it the boat stuck, and here for nearly twenty-four hours it hung, the bow in the air and the stern in the water, the cargo slowly setting backward [as it took on water]—shipwreck almost certain. The village of New Salem turned out in a body to see what the strangers would do in their predicament. They shouted, suggested, and advised for a time, but finally discovered that one big fellow in the crew was ignoring them and working out a plan of relief. Having unloaded the cargo into a neighboring boat, Lincoln succeeded in tilting his craft. By boring a hole in the end extending over the dam the water was let out. This done, the boat was easily shoved over and reloaded. The ingenuity which he had exercised in saving his boat made a deep impression on the crowd on the bank. It was talked over for many a day, and the general verdict was that the 'bow-hand' was a 'strapper.'"
+
+---
+
+Ida M. Tarbell, ed. ["Lincoln. … The Building of the Flatboat and the Trip to New Orleans, …"](http://www.gutenberg.org/files/11548/11548-h/11548-h.htm) *McClure's Magazine* (New York) December 1895, vol. 6, issue 1, pp. 15-19.
+"Short Autobiography Written at the Request of a Friend to Use in Preparing a Popular Campaign Biography in the Election of 1860," in John George Nicolay and John Hay, eds. [Abraham Lincoln: Complete Works, Comprising His Speeches, Letters , State Papers, and Miscellaneous Writings, Vol. 1.](http://books.google.com/books?id=wiuRyJK6OocC&dq=%22Abraham%20Lincoln%22%20Nicolay&pg=PP1#v=onepage&q=&f=false) New York: Century Company, 1907, pp. 640-641.
+The National Park Service "Lincoln Boyhood National Memorial" [explanation](https://www.nps.gov/libo/index.htm) of flatboats.
+Spencer County, Indiana, in 2008, sponsored a goodwill recreation of Lincoln's 1828 flatboat journey with a 26-day trip down the Ohio and Mississippi rivers from Rockport, Indiana, to New Orleans, on a reconstructed flatboat in an event it called "Lincoln's Journey of Remembrance" as part of the national celebration of the centennial of Lincoln's birth. One of the participants posted a blog of the trip.

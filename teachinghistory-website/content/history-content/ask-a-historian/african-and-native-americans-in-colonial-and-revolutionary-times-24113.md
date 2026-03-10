@@ -2,7 +2,7 @@
 title: African and Native Americans in Colonial and Revolutionary Times
 date: '2010-07-14T19:51:41'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24113
 question: 'I am trying to find information on a person who lived before and during
@@ -17,7 +17,23 @@ question: 'I am trying to find information on a person who lived before and duri
   know which. He used his business knowledge to benefit the tribe. Perhaps my memory
   is faulty and I am amalgamating two different people.'
 url: /history-content/ask-a-historian/24113
+author_bio: '[Malinda Maynor Lowery](http://malindamaynorlowery.wordpress.com/) is
+  the Assistant Professor & Director of Honors Program at the University of North
+  Carolina at Chapel Hill. Her book [*Lumbee Indians in the Jim Crow South: Race,
+  Identity, and the Making of a Nation*](http://uncpress.unc.edu/browse/book_detail?title_id=1696)
+  was published by University of North Carolina Press in March 2010. She has taught
+  at Stanford and Harvard. Her interests include race, ethnicity, and identity; 19th-
+  and 20th-century U.S. history; and Southern and Native American history.'
+splash_image_fid: '6133'
+author_image_fid: '7486'
+summary: African Americans and Native Americans have had a long and complex relationship,
+  often characterized by their similar exclusion from the fruits of freedom envisioned
+  during the American Revolution.
+splash_image: /files/Death_of_Montgomery2_crop.jpg
+author_image: /files/author_image/malindalowery_1.jpg
 ---
+
+
 
 You have identified a person who I'd like to know more about myself! History is always about solving puzzles and mysteries, and I have looked closely at the clues your question provides: African ancestry, slave status, literacy, sympathy with the Continental Army during the Revolution, and connections to a Native American community. But a cursory search through the historical literature hasn't turned up one individual with this particular life story. Several different individuals have elements of it, however.
 
@@ -49,3 +65,9 @@ It was a tough road and remained so—after the colonists finally eliminated the
 > African Americans and Native Americans were left to deal with a regime that had no interest in their freedom or their preservation as autonomous people.
 
 Your question strikes at the heart of an American history that has been largely ignored, that of the productive relationships between Indians and African Americans. While there is some tension between certain members of these groups today, as seen in the controversy over the status of the Cherokee Freedmen, I believe it is safe to say that such tensions are a product of how the United States expanded in the 19th century, not inherent racism or animosity between them.
+
+---
+
+Woody Holton, *Forced Founders: Indians, Debtors, Slaves, and the Making of the American Revolution in Virginia*. Chapel Hill: University of North Carolina Press, 1999.
+William Lorenz Katz, *Black Indians: A Hidden Heritage*. New York: Atheneum, 1986.
+William Loren Katz, *The Black West: a Documentary and Pictorial History of the African American Role in the Expansion of the United States*. New York: Harlem Moon/Broadway Books, 2005.

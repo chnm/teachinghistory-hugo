@@ -2,12 +2,17 @@
 title: National Endowment for the Humanities
 date: '2008-04-17T16:55:53'
 lastmod: '2018-09-20T11:07:06'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 19199
 url: /history-content/national-resources/19199
 featured: true
+website_url: http://www.neh.gov
+splash_image_fid: '4548'
+summary: Meet the largest governmental funder of humanities programs in the U.S.
+splash_image: /files/Humanities.jpg
 ---
+
 
 National Endowment for the Humanities (NEH) is the largest governmental funder of humanities programs in the U.S. Contracts, professional development opportunities, and preservation programs under the NEH umbrella support cultural institutions, libraries, museums, media, and educational organizations.
 [We the Peopleis the NEH history program dedicated to encouraging and reinforcing knowledge about American history and culture.

@@ -2,10 +2,11 @@
 title: 'Maps: They''re Not Just for Geography Any More'
 date: '2010-02-18T10:14:30'
 lastmod: '2011-11-17T04:01:10'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23617
 url: /nhec-blog/23617
+date_published: '2010-01-15T00:00:00'
 ---
 
 Maps tell stories. Not simply representations of objective spatial realities, they are texts, created by individuals and groups who decide the subject of a map, the purpose, the point of view, what is included, and what is left out.

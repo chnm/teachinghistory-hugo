@@ -2,11 +2,16 @@
 title: Happy Presidents Day
 date: '2009-02-16T11:54:49'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 21725
 url: /nhec-blog/21725
+date_published: '2009-02-11T00:00:00'
+image_fid: '732'
+summary: What exactly is Presidents Day?
+image: /files/gw1772.jpg
 ---
+
 
 February 16 is Presidents Day—but what exactly does that mean? Even though it's a federal holiday, Presidents Day actually doesn't exist. It's officially still named George Washington's Birthday. The observance of Washington's birthday on February 22 began in 1880 (or 1885, depending on where you lived), but in 1971 the celebration changed to the third Monday in February. The chronological proximity of Abraham Lincoln's birthday on February 12 (never an official federal holiday), state mandates to combine the observance with recognition of other presidents,—even a push from commercial interests to call the day Presidents Day in order to have retail sales promotions—all led to the unofficial name, Presidents Day.
 An unquantifiable number of excellent web resources exist for teaching about individual presidents and the presidency in general from presidential libraries to historic sites, to the National Archives and Library of Congress—to highlight perhaps the most familiar—however, several are listed below as supplemental "quick fixes."

@@ -2,11 +2,30 @@
 title: Joe Jelen on Google's Art Project
 date: '2011-03-01T11:20:49'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24540
 url: /nhec-blog/24540
+author_bio: 'Joe Jelen teaches history and civics at Fairfield Warde High School
+
+  in Connecticut.'
+date_published: '2011-03-28T00:00:00'
+image_fid: '7196
+
+
+  7196
+
+
+  7196'
+splash_image_fid: '7195'
+author_image_fid: '7193'
+summary: Budget cuts mean field trip cuts, right? Wrong! Check out high school teacher
+  Joe Jelen's summary of this impressive new tool from Google.
+splash_image: /files/artsprojectsplash.jpg
+author_image: /files/author_image/Author_Image_Joe_Jelen_75x75_1.jpg
 ---
+
+
 
 ## Bringing Back the Arts
 

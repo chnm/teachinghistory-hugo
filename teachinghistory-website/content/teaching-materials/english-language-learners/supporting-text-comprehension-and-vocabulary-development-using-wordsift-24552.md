@@ -2,7 +2,7 @@
 title: Supporting Text Comprehension and Vocabulary Development Using WordSift
 date: '2011-03-08T11:36:30'
 lastmod: '2017-10-06T15:32:14'
-type: english_language_learners
+content_type: english_language_learners
 draft: false
 drupal_nid: 24552
 summary: '## Overview'
@@ -55,5 +55,23 @@ author_bio: "## Overview\n\n[WordSift]( http://www.wordsift.com/) is a free, web
   \ to instantly capture and display the vocabulary structure of texts, and to help\
   \ create an opportunity to talk about and explore the richness and wonders of language!"
 url: /teaching-materials/english-language-learners/24552
+image_fid: '7239
+
+
+  7239
+
+
+  7239
+
+
+  7239'
+splash_image_fid: '7238'
+author_image_fid: '7232
+
+
+  7232'
+splash_image: /files/wordshiftsplash.jpg
 ---
 
+
+Look to Professor Kenji Hakuta’s [website]( http://www.stanford.edu/~hakuta/) and [here]( http://www.wordsift.com/site/resources) for additional ESL resources developed at Stanford University.

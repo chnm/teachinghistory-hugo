@@ -2,11 +2,28 @@
 title: Michael Yell on Using DVDs/Video Segments in the History Classroom
 date: '2011-07-11T18:13:46'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25039
 url: /nhec-blog/25039
+author_bio: Michael Yell is a 7th-grade history teacher at the Hudson Middle School
+  in Hudson, WI. He holds National Board Certification in Early Adolescent Social
+  Studies–History, and is a past president of the National Council for the Social
+  Studies.
+date_published: '2011-07-13T00:00:00'
+image_fid: '7802
+
+
+  7802'
+splash_image_fid: '7803'
+author_image_fid: '7801'
+summary: What student doesn't love a "movie day"? The question is, how much are they
+  learning from it?
+splash_image: /files/michaelyellon432x240.jpg
+author_image: /files/author_image/myell_1_0.jpg
 ---
+
+
 
 > *One may hear a thousand words or read a thousand volumes, and, at the end of the process, be very much where [he or she] was as regards knowledge. Something more than merely admitting it into the mind is necessary, if it is to remain there. It must not be passively received but actively and actually entered into, embraced, mastered. The mind must go to meet what comes to it from without.*—John Henry Newman (1801-1890)
 

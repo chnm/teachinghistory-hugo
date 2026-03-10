@@ -2,11 +2,17 @@
 title: National Museum of African American History and Culture
 date: '2012-10-11T16:02:11'
 lastmod: '2018-09-20T15:50:10'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 25762
 url: /history-content/national-resources/25762
+website_url: http://nmaahc.si.edu/
+splash_image_fid: '9565'
+summary: What does it mean to be an American? Answer this question through the lens
+  of African American experience.
+splash_image: /files/screen-shot-2012-11-13-at-11.55.36-am.jpg
 ---
+
 
 The Smithsonian National Museum of African American History and Culture (NMAAHC) invites visitors to explore American identity through the lens of African American experiences. Its collections will focus on African American history and culture throughout the U.S., including U.S. connections to other cultures and nations.
 The museum broke ground on February 22, 2012. Until the completion of the building, visitors can tour NMAAHC exhibits at the neighboring Smithsonian National Museum of American History. Exhibits have featured the lives of Thomas Jefferson's slaves, Harlem's Apollo Theater, DC black culture and the Scurlock Studio, African American portraits, and more.

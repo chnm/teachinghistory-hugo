@@ -2,11 +2,26 @@
 title: 'Jennifer Orr on Making Technology Work for Primary Students: Part One'
 date: '2011-01-12T16:43:52'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24452
 url: /nhec-blog/24452
+author_bio: Jennifer Orr is a 1st-grade teacher at Annandale Terrace Elementary School
+  in Fairfax County, VA. A National Board Certified Teacher in middle childhood, she
+  has taught 4th, 5th, and 1st grades since 1998.
+date_published: '2011-02-14T00:00:00'
+image_fid: '7017'
+splash_image_fid: '7018'
+author_image_fid: '7016'
+summary: Conventional applications of Web 2.0 tools expect students to read and write
+  confidently. First-grade teacher Jennifer Orr asks, how can you adapt these tools
+  to primary students who are still learning to do both?
+splash_image: /files/splash-blog-jointtech.jpg
+image: /files/image-blog-jointtech.jpg
+author_image: /files/author_image/jennifer-orr_0_0.jpg
 ---
+
+
 
 History and technology are both challenges with primary students. Let's tackle history first. Young children struggle to understand anything that they can't see, so comprehending people and life in the past is difficult. Also, they've only been alive for a few years so time spans of centuries are beyond their understanding. As a result, you often hear children ask, "Is George Washington still alive?" or "Were Abraham Lincoln and Martin Luther King, Jr. friends?" Deeper comprehension of conflicts or realities is even more difficult.
 

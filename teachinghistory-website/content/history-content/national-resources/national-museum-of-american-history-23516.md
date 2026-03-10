@@ -2,12 +2,20 @@
 title: National Museum of American History
 date: '2009-11-16T13:23:22'
 lastmod: '2018-09-20T14:55:59'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23516
 url: /history-content/national-resources/23516
 featured: true
+website_url: http://americanhistory.si.edu/
+splash_image_fid: '5037'
+thumbnail_fid: '2236'
+summary: See our history come to life within the expansive exhibits and educational
+  programs developed by NMAH.
+splash_image: /files/NationalMuseumAm432x240.jpg
+thumbnail: /files/quiz/image-constitution-tocqueville.jpg
 ---
+
 
 The National Museum of American History, as stated on its website, has amassed more than 3 million artifacts in order to "inspir[e] a broader understanding of our nation and its many peoples."
 The main page of the museum's website can be a bit overwhelming, so let's get you to their [teacher resources](https://historyexplorer.si.edu/) straight away. This section offers an immensely helpful search tool. Choose grade level, resource type, and/or historical era, and see what resources the Smithsonian can offer. Available resource type choices are artifacts, interactives/media, lessons/activities, primary sources, reviewed websites, reference materials, and worksheets.

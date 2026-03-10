@@ -2,12 +2,20 @@
 title: U.S. Census Bureau
 date: '2009-09-09T13:05:24'
 lastmod: '2018-09-20T13:28:38'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22692
 url: /history-content/national-resources/22692
 featured: true
+website_url: https://www.census.gov/en.html
+splash_image_fid: '5096'
+thumbnail_fid: '2176'
+summary: The U.S. Census counts everyone! It creates a current image of the nation
+  with its diversity and class variations.
+thumbnail: /files/website_image/NativeWeb_Image.jpg
+splash_image: /files/USCensus432x240.jpg
 ---
+
 
 The United States Census Bureau's mission is to collect and provide data on the economy and people of the United States.
 The bureau's website is definitely worth an educator's time. Several sections are designed specifically for students of different ages, and the overall navigation is relatively simple and effective.

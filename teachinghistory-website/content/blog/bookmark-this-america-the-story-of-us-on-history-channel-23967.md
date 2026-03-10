@@ -2,11 +2,16 @@
 title: Bookmark This! America, the Story of Us on History Channel
 date: '2010-04-23T11:35:43'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23967
 url: /nhec-blog/23967
+date_published: '2010-04-23T00:00:00'
+image_fid: '4606'
+summary: 'America, the Story of Us: not your typical history documentary.'
+image: /files/storyofus.jpg
 ---
+
 
 On Sunday, April 25, the [History Channel](http://www.history.com) premiers [America, the Story of Us](http://www.history.com/shows/america-the-story-of-us?HPF_rid=40000390&HPF_mid=3609_T1_Url8), a 12-part, series airing over six weeks, "the epic tale of how America was built from the ground up," and focusing on how everyday Americans harnessed technology to advance human progress.
 The History Channel describes the program as ["...the first television event in nearly 40 years to present a comprehensive telling of America's history. Elaborate, ambitious and cinematic..."

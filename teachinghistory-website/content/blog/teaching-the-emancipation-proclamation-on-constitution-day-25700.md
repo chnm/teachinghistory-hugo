@@ -2,11 +2,19 @@
 title: Teaching the Emancipation Proclamation on Constitution Day
 date: '2012-08-13T16:54:52'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25700
 url: /nhec-blog/25700
+date_published: '2012-08-27T00:00:00'
+image_fid: '9472'
+splash_image_fid: '9473'
+summary: This Constitution Day, the National Endowment for the Humanities asks, how
+  is the Emancipation Proclamation like the U.S. Constitution?
+splash_image: /files/splash-blog-cdep.png
+image: /files/image-blog-cdep.png
 ---
+
 
 Are you ready for September 17? The National Endowment for the Humanities (NEH) is. This year, the NEH will celebrate Constitution Day by honoring the Constitution together with another pivotal document from U.S. history: the Emancipation Proclamation. With the Proclamation's 150th anniversary approaching, Constitution Day is the perfect time to compare and contrast the promises made in the Constitution and the Emancipation Proclamation.
 From the NEH's [Emancipation Resource Portal](http://emancipation.neh.gov/?et_cid=45149216&et_rid=704445214&linkid=http%3a%2f%2femancipation.neh.gov), you can access resources and learn more about planned events. Highlights include:

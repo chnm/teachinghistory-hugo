@@ -2,11 +2,30 @@
 title: 'Writing to Learn History: Annotations and Mini-Writes'
 date: '2009-11-18T10:08:58'
 lastmod: '2018-09-21T14:26:49'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 23554
 url: /teaching-materials/teaching-guides/23554
+author_bio: Chauncey Monte-Sano is assistant professor of history and social studies
+  education in the Department of Curriculum and Instruction, University of Maryland.
+  A former high school teacher and National Board Certified teacher, she currently
+  prepares novice teachers for the history classroom and with professional development
+  programs for veteran history teachers. Her scholarship has appeared in the *Journal
+  of American History*, the *American Educational Research Journal*, *Theory and Research
+  in Social Education*, and *Phi Delta Kappan*.
+image_fid: '3628'
+splash_image_fid: '4376'
+thumbnail_fid: '3442'
+author_image_fid: '3638'
+summary: A pen or pencil in your student's hand is an excellent tool for teaching
+  historical analysis.
+splash_image: /files/ManatDeskWriting.jpg
+thumbnail: /files/FEMALogo.jpg
+image: /files/WritingImage.jpg
+author_image: /files/author_image/Monte-Sano.jpg
 ---
+
+
 
 ## What Is It?
 

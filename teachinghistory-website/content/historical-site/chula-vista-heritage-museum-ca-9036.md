@@ -2,8 +2,10 @@
 title: Chula Vista Heritage Museum [CA]
 date: '2008-01-08T13:35:02'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 9036
 ---
 
+The Chula Vista Heritage Museum presents the history of Chula Vista, California. Primary historical industries of the area include aircraft and citrus.
+The museum offers exhibits and a self-guided area walking tour.

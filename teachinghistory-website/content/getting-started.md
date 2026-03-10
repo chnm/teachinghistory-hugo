@@ -2,7 +2,7 @@
 title: "Getting Started with Primary Sources"
 date: 2025-01-22T14:30:00Z
 draft: false
-type: blog
+content_type: blog
 ---
 
 Primary sources are essential tools for teaching historical thinking. This guide helps you integrate them into your curriculum.

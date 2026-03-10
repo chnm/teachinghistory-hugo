@@ -2,12 +2,16 @@
 title: 'Cause and Effect: The Outbreak of World War II'
 date: '2011-10-27T13:43:54'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 25268
 question: What were the causes of the Second World War?
 url: /history-content/ask-a-historian/25268
+splash_image_fid: '8447'
+summary: What factors contributed to the initiation of World War II? Find out here!
+splash_image: /files/ww2splash_0.jpg
 ---
+
 
 Pinpointing the causes of a vast, global event like the Second World War is a challenging task for the historian. Events—especially enormous, multifaceted events—have multiple causes and multiple inputs.
 > A proximate cause is an incident that appears to directly trigger an event...
@@ -25,3 +29,7 @@ During the 1930s, Hitler’s Germany embarked on a program of rearmament, in dir
 
 Hitler’s racial theories provided more context, both for his explanation of defeat in the First World War and for his plans for a 1,000-year German empire. In Hitler’s account, Communists and Jews—whom Hitler depicted as stateless parasites who exploited European nations for their own gain—had conspired to stab Germany in the back in 1918. Creating the 1,000-year Reich required the creation of a racially pure cohort of blond-haired, blue-eyed “Aryans” and the simultaneous liquidation of ethnic undesirables. Hitler’s vision of a racially pure German nation expanding across Europe, combined with his aggressive rearmament programs, proved a powerful enticement for the German people in the 1930s. Politicians in Britain, France, and the United States, encumbered with their own economic troubles during the global depression, were reluctant to act to check Hitler’s expansionism without irrefutable evidence of his ultimate intentions.
 Only later would the world learn that those intentions revolved around the methodical military conquest of Europe from the center outward, a process one historian of the Second World War has likened to eating an artichoke leaf by leaf from the inside out. That conquest began with the German invasion of Poland in 1939 and the attack on France and the Low Countries six months later. Hitler’s quest for more “living-space” for his empire led to the invasion of the Soviet Union in 1941. By March of 1942, Hitler’s fanatical desire to conquer Europe—along with Japan’s concurrent push across East Asia and the Pacific—had plunged the world into a war that would last nearly six years and cost the lives of more than 50 million soldiers and civilians: by far the largest catastrophe in human history.
+
+---
+
+Weinberg, Gerhard. *A World at Arms*. New York: Cambridge, 2005.

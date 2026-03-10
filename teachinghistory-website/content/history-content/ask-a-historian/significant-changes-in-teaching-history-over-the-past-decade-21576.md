@@ -2,13 +2,18 @@
 title: Significant Changes in Teaching History over the Past Decade
 date: '2009-02-09T12:02:07'
 lastmod: '2017-12-01T14:53:33'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 21576
 question: I would be interested in any views regarding what you think are the most
   significant changes in teaching history over the past 10 years.
 url: /history-content/ask-a-historian/21576
+splash_image_fid: '4927'
+summary: Three significant changes affect how we teach history and who is teaching
+  it.
+splash_image: /files/teaching-history-new.jpg
 ---
+
 
 Three of the most significant changes in teaching history over the past decade are the following: teaching the narratives of U.S. history within a wider frame to include other countries and regions, and where relevant, a global perspective; emphasizing "historical thinking" as a fundamental pedagogical goal; and an acceleration in the corporatization of American higher education that has had harmful impacts with regard to the conditions of teaching history.
 
@@ -39,3 +44,7 @@ On average, part-time/adjunct faculty are paid $2,758 per course,"only a quarter
 
 In February 2008, the journal *History Teacher* published a series of articles by historians concerning this trend. Gerda Lerner notes a "tendency toward a 'star system' in hiring," in which research universities and private institutions, in order to improve their national ranking, compete for a relatively small number of "star" faculty, whose salaries as a result increase dramatically relative to the average. To compensate for these high salaries, institutions have increased the number of contingent faculty, whose average income falls below the poverty line. Job security for contingent faculty is non-existent and they receive no health or retirement benefits. In the field of history, the proportion of part-time faculty in four-year institutions in 2003 rose to 25 percent from 6 percent in 1979, while 70 percent of history faculty in two-year colleges in 2003 worked on a part-time basis.
 In addition to the equity issues that this system poses, Lerner points to consequences of the "two-tier labor market"—what she characterizes as a "dangerous trend"—for students and history departments. Along with the "star system" for faculty, institutions have accelerated competition for "star" students, which has resulted in a deceleration in the trend to democratize American higher education that began following World War II due to the GI Bill of Rights. With the decrease through attrition of tenured positions made possible by increase employment of contingent faculty, the influence of faculty concerning administrative matters of institutions will decrease, she worries. Lerner advocates that the corporatization of American higher education "has to be exposed, challenged, and opposed."
+
+---
+
+Please visit [Ask-a-Master Teacher](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/20298) on the Clearinghouse for another perspective on this question.

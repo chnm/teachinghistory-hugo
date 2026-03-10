@@ -2,11 +2,16 @@
 title: Top Tens, or "Best Sites for..."
 date: '2010-05-25T13:33:32'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24068
 url: /nhec-blog/24068
+date_published: '2010-05-24T00:00:00'
+image_fid: '4907'
+summary: Are lists of *Bests* valuable?
+image: /files/blue_0.jpg
 ---
+
 
 Lists of *Top Ten Best Sites For...* or *100 Best Whatevers* or *One Thousand Resources to Help You...* abound on the internet.
 But are lists of *Bests* valuable? They are one way to corral the quick fix, hyperlinked capability of internet research and to mediate enormous quantities of material of unknown quality. Then there's always the hope that other people's time spent compiling these lists might save us some of our own.

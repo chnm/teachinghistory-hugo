@@ -2,13 +2,20 @@
 title: 'Lower Level Learners: Teaching Their Way'
 date: '2010-07-12T13:22:06'
 lastmod: '2017-10-06T15:21:32'
-type: ask_an_educator
+content_type: ask_an_educator
 draft: false
 drupal_nid: 24111
 question: How do you impart knowledge to low learner students? How do you help them
   understand the lesson?
 url: /teaching-materials/ask-a-master-teacher/24111
+image_fid: '6121'
+splash_image_fid: '6120'
+summary: Regularly assess student understanding, and revise your lesson plans to match
+  the needs of lower level learners.
+splash_image: /files/LowerLevelLearners432x240.jpg
+image: /files/LowerLevelLearner150x113.jpg
 ---
+
 
 That’s a big question! And an important one. While there are many methods for reaching lower level students, two key strategies can help you think this through: scaffolding and formative assessments.
 
@@ -31,3 +38,7 @@ The beginning portion of [this video clip](http://teachinghistory.org/best-pract
 
 Formative assessments can be as simple as a brief one-on-one conversation like those shown in the video, or a short "ticket-out"—a small slip of paper on which students must write one thing they learned before leaving class for the day. They can be more complicated, such as requiring plans and drafts for written work where you can see whether students understand key aspects of historical writing, such as using evidence to support a thesis, or including important background information. As you continuously check for student understanding in a variety of ways, you will see how students are making sense (or in some cases, not making sense) of the material. You will more easily detect misconceptions and most importantly, you can use this information to plan your next instructional steps.
 The fact that you are even asking this question shows that you are moving in the right direction—you are aware of how your students are doing, and you see that some of them need additional help. We wish you the best as you work to scaffold their learning, and continually assess their understanding to design lessons that will meet their individual needs.
+
+---
+
+Also see these related questions: [How do I use difficult primary sources with my 8th graders?](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/19448) and [How do I use DBQs with struggling readers?](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/14958)

@@ -2,8 +2,9 @@
 title: Freedom Project
 date: '2009-02-10T13:33:53'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 21614
 ---
 
+In 2006-07, a total of 24 Rockford Public Schools (RPS) did not make Adequate Yearly Progress (AYP). Illinois State Assessment Test (ISAT) scores for 2006 and 2007 show that the AYP of RPS students only increased by 0.6%, from 65.2% to 65.8%. These AYP scores reveal that RPS students and teachers are making insignificant headway and must reach a much higher level of achievement very soon. The RPS is proposing the Freedom Project, a project dedicated to transitioning from an emphasis on social studies to a curriculum committed to true, traditional American history. A seamless transition from social studies to American history will occur in these grades, centering on the integration of content and pedagogy throughout. Curricula will provide a substantive historical continuum. The Freedom Project goals are to: 1) Raise student achievement through improved teacher understanding, knowledge, and practice in history content; 2) Enhance existing and develop new community partnerships with local organizations, museums, colleges, universities, and libraries; and 3) Modify scope and sequence to transition from a social studies based curriculum to an American history curriculum aligned to Illinois State Standards. Course content will include the following broad topical areas: Building a Nation: Exploration & Discovery through the Founding of the New Nation (1400's - 1820); The New Nation: Growth and Turmoil: The Constitution, Expansion, War and Reconstruction, and the Industrial Era (1776 - 1900); Becoming a World Power (Growing Pains): The Emergence of Modern America; from Industrialization to the Great Depression, Civil Rights Movement through Contemporary United States (1890 - Present)

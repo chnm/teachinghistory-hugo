@@ -2,11 +2,17 @@
 title: 'Bookmark This! Google Scholar: Finding the Laws that Govern Us'
 date: '2009-11-19T11:21:38'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23571
 url: /nhec-blog/23571
+date_published: '2009-11-19T00:00:00'
+image_fid: '3639'
+summary: Search for federal and state district, appellate and supreme court opinions—full-text
+  and related cases.
+image: /files/googlelegal.jpg
 ---
+
 
 Now you can find and read full text legal opinions from federal and state district, appellate, and supreme courts at [Google Scholar](http://scholar.google.com/).
 Google's announcement of their new feature, [*Finding the laws that govern us*](http://googleblog.blogspot.com/2009/11/finding-laws-that-govern-us.html), supports civic awareness and activism. "We think this addition to Google Scholar will empower the average citizen by helping everyone learn more about the laws that govern us all. Laws that you don't know about, you can't follow—or make effective arguments to change," they explain.

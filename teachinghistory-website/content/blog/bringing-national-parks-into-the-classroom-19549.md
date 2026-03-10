@@ -2,10 +2,13 @@
 title: Bringing National Parks into the Classroom
 date: '2008-08-19T10:57:31'
 lastmod: '2017-10-06T15:39:58'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19549
 url: /nhec-blog/19549
+date_published: '2008-08-19T00:00:00'
+summary: The National Park Service offers traveling exhibits, media-on-loan, and in-class
+  speakers.
 ---
 
 The National Park Service offers traveling exhibits, media-on-loan, and in-class speakers to bring the diverse historical heritage of our national parks into schools.

@@ -2,11 +2,19 @@
 title: Presidents in the Library
 date: '2011-02-11T12:36:27'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24528
 url: /nhec-blog/24528
+date_published: '2011-02-18T00:00:00'
+image_fid: '7150'
+splash_image_fid: '7151'
+summary: Happy Presidents Day! What better place to turn to for presidential history
+  resources than libraries dedicated to the presidents?
+splash_image: /files/splash-blog-presd11.jpg
+image: /files/image-blog-presday11.jpg
 ---
+
 
 Happy (almost) Presidents Day! Have your ever thought about all of the papers a presidency must create? Emails, memoranda, schedules, notes, speeches, letters, drafts, on and on and on, an entire term (or terms) set down in a sea of potential primary sources. But how can educators access this wealth of materials?
 In many cases, all you have to do is go online. Before the 20th century, presidents had ownership of their papers, and many were lost to time or split up in private collections. However, in 1939, President Franklin D. Roosevelt decided that his papers should become the property of the American people following his presidency. He donated both his papers and part of his Hyde Park estate to the government, and the first presidential library was born.

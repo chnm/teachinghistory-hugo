@@ -2,11 +2,30 @@
 title: Ron Gorr on Socratic Seminars with Primary Documents
 date: '2011-05-27T15:02:38'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24709
 url: /nhec-blog/24709
+author_bio: Ron Gorr currently teaches A.P. U.S. history at Air Academy High School
+  in Colorado Springs, CO. He has a MA in history from the University of Colorado—Colorado
+  Springs and is currently in his 15th year of teaching (mostly in U.S. history).
+  In addition to working as a teaching representative during the redesign process
+  of Teachinghistory.org, Ron has recently presented primary sources lessons at the
+  National Council for Social Studies and the National Council for History Education.
+date_published: '2011-06-06T00:00:00'
+image_fid: '7523'
+splash_image_fid: '7525'
+thumbnail_fid: '1137'
+author_image_fid: '7522'
+summary: Anchor Socratic seminars in primary sources and watch your students work
+  together to arrive at historical understanding.
+splash_image: /files/splash-blog-socratic.jpg
+thumbnail: /files/speak.jpg
+image: /files/image-blog-socratic1.jpg
+author_image: /files/author_image/ron_headshot.JPG
 ---
+
+
 
 One of my favorite ways to teach is by using Socratic seminars. If done well, an effective Socratic lesson can not only take me (the teacher) off the stage, but invest my students in their own learning by creating an environment of academic discourse, improvisational questioning and answering, critical analysis, and free-flowing exploration of content.
 Of course, for all of these wonderful things to happen, class sizes must be manageable; instructors must design compelling questions that are specific enough to narrow focus, but also broad enough to elicit multiple answers; and, most importantly, students must bring a competent level of prior knowledge to the seminar so they can intelligently participate in the discussions. Over the years, I have found that prior knowledge is the biggest challenge in conducting an effective Socratic seminar. How do I get the kids to connect with the material before I ask them to discuss it?

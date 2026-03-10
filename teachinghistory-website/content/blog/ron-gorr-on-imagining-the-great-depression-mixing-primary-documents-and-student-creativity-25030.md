@@ -3,11 +3,28 @@ title: 'Ron Gorr on Imagining the Great Depression: Mixing Primary Documents and
   Creativity'
 date: '2011-07-01T14:10:04'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25030
 url: /nhec-blog/25030
+author_bio: Ron Gorr currently teaches A.P. U.S. history at Air Academy High School
+  in Colorado Springs, CO. He has a MA in history from the University of Colorado—Colorado
+  Springs and is currently in his 15th year of teaching (mostly in U.S. history).
+  In addition to working as a teaching representative during the redesign process
+  of Teachinghistory.org, Ron has recently presented primary sources lessons at the
+  National Council for Social Studies and the National Council for History Education.
+date_published: '2011-07-06T00:00:00'
+image_fid: '7781'
+splash_image_fid: '7782'
+author_image_fid: '7780'
+summary: Use primary sources to tell stories and discover what the stories you create
+  say about historical bias.
+splash_image: /files/rongorron432x240.jpg
+image: /files/rongorron150x113.jpg
+author_image: /files/author_image/image-blog-rongorr_0.jpg
 ---
+
+
 
 Often, in my mission to include primary sources in my AP U.S. history curriculum, I find that my lessons become predictable and less awe-inspiring than I would like them to be. My students have analyzed, discussed, interpreted, and synthesized primary resources to such an extent that some of them lose sight of the fact that these items can be a lot of fun to manipulate. If your students sometimes feel the same way, why not try something a little different that still includes sound instructional techniques and content synthesis? Here is what my students and I did to fight primary-source boredom.
 

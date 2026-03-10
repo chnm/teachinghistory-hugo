@@ -2,10 +2,20 @@
 title: But What is Our Story?
 date: '2011-05-02T11:28:45'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24660
+author_bio: Lendol Calder is professor of history at Augustana College, IL. A Carnegie
+  Scholar and IL Professor of the Year in 2010, Calder is known for his advocacy of
+  a signature pedagogy in history that balances the coverage of events with “uncoverage”
+  of historical thinking.
+author_image_fid: '7428'
+summary: Too often, the organizing question for secondary history instruction is “what
+  does the teacher/ the textbook/the state Board of Education want students to know?”
+  Let’s replace that question with “what is the story of American history?”
+author_image: /files/author_image/Lendol-Calder.jpg
 ---
+
 
 Once while speaking to a high school class, I watched with astonishment as a student removed her sweat pants and used a depilatory to shave her legs. Sensing my bewilderment, the teacher motioned me to ignore the distraction. “You have to choose your battles,” she explained later. This makes me wonder if a teacher from the ivory tower like me has the street cred to advise teachers in the Kingdom of Nair.
 I do teach a lot of U.S. history surveys, though. And I’m noticing something that will interest secondary teachers.

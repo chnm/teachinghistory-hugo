@@ -2,10 +2,31 @@
 title: Assuming the Historian's Chair
 date: '2009-09-16T14:03:58'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 22892
+author_bio: 'Ann Marie Ryan is an assistant professor in the School of Education at
+  Loyola University Chicago. She has been involved in three TAH grants serving the
+  Chicago Public Schools, including the [Chicago History Project](http://www.newberry.org/chicagohistoryproject/aboutus.html).
+  She currently serves as one of the academic co-directors for the American History
+  Matters Collaborative.
+
+  Frank Valadez is Executive Director of the [Chicago Metro History Education Center](http://www.chicagohistoryfair.org),
+  a nonprofit organization that promotes inquiry- and project-based approaches to
+  history education. He holds a master''s degree in American history from the University
+  of Illinois at Urbana-Champaign and a bachelor''s degree in history from Northwestern
+  University.'
+image_fid: '3549'
+splash_image_fid: '4737'
+author_image_fid: '2335
+
+
+  2335'
+summary: Sit in the *Historian's Chair* to engage with primary and secondary sources.
+splash_image: /files/Assuming_The_Historians_Chair_-_432x240.jpg
+image: /files/HistoriansChair2LoC.jpg
 ---
+
 
 The [Chicago History Project](http://www.newberry.org/chicago-and-midwest) (CHP), focused on significantly increasing the depth of historical content and the integration of historical thinking skills in middle and high school American history courses. CHP promoted this scholarly approach in several ways, particularly in the *Historian's Chair* sessions introduced during the summer institute in the 2nd year of the project.
 

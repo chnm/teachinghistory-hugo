@@ -2,11 +2,21 @@
 title: My Piece of History
 date: '2012-07-02T16:34:54'
 lastmod: '2018-04-24T09:56:20'
-type: lesson_plan_reviews
+content_type: lesson_plan_reviews
 draft: false
 drupal_nid: 25649
 url: /teaching-materials/lesson-plan-reviews/25649
+flexibility_scale: '4'
+topic: Daily life; popular culture and leisure
+website_url: http://edsitement.neh.gov/lesson-plan/my-piece-history#sect-activities
+image_fid: '9367'
+splash_image_fid: '9366'
+summary: Even the recent past was very different from the present. Students analyze
+  photos from the 1960s and 1970s to identify differences between then and now.
+splash_image: /files/mypiecesplash.jpg
+image: /files/lesson_image/mypieceimage.jpg
 ---
+
 
 This [lesson](http://edsitement.neh.gov/lesson-plan/my-piece-history#sect-activities) uses everyday objects from the past to facilitate the development of two foundational historical thinking skills for young students:
 

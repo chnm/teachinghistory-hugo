@@ -2,10 +2,21 @@
 title: How Teaching American History Grants Changed My Classroom
 date: '2008-02-08T18:08:45'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 14951
+author_bio: Tracy Hutton taught at Lansing High School in Lansing, KS for 7 years.
+  After participating in two TAH grants, she was selected to be a teacher leader for
+  a third grant. She is currently the Curriculum Technologist for Salina, KS public
+  schools, working closely with teachers to help improve student achievement with
+  the effective integration of technology and continues to serve as a TAH teacher
+  leader.
+splash_image_fid: '4958'
+summary: Before beginning my first Teaching American History (TAH) grant in 2003,
+  I was a struggling new teacher . . .
+splash_image: /files/Power_of_Primary_Sources_-_432x240.jpg
 ---
+
 
 Before beginning my first Teaching American History (TAH) grant in 2003, I was a struggling new teacher. Then in my third year of teaching at an affluent high school in Northeastern Kansas, I found myself struggling to get my students to become as enthusiastic about history as I was. I worked every day to get them to see a connection between what we were studying and their own lives. It was not until the lead professor of my TAH grant took us to do research at the nearby National Archives facility that I really caught a vision of how using primary sources could engage my history students.
 The archivists at NARA Central Plains pulled the records of the Food Administration. I was thrilled to read through detailed accusations and evidence of hoarding during WWI rationing. I was fascinated by the efforts to hide flour and sugar coupled with the suspicious finger-pointing between neighbors. In one document, a man complained to the Food Administration that he knew his neighbor had hidden a large stash of flour and sugar in a closet. He further claimed that the owner concealed the contents by wallpapering over the opening. There were so many of these examples that it was difficult to choose which ones to use. After selecting several documents to include in my WWI unit, I decided to try something different.

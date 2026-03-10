@@ -2,11 +2,27 @@
 title: 'Film Review: Ken Burns''s Jazz'
 date: '2011-06-13T15:28:42'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24840
 url: /nhec-blog/24840
+author_bio: Frank Tirro is Professor Emeritus of Music at Yale University and former
+  Dean of the Yale School of Music. During his jazz performance days, he played with
+  the Johnny Palmer and Jimmy Phillips orchestras and over the years has played occasional
+  concerts with jazz artists Willi Ruff, Dwike Mitchell, Clark Terry, Donn Trenner,
+  and Mary Lou Williams.
+date_published: '2011-06-22T00:00:00'
+image_fid: '7583'
+splash_image_fid: '7584'
+author_image_fid: '7591'
+summary: Documentaries can be critiqued on many levels, says Professor Frank Tirro.
+  Here, he looks at Ken Burns's *Jazz* from four angles.
+splash_image: /files/splash-blog-jahjazz.jpg
+image: /files/image-blog-jahjazz.jpg
+author_image: /files/author_image/tirro1.jpg
 ---
+
+
 
 *This is the second in a series of film reviews reprinted from the* [Journal of American History](http://www.journalofamericanhistory.org/). *These reviews model ways of looking critically at popular films, documentaries, miniseries, and other history-based features. Look for one each month!*
 *Jazz*, the much-heralded 10-part PBS video series, is an American historical event in itself. The broadcast programs and their ancillary documents—a boxed set of 10 videocassettes, a book, a boxed five-CD set of music, a single CD personally selected by Burns, 22 jazz albums devoted to individual artists featured in the documentary, and more—is the most publicized and widely promoted presentation this music has received in its hundred-year history. The magnitude, scope, and all-embracing exploitation of musical, visual, and verbal elements might favorably be compared to Richard Wagner's vision of a *Gesamtkunstwerk* that, for him, resulted in a four-opera Ring Cycle, a theater specially built for the production at Bayreuth, disciples, detractors, enormous expense, and long-lasting consequences. Although we await the consequences, and regardless of criticism pro and con, Ken Burns's *Jazz* is a significant undertaking of great magnitude and serious purpose that will be remembered as an influential advocate for America's native art music, jazz.

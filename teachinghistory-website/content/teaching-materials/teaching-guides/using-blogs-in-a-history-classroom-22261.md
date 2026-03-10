@@ -2,11 +2,19 @@
 title: Using Blogs in a History Classroom
 date: '2009-05-26T14:21:21'
 lastmod: '2018-09-11T16:09:59'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 22261
 url: /teaching-materials/teaching-guides/22261
+author_bio: Kyle Smith teaches at Superior High School in Superior, WI, which is on
+  Lake Superior. He has been teaching there for 12 years—A.P. U.S. History, 20th century
+  U.S. History, and a honors class called Senior Social.
+splash_image_fid: '3916'
+summary: Setting up and maintaining a blog for your classroom is easy (and typically
+  free)!
+splash_image: /files/UsingBlogs.jpg
 ---
+
 
 ## What Is It?
 

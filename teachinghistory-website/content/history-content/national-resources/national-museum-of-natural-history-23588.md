@@ -2,12 +2,20 @@
 title: National Museum of Natural History
 date: '2009-11-23T16:50:02'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23588
 url: /history-content/national-resources/23588
 featured: true
+website_url: http://www.mnh.si.edu/
+splash_image_fid: '5038'
+thumbnail_fid: '2242'
+summary: Don't let "natural history" scare you away! The museum covers anthropology
+  as well.
+splash_image: /files/NationalMuseumNH432x240.jpg
+thumbnail: /files/quiz/image-answer-oyster-police.jpg
 ---
+
 
 The National Museum of Natural History, as stated on its website, "inspire[s] curiosity, discovery, and learning about nature and culture through outstanding research, collections, exhibitions, and education."
 Natural history. That probably doesn't sound particularly useful to a teacher of history, which is so often centered on humanity, rather than the earth. That said, don't write the NMNH off without giving it some thought. True, many of the offerings are decidedly scientific. However, the museum includes anthropology alongside biology and geology.

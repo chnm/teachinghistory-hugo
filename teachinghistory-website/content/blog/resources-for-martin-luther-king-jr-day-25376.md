@@ -2,14 +2,20 @@
 title: Resources for Martin Luther King Jr. Day
 date: '2012-01-05T11:36:51'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25376
 url: /nhec-blog/25376
+date_published: '2012-01-10T00:00:00'
+splash_image_fid: '8748'
+summary: Do you use Martin Luther King Jr. Day as a teachable moment? Our spotlight
+  page and other resources can help!
+splash_image: /files/splash-blog-mlkjd122.jpg
 ---
 
+
 This year, Martin Luther King Jr. Day falls on January 16. Created and first observed in the 1980s, this holiday honors the life of civil rights leader Martin Luther King Jr. and the philosophy of nonviolent protest. Do you teach the day in your classroom? How do you teach it? Do you focus on King's life and work? Do you look at the Civil Rights Movement as a whole? Do you talk about citizenship and social action? Do you encourage students to participate in the [Martin Luther King Jr. Day of Service](http://mlkday.gov/)?
-[![](http://teachinghistory.org/files/splash-blog-mlkjd12.jpg)](http://teachinghistory.org/spotlight/mlk-day)
+[![](/files/splash-blog-mlkjd12.jpg)](http://teachinghistory.org/spotlight/mlk-day)
 No matter how you approach the day, our [Martin Luther King Jr. Day spotlight page](http://teachinghistory.org/spotlight/mlk-day) can help. Browse the page to find teaching strategies, quizzes, website reviews, online lectures, and more on Martin Luther King Jr., the Civil Rights Movement, and active citizenship.
 Explore materials on other websites as well:
 

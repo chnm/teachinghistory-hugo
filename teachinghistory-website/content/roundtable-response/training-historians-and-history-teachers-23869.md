@@ -2,10 +2,20 @@
 title: Training Historians and History Teachers
 date: '2010-03-09T09:36:52'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 23869
+author_bio: 'Peter Knupfer is a Professor of History at Michigan State University
+  and Executive Director of H-Net: Humanities & Social Sciences Online. His most recent
+  book is A *New Focus for the History Professoriate: Professional Development for
+  History Teachers as Professional Development for Historians*.'
+author_image_fid: '4441'
+summary: The training of history teachers should be part of a department’s larger
+  mission to train students to be historians, which entails a form of public history—to
+  attune one’s teaching and learning activities to what will be a nonacademic audience.
+author_image: /files/author_image/knupfer.jpg
 ---
+
 
 For decades, the seriousness with which historians have taken their responsibility to help train history teachers has not been matched by the imagination they bring to the effort. The typical history department limits the range of historical skills addressed by its curriculum to those that mimic the working life of the college history professor; students labor over texts, lectures, and papers, even in the Age of Facebook and the middle of a recession. It’s therefore hardly surprising that public school history teachers across the country make their students labor over texts, lectures, and papers, or that students are fleeing the history major in search of a concentration that has some marketable future.
 The training of history teachers should be part of a department’s larger mission to train students to be historians, which entails a form of public history—to attune one’s teaching and learning activities to what will be a nonacademic audience. Developing learning activities that help budding journalists, lawyers, psychologists, business managers, or engineers enrich and deepen their chosen professions with historical skills and historical literacy will broaden the historian’s audience and demonstrate that history is a metadiscipline that prepares people for a career by preparing them for life. But in order to do that, the history department must take a collaborative approach, seeking connections with the professions, and even adapting the methods and content of other disciplines—including education—to their own needs.

@@ -2,10 +2,13 @@
 title: National Museum of American History
 date: '2008-08-28T13:00:49'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19586
 url: /nhec-blog/19586
+date_published: '2008-08-28T00:00:00'
+summary: On November 21, 2008, the Smithsonian Museum of American History (NMAH) reopens
+  its doors.
 ---
 
 On November 21, 2008, the Smithsonian Museum of American History (NMAH) reopens its doors, ending renovations updating the 42-year old building's infrastructure and creating exciting exhibit galleries and architectural elements.

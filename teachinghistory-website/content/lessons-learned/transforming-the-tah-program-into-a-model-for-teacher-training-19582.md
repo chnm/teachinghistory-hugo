@@ -2,10 +2,29 @@
 title: Transforming the TAH Program into a Model for Teacher Training
 date: '2008-08-27T16:57:30'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 19582
+author_bio: Bruce Lesh has been a teacher and department chair for 16 years at Franklin
+  High School in Reisterstown, MD. A past president of the Maryland Council for the
+  Social Studies and current Vice-chair of the National Council for History Education,
+  Bruce teaches American history and Advanced Placement United States Politics and
+  Government. Bruce published three units on teaching American history using primary
+  sources through the Center for Learning and has published in the *OAH Magazine of
+  History,* written book reviews for the *History Teacher,* and served as Contributing
+  Editor to the recently published *Milestone Documents in American History.* Mr.
+  Lesh is a co-founder and member of the board of directors for the Center for History
+  Education at the University of Maryland, Baltimore County. In 2007, Bruce was named
+  the Organization of American Historians Pre-Collegiate Teacher of the Year.
+splash_image_fid: '4780'
+author_image_fid: '4147'
+summary: The greatest lesson I have learned is the need to alter the role historians
+  play in the development of K–12 history teachers . . .
+splash_image: /files/From_the_Present_to_the_Future_-_432x240.jpg
+author_image: /files/author_image/lesh_0.jpg
 ---
+
+
 
 Since the initiation of the Teaching American History (TAH) grant program in 2001, I have been fortunate enough to work as a lead/master teacher in 14 different states. Under the *aegis* of the [National Council for History Education](http://www.nche.net) and the [Gilder Lehrman Institute for American History,](http://www.gilderlehrman.org) I served as a lead teacher on over 20 different TAH grants and worked with many wonderful K–12 history teachers. My role in each of these grants has been to connect the content presented by academic historians with the current research on history education and provide teachers practical applications that can be utilized in their classrooms.
 

@@ -2,11 +2,19 @@
 title: U.S. Drug Enforcement Agency
 date: '2009-09-03T11:48:17'
 lastmod: '2018-09-26T09:52:48'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22624
 url: /history-content/national-resources/22624
+website_url: https://www.dea.gov/
+splash_image_fid: '5129'
+thumbnail_fid: '2167'
+summary: How did recreational drug use grow into a U.S. drug culture? How did it become
+  such a hot topic and a social concern?
+splash_image: /files/USDrug432x240.jpg
+thumbnail: /files/quiz_thumbnail/SovietArchivalDocs_Thumb.jpg
 ---
+
 
 The U.S. Drug Enforcement Agency exists to prosecute, investigate, and disrupt drug trafficking and large-scale use of illegal substances.
 The agency is not particularly strong on historical resources—with the exception of information from the 1990s to present. However, a few features should be noted for their potential.

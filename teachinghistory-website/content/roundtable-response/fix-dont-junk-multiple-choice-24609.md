@@ -2,10 +2,19 @@
 title: Fix, Don't Junk, Multiple Choice
 date: '2011-04-01T12:57:51'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24609
+author_bio: Ray Karras is an educational consultant based in Nashua, NH. He is a retired
+  history educator and has published multiple articles about teaching historical writing
+  and argumentation to students.
+author_image_fid: '7389'
+summary: 'Most multiple choice questions asked today tell "nothing significant about
+  a student''s understanding." But essay writing is not the only acceptable alternative:
+  multiple choice questions can be reformed so that it can test students'' understanding.'
+author_image: /files/author_image/man.jpg
 ---
+
 
 I agree with the idea that most multiple-choice questions asked today tell ["nothing significant about a student's understanding."](http://teachinghistory.org/issues-and-research/roundtable-response/24606) But essay writing is not the only acceptable alternative: multiple-choice questioning can be reformed so that it can test students' understanding.
 Let's start by introducing students to a bit of historiography. Let's coach them to construct historical arguments in which they make historical claims, apply supporting factual evidence for those claims, and build logical reasons for believing larger historical hypotheses. Let's help students *do* history.

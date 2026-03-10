@@ -2,20 +2,61 @@
 title: Elizabeth Glynn on Using Art to Create Interdisciplinary Classrooms
 date: '2011-06-18T15:36:29'
 lastmod: '2017-12-01T15:52:16'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24980
 url: /nhec-blog/24980
+author_bio: Elizabeth Glynn is the Project Director for the Everyday Americans, Exceptional
+  Americans TAH Grant at Loudoun County Public Schools, VA. Previously, she was an
+  11th-grade U.S. History and AP U.S. History teacher at Heritage High School in Leesburg,
+  VA.
+date_published: '2011-10-31T00:00:00'
+image_fid: '7643
+
+
+  7643
+
+
+  7643
+
+
+  7643
+
+
+  7643
+
+
+  7643
+
+
+  7643
+
+
+  7643
+
+
+  7643
+
+
+  7643'
+splash_image_fid: '7655'
+author_image_fid: '8424'
+summary: Use art to teach both history and how disciplines are interconnected, suggests
+  TAH project director Elizabeth Glynn.
+splash_image: /files/elizabethglynnon432x240.jpg
+author_image: /files/author_image/author-glynn_1.jpg
 ---
 
+
+
 The first day of my U.S. History class, I showed my students an image of Nam June Paik's multimedia art installation, *Electronic Superhighway: The Continental U.S., Alaska, Hawaii* on my interactive whiteboard. The students and I talked about the piece and then I asked the students to each come up with a mood word, one word that would describe the mood of the United States today. The students put their mood words on sticky notes and we placed them on the image of the artwork. Once this was done, I explained to my students that the mood word activity was part of a yearlong project.
-![Photo, Mood Words, Submitted by author](http://teachinghistory.org/files/usingartto150x113b.jpg)A joint effort between Melanie Buckley, an American Literature teacher, and me, the goal of this project, which we call "Visual Art through the Ages," was for students to develop the writing skills to express connections between art and U.S. History. Each step of this project was guided by the essential question "How did we become the United States?" and related back to Nam June Paik's piece. Buckley and I created and formulated the project during the [Clarice Smith National Teaching Institute](http://americanart.si.edu/education/dev/cs/index.cfm) held at the Smithsonian American Art Museum in Washington, DC. Paik's installment, to Buckley and I, visually demonstrates how the United States is not a representation of one culture but many and it took many people, events, and cultures to create the United States. It inspired us to consider how we could combine U.S. history and literature to demonstrate the same idea.
+![Photo, Mood Words, Submitted by author](/files/usingartto150x113b.jpg)A joint effort between Melanie Buckley, an American Literature teacher, and me, the goal of this project, which we call "Visual Art through the Ages," was for students to develop the writing skills to express connections between art and U.S. History. Each step of this project was guided by the essential question "How did we become the United States?" and related back to Nam June Paik's piece. Buckley and I created and formulated the project during the [Clarice Smith National Teaching Institute](http://americanart.si.edu/education/dev/cs/index.cfm) held at the Smithsonian American Art Museum in Washington, DC. Paik's installment, to Buckley and I, visually demonstrates how the United States is not a representation of one culture but many and it took many people, events, and cultures to create the United States. It inspired us to consider how we could combine U.S. history and literature to demonstrate the same idea.
 For each unit of study, the students learned art vocabulary, analyzed art from the period, practiced using their new vocabulary to express their observations, and created mood words that they compared to the words they created on the first day. The idea for the art analysis project was that it would be a concluding activity for each unit that could be done in less than 15 minutes.
 
 ## Making Sure You Can Talk the Talk
 
 Since Buckley and I are not art teachers, we first had to learn how to analyze art using the elements of art ourselves. The elements of art are different aspects of art, like line, shape, and color, that can be found in art pieces and are usually shown in a chart. After I introduced the project, the students learned (for many it is a refresher from art class) the elements of art and then as a class we analyzed a piece of art using the elements in the chart below. We asked the art department to do this piece of instruction for the students.
-![Chart, Elements of Art, Submitted by author](http://teachinghistory.org/files/usingarttovocab.jpg)
+![Chart, Elements of Art, Submitted by author](/files/usingarttovocab.jpg)
 Now, with this emphasis on art, many students were very confused. They kept asking if they were in an art class or U.S. History class, and once we began writing during the art analysis, they were unsure if they were in U.S. History class or English class. This confusion that the students began to have over what we were doing was what I had hoped for. I wanted the students to realize that all of their subjects in high school are connected and can be taught together.
 
 ## The Process

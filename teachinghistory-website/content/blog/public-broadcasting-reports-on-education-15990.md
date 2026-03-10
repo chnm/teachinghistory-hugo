@@ -2,10 +2,14 @@
 title: Public Broadcasting Reports on Education
 date: '2008-02-13T15:38:58'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 15990
 url: /nhec-blog/15990
+date_published: '2008-05-12T00:00:00'
+summary: The [Public Broadcasting System (PBS)](http://www.pbs.org) and [National
+  Public Radio (NPR)](http://www.npr.org) recently aired special reports on issues,
+  problems, and solutions in American education.
 ---
 
 [Public Broadcasting Service (PBS) stations](http://www.pbs.org) recently aired a series of reports about [The Business of Education](http://video.pbs.org/program/nbr/) during [The Nightly Business Report](http://video.pbs.org/program/nbr/). The series highlighted on the influence of the No Child Left Behind Act in the development of the educational products and services industries. Reports discuss standardized testing, tutoring services, charter schools, educational technology and the educational stock market. Each report includes post-broadcast transcripts, blog entries and related links.

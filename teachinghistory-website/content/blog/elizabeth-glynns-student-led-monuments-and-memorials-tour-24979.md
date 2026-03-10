@@ -2,11 +2,29 @@
 title: Elizabeth Glynn's Student-Led Monuments and Memorials Tour
 date: '2011-06-18T11:24:04'
 lastmod: '2017-12-01T15:52:16'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24979
 url: /nhec-blog/24979
+author_bio: Elizabeth Glynn is the Project Director for the Everyday Americans, Exceptional
+  Americans TAH Grant at Loudoun County Public Schools, VA. Previously, she was an
+  11th-grade U.S. History and AP U.S. History teacher at Heritage High School in Leesburg,
+  VA. Elizabeth has presented at conferences for the NCSS and the National Council
+  of Teachers of English on integrating primary sources into lesson plans and on interdisciplinary
+  instruction techniques. She was recently featured in the Smithsonian American Art
+  Museum newsletter, Classroom Connections, for her efforts in integrating art into
+  the social studies classroom.
+date_published: '2011-09-12T00:00:00'
+image_fid: '7641'
+splash_image_fid: '7642'
+author_image_fid: '8043'
+summary: Let your students go out on a limb, and they might just exceed your expectations.
+splash_image: /files/elizabethglynnsstudent432x240.jpg
+image: /files/elizabethglynnsstudent150x113.jpg
+author_image: /files/author_image/author-glynn.jpg
 ---
+
+
 
 Five years ago, during my first year of teaching Advanced Placement U.S. History in Leesburg, VA, I created a final exam for my students that I hoped would change the way they thought about monuments and memorials.
 

@@ -2,11 +2,19 @@
 title: 'History Hitting Home: Children''s History, Local History, and Digital Storytelling'
 date: '2013-03-05T19:31:04'
 lastmod: '2017-12-01T15:55:03'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25790
 url: /nhec-blog/25790
+date_published: '2013-03-20T00:00:00'
+image_fid: '9620'
+splash_image_fid: '9619'
+summary: Children's history, local history, and digital media—combine the three to
+  give your students ownership of the past!
+splash_image: /files/jthg-splash.jpg
+image: /files/jthg-image.jpg
 ---
+
 
 How do you connect history to students' own lives? Do you introduce them to the lives of children in the past? Explore local history with them? Let them recount history themselves using digital storytelling tools? Try combining two of these techniques—or all three—to give your students a sense of ownership over history.
 Often, textbooks skim over or omit the stories of young people in the past. How did they live? What did they wear and eat? How did they play? What kind of work did they do? How did they learn? Seek out primary and secondary sources that explore the rich details of children's lives in the past. Some websites focus on children's history. Try:

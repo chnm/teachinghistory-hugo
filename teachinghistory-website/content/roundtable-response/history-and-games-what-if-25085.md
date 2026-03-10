@@ -2,10 +2,20 @@
 title: 'History and Games: What If?'
 date: '2011-08-18T12:51:25'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25085
+author_bio: James Paul Gee is the Mary Lou Fulton Presidential Professor of Literacy
+  Studies at Arizona State University. Among other books, he is the author of *What
+  Video Games Have to Teach Us About Learning and Literacy* and *Language and Learning
+  in the Digital Age* (with Elisabeth Hayes).
+author_image_fid: '7951'
+summary: History, as an explanatory enterprise, is a way of doing things, not primarily
+  a body of "content." One thing history does is play a sort of game of "what if?,"
+  a game that can make a good video game, as well.
+author_image: /files/author_image/roundtable-author-gee.jpg
 ---
+
 
 What is history? For that matter, what is physics or civics? These are all terms we often use to name "subject matter" ("content") in school. But there is another meaning to these terms. Physics is a set of tools (and these tools include facts and formulas, but much more) used to DO physics. Civics is a set of tools used to engage in civic participation. And history is a set of tools used to engage in doing history. So let's refer to "history/physics/civics (content)" and "history/physics/civics (doing)." School is usually about history (content), that is, an information-rich record of what (supposedly) happened in the past. Historical research is about history (doing), that is, how one goes about discovering and explaining what happened in the past.
 What is a video game? A video game is just a well-designed set of problems (of any sort) that must be solved in order to achieve one's chosen goals, where the price of failure is relatively low so that exploration and risk-taking can be encouraged. The term "serious games" is a bad one, because it implies a high cost of failure, as well as a lack of the sort of "fun" people get when they have chosen to do something they really want to do and like to do. *Civilization* is a successful commercial game, a history game, and addictively fun to play. Fun, play, engagement, choice, difficulty, and learning are not disconnected things, but integrally related.

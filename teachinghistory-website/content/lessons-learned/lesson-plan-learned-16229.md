@@ -2,10 +2,21 @@
 title: Lesson (Plan) Learned
 date: '2008-02-13T21:02:16'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 16229
+author_bio: C. Morgan Grefe is the director of the Goff Center for Education and Public
+  Programs at the Rhode Island Historical Society (RIHS). She holds a Ph.D. in American
+  Civilization from Brown University and specializes in contested histories. At the
+  RIHS, she and TAH coordinator Marie Parys administrate grants for Rhode Island educators.
+  This article was written with assistance from Ms. Parys in the areas of research,
+  editing, and patience.
+splash_image_fid: '7413'
+summary: One need only attend the TAH directors’ meeting to see how many permutations
+  these grants take.
+splash_image: /files/Lesson_Plan_Learned432x240.jpg
 ---
+
 
 One need only attend the annual Teaching American History (TAH) directors' meeting to see how many permutations these grants can take. Since 2000, the Rhode Island Historical Society (RIHS) has directed three TAH grants, the only projects to serve Rhode Island teachers. Each grant was written by a different individual for quite disparate school districts. In two cases the grants served only one district apiece (one rural and one urban); in the last case, the grant has created a collaboration of three districts (all urban fringe).
 While each grant was constructed with distinct deliverables in mind, or in one case none at all, in the end, teachers have been asked to produce tangible end results of their participation in the grant. Ultimately, unit plans were the deliverable of choice, and we have found that they fulfill three specific needs:

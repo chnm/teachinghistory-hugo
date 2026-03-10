@@ -2,8 +2,11 @@
 title: Miami Science Museum [FL]
 date: '2009-05-06T14:37:23'
 lastmod: '2017-12-01T14:53:33'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 22091
+website_url: http://www.miamisci.org/
 ---
 
+The Miami Science Museum involves visitors in the exploration of the physical and natural sciences and local history.
+The museum offers exhibits, planetarium shows, science and wildlife presentations and demonstrations, lectures, camps and workshops, tours for school groups,

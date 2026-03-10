@@ -2,14 +2,20 @@
 title: 'Remembering Pearl Harbor: Resources for the 70th Anniversary'
 date: '2011-11-28T17:55:51'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25324
 url: /nhec-blog/25324
+date_published: '2011-11-30T00:00:00'
+splash_image_fid: '8598'
+summary: December 7, 2011 will mark the 70th anniversary of the attack on Pearl Harbor.
+  Discover resources for teaching the day.
+splash_image: /files/splash-spotlight-ph2011.jpg
 ---
 
+
 September 11, 2011, marked the 10th anniversary of the terrorist attacks on New York City and Washington, DC. Next week, December 7, 2011, will mark the 70th anniversary of the Japanese attack on Pearl Harbor. Though [news sources](http://www.cbsnews.com/stories/2011/09/07/earlyshow/main20102503.shtml), lesson plans, and other materials draw parallels between the attacks, it is important to remember that they occurred in different times and places. What led to the attack on Pearl Harbor? What did the attack entail? What effect did it have on the U.S.? How was the attack memorialized (or not) in later years?
-[![](http://teachinghistory.org/files/image-blog-pearlh.jpg)](http://teachinghistory.org/spotlight/pearl-harbor)
+[![](/files/image-blog-pearlh.jpg)](http://teachinghistory.org/spotlight/pearl-harbor)
 We've gathered all of our resources on the attack on Pearl Harbor on our spotlight page, [*Remembering Pearl Harbor*](http://teachinghistory.org/spotlight/pearl-harbor). Learn about the attack and popular memory with [oral history](http://teachinghistory.org/history-content/website-reviews/14692), discover lesson plans and more exploring the [context](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/25315) of the attack, and uncover [photographs](http://teachinghistory.org/history-content/website-reviews/23133) of U.S. participation in World War II.
 After you've explored our spotlight, check out these websites for more resources on Pearl Harbor and the anniversary:
 

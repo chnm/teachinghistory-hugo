@@ -2,11 +2,33 @@
 title: Amy Trenkle on Interactive Whiteboards
 date: '2011-03-22T14:13:38'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24588
 url: /nhec-blog/24588
+author_bio: 'Amy Trenkle teaches 8th-grade U.S. history at Stuart-Hobson Middle
+
+  School in Washington, DC. A National Board Certified Teacher in early
+
+  adolescence social studies/history, she has taught in DC since 1999
+
+  and received the DC History Teacher of the Year Award in 2005, from
+
+  the Gilder Lehrman Institute of American History. Currently, Amy is
+
+  serving as an adjunct professor of education at American University.'
+date_published: '2011-04-04T00:00:00'
+image_fid: '7273'
+splash_image_fid: '7272'
+author_image_fid: '7270'
+summary: New technology in the classroom means new techniques and challenges. Eighth-grade
+  teacher Amy Trenkle's new whiteboard is no exception.
+splash_image: /files/whiteboardsplash.jpg
+image: /files/whiteboardimage_0.jpg
+author_image: /files/author_image/Amy_Trenkle.jpg
 ---
+
+
 
 Through the hard work of dedicated parents, our school received funding to improve its technology. Part of this technology was to install interactive whiteboards in every teacher’s classroom. It has been a wonderful addition to the classroom and really heightened enthusiasm for technology and learning, particularly from the students.
 

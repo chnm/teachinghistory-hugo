@@ -2,11 +2,17 @@
 title: 'Stand Up and Be Counted: Teaching with the Census'
 date: '2010-04-06T12:17:48'
 lastmod: '2011-09-21T05:02:09'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23920
 url: /nhec-blog/23920
+date_published: '2010-04-15T00:00:00'
+image_fid: '4448'
+summary: What do all those fact and figures mean, and how can we teach students to
+  use them?
+image: /files/1950.jpg
 ---
+
 
 The first U.S. census took place in August 1790, a little more than a year after the inauguration of President Washington. Census takers—marshals of U.S. judicial districts—visited every household and posted census results in every jurisdiction "for the inspection of all concerned..."
 They recorded names of the heads of families, the number of white males sixteen and older, the number of white males under sixteen, the number of white females, the number of all other free persons, and the number of slaves.

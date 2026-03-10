@@ -2,10 +2,18 @@
 title: Let the Questions Guide You
 date: '2011-05-02T11:45:17'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24662
+author_bio: Andrew Johnson is a mentor teacher at Chicago Academy High School, an
+  open enrollment college-prep school that doubles as a teacher training academy.
+author_image_fid: '7430'
+summary: Instead of teaching the survey chronologically with one eye on thematic relevance,
+  I now teach it thematically with an eye towards chronology. Each quarter of the
+  school year is framed with a guiding question.
+author_image: /files/author_image/johnson1.jpg
 ---
+
 
 As a high school teacher, the central challenge of teaching a survey of United States history is how to balance the compelling, but rarely compatible, demands of depth and breadth. In an ideal world of unlimited time and attention spans, I might realistically strive to achieve both. However, after several efforts at teaching the survey course as a straightforward, chronological tour de force, I have abandoned the goal of comprehensive content “coverage.”
 In the survey format, my attempts to weave contemporary relevance and urgency into an examination of our national past met with occasional success, but, more often than not, I probably confirmed my students’ assumptions about the stale, encyclopedic nature of history. My unwieldy, but comparatively more satisfactory, solution has been to jettison any attempt at an exhaustive survey in favor of a thematic approach that more delicately balances the competing interests of depth and breadth.

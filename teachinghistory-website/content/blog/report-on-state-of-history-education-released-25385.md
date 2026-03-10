@@ -2,11 +2,19 @@
 title: Report on State of History Education Released!
 date: '2012-01-22T17:17:10'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25385
 url: /nhec-blog/25385
+date_published: '2012-01-23T00:00:00'
+image_fid: '8764'
+splash_image_fid: '8765'
+summary: Learn about Teachinghistory.org's free *Report on the State of History Education*,
+  recently updated!
+splash_image: /files/teachinghistory_special_report_2011-1.jpg
+image: /files/image-star2011.jpg
 ---
+
 
 What role do your state’s history standards play in your teaching life? Do they help you figure out the units and topics to study in a year? Do they encourage you to teach students to investigate the past and debate its implications? Do they burden you with a list of names, dates, and places that seems endless and disconnected? Maybe they languish in a closet gathering dust?
 Forty-nine states have history/social studies standards and their content, form, length, and level of detail can vary enormously from state to state. (Iowa is the exception with a [“core” set of “essential concepts and skills”](http://educateiowa.gov/index.php?option=com_content&view=article&id=2471&Itemid=4575) rather than standards.) Teachinghistory.org has recently published a [Report](http://teachinghistory.org/issues-and-research/report-on-the-state-of-history-education/23470) on the state of history education and it includes information about those diverse state standards as well as other state policies regarding the teaching of history, including mandatory assessments and initial teacher licensure requirements.

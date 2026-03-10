@@ -2,16 +2,35 @@
 title: Amy Trenkle's Be the Blogger!
 date: '2010-12-15T14:03:19'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24435
 url: /nhec-blog/24435
+author_bio: Amy Trenkle teaches 8th-grade U.S. history at Stuart-Hobson Middle School
+  in Washington, DC. A National Board Certified Teacher in early adolescence social
+  studies/history, she has taught in DC since 1999 and received the DC History Teacher
+  of the Year Award in 2005, from the Gilder Lehrman Institute of American History.
+  Currently, Amy is serving as an adjunct professor of education at American University.
+date_published: '2011-01-24T00:00:00'
+image_fid: '6977
+
+
+  6977'
+splash_image_fid: '6976'
+author_image_fid: '6979'
+summary: Chances are, you can use blogging in your classroom. Maybe you're convinced
+  you have too few computers, or too many students in your class. Eighth-grade teacher
+  Amy Trenkle shows that blogs may be more flexible than you think!
+splash_image: /files/splash-blog-atblogging.jpg
+author_image: /files/author_image/13eb508_0_0.jpg
 ---
+
+
 
 ## Beginning to Blog
 
 During the 2008–2009 school year, in an effort to integrate more technology into my classroom I started blogging with my students about history class. Because I was pretty new to blogging and wasn’t sure how it would go, I did one collective site for the 8th grade. Basically, the students wrote and I uploaded it to the blog. As the year went on, I logged in for students and they took over the maintenance of the site. Sometimes the writing was an assignment and I chose the best ones to post. Other times, I offered extra credit if they posted about a topic provided. And still other times I loved what a student wrote and typed it up for the blog. This site ended up being a wonderful compilation of our year come June. I still use it as a preview site for students, parents, and pre-service teachers I work with, as to what we do during the year. The blog can be viewed at http://shmshistoryclass.blogspot.com/.
-![](http://teachinghistory.org/files/image-blog-atblogging1_0.jpg)That same year, an after-school group that is co-sponsored by myself and a friend from the National Park Service took a cross-country trip for Lincoln’s Bicentennial. I created another blog for the students to document their adventures and for friends and family back home to be able to find us. What was nice was that because I had been working with the blog in history class, my students were aware of how a blog works and were familiar with how to write for it and their audience. Each student was required to write three times for the blog during the course of our week-long adventure. Each night after our full day they would write on either paper or share the two laptops we brought for blogging. Before going to bed each night I would upload any remaining blog entries. The system proved effective for sharing our adventures and for students documenting their days. The site has also become a great way for Jen Epstein, my National Park Service co-organizer, to share what she is doing in schools for outreach. View it here: http://stampslincoln.blogspot.com/.
+![](/files/image-blog-atblogging1_0.jpg)That same year, an after-school group that is co-sponsored by myself and a friend from the National Park Service took a cross-country trip for Lincoln’s Bicentennial. I created another blog for the students to document their adventures and for friends and family back home to be able to find us. What was nice was that because I had been working with the blog in history class, my students were aware of how a blog works and were familiar with how to write for it and their audience. Each student was required to write three times for the blog during the course of our week-long adventure. Each night after our full day they would write on either paper or share the two laptops we brought for blogging. Before going to bed each night I would upload any remaining blog entries. The system proved effective for sharing our adventures and for students documenting their days. The site has also become a great way for Jen Epstein, my National Park Service co-organizer, to share what she is doing in schools for outreach. View it here: http://stampslincoln.blogspot.com/.
 
 ## Blogging Expanded
 

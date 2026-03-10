@@ -2,11 +2,26 @@
 title: Crop It
 date: '2012-08-13T11:55:05'
 lastmod: '2018-09-11T15:32:56'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25697
 url: /teaching-materials/teaching-guides/25697
+author_bio: Rhonda Bondie, PhD, taught in public schools for more than 20 years before
+  becoming an assistant professor of special education at Fordham University. Her
+  research focuses on sustainable differentiated instruction practices using self-regulated
+  learning and building understanding with digital media.
+image_fid: '9449
+
+
+  9449'
+splash_image_fid: '9448'
+author_image_fid: '9450'
+summary: Use this four-step learning routine to deeply explore visual primary sources.
+splash_image: /files/cropitsplash.jpg
+author_image: /files/author_image/author_bondie.png
 ---
+
+
 
 ## What is it?
 
@@ -53,7 +68,7 @@ Ask students to choose a source from the collection that either:
 
 ### Step Three: Identify the Evidence
 
-Collect the types of evidence students cropped on large chart paper by asking them to recall the different types of details that they cropped. These charts encourage students to notice details and can be used later, when adding descriptions to writing or as supports for answers during class discussions. The charts might look like the example below and will constantly grow as students discover how details help them build meaning. ![Chart](/sites/default/files/cropitchart2.jpg)
+Collect the types of evidence students cropped on large chart paper by asking them to recall the different types of details that they cropped. These charts encourage students to notice details and can be used later, when adding descriptions to writing or as supports for answers during class discussions. The charts might look like the example below and will constantly grow as students discover how details help them build meaning. ![Chart](/files/cropitchart2.jpg)
 
 ### Step Four: Close the Lesson
 

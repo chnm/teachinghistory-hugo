@@ -2,11 +2,28 @@
 title: 'Tramping Through History: Crafting Individual Field Trips'
 date: '2009-11-03T16:40:31'
 lastmod: '2018-09-21T14:29:40'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 23480
 url: /teaching-materials/teaching-guides/23480
+author_bio: 'James A. Percoco has received numerous awards for his work in history
+  education. He has taught U.S. and Applied History at West Springfield High School
+  in Springfield, VA since 1980. He is the author of several books, most recently
+  *Summers with Lincoln: Looking for the Man in the Monuments*; and serves as History
+  Educator-in-Residence at American University.'
+image_fid: '4107'
+splash_image_fid: '4051'
+thumbnail_fid: '3438'
+author_image_fid: '3581'
+summary: Go forth, and contextualize! Give students the opportunity for solo connection
+  to historical places.
+splash_image: /files/TrampingThroughHistorySplash.jpg
+thumbnail: /files/author_image/frank_author_0.jpg
+image: /files/Tramping-Through-150x113.jpg
+author_image: /files/author_image/PercocoBioImage.jpg
 ---
+
+
 
 "Teachers," the Greek writer Nikos Kazantzakis wrote, "are those who use themselves as bridges, over which they invite their students to cross; then having facilitated their crossing, joyfully collapse, encouraging them to create bridges of their own." With Kazantzakis’s maxim under my wing, I have nurtured his approach to teaching history for 30 years. Washington, DC, and its environs is the great laboratory of democracy. Given the chance to teach in the Washington, DC, area, I can empower my students with a special kind of learning—one infused by time, place, and space.
 

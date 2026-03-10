@@ -2,8 +2,11 @@
 title: Jacksonville Historical Society and Merrill House [FL]
 date: '2008-01-08T13:33:49'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 7962
+website_url: http://www.jaxhistory.com/
 ---
 
+The Jacksonville Historical Society preserves the history of Jacksonville, Florida, and operates the 1886 Queen Anne-style Merrill House, which today serves as a historic house museum.
+The society offers periodic guided tours of Jacksonville as well as a bookstore and a collection of photographs. The Merrill House is open year-round for tours and can accommodate groups by appointment. The website offers visitor information and histories of Jacksonville, the Merrill House, and the society, as well as special features which highlight particular aspects of Jacksonville's history.

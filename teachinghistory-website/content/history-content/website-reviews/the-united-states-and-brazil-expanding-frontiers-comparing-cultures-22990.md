@@ -2,9 +2,21 @@
 title: 'The United States and Brazil: Expanding Frontiers, Comparing Cultures'
 date: '2009-10-07T14:29:02'
 lastmod: '2018-09-24T14:31:37'
-type: website
+content_type: website
 draft: false
 drupal_nid: 22990
 url: /history-content/website-reviews/22990
+website_url: http://international.loc.gov/intldl/brhtml////
+image_fid: '2524'
+splash_image_fid: '5659'
+thumbnail_fid: '5133'
+summary: How are Brazil and the U.S. similar? How are they different?
+splash_image: /files/splash-wr-brazil.jpg
+thumbnail: /files/btt-autos-cars.jpg
+image: /files/website_image/USBrazImage.jpg
 ---
 
+
+Designed to explore the historical similarities and contrasts, ethnic diversity, and interactions between Brazil and the United States, this site contains almost 1,000 images from the rare book, manuscript, map, print, and photographic collections of the Library of Congress and the National Library of Brazil.
+The site includes letters (including letters from Thomas Jefferson concerning the independence of Brazil), illustrations, 18th-century maps, and other textual items, including poetry.
+The sources are available in five categories: "Historical Foundations," "Ethnic Diversity," "Culture and Literature," "Mutual Impressions," and "Biodiversity" (right now, only the Historical Foundations section is completed). The site is viewable in both English and Portuguese, and is appropriate for high school and college students, as well as teachers and researchers.

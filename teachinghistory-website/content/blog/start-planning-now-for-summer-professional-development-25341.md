@@ -2,11 +2,18 @@
 title: Start Planning Now for Summer Professional Development
 date: '2011-12-08T16:44:44'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25341
 url: /nhec-blog/25341
+date_published: '2011-12-12T00:00:00'
+image_fid: '8659'
+splash_image_fid: '8658'
+summary: It's never too early to start planning for summer professional development.
+splash_image: /files/splash-blog-pd11.jpg
+image: /files/image-blog-pd11.jpg
 ---
+
 
 Have you started thinking about the summer yet? It's never too early, especially if you're considering professional development opportunities. Many summer programs have spring application deadlines.
 Check with local and state historical societies, libraries and archives, historic sites, national parks, and museums in your area—your never know what organizations may be offering workshops, institutes, or seminars.

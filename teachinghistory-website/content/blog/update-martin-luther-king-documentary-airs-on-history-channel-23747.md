@@ -2,11 +2,17 @@
 title: Update!  Martin Luther King Documentary Airs on History Channel
 date: '2010-01-15T12:03:20'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23747
 url: /nhec-blog/23747
+date_published: '2010-01-15T00:00:00'
+image_fid: '3868'
+summary: History Channel debuts a two-hour documentary on the life and legacy of Martin
+  Luther King.
+image: /files/king.jpg
 ---
+
 
 Here's a supplement to an earlier blog entry, [Teaching About Dr. Martin Luther King](http://teachinghistory.org/nhec-blog/23709).
 On Monday, January 18, 2010, The History Channel broadcasts an [unforgettable two hour documentary on the life of Martin Luther King, Jr.](http://www.history.com/shows). The program airs 4pm-6pm.

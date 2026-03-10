@@ -2,8 +2,10 @@
 title: New Jersey State Police Museum & Learning Center
 date: '2008-01-08T13:39:50'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 14004
+website_url: http://www.njspmuseum.org/
 ---
 
+"A visit to the New Jersey State Police Museum & Learning Center provides the opportunity to learn the distinguished history of the nation's most diversified state law enforcement agency. Students learn the history of the State of New Jersey through the historic development of the State Police. Beginning with the State Grange era, through periods of population growth and economic changes, the New Jersey State Police have kept in step, meeting the changing needs of the citizens of the state."

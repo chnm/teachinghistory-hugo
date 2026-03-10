@@ -2,7 +2,7 @@
 title: 'The Atomic Bomb: Hiroshima and Nagasaki'
 date: '2012-03-07T11:00:32'
 lastmod: '2018-07-03T10:39:00'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 25484
 url: /history-content/beyond-the-textbook/25484

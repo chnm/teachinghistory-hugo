@@ -2,11 +2,16 @@
 title: 'Summer Reading: Clearinghouse Staff Recommendations, Part III'
 date: '2009-08-17T10:47:24'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22474
 url: /nhec-blog/22474
+date_published: '2009-08-17T00:00:00'
+image_fid: '1520'
+summary: Just a few more recommendations for the waning days of summer.
+image: /files/krecom.jpg
 ---
+
 
 It's mid-August. Time for the last weeks of vacation, time to wind down summer activities, time to gear up for the start of school—and maybe time to fit in in a few more good reads. Here's the last of our staff recommendations for summer reading.(Please revisit our earlier blogs here: [Summer Reading: Clearinghouse Staff Recommendations, Part I](http://teachinghistory.org/nhec-blog/22337) and [Summer Reading: Clearinghouse Staff Recommendations, Part II](http://teachinghistory.org/nhec-blog/22408).)
 Jane Kon, Clearinghouse Project Coordinator at Stanford University, isn't sure she would have read [*America, America*](http://www.amazon.com/America-Novel-Ethan-Canin/dp/0812979893/ref=sr_1_1?ie=UTF8&qid=1250521096&sr=8-1) by Ethan Canin if her book club hadn't tackled it. "I tend to like books that are less ambiguous and more clearcut on who are the good guys and the bad guys. But it was an interesting view of the motivations and shenanigans involved as a presidential hopeful and his handlers jockey for position in the 1972 election year."

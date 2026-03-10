@@ -2,8 +2,9 @@
 title: 'Our American Democracy: A Middle and Secondary School Grant'
 date: '2011-06-15T15:12:33'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24920
 ---
 
+Middle and high school students in this diverse, low-income Bronx district have traditionally scored poorly on the New York statewide U.S. History Regents exam; also, teachers have little access to history-related professional development. Each year, the project will involve 32 teacher leaders in a week-long summer institute in which they will share primary and secondary sources to develop curriculum units and field-test U.S. history lessons with summer school students. At the institute, they will form curriculum design teams and participate in 11 meetings throughout the year to discuss content aligned with the targeted National Assessment of Educational Progress (NAEP) periods. A total of 75 teachers will attend lectures twice a year, and 100 teachers will participate in two history forums per year, featuring lectures, primary source work and sharing of curriculum design team units. The participants will rotate each year with some overlap of teachers. The content will be based on a key premise—participation in society as educated citizens and voters requires students to understand the development of our democratic institutions and ideas. The project will extend teachers' ability to use primary sources, Web tools and inquiry strategies. Participating teachers will work within curriculum design teams—comprising a team historian, a teacher educator and eight high school teachers—to develop two units per year that align with the NAEP U.S. history themes and periods. A Web site will host these units, which will include primary and secondary sources, teaching strategies, lesson plans, activities and high-quality assessments. They will also share these materials through 2-day professional development history forums.

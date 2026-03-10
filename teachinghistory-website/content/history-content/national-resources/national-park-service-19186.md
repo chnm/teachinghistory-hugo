@@ -2,12 +2,19 @@
 title: National Park Service
 date: '2008-04-17T10:33:09'
 lastmod: '2017-10-06T15:32:46'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 19186
 url: /history-content/national-resources/19186
 featured: true
+website_url: http://www.nps.gov
+splash_image_fid: '4068'
+thumbnail_fid: '2087'
+summary: Lesson plans, essays, multimedia, activities, and artifacts of U.S. heritage.
+splash_image: /files/NPSSplash.jpg
+thumbnail: /files/quiz_thumbnail/Women'sSuffrage_Thumb.jpg
 ---
+
 
 The National Park Service oversees a wealth of places and resources to visit and for hands-on and classroom instruction in American history.
 [For Teachers](http://www.nps.gov/history/teachers.htm) introduces educational materials focusing on history and culture available through the National Park Service.

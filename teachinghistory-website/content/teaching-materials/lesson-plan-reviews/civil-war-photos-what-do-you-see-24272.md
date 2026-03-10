@@ -2,11 +2,21 @@
 title: 'Civil War Photos: What Do You See?'
 date: '2010-09-30T11:34:20'
 lastmod: '2018-04-24T10:31:43'
-type: lesson_plan_reviews
+content_type: lesson_plan_reviews
 draft: false
 drupal_nid: 24272
 url: /teaching-materials/lesson-plan-reviews/24272
+flexibility_scale: '5'
+topic: Links between Civil War and Industrial Revolution
+website_url: http://www.loc.gov/teachers/classroommaterials/lessons/civil-war/
+image_fid: '6633'
+splash_image_fid: '6632'
+summary: Analysis of photographs of Civil War artillery broadens students understanding
+  of the American Industrial period.
+splash_image: /files/confederatecannon_splash.jpg
+image: /files/lesson_image/monitorturret_crop.jpg
 ---
+
 
 This [lesson](http://www.loc.gov/teachers/classroommaterials/lessons/civil-war/) provides an excellent opportunity to teach students how to analyze historical photographs. Focusing on [one photograph](http://hdl.loc.gov/loc.pnp/cwpb.03851) of a piece of Civil War artillery (though making use of a variety of [other images](http://www.loc.gov/pictures/collection/cwp/)), the lesson guides students step by step in carefully analyzing various elements of the photograph. Different portions of the image are isolated, and students answer questions about details in that portion of the image. Some questions may be difficult for students, and even teachers, to answer on their own, but [answers](http://www.loc.gov/teachers/classroommaterials/lessons/civil-war/answers.html) to the questions are provided. This portion of the process would be a great opportunity for teachers to encourage students to make educated guesses in response to the more difficult questions before checking their answers.
 While the lesson focuses on one particular photograph, it includes a remarkably useful collection of Civil War photographs to provide context for the featured image. We especially like the encouragement given students to re-evaluate their conclusions about the first image after looking at subsequent pictures. Openness to new evidence and new conclusions is an attitude that is important for students of history to maintain.

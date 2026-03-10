@@ -2,14 +2,32 @@
 title: Crafting Digital Stories
 date: '2012-05-07T10:49:25'
 lastmod: '2017-10-06T15:21:32'
-type: ask_a_digital_historian
+content_type: ask_a_digital_historian
 draft: false
 drupal_nid: 25587
 question: I teach early elementary school, and my students are learning about the
   differences between past and present. Is there a tool that would allow them to share
   their learning (mostly using images) online with others?
 url: /digital-classroom/ask-a-digital-historian/25587
+author_bio: Ben Walsh has been involved in history teaching in the UK for over 25
+  years as a teacher and head of department, textbook author, and examiner. He is
+  currently Deputy President of the Historical Association, which represents history
+  teachers in England.
+image_fid: '9229'
+splash_image_fid: '9230'
+author_image_fid: '9228'
+summary: Don't just test students, allow them to create! Discover digital tools that
+  help students share history knowledge.
+spotlight: Don't just test students' knowledge about the past and present, engage
+  their imaginations! This list of easy-to-use (and FREE) digital tools will allow
+  students to creatively represent their understanding of historical topics and share
+  them with others.
+splash_image: /files/cdssplash.jpg
+image: /files/lesson_image/cdsimage.jpg
+author_image: /files/author_image/walsh_author.jpeg
 ---
+
+
 
 With the explosion of Web 2.0 resources there is no shortage of tools for carrying out the types of activities you describe. It is not my place to endorse particular resources but I can comment with confidence from personal experience using a few of these tools and having great fun in the process. I tend to teach older students so you may want to check these resources out before exposing your students to them. On the other hand, when I do work with younger students it is usually in one-day workshop sessions and there is never much doubt by the end of the day who understands the software better! I think it is the lack of fear, which younger students seem to have in experimenting with technology. Anyway, some suggestions:
 **[Wallwisher](http://wallwisher.com/)**
@@ -24,3 +42,8 @@ This may seem a little crazy but it is such fun! Essentially students script ani
 This is a tool similar to Xtranormal, but it uses still images. It is very simple to use and allows students to take a range of characters and tell a story with them.
 **[Prezi](http://prezi.com/)**
 Prezi is already being used by a lot of teachers as an alternative to PowerPoint. I won't try to explain Prezi here. A quick look at the [sample projects](http://prezi.com/explore/education/) which have been created will be far more articulate, eloquent, and absorbing!
+
+---
+
+Learn more about [VoiceThread](http://teachinghistory.org/digital-classroom/tech-for-teachers/21844), [Prezi](http://teachinghistory.org/digital-classroom/tech-for-teachers/24457), [Wallwisher](http://teachinghistory.org/digital-classroom/tech-for-teachers/24636), and other digital tools in [*Tech for Teachers*](http://teachinghistory.org/digital-classroom/tech-for-teachers).
+Watch 1st-grade teacher Jennifer Orr and her students put VoiceThread to work in [*Beyond the Chalkboard*](http://teachinghistory.org/digital-classroom/beyond-the-chalkboard/24589). Orr shares her thoughts on the project in our [blog](http://teachinghistory.org/nhec-blog/24649).

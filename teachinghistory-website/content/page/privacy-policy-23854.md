@@ -2,7 +2,7 @@
 title: Privacy Policy
 date: '2010-02-15T11:52:51'
 lastmod: '2011-06-16T09:01:44'
-type: page
+content_type: page
 draft: false
 drupal_nid: 23854
 url: /privacy

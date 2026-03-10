@@ -2,10 +2,14 @@
 title: 'Picturing America: Round Two'
 date: '2008-08-12T17:52:20'
 lastmod: '2011-06-14T10:02:44'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19533
 url: /nhec-blog/19533
+date_published: '2008-08-12T00:00:00'
+summary: The National Endowment for the Humanities (NEH) recently announced that a
+  second round of applications for Picturing America would be accepted online through
+  October 31, 2008.
 ---
 
 Art can bring history to life. After a successful launch, The [National Endowment for the Humanities (NEH)](http://www.neh.gov) encourages educators to apply during the second round of applications for [*Picturing America*](http://picturingamerica.neh.gov/index.php?sec=home).

@@ -2,11 +2,16 @@
 title: When Did July 4 Become the Fourth of July?
 date: '2009-07-02T17:23:59'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22379
 url: /nhec-blog/22379
+date_published: '2009-07-02T00:00:00'
+image_fid: '1167'
+summary: Even Thomas Jefferson got his dates mixed up.
+image: /files/parade_0.jpg
 ---
+
 
 July 4 wasn't always, well, the Fourth of July—at least as we think of it today in America. In fact, July 4 wasn't even the day of the signing of the Declaration of Independence—even though Thomas Jefferson, John Adams, and Benjamin Franklin insisted it was.
 Nobody actually proved them wrong until 1884 when a librarian of the Boston Public Library consulted original manuscript minutes of the journals of Congress preserved in the Department of State. In the intervening century, July 4th celebrations became an established feature of public life and served, in part, to interpret and define local and national (and partisan) political culture.

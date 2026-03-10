@@ -2,11 +2,26 @@
 title: Jennifer Orr on Questioning Columbus
 date: '2010-10-07T17:26:32'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24279
 url: /nhec-blog/24279
+author_bio: Jennifer Orr is a 1st-grade teacher at Annandale Terrace Elementary School
+  in Fairfax County, VA. A National Board Certified Teacher in middle childhood, she
+  has taught 4th, 5th, and 1st grades since 1998.
+date_published: '2010-10-11T00:00:00'
+image_fid: '6658'
+splash_image_fid: '8067'
+author_image_fid: '6673'
+summary: 'First-grade teacher Jennifer Orr answers the question, how do you teach
+  when you don''t have the answers to all the questions? Answer: Be honest! Here,
+  she suggests sources for opening up the story of Christopher Columbus.'
+splash_image: /files/splash-blog-cdjo.jpg
+image: /files/image-blog-jocc.jpg
+author_image: /files/author_image/jennifer-orr.jpg
 ---
+
+
 
 History is complicated and in our attempts to simplify it for young children we often change it, sometimes drastically. The story of Christopher Columbus is one example. For generations we have passed down myths about this man. We have taught children that he alone believed the world was round, when, in truth, many if not most people of his time understood that the world is round. We have taught that he discovered a new world. How could he discover it if people were already living there? We have also taught that he died not realizing what he had 'discovered.'
 Elementary school teachers have a unique challenge: they teach all subjects rather than focus on one. Not surprisingly, it is difficult to be experts in everything.

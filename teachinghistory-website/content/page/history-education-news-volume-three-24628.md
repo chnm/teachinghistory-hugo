@@ -2,10 +2,15 @@
 title: History Education News - Volume Three
 date: '2011-04-15T13:15:22'
 lastmod: '2018-08-01T16:13:34'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24628
+splash_image_fid: '7472'
+summary: History is more than words. Objects also provide insight into the past. In
+  this issue, we highlight material culture resources & teaching ideas.
+splash_image: /files/3-01.jpeg
 ---
+
 
 ISSUE
 JAN

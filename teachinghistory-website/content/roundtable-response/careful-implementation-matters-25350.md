@@ -2,10 +2,18 @@
 title: 'Careful: Implementation Matters!'
 date: '2011-12-19T11:55:01'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25350
+author_bio: Stephen Lazar is a National Board Certified Social Studies teacher at
+  the Academy for Young Writers in Brooklyn, NY. He blogs about teaching at *Outside
+  the Cave*.
+author_image_fid: '8677'
+summary: These changes cannot be done to teachers, but rather must be accomplished
+  through the collaboration of teachers, and their students.
+author_image: /files/author_image/author_lazar.jpg
 ---
+
 
 I am pretty sure I am supposed to be against the Common Core Standards. While I share the concern of many of my colleagues that the new standards are a Trojan Horse for further standardized testing, narrowed curriculum, and hierarchical control of what happens in the classroom, I think the standards themselves represent the greatest opportunity for history teaching and learning to be widely re-imagined since the Committee of Ten set the basic outlines for American education over a hundred years ago.
 > The Common Core also firmly places writing where it belongs: as the foundation of our discipline.

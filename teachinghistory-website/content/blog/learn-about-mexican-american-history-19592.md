@@ -2,10 +2,12 @@
 title: Learn About Mexican American History
 date: '2008-08-29T10:13:31'
 lastmod: '2017-10-06T15:39:58'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19592
 url: /nhec-blog/19592
+date_published: '2008-09-10T00:00:00'
+summary: This website weaves the voices of Mexican Americans into the history curriculum.
 ---
 
 Mexican Americans comprise almost 10 percent of the population of the United States. [Learn About Mexican American History]( http://www.digitalhistory.uh.edu/modules/mex_am/index.cfm), a website produced by Steve Mintz, John and Rebeca Moore Professor at the University of Houston, provides resources for weaving their voices into the history curriculum. The guide is a directory to resources of the [Gilder Lehrman Institute](http://www.gilderlehrman.org).

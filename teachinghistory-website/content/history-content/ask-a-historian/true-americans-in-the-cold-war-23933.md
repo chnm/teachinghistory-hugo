@@ -2,13 +2,17 @@
 title: True Americans in the Cold War
 date: '2010-04-08T10:39:08'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23933
 question: How did Cold War politics and culture create conflicts over what it meant
   to be a “true American”?
 url: /history-content/ask-a-historian/23933
+splash_image_fid: '7560'
+summary: Looking for the Red in the Red, White, and Blue?
+splash_image: /files/trueamericans432x240.jpg
 ---
+
 
 America has not yet emerged from conflicts over what it means to be a "true American." Consequently, historical assessments of the Cold War and its ramifications in American culture vary widely, depending on how they see the fundamental political issues at stake.
 
@@ -46,3 +50,39 @@ The U.S. and the U.S.S.R. competed against each other during the Cold War in all
 ## The Red Scare: Real and/or Imagined?
 
 On the one hand, much of the "pro-American" and "anti-Communist" phenomena of Cold War culture during the "Red Scare" was bizarre, comical, and in some cases (such as the McCarthy hearings) downright dangerous. On the other hand, recent historical work on the Cold War has taken into account the extent of the Soviet Union's espionage activities, made public after the opening of the KGB archives and the dissolution of the Soviet Union. These revelations have demonstrated the widespread Soviet successes in America from the 1920s through the end of the Cold War and documented the real presence of sympathizers and spies among U.S. government employees. They also show Soviet funding for a range of political and social activist groups most of whose rank and file members never thought of them as anything but independent, homegrown, and purely "American."
+
+---
+
+*Documentary Sources on the Political Foundations of the Cold War:*
+"Text of Bernard Baruch's Address at Portrait Unveiling," *New York Times*, April 17, 1947.
+"Dr. Douglass Calls for End of 'Cold War,' Militant Peace," *Washington Post*, August 4, 1947.
+Mr. X [George F. Kennan, Director of Policy and Planning, U.S. State Department], ["The Sources of Soviet Conduct,"](http://www.historyguide.org/europe/kennan.html) *Foreign Affairs* Vol. 26, no. 2 (July 1947): 566-82.
+Harry S. Truman, ["Address before a Joint Session of Congress,"](http://avalon.law.yale.edu/20th_century/trudoc.asp) March 12, 1947 [Truman Doctrine].
+George C. Marshall, ["Speech Delivered at Harvard University,"](http://www.fordham.edu/HALSALL/MOD/1947marshallplan1.html) June 5, 1947 [Marshall Plan].
+"Text of Hoover Address Warning U.S. of 'Collectivism,'" *New York Times*, August 11, 1949.
+Andrei Zhdanov, ["Report on the International Situation to the Cominform,"](http://www.halkcephesi.net/kutuphane/zhdanov/Zhdanov_Cominform.htm) September 22, 1947.
+*Historians' Assessments of the Culture of the Cold War:*
+Paul Boyer. *By the Bomb's Early Light: American Thought and Culture at the Dawn of the Atomic Age*. Chapel Hill: University of North Carolina Press, 1994.
+Christopher Andrew and Vasili Mitrokhin. *The Sword and the Shield: The Mitrokhin Archive and the Secret History of the KGB*. New York: Basic Books, 2000.
+John Lewis Gaddis. *We Now Know: Rethinking the Cold War*. New York: Oxford University Press, 1997.
+Arthur Herman. *Joseph McCarthy: Reexamining the Life and Legacy of America's Most Hated Senator*. New York: Free Press, 2000.
+Ronald and Allis Radosh. *Red Star over Hollywood: The Film Colony's Long Romance with the Left*. San Francisco: Encounter Press, 2005.
+Harvey Klehr, John Earl Haynes, Alexander Vassilev. *. New Haven: Yale University Press, 2009.
+Allen Weinstein and Alexander Vassiliev. *The Haunted Wood: Soviet Espionage in America—The Stalin Era*. New York: Random House, 2000.
+Whittaker Chambers, *Witness*. Washington, D.C.: Regnery, 1997 [orig. publ. 1952].
+John Earl Haynes and Harvey Klehr. *In Denial: Historians, Communism and Espionage*. Encounter Books, 2005.
+John C. Culver and John Hyde. *American Dreamer: A Life of Henry A. Wallace*. New York: W.W. Norton, 2001.
+Elaine Tyler May. *Homeward Bound: American Families in the Cold War Era.* New York: Basic Books, 1988.
+Ruth Oldenziel and Karin Zachmann, eds. *Cold War Kitchen: Americanization, Technology, and European Users*. Cambridge: MIT Press, 2009.
+Beatriz Colomina et al. *Cold War Hothouses: Inventing Postwar Culture, from Cockpit to Playboy*. New York: Princeton Architectural Press, 2004.
+Larry May, ed. *Recasting America: Culture and Politics in the Age of the Cold War*. Chicago: University of Chicago Press, 1989.
+Stephen J. Whitfield. *The Culture of the Cold War*, 2nd ed. Baltimore: Johns Hopkins University Press, 1996.
+John Fousek. *To Lead the Free World: American Nationalism and the Cultural Roots of the Cold War*. Chapel Hill: University of North Carolina Press, 2000.
+Elizabeth Borgwardt. *A New Deal for the World: America's Vision for Human Rights*. Cambridge: Belknap Press of Harvard University Press, 2005.
+Richard M. Fried. *The Russians Are Coming! The Russians Are Coming! Pageantry and Patriotism in Cold-War America*. New York: Oxford University Press, 1998.
+Laura A. Belmonte. *Selling the American Way: U.S. Propaganda and the Cold War*. Philadelphia: University of Pennsylvania Press, 2008.
+Tony Shaw. *Hollywood's Cold War*. Amherst: University of Massachusetts Press, 2007.
+Thomas Doherty. *Cold War, Cool Medium: Television, McCarthyism, and American Culture*. New York: Columbia University Press, 2005.
+Jane Pavitt. *Fear and Fashion in the Cold War*. London: Victoria & Albert Museum, 2008.
+The University of Washington library, [The Red Scare: A Filmography](http://www.lib.washington.edu/exhibits/AllPowers/film.html).
+Transcript of Richard Nixon and Nikita Kruschev's 1959 ["Kitchen Debate."](http://www.watergate.info/nixon/1959_nixon-khrushchev-kitchen-debate.shtml")*

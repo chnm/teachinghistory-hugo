@@ -2,14 +2,20 @@
 title: Voting Rights and the 14th Amendment
 date: '2009-12-17T13:27:28'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23652
 question: How much impact did woman suffragists have on the 14th Amendment? How was
   it that its provisions did not give women the right to vote? What did the 15th Amendment
   add that wasn't in the 14th?
 url: /history-content/ask-a-historian/23652
+splash_image_fid: '4839'
+thumbnail_fid: '372'
+summary: How did women suffer no suffrage through the 14th Amendment?
+thumbnail: /files/website_image/JapaneseAmericanInternment.jpg
+splash_image: /files/boston-voter-besieged-new.jpg
 ---
+
 
 History is messy. And so are politics. A good historian resists the urge to reduce the many causes or meanings of an event to a single one. One of the most persistent urges of students of American history is to try to decide whether the Civil War was "really" about slavery or about states' rights. Another contender for the "real" cause of the war has been the regional tensions between an agrarian and an industrial economy, and another contender, the unequal unfolding in various segments of society of the universal implications of the Enlightenment's principle of individual freedom.
 > History is messy. And so are politics.
@@ -59,3 +65,10 @@ As events unfolded in the South, blacks were often excluded from voting by local
 "Section 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude."
 For women's rights advocates, this amendment added nothing new to their struggle for suffrage. Especially frustrating for them was the fact that antebellum reformers had often railed against legal limits to freedom based on "race, color, or sex," and the language of this new amendment seemed to them to be a kind of parody of that, in which "sex" was deliberately replaced by "previous condition of servitude," that is, slavery.
 It was a painful irony for many women's rights activists, therefore, that they found themselves actively *opposing* the passage of the amendment (as some of them had opposed the 14th Amendment). The amendment that would guarantee them the right to vote—the 19th—would not become law until 1920.
+
+---
+
+"Petition of E. Cady Stanton, Susan B. Anthony, Lucy Stone, and others asking for an amendment of the Constitution that shall prohibit the several States from disfranchising any of their citizens on the ground of sex, ca. 1865," Records of the U.S. House of Representatives, [National Archives and Records Administration](http://arcweb.archives.gov/arc/action/BasicMultimediaSearchForm), Washington, DC. ARC Identifier 306684.
+"Form letter from E. Cady Stanton, Susan B. Anthony, and Lucy Stone asking friends to send petitions for women's suffrage to their representatives in Congress, 12/26/1865," Records of the U.S. House of Representatives, [National Archives and Records Administration](http://arcweb.archives.gov/arc/action/BasicMultimediaSearchForm), Washington, DC. ARC Identifier 306686.
+[National Women's History Project](http://www.nwhp.org/) website.
+[HerStory Scrapbook](http://www.herstoryscrapbook.com/) website.

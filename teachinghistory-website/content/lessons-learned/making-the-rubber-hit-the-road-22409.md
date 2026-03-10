@@ -2,10 +2,28 @@
 title: Making the Rubber Hit the Road
 date: '2009-07-22T09:45:57'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 22409
+author_bio: '**Ellen Noonan**, historian and media producer, is project director of
+  [TAH programs](http://ashp.cuny.edu/teaching-and-learning/teaching-american-history/)
+  and a producer at the [American Social History Project/Center for Media and Learning](http://ashp.cuny.edu/)
+  at CUNY Graduate Center.
+
+  **Leah Potter**, a historian and instructional designer, is co-project director
+  for the [TAH programs](http://ashp.cuny.edu/teaching-and-learning/teaching-american-history/)
+  at the [American Social History Project/Center for Media and Learning](http://ashp.cuny.edu/)
+  at CUNY Graduate Center.'
+splash_image_fid: '4570'
+author_image_fid: '4140
+
+
+  4140'
+summary: How we learned to design professional development for teachers *and* their
+  classrooms.
+splash_image: /files/MakingtheRubber.jpg
 ---
+
 
 "These documents are too hard for my students."
 "But this topic is never on the Regents."

@@ -2,11 +2,18 @@
 title: Causes of the American Revolution
 date: '2012-05-30T18:00:21'
 lastmod: '2018-07-03T10:15:11'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 25627
 url: /history-content/beyond-the-textbook/25627
+author_bio: Rosemarie Zagarri received her PhD from Yale University in 1984. Her most
+  recent book is *Women and Politics in the Early American Republic* (University of
+  Pennsylvania Press, 2007). Dr. Zagarri's work focuses on gender and politics during
+  the American Revolution and the early years of the country.
+author_image_fid: '9297'
+author_image: /files/author_image/zagarri_0_1.jpg
 ---
+
 
 For the past several decades, historians have deployed new approaches to the study of the American Revolution that have fundamentally reshaped the scholarly explanation for the coming of the American war for independence. Nonetheless, most elementary and middle school American history textbooks continue to portray the pre-revolutionary era as a series of discrete political and military events that culminated, more or less inevitably, in the separation of the North American colonies from Great Britain. Little attention is given to the underlying social conditions or intellectual causes that allowed certain colonists to envision the possibility of independence. Scant emphasis is placed on the diversity of social backgrounds or economic interests that divided white colonists from one another and impeded unity. More recent accounts at least mention the participation of women and enslaved people in revolutionary activities, but few works focus in any sustained fashion on the significance of their participation or on the relationship between inclusion and exclusion in the newly emerging nation.
 

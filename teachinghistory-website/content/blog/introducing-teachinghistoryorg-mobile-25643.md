@@ -2,11 +2,18 @@
 title: Introducing Teachinghistory.org Mobile
 date: '2012-06-24T15:35:06'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25643
 url: /nhec-blog/25643
+date_published: '2012-06-27T00:00:00'
+image_fid: '9351'
+splash_image_fid: '9352'
+summary: Have you ever wanted to access Teachinghistory.org on the go? Now you can!
+splash_image: /files/splash-mobile.jpg
+image: /files/image-mobile.jpg
 ---
+
 
 Have a history question on the go? We've launched a mobile version of the Teachinghistory.org website! To access the site, visit Teachinghistory.org on a smartphone, tablet, or other portable device.
 From the mobile homepage, you can choose to "Watch," "Play," or "Search." Choose "Watch" to browse our introductory videos, including "[What is Historical Thinking?](http://teachinghistory.org/historical-thinking-intro)" and our introductions for [elementary](http://teachinghistory.org/elementary-school-intro), [middle](http://teachinghistory.org/middle-school-intro), and [high school](http://teachinghistory.org/high-school-intro) educators. Or explore our videos from [*Examples of Historical Thinking*](http://teachinghistory.org/best-practices/examples-of-historical-thinking), [*Teaching in Action*](http://teachinghistory.org/best-practices/teaching-in-action), [*Beyond the Chalkboard*](http://teachinghistory.org/digital-classroom/beyond-the-chalkboard), and more.

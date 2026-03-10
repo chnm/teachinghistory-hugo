@@ -2,11 +2,25 @@
 title: What Is an "Inquiry Lesson"?
 date: '2010-07-23T14:06:58'
 lastmod: '2018-09-11T15:03:11'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 24123
 url: /teaching-materials/teaching-guides/24123
+author_bio: The [Stanford History Education Group](http://sheg.stanford.edu/), located
+  at the nation's leading School of Education, engages in projects at the forefront
+  of how students learn history. Our staff have decades of history teaching experience
+  in high school, middle school, and elementary school classrooms.
+image_fid: '6165'
+splash_image_fid: '6167'
+author_image_fid: '6170'
+summary: Hypothesize, test, and acknowledge how sources form different "pictures of
+  the past".
+splash_image: /files/TeachingHistoricalInquiry432x240.jpg
+image: /files/TeachingHistoricalInquiry150x113.jpg
+author_image: /files/author_image/Logo_SHEG_1.jpg
 ---
+
+
 
 ## What Is an "Inquiry Lesson"?
 

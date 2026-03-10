@@ -2,8 +2,11 @@
 title: Museum and White House of the Confederacy [VA]
 date: '2008-01-08T13:33:46'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 7866
+website_url: http://www.moc.org
 ---
 
+The Museum of the Confederacy is located in Richmond, Virginia, and is housed in the Civil War residence of Jefferson Davis, the president of the Confederacy. The home serves as both a historic house museum and general museum of the Confederacy.
+The museum offers a variety of exhibits that showcase the history of the Confederacy, living history programs during the summer months, and tours for adults and children. The website offers teacher resources, including lesson plans and field trip information; visitor information; and a calendar of events.

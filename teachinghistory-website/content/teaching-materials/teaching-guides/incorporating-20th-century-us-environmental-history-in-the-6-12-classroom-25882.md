@@ -2,11 +2,40 @@
 title: Incorporating 20th Century US Environmental History in the 6-12 Classroom
 date: '2024-12-17T09:19:46'
 lastmod: '2025-02-06T16:21:36'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25882
 url: /teaching-materials/teaching-guides/25882
+author_bio: 'Annabelle Spencer is a PhD student in History, specializing in Women
+  & Gender History and Digital Humanities, and is a Graduate Research Assistant at
+  the Roy Rosenzweig Center for History and New Media (RRCHNM). She received her BA
+  in History from Austin Peay State University and MA in History with a concentration
+  in Applied History with an Emphasis in Technology and New Media‬‭ Smithsonian Mason
+  Certificate in Digital Public Humanities‬ from George Mason University. Prior to
+  entering the PhD program, she was a GRA for the Center for Mason Legacies and an
+  intern for RRCHNM on the Smithsonian HBCU History, Culture, and Access Consortium
+  (HCAC) Project.
+
+
+  Hannah LeComte is a PhD student and Research Assistant at the Roy Rosenzweig Center
+  for History and New Media. Her research includes United States women and gender
+  history, with emphases on childhood, activism, and public history. Before attending
+  George Mason, Hannah earned her MA in Public History from Duquesne University, and
+  she holds a BA in History and a BFA in Ballet Performance from the University of
+  Oklahoma. Hannah''s professional experience includes working for the National Endowment
+  for the Humanities as a Pathways Intern, serving as curatorial intern for the Girl
+  Museum, and working as an archival intern for both the Pittsburgh History and Landmarks
+  Foundation and the Ballets Russes Archive in Norman, Oklahoma. Hannah also serves
+  as a copy editor for *American Journalism: A Journal of Media History.*'
+splash_image_fid: '10513'
+author_image_fid: '10502'
+summary: This guide consists of curated primary and secondary sources to help students
+  connect environmental history to broader themes in twentieth century US history.
+splash_image: /files/NMAH-YWCA Camp for Girls.jpg
+author_image: /files/author_image/Annabelle and Hannah.png
 ---
+
+
 
 ## Introduction: How to Use this Guide
 
@@ -48,7 +77,7 @@ The sources in this section exemplify the many perspectives among Americans fost
 
 Link:<https://dp.la/primary-source-sets/environmental-preservation-in-the-progressive-era/sources/919>
 
-![Excerpt from essay on pg 327](/sites/default/files/inline-images/Screenshot%202024-12-17%20at%209.33.12%E2%80%AFAM_1.png)
+![Excerpt from essay on pg 327](/files/inline-images/Screenshot 2024-12-17 at 9.33.12 AM_1.png)
 
 Background:
 
@@ -80,7 +109,7 @@ Annotation/Discussion Questions:
 
 Link: <https://dp.la/primary-source-sets/environmental-preservation-in-the-progressive-era/sources/913>
 
-![1916 Congressional bill to establish the NPS](/sites/default/files/inline-images/Screenshot%202024-12-17%20at%2012.09.25%E2%80%AFPM_1.png)
+![1916 Congressional bill to establish the NPS](/files/inline-images/Screenshot 2024-12-17 at 12.09.25 PM_1.png)
 
 Background:
 
@@ -111,7 +140,7 @@ Link to Supplementary Lesson Plan, NPS: <https://home.nps.gov/articles/000/-h-o
 
 ### "Everybody Plant a Garden," *Richmond Times-Dispatch,* April 22, 1917
 
-![Everybody Plant a Garden Newspaper article](/sites/default/files/inline-images/Screenshot%202024-12-17%20at%2012.26.57%E2%80%AFPM.png)
+![Everybody Plant a Garden Newspaper article](/files/inline-images/Screenshot 2024-12-17 at 12.26.57 PM.png)
 
 Annotation:
 
@@ -128,7 +157,7 @@ Discussion Questions:
 
 ### "Yule Exhibits in Portsmouth," *Virginian-Pilot,* December 11, 1941
 
-![Yule Exhibits in Portsmouth Newspaper Article](/sites/default/files/inline-images/Screenshot%202024-12-17%20at%2012.35.13%E2%80%AFPM.png)
+![Yule Exhibits in Portsmouth Newspaper Article](/files/inline-images/Screenshot 2024-12-17 at 12.35.13 PM.png)
 
 Annotation:
 
@@ -161,7 +190,7 @@ Discussion Questions:
 
 Link: <https://www.loc.gov/item/2002712327/>
 
-![Will you have a part in victory? painting of woman dressed in american flag tossing seeds into a field.](/sites/default/files/inline-images/Screenshot%202024-12-17%20at%2012.39.38%E2%80%AFPM.png)
+![Will you have a part in victory? painting of woman dressed in american flag tossing seeds into a field.](/files/inline-images/Screenshot 2024-12-17 at 12.39.38 PM.png)
 
 Annotation:
 
@@ -187,7 +216,7 @@ Gardens of Victory Video
 
 Link: <https://www.youtube.com/watch?v=uBg1ND5X3tA>
 
-![poster showing a family working in a garden with a basket full of vegetables they grew](/sites/default/files/inline-images/Screenshot%202024-12-17%20at%2012.45.30%E2%80%AFPM.png)
+![poster showing a family working in a garden with a basket full of vegetables they grew](/files/inline-images/Screenshot 2024-12-17 at 12.45.30 PM.png)
 
 Annotation:
 
@@ -226,7 +255,7 @@ President Franklin Roosevelt’s New Deal ushered in a series of federally fund
 
 ### The Dust Bowl and the Great Depression
 
-![“Abandoned farm in the dust bowl area, Oklahoma. ” Photographed by Arthur Rothstein of the Farm Security Administration April 1936, Library of Congress.](/sites/default/files/inline-images/Screenshot%202024-12-17%20at%2012.55.14%E2%80%AFPM.png)![Dorothea Lange, “Migrant Mother: Birth of an Icon,” Nipomo, 1936, Oakland Museum of California.](/sites/default/files/inline-images/Screenshot%202024-12-17%20at%2012.56.36%E2%80%AFPM.png)
+![“Abandoned farm in the dust bowl area, Oklahoma. ” Photographed by Arthur Rothstein of the Farm Security Administration April 1936, Library of Congress.](/files/inline-images/Screenshot 2024-12-17 at 12.55.14 PM.png)![Dorothea Lange, “Migrant Mother: Birth of an Icon,” Nipomo, 1936, Oakland Museum of California.](/files/inline-images/Screenshot 2024-12-17 at 12.56.36 PM.png)
 
 Background:
 
@@ -286,7 +315,7 @@ The sources in this section highlight the specific ways outdoor spaces were segr
 
 ### Ownership and Segregation of Beaches
 
-![YWCA camp for girls. Highland Beach, Maryland, 1930, Smithsonian National Museum of American History.](/sites/default/files/inline-images/Screenshot%202024-12-17%20at%201.29.27%E2%80%AFPM_0.png)
+![YWCA camp for girls. Highland Beach, Maryland, 1930, Smithsonian National Museum of American History.](/files/inline-images/Screenshot 2024-12-17 at 1.29.27 PM_0.png)
 
 Annotation:
 
@@ -296,7 +325,7 @@ Annotation:
 * The car and clothing hint at when this was taken, and reveal the presence of Black people in outdoor spaces, specifically beaches, long before desegregation.
 * This photo is of a YWCA camp for girls. Recreation, specifically in the outdoors, was not limited to just boys.
 
-![Chicago Tribune, July 9, 1961.](/sites/default/files/inline-images/Screenshot%202024-12-17%20at%201.29.41%E2%80%AFPM_0.png)
+![Chicago Tribune, July 9, 1961.](/files/inline-images/Screenshot 2024-12-17 at 1.29.41 PM_0.png)
 
 Annotation:
 
@@ -341,7 +370,7 @@ By the early 1960s and 1970s, what had been a burgeoning environmental movement 
 
 ### "DDT is good for me-e-e," Advertisement, *Time Magazine,*June 30, 1947
 
-![DDT Poster by the Penn Salt Chemicals Manufacturing Company. Poster touts the many beneficial uses of DDT. ](/sites/default/files/inline-images/DDT%20Poster.png)
+![DDT Poster by the Penn Salt Chemicals Manufacturing Company. Poster touts the many beneficial uses of DDT. ](/files/inline-images/DDT Poster.png)
 
 (see [https://digital.sciencehistory.org/works/1831ck18w](//digital.sciencehistory.org/works/1831ck18w))
 
@@ -375,7 +404,7 @@ Extend: "DDT: The Britney Spears of Chemicals" Podcast, <https://digital.scienc
 
 ### Excerpts: Rachel Carson’s *Silent Spring*, 1962, Chapters 1 & 17
 
-![A Fable for Tomorrow page one. Above the text is a sketched landscape with trees and mountains](/sites/default/files/inline-images/A%20Fable%20for%20Tomorrow%20Page%201.png)
+![A Fable for Tomorrow page one. Above the text is a sketched landscape with trees and mountains](/files/inline-images/A Fable for Tomorrow Page 1.png)
 
 (see <https://www.uky.edu/~tmute2/GEI-Web/GEI/GEI10/GEI%20past/GEI08-Global%20Env%20Issues/GEI%20lecturse/carson_silent-spring.pdf>).
 
@@ -406,7 +435,7 @@ Walter Cronkite, Earth Day CBS News Broadcast, April 22, 1970, <https://www.you
 
 March to Wounded Knee: Earth Day World Pilgrimage Poster, 1973, Library of Congress, <https://www.loc.gov/item/2016648085/>.
 
-![Poster reading March to Wounded Knee: Earth Day, April 20-22](/sites/default/files/inline-images/March%20to%20wounded%20knee%20poster.jpg)
+![Poster reading March to Wounded Knee: Earth Day, April 20-22](/files/inline-images/March to wounded knee poster.jpg)
 
 Background
 

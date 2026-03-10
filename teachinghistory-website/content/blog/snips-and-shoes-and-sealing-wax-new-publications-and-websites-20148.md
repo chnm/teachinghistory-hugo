@@ -2,11 +2,16 @@
 title: 'Snips and Shoes and Sealing Wax:  New Publications and Websites'
 date: '2008-10-20T15:24:29'
 lastmod: '2011-06-14T10:02:45'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20148
 url: /nhec-blog/20148
+date_published: '2008-10-21T00:00:00'
+image_fid: '324'
+summary: Websites and publications to supplement curriculum.
+image: /files/splash_bg.jpg
 ---
+
 
 **Publications**
 The October issue of [*Perspectives*](http://www.historians.org/Perspectives/issues/2008/0810/index.cfm) from the [American Historical Association](http://www.historians.org) includes [reflections from AHA President Gabrielle Spiegel](http://www.historians.org/Perspectives/issues/2008/0810/0810pre1.cfm) on being a History Mom; an article by Karen Halttunen, [*The American Historical Association and K-16 Collaboration*](http://www.historians.org/Perspectives/issues/2008/0810/0810vic1.cfm) presenting findings from the AHA Working Group on the Future of the American Historical Association; and Wilson Warren’s [*Bridging the Gap between K–12 Teachers and Postsecondary Historians,*](http://www.historians.org/Perspectives/issues/2008/0810/0810tea1.cfm) highlighting the positive effects of the Teaching American History (TAH) program, but noting that more can be done to "bridge the gap between K–12 teachers and academic historians."

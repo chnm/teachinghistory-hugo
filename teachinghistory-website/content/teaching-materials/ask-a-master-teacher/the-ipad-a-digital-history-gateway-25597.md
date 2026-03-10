@@ -2,13 +2,19 @@
 title: 'The iPad: A Digital History Gateway'
 date: '2012-05-10T15:37:14'
 lastmod: '2018-09-11T11:44:04'
-type: ask_an_educator
+content_type: ask_an_educator
 draft: false
 drupal_nid: 25597
 question: I'm searching for the best iPad textbook for U.S. history and civics. Any
   suggestions?
 url: /teaching-materials/ask-a-master-teacher/25597
+image_fid: '9244'
+splash_image_fid: '9245'
+summary: Can iPads open an exciting new world filled with digital textbooks and sources?
+splash_image: /files/ipadsplash_0.jpg
+image: /files/ipadimage_0.jpg
 ---
+
 
 Having just bought an iPad, I was eager to investigate your question. Given the combination of rich historical archives and resources on the Web and the growing use of the iPad and other tablet devices, I can imagine a new kind of textbook, one that facilitates teachers guiding students in historical investigations and problem-solving.
 
@@ -23,3 +29,8 @@ Students could encounter and annotate primary and secondary sources, watch video
 ## Educators Sharing Ideas
 
 See Joe Jolen’s [blog]( http://teachinghistory.org/nhec-blog/25494) on teachers and students creating e-books. Read Glenn Wiebe’s [guide](http://teachinghistory.org/digital-classroom/tech-for-teachers/25305) on getting started with iPads and using them effectively in the classroom. See [here](http://edtechteacher.org/index.php/teaching-technology/mobile-technology-apps/ipad-as) for edtechteacher’s extensive list of ways to use iPads in the classroom, complete with video tutorials and helpful apps.
+
+---
+
+A recent [news report](http://minnesota.publicradio.org/display/web/2012/04/23/university-open-source-textbooks) provides a heads up about a forum under development where you will be able to find reviews of open-source college textbooks.
+Read the thoughts of six educators, publishers (including Neeru Khosla, co-founder of CK–12), and more in Teachinghistory.org's *Roundtable* that asks, "[Digital textbooks: Has their time come?](http://teachinghistory.org/issues-and-research/roundtable/25087)"

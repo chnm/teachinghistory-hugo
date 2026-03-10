@@ -2,9 +2,17 @@
 title: Historical Improbabilities
 date: '2011-03-28T01:00:00'
 lastmod: '2018-08-24T14:21:17'
-type: quizly
+content_type: quizly
 draft: false
 drupal_nid: 24577
 url: /history-content/quiz/24577
+date_published: '2011-03-28T00:00:00'
+splash_image_fid: '7253'
+thumbnail_fid: '2949'
+summary: Truth is stranger than fiction, they say. Can you tell the difference?
+splash_image: /files/improbabilities-splash.jpg
+thumbnail: /files/quiz_thumbnail/TerrAttaThumbnail.jpg
 ---
 
+
+You can view history as an inevitable progression of events—or you can see it as a kaleidoscope of strange details and small surprises. Read the following statements and decide if they're true or false.

@@ -2,11 +2,24 @@
 title: Joe Jelen on the New York Public Library Digital Gallery
 date: '2011-03-29T12:23:26'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24595
 url: /nhec-blog/24595
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+date_published: '2011-04-25T00:00:00'
+image_fid: '7290'
+splash_image_fid: '7289'
+author_image_fid: '7287'
+summary: This digitized photographs contained in this collection can be incorporated
+  into lesson plans in a variety of exciting ways.
+splash_image: /files/NYPLsplash_0.jpg
+image: /files/NYPLimage-1.jpg
+author_image: /files/author_image/author_jelen_0.png
 ---
+
+
 
 ## Overview
 

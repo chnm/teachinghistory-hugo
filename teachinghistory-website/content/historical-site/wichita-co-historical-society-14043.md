@@ -2,8 +2,10 @@
 title: Wichita Co. Historical Society
 date: '2008-01-08T13:39:51'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 14043
+website_url: http://www.wichitacountymuseum.org/
 ---
 
+"Wichita County Historical Society and the Museum of the Great Plains"

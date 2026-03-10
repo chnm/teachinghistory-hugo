@@ -2,11 +2,16 @@
 title: Denmark Vesey
 date: '2010-07-26T16:17:54'
 lastmod: '2018-09-12T11:17:33'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 24126
 url: /history-content/beyond-the-textbook/24126
+author_bio: Kirt von Daacke is Associate Professor and Department Chair of History
+  at Lynchburg College.
+author_image_fid: '6184'
+author_image: /files/author_image/vonDaacke_author.jpg
 ---
+
 
 Between June 19 and August 6, 1822, the Charleston, SC, Court of Magistrates and Freeholders interrogated, tortured, and tried in closed sessions over 100 African Americans as co-conspirators in a planned slave rebellion. Almost all were slaves. The court sent 35 of them to the gallows, two died in custody, and nearly 40 were transported out of the United States.
 

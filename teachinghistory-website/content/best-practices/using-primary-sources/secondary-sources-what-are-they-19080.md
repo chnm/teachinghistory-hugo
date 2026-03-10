@@ -2,11 +2,16 @@
 title: 'Secondary Sources: What Are They?'
 date: '2008-02-28T10:03:00'
 lastmod: '2017-10-06T15:21:32'
-type: primary_source_guide
+content_type: primary_source_guide
 draft: false
 drupal_nid: 19080
 url: /best-practices/using-primary-sources/19080
+splash_image_fid: '4751'
+summary: '*National History Day* identifies secondary sources along with suggestions
+  for their use.'
+splash_image: /files/Splash-UPS-Secondary.jpg
 ---
+
 
 *[National History Day,](http://www.nationalhistoryday.org/) an annual program for elementary and secondary students designed to "teach essential historical literacy that motivates students to secure the future of democracy," defines secondary sources as follows:*
 What are secondary sources? Secondary sources are works of synthesis and interpretation based upon primary sources and the work of other authors. They may take a variety of forms. The authors of secondary sources develop their interpretations and narratives of events based on primary sources, that is, documents and other evidence created by participants or eyewitnesses. Frequently, they also take advantage of the work of other historians by using other secondary sources. For example, the author of the history textbook which you use in school probably did not use too many primary sources. Instead, textbook authors usually rely on secondary sources written by other historians. Given the wide range of topics covered by a typical textbook, textbook authors could not possibly find and use all the relevant primary sources themselves.

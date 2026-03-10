@@ -2,8 +2,17 @@
 title: Tecumseh
 date: '2008-05-19T14:02:28'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 19313
+duration: 00:04:51
+keywords: Native Americans, Shawnee, the Shawnee, spiritualism, spirituality, eclipses,
+  solar eclipses, race, race relations, racism, leaders, prophets, spiritualists,
+  Creeks, the Creeks, Cherokees, the Cherokees, earthquakes, Creek War, war, wars
+website_url: http://lincoln.lib.niu.edu/theme4video.html
+date_published: '2008-05-19T00:00:00'
+series_name: Native American Relations Video
 ---
 
+Scholar James Lewis looks at the influence of Shawnee leader Tecumseh and his brother, the prophet Tenskwatawa, in encouraging Native American tribes to cooperate in resisting U.S. settlers and government control.
+To view this clip, select "Tecumseh" under "Native American Relations Video."

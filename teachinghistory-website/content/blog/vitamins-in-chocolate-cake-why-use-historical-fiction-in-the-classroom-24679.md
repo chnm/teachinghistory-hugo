@@ -2,11 +2,25 @@
 title: 'Vitamins in Chocolate Cake: Why Use Historical Fiction in the Classroom?'
 date: '2011-05-09T12:58:23'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24679
 url: /nhec-blog/24679
+author_bio: Valerie Tripp is an American author best known for her American Girl historical
+  characters Felicity, Kit, Josefina, Molly, and Samantha. Ms. Tripp has also written
+  poems, songs, stories, and nonfiction educational materials.
+date_published: '2011-09-05T00:00:00'
+image_fid: '7482'
+splash_image_fid: '7481'
+author_image_fid: '7984'
+summary: What's one way of bringing delight to learning history? Historical fiction,
+  says American Girl author Valerie Tripp.
+splash_image: /files/historicalfictionsplash.jpg
+image: /files/historicalfictionimage.jpg
+author_image: /files/author_image/author_tripp.jpg
 ---
+
+
 
 One of the great pleasures of my job as a writer for American Girl is getting letters from my young readers. Over the years, I’ve had tens of thousands of letters, every one as unique, sweet, earnest, and quirky as its writer. Very often, my correspondent asks me, “Why do you write about people who lived long ago?” And I write back, “Because I love thinking about what your life or my life would have been like if we had lived in another time, don’t you?” But that answer tells only one reason why I write historical fiction, and why I think it is a good idea to use historical fiction to teach history. There are other reasons, too.
 First, I think historical fiction can make history matter—make it irresistible—to young readers. And it is important to make history matter, because reading about the past not only gives children factual information—sort of a mental timeline, for example, so that they know that the Revolutionary War happened before the Civil War—but learning about the past also allows, encourages, and teaches a child to identify with other voices, views, cultures, and times, which is a good life skill. Reading about the past teaches empathy and compassion. It helps a child see the similarities that lie just underneath our differences.

@@ -2,12 +2,22 @@
 title: Bleeding Kansas
 date: '2012-07-02T17:00:57'
 lastmod: '2017-12-05T08:51:59'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 25650
 question: What was "Bleeding Kansas"?
 url: /history-content/ask-a-historian/25650
+author_bio: Catherine Denial is an Associate Professor of History at Knox College
+  in Galesburg, IL. Since 2000, she has worked on curriculum development in Iowa through
+  Bringing History Home, a TAH grant-funded project.
+splash_image_fid: '9370'
+author_image_fid: '9368'
+summary: What were the origins of this infamous controversy?
+splash_image: /files/bleedingsplash.jpg
+author_image: /files/author_image/author_denial_0_0_0.jpg
 ---
+
+
 
 "Bleeding Kansas" describes a period of civil unrest in Kansas Territory between 1854 and 1856.
 After the Missouri Compromise of 1820, which prohibited slavery in the former Louisiana Territory north of the 36° 30’ parallel (except for the state of Missouri), Congress tried to maintain a balance between slave and free states in the Union. "Free" states did not permit slavery to exist within their borders, but this was rarely because they felt a commitment to equality between different racial groups. Instead, citizens in many free states feared that if slavery were permitted in their region, they would be unable to compete against agriculturalists who would use slave laborers to work in their fields. Most people in free states were happy to see slavery continue in the areas where it already existed—even those men and women who worked for wages in the North often feared if slaves were freed they would compete against them for their jobs. By the 1850s, supporting the idea of a "free" state more often than not meant supporting the idea that any expansion of the United States should benefit working white people over all others. Most citizens of slave states, on the other hand, believed that slavery should be permitted everywhere, and thought it unfair that they should be prevented from expanding their interests in the West like everyone else.
@@ -24,3 +34,9 @@ While Horace Greeley, publisher of the *New York Daily Tribune*, is popularly cr
 > War against Slavery! ([2](#note2))
 
 The matter of whether Kansas would enter the Union as a free or slave state was not resolved until after the Civil War began. Despite the repeated attempts of Kansans to draft a state constitution amenable to all citizens of the territory, it was not until Southern states seceded from the Union and surrendered their seats in Congress that an anti-slavery constitution finally gained approval from the U.S. Senate.
+
+---
+
+[Text of the Kansas-Nebraska Act](http://avalon.law.yale.edu/19th_century/kanneb.asp), 1854.
+[Territorial Kansas Online: A Primary Source Collection](http://www.territorialkansasonline.org/~imlskto/cgi-bin/index.php).
+[The Wyandotte Constitution](http://www.kansasmemory.org/item/90272), 1859 (ratified by Congress, 1861).

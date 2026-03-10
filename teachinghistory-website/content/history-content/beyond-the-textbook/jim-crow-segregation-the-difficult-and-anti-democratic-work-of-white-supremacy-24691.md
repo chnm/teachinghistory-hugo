@@ -2,7 +2,7 @@
 title: 'Jim Crow Segregation: The Difficult and Anti-Democratic Work of White Supremacy'
 date: '2011-05-12T17:06:27'
 lastmod: '2017-12-05T08:46:32'
-type: beyond_the_textbook
+content_type: beyond_the_textbook
 draft: false
 drupal_nid: 24691
 summary: Segregation contradicts what most students have learned about American freedom
@@ -163,5 +163,19 @@ author_bio: 'Segregation contradicts what most students have learned about Ameri
 question: How did segregation shape daily life for generations of African Americans
   and how do its legacies remain with us today?
 url: /history-content/beyond-the-textbook/24691
+splash_image_fid: '7540'
+splash_image: /files/JimCrowSegregation432x240.jpg
 ---
 
+
+## What Textbooks Say
+
+Textbooks locate segregation’s origins in Southern disenfranchisement laws of the 1890s and highlight the Supreme Court's 1896 "separate but equal" ruling in *Plessy* v. *Ferguson*. New job opportunities during World War I and the Great Migration are briefly addressed along with "custom and tradition". Textbooks emphasize the National Association for the Advancement of Colored People's legal challenges, and portray the 1954 *Brown* v. *Board* decision as the culmination of the fight. Thus, according to the textbooks, from the 1890s to the 1950s, African Americans endured as best they could.
+
+## What Historians Say
+
+Historians debate the origins of Jim Crow, but it is important to remember that slavery had mandated the use of laws and practices to govern interracial relations. Separation from whites by choice accompanied freed people's desire for independence from their former white owners even as they expected the full and equal citizenship guaranteed to them by the 14th Amendment.
+
+## What Sources Say
+
+Primary sources provide ample evidence of segregation's brutality. They demonstrate the kind of structural inequalities that white supremacist laws and practices institutionalized but also that African Americans embraced a variety of methods to combat Jim Crow's injustices, and that white allies occasionally joined them. Collectively, the primary sources included here reveal how geography, class, gender, and culture have influenced ongoing battles for justice, as have changing national and international contexts.

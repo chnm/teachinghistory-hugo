@@ -2,10 +2,13 @@
 title: 'News from the Bill of Rights Institute: For Educators and High School Students'
 date: '2008-12-08T17:10:39'
 lastmod: '2012-05-17T15:57:51'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20430
 url: /nhec-blog/20430
+date_published: '2008-12-08T00:00:00'
+summary: 'Bill of Rights Institute publishes *Property Rights in America: Yours, Mine,
+  or Ours?*'
 ---
 
 In January, the [Bill of Rights Institute](http://billofrightsinstitute.org/) will publish a new teacher resource, *Property Rights in America: Yours, Mine, or Ours?* This 40-page book offers a week of lesson plans analyzing the importance of property rights in a free society through evaluating the importance of private property; examining the Fifth Amendment protection of private property; looking at seminal U.S. Supreme Court cases involving property rights; and exploring contemporary challenges to property rights from YouTube, the Harry Potter lLexicon copyright case, and web issues.

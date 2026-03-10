@@ -2,11 +2,26 @@
 title: 'Anthony Pellegrino: Reexamining Pre-service Field Experience'
 date: '2011-01-07T14:51:17'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24447
 url: /nhec-blog/24447
+author_bio: Anthony Pellegrino is an assistant professor of social studies/history
+  education in the secondary education program at George Mason University. He received
+  his doctorate in Secondary Social Science Education from Florida State University.
+date_published: '2011-02-28T00:00:00'
+image_fid: '7010'
+splash_image_fid: '7019'
+author_image_fid: '6998'
+summary: How can pre-service experience better serve new U.S. history teachers? Universities
+  and K–12 institutions need to form better links, says assistant professor of social
+  studies/history education Anthony Pellegrino
+splash_image: /files/splash-blog-aptechexp1.jpg
+image: /files/image-blog-apstudentteach.jpg
+author_image: /files/author_image/Pellegrino_Image_0.jpg
 ---
+
+
 
 ## Entering the Field
 

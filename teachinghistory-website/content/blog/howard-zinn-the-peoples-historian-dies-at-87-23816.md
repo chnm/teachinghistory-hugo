@@ -2,11 +2,16 @@
 title: Howard Zinn, the People's Historian, Dies at 87
 date: '2010-01-28T22:45:46'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23816
 url: /nhec-blog/23816
+date_published: '2010-01-27T00:00:00'
+image_fid: '3942'
+summary: Howard Zinn, the people's historian, passed away on January 27, 2010.
+image: /files/Howard_Zinn.jpg
 ---
+
 
 A couple of years ago, an undergraduate research assistant came into the computer room at the [Center for History and New Media](http://chnm.gmu.edu) at [George Mason University](http://www.gmu.edu) and sat down to work. He was a computer guy, a programmer, a student who spoke IT and unravelled the backend of one of the Center's largest digital history projects. He did well in required humanities courses, but they weren't his favorites. This day, he was enthusiastic, palpably—and unusually—ready to talk. He'd just read Howard Zinn's *A People's History*. He didn't know history could be like that, he explained.
 That's what Howard Zinn did to people.

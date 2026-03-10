@@ -2,11 +2,16 @@
 title: Military History
 date: '2008-04-17T10:39:37'
 lastmod: '2017-10-06T15:32:46'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 19187
 url: /history-content/national-resources/19187
+splash_image_fid: '4908'
+summary: The U.S. Armed Forces maintain multiple historical offices within each branch
+  of the military and within smaller units of each of the services.
+splash_image: /files/MilitaryHistory432x240.jpg
 ---
+
 
 The U.S. Armed Forces maintain multiple historical offices within each branch of the military and within smaller units of each of the services. Photographs, essays, and oral histories are among the digitized resources of each facility. These include the following:
 The [Naval Historical Center](http://www.history.navy.mil/) includes a number of online photographs, exhibits, art, artifacts, document collections, publications and information on naval history, heritage and traditions, as well as a guide to U.S Navy Museums across the United States. The [Teacher Resource Page](http://www.history.navy.mil/branches/org8-8.htm) includes lesson plans and activities organized by grade level.

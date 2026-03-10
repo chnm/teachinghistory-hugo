@@ -2,10 +2,24 @@
 title: Putting Story in History
 date: '2011-11-01T14:59:57'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25290
+author_bio: 'Joanne Brown retired in 2003 as an English professor at Drake University.
+  She taught courses on American drama, adolescent literature, and fiction writing.
+  She has published short fiction, numerous articles in professional journals on American
+  drama and adolescent literature, and four books of literary criticism on adolescent
+  literature (*Presenting Kathryn Lasky, Declarations of Independence: Empowered Girls
+  in Young Adult Fiction, The Distant Mirror: Reflections on Historical Fiction in
+  Young Adult Literature*, and *Immigration Narratives in Young Adult Literature:
+  Crossing Borders*).'
+author_image_fid: '8507'
+summary: Historical fiction can supplement history courses, offering characters whose
+  emotional responses to actual events give readers a more immediate, human sense
+  of what is being studied.
+author_image: /files/author_image/author_brown.jpg
 ---
+
 
 The response to this question relies upon how one defines both “fiction” and “history classroom.” By “fiction,” I would argue that, given the context of the question, the logical definition is “historical fiction,” a narrative set in the past in which the historical setting is integral to the characters’ development rather than just a peripheral backdrop. Historical novelist Katherine Patterson has satirized such texts as “bathrobe fiction” because the otherwise contemporary characters are dressed in what she labels “pseudo-ancient dress” ([1](#note1)).
 > As realism became the dominant mode of fiction in general, historical fiction began to focus more on ordinary people interacting with extraordinary events."

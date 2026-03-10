@@ -2,12 +2,25 @@
 title: Rubrics for Learning Menus
 date: '2012-03-02T11:11:08'
 lastmod: '2017-10-06T15:21:32'
-type: ask_an_educator
+content_type: ask_an_educator
 draft: false
 drupal_nid: 25477
 question: What would a good rubric for a learning menu look like?
 url: /teaching-materials/ask-a-master-teacher/25477
+author_bio: Rick Wormeli is one of the first Nationally Board Certified teachers in
+  the U.S. and the author of five books on teaching strategies, including *Meet Me
+  in the Middle*.
+image_fid: '8969'
+splash_image_fid: '8970'
+author_image_fid: '8968'
+summary: Creating the perfect rubric is an impossible task. Creating a usable, easily
+  adaptable rubric, however, is within your grasp.
+splash_image: /files/rubricssplash.jpg
+image: /files/rubricsimage.jpg
+author_image: /files/author_image/author_wormeli.jpg
 ---
+
+
 
 The first thing to remember is that there is no perfect rubric. It will always need to be adjusted as criteria evolve, lessons warrant, and uncertainties appear. For instance, when students score well on the rubric, but haven’t necessarily learned what you thought they should, you should adapt the rubric to encourage more student comprehension of the subject. On the other hand, when students learn what they should, but the structure of the rubric doesn’t reflect it in the scoring, the rubric should be altered to better convey student understanding.
 Because of this concern, we rarely use the full version of a commercial rubric from a textbook publisher or even one created over the summer by a committee in our school district or state. It’s fine to use portions of these rubrics prepared by others; but to be effective, we should augment those descriptors with situation-specific needs for our own classrooms.
@@ -65,3 +78,8 @@ Of course, for each wiggle word like “proper” and “demonstrates clear unde
 ### Overall
 
 Descriptive feedback, not just any feedback, is key to students’ success. Rubrics are powerful vehicles for such helpful insight, and almost everything we teach in history, social studies, geography, and government can be “rubricized” for students. With practice it gets easier, and wow, it is completely worth it.
+
+---
+
+See [here](www.teachingchannel.org/videos/differentiating-with-learning-menus) for a video that shows learning menus in action.
+See [this](www.slideshare.net/cbelzic/tomlinson-presentation) PowerPoint presentation for examples of student work using a learning menu.

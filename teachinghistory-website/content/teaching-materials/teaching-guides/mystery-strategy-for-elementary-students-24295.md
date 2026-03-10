@@ -2,11 +2,28 @@
 title: Mystery Strategy for Elementary Students
 date: '2010-10-18T09:12:19'
 lastmod: '2018-09-21T14:00:13'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 24295
 url: /teaching-materials/teaching-guides/24295
+author_bio: Lisa Cooper is a former elementary classroom teacher. She currently writes
+  about history and history education under the name “ElementaryHistoryTeacher” at
+  her weblog, [History Is Elementary](http://historyiselementary.blogspot.com).
+image_fid: '9207'
+splash_image_fid: '6715'
+author_image_fid: '6701'
+summary: Using the premise of a mystery, elementary students act as history detectives
+  as they explore a historical question and formulate and test hypotheses.
+spotlight: Transform your students into history detectives! This unique lesson plan
+  idea will enable elementary students understand historical inquiry. They will also
+  explore a historical question and analyze carefully chosen clues to formulate and
+  test hypotheses.
+splash_image: /files/splash-tg-mystery.jpg
+image: /files/mysteryimage.jpg
+author_image: /files/author_image/LisaCooper_Photo.jpg
 ---
+
+
 
 ## What Is It?
 

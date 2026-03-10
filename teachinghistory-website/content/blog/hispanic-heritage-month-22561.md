@@ -2,11 +2,17 @@
 title: Hispanic Heritage Month
 date: '2009-08-31T11:59:02'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22561
 url: /nhec-blog/22561
+date_published: '2009-09-04T00:00:00'
+image_fid: '1607'
+summary: September 15 marks the independence day for five Latin American countries
+  and the start of Hispanic Heritage Month in the United States.
+image: /files/carillo.jpg
 ---
+
 
 The United States has the 3rd largest Hispanic population in the world, according to 2007 Census figures. Only Mexico and Columbia are numerically larger, and among the 44.3 million people of Hispanic origin in the United States, more than 64 percent are of Mexican background. (Visit [Annenberg Media's Race, Hispanic Origin, and Ancestry](http://www.learner.org/workshops/primarysources/census/docs/c2000.html), demonstrating who is Hispanic and how the census category interacts with race.)
 We celebrate the presence and contributions of Hispanic Americans during Hispanic Heritage Month, September 15-October 15. The September date marks the anniversary of independence for five Latin American countries—in 1821, Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua. Mexico celebrates its independence on September 16—the beginning of a decade-long war against Spain in 1810—and Chile on September 18.

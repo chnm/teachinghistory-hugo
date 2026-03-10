@@ -2,11 +2,17 @@
 title: Teaching About Haiti
 date: '2010-01-21T12:32:31'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23787
 url: /nhec-blog/23787
+date_published: '2010-01-22T00:00:00'
+image_fid: '3891'
+summary: Why is the history of Haiti and of America's relationship with that country
+  important today?
+image: /files/haiti.jpg
 ---
+
 
 Any human disaster anywhere in the world jars our sensibilities, reminds us of our interconnectedness, and challenges our worldview.
 The devastation in Haiti hits us intellectually, emotionally, and ethically, and we ask "how can I help?" A contagious call to action multiplies. But the immediacy of media coverage, continued stories and images of Haiti's people and places, the massive national and global response from individuals, celebrities, institutions and organizations still leave us grasping for a more complete sense of what's happened and why. Headlines spur a teaching moment in the history classroom.

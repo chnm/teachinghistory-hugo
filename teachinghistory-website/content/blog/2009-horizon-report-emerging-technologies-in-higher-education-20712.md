@@ -2,10 +2,12 @@
 title: '2009 Horizon Report: Emerging Technologies in Higher Education'
 date: '2009-01-26T15:32:55'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20712
 url: /nhec-blog/20712
+date_published: '2009-02-04T00:00:00'
+summary: A discussion of six emerging technologies and their role in education.
 ---
 
 The [New Media Consortium](http://www.nmc.org/) (NMC) and the [Educause Learning Initiative](http://www.educause.edu/eli) (ELI) recently released the sixth annual [*Horizon Report*](http://wp.nmc.org/horizon2009/). *The Horizon Report* examines six emerging technologies, their potential impact on "teaching, learning, research, or creative expression within learning-focused organizations," and places them within the likely timeframe for their absorption into the user mainstream. Each technology profile provides specific examples of applications and supplemental resources.

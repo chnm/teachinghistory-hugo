@@ -2,11 +2,19 @@
 title: Searching for Sesquicentennial Sources
 date: '2011-03-30T12:03:23'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24599
 url: /nhec-blog/24599
+date_published: '2011-04-01T00:00:00'
+image_fid: '7330'
+splash_image_fid: '7297'
+summary: Teaching the Civil War? With the sesquicentennial kicking off, resources
+  are popping up left and right!
+splash_image: /files/splash-blog-sesqui2.jpg
+image: /files/26469v.jpg
 ---
+
 
 In February, Teachinghistory.org rounded up sesquicentennial resources [state by state](http://teachinghistory.org/nhec-blog/24465). Now, with April and the anniversary of the April 12 bombardment of Fort Sumter upon us, let's look at some materials that aren't state-specific.
 

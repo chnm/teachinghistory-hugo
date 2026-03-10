@@ -2,12 +2,20 @@
 title: Los Alamos National Laboratory
 date: '2009-09-24T16:39:14'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22916
 url: /history-content/national-resources/22916
 featured: true
+website_url: http://www.lanl.gov/
+splash_image_fid: '4899'
+thumbnail_fid: '2188'
+summary: Follow the development of Weapons of Mass Destruction through the protection
+  of the people of the U.S.
+thumbnail: /files/website_image/Pluralism_Image.jpg
+splash_image: /files/LosAlamos432x240.jpg
 ---
+
 
 Los Alamos National Laboratory exists as a major development center for engineering and scientific national security features. To date, their major responsibility is developing and maintaining systems related to national nuclear determent.
 Sadly for history teachers, although not particularly unexpectedly, the laboratory's offerings appropriate to K-12 education are nearly all focused on the sciences. That said, a couple of resources may still be of use to history educators, and teachers should feel welcome to pass on the site information to their science co-workers, particularly those within New Mexico, where the laboratory is located.

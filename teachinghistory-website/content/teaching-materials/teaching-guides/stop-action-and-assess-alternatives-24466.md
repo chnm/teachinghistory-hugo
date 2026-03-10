@@ -2,11 +2,24 @@
 title: Stop Action and Assess Alternatives
 date: '2011-01-26T10:56:27'
 lastmod: '2018-09-25T15:02:47'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 24466
 url: /teaching-materials/teaching-guides/24466
+author_bio: Lori Shaller taught high school students History and English Language
+  Arts for 18 years. She teaches teachers in World History and Shakespeare Content
+  Institutes, and is an education consultant and curriculum writer in the fields of
+  History, English Language Arts, School Improvement, and Jewish Studies.
+image_fid: '7053'
+splash_image_fid: '7054'
+author_image_fid: '7063'
+summary: Teach students to explore contingency with this great lesson plan idea.
+splash_image: /files/stopsplash.jpg
+image: /files/stopimage.jpg
+author_image: /files/author_image/shallerimage.jpg
 ---
+
+
 
 ## What Is It?
 

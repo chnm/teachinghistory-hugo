@@ -3,11 +3,30 @@ title: 'Anthony Pellegrino''s Into the Weeds: Harnessing the Power of Music to T
   Social Studies'
 date: '2011-02-21T16:28:29'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24532
 url: /nhec-blog/24532
+author_bio: Anthony Pellegrino is an assistant professor of social studies/history
+  education in the secondary education program at George Mason University. He received
+  his doctorate in Secondary Social Science Education from Florida State University.
+date_published: '2011-04-11T00:00:00'
+image_fid: '7171
+
+
+  7171
+
+
+  7171'
+splash_image_fid: '7175'
+author_image_fid: '7170'
+summary: Present the context first, or later? Teaching with music can be valuable
+  both ways, says teacher educator Anthony Pellegrino.
+splash_image: /files/splash-blog-apmusic23.jpg
+author_image: /files/author_image/Pellegrino_Image_1.jpg
 ---
+
+
 
 Nearly every student shares some connection with music. Whether students favor listening to today’s pop music by Justin Bieber or Rhianna; classic rock by the Beatles or Bruce Springsteen; folk music by Woody Guthrie, Pete Seeger, or Bob Dylan; or jazz music from Charles Mingus or John Coltrane, they glean messages from music and the artists who create it. Moreover, music has been such a part of American popular culture and history that we are rich with music that has commented and reflected on the people and events of that history. As such, using music in a history classroom to foster student interest and content analysis can be part of an effective lesson. But incorporating music in such a way as to encourage meaningful learning requires some structure and forethought. In a [previous posting](/nhec-blog/24344) I outlined four general models of incorporating music into a history lesson. I’d like to take this time to explore in a bit more detail how I have made effective use of music in my classroom.
 

@@ -2,8 +2,9 @@
 title: Teaching the American Story
 date: '2008-02-22T14:13:36'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 18537
 ---
 
+Teaching the American Story (TAS) initiative in northwestern Pennsylvania is a collaborative effort between Girard School District, Fort LeBoeuf School District, PENNCREST School District, Union City Area School District, the Northwest Tri-County Intermediate Unit #5, and Edinboro University of Pennsylvania. The project goals are (1) to establish a network of highly skilled, highly trained, master teachers who will share their knowledge of traditional U.S. history with fellow educators, so that the TAS initiative may be sustained throughout and beyond the grant program and infused into the Pennsylvania educational induction and service training systems; and (2) to ensure that northwestern Pennsylvania teachers and administrators have the skills, knowledge and abilities to teach (and understand the importance of teaching) U.S. history as a separate academic subject and as a core learning theme that can be integrated and infused into many learning mediums and opportunities. Teachers will complete 48 hours of training in intensive summer institutes, and will participate in follow-up training to be delivered online. Summer institute content will cover key themes of American freedom including history of war and immigration and freedom of religion; American rights and dreams; and American pride including monuments and meaning. As a result of the staff development provided through the grant, northwestern Pennsylvania teachers will demonstrate higher levels of knowledge and instructional best practices in U.S. History as demonstrated by the posting of at least 75 exemplary standards-based instructional plans to the Web. The project is also creating a copyright-cleared "digital database" that will include digital images and digital video footage that relates to American History. These images will be captured while participating teachers are visiting historical, national sites. This digital material will be available for anyone to access via the Web site.

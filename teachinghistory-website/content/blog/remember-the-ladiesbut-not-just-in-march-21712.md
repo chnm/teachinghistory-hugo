@@ -2,11 +2,18 @@
 title: Remember the Ladies—But Not Just in March
 date: '2009-02-13T11:54:23'
 lastmod: '2017-12-01T14:53:33'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 21712
 url: /nhec-blog/21712
+date_published: '2009-02-28T00:00:00'
+image_fid: '859'
+splash_image_fid: '8908'
+summary: Women's history should be integral to the total narrative of American history.
+splash_image: /files/remembertheladies432x240.jpg
+image: /files/suff.jpg
 ---
+
 
 Shirley Chisolm, the first African American woman elected to Congress and the first woman to run for president of the United States in 1972, once stated, "Of my two 'handicaps,' being female put more obstacles in my path than being black."
 It's perhaps a surprising point of view—but in light of the recent presidential election, perhaps not. The election brought both race and gender to the forefront, often on waves of euphoria pushed by hope that the nation has moved a long way beyond a culture of discrimination. But how far have we actually come, and how much farther do we need to go? Women's History Month in March, following on the heels of Black History Month, is a chance to examine the trajectory and distance of that progress. One question for teachers is how integrate this narrative into the curriculum.

@@ -2,8 +2,11 @@
 title: Crawford County Historical Society and Museum [MO]
 date: '2008-01-08T13:27:19'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 5688
+website_url: http://www.rootsweb.ancestry.com/~mocrawfo/cchs.htm
 ---
 
+The Society operates the Crawford County Historical Museum, which houses displays including a civil war room, a one-room school house, and many more displays centering around the late 1800s.
+The museum offers exhibits.

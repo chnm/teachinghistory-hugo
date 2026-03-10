@@ -2,12 +2,27 @@
 title: '1916 Children''s Code of Morality: A Guide for Pre-Service Teachers'
 date: '2022-08-23T13:01:16'
 lastmod: '2022-10-11T09:45:48'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25871
 url: /teaching-materials/teaching-guides/25871
 featured: true
+author_bio: Nate Sleeter is a research assistant professor at the Roy Rosenzweig Center
+  for History and New Media where he oversees educational projects. He is also a former
+  K-12 teacher.
+image_fid: '10240'
+splash_image_fid: '10239'
+author_image_fid: '10238'
+summary: 'Primary sources from the Library of Congress help students explore a fascinating
+  episode from U.S. history: the campaign to teach children to be more moral.'
+spotlight: 'Primary sources from the Library of Congress help students explore a fascinating
+  episode from U.S. history: the campaign to teach children to be more moral.'
+splash_image: /files/MoralsSplash.jpg
+image: /files/sn83045389-19160521_0.jpg
+author_image: /files/author_image/NATE_SLEETER (1)_3.JPG
 ---
+
+
 
 **What is it?**
 

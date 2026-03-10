@@ -2,12 +2,19 @@
 title: Smithsonian Cooper-Hewitt, National Design Museum
 date: '2009-11-10T11:42:07'
 lastmod: '2018-09-20T14:50:44'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23497
 url: /history-content/national-resources/23497
 featured: true
+website_url: http://www.cooperhewitt.org/
+splash_image_fid: '4755'
+thumbnail_fid: '2230'
+summary: Design embodies both artistic ingenuity and responses to everyday problems.
+splash_image: /files/Cooper-Hewitt432x240.jpg
+thumbnail: /files/website_image/ColumbusImage.jpg
 ---
+
 
 According to the Cooper-Hewitt website, "The Museum presents compelling perspectives on the impact of design on daily life through active educational and curatorial programming." Collections range across 24 centuries.
 What is design, and what does it have to do with history? Simply put, design can be considered an intentional solution to a human problem. Want somewhere comfortable to sit? Maybe a chair should have a padded seat. So, again, where does history come into the picture? Back to the chair. Did you know that the average seat is much deeper than they used to be a century ago? What does that tell us? Were people smaller? Do we live in larger homes with more square footage to fill? Is it social, cultural, or biological?

@@ -2,8 +2,16 @@
 title: Presidents in Wartime, Part Two
 date: '2009-01-29T14:51:42'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 20767
+duration: 00:31:04
+keywords: presidents, politicians, war, wars, Cold War, Vietnam War, World War I,
+  World War II, Korean War, Iraq
+website_url: http://www.virginiaexperiment.com/index.php?option=com_content&task=view&id=15
+date_published: '2006-12-07T00:00:00'
+series_name: 'The Virginia Experiment: Speaker Seminar Series'
 ---
 
+Dr. Marc Selverstone, of the Miller Center of Public Affairs, UVA, examines the role of the President as Commander-in-Chief, particularly how presidential powers are exercised and defined in wartime. Selverstone focuses on presidents of the 20th century.
+To listen to this lecture, select "Part 2" under the December 7th listing.

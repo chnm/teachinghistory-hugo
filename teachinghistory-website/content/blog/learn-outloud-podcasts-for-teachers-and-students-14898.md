@@ -2,11 +2,14 @@
 title: 'Learn Outloud: Podcasts for Teachers and Students'
 date: '2008-02-06T15:22:17'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 14898
 url: /nhec-blog/14898
 featured: true
+date_published: '2008-02-12T00:00:00'
+summary: '[Learn Out Loud](http://www.learnoutloud.com) is an extensive site of more
+  than 15,000 educational audio books, MP3 downloads, podcasts, and videos.'
 ---
 
 [Learn Out Loud](http://www.learnoutloud.com) is an extensive site of more than 15,000 educational audio books, MP3 downloads, podcasts, and videos. The Quick Start guide steers the visitor through the resources of the site, including items for sale and self-publishing opportunities.

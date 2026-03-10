@@ -2,11 +2,17 @@
 title: Federal Reserve Board
 date: '2011-06-02T13:26:58'
 lastmod: '2018-09-20T15:40:48'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 24713
 url: /history-content/national-resources/24713
+website_url: http://www.federalreserve.gov/
+splash_image_fid: '7539'
+summary: The economy's on everyone's mind. Take advantage of that fact to teach a
+  bit of financial history.
+splash_image: /files/FederalReserveBoard432x240.jpg
 ---
+
 
 According to the Federal Reserve Board (FRB) website, the "Federal Reserve Board, the Central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system." Still not sure exactly what that entails? There's an additional short (2:37) [video](http://www.federalreserve.gov/faqs/about_12594.htm) available which goes into more detail.
 The most useful item on the main FBR website, having not been created to address educator needs, is a collection of [statistics](http://www.federalreserve.gov/econresdata/releases/statisticsdata.htm), both current and historical. Unfortunately, most of the data is likely too technical to be of great use without extensive planning in a K-12 classroom.

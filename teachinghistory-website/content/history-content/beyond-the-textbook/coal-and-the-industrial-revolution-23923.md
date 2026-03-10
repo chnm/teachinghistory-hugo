@@ -2,11 +2,16 @@
 title: Coal and the Industrial Revolution
 date: '2010-04-07T17:46:46'
 lastmod: '2018-07-03T11:18:24'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 23923
 url: /history-content/beyond-the-textbook/23923
+author_bio: Thomas G. Andrews is an assistant professor at the University of Colorado—Denver,
+  specializing in the social and environmental history of the Rocky Mountain West.
+author_image_fid: '4579'
+author_image: /files/author_image/image-author-andrews.jpg
 ---
+
 
 As of 1860, the United States was an industrial laggard. Great Britain, France, and Germany each produced more goods than their transatlantic counterpart. By 1900, however, U.S. industrial production exceeded "the combined manufacture of its three main rivals." Why, and with what consequences?
 

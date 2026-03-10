@@ -2,10 +2,20 @@
 title: Building a Statewide Teaching American History Community
 date: '2008-02-08T18:06:56'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 14950
+author_bio: Jack Bareilles directs the Humboldt County Teaching American History Grant
+  programs and teaches AP and College Prep U.S. History at McKinleyville High, CA
+  and works as a curriculum coordinator and evaluator for other TAH grants nationwide.
+  He is actively involved in organizing California's TAH Director's consortium.
+splash_image_fid: '4960'
+summary: Opening lines of communication at the state or regional level encourages
+  the sharing of best practices, offers support to TAH directors new and old, and
+  strengthens the overall TAH community . . .
+splash_image: /files/Building_a_Statewide_Community_-_432x240.jpg
 ---
+
 
 There is an old saying in teaching that borrowing an idea is the sincerest form of flattery. Experienced educators are always on the prowl for good ideas. One of the things many of us enjoy about attending the national Teaching American History (TAH) meeting is the chance it gives us to talk and share ideas with other TAH project directors. If you've ever looked around during the lunch session, you've seen hundreds of TAH people busily doing just that. As evidenced by the H-TAH listserve on a national level, sharing ideas and expertise enriches everyone's program. But what about state or regional level communication and collaboration?
 Opening lines of communication at the state or regional level encourages the sharing of best practices, offers support to TAH directors new and old, and strengthens the overall TAH community—all at the "cost" of a few phone calls and emails. We see each other at the national conference, but what kind of communication do individual grant directors and staff have with other TAH grants in their state and region the rest of the year? Too often the answer is no communication or at best too little communication. In many states and regions, including my own state of California, TAH directors have taken steps to ensure regular communication and the sharing of information among themselves.

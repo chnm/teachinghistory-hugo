@@ -2,11 +2,23 @@
 title: 'Joe Jelen: Old Newspapers Find a Home in New Technology'
 date: '2011-09-15T13:40:59'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25157
 url: /nhec-blog/25157
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+date_published: '2011-10-10T00:00:00'
+image_fid: '8106'
+splash_image_fid: '8107'
+author_image_fid: '8129'
+summary: Newspapers are alive and well in the U.S. history classroom.
+splash_image: /files/newspaperssplash.jpg
+image: /files/newspapersimage.jpg
+author_image: /files/author_image/author_image_joe_jelen_75x75_3.jpg
 ---
+
+
 
 Increasingly, people are turning to online outlets for their daily news (see Pew Research Center’s *[State of the Media Report](http://stateofthemedia.org/2011/overview-2/key-findings/)*). In fact, when I watch students interact with newspapers, they almost seem to treat newspapers as quaint. The reality is that newspapers remain great records of history, and today’s newspapers continue to reflect society's concerns and values. Social studies teachers should continue to teach students how newspapers are laid out and how effective news stories are written.
 

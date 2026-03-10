@@ -2,13 +2,20 @@
 title: 'Historic Stories, Fictional Accounts: Achieving Multiperspectivity'
 date: '2011-12-19T18:57:56'
 lastmod: '2017-10-06T15:21:32'
-type: ask_an_educator
+content_type: ask_an_educator
 draft: false
 drupal_nid: 25362
 question: What is the significance of examining historical events from multiple perspectives
   (i.e. use of fiction, nonfiction, etc.) on an elementary school level?
 url: /teaching-materials/ask-a-master-teacher/25362
+image_fid: '8697'
+splash_image_fid: '8698'
+summary: Nonfiction texts are great sources for learning about historical events and
+  figures. However, do fictional accounts also have a place in the history classroom?
+splash_image: /files/fiction-nonfictionsplash.jpg
+image: /files/fiction-nonfictionimage.jpg
 ---
+
 
 ## Multiple Perspectives
 
@@ -29,3 +36,7 @@ Using both fiction and nonfiction allows students to engage with multiple kinds 
 
 A critical aspect of using both fiction and non-fiction texts together is that they give you an opportunity to teach students the difference between the two. Young students can learn that history is an evidentiary discipline and strives for the most accurate and complete picture of the past, whereas fiction does not have this constraint. While there are examples of fictional stories that try to do the same, this basic distinction is an important one for students to learn.
 Teaching young students that history includes multiple stories and perspectives aligns with the [Common Core State Standards](http://www.corestandards.org/), and can prepare students for future history classes and academic work. But, more significantly, it is critical for helping students understand that their perspective can be partial and does not represent all peoples—it can help them develop empathy and be more skeptical of the single account as the one true answer in our complex world.
+
+---
+
+Also see [this](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/23610) *Ask a Master Teacher* answer about the manner in which multiperspectivity can be used in the history classroom.

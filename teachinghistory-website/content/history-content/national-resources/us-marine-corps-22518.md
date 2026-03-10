@@ -2,11 +2,19 @@
 title: U.S. Marine Corps
 date: '2009-08-25T18:19:48'
 lastmod: '2018-09-20T12:58:18'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22518
 url: /history-content/national-resources/22518
+website_url: http://www.marines.mil/Pages/Default.aspx
+splash_image_fid: '5074'
+thumbnail_fid: '2164'
+summary: Why are the Marines known as "America's 911 Force"? Explore this division
+  of the armed services.
+splash_image: /files/USMarine432x240.jpg
+thumbnail: /files/website_image/ColdWarPolicies_Image.jpg
 ---
+
 
 The United States Marine Corps acts as the initial military respondent, via air or sea, to international disaster scenes and threats to U.S. interests.
 Compared to the other four military branches, the Marine Corps history offerings are decidedly limited. However, a small selection of resources may be relevant for K-12 education.

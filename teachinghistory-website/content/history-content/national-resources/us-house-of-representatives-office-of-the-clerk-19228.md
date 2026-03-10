@@ -2,11 +2,17 @@
 title: U.S. House of Representatives, Office of the Clerk
 date: '2008-04-25T12:04:45'
 lastmod: '2018-09-20T11:15:57'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 19228
 url: /history-content/national-resources/19228
+website_url: http://clerk.house.gov/
+splash_image_fid: '5073'
+summary: A comprehensive current and historical look at this legislative body and
+  its context.
+splash_image: /files/USHouse432x240.jpg
 ---
+
 
 The U.S. House of Representatives website offers a comprehensive current and historical look at this legislative body and its members and milestones, as well as at the buildings and environment where government happens.
 The Office of the Clerk of the U.S. House of Representatives provides a Congressional overview of the composition and voting patterns for the First through the 109th Congresses.

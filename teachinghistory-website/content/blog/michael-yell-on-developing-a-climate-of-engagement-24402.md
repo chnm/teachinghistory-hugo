@@ -2,11 +2,34 @@
 title: Michael Yell on Developing a Climate of Engagement
 date: '2010-11-24T14:41:43'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24402
 url: /nhec-blog/24402
+author_bio: Michael Yell is a 7th-grade history teacher at the Hudson Middle School
+  in Hudson, WI. He holds National Board Certification in Early Adolescent Social
+  Studies–History, and is a past president of the National Council for the Social
+  Studies.
+date_published: '2011-01-18T00:00:00'
+image_fid: '6995
+
+
+  6995
+
+
+  6995
+
+
+  6995'
+splash_image_fid: '6866'
+author_image_fid: '6864'
+summary: Former NCSS president and 7th-grade teacher Michael Yell shares his first-day
+  teaching strategies for upper elementary and secondary.
+splash_image: /files/splash-blog-welcomemy.jpg
+author_image: /files/author_image/mYell.jpg
 ---
+
+
 
 As teachers of history, we know that there are the curricular realities of textbooks, common assessments, district outcomes, and state standards to meet. But as teachers of history, we can regularly experience the motivating effects of having students think historically, wrestle with primary sources, and interact while they explore events, issues, ideas, and people of the past. We can do this while still meeting those curriculum targets that, at times, make it seem as though we must take our students on the deadly content coverage march.
 > How can we as elementary and secondary teachers set a climate for exploration?
@@ -25,8 +48,8 @@ Many years ago, my family was sitting around the dinner table after the first da
 
 I love history and want to engage my students in its exploration. Setting the climate for this begins day one. Although there are certainly many ways to initiate your students into a climate of engagement and discovery, I would like to share mine which, with continual tweaks, I have been using ever since that dinner table conversation about 10 years ago.
 When the students come into my room on the first day of school, they find desks formed into groups of four. They seat themselves, and as soon as the bell rings, I give them a challenge: students are to make a class timeline by standing along the walls of the room in order of their birth. The rules are that they cannot talk and they cannot write.
-![](http://teachinghistory.org/files/image-blog-myintro.jpg)Of course, they realize very quickly that the only way to do this is to use sign language—so many fingers for the month and then the day once they have found others born in the same month. After a few minutes of positioning and repositioning, from the first in line to the last, students announce their birthdays.
-![](http://teachinghistory.org/files/Word-Puzzle-7.jpg)From that point, students are formed into groups of four and we talk briefly about the class. I start by asking them about their attitudes toward history and then give them my three guarantees. Regarding their attitudes I always seem to find that roughly a quarter of my students like history, another quarter dislike history, and the rest are ambivalent. It is then time for my three guarantees:
+![](/files/image-blog-myintro.jpg)Of course, they realize very quickly that the only way to do this is to use sign language—so many fingers for the month and then the day once they have found others born in the same month. After a few minutes of positioning and repositioning, from the first in line to the last, students announce their birthdays.
+![](/files/Word-Puzzle-7.jpg)From that point, students are formed into groups of four and we talk briefly about the class. I start by asking them about their attitudes toward history and then give them my three guarantees. Regarding their attitudes I always seem to find that roughly a quarter of my students like history, another quarter dislike history, and the rest are ambivalent. It is then time for my three guarantees:
 
 1. this year we will *explore* a lot of history (I emphasize the word *explore*);
 2. this year you will enjoy learning history; and
@@ -45,7 +68,7 @@ To carry through with a tone and climate of engagement, it is necessary to use e
 Imagine that students have just come into your American history class. The bell rings, and you tell your students that they are going to solve a mystery. The first thing they must figure out is what has happened in this story:
 > *A young boy named John lived on a farm in a beautiful, mountainous, wooded area in Eastern Tennessee in 1837. His family planted corn and raised animals for meat, milk, and eggs. John had four brothers and three sisters. The family appeared happy and prosperous. In 1839 the family moved to a treeless, dry, flat prairie. During the journey, two of John’s brothers and one of his sisters died. When they arrived at their new home, the family could not grow enough to feed themselves. John’s father became a member of the legislature and his mother helped publish the local newspaper. John missed his brothers and sister, and his beautiful home in the mountains.*
 
-![](http://teachinghistory.org/files/image-blog-myintro3.jpg)When the short tale is complete you say to your students: *what you must figure out is why John’s family would leave their beautiful farm for a difficult life in this flat dry prairie.*
+![](/files/image-blog-myintro3.jpg)When the short tale is complete you say to your students: *what you must figure out is why John’s family would leave their beautiful farm for a difficult life in this flat dry prairie.*
 A timer is set and immediately students begin to question you. But these are all a particular type of questions—questions posed to you must be answerable with only a *yes* or a *no*. No open-ended questions allowed—students must figure this story out on their own.
 The questions and answers begin:
 ** Did the family know where they were going?

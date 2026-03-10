@@ -2,10 +2,18 @@
 title: The Role of the Artifact in Teaching about the Holocaust
 date: '2012-01-27T10:59:42'
 lastmod: '2017-12-05T08:51:59'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25395
+author_bio: Christina Chavarria, Program Coordinator of National Outreach Teacher
+  Initiatives at the U.S. Holocaust Memorial Museum, coordinates the museum's outreach
+  for Teaching American History (TAH) projects around the U.S.
+author_image_fid: '8796'
+summary: Artifacts help translate the statistical millions into individuals and avoid
+  giving simple answers to complex questions.
+author_image: /files/author_image/chavarria_author.jpg
 ---
+
 
 While the Holocaust bears the distinction of being the most documented genocide, it also bears the weight of incomprehension. Oftentimes, this leads to pedagogical approaches that, though well-intentioned, distort or trivialize history. To better understand the factors that led to the persecution and murder of European Jews and millions of non-Jews, how do intentional encounters with seemingly ordinary artifacts—in the exhibition space of the U.S. Holocaust Memorial Museum and through its online resources—promote historical thinking for understanding the Holocaust's profundity?
 > First, artifacts facilitate translating the statistical millions into individuals.

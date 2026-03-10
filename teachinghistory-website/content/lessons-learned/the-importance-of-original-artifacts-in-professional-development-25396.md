@@ -2,10 +2,27 @@
 title: The Importance of Original Artifacts in Professional Development
 date: '2012-01-27T11:21:51'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 25396
+author_bio: 'Kayla Haveles is currently the Education Coordinator at the American
+
+  Antiquarian Society. She has also worked in the outreach departments
+
+  of several museums, including the Emily Dickinson Museum and Historic
+
+  New England.'
+image_fid: '8806'
+splash_image_fid: '8799'
+author_image_fid: '8797'
+summary: Libraries and museums can bring teachers into direct contact with the stuff
+  of history.
+splash_image: /files/librarysplash.jpg
+image: /files/image-ll-aas.jpg
+author_image: /files/author_image/bio_haveles.jpg
 ---
+
+
 
 Too often the words that come to mind when people think about libraries are dusty, quiet, and boring. At the American Antiquarian Society (AAS), particularly through our involvement with Teaching American History (TAH) grants, we have tried to change this perception by showing just how powerful direct contact with historical documents and images can be. This experience is not just true for scholars who spend their careers sifting through these objects, but also for teachers and students who are lucky enough to have the opportunity to encounter them firsthand. Being able to touch the items, study them carefully, and discuss discoveries with colleagues can be a transformative experience. Suddenly they are no longer just words on a page or an image you’ve seen in a textbook, but rather they are very real, tangible remnants of real people.
 The American Antiquarian Society in Worcester, MA, is a national research library and learned society that houses the largest, most accessible collection of books, broadsides, pamphlets, newspapers, periodicals, and graphic arts materials printed in the United States through 1876. The AAS also holds an extensive manuscript collection, including letters, diaries, and account books, among many other personal items. In total, the society holds over four million items from throughout the current United States, portions of Canada, and the British West Indies.

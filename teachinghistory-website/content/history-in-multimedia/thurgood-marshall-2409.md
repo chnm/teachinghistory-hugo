@@ -2,8 +2,17 @@
 title: Thurgood Marshall
 date: '2008-01-04T14:04:03'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 2409
+duration: 01:35:48
+keywords: race, racism, race relations, civil rights, Civil Rights Movement, U.S.
+  Supreme Court, law, courts, trials, laws, lawyers, Brown v. Board of Education,
+  judges, justices, segregation, desegregation, attorneys
+website_url: http://teachingamericanhistory.org/institutes/2004/race_readings.html
+date_published: '2004-08-05T00:00:00'
+series_name: Race and Rights in American History
 ---
 
+Professor Mark Tushnet discusses the life and accomplishments of Thurgood Marshall (1908-1993), first African-American Supreme Court Justice and lawyer in the landmark desegregation case *Brown v. Board of Education*.
+To listen to this lecture, scroll to the Thursday, August 5th, 7:30 pm-9:30 pm session; and select either the RealAudio image or link in the gray bar to the left of the main body of text.

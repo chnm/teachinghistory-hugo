@@ -2,10 +2,23 @@
 title: Beneficial If Imperfect
 date: '2011-06-17T09:45:21'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24971
+author_bio: David Ko is the grandson of a [paper son](http://www.paperson.com/faqs.htm).
+  Born in Oakland and raised in San Francisco, David teaches at George Washington
+  High School, where he graduated in 2000. He has taught U.S. History (AP and regular),
+  World History, Ethnic Studies, Health Education, Driver's Education, and College
+  and Career Education. He has been involved in competitive speech for over half his
+  life, both as a competitor and a coach. He is especially interested in pop culture
+  (comic books, film) and often forgotten examples of racial and gender solidarity.
+author_image_fid: '7615'
+summary: It is undeniable that AP U.S. History both enhances and distracts. My belief
+  is that its benefits are guaranteed and universal, and its distractions are limited
+  and variable.
+author_image: /files/author_image/davidko75x75.jpg
 ---
+
 
 As both an AP U.S. History student (1998–1999) and teacher (2005–2006, 2010–2011), I believe that the course benefits student learning more than it detracts from it.
 There is no question that in many cases, AP U.S. History distracts from authentic learning. These distractions come in a variety of forms: focusing on a "more-is-better" mentality that leads to heavier course loads than students can manage; self-esteem that comes from test scores; an emphasis on scores and grades rather than understanding and mastery; and an exclusive focus on the subjects that AP exams test.

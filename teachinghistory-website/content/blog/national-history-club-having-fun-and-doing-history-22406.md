@@ -2,11 +2,16 @@
 title: 'National History Club: Having Fun AND Doing History'
 date: '2009-07-21T08:44:03'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22406
 url: /nhec-blog/22406
+date_published: '2009-07-21T00:00:00'
+image_fid: '1233'
+summary: The 375 chapters of the National History Club make history come alive.
+image: /files/nathisclub.jpg
 ---
+
 
 They take field trips, organize historic preservation activities, work together on National History Day projects, create films, develop local history projects, interview contemporary people of prominence, write scholarly papers (helpful for college admissions, among other things)—in fact there's almost no political, artistic, social, economic, military, athletic, scientific, cultural, religious, technological, literary, philosophical, geographic, ethnic, and mathematical topic they leave unexplored.
 And they are involved in their communities, learning critical thinking and communication skills and practicing responsible and effective citizenship and leadership.

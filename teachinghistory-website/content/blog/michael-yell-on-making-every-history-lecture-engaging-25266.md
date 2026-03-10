@@ -2,11 +2,26 @@
 title: Michael Yell on Making Every History Lecture Engaging
 date: '2011-10-26T11:22:10'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25266
 url: /nhec-blog/25266
+author_bio: Michael Yell is a 7th-grade history teacher at the Hudson Middle School
+  in Hudson, WI. He holds National Board Certification in Early Adolescent Social
+  Studies–History, and is a past president of the National Council for the Social
+  Studies.
+date_published: '2011-11-14T00:00:00'
+image_fid: '8432'
+splash_image_fid: '8433'
+author_image_fid: '8431'
+summary: Is "lecture" a bad word? Or can you make a lecture an active learning experience
+  for your students? Mike Yell says you can.
+splash_image: /files/lecturesplash.jpg
+image: /files/lectureimage.jpg
+author_image: /files/author_image/author_yell.jpg
 ---
+
+
 
 > *The lecture has fallen on difficult times . . . it relies too heavily on auditory input and makes students passive as opposed to active learners*. —Silver, Strong, and Perini ([1](#note1))
 

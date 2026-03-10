@@ -2,11 +2,17 @@
 title: 'Classroom Resources: Presidential Inaugurals'
 date: '2009-01-02T18:42:13'
 lastmod: '2017-10-06T15:39:58'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20576
 url: /nhec-blog/20576
+date_published: '2009-01-02T00:00:00'
+image_fid: '565'
+summary: Inaugural parades and balls are as integral to the nation's history as the
+  solemnity of the presidential oath of office and the inaugural address.
+image: /files/President1.jpg
 ---
+
 
 Inaugural parades and balls are as integral to the nation's history as the solemnity of the presidential oath of office and the inaugural address. A few of the many online resources ranging from primary source documents to quick quizzes are listed below.
 *Renewing America's Promise*, the theme for the inauguration of Barack Obama as the 44th U.S. President on January 20, links the event to the [200th anniversary of the birth of Abraham Lincoln](http://www.abrahamlincoln200.org/). The concept of "a new birth of freedom," words taken from [Lincoln's Gettysburg Address](http://myloc.gov/Exhibitions/gettysburgaddress/Pages/default.aspx), November 1863, underpin inaugural ceremonies.

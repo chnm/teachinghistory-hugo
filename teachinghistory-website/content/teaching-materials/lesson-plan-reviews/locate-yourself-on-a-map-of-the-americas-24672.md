@@ -2,11 +2,25 @@
 title: Locate Yourself on a Map of the Americas
 date: '2011-05-05T10:55:26'
 lastmod: '2018-04-24T10:22:02'
-type: lesson_plan_reviews
+content_type: lesson_plan_reviews
 draft: false
 drupal_nid: 24672
 url: /teaching-materials/lesson-plan-reviews/24672
+flexibility_scale: '3'
+topic: Geographical location and spatial relationships
+website_url: http://education.nationalgeographic.com/education/activity/locate-yourself-map-americas/?ar_a=1
+image_fid: '7447'
+splash_image_fid: '7448'
+summary: Young students locate themselves on a map and explore spatial relationships
+  among geographic features.
+spotlight: Teachers can introduce early elementary students to historical context
+  gradually by teaching them to understand the relationships among various locations.
+  Learn more by exploring this Lesson Plan Review designed to teach young students
+  about spatial relationships among geographic features.
+splash_image: /files/mapssplash.jpg
+image: /files/lesson_image/mapsimage.jpg
 ---
+
 
 This is a straightforward [lesson](http://education.nationalgeographic.com/education/activity/locate-yourself-map-americas/?ar_a=1) that introduces K-2 students to the concept of geographical location and scale. Using a variety of different maps, the lesson helps students understand the way that countries are situated within continents, states within countries, and cities within states.
 Designed for a single-period, the lesson begins with students identifying the continent and country in which they live. Then, students begin to move to progressively more specific scales, locating the state or district in which they live, and eventually their school. Along the way, the plan calls for discussion of the number and size of states and districts, and the relative scale of different cities and towns.

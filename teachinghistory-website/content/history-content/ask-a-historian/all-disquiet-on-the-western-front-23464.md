@@ -2,13 +2,19 @@
 title: All Disquiet on the Western Front
 date: '2009-10-27T15:18:01'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23464
 question: Why did World War I turn into a trench war on the Western Front? Was it
   the same on the Eastern Front?
 url: /history-content/ask-a-historian/23464
+splash_image_fid: '4842'
+thumbnail_fid: '360'
+summary: In Flanders fields the poppies blow. . . Why did trench warfare characterize
+  World War I?
+splash_image: /files/german-trench-new.jpg
 ---
+
 
 Trench warfare was not an innovation of World War I, but it was never so prevalent in any other war before or since.
 
@@ -29,3 +35,12 @@ By World War I, however, small arms were much more lethal. They could fire accur
 The advancing army's movements could also be tracked more efficiently. Airplanes did this job, and details of opposing troop movements were relayed to line commanders by rapidly strung phone lines.
 The result was that an attacking force could no longer have much hope of surviving an advance over open ground against a defending force, especially an entrenched one. The opposing armies therefore fell into defending their territories along roughly parallel lines separated by a lethal "no man's land" between them.
 The technology and tactics that could break this stalemate were not fully developed until the very end of the war and so were not effectively employed until the outbreak of World War II. They resulted in the use of highly mobile offensive forces that integrated infantry troops with newly improved tanks and close air support. This allowed an attacking force either to penetrate a defender's lines or to bypass entrenched fortifications altogether.
+
+---
+
+Tony Ashworth. *Trench Warfare, 1914-1918: The Live and Let Live System.* New York: Holmes & Meier, 1980.
+Stephen Bull. *Trench Warfare.* New York: Sterling, 2003.
+John Ellis. *Eye-Deep in Hell: Trench Warfare in World War I.* Baltimore: Johns Hopkins University Press, 1989.
+Paddy Griffith. *Fortifications of the Western Front 1914-18.* Oxford: Osprey, 2004.
+Nicholas J. Saunders. *Killing Time: Archaeology and the First World War.* Stroud: Sutton, 2007.
+Gary Sheffield, ed. *War on the Western Front.: In the Trenches of World War I.* New York: Osprey, 2007.

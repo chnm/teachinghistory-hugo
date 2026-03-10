@@ -2,11 +2,29 @@
 title: 'The Research Paper:  Developing Historical Questions'
 date: '2012-03-28T12:47:56'
 lastmod: '2018-09-21T12:02:23'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25516
 url: /teaching-materials/teaching-guides/25516
+author_bio: 'John Schmidt is a history teacher at Homewood-Flossmoor High School in
+  Flossmoor, IL and co-founder of HistoricalThinker.com. His current academic interests
+  include world, African American, and U.S. history, and teaching historical thinking
+  skills.
+
+  Jeff Treppa has taught U.S., world, and European history for 18 years at Homewood-Flossmoor
+  High School in Flossmoor, IL. A co-founder of HistoricalThinker.com, he currently
+  teaches AP World History and AP European History.'
+image_fid: '9082'
+splash_image_fid: '9083'
+author_image_fid: '9077'
+summary: Research papers are not an archaic form of assessment. Learn how to help
+  your students with the research paper composition process.
+splash_image: /files/researchsplash_0.jpg
+image: /files/researchimage.jpg
+author_image: /files/author_image/john.jpg
 ---
+
+
 
 ## What Is It?
 

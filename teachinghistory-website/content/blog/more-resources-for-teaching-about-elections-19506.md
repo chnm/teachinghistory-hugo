@@ -2,10 +2,13 @@
 title: More Resources for Teaching about Elections
 date: '2008-08-03T08:48:59'
 lastmod: '2012-01-30T11:16:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19506
 url: /nhec-blog/19506
+date_published: '2008-09-11T00:00:00'
+summary: Online resources help integrate elections into history and social studies
+  curriculum.
 ---
 
 [Democracy in America](http://www.learner.org/channel/courses/democracyinamerica/) from [Annenberg Media's Learner.org](http://www.learner.org/) offers a unit on [*Political Parties: Mobilizing Agents*](<http://www.learner.org/channel/courses/democracyinamerica/dia_12/) . The unit includes an interactive and downloadable readings by Alexis de Tocqueville and others.

@@ -2,10 +2,21 @@
 title: History in Every Classroom
 date: '2009-08-05T21:17:28'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 22465
+author_bio: Fillpot is the founder of Iowa’s [Bringing History Home Project](http://www.bringinghistoryhome.org/),
+  an elementary school history curriculum funded through the U.S. Department of Education
+  TAH program. She has directed TAH programs since 2001, and currently directs a grant
+  to establish professional development opportunities for K-5 teachers.
+splash_image_fid: '3908'
+author_image_fid: '4137'
+summary: Making history the everyday in K-5 classrooms.
+splash_image: /files/HistoryinEveryClassroomSplash.jpg
+author_image: /files/author_image/fillpot.jpg
 ---
+
+
 
 Bringing History Home (BHH), a K-5 curriculum and professional development project, started in 2001 and was part of several TAH grants. Focused on moving history from the margins of the traditional elementary curriculum into the mainstream of the school day, the project prepares all regular K-5 classroom teachers in participating school districts to teach sequential history units.
 > . . . the project prepares all regular K-5 classroom teachers in participating school districts to teach sequential history units

@@ -2,10 +2,15 @@
 title: History Education News - Volume Six
 date: '2011-04-15T13:15:30'
 lastmod: '2018-08-01T16:13:19'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24630
+splash_image_fid: '7475'
+summary: Learning how to read & analyze images can be challenging. In this issue,
+  we examine how to find, use, and explore historic images in the classroom.
+splash_image: /files/6-01.jpeg
 ---
+
 
 History Education News
 History Content 4

@@ -2,11 +2,29 @@
 title: 'Film Review: Pearl Harbor and U-571'
 date: '2011-11-21T11:44:55'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25317
 url: /nhec-blog/25317
+author_bio: Lawrence Suid is a military historian with a PhD in American studies from
+  Case Western Reserve University. He authored *Guts & Glory*, on the relationship
+  between the film industry and the U.S. Armed Services, and *Sailing on the Silver
+  Screen*, an account of the relationship between the U.S. Navy and the film industry.
+  Dr. Suid has also written histories of the Armed Forces Radio and Television Service
+  and the Army's Nuclear Power Program, and researched and written about the image
+  and reality of manned space flight.
+date_published: '2011-11-21T00:00:00'
+image_fid: '8573'
+splash_image_fid: '8574'
+author_image_fid: '8572'
+summary: When does a historical film go from "based on historical events" to total
+  fiction? Historian Lawrence Suid critiques two war movies.
+splash_image: /files/pearlharborsplash.jpg
+image: /files/pearlharborimage.jpg
+author_image: /files/author_image/mail_5.jpeg
 ---
+
+
 
 What constitutes the limits of dramatic license in fictional motion pictures set within the framework of a historical event? Filmmakers have regularly argued that the need for drama always outweighs the need for plausibility and historical accuracy. Audiences have generally bought the argument, as have the filmmakers themselves. Does it matter that Steven Spielberg portrays the Pentagon receiving word of the death of two Ryan brothers on Omaha Beach within two days of D-Day? Does it matter that a German fighter plane flew to the vicinity of Greenland as shown in *U-571*? Does it matter that Jimmy Doolittle and his raiders never flew in formation during the attack on Tokyo as shown in *Pearl Harbor*?
 > But does falsifying or fabricating events add to the drama, or is good drama incompatible with truth?

@@ -2,8 +2,11 @@
 title: Henniker Historical Society and Museum [NH]
 date: '2008-01-08T13:28:32'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 6460
+website_url: http://www.hennikerhistory.org/
 ---
 
+The Society's Museum displays an eclectic collection of artifacts, documents, and photographs that have a connection to a Henniker person, place, or event. All time periods are represented, from the town's founding in 1768 to the present, but emphasis is generally placed on the earlier periods of the town's history.
+The museum offers exhibits and research library access.

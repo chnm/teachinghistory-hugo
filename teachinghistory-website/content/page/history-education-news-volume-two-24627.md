@@ -2,10 +2,15 @@
 title: History Education News - Volume Two
 date: '2011-04-15T13:15:17'
 lastmod: '2018-09-26T08:35:33'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24627
+splash_image_fid: '7471'
+summary: It is back to school! In this issue, we feature topics relevant to this fall,
+  such as presidential elections, teaching strategies, research and news.
+splash_image: /files/2-01.jpeg
 ---
+
 
 Ir NATIONAL HISTORY
 16,

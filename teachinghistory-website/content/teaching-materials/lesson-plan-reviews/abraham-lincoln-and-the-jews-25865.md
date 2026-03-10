@@ -2,11 +2,22 @@
 title: Abraham Lincoln and the Jews
 date: '2021-01-27T09:15:23'
 lastmod: '2021-01-27T13:15:50'
-type: lesson_plan_reviews
+content_type: lesson_plan_reviews
 draft: false
 drupal_nid: 25865
 url: /teaching-materials/lesson-plan-reviews/25865
+flexibility_scale: '2'
+topic: President Lincoln and Jewish Americans during the Civil War
+website_url: https://www.shapell.org/historical-perspectives/teacher-resources/lincoln-and-the-jews/
+image_fid: '10219'
+splash_image_fid: '10220'
+summary: Students learn about the sixteenth president's relationship with Jewish Americans
+  and his policy of religious tolerance.
+spotlight: Student explore ideas about religious tolerance during the Civil War
+splash_image: /files/LincolnSplash.jpg
+image: /files/lesson_image/LincolnLetter.jpg
 ---
+
 
 In [this engaging teaching module](https://www.shapell.org/historical-perspectives/teacher-resources/lincoln-and-the-jews/) from the [Shapell Manuscript Foundation](https://www.shapell.org/) in collaboration with the [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/) teachers are provided resources to help students better understand how Lincoln governed as president and the role of religion during the Civil War. Students will engage with primary sources including rare letters by Lincoln that are part of the Shapell collection. Other primary sources include letters by Civil War generals including Benjamin Butler, George McClellan, and William Tecumseh Sherman which demonstrate the anti-semitic attitudes held by many at the time.
 

@@ -2,7 +2,7 @@
 title: Forty Acres and a Mule
 date: '2010-08-10T09:52:00'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24170
 question: I'm trying to find a map of the land Sherman set aside in Special Field
@@ -11,7 +11,12 @@ question: I'm trying to find a map of the land Sherman set aside in Special Fiel
   getting the text of the order, but even my school librarians had difficulty with
   this.
 url: /history-content/ask-a-historian/24170
+splash_image_fid: '6288'
+summary: The origin of the "Sherman Reservation" in Special Field Order No. 15, by
+  which the Southern coastal low country was set aside for resettlement by ex-slaves.
+splash_image: /files/charleston-ruins.jpg
 ---
+
 
 I have not found a map of it either, but that may be partly because the field order itself was ambiguous about the area as well as about what exactly it authorized.
 
@@ -54,3 +59,12 @@ Some of the most radical members of Congress were delighted by this. Indeed, sev
 After the war ended, the contentious results of Sherman’s field order arose as the Federal government sorted out how it would deal permanently with what Sherman had instituted primarily as a military expedient—to free his forces from the burden of caring for refugees as he moved his armies north into the Carolinas. Historian Jacqueline Jones, in *Saving Savannah*, summed up Sherman’s original goal:
 *Ultimately, then, Special Field Order No. 15 grew out of the refugee problem, which, in the words of one Union officer, “left on our hands the old and feeble, the women and children,” too many hungry mouths to feed in the city of Savannah. … The order made explicit the connection between military service for men and homesteads for their families, and it provided not for fee-simple titles, outright ownership of the land, but rather possessory titles that remained contingent on future political developments. The order itself remained “subject to the approval of the President.” What came to be called the Sherman Reservation, then, was a means of draining Savannah of women, children, and the elderly while providing for enforced service among young men. This initial goal foreshadowed the order’s troubled future.*
 Down to our own time, the confused and conflicted intentions and authorities that informed the issuance of Field Order No. 15 and its later implementation and revocation, have been the focus of the claim of precedent for government reparations to ex-slaves and then to their descendants.**
+
+---
+
+Ira Berlin, Thavolia Glumph, Julie Saville, et al, *The Wartime Genesis of Free Labor: The Lower South*, Volume 3 of *Freedom: a Documentary History of Emancipation, 1861-1867*. New York: Cambridge University Press, 1990.
+Walter L. Fleming, “Forty Acres and a Mule,” *North American Review* (May 1906): 721-737.
+Julie Saville, *The Work of Reconstruction: From Slave to Wage Laborer in South Carolina*. Cambridge University Press, 1996.
+Claude F. Oubre, *Forty Acres and a Mule: The Freedmen’s Bureau and Black Land Ownership*. Baton Rouge: Louisiana State University Press, 1978).
+Barton Myers, ["Sherman's Field Order No. 15,"](http://www.georgiaencyclopedia.org/nge/Article.jsp?id=h-3353) *The New Georgia Encyclopedia, 2005.
+Text of [Special Field Order No. 15](http://www.history.umd.edu/Freedmen/sfo15.htm), at the Freedmen & Southern Society Project at the University of Maryland.*

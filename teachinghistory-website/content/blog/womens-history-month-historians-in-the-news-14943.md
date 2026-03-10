@@ -2,10 +2,13 @@
 title: 'Women''s History Month:  Historians in the News'
 date: '2008-02-08T13:14:12'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 14943
 url: /nhec-blog/14943
+date_published: '2008-02-12T00:00:00'
+summary: Some historians who are women sometimes make history themselves. Follow these
+  stories on Drew Gilpin Faust and Laura Thatcher Ulrich.
 ---
 
 Some historians are women who sometimes make history themselves. Drew Gilpin Faust, historian, author, and president of Harvard University, discusses her career, the history profession, and her new book, [*This Republic of Suffering: Death and the American Civil War*](http://www.amazon.com/This-Republic-Suffering-Death-American/dp/037540404X/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1202493908&sr=8-1) in [The Washington Post](http://www.washingtonpost.com) of February 7, 2008.

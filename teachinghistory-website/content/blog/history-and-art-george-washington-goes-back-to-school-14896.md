@@ -2,10 +2,14 @@
 title: 'History and Art: George Washington Goes Back to School'
 date: '2008-02-06T10:23:01'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 14896
 url: /nhec-blog/14896
+date_published: '2008-02-12T00:00:00'
+summary: Celebrate President's Day with a framed, replica of Rembrandt Peale's Porthole
+  Portrait of George Washington and accompanying lesson plans free from the Mount
+  Vernon historic site.
 ---
 
 Celebrate President's Day with a free, framed, replica of [Rembrandt Peale's Porthole Portrait of George Washington](http://www.mountvernon.org/meet-george-washington) from the Mount Vernon historic site. It is specially sized (30”x36”) to take a place of honor in your school’s central office, library, or auditorium. Accompanying the portrait will be a George Washington Celebration Kit with suggested activities to commemorate the dedication of the portrait, as well as suggested lesson plans for classroom use.

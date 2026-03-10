@@ -2,11 +2,25 @@
 title: Joe Jelen on Pocket Camcorders
 date: '2011-05-02T16:39:15'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24670
 url: /nhec-blog/24670
+author_bio: 'Joe Jelen teaches history and civics at Fairfield Warde High School in
+
+  Connecticut.'
+date_published: '2011-05-11T00:00:00'
+image_fid: '7441'
+splash_image_fid: '7443'
+author_image_fid: '7440'
+summary: With pocket camcorders, you can direct a class full of filmmakers. Joe Jelen
+  takes a look at these tiny tools.
+splash_image: /files/camcordersplash.jpg
+image: /files/camcorderimage.jpg
+author_image: /files/author_image/Author_Image_Joe_Jelen_75x75_2.jpg
 ---
+
+
 
 ## What is a pocket camcorder?
 

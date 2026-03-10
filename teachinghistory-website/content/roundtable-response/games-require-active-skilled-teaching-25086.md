@@ -2,10 +2,23 @@
 title: Games Require Active, Skilled Teaching
 date: '2011-08-18T13:03:50'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25086
+author_bio: Jennifer Groff is the Director of Learning for the Learning Games Network—a
+  nonprofit spin-off from the MIT Education Arcade, which focuses on the leading edge
+  of learning game design. Her research focuses on learning innovations/technologies,
+  new models of game-based assessments, and education system innovation and design.
+  Currently she is also an advisor to the OECD Innovative Learning Environments project,
+  studying the dynamics and system design of innovative learning environments around
+  the globe.
+author_image_fid: '7981'
+summary: Games create scenarios in the classroom where the stakes are raised and the
+  learning is deeper, thereby requiring highly skilled and engaged teachers facilitating
+  the process.
+author_image: /files/author_image/roundtable-author-groff.jpg
 ---
+
 
 Games are everywhere. Digital games have a long history of research and development in education. Yet despite this, there's still much confusion amongst the generation population, and even teachers. Are games good? Safe? A waste of time?
 It's not hard to understand why there is still confusion. The field of games is vast—and therefore, confusing. Some games are aimed at skill-and-drill, some at learning specific facts, and others have been designed for deep learning—creating rich environments with dynamics that confront a student's conceptions and require complex decisions and collaboration with peers. Even some commercial games, not specifically designed for learning, fall into this last category. With such a complex landscape, it can be tricky for a teacher to know if and how to leverage games for learning, let alone which ones.

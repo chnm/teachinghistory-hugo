@@ -2,10 +2,15 @@
 title: History Education News - Volume Four
 date: '2011-04-15T13:15:23'
 lastmod: '2018-08-01T16:13:28'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24633
+splash_image_fid: '7473'
+summary: Looking for ways to approach difficult social issues? In this issue, we explore
+  resources to help you engage students in these important conversations.
+splash_image: /files/4-01.jpeg
 ---
+
 
 ISSUE
 SEP

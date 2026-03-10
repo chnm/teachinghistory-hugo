@@ -2,11 +2,27 @@
 title: Elizabeth Schaefer's Vocabulary in Motion!
 date: '2011-02-04T14:26:41'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24514
 url: /nhec-blog/24514
+author_bio: Elizabeth Schaefer teaches 8th-grade U.S. history at Paul Public Charter
+  School in Washington, DC. After graduating from Lafayette College with degrees in
+  Psychology and American Studies, Elizabeth worked with an after-school program in
+  New York City public schools. Getting to know the youth in the Urban Dove program
+  motivated her to return to school for her MA in Teaching from American University.
+date_published: '2011-03-14T00:00:00'
+image_fid: '7110'
+splash_image_fid: '7111'
+author_image_fid: '7109'
+summary: As spring weather approaches, are your students getting antsy? Eighth-grade
+  teacher Elizabeth Schaefer gets students out of their seats with American Expansionism.
+splash_image: /files/splash-blog-lsdestiny.jpg
+image: /files/image-blog-lsdestiny.jpg
+author_image: /files/author_image/Author_Photo_Elizabeth_Schaefer_75x75_0_0.jpg
 ---
+
+
 
 My middle school students contain tremendous physical energy and can struggle with the transition into the adult world of sitting still. Meanwhile, real kinesthetic learning is one of the most difficult areas to incorporate effectively into your history classroom. Last year, to meet my goal of getting the students moving in a relevant and productive manner, I created Policy Pull-Out—a fun and interactive game related to the key concepts of American Expansion.
 

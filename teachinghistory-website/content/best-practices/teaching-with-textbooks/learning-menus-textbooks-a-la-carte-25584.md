@@ -2,11 +2,16 @@
 title: 'Learning Menus: Textbooks a la Carte'
 date: '2012-04-25T11:32:40'
 lastmod: '2018-09-26T09:13:47'
-type: teaching_with_textbooks
+content_type: teaching_with_textbooks
 draft: false
 drupal_nid: 25584
 url: /best-practices/teaching-with-textbooks/25584
+splash_image_fid: '9205'
+summary: Turn your students into 'master chefs' by using learning menus that allow
+  differentiated instruction.
+splash_image: /files/menussplash.jpg
 ---
+
 
 ## Why do it?
 

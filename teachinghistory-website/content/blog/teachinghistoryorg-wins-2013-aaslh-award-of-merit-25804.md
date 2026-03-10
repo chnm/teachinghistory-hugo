@@ -2,11 +2,22 @@
 title: Teachinghistory.org Wins 2013 AASLH Award of Merit
 date: '2013-07-22T12:31:38'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25804
 url: /nhec-blog/25804
+author_bio: Jennifer Rosenfeld is Associate Director for Educational Projects at the
+  Roy Rosenzweig Center for History and New Media.
+date_published: '2013-07-22T00:00:00'
+image_fid: '9624'
+author_image_fid: '9623'
+summary: '*Teachinghistory.org* Wins a 2013 Award of Merit from the American Association
+  of State and Local History.'
+image: /files/aaslh_logo.jpg
+author_image: /files/author_image/jennifer1-2.jpg
 ---
+
+
 
 *Teachinghistory.org* is honored to receive an Award of Merit from the [American Association for State and Local History](http://aaslh.org) (AASLH).
 The AASLH Leadership in History Award, now in its 68th year, is the most prestigious recognition for achievement in the preservation and interpretation of state and local history.

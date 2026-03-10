@@ -2,11 +2,19 @@
 title: The Bicentennial of 1812
 date: '2011-12-20T11:50:28'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25365
 url: /nhec-blog/25365
+date_published: '2012-02-01T00:00:00'
+image_fid: '8791'
+splash_image_fid: '8790'
+summary: How much do your students know about the War of 1812? Find resources on the
+  bicentennial of this often-overlooked war.
+splash_image: /files/image-splash-1812blog.jpg
+image: /files/image-small-1812blog.jpg
 ---
+
 
 How much do your students know about the War of 1812? Why was the war fought? Where did the battles take place? Who won? This year marks the bicentennial of this often-overlooked war, which helped shape the identities and boundaries of North American nations in the early years of U.S. independence from Great Britain. To commemorate the bicentennial and raise awareness of this period in U.S. (and Canadian) history, organizations across the country (and across the northern border) are creating teaching resources and planning events for 2012.
 Interested in exploring maritime history with your students? The fledgling U.S. Navy played an important role in this war. Visit *[Ourflagwasstillthere.org](http://www.ourflagwasstillthere.org/)*, the official U.S. Navy hub for bicentennial events and resources. This website storehouses links to War of 1812 materials across the Internet, including performances of "The Star-Spangled Banner," essays on historical subjects, videos, archeology updates, [educational resources](http://www.ourflagwasstillthere.org/learning-having-fun.html), and more. Don't forget to check the [dates](http://www.opsail.org/press-releases/41/secnav-and-opsail-announce-major-events-for-2012/) when tall ships will visit 12 cities pivotal to the war. Will the ships sail anywhere near you?

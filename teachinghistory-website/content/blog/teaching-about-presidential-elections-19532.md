@@ -2,11 +2,17 @@
 title: Teaching about Presidential Elections
 date: '2008-08-12T17:05:16'
 lastmod: '2017-10-06T15:39:58'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19532
 url: /nhec-blog/19532
+date_published: '2008-08-12T00:00:00'
+splash_image_fid: '9592'
+summary: A wealth of historical material exists on the web to support teaching about
+  presidential elections.
+splash_image: /files/02048v.jpg
 ---
+
 
 A wealth of historical material exists on the web to support teaching about presidential elections.
 The [National Archives and Records Administration (NARA)](http://www.archives.gov/index.html) uncovers the mysteries of the [Electoral College](http://www.archives.gov/federal-register/electoral-college/) through text, documents, interactives, and links to K–12 curricular resources.

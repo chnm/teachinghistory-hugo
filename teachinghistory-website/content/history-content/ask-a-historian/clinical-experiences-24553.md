@@ -2,12 +2,23 @@
 title: Clinical Experiences
 date: '2011-03-08T12:46:39'
 lastmod: '2017-12-01T15:52:16'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24553
 question: When did universities start making teaching students do student teaching?
 url: /history-content/ask-a-historian/24553
+author_bio: 'Jack Schneider is a former high school history teacher and currently
+  teaches in the Educational Studies department at Carleton College. His research
+  focuses on equity and school reform, and he is the author of the book *Excellence
+  For All: How a New Breed of Reformers Is Transforming America''s Public Schools*.'
+splash_image_fid: '7242'
+author_image_fid: '7240'
+summary: When did universities start making teaching students do student teaching?
+splash_image: /files/clinicalsplash.jpg
+author_image: /files/author_image/Jacks_photo2_2.jpg
 ---
+
+
 
 ## In the Beginning
 
@@ -23,3 +34,7 @@ However, most teachers did not attend normal schools. In rural areas, for instan
 By the 1930s, though, a standard was emerging. As normal schools transformed into state colleges and universities, as higher education enrollments grew, and as more states created educational requirements for licensure, more and more teachers received formal training in a school or department of education. A standard course of study included general education, courses in educational foundations and pedagogy, and a practice teaching component. Still, such matters varied on a school-by-school basis. According to a 1927 survey, some schools required 0–50 hours of student teaching, while some required upwards of 500–600.
 Extended clinical experiences became more common in the 1950s and 1960s as states strengthened licensure requirements. Some, like Maine and Oregon, still did not require student teaching. Others, like Rhode Island, mandated a minimum of 200 hours of student teaching for licensure. By the 1970s and '80s, most states had established standards for student teaching; yet variance remained the norm, ranging from four to 18 weeks.
 Today, most states require a BA from an accredited college or university and between 12 and 16 weeks of student teaching. There are, of course, alternate routes into public school classrooms that, in a sense, turn back the clock.
+
+---
+
+In our blog, George Mason University social studies/history education assistant professor Anthony Pellegrino looks at the [challenges of modern teacher training](http://teachinghistory.org/nhec-blog/24447).

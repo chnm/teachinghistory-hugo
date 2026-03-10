@@ -2,11 +2,24 @@
 title: Joe Jelen on Discovering History Through Student Genealogy Research
 date: '2011-12-30T16:48:14'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25372
 url: /nhec-blog/25372
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+date_published: '2012-01-30T00:00:00'
+image_fid: '8736'
+splash_image_fid: '8737'
+author_image_fid: '8735'
+summary: Is it hard for your students to see how history affects them? Have them research
+  their own pasts! Teacher Joe Jelen looks at student genealogy.
+splash_image: /files/familytreesplash.jpg
+image: /files/familytreeimage.jpg
+author_image: /files/author_image/author_image_joe_jelen_75x75_3_1.jpg
 ---
+
+
 
 Doing math seems to come more naturally to many students than doing history. After all, everyone knows you "do" math, but who's heard of "doing" history? With a little creativity we can find authentic ways for students to “do history” and learn that it's as natural as "doing" math or science!
 One way for students to "do" the past as historians is to research their family’s past. Researching family history helps students create context for studying the past and helps students develop a sense of place in the present. In addition, a family history project can help foster connections with students’ guardians at home and help us, as teachers, better understand our students’ backgrounds. A student genealogy project is certainly not a new idea, but new online tools make it easier than ever to uncover family records and connect distant relatives.

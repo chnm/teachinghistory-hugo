@@ -2,10 +2,20 @@
 title: Engaging Students in the Discourse of History
 date: '2011-12-19T12:22:43'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25352
+author_bio: Katherine Suyeyasu teaches 7th- and 8th-grade Humanities at ASCEND K–8
+  in the Oakland Unified School District. She earned a Masters in Education at U.C.
+  Berkeley and is a teacher consultant with the Bay Area Writing Project.
+author_image_fid: '8679'
+summary: Teachers need access to a wide range of historical writing models beyond
+  those offered in history textbooks. Teachers also need access to resources that
+  are based in pedagogical methods that align with an understanding of history as
+  a dynamic discipline based in interpretation.
+author_image: /files/author_image/author_suyeyasu.jpg
 ---
+
 
 As a student, I did not have much interest in history because I learned it as a set body of knowledge. There was nothing to figure out or argue. There were no grey areas. I never once considered what historians did or even if there were any historians left. From my perspective all the work of history had already been done.
 > The Common Core Standards in reading and writing for middle and high school validate the importance of students engaging in the practice of analyzing and writing historical arguments.

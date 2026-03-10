@@ -2,8 +2,9 @@
 title: Becoming Historians
 date: '2011-06-06T14:43:09'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24718
 ---
 
+The Elmore County Public School District serves 15 schools in central Alabama, including two designated as needing improvement; *Becoming Historians* will give priority to these schools as it selects program participants. Project activities (to be based on five categories of benchmarks—collaboration, content, pedagogy, historical thinking, and assessment) will include a day-long kick-off event each August; a day-long workshop every other month to help teachers practice using resources beyond textbooks; an annual 5-day summer academy (to include 2 days at historical sites or museums); independent study and facilitated group discussion of two scholarly books a year; online collaboration to share ideas and build a community of practice; and mentoring based on the Lesson Study approach. All activities will be aligned with the *Becoming Historians* blueprint, which describes an ideal American history classroom and is based on the Concerns-Based Adoption Model. The 30 teachers selected for the program will include some who have degrees in history and others who have minimal academic credentials in history; the program will foster mentoring relationships among the group. *Becoming Historians* will combine a broad survey course of American history and in-depth inquiry into selected historical periods to develop the theme that no person, place, event or idea is truly insignificant. Instruction and lesson planning will emphasize "best practices" and instructional strategies that develop students' historical thinking skills through interactions with a variety of instructional resources. Teachers will contribute lesson plans and student artifacts to an online workspace and will participate in online collaboration to sustain a district-wide community of practice.

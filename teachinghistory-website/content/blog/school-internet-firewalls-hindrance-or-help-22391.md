@@ -2,10 +2,14 @@
 title: 'School Internet Firewalls: Hindrance or Help?'
 date: '2009-07-13T00:57:41'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22391
 url: /nhec-blog/22391
+date_published: '2009-07-12T00:00:00'
+summary: Co-director of EdTechTeacher.org and former high school teacher Justin Reich
+  thinks firewalls keep students from thinking critically about internet use and teachers
+  from exploiting massive amounts of web-based resources.
 ---
 
 Firewalls can keep students from thinking critically about internet use and prevent teachers from introducing valuable web-based resources into the classroom, according to Justin Reich writing in [In Schools, a Firewall That Works Too Well](http://www.washingtonpost.com/wp-dyn/content/article/2009/07/10/AR2009071003459.html), an article published in [*The Washington Post*](http://www.washingtonpost.com) on Saturday, July 11. "The Internet is an integral and growing part of our lives and, to prepare our children for the future, schools must help students wisely and safely use the Web," he states.

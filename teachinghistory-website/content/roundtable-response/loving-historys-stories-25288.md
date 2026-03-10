@@ -2,10 +2,20 @@
 title: Loving History's Stories
 date: '2011-11-01T13:33:56'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25288
+author_bio: Andrea Hayden is a National Board Certified elementary teacher for Albany
+  County School District in Laramie, WY. She has taught for 11 years and has an MA
+  in Curriculum and Instruction from the University of Wyoming.
+author_image_fid: '8505'
+summary: While historical fiction has the power to captivate students and draw them
+  in to history, they are best served if teachers partner fiction with nonfiction
+  texts. This enables them to critically think about the stories being presented and
+  to analyze them for historical accuracy and significance.
+author_image: /files/author_image/author_hayden.jpg
 ---
+
 
 Earlier this year I received an email from the National Science Teachers Association with the “Five reasons they love science”:
 

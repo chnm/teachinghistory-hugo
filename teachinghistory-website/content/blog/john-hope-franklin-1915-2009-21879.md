@@ -2,11 +2,19 @@
 title: John Hope Franklin, 1915-2009
 date: '2009-03-26T13:54:00'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 21879
 url: /nhec-blog/21879
+date_published: '2009-03-26T00:00:00'
+image_fid: '1001'
+splash_image_fid: '8705'
+summary: African American historian, professor, and civil rights activist John Hope
+  Franklin wrote history and made history for almost a century.
+splash_image: /files/splash-him-mlk7.jpg
+image: /files/jhf.jpg
 ---
+
 
 John Hope Franklin, African American historian, professor, and civil rights activist, passed away on March 25. His life work changed the way we explore, analyze, construct, and teach American history. "He not only studied history; he made it," explains an [editorial](http://www.washingtonpost.com/wp-dyn/content/article/2009/03/25/AR2009032502808.html) in [*The Washington Post*](http://www.washingtonpost.com).
 Franklin lived and acted with a conviction that historians have a voice and an obligation to the present and to the determination of public policy. "Using one's skills to influence public policy seemed to be a satisfactory middle ground between an ivory tower posture of isolation and disengagement and a posture of passionate advocacy that too often deserted the canons of scholarship," he said.

@@ -2,11 +2,17 @@
 title: National Archives Launches DocsTeach
 date: '2010-10-01T16:48:31'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24276
 url: /nhec-blog/24276
+date_published: '2010-10-25T00:00:00'
+image_fid: '6649'
+summary: Choose from more than 3,000 primary sources and seven activity modules to
+  make your own interactive online lessons.
+image: /files/blog-docsteach_0.jpg
 ---
+
 
 With the National Archive's [*DocsTeach*](http://docsteach.org/), educators can find primary sources and the tools to present and interpret them on the same website.
 Officially launched September 20, *DocsTeach* brings more than 3,000 primary sources together with seven online activities, each designed to reinforce specific classroom skills. Register for free, and log in to browse or search the site's photographs, speeches, letters, drawings, memos, video clips, maps, and other sources, dating from 1754 to the present day. Bookmark those that interest you, and head over to the site's "Activities" section.

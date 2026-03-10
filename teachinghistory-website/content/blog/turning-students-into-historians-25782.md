@@ -2,11 +2,24 @@
 title: Turning Students into Historians
 date: '2013-01-29T12:52:52'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25782
 url: /nhec-blog/25782
+author_bio: Jasmine Alinder is Associate Professor of History, Coordinator of Public
+  History, and Director of Urban Studies at the University of Wisconsin-Milwaukee.
+date_published: '2013-01-29T00:00:00'
+image_fid: '9606'
+splash_image_fid: '9607'
+author_image_fid: '9608'
+summary: How do you engage students with primary sources *and* their community? Jasmine
+  Alinder shares a success story!
+splash_image: /files/blog-splash-milwaukee.jpg
+image: /files/blog-image-milwaukee.jpg
+author_image: /files/author_image/alinder-portrait.jpg
 ---
+
+
 
 Milwaukee, WI, has an important civil rights history that not many people know about. In the 1960s, battles raged here over open housing and school desegregation, and teens led much of the movement. Decades later, we still suffer from racial and economic segregation, but how many of our students can explain why? And what would it mean to them to find out that in 1960s Milwaukee, youth protested such inequality?
 > How could we use this resource to help youth learn about their city’s past and feel invested in their communities?

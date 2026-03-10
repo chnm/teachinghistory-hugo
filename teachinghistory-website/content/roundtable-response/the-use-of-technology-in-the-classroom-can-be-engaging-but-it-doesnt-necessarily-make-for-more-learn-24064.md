@@ -3,10 +3,20 @@ title: The use of technology in the classroom can be engaging, but it doesn’t 
   make for more learning
 date: '2010-05-12T19:49:29'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24064
+author_bio: Daniel Willingham is a Professor of Psychology at the University of Virginia,
+  where he studies the application of cognitive psychology to K-12 education. He writes
+  the “Ask the Cognitive Scientist” column for *American Educator* magazine and is
+  the author of *Why Don’t Students Like School?*
+author_image_fid: '4705'
+summary: Using technology to meet the ambitious goals of the 21st century skills movement
+  demands more than first meets the eye. . .. If the 21st century skills goals are
+  to be met, there must be better professional development for teachers.
+author_image: /files/author_image/Willingham.jpg
 ---
+
 
 Many of the goals of the [21st–century skills](http://www.p21.org/) movement would be familiar to any teacher: critical thinking, creativity, problem solving, and knowledge of standard subjects, including math, science, English, history, and others. But there are [new goals](http://www.p21.org/index.php?option=com_content&task=view&id=254&Itemid=120) too.
 New content areas like global awareness, financial and business literacy, and environmental literacy. There are also new skills to be mastered such as collaborating effectively and accessing and evaluating knowledge wisely.

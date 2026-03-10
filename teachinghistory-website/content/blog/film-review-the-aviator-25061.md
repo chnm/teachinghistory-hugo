@@ -2,11 +2,27 @@
 title: 'Film Review: The Aviator'
 date: '2011-07-29T16:06:12'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25061
 url: /nhec-blog/25061
+author_bio: David Courtwright offers courses in U.S. history and in medical, social,
+  and legal history at the University of North Florida. He has authored books on drug
+  use and drug policy, both in American and world history; the special problems of
+  frontier environments, both on the land and in the air; and, most recently, about
+  the culture war that has roiled American politics since the 1960s.
+date_published: '2011-07-31T00:00:00'
+image_fid: '7854'
+splash_image_fid: '7855'
+author_image_fid: '7853'
+summary: Historical films like *The Aviator* sacrifice historical context to create
+  character portraits, says historian David Courtwright.
+splash_image: /files/splash-jah-aviator.jpg
+image: /files/image-jah-aviator.jpg
+author_image: /files/author_image/pic---david-courtwright.jpg
 ---
+
+
 
 *This is the third in a series of film reviews reprinted from the* [Journal of American History](http://www.journalofamericanhistory.org/). *These reviews model ways of looking critically at popular films, documentaries, miniseries, and other history-based features.
 Some talented people have the misfortune to enter popular memory in their decrepitude. Howard Hughes's name, when joined with "crazy" or "Las Vegas," produces far more results in an Internet search than when it is joined with "twa" or "Constellation." It is the phobias and the fingernails that most people remember, not the aviation achievements.

@@ -2,11 +2,25 @@
 title: 'Film Review: Prohibition'
 date: '2012-07-05T12:52:06'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25654
 url: /nhec-blog/25654
+author_bio: Tona Hangen is Assistant Professor of U.S. history at Worcester State
+  University. She is a social historian of the 20th century with research interests
+  in media, religion, and popular culture.
+date_published: '2012-07-18T00:00:00'
+image_fid: '9376'
+splash_image_fid: '9377'
+author_image_fid: '9381'
+summary: Historian Tona Hangen takes a look at Ken Burns and Lynn Novick's three-part
+  documentary on Prohibition.
+splash_image: /files/prohibitionsplash.jpg
+image: /files/prohibitionimage.jpg
+author_image: /files/author_image/author_hangen_0.jpg
 ---
+
+
 
 With their three-part documentary on Prohibition, Ken Burns and Lynn Novick turn the rise and fall of the Eighteenth Amendment into a cautionary tale about metastasizing single-issue politics in America. Perhaps as expected, the films hit their stride when talking about the late 1920s, with tommy-gun wielding gangsters, bootleggers, and speakeasy patrons battling earnest federal enforcers for the soul of the nation. But the films brood far more than they sensationalize, ultimately making the story of Prohibition not only more expansive but also much more serious and less rollicking than it might be.
 The “noble experiment” (a term attributed to Herbert Hoover) of Prohibition was enacted to protect American families and society from the pernicious and widely acknowledged effects of alcohol consumption. While saluting these laudable intentions, Burns and Novick cast Prohibition as not only a “notorious civic failure” but, even more damning, also as a violation of the American character itself. Although Prohibition was in effect only from 1920 to 1933, its roots tapped into the early years of antebellum reform and it had lasting effects on American culture, politics, and law. *Prohibition* takes in an ambitious sweep of more than a century, starting with the beginnings of the temperance movement in the 1820s.

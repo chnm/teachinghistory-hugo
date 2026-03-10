@@ -2,11 +2,19 @@
 title: Upcoming Deadlines for Professional Development
 date: '2011-01-20T17:28:30'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24458
 url: /nhec-blog/24458
+date_published: '2011-01-20T00:00:00'
+image_fid: '7041'
+splash_image_fid: '7042'
+summary: February and March mark deadlines for several national professional development
+  opportunities.
+splash_image: /files/splash-blog-dl2011.jpg
+image: /files/image-blog-dl2011.jpg
 ---
+
 
 Deadlines are approaching for several national professional development programs!
 On **Feb. 1 (NOTE: deadline extended to Feb. 15th!),** the Gilder Lehrman Institute of American History stops accepting applications for its [summer seminars for teachers](http://www.gilderlehrman.org/education/seminar_overview.php). The week-long seminars take place at colleges and universities nationwide, and teach classroom strategies focused on using primary sources effectively. Apply for any of 40 seminars on a range of topics, including Native American history, the Civil War in global context, the 20th-century women's rights movements, and the role of the Supreme Court in American history. Participants will receive a $400 reimbursement.

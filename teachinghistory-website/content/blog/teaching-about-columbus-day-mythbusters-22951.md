@@ -2,11 +2,22 @@
 title: 'Teaching about Columbus Day: Mythbusters'
 date: '2009-10-05T13:49:37'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22951
 url: /nhec-blog/22951
+author_bio: Clearinghouse Project Manager Lee Ann Ghajar writes the blog. She loves
+  blogs as tools for getting information to people who need it in concise, usable
+  form. Lee Ann is also working on her Ph.D in American history at George Mason—a
+  far less concise project than blogging.
+date_published: '2009-10-06T00:00:00'
+image_fid: '2461'
+splash_image_fid: '8072'
+summary: Will the REAL Cristoforo Colombo please stand up.
+splash_image: /files/splash-him-colmyth.jpg
+image: /files/5720f.jpg
 ---
+
 
 First, let's address mythology.
 Contrary to what our grandparents—and perhaps parents—were taught, Christopher Columbus did not discover America in 1492. The land had been inhabited for centuries, and other explorers from Europe, Asia, and Africa had already landed here.

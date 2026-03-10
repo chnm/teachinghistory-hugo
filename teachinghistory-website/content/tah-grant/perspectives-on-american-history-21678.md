@@ -2,8 +2,9 @@
 title: Perspectives on American History
 date: '2009-02-10T13:34:12'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 21678
 ---
 
+Orangeburg Consolidated School District 05 proposes a Teaching American History project, Perspectives on American History (Perspectives), that will help Orangeburg teachers and students realize the potential they have to become influential and proactive American citizens. Perspectives will invite teachers to investigate historical events in American history from the multiple perspectives of the individual lives that shaped those events and issues. Perspectives will implement and strengthen programs to teach American history as a separate academic subject by connecting teachers with 1) local and national historians; 2) historical resources; 3) best-practice teaching strategies and technological tools; 4) colleagues and their ideas and resources; and 5) a sustainable blueprint for excellent teaching. Perspectives meets the absolute priority through its partnerships with South Carolina State University, the South Carolina Archives, the Gilder Lehrman Institute of American History, and the South Carolina Council for African American Studies. These partnerships will provide historical content instruction, professional development, and teaching resources for participating teachers. The Perspectives management team and the external evaluator will work together to collect and analyze project data to measure improvements in teacher and student knowledge and to ensure progress toward project objectives. Course content will explore the following topics: exploration, colonization, and settlement; the Revolutionary War, a new nation, and reform movements; the Civil War and Reconstruction; the Industrial Revolution; World Wars I and II; the Great Depression; domestic and foreign policy; and the contemporary U.S.

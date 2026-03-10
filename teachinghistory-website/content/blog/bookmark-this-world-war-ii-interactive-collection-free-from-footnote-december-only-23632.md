@@ -3,11 +3,16 @@ title: 'Bookmark This! World War II Interactive Collection: Free From Footnote (
   only)'
 date: '2009-12-09T10:41:15'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23632
 url: /nhec-blog/23632
+date_published: '2009-12-09T00:00:00'
+image_fid: '3732'
+summary: Digitized primary resources on World War II—free access during December!
+image: /files/footnote.jpg
 ---
+
 
 [Footnote.com](http://www.fold3.com/) is a pre-eminent web resource for digitized primary source documents. It's a subscription service costing about $50 annually or $12 monthly, but the site regularly offers free access to some of its resources for specified time periods.
 During December, Footnote is granting free access to [WWII records](http://go.fold3.com/wwii/). Read first-hand accounts of submarine missions or reports of missing air crews. Explore the [USS Arizona Memorial](http://go.fold3.com/arizona_memorial/) or view over [80,000 photos](http://go.fold3.com/wwii_photos/) from the US Army Air Force. Other WWII records on Footnote.com include:

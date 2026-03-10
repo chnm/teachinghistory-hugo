@@ -2,11 +2,27 @@
 title: Joe Jelen on Document Cameras
 date: '2010-11-09T14:35:33'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24326
 url: /nhec-blog/24326
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+date_published: '2010-12-06T00:00:00'
+image_fid: '6799
+
+
+  6799'
+splash_image_fid: '6804'
+author_image_fid: '6797'
+summary: You don't have a smartboard, but overheard projectors aren't quite flexible
+  enough for you. What to do? High-school teacher Joe Jelen introduces the document
+  camera.
+splash_image: /files/splash-blog-jjdoccam1.jpg
+author_image: /files/author_image/Author_Image_Joe_Jelen_75x75.jpg
 ---
+
+
 
 ## What is a Document Camera?
 
@@ -23,7 +39,7 @@ University of Maryland, for $25. Another option is to [make a document camera yo
 
 ## How Do I Set It Up?
 
-Once you have your document camera installation is straightforward. ![](http://teachinghistory.org/files/image-blog-jjdoccam1.jpg?1289335314)Some document cameras come with a freeze image button which is a great feature to capture a page in a book or map that might be difficult to hold in place. If the document camera does not have this feature, you can hook up the document camera directly to the video projector, which often has the ability to freeze an image. If your document camera is not one that hooks up to your computer via USB, you can also set up the document camera directly to your projector. This allows you to toggle between the image on your computer screen (assuming it too is attached to your video projector) and the image from your document camera. You can also connect most document cameras to a television using an S-video cable or component video cable. It should be noted, however, that the clarity is not as crisp when using the S-video cable or component video cable compared to using a VGA or DVI connection.
+Once you have your document camera installation is straightforward. ![](/files/image-blog-jjdoccam1.jpg)Some document cameras come with a freeze image button which is a great feature to capture a page in a book or map that might be difficult to hold in place. If the document camera does not have this feature, you can hook up the document camera directly to the video projector, which often has the ability to freeze an image. If your document camera is not one that hooks up to your computer via USB, you can also set up the document camera directly to your projector. This allows you to toggle between the image on your computer screen (assuming it too is attached to your video projector) and the image from your document camera. You can also connect most document cameras to a television using an S-video cable or component video cable. It should be noted, however, that the clarity is not as crisp when using the S-video cable or component video cable compared to using a VGA or DVI connection.
 
 ## How Can I Use It?
 

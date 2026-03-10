@@ -2,11 +2,21 @@
 title: Theodore Roosevelt and the 1912 Election
 date: '2021-02-03T14:28:03'
 lastmod: '2021-02-04T09:17:52'
-type: lesson_plan_reviews
+content_type: lesson_plan_reviews
 draft: false
 drupal_nid: 25867
 url: /teaching-materials/lesson-plan-reviews/25867
+flexibility_scale: '2'
+topic: Theodore Roosevelt and the 1912 presidential campain
+website_url: https://www.shapell.org/historical-perspectives/teacher-resources/theodore-roosevelt-and-the-1912-election/
+image_fid: '10225'
+splash_image_fid: '10226'
+summary: Students learn more about the larger than life figure of Theodore Roosevelt
+  through sources related to the presidential election of 1912.
+splash_image: /files/TRPaintingSplash.jpeg
+image: /files/lesson_image/TRPainting_0.jpg
 ---
+
 
 In [this teaching module](https://www.shapell.org/historical-perspectives/teacher-resources/theodore-roosevelt-and-the-1912-election/) from the [Shapell Manuscript Foundation](https://www.shapell.org/) in collaboration with the [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/)students learn how to examine engaging primary sources that surround the dramatic 1912 presidential campaign in which Roosevelt ran as a third party candidate after having served as president from 1901 to 1909. During the campaign Roosevelt was the victim of an assassination attempt while speaking in Milwaukee and several of the documents relate to this event and how it affected Roosevelt and the campaign.
 

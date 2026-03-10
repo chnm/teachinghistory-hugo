@@ -3,11 +3,26 @@ title: 'Native Women and Suffrage - Beyond the 19th Amendment: A Guide for Pre-S
   Teachers'
 date: '2023-10-04T11:26:42'
 lastmod: '2023-10-04T12:12:04'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25874
 url: /teaching-materials/teaching-guides/25874
+author_bio: Nate Sleeter is a research assistant professor at the Roy Rosenzweig Center
+  for History and New Media where he oversees educational projects. He is also a former
+  K-12 teacher.
+image_fid: '10256'
+splash_image_fid: '10257'
+author_image_fid: '10258'
+summary: Using primary sources from the Library of Congress, help students reconsider
+  the standard narrative around women's suffrage by exploring the history of Native,
+  Black, Latin American and Asian women who kept advocating for expanding suffrage
+  after 1920.
+splash_image: /files/Baldwin2.jpg
+image: /files/service-pnp-ggbain-16900-16916v.jpeg
+author_image: /files/author_image/NATE_SLEETER (1)_0_2.JPG
 ---
+
+
 
 **What is it?**
 

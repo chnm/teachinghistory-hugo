@@ -2,10 +2,22 @@
 title: 'Material Culture: More Than Just Artifacts'
 date: '2012-03-09T10:50:59'
 lastmod: '2017-12-05T08:51:59'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25488
+author_bio: 'Lisa Hershey is the Education Specialist for the Jewish Historical Society
+  of Greater Washington, managing youth and adult programs. She has worked as an educator
+  in various museums and classrooms.
+
+  David McKenzie is Interpretive Programs Manager for the Jewish Historical Society
+  of Greater Washington, doing research and content development for youth and adult
+  programs, publications, and exhibitions.'
+author_image_fid: '9124'
+summary: Using material culture—whether a building, a historic artifact, or even a
+  photograph—engages the senses and enhances learning.
+author_image: /files/author_image/combined_authors_2.jpg
 ---
+
 
 Coca-Cola ads used to say “Can’t beat the real thing.” At the Jewish Historical Society of Greater Washington, the real thing is our historic synagogue, and indeed, nothing can beat it for educating students about immigrant and neighborhood history in the nation’s capital city.
 Originally built by Adas Israel Congregation in 1876, the 25-foot by 60-foot synagogue was a simple house of worship that served German and Eastern European Jewish immigrants in downtown Washington. President Ulysses S. Grant attended its dedication. Because of the building’s significance, the Society moved it three blocks in 1969 to save it from the wrecker’s ball. Today we run the Lillian & Albert Small Museum there.

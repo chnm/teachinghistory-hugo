@@ -3,8 +3,9 @@ title: Constructing and Reconstructing "Life, Liberty, and the Pursuit of Happin
   from the Age of Revolution to the Present (Constructing Liberty)
 date: '2011-06-13T18:54:59'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24842
 ---
 
+*Constructing Liberty* will serve half of Wisconsin's student population and nine-tenths of its land area through a consortium of 308 school districts, giving priority to schools designated as being in need of improvement. The consortium includes the metropolitan Milwaukee-Madison area and many small, rural districts that are challenged by professional isolation and lack of access to professional development. Annual activities will comprise a 3-week summer institute (which includes a 1-week travel seminar during which teacher-fellows may connect with colleagues in other Teaching American History projects) and an academic-year workshop series that offers two tracks—one for teachers of history with Grade 1-8 licenses and another for those with Grade 6-12 licenses. Teachers will also network and work on individual research and lesson-development projects online. Forty teacher-fellows will be recruited each year to take part in all activities; 100 teachers will be recruited each year to attend the workshop series only, either face-to-face or online. Multi-year participation will be encouraged, and the University of Wisconsin-Eau Claire will offer graduate credit to teacher-fellows who are working on advanced degrees. The program will connect local and national narratives and will help teachers and their students understand how the rights of "life, liberty, and the pursuit of happiness" have expanded over more than two centuries of American history. Teachers will learn how to incorporate literacy strategies into the teaching of history and how to work with primary source materials in the classroom. Online networking will enable participants to share media presentations, interviews, lesson plans, blog entries, and research projects with other Wisconsin teachers.

@@ -2,13 +2,18 @@
 title: On Telegrams and Telephone Calls
 date: '2011-03-31T17:45:35'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24603
 question: Why did JFK and George Wallace exchange telegrams regarding events in Alabama
   in 1963 when they could have communicated by telephone?
 url: /history-content/ask-a-historian/24603
+splash_image_fid: '7304'
+summary: On the record and off the record communications between Washington and Birmingham
+  in 1963.
+splash_image: /files/george-wallace-1968.jpg
 ---
+
 
 Telephone calls are immediate, transparent, personal, private, and leave no written record of what is communicated. And obviously, the caller and the one called have to be physically present on either end of the telephone line at the same time. Telegrams were different. And when the goals of two people were not necessarily the same, but in some respects antagonistic, the different characteristics of the telephone and the telegraph could be used to the advantage of one person or the other. Which is to say that, concerning the confrontation over racially integrating the University of Alabama, Governor Wallace did not necessarily wish to keep John and Bobby Kennedy completely informed about what he was doing and intended to do. In the aftermath of the bombing of the Sixteenth Street Baptist Church, however, his relationship with the Kennedy brothers changed.
 
@@ -31,3 +36,10 @@ Compared to letters, telegrams were bound to reach their intended recipients in 
 
 From Atlanta, after news of the bombing had reached him, Dr. King sent a telegram to Governor Wallace, telling him, “The blood of our little children is on your hands,” and sent another telegram the next day, after Dr. King reached Birmingham, to President Kennedy, warning him of the “worst racial holocaust this nation has ever seen” unless the federal government intervened. After the bombing, the relationship between Governor Wallace and the Kennedys changed: Their interests in solving the crime and keeping the peace nearly coincided, so Wallace had no reason to avoid phone calls from them.
 In many cases, telephone calls, were even speedier than telegrams, but for a variety of logistical reasons, they could not always be counted on to connect the two parties—partly because there were layers of people between politicians and officials whose job it was to insulate them from unimportant contacts, and partly because they were in nearly constant motion, from one place to another, and from one appointment to another. These two facts added to the difficulty in ensuring that a telephone communication would take place very quickly (especially if the intended recipient was deliberately avoiding contact). On the other hand, a telegram to the president, for example, would be received speedily, and, if deemed important by his staff, would be forwarded to his attention wherever he happened to be.
+
+---
+
+Robert Dallek, *An Unfinished Life: John F. Kennedy, 1917-1963.* Boston: Little, Brown, and Company, 2003.
+Taylor Branch, *Pillar of Fire: America in the King Years, 1963-65.* New York: Simon and Schuster, 1999.
+Diane McWhorter, *Carry Me Home: Birmingham, Alabama—The Climactic Battle of the Civil Rights Revolution.* New York: Simon and Schuster, 2001.
+Nicholas Andrew Bryant, *The Bystander: John F. Kennedy and the Struggle for Black Equality.* New York: Basic Books, 2006.

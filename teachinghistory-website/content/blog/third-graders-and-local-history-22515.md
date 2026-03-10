@@ -2,11 +2,16 @@
 title: Third Graders and Local History
 date: '2009-08-24T15:20:38'
 lastmod: '2017-12-01T14:53:33'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22515
 url: /nhec-blog/22515
+date_published: '2009-08-24T00:00:00'
+image_fid: '1556'
+summary: Third graders explore civil rights history in their own hometown.
+image: /files/alexlib.jpg
 ---
+
 
 A 1939 library sit-in in Alexandria, VA, is often called "the most famous civil rights protest you never heard of." And recently, third-graders from Samuel W. Tucker Elementary in Alexandria explored this episode in the history of civil rights in their own backyard.
 They shared their findings to a standing-room-only audience at the Barrett Branch Library where the sit-in took place.

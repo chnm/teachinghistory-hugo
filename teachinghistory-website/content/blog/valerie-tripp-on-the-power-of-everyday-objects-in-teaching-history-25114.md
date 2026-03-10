@@ -2,11 +2,24 @@
 title: Valerie Tripp on the Power of Everyday Objects in Teaching History
 date: '2011-09-02T11:50:03'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25114
 url: /nhec-blog/25114
+author_bio: Valerie Tripp is an American author best known for her American Girl historical
+  characters Felicity, Kit, Josefina, Molly, and Samantha. Ms. Tripp has also written
+  poems, songs, stories, and nonfiction educational materials.
+date_published: '2012-03-05T00:00:00'
+image_fid: '8012'
+splash_image_fid: '8013'
+author_image_fid: '8011'
+summary: The meaning of an object is its story.
+splash_image: /files/objectssplash.jpg
+image: /files/objectsimage.jpg
+author_image: /files/author_image/author_tripp_0.jpg
 ---
+
+
 
 I believe that objects in and of themselves have energy. They’re so emotionally loaded that they can surprise us. Imagine that you’re cleaning out a closet. You put your hand on a scarf that you haven’t worn in years, intending to give it away. Then you say to yourself, "Oh, but this is the scarf my daughter brought back from Scotland for me, the summer my mother died. I can't give *this* away." The everyday object—the scarf—has somehow become more than a scarf, more even than a gentle memory jog. Somehow, it is a lovely loop connecting your daughter, your mother, and you. Back into the closet it goes.
 How can we, as teachers of history, tap into the energy of everyday objects? How can we use them to engage and instruct our students?

@@ -2,7 +2,7 @@
 title: Digital Storytelling in the Classroom
 date: '2010-08-09T16:36:56'
 lastmod: '2017-10-06T15:37:32'
-type: beyond_the_chalkboard
+content_type: beyond_the_chalkboard
 draft: false
 drupal_nid: 24169
 summary: 'In this [video](http://www.youtube.com/watch?v=ufVnMDVskLo), Lynne Zalesak,
@@ -25,5 +25,12 @@ author_bio: 'In this [video](http://www.youtube.com/watch?v=ufVnMDVskLo), Lynne 
   YouTube access.)'
 url: /digital-classroom/beyond-the-chalkboard/24169
 featured: true
+website_url: http://www.youtube.com/watch?v=ufVnMDVskLo
+image_fid: '6286'
+splash_image_fid: '6285'
+splash_image: /files/splash-btc-digstory1.jpeg
+image: /files/image-btc-digstory1.jpeg
 ---
 
+
+The Clearinghouse looks at another digital storytelling tool: [Digital Storyteller](http://teachinghistory.org/digital-classroom/tech-for-teachers/14587) from *PrimaryAccess.org*.

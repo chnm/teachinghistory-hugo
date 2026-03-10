@@ -2,12 +2,22 @@
 title: Watergate and the Constitution
 date: '2010-04-20T16:19:17'
 lastmod: '2018-04-24T10:59:29'
-type: lesson_plan_reviews
+content_type: lesson_plan_reviews
 draft: false
 drupal_nid: 23952
 url: /teaching-materials/lesson-plan-reviews/23952
 featured: true
+flexibility_scale: '3'
+topic: Watergate, the Constitution
+website_url: http://www.archives.gov/education/lessons/watergate-constitution/index.html#documents
+image_fid: '4591'
+splash_image_fid: '4590'
+summary: To indict or not to indict? Watergate raised complicated questions concerning
+  Constitutional interpretation.
+splash_image: /files/Watergate.jpg
+image: /files/lesson_image/watergatechapstick.jpg
 ---
+
 
 The strength of this [lesson](http://www.archives.gov/education/lessons/watergate-constitution/index.html#documents) is that it is centered around a document which presents compelling arguments both for and against the indictment of former President Nixon for his role in the Watergate scandal. The featured document, a memo to the Watergate Special Prosecutor Leon Jaworski, was written by Jaworski's staff as he was considering whether or not to indict Nixon.
 The memorandum’s language should be accessible to most high school students. Both a copy of the [original document](http://www.archives.gov/education/lessons/watergate-constitution/index.html) and a [transcribed version](http://www.archives.gov/education/lessons/watergate-constitution/memo-transcript.html) are available.

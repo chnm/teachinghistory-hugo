@@ -2,10 +2,15 @@
 title: History Education News - Volume One
 date: '2011-01-28T13:43:04'
 lastmod: '2018-08-01T16:12:20'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24474
+splash_image_fid: '7470'
+summary: Welcome to the inaugural issue of *History Education News*! Look here for
+  the latest information on resources for teaching American history!
+splash_image: /files/1-01.jpg
 ---
+
 
 NATIONAL
 HISTORY I ~l l E D U C A T I O N

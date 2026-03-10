@@ -2,12 +2,19 @@
 title: Indian Health Service
 date: '2009-10-01T14:17:47'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22942
 url: /history-content/national-resources/22942
 featured: true
+website_url: http://www.ihs.gov/index.cfm
+splash_image_fid: '3934'
+thumbnail_fid: '2194'
+summary: Disease ravaged colonial-era Native American populations. What health challenges
+  do they face today?
+splash_image: /files/14189_Indian Health Service 432x240.jpg
 ---
+
 
 According to the Indian Health Service website, the organization's mission is "to raise the physical, mental, social, and spiritual health of American Indians and Alaska Natives to the highest level." This is accomplished by serving as the primary health caregiver for these populations and through a direct relationship to both the federal government and tribal organizations.
 Every year you teach students about Native American history; but, while everyone knows that the British, U.S. citizens, Spanish, and French still abound, do your students know that Native American tribes are still active today? One way to increase student interest in Native American history might be to show how their past treatment is still relevant to the status of today's Native American groups. Yet another possible benefit of addressing their modern lives is the bridging of the conceptual gap between social studies years of civics and American history.

@@ -2,10 +2,22 @@
 title: 'TAH Grants: A Way to Foster Lifelong Learning'
 date: '2012-04-20T14:11:56'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 25580
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+image_fid: '9192'
+splash_image_fid: '9193'
+author_image_fid: '9190'
+summary: Student learning begins with a teacher's dedication to and passion for studying
+  history.
+splash_image: /files/tahgrantsplash2.jpg
+image: /files/tahimage2.jpg
+author_image: /files/author_image/author_image_joe_jelen_75x75_1.jpg
 ---
+
+
 
 We give lots of thought to crafting student education goals, but what about the education goals of teachers? We want students to be “lifelong learners,” but what about teachers? How can we ensure teachers are “lifelong learners” as well?
 I have had the opportunity to serve as a Teaching American History (TAH) grant participant and as a project director on several different projects. I think this has given me a unique lens through which I look at professional development.

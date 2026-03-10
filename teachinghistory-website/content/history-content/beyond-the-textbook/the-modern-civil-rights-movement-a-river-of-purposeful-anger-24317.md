@@ -2,7 +2,7 @@
 title: 'The Modern Civil Rights Movement: A River of Purposeful Anger'
 date: '2010-10-31T10:42:03'
 lastmod: '2017-12-05T08:46:32'
-type: beyond_the_textbook
+content_type: beyond_the_textbook
 draft: false
 drupal_nid: 24317
 summary: The modern Civil Rights Movement is often marked as beginning with the 1954
@@ -147,5 +147,21 @@ author_bio: 'The modern Civil Rights Movement is often marked as beginning with 
   occurred at the same time as the modern Civil Rights Movement. http://irisjrgens.ifunnyblog.com/aimtakeoverofalcatraz/'
 question: Did individual African American activists spark the Civil Rights Movement?
 url: /history-content/beyond-the-textbook/24317
+splash_image_fid: '7113'
+thumbnail_fid: '731'
+thumbnail: /files/nysarchives.jpg
+splash_image: /files/Dynamics_of_Idealism-_Volunteers_for_Civil_Rights_1965-1982_432x240_1.jpg
 ---
 
+
+## What Textbooks Say
+
+Textbooks are silent about defining race and racism, even though the modern Civil Rights Movement and its antecedent movements were efforts to challenge and eliminate racism. Rather than addressing the outrage of systematically being denied basic human rights by the U.S. Supreme Court, while citizens in a democracy, textbooks suggest that individual African Americans were merely sad or angry because individual white people did not want to fight wars, play baseball, learn, ride public transportation or eat lunch with them.
+
+## What Historians Say
+
+Textbooks define segregation benignly with little reference to the ways in which northern and southern state governments and businesses systematically – and over the course of several decades -- reinforced an ideology of white supremacy through violence. Other groups of people affected by these same laws and practices – including American Indians, Mexican Americans, Asian Americans and Pacific Islanders, Native Hawaiians, Native Alaskans, Jews and Arabs – are seldom included in textbook discussions of racism. These absences strip away the underlying motivation for collective anger and social action.
+
+## What Sources Say
+
+The most important lessons of the modern Civil Rights Movement will not be gained from passively reading textbooks. Examining primary sources will place students closer to the scenes of the modern Civil Rights Movement and its antecedent movements. Too often Dr. King is represented in textbooks as the person who was sent to save African Americans from racism, or the most powerful leader of the modern Civil Rights Movement, or as a political moderate. Instead, he was one of many powerful leaders.

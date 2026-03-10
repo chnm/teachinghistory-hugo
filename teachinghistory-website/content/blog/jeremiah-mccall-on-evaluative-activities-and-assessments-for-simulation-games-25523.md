@@ -2,11 +2,25 @@
 title: Jeremiah McCall on Evaluative Activities and Assessments for Simulation Games
 date: '2012-03-30T13:32:55'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25523
 url: /nhec-blog/25523
+author_bio: 'Jeremiah McCall, PhD, teaches high school history at Cincinnati Country
+  Day School. He wrote *Gaming the Past: Using Video Games to Teach Secondary History*
+  and maintains the site [gamingthepast.net](http://gamingthepast.net/).'
+date_published: '2012-05-14T00:00:00'
+image_fid: '9120'
+splash_image_fid: '9121'
+author_image_fid: '9119'
+summary: Want to use digital games in your class? Jeremiah McCall shares five guidelines
+  for evaluating games.
+splash_image: /files/part5splash.jpg
+image: /files/part5image.jpg
+author_image: /files/author_image/authorphotojeremiahmccall75x75_2_1_0.jpeg
 ---
+
+
 
 *(Note: This blog entry is the fifth part of a six-part series. Read more on using games in the classroom in parts [one](http://teachinghistory.org/nhec-blog/25117), [two](http://teachinghistory.org/nhec-blog/25225), [three](http://teachinghistory.org/nhec-blog/25338), [four](http://teachinghistory.org/nhec-blog/25451), and [six](http://teachinghistory.org/nhec-blog/25624).)*
 [Part Four](http://teachinghistory.org/nhec-blog/25451) dealt with activities and assessments focused on analyzing and understanding the models presented by a simulation game. Now it is time to consider exercises evaluating and critiquing the models in a game, determining the overall validity of the game as an interpretation. After a sample of activities we will consider the core principles that should guide all efforts to evaluate historical simulations as interpretations of the past.

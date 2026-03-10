@@ -2,11 +2,24 @@
 title: Joe Jelen on Political Cartoons 2.0
 date: '2012-01-30T13:22:43'
 lastmod: '2017-12-01T15:52:16'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25415
 url: /nhec-blog/25415
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+date_published: '2012-05-21T00:00:00'
+image_fid: '8804'
+splash_image_fid: '8805'
+author_image_fid: '8803'
+summary: Find, analyze, and create political cartoons that address any issue in U.S.
+  history!
+splash_image: /files/cartoonssplash.jpg
+image: /files/cartoonsimage.jpg
+author_image: /files/author_image/author_jelen_1.png
 ---
+
+
 
 Since Revolutionary times, political cartoonists in America have used their art to comment on the political and social landscape. While political cartoons in newsprint fade away, political cartoons have found a new home online and in social media. These cartoons often pack their punch with metaphors and subtle humor, which can leave students perplexed when unwrapping their meaning. However, grappling with this confusion through careful analysis can help students become politically savvy citizens.
 

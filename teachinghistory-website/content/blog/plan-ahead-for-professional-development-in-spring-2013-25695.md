@@ -2,11 +2,19 @@
 title: Plan Ahead for Professional Development in Spring 2013
 date: '2012-08-10T13:25:45'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25695
 url: /nhec-blog/25695
+date_published: '2012-11-13T00:00:00'
+image_fid: '9572'
+splash_image_fid: '9566'
+summary: Spring will be here before you know it! Plan ahead to take advantage of spring
+  professional development opportunities.
+splash_image: /files/7641023814_65fc1fdb0c_b.jpg
+image: /files/3682588570_952bdebefb_o.jpg
 ---
+
 
 Ready for spring? How about summer? It's never too early to start planning ahead for professional development. Historical societies, museums, libraries, and other institutions across the nation offer workshops, seminars, conferences, and more for U.S. history educators. Visit the websites of your local and state institutions to see what they're planning, and check out these offerings from national institutions:
 

@@ -2,10 +2,19 @@
 title: Crafting a Love for History
 date: '2011-05-02T15:30:39'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24666
+author_bio: Valerie Ziegler teaches at Lincoln High School in San Francisco, Ca. In
+  2010 she was named one of five California Teachers of the year and was the 2010
+  Preserve American History Gilder Lehrman California History Teacher of the Year.
+author_image_fid: '7435'
+summary: 'I structure my year long US history course with 3 goals in mind: my students
+  do the work of a historian, they see themselves in the history of this country and
+  they have a desire to learn more.'
+author_image: /files/author_image/Valerie-Ziegler.jpg
 ---
+
 
 Today my students were assessed by the state of California on their knowledge of “the major turning points in American History.” After the test a few students came to tell me their reactions. One student said, “I think I did well, but you didn’t teach us about Jimmy Carter or what happened in the 1990’s.”
 It is doubtful that with six weeks left in the school year I will teach my students about Jimmy Carter, the 1990s or the internet boom. Nor did I teach them about Tippecanoe or Bull Run and I am ok with that. A high school history course is not intended to provide the minutia of battles, dates or treaties. It is intended to inspire a love of history and a desire to learn more about the stories of history through the voices of real people.

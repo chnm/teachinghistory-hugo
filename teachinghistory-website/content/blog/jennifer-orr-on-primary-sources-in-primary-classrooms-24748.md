@@ -2,11 +2,28 @@
 title: Jennifer Orr on Primary Sources in Primary Classrooms
 date: '2011-06-08T13:16:41'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24748
 url: /nhec-blog/24748
+author_bio: Jennifer Orr is a 1st-grade teacher at Annandale Terrace Elementary School
+  in Fairfax County, VA. A National Board Certified Teacher in middle childhood, she
+  has taught 4th, 5th, and 1st grades since 1998.
+date_published: '2011-06-29T00:00:00'
+image_fid: '7571
+
+
+  7571'
+splash_image_fid: '7570'
+author_image_fid: '7573'
+summary: Many primary sources are text-heavy. Jennifer Orr asks where do you find
+  sources appropriate for pre-literate students? Try art, photos, and other visual
+  sources!
+splash_image: /files/splash-blog-joart.jpg
+author_image: /files/author_image/jennifer-orr_0_5.jpg
 ---
+
+
 
 Using primary sources in a primary classroom is a challenge. Many of the most wonderful sources are text-based. For students who cannot read and who are still developing their vocabulary these sources are very difficult. Simply understanding the Pledge of Allegiance, words students recite every day, can be frustrating for young children.
 As a result images are often a better way to offer primary grade students a window into the past. They are accustomed to looking carefully at pictures in books and they notice things that adults frequently miss. Allowing them the opportunity to do the same with historical images is a powerful way to teach.

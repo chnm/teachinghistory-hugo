@@ -2,11 +2,25 @@
 title: Anthony Pellegrino on Teaching Segregated History
 date: '2011-06-02T13:52:48'
 lastmod: '2017-12-01T15:52:16'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24714
 url: /nhec-blog/24714
+author_bio: Anthony Pellegrino is an assistant professor of social studies/history
+  education in the secondary education program at George Mason University. He received
+  his doctorate in Secondary Social Science Education from Florida State University.
+date_published: '2011-06-08T00:00:00'
+image_fid: '7542'
+splash_image_fid: '7541'
+author_image_fid: '7538'
+summary: Anthony Pellegrino explores the history of one segregated school, and complicates
+  his understanding of a traditional textbook narrative.
+splash_image: /files/splash-blog-segschools.jpg
+image: /files/image-blog-segschools.jpg
+author_image: /files/author_image/Pellegrino_Image_4.jpg
 ---
+
+
 
 For a time early in my teaching career, I lived in the historically black neighborhood in St. Augustine, FL, known as Lincolnville, which had been the home to prominent black civil rights leaders Henry and Katherine "Kat" Twine as well as the location of several stops by Martin Luther King, Jr. during the 1950s and 1960s. About three blocks from my house was the Excelsior School which served black students from the neighborhood and surrounding areas from the early 20th century to the late 1960s. I passed by the building every day on my way to teach history at a high school some 30 years after integration. After living in the neighborhood, I learned that the Excelsior building had ceased operation as a school after the 1967–68 school year when its students were finally integrated. The state took over the building some time after and used it for offices during the 1980s, but it was vacant for much of the decade before I moved into the area.
 > I learned that many prominent black leaders were educated at this school.

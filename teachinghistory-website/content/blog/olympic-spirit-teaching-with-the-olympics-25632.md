@@ -2,11 +2,19 @@
 title: 'Olympic Spirit: Teaching with the Olympics'
 date: '2012-06-01T16:42:50'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25632
 url: /nhec-blog/25632
+date_published: '2012-07-20T00:00:00'
+image_fid: '9304'
+splash_image_fid: '9305'
+summary: Summer or winter, the Olympics bring together countries worldwide—including
+  the U.S. How can you teach with Olympic history?
+splash_image: /files/splash-blog-olympics.jpg
+image: /files/image-blog-olympics.jpg
 ---
+
 
 The 2012 Summer Olympic Games begin on July 27 and continue through August 12. London hosts them this time, but in the past, the U.S. has hosted the Olympics eight times (four times in the summer and four in the winter), the most of any country! The U.S. also holds the greatest number of Olympic medals of any nation—more than 2,500.
 What place have the Olympics had in U.S. history? The games can be many things: a focus for cultural exchange, a showcase for new technology and development, an economic boon (or bust), and a platform for international political tensions. Explore the history of the Olympics with these ideas:

@@ -2,14 +2,27 @@
 title: Picturing the American Revolution
 date: '2010-11-18T13:55:10'
 lastmod: '2017-12-05T08:46:32'
-type: ask_an_educator
+content_type: ask_an_educator
 draft: false
 drupal_nid: 24378
 question: If you had to choose five picture books for early U.S. History what would
   these books be? Also, this would be for urban 5th graders who have not had Social
   Studies and tend to score very low on standardized reading tests.
 url: /teaching-materials/ask-a-master-teacher/24378
+author_bio: Kim O’Neil is an elementary teacher and certified librarian in Liverpool,
+  NY. She sits on the Board of Directors for the National Council for the Social Studies
+  and the editorial board for *Social Studies and the Young Learner.*
+image_fid: '6845'
+splash_image_fid: '6846'
+author_image_fid: '6841'
+summary: Looking for a creative way to teach the American Revolution to struggling
+  readers? Check this out!
+splash_image: /files/picturingsplash2.jpg
+image: /files/picturingimage.jpg
+author_image: /files/author_image/author.jpg
 ---
+
+
 
 My answer to your question will be based on the following assumptions:
 
@@ -38,3 +51,14 @@ Enjoy!
    > ELA writing piece: Have students retell the story in modern time using current technology that mirrors the actions taken by Maddy Rose in 1777.
 
    - *The Declaration of Independence—The Words that Made America* by Sam Fink: The words of the Declaration are written phrase by phrase. Instead of reading aloud, the teacher could give pairs of students a phrase to rewrite in their own words and then explain to the class. The teacher should first model one phrase for the class. Students will gain a true understanding of what this document is saying. For students who have only seen small mock versions of the document, they will find that the larger than life font size brings the words to life. The cartoon-like illustrations with bubble captions will also appeal to this age group.
+
+---
+
+**Books for students who would like to discover more on their own:**
+
+1. *Why Not Lafayette?* by Jean Fritz: Readable biography of Lafayette for a 5th grader.
+2. *Paul Revere’s Ride* by Xavier Niz: A graphic rendition of the famous ride.
+3. *Twice a Hero* by Dirk Wales: Tells the story of Polish American heroes of the Revolution.
+4. *Now & Ben—The Modern Inventions of Benjamin Franklin* by Gene Barretta: Connects Ben Franklin to our lives today.
+
+Look for more ideas [here](http://www.socialstudies.org/resources/notable), where you will find books for the K-12 classroom that have been designated as notable by social studies teachers who are members of the National Council for the Social Studies.

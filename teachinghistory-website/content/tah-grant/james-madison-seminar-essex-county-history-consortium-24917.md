@@ -2,8 +2,9 @@
 title: 'James Madison Seminar: Essex County History Consortium'
 date: '2011-06-15T15:02:25'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24917
 ---
 
+A large majority of history teachers in these New Jersey districts expressed interest in having professional development opportunities to interact with historical experts, enrich their content knowledge and integrate primary sources into classrooms. In this project, 45 middle and high school teachers will engage in a 5-year examination of the major ideas, people, events and developments in American history from a constitutional perspective. Each year, the focal point will be an 8-day summer seminar at Princeton University to address content and make teachers aware of the relatively recent emphasis on social history. An additional 3.5 days of after-school professional development will be conducted each year to focus on content, curriculum and pedagogy. At least 85 teachers will be recruited, with 45 selected randomly as the experimental group and approximately 40 constituting the control group. Content time periods were selected because of the dramatic and polarizing debates that decisively shaped American political and constitutional perspectives for succeeding generations. These historical developments demonstrate the evolution of freedom and democracy as well as constitutional norms and understandings. Attention will be given to developing pedagogical skills to guide teachers and their students in gathering, examining and organizing historical data to make historical explanations, with particular emphasis on historical writing. Participating teachers will receive New Jersey professional development credit hours and may also receive graduate credits from the College of Education at Ashland University in Ohio upon payment of tuition. The project Web site will feature video recordings of the scholarly lectures and examples of lesson plans and other materials developed by the teachers.

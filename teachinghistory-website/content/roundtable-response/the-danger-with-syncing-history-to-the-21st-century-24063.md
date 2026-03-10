@@ -2,10 +2,20 @@
 title: The danger with syncing history to the 21st century
 date: '2010-05-12T19:39:36'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24063
+author_bio: Jill Lepore, the David Woods Kemper ‘41 Professor of American History
+  at Harvard University, studies the history of colonial, Revolutionary, and antebellum
+  America. She is a winner of the Bancroft Prize, and has been a finalist for the
+  Pulitzer Prize.
+author_image_fid: '4704'
+summary: 'Studying history is like time travel, that way. It brings you someplace
+  else, some time else. . .. Here’s where I don’t get that feeling: staring at my
+  computer.'
+author_image: /files/author_image/Lepore.jpg
 ---
+
 
 The study of the past is at its best when it takes people out of their own time, and into another one. Studying history is like time travel, that way. It brings you someplace else, some time else.
 I mostly feel that way—transported—when I’m in the archives, when I open up a box of someone’s papers, pull out a folder, and begin reading something someone wrote, a long time ago, on a piece of paper. I get that feeling in other places, too. I don’t know that I’ve ever felt closer to the past than when standing at the end of the Long Wharf, in Boston, with my students, looking across the harbor, and across the sea, talking about how many days on board ship it would have taken for a Tory to get home in the last days before the American Revolution began. Here’s where I don’t get that feeling: staring at my computer.

@@ -2,11 +2,29 @@
 title: 'Foundations of American History: John Brown Song'
 date: '2009-05-11T15:30:53'
 lastmod: '2018-08-06T09:49:31'
-type: examples_of_teaching
+content_type: examples_of_teaching
 draft: false
 drupal_nid: 22158
 url: /best-practices/teaching-in-action/22158
+author_bio: Heather Coffey teaches fourth grade in Loudoun County, Virginia. She created
+  this lesson while participating in the Loudoun Teaching American History grant,
+  [Foundations of U.S. History, Virginia History as U.S. History](http://chnm.gmu.edu/loudountah/index.php).
+website_url: http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/classroom-practice/
+image_fid: '1078'
+splash_image_fid: '4683'
+author_image_fid: '4157'
+summary: How did people in the North feel about John Brown after his raid on Harpers
+  Ferry?
+spotlight: Watch as the song "John Brown's Body" is transformed into a primary source
+  to instruct 4th-grade students about John Brown's raid on Harpers Ferry. By analyzing
+  the song, students are able to grasp how contemporary northerners viewed John Brown
+  shortly after his raid.
+splash_image: /files/JohnBrownSong432x240.jpg
+image: /files/brownraid.jpg
+author_image: /files/author_image/HeatherCoffey75x75.jpg
 ---
+
+
 
 [*Foundations of U.S. History, Virginia History as U.S. History*](http://chnm.gmu.edu/loudountah/) features [4th graders learning about John Brown's raid](http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/classroom-practice/) on Harpers Ferry through analyzing the song ["John Brown's Body](http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/get-the-songs/)." Video clips of classroom instruction accompany [short videos of a scholar analyzing the song](http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/scholar-analysis/) and the [teacher reflecting on the lesson]( http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/teacher-analysis/). The John Brown song is one of eight documents found on the Source Analysis feature of the [Teaching American History grant website]( http://chnm.gmu.edu/loudountah/) in Loudoun County, Virginia. In the classroom practice section for John Brown's Body we see students analyzing the song to understand how northerners viewed John Brown shortly after his raid on Harpers Ferry. This video provides examples of two promising practices:
 

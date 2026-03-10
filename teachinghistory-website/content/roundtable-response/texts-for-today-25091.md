@@ -2,10 +2,21 @@
 title: Texts for Today
 date: '2011-08-19T20:57:19'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25091
+author_bio: Meg Griffin is a Nationally Board Certified 4th-grade classroom teacher
+  in the Central Bucks School District in Pennsylvania. She passionately advocates
+  for using technology in the classroom as a tool to help prepare her students for
+  their futures. In addition she is a 2010 PBS Innovative Educator and a Fellow of
+  the National Writing Project. Meg delivers professional development and presents
+  at conferences from the local to national level.
+author_image_fid: '7956'
+summary: An etext is not simply a digital copy of a paper text. Rather, it is a robust,
+  fully interactive technology tool.
+author_image: /files/author_image/author-griffin.jpg
 ---
+
 
 For all the innovative thinkers and grand new ideas, the world of academia is not known for its progressiveness. Most educational institutions, K – 16, still work on the September to June agrarian community model. Most schools still report students' progress using letter grades, and rely on paper and pencil (#2 only please) assessments to monitor students' achievements. And, yes, most schools still utilize the printed textbook, the descendent of the ancient scroll, as the primary teaching resource.
 The average high school students often lugs around as much as 20 pounds in textbook weight ([1](#note1)). In addition to causing back injuries, these weighty tomes contain information that at best has not been updated since publication. All too often these texts contain outdated and inaccurate information.

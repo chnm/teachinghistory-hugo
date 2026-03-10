@@ -2,11 +2,18 @@
 title: Resources for Teacher Educators and History/Social Studies Methods Classes
 date: '2012-10-01T11:12:49'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25751
 url: /nhec-blog/25751
+date_published: '2012-10-08T00:00:00'
+image_fid: '9527'
+splash_image_fid: '9528'
+summary: Teacher educator? Here's a guide to Teachinghistory.org resources for you.
+splash_image: /files/guidesplash.jpg
+image: /files/guideimage.jpg
 ---
+
 
 “*[I use Teachinghistory.org] to look for resources to use in a social studies methods course—both for my own lessons and to give to students.*”
 

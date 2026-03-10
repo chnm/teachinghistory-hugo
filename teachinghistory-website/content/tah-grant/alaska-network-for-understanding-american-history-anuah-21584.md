@@ -2,8 +2,9 @@
 title: Alaska Network for Understanding American History (ANUAH)
 date: '2009-02-10T13:33:40'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 21584
 ---
 
+Alaska Network for Understanding American History (ANUAH) will blend live and distance-delivered credit courses designed to increase individual teacher history content knowledge and use of best practices with group collaborative activities. Courses will build statewide capacity to aid Alaska's teachers to become highly qualified, increase their content mastery, improve their classroom practices, and grow to become peer leaders. Primary components of the project are a five-year series of credit courses, culminating summer institutes, advanced-level graduate courses, frequent interaction with local and national scholars and experts, an established professional "Community of Practice," an emphasis on accessing primary sources, and National History Day student projects. Teachers in the ANUAH project will progress through four professional development phases: Phase I-Affiliate, which serves as an introduction; Phase II-Full Members, where teachers earn graduate credit in American history, practice effective pedagogy learned in seminars and workshops, and work individually on Teacher Inquiry Projects (TIP); Phase III-Collaborative Members, achieved upon completion of one credit course and one individual TIP; and Phase IV-Master Teacher, for teachers who are willing to initiate and facilitate collaboration activities across the network. Course content will explore the chronology and philosophy of the American Revolution, Constitutional legacies, the Declaration of Independence, the meaning of democracy, American slavery, abolition and women's rights, the Monroe Doctrine, the crisis of world leadership, the American West, and Alaska statehood.

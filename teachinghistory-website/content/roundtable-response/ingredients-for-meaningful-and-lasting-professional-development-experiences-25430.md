@@ -2,10 +2,18 @@
 title: Ingredients for Meaningful and Lasting Professional Development Experiences
 date: '2012-02-10T10:40:16'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25430
+author_bio: Marjorie ZuZu Freyer is employed by Tuscaloosa City Schools, where she
+  was an elementary teacher for more than 15 years and has coordinated three Teaching
+  American History (TAH) grant projects.
+author_image_fid: '8848'
+summary: Content, pedagogy, and follow-up must be woven together to create and sustain
+  meaningful and lasting professional development.
+author_image: /files/author_image/author_freyer.jpg
 ---
+
 
 Professional development without follow-up is malpractice! Only a tiny fraction, a mere 5–10%, of the knowledge and skills gained in professional development training makes its way into the classroom if there is no follow-up. ([1](#note1)) What a waste of time, effort, and money. Change is difficult, and most teachers need some type of ongoing support to put something new into practice.
 > The best professional development is a tightly woven tapestry of relevant and engaging content, pedagogy not isolated from content, and supportive follow-up.

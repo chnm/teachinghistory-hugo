@@ -2,11 +2,26 @@
 title: Michael Yell Uses National History Day for Classroom Differentiation
 date: '2011-11-29T13:01:04'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25325
 url: /nhec-blog/25325
+author_bio: Michael Yell is a 7th-grade history teacher at the Hudson Middle School
+  in Hudson, WI. He holds National Board Certification in Early Adolescent Social
+  Studies–History, and is a past president of the National Council for the Social
+  Studies.
+date_published: '2012-01-04T00:00:00'
+image_fid: '8589'
+splash_image_fid: '8590'
+author_image_fid: '8588'
+summary: Searching for advanced projects for your eager learners? Teacher Mike Yell
+  recommends National History Day.
+splash_image: /files/nhdsplash.jpg
+image: /files/nhdimage.jpg
+author_image: /files/author_image/myell.jpg
 ---
+
+
 
 *[Differentiation] is a way of thinking about the classroom with the dual goals of honoring each student’s learning needs and maximizing each student’s learning capacity.
 

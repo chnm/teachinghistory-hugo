@@ -2,8 +2,17 @@
 title: Henry Kissinger and Detente
 date: '2008-01-04T14:04:03'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 2392
+duration: 01:55:08
+keywords: presidents, policy, policies, foreign policy, foreign relations, foreign
+  affairs, politicians, balance of power, nationalism, Cold War, detente, Communism,
+  USSR, diplomats, diplomacy, Secretaries of State, National Security Advisors
+website_url: http://teachingamericanhistory.org/institutes/2004/foreignrelations_readings.html
+date_published: '2004-07-14T00:00:00'
+series_name: Ideas and Traditions in American Foreign Relations
 ---
 
+Professor Jeremi Suri discusses Henry Kissinger's foreign policy of detente. He looks at the effect Kissinger's policies had on Cold War diplomacy and how they affected the Cold War and the world as a whole, and also discusses the writing of academic books and articles.
+To listen to this lecture, scroll down to the Wednesday, July 14th, 7:30-9:30 pm session. Then click on the Real Audio link in the gray bar to the left of the main text.

@@ -2,11 +2,17 @@
 title: Bookmark This! Teaching Mexican American History with the Bracero Program
 date: '2009-09-10T12:54:44'
 lastmod: '2017-12-01T14:53:33'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22879
 url: /nhec-blog/22879
+date_published: '2009-09-10T00:00:00'
+image_fid: '2216'
+summary: A resource for bilingual (Spanish-English) materials for teaching 20th century
+  American history.
+image: /files/bracero.jpg
 ---
+
 
 Teaching materials in both Spanish and English can be difficult to find, and a new bilingual exhibit—inhouse, online, and scheduled to travel—from the Smithsonian Museum of American History explores a little known chapter in the history of Mexican labor. [*Bittersweet Harvest: The Bracero Program 1942-1964*](http://americanhistory.si.edu/exhibitions/exhibition.cfm?key=38&exkey=1357) looks at the largest guest worker program in American history, when an estimated two million Mexican men came to the United States on short-term labor contracts.
 > The Bracero program became the largest guest worker program in U.S. history.

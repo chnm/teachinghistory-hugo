@@ -3,10 +3,20 @@ title: 'From Socrates to Standardized Testing: Teaching is About More Than Multi
   Choice'
 date: '2011-04-01T12:42:41'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24607
+author_bio: Jeff Matlock teaches middle school history in Scotts Valley, CA. He enjoys
+  designing new curricula that involve primary sources and navigating the complex
+  terrains of history that make up our collective memory.
+author_image_fid: '7311'
+summary: Successful instruction in any subject is about much more than scoring "Advanced"
+  on the standardized test. When teachers must teach the entirety of the state's extensive
+  standards, the richness of historical learning and understanding is reduced. It
+  is important to provide as many opportunities for learning as possible.
+author_image: /files/author_image/Matlock_Photo.jpg
 ---
+
 
 Despite what state departments of education and school districts have prescribed in the last several years, the result of successful instruction in any subject is about much more than scoring ‘Advanced’ on the standardized test. The wishful thinking of the education czars, for teachers to teach the entirety of the state’s extensive and sometimes arbitrary list of state standards, diminishes the richness of historical learning and understanding.
 Thankfully, I have been able to maintain the philosophy that there is an importance to providing as many opportunities for learning as possible, despite the pressure to focus mainly on the standardized tests to which my district and state are so strongly attached. Throughout the school year, my students have several ways to demonstrate knowledge. A day, a week, or a unit will include (1) diagnostic assessments, which determine what students already know or remember from the previous lesson so I can decide where to resume, (2) formative assessments, which allow me to check for understanding and make sure that students are on track for the eventual (3) summative assessments, which require my students to demonstrate their understanding of the unit’s “Big Picture”.

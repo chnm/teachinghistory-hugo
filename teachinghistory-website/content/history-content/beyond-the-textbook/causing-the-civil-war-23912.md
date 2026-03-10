@@ -2,12 +2,27 @@
 title: Causing the Civil War
 date: '2010-03-24T16:40:33'
 lastmod: '2018-07-03T11:22:14'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 23912
 url: /history-content/beyond-the-textbook/23912
 featured: true
+author_bio: Bruce Chadwick, a former journalist, is a historian, lecturer, and author
+  of 28 books on various topics including the Civil War.
+image_fid: '4276
+
+
+  4276
+
+
+  4276
+
+
+  4276'
+author_image_fid: '4285'
+author_image: /files/author_image/chadwick.jpg
 ---
+
 
 Historically, textbooks have taught that incompatibility between northern and southern economies caused the Civil War. The industrial revolution in the North, during the first few decades of the 19th century, brought about a machine age economy that relied on wage laborers, not slaves. At the same time, the warmer Southern states continued to rely on slaves for their farming economy and cotton production. Southerners made huge profits from cotton and slaves and fought a war to maintain them. Northerners did not need slaves for their economy and fought a war to free them. Everything else, many textbooks claim, was tied to that economic difference and was anchored by cotton. The agricultural economy was certainly one cause of the Civil War, but not the only one. Wars are never simple and neither are their causes. Many other factors that helped bring about the war are central to understanding America's past. So what did start the Civil War—a war that divided the nation, destroyed crops, cities, and railroad lines, and claimed 630,000 lives? Many factors plunged the nation into chaos in 1861. Key political causes include the slow collapse of the Whig Party, the founding of the Republican Party, and, most important, the 1860 election of Abraham Lincoln as president. Religious opposition to slavery increased, supported by ministers and abolitionists such as William Lloyd Garrison. Geographical conflict over the spread of slavery into western territories and states—areas with neither an industrial nor a farm economy—grew. And political deals, such as the Missouri Compromise in 1820 and Compromise of 1850, and Supreme Court rulings, such as the Dred Scott decision in 1857, divided the country even more. These divisions went far beyond cotton and economics.
 

@@ -3,11 +3,17 @@ title: Teachinghistory.org Teacher Representative Wins 2011 National History Tea
   of the Year
 date: '2011-10-20T17:50:07'
 lastmod: '2017-12-01T15:52:16'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25255
 url: /nhec-blog/25255
+date_published: '2011-10-21T00:00:00'
+image_fid: '8385'
+summary: Congratulations to Stacy Hoeflich, the 2011 National History Teacher of the
+  Year!
+image: /files/mrc_thumb.jpg
 ---
+
 
 Congratulations to Stacy Hoeflich, a 4th-grade teacher from John Adams Elementary School in Alexandria, VA, and a 2009–2010 Teachinghistory.org Teacher Representative, who is the 2011 National History Teacher of the Year!
 The  [award](http://www.gilderlehrman.org/programs-exhibitions/national-history-teacher-year), presented by the Gilder Lehrman Institute of American History, HISTORY® (History Channel), and Preserve America, honors K–12 teachers for their use of primary documents in the classroom, the level of inspiration they provide their students, and their career achievements in education.

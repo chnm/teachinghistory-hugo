@@ -2,10 +2,12 @@
 title: 'National History Day:  Exhibiting Excellence'
 date: '2008-02-07T12:17:50'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 14914
 url: /nhec-blog/14914
+date_published: '2008-02-12T00:00:00'
+summary: How does National History Day influence teaching and learning history?
 ---
 
 In January, the online journal, [*Common-Place*](http://www.common-place.org) featured the article, [*Exhibiting Excellence: National History Day and American Educational Reform*](http://www.common-place.org/vol-08/no-02/school/) by Jim Cullen, author of *The American Dream: A Short History of and Idea that Shaped a Nation (2003)* and history teacher at the Ethical Culture Fieldston School in New York.

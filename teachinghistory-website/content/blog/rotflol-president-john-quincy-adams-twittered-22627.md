@@ -2,11 +2,16 @@
 title: ROTFLOL?* President John Quincy Adams Twittered?
 date: '2009-09-03T16:30:56'
 lastmod: '2017-12-01T14:53:33'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22627
 url: /nhec-blog/22627
+date_published: '2009-09-09T00:00:00'
+image_fid: '1841'
+summary: Media change, but do the messages?
+image: /files/adamsdiaries.jpg
 ---
+
 
 Here's a creative possibility to bring your students into the often-obscure primary source materials of the late-17th and early-18th century. Although perhaps not ROTFLOL.\*
 Recently a graduate student from Boston's Simmons College visiting the [Massachusetts Historical Society](http://www.masshist.org/welcome/) noticed that short,  [line-a-day entries](http://www.masshist.org/jqadiaries/doc.cfm?id=jqad23_405) in [the diaries of John Quincy Adams](http://www.masshist.org/adams/jqa.php), sixth president of the United States, read an awful lot like messages on [Twitter](http://twitter.com/).

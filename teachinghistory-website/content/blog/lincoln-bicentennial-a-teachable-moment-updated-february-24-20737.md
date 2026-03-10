@@ -2,12 +2,19 @@
 title: 'Lincoln Bicentennial: A Teachable Moment (updated February 24)'
 date: '2009-01-28T10:43:34'
 lastmod: '2017-12-01T13:36:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20737
 url: /nhec-blog/20737
 pinned: true
+date_published: '2009-02-16T00:00:00'
+image_fid: '627'
+summary: An ongoing reference to exhibits, events, lectures, reenactments, ceremonies,
+  and other tributes commemorating the significance of Lincoln's life and his presidency
+  during this 200th-year anniversary.
+image: /files/lincposter.jpg
 ---
+
 
 The calendar date of President Abraham Lincoln's 200th birthday on February 12, 2009, by no means circumscribes the exhibits, events, lectures, reenactments, ceremonies, and other tributes commemorating the significance of his life and his presidency. They continue throughout the year in libraries, schools, museums, towns, and cities.
 The Clearinghouse will continue to highlight resources on Lincoln that are helpful in the K–12 classroom: lesson plans, projects, and professional development opportunities of particular interest to educators. Please visit the Clearinghouse [Digital Classroom](http://teachinghistory.org/digital-classroom) section for information on events and online programs. The Clearinghouse [Project Spotlight](http://teachinghistory.org/tah-grants) will also highlight Teaching American History (TAH) grants with modules related to teaching about Abraham Lincoln.

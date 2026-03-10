@@ -2,11 +2,16 @@
 title: Team Ships
 date: '2010-01-05T16:59:01'
 lastmod: '2018-09-20T15:23:12'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23678
 url: /history-content/national-resources/23678
+website_url: http://www.navsea.navy.mil/teamships/default.aspx
+splash_image_fid: '5050'
+summary: Learn the basic steps to building and commissioning a Navy vessel.
+splash_image: /files/TeamShips432x240.jpg
 ---
+
 
 Team Ships (the Navy's Program Executive Office, Ships) was founded in late 2002 to manage construction and design of U.S. military vessels.
 The site of Team Ships was obviously not designed for educators so much as for providing basic awareness of the office and its various vessel classes (likely intended primarily for military enthusiasts or marine hobbyists). However, there is one small section which may be of interest to you for your professional purposes.

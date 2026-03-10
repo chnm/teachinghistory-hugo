@@ -2,11 +2,25 @@
 title: 'Valerie Tripp: Salty Ham: Using the Senses in Historical Research'
 date: '2011-07-02T20:42:25'
 lastmod: '2017-12-01T15:52:16'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25031
 url: /nhec-blog/25031
+author_bio: Valerie Tripp is an American author best known for her American Girl historical
+  characters Felicity, Kit, Josefina, Molly, and Samantha. Ms. Tripp has also written
+  poems, songs, stories, and nonfiction educational materials.
+date_published: '2012-01-09T00:00:00'
+image_fid: '7783'
+splash_image_fid: '7784'
+author_image_fid: '8746'
+summary: Have you tasted pioneer foods like apple butter? Listened to old records
+  on a phonograph?
+splash_image: /files/valerietrippssalty432x240.jpg
+image: /files/valerietrippssalty150x113.jpg
+author_image: /files/author_image/author_tripp_3.jpg
 ---
+
+
 
 Historical research usually begins with reading. Books and articles open your eyes, and open the door to a period. They engage and entice you, and before you know it, you're immersing yourself in literature written about the period you're studying. It is wonderful to read literature—both fiction and nonfiction—written *during* the period, as well. Children always get a kick out if it when I tell them that when I was researching Felicity, my character who lived in Williamsburg, Virginia just before the Revolutionary War, I read a journal kept by a tutor who lived with a family that had eight children in it. My 21st-century readers laugh when I tell them that two of the sisters in the family had a fight because one sister borrowed the other sister's hairbrush without asking. The hairbrush owner was so mad that she waited for her sister to fall asleep, and then she cut off her eyebrows! And this was in 1773!
 If you can find books and stories written for children or about children from the period your class is studying, those stories will be a great way to engage your students. Books with paintings, photographs, and advertisements for your students to scrutinize are fun, too. Your students will see that though clothes and conveyances, art and architecture, design and concepts of beauty have changed, human nature—especially children's natures—have not!

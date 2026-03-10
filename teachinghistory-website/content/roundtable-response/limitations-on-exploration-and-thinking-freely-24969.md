@@ -2,10 +2,23 @@
 title: Limitations on Exploration and Thinking Freely
 date: '2011-06-17T09:25:39'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24969
+author_bio: 'Barbara Tischler is the Director of Curriculum and Professional Development
+  at the Horace Mann School in New York. She holds a BA and MA in Music and a PhD
+  in U.S. History. Barbara Tischler has taught at Columbia University, Barnard College,
+  and Queens College. In addition to publishing numerous articles and book reviews
+  on aspects of social, cultural, women''s and labor history, Barbara is the author
+  of *An American Music: The Search for an American Musical Identity* (Oxford University
+  Press).'
+author_image_fid: '7613'
+summary: '"I''m fixing a hole where the rain gets in and stops my mind from wandering
+  where it will go. . . " How does an old Beatles'' song relate to AP United States
+  History?'
+author_image: /files/author_image/barbaratischler75x75.jpg
 ---
+
 
 "I'm fixing a hole where the rain gets in and stops my mind from wandering where it will go. . . "
 How does an old Beatles' song relate to AP U.S. History? My mind wandered to Paul McCartney's lyrics as I pondered the ideas of "enhancement" and "distraction." That led to a brief digression on what historians do, then to a distracting thought about the goals and expectations of a U.S. History course. Then, harkening back to the song, I mused that if fixing the hole stops a meandering mind, a little bit of rain is not such a bad thing.

@@ -2,10 +2,14 @@
 title: Journal of the Association for History and Computing
 date: '2008-05-27T13:31:54'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19348
 url: /nhec-blog/19348
+date_published: '2008-05-27T00:00:00'
+summary: The current online issue of *Journal of the Association for History and Computing*
+  (April 2008) highlights the use of digitized primary source documents in the classroom
+  and in the archives.
 ---
 
 The April 2008 issue of the[*Journal of the Association for History and Computing*](http://quod.lib.umich.edu/j/jahc/browse.html) highlights the use of digitized primary source documents in the classroom and in the archives.

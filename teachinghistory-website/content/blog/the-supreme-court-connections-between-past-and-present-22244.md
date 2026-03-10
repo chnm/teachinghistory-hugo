@@ -2,11 +2,17 @@
 title: 'The Supreme Court: Connections Between Past and Present'
 date: '2009-05-26T08:52:29'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22244
 url: /nhec-blog/22244
+date_published: '2009-05-26T00:00:00'
+image_fid: '1125'
+summary: The judicial system is perhaps the least understood and most complicated
+  among the three branches of U.S. government to explain and to teach.
+image: /files/soto.jpg
 ---
+
 
 On May 26, 2009, President Obama nominated Judge Sonia Sotomayor to replace retiring Justice David Souter on the U.S. Supreme Court.
 The Senate Judiciary Committee is likely to hold hearings on her nomination in July and to seek a confirmation vote in Congress before the August 8 summer recess. If confirmed, [Sotomayor](http://www.nytimes.com/2009/05/27/us/politics/27websotomayor.html?hp) would be the third woman on the Supreme Court and the [first Hispanic justice](http://www.nytimes.com/2009/05/27/us/politics/27court.html?hp), but how important are gender and ethnicity to the selection and approval process?

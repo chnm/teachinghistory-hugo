@@ -2,10 +2,24 @@
 title: Museum-based Professional Development
 date: '2012-02-10T10:28:38'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25429
+author_bio: 'Stephanie Downey (upper left) is Managing Director at Randi Korn & Associates,
+  Inc. (RK&A), a company that conducts impact evaluation, visitor research, and all
+  phases of museum program and exhibition evaluation.
+
+  Franny Kent-Del Valle (lower right) is the Director of the Frederick A.O Schwarz
+  Children’s Center at the Museum of the City of New York. She earned her MA in Education
+  at Bank Street College of Education and has worked in several museums in New York
+  City.'
+author_image_fid: '8876'
+summary: 'We ask an important question: Can you use museums as a resource to enhance
+  your own education, breathe life into your traditional social studies curriculum,
+  and get students excited about learning history? But of course!'
+author_image: /files/author_image/combined_authors.jpg
 ---
+
 
 As educators, we want to continue learning, which is precisely why we look for professional development opportunities. How can you use museums as a resource to enhance your own education, breathe life into your traditional social studies curriculum, and get students excited about learning history?
 > As educators, we want to continue learning, which is precisely why we look for professional development opportunities.

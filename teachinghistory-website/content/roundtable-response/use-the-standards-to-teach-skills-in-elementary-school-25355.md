@@ -2,10 +2,20 @@
 title: Use the Standards to Teach Skills in Elementary School!
 date: '2011-12-19T12:52:10'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25355
+author_bio: Karen Parks teaches 5th-grade at Mesa Elementary School, CO. She has taught
+  for 16 years and holds a BA in Journalism and a MA in Education.
+author_image_fid: '8681'
+summary: Elementary education is designed so content knowledge is acquired through
+  skills-based instruction. The fact that the Common Core Standards are internationally
+  benchmarked, and the elementary reading and writing standards contain provisions
+  for analyzing historical documents provides a degree of structure that most educators
+  at the elementary level will find advantageous.
+author_image: /files/author_image/author_parks.jpg
 ---
+
 
 The elementary perspective regarding the Common Core State Standards and teaching history is unique, because there are no specific Common Core Standards for social studies content at the elementary level. Instead these standards are addressed, rather vaguely, in the Reading and Writing standards. Because there is no specific, prescribed content for American History teaching at the elementary level, it is difficult to interpret the intent of the CCSS regarding this particular subject area.
 > it is difficult to interpret the intent of the CCSS regarding [American History teaching at the elementary level].

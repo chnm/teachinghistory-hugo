@@ -2,7 +2,7 @@
 title: Exploring Historical Fiction
 date: '2012-05-30T17:14:24'
 lastmod: '2018-09-11T11:38:36'
-type: ask_an_educator
+content_type: ask_an_educator
 draft: false
 drupal_nid: 25626
 question: Do you have any suggestions for historical fiction that could be incorporated
@@ -10,7 +10,14 @@ question: Do you have any suggestions for historical fiction that could be incor
   Currently we use Will Hobbs's *Ghost Canoe* to help reinforce teaching about Coastal
   Native Americans in the history classes.
 url: /teaching-materials/ask-a-master-teacher/25626
+image_fid: '9294'
+splash_image_fid: '9295'
+summary: Make the Lewis and Clark expedition and life on the Oregon Trail come alive
+  with these suggestions!
+splash_image: /files/fictionsplash.jpg
+image: /files/fictionimage.jpg
 ---
+
 
 Thanks for your inquiry. We often get requests for recommendations of historical fiction to use when studying particular time periods and historical events. So below, I first list some open-access digital databanks of fiction (and occasionally nonfiction) to use in the history/social studies classroom. Then I share some recommendations specific to your request.
 
@@ -28,3 +35,9 @@ All these online resources can help you find a book, but don’t forget your loc
 * *The Journal of Wong Ming-Chung: a Chinese Miner, California, 1852*  by Laurence Yep (2000)
 
 And finally, consider one experienced middle school history teacher’s response to your question: “I usually have my students reading excerpts from Lewis and Clark's journals. Some of those read like a fictional story at times!” Good luck!
+
+---
+
+Teachinghistory.org addresses World War I and II literature in another *Ask a Master Teacher* [response](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/25505) and 20th-century literature for the high school classroom in [another](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/20685).
+See [this response](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/24378) for five picture books for teaching the American Revolution to fifth graders.
+Also see this [*Teaching Guide*](http://teachinghistory.org/teaching-materials/teaching-guides/22365) on using “book sets” that include fiction and nonfiction texts.

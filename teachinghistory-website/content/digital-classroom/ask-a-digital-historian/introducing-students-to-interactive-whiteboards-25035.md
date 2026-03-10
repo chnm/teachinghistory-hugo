@@ -2,13 +2,24 @@
 title: Introducing Students to Interactive Whiteboards
 date: '2011-07-11T14:27:46'
 lastmod: '2017-12-01T15:52:16'
-type: ask_a_digital_historian
+content_type: ask_a_digital_historian
 draft: false
 drupal_nid: 25035
 question: What are some quick student engagement activities that a teacher can use
   for allowing students to interact with a smartboard?
 url: /digital-classroom/ask-a-digital-historian/25035
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+image_fid: '7793'
+splash_image_fid: '7792'
+author_image_fid: '7791'
+summary: SMART boards are only as useful as you make them.
+splash_image: /files/introducingstudentsto432x240.jpg
+image: /files/lesson_image/introducingstudentsto150x113.jpg
+author_image: /files/author_image/author_image_joe_jelen_75x75.jpeg
 ---
+
+
 
 Interactive whiteboards (IWBs for short) have certainly changed what classrooms look like today. However, an IWB is only revolutionary when teachers know how to unlock the board's potential. There are a number of simple ways to engage students with the IWB in a history classroom.
 
@@ -40,3 +51,9 @@ Projecting images on an IWB opens up a number of activity possibilities. Simply 
 ## Review Activities
 
 With an IWB in the classroom, students are often itching to get a chance to use the pen and interact with it. A simple review game of Pictionary gives students a chance to draw on the board and review key terms. In addition, online quiz sites, such as [Quizlet.com](http://quizlet.com/) offer digital flashcards and review games made more fun when played on the IWB.
+
+---
+
+* PBS. [Interactive White Board Games](http://pbskids.org/whiteboard/).
+* Hoy, Amy and Eric Kastor. [bfuddlr!](http://befuddlr.com/).
+  Make an interactive puzzle out of any image as a fun warm up activity.

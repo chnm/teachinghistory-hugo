@@ -2,7 +2,7 @@
 title: 'DC: Ninth Grade Standards'
 date: '2009-02-08T20:10:08'
 lastmod: '2017-10-06T15:37:32'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20981
 ---

@@ -2,11 +2,25 @@
 title: 'Film Review: Amelia'
 date: '2012-07-05T11:55:22'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25653
 url: /nhec-blog/25653
+author_bio: Judith Smith is a professor of American studies at the University of Massachusetts
+  Boston. She earned her PhD from Brown University. Her research interests include
+  women's history and history of media.
+date_published: '2012-08-21T00:00:00'
+image_fid: '9374'
+splash_image_fid: '9375'
+author_image_fid: '9379'
+summary: What is the cultural terrain staked out by *Amelia*, the Hollywood biopic
+  about the intrepid flyer Amelia Earhart?
+splash_image: /files/ameliasplash.jpg
+image: /files/ameliaimage.jpg
+author_image: /files/author_image/smith_cla_americanstudies_mar11_hb_bio.jpg
 ---
+
+
 
 What is the cultural terrain staked out by *Amelia*, the Hollywood biopic about the intrepid flyer Amelia Earhart? The quick shots that precede the opening credits direct attention to the particular themes that the screenwriters Ron Bass and Anna Hamilton Phelan have emphasized in their feature about the flyer. Her airplane taking off into the dark gestures to the mystery of her last flight and her disappearance without a trace. Her celebrity status is indicated by cheering crowds, radio interviews, and photographs, and it fuses seamlessly with her status as an object of heterosexual adoration once we learn that her publicity is orchestrated by her promoter/husband George P. Putnam. There are intimations of Earhart's adventurous and dauntless spirit via a more hopeful takeoff into a dawn sky, expansive aerial views accompanied by soaring music, and a playful exchange between Earhart and her navigator crewman. There are reminders of the enormous risks of her flights, voiced here and later in the film by the concerned husband. Scenes alternate between a serene and smiling Earhart at the controls, the vastness of the ocean, and the ambiguity of the clouds. The plot features the bold and daring female pilot, glamorous celebrity, and gloriously heterosexual romantic partner who had it all, lost it all, and defied death's inevitability by disappearing into a mystery.
 > Amelia failed to find much of an audience because no one connected with the production was interested in representing anything about the past.

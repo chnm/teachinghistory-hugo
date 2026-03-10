@@ -2,11 +2,16 @@
 title: 'The People Speak: To Zinn or Not to Zinn'
 date: '2010-01-05T10:49:02'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23675
 url: /nhec-blog/23675
+date_published: '2010-01-05T00:00:00'
+image_fid: '3821'
+summary: Howard Zinn is controversial and he makes students think.
+image: /files/zinn.jpg
 ---
+
 
 [Howard Zinn](http://www.howardzinn.org/zinn/) is perhaps not a historian's historian. Scholarly judgments of his publications frequently challenge his factual foundation as well as the tunnel vision of his ideology.
 Zinn is, however, a people's historian, and artists such as Matt Damon, Josh Brolin, Morgan Freeman, Viggo Mortensen, and Rosario Dawson spotlighted Zinn's emphasis on social change and the power of protest throughout American history with the documentary [*The People Speak*](http://www.howardzinn.org/zinn/) on [The History Channel](http://www.history.com/) on December 13, 2009.

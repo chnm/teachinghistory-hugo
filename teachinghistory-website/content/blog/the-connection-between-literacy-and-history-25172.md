@@ -2,11 +2,18 @@
 title: The Connection Between Literacy and History
 date: '2011-09-20T13:02:49'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25172
 url: /nhec-blog/25172
+date_published: '2011-09-26T00:00:00'
+image_fid: '8150'
+splash_image_fid: '8151'
+summary: Even if you're not an English teacher, you're still a literacy teacher.
+splash_image: /files/literacysplash.jpg
+image: /files/litimage.jpg
 ---
+
 
 “Do we just use the text as evidence to answer this question or can we use the date of the document also?”
 A bright 8th-grade student asked me this question in the middle of a lesson on Reconstruction. He and his partner were working their way through several prepared documents to answer the lesson’s central question. Matt was figuring out that the specific circumstances surrounding an historical account mattered to making sense of that account. When I answered, “Yes, by all means use the date,” he answered, “Because the date matters to the question.”

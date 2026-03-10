@@ -2,11 +2,17 @@
 title: 'Maps: They''re Not Just for Geography Any More'
 date: '2010-03-17T15:31:07'
 lastmod: '2011-11-17T04:01:10'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23897
 url: /nhec-blog/23897
+date_published: '2010-02-25T00:00:00'
+image_fid: '4218'
+summary: Primary sources and lesson plans help decode the mysteries of maps as historical
+  evidence.
+image: /files/earth_0.jpg
 ---
+
 
 Maps tell stories.
 Not simply representations of objective spatial relationships, they are subjective texts, created by individuals and groups who decide the topic of a map, the purpose, the point of view, what is included, and what is left out. Imagine the difference between [John Smith's view of Virginia](http://chnm.gmu.edu/loudountah/source-analysis/john-smith-map/) that he mapped in 1612 and the perspective of [today's NASA satellite images](http://earthobservatory.nasa.gov/IOTD/view.php?id=35690)! Each map is evidence of a different historical narrative.

@@ -2,11 +2,17 @@
 title: 'Bring "The National Parks: America''s Best Idea" into the Classroom'
 date: '2009-10-19T12:33:07'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23431
 url: /nhec-blog/23431
+date_published: '2009-10-19T00:00:00'
+image_fid: '3460'
+summary: The new PBS film series talks about fascinating people and places we often
+  don't pay attention to.
+image: /files/natlpark.jpg
 ---
+
 
 The first run of the PBS six-part documentary, [*The National Parks: America's Best Idea*](http://www.pbs.org/nationalparks/) has finished on most local PBS stations, but resources abound for integrating materials from the program into various curriculum units. The photography's gorgeous and the reviews are mostly positive, and according to [*The New York Times* review](http://www.nytimes.com/2009/09/25/arts/television/25parks.html?), the first two episodes (1851-1915) contain the best material of all: the story of how the park system was born and how the men and women who built it also nourished and protected it. ". . . [I]t's full of fascinating history and larger-than-life characters."
 

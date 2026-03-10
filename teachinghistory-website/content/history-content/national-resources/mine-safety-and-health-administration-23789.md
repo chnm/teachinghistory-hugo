@@ -2,12 +2,18 @@
 title: Mine Safety and Health Administration
 date: '2010-01-21T16:55:48'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23789
 url: /history-content/national-resources/23789
 featured: true
+website_url: http://www.msha.gov/
+splash_image_fid: '4913'
+thumbnail_fid: '2284'
+summary: Ever considered using mining to teach labor history?...
+splash_image: /files/MineSafety432x240.jpg
 ---
+
 
 The Mine Safety and Health Administration exists to make a particularly dangerous venture, mining, as safe as possible for U.S. laborers. This goal is met through a variety of initiatives which enforce national health and safety standards.
 Mining. You're probably thinking it's a bit of a niche topic. However, it would fit tidily within labor history and industrialization units, or it could be used as an example of an old trade which is still in use today. The latter scenario could provide for opportunities to compare modern and period standards of equipment, process, health, and a wide variety of other broad topics.

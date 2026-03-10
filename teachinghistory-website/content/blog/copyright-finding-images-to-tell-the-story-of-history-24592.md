@@ -2,11 +2,30 @@
 title: 'Copyright: Finding Images to Tell the Story of History'
 date: '2011-03-25T12:34:25'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24592
 url: /nhec-blog/24592
+date_published: '2011-03-25T00:00:00'
+image_fid: '7281
+
+
+  7281
+
+
+  7281
+
+
+  7281
+
+
+  7281'
+splash_image_fid: '7282'
+summary: Fair use? Public domain? Creative Commons? Find images of history that you
+  can use to tell its story, without worrying about fees and fines.
+splash_image: /files/splash-blog-copy.jpg
 ---
+
 
 As you browse the Internet for sources, searching for photographs of this event or that monument, do you ever get frustrated by the ins and outs of copyright law? In most situations, it won't be an issue—images you choose to use won't go beyond your classroom and it's unlikely your students will question your adherence to the rules of [fair use](http://www.copyright.gov/fls/fl102.html).
 But what if you or your students are working on something that *will* travel beyond your classroom? Maybe your students are creating short digital documentaries, and you want to host the finished projects on a website—or even upload them to YouTube? Maybe you want students to create small websites themselves, or produce other types of presentations that will be shared with the public online?

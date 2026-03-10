@@ -2,11 +2,25 @@
 title: Jennifer Orr on VoiceThread
 date: '2011-04-26T13:19:46'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24649
 url: /nhec-blog/24649
+author_bio: Jennifer Orr is a 1st-grade teacher at Annandale Terrace Elementary School
+  in Fairfax County, VA. A National Board Certified Teacher in middle childhood, she
+  has taught 4th, 5th, and 1st grades since 1998.
+date_published: '2011-05-02T00:00:00'
+image_fid: '7397'
+splash_image_fid: '7398'
+author_image_fid: '7396'
+summary: VoiceThread enables young learners to express their ideas without struggling
+  to write them down, says 1st-grade teacher Jennifer Orr.
+splash_image: /files/Voicethreadsplash.jpg
+image: /files/Voicethreadimage.jpg
+author_image: /files/author_image/jennifer-orr_0_2.jpg
 ---
+
+
 
 I have written about technology and primary students [previously](http://teachinghistory.org/nhec-blog/24452). I want to wrap up my thinking with a focus on a specific tool I believe offers a lot of opportunities in an early elementary classroom.
 As an upper-grade teacher my students used blogs and wikis frequently. This allowed them to reflect on their learning and connect their thinking during our school day and at other times. In first grade my students are still learning to read and write, and doing so at the levels required for blogs or wikis would be extremely difficult.

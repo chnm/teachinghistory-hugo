@@ -2,10 +2,21 @@
 title: History Departments Alone Are Not Enough
 date: '2010-03-09T16:49:21'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 23878
+author_bio: 'Gloria Ladson-Billings is the Kellner Family Chair in Urban Education
+  and Professor of Curriculum and Instruction and Educational Policy Studies at the
+  University of Wisconsin-Madison. She is a former president of the American Educational
+  Research Association, and most recently the author of *Beyond the Big House: African
+  American Educators on Teacher Education*.'
+author_image_fid: '6619'
+summary: It seems axiomatic that history teachers would rely on historians to prepare
+  them. Of course they should. However, as is true of all academic disciplines, there
+  is a difference between it and the school subject that bears its name.
+author_image: /files/author_image/ladson_billings.jpg
 ---
+
 
 It seems axiomatic that history teachers would rely on historians to prepare them. Of course they should. However, as is true of all academic disciplines, there is a difference between it and the school subject that bears its name. The goals for high school science, for instance, are different from those of research scientists. According to the National Research Council’s Science Education Standards, we should be educating K–12 students who are able to:
 

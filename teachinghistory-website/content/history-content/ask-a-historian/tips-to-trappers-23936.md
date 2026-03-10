@@ -2,13 +2,18 @@
 title: Tips to Trappers
 date: '2010-04-08T11:00:29'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23936
 question: What was the Sears Roebuck publication, *Tips to Trappers*? Were there other
   ways in which Sears Roebuck and its rival Montgomery Ward tried to win over farmers?
 url: /history-content/ask-a-historian/23936
+splash_image_fid: '4475'
+summary: What do Sears Roebuck, farming, advertising, furs, and rural America have
+  in common?
+splash_image: /files/tips-to-trappers.jpg
 ---
+
 
 Sears Roebuck, like its competitor Montgomery Ward, built its business as a mail-order company. Consequently, many of its customers were farmers or at least lived far away from big cities. The majority of Sears Roebuck customers also ordered out of the Montgomery Ward catalog.
 In the early 1920s, many of Sears Roebuck's rural mail-order customers wrote to the company asking them to set up a way for trappers to sell their furs. Beginning in late 1925, Sears Roebuck & Company, through the Sears Raw Fur Marketing Services, began buying furs from independent, rural trappers. Trappers would mail packages of their prepared muskrat, mink, otter, raccoon, fox, badger, beaver, weasel, skunk, and opossum pelts to a Sears depot. At first there was only one in Chicago, but the company soon increased the number of depots around the country, including ones in Philadelphia, Dallas, Seattle, Memphis, Kansas City, Des Moines, Denver, and Minneapolis.
@@ -22,3 +27,7 @@ Radio station WLS was the voice of the Sears Roebuck Agricultural Foundation, wh
 The Sears Roebuck Agricultural Foundation offered advice and instruction by mail to farmers and their wives who wrote to the company. The Foundation also supported rural agricultural agents, farmers' markets, cooperative associations, 4-H and FFV chapters, agricultural demonstration projects, and scholarships to agricultural colleges.
 Sears Roebuck and Company's second president, during the 1920s and 1930s, Julius Rosenwald, was a true philanthropist who viewed the Sears Roebuck Agricultural Foundation not just as a way to capture customers for Sears, but as a means to improve the lives of Americans living in rural communities. He was, for example, responsible for Sears' extensive support for Historically Black Colleges, especially in the South, and for the establishment of almost 5,000 schools for African American children in the region.
 After 34 years in the fur buying business, Sears Roebuck decided in 1958 to focus on urban customers and retail stores, and so discontinued, among other things, the Sears Raw Fur Marketing Services and the publication of *Tips to Trappers*.
+
+---
+
+[**Heritage Museum[MT]**](http://teachinghistory.org/history-content/historical-places/9716)

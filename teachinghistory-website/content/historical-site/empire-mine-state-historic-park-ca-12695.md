@@ -2,8 +2,11 @@
 title: Empire Mine State Historic Park [CA]
 date: '2008-01-08T13:38:47'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 12695
+website_url: http://www.parks.ca.gov/default.asp?page_id=499
 ---
 
+Empire Mine State Historic Park is the site of one of the oldest, largest, deepest, longest, and richest gold mines in California. In existence for more than 100 years, the mine produced 5.6 million ounces of gold before it closed in 1956. The park contains many of the mine's buildings, the owner's home. and restored gardens, as well as the entrance to 367 miles of abandoned and flooded mine shafts.
+The park offers exhibits, tours, living history presentations and events, and occasional recreational and educational events.

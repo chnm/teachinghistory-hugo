@@ -2,7 +2,7 @@
 title: Elementary Introduction
 date: '2010-11-29T11:07:00'
 lastmod: '2018-09-19T15:40:19'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24408
 url: /elementary-school-intro

@@ -2,10 +2,14 @@
 title: Especially for New Teachers
 date: '2008-05-12T13:52:27'
 lastmod: '2012-07-24T11:49:08'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19268
 url: /nhec-blog/19268
+date_published: '2008-06-16T00:00:00'
+summary: Alarmed by the large dropout rate among new teachers, public and private
+  educational institutions increasingly reach out to provide support to newcomers
+  to the classroom.
 ---
 
 According to [the summary of a report](http://www.nctaf.org/documents/charts.pdf) from the [National Commission on Teaching and America's Future](http://www.nctaf.org/), after 3 years, 1/3 of new teachers leave the field; after 5 years, almost half of those new teachers are gone.

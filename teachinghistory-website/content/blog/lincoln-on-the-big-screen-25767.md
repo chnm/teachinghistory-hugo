@@ -2,11 +2,21 @@
 title: Lincoln on the Big Screen
 date: '2012-11-28T15:08:51'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25767
 url: /nhec-blog/25767
+date_published: '2012-11-30T00:00:00'
+image_fid: '9576'
+splash_image_fid: '9580'
+thumbnail_fid: '1420'
+summary: How do historians think about films like Steven Spielberg's *Lincoln*? Take
+  a look with Teachinghistory.org!
+splash_image: /files/3f05217v.jpg
+thumbnail: /files/quiz/fashion_1955.jpg
+image: /files/lincoln_2012_teaser_poster.jpg
 ---
+
 
 Have you seen Steven Spielberg's film *Lincoln*? With a Rotten Tomatoes critic approval rating of over 90% and audience approval of more than 80%, viewers praised the film for its earnestness and significance, and for Daniel Day-Lewis's performance as the president.
 But what do historians have to say? How do they approach the film, and how do they assess it? Even if your students haven't seen the film, reading historians' reviews can help them understand the ways of thinking and types of knowledge that historians use to assess historical accuracy, bias, intended audience, and more.

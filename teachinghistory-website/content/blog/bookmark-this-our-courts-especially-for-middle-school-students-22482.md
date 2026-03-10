@@ -2,11 +2,17 @@
 title: Bookmark This! Our Courts Especially for Middle School Students
 date: '2009-08-20T10:14:34'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22482
 url: /nhec-blog/22482
+date_published: '2009-08-20T00:00:00'
+image_fid: '1542'
+summary: Is it possible to excite and engage your students in learning about the judicial
+  system?
+image: /files/civics.jpg
 ---
+
 
 *EDITORIAL NOTE (9/30/10): Our Courts has since changed its name to iCivics. Please change your bookmarks to http://www.icivics.org.*
 When President Obama nominated Judge Sonia Sotomayor to the U.S. Supreme Court, we pointed out that the judicial system is perhaps the least understood and the most complicated to teach among the three branches of the U.S. government. (Please see [The Supreme Court: Connections Between Past and Present](http://teachinghistory.org/nhec-blog/22244).)

@@ -2,7 +2,7 @@
 title: On Gendering the Constitution
 date: '2011-04-01T14:07:25'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24613
 question: Do you have any primary source documents from John Bingham that show why
@@ -11,7 +11,12 @@ question: Do you have any primary source documents from John Bingham that show w
   that take the opposite view of why women should be included? My daughter is completing
   a National History Day project and these two are critical to her performance.
 url: /history-content/ask-a-historian/24613
+splash_image_fid: '7314'
+summary: The agitation among women’s rights activists over the language of the 14th
+  Amendment.
+splash_image: /files/force-of-truth.jpg
 ---
+
 
 I’m not sure how to answer this. I wouldn’t want to take anything away from your daughter’s project by doing her research for her. But the subject is complicated and I think I can say a few things that might help with her research.
 The issues around the passage of the 14th Amendment, as they appeared to women’s rights activists, are well covered, with transcripts of Congressional debates, and details of the petitions and organizing activities of Susan B. Anthony, Elizabeth Cady Stanton, and others, in the [*History of Woman Suffrage,*](http://books.google.com/books?id=YfULAQAAIAAJ&dq=history%20of%20woman%20suffrage&pg=PP1#v=onepage&q&f=false) Volume 2, Chapter 17, pages 90-151, which your daughter can read at the link. In addition, if your public library, or a nearby academic library, has online access to the ProQuest historical newspapers collection, she might find it useful to take a look at *The New York Times* reporting on the announcement of—and speeches given at—the 11th National Woman’s Rights Convention, held in New York City, as detailed in the articles, “Woman’s Rights. The Eleventh National Woman’s Rights Convention” (April 2, 1866) and “The May Anniversaries” (May 11, 1866).
@@ -30,3 +35,8 @@ In other words, the committee was saying, “Okay, maybe we can’t force you so
 
 In fact, essentially the same sort of scheme had already passed Congress as part of a civil rights law, but Congressman Bingham, who was both a lawyer and a judge, was convinced that that law would be found by the courts to be unconstitutional for a number of reasons (including the fact that it infringed on the rights of states to determine which of its citizens could vote), so he had actually opposed its passage in Congress and argued that it needed to be passed as a constitutional amendment instead. That is why it was deliberated on by the Committee of Fifteen—actually called the Committee on Reconstruction—of which he was an influential member, and was proposed by it. It was part of the committee’s plan for how the southern states could be brought back into the fold: If these states’ legislatures reaffirmed their allegiance to the United States and voted to accept the conditions in the proposed amendment, then they would be re-admitted.
 I cannot find a source that gives Bingham himself the responsibility for inserting the word “male” in the language of the amendment. Perhaps you have found such a source. The material in the *History of Woman Suffrage* appear to me to suggest otherwise, that it was simply the result of the committee’s long hours in trying to craft precise language that would do no more than what the committee intended the amendment to do, without inadvertently opening the door to a storm of objections surrounding the much larger principles of suffrage, whether it was a universal “human right” or not, that would most probably have derailed the amendment’s chance of passage.
+
+---
+
+Garrett Epps, *Democracy Reborn: The Fourteenth Amendment and the Fight for Equal Rights in Post-Civil War America.* New York: Macmillan, 2007.
+William E. Nelson, *The Fourteenth Amendment: From Political Principle to Judicial Doctrine.* Cambridge: Harvard University Press, 1988.

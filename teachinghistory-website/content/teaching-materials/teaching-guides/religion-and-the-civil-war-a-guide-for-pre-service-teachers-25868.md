@@ -2,11 +2,27 @@
 title: 'Religion and the Civil War: A Guide for Pre-Service Teachers'
 date: '2022-08-19T08:53:32'
 lastmod: '2024-10-17T14:22:40'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25868
 url: /teaching-materials/teaching-guides/25868
+author_bio: Nate Sleeter is a research assistant professor at the Roy Rosenzweig Center
+  for History and New Media where he oversees educational projects. He is also a former
+  K-12 teacher.
+image_fid: '10227'
+splash_image_fid: '10228'
+author_image_fid: '10230'
+summary: Help students understand the how religious beliefs shaped Americans' understanding
+  of the Civil War using sheet music from the Library of Congress.
+spotlight: The religious beliefs of Americans during the Civil War period shaped how
+  they viewed the war and its meaning. Help students understand this complex history
+  while engaging with primary sources from the Library of Congress.
+splash_image: /files/BattleSplash.jpeg
+image: /files/BattleHymnoftheRepublic.jpeg
+author_image: /files/author_image/NATE_SLEETER (1)_0.JPG
 ---
+
+
 
 **What is it?**
 

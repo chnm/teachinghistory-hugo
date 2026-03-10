@@ -2,11 +2,27 @@
 title: 'Film Review: The Tenth Inning'
 date: '2011-08-15T15:58:06'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25076
 url: /nhec-blog/25076
+author_bio: 'Daniel A. Nathan is an Associate Professor of American Studies at Skidmore
+  College and the author of the award-winning *Saying It''s So: A Cultural History
+  of the Black Sox Scandal* (2003). The president-elect of the North American Society
+  for Sport History, Nathan has served as the Film, Media, and Museum Reviews editor
+  for the *Journal of Sport History*.'
+date_published: '2011-09-14T00:00:00'
+image_fid: '8015'
+splash_image_fid: '8016'
+author_image_fid: '8014'
+summary: Can one subject—say, baseball—tell a larger story of historical change? Historian
+  Daniel Nathan says it can.
+splash_image: /files/baseballsplash.jpg
+image: /files/baseballimage.jpg
+author_image: /files/author_image/author_photo_nathan.jpg
 ---
+
+
 
 *This is the fifth in a series of film reviews reprinted from the* [Journal of American History](http://www.journalofamericanhistory.org/). *These reviews model ways of looking critically at popular films, documentaries, miniseries, and other history-based features.*
 Directed by Ken Burns and Lynn Novick, *The Tenth Inning* is a two-part, four-hour sequel to *Baseball* (1994), the 18-and-a-half-hour long, Emmy Award–winning documentary that was the most-watched series in public television history. In the pages of the *Journal of American History* 16 years ago the historian George B. Kirsch concluded his review of *Baseball*: “On balance, for lovers of the national pastime, *Baseball* is a stand-up triple. For social historians, it is a broken-bat single” (Dec. 1995, p. 1316). It was a fair, well-supported assessment.

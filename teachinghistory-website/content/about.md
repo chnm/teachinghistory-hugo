@@ -1,5 +1,5 @@
 ---
-title: "About TeachingHistory.org"
+title: "About Us"
 date: 2025-01-20T10:00:00Z
 draft: false
 ---

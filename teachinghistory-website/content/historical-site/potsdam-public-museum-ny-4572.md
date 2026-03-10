@@ -2,8 +2,11 @@
 title: Potsdam Public Museum [NY]
 date: '2008-01-08T13:26:39'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 4572
+website_url: http://www.potsdampublicmuseum.org/
 ---
 
+The Museum was built in 1876 as the First Universalist Church, and served as the Potsdam Public Library, with the Museum in the lower level, from 1940 until 1976. Today, it is dedicated to the collection, preservation, and interpretation of local history and the decorative arts. The Museum exhibits artifacts related to the Knowles Family of Potsdam and the history of Potsdam, as well as ceramic, pottery, and porcelain pieces drawn from the Burnap Collection.
+The museum offers exhibits, research library access, and educational and recreational events.

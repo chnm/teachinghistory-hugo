@@ -2,11 +2,19 @@
 title: Preparing for the Days of Remembrance
 date: '2012-03-23T14:25:40'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25508
 url: /nhec-blog/25508
+date_published: '2012-03-30T00:00:00'
+image_fid: '9061'
+splash_image_fid: '9062'
+summary: How do people talk about and understand the Holocaust today in the U.S. and
+  around the world?
+splash_image: /files/splash-blog-dor.jpg
+image: /files/image-blog-dor.jpg
 ---
+
 
 Established through an Executive Order signed by President Jimmy Carter, the annual Days of Remembrance of the Victims of the Holocaust ask U.S. citizens to remember the tragedy of the Holocaust—the murder of millions of Jews by Nazi Germany during World War II. This year, the Days of Remembrance stretch from April 15 to April 22, with April 19 identified as Holocaust Remembrance Day.
 How can you teach the Days of Remembrance in secondary classrooms? Some students may feel that the Holocaust happened long ago on another continent, a distant event that has little to do with their lives today. Teaching the Days of Remembrance and the Holocaust offers the chance to think about global connections, individual and group responsibility, the fragile nature of democracies, and the importance of individual vigilance and action.
@@ -41,5 +49,5 @@ The museum also maintains online exhibits, including:
 
 ## More Resources
 
-[![](http://teachinghistory.org/files/image-blog-dor1.jpg)](http://teachinghistory.org/spotlight/days-of-remembrance)
+[![](/files/image-blog-dor1.jpg)](http://teachinghistory.org/spotlight/days-of-remembrance)
 The U.S. Holocaust Memorial Museum is one of many institutions offering materials on the Holocaust. For more resources, visit our Days of Remembrance [spotlight page](http://teachinghistory.org/spotlight/days-of-remembrance). The page also features materials on Jewish American history.

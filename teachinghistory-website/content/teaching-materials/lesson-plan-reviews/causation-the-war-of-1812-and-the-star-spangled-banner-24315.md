@@ -2,11 +2,21 @@
 title: 'Causation: The War of 1812 and the Star-Spangled Banner'
 date: '2010-10-29T12:23:35'
 lastmod: '2018-04-24T10:27:33'
-type: lesson_plan_reviews
+content_type: lesson_plan_reviews
 draft: false
 drupal_nid: 24315
 url: /teaching-materials/lesson-plan-reviews/24315
+flexibility_scale: '3'
+topic: The War of 1812 and the Star-Spangled Banner
+website_url: http://www.americanhistory.si.edu/starspangledbanner/pdf/SSB_History_Overview.pdf
+image_fid: '6750'
+splash_image_fid: '6751'
+summary: 'A great way for students to learn more about the War of 1812 and our nation''s
+  emblem: the Star-Spangled Banner.'
+splash_image: /files/1812splash.jpg
+image: /files/lesson_image/bannerimage.jpg
 ---
+
 
 Noting that textbooks for grades 3 through 8 often exclude the War of 1812, the [Smithsonian’s History Explorer website](http://teachinghistory.org/history-content/website-reviews/24310) designed this [lesson](http://www.americanhistory.si.edu/starspangledbanner/pdf/SSB_History_Overview.pdf) to teach students about the origins and outcomes of this pivotal event in American history. This lesson also provides students with historical context for understanding one of the most popular and enduring texts in American history: "The Star-Spangled Banner," written by Francis Scott Key.
 The strength of this lesson is that it provides a succinct, yet informative, narrative of the causes, course, and consequences of [the War of 1812](http://www.americanhistory.si.edu/starspangledbanner/pdf/SSB_History_Overview.pdf). This overview, which examines the origins of the national anthem, could be used as a basis for a lecture or directly given to students as a handout.

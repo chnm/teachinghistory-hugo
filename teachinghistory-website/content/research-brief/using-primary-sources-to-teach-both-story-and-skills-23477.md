@@ -2,23 +2,19 @@
 title: Using Primary Sources to Teach Both Story and Skills
 date: '2009-11-02T15:55:41'
 lastmod: '2017-10-06T15:37:32'
-type: research_brief
+content_type: research_brief
 draft: false
 drupal_nid: 23477
+image_fid: '7379'
+splash_image_fid: '4698'
+summary: Does teaching with primary sources inhibit success on final exams?
+splash_image: /files/UsingPrimarySources432x240.jpg
+image: /files/primsourceteach.jpg
 ---
 
-History is the story of the past. But because the past comes to us via fragments, that is, surviving documents and accounts, history as a discipline focuses on interpreting what happened and why. Due to time constraints and standardized testing, many teachers focus on teaching students the basic story of the past, sometimes leaving out historical analysis. Many teachers who use primary sources to teach about historical thinking worry that it will take time away from helping students understand what happened. However, one study suggests both activities can—and should—happen at once.
-> Many teachers who use primary sources to teach about historical thinking worry that it will take time away from helping students understand what happened. However, one study suggests both activities can—and should—happen at once.
 
-In two separate experiments, [Charles Perfetti](http://www.pitt.edu/~perfetti/charles-perfetti.htm) and his colleagues interviewed 30 undergraduate students, trying to understand how history students use texts. Students were given documents about the Panama Canal taken from textbooks, primary sources, and secondary sources, and written from a variety of perspectives. The researchers found that reading primary sources helped the students learn to read, write, and think historically. As a consequence, they gained a better understanding of the past. By reading multiple documents to develop their own opinions about the past, students became more thoughtful consumers of information even as they received a richer, fuller, and more accurate story of what really happened.
-
-## The Search for Accuracy
-
-When students are presented with only textbook and/or secondary accounts, they tend to see history as simple and straightforward. They rarely seek out more information, and while capable of identifying author bias, do so only where bias is obvious.
-> When they encounter primary sources, . . . students become aware of subtle biases depending on when a document was written, where, and by whom.
-
-When they encounter primary sources, on the other hand, students become aware of subtle biases depending on when a document was written, where, and by whom. They often express greater interest in seeing more sources in order to verify their understanding of past events. Students who are given primary sources refer more frequently to evidence, citing the sources of their information. Thus, examining primary sources helps students think more critically about the importance of accuracy, both in the sources and their own interpretations.
-
-## The Search for a Fuller Picture
-
-In many cases, students look to the textbook to find out what happened. But when they were given primary sources, the students in this study began to question the textbook accounts, asking questions about issues the textbook had failed to cover. In seeing themselves as historical detectives, students began to piece together various accounts to build a fuller picture of events, using the textbook as a resource and not the ultimate arbiter of truth.
+* Begin by having students read the textbook account of a particular event. Aim for a manageable topic like the creation of the Panama Canal, rather than a large and complex event such as the Civil War.
+* After they have read the textbook passage, have students write about (or briefly discuss as a class) whether they believe the textbook account is reliable, or if they need more information.
+* Next, present students with 2-4 primary sources on the topic. They can read these either individually or in groups. Good primary sources can be found at websites like [American Memory](http://lcweb2.loc.gov/amhome.html) or [The Internet Modern History Sourcebook](http://www.fordham.edu/halsall/mod/modsbook.html). Ideally, such sources will add new information about the story, revealing gaps or inconsistencies in the textbook account (check out how [Historical Thinking Matters](http://historicalthinkingmatters.org/) handles the Spanish American War, the Scopes Trial, Social Security, and Rosa Parks).
+* After your students have reviewed their primary sources, ask them to reconsider the reliability of the textbook account. What has changed? What questions do they have that they didn’t have before? Are there disagreements among the texts? What could account for those? What additional information would students like to see?
+* At the end of the unit, discuss what the students have learned. It is likely that they will emerge with more historical thinking skills, as well as a better understanding of the past.

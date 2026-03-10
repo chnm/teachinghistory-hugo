@@ -2,10 +2,13 @@
 title: 'Objects and Memory: Making Sense of Catastrophe'
 date: '2008-08-27T14:32:09'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19576
 url: /nhec-blog/19576
+date_published: '2008-09-04T00:00:00'
+summary: What is it about a piece of paper, an ID card, or a teddy bear that evokes
+  powerful memories?
 ---
 
 Why do people value objects? What is it about a piece of paper, an ID card, or a teddy bear that evokes powerful memories? How do deeply personal possessions create community and vitalize history?

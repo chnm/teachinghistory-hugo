@@ -2,10 +2,22 @@
 title: An Opportunity for History and Civics
 date: '2011-12-19T12:38:22'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25353
+author_bio: Lynne Munson has served as President and Executive Director of Common
+  Core since the organization’s founding in 2007. Common Core is a non-profit 501(c)3
+  organization that was formed to promote content-rich liberal arts education in America’s
+  K–12 schools. Prior to joining Common Core, Lynne was deputy chairman of the National
+  Endowment for the Humanities (NEH) and a research fellow at the American Enterprise
+  Institute.
+author_image_fid: '8680'
+summary: We should seize this opportunity to both infuse the “ELA block” with rich
+  history and civics content but also to revitalize the teaching of the most important
+  history and civics content in the social studies classroom.
+author_image: /files/author_image/author_munson.jpg
 ---
+
 
 In 2008 Common Core [surveyed 1,200 17-year-olds](http://commoncore.org/_docs/CCreport_stillatrisk.pdf) nationwide and found that:
 

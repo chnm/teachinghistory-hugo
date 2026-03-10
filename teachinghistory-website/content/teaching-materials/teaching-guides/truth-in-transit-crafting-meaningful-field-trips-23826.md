@@ -2,11 +2,28 @@
 title: 'Truth in Transit: Crafting Meaningful Field Trips'
 date: '2010-02-02T14:14:17'
 lastmod: '2018-09-21T14:14:17'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 23826
 url: /teaching-materials/teaching-guides/23826
+author_bio: 'James A. Percoco has received numerous awards for his work in history
+  education. He has taught U.S. and Applied History at West Springfield High School
+  in Springfield, VA since 1980. He is the author of several books, most recently
+  *Summers with Lincoln: Looking for the Man in the Monuments*; and serves as History
+  Educator-in-Residence at American University.'
+image_fid: '4106'
+splash_image_fid: '3967'
+thumbnail_fid: '3450'
+author_image_fid: '3965'
+summary: Leave your students with intellectually and emotionally significant memories
+  of their own experiences with history.
+thumbnail: /files/SlideshareImage.jpg
+splash_image: /files/PercocoSplash.jpg
+image: /files/Truth-in-Transit-150x113.jpg
+author_image: /files/author_image/PercocoBioImage_0.jpg
 ---
+
+
 
 Dawn. The Blue Ridge Mountains, of Pennsylvania, in the western distance, down Chambersburg Pike have an ethereal purple hue as the sun captures their crest. Closer to the ground where we are standing the mist is beginning to lift this mid-October morning. Students and chaperones huddle close together to ward off the autumn chill. All is quiet for this moment I have planned. Reaching into my satchel I pull out my set of Tibetan bells. Asking for perfect stillness from my students and chaperones I bring the bells together. As their ring echoes and trails off, I invoke the Spirit of History to be with us this day as we explore the site of the largest battle of the Civil War. Seven hours later we will head back to West Springfield High School, and my students will never look at a historic site in the same way again.
 
@@ -22,7 +39,7 @@ For any field trip, preparation is a necessity and that includes planning
 * making sure your students are fed, and
 * figuring out how, what, and where you want your students to learn.
 
-Planning is essential, and yes it will take hours, but in the end everyone is rewarded for your hard work. Before you take students, visit the site yourself, several times if necessary. Speak with site staff about your visit and keep a sharp eye and ear attuned to the narrative told at the site. Pick up tidbits along the way that you can use to transform the total experience. If the site has audio-visual programs look at them and determine if you want your students to see them. Doing so will help you to determine your time frame for visiting the site. Your use of time is crucial, particularly if you are visiting a large site such as a battlefield. ![](http://teachinghistory.org/system/files/Truth-in-Transit2-150x113.jpg)
+Planning is essential, and yes it will take hours, but in the end everyone is rewarded for your hard work. Before you take students, visit the site yourself, several times if necessary. Speak with site staff about your visit and keep a sharp eye and ear attuned to the narrative told at the site. Pick up tidbits along the way that you can use to transform the total experience. If the site has audio-visual programs look at them and determine if you want your students to see them. Doing so will help you to determine your time frame for visiting the site. Your use of time is crucial, particularly if you are visiting a large site such as a battlefield. ![](/files/Truth-in-Transit2-150x113.jpg)
 
 ## Using Student Historians
 
@@ -30,7 +47,7 @@ Early on I learned that what makes a field trip more meaningful for students is 
 
 > . . . student historians share what they have learned about these characters and what happened to that person at the specific site from which they are speaking.
 
-![](http://teachinghistory.org/system/files/Truth-in-Transit-3-150x113.jpg)
+![](/files/Truth-in-Transit-3-150x113.jpg)
 
 ## The Teacher's Role on Site
 

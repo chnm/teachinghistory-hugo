@@ -2,10 +2,23 @@
 title: 'Teaching American History through Biography: Lessons from Maine'
 date: '2008-03-17T19:26:07'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 19088
+author_bio: 'An Associate Professor of History at Bowdoin College, Patrick Rael is
+  a specialist in African-American history, who earned his Ph.D. in American History
+  from the University of California, Berkeley in 1995. He is the author of *Black
+  Identity and Black Protest in the Antebellum North* (North Carolina, 2002), and
+  editor of *African-American Activism before the Civil War: The Freedom Struggle
+  in the Antebellum North* (Routledge, 2008). He has written extensively about teaching
+  history, and has for over a decade led seminars and workshops on teaching American
+  history in primary and secondary schools.'
+splash_image_fid: '4965'
+summary: Teachers from Maine demonstrate how biographies enhance their ability to
+  stimulate critical thinking across developmental levels.
+splash_image: /files/Teaching_through_Biography_Lessons_-_432x240.jpg
 ---
+
 
 This summer, for the third consecutive year, I will have the great privilege of working with nearly 100 Maine teachers in grades 5–12 in a program entitled *Teaching American History Through Biography*. Each summer, this workshop offers participants opportunities to strengthen their ability to teach American history through study and research on notable Americans. We meet for two intensive weeks in July, and periodically throughout the academic year, to discuss important new biographies in American history. Additionally, participants undertake their own research projects into American biography, which culminate in a research essay on a historical figure that is developed from primary historical sources. Charles Calhoun, Director of Teacher Programs for the Maine Humanities Council, directs the program, which has been generously funded by the U.S. Department of Education.
 > We have explored the nature of biography as a genre of literature and as a means of understanding broader patterns in history.

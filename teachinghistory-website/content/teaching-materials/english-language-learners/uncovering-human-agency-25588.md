@@ -2,7 +2,7 @@
 title: Uncovering Human Agency
 date: '2012-05-07T11:59:46'
 lastmod: '2017-10-06T15:32:14'
-type: english_language_learners
+content_type: english_language_learners
 draft: false
 drupal_nid: 25588
 summary: Academic language is used in specific ways in history textbooks. A lot of
@@ -129,5 +129,16 @@ author_bio: 'Academic language is used in specific ways in history textbooks. A 
   [1](#fn1) Cayton, A., Perry, E. I., & Winkler, A. M. *America: Pathways to the Present*.
   Upper Saddle River, NJ: Pearson Prentice Hall, 1998.'
 url: /teaching-materials/english-language-learners/25588
+image_fid: '9232'
+splash_image_fid: '9233'
+author_image_fid: '9231'
+splash_image: /files/humanagencysplash.jpg
+image: /files/humanagencyimage.jpg
+author_image: /files/author_image/author_oliviera.jpg
 ---
 
+
+
+de Oliveira, L. C. "[Nouns in History: Packaging Information, Expanding Explanations, and Structuring Reasoning](http://www.societyforhistoryeducation.org/pdfs/de_Oliveira.pdf)." *The History Teacher*, 43:2 (2010), 191-203.
+de Oliveira, L. C. *Knowing and Writing School History: The Language of Students' Expository Writing and Teachers' Expectations*. Charlotte, NC: Information Age Publishing, 2011.
+Read more on the language of history at Teachinghistory.org in "[The Grammar of History Textbooks, Part I: Language Analysis](http://teachinghistory.org/best-practices/teaching-with-textbooks/19439)" and "[The Grammar of History Textbooks Part II: Questioning the Text](http://teachinghistory.org/best-practices/teaching-with-textbooks/20574)."

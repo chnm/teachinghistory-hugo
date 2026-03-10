@@ -2,10 +2,19 @@
 title: Neither Spinach Nor Potato Chip
 date: '2011-11-01T12:33:16'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25285
+author_bio: Valerie Tripp is the author of more than 40 books of historical fiction
+  that are part of the *American Girls Collection*. Tripp also writes fiction and
+  nonfiction for children in grades K—3 as part of the *Superkids Reading Program*.
+author_image_fid: '8502'
+summary: Historical fiction should serve as a captivator, a way to catch and hold
+  students’ attention and interest. But it must be carefully scrutinized and judiciously
+  used.
+author_image: /files/author_image/author_tripp_2.jpg
 ---
+
 
 Good historical fiction engages students. It is neither spinach—good for you but not especially delicious—nor potato chip—salty and tempting, but of no nutritional value. It piques students’ interest in an historical period by transporting them to that period and showing them what their lives would be like if they lived then. And through that vicarious experience, the students not only learn about the past. They also learn empathy and compassion, because they are imagining themselves in someone else’s shoes. Good historical fiction meets young readers where they are *right now* in terms of comprehension by drawing upon existing background knowledge and life experiences that they can bring to bear on the story. Historical fiction celebrates the nature of the young reader, tickling the reader’s curiosity, energy, and humor, and being inspired by the reader’s hopes, aspirations, and *Weltanschauung*.
 > But while plot and character may captivate, solid history must be the reason for the story.

@@ -2,8 +2,21 @@
 title: The Native Tongue
 date: '2009-01-23T16:07:30'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 20704
+duration: 00:11:01
+keywords: Chesapeake, Native Americans, Algonquin, Algonquins, language, languages,
+  colonists, colonies, colonization, race, race relations, Williamsburg, Virginia,
+  Sioux, Iroquois, Spain, Spanish, English, England
+website_url: http://podcast.history.org/2009/01/19/the-native-tongue/
+date_published: '2009-01-19T00:00:00'
+series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+splash_image_fid: '1527'
+summary: As explorers encountered Native American groups, they also experienced a
+  multitude of languages.
+splash_image: /files/Native-Tongue.jpg
 ---
 
+
+Buck Woodard of Colonial Williamsburg talks about instances of first contact between explorers and colonists and Native Americans, focusing on the diversity of Native American languages and problems of understanding and translation that arose at these meetings.

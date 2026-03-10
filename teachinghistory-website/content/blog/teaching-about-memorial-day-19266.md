@@ -2,11 +2,17 @@
 title: Teaching about Memorial Day
 date: '2008-05-12T12:14:51'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19266
 url: /nhec-blog/19266
+date_published: '2008-05-07T00:00:00'
+splash_image_fid: '4365'
+summary: Memorial Day is a day of remembrance. Materials for all classroom levels
+  are plentiful.
+splash_image: /files/MemorialDay.jpg
 ---
+
 
 Memorial Day, formerly called Decoration Day, is a day of remembrance for those who have died in the service of the country. Materials for educators are plentiful.
 At the Smithsonian [Museum of American History](http://americanhistory.si.edu/), the exhibit [The Price of Freedom: Americans at War](http://americanhistory.si.edu/militaryhistory/) looks at the history of America's military from the French and Indian Wars to the present military action in Iraq. Resources include a [teacher's manual](http://americanhistory.si.edu/militaryhistory/resources/education.asp), worksheets and images for classroom use.

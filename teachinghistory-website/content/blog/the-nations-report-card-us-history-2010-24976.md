@@ -2,11 +2,20 @@
 title: 'The Nation''s Report Card: U.S. History, 2010'
 date: '2011-06-17T14:43:07'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24976
 url: /nhec-blog/24976
+date_published: '2011-07-18T00:00:00'
+image_fid: '7631'
+splash_image_fid: '7632'
+summary: 'On June 14th, the National Assessment of Educational Progress (NAEP) released
+  the *Nation''s Report Card: U.S. History 2010, Grades 4, 8, and 12*. But what *is*
+  the Report Card?'
+splash_image: /files/splash-blog-naep.jpg
+image: /files/image-blog-naep.jpg
 ---
+
 
 A month ago, on June 14th, the National Assessment of Educational Progress (NAEP) released the *Nation's Report Card: U.S. History 2010, Grades 4, 8, and 12*. The Report Card is the "largest nationally representative and continuing assessment of what America's students know and can do" in U.S. history, according to the [National Center for Education Statistics](http://nces.ed.gov/nationsreportcard/about/). Approximately 7,000 4th-grade students, 11,000 8th-grade students, and 12,000 12th-grade students in public and private schools across the country took the test, resulting in data that will be analyzed for years to come.
 

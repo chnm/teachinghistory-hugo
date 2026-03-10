@@ -2,10 +2,18 @@
 title: 'Games and History: A Fork in the Road'
 date: '2011-08-17T22:20:24'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25081
+author_bio: Dan Norton is a Founding Partner and Creative Director at Filament Games,
+  a design and development shop dedicated exclusively to creating learning games.
+author_image_fid: '7949'
+summary: The title of this roundtable inquires whether Serious Games are relevant
+  or more "educational fluff." To be blunt, the only way a critic could come to that
+  conclusion would be from complete illiteracy with games as a form of media.
+author_image: /files/author_image/roundtable-author-norton.jpg
 ---
+
 
 The title of this roundtable inquires whether Serious Games are relevant or more "educational fluff." To be blunt, the only way a critic could come to that conclusion would be from complete illiteracy with games as a form of media. There are writers far more persuasive than this author to cover the value of learning games: I suggest James Paul Gee's classic [*What Videogames Have to Teach About Learning and Literacy*](http://books.google.com/books?id=BZIY7TGKySsC). *(Editor's Note: James Gee also [contributes](http://teachinghistory.org/issues-and-research/roundtable-response/25085) to this roundtable.)*
 I hope the reader will forgive the author for treating the "fluff" accusation casually.

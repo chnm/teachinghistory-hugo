@@ -2,10 +2,19 @@
 title: 'Primary Sources: The Seeds for Student Growth'
 date: '2011-05-02T11:52:17'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24663
+author_bio: David Mitchell is a high school history teacher at Masconomet Regional
+  High School in Topsfield, Massachusetts. He was recognized by the White House as
+  the 2008 Gilder-Lehrman Preserve America National History Teacher of the Year.
+author_image_fid: '7431'
+summary: One of the biggest advantages of using original documents is that it throws
+  students into the confusion of the historical moment. When students try to find
+  their way in this new world, inevitably they begin to ask historical questions.
+author_image: /files/author_image/David-Mitchell.jpg
 ---
+
 
 Although they may take a variety of forms, the most effective high school U.S. history courses tend to focus on chronology and causation, celebrate active global and national citizenship and an appreciation for the nation’s diversity, promote 21st century skills in technology and engage students in the work of historians via primary source based, thematic, student centered inquiry.
 I remember as a kid looking in wonder at the items my dad has from his Navy days during the Korean War. Likewise, I kept every letter that my bride mailed to me when we were dating and living 400 miles apart. Why do these things we keep touch us so deeply? In part, it’s because these things are still living for us, and in being alive, they keep our memories vivid and close to our hearts.

@@ -2,30 +2,21 @@
 title: Apprenticing Adolescent Readers to Academic Literacy
 date: '2009-02-01T20:19:59'
 lastmod: '2017-10-06T15:37:32'
-type: research_brief
+content_type: research_brief
 draft: false
 drupal_nid: 20803
+image_fid: '7367'
+splash_image_fid: '6321'
+summary: Do your students struggle with reading history texts? This instructional
+  approach helps students of all abilities make sense of different types of texts.
+splash_image: /files/boys_reading_splash.jpg
+image: /files/adolread.jpeg
 ---
 
-## Reading in the History Classroom
 
-National test scores show that middle and high school students struggle with analytic reading. Yet, after elementary school, reading instruction is not seen as the province of any particular teacher. The authors of this study see a place for reading instruction in all classrooms, arguing that students need to continue to develop their reading abilities while also learning subject-specific reading skills. For history teachers, this means not only teaching content, but also teaching students how to read historical texts.
-The Academic Literacy course the authors designed consisted of three units, one of which—Reading History—was designed to help students better understand how to approach historical texts. The authors hoped students would begin to see history as "an interpretive and contentious enterprise" rather than "a burdensome exercise in memorization." In pursuing this aim, teachers helped students develop a set of strategies for reading primary and secondary sources, exposed students to a range of texts including content-rich films, and ultimately asked them to assume the role of historian in an investigative project.
+Think of teaching history as teaching reading. Plan lessons where guiding students in making sense of historical texts is central to the activities.
 
-## Cognitive Apprenticeship
-
-The authors promote a cognitive apprenticeship approach to literacy development that they call Reading Apprenticeship (RA). RA "involves teachers and their students as partners in a collaborative inquiry into reading and reading processes as they engage with subject-area texts." In short, teachers model reading skills for students, serving as "master" of subject-area texts. The aim is to make visible the hidden mental processes involved in higher-order reading, showing students what successful readers do when they read.
-
-## Metacognitive Conversations
-
-Beyond simply serving as models, teachers also promoted what the authors called a *metacognitive conversation.* Teachers helped students begin to compare their own approaches to reading with the approach a master reader takes. In doing so, teachers asked students to explore what kind of readers they are, what strategies they use while reading, and what sorts of things they need to know in order to understand different texts.
-
-## Learning How to Read History Texts
-
-Using the RA model, teachers helped students improve as readers of history. Students became aware of and more capable of:
-
-* analyzing text structure and organization
-* close-reading and rereading for key words
-* identifying central ideas in the text
-linking parts of the text together to construct meaning
-Overall, this approach raised academic achievement on both standardized measures and those designed by the researchers. It also promoted student interest and academic identity.
+* Begin a conversation with your students about reading history. Have them read a short excerpt from a historical text and then ask them about how they read. This can lead to a larger discussion about reading strategies in history classes.
+* Model for them how to read a historical text by "thinking aloud" while you read. You can watch a historian do it with this Scopes Trial lesson at [*Historical Thinking Matters*](http://historicalthinkingmatters.org/scopestrial/0/inquiry/main/resources/41/).
+* You can watch a student do it with this lesson on social security at [*Historical Thinking Matters*](http://historicalthinkingmatters.org/socialsecurity/1/studentwork/ta2/).
+* Begin developing some simple class best practices about how to approach reading in the history classroom.

@@ -2,14 +2,20 @@
 title: All Wrapped Up in the Flag
 date: '2010-02-11T14:15:55'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23852
 question: What can you tell me about the invention of the American flag? Do you have
   more than one perspective on this history? Also, do you have any critical views
   on the topic?
 url: /history-content/ask-a-historian/23852
+splash_image_fid: '4815'
+thumbnail_fid: '406'
+summary: Flinging the first American flag to the breeze.
+thumbnail: /files/website_image/GeorgeWashingtonPapers2.jpg
+splash_image: /files/weisgerber-new.jpg
 ---
+
 
 Here I imagine you handing me a big stick and inviting me to climb up an ancient oak and swat a huge, low hanging hornet's nest.
 The question of who designed the American flag is, as they say, "contested" and has been so for 140 years. You may wonder "Why only that long?" "What about the century before that, back to the founding of the nation?" "What did people think then?"
@@ -44,3 +50,13 @@ Most of the historians who have looked into the history of the flag have been hi
 Historians have pointed to inconsistencies and historical improbabilities in the story. They have also pointed to its tenuous foundation: hearsay testimony of a family member first revealed to the public 94 years after the event. Finally, they have pointed to the ways in which the story has been used as a kind of promotional device in selling things or ideas to the public. Beyond the funding of tourist sites and historical memorials in Philadelphia, and all the patriotic gewgaws and paraphernalia associated with Betsy Ross, historians have also pointed to several ideas that late 19th century promoters of one kind or another were eager to "sell" to the public. These included the necessity of national unity at a time when north and south were still healing from the divisions of the Civil War and when new waves of immigrants were arriving on the country's shores. Ideas that would get Americans to rally around the flag—such as the institution of Flag Day, the introduction of the Pledge of Allegiance, and the story of Betsy Ross—helped in this.
 In addition, through the story of Betsy Ross, women could be brought into the patriotic stories of the country's founding at the time of the Revolution. Historians have argued that the story of Betsy Ross offered the country a way of incorporating the rising sentiment toward women's rights into a narrative that simultaneously added a woman into the ranks of America's founders, but also reinforced women's traditional domestic role of seamstress. In some of the more fantastic elaborations, the story also portrayed Betsy Ross as the Mother of Her Country, visited by Washington, the Father of His Country, and, through their mysterious union, bringing about what one historian has referred to as the "immaculate conception" of the flag, if not the entire idea of the country itself. The story's popularity evidently draws on some deep cultural roots apart from the lack of historical evidence to support it.
 The story of Betsy Ross has echoes in the story of a young Baltimore widow, Mary Young Pickersgill. According to that story, the commander of Fort McHenry, Major George Armistead, had a committee of his officers call on Pickersgill in 1813 and commission her to sew a huge American flag to fly over the fort. After sewing it together, she delivered it to them, and it was this flag that flew over the fort when the British bombarded it in September 1814. It was her flag that inspired Francis Scott Key to write "The Star-Spangled Banner," and it is this same flag that is now on display at the Smithsonian's Museum of American History. This flag had been long stored away by a private owner, a descendant of Major Armistead, but was found, unfolded, and photographed for the first time in 1873 by George Preble when he was doing the research for the book he wrote on the history of the flag, during which time he was in correspondence with William Canby.
+
+---
+
+For critical perspectives on the Betsy Ross story, as well as for the full history of the flag:
+Milo M. Quaife et al. *The History of the United States Flag: From the Revolution to the Present*. New York: Harper, 1961.
+Mark Leepson. *Flag: An American Biography*. New York: St. Martin's Press, 2005.
+Lonn Taylor. *The Star-Spangled Banner: The Making of an American Icon*. New York: Smithsonian Books, 2008.
+Ed Crews. ["The Truth About Betsy Ross: Popular Lore Says She Made First Flag, but Evidence for the Tale Is Scarce,"]( http://www.history.org/Foundation/journal/Summer08/betsy.cfm) *Colonial Williamsburg Journal* (Summer 2008).
+Federal Citizen Information Page, [The History of the Stars and Stripes.
+[The Star-Spangled Banner]( http://americanhistory.si.edu/starspangledbanner/) at the Smithsonian Institution's National Museum of American History.](http://publications.usa.gov/epublications/ourflag/history1.htm)

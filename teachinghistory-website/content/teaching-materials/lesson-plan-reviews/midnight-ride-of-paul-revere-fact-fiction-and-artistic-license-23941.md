@@ -2,12 +2,22 @@
 title: 'Midnight Ride of Paul Revere: Fact, Fiction, and Artistic License'
 date: '2010-04-12T14:18:07'
 lastmod: '2018-04-24T10:47:52'
-type: lesson_plan_reviews
+content_type: lesson_plan_reviews
 draft: false
 drupal_nid: 23941
 url: /teaching-materials/lesson-plan-reviews/23941
 featured: true
+flexibility_scale: '4'
+topic: Paul Revere’s Midnight Ride and Analyzing Paintings
+website_url: http://edsitement.neh.gov/lesson-plan/midnight-ride-paul-reveremdashfact-fiction-and-artistic-license
+image_fid: '6300'
+splash_image_fid: '4512'
+summary: Did Revere's ride really look like that? Use historical documents to analyze
+  flights of artistic fancy.
+splash_image: /files/PReverebandw.jpg
+image: /files/lesson_image/wood_lesson.jpg
 ---
+
 
 This [lesson](http://edsitement.neh.gov/lesson-plan/midnight-ride-paul-reveremdashfact-fiction-and-artistic-license) asks students to use primary source evidence to assess Grant Wood’s famous 1931 painting, [*The Midnight Ride of Paul Revere*](http://picturingamerica.neh.gov/downloads/pdfs/Resource_Guide_Chapters/PictAmer_Resource_Book_Chapter_3A.pdf). Students must also determine the event's historical significance. This lesson offers a wealth of resources for analyzing artwork as historical evidence and provides a nice example for using artwork along with written documents to learn about the past.
 The lesson opens up by asking students to note their initial impressions of Wood's painting. [Additional resources](http://edsitement.neh.gov/view_lesson_plan.asp?id=635 ) are included to help students analyze the painting.

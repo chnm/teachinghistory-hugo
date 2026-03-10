@@ -2,8 +2,11 @@
 title: Berkshire County Historical Society and Herman Melville's Arrowhead [MA]
 date: '2008-01-08T13:26:45'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 4884
+website_url: http://www.berkshirehistory.org/
 ---
 
+The Society is committed to the preservation and interpretation of Arrowhead, home of author Herman Melville, the first National Historic Landmark to be so designated in Berkshire County. The author's study, piazza, the original fireplace from his short story "I and My Chimney" and the restored barn in which Melville and Hawthorne spent hours discussing their writings are all open to the public. The Society has also restored the North Meadow preserving the view of Mount Greylock which was a major inspiration to Melville.
+The society offers research library access and occasional recreational and educational events; the museum offers exhibits and tours.

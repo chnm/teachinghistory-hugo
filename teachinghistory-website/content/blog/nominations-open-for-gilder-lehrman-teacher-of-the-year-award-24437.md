@@ -2,11 +2,19 @@
 title: Nominations Open for Gilder Lehrman Teacher of the Year Award!
 date: '2010-12-17T16:28:07'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24437
 url: /nhec-blog/24437
+date_published: '2010-12-17T00:00:00'
+image_fid: '6962'
+splash_image_fid: '6961'
+summary: Know a K-6 educator who goes above and beyond in teaching U.S. history? Nominate
+  them for Gilder Lehrman's state and national awards!
+splash_image: /files/splash-blog-gltaha.jpg
+image: /files/image-blog-gltaha.jpg
 ---
+
 
 Know a fantastic K–6 teacher who goes above and beyond to help his or her students engage with history? Someone who not only meets your state's standards, but expands on them? Someone who shows students how history can move out of the classroom into their lives?
 Nominate them for the Gilder Lehrman Institute of American History's seventh Teacher of the Year Award! Open to K–6 teachers from all U.S. states, districts, and territories, as well as Department of Defense and U.S. State Department schools, the program presents $10,000 to the national winner, while each state winner receives $1,000 and a set of books and other resource materials for their school library.

@@ -2,8 +2,11 @@
 title: Harriet Tubman Home [NY]
 date: '2008-01-08T13:26:48'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 5024
+website_url: http://www.nyhistory.com/harriettubman/
 ---
 
+The Harriet Tubman Home preserves the legacy of "the Moses of Her People" in the place where she lived and died in freedom. The site is located on 26 acres of land in Auburn, New York, and is owned and operated by the AME Zion Church. It includes four buildings, two of which were used by Harriet Tubman. Some articles of furniture, and a portrait that belonged to Harriet Tubman are now on display in the Home.
+The site offers tours and occasional recreational and educational events.

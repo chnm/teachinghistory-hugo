@@ -2,11 +2,40 @@
 title: Comic Books in the History Classroom
 date: '2011-05-25T11:38:33'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24707
 url: /nhec-blog/24707
+author_bio: Rwany Sibaja is a PhD student of History at George Mason University and
+  a Graduate Research Assistant at the Center for History and New Media. He previously
+  taught high school history (World and AP European) and Spanish, later working as
+  a K-12 curriculum program manager in NC.
+date_published: '2011-07-09T00:00:00'
+image_fid: '7574
+
+
+  7574
+
+
+  7574
+
+
+  7574
+
+
+  7574
+
+
+  7574'
+splash_image_fid: '7516'
+author_image_fid: '7515'
+summary: Comic books as primary sources? Bring superheroes into the classroom with
+  these six historical themes.
+splash_image: /files/FourFavoritesSplash.jpg
+author_image: /files/author_image/ThO_1.jpg
 ---
+
+
 
 The summer of 2011 offers moviegoers several productions based on superheroes and comic books. *Thor. X-Men: First Class. Green Lantern. Captain America: The First Avenger. Cowboys & Aliens.* Hollywood has discovered that comic book movies are more than a passing fad, resonating with audiences who connect with the humanity behind the costumes. As a result, comic book-based films have grown over the last decade—both in production and ticket sales— with many more movies to be released over the next few years (*The Dark Knight Rises, The Amazing Spider-man, Iron Man 3,* and *The Avengers* to name a few.)
 Teachers can use the popularity of superhero films to expand students' understanding of American culture. University of Idaho professor of history Katherine Aiken explored the use of comic books to teach U.S. history in a recent essay published by the Organization of American Historians' *Magazine of History* ([Vol.24, no.2-April 2010](http://magazine.oah.org/issues/242/)). Aiken concluded that because comic books reflect larger social issues in U.S. society, they can help students examine how U.S. artists addressed issues of race, gender, nationalism, and conflict in popular publications.
@@ -21,7 +50,7 @@ A few approaches for connecting comic books to U.S. history include:
    * 1940s: Superheroes went to war. Did comic books become tools for wartime propaganda, or did they simply reflect a period of national pride?
    * 1950s: Fantasy, horror, Westerns, and other genres overshadowed superhero stories. Is this a case of "hero" fatigue or socio-political concerns?
    * 1960s: The Marvel and Silver Ages: The Cold War, space race, and civil rights shaped a new era of heroes. The space race, for example, influenced the creation of the Fantastic Four and other interstellar heroes. The nuclear arms race, in turn, influenced the creation of Iron Man and the Hulk. Civil rights also played a significant role in the development of characters with social struggles, from the mutant X-Men to the blind superhero known as Daredevil and the increasing number of female heroines beyond Wonder Woman.
-   ![DC comics' attempt to deal with drug abuse among teens](http://teachinghistory.org/files/speedy-does-drugsImage.jpg)* 1970s–1980s: Comic books became more mature. Serious issues such as drug abuse and apartheid influenced storylines in teen-centered titles such as the Teen Titans and X-Men/New Mutants. Specific stories, such as *The Dark Knight Returns* and *Watchmen*, tapped into the economic and political anxieties during the Reagan era. Titles such as *Sandman* also introduced comic books to a new generation of female readers during the late 1980s. All three titles appeared on the New York Times Bestseller list.
+   ![DC comics' attempt to deal with drug abuse among teens](/files/speedy-does-drugsImage.jpg)* 1970s–1980s: Comic books became more mature. Serious issues such as drug abuse and apartheid influenced storylines in teen-centered titles such as the Teen Titans and X-Men/New Mutants. Specific stories, such as *The Dark Knight Returns* and *Watchmen*, tapped into the economic and political anxieties during the Reagan era. Titles such as *Sandman* also introduced comic books to a new generation of female readers during the late 1980s. All three titles appeared on the New York Times Bestseller list.
   
   
 2. **Addressing social issues**
@@ -35,7 +64,7 @@ A few approaches for connecting comic books to U.S. history include:
 3. **"Golden Age," "Silver Age," and "Modern Age" of comic books**
    What characterized each of these eras? Using long-running characters like Batman and the Joker, students can assess changing social norms, expectations, and trends in the 20th-century U.S. through the evolution of specific characters.
   
-![logo for Comics Code authority](http://teachinghistory.org/files/comiccodeImage.jpg)4. **Government regulations and political concerns**
+![logo for Comics Code authority](/files/comiccodeImage.jpg)4. **Government regulations and political concerns**
    McCarthyism and moral issues threatened the comic book industry during the 1950s. Why? One fascinating story involves Fredric Wertham's *Seduction of the Innocent*, a bestselling book that eventually led to the policing and regulation of comic books and the creation of the Comic Code Authority. This is a good period to discuss government regulations, free speech, and what made comic books a "danger" to children in the 1950s. Another topic, dealing with moral issues, is human experimentation. In [this video](http://www.youtube.com/watch?v=KrofRTCNlvQ) by Emory Bioethics professor Paul Root Wolpe, he uses the genetics in the X-Men comic books to talk about Nazi experimentation on humans, the Nuremberg trials, as well as U.S. testing on human subjects.
   
 5. **The evolution of major characters**
@@ -44,8 +73,8 @@ A few approaches for connecting comic books to U.S. history include:
 6. **Comic book creators**
    How did the personal lives of writers and illustrators like Stan Lee, Jack Kirby, Jerry Siegel, and Joe Schuster, among others, affect the tales they created? Many of these artists came from ethnic and working-class communities that shaped the setting and topics of their stories.
 
-![cover to an issue of Sheena the She-Devil](http://teachinghistory.org/files/SheenaImage.jpg)Comic books, therefore, can help diversify the teaching of American history and allows teachers to address important issues in a novel yet useful way. However, educators should take caution. Over the last few decades, comic books have shifted to a more mature audience and as a result the depiction of violence has become more graphic. Similarly, educators should be mindful of issues or artists that oversexualize characters.
+![cover to an issue of Sheena the She-Devil](/files/SheenaImage.jpg)Comic books, therefore, can help diversify the teaching of American history and allows teachers to address important issues in a novel yet useful way. However, educators should take caution. Over the last few decades, comic books have shifted to a more mature audience and as a result the depiction of violence has become more graphic. Similarly, educators should be mindful of issues or artists that oversexualize characters.
 As is the case with any material to be used in the U.S. history classroom, comic books should be previewed beforehand. Educators, however, can find plenty of "classroom-friendly" comics online or at a local comic book store. For example, the Pulitzer Prize-winning comic, *Maus*, commonly found at most school libraries, is a different take on Nazism and the Holocaust. Comic book companies have also increased their number of "kid-friendly" titles, easily found at bookstores like Barnes & Nobles and department stores such as Target. Finally, the first Saturday in May is "Free Comic Book Day" each year—a good chance to explore several titles at a local comic book store.
 **A final note:**
-![Freddy Marvel and war stamps](http://teachinghistory.org/files/FreddyMarvelImage.jpg)Interdisciplinary approaches to using comic books in the classroom are also helpful for the history teacher. Art educators often argue that reading and *making* comics encourages students to become more skilled at critically examining texts—full of complex concepts and human relations. Students and teachers can use comics to bridge the gap between personal experiences and history, examine the connection between comics and social groups (such as the "art world" and ethnic groups,) and to deconstruct the medium in order to gain a better sense of what issues affected society. The marriage of visuals and text also helps reach reluctant readers and bring the classroom teacher closer to youth culture. Similarly, language arts specialists find that engagement enhances reading fluency— even in the elementary years. Low-level readers, in various studies, demonstrate greater engagement with visual texts like comic books.
-![Captain America attacks Hitler](http://teachinghistory.org/files/CapHitlerImage.jpg)History teachers can benefit from collaborative uses of comic books across disciplines. Either by working with a language arts or art teacher, or adapting diverse approaches to visual literacy in the history classroom, the use of comic books is helpful for working with others. Students will also find similar collaborative benefits in outside research and work. Whether they develop digital timelines using tools like [Dipity](http://www.dipity.com/teachinghistoryorg/American-Comic-Books/) or generate a [Google Map](http://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=209249405201610583303.0004a406f0c2ddc77b9c4&ll=29.382175,-26.894531&spn=86.274106,187.207031&z=3) to assess the geographic connections of comic book characters to U.S. history, digital tools are ideal for collaborations inside and outside the classroom. (Note: The Dipity and Google Map links show examples of how to use American comic books to teach U.S. History.)
+![Freddy Marvel and war stamps](/files/FreddyMarvelImage.jpg)Interdisciplinary approaches to using comic books in the classroom are also helpful for the history teacher. Art educators often argue that reading and *making* comics encourages students to become more skilled at critically examining texts—full of complex concepts and human relations. Students and teachers can use comics to bridge the gap between personal experiences and history, examine the connection between comics and social groups (such as the "art world" and ethnic groups,) and to deconstruct the medium in order to gain a better sense of what issues affected society. The marriage of visuals and text also helps reach reluctant readers and bring the classroom teacher closer to youth culture. Similarly, language arts specialists find that engagement enhances reading fluency— even in the elementary years. Low-level readers, in various studies, demonstrate greater engagement with visual texts like comic books.
+![Captain America attacks Hitler](/files/CapHitlerImage.jpg)History teachers can benefit from collaborative uses of comic books across disciplines. Either by working with a language arts or art teacher, or adapting diverse approaches to visual literacy in the history classroom, the use of comic books is helpful for working with others. Students will also find similar collaborative benefits in outside research and work. Whether they develop digital timelines using tools like [Dipity](http://www.dipity.com/teachinghistoryorg/American-Comic-Books/) or generate a [Google Map](http://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=209249405201610583303.0004a406f0c2ddc77b9c4&ll=29.382175,-26.894531&spn=86.274106,187.207031&z=3) to assess the geographic connections of comic book characters to U.S. history, digital tools are ideal for collaborations inside and outside the classroom. (Note: The Dipity and Google Map links show examples of how to use American comic books to teach U.S. History.)

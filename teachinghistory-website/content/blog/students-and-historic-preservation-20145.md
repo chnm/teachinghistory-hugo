@@ -2,11 +2,17 @@
 title: Students and Historic Preservation
 date: '2008-10-20T14:47:11'
 lastmod: '2011-06-14T10:02:45'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20145
 url: /nhec-blog/20145
+date_published: '2008-10-23T00:00:00'
+image_fid: '323'
+summary: The [American Planning Association (APA)](http://www.planning.org) encourages
+  high school juniors and seniors to explore historic preservation.
+image: /files/C_Essay.jpg
 ---
+
 
 The [American Planning Association (APA)](http://www.planning.org) encourages high school juniors and seniors to explore historic preservation.
 Each year, the APA sponsors a contest requiring high school students to look at critical planning issues in their communities and to write an essay under prescribed guidelines. This year, the 100th year of the American planning movement, the focus is on history.

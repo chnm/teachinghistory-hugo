@@ -2,14 +2,27 @@
 title: Tax Rates of the Mid-20th Century
 date: '2011-02-02T13:32:07'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24489
 question: Recent history shows tax rates exceedingly high some 50 years ago. How do
   historians (and educators) accommodate the recent past when putting contexts around
   today’s loud events?
 url: /history-content/ask-a-historian/24489
+author_bio: Philip Scranton is University Board of Governors Professor, History of
+  Industry and Technology, at Rutgers University. Prof. Scranton also directs the
+  Hagley Museum & Library's research arm, the Center for the History of Business,
+  Technology, and Society. His current research examines the course of specialty manufacturing
+  in the United States from World War II through the 1980s with a special focus on
+  Cold War technological innovation.
+splash_image_fid: '7147'
+author_image_fid: '7128'
+summary: Is it April 15 already? Discussing the recent past in context.
+splash_image: /files/wwIItaxes_splash.jpg
+author_image: /files/author_image/pscranton_cropped_1.jpg
 ---
+
+
 
 There are only long answers to any questions about taxation in American history, no matter how short the questions. Here we have a short question, and only room for a short answer. So let’s make a start.
 The “exceedingly high” part of this question most likely refers to the federal income tax’s “confiscatory” top rates coming out of World War II, which the Eisenhower Administration left in place into the 1960s. During the war, the top “marginal rate” was 94%, but 94% of what? Then as now, income tax rates moved up at distinct break points. In this made-up example, consider a 15% rate up to $25,000, 21% from $25,000 to $50,000, and 25% over $50,000. Those making $50,001 or more won’t pay a quarter of their total income, but rather 15% of the first $25,000, 21% of the next $25,000, and 25% of everything above $50K. That’s why the system is called progressive - the percentage rate progresses upward with income, but the higher percentage applies only to new (marginal) income above each break point. In 1944-45, “the most progressive tax years in U.S. history,” the 94% rate applied to any income above $200,000 ($2.4 million in 2009 dollars, given inflation).
@@ -20,3 +33,11 @@ Three things, basically. First in World War II, tax law revisions increased the 
 > Despite these surges, Americans remain among the least-taxed citizens of advanced industrial nations.
 
 A few years ago, one critic of the recent Bush Administration asserted that: “By the time Clinton left office [January 2001], Federal income taxes as a percentage of income for the typical American family were lower than they had been at any time since 1966.” Perhaps so, but the typical total tax load, taking all outflows from households into account, had risen. Americans' taste for and justification of expanded government services had grown, as had their increasing resentment at the expense. From these tensions emerged “today's loud events,” in which polarized denunciations seem to be pushing aside pragmatic policy making. Two final notes: despite these surges, Americans remain among the least-taxed citizens of advanced industrial nations, with 28% of gross domestic product taken for taxes, vs. an average of 36% for the 38 member countries of the Organization for Economic Cooperation and Development, while, since 1942, the U.S. has spent far more than any other nation on military and national security needs. Second, none of the above discussion has touched the issue of business taxes, which are included in the U.S. vs. OECD assessment, but rarely examined historically, especially with attention to their state and local components.
+
+---
+
+Brownlee, W. Elliott. *Federal Taxation in America: A Short History.* Cambridge: Cambridge University Press, 2004 (second edition).
+Cooper, George. “The Taming of the Shrewd: Identifying and Controlling Income Tax Avoidance,” *Columbia Law Review* 85(1985): 658-729.
+Lowery, David and Lee Seligman, “Understanding the Tax Revolt: Eight Explanations,” *American Political Science Review* 75(1981): 963-74.
+Pechman, Joseph A. “The Future of the Income Tax,” *The American Economic Review* 80(March 1990): 1-20.
+Steurle, C. Eugene. *Contemporary US Tax Policy.* Washington, DC: The Urban Institute, 2008 (second edition).

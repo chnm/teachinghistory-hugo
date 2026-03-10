@@ -2,11 +2,27 @@
 title: Elizabeth Schaefer on the Impact of 9/11 in the Classroom
 date: '2010-09-30T18:27:04'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24274
 url: /nhec-blog/24274
+author_bio: Elizabeth Schaefer teaches 8th-grade U.S. history at Paul Public Charter
+  School in Washington, DC. After graduating from Lafayette College with degrees in
+  Psychology and American Studies, Elizabeth worked with an after-school program in
+  New York City public schools. Getting to know the youth in the Urban Dove program
+  motivated her to return to school for her MA in Teaching from American University.
+date_published: '2010-10-05T00:00:00'
+image_fid: '6645'
+splash_image_fid: '7820'
+author_image_fid: '6657'
+summary: Eighth-grade U.S. history teacher Elizabeth Schaefer introduces students
+  to interview techniques and historical thinking with a lesson on 9/11.
+splash_image: /files/24274-original.jpg
+image: /files/image-blog-schaefer-9-11.jpg
+author_image: /files/author_image/image-author-lizschaefer.jpg
 ---
+
+
 
 Early in the year, teachers scramble to put back on their 500 hats and begin the year on the right foot. For the past two years, I have used a September 11th interview project in my 8th-grade U.S. History class to meet many early-in-the-year needs. With a week of instruction and one project, I have been able to better understand the level and lives of the students, communicate with families early on, set the tone for thinking historically within my class, and most importantly, gotten the students engaged and excited about American history.
 

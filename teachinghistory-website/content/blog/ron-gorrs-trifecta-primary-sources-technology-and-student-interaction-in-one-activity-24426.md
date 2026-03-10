@@ -3,11 +3,29 @@ title: 'Ron Gorr''s Trifecta: Primary Sources, Technology, and Student Interacti
   in One Activity!'
 date: '2010-12-08T17:16:05'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24426
 url: /nhec-blog/24426
+author_bio: Ron Gorr currently teaches A.P. U.S. history at Air Academy High School
+  in Colorado Springs, CO. He has a MA in history from the University of Colorado—Colorado
+  Springs and is currently in his 15th year of teaching (mostly in U.S. history).
+  In addition to working as a teaching representative during the redesign process
+  of Teachinghistory.org, Ron has recently presented primary sources lessons at the
+  National Council for Social Studies and the National Council for History Education.
+date_published: '2011-02-07T00:00:00'
+image_fid: '6964'
+splash_image_fid: '6965'
+author_image_fid: '6971'
+summary: How can you bring 21st-century teaching into curriculum you've already developed
+  and use? AP U.S. History teacher Ron Gorr substituted online and in-person research
+  and discussion for a quiz and a lecture.
+splash_image: /files/splash-blog-rgwiki.jpg
+image: /files/image-blog-rgwiki.jpg
+author_image: /files/author_image/image-blog-rongorr.jpg
 ---
+
+
 
 ## Finding Room for 21st-century Teaching
 

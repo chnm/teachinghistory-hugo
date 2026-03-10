@@ -2,11 +2,31 @@
 title: Michael Yell on Critical Thinking and Teaching History
 date: '2011-06-17T15:40:29'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24977
 url: /nhec-blog/24977
+author_bio: Michael Yell is a 7th-grade history teacher at the Hudson Middle School
+  in Hudson, WI. He holds National Board Certification in Early Adolescent Social
+  Studies–History, and is a past president of the National Council for the Social
+  Studies.
+date_published: '2011-06-20T00:00:00'
+image_fid: '7633
+
+
+  7633
+
+
+  7633'
+splash_image_fid: '7637'
+author_image_fid: '7635'
+summary: Don't think once. Think twice. Demand concise, thought-provoking work from
+  students.
+splash_image: /files/mikeyellon432x240.jpg
+author_image: /files/author_image/myell_1.jpg
 ---
+
+
 
 > *The advance of knowledge has been achieved not because the mind is capable of memorizing what teachers say but because it can be disciplined to ask probing questions and pursue them in a reasonable, self-critical way. Scholars pursuing knowledge submit their thinking to rigorous discipline.* —Dr. Richard Paul ([1](#note1))
 

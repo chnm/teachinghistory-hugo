@@ -2,11 +2,21 @@
 title: 'Jamestown: The Starving Time'
 date: '2010-09-06T16:26:48'
 lastmod: '2018-09-11T10:31:18'
-type: lesson_plan_reviews
+content_type: lesson_plan_reviews
 draft: false
 drupal_nid: 24214
 url: /teaching-materials/lesson-plan-reviews/24214
+flexibility_scale: '5'
+topic: Jamestown
+website_url: https://hsi.wm.edu/cases/jamestown/jamestown_preview.html
+image_fid: '6671'
+splash_image_fid: '8386'
+summary: Only 60 settlers out of 600 survived the winter of 1609–1610 in Jamestown
+  Virginia. Was "the Starving Time" due to natural circumstances or planned extermination?
+splash_image: /files/replacementsplash.jpg
+image: /files/lesson_image/pocahontas_crop.jpg
 ---
+
 
 This [lesson](https://hsi.wm.edu/cases/jamestown/jamestown_preview.html) provides a great opportunity for students to engage in real historical inquiry with prepared sources. The lesson is displayed in three locations on the site: the [student view](https://hsi.wm.edu/cases/jamestown/jamestown_student.htm), which guides the student through the activity; [the teacher view](https://hsi.wm.edu/cases/jamestown/jamestown_teacher.htm), which provides additional background information; and a [PDF](https://hsi.wm.edu/cases/jamestown/lesson_plans.pdf) file that contains scripted instructions for the lesson.
 Students first read a textbook passage about the Jamestown colony in 1609 and 1610. They then discuss how the writers of the textbook might have obtained their information, and go on to analyze primary source documents that expand upon the textbook account. Students essentially "do history" as they use a variety of sources to answer a clear, concise historical question—one that can be answered in multiple ways with the given data.

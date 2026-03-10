@@ -2,11 +2,25 @@
 title: 'Joe Jelen''s Ads as Primary Sources: The Ad Council''s Historic Campaigns'
 date: '2011-05-19T11:32:55'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24697
 url: /nhec-blog/24697
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+date_published: '2011-05-31T00:00:00'
+image_fid: '7507'
+splash_image_fid: '7506'
+author_image_fid: '7505'
+summary: Advertisements don't always use ideas to sell products—sometimes they use
+  ideas to sell ideas. Explore the ideas the Ad Council's PSAs have sold, Joe Jelen
+  suggests.
+splash_image: /files/splash-blog-jjnc.jpg
+image: /files/image-blog-jjac.jpg
+author_image: /files/author_image/Author_Image_Joe_Jelen_75x75_3.jpg
 ---
+
+
 
 The Ad Council has been producing public service announcements attempting to affect change in society and serve the public interest for nearly 70 years. The campaigns take the form of print, radio, and television advertisements. They have run the spectrum of societal issues, from "Rosie the Riveter" and the campaign to place women in war jobs to contemporary ads related to predatory lending. The Ad Council has brought us memorable characters like Smokey Bear, McGruff the Crime Dog, and Vince and Larry (the two crash test dummies who convinced us to wear seat belts). But what do these public advertising campaigns say about America? How can we use these ad campaigns to better understand U.S. history?
 Through analyzing the ads we can isolate time periods in history and understand what were believed to be the most pressing societal issues of the time. These campaigns tried to decrease behaviors that were believed to lead to social problems or promote behaviors that would lead to a better society. Thus, in seeking to understand the advertisements, we can help students uncover the contemporaneous sociology of the ad campaign.

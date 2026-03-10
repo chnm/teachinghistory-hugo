@@ -2,8 +2,11 @@
 title: Skagway Museum and Archives
 date: '2008-01-08T13:36:57'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 11078
+website_url: http://www.skagwaymuseum.org/
 ---
 
+The Skagway Museum and Archives presents the local history of Skagway, Alaska.
+The museum offers exhibits.

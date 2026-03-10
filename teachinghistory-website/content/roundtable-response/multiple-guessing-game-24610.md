@@ -2,10 +2,20 @@
 title: Multiple Guessing Game
 date: '2011-04-01T13:02:18'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24610
+author_bio: Ann Bourman is the author of several J. Weston Walch publication books
+  for middle school teachers including, *100 Writing Starters for Middle School* (2002).
+  She currently teaches 8th-grade History at Palms Middle School in Los Angeles, CA.
+author_image_fid: '7388'
+summary: Multiple-choice testing has no role in my history classroom except as part
+  of our standardized tests or assessments I'm required to administer...I don't use
+  them in my teaching. I want children to write and think. I don't want an emphasis
+  on A-B-C-D guessing.
+author_image: /files/author_image/head_silhouette_woman.jpg
 ---
+
 
 Multiple-choice testing has no role in my history classroom except as part of standardized tests or assessments I'm required to administer. When I was an 11th-grader 50 years ago (eek!) our otherwise serious teacher included this on one of our tests:
 > *The leading Mexican general in the Mexican-American War was:

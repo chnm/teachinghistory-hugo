@@ -2,11 +2,25 @@
 title: 'Stating Your Case: Writing Thesis Statements Effectively'
 date: '2009-05-20T13:10:07'
 lastmod: '2018-09-11T15:51:54'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 22206
 url: /teaching-materials/teaching-guides/22206
+author_bio: After teaching secondary school history for several years, Jonathan Burack
+  became Editor-in-Chief of *Newscurrents*, a weekly current events program for schools
+  (1984-95). In 1995, he conceived and began to create *MindSparks*, a project that
+  focuses on primary source analysis, writing and debating skills, and the development
+  of habits of historical thinking.
+image_fid: '1111'
+splash_image_fid: '4240'
+author_image_fid: '4130'
+summary: Thesis statements form the backbone of history essays and DBQs.
+splash_image: /files/StatingYourCaseSplash.jpg
+image: /files/stopandthink.jpg
+author_image: /files/author_image/burak_1_1.jpg
 ---
+
+
 
 ## What is it?
 

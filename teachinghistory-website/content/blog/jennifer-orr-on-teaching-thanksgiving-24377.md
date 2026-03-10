@@ -2,11 +2,26 @@
 title: Jennifer Orr on Teaching Thanksgiving
 date: '2010-11-17T13:55:34'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24377
 url: /nhec-blog/24377
+author_bio: Jennifer Orr is a 1st-grade teacher at Annandale Terrace Elementary School
+  in Fairfax County, VA. A National Board Certified Teacher in middle childhood, she
+  has taught 4th, 5th, and 1st grades since 1998.
+date_published: '2010-11-28T00:00:00'
+image_fid: '6836'
+splash_image_fid: '6835'
+author_image_fid: '6837'
+summary: How do you broach the complicated issues surrounding Thanksgiving with early
+  primary students? First-grade teacher Jennifer Orr doesn't have all of the answers,
+  but she has some suggestions.
+splash_image: /files/splash-blog-jotk.jpg
+image: /files/image-blog-jotg.jpg
+author_image: /files/author_image/jennifer-orr_0.jpg
 ---
+
+
 
 ## The Challenge of Thanksgiving
 

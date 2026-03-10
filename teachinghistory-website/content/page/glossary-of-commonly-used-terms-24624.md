@@ -2,7 +2,7 @@
 title: Glossary of Commonly Used Terms
 date: '2011-04-15T11:49:03'
 lastmod: '2011-08-03T09:04:28'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24624
 ---

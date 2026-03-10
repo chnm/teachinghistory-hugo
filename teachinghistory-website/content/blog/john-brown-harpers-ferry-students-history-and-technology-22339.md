@@ -2,11 +2,16 @@
 title: John Brown, Harpers Ferry, Students, History and Technology
 date: '2009-06-26T12:00:42'
 lastmod: '2017-12-01T14:53:33'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22339
 url: /nhec-blog/22339
+date_published: '2009-06-26T00:00:00'
+image_fid: '1161'
+summary: Middle school students interpret history at Harpers Ferry.
+image: /files/harfer.jpg
 ---
+
 
 President Obama's new Summer of Service Initiative—United We Serve—calls on Americans to make community service part of their daily lives, and on June 25, [The Journey Through Hallowed Ground Partnership (JTHG) at Harpers Ferry National Historic Park](http://www.hallowedground.org/index.php) unveiled a ground-breaking service-learning program in keeping with this initiative. Seventy students from Harpers Ferry Middle School launched their own historic research and preservation project: *Of the Student, By the Student, For the Student*. These students created six mini-movies examining the October 6, 1859, John Brown raid on the Harpers Ferry arsenal. These videos are now on view at the historic site and online to help students from around the globe connect to that history.
 > Technology engages students in the critical thinking process.

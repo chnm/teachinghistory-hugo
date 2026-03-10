@@ -2,13 +2,19 @@
 title: Union Cavalry
 date: '2010-12-04T16:22:45'
 lastmod: '2018-09-19T13:19:19'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24420
 question: Why did it take the North so long to build an effective cavalry during the
   Civil War?
 url: /history-content/ask-a-historian/24420
+splash_image_fid: '6899'
+summary: The development of the Union cavalry forces was behind that of the Confederates
+  which was considered, " the best Cavalry in the world." but its late formation did
+  not hinder its eventual success.
+splash_image: /files/cwcavalry_splash.jpg
 ---
+
 
 In the first two years of the Civil War, most judged the Southern cavalry—the horse-borne troopers who could travel far more quickly than their colleagues in the infantry—superior to that of the Union army. In the war’s first months, Confederate cavalry enjoyed a reputation for better horsemanship and more fighting spirit; they boasted the most colorful and well-known cavalry officers of the war’s early months, including the flamboyant J. E. B. Stuart and the daring Nathan Bedford Forrest; and celebrated some noteworthy victories over their Northern counterparts. No less an authority than Union General William Tecumseh Sherman described the Confederate cavalry in 1863 as “splendid riders, shots, and utterly reckless . . . the best Cavalry in the world.”
 
@@ -19,3 +25,9 @@ The diverging nature of life in the two regions provided Southerners with some i
 > Union cavalry troopers had achieved at least parity with their Confederate counterparts, thanks in part to the introduction of repeating carbines to the cavalry arsenal
 
 The changing nature of tactics and technology during the Civil War led to a dramatic change in the way horse troops were employed as the war progressed. The mounted cavalry charge became less effective with the development of more accurate shoulder arms, and the importance of reconnaissance and dismounted fighting became more important. Stuart’s daring raids into Northern territory alarmed civilians and burnished Stuart’s reputation as a dashing cavalier, but the military significance of those raids was less significant. Stuart’s infamous long raid during the Gettysburg campaign captured several Union supply trains but left the Confederate army moving blindly through unfamiliar territory; Stuart’s absence led general Robert E. Lee to accept the battle at Gettysburg without a clear idea of the terrain or the strength of the enemy, with disastrous consequences. By the midpoint of the war, Union cavalry troopers had achieved at least parity with their Confederate counterparts, matching them in horsemanship and firepower thanks in part to the introduction of repeating carbines to the cavalry arsenal. The relentless process of weeding out less-competent leaders and replacing them with soldiers of demonstrated military acumen also benefited the Union as the war dragged on. By the final year of the war, the Union cavalry troopers had more than equaled the prowess of the Southern forces, and Federal commanders like Phil Sheridan had honed the Union cavalry into a devastatingly effective tool that helped maintain unyielding pressure on Confederate armies from 1864 on.
+
+---
+
+Baggett, James. [*Homegrown Yankees: Tennessee's Union Cavalry in the Civil War. Baton Rouge: Louisiana State University Press, 2009.
+[**The Crisis of the Union**](http://teachinghistory.org/history-content/website-reviews/23297)
+Woodworth, Steven, ed. *Civil War Generals in Defeat*. Lawrence, KS: University Press of Kansas, 1999.*](https://lsupress.org/books/detail/homegrown-yankees/)

@@ -2,11 +2,22 @@
 title: Causes of World War I
 date: '2008-08-25T15:46:58'
 lastmod: '2018-09-26T09:10:07'
-type: examples_of_teaching
+content_type: examples_of_teaching
 draft: false
 drupal_nid: 19569
 url: /best-practices/teaching-in-action/19569
+author_bio: James Woodcock is Head of History at Cottenham Village College (secondary
+  school) in Cambridgeshire, England.
+image_fid: '257'
+splash_image_fid: '5003'
+author_image_fid: '4161'
+summary: Did two bullets begin WWI? Explore causation in your classroom.
+splash_image: /files/Causes_of_World_War_-_432x240.jpg
+image: /files/bp2.jpg
+author_image: /files/author_image/JamesWoodcock75x75.jpg
 ---
+
+
 
 *\*Please note that this video is no longer hosted by the Teachers TV website. It may be hosted on a different site and found through doing an internet search on the video's title.*
 

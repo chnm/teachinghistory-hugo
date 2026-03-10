@@ -3,10 +3,14 @@ title: Comment Period Begins on Changes to Selection Criteria for Teaching Ameri
   History Grants
 date: '2008-11-10T18:20:45'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20296
 url: /nhec-blog/20296
+date_published: '2008-11-10T00:00:00'
+summary: The Office of Innovation and Improvement in the U.S. Department of Education
+  proposes to change the final selection criteria of the Teaching American History
+  (TAH) grant program.
 ---
 
 The Office of Innovation and Improvement in the U.S. Department of Education proposes to change the final selection criteria of the Teaching American History (TAH) grant program. The period for public comments on the proposed changes is now open and continues until November 28, 2009.

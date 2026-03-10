@@ -2,11 +2,16 @@
 title: A Roundup of Resources
 date: '2009-11-30T09:35:39'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23602
 url: /nhec-blog/23602
+date_published: '2009-11-30T00:00:00'
+image_fid: '3693'
+summary: What's new at AHA, NEH, LOC and Gilder Lehrman?
+image: /files/teachers.jpg
 ---
+
 
 Just to help jumpstart the post-Thanksgiving return to routine, here's what's happening at a few of our favorite history venues.
 In the November 2009 issue of [*Perspectives*](http://www.historians.org/Perspectives/issues/2009/0911/index.cfm) from the [American Historical Association](http://www.historians.org), TAH Director and visiting professor Elise Fillpot offers suggestions and asks leading questions about teaching history in elementary schools. ". . . [T]he real but hidden story is that in this country, we systematically squander the years when our young are, by nature, history sponges. We ignore the opportunity to encourage historically literate, questioning minds," she writes in ["It's Elementary: Focusing on History Teaching, K-5"](http://www.historians.org/Perspectives/issues/2009/0911/0911tea3.cfm).

@@ -3,11 +3,17 @@ title: 'Recession, Depression, Hard Times, New Deal: Classroom Resources (update
   April 7)'
 date: '2009-03-04T16:03:28'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 21783
 url: /nhec-blog/21783
+date_published: '2009-03-31T00:00:00'
+image_fid: '1029'
+summary: The internet is full of classroom resources for teaching about the New Deal—arguably,
+  perhaps more than for any other era.
+image: /files/dustbowl.jpg
 ---
+
 
 What makes the New Deal and Franklin Roosevelt's presidency particularly exciting to teach in history classrooms today? In part, apparent parallels between current events and history. The downward spiral of the Dow Jones, continued news about job layoffs, failures of financial institutions, economic stimulus plans, and executive and legislative initiatives evoke the specter of the 1930s.
 The internet is full of classroom resources for teaching about the New Deal—arguably, perhaps more than for any other era. We've highlighted a few below that serve as gateways to this internet wealth and a few that address specific subjects and content.

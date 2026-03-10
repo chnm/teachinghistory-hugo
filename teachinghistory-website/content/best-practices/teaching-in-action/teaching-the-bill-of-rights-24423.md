@@ -2,11 +2,26 @@
 title: Teaching the Bill of Rights
 date: '2010-12-08T11:46:25'
 lastmod: '2018-09-11T14:02:42'
-type: examples_of_teaching
+content_type: examples_of_teaching
 draft: false
 drupal_nid: 24423
 url: /best-practices/teaching-in-action/24423
 featured: true
+author_bio: Christine Valenti teaches U.S. history at Lakeland Parks Middle School,
+  MD.
+splash_image_fid: '6935'
+author_image_fid: '6960'
+summary: Daunted by teaching the Bill of Rights and its complex vocabulary to students?
+  Middle-school teacher Christine Valenti explains how she introduces her students
+  to the Amendments.
+splash_image: /files/billclass.jpeg
+author_image: /files/author_image/valenti.png
 ---
 
-Middle-school teacher Christine Valenti explains how she introduces the vocabulary of the Bill of Rights to students and how necessary it is to have a good understanding of the Amendments and their language before teaching the topic.
+
+
+/sites/default/files/media/video/BillofRights1.mp4
+
+video/mp4
+
+[![Introducing Students to Primary Sources](/files/media/video/thumbs/BillofRights1.jpg)](/sites/default/files/media/video/BillofRights1.mp4) [![Comparing and Contrasting](/files/media/video/thumbs/BillofRights2.jpg)](/sites/default/files/media/video/BillofRights2.mp4) [![A New Way to Look at History](/files/media/video/thumbs/BillofRights3.jpg)](/sites/default/files/media/video/BillofRights3.mp4)

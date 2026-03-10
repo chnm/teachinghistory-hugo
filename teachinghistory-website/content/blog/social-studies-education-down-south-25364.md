@@ -2,11 +2,29 @@
 title: Social Studies Education "Down South"
 date: '2011-12-20T00:00:00'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25364
 url: /nhec-blog/25364
+author_bio: Rwany Sibaja is a PhD student of History at George Mason University and
+  a Graduate Research Assistant at the Center for History and New Media. He previously
+  taught high school history (World and AP European) and Spanish, later working as
+  a K-12 curriculum program manager in NC.
+date_published: '2012-02-08T00:00:00'
+image_fid: '8702
+
+
+  8702'
+splash_image_fid: '8703'
+author_image_fid: '8809'
+summary: Listen in on a conversation about curriculum, technology, and commonalities
+  in history education between the United States and Argentina with curriculum specialist
+  Mabel Scaltritti.
+splash_image: /files/arg_naps2.jpg
+author_image: /files/author_image/tho_1.jpg
 ---
+
+
 
 "Globalization" is a term that educators often overuse. Perhaps influenced by books such as Thomas Friedman's *The World is Flat* and Franklin Foer's *How Soccer Explains the World*, the term gained attention in the late 1990s. A more globalized curriculum opened new possibilities for U.S. historians and educators, but suggestions on how to implement such an approach were often vague and muddled.
 Between 1997 and 2000, the Organization of American Historians and the New York University Project on Internationalizing the Study of American History organized the [Pietra Conference](http://www.oah.org/activities/lapietra/index.html) to address globalization in history education. The basic premise of this project was to move beyond a treatment of the nation as "self-contained and undifferentiated." If educators could reassess the interrelated aspects of historical events, transnational themes could become a far more integral part of U.S. history courses. Emphasis, then, could shift towards the varying contexts and scales of experience in U.S. history. Students exploring British America, for example, can view the 13 colonies within the context of empires and the Atlantic World. Native Americans in the West could be studied in relation to other indigenous groups of the Pacific Rim. Likewise, the American Revolution could be analyzed as the initiating event of a global system of democratic revolutions—especially influential in the hemispheric context. The New Deal, for its part, could be presented as one example of a transnational age of social politics.
@@ -23,7 +41,7 @@ Much like in the U.S., curriculum initiatives that originate at the federal leve
 
 ### On local teaching versus national expectations
 
-![Argentine classroom in courtyard](http://teachinghistory.org/files/gascon.jpg)Despite the effort to streamline curriculum on a national level, the teaching of history remains text-heavy and largely frames the past in patriotic and positivist terms. Scaltritti believes that Argentine educators should instead focus on an approach to history that emphasizes the complexity of human relationships through an understanding of economic systems, communities, and the role of geography. In other words, less teaching of an idyllic and homogenized version of the past and more heterogeneity in the history curriculum. The lack of material resources and qualified faculty, coupled with varying interests and timetables by local school administrators, makes a national reform initiative almost impossible in the social studies.
+![Argentine classroom in courtyard](/files/gascon.jpg)Despite the effort to streamline curriculum on a national level, the teaching of history remains text-heavy and largely frames the past in patriotic and positivist terms. Scaltritti believes that Argentine educators should instead focus on an approach to history that emphasizes the complexity of human relationships through an understanding of economic systems, communities, and the role of geography. In other words, less teaching of an idyllic and homogenized version of the past and more heterogeneity in the history curriculum. The lack of material resources and qualified faculty, coupled with varying interests and timetables by local school administrators, makes a national reform initiative almost impossible in the social studies.
 
 ### On the teaching of U.S. history in Argentine schools
 

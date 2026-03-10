@@ -2,12 +2,19 @@
 title: Anacostia Community Museum
 date: '2009-11-10T09:39:34'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23496
 url: /history-content/national-resources/23496
 featured: true
+website_url: http://anacostia.si.edu/
+splash_image_fid: '4748'
+thumbnail_fid: '2227'
+summary: What is community? What does it do for us, and how does it shape who we are?
+splash_image: /files/AnacostiaCommunity432x240.jpg
+thumbnail: /files/website_image/Jstor_Image_0.jpg
 ---
+
 
 The Anacostia Community Museum is one of the nation's Smithsonian museums. According to the museum website, it exists to "to challenge perceptions, broaden perspectives, generate new knowledge, and deepen understanding about the ever-changing concepts and realities of "community.'" Initial goals focused on African American history. However, as of now, the museum endeavors to represent the concept of community from the local to international levels.
 In nearly all cases on the website, content loads at the very bottom of the page, so be sure to scroll down.

@@ -2,8 +2,16 @@
 title: 'Past the Apogee: America Under Pressure'
 date: '2008-09-29T14:00:51'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 19912
+duration: 00:46:29
+keywords: Iraq, 9/11, Fall of the Berlin Wall, Berlin Wall, foreign relations, foreign
+  policy, foreign affairs, terrorism, terrorists, democracy, democracies, military,
+  militaries
+website_url: http://www.fpri.org/multimedia/20061114.krauthammer.pastapogee.html
+date_published: '2006-11-14T00:00:00'
 ---
 
+Charles Krauthammer, winner of the Pulitzer Prize for distinguished commentary and writer of a nationally syndicated column for *The Washington Post*, traces the path of the United States from its rise as a world power following the fall of the Berlin Wall in 1989 to its current entanglement in the Middle East. He argues that the apparent failure of democracy in Iraq is not the fault of U.S. policy but the result of the unique history and culture of Iraq.
+Video and audio options are available.

@@ -2,11 +2,19 @@
 title: 'International Aid: How and When the U.S. Helps'
 date: '2011-03-18T14:53:29'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24581
 url: /nhec-blog/24581
+date_published: '2011-03-18T00:00:00'
+image_fid: '7259'
+splash_image_fid: '7258'
+summary: With the Mar. 11 earthquake in Japan, your students may be asking about international
+  aid. Here are some places to start learning about when and why the U.S. helps.
+splash_image: /files/splash-blog-intaid.jpg
+image: /files/image-blog-intaid.jpg
 ---
+
 
 When the 13 colonies first rebelled against England, they called on the help of established nations—including France and Spain—to succeed. After the Revolutionary War, the newborn United States gradually began to take part in world affairs itself, making payments and treaties, waging war, and withholding or offering aid. Today, the U.S. maneuvers its way through a constant web of decisions. Who does it choose to help and how? What kind of aid should it offer? Military? Economic? Social? When and why does it withhold aid? How have the choices it makes today grown out of those made in the past?
 

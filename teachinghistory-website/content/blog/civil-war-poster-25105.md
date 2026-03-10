@@ -2,11 +2,17 @@
 title: Civil War Poster!
 date: '2011-08-26T10:36:13'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25105
 url: /nhec-blog/25105
+date_published: '2011-09-06T00:00:00'
+splash_image_fid: '7972'
+summary: What can a quilt, a map, some photographs, a haversack, and a receipt tell
+  you about the past?
+splash_image: /files/cw-poster-large.jpg
 ---
+
 
 ***Note: Thank you for your interest in our posters. We no longer have the Civil War poster in stock, but you may [print](http://www.teachinghistory.org/outreach/print-materials) a copy or visit the [interactive online version.](http://teachinghistory.org/civil-war)***
 What can a quilt, a map, some photographs, a haversack, and a receipt tell you about the past? Thanks to Teachinghistory.org’s new **FREE** poster, “How Do You Piece Together the History of the Civil War?,” these objects can teach a lot about the Civil War and about how historians piece together the past.

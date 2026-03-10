@@ -2,13 +2,18 @@
 title: How Much Have Federal Census Takers Made Through the Years?
 date: '2009-08-25T12:57:26'
 lastmod: '2017-12-01T14:53:33'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 22517
 question: I am researching the history of the Census Bureau and am interested in the
   wages of census field enumerators through the years. Where is this information?
 url: /history-content/ask-a-historian/22517
+splash_image_fid: '4851'
+thumbnail_fid: '330'
+summary: Accounting for the counters.
+splash_image: /files/Harp-Week-11.19.1870-p.749-new.jpg
 ---
+
 
 The National Archives and Records Administration (NARA) makes available the census records from the decennial censuses (the latest to be opened for public inspection is the 1930 census). But administrative records of the Census Bureau are also kept at NARA. Generally, these are in Record Group 29. NARA's website contains a description of the items, including, for example, item 134, "Record of Enumerators, 1900," which is in 37 volumes. These volumes give the name and address of each enumerator (commonly called a "census taker") and agent, his or her daily rate of pay, and the number of his or her enumeration district and his or her supervisor's district.
 In the 19th century, compensation rates for enumerators generally were set by the laws that authorized each specific census. Carroll D. Wright and William C. Hunt reprinted these laws in *The History and Growth of the United States Census*, published in 1900. This volume includes the pay rates for enumerators--and other staff--for each census from 1790 through 1890.
@@ -31,3 +36,10 @@ Census enumerators have often been motivated by other considerations than the me
 
 He then "appealed to the men's friendship, to their love of adventure, and to their love of country," and finally convinced 14 men to undertake the arduous task, which required traveling long stretches by dogsled and canoe and some wild encounters with some very wild men. The government paid them--in addition to their wages--50 cents a day per dog in their teams in order to feed them, and each enumerator also took along an Indian interpreter, who was paid $5 a day by the government.
 The historian must also note that census-takers have sometimes been accused of being caught up in the "enthusiasm" of politics and the desire to maximize the local count, resulting in rumors of under-the-table remuneration. As an example, the U.S. marshal overseeing the 1870 census in the upper midwest lived in St. Louis, whose citizens, apparently, thought of the census as an opportunity for St. Louis to compete with Chicago. The census results showed a larger population in St. Louis than in Chicago, by a small amount, and the "citizens of St. Louis in grateful appreciation of the figures gave the marshal a banquet and presented him with a service of silver, as a reward for his victory over Chicago." The citizens of Chicago, however, were not at all amused.
+
+---
+
+The website of the [U.S. Census Bureau](http://www.census.gov/prod/www/abs/ma.html) provides, among other things, the questionnaires and instructions for the censuses from 1790 through 2000.
+The Census Bureau has also devoted part of its website to the [history of the census](http://www.census.gov/history/www/through_the_decades/).
+The enumerator instructions from the Government Printing Office for each census from 1850 through 1950 are also available online from the Minnesota Population Center's [IPUMS-USA website](http://usa.ipums.org/usa/voliii/tEnumInstr.shtml) (Integrated Public Use Microdata Series).
+Census questions and enumeration forms from 1850 through 2000 are also available from [IPUMS-USA](http://usa.ipums.org/usa/voliii/tEnumForm.shtml).

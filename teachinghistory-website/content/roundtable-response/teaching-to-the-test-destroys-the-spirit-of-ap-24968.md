@@ -2,10 +2,20 @@
 title: Teaching to the Test Destroys the Spirit of AP
 date: '2011-06-17T09:07:12'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24968
+author_bio: Michael Rosenzweig is an AP U.S. History teacher at Highland Park High
+  School in Highland Park, IL. He has taught AP U.S. and European History, Urban History,
+  Political Science, and American Studies for 25 years. He has a BA from Pitzer College
+  and received his MA in History from the University of Chicago.
+author_image_fid: '7612'
+summary: If we want to tell the stories, give the students time to mull over their
+  meaning and provide them with the supportive atmosphere to express their views orally
+  and in writing, then the perennial "paper chase" toward test prep has got to stop.
+author_image: /files/author_image/michaelrosenzweig75x75.jpg
 ---
+
 
 Assess the validity of the following statement:
 "AP enhances the teaching of history at the high school level."

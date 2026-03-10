@@ -2,13 +2,27 @@
 title: Web Resources for Controversial Issues
 date: '2011-01-28T10:57:27'
 lastmod: '2017-10-06T15:21:32'
-type: ask_an_educator
+content_type: ask_an_educator
 draft: false
 drupal_nid: 24471
 question: Are there good websites that deal with current events and issues such as
   debates and give solid foundations of what the problem is?
 url: /teaching-materials/ask-a-master-teacher/24471
+author_bio: Ben Bohmfalk is a social studies teacher at Roaring Fork High School in
+  Carbondale, CO. Ben has developed curriculum and led professional development sessions
+  for the Center for Civic Education, Constitutional Rights Foundation, C-SPAN, and
+  USAID. His recent focus has been on new media as a tool to engage students in active
+  citizenship.
+image_fid: '7064'
+splash_image_fid: '7065'
+author_image_fid: '7074'
+summary: Want to know both sides of an issue? Check out these debate websites!
+splash_image: /files/issuessplash.jpg
+image: /files/issuesimage.jpg
+author_image: /files/author_image/AUTHOR.jpg
 ---
+
+
 
 In a word: Yes!
 The difficulty lies in finding the *best* of the many websites attempting to do just that.
@@ -61,3 +75,12 @@ For **current public policy issues**, like health care reform and immigration po
 > * Background information is minimal for many issues
 
 For **very recent events that have not yet been clearly defined as a policy or constitutional issue**, like the January 8, 2011 shootings in Tucson, AZ, the best site is [PBS NewsHour Extra](http://www.pbs.org/newshour/extra/). This site includes background readings, video clips from PBS NewsHour, lesson plans, and daily updates.
+
+---
+
+## Other sites for teaching about current controversial issues:
+
+[Teaching With the News](http://choices.edu/resources/current.php): Created by the CHOICES program at Brown University. Frequently updated with free lesson plans, video clips, and multiple perspectives on current global issues and foreign policy controversies.
+[TeachableMoment.org](http://www.teachablemoment.org/index.html): Created by the Morningstar Center for Teaching Social Responsibility. Updated with a new topic from the news each week. Less balanced than the three sites above, it relies primarily on the *New York Times* for content.
+[Today’s Best Political Cartoons](http://www.cagle.com/politicalcartoons/): Updated daily, archived by topic, and searchable. Political cartoons are an engaging tool for students to probe current issues and controversies.
+[DoSomething.org](http://www.dosomething.org/whatsyourthing): Focused on inspiring young people to volunteer to take action to solve problems in their communities. Good background on many problems, but with a focus on volunteerism more than policy discussion.

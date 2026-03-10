@@ -2,7 +2,7 @@
 title: Freedom and the National Debt
 date: '2009-11-18T12:35:10'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23559
 question: It can be difficult to teach the important events of the Jacksonian Era,
@@ -10,7 +10,14 @@ question: It can be difficult to teach the important events of the Jacksonian Er
   Andrew Jackson's ability to lower/pay off national debt as well as other economic
   events at that time.
 url: /history-content/ask-a-historian/23559
+splash_image_fid: '4838'
+thumbnail_fid: '369'
+summary: Old Hickory's hard currency—what are useful focal points in Jacksonian-era
+  economic history?
+splash_image: /files/shinplaster-new.jpg
+thumbnail: /files/quiz_thumbnail/vote.jpg
 ---
+
 
 All of the major economic events of the Jacksonian Era can be linked to Andrew Jackson's determination to pay off the national debt. Not only did he enforce the steady shrinking of the debt by paying it off and being strictly frugal with federal funds, but he also established policies to ensure that the government would not incur new debt. As a result, the U.S. actually did become debt free, for the first and only time, at the beginning of 1835 and stayed that way until 1837. It remains the only time that a major country was without debt.
 
@@ -55,3 +62,10 @@ To try to restrain the growth of this balloon, Jackson issued an executive order
 > The requirement to use gold to buy federal lands suddenly deflated the speculative balloon
 
 The requirement to use gold to buy federal lands suddenly deflated the speculative balloon, resulting in the Panic of 1837, just as Jackson was leaving office. The sudden contraction of credit that was a consequence of Jackson's "tight money" policies continued under his successor, Martin Van Buren, even though the panic made it necessary for the government to begin borrowing money again, and since that time, the United States has never again been without a national debt.
+
+---
+
+["Andrew Jackson: American President, an Online Reference Resource"](http://millercenter.org/academic/americanpresident/jackson) (Miller Center of Public Affairs, University of Virginia).
+["Nullification Proclamation: Primary Documents in American History"](http://www.loc.gov/rr/program/bib/ourdocs/Nullification.html) (Library of Congress).
+["Gold Standard,"](http://www.econlib.org/library/Enc/GoldStandard.html) Michael D. Bordo, in *The Concise Encyclopedia of Economics*.
+["Sunk in Lucre's Sordid Charms: South Sea Bubble Resources in the Kress Collection at Baker Library"](http://www.library.hbs.edu/hc/ssb/index.html) (Harvard Business School).

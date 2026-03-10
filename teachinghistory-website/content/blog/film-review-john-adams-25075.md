@@ -2,11 +2,28 @@
 title: 'Film Review: John Adams'
 date: '2011-08-15T15:49:43'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25075
 url: /nhec-blog/25075
+author_bio: James Kloppenberg is Charles Warren Professor of American History and
+  Chair of the Department of History at Harvard University. He was educated at Dartmouth
+  (AB, 1973) and Stanford (MA, 1976; PhD, 1980), and has been awarded the Levinson
+  Memorial Teaching Prize by the Harvard Undergraduate Council. He teaches courses
+  on European and American thought, culture, and politics from the ancient world to
+  the present.
+date_published: '2011-10-14T00:00:00'
+image_fid: '8296'
+splash_image_fid: '8297'
+author_image_fid: '8295'
+summary: Does *John Adams* depart too far from history to be useful in the classroom?
+  Historian James Kloppenberg reviews the film.
+splash_image: /files/johnadamssplash.jpg
+image: /files/johnadamsimage.jpg
+author_image: /files/author_image/author_photo_kloppenberg.jpg
 ---
+
+
 
 "Facts are stubborn things." So said John Adams in his defense of the soldiers accused in the Boston massacre. Those words also serve as the title of the first episode of HBO's acclaimed film *John Adams*. Unfortunately, viewers familiar with Adams will find themselves immediately thrown off balance by dramatic renderings of "facts" that never happened. The film opens with Adams, awakened by an alarm, rushing through the streets of Boston. He finds bloody bodies strewn across a snow-covered square and a mob screaming that those responsible must be brought to justice. Offered a chance to enhance his reputation by defending the accused soldiers, Adams wrestles with the warning of his rabble-rousing cousin Samuel Adams that he must now choose sides in the emerging struggle. Adams defies his cousin and accepts the case. Unintimidated by a jeering gallery, he wins the soldiers' acquittal with an eloquent plea for justice: "Law is deaf as an adder to the cries of the populace." Success presents a new dilemma. Tempted by a royal official who dangles a lucrative place in the colonial legal system and enticed by the Sons of Liberty to run for office in Massachusetts, Adams renounces both options. "My family," he proclaims, "must take precedence." It is great theater. The virtuous and victorious citizen/farmer/lawyer returns home to his wife Abigail and their children.
 Sadly, few of those details follow the record. Adams did not stumble upon the dead after the massacre or hear the crowd demand vengeance. He did not agonize about accepting the case, because he agreed immediately with the judicious Samuel Adams and other prominent dissidents that a spirited defense of the soldiers could only help those protesting British policy. Adams defended the soldiers by peppering high-minded reminders of the law's majesty with less elevated characterizations of the mob—including the part played by Indian/African American Crispus Attucks. Two of the soldiers were actually convicted of manslaughter in two separate trials. Finally, long before the massacre a British Satan had tried and failed to bribe Adams, who had already established himself—and been chosen for public office—as one of the most tenacious, effective, and visible of the colonists challenging Parliament's authority. Facts are indeed stubborn things.

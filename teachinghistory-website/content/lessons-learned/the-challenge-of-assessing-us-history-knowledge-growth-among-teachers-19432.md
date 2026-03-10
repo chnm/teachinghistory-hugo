@@ -2,10 +2,23 @@
 title: The Challenge of Assessing U.S. History Knowledge Growth Among Teachers
 date: '2008-06-27T10:37:18'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 19432
+author_bio: Bruce VanSledright is Professor in the Department of Curriculum and Instruction
+  at the University of Maryland, College Park. He is the head of the History/Social
+  Studies Education Program there. He has been studying and writing about the development
+  of historical thinking and its role in deepening historical understandings in K–12
+  students and teachers for almost 20 years.
+splash_image_fid: '4782'
+author_image_fid: '4148'
+summary: What constitutes the success of a Teaching American History (TAH) program,
+  and what are the evaluation criteria for that success?
+splash_image: /files/Challenge_of_Assessing_American_History_Knowledge_-_432x240.jpg
+author_image: /files/author_image/vansled_0.jpg
 ---
+
+
 
 What should Teaching American History (TAH) evaluation programs evaluate? Of course, the most obvious answer would be that they should evaluate the success of the programs. But what constitutes success? This is a much more challenging question.
 Our team of researchers at the University of Maryland has been conducting evaluations of TAH programs since first-round grants were vetted. This fall we begin evaluating the fifth of these programs here in Maryland. As we began our evaluation work, we conceptualized the question of measuring success around trying to understand knowledge growth among the history teachers who participated in these programs. After all, it seemed to us, that's what these programs were fundamentally designed to do—enhance the knowledge of participants in order to better prepare them to teach history. Here again, we encountered tough questions: What does it mean to enhance teachers' historical knowledge? What do we mean when we say knowledge? And how do you measure gains?

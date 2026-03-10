@@ -2,11 +2,19 @@
 title: Conference-going for the Educational Professional
 date: '2011-01-27T14:53:20'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24469
 url: /nhec-blog/24469
+date_published: '2011-02-04T00:00:00'
+image_fid: '7073'
+splash_image_fid: '7072'
+summary: Considered attending a conference for professional development? Here are
+  some suggestions on where to look and what to look for!
+splash_image: /files/splash-blog-conferences11.jpg
+image: /files/image-blog-conferences11.jpg
 ---
+
 
 Networking, power lunches, panels, name badges, exchanging information on the newest developments in the field and listening to the biggest names describe their paths to success—that's the business of business, isn't it? Not necessarily!
 The word "conference" may bring up images of smoothly exchanged business cards and sales professionals competing to make the best impression, but conferences aren't just a boardroom cliché. Every field has organizations that bring members (and interested outsiders) together to socialize, discuss the state of their work, and exchange ideas—from science to business to the arts to, of course, education!

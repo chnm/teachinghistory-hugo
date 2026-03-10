@@ -2,10 +2,15 @@
 title: History Education News - Volume Five
 date: '2011-04-15T13:15:27'
 lastmod: '2018-08-01T16:13:23'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24629
+splash_image_fid: '7474'
+summary: Maps are an exciting resource for teaching history. In this issue, we feature
+  map collections & tools for using these materials with your students.
+splash_image: /files/5-01.jpeg
 ---
+
 
 History Education News
 History Content 3

@@ -2,15 +2,22 @@
 title: Resources for Presidents Day
 date: '2012-01-31T16:29:40'
 lastmod: '2017-12-01T15:52:16'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25419
 url: /nhec-blog/25419
+date_published: '2012-02-10T00:00:00'
+image_fid: '8811'
+splash_image_fid: '8810'
+summary: February 20 marks Presidents Day, 2012. What does this holiday mean to you?
+splash_image: /files/splash-blog-pd12.jpg
+image: /files/image-blog-pd12.jpg
 ---
+
 
 February 20 marks Presidents Day, 2012. An evolving holiday, it originally celebrated George Washington's birthday. Today, the holiday is also associated with Abraham Lincoln's birthday and with the office of president in general.
 How do you think of this holiday? What does it mean to your students?
-[![](http://teachinghistory.org/files/spotlight-image-pd12.jpg)](http://teachinghistory.org/spotlight/presidents-day)
+[![](/files/spotlight-image-pd12.jpg)](http://teachinghistory.org/spotlight/presidents-day)
 Regardless of which presidents you associate with the holiday or how you teach the presidency, you'll find resources to support you on our [Presidents Day spotlight](http://teachinghistory.org/spotlight/presidents-day) page. From lesson plan reviews to quizzes to teaching strategies, you'll find materials here to spark new ideas and deepen units and lessons you already teach.
 There are plenty of resources available outside of Teachinghistory.org, too. Where else can you explore? Here are some ideas:
 

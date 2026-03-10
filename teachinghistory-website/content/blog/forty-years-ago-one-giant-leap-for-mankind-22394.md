@@ -2,11 +2,16 @@
 title: 'Forty Years Ago: One Giant Leap for Mankind'
 date: '2009-07-14T10:58:02'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22394
 url: /nhec-blog/22394
+date_published: '2009-07-14T00:00:00'
+image_fid: '1199'
+summary: It's been 40 years since man first landed on the moon.
+image: /files/moon.jpg
 ---
+
 
 On July 20, 1969, Apollo 11 astronauts became the first men to land on the moon, and Neil Armstrong, the first man to step off the lunar module to broadcast to the world, "That's one small step for man; one giant leap for mankind."
 Families crowded around television sets, mesmerized by the event and the immediacy of the news coverage. "We were really very privileged," Neil Armstrong later stated, "to live in that thin slice of history where we changed how man looks at himself and what he might become and where he might go."

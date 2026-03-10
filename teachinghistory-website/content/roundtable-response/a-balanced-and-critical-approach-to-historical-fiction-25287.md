@@ -2,10 +2,22 @@
 title: A Balanced and Critical Approach to Historical Fiction
 date: '2011-11-01T13:07:54'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25287
+author_bio: 'Keith Barton is Professor of Curriculum and Instruction and Adjunct Professor
+  of History at Indiana University, where he specializes in teaching and learning
+  history and social studies. He is co-author, with Linda Levstik, of *Doing History:
+  Investigating with Children in Elementary and Middle Schools* and *Teaching History
+  for the Common Good*.'
+author_image_fid: '8504'
+summary: Historical fiction has a number of important advantages for engaging young
+  people in the study of the past, but it also has some significant drawbacks. Teachers
+  need to be aware of these potential problems so that they can help students bring
+  a more critical and balanced perspective to their study of history.
+author_image: /files/author_image/author_barton.jpg
 ---
+
 
 Students usually enjoy reading historical fiction, certainly more than they enjoy reading textbooks. This is partly because they are exposed to stories from their earliest encounters with picture books and cartoons. As a result, when students read historical fiction they are already expecting characters, a setting, and a problem to be resolved. They can be especially captivated by stories that give them the chance to imagine taking part in the events of the past, or to explore how people responded to dramatic circumstances such as those involving fear, discrimination, or tragedy.
 > Precisely because historical stories can be so powerful, students are not usually critical of them.

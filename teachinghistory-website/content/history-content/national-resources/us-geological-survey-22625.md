@@ -2,11 +2,18 @@
 title: U.S. Geological Survey
 date: '2009-09-03T12:25:22'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22625
 url: /history-content/national-resources/22625
+website_url: http://www.usgs.gov/
+splash_image_fid: '5124'
+thumbnail_fid: '2170'
+summary: How has land use altered over time, and what did the explorers encounter?
+splash_image: /files/USGeological432x240.jpg
+thumbnail: /files/website_image/AfAmHistChallenge_Image.jpg
 ---
+
 
 The U.S. Geological Survey exists as a federal organization created to study the nation's flora, fauna, biology, geography, bodies of water, geology, and geospatial information.
 The USGS provides access to their entire [photographic collection](http://libraryphoto.cr.usgs.gov/), which is sub-divided into portraiture, photographers, "pioneer photographers," and images of earthquakes; mines, mills, and quarries; national parks; and Mt. St. Helens.

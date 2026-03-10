@@ -2,11 +2,28 @@
 title: Elizabeth Schaefer on Facebook in the Classroom
 date: '2011-06-02T16:26:51'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24715
 url: /nhec-blog/24715
+author_bio: Elizabeth Schaefer teaches 8th-grade U.S. history at Paul Public Charter
+  School in Washington, DC. After graduating from Lafayette College with degrees in
+  Psychology and American Studies, Elizabeth worked with an after-school program in
+  New York City public schools. Getting to know the youth in the Urban Dove program
+  motivated her to return to school for her MA in Teaching from American University.
+date_published: '2011-06-13T00:00:00'
+image_fid: '7545'
+splash_image_fid: '7544'
+author_image_fid: '7543'
+summary: 8th-grade teacher Elizabeth Schaefer tackles the challenge of using Facebook
+  with her students. What can Facebook do for teachers, and how can you make using
+  it safe, easy, and fun?
+splash_image: /files/splash-blog-facebook.jpg
+image: /files/image-blog-facebook.jpg
+author_image: /files/author_image/Author_Photo_Elizabeth_Schaefer_75x75_0_1.jpg
 ---
+
+
 
 Many teenagers spend much of their free time in a virtual world, and the school world can be peripheral to the connections they make through TV or a computer screen. As our society becomes more and more driven by social media, Facebook opens a door to meet students where they are and to create informal educational connections outside of the classroom.
 Why did we become history teachers? For me it was because I love exploring this country and its past. I take great joy in visiting museums and historic sites to learn about hidden pieces of our past. I spend time every year experiencing different states and growing my understanding of how geography and regional culture shaped past events and affect politics today.

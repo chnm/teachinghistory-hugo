@@ -2,11 +2,17 @@
 title: Bringing Primary Sources into the Classroom
 date: '2010-03-17T15:45:54'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23898
 url: /nhec-blog/23898
+date_published: '2010-02-17T00:00:00'
+image_fid: '4219'
+summary: 'H.S.I: Historical Themes Investigation guides students and teachers through
+  document analysis.'
+image: /files/CaseFileDrawer_0.jpg
 ---
+
 
 It's one thing to introduce primary sources in the K-12 history classroom; sometimes it's quite another to engage students in exploring them. [H.S.I: Historical Scene Investigation](http://web.wm.edu/hsi/?svr=www), a joint project of the [College of William and Mary School of Education](http://education.wm.edu/), the [University of Kentucky School of Education](http://education.uky.edu/), and the [Library of Congress Teaching with Primary Sources Program](http://www.loc.gov/teachers/tps/) helps you involve your students as historical detectives.
 H.S.I offers fourteen *open cases* (not all of which are complete), collections of primary sources organized around themes such as [Constitution Controversies](http://www.loc.gov/teachers/tps/), the [Boston Massacre](http://web.wm.edu/hsi/cases/boston/boston_preview.html), and [School Desegregation](http://web.wm.edu/hsi/cases/segregation/segregation_preview.html).

@@ -2,8 +2,9 @@
 title: Charters of Freedom
 date: '2011-06-15T14:25:16'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24908
 ---
 
+Missouri certification requirements include minimal study of American history, so many teachers in these St. Louis-area districts lack deep content knowledge in the subject area. Teachers will engage in a variety of lectures, workshops and site visits to historic places. These will range in length from a few hours to five days, and many will include both content and pedagogical instruction; follow-up activities, often online, will range from research to video conferences to using Moodle. With support from the lead historian and the instructional coach, teachers will work in vertical articulation teams to determine how each *Charters of Freedom* document will fit into the curriculum and to determine the depth of knowledge to which each will be taught and assessed. After establishing an understanding of the documents, teachers will work in grade-level teams to apply learning about the documents to pivotal periods in American history. Participants will explore the events that sparked and surrounded the creation of our country's charters of freedom. Through intensive content knowledge training, teachers will understand how the documents both influenced, and were influenced by, American presidents during pivotal periods in American history. The project will introduce and implement the research-based instructional strategies identified by Advanced Placement and the Foundation for Critical Thinking, and participants will use the lesson study process to perfect the application of those strategies to American history teaching. The project will develop a Web site of resources that can be used by teachers and students, and it will establish vertical teams and school-based content experts who can sustain the project.

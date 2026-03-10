@@ -2,11 +2,17 @@
 title: 'Summer Reading: Clearinghouse Staff Recommendations, Part II'
 date: '2009-07-22T06:54:55'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22408
 url: /nhec-blog/22408
+date_published: '2009-07-22T00:00:00'
+image_fid: '1237'
+summary: A graphic novel, maritime history, film, and a political thriller top the
+  list!
+image: /files/watchmen.jpg
 ---
+
 
 Earlier this summer, Clearinghouse staff members [shared some ideas for summer reading](http://teachinghistory.org/nhec-blog/22337). In this installment, other staff members highlight their choices—a graphic novel, a maritime log book, film, and a political thriller.
 > When is a comic book not a comic book, but a novel?

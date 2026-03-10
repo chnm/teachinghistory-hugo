@@ -2,12 +2,20 @@
 title: National Museum of the American Indian
 date: '2009-11-23T15:18:23'
 lastmod: '2018-09-25T15:39:59'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23584
 url: /history-content/national-resources/23584
 featured: true
+website_url: https://americanindian.si.edu/
+splash_image_fid: '5039'
+thumbnail_fid: '2239'
+summary: Make sure that your students know not all Native Americans lived in tipis
+  or hunted buffalo.
+splash_image: /files/NMAI432x240.jpg
+thumbnail: /files/quiz/image-fdr-constitution.jpg
 ---
+
 
 According to the National Museum of the American Indian's website, the museum strives to advance, "knowledge and understanding of the Native cultures of the Western Hemisphere, past, present, and future, through partnership with Native people and others. The museum works to support the continuance of culture, traditional values, and transitions in contemporary Native life."
 There are two sections of the NMAI website which are optimal for educational use. First, is the museum's collection of print resources, designed with educators in mind. These include study guides, posters for your classroom, museum guides, and lesson plans. The other must-see section consists of the museum's more than 30 online exhibits, ranging from horses in Native American culture to how native traditions fared after European contact.

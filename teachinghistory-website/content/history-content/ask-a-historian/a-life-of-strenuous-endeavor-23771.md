@@ -2,7 +2,7 @@
 title: A Life of Strenuous Endeavor
 date: '2010-01-18T14:24:29'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23771
 question: A while back, there was a *Dirty Jobs* episode all about safety. In the
@@ -11,7 +11,13 @@ question: A while back, there was a *Dirty Jobs* episode all about safety. In th
   there were three kinds of absolute safety in particular. Do you know where I can
   get a copy of this letter or what he said specifically?
 url: /history-content/ask-a-historian/23771
+splash_image_fid: '4830'
+thumbnail_fid: '378'
+summary: 'T Roosevelt: "Let us pay with our bodies for our souls'' desire."'
+thumbnail: /files/website_image/StarsandStripes.jpg
+splash_image: /files/tr-at-oyster-bay-1912-new.jpg
 ---
+
 
 I often watch *Dirty Jobs*. The episode on fishing for slime eels off the coast of Maine has to have been some of the most weirdly compelling television ever. Unfortunately, I did not see the episode about safety, "Safety Third," episode 05x18, which was first aired November 24, 2009.
 
@@ -49,3 +55,9 @@ After Roosevelt left office and war broke out in Europe, he became heartsick at 
 
 He used his considerable influence to place his sons (with their eager permission) at the very front of the fighting when American forces were sent. He had already written the justification back in 1905, in an address he entitled "The Strenuous Life":
 > If we stand idly by, if we seek merely swollen, slothful ease and ignoble peace, if we shrink from the hard contests where men must win at the hazard of their lives and at the risk of all they hold dear, then the bolder and stronger peoples will pass us by, and will win for themselves the domination of the world.
+
+---
+
+Edmund Morris. *Theodore Rex.* New York: Random House, 2001.
+Kathleen M. Dalton. *Theodore Roosevelt: A Strenuous Life.* New York: Alfred A. Knopf, 2002.
+Sarah Lyons Watts. *Rough Rider in the White House: Theodore Roosevelt and the Politics of Desire.* Chicago: University of Chicago Press, 2003.

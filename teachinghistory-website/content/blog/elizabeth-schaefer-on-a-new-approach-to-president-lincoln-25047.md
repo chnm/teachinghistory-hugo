@@ -2,11 +2,27 @@
 title: Elizabeth Schaefer on a New Approach to President Lincoln
 date: '2011-07-19T15:24:02'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25047
 url: /nhec-blog/25047
+author_bio: Elizabeth Schaefer teaches 8th-grade U.S. history at Paul Public Charter
+  School in Washington, DC. After graduating from Lafayette College with degrees in
+  Psychology and American Studies, Elizabeth worked with an after-school program in
+  New York City public schools. Getting to know the youth in the Urban Dove program
+  motivated her to return to school for her MA in Teaching from American University.
+date_published: '2011-07-25T00:00:00'
+image_fid: '7819'
+splash_image_fid: '7818'
+author_image_fid: '7817'
+summary: Summer is the time for professional development! Eighth-grade teacher Elizabeth
+  Schaefer reports on her professional development experiences at DC's Lincoln's Cottage.
+splash_image: /files/splash-blog-lslc.jpg
+image: /files/image-blog-lslc.jpg
+author_image: /files/author_image/author_photo_elizabeth_schaefer_75x75_0.jpg
 ---
+
+
 
 *Summer is often a time for professional development. Have you had a chance to learn new content and strategies and visit new places? Or revisit familiar content and places? Here's some of what our teacher-writer Elizabeth Schaefer took away from a summer professional development experience in Washington, DC.*
 

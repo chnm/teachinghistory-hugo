@@ -2,11 +2,22 @@
 title: Huey Long
 date: '2010-04-02T15:47:34'
 lastmod: '2018-09-11T13:02:08'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 23919
 url: /history-content/beyond-the-textbook/23919
+author_bio: Michael O'Malley received his PhD from the University of California, Berkeley
+  in 1988. He taught at New York University and Vassar College and now teaches at
+  George Mason University where he is Associate Professor of History and Associate
+  Director of the Center for History and New Media.
+image_fid: '5474
+
+
+  5474'
+author_image_fid: '4447'
+author_image: /files/author_image/author_omalley.jpg
 ---
+
 
 Bill Gates is currently worth roughly six billion dollars. Suppose I were to confiscate four billion of those dollars, ![dollar.jpg](/sites/default/files/dollar.jpg  "dollar.jpg")leaving him two billion on which he could live quite nicely indeed. I would then take the four billion, and use it to guarantee every single American a free college education. How would you react to such a plan?
 

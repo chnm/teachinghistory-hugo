@@ -2,8 +2,11 @@
 title: Aycock Birthplace [NC]
 date: '2008-01-08T13:37:50'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 11650
+website_url: http://www.nchistoricsites.org/aycock/AYCOCK.HTM
 ---
 
+Charles B. Aycock was born into a simple, rural home in 1859. In 1900 he was elected governor of North Carolina and dedicated his life to improving public education in the state. An 1893 one-room schoolhouse, moved to the site of his birthplace, underscores Aycock's commitment to education. This typical 19th-century family farm includes the main house, separate open-hearth kitchen, corn crib, and smokehouses.
+The site offers a short film, exhibits, tours, demonstrations, educational programs, and occasional recreational and educational events (including living history events).

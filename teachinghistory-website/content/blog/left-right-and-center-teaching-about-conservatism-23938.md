@@ -2,10 +2,13 @@
 title: 'Left, Right, and Center: Teaching about Conservatism'
 date: '2010-04-09T00:49:39'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23938
 url: /nhec-blog/23938
+date_published: '2010-04-20T00:00:00'
+summary: Making American conservatism a part of how we teach twentieth-century United
+  States history.
 ---
 
 Conservatism was "something of an orphan in historical scholarship," according to historian Alan Brinkley, writing in 1994.

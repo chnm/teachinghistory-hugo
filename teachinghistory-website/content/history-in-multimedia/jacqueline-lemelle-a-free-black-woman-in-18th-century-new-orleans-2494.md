@@ -2,8 +2,15 @@
 title: 'Jacqueline Lemelle: A Free Black Woman in 18th-century New Orleans'
 date: '2008-01-04T14:04:06'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 2494
+duration: 01:18:56
+keywords: biographies, New Orleans, race, racism, race relations, slaves, cities,
+  mulattoes
+website_url: http://www.teachingamericanhistory.us/audio/popup_spear.html
+date_published: '2005-06-29T00:00:00'
+series_name: Lectures (Biography), 2004-2005
 ---
 
+Professor Jennifer Spear reviews the life of free black woman Jacqueline Lemelle in 18th-century New Orleans. Spear uses Lemelle's life as a frame to discuss 18th-century race relations and 18th-century New Orleans.

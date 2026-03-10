@@ -2,11 +2,26 @@
 title: 'Film Review: Gods and Generals'
 date: '2011-08-15T16:07:03'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25077
 url: /nhec-blog/25077
+author_bio: 'Steven E. Woodworth is the author of numerous books on the Civil War
+  including *This Great Struggle: America''s Civil War* and *While God Is Marching
+  On: The Religious World of Civil War Soldiers*. He is professor of history at Texas
+  Christian University.'
+date_published: '2011-08-17T00:00:00'
+image_fid: '7942'
+splash_image_fid: '7941'
+author_image_fid: '7940'
+summary: What view of the Civil War does *Gods and Generals* present? Historian Steven
+  E. Woodworth critiques the film.
+splash_image: /files/splash-blog-jahgag.jpg
+image: /files/image-blog-jahgag.jpg
+author_image: /files/author_image/author-woodworth.jpg
 ---
+
+
 
 *This is the fourth in a series of film reviews reprinted from the* [Journal of American History](http://www.journalofamericanhistory.org/). *These reviews model ways of looking critically at popular films, documentaries, miniseries, and other history-based features.*
 Long awaited by both historians and buffs, the film *Gods and Generals* is a prequel to the 1993 film *Gettysburg*. As *Gettysburg* was based on the historical novel *The Killer Angels* (1974) by Michael Shaara, so *Gods and Generals* is based on the 1998 historical novel of that title written by Shaara's son Jeff. The new film's purpose is to sketch highlights of the Civil War in the eastern theater from Virginia's secession through the death of the Confederate general Thomas J. "Stonewall" Jackson.

@@ -2,7 +2,7 @@
 title: Contradictions in John Fremont's Political Chart of the US (1856)
 date: '2008-07-30T16:33:53'
 lastmod: '2017-12-01T13:36:59'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 19497
 question: 'The question concerns John Frémont''s Political Chart of the United States
@@ -16,7 +16,13 @@ question: 'The question concerns John Frémont''s Political Chart of the United 
   were all these farms in the north? Why were there more farms in the north? Was Mr.
   Frémont referring to small farms?'
 url: /history-content/ask-a-historian/19497
+splash_image_fid: '4955'
+thumbnail_fid: '270'
+summary: The 1850s were a time of rapid industrialization and urbanization in the
+  Northeastern states.
+splash_image: /files/fremont-chart-bust-new.jpg
 ---
+
 
 The period during which Frémont's chart appeared was one of rapid industrialization and urbanization in the Northeastern states. Economic historian Douglass C. North has identified the 1840s and early 1850s as the era in which "the pace of industrialization accelerated to the degree that the Northeast could unequivocally be called a manufacturing region."
 In 1850, urban population in the Northeast accounted for 27 percent of the total population, while the South was only eight percent urban. During the next decade, the South remained predominately rural, with 10 percent of its population living in cities or towns in 1860, while the Northeast continued to urbanize at a swift pace, with an urban population that had grown to 36 percent. Despite the region's growth in industry and urban population, the Northeast retained a large rural population: 73 percent of its total population in 1850 and 64 percent in 1860. Yet, the size of the rural Northeastern population accounts only for part of the answer to the apparent contradiction stated in the question. The seeming paradox can be only resolved if we start by noting the exact language that was used in Frémont's chart.
@@ -43,3 +49,7 @@ The far western states of California and Oregon (admitted to the Union in 1859) 
 
 While the number of farms in the South was less than that of the Northeast and the Midwest combined, the size of farms in slave states was greater on average than those in free states. In 1850, the average-sized farm in the slave states was 318 acres; in the free states, the average size was 128 acres, or 40 percent of the size of an averaged-sized farm in the South. The average size of farms in both free and slave states remained near constant from 1850 to 1860. According to the 1860 census, an average-sized farm in the free states in 1860 was 125 acres, or 3 acres smaller than in 1850, while in the slave states the average acreage had increased from 318 to 319.
 Frémont's Midwestern supporters, who put together the chart, were part of a growing movement of farmers who "broke politically with southern planters in the 1850s," according to agriculture and economics professor Willard W. Cochrane. These farmers, Cochrane has written, "came to resist the extension of slavery and the plantation system out of fear of competition from large plantation units based on slave labor with their small family-sized units." In order to survive during the transition to market-oriented farming, they allied themselves more with economic interests in the Northeast than with planters in the South. "The stage was thus set for the realignment of political power, the founding of the Republican party, and the eventual War between the States," Cochrane concluded.
+
+---
+
+A detailed copy of the chart, from the Chicago Historical Society, is online at the <a href="http://publications.newberry.org/lincoln/>Lincoln at 200 website.

@@ -2,11 +2,16 @@
 title: Bookmark This! History and Headlines
 date: '2009-11-16T15:47:45'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23530
 url: /nhec-blog/23530
+date_published: '2009-11-15T00:00:00'
+image_fid: '3621'
+summary: This online magazine brings the perspective of history to today's events.
+image: /files/3-3-cover.jpg
 ---
+
 
 Looking for historical perspective on [pirates](http://ehistory.osu.edu/osu/origins/article.cfm?articleid=27)? [the fate of Detroit and the automobile industry](http://ehistory.osu.edu/osu/origins/article.cfm?articleid=26)? [the importance of 1989](http://ehistory.osu.edu/osu/origins/article.cfm?articleid=35)?
 Each month [*Origins*](http://ehistory.osu.edu/osu/origins/), an online publication from the Department of History at Ohio State University, analyzes and gives historical context to political, cultural, or social issues in the headlines. Materials include a background essay by an academic expert, images, maps, graphs, and other primary and secondary materials.

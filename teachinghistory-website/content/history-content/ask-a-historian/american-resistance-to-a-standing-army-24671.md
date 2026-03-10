@@ -2,7 +2,7 @@
 title: American Resistance to a Standing Army
 date: '2011-05-03T12:14:13'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24671
 question: 'Quote from Madison: "The means of defence against foreign danger, have
@@ -14,7 +14,12 @@ question: 'Quote from Madison: "The means of defence against foreign danger, hav
   Madison was talking about. Can you give other ancient examples where foreign wars
   are used as a type of diversion?'
 url: /history-content/ask-a-historian/24671
+splash_image_fid: '7445'
+summary: Americans of the 18th century took a much dimmer view of the institution
+  of a professional army than current views of the U.S. military.
+splash_image: /files/madison_splash.jpg
 ---
+
 
 In June of 1787, James Madison addressed the Constitutional Convention in Philadelphia on the dangers of a permanent army. “A standing military force, with an overgrown Executive will not long be safe companions to liberty,” he argued. “The means of defense against foreign danger, have been always the instruments of tyranny at home. Among the Romans it was a standing maxim to excite a war, whenever a revolt was apprehended. Throughout all Europe, the armies kept up under the pretext of defending, have enslaved the people.” That Madison, one of the most vocal proponents of a strong centralized government—an author of the Federalist papers and the architect of the Constitution—could evince such strongly negative feelings against a standing army highlights the substantial differences in thinking about national security in America between the 18th century and the 21st.
 While polls today generally indicate that Americans think of the military in glowing terms (rightly associating terms like “sacrifice,” “honor,” “valor,” and “bravery” with military service), Americans of the 18th century took a much dimmer view of the institution of a professional army. A near-universal assumption of the founding generation was the danger posed by a standing military force. Far from being composed of honorable citizens dutifully serving the interests of the nation, armies were held to be “nurseries of vice,” “dangerous,” and “the grand engine of despotism.” Samuel Adams wrote in 1776, such a professional army was, “always dangerous to the Liberties of the People.” Soldiers were likely to consider themselves separate from the populace, to become more attached to their officers than their government, and to be conditioned to obey commands unthinkingly. The power of a standing army, Adams counseled, “should be watched with a jealous Eye.”
@@ -29,3 +34,10 @@ Colonists’ experiences with British troops, and the convictions that sprang fr
 Madison’s use of the imagery of slavery points to the multiple meanings of that term in the 18th century. In Madison’s statement to the Convention, it referred not to the literal notion of armies marching the citizenry through the streets in shackles but to a kind of metaphorical slavery. The immense costs necessary to raise and maintain a standing army (moneys required for pay, uniforms, rations, weapons, pensions, and so forth) would burden the populace with an immense and crippling tax burden that would require the government to confiscate more and more of the citizenry’s wealth in order to meet those massive expenses. Madison’s language reflected a common concern that the maintenance of a standing army in the new United States would place similar burdens on the young government; their experiences with the British army under Parliament in the 1760s and 1770s likewise led to concerns that the executive would use a standing army to force unpopular legislation on an unwilling public in similar fashion.
 Other members of the founding generation worried that an armed, professional force represented an untenable threat to the liberty of the people generally. Throughout history, the threat of military coup—governments deposed from within by the very forces raised to protect them—has been a frequent concern. In 1783, Continental Army officers encamped at Newburgh circulated documents that leveled a vague threat against Congress if the government continued its refusal to pay the soldiers. Historians generally conclude that a full-blown coup d’etat was never a realistic possibility, but the incident did little to assuage contemporary concerns about the dangers posed by a standing army.
 The experience with professional armies during the 40 years before the Constitutional Convention, and the values that sprang from those experiences, helps explain why the founders never seriously considered maintaining the Continental Army past the end of the War of Independence. The beliefs that grew organically from their experiences with the British also help explain Madison’s passionate anti-military rhetoric (he would later refer to the establishment of a standing army under the new Constitution as a “calamity,” albeit an inevitable one); together, they cast a long shadow over the debates surrounding the kind of military the new nation would provide for itself.
+
+---
+
+Watch Professor Whitman Ridgway analyze the [Bill of Rights](http://teachinghistory.org/best-practices/examples-of-historical-thinking/24424) in an [Example of Historical Thinking](http://teachinghistory.org/best-practices/examples-of-historical-thinking)
+Kohn, Richard H. [*Eagle and Sword: The Federalists and the Creation of the Military Establishment in America, 1783-1802.*](http://books.google.com/books?id=8F_fAAAAMAAJ) New York: Free Press, 1975.
+The Library of Congress. [*The Federalist Papers.*](http://thomas.loc.gov/home/histdox/fedpapers.html) Last accessed 6 May, 2011.
+The National Archives. [*The Constitution.*](http://www.archives.gov/exhibits/charters/constitution.html) Last accessed 6 May, 2011.

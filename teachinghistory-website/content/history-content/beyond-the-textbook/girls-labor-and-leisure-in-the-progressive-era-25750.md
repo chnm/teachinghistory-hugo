@@ -2,11 +2,22 @@
 title: Girls’ Labor and Leisure in the Progressive Era
 date: '2012-10-01T09:30:25'
 lastmod: '2018-07-03T10:12:07'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 25750
 url: /history-content/beyond-the-textbook/25750
+author_bio: 'Miriam Forman-Brunell is a professor of history, women, and gender at
+  the University of Missouri-Kansas City. She is co-director of [*Children and Youth
+  in History*](http://chnm.gmu.edu/cyh/), author of *Babysitter: An American History*,
+  and editor of *The Girls'' History and Culture Readers*, among other works.'
+image_fid: '9522
+
+
+  9522'
+author_image_fid: '9563'
+author_image: /files/author_image/mfb.jpg
 ---
+
 
 ## Missing Stories
 

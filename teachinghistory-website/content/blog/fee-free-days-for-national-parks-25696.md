@@ -2,11 +2,19 @@
 title: Fee Free Days for National Parks
 date: '2012-08-10T15:36:36'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25696
 url: /nhec-blog/25696
+date_published: '2012-09-12T00:00:00'
+image_fid: '9452'
+splash_image_fid: '9451'
+summary: Encourage your students to visit historical sites for free on National Park
+  Service Fee Free Days!
+splash_image: /files/1845432687_41e382b02c_b.png
+image: /files/1845940675_b324915a5f_b.png
 ---
+
 
 No time or money in the budget for field trips? Encourage your students to visit historic sites on their own. High school teacher James A. Percoco has incorporated "[Individual Field Trips](http://teachinghistory.org/teaching-materials/teaching-guides/23480)" (IFT) into his teaching for more than two decades. Each IFT requires students to visit a historic site or exhibit related to what they are learning in the classroom and to record and share their experiences. When students study the American Revolution and George Washington, they visit Mount Vernon. When they study the wars of the 20th century, they visit the war memorials on the National Mall in Washington, DC. These visits help students understand history as a living force, physically present in their communities and constantly being interpreted and reinterpreted.
 > If you have national parks and historic sites near you, take advantage of their Fee Free Days!

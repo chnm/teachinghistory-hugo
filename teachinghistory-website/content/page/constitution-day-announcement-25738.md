@@ -2,7 +2,7 @@
 title: Constitution Day Announcement
 date: '2012-09-07T16:38:21'
 lastmod: '2012-09-10T11:29:06'
-type: page
+content_type: page
 draft: false
 drupal_nid: 25738
 ---

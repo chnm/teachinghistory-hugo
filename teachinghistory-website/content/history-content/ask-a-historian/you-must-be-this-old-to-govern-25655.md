@@ -2,13 +2,24 @@
 title: You Must Be This Old to Govern
 date: '2012-07-06T12:21:15'
 lastmod: '2017-12-05T08:51:59'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 25655
 question: When writing the Constitution, how were the age requirements chosen for
   the specific posts? For example, one had to be 25 to become a representative.
 url: /history-content/ask-a-historian/25655
+author_bio: Thomas Mackey earned his PhD in 1984 at Rice University. He is a Professor
+  of History and an Adjunct Professor of Law at the Louis Brandeis School of Law,
+  University of Louisville.
+splash_image_fid: '9383'
+author_image_fid: '9380'
+summary: 25, 30, 35. We all know these ages are part of the requirements for elected
+  representatives, but where did they come from?
+splash_image: /files/oldsplash.jpg
+author_image: /files/author_image/author_mackey.jpg
 ---
+
+
 
 Although at times the 1787 Constitutional Convention became bogged down in details, the delegates generally debated the “big picture” of crafting a new fundamental document for the United States. Given that bias for the larger topics, it is not surprising the delegates did not discuss at any length the age requirement for serving as a member of the House of Representatives, in the Senate, or as the President. What concerned them was not the age of the individual, but the quality of the representation provided to the people by those individual federal representatives.
 > Randolph and Madison left the specifics of elections and the ages of the members of the legislatures open for the convention to debate.
@@ -20,3 +31,7 @@ Further evidence that the supporters of the proposed 1787 Constitution considere
 
 The Federalist Papers also address requirements for office. In *Federalist* 62, Publius examines the constitutional requirement for becoming a senator. Again, it was not the age of the individual that mattered so much as the length of residency in the country and the individual’s level of maturity. The differing requirements for Senate (vs. House of Representatives), Publius wrote, “is explained by the nature of their senatorial trust; which requiring greater extent of information and stability of character, requires at the same time that the senator should have reached a period of life most likely to supply these advantages.” So too with the proposed presidency; Publius argues in *Federalist* 67-71 that the older age was needed because of the burden, trust, and perspectives needed in an executive.
 Thus, while it would be wrong to say that the members of the Federal Convention assigned the ages haphazardly, it would also be wrong to say that they spent much time debating the virtues of 25, 30, and 35 years old to hold federal elected office. Rather, they followed the patterns already established in the states, and they increased the ages as the importance and burdens of federal office increased.
+
+---
+
+Read an [article](http://www.senate.gov/artandhistory/history/common/briefing/Constitutional_Qualifications_Senators.htm) by the United States Senate on the issue.

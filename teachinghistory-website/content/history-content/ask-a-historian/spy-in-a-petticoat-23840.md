@@ -2,7 +2,7 @@
 title: Spy in a Petticoat
 date: '2010-02-05T15:04:39'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23840
 question: 'The person I am researching is my great X 7 Grandmother: Harriet Prudence
@@ -11,7 +11,13 @@ question: 'The person I am researching is my great X 7 Grandmother: Harriet Prud
   have trouble finding any reliable and therefore quotable sources for this information.
   Would you please help identify anything of value in this area?'
 url: /history-content/ask-a-historian/23840
+splash_image_fid: '4818'
+thumbnail_fid: '400'
+summary: '"She had outwitted the British and oh how they hated her."'
+thumbnail: /files/website_image/FamousTrials
+splash_image: /files/charlestownmap-new.jpg
 ---
+
 
 Prudence Patterson was born in 1743 (either in Wales or in County Antrim, Ireland) and emigrated to America with her parents. In 1763, she married another immigrant, John Hall, in York, South Carolina. They had eight or nine children. Their children's names were James, John, Prudence, Jennet, Margaret, William Henry, Alexander Brown, Josiah, and Major Temple.
 John Hall appears on the U.S. Revolutionary War Rolls as a private in the 2nd South Carolina Regiment. He died in 1784. Prudence appears as the head of family in York in the 1790 Federal Census, residing there with her children and a slave.
@@ -41,3 +47,11 @@ Berkin's brief account in *Revolutionary Mothers* places Prudence Hall's ride to
 Annie Lumpkins' letter, however, does not say when the letter-in-the-petticoat incident occurred. Nor does the letter say that the message that Prudence delivered found its way to an American "General," as do some of the unsourced sites on the web. Perhaps the Hall family history at the Southern Revolutionary War Institute or information held by the Prudence Hall Chapter of the DAR gives more detail.
 At any rate, the British conducted another siege of Charleston, from April through May of 1780, which was successful. Among the more than 5,000 colonial soldiers under Major General Benjamin Lincoln who surrendered to the British on May 12th was the 2nd South Carolina Regiment, which was John Hall's unit. For more on this siege (although there is no mention of John and Prudence Hall), see Carl P. Borick's *A Gallant Defense: The Siege of Charleston, 1780* (Columbia, SC: University of South Carolina Press, 2003) and Walter J. Fraser's *Patriots, Pistols, and Petticoats: "Poor Sinful Charles Town" During the Revolutionary War Era* (Columbia, SD: University of South Carolina Press, 2003).
 The British commander of both sieges of Charleston was Sir Henry Clinton. His collected papers eventually found their way to the Clements Library at the University of Michigan. From Clinton's papers, the library has created a fascinating web exhibit, [Spy Letters of the American Revolution](http://www2.si.umich.edu/spies/). The exhibit has no documentation on Prudence Hall, but it draws on only a very small number of items in the collection.
+
+---
+
+A [cemetery listing](http://www.rootsweb.ancestry.com/~scyork/Cemetery/Bethel.html?) of graves at Bethel Presbyterian Church in Clover, South Carolina, includes the inscriptions on the gravestones for Prudence Hall, who died at 96 years of age, on August 13, 1839, and for John Hall, who died at 47 years of age, in March, 1784.
+Bethel Presbyterian's [webpage](http://www.bethelpresbyterian.org/the_revolutionary_war.html) about its cemetery, including notes on the Revolutionary War soldiers buried there.
+General Charles Lee's letters and dispatches during the 1776 siege of Charleston are collected in [*The Lee Papers, Vol. II, 1776-1778*](http://books.google.com/books?id=T1gOAAAAIAAJ&vq=moultrie&pg=PP9#v=onepage&q=moultrie&f=false). Collections of the New York Historical Society, 1872.
+Map of the [disposition of British forces around Charleston](http://en.wikipedia.org/wiki/File:CharlestownSC1780.jpg) during the 1780 siege.
+Various other [maps of the Charleston area](http://www.sciway.net/hist/maps/mapsrw.html) during the Revolutionary War.

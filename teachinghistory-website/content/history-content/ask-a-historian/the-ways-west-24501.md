@@ -2,14 +2,18 @@
 title: The Ways West
 date: '2011-02-03T16:00:35'
 lastmod: '2018-09-19T13:16:19'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24501
 question: My ancestors migrated in the 1830s from Bradford County, Pennsylvania to
   Carroll County, Illinois. Is it likely that they used the Erie Canal and the Great
   Lakes to get there?
 url: /history-content/ask-a-historian/24501
+splash_image_fid: '7099'
+summary: How emigrants traveled from Pennsylvania to Illinois in 1830.
+splash_image: /files/conestoga-wagon.jpg
 ---
+
 
 From the early 1830's, emigrants from rural northeastern Pennsylvania traveling to northwestern Illinois had two possible routes that were widely used. The most popular of these was to take the Erie Canal.
 
@@ -34,3 +38,7 @@ Another less probable route existed: Depending on how much they intended to brin
 ## Circumstances Determined Choice of Route
 
 Their choice of route may have taken into account what they intended to carry with them, how much they could spend on their travel, as well as the local conditions along the various routes, insofar as they could foresee them. They would also have considered their strength and health, and whether they could endure pushing a stuck wagon over a mountain road or living in a makeshift tent on the upper deck of a steamship. If they were already farmers and planned on bringing livestock, tools, and household goods to the farmland of Illinois, that would have constrained their choices in a way that prospective miners, who also flocked to the region around Galena, did not experience simply because miners were not likely to have brought any of the tools of their livelihood with them when they moved. In planning their trip, they might have picked up a copy of Illinois pioneer and Baptist missionary John Mason Peck’s, *Guide for Emigrants* (1836), which recommended routes for prospective settlers from the East and even lists steamboat, stage, and canal fares. Also useful in planning their trip, if they were leaving in 1837 or later, would have been a copy of Samuel Mitchell’s, *Illinois in 1837*.
+
+---
+
+Gerard Koeppel, *Bond of Union: Building the Erie Canal and the American Empire.* Cambridge, Mass.: Da Capo Press, 2009. William J. Petersen, *Steamboating on the Upper Mississippi.*  New York: Dover, 1995. 1st ed. published in 1937. The New York State Archives’ [Erie Canal Time Machine](http://www.newyorkcanals.org/_pdfs/Daniels.pdf).

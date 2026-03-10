@@ -2,8 +2,9 @@
 title: 'Equity: Perspectives on the American Journey'
 date: '2011-06-06T16:43:17'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24731
 ---
 
+Eighteen schools in four districts on the central California coast have been identified as in need of improvement. Many teachers in this multi-ethnic region have said they need more support for teaching American history. The Equity project will provide support in the form of workshops, study groups that meet in person and online, mentoring, book studies, and summer academies that include field studies at local, regional, and national historic sites. Historians and master teachers will lead sessions and field trips, and teachers will identify and gather classroom resources as part of the activities. The project cohort of 50 teachers will blend grades and school levels, with the aim of giving teachers a vertical perspective and within and cross-grade interactions. The Equity project theme of exploring history in a scholarly way will be reinforced by contacts with professional historians throughout the 5-year project. Content will be selected to meet the needs of elementary and middle school teachers, who want chronological surveys of content, and the needs of high school teachers, who want in-depth exploration of specific topics. Content will include findings from current research, primary source analysis, and review of historiographic issues. Instructional strategies will focus on how to design inquiry-based instructional activities that incorporate primary sources, help students build context or background knowledge, and make connections to the present, as well as integrate multiple perspectives. Equity teachers will develop lesson plans and compile classroom resources to help them create rich learning environments and to share with other teachers on the project Web site.

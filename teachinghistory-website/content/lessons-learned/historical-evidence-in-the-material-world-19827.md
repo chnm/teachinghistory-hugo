@@ -2,10 +2,27 @@
 title: Historical Evidence in the Material World
 date: '2008-09-22T11:41:14'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 19827
+author_bio: Carolyn Halpin-Healy, Project Coordinator, Consulting Museum Education
+  American Leaders Project, has taught at the Metropolitan Museum of Art since 1991.
+  She has lectured and developed education programs at the Morgan Library, New York;
+  the Phillips Collection, Washington, DC, and the Fitzwilliam Museum, Cambridge,
+  England. Currently, she manages a TAH grant for middle school teachers in New York
+  City. Her interest is in training educators at all levels to use art, artifacts,
+  and other visual resources in their teaching of American history.
+image_fid: '2334'
+splash_image_fid: '4777'
+thumbnail_fid: '1847'
+author_image_fid: '3533'
+summary: Visual and tactile experiences increase critical thinking skills.
+splash_image: /files/Historical_Evidence_Material_World_-_432x240.jpg
+image: /files/TheMetImage.jpg
+author_image: /files/author_image/chh.jpg
 ---
+
+
 
 On more than one occasion, teachers participating in our Teaching American History (TAH) project have speculated that one reason their middle school students often have trouble understanding historical texts may be because they have not yet developed the ability to imagine the past. Because they are young their experience is limited and many have yet to discover museums, historic houses, or other places of historical interest. In addition, the historical past is not immediately evident on the surface in New York City, where it is often difficult to see through the many layers of changes in the landscape and the built environment.
 > . . . one reason their middle school students often have trouble understanding historical texts may be because they have not yet developed the ability to imagine the past.

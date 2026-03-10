@@ -2,11 +2,16 @@
 title: 236 Years Since the Boston Tea Party
 date: '2009-11-30T14:06:33'
 lastmod: '2012-07-31T14:33:33'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23603
 url: /nhec-blog/23603
+date_published: '2009-12-03T00:00:00'
+image_fid: '3719'
+summary: The 1773 Boston Tea Party resonates in today's politics.
+image: /files/Tea_Party.jpg
 ---
+
 
 On December 16, 1773, according to the *Boston-Gazette and Country Journal*, "A number of brave & resolute men, determined to do all in their power to save their country from the ruin which their enemies had plotted, in less than four hours, emptied every chest of tea on board [three British ships] without damage done to the ships or any other property...and the people are almost universally congratulating each other on this happy event."
 Many consider the Boston Tea Party the night the Revolution began. Governor Thomas Hutchinson calculated the action as "the boldest stroke that had yet been struck in America. Open general revolt must be the consequence." John Adams extolled the Tea Party as "the most magnificent movement of all."

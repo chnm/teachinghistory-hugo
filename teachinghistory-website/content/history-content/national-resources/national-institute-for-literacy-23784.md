@@ -2,12 +2,19 @@
 title: National Institute for Literacy
 date: '2010-01-20T22:05:35'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23784
 url: /history-content/national-resources/23784
 featured: true
+website_url: http://lincs.ed.gov
+splash_image_fid: '4675'
+thumbnail_fid: '2281'
+summary: Do you have struggling readers in your class? Try incorporating literacy
+  teaching into your history lessons.
+splash_image: /files/NIL432x240.jpg
 ---
+
 
 The National Institute for Literacy promotes national literacy in all its forms—from reading, writing, and speaking proficient English to on-the-job problem solving. The institute conducts research and makes existing scholarly research accessible for the non-specialist.
 The institute's website is extremely simple to navigate, and breaks its content down into four sections: adult, adolescence (high school and middle school), childhood, and birth to early childhood.

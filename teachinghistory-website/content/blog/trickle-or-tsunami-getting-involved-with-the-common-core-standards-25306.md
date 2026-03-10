@@ -2,11 +2,18 @@
 title: 'Trickle or Tsunami?: Getting Involved with the Common Core Standards'
 date: '2011-11-15T14:02:05'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25306
 url: /nhec-blog/25306
+date_published: '2011-11-18T00:00:00'
+image_fid: '8549'
+splash_image_fid: '8550'
+summary: Is everybody talking about the Common Core standards in your district?
+splash_image: /files/commoncoresplash.jpg
+image: /files/commoncoreimage.jpg
 ---
+
 
 Is everybody talking about the [Common Core standards](http://www.corestandards.org) in your district? I’ve heard them described as a tsunami by some educators, and also received blank looks when I’ve mentioned them.
 These standards, developed through an initiative led by a consortium of states and territories, and overseen by the [National Governors Association Center for Best Practices](http://www.nga.org/cms/center) (NGA) and [Council of Chief State School Officers](http://www.ccsso.org) (CCSSO), are having a large impact fairly quickly. As of November 2011, only 16 months after they were published, [45 states and the District of Columbia](http://www.corestandards.org/in-the-states) have adopted the standards. For federal programs, like [Race to the Top](http://www2.ed.gov/programs/racetothetop/index.html) and the waiver program for [No Child Left Behind](http://www.ed.gov/esea/flexibility), states need to show that they have adopted top-notch college and career-ready standards. The Common Core State Standards fit that bill. Chances are that these standards will be on your district’s professional development agenda soon, if they are not there already.

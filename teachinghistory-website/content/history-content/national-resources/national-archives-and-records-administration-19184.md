@@ -2,12 +2,20 @@
 title: National Archives and Records Administration
 date: '2008-04-17T09:04:53'
 lastmod: '2017-10-06T15:32:46'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 19184
 url: /history-content/national-resources/19184
 featured: true
+website_url: http://www.archives.gov/index.html
+splash_image_fid: '4922'
+thumbnail_fid: '2081'
+summary: With more than 10 billion items addressing U.S. history, you're bound to
+  find an excellent resource.
+splash_image: /files/NationalArchives432x240.jpg
+thumbnail: /files/quiz_thumbnail/1930Theater_Thumb.jpg
 ---
+
 
 The National Archives and Records Administration (NARA) holds more than 10 billion items addressing the social, economic, political, and cultural history of the U.S.
 In the recent site redesign NARA created a new [Teacher's Resources](http://www.archives.gov/education/) section. Check out the [training](http://www.archives.gov/nae/education/training.html) page for videoconference and summer workshops.

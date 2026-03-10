@@ -2,7 +2,7 @@
 title: Surfing the Web Successfully
 date: '2011-10-13T14:52:18'
 lastmod: '2018-09-11T14:53:16'
-type: ask_a_digital_historian
+content_type: ask_a_digital_historian
 draft: false
 drupal_nid: 25219
 question: How can I most effectively search for and then bookmark sites to use with
@@ -10,7 +10,20 @@ question: How can I most effectively search for and then bookmark sites to use w
   exciting, engaging resources to extend and enrich learning opportunities that will
   teach my students to view information like a historian.
 url: /digital-classroom/ask-a-digital-historian/25219
+author_bio: Glenn Wiebe works as a Social Studies Consultant at ESSDACK, an educational
+  service center in Kansas. In addition to directing a Teaching American History project,
+  he blogs at [HistoryTech](http://historytech.wordpress.com/).
+image_fid: '8305'
+splash_image_fid: '8306'
+author_image_fid: '8301'
+summary: Online searching got you down? Try using these tips and tricks in your next
+  search.
+splash_image: /files/searchingsplash.jpg
+image: /files/lesson_image/searchingimage.jpg
+author_image: /files/author_image/author_wiebe.jpeg
 ---
+
+
 
 It can be very frustrating spending time on search tools and not finding what you need. The good news is that major search tools such as Google, Bing, and Yahoo provide a variety of built-in search strategies that can assist in your search. These strategies deliver quality results while saving you time. There is also an assortment of online tools that provide ways for teachers to bookmark and share resources with their students.
 
@@ -44,3 +57,14 @@ There are many tools that can help you store and share resources that you find o
 
 1. **[Diigo](http://teachinghistory.org/digital-classroom/tech-for-teachers/23471)**: Diigo stores sites that you find online into a password-protected free account that you can access anywhere, anytime. With Diigo, you can create folders for your favorites as well as “tag” each favorite. This makes it easy to find sites that are saved. This “tagging” system also makes it easy for you to share sites with your students. Here's an example of Diigo resources tagged as “[civil war](http://www.diigo.com/user/glennw98/civilwar).”
 2. **[LiveBinders](http://www.livebinders.com/)**: LiveBinders is similar to Diigo. After creating your free account, you create the online equivalent of a 3-ring binder with tabs that hold your favorite websites. These binders can then be shared with your students via a specific URL. The beauty of LiveBinders is that each of the websites will open within the LiveBinder page so that your students travel only to the sites you share. An example of a Civil War LiveBinder can be found [here](http://www.livebinders.com/play/play_or_edit?id=51435).
+
+---
+
+Check out these links for guides and tips to using several search engines:
+
+* [Four NETS for Better Searching](http://webquest.org/sdsu/searching/fournets.htm)
+* [Google Guide](http://www.googleguide.com)
+* [Bing Search Engine Shortcuts](http://websearch.about.com/od/searchenginecheatsheets/a/Bing-Search-Engine-Shortcuts.htm)
+* [Yahoo Search Engine Shortcuts](http://websearch.about.com/library/cheatsheet/blyahoocheatsheet.htm)
+
+And take a look at our *Tech for Teachers* on [search engines](http://teachinghistory.org/digital-classroom/tech-for-teachers/23822) for links to more strategies.

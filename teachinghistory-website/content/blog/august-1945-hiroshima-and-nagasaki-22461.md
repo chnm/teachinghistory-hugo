@@ -2,11 +2,16 @@
 title: 'August 1945: Hiroshima and Nagasaki'
 date: '2009-08-04T16:13:58'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22461
 url: /nhec-blog/22461
+date_published: '2009-08-04T00:00:00'
+image_fid: '1448'
+summary: The age of nuclear warfare began on August 6, 64 years ago.
+image: /files/hirosh.jpg
 ---
+
 
 On August 6, 1945, the United States dropped the first atomic bomb used in warfare on Hiroshima, Japan. On August 9, 1945, the second atomic bomb struck Nagasaki. This age of nuclear warfare began less than a month after the first test of the atomic bomb in the New Mexican desert, and Robert Oppenheimer, leader of the Manhattan Project, later recalled, "There floated through my mind a line from the *Bhagavad-Gita* in which Krishna is trying to persuade the Prince that he should do his duty: 'I am become death: the destroyer of worlds.'"
 The decision to use atomic bombs against Japan is considered among the most controversial decisions in military history. Multifaceted arguments examining the causes and effects of that decision began before the bombs fell, continued in the immediate aftermath, and have not yet ended, and we probe them from the perspectives of military, political, social, and cultural history. Was the bombing justified? Did it hasten the end of the war?

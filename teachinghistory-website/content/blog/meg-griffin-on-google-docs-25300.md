@@ -2,11 +2,24 @@
 title: Meg Griffin on Google Docs
 date: '2011-11-07T11:32:16'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25300
 url: /nhec-blog/25300
+author_bio: Meg Griffin is a Nationally Board Certified 4th-grade classroom teacher
+  in the Central Bucks School District in Pennsylvania, a 2010 PBS Innovative Educator,
+  and a Fellow of the National Writing Project.
+date_published: '2012-03-12T00:00:00'
+image_fid: '8528'
+splash_image_fid: '8529'
+author_image_fid: '8527'
+summary: What can you do with Google Docs?
+splash_image: /files/googledocssplash.jpg
+image: /files/googledocsimage.jpg
+author_image: /files/author_image/author-griffin_0.jpg
 ---
+
+
 
 Google has become ubiquitous in our 21st-century classrooms. We find images for school and work presentations, use [Blogger](https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=http://www.blogger.com/home&followup=http://www.blogger.com/home<mpl=start#s01)  to share our thinking, and search, search, search. There is even a website titled “[let me google that for you.com”](http://www.lmgtfy.com/). The power of Google is well-known. Google Docs, however, is a different story. While many people have heard of Google Docs, most are unaware of its potential uses in the classroom.
 Yes, Google Docs is a free replacement for Word, Excel, and PowerPoint. But did you know that it also can help you create [online surveys and forms](http://teachinghistory.org/digital-classroom/tech-for-teachers/25110), produce interactive multimedia presentations, and allow students to chat interactively during classroom presentations? Educators can use Google Docs in their classrooms to promote collaborative sharing, peer editing, and formative feedback.

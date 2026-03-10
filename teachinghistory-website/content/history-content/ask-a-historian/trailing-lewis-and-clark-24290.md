@@ -2,7 +2,7 @@
 title: Trailing Lewis and Clark
 date: '2010-10-13T09:59:20'
 lastmod: '2018-09-19T13:26:46'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24290
 question: I have heard that Spain was not happy about the Corps of Discovery expedition
@@ -11,7 +11,11 @@ question: I have heard that Spain was not happy about the Corps of Discovery exp
   who led the detachment of soldiers, or point me in the direction of a website or
   book that would have this information?
 url: /history-content/ask-a-historian/24290
+splash_image_fid: '6689'
+summary: Spain sent several expeditions to find the Lewis and Clark Corps of Discovery.
+splash_image: /files/old_petroglyphs.jpg
 ---
+
 
 The Spanish believed that any American expedition into the Louisiana Territory would lead to attempts to conquer Spanish territories to the west and south. President Jefferson, in fact, did believe that the United States would eventually expand across the continent out to the Pacific Ocean, and he had long planned in secret for at least one expedition of explorers to be sent out to the far west, even before he acted on the fortuitous opportunity to purchase the Louisiana Territory from France (which had just reacquired it from the King of Spain).
 
@@ -38,3 +42,7 @@ Although Jefferson believed that the United States would eventually expand out t
 > Jefferson ... made preparations for the Lewis and Clark Expedition in secret in order not to provoke Spain.
 
 Along with the U.S. governor of (southern) Louisiana, William Claiborne, Wilkinson represented the United States at the ceremonies in St. Louis in March 1804 that officially transferred the Louisiana Territory to the United States (Merriwether Lewis was also present). Secretly, however, Wilkinson was a paid agent of Spain, who communicated to Spanish officials as “Agent 13.” Writing to these officials in March 1804, he warned them of the Lewis and Clark expedition and gave his opinion that “An express ought immediately to be sent to the governor of Santa Fe … [for] a sufficient body of chasseurs to intercept Captain Lewis and his party, who are on the Missouri River, and force them to retire or take them prisoners.” Wilkinson was, however, also plotting with Jefferson’s ex-Vice President Aaron Burr to raise a filibustering expedition that would shear off parts of the states of Kentucky, Tennessee, and North Carolina, and join them with the Louisiana Territory in a new country independent of Spain or the United States. Wilkinson found out that the plot was near to being discovered and covered his tracks, partly by pointing the finger at his erstwhile co-conspirator, as the chief witness for the prosecution against Burr during his 1807 treason trial. Almost incredibly, Jefferson did not suspect Wilkinson of double-dealing and, instead, he had appointed him in March 1805 as the new governor of the Upper Louisiana Territory. It was Wilkinson who dispatched his young friend Zebulon Pike on his expeditions, which fact has suggested to historians that Wilkinson was using the Pike expedition—and indirectly the Lewis and Clark expedition—as means to explore the territory as reconnaissance forces for his own and other conspirators’ attempts to take it over, and perhaps partly as a deliberate provocation to draw the United States and Spain into overt hostilities. After the successful return of the Lewis and Clark expedition, Jefferson in 1807 replaced Wilkinson as governor with Merriwether Lewis. On his way back to Washington to consult with various government officials in 1809, Lewis was either murdered or committed suicide (historians still disagree about this). Wilkinson was court-martialed for some of his various commercial intrigues in 1811, but was not found guilty. His role as a paid agent of Spain was not discovered until three decades after his death in 1825. He died in Mexico City and was buried there.
+
+---
+
+Review of the Library of Congress' online exhibition of [Rivers, Edens, Empires: Lewis and Clark and the Revealing of America.](https://teachinghistory.org/history-content/website-reviews/14789) Review of the Center for Digital Research in the Humanities (University of Nebraska-Lincoln) online exhibition of [Envisaging the West: Thomas Jefferson and the Roots of Lewis and Clark.](https://teachinghistory.org/history-content/website-reviews/14732) Historian Leah Glaser analyzes [Jefferson's confidential letter to Congress](http://teachinghistory.org/best-practices/examples-of-historical-thinking/23420) in which he asked for funds for the Lewis and Clark Expedition.

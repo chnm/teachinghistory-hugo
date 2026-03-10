@@ -2,10 +2,13 @@
 title: Summer Surfing
 date: '2008-05-12T15:32:46'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19269
 url: /nhec-blog/19269
+date_published: '2008-07-07T00:00:00'
+summary: Summer is a great time to wile away some hours on the internet. Here are
+  some starting points we recommend.
 ---
 
 Summer is a great time to while away some hours on the internet. Here are some starting points we recommend, and you're invited to use the comment tool below to share some of your own favorites.

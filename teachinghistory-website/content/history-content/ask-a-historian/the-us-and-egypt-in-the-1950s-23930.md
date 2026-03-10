@@ -2,13 +2,17 @@
 title: The U.S. and Egypt in the 1950s
 date: '2010-04-08T10:03:36'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23930
 question: What did the United States do to try to stop Egypt from becoming a communist
   satellite state in the 1950s?
 url: /history-content/ask-a-historian/23930
+splash_image_fid: '4806'
+summary: Creating political blowback in the Middle East
+splash_image: /files/port-said-new.jpg
 ---
+
 
 The goals of U.S. foreign policy toward Egypt during the 1950s were to protect American and western European access to oil in the Middle East, to end British colonial rule throughout the area in line with the ideal of self-determination expressed in the Atlantic Charter, to contain the expansion of communism and particularly the influence of the Soviet Union in the region, and to support the independence of Israel without alienating the Arab states.
 In all this, the U.S. State Department regarded Egypt as the natural leader among the Arab states and sought to make it an ally and to encourage pro-Western elements in Egyptian society.
@@ -65,3 +69,15 @@ In the Suez Crisis, the Third World in general and the Arab states in particular
 For the next few years, U.S. policy toward Egypt was guided by what became known as the "Eisenhower Doctrine," a declaration that the U.S. was prepared to offer assistance to any Middle Eastern country (if it asked for assistance) in order to oppose the military threat of "any nation controlled by international communism." In reality, the doctrine was fairly impractical for a number of reasons.
 It invited pro-Western countries in the region to gin up internal or external "communist threats" as a simple way to procure U.S. aid without the necessity to negotiate agreements or treaties. Also, the policy was actually aimed at thwarting Nasser's ambitions to undermine his Middle Eastern rivals in the region, many of whom were pro-Western. The policy was given public shape, however, in a resolution that the Eisenhower Administration had pushed through Congress by the expediency of using the phrase "international communism." This left the Administration's actual policy in the dark and often at odds with its publicly expressed policy.
 The practical result of this was State Department and CIA involvement, by covert means, in the complicated internal politics of the region, as the political winds within each country shifted. This created unintended and unwanted consequences for the United States, for which the CIA coined the term "blowback." Much of this activity, including coups and counter-coups, was inspired, influenced, or even orchestrated by the CIA. In Egypt, CIA operator Kermit Roosevelt, Jr. (Teddy's grandson), developed an exceedingly complicated and intimate relationship with (and sometimes against) the Nasser regime, as did CIA operative Miles Copeland. The U.S., however, acted for the rest of the decade under the conviction that Nasser himself was too powerful to be deposed and came to reconcile itself to containing his attempts to consolidate his influence with the other Arab states.
+
+---
+
+L. Carl Brown, *International Politics and the Middle East: Old Rules, Dangerous Game*. Princeton: University Press, 1984.
+Miles Copeland, *The Game Player: Confessions of the CIA's Original Political Operative*. London: Aurum, 1989.
+Rami Ginat, *The Soviet Union and Egypt, 1945-1955*. London: Frank Cass, 1993.
+Peter L. Hahn, *The United States, Great Britain, and Egypt, 1945-1956: strategy and diplomacy in the Cold War*. Chapel Hill: University of North Carolina Press, 1991.
+Matthew F. Holland, *America and Egypt: from Roosevelt to Eisenhower*. Westport, CT: Praeger, 1996.
+Mohrez Mahmoud El Hussini, *Soviet-Egyptian Relations, 1945-85*. New York: St. Martin's Press, 1987.
+"Memo to Secretary of State John Foster Dulles from President Dwight D. Eisenhower Regarding Ceasefire during Suez Crisis, November 1, 1956." John Foster Dulles Papers, 1950-1959, National Archives and Records Administration. Archival Research Catalog 594643.
+Karl E. Meyer and Shareen Blair Brysac, *Kingmakers: The Invention of the Modern Middle East*. New York: W.W. Norton, 2008.
+Ray Takeyh, *The Origins of the Eisenhower Doctrine: The US, Britain and Nasser's Egypt, 1953-57*. New York: St. Martin's Press, 2001.

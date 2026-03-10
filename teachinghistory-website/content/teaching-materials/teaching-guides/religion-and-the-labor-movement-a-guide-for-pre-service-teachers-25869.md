@@ -2,11 +2,26 @@
 title: 'Religion and the Labor Movement: A Guide for Pre-Service Teachers'
 date: '2022-08-19T13:58:14'
 lastmod: '2022-09-13T13:19:59'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25869
 url: /teaching-materials/teaching-guides/25869
+author_bio: Nate Sleeter is a research assistant professor at the Roy Rosenzweig Center
+  for History and New Media where he oversees educational projects. He is also a former
+  K-12 teacher.
+image_fid: '10231'
+splash_image_fid: '10232'
+author_image_fid: '10233'
+summary: Engaging Library of Congress primary sources that connect religion and organized
+  labor.
+spotlight: What was the relationship between the labor movement and organized religion?
+  Students engage with Library of Congress primary sources to make historical connections.
+splash_image: /files/DayBookSplash.jpg
+image: /files/DayBook.jpg
+author_image: /files/author_image/NATE_SLEETER (1)_1.JPG
 ---
+
+
 
 **What is it?**
 

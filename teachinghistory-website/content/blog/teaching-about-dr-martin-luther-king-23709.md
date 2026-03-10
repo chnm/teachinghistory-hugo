@@ -2,11 +2,18 @@
 title: Teaching About Dr. Martin Luther King
 date: '2010-01-12T22:34:00'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23709
 url: /nhec-blog/23709
+date_published: '2010-01-13T00:00:00'
+image_fid: '3844'
+splash_image_fid: '8683'
+summary: A day of service, commemoration, and evaluation.
+splash_image: /files/martinlutherking_0.jpg
+image: /files/martinlutherking.jpg
 ---
+
 
 Martin Luther King, Jr. is the only American with a unique, individual holiday—not even American presidents are so remembered anymore. It's observed on the third Monday in January—January 18 this year—and the [path to creating this holiday](http://www.thekingcenter.org/making-king-holiday) was uphill. Corretta Scott King (1927-2006) considered the day as one of  [interracial and intercultural cooperation and sharing.](http://www.thekingcenter.org/founders-vision) "Whether you are African-American, Hispanic or Native American, whether you are Caucasian or Asian-American, you are part of the great dream Martin Luther King, Jr. had for America," she wrote.
 > The Martin Luther King holiday is a day of service, not relaxation.

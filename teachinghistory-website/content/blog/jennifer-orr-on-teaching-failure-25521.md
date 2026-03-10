@@ -2,11 +2,25 @@
 title: Jennifer Orr on Teaching Failure
 date: '2012-03-30T10:56:10'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25521
 url: /nhec-blog/25521
+author_bio: Jennifer Orr is a 1st-grade teacher at Annandale Terrace Elementary School
+  in Fairfax County, VA. A National Board Certified Teacher in middle childhood, she
+  has taught 4th, 5th, and 1st grades since 1998.
+date_published: '2012-04-16T00:00:00'
+image_fid: '9105'
+splash_image_fid: '9106'
+author_image_fid: '9104'
+summary: Use the lives of historical figures to teach students that failure isn't
+  a bad word.
+splash_image: /files/failuresplash.jpg
+image: /files/failureimage.jpg
+author_image: /files/author_image/jennifer-orr_0_2.png
 ---
+
+
 
 Human beings are not perfect. That seems fairly obvious as we see examples of it every day. I prove it to myself quite regularly.
 In spite of that, we teach many [famous people](http://teachinghistory.org/nhec-blog/25243) as if they were flawless. There are several problems with this approach. For one, not only does this give students an incomplete, inaccurate view of those who helped shape our history, it also sets our students up to avoid academic risks. In addition, it suggests that failure or struggles are negative rather than opportunities to grow and learn.

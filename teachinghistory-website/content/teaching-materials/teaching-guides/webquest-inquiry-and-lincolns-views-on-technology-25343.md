@@ -2,11 +2,24 @@
 title: Webquest, Inquiry, and Lincoln’s Views on Technology
 date: '2011-12-14T11:59:19'
 lastmod: '2018-09-21T12:03:56'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25343
 url: /teaching-materials/teaching-guides/25343
+author_bio: John Lee is an associate professor of social studies education at North
+  Carolina State University. His scholarship focuses on digital history and new literacies.
+  For more on his work please see the Digital History and Pedagogy Project.
+image_fid: '8668'
+splash_image_fid: '8669'
+author_image_fid: '8662'
+summary: Searching for new, exciting ways to engage your students in the classroom?
+  Why not make them internet detectives?
+splash_image: /files/webquestsplash.jpg
+image: /files/webquestimage.jpg
+author_image: /files/author_image/authorphotojohnlee75x75_0.jpg
 ---
+
+
 
 ## What Is It?
 

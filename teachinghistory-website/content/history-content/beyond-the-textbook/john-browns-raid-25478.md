@@ -2,7 +2,7 @@
 title: John Brown's Raid
 date: '2012-03-05T13:56:48'
 lastmod: '2018-07-03T10:41:00'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 25478
 url: /history-content/beyond-the-textbook/25478

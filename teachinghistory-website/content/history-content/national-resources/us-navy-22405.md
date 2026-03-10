@@ -2,11 +2,19 @@
 title: U.S. Navy
 date: '2009-07-20T17:19:17'
 lastmod: '2018-09-20T11:25:45'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22405
 url: /history-content/national-resources/22405
+website_url: https://www.navy.mil/index.asp
+splash_image_fid: '5078'
+thumbnail_fid: '2140'
+summary: Who defends our seas, and how do they do it? Explore primary sources and
+  more.
+thumbnail: /files/website_image/MappingHistory_Image.jpg
+splash_image: /files/USNavy.jpg
 ---
+
 
 The United States Navy, one of five national military branches, is responsible for the preparation and maintenance of maritime vessels and troops to be deployed in the defense of the United States and marine freedom.
 Although an initial glance at the official Navy website does not suggest that the department offers educational materials, the site provides a wide variety of resources which could be put to good use in the history classroom. These include modern Navy photographs and both print and web advertisements for comparison to historical photographs, recruitment posters, and insignia within the Naval Heritage and History Command's [Online Library.](https://www.history.navy.mil/research/library.html) The library also presents Naval biographies and a selection of online reading, which includes Naval abbreviations and period regulations.

@@ -2,10 +2,19 @@
 title: The Condition of History in Elementary Schools
 date: '2011-11-03T12:26:49'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25294
+author_bio: Katy Swalwell is Assistant Professor in the Graduate School of Education
+  at George Mason University. She has taught elementary social studies methods courses
+  since 2008.
+author_image_fid: '8511'
+summary: Our best hope is that current and future teachers become critical consumers
+  of state standards and district-sponsored materials and see themselves as “smugglers”
+  of good history back into the school day.
+author_image: /files/author_image/author_swalwell.jpg
 ---
+
 
 In my elementary social studies methods classes, I ask students to share examples of history lessons they observe in their field experiences. Though there are always a few inspiring stories of teachers engaging K–6 students in meaningful historical thinking and creative activities, the vast majority of pre-service teachers report that they observe no social studies whatsoever. Similarly, many of my colleagues teaching in elementary schools report that their principals have explicitly instructed them to no longer teach history in order to focus on test preparation for math and literacy.
 > Eliminating history from the elementary curriculum is irresponsible and, ultimately, unnecessary.

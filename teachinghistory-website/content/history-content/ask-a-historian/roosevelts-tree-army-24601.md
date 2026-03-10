@@ -2,14 +2,18 @@
 title: Roosevelt's Tree Army
 date: '2011-03-31T12:53:08'
 lastmod: '2018-09-19T13:06:36'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24601
 question: I'm looking for projects in Onondaga and surrounding counties in New York
   done by the Civilian Conservation Corps or the Works Progress Administration, especially
   monuments, parks or buildings still in existence.
 url: /history-content/ask-a-historian/24601
+splash_image_fid: '7299'
+summary: The work of the Civilian Conservation Corps in central New York State.
+splash_image: /files/CCC-boys-putting-out-forest-fire.jpg
 ---
+
 
 The Civilian Conservation Corps (CCC) began in early 1933, under its FDR-appointed director, Robert Fechner, a union leader who had previously been the vice president of the International Association of Machinists. The CCC was a public work relief program for unemployed young men, aged 18-25, who worked on government-owned lands, mostly on natural resource conservation projects. The U.S. Army ran the program, which was therefore sometimes jocularly referred to as “Roosevelt’s Tree Army.” It ended in 1942. The CCC’s Second Corps Area included New York and New Jersey, and in these two states there were 75 camps, most of which resembled rustic World War I Army camps. Some of them were essentially tent towns and were occupied only during the warmer seasons, but others served as winter quarters as well and were constructed of timber buildings and masonry. The enlistees who served in each camp generally came from all over the country. The young men who enlisted from Onondaga County, for example, were transported by train to Fort Dix, New Jersey, where they were given some very basic training before being assigned to CCC camps around the country.
 
@@ -20,3 +24,7 @@ The CCC, from its winter quarters at Camp 55 on the south side of Upper Green La
 ## Corps Work in Other Counties Nearby
 
 Near CCC Camp 15, known as “Cross Clearing Camp,” at Tupper Lake, in Franklin County, the WPA had undertaken a project in 1933-34 to reconstruct the dam on the Lower Racquette River to control the water level. Soon afterward, the CCC had their enlistees clearing rocks, stumps and debris out of the river course to allow navigation on the river and to make it possible to float logs downstream. The site of the Tupper Lake CCC camp is apparently still discernible and directions for finding it are in a 2006 article by Tupper Lake town historian Bill Frenette. A list of other CCC camps in the Adirondacks (and so generally northeast of Onondaga County), is on history researcher Marty Podskoch’s [Civilian Conservation Corps Stories](https://martinpodskoch.com/ccc.html)  website. A CCC camp was established at Gilbert Lake State Park, in the town of New Lisbon, north of Oneonta in Otsego County. Nowadays the park features the New York State Civilian Conservation Corps Museum, one of 12 CCC museums around the country. It displays photos and memorabilia from CCC work at the park and elsewhere. The Corps built many of the park’s 221 campsites and 33 cabins that are still in use today. At Camp 31 at Chittenango Falls State Park, in Madison County, near Cazenovia, the CCC worked on the park’s trails and roads and built the stone facilities and shelters that are still there. At Camp 20 at Selkirk Shores State Park, near Pulaski in Oswego County on Lake Ontario, the CCC cleared trees and brush for public campsites (still open) and created a swimming beach (now closed), reforested conifers, straightened small streams, and cleared the bank of the Salmon River for public access. Also in Oswego County, the WPA and CCC planted conifers in land around Kasoag and built Mosher, Whitney and Long Ponds by constructing small dams. One of the lasting effects of the CCC, which is certainly still "visible" in a sense, not only in rural New York but also throughout the country, was its fostering of a basic kind of conservationist view of America's wilderness areas among its enlistees and their families. As a consequence, it played a strong part in the birth of what we know regard as the environmental movement.
+
+---
+
+Neil M. Maher, [*Nature’s New Deal: The Civilian Conservation Corps and the Roots of the American Environmental Movement.*](https://global.oup.com/academic/product/natures-new-deal-9780195392418?q=Nature%E2%80%99s%20New%20Deal:%20The%20Civilian%20Conservation%20Corps%20and%20the%20Roots%20of%20the%20American%20Environmental%20Movement&lang=en&cc=us) New York: Oxford University Press, 2008. Alfred E. Cornebise, [*The CCC Chronicles: Camp Newspapers of the Civilian Conservation Corps, 1933-1942.*](http://www.mcfarlandpub.com/book-2.php?id=978-0-7864-1831-2) Jefferson, NC: McFarland, 2004. Joseph M. Speakman, [“Into the Woods: The First Year of the Civilian Conservation Corps,”](http://www.archives.gov/publications/prologue/2006/fall/ccc.html) *Prologue Magazine* 38.3 (Fall 2006).

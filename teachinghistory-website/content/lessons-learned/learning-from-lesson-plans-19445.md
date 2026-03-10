@@ -2,10 +2,21 @@
 title: Learning from Lesson Plans
 date: '2008-07-15T09:36:08'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 19445
+author_bio: Dr. Morgan Grefe is the director of the Newell D. Goff Center for Education
+  and Public Programs at the Rhode Island Historical Society. Her work at the Society
+  involves interpretation in the RIHS's two museums, creation and implementation of
+  teacher workshops and seminars, development of public programs, and grant writing
+  and administration.
+splash_image_fid: '4781'
+summary: Being a successful history teacher also necessarily involves being an engaged
+  teacher, and putting teachers in the role of students can have brilliant consequences
+  when mixed with new content.
+splash_image: /files/Learning_From_Lesson_Plans_-_432x240.jpg
 ---
+
 
 If there is one thing that we have learned from working with Teaching American History (TAH), it is that there is an abundance of information from which teachers can draw to create lesson plans. But, that does not mean that all teachers jump at the chance to craft new units, nor does it mean that such lessons are all equal. In this piece I will discuss the diverse outcomes of these processes through the examination of the work of teachers who will represent "types" that our TAH team has encountered repeatedly. They are (1) the eager, good, young teacher; (2) the engaged, creative, seasoned teacher; (3) the unchallenged veteran who eschews change; (4) the bored veteran who welcomes a challenge, and finally (5) the non-history teacher who uses new history content in impressive interdisciplinary ways.
 While there are many teachers who fall outside of these profiles, or who straddle more than one, these categories will allow for a discussion of what you might encounter and how you can see the possibilities of each—and to try to use them to your grant's advantage. But this essay is not just about the content of lesson plans, though we all know that the content is the focus of our grants. This essay will look at the ways that being a successful history teacher also necessarily involves being an engaged teacher, and realizing that in these grants, putting teachers in the role of students can have brilliant consequences when mixed with new content.

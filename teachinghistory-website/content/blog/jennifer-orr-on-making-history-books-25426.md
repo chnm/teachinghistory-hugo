@@ -2,11 +2,24 @@
 title: Jennifer Orr on Making History Books
 date: '2012-02-08T12:15:38'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25426
 url: /nhec-blog/25426
+author_bio: Jennifer Orr is a 1st-grade teacher at Annandale Terrace Elementary School
+  in Fairfax County, VA. A National Board Certified Teacher in middle childhood, she
+  has taught 4th, 5th, and 1st grades since 1998.
+date_published: '2012-05-07T00:00:00'
+image_fid: '8841'
+splash_image_fid: '8842'
+author_image_fid: '8840'
+summary: Integrate history and literacy in early elementary by making history books!
+splash_image: /files/makingbokssplash.jpg
+image: /files/makingbooksimage.jpg
+author_image: /files/author_image/jennifer-orr_0_1.png
 ---
+
+
 
 In the primary grades the focus on reading and writing is quite strong. Teaching other things often seems like an afterthought. As a 1st-grade teacher I’ve often addressed this by [integrating other areas](http://teachinghistory.org/nhec-blog/2465) into our literacy time.
 Writing books with first graders is something I greatly enjoy. It also happens to be an easy way to integrate history. We have written books about famous people, George Washington, Benjamin Franklin, or George Washington Carver; about the past in general (first graders work to understand the difference between the past and the present); and about the history of certain items (the Statue of Liberty, the Washington Monument) or holidays (the Fourth of July or Presidents’ Day).

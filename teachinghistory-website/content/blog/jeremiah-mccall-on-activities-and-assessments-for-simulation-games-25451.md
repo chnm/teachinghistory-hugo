@@ -2,11 +2,26 @@
 title: Jeremiah McCall on Activities and Assessments for Simulation Games
 date: '2012-02-17T10:53:02'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25451
 url: /nhec-blog/25451
+author_bio: 'Jeremiah McCall, PhD, teaches high school history at Cincinnati Country
+  Day School. He is the author of *Gaming the Past: Using Video Games to Teach Secondary
+  History*. He also maintains the site [gamingthepast.net](http://gamingthepast.net/).'
+date_published: '2012-03-26T00:00:00'
+image_fid: '8881'
+splash_image_fid: '8882'
+author_image_fid: '8880'
+summary: Thinking about using digital games in your classroom? In Part Four of his
+  six-part series, teacher Jeremiah McCall shows you how to form lesson plans around
+  critically evaluating U.S. history games.
+splash_image: /files/gameblogsplash.jpg
+image: /files/gameblogimage.jpg
+author_image: /files/author_image/authorphotojeremiahmccall75x75_2_1_0.jpg
 ---
+
+
 
 *(Note: This blog entry is the fourth part of a six-part series. Read more on using games in the classroom in parts [one](http://teachinghistory.org/nhec-blog/25117), [two](http://teachinghistory.org/nhec-blog/25225), [three](http://teachinghistory.org/nhec-blog/25338), [five](http://teachinghistory.org/nhec-blog/25523), and [six](http://teachinghistory.org/nhec-blog/25624).)*
 The goal of lessons involving simulation games is twofold: to explore systems in the past by making choices and experiencing the resulting consequences and to critique simulation games as interpretations of the past in order to develop historical criticism skills and appreciate the role of modern media in shaping our views of the past. Accordingly, after students have had sufficient time to play and observe a game, they should be provided with learning activities and assessments that facilitate these two goals.

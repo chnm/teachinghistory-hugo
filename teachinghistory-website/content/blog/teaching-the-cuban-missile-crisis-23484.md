@@ -2,11 +2,17 @@
 title: Teaching the Cuban Missile Crisis
 date: '2009-11-04T07:33:54'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23484
 url: /nhec-blog/23484
+date_published: '2009-11-03T00:00:00'
+image_fid: '3592'
+summary: Teaching about the Cuban Missile Crisis generally begins with the political
+  and diplomatic perspective.
+image: /files/1962_cuban_missile.jpg
 ---
+
 
 The 47th anniversary of the Cuban missile crisis passed with little public notice this year—except for an occasional reference to the U.S.-Iranian nuclear dispute as ["the Cuban Missile crisis in slow motion](http://voices.washingtonpost.com/postpartisan/2009/09/with_iran_the_cuban_missile_cr.html)."
 Nonetheless, "No event during the Cold War has generated more popular and scholarly attention . . . it has become perhaps the most studied international confrontation of the twentieth century, " according to the editors of the [Cuban Missile Crisis 1962 Documents Reader](http://www.gwu.edu/~nsarchiv/nsa/cuba_mis_cri/declass.htm ). And no wonder. In October 1962, The United States looked down "the gun barrel of nuclear war," according to Kennedy speechwriter Theodore Sorenson.

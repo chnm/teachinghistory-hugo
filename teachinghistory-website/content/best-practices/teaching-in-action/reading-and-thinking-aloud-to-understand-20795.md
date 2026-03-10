@@ -2,11 +2,26 @@
 title: Reading and Thinking Aloud to Understand
 date: '2009-01-30T17:42:25'
 lastmod: '2018-09-26T09:06:56'
-type: examples_of_teaching
+content_type: examples_of_teaching
 draft: false
 drupal_nid: 20795
 url: /best-practices/teaching-in-action/20795
+author_bio: Gayle Cribb uses the [Reading Apprenticeship](http://www.wested.org/cs/ra/print/docs/ra/home.htm)
+  framework in her teaching at Dixon High School, an ethnically, linguistically, and
+  economically diverse school in a high immigrant, rural community in California's
+  Central Valley.
+website_url: https://readingapprenticeship.org/
+image_fid: '634'
+splash_image_fid: '3920'
+author_image_fid: '4159'
+summary: Two practices help students to make sense of primary source documents on
+  the internment of Japanese Americans while improving their reading skills.
+splash_image: /files/ReadingThinkingSplash.jpg
+image: /files/00126thr.jpg
+author_image: /files/author_image/GayleCribb75x75.jpg
 ---
+
+
 
 This 11th-grade honors U.S. history class, using [Reading Apprenticeship](http://www.wested.org/cs/ra/print/docs/ra/home.htm) techniques developed by WestEd, shows students engaged in the process of reading primary source documents as a means of better understanding the internment of Japanese Americans during World War II. The students in this [video](https://readingapprenticeship.org/video/honors-u-s-history/) are in an honors classroom. The class is in an ethnically, linguistically, and economically diverse school in a high immigrant, rural community. This video provides examples of two promising practices:
 

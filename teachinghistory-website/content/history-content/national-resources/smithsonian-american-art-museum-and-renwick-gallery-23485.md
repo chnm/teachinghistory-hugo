@@ -2,12 +2,19 @@
 title: Smithsonian American Art Museum and Renwick Gallery
 date: '2009-11-04T13:18:55'
 lastmod: '2018-09-25T15:37:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23485
 url: /history-content/national-resources/23485
 featured: true
+website_url: http://americanart.si.edu/
+splash_image_fid: '5065'
+thumbnail_fid: '2221'
+summary: American art makes the interpretive nature of historical knowledge clear.
+splash_image: /files/SmithsonianAmerican432x240.jpg
+thumbnail: /files/quiz_thumbnail/WIMagThumbnail_0.jpg
 ---
+
 
 The Smithsonian American Art Museum consists of the United State's original collection of American art— from paintings and sculpture to photography and folk art. As their website states, "The collection captures the aspirations, character and imagination of the American people throughout three centuries." Key artists represented include Georgia O'Keefe, Mary Cassatt, Helen Frankenthaler, Christo, Nam June Paik, and Robert Rauschenberg.
 Of course, educational standards are crucial. Therefore, the museum offers more than 25 resources based on national education standards. Topics covered include Civil War photography, Reconstruction, landscapes, George Catlin and the Great Plains Native Americans, Manifest Destiny, the evolution of democracy, community, Latino culture, African American experiences, 20th-century history, Puerto Rico, the West, and the Great Depression. This section also includes two .pdf files intended to help elementary school and middle school students learn to interpret art.

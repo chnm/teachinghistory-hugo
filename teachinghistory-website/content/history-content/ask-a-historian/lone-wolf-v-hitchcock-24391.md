@@ -2,16 +2,25 @@
 title: Lone Wolf v Hitchcock
 date: '2010-11-21T08:09:31'
 lastmod: '2018-09-19T13:21:21'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24391
 question: Where did the *Lone Wolf* v *Hitchcock* case originate, and what did it
   decide?
 url: /history-content/ask-a-historian/24391
+splash_image_fid: '7163'
+summary: Part of a series of laws that displaced Native Americans from land allotted
+  to them through treaties with the U.S. government.
+splash_image: /files/Guipago240.jpg
 ---
+
 
 *Lone Wolf* v *Hitchcock* (187 U.S. 553, 1903) was part of a long string of treaties and legislative and judicial measures that displaced North America’s First Peoples from their ancestral lands, hemmed them into “reservations,” and eventually detribalized them. This Supreme Court decision originated on the Kiowa-Comanche reservation, which the Medicine Lodge Treaty (1867) had established in Indian Territory. The treaty guaranteed the Kiowa and Comanche “absolute and undisturbed use and occupation” of these reservation lands and stipulated that in order for any portion of the reservation lands to be ceded to the U.S., three-fourths of the adult males in the tribe had to give their approval. However, in 1900, without Native American consent, Congress passed an Allotment Act that divided the Kiowa-Comanche lands into 160-acre allotments to give to the Native American residents of the reservation. Those who accepted the allotments were also given American citizenship. The “surplus” lands left after the allotment were to be sold to whites, and the Kiowa and Comanche were to receive about one dollar per acre for these lands. In 1902, Kiowa headman Lone Wolf sued newly-appointed Secretary of the Interior Ethan Allen Hitchcock to stop the allotment of the Reservation. Lone Wolf argued that the allotment was a denial of due process and a violation of the consent requirement in the Medicine Lodge treaty. The federal government’s lawyers asserted that Congress had a right to alter the terms of the treaty through legislation, because it had paramount authority over Indian affairs. Justice A.C. Bradley of the Supreme Court of the District of Columbia rejected the Kiowa claim that the 1900 Act deprived tribes of due process. He stated that lack of consent was not relevant because Native American matters were under the exclusive control of Congress. The Court of Appeals upheld Bradley’s decision, and the United States Supreme Court agreed.
 
 > From their very weakness and helplessness. . . there arises the duty of protection, and with it the power
 
 Justice Edward Douglas White’s opinion stated that Congress had the right to alter the terms of treaties with Native American tribes, because “authority over the tribal relations of the Indians has been exercised by Congress from the beginning, and the power has always been deemed a political one.” The judiciary could not interfere in Congress’s “plenary power.” This decision was based on the idea that Indians held dependent status to the United States government. Calling Native Americans “the wards of the nation,” White stated that “from their very weakness and helplessness, so largely due to the course of dealing of the Federal government with them and the treaties in which it has been promised, there arises the duty of protection, and with it the power.” This assertion of paternal dominion over Native Americans reversed the Supreme Court’s acknowledgment of a certain measure of Indian autonomy in previous cases, such as *Worcester* v *Georgia* 31 U.S. (6 Pet.) 515 (1832). Shortly after the decision, the U.S. opened Kiowa lands to white settlers, and over 50,000 settled on the “surplus” lands that Kiowa and Comanche had possessed under the Medicine Lodge Treaty. The “plenary power” doctrine first affirmed in *Lone Wolf* v *Hitchcock* is still valid Indian policy today.
+
+---
+
+Clark, Blue. [*Lone Wolf* v *Hitchcock*: Treaty Rights and Indian Law at the End of the Nineteenth Century.](https://www.nebraskapress.unl.edu/university-of-nebraska-press/9780803264014/) Lincoln: University of Nebraska Press, 1999. Pommersheim, Frank. [*Broken Landscape: Indians, Indian Tribes, and the Constitution.*](https://global.oup.com/academic/product/broken-landscape-9780195373066?cc=us&lang=en&) Oxford: Oxford University Press, 2009.

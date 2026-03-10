@@ -2,11 +2,24 @@
 title: Joe Jelen on Digital Timelines
 date: '2010-12-08T14:55:48'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24425
 url: /nhec-blog/24425
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+date_published: '2011-02-21T00:00:00'
+image_fid: '6940'
+splash_image_fid: '6941'
+author_image_fid: '6942'
+summary: Tired of using up rolls of butcher paper on making timelines? High-school
+  teacher Joe Jelen recommends flexible online timeline-building tools, instead.
+splash_image: /files/splash-blog-timeline.jpg
+image: /files/image-blog-timeline.jpg
+author_image: /files/author_image/Author_Photo_Joseph_Jelen_75x75.jpg
 ---
+
+
 
 ## Beyond Butcher Paper
 

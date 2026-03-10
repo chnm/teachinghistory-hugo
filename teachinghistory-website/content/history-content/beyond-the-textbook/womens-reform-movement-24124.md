@@ -2,11 +2,16 @@
 title: Women's Reform Movement
 date: '2010-07-23T14:29:57'
 lastmod: '2018-07-03T11:12:50'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 24124
 url: /history-content/beyond-the-textbook/24124
+author_bio: Ronald Walters is a Professor of History at Johns Hopkins University with
+  a special interest in radicalism, reform, race, and popular culture.
+author_image_fid: '6164'
+author_image: /files/author_image/Walters_author.jpg
 ---
+
 
 A common story runs through textbook accounts of antebellum women reformers. It is a tale of origins and future progress, of new roles for women and the beginning of a movement for gender equality stretching to the present day. This story's usual starting point is the enormous amount of social, economic, demographic, and cultural change that occurred between 1815 and the Civil War. Exactly how the antebellum transformation of America produced an antislavery and a women's rights movement is often vague in textbook accounts, but three things commonly receive attention.
 

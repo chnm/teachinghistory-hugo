@@ -2,11 +2,16 @@
 title: Questioning Textbook Authority
 date: '2008-12-27T18:27:48'
 lastmod: '2011-09-21T04:01:53'
-type: teaching_with_textbooks
+content_type: teaching_with_textbooks
 draft: false
 drupal_nid: 20571
 url: /best-practices/teaching-with-textbooks/20571
+splash_image_fid: '4125'
+summary: Show your students how to challenge the authority gap between the textbook
+  and themselves.
+splash_image: /files/QuestioningTextbook432x240_0.jpg
 ---
+
 
 ## Why Do It?
 

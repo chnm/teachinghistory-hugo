@@ -2,11 +2,29 @@
 title: Questioning History Using the Census
 date: '2011-05-26T17:35:57'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24708
 url: /nhec-blog/24708
+author_bio: Alex Stein received a PhD in Education Administration with a specialization
+  in the History of Education from the University of Maryland. His earlier degrees
+  were in U.S. History. He served in the U.S. Department of Education for 24 years,
+  retiring in January 2011. His most recent assignment was as the team leader of the
+  Teaching American History program.
+date_published: '2011-06-25T00:00:00'
+image_fid: '7520
+
+
+  7520'
+splash_image_fid: '7521'
+author_image_fid: '7596'
+summary: Historian Alex Stein poses questions about population shift in Detroit, and
+  models using census data and other sources to answer his question.
+splash_image: /files/splash-blog-ascensus.jpg
+author_image: /files/author_image/alex_author.jpg
 ---
+
+
 
 What can we learn about the importance of population change and industrial development in Detroit, MI? What does the Detroit story tell us about industrialization in American history? Do upsurges or downturns in the population become permanent? Or do they change direction again? Where do the people come from who determine the population changes, and where do they go? The 2010 Census and other demographic data helped me answer these questions for myself. Students can use demographic data to answer questions in similar ways.
 

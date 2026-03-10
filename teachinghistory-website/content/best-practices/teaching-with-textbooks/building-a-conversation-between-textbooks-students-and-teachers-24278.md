@@ -2,11 +2,24 @@
 title: Building a Conversation between Textbooks, Students, and Teachers
 date: '2010-10-06T11:37:00'
 lastmod: '2018-09-25T16:12:51'
-type: teaching_with_textbooks
+content_type: teaching_with_textbooks
 draft: false
 drupal_nid: 24278
 url: /best-practices/teaching-with-textbooks/24278
+author_bio: Stanley L. Pesick directs the Oakland Unified School District Teaching
+  American History (TAH) grant. A former history and government teacher, he earned
+  his PhD in curriculum and teaching education from Stanford University. He currently
+  teaches history/social science methods courses at Mills College and has conducted
+  professional development workshops for history teachers since 1988.
+splash_image_fid: '6653'
+author_image_fid: '6651'
+summary: Class discussion and personal inquiry builds an interactive relationship
+  between students and their textbooks.
+splash_image: /files/reading_splash.jpg
+author_image: /files/author_image/Pesick_headshot.jpg
 ---
+
+
 
 ## Why Do It?
 

@@ -2,11 +2,18 @@
 title: Teaching about Vietnam
 date: '2010-04-06T13:46:17'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23921
 url: /nhec-blog/23921
+date_published: '2010-04-29T00:00:00'
+image_fid: '4623'
+splash_image_fid: '8403'
+summary: The topic is broad and multifaceted; online materials abound.
+splash_image: /files/splash-him-vd21.jpg
+image: /files/wall.jpg
 ---
+
 
 Thirty-five years ago in Vietnam on April 29, 1975, Irving Berlin's seasonally uncharacteristic, *White Christmas* hit the airwaves *via* Saigon's Armed Forces Radio. The North Vietnamese offensive against Saigon advanced, and the musical selection was a pre-arranged code to trigger a massive, dramatic American evacuation.
 It became the largest helicopter evacuation in history—for 18 hours, heavily loaded Marine helicopters ferried 7,000 Americans and South Vietnamese evacuees from the American Embassy compound to the Tan Son Nhut airfield, ultimately to ships of the Seventh Fleet. Thousands more thronged the gates of the compound, hoping for a place on the airlift.

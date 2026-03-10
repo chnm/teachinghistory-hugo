@@ -2,8 +2,15 @@
 title: Aerial Photography
 date: '2008-12-17T20:15:15'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 20518
+duration: 00:01:29
+keywords: World War I, World War II, aircraft, aviation, flight, planes, airplanes,
+  aerial reconnaisance, Corona Project, space, satellites, China, photographs, photography
+website_url: http://www.pbs.org/opb/historydetectives/video/1496227823/
+date_published: '2008-12-18T00:00:00'
+series_name: 'History Detectives: Video Library'
 ---
 
+Tukufu Zuberi of PBS's *History Detectives* provides a brief overview of the history of aerial photography, particularly its use in reconnaissance.

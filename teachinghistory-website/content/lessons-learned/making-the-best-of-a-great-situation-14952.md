@@ -2,10 +2,20 @@
 title: Making the Best of a Great Situation
 date: '2008-02-08T18:10:36'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 14952
+author_bio: Andy Hoffman currently works at WGBH, directing the American History and
+  Civics Initiative, an effort by the Corporation for Public Broadcasting to create
+  highly interactive content for the next generation of learners. He has managed,
+  originated, or consulted on nearly a dozen TAH grants.
+image_fid: '3784'
+splash_image_fid: '4956'
+summary: Three years to spend nearly a million dollars [. . . ]. What could go wrong?
+splash_image: /files/Making_the_Best_of_a_Great_Situation_-_432x240.jg_.jpg
+image: /files/GreatThingsImage.jpg
 ---
+
 
 Directing my first Teaching American History (TAH) grant in 2003, I had three years to spend nearly a million dollars providing professional development to teachers of American history. What could go wrong?
 Plenty, of course. Organizational issues aside, the project faced two challenges. First, given the dollars and the time we had to spend, we simply could not get enough teachers to fill the seats. I have heard over the years TAH grant directors complain about recruitment. "We offer these fabulous programs," they sigh, "but people don’t come."

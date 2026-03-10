@@ -2,11 +2,20 @@
 title: The Cost of Industrialization
 date: '2010-09-08T13:41:48'
 lastmod: '2018-09-21T10:47:39'
-type: lesson_plan_reviews
+content_type: lesson_plan_reviews
 draft: false
 drupal_nid: 24229
 url: /teaching-materials/lesson-plan-reviews/24229
+flexibility_scale: '1'
+topic: Industrialization, organized labor, Progressivism
+website_url: https://investigatinghistory.ashp.cuny.edu/
+image_fid: '6620'
+splash_image_fid: '6481'
+summary: Use the Triangle Shirtwaist fire to examine the benefits and costs of industrialization.
+splash_image: /files/triangle_splash.jpg
+image: /files/lesson_image/triangle_crop.jpg
 ---
+
 
 One of the greatest strengths of this [lesson](https://investigatinghistory.ashp.cuny.edu/module9.php) is its wealth and variety of primary sources. In addition to firsthand narrative accounts, the site also includes many photographs and political cartoons for students to analyze. Another strength is the way the lesson engages students in discussing sources with each other: students share their perceptions with one another after each step of document analysis, and then comment on one another's perceptions—setting the stage for lively historical discussion and debate.
 Students begin the lesson by taking a brief opinion poll regarding industrialization, organized labor, and economic justice. At the end of the lesson students take the same poll, and discuss with their peers how their perceptions have changed as result of what they learned during the lesson.

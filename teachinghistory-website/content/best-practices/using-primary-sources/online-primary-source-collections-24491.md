@@ -2,11 +2,15 @@
 title: Online Primary Source Collections
 date: '2011-02-03T11:21:59'
 lastmod: '2018-09-21T13:36:44'
-type: primary_source_guide
+content_type: primary_source_guide
 draft: false
 drupal_nid: 24491
 url: /best-practices/using-primary-sources/24491
+splash_image_fid: '7088'
+summary: Check out these sites for excellent primary source material.
+splash_image: /files/PS-CollectionsSplash.jpg
 ---
+
 
 It can be time-consuming to find and prepare primary sources for your lessons. On each of the below sites, you will find primary sources that address multiple topics in U.S. History. Many of the sites provide excerpts of lengthy sources and helpful annotations. Start at one of these sites to find primary sources to use in your next lesson!
 

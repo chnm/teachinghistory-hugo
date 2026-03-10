@@ -2,11 +2,24 @@
 title: Joe Jelen on Creating E-books
 date: '2012-03-09T15:34:58'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25494
 url: /nhec-blog/25494
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+date_published: '2012-04-23T00:00:00'
+image_fid: '9031'
+splash_image_fid: '9032'
+author_image_fid: '9000'
+summary: Create e-books yourself, have your students create e-books, or draw on already
+  existing e-books. All you need is Internet access!
+splash_image: /files/ebookssplash.jpg
+image: /files/ebooksimage.jpg
+author_image: /files/author_image/author_jelen_0_0.png
 ---
+
+
 
 Not too long ago e-book readers burst onto the scene. These readers allowed users to carry hundreds of books in one hand. Today, e-book readers are quickly succumbing to the power of iPads and tablet computers. The education world did not adopt e-book readers, but has quickly embraced tablets. Both allow students to read text, but the difference has been students' ability to interact with text on the tablet.
 Digital text is here to stay and compelling arguments have been made for digital textbooks that extend beyond a simple PDF version of the physical textbook (see Teachinghistory.org's [Digital Textbooks Roundtable Discussion](http://teachinghistory.org/issues-and-research/roundtable/25087)). As publishing companies have long had a monopoly on creating content for our classrooms, I will discuss a new push to democratize text authorship that hopes to put the power to create in the hands of teachers.

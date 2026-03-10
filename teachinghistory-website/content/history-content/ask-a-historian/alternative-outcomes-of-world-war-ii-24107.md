@@ -2,14 +2,19 @@
 title: Alternative Outcomes of World War II
 date: '2010-07-07T21:51:03'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24107
 question: How was the Second World War likely to end if the U.S. hadn't intervened?
   Who seemed to be winning the war before the U.S. joined after the Pearl Harbor attack?
   Would the Allies have been able to prevail without U.S. help?
 url: /history-content/ask-a-historian/24107
+splash_image_fid: '6035'
+summary: Can historians answer questions about alternate history? No, but they can
+  assess a particular moment in the past.
+splash_image: /files/field-commanders-1945.jpg
 ---
+
 
 During the months preceding the attack on Pearl Harbor, the war in Europe had essentially boiled down to a contest between the Axis Powers of Germany and Italy, and against them, the Soviet Union and Great Britain.
 Six months before Pearl Harbor, Germany had launched an invasion of the Soviet Union, its erstwhile ally. By December 5, two days before the Japanese attack on Pearl Harbor, German armies had advanced to within 5 miles of Moscow.
@@ -24,3 +29,12 @@ United States forces played a direct role in defeating Germany, but also forced 
 > One of the delights of the alternate history genre of fiction is that its authors generally expend some considerable effort on the notion of history itself.
 
 Your questions are hypothetical. They invite speculation. One of the delights of the alternate history genre of fiction is that its authors generally expend some considerable effort on the notion of history itself, especially the way in which history unwinds out of a skein of causes both large and small. In these novels, large and familiar causes and conditions and forces roll out across the world, but small human details, such as a missed appointment at the Reichs Ministry, an overlooked telegram, Hitler's mistress Eva Braun's choice of perfume on a fateful day, or a random batch of sunspots that interferes with a particular radio transmission, sometimes cascade into a vastly different history than the one with which we are familiar.
+
+---
+
+Philip K. Dick, [*The Man in the High Castle*](http://www.librarything.com/work/16570) (1962), in which Nazi Germany and Imperial Japan win World War II. The East Coast and Midwest of the United States are occupied by Germany and the West Coast by Japan.
+Harry Turtledove, [*In the Presence of Mine Enemies*](http://www.librarything.com/work/182089) (2003), in which the U.S. does not enter the war, and the Axis Powers win. Germany then bombs the U.S. in the 1970s with nuclear weapons and defeats it.
+Robert Harris, [*Fatherland*](http://www.librarything.com/work/2165743) (1992), another one in which Germany wins the war, although the U.S. defeats Japan.
+Norman Spinrad, [*The Iron Dream*](http://www.librarything.com/work/49259) (1972), which is presented as a science fiction novel written by pulp-fiction artist Adolf Hitler after he flees Germany to live in the United States after the end of the First World War.
+Jo Walton’s ["Small Change"](http://www.librarything.com/series/Small+Change+%281%29) series [*Farthing* (2006), *Ha’penny* (2007), and *Half a Crown* (2008)], in which the U.S. fails to provide aid to the UK to resist Germany and Britain makes peace with the Nazi Reich. Germany continues a drawn-out war with the Soviet Union, and Britain turns into a fascist state.
+Newt Gingrich and William R. Forstchen, [*1945*](http://www.librarything.com/work/48047) (1995), in which the U.S. defeats Japan but not Germany, and a subsequent "cold war" ensues between the U.S. and Germany.

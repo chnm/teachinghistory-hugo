@@ -2,10 +2,20 @@
 title: Fertile Ground for Harvesting Ideas
 date: '2011-11-01T12:52:41'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25286
+author_bio: 'Keith Schoch is a 6th-grade Reading/Language Arts teacher in Bedminster,
+  NJ, as well as a frequent presenter on using picture books and novels across the
+  curriculum. He shares his thoughts and resources with colleagues via three blogs:
+  *Teach with Picture Books* (teachwithpicturebooks.blogspot.com), *How to Teach a
+  Novel* (howtoteachanovel.blogspot.com), and *Teaching that Sticks* (teachingthatsticks.blogspot.com).'
+author_image_fid: '8503'
+summary: The ability of good fiction to transport the reader into another time and
+  place is one factor which makes it such an essential tool for teachers of history.
+author_image: /files/author_image/author_schoch.jpg
 ---
+
 
 Fiction in the U.S. History classroom can serve to humanize the otherwise dry facts and dates which populate your average history textbook. It can prompt students to experience the emotional side of past events as experienced by actual people, people in many ways similar to the students themselves.
 I recently had the honor of hearing Jane Yolen speak about her classic historical fiction novel *The Devil's Arithmetic* . She described becoming so immersed in research on the Holocaust that she suffered vivid nightmares; she truly experienced the time travel effect portrayed in the novel. She then added that while many critics deride the use of time travel in fiction, it's a device that effectively places children into the shoes of those who lived in the past.

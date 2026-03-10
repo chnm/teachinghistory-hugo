@@ -2,11 +2,25 @@
 title: Jeremiah McCall on Evaluating Simulation Games for Classroom Use
 date: '2011-10-14T13:28:14'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25225
 url: /nhec-blog/25225
+author_bio: 'Jeremiah McCall, PhD, teaches high school history at Cincinnati Country
+  Day School. He is the author of *Gaming the Past: Using Video Games to Teach Secondary
+  History*. He also maintains the site [gamingthepast.net](http://gamingthepast.net/).'
+date_published: '2011-11-28T00:00:00'
+image_fid: '8319'
+splash_image_fid: '8320'
+author_image_fid: '8318'
+summary: So you want to use digital games in your teaching. How do you decide which
+  games suit your needs? Jeremiah McCall gives tips for evaluating games.
+splash_image: /files/simulation2splash.jpg
+image: /files/simulation2image.jpg
+author_image: /files/author_image/authorphotojeremiahmccall75x75_2_0.jpg
 ---
+
+
 
 *(Note: This blog entry is the second part of a six-part series. Read more on using games in the classroom in parts [one](http://teachinghistory.org/nhec-blog/25117), [three](http://teachinghistory.org/nhec-blog/25338), [four](http://teachinghistory.org/nhec-blog/25451), [five](http://teachinghistory.org/nhec-blog/25523), and [six](http://teachinghistory.org/nhec-blog/25624).)*
 The [first part](http://teachinghistory.org/nhec-blog/25117) in this series considered resources for finding simulation games. Once a potentially suitable sim has been found, however, it still needs to be tested and evaluated for classroom use. In other words, the teacher needs to play-test it. While teachers do not have to be experts in playing games they assign in class, they must be familiar with how those games play and how they represent reality. With this in mind, this segment addresses the most important considerations when evaluating a game for classroom use.

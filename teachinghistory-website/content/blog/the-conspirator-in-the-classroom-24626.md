@@ -2,11 +2,27 @@
 title: The Conspirator in the Classroom
 date: '2011-04-15T12:28:54'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24626
 url: /nhec-blog/24626
+author_bio: Jennifer Rosenfeld is Outreach Director for Teachinghistory.org. Previously,
+  she served as Deputy Executive Director of the Abraham Lincoln Bicentennial Commission
+  which planned the national celebrations of the 16th president's birth. Earlier in
+  her career, Jennifer directed education programs for The Long Island Museum and
+  the Old York Historical Society.
+date_published: '2011-04-15T00:00:00'
+image_fid: '7356'
+splash_image_fid: '7352'
+author_image_fid: '7353'
+summary: With the new film, *The Conspirator*, out in theaters, here are a few resources
+  to help you explore the story of Mary Surratt and America's first presidential assassination.
+splash_image: /files/41.jpg
+image: /files/body-lincoln01.jpg
+author_image: /files/author_image/Jennifer1.jpg
 ---
+
+
 
 Today, the 146th anniversary of President Abraham Lincoln’s death, a new historical feature film, *The Conspirator*, opens.
 It is interesting timing for another reason as well. *The Conspirator* is the first major motion picture to open during the Civil War sesquicentennial and yet it begins with one of the war’s closing chapters: the assassination of President Lincoln. It quickly, however, takes you beyond the events of the assassination and into a less well-known aspect of post-Civil War history.

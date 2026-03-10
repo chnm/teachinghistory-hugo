@@ -2,11 +2,17 @@
 title: A New Look at Abraham Lincoln
 date: '2008-11-09T18:37:17'
 lastmod: '2017-12-01T13:36:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20291
 url: /nhec-blog/20291
+date_published: '2008-11-10T00:00:00'
+image_fid: '415'
+summary: Abraham Lincoln turned to the developing field of photography to broaden
+  his public presence.
+image: /files/02-18_full.jpg
 ---
+
 
 The new media of the times has always affected how presidents (and others) reach out to the public.
 Internet communication played an important role in the 2008 presidential campaign. If candidates didn't start their run for the office with a strong web presence, the success of president-elect Barack Obama's online outreach led other contenders to re-examine its usefulness. Current statistics from an October 31 [Pew Research Center article](http://pewresearch.org/pubs/1017/internet-now-major-source-of-campaign-news) compare the internet as a major source of campaign news with other media.

@@ -2,10 +2,19 @@
 title: What Second Graders Can Teach Us
 date: '2012-02-10T10:59:29'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25432
+author_bio: Dagoberto Eli Ramirez was most recently the K–12 social studies coordinator
+  for the La Joya Independent School District in La Joya, TX, where he directed his
+  third Teaching American History (TAH) grant. He is currently a doctoral student
+  in Educational Leadership at the University of Texas—Pan American in Edinburg, TX.
+author_image_fid: '8850'
+summary: Second graders can teach us a lot about the specific attributes of professional
+  development that are most meaningful and lasting for history teachers.
+author_image: /files/author_image/author_ramirez.jpg
 ---
+
 
 Nine-plus years of implementing three Teaching American History (TAH) grants totaling over $3.5 million have taught me much about solid, needs-meeting professional development for history teachers. Yet, it was in co-reflecting about the topic with my wife Grace—an elementary teacher-of-the-year last year now re-experiencing teaching second graders for the first time since her inception year in 1990—that I quickly realized that what makes for meaningful, lasting history teacher learning is not much different than what counts for meaningful, lasting second grader learning.
 **Personal, Relevant Connections**

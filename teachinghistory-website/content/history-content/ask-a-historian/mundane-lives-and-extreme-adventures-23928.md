@@ -2,12 +2,17 @@
 title: Mundane Lives and Extreme Adventures
 date: '2010-04-08T09:47:49'
 lastmod: '2017-12-05T08:43:31'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 23928
 question: What were the primary concerns of life in the New World?
 url: /history-content/ask-a-historian/23928
+splash_image_fid: '4810'
+summary: What were the primary concerns of English colonists in early 17th-century
+  America?
+splash_image: /files/jamestown-settlers-new.jpg
 ---
+
 
 Let me somewhat arbitrarily focus the question more specifically on the earliest English explorers, adventurers, and settlers in Virginia and Massachusetts in the first half of the 17th century.
 Reading their published accounts gives one the impression that their lives alternated between extremes of feast and famine, between health and sickness, between sublime ease and almost unimaginable hardship, and between periods of contentment and even boredom and periods of sharp fear and terror interspersed with periods of sheer joy. Supplementing those accounts, however, with evidence from rather more mundane sources such as probate and account books, old court records, and modern excavations of kitchen middens from colonial sites, yields a larger story of people organizing and conducting their work and family lives in ways similar to ours today.
@@ -31,3 +36,8 @@ Colonel Henry Norwood's pamphlet, *A Voyage to Virginia*, described his harrowin
 The colony in Virginia was established in the midst of the Algonquian nation of Powhatan, and the Plymouth Colony on the land of the Wampanoag tribe. Relations with the Indians were sketchy and volatile, consisting of periods of friendship interspersed with periods of fighting, sometimes alongside the Indians of one tribe against its enemies from other tribes. The colonists traded metal implements and cloth for food, furs, and land. But they also carefully constructed fortifications and palisades to protect themselves against the almost certain eventuality of attack by the various tribes and nations of Indians among whom they settled. Both colonies suffered large loss of life from Indian attack.
 All in all, much of the earliest settlers' time and energies were devoted to providing for their basic, physical subsistence and doing what they could to ensure their survival. Much of the colonies' early precariousness was due to not having yet cleared and planted enough land to ensure harvests that would not only provide the colonists daily fare, but would also allow a surplus to draw upon during times of scarcity.
 Until about the mid-20th century, historians largely worked from the writings of the colonists and explorers to understand what colonial life was like. But those writings offered only a very selective picture. For the past several decades, detailed research by archeologists and archivists into the material culture of the colonists has dramatically broadened and sometimes corrected the historical picture.
+
+---
+
+[The History of Jamestown](http://apva.org/rediscovery/page.php?page_id=6) at Preservation Jamestown.
+[The Plymouth Colony Archive Project](http://www.histarch.uiuc.edu/plymouth/") at the University of Virginia.

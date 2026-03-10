@@ -2,11 +2,16 @@
 title: 'Teaching Native American History: I is for Inclusion'
 date: '2009-11-09T10:00:27'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23490
 url: /nhec-blog/23490
+date_published: '2009-11-09T00:00:00'
+image_fid: '3614'
+summary: How can I tell good books about Indians from bad ones?
+image: /files/books.gif
 ---
+
 
 Stereotypes and inadequate or incorrect information continue to haunt Native American historiography and literature. According to the [American Indian Library Association](http://www.ailanet.org/faq.htm) (AILA) (a unit within the [American Library Association](http://www.ala.org)), "The predominant ideas and images about Indians held by non-Indians are still very much rooted in the past, or poisoned by stereotypical images, such as sports team mascots."
 For decades, the AILA has tackled the intricacies of the representation of American Indians to help educators present accurate materials. Their work grew out of a standing-room-only workshop at the American Library Association Annual Conference in 1991, when the association answered two frequently-asked-questions from school librarians: "How can I tell good books about Indians from bad ones?" and "Where can I find reliable reviews?"

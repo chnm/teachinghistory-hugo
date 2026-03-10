@@ -2,12 +2,23 @@
 title: Defining Dred Scott
 date: '2012-10-01T11:49:42'
 lastmod: '2017-12-05T08:51:59'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 25752
 question: Who was Dred Scott, and what was the significance of his case?
 url: /history-content/ask-a-historian/25752
+author_bio: Matthew Pinsker holds the Pohanka Chair for Civil War History at Dickinson
+  College in Carlisle, PA, and serves as Director of the [House Divided Project](http://housedivided.dickinson.edu/sites),
+  an innovative effort to create free digital resources for K-12 and undergraduate
+  classrooms studying the Civil War era.
+splash_image_fid: '9531'
+author_image_fid: '9529'
+summary: Who was Dred Scott, and what was the significance of his case?
+splash_image: /files/scottsplash.jpg
+author_image: /files/author_image/pinskerm.jpg
 ---
+
+
 
 Dred Scott was one of the most famous slaves in American history. By filing for freedom in St. Louis Circuit Court on April 6, 1846, this husband and father of two girls set in motion a chain of events that helped bring about the coming of the Civil War and the destruction of slavery.
 Scott was born about 1800 in Virginia, and grew up as the property of Peter Blow. The Blow family moved westward and eventually settled in St. Louis, MO, by 1830. A few years later, U.S. Army surgeon John Emerson purchased Scott and brought him to Illinois and then the Wisconsin Territory. At Fort Snelling (in what is now Minnesota), Dred Scott married Harriet Robinson, who was owned by another white man living in the fort. Dred and Harriet Scott then raised two girls, Eliza and Lizzie.
@@ -19,3 +30,13 @@ The Scotts brought suit against Mrs. Emerson in 1846, which was decided against 
 
 The legal battle continued until March 6, 1857, when Chief Justice Roger Taney read a sweeping majority opinion from the Supreme Court that denied blacks federal citizenship rights, swept aside comity concerns, and invalidated the 1820 Missouri Compromise legislation, declaring that Congress had no power to prohibit slavery in the territories. The furious backlash against the decision by Northern Republicans essentially guaranteed that the election of 1860 would be one of the most significant in American history.
 Dred Scott, however, was not alive to see either that political contest or the war that subsequently ended slavery. He had died in 1858, a free man and head of a free household. Taylor Blow, the son of Dred Scott’s first owner, had made the remarkable decision in May 1857 to purchase the entire Scott family and set them free. There are still descendants of the Scotts alive today.
+
+---
+
+Arenson, Adam. “[Freeing Dred Scott](http://www.common-place.org/vol-08/no-03/arenson/).” *Common-Place* 8:3 (April 2008)
+Ehrlich, Walter. *They Have No Rights: Dred Scott’s Struggle for Freedom*. Westport, CT: Greenwood Press, 1979.
+Fehrenbacher, Don E. *The Dred Scott Case: Its Significance in American Law and Politics*. New York: Oxford University Press, 1978.
+Konig, David Thomas, Paul Finkelman, and Christopher Alan Bracey, eds. *The Dred Scott Case: Historical and Contemporary Perspectives on Race and Law*. Athens: Ohio University Press, 2010.
+Pinsker, Matthew. “[Dred and Harriet Scott: A Family Story of Slavery and Freedom](http://vimeo.com/47762696).” Video presentation. Gilder Lehrman Institute for American History.
+Washington University in St. Louis. “[The Revised Dred Scott Case Collection](http://digital.wustl.edu/d/dre/index.html).”
+VanderVelde, Lea. *Mrs. Dred Scott: A Life on Slavery’s Frontier*. New York: Oxford University Press, 2009.

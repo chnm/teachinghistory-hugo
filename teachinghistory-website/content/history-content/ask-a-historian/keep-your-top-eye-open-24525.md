@@ -2,7 +2,7 @@
 title: Keep Your Top Eye Open
 date: '2011-02-10T12:22:59'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24525
 question: I have a copy of a poster from 1851 that warns the “Colored People of Boston”
@@ -11,7 +11,11 @@ question: I have a copy of a poster from 1851 that warns the “Colored People o
   TOP EYE open.” What is the reference to the “Top Eye”? What does “Top Eye” mean
   in this case?
 url: /history-content/ask-a-historian/24525
+splash_image_fid: '7164'
+summary: Boston abolitionists on the lookout for slave-catchers in 1851.
+splash_image: /files/cautionposter432x240.jpg
 ---
+
 
 The [original](http://chnm.gmu.edu/lostmuseum/lm/307/) of this handbill is in the Boston Public Library’s Rare Book collection. It is part of the papers, manuscripts, and diaries of abolitionist and controversial Unitarian clergyman Theodore Parker, who composed it and had it printed and distributed.
 
@@ -48,3 +52,8 @@ The “top eye” was the “skylight of the soul,” like the oculus at the top
 *There is no fear of the “next thing,” because it is the next and not the last. There is no looking back, after the puerile fashion of Lot’s wife, but, with earnest gaze forward and upward, this family group moves forward, blessing and blessed. “Keep your top eye open,” is the mother’s constant motto for her children.*
 About the same time, Congregationalist lecturer, Joseph Cook, at one of his weekly prayer meetings at Boston’s Tremont Temple, told his audience:
 *British advanced thought believes in its frontal eye, but not in its coronal eye. This is a defect of the English mind and of the American. When you reach India, in your tour of the globe, you will find people who believe in their coronal eye; who see God in an intuitive way, as Emerson did. … The Scotch have an eye in the dome of their souls; but they have such an immense front window that they are chiefly occupied in gazing out of it. Rarely, except in periods of mighty religious fervor, do they look aloft through the dome. … In general, Scotchmen, Englishmen, and Americans believe in experience, observation, definition, induction, the scientific method, and nothing else. You notice thus one of the defects of Anglo-Saxon advanced thought, that it sees with its front eye, and not with its top eye.*
+
+---
+
+The Boston Public Library [Anti-Slavery Collection](http://www.archive.org/details/bplscas/).
+Archer Taylor, Bartlett Jere Whiting, *A Dictionary of American Proverbs and Proverbial Phrases, 1820-1880*. Cambridge, Mass.: Belknap Press, 1958.

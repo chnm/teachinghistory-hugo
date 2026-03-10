@@ -2,7 +2,7 @@
 title: Middle School Introduction
 date: '2010-11-29T11:08:07'
 lastmod: '2018-09-19T15:40:35'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24409
 url: /middle-school-intro

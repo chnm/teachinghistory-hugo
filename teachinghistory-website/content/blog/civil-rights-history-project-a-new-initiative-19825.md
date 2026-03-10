@@ -2,10 +2,12 @@
 title: 'Civil Rights History Project: A New Initiative'
 date: '2008-09-19T20:09:52'
 lastmod: '2011-12-19T14:32:49'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19825
 url: /nhec-blog/19825
+date_published: '2008-09-19T00:00:00'
+summary: Proposal for endeavor encompasses two phases.
 ---
 
 The House of Representatives passed the *Civil Rights History Project Act* (H.R. 998) on September 17. The Act directs the Library of Congress and the National Museum of African American History and Culture to collect oral histories of participants in the Civil Rights movement.

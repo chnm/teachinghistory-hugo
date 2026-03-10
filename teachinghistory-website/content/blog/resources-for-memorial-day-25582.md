@@ -2,15 +2,21 @@
 title: Resources for Memorial Day
 date: '2012-04-20T16:49:26'
 lastmod: '2023-05-22T13:52:24'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25582
 url: /nhec-blog/25582
+date_published: '2012-05-15T00:00:00'
+splash_image_fid: '9255'
+summary: How do you observe Memorial Day? Teachinghistory.org shares teaching resources
+  for the holiday.
+splash_image: /files/splash-blog-md12.jpg
 ---
+
 
 Observed on the last Monday of May, our modern Memorial Day has its roots in two wars. In the late 19th century, "Decoration Day" honored the Civil War dead. After World War I, the holiday expanded to honor all citizens who died in service to the U.S. (though it would not become an official national holiday until 1971).
 
-[![](http://teachinghistory.org/files/image-md-sp.jpg)](http://teachinghistory.org/spotlight/memorial-day)
+[![](/files/image-md-sp.jpg)](http://teachinghistory.org/spotlight/memorial-day)
 
 Ready to learn more about Memorial Day? Visit our Memorial Day [spotlight page](http://teachinghistory.org/spotlight/memorial-day) for teaching strategies, quizzes, website reviews, videos, and more on the history of the holiday. Listen to a [presentation](http://teachinghistory.org/history-content/history-in-multimedia/25565) on dog tags, discover high school teacher James Percoco’s [techniques](http://teachinghistory.org/best-practices/using-primary-sources/24079) for engaging students with monuments and memorials, or test your knowledge of the [54th Massachusetts](http://teachinghistory.org/history-content/quiz/24192), the Civil War regiment made famous in the film *Glory*. Other organizations also offer rich Memorial Day resources. Try visiting:
 

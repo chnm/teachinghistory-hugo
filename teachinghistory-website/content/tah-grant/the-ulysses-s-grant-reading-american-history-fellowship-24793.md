@@ -2,8 +2,9 @@
 title: The Ulysses S. Grant Reading American History Fellowship
 date: '2011-06-09T20:39:25'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24793
 ---
 
+Led by Moorestown Township Public Schools, a consortium of 14 school districts in southern New Jersey will deliver the *Ulysses S. Grant Reading American History Fellowship*. Students' low scores on reading assessments prompted the consortium to incorporate a literacy component into the fellowship program. Each year, fellows from elementary and middle schools (and selected teachers from secondary schools in need of improvement) will attend 14 days of professional development: a 2-day fall colloquium, a 3-day winter colloquium, a 2-day field-study trip, 4 half-days of research and review, and a 5-day summer institute. Fellows will also attend Taking History Webinars, have access to texts and interactive Web-based lessons, participate in videoconferences and online chats, and get classroom observations and real-time feedback from coaches and peers via thereNow's IRIS. A cohort of 45 teachers will receive the core program each year and participate in other activities throughout the project. Five teacher-leaders will also receive an Advanced Placement training course in U.S. history and a week-long turnkey training at Rowan University. The focus will be on key issues, documents, events, and personalities in traditional American history. Instructional strategies will include the American Institute for History Education's Signature Strategies, including the Binary Paideia paradigm for teaching children to compare and contrast information as they research and analyze history, the Grant Wiggins and Jay McTighe Understanding by Design approach to lesson design, and proven strategies for incorporating history content into reading and language arts. An interactive fellowship Web site will showcase fellows' historical narratives, lessons, and virtual field tours.

@@ -2,11 +2,25 @@
 title: 'Film Review: The Alamo'
 date: '2011-09-16T10:56:49'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25160
 url: /nhec-blog/25160
+author_bio: Stanley Corkin is Professor of English at the University of Cincinnati.
+  He has published several studies of the relationships between history and popular
+  film.
+date_published: '2012-02-22T00:00:00'
+image_fid: '8559'
+splash_image_fid: '8560'
+author_image_fid: '8124'
+summary: Remember the Alamo! But what does the U.S. remember? Historical fact or historical
+  mythology? Historian Stanley Corkin looks at the film *The Alamo*.
+splash_image: /files/alamosplash.jpg
+image: /files/alamoimage.jpg
+author_image: /files/author_image/author_photo_corkin.jpg
 ---
+
+
 
 A funny—or not so funny—thing happened on the way to making what was conceived as a historically complex version of the Alamo's story: 9/11. Though the Walt Disney Company had agreed to make *The Alamo* at least two years before the World Trade Center fell, the film was reconceived in the year after that event. By the summer of 2002, *The Alamo* had lost its director (Ron Howard) and its star (Russell Crowe), and the screenplay by John Sayles was undergoing a major rewrite. Howard was replaced by John Lee Hancock, Crowe was replaced by Dennis Quaid, and Sayles's screenplay was rewritten by a team of script doctors. The 2004 release of *The Alamo* culminated what had been a long and public struggle to make this film.
 Howard's expressed interest was based on his desire to correct the historical inaccuracies found in the John Wayne-directed *The Alamo* (1960), a creature of the Cold War and Wayne's rightist politics. In addition, Howard was intrigued by the complexities of ethnic conflict and the issues of U.S. expansion that the Alamo story presented. Said Howard upon leaving the project, “I realized that there was a disconnect between the studio and I as to how the film should be approached.” The completed version of the film retains vestiges of Howard's vision, but they are largely submerged within a film that was built by committee in a post-9/11 United States.

@@ -3,10 +3,19 @@ title: 'Stimulating Interest and Thought in U.S. History: Utilizing Historical F
   in the Social Studies Classroom'
 date: '2011-11-01T13:50:08'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25289
+author_bio: Bárbara C. Cruz is Professor of Social Science Education at the University
+  of South Florida in Tampa. Her work centers on teacher education, diversity issues,
+  and social studies education.
+author_image_fid: '8506'
+summary: Fiction should play a vital role in the U.S. history classroom. Historical
+  fiction in particular can support and foster multicultural and global understanding
+  by including perspectives that are often missing from textbooks.
+author_image: /files/author_image/author_cruz.jpg
 ---
+
 
 For the past six years, I have had the opportunity to work closely with a number of elementary teachers who wanted to teach more history in their classrooms. Although social studies is mandated at all grade levels in our district, teachers have keenly felt the demands of high-stakes testing in other, presumably more important, subject areas. How can they teach more history when social studies is often relegated to the end of the school day for 20 to 30 minutes (and oftentimes skipped altogether)? Further, history is often a “hard sell” to students, with many of them thinking that history is something that occurred in the distant past and with little connection to their own lives.
 We agreed that an effective way to stimulate students’ interest, while simultaneously satisfying district mandates in reading and writing, was to utilize historical fiction. After working with these teachers and their students, now more than ever, I am convinced that fiction should play a vital role in the U.S. history classroom.

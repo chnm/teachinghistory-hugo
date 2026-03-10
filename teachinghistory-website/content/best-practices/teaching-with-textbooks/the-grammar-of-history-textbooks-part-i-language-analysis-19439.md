@@ -2,11 +2,16 @@
 title: 'The Grammar of History Textbooks, Part I: Language Analysis'
 date: '2008-07-31T12:28:43'
 lastmod: '2011-09-21T02:01:39'
-type: teaching_with_textbooks
+content_type: teaching_with_textbooks
 draft: false
 drupal_nid: 19439
 url: /best-practices/teaching-with-textbooks/19439
+splash_image_fid: '4056'
+summary: The language of history textbooks challenges English language learners and
+  native speakers alike. Face it head-on.
+splash_image: /files/TextbookGrammarISplash.jpg
 ---
+
 
 ## Why do it?
 

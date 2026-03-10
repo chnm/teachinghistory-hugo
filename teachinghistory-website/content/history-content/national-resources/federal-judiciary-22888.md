@@ -2,12 +2,19 @@
 title: Federal Judiciary
 date: '2009-09-14T16:53:07'
 lastmod: '2018-09-20T13:39:05'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22888
 url: /history-content/national-resources/22888
 featured: true
+website_url: http://www.uscourts.gov/Home.aspx
+splash_image_fid: '4891'
+thumbnail_fid: '2179'
+summary: Can’t tell an affadavit from an acquittal? Learn the legal lingo.
+splash_image: /files/FederalJudiciary432x240.jpg
+thumbnail: /files/quiz_thumbnail/AmericanSouthUNC_Thumb.jpg
 ---
+
 
 The U.S. judicial system exists to uphold the laws initiated by the nation's legislature.
 The Federal Judiciary's site, U.S. Courts, is, in large part, intended to provide individuals with forms and information relevant to legal proceedings with which they may be involved. However, noteworthy resources do exist, including an [educational resources page](http://www.uscourts.gov/EducationalResources.aspx).

@@ -2,13 +2,18 @@
 title: The Only Thing We Have to Fear Is Fear Itself
 date: '2011-01-27T14:04:53'
 lastmod: '2017-12-05T08:46:32'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 24468
 question: Where did the line in FDR’s First Inaugural Address, “The only thing we
   have to fear is fear itself,” come from? Did he write it?
 url: /history-content/ask-a-historian/24468
+splash_image_fid: '7060'
+summary: What we know and what we don't about the origin of the famous line in Roosevelt's
+  First Inaugural Address.
+splash_image: /files/FDR-draft.jpg
 ---
+
 
 Columbia University professor Raymond Moly wrote most of Roosevelt’s speech, and talked over his initial drafts with the president-elect. Several days before the inauguration, Moly delivered a typescript of his final draft to Roosevelt, who was staying at the Mayflower Hotel in Washington, D.C. Roosevelt went over the speech then with Moly and copied it out in longhand. The line about “fear itself” was not in the speech at that point. Before leaving FDR’s hotel suite, Moly burned his typewritten draft in the fireplace.
 
@@ -51,3 +56,7 @@ Another “New Thought” writer, the “naturopathic doctor,” Henry Lindlahr,
 Businesses had invoked these precise sentiments around the time they were published, during the domestic economic pinch prevalent during World War I, for example. On the 4th of July, 1917, the musical instrument firm of Edward Droop and Sons in Washington, D.C., paid for a large display ad in *The Washington Post*, under the large headline, “The Only Thing to Fear Is Fear.” The firm’s ad continued:
 *We refuse to be perturbed by the alarmists, the pessimists and by the timid who see things at night. As prophets in the past they have a batting average of about .001. The only times they have hit the truth is when they themselves created the conditions they feared by fearing them. Our slogan during these earnest times is “Keep Business Going.” We shall retrench in nothing, cancel nothing, fear nothing. Our faith in the existing and eternal prosperity of the United States of America is immovable. … We believe that this is the very time of all times that you should buy what you want—whether it be in our line or in any other. The only way to stop your business is to stop the other fellow’s. The only thing to fear is fear*.
 The phrase “The only thing to fear is fear” and its variants, therefore, were demonstrably “out there” in circulation within the business community during the first few decades of the 20th century. William Safire makes the point that it does not really matter where the phrase came from because it was FDR that used it during his speech to inspire the nation and it was he, therefore, who transmuted the linguistic coin into rhetorical gold.**
+
+---
+
+Text and audio of [FDR's First Inaugural Address](http://historymatters.gmu.edu/d/5057/), March 4, 1933, at History Matters.

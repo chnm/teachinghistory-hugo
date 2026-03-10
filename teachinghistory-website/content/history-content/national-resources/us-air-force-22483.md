@@ -2,11 +2,19 @@
 title: U.S. Air Force
 date: '2009-08-20T11:30:59'
 lastmod: '2018-09-20T11:46:32'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22483
 url: /history-content/national-resources/22483
+website_url: https://www.af.mil/
+splash_image_fid: '5092'
+thumbnail_fid: '2158'
+summary: From pilots to shuttle central command, how does the Air Force fulfill its
+  defensive mission?
+thumbnail: /files/website_image/TocquevilleTour_Image.jpg
+splash_image: /files/USAirForce432x240.jpg
 ---
+
 
 The mission of the U.S. Air Force is to provide global air, space, and cyber intelligence, defense, and attack capabilities to the United States of America.
 While all of the military branch sites seem to scatter the their historical information widely within their sites, this navigational difficulty is perhaps most pronounced on the Air Force sites. That said, the offerings could easily be applied in the classroom as early elementary activities through detail or visual aids for teaching military history in later high school.

@@ -2,12 +2,20 @@
 title: Students Abroad
 date: '2009-10-22T16:44:59'
 lastmod: '2018-09-20T13:51:31'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 23447
 url: /history-content/national-resources/23447
 featured: true
+website_url: http://studentsabroad.state.gov/
+splash_image_fid: '5069'
+thumbnail_fid: '2212'
+summary: If you're lucky enough to be able to arrange an international trip, know
+  your national resources.
+thumbnail: /files/website_image/CoalMining_Image.jpg
+splash_image: /files/StudentsAbroad432x240.jpg
 ---
+
 
 This selection is a bit of a departure from the other content in this section, but it's a government resource which is well worth notice.
 Going abroad is a life changing experience—one that permanently alters a participant's viewpoint on the world. It's unlikely that a school will allow a field trip abroad, but it is possible to arrange a summer tour for students through a travel group. Seeing the places read about in textbooks gives history a reality or immediacy otherwise difficult to conjure.

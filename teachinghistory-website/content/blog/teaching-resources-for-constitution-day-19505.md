@@ -2,11 +2,18 @@
 title: Teaching Resources for Constitution Day
 date: '2008-08-03T08:43:42'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19505
 url: /nhec-blog/19505
+date_published: '2008-09-11T00:00:00'
+image_fid: '263'
+splash_image_fid: '7889'
+summary: Constitution Day is September 17.
+splash_image: /files/splash-cdblogold1.jpg
+image: /files/constitution_0.jpg
 ---
+
 
 September 17, 1787, was a seminal day for America.
 Earlier that year in May, spurred by inadequacies in the Articles of Confederation and the need for a strong centralized government, 55 delegates representing 12 states met in Philadelphia to "take in to consideration the situation of the United States, to devise such further provisions as shall appear to them necessary to render the constitution of the Federal Government adequate to the exigencies of the Union."

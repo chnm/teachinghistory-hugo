@@ -2,10 +2,17 @@
 title: Making the Leap
 date: '2011-08-19T21:52:00'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25093
+author_bio: Matt Cone is the department chair for social studies at Plano Senior High
+  School in Plano, TX, and a winner of the Plano ISD Excellence in Teaching Award.
+author_image_fid: '7958'
+summary: Solving the "textbook problem" can create its own set of problems that teachers
+  will still have to address.
+author_image: /files/author_image/author-cone.jpg
 ---
+
 
 Teachers and students have had a love-hate relationship with the history textbook for as long as there have been history textbooks to read (or, more to the point, to assign for reading). This really hit home for me in 2008, at the end of one of the most frustrating school years ever. My students had turned hating the textbook into an art, and I was determined to figure out why and find some solutions that would work in my class.
 > Across the board, students said that they would be significantly more likely to read if the reading were shorter and more engaging.

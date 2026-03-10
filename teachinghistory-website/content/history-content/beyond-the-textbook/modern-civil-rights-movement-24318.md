@@ -2,11 +2,22 @@
 title: Modern Civil Rights Movement
 date: '2010-10-31T11:19:05'
 lastmod: '2018-09-12T11:16:00'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 24318
 url: /history-content/beyond-the-textbook/24318
+author_bio: Jenice L. View is Assistant Professor of Initiatives in Educational Transformation
+  Program at George Mason University. Her research focuses on the critical teaching
+  and learning of history, critical pedagogy in teacher professional development,
+  how the learning of history impacts youth voice and civic engagement, white teacher
+  consciousness, and the use of the arts and arts integration.
+image_fid: '7112'
+author_image_fid: '6813'
+image: /files/Dynamics_of_Idealism-_Volunteers_for_Civil_Rights_1965-1982_432x240_0.jpg
+author_image: /files/author_image/Jenice_crop.jpg
 ---
+
+
 
 The modern Civil Rights Movement is often marked as beginning with the 1954 U.S. Supreme Court decision banning school segregation or the day in 1955 when Rosa Parks refused to move from a bus seat in Montgomery, AL and ends with the passage of the 1965 Voting Rights Act or with the assassination of Dr. Martin Luther King, Jr. in 1968 (Or, more recently, with the election of President Barack Obama). In some textbooks, the context for this movement are the years following the 1896 U.S. Supreme Court case of Plessy V. Ferguson in which federal and state laws enforced legal racial segregation, to which the Civil Rights Movement was a response. The contemporary "story" of the Civil Rights Movement is that bad things did, indeed, happen to innocent African Americans who merely wanted to live the American dream but that individual racist men were responsible for the violence and Dr. Martin Luther King, Jr., Rosa Parks and the federal government (including individual U.S. presidents) solved the problem. Textbook glossaries fail to define racism and the root word "race" (a concept debated by scholars); They define segregation benignly with little reference to the ways in which northern and southern state governments and businesses systematically – and over the course of several decades -- reinforced an ideology of white supremacy through violence. Other groups of people affected by these same laws and practices – including American Indians, Mexican Americans, Asian Americans and Pacific Islanders, Native Hawaiians, Native Alaskans, Jews and Arabs – are seldom included in textbook discussions of racism. These absences strip away the underlying motivation for collective anger and social action.
 

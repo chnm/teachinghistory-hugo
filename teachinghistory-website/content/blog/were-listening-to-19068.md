@@ -2,10 +2,13 @@
 title: We're Listening To
 date: '2008-02-22T21:30:51'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 19068
 url: /nhec-blog/19068
+date_published: '2008-05-27T00:00:00'
+summary: Podcasts in the classroom can bring the voices, sound, and even the documents
+  and material culture of history alive.
 ---
 
 Podcasts in the classroom can bring the voices, sound, and even the documents and material culture of history alive. For the educator, they can provide a new look at the presentation and interpretation of history. We offer some ideas here.

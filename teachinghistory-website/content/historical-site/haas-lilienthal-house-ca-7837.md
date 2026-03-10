@@ -2,8 +2,11 @@
 title: Haas-Lilienthal House [CA]
 date: '2008-01-08T13:33:45'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 7837
+website_url: http://www.sfheritage.org/
 ---
 
+The Haas-Lilienthal House was built in 1886, and serves as an example of Queen Anne-style Victorian architecture. Today, the mansion is open as a historic house museum, fully furnished with period furniture.
+The house offers docent-led tours, as well as historic photos of the house and the occupants. The website offers a history of the house and its tenants, visitor information, and a virtual tour.

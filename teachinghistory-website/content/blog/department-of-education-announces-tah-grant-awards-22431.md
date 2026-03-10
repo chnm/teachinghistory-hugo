@@ -2,10 +2,13 @@
 title: Department of Education Announces TAH Grant Awards
 date: '2009-07-27T09:31:46'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22431
 url: /nhec-blog/22431
+date_published: '2009-07-27T00:00:00'
+summary: Thirty-eight states receive $116 million to improve American history instruction
+  as Congress advocates TAH budget cuts.
 ---
 
 On July 14, the U.S. Department of Education [announced the 2009 Teaching American History (TAH) grants awarded](http://www2.ed.gov/news/pressreleases/2009/07/07142009a.html) to 123 school districts in 38 states.

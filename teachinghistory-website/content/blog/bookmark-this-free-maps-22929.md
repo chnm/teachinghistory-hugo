@@ -2,11 +2,16 @@
 title: Bookmark This! Free Maps!
 date: '2009-09-28T13:27:41'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22929
 url: /nhec-blog/22929
+date_published: '2009-09-28T00:00:00'
+image_fid: '2434'
+summary: If all you need are basic maps for classroom exercises, this may be the place!
+image: /files/map4.jpg
 ---
+
 
 Looking for basic maps in outline to help students situate their history and to help prepare for standardized tests? [Owl & Mouse](http://www.yourchildlearns.com/owlmouse.htm), a source of free educational software, offers downloadable, printable maps of the [United States](http://www.yourchildlearns.com/geography.htm#United%20States%20Maps), [individual states](http://www.yourchildlearns.com/us-state-maps.htm), [continents, and countries](http://www.yourchildlearns.com/geography.htm#Europe%20Maps) (labeled and unlabeled).
 Owl & Mouse also offers 16 interactive, online map puzzles—students drag and drop pieces into position on a map outline. To build a [map of the United States](http://www.yourchildlearns.com/mappuzzle/us-puzzle.html), for example, students can match puzzle pieces to state outlines or tackle the more daunting challenge of finding where states go within an unmarked map of the United States—or use a third interactive game to learn state capitals. (Beware! Rhode Island is tricky because the state is smaller than the drag-and-drop icon.)

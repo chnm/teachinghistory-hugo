@@ -2,12 +2,22 @@
 title: The Gaming Evolution
 date: '2012-10-15T11:57:40'
 lastmod: '2017-12-05T08:51:59'
-type: ask_a_historian
+content_type: ask_a_historian
 draft: false
 drupal_nid: 25764
 question: How have video games evolved over time?
 url: /history-content/ask-a-historian/25764
+author_bio: 'Jeremiah McCall, PhD, teaches high school history at Cincinnati Country
+  Day School. He is the author of *Gaming the Past: Using Video Games to Teach Secondary
+  History*. He also maintains the site [gamingthepast.net](http://gamingthepast.net/).'
+splash_image_fid: '9557'
+author_image_fid: '9555'
+summary: From text-based to modern multiplayer interaction—even video games have history.
+splash_image: /files/gamessplash_0.jpg
+author_image: /files/author_image/authorphotojeremiahmccall75x75_2_1_0_0.jpeg
 ---
+
+
 
 The topic of how video games have evolved over the years is massive. There have been millions of games created in the 50 years since creation of 1962’s *Spacewar!*, the first true video game. So the best way to approach this topic briefly is to select a genre and survey the main trends. This essay will focus on games in the adventure/roleplaying genre in which players take the role of one or more heroes on a quest of some sort.
 The earliest adventure video games were, in a sense, not video at all. Instead they used text to create worlds for the player to explore. The first of these was *Adventure*, designed by Will Crowther and enhanced by Don Woods. The player read text descriptions of a cave and typed in simple noun-verb commands (“go north” “take lantern”, etc.) to navigate through the cave and interact with its denizens. Text-based games worked around the limited RAM (random-access memory) in early computers by focusing on story and setting at the expense of graphics.
@@ -25,3 +35,11 @@ One of the better-known games to focus on moral elements was Bioware’s Star Wa
 > Video game history has not been a straight line towards larger, more complicated, more graphics-heavy games.
 
 However, video game history has not been a straight line towards larger, more complicated, more graphics-heavy games. Text-based adventure games have not disappeared. For instance, the company Infocom developed and released text-based adventures throughout the 1980s. They actively compared their games to the crude graphics available on consoles and computers at the time: “We draw our graphics from the limitless imagery of your imagination—a technology so powerful that it makes any picture that’s ever come out of a screen look like graffiti in comparison.” When commercial sales of text-based adventures trailed off in the 1990s, fans of the format began developing text-based games themselves and distributing them for free.
+
+---
+
+[Atarimania](http://www.atarimania.com/index.html). Last modified October 7, 2012. Accessed October 10, 2012.
+National Museum of Play. [Online collections](http://www.thestrong.org/online-collections/nmop/3). Accessed October 10, 2012.
+PBS. *[The Video Game Revolution](http://www.pbs.org/kcts/videogamerevolution/index.html)*. Accessed October 10, 2012.
+Demaria, Rusel and Johnny L. Wilson. *High Score! The Illustrated History of Electronic Games*. 2nd ed. New York: McGraw-Hill/Osbourne, 2004.
+Kent, Steven L. *The Ultimate History of Video Games*. New York: Three Rivers Press, 2001.

@@ -2,11 +2,23 @@
 title: 'Four Reads: Learning to Read Primary Documents'
 date: '2012-08-02T13:09:45'
 lastmod: '2018-08-02T22:06:24'
-type: teaching_guides
+content_type: teaching_guides
 draft: false
 drupal_nid: 25690
 url: /teaching-materials/teaching-guides/25690
+author_bio: Bayard Faithfull has taught history for 20 years in New York City at the
+  Beacon School, an inquiry-based public high school. His website is <http://www.beaconschool.org/~bfaithfu>.
+image_fid: '9440'
+splash_image_fid: '9441'
+author_image_fid: '9465'
+summary: Teach your students to read like a historian with this guided four-step reading
+  process for primary documents.
+splash_image: /files/foursplash.jpg
+image: /files/fourimage.jpg
+author_image: /files/author_image/author_faithful.png
 ---
+
+
 
 ## What is it?
 

@@ -2,10 +2,34 @@
 title: Framing History with Historical Questions
 date: '2011-10-28T10:44:06'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 25272
+author_bio: 'Sue Davis is currently the K–12 Washoe County School District Program
+  Coordinator and has directed five TAH grants since 2003. Previously, she taught
+  high school for 25 years and participated in the 2001 Northern Nevada TAH grant.
+  In addition, she serves as Executive Director of the Northern Nevada Council for
+  the Social Studies and state coordinator for the Gilder Lehrman Preserve American
+  History Teacher of the Year Award, and serves on several education committees.
+
+  Angela Orr is Project Director for the Northern Nevada TAH grant and Associate Director
+  and past-President of the Northern Nevada Council for the Social Studies. She is
+  also a mentor and trainer for NEH''s We the People and Court Tour Coordinator for
+  Project REAL (Relevant Education About the Law). She has received awards as a secondary
+  social studies teacher, and enjoys mentoring and collaborating with other social
+  studies teachers.'
+image_fid: '8467'
+splash_image_fid: '8466'
+author_image_fid: '8551
+
+
+  8551'
+summary: Is your history curriculum based on abstract concepts? Learn how the Northern
+  Nevada TAH Project team streamlined lesson plans with essential questions (EQs).
+splash_image: /files/nvsplash.jpg
+image: /files/nvimage_0.jpg
 ---
+
 
 ## Why Essential Questions (EQs)?
 

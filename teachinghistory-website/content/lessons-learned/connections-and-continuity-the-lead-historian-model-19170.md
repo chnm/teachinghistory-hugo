@@ -2,10 +2,23 @@
 title: 'Connections and Continuity: The Lead Historian Model'
 date: '2008-04-08T16:37:58'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 19170
+author_bio: 'Sarah Whelan is Project Director for *Foundations of U.S. History: Virginia
+  History as American History*, in Loudoun County, VA. She taught middle school and
+  high school history in Alexandria City Public Schools and served as a department
+  chair, team leader, and mentor teacher, and was a master teacher in *Creating a
+  More Perfect Community,* the Teaching American History grant for Alexandria City
+  Public Schools.'
+splash_image_fid: '4784'
+author_image_fid: '4152'
+summary: A lead historian provides continuity and consistency.
+splash_image: /files/Connections_and_Continuity_-_432x240.jpg
+author_image: /files/author_image/Sarah_1.jpg
 ---
+
+
 
 One of the most unique and rewarding aspects of Teaching American History (TAH) grants is the opportunity they provide for K–12 teachers to work with college-level historians. Most classroom teachers find themselves isolated from the academic world, and tied to curricula and state standards that often take the complexity and richness out of history. TAH grants provide opportunities for teachers to enrich their historical understandings by connecting them with university professors and current research on historical topics. These connections are extremely interesting and valuable to teachers, but the content and knowledge exchanged in these interactions are not always easily translated into classroom practice. Teachers need ongoing support and structure to help bridge the gap between seminars they attend and their own classrooms.
 > Most classroom teachers find themselves isolated from the academic world, and tied to curricula and state standards that often take the complexity and richness out of history.

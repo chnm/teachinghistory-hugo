@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 date: '2011-04-15T11:46:55'
 lastmod: '2018-04-24T10:23:41'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24623
 ---

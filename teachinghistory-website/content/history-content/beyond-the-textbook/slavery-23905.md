@@ -2,11 +2,16 @@
 title: Slavery
 date: '2010-03-21T17:10:52'
 lastmod: '2018-07-03T11:23:57'
-type: beyond_the_textbook_part_2
+content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 23905
 url: /history-content/beyond-the-textbook/23905
+author_bio: Adam Rothman, Associate Professor of History at Georgetown University,
+  teaches the history of the Atlantic world, slavery, and Jeffersonian America.
+author_image_fid: '4237'
+author_image: /files/author_image/Rothman.jpg
 ---
+
 
 What was it like to be a slave in 19th-century America? Two textbooks for high school students, Appleby et al's *The American Vision* (AV) and Boorstin et al's *History of the United States* (HUS) offer subtly contrasting answers to this important historical question, but both share a basic narrative voice, characteristic of textbooks, that limits their ability to highlight controversy, explore ambiguity and irony, or raise the problem of how we know what we think we know about slave life.
 

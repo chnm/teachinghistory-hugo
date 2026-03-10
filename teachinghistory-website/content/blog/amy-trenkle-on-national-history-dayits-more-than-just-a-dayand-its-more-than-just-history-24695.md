@@ -3,11 +3,27 @@ title: Amy Trenkle on National History Day—It's More than Just a Day…and It'
   than Just History
 date: '2011-05-17T15:02:24'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24695
 url: /nhec-blog/24695
+author_bio: Amy Trenkle teaches 8th-grade U.S. history at Stuart-Hobson Middle School
+  in Washington, DC. A National Board Certified Teacher in early adolescence social
+  studies/history, she has taught in DC since 1999 and received the DC History Teacher
+  of the Year Award in 2005, from the Gilder Lehrman Institute of American History.
+  Currently, Amy is serving as an adjunct professor of education at American University.
+date_published: '2011-05-23T00:00:00'
+image_fid: '7503'
+splash_image_fid: '7504'
+author_image_fid: '7502'
+summary: National History Day's categories encourage students to develop 21st-century
+  skills—but 8th-grade teacher Amy Trenkle says make sure they don't neglect the history!
+splash_image: /files/splash-blog-nhd2011.jpg
+image: /files/image-blog-nhd2011.jpg
+author_image: /files/author_image/Amy_Trenkle_0.jpg
 ---
+
+
 
 My students have been participating in National History Day since my first year teaching in the public schools—more than a decade ago. Since that first year, I have grown tremendously as a teacher and as a teacher who is guiding students through the National History Day process. There's a lot I could write about National History Day. I truly think it's one of the best programs for asking students to research and then synthesize their research through a project. It allows for choice, higher-order thinking skills, and diversity in the way the project is presented.
 It’s that project presentation format I want to focus on. At first, and for quite a number of years, my students participated in the exhibit category because it was my strength as a teacher, but for the last three years or so, the number of students participating in the website and documentary categories has really grown. I have continued to learn and stretch my boundaries as a teacher as well.

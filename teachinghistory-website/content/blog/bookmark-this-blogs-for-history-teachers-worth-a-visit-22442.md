@@ -2,11 +2,16 @@
 title: Bookmark This! Blogs for History Teachers Worth a Visit
 date: '2009-07-30T11:37:15'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22442
 url: /nhec-blog/22442
+date_published: '2009-07-31T00:00:00'
+image_fid: '1338'
+summary: Useful blogs for materials, ideas and examples of teaching.
+image: /files/cigar.jpg
 ---
+
 
 Cyberspace teems with noteworthy (and yes, not so noteworthy) blogs. At the Clearinghouse, we encourage their appropriate use in teaching American History (see [Tools for Teachers: Blogs](http://teachinghistory.org/digital-classroom/tech-for-teachers/14590) and [Using Blogs in a History Classroom](/digital-classroom/tech-for-teachers/14590)), but what about blogs as resources for teachers to help find things to use in the classroom and to share teaching methods?
 The three blogs below are full of suggestions for teaching materials, teaching ideas, and examples of teaching, and their authors encourage discussion and comment.

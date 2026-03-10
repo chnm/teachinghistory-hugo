@@ -2,13 +2,43 @@
 title: Building Background Knowledge for English Language Learners
 date: '2012-03-30T12:05:44'
 lastmod: '2017-10-06T15:21:32'
-type: ask_an_educator
+content_type: ask_an_educator
 draft: false
 drupal_nid: 25522
 question: How can we help our 5th-grade ELL students build background and make connections
   with our social studies curriculum?
 url: /teaching-materials/ask-a-master-teacher/25522
+author_bio: Dominique Schwenzfeier teaches in the Long Beach Unified School District
+  and has participated in Teaching American History grant programs for more than six
+  years. She has a Masters in Curriculum Instruction.
+image_fid: '9115
+
+
+  9115
+
+
+  9115
+
+
+  9115
+
+
+  9115
+
+
+  9115
+
+
+  9115
+
+
+  9115'
+splash_image_fid: '9116'
+summary: How can we help our 5th-grade ELL students build background and make connections
+  with our social studies curriculum?
+splash_image: /files/ellsplash.jpg
 ---
+
 
 The wonderful thing about teaching strategies for ELLs is that they are fabulous models of good teaching in general. Strategies like [Kagan Cooperative Learning](http://www.kaganonline.com/free_articles/dr_spencer_kagan/279/Kagan-Structures-for-English-Language-Learners)  can be used with ELL and non-ELL students alike. SDAIE ([Specially Designed Academic Instruction in English](http://ktslearning.com/SDAIEstrategies.html)) activities are designed to scaffold information for ELLs, but many SDAIE strategies make for an engaging learning environment for all. Most importantly, using particular SDAIE strategies like *Mix-Freeze-Match*, *Carousel*, or *Stay and Stray* with a combination of ELL and non-ELL learners can be quite powerful.
 So, when thinking about your question, what we really need to ask ourselves is: “What do my ELL students need to **access** the content, that my native speakers may not need?” That is, should we assume that because English is a student’s first language that he/she already has necessary background knowledge? No, we should not, but we know that our ELLs need more exposure to new terminology in order to access information. Below are strategies I use with my ELL population to help build background knowledge.
@@ -57,3 +87,8 @@ Below are just a few resources that I have enjoyed using in my classroom. I espe
 
 **[Enchanted Learning](http://www.enchantedlearning.com/Home.html)**
 I am sure this site is not new to most, but it is great for our ELLs. The text is simpler and illustrations are usually included.
+
+---
+
+Visit [our section](http://teachinghistory.org/teaching-materials/english-language-learners) on teaching English Language Learners in the history classroom.
+See [this entry](http://teachinghistory.org/teaching-materials/english-language-learners/24617) for examples of history-specific sentence starters for middle schoolers and [this one](http://teachinghistory.org/teaching-materials/english-language-learners/24142) for cause and effect examples.

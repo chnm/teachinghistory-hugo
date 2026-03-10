@@ -2,8 +2,11 @@
 title: Hingham Historical Society and Old Ordinary [MA]
 date: '2008-01-08T13:34:50'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 8637
+website_url: http://www.hinghamhistorical.org/
 ---
 
+The Hingham Historical Society seeks to preserve and share the history of Hingham, Massachusetts, founded circa 1633. To this end, the society now operates a historic tavern museum, Old Ordinary. The 17th-century structure was originally erected as a residence, but later served as a tavern. The site also boasts a period garden.
+The museum offers period rooms and a garden.

@@ -2,11 +2,17 @@
 title: National History Day 2010
 date: '2010-01-27T14:58:20'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23731
 url: /nhec-blog/23731
+date_published: '2010-01-19T00:00:00'
+image_fid: '3924'
+summary: Kudos to National History Day for the website makeover and tons of new resources
+  for students and teachers.
+image: /files/nhdinnovation.jpg
 ---
+
 
 Kudos to the dedicated staff of the National History Day program for this year's [website makeover](http://www.nhd.org/). The new design facilitates finding information and materials to guide research such as [Eight Steps of Historial Research](http://www.nhd.org/EightSteps.htm), [lists of Teacher Resources](http://www.nhd.org/TeacherResources.htm) including *how to* guides, and discussions about [integrating National History Day](http://www.nhd.org/NHDintheCurriculum.htm) into the classroom curriculum.
 The topic for the 2010 competition is *Innovation in History*. As always, local, state, and national historic associations frequently link to their own resources to help students find primary sources and to jump start the resource process.

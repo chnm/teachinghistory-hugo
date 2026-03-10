@@ -2,11 +2,23 @@
 title: Prologue to Studying the Emancipation Proclamation
 date: '2009-02-11T18:11:19'
 lastmod: '2018-08-06T09:49:49'
-type: examples_of_teaching
+content_type: examples_of_teaching
 draft: false
 drupal_nid: 21706
 url: /best-practices/teaching-in-action/21706
+author_bio: A former 8th-grade teacher in Montgomery County, Maryland, Jason Fitzgerald
+  is currently a doctoral student in education at the University of Pittsburgh.
+website_url: http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/classroom-practice/
+image_fid: '4087'
+splash_image_fid: '4067'
+author_image_fid: '4158'
+summary: An 8th-grade class analyzes letters about the Emancipation Proclamation.
+splash_image: /files/LettersAsPrimarySplash.jpg
+image: /files/Letters-as-Primary-150x113.jpg
+author_image: /files/author_image/JasonFitzgerald75x75.jpg
 ---
+
+
 
 [This website](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/classroom-practice/) shows an 8th-grade teacher in Maryland teaching a lesson based on Civil War letters. [Source Analysis](http://chnm.gmu.edu/mcpstah/source-analysis/), a feature created for the Montgomery County (Maryland) TAH website, has three sections focused on these primary sources: [Scholar Analysis](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/scholar-analysis/), [Teacher Analysis](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/teacher-analysis/), and [Classroom Practice](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/classroom-practice/). The latter two sections show a lesson that asks students to examine what a Union and a Confederate soldier thought about the Emancipation Proclamation. In order to investigate this, the teacher asks students to study [two letters](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/read-the-letters/) written by soldiers during the Civil War. This series of videos provides examples of two promising practices:
 

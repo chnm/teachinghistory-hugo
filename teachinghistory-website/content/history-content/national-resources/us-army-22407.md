@@ -2,11 +2,19 @@
 title: U.S. Army
 date: '2009-07-21T11:48:31'
 lastmod: '2017-10-06T15:39:58'
-type: national_resource_centers
+content_type: national_resource_centers
 draft: false
 drupal_nid: 22407
 url: /history-content/national-resources/22407
+website_url: http://www.army.mil/
+splash_image_fid: '5094'
+thumbnail_fid: '2143'
+summary: Increase your knowledge of the people, past, and technology of the United
+  States Army.
+splash_image: /files/USArmy432x240.jpg
+thumbnail: /files/quiz_thumbnail/AtHomeintheHeartland_Thumb.jpg
 ---
+
 
 The U.S. Army provides forces for national defense and the protection of national resources, as well as the support of civil authorities and the logistics of other military branches, as needed.
 Although the Army website appears to favor current events and media, it does provide a number of historical resources. Primary sources available include veteran [oral histories](http://www.history.army.mil/html/bookshelves/collect/oralhis.html), [army regulations](http://www.history.army.mil/html/bookshelves/collect/cmh-ars.html), and [photographs](http://www.history.army.mil/html/artphoto/photographs.html) dating from the late 19th-century through present. Historical photographs can be compared to recent images, within the Army's [main media gallery](http://www.army.mil/media/index.html).

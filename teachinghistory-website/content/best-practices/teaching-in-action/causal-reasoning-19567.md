@@ -2,12 +2,22 @@
 title: Causal Reasoning
 date: '2008-08-25T11:00:45'
 lastmod: '2018-09-26T09:02:32'
-type: examples_of_teaching
+content_type: examples_of_teaching
 draft: false
 drupal_nid: 19567
 url: /best-practices/teaching-in-action/19567
 featured: true
+author_bio: James Woodcock is Head of History at Cottenham Village College (secondary
+  school) in Cambridgeshire, England. His work includes an emphasis on vocabulary
+  as a fundamental tool with which to develop students' conceptual understanding.
+splash_image_fid: '5004'
+author_image_fid: '2444'
+summary: The fictional Alphonse the Camel provides insight for one classroom.
+splash_image: /files/Causal_Reasoning_-_432x240.jpg
+author_image: /files/author_image/woodcock.jpg
 ---
+
+
 
 *\*Please note that this video is no longer hosted by the Teachers TV website. It may be hosted on a different site and found through doing an internet search on the video's title.*
 

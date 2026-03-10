@@ -2,11 +2,19 @@
 title: 'Thanksgiving: The Real Backstory'
 date: '2009-11-20T10:10:25'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 23572
 url: /nhec-blog/23572
+date_published: '2009-11-20T00:00:00'
+image_fid: '3646'
+splash_image_fid: '8406'
+summary: Historians dispute the date of the first Thanksgiving. Is there a definite
+  time and place?
+splash_image: /files/splash-him-vd23.jpg
+image: /files/plimothplant.jpg
 ---
+
 
 Is there a real first Thanksgiving?
 According to resources from the [Library of Congress](http://www.loc.gov/index.html), the Plymouth colonists were latecomers to the scene. The Library's [Wise Guide](http://www.loc.gov/wiseguide/nov02/thanks-early.html) explains that Spanish explorer Francisco Vasquez de Coronado and 1,500 men gave thanks in 1541 in the present-day Texas Panhandle. French Huguenot colonists celebrated in Florida in 1564, and Jamestown settlers gave thanks in 1610—in fact, many actually consider [*this*](http://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/thanksgiving/timeline/1610.html) the first Thanksgiving. Visit the [American Memory Learning Page](http://www.loc.gov/teachers/classroommaterials/presentationsandactivities/) and search for *Thanksgiving* to gather resources, timelines, and primary source sets on [Thanksgiving in American Memory](http://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/thanksgiving/).
