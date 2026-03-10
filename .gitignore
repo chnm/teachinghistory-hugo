@@ -1,12 +1,12 @@
-# Local 
-*.sql 
+# Local
+*.sql
 .claude/
-CLAUDE.md 
 CONVERSION_SUMMARY.md
 *.log
 .DS_Store
 /.idea
 /.vscode
+utils/content-new/
 
 teachinghistory-website/.hugo_build.lock
 teachinghistory-website/public

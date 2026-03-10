@@ -22,7 +22,7 @@ NOTE: For some of the pages to work we may want to think about restructuring our
 --color-green-tint:    #F5FBFA;
 --color-black:         #000000;
 --color-pale-blue:     #DCEBF9;
---color-pale-blue-tint:#F5FAFF;
+--color-pale-blue-tint: #F5FAFF;
 --color-dark:          #1a1a1a;   /* footer background — near-black */
 --color-white:         #FFFFFF;
 --color-gray-light:    #E5E5E5;   /* card image placeholder bg */
