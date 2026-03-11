@@ -1,6 +1,6 @@
 # Todo
 
-Human-readable action items and known issues for the TeachingHistory.org Hugo rebuild.
+Action items and known issues for the TeachingHistory.org Hugo rebuild.
 
 ---
 
