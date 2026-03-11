@@ -11,6 +11,10 @@ keywords: race, racism, presidents, politicians, Back-to-Africa, Africa, coloniz
 website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-05-01T00:00:00'
 series_name: Abraham Lincoln's Biography Video
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 James O. Horton of George Washington University discusses Abraham Lincoln's consideration of establishing African colonies as a solution to race tensions in the U.S. and African-American reactions to suggestions of the establishment of such colonies.

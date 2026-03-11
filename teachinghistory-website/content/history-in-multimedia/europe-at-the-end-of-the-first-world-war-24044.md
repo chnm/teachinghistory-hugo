@@ -12,6 +12,9 @@ splash_image_fid: '4667'
 summary: Help students visualize the reshaping of Europe post-World War I with this
   animated presentation.
 splash_image: /files/splash-tov-him.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

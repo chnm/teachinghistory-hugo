@@ -15,6 +15,11 @@ summary: Only 60 settlers out of 600 survived the winter of 1609–1610 in James
   Virginia. Was "the Starving Time" due to natural circumstances or planned extermination?
 splash_image: /files/replacementsplash.jpg
 image: /files/lesson_image/pocahontas_crop.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
+duration: '2-3 class sessions'
 ---
 
 

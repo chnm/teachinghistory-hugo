@@ -15,6 +15,10 @@ spotlight: Public school teachers have to prepare their students for the momento
   students without sacrificing content.
 splash_image: /files/testsplash.jpg
 image: /files/testimage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

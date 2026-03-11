@@ -16,6 +16,9 @@ summary: Jefferson, surprised by the Louisiana Purchase? Maybe not. Historian Le
   Glaser looks at a letter from Jefferson requesting funding for the Corps of Discovery.
 splash_image: /files/Jeffersons_Confidential_Letter_-_432x240.jpg
 author_image: /files/author_image/Leah_author2.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

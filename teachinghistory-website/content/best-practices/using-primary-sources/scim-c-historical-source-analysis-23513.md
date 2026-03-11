@@ -11,6 +11,9 @@ splash_image_fid: '4052'
 summary: Virginia Tech’s short video shows how to analyze primary sources and put
   them in context.
 splash_image: /files/SCIM-CSplash.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

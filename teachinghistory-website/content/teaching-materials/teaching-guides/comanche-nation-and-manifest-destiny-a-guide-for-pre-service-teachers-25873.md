@@ -18,6 +18,8 @@ summary: Help students better understand the history behind the term "Manifest D
 splash_image: /files/service-pnp-cph-3b40000-3b44000-3b44200-3b44254v.jpeg
 image: /files/iiif-service_gmd_gmd432_g4322_g4322s_ct006428-full-pct_12.5-0-default.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_0_1.JPG
+grade_levels:
+  - high
 ---
 
 

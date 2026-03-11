@@ -18,6 +18,10 @@ summary: What's one way of bringing delight to learning history? Historical fict
 splash_image: /files/historicalfictionsplash.jpg
 image: /files/historicalfictionimage.jpg
 author_image: /files/author_image/author_tripp.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

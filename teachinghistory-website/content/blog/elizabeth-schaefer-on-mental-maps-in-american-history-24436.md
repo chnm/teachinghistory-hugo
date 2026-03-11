@@ -41,6 +41,10 @@ summary: Understanding geography is essential to understanding history. By drawi
   history, says eighth-grade teacher Elizabeth Schaefer.
 splash_image: /files/splash-blog-mentmap.jpg
 author_image: /files/author_image/Author_Photo_Elizabeth_Schaefer_75x75_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

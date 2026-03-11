@@ -13,6 +13,8 @@ summary: The U.S. was formed on ideals, but how do these ideals manifest in real
   Are they ever at odds?
 splash_image: /files/ideaofamerica432x240.jpg
 image: /files/website_image/ideaofamerica113x150.jpg
+grade_levels:
+  - high
 ---
 
 

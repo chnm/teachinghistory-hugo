@@ -17,6 +17,10 @@ summary: Games create scenarios in the classroom where the stakes are raised and
   learning is deeper, thereby requiring highly skilled and engaged teachers facilitating
   the process.
 author_image: /files/author_image/roundtable-author-groff.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

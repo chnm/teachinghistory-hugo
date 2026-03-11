@@ -15,6 +15,10 @@ summary: Learn about the experiences of immigrants detained at Angel Island and 
   this impacted their opinion of the US.
 splash_image: /files/splash-lpr-angeli.jpg
 image: /files/lesson_image/wall.jpg
+grade_levels:
+  - elementary
+  - middle
+duration: '1-2 50-minute periods'
 ---
 
 

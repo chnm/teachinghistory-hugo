@@ -20,6 +20,10 @@ summary: Google is great, but not always applicable to the history classroom. Di
 splash_image: /files/family.jpg
 thumbnail: /files/atlas.jpg
 image: /files/lesson_image/brownie.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

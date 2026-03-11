@@ -10,6 +10,8 @@ website_url: https://raceandethnicity.org/
 summary: The definitive online exhibition and archives about how American experiences
   of race and ethnicity have shaped and been shaped by the development of advertising
   over the course of the 20th century.
+grade_levels:
+  - high
 ---
 
 Offering a new way of looking at the history of American culture and society, *Race and Ethnicity in Advertising* is a database of advertisements from across the United States throughout the 20th century.  This site offers a fresh lense for students to explore the changes in how Americans view themselves and each other in the world through the familiar medium of commercials and advertisements. 

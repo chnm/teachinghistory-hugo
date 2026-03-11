@@ -12,6 +12,9 @@ splash_image_fid: '8868'
 summary: Remember Choose Your Own Adventure stories? Borrow the idea for video projects!
 splash_image: /files/chooseyourown432x240.jpeg
 image: /files/chooseyourown150x113.jpeg
+grade_levels:
+  - middle
+  - high
 ---
 
 

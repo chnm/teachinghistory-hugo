@@ -14,6 +14,10 @@ spotlight: Oral histories and interviews are a unique form of historical documen
   be integrated into classroom discussions. Though some of the techniques will have
   to be adapted for elementary students, the ideas Shopes presents are extremely useful.
 splash_image: /files/OralHistorySplash.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

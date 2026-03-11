@@ -24,6 +24,10 @@ summary: Present the context first, or later? Teaching with music can be valuabl
   both ways, says teacher educator Anthony Pellegrino.
 splash_image: /files/splash-blog-apmusic23.jpg
 author_image: /files/author_image/Pellegrino_Image_1.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

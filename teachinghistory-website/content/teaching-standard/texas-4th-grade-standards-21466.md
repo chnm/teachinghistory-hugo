@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21466
+grade_levels:
+  - elementary
 ---
 
 ## ß113.15. Social Studies, Grade 4, Beginning with School Year 2011-2012

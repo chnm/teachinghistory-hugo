@@ -15,6 +15,9 @@ summary: Texas educators, looking for primary resources on state history? Search
 splash_image: /files/PortaltoTexas432x240.jpg
 thumbnail: /files/floor-plan.jpg
 image: /files/website_image/PortalTXImage.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

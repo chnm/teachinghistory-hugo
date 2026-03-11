@@ -20,6 +20,9 @@ spotlight: Elementary students are more than capable of mastering complex concep
   thinking skills.
 splash_image: /files/MyHistory432x240.jpg
 image: /files/lesson_image/MyHistory150x113.jpg
+grade_levels:
+  - elementary
+duration: '1-7 days'
 ---
 
 

@@ -18,6 +18,8 @@ summary: U.S. history doesn't usually have its own place in 1st-grade curriculum
 splash_image: /files/Integrationsplash.jpg
 image: /files/Integrationimage.jpg
 author_image: /files/author_image/jennifer-orr_0_3.jpg
+grade_levels:
+  - elementary
 ---
 
 

@@ -20,6 +20,8 @@ summary: Do you want to introduce a child to the wonders of world history? Find 
 splash_image: /files/mastersplash.jpg
 image: /files/masterimage.jpg
 author_image: /files/author_image/Weiss_photo2.jpg
+grade_levels:
+  - elementary
 ---
 
 

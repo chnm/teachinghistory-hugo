@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 20932
+grade_levels:
+  - elementary
 ---
 
 * ### CA.2.1. Content Standard: People Who Make a Difference

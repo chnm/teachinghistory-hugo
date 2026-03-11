@@ -16,6 +16,9 @@ summary: Documents and audio files explain the range of early political viewpoin
   on the League of Nations.
 splash_image: /files/splash-lpr-lon.jpg
 image: /files/lesson_image/leagueofnations.jpg
+grade_levels:
+  - high
+duration: '2-3 class sessions'
 ---
 
 

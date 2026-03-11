@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21184
+grade_levels:
+  - elementary
 ---
 
 *Students in grade two continue to build their foundational understanding in the social studies disciplines of citizenship and government, economics, geography and history. They learn the purpose and services provided by government, the principle of shared and separated powers, the importance of constitutions and the need for fair voting processes. They study indigenous people and the influence of a variety of cultures on our society, gaining an understanding of the United States’ common heritage and diverse roots. They use calendars and timelines to track the passage of time and chronicle events. By describing the trade-offs of a decision, students learn the concept of opportunity cost and its connection to scarcity of resources. They begin to understand how resources and physical features influence the distribution of people around the world, and use maps and other geographic tools to explain the characteristics of places.*

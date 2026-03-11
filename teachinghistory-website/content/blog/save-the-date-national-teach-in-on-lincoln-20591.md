@@ -11,6 +11,9 @@ image_fid: '566'
 summary: Register now for this program with expert historians geared for middle and
   high schoolers.
 image: /files/ad08001r.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

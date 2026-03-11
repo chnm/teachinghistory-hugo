@@ -11,6 +11,10 @@ keywords: Whigs, political parties, race, race relations, Democrats, Republicans
 website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-05-01T00:00:00'
 series_name: Abraham Lincoln's Biography Video
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Eric Foner of Columbia University discusses the use of the race and slavery issues by political parties during Abraham Lincoln's lifetime, and looks at Lincoln's own views on the issues as expressed in the Lincoln-Douglas debates.

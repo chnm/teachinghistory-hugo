@@ -21,6 +21,9 @@ summary: National History Day's categories encourage students to develop 21st-ce
 splash_image: /files/splash-blog-nhd2011.jpg
 image: /files/image-blog-nhd2011.jpg
 author_image: /files/author_image/Amy_Trenkle_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

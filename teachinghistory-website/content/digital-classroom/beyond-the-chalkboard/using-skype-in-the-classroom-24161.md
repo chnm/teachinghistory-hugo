@@ -25,6 +25,10 @@ image_fid: '6268'
 splash_image_fid: '6266'
 splash_image: /files/splash-wr-skypevideo.jpeg
 image: /files/image-btc-skypevideo.jpeg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -15,6 +15,10 @@ summary: Check out this lesson on arguments surrounding the 1830 forced removal 
   the Cherokee peoples from their homeland.
 splash_image: /files/ThreePerspectivesSplash.jpg
 image: /files/lesson_image/lpth.jpg
+grade_levels:
+  - middle
+  - high
+duration: '1-2 class sessions'
 ---
 
 

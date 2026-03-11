@@ -18,6 +18,9 @@ spotlight: The "Star-Spangled Banner" is a crucial emblem of the United States. 
 splash_image: /files/splash-wr-starspangled.jpg
 thumbnail: /files/splash-wr-dogs911.jpg
 image: /files/website_image/StarSpanImage.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

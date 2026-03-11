@@ -19,6 +19,9 @@ summary: Whether you are writing a paper or just curious, here are some great re
 splash_image: /files/mexwarsplash.jpg
 image: /files/mexwarimage.jpg
 author_image: /files/author_image/Jacks_photo2_0_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

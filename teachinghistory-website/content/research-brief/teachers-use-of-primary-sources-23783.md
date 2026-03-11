@@ -15,6 +15,10 @@ spotlight: Primary sources are a crucial part of any historical study. However, 
   help you!
 splash_image: /files/splash-rb-websites.jpg
 image: /files/primarysource.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

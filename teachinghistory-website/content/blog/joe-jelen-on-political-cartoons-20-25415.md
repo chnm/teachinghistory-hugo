@@ -17,6 +17,8 @@ summary: Find, analyze, and create political cartoons that address any issue in 
 splash_image: /files/cartoonssplash.jpg
 image: /files/cartoonsimage.jpg
 author_image: /files/author_image/author_jelen_1.png
+grade_levels:
+  - high
 ---
 
 

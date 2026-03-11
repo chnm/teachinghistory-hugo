@@ -14,6 +14,9 @@ spotlight: Teaching history is about more than just relaying facts, dates, and h
   of test preparation affect the quality of teaching on the elementary level? This
   Roundtable discussion attempts to answer this crucial question.
 splash_image: /files/splash-roundtable-elem.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

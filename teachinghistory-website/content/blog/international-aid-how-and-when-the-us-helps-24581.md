@@ -13,6 +13,10 @@ summary: With the Mar. 11 earthquake in Japan, your students may be asking about
   aid. Here are some places to start learning about when and why the U.S. helps.
 splash_image: /files/splash-blog-intaid.jpg
 image: /files/image-blog-intaid.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

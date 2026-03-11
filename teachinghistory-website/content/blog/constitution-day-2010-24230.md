@@ -13,6 +13,10 @@ summary: Explore these online Constitution Day resources for September 17 and th
   the year.
 splash_image: /files/splash-blog-cd10.jpg
 image: /files/image-blog-CD2010.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

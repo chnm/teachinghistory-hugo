@@ -12,6 +12,8 @@ splash_image_fid: '4073'
 summary: A student demonstrates thinking aloud reading two documents.
 splash_image: /files/IntertextualReadingSplash.jpg
 image: /files/IntertextualReadingImage.jpg
+grade_levels:
+  - high
 ---
 
 

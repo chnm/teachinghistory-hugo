@@ -14,6 +14,8 @@ summary: Nonfiction texts are great sources for learning about historical events
   figures. However, do fictional accounts also have a place in the history classroom?
 splash_image: /files/fiction-nonfictionsplash.jpg
 image: /files/fiction-nonfictionimage.jpg
+grade_levels:
+  - elementary
 ---
 
 

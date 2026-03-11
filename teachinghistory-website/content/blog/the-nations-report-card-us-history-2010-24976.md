@@ -14,6 +14,10 @@ summary: 'On June 14th, the National Assessment of Educational Progress (NAEP) r
   the Report Card?'
 splash_image: /files/splash-blog-naep.jpg
 image: /files/image-blog-naep.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

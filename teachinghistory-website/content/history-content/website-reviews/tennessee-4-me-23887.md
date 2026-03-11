@@ -13,6 +13,10 @@ summary: Three years in the making, this project of the Tennessee State Museum o
   TN state history from pre-history to the present.
 splash_image: /files/Tennessee4Me_432x240.jpg
 image: /files/website_image/Tenn4me.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

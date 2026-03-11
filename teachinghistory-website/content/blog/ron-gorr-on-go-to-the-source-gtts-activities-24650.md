@@ -21,6 +21,10 @@ summary: Primary sources are crucial for historical study. AP history teacher Ro
 splash_image: /files/GttSsplash.jpg
 image: /files/GttSimage.jpg
 author_image: /files/author_image/ron-headshot.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

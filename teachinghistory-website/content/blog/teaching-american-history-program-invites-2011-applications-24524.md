@@ -13,6 +13,10 @@ summary: The Department of Education invites applications for its Teaching Ameri
   History Program in 2011.
 splash_image: /files/24238_432x240.jpg
 image: /files/image-blog-tah11.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

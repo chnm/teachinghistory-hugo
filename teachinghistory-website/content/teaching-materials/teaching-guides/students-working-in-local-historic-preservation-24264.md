@@ -18,6 +18,8 @@ summary: Engage your students in preserving local history! Use this teacher's su
 splash_image: /files/museum_crop.jpg
 image: /files/histsociety_crop_0.jpg
 author_image: /files/author_image/Lichatinn_crop.jpg
+grade_levels:
+  - high
 ---
 
 

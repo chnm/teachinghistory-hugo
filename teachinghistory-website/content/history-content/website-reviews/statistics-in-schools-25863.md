@@ -14,6 +14,10 @@ summary: Analyze data from the U.S. Census Bureau in the social studies classro
 splash_image: /files/Screen Shot 2019-09-03 at 12.51.14 PM.png
 thumbnail: /files/quiz_thumbnail/Screen Shot 2019-09-03 at 1.48.18 PM.png
 image: /files/website_image/Screen Shot 2019-09-03 at 1.47.33 PM.png
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

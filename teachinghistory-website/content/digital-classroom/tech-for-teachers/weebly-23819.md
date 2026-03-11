@@ -12,6 +12,9 @@ splash_image_fid: '4650'
 summary: Don't be daunted by website creation—Weebly offers a user-friendly DIY interface.
 splash_image: /files/weebly.jpg
 image: /files/weeblysm.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

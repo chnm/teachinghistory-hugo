@@ -13,6 +13,10 @@ summary: Discover the extent of students' understanding of historical subjects w
   this tool.
 splash_image: /files/image-splash-mentalmap.jpg
 image: /files/mind-mapping.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

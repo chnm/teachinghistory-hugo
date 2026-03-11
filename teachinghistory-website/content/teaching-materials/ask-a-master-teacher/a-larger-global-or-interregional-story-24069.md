@@ -21,6 +21,10 @@ summary: Case studies grab attention, but how can you be sure you're also teachi
 splash_image: /files/TeachingDetail432x240.jpg
 image: /files/TeachingDetail150x113.jpg
 author_image: /files/author_image/author_harris_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

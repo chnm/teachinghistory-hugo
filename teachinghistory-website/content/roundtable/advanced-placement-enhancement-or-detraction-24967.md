@@ -9,6 +9,8 @@ splash_image_fid: '7666'
 summary: What impact do AP history courses have? Do they give eager students an opportunity
   to learn, or hinder them by giving them the option to skip collegiate coursework?
 splash_image: /files/advancedplacement432x240.jpg
+grade_levels:
+  - high
 ---
 
 

@@ -10,6 +10,8 @@ date_published: '2009-08-24T00:00:00'
 image_fid: '1556'
 summary: Third graders explore civil rights history in their own hometown.
 image: /files/alexlib.jpg
+grade_levels:
+  - elementary
 ---
 
 

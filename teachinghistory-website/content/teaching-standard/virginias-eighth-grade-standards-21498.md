@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21498
+grade_levels:
+  - middle
 ---
 
 ### Strand / Topic: World History and Geography to 1500 A.D.

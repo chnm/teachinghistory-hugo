@@ -15,6 +15,10 @@ summary: When you just can't get your students to care what the Founders, or any
   else, wrote.
 splash_image: /files/RealizingtheValueSplash.jpg
 image: /files/Realizing-the-Value-150x113.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

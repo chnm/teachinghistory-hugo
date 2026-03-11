@@ -6,6 +6,8 @@ content_type: historical_site
 draft: false
 drupal_nid: 9603
 website_url: http://www.heritagestationmuseum.org/
+grade_levels:
+  - elementary
 ---
 
 The Umatilla County Historical Society is dedicated to the preservation and dissemination of the history of Umatilla County, Oregon, which has served as a crossroads for people of many different backgrounds, from Indians to East Coast emigrants. The society maintains a local history museum, which showcases Umatilla County's diverse history.

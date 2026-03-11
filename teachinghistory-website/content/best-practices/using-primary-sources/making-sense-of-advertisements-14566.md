@@ -11,6 +11,10 @@ splash_image_fid: '4789'
 summary: Advertisements have surrounded us for years. How can you interpret them?
   Where can you find them?
 splash_image: /files/splash-ups-ads.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

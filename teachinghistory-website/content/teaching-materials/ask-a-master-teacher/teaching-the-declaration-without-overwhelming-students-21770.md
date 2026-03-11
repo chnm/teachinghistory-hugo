@@ -16,6 +16,9 @@ summary: Is the Declaration of Independence challenging for your students? Check
   these ideas to make this text more accessible.
 splash_image: /files/addedimage4.jpg
 image: /files/addedimage5.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

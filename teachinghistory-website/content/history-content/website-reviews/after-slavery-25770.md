@@ -13,6 +13,9 @@ summary: Does your textbook make Reconstruction sound simple? Explore the real p
   and complexity of Reconstruction with primary sources focusing on the Carolinas.
 splash_image: /files/screen-shot-2012-12-07-at-2.34.00-pm.jpg
 image: /files/website_image/screen-shot-2012-12-07-at-2.30.36-pm.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -10,6 +10,10 @@ website_url: http://historymatters.gmu.edu/mse/letters/
 splash_image_fid: '4791'
 summary: Source and approach letters and diaries with historical thinking.
 splash_image: /files/splash-ups-letters.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

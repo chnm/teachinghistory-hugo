@@ -12,6 +12,10 @@ splash_image_fid: '7848'
 summary: What did soldiers do between battles? Sometimes, fought off boredom!
 splash_image: /files/splash-wr-cwcamp.jpg
 image: /files/website_image/image-wr-cwcamp.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

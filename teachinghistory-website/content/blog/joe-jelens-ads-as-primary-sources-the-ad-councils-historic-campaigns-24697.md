@@ -18,6 +18,10 @@ summary: Advertisements don't always use ideas to sell products—sometimes they
 splash_image: /files/splash-blog-jjnc.jpg
 image: /files/image-blog-jjac.jpg
 author_image: /files/author_image/Author_Image_Joe_Jelen_75x75_3.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

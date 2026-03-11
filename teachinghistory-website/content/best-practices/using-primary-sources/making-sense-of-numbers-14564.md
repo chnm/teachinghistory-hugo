@@ -11,6 +11,10 @@ splash_image_fid: '4807'
 summary: Quantitative data, although seemingly daunting and impersonal, can help you
   understand the past.
 splash_image: /files/splash-ups-numbers.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

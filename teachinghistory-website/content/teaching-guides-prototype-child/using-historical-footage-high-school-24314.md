@@ -25,6 +25,8 @@ thinking_focus: "<strong>Questioning Historical Sources</strong>\r\n<p>\r\nStart
   \ as a climate that extended beyond one Senator’s efforts with the Herb Block cartoon\
   \ and Schrecker interpretation (see supplementary sources). \r\n</p>"
 thumbnail_fid: '3499'
+grade_levels:
+  - high
 ---
 
 ***McCarthyism as climate, rather than a single man’s crusade.***

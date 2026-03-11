@@ -20,6 +20,8 @@ spotlight: 'Primary sources from the Library of Congress help students explore a
 splash_image: /files/MoralsSplash.jpg
 image: /files/sn83045389-19160521_0.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_3.JPG
+grade_levels:
+  - high
 ---
 
 

@@ -18,6 +18,10 @@ summary: Anthony Pellegrino explores the history of one segregated school, and c
 splash_image: /files/splash-blog-segschools.jpg
 image: /files/image-blog-segschools.jpg
 author_image: /files/author_image/Pellegrino_Image_4.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

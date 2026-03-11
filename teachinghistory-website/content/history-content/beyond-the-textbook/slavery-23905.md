@@ -10,8 +10,21 @@ author_bio: Adam Rothman, Associate Professor of History at Georgetown Universit
   teaches the history of the Atlantic world, slavery, and Jeffersonian America.
 author_image_fid: '4237'
 author_image: /files/author_image/Rothman.jpg
+question: What was it like to be a slave in 19th-century America?
+summary: What was it like to be a slave in 19th-century America? Accounts contrast.
+splash_image: /files/ExSlave.jpg
+splash_image_fid: '4367'
+what_textbooks_say: Textbooks treat slavery as primarily an economic institution in
+  which slaves were regarded by their owners as property yet insisted on their own
+  humanity.
+what_historians_say: Historians are less inclined to ask what it was like to be a
+  slave in the abstract than to draw from the historical record to ask what it was
+  like to be a particular enslaved person, say Frederick Douglass or Sally Hemings,
+  to name two of the most famous.
+what_sources_say: Taken in its entirety, the letter [from Rachel O’Connor to her sister
+  Mary, January 11, 1836] reveals that hate and cruelty existed alongside love and
+  affection in the slave South.
 ---
-
 
 What was it like to be a slave in 19th-century America? Two textbooks for high school students, Appleby et al's *The American Vision* (AV) and Boorstin et al's *History of the United States* (HUS) offer subtly contrasting answers to this important historical question, but both share a basic narrative voice, characteristic of textbooks, that limits their ability to highlight controversy, explore ambiguity and irony, or raise the problem of how we know what we think we know about slave life.
 

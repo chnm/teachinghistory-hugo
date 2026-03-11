@@ -11,6 +11,8 @@ image_fid: '282'
 summary: Take a look at the political arguments intrinsic to 20th-century campaign
   commercials.
 image: /files/commercial.jpg
+grade_levels:
+  - high
 ---
 
 

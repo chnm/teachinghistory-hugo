@@ -1,71 +1,164 @@
 {{ define "main" }}
 <main class="pt-[60px] flex-1">
-  {{/* TODO: Phase 5 — Full homepage implementation */}}
-  <div class="max-w-5xl mx-auto px-6 py-10">
-    <h1 class="font-heading text-4xl font-bold mb-4">{{ .Site.Title }}</h1>
 
-    {{/* Token verification block — remove after Phase 1 review */}}
-    <section class="mb-10">
-      <h2 class="font-heading text-2xl mb-4">Design Token Preview</h2>
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-        <div class="rounded p-4 text-center text-sm text-white" style="background: var(--color-orange);">Orange<br>#F26522</div>
-        <div class="rounded p-4 text-center text-sm" style="background: var(--color-yellow);">Yellow<br>#FFC20E</div>
-        <div class="rounded p-4 text-center text-sm text-white" style="background: var(--color-green);">Green<br>#37A99C</div>
-        <div class="rounded p-4 text-center text-sm" style="background: var(--color-pale-blue);">Pale Blue<br>#DCEBF9</div>
-        <div class="rounded p-4 text-center text-sm" style="background: var(--color-orange-tint); border: 1px solid var(--color-orange);">Orange Tint</div>
-        <div class="rounded p-4 text-center text-sm" style="background: var(--color-yellow-tint); border: 1px solid var(--color-yellow);">Yellow Tint</div>
-        <div class="rounded p-4 text-center text-sm" style="background: var(--color-green-tint); border: 1px solid var(--color-green);">Green Tint</div>
-        <div class="rounded p-4 text-center text-sm" style="background: var(--color-pale-blue-tint); border: 1px solid var(--color-pale-blue);">Pale Blue Tint</div>
-        <div class="rounded p-4 text-center text-sm text-white" style="background: var(--color-dark);">Dark<br>#1a1a1a</div>
-        <div class="rounded p-4 text-center text-sm" style="background: var(--color-gray-light);">Gray Light<br>#E5E5E5</div>
+  {{/* ── Hero Section ── */}}
+  <section class="bg-white">
+    <div class="max-w-7xl mx-auto flex min-h-[420px]">
+
+      {{/* Left column — 1/3: headline pinned to bottom */}}
+      <div class="w-1/3 flex flex-col justify-end px-10 py-12 shadow-[4px_4px_12px_rgba(0,0,0,0.15)]">
+        <h1 class="font-heading text-3xl leading-tight mb-4">Explore Our Resources and Materials</h1>
+        <a href="/teaching-materials/" class="text-orange text-xl">&rarr;</a>
       </div>
 
-      <h2 class="font-heading text-2xl mb-4">Typography Preview</h2>
-      <div class="space-y-3 mb-8">
-        <p class="font-heading text-4xl">Heading &mdash; Lora 2.25rem (4xl)</p>
-        <p class="font-heading text-3xl">Heading &mdash; Lora 1.875rem (3xl)</p>
-        <p class="font-heading text-2xl">Heading &mdash; Lora 1.5rem (2xl)</p>
-        <p class="font-heading text-xl">Heading &mdash; Lora 1.25rem (xl)</p>
-        <p class="font-body text-base">Body &mdash; Roboto Slab 1rem (base)</p>
-        <p class="font-body text-sm">Body &mdash; Roboto Slab 0.875rem (sm)</p>
-        <p class="font-body text-xs">Body &mdash; Roboto Slab 0.75rem (xs)</p>
-      </div>
-    </section>
+      {{/* Right column — 2/3: pale-blue tint with staggered cards */}}
+      <div class="w-2/3 bg-pale-blue flex items-center justify-center px-8 py-10">
+        <div class="flex gap-6 items-center">
 
-    {{/* Content sections table — temporary */}}
-    <section>
-      <h2 class="font-heading text-2xl mb-4">Content Sections</h2>
-      <div class="overflow-x-auto">
-        <table class="w-full text-sm">
-          <thead>
-            <tr class="border-b-2 border-black text-left">
-              <th class="pb-2 pr-4">Section</th>
-              <th class="pb-2 pr-4 text-right">Items</th>
-              <th class="pb-2">Link</th>
-            </tr>
-          </thead>
-          <tbody>
-            {{ $total := 0 }}
-            {{ range .Site.Sections.ByTitle }}
-              {{ $count := len .Pages }}
-              {{ $total = add $total $count }}
-              <tr class="border-b border-gray-light">
-                <td class="py-2 pr-4">{{ .Title }}</td>
-                <td class="py-2 pr-4 text-right">{{ $count }}</td>
-                <td class="py-2"><a href="{{ .Permalink }}" class="hover:underline text-orange">View &rarr;</a></td>
-              </tr>
+          {{ $sections := slice
+            (dict "name" "Teaching Materials" "key" "teaching-materials" "color" "orange" "offset" "translate-y-10")
+            (dict "name" "History Content"    "key" "history-content"    "color" "yellow" "offset" "translate-y-0")
+            (dict "name" "Best Practices"     "key" "best-practices"    "color" "green"  "offset" "-translate-y-10")
+          }}
+
+          {{ range $sections }}
+            {{ $section := site.GetPage .key }}
+            {{ $color := .color }}
+            {{ $sectionName := .name }}
+            {{ $offset := .offset }}
+
+            {{/* Prefer pages with both splash_image and summary */}}
+            {{ $ideal := slice }}
+            {{ $fallback := slice }}
+            {{ range $section.RegularPagesRecursive }}
+              {{ if and .Params.splash_image .Params.summary }}
+                {{ $ideal = $ideal | append . }}
+              {{ else if .Params.splash_image }}
+                {{ $fallback = $fallback | append . }}
+              {{ end }}
             {{ end }}
-          </tbody>
-          <tfoot>
-            <tr class="border-t-2 border-black font-bold">
-              <td class="py-2 pr-4">Total</td>
-              <td class="py-2 pr-4 text-right">{{ $total }}</td>
-              <td></td>
-            </tr>
-          </tfoot>
-        </table>
+            {{ $candidates := $ideal }}
+            {{ if not $candidates }}
+              {{ $candidates = $fallback }}
+            {{ end }}
+
+            {{/* Pick one at random */}}
+            {{ $picked := index ($candidates | shuffle) 0 }}
+
+            <div class="w-52 flex flex-col rounded overflow-hidden shadow-md transform {{ $offset }}">
+              {{/* Section title bar — white */}}
+              <div class="bg-white px-3 py-2">
+                <h2 class="font-heading text-sm font-bold normal-case">{{ $sectionName }}</h2>
+              </div>
+
+              {{/* Cover image from the random post */}}
+              <a href="{{ $picked.RelPermalink }}" class="block">
+                <img src="{{ $picked.Params.splash_image }}" alt="{{ $picked.Title }}" class="w-full h-28 object-cover">
+              </a>
+
+              {{/* Section color bar with summary + arrow */}}
+              <div class="bg-{{ $color }} px-3 py-3 flex-1 flex flex-col">
+                <p class="font-body text-xs text-white leading-relaxed mb-3 flex-1">
+                  {{ $picked.Params.summary | default $picked.Title | truncate 100 }}
+                </p>
+                <a href="{{ $picked.RelPermalink }}"
+                   class="inline-flex items-center gap-1 text-white text-xs font-semibold">
+                  Read More &rarr;
+                </a>
+              </div>
+            </div>
+          {{ end }}
+
+        </div>
       </div>
-    </section>
-  </div>
+    </div>
+  </section>
+
+  {{/* ── Think Historically Section ── */}}
+  {{ $images := slice }}
+  {{ range site.RegularPages | shuffle | first 200 }}
+    {{ with .Params.splash_image }}
+      {{ $images = $images | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $images = $images | first 20 }}
+
+  <section class="bg-white p-8">
+    <div class="max-w-7xl mx-auto flex min-h-[380px] bg-black overflow-hidden">
+
+      {{/* Left column — rotating splash images */}}
+      <div class="w-1/2 relative overflow-hidden"
+           x-data="{
+             images: {{ $images | jsonify }},
+             current: 0,
+             init() {
+               setInterval(() => {
+                 this.current = (this.current + 1) % this.images.length
+               }, 4000)
+             }
+           }">
+        <template x-for="(img, i) in images" :key="img">
+          <img :src="img"
+               alt=""
+               class="absolute inset-0 w-full h-full object-cover transition-opacity duration-1000"
+               :class="i === current ? 'opacity-100' : 'opacity-0'">
+        </template>
+      </div>
+
+      {{/* Right column — text + video pill */}}
+      <div class="w-1/2 flex flex-col justify-center px-12 py-12">
+        <h2 class="font-heading text-3xl text-yellow mb-4 normal-case">Think historically</h2>
+        <p class="font-body text-sm text-white leading-relaxed mb-6">
+          Teachinghistory.org is designed to help K–12 history teachers access resources
+          and materials to improve U.S. history education in the classroom. With funding
+          from the U.S. Department of Education, the Center for History and New Media
+          (CHNM) has created Teachinghistory.org with the goal of making history content,
+          teaching strategies, resources, and research accessible.
+        </p>
+        <div>
+          <a href="#"
+             class="inline-flex items-center gap-2 bg-white text-black text-sm font-semibold px-5 py-2 rounded-full hover:bg-gray-light transition">
+            <svg class="w-4 h-4" viewBox="0 0 16 16" fill="currentColor"><path d="M4 2l10 6-10 6z"/></svg>
+            View Video
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  {{/* ── Explore by Grade Level ── */}}
+  {{ $gradeImages := slice }}
+  {{ range site.RegularPages | shuffle | first 300 }}
+    {{ with .Params.splash_image }}
+      {{ $gradeImages = $gradeImages | append . }}
+    {{ end }}
+  {{ end }}
+
+  <section class="bg-white">
+    <div class="max-w-7xl mx-auto px-6 py-12">
+      <h2 class="font-heading text-2xl text-center mb-8 normal-case">Explore by Grade Level</h2>
+
+      <div class="grid grid-cols-3 gap-6">
+        {{ $grades := slice
+          (dict "label" "Elementary School Teachers" "url" "/elementary-quick-links/")
+          (dict "label" "Middle School Teachers"     "url" "/middle-quick-links/")
+          (dict "label" "High School Teachers"       "url" "/high-quick-links/")
+        }}
+
+        {{ range $i, $grade := $grades }}
+          {{ $img := index $gradeImages $i }}
+          <a href="{{ $grade.url }}" class="group block rounded overflow-hidden shadow-md">
+            <img src="{{ $img }}" alt="" class="w-full h-44 object-cover">
+            <div class="bg-white px-4 py-4 flex items-center justify-between">
+              <span class="font-heading text-sm font-bold">{{ $grade.label }}</span>
+              <span class="text-orange text-lg group-hover:translate-x-1 transition-transform">&rarr;</span>
+            </div>
+          </a>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
 </main>
 {{ end }}

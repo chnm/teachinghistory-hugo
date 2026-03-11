@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 20931
+grade_levels:
+  - elementary
 ---
 
 * ### CA.1.1. Content Standard: A Child's Place in Time and Space

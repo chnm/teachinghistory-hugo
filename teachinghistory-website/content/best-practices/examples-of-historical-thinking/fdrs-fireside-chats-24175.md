@@ -17,6 +17,8 @@ summary: Historian Allida Black analyzes FDR's April 28, 1935 Fireside Chat. Wha
   ideas and arguments does FDR present to the American people?
 splash_image: /files/Allida.jpg
 author_image: /files/author_image/allidaauthor.jpg
+grade_levels:
+  - high
 ---
 
 

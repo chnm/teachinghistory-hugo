@@ -11,6 +11,8 @@ splash_image_fid: '4649'
 summary: Excite students by introducing them to primary sources that answer questions
   *they* have—not just questions you pose to them.
 splash_image: /files/splash-eoht-window.jpg
+grade_levels:
+  - high
 ---
 
 

@@ -17,6 +17,9 @@
     {{ $css = $css | minify | fingerprint }}
   {{ end }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+
+  {{/* Alpine.js — lightweight reactivity for image rotator, etc. */}}
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
 </head>
 <body class="min-h-screen flex flex-col font-body text-black bg-white">
 

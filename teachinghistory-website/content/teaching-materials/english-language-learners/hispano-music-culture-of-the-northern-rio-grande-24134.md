@@ -35,6 +35,9 @@ image_fid: '6191'
 splash_image_fid: '6192'
 splash_image: /files/rael_img1.jpg
 image: /files/rael_img2.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

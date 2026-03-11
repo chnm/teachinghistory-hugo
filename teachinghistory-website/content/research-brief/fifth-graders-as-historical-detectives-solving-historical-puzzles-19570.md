@@ -14,6 +14,9 @@ spotlight: Through direct instruction in historical analysis skills, elementary 
   of 5th graders in Maryland.
 splash_image: /files/splash-rb-puzzle.jpg
 image: /files/fifthgraders.jpeg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

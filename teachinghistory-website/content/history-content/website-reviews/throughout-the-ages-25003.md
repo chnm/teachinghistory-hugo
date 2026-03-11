@@ -12,6 +12,9 @@ splash_image_fid: '7706'
 summary: Looking for a primary source website created especially for elementary teachers?
 splash_image: /files/throughouttheages432x240.jpg
 image: /files/website_image/throughouttheages150x113.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

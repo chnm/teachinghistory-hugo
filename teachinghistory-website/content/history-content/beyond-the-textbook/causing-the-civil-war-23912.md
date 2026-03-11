@@ -21,8 +21,23 @@ image_fid: '4276
   4276'
 author_image_fid: '4285'
 author_image: /files/author_image/chadwick.jpg
+question: Was economic difference—manufacturing in the North and slave-driven agriculture
+  in the South—the primary cause of the Civil War?
+summary: Did King Cotton cause the Civil War? Or should you look further?
+splash_image: /files/Cotton.jpg
+splash_image_fid: '4374'
+what_textbooks_say: Textbooks have traditionally taught that incompatibility between
+  northern and southern economies caused the Civil War. Everything else was tied to
+  that economic difference, anchored by cotton.
+what_historians_say: The Civil War was fought for many reasons, not solely or even
+  primarily because of the growing importance of cotton on southern farms. Moving
+  away from economic differences and cotton as simplistic causes leads to a more accurate,
+  and far more interesting, understanding of the causes of the Civil War.
+what_sources_say: Census data from 1860 shows farms, manufacturing, and cities in
+  the North and the South, as well as the location of slaves and cotton in southern
+  states, all of which challenge the notion of a purely agricultural South and industrialized
+  North.
 ---
-
 
 Historically, textbooks have taught that incompatibility between northern and southern economies caused the Civil War. The industrial revolution in the North, during the first few decades of the 19th century, brought about a machine age economy that relied on wage laborers, not slaves. At the same time, the warmer Southern states continued to rely on slaves for their farming economy and cotton production. Southerners made huge profits from cotton and slaves and fought a war to maintain them. Northerners did not need slaves for their economy and fought a war to free them. Everything else, many textbooks claim, was tied to that economic difference and was anchored by cotton. The agricultural economy was certainly one cause of the Civil War, but not the only one. Wars are never simple and neither are their causes. Many other factors that helped bring about the war are central to understanding America's past. So what did start the Civil War—a war that divided the nation, destroyed crops, cities, and railroad lines, and claimed 630,000 lives? Many factors plunged the nation into chaos in 1861. Key political causes include the slow collapse of the Whig Party, the founding of the Republican Party, and, most important, the 1860 election of Abraham Lincoln as president. Religious opposition to slavery increased, supported by ministers and abolitionists such as William Lloyd Garrison. Geographical conflict over the spread of slavery into western territories and states—areas with neither an industrial nor a farm economy—grew. And political deals, such as the Missouri Compromise in 1820 and Compromise of 1850, and Supreme Court rulings, such as the Dred Scott decision in 1857, divided the country even more. These divisions went far beyond cotton and economics.
 

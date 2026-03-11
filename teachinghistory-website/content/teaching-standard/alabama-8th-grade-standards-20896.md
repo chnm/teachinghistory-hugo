@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 20896
+grade_levels:
+  - middle
 ---
 
 ## AL.8 Standard: World History—Early Man to 1500

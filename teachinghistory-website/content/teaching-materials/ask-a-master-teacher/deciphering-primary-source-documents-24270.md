@@ -16,6 +16,9 @@ summary: Create scaffolding and careful preparation of documents to promote stud
   understanding of primary sources.
 splash_image: /files/addedimage7.jpg
 image: /files/script_crop.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

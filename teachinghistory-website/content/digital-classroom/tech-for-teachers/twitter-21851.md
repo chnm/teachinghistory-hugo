@@ -16,6 +16,9 @@ summary: Does Twitter have value as an educational tool, or does it promote comm
 splash_image: /files/TwitterSplash.jpg
 thumbnail: /files/quiz_thumbnail/NatGeoUnThumbnail.jpg
 image: /files/Twitter-150x113.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

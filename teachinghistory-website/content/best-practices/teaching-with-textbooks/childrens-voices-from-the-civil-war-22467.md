@@ -18,6 +18,9 @@ summary: Help students identify with the past via children who lived through the
   War.
 splash_image: /files/ChildrensVoicesCWSplash.jpg
 author_image: /files/author_image/Maria.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

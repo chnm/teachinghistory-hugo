@@ -21,6 +21,10 @@ thumbnail: /files/SlideshareImage.jpg
 splash_image: /files/PercocoSplash.jpg
 image: /files/Truth-in-Transit-150x113.jpg
 author_image: /files/author_image/PercocoBioImage_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

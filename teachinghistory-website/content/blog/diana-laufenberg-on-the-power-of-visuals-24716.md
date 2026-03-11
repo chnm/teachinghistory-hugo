@@ -21,6 +21,10 @@ summary: Modern U.S. history instruction relies on reading and writing. Teacher 
 splash_image: /files/splash-blog-dlvisual.jpg
 image: /files/image-blog-dlvisuals.jpg
 author_image: /files/author_image/dlaufenberg1_1.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

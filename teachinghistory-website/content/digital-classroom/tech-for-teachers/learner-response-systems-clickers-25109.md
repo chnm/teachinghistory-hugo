@@ -19,6 +19,9 @@ summary: Check out this tech-based alternative to counting raised hands.
 splash_image: /files/clickersplash.jpg
 image: /files/clickerimage.jpg
 author_image: /files/author_image/mcdougall.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

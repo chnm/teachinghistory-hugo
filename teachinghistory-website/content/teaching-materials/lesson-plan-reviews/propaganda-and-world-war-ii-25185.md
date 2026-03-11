@@ -14,6 +14,10 @@ splash_image_fid: '8241'
 summary: Help students understand wartime propaganda with this excellent lesson plan.
 splash_image: /files/ww2splash.jpg
 image: /files/lesson_image/ww2image.jpg
+grade_levels:
+  - middle
+  - high
+duration: 'Variable'
 ---
 
 

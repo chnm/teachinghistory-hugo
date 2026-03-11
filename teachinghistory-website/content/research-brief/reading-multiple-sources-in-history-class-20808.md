@@ -11,6 +11,8 @@ summary: Here's help for challenges students encounter with historical documents
   primary sources.
 splash_image: /files/ReadingMultSource.jpg
 image: /files/multsource.jpeg
+grade_levels:
+  - high
 ---
 
 

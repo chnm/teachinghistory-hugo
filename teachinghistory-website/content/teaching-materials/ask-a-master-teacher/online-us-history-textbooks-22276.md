@@ -12,6 +12,10 @@ splash_image_fid: '4961'
 summary: Where to begin your search to find reliable online history textbooks.
 splash_image: /files/splash-aamt-computer.jpg
 image: /files/addedimage2.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

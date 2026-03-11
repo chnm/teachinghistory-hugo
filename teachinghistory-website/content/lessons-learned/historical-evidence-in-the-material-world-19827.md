@@ -20,6 +20,9 @@ summary: Visual and tactile experiences increase critical thinking skills.
 splash_image: /files/Historical_Evidence_Material_World_-_432x240.jpg
 image: /files/TheMetImage.jpg
 author_image: /files/author_image/chh.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

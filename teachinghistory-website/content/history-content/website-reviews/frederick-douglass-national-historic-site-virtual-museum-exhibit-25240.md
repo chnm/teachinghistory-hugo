@@ -13,6 +13,8 @@ summary: What was life like in abolitionist Frederick Douglass's home in Washing
   DC? The NPS takes a look.
 splash_image: /files/splash-fwr-fds.jpg
 image: /files/website_image/image-fwr-fds.jpg
+grade_levels:
+  - middle
 ---
 
 

@@ -12,6 +12,10 @@ summary: Maximize student creativity with these tools that let students create t
   own cartoons.
 splash_image: /files/pixtonsplash.jpg
 image: /files/Pixton_0.png
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

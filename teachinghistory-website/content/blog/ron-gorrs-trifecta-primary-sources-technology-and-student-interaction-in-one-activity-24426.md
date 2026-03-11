@@ -23,6 +23,10 @@ summary: How can you bring 21st-century teaching into curriculum you've already 
 splash_image: /files/splash-blog-rgwiki.jpg
 image: /files/image-blog-rgwiki.jpg
 author_image: /files/author_image/image-blog-rongorr.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

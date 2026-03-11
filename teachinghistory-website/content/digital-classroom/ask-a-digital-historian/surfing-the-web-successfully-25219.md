@@ -21,6 +21,8 @@ summary: Online searching got you down? Try using these tips and tricks in your 
 splash_image: /files/searchingsplash.jpg
 image: /files/lesson_image/searchingimage.jpg
 author_image: /files/author_image/author_wiebe.jpeg
+grade_levels:
+  - elementary
 ---
 
 

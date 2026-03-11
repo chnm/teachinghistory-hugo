@@ -17,6 +17,9 @@ summary: Are historical films like James Cameron's *Titanic* most useful as ways
   interest students in history—or as primary sources for the present day?
 splash_image: /files/splash-titanic-jup.jpg
 image: /files/image-titanic-jahblog_1.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

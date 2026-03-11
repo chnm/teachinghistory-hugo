@@ -14,6 +14,8 @@ summary: High school teacher Joe Jelen introduces the primary source analysis st
   "zoom-in inquiry."
 splash_image: /files/zoomin.jpeg
 author_image: /files/author_image/author_jelen.png
+grade_levels:
+  - high
 ---
 
 

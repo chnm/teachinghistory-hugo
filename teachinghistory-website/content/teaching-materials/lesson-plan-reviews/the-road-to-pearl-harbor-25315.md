@@ -15,6 +15,9 @@ summary: Explore the rise of animosity between the U.S. and Japan through primar
   source documents and related classroom activities.
 splash_image: /files/splash-lpr-pearlharbor.jpg
 image: /files/lesson_image/image-lpr-pearlharbor.jpg
+grade_levels:
+  - high
+duration: 'Variable'
 ---
 
 

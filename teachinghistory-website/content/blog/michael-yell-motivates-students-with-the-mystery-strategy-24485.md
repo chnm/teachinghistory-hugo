@@ -19,6 +19,10 @@ summary: Piece together history from a handful of clues with 7th-grade teacher M
 splash_image: /files/24295_432x240.jpg
 image: /files/Room-4-2.jpg
 author_image: /files/author_image/mYell_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

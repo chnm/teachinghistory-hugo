@@ -20,8 +20,9 @@
     </h3>
   </div>
 
-  {{/* Image or placeholder */}}
-  {{ with $page.Params.image }}
+  {{/* Image or placeholder — try splash_image, image, thumbnail */}}
+  {{ $img := $page.Params.splash_image | default $page.Params.image | default $page.Params.thumbnail }}
+  {{ with $img }}
     <div class="h-[160px] overflow-hidden">
       <img src="{{ . }}" alt="" class="w-full h-full object-cover">
     </div>

@@ -23,6 +23,9 @@ summary: Develop an engaging unit on American Imperialism that streamlines State
 splash_image: /files/imperialsplash.jpg
 image: /files/imperialimage_0.jpg
 author_image: /files/author_image/Fogo_crop_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

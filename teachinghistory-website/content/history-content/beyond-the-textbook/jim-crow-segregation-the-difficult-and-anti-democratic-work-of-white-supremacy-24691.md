@@ -3,7 +3,7 @@ title: 'Jim Crow Segregation: The Difficult and Anti-Democratic Work of White Su
 date: '2011-05-12T17:06:27'
 lastmod: '2017-12-05T08:46:32'
 content_type: beyond_the_textbook
-draft: false
+draft: true
 drupal_nid: 24691
 summary: Segregation contradicts what most students have learned about American freedom
   and democracy. Textbooks locate segregation's origins in southern disenfranchisement
@@ -166,7 +166,6 @@ url: /history-content/beyond-the-textbook/24691
 splash_image_fid: '7540'
 splash_image: /files/JimCrowSegregation432x240.jpg
 ---
-
 
 ## What Textbooks Say
 

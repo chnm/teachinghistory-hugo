@@ -13,6 +13,8 @@ summary: See sourcing in action, as a historian reads a document about the Scope
   Trial.
 splash_image: /files/Sourcing_a_Primary_Document_-_432x240.jpg
 image: /files/SourcingImage.jpg
+grade_levels:
+  - high
 ---
 
 

@@ -19,6 +19,8 @@ summary: 'First-grade teacher Jennifer Orr answers the question, how do you teac
 splash_image: /files/splash-blog-cdjo.jpg
 image: /files/image-blog-jocc.jpg
 author_image: /files/author_image/jennifer-orr.jpg
+grade_levels:
+  - elementary
 ---
 
 

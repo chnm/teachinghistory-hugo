@@ -20,6 +20,8 @@ splash_image_fid: '4929'
 summary: When unit planning is daunting, look to exceptional examples online.
 splash_image: /files/splash-aamt-paulr.jpg
 image: /files/IndependenceUnitImage.jpg
+grade_levels:
+  - high
 ---
 
 

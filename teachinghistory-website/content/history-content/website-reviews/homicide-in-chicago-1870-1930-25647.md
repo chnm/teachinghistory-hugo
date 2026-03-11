@@ -13,6 +13,9 @@ summary: Covering urbanization and industrialization? This homicide index can he
   students understand social changes and tensions associated with both.
 splash_image: /files/splash-homicide.jpg
 image: /files/website_image/image-homicide.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

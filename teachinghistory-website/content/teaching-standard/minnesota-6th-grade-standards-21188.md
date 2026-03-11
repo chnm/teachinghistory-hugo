@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21188
+grade_levels:
+  - middle
 ---
 
 *In the middle grades, the “lead discipline” approach continues, but with added emphasis on interdisciplinary connections (as the word “Studies” in the title “Minnesota Studies” suggests). Grade six features history as the lead discipline but the focus includes geographic, economic and civic understandings. Students study Minnesota history and its government, placing t he state and its people within the context of the national story. They engage in historical inquiry and study events, issues and individuals significant to Minnesota history, beginning with the early indigenous people of the upper Mississippi River region to the present day. They examine the relationship between levels of government, and how the concept of sovereignty affects the exercise of treaty rights. They analyze how the state’s physical features and location of resources affected settlement patterns and the growth of cities. Drawing on their knowledge of economics, students analyze the influence of a market-based economy at the local and national levels. They learn about the unique role Minnesota played, and continues to play, in regional, national and global politics.*

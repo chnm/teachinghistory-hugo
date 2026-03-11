@@ -14,6 +14,10 @@ splash_image_fid: '4357'
 summary: The textbook is examined as one source among many, rather than a final authority.
 splash_image: /files/RosaParks.jpg
 image: /files/lesson_image/rp.jpg
+grade_levels:
+  - middle
+  - high
+duration: 'One hour'
 ---
 
 

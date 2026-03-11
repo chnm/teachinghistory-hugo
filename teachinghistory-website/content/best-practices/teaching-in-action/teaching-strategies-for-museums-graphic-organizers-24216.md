@@ -13,6 +13,9 @@ summary: Eighth-grade teacher Amy Trenkle keeps students on-task before, during,
   after a museum visit with graphic organizers.
 splash_image: /files/splash-tia-graphicorgan.jpeg
 image: /files/image-TiA-stamps.jpeg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 20900
+grade_levels:
+  - high
 ---
 
 ## AL.12 Standard: United States Government

@@ -13,6 +13,9 @@ summary: K-6 teachers, worried that your students aren't ready for digital tools
   Check out this storytelling site!
 splash_image: /files/lbtsplash.jpg
 image: /files/LittleBirdImage.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

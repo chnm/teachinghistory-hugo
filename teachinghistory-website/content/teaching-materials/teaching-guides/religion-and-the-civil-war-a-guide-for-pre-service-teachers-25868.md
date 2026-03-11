@@ -20,6 +20,8 @@ spotlight: The religious beliefs of Americans during the Civil War period shaped
 splash_image: /files/BattleSplash.jpeg
 image: /files/BattleHymnoftheRepublic.jpeg
 author_image: /files/author_image/NATE_SLEETER (1)_0.JPG
+grade_levels:
+  - high
 ---
 
 

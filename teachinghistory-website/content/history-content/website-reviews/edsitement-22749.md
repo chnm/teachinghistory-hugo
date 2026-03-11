@@ -14,6 +14,10 @@ summary: 'EDSITEment: A portal for fun historical learning from grades K-12.'
 splash_image: /files/EdSitement432x240.jpg
 thumbnail: /files/Patent432x240.jpg
 image: /files/website_image/EDSITEmentImage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

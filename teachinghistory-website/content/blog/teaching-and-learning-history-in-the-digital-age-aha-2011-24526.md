@@ -19,6 +19,10 @@ summary: Rwany Sibaja recaps our presentation at the 2011 American Historical As
 splash_image: /files/prezisplashimage_0.jpg
 image: /files/2011aha.jpg
 author_image: /files/author_image/ThO.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

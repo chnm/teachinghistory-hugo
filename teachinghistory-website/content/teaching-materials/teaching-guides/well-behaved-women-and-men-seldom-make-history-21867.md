@@ -21,6 +21,8 @@ spotlight: History is made by those who are unafraid to push the envelope and re
   who worked to make America what it is today with this creative activity.
 splash_image: /files/WellBehaved432x240.jpg
 author_image: /files/author_image/zarnowski_0.jpg
+grade_levels:
+  - elementary
 ---
 
 

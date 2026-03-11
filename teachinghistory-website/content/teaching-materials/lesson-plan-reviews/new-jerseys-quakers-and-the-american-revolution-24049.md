@@ -15,6 +15,10 @@ splash_image_fid: '4670'
 summary: Did you know the Quakers were pre-Revolution abolitionists?...
 splash_image: /files/LibertyvsSlavery432x240.jpg
 image: /files/lesson_image/Quakers150x113.jpg
+grade_levels:
+  - middle
+  - high
+duration: '1-2 days, 90 minutes total'
 ---
 
 

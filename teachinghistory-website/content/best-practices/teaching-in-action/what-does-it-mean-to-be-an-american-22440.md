@@ -16,6 +16,8 @@ summary: 'An 8th-grade teacher asks: Was early 20th-century America a "melting p
   or a "salad bowl"?'
 splash_image: /files/What_Does_It_Mean_to_Be_American_-_432x240.jpg
 author_image: /files/author_image/cruz_author.jpg
+grade_levels:
+  - middle
 ---
 
 

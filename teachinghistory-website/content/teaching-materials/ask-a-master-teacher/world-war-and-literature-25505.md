@@ -21,6 +21,10 @@ summary: Can you suggest any literature covering World War I to World War II tha
 splash_image: /files/splash-aamt-hf.jpg
 image: /files/image-aamt-hf.jpg
 author_image: /files/author_image/author_lombard.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

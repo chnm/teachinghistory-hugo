@@ -14,6 +14,9 @@ summary: Direct your students through the historical research process with these
   resources.
 splash_image: /files/UsingtheWeb432x240.jpg
 image: /files/lesson_image/UsingtheWeb150x113.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

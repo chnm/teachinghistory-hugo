@@ -25,6 +25,8 @@ spotlight: Don't just test students' knowledge about the past and present, engag
 splash_image: /files/cdssplash.jpg
 image: /files/lesson_image/cdsimage.jpg
 author_image: /files/author_image/walsh_author.jpeg
+grade_levels:
+  - elementary
 ---
 
 

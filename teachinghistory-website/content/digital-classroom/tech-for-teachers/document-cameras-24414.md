@@ -16,6 +16,10 @@ summary: Liberate yourself from overhead projectors with these versatile pieces 
 splash_image: /files/24326_432x240.jpg
 image: /files/image-blog-jjdoccam1_0.jpg
 author_image: /files/author_image/Author_Image_Joe_Jelen_75x75_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

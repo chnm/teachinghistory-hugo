@@ -15,6 +15,9 @@ spotlight: Can students with learning disabilities learn historical thinking? Th
   classrooms, check out this article for useful tips, tricks, and suggestions.
 splash_image: /files/splash-rb-ld.jpg
 image: /files/histunderstand.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

@@ -20,6 +20,9 @@ summary: With the new film, *The Conspirator*, out in theaters, here are a few r
 splash_image: /files/41.jpg
 image: /files/body-lincoln01.jpg
 author_image: /files/author_image/Jennifer1.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

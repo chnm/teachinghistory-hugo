@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21547
+grade_levels:
+  - elementary
 ---
 
 *First grade Social Studies explores the role of the citizen in the schools, family and community. Students learn responsibilities, privileges and rights, patriotic traditions, symbols, functions of money and the connection of the past to the present. Conflict resolution, consumer roles and good safety practices will be introduced. Students recognize geographic features and identify regions. A variety of graphic skills will be incorporated, including graphs, charts and timelines. Economic concepts of basic needs and community occupations will be explored. The objectives for elementary West Virginia Social Studies may be integrated throughout the K-3 curriculum. The West Virginia Standards for 21st Century Learning include the following components: 21st Century Content Standards and Objectives and 21st Century Learning Skills and Technology Tools. All West Virginia teachers are responsible for classroom instruction that integrates learning skills, technology tools and content standards and objectives.*

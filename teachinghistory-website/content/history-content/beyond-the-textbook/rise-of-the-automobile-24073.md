@@ -11,8 +11,19 @@ author_bio: David Blanke is Joe B. Frantz Associate Professor of History at Texa
   his MA and PhD at Loyola University Chicago.
 author_image_fid: '5174'
 author_image: /files/author_image/author_blanke.jpg
+question: How did the rise of the automobile affect U.S. economics, culture, and society?
+summary: Americans today take cars for granted. How did they change American life?
+splash_image: /files/splash-btt-auto.jpg
+splash_image_fid: '5173'
+what_textbooks_say: 'Textbooks assemble three main narratives in automobile history:
+  Henry Ford and the Ford Motor Company, the rise of modern industry, and the rise
+  of leisure culture.'
+what_historians_say: The textbook portrait misses the critical economic, social, and
+  cultural importance of the automobile age, and the complexity of the automobile's
+  development and impact on American life.
+what_sources_say: In primary sources, the automobile stands at the center of shifts
+  in American definitions of work and the "good life."
 ---
-
 
 U.S. history textbooks typically relate early automobile use from the perspective of three distinct narratives. One focuses on Henry Ford, the inventor of the Model T and founder of Ford Motor Company. Ford was a hands-on mechanic who enjoyed tinkering with automobiles. He formed his own firm in 1903 to create a reliable, low-cost, easy-to-operate and easier-to-fix device for the masses. While ultimately successful, it took Ford five years and several failed product lines to produce the Model T. Affectionately called the "Tin Lizzie" or "flivver" (so-called because its bouncy ride was supposedly good "for the liver"), the car remained in production for over 20 years. The second story locates the car within the economic transformation of the 1920s. Ford's mass production techniques increased worker productivity and throughput. This allowed Ford to make more cars and sell them for less money. But these methods remained hard on laborers, many of whom were required to perform routine repetitive tasks for hours on end (made famous by Charlie Chaplin in *Modern Times*). In order to retain trained workers, Ford paid higher hourly wages and lowered the work shift from 12 to eight hours per day.
 

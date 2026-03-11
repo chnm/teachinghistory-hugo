@@ -18,6 +18,8 @@ spotlight: What exactly are elementary students capable of? Third grade teacher 
   necessary literacy skills and the importance of historic preservation.
 splash_image: /files/GeoLiteracy-Splash.jpg
 image: /files/Geo-Literacy-150x113.jpg
+grade_levels:
+  - elementary
 ---
 
 

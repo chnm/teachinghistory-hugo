@@ -16,6 +16,11 @@ summary: Cutting through New York from the ocean to the Great Lakes, the Erie Ca
   changed lives.
 splash_image: /files/ErieCanal432x240.jpg
 image: /files/lesson_image/Building-the-Erie-113x150.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
+duration: '1 day'
 ---
 
 

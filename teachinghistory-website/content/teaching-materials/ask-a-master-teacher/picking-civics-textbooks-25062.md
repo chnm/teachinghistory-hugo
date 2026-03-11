@@ -20,6 +20,10 @@ summary: Textbooks may be fantastic, but curriculum is even better.
 splash_image: /files/pickingcivicstextbooks432x240.jpg
 image: /files/pickingcivicstextbooks113x150.jpg
 author_image: /files/author_image/author_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

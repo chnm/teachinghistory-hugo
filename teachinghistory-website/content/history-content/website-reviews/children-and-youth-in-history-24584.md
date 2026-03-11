@@ -14,6 +14,10 @@ summary: Bring history home to young students with sources they can relate to—
   "teenager."
 splash_image: /files/splash-wr-childrenyouth.jpg
 image: /files/website_image/image-wr-childrenyouth.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

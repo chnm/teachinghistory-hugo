@@ -14,6 +14,8 @@ summary: High school teacher Joe Jelen combines roleplaying and critical analysi
   having students roleplay critics of the New Deal.
 splash_image: /files/tiafdr.jpeg
 author_image: /files/author_image/Author-Photo-Joseph-Jelen-75x75.png
+grade_levels:
+  - high
 ---
 
 

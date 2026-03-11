@@ -20,6 +20,9 @@ summary: Looking for history right where you are. You'd be surprised how inspiri
   local history can be.
 splash_image: /files/HistoryAllAroundSplash.jpg
 image: /files/HistoryisAll-150x113.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

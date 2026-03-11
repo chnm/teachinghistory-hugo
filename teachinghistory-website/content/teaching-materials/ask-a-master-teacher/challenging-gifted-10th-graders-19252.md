@@ -16,6 +16,8 @@ summary: Explore tips on challenging gifted high school students, including reso
   and strategies.
 splash_image: /files/splash-aamt-gt.jpg
 image: /files/GiftedTenthAHImage.jpg
+grade_levels:
+  - high
 ---
 
 

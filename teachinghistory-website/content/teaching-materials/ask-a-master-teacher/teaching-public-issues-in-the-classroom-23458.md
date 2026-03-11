@@ -25,6 +25,8 @@ summary: Teach your students to learn, care, and think internationally.
 splash_image: /files/OxfamSplash.jpg
 image: /files/OxfamImage2_1.jpg
 author_image: /files/author_image/yell_75.jpg
+grade_levels:
+  - elementary
 ---
 
 

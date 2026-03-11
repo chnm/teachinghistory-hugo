@@ -9,6 +9,10 @@ splash_image_fid: '7953'
 summary: Can digital games encourage historical thinking, or do they waste valuable
   teaching time?
 splash_image: /files/gameslearningand432x240.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

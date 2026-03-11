@@ -24,6 +24,8 @@ summary: Don't think once. Think twice. Demand concise, thought-provoking work f
   students.
 splash_image: /files/mikeyellon432x240.jpg
 author_image: /files/author_image/myell_1.jpg
+grade_levels:
+  - middle
 ---
 
 

@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21468
+grade_levels:
+  - middle
 ---
 
 ## §113.18. Social Studies, Grade 6, Beginning with School Year 2011-2012.

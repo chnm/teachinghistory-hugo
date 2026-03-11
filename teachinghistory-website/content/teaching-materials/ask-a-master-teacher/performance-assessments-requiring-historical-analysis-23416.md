@@ -15,6 +15,10 @@ splash_image_fid: '4952'
 summary: When you want your students to think, rather than just remember.
 splash_image: /files/splash-aamt-dbqs.jpg
 image: /files/SeeingandEngaging.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

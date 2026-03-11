@@ -13,6 +13,9 @@ summary: Attention Secondary teachers! Searching for essays on religion, the env
   or African Americans in U.S. history? TeacherServe is here for you!
 splash_image: /files/splash-wr-teacherserve.jpg
 image: /files/website_image/image-wr-teacherserve.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

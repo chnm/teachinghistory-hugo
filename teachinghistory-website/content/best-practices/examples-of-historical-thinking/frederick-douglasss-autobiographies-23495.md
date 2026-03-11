@@ -13,6 +13,9 @@ author_image_fid: '3607'
 summary: Use autobiographies to deconstruct views of slavery and historical heroes.
 splash_image: /files/FrederickDouglass.jpg
 author_image: /files/author_image/Jerome_author.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -28,6 +28,9 @@ splash_image_fid: '7336'
 summary: Learn more about the Civil Rights Act of 1964.
 splash_image: /files/crowsplash.jpg
 image: /files/civilimage.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

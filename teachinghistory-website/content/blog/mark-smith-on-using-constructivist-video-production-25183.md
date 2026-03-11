@@ -18,6 +18,8 @@ summary: Do you use video creation as a culminating activity? Teacher Mark Smith
 splash_image: /files/videosplash.jpg
 image: /files/4403229264_46fcb14716_b.jpg
 author_image: /files/author_image/author_msmith.jpg
+grade_levels:
+  - elementary
 ---
 
 

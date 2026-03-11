@@ -77,6 +77,10 @@ image_fid: '6215'
 splash_image_fid: '6214'
 splash_image: /files/sq3r_image3.jpg
 image: /files/sq3r_image2.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

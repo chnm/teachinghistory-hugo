@@ -10,6 +10,9 @@ splash_image_fid: '9605'
 summary: Kristina Frank of Eagle Ridge Middle School brings modern and historical
   elections home to her students using campaign ads.
 splash_image: /files/kfrank-splash.jpeg
+grade_levels:
+  - middle
+  - high
 ---
 
 

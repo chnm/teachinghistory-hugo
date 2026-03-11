@@ -30,6 +30,8 @@ image_fid: '6286'
 splash_image_fid: '6285'
 splash_image: /files/splash-btc-digstory1.jpeg
 image: /files/image-btc-digstory1.jpeg
+grade_levels:
+  - middle
 ---
 
 

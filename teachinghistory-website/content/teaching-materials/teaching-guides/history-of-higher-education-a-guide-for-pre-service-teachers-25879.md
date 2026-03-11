@@ -18,6 +18,8 @@ summary: Help students understand the different types of universities and colleg
 splash_image: /files/Clock.jpg
 image: /files/ElPaso.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_0_1.jpeg
+grade_levels:
+  - high
 ---
 
 

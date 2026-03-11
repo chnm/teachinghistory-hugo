@@ -15,6 +15,10 @@ summary: Share away on this YouTube-style site for PowerPoint, PDF, and OpenOffi
 splash_image: /files/Slideshare.jpg
 thumbnail: /files/quiz_thumbnail/PhotWorlThumbnail.jpg
 image: /files/SlideshareImage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

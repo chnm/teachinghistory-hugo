@@ -19,6 +19,10 @@ summary: Maps show far more than how to go from point A to point B! Discover how
 splash_image: /files/UsingOld432x240.jpg
 image: /files/UsingOld150x133.jpg
 author_image: /files/author_image/AuthorPhotoDanzer.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

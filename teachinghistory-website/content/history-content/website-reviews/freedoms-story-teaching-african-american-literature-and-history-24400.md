@@ -13,6 +13,9 @@ summary: Slavery, Reconstruction, the Civil Rights Movement—you have to teach 
   topics, so check out these essays to enrich your curriculum!
 splash_image: /files/splash-wr-freedomsstory.jpg
 image: /files/website_image/image-wr-freedomsstory.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

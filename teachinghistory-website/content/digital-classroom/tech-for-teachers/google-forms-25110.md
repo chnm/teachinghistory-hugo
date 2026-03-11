@@ -20,6 +20,10 @@ summary: Collect information from your students and your peers with Google Forms
 splash_image: /files/googleformsplash.jpg
 image: /files/googleformsimage.jpg
 author_image: /files/author_image/dlaufenberg1_1_1.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

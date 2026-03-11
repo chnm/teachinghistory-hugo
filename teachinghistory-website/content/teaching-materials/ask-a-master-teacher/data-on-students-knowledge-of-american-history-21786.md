@@ -15,6 +15,10 @@ summary: Finding solid data on student learning in history can be a challenge. H
   are some places to start.
 splash_image: /files/splash-aamt-tests.jpg
 image: /files/addedimage3.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

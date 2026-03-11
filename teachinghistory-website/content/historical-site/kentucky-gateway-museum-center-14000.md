@@ -6,6 +6,10 @@ content_type: historical_site
 draft: false
 drupal_nid: 14000
 website_url: http://www.kygmc.org/
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Everyone who ever passed through this part of Kentucky or called it home left a story behind. Explorers. Movie stars. Artists. Pioneers. Slaves. The Kentucky Gateway Museum Center brings all the stories of the Maysville region into focus by offering dynamic collections, exhibits, and a genealogical-historical library.

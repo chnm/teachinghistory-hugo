@@ -12,8 +12,29 @@ author_bio: Christopher Wells is an assistant professor of environmental history
   history.
 author_image_fid: '9188'
 author_image: /files/author_image/author_wells.jpg
+question: Was it successful for everyone?
+summary: The "go-green" movement is rampant in modern America. However, support for
+  conservation in the early 20th century was not quite as universal.
+splash_image: /files/conservationsplash.jpg
+splash_image_fid: '9189'
+what_textbooks_say: Most begin by describing how industrialization marred the environment
+  and wasted natural resources. They then describe how President Theodore Roosevelt
+  secured new laws that gave the federal government power to curb environmental abuses
+  and manage natural resources.
+what_historians_say: Historians describe the conservation movement as significantly
+  more diverse, both geographically and politically, than textbook accounts suggest.
+  They tend to emphasize the movement’s strong ties to the larger Progressive movement,
+  explore conservation’s national scope, and highlight the work of local grassroots
+  leaders. Historians have also emphasized the significant human costs and unintended
+  environmental consequences of key conservation policies.
+what_sources_say: Sources show how conservation laws designed to protect wasteful
+  and damaging uses of natural resources created entirely new categories of crime.
+  They redefine traditional “pioneering” activities such as carving farmland out of
+  the public domain, building log cabins, and hunting animals for food as the crimes
+  of squatting, timber theft, and poaching. They also reveal how conserving Yosemite
+  and the Grand Canyon for public enjoyment carried significant costs for Native Americans
+  who called these places home.
 ---
-
 
 ## Conservation and Environmental Change
 

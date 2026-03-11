@@ -13,6 +13,10 @@ summary: Happy Presidents Day! What better place to turn to for presidential his
   resources than libraries dedicated to the presidents?
 splash_image: /files/splash-blog-presd11.jpg
 image: /files/image-blog-presday11.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

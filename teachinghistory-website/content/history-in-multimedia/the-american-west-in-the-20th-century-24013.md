@@ -13,6 +13,8 @@ splash_image_fid: '4622'
 summary: The American West meets the New Deal—how did the latter change the former?
   Professor Richard White explores the question.
 splash_image: /files/splash-lectures-glwest.jpg
+grade_levels:
+  - high
 ---
 
 

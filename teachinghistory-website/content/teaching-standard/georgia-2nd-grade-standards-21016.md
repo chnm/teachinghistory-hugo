@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21016
+grade_levels:
+  - elementary
 ---
 
 * ### GA.SS2H. Strand/topic: Georgia, My State

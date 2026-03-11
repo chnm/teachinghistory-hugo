@@ -17,6 +17,8 @@ summary: How can you teach—not just distract—with digital games?
 splash_image: /files/gamingsplash.jpg
 image: /files/gamessplash.jpg
 author_image: /files/author_image/authorphotojeremiahmccall75x75_2.jpg
+grade_levels:
+  - high
 ---
 
 

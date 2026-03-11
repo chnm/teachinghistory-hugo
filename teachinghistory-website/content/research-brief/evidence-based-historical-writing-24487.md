@@ -10,6 +10,8 @@ splash_image_fid: '7086'
 summary: Use these suggestions to help students write informed historical essays.
 splash_image: /files/briefsplash.jpg
 image: /files/evidencewrite.jpg
+grade_levels:
+  - high
 ---
 
 

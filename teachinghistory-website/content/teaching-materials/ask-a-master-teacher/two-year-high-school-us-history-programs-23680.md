@@ -15,6 +15,8 @@ summary: What are the benefits and detriments of implementing a two-year U.S. hi
   course?
 splash_image: /files/splash-aat-hs.jpg
 image: /files/2YearsImage.jpg
+grade_levels:
+  - high
 ---
 
 

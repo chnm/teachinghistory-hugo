@@ -19,6 +19,8 @@ summary: Not sure how to go about devising World History lesson plans and activi
 splash_image: /files/worldhistorysplash.jpg
 image: /files/worldhistoryimage.jpg
 author_image: /files/author_image/author_harris.jpg
+grade_levels:
+  - high
 ---
 
 

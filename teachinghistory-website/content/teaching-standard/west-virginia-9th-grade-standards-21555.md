@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21555
+grade_levels:
+  - high
 ---
 
 *The ninth grade social studies course engages students in the study of the development and evolution of the historic, economic, geographic, political, and social structure of the cultural regions of the world from the dawn of civilization to 1900. Special attention is given to the formation and evolution of societies into complex political and economic systems. Students are engaged in critical thinking and problem-solving skills, using maps, spreadsheets, charts, graphs, text and other data from a variety of credible sources. Students synthesize the information to predict events and anticipate outcomes as history evolves through the ages. The West Virginia Standards for 21st Century Learning include the following components: 21st Century Content Standards and Objectives and 21st Century Learning Skills and Technology Tools. All West Virginia teachers are responsible for classroom instruction that integrates learning skills, technology tools and content standards and objectives.*

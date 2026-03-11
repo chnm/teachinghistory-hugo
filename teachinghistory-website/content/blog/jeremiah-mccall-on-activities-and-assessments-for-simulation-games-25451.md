@@ -19,6 +19,8 @@ summary: Thinking about using digital games in your classroom? In Part Four of h
 splash_image: /files/gameblogsplash.jpg
 image: /files/gameblogimage.jpg
 author_image: /files/author_image/authorphotojeremiahmccall75x75_2_1_0.jpg
+grade_levels:
+  - high
 ---
 
 

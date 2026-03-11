@@ -20,6 +20,9 @@ summary: What is the key line in Franklin D. Roosevelt's second inaugural addres
   Historian David Kennedy gives his answer.
 splash_image: /files/kennedysplash.jpeg
 author_image: /files/author_image/dkennedy.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

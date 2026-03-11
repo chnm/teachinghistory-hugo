@@ -27,6 +27,10 @@ summary: Former NCSS president and 7th-grade teacher Michael Yell shares his fir
   teaching strategies for upper elementary and secondary.
 splash_image: /files/splash-blog-welcomemy.jpg
 author_image: /files/author_image/mYell.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

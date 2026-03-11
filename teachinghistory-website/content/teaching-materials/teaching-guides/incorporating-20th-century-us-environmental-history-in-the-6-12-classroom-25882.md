@@ -33,6 +33,9 @@ summary: This guide consists of curated primary and secondary sources to help st
   connect environmental history to broader themes in twentieth century US history.
 splash_image: /files/NMAH-YWCA Camp for Girls.jpg
 author_image: /files/author_image/Annabelle and Hannah.png
+grade_levels:
+  - middle
+  - high
 ---
 
 

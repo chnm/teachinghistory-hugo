@@ -16,6 +16,9 @@ summary: Make the Lewis and Clark expedition and life on the Oregon Trail come a
   with these suggestions!
 splash_image: /files/fictionsplash.jpg
 image: /files/fictionimage.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

@@ -15,6 +15,10 @@ summary: This creative lesson transforms language into a historic artifact and e
   students to analyze how language changes over time.
 splash_image: /files/languagesplash.jpg
 image: /files/lesson_image/languageimage.jpg
+grade_levels:
+  - elementary
+  - middle
+duration: '1 class session'
 ---
 
 

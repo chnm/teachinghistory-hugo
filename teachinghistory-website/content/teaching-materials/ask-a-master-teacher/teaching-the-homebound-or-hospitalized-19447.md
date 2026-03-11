@@ -14,6 +14,10 @@ summary: Teaching the homebound or hospitalized student offers a chance to explo
   teaching with technology.
 splash_image: /files/splash-aamt-sick.jpg
 image: /files/HomeboundImage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

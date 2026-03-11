@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21302
+grade_levels:
+  - middle
 ---
 
 (Note: By the completion of eighth grade, New Jersey students are expected to master the following standards.)

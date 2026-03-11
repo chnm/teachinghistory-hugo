@@ -17,6 +17,10 @@ summary: The socio-cultural impact of historic events or time periods and the in
   through various forms of media.
 splash_image: /files/WPAposter_splash.jpg
 image: /files/art_crop.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

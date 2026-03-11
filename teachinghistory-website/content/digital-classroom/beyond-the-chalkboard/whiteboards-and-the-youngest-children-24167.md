@@ -29,6 +29,8 @@ spotlight: Nowadays, even elementary students are very technology savvy. Why not
   plans? Watch this video from the Auburn Early Education Center and discover how!
 splash_image: /files/splash-btc-five2.jpeg
 image: /files/image-btc-five1.jpeg
+grade_levels:
+  - elementary
 ---
 
 

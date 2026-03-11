@@ -14,6 +14,10 @@ summary: Encourage students to think critically about website content by introdu
   evaluation criteria and rubrics.
 splash_image: /files/Internet_map_plain_1024.png
 image: /files/lesson_image/internet.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

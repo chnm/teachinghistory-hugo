@@ -11,6 +11,9 @@ summary: How do children in different countries learn history? Is the role of na
   the same internationally?
 splash_image: /files/IsNarrative.jpg
 image: /files/narrative.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

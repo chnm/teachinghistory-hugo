@@ -18,6 +18,10 @@ summary: Documents are riddled with difficult vocabulary. Don't be afraid to ada
 splash_image: /files/AdaptingDocumentsSplash.jpg
 image: /files/AdaptingDocuments-150x113.jpg
 author_image: /files/author_image/Logo SHEG.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

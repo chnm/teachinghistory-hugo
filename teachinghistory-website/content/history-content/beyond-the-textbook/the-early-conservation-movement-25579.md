@@ -3,7 +3,7 @@ title: The Early Conservation Movement
 date: '2012-04-20T13:19:38'
 lastmod: '2017-12-05T08:51:59'
 content_type: beyond_the_textbook
-draft: false
+draft: true
 drupal_nid: 25579
 question: Was it successful for everyone?
 url: /history-content/beyond-the-textbook/25579
@@ -12,7 +12,6 @@ summary: The "go-green" movement is rampant in modern America. However, support 
   conservation in the early 20th century was not quite as universal.
 splash_image: /files/conservationsplash.jpg
 ---
-
 
 ## What Textbooks Say
 

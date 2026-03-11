@@ -18,6 +18,10 @@ summary: Frederick Douglass approached the abolition of slavery from within the 
   of the Constitution.
 splash_image: /files/fdouglass_splash.jpg
 author_image: /files/author_image/LMorel_biopic.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -15,6 +15,9 @@ splash_image_fid: '3917'
 summary: Should I just try to jazz up our textbook or can you suggest places to look
   to find documents that my kids can decipher?
 splash_image: /files/HowDoIUseDBQsSplash.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

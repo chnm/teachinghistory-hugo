@@ -12,6 +12,10 @@ splash_image_fid: '7980'
 summary: Brainstorm and organize ideas with this easy-to-use visual tool.
 splash_image: /files/poppletsplash.jpg
 image: /files/poppletimage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

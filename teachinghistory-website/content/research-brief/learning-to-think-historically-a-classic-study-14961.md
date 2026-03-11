@@ -11,6 +11,9 @@ summary: What does a curriculum designed to foster historical understanding and 
   look like?
 splash_image: /files/splash-rb-classics.jpg
 image: /files/learntothink.jpeg
+grade_levels:
+  - middle
+  - high
 ---
 
 

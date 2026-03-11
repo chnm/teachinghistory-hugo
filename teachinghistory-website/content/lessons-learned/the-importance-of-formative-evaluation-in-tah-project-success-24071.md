@@ -13,6 +13,9 @@ author_image_fid: '5115'
 summary: Thorough evaluation must collect formative as well as summative data.
 splash_image: /files/splash-ll-evaluation.jpg
 author_image: /files/author_image/kortecamp-author.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

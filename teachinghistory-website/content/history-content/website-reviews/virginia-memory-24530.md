@@ -13,6 +13,10 @@ summary: Are you a Virginia educator teaching VA state history? My your task eas
   Explore the Library of Virginia's 70 collections of digitized primary sources.
 splash_image: /files/splash-wr-vamem.jpg
 image: /files/website_image/image-wr-vamem_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

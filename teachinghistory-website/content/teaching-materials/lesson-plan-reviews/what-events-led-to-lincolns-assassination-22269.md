@@ -17,6 +17,9 @@ summary: Elementary students investigate the first presidential assassination an
 splash_image: /files/splash-lpr-assassination.jpg
 thumbnail: /files/quiz_thumbnail/Scott_Thumb.jpg
 image: /files/lesson_image/001qimg.jpg
+grade_levels:
+  - elementary
+duration: '1-3 class sessions'
 ---
 
 

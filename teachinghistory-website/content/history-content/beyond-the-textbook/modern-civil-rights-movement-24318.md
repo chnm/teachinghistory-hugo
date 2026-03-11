@@ -15,9 +15,39 @@ image_fid: '7112'
 author_image_fid: '6813'
 image: /files/Dynamics_of_Idealism-_Volunteers_for_Civil_Rights_1965-1982_432x240_0.jpg
 author_image: /files/author_image/Jenice_crop.jpg
+question: Did individual African American activists spark the Civil Rights Movement?
+summary: The modern Civil Rights Movement is often marked as beginning with the 1954
+  U.S. Supreme Court decision banning school segregation or the day in 1955 when Rosa
+  Parks refused to move from a bus seat in Montgomery, AL and ends with the passage
+  of the 1965 Voting Rights Act or with the assassination of Dr. Martin Luther King,
+  Jr. in 1968 (Or, more recently, with the election of President Barack Obama). In
+  some textbooks, the context for this movement are the years following the 1896 U.S.
+  Supreme Court case of Plessy V.
+splash_image: /files/Dynamics_of_Idealism-_Volunteers_for_Civil_Rights_1965-1982_432x240_1.jpg
+splash_image_fid: '7113'
+what_textbooks_say: Textbooks are silent about defining race and racism, even though
+  the modern Civil Rights Movement and its antecedent movements were efforts to challenge
+  and eliminate racism. Rather than addressing the outrage of systematically being
+  denied basic human rights by the U.S. Supreme Court, while citizens in a democracy,
+  textbooks suggest that individual African Americans were merely sad or angry because
+  individual white people did not want to fight wars, play baseball, learn, ride public
+  transportation or eat lunch with them.
+what_historians_say: Textbooks define segregation benignly with little reference to
+  the ways in which northern and southern state governments and businesses systematically
+  – and over the course of several decades -- reinforced an ideology of white supremacy
+  through violence. Other groups of people affected by these same laws and practices
+  – including American Indians, Mexican Americans, Asian Americans and Pacific Islanders,
+  Native Hawaiians, Native Alaskans, Jews and Arabs – are seldom included in textbook
+  discussions of racism. These absences strip away the underlying motivation for collective
+  anger and social action.
+what_sources_say: The most important lessons of the modern Civil Rights Movement will
+  not be gained from passively reading textbooks. Examining primary sources will place
+  students closer to the scenes of the modern Civil Rights Movement and its antecedent
+  movements. Too often Dr. King is represented in textbooks as the person who was
+  sent to save African Americans from racism, or the most powerful leader of the modern
+  Civil Rights Movement, or as a political moderate. Instead, he was one of many powerful
+  leaders.
 ---
-
-
 
 The modern Civil Rights Movement is often marked as beginning with the 1954 U.S. Supreme Court decision banning school segregation or the day in 1955 when Rosa Parks refused to move from a bus seat in Montgomery, AL and ends with the passage of the 1965 Voting Rights Act or with the assassination of Dr. Martin Luther King, Jr. in 1968 (Or, more recently, with the election of President Barack Obama). In some textbooks, the context for this movement are the years following the 1896 U.S. Supreme Court case of Plessy V. Ferguson in which federal and state laws enforced legal racial segregation, to which the Civil Rights Movement was a response. The contemporary "story" of the Civil Rights Movement is that bad things did, indeed, happen to innocent African Americans who merely wanted to live the American dream but that individual racist men were responsible for the violence and Dr. Martin Luther King, Jr., Rosa Parks and the federal government (including individual U.S. presidents) solved the problem. Textbook glossaries fail to define racism and the root word "race" (a concept debated by scholars); They define segregation benignly with little reference to the ways in which northern and southern state governments and businesses systematically – and over the course of several decades -- reinforced an ideology of white supremacy through violence. Other groups of people affected by these same laws and practices – including American Indians, Mexican Americans, Asian Americans and Pacific Islanders, Native Hawaiians, Native Alaskans, Jews and Arabs – are seldom included in textbook discussions of racism. These absences strip away the underlying motivation for collective anger and social action.
 

@@ -16,6 +16,8 @@ summary: Two letters from 1800 Tripoli lead into a story of piracy, privateering
   slavery, international politics, and war at sea and on land.
 splash_image: /files/Christine-Sears.jpg
 author_image: /files/author_image/image-eoht-sears.jpg
+grade_levels:
+  - high
 ---
 
 

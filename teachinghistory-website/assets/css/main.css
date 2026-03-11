@@ -48,7 +48,7 @@
     font-family: var(--font-heading);
   }
 
-  h2 {
+  article h2 {
     text-transform: uppercase;
     font-weight: bold;
   }
@@ -72,6 +72,23 @@
 
   li + li {
     margin-top: 0.25em;
+  }
+
+  /* Body content links — visible but not distracting */
+  .font-body a:not([class]),
+  article a:not([class]),
+  dialog a:not([class]) {
+    color: var(--color-orange);
+    text-decoration: underline;
+    text-decoration-color: var(--color-orange-tint);
+    text-underline-offset: 2px;
+    transition: text-decoration-color 0.15s;
+  }
+
+  .font-body a:not([class]):hover,
+  article a:not([class]):hover,
+  dialog a:not([class]):hover {
+    text-decoration-color: var(--color-orange);
   }
 
   blockquote {

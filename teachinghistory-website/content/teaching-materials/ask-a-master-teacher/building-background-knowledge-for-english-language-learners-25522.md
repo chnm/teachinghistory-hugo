@@ -37,6 +37,8 @@ splash_image_fid: '9116'
 summary: How can we help our 5th-grade ELL students build background and make connections
   with our social studies curriculum?
 splash_image: /files/ellsplash.jpg
+grade_levels:
+  - elementary
 ---
 
 

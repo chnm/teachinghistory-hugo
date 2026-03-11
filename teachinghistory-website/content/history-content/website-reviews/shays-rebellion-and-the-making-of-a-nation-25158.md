@@ -13,6 +13,9 @@ summary: Engage your students in historical thinking with this interactive site 
   the rebellion led by Daniel Shays.
 splash_image: /files/shaysplash.jpg
 image: /files/website_image/shayimage.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -136,6 +136,9 @@ spotlight: 'Explore a lesson, designed especially for English Language Learners,
 splash_image: /files/long_image2.jpg
 image: /files/long_image1.jpg
 author_image: /files/author_image/Long.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

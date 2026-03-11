@@ -15,6 +15,10 @@ summary: Students examine primary sources related to the life of an immigrant gi
   and her family to discover what life might have been like at the turn of the century.
 splash_image: /files/tenlifesplash.jpg
 image: /files/lesson_image/tenlifeimage.jpg
+grade_levels:
+  - elementary
+  - middle
+duration: '1 Class Session'
 ---
 
 

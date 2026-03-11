@@ -11,6 +11,9 @@ summary: Ford's Theatre Society's Sarah Jencks leads teachers through Abraham Li
   Second Inaugural Address and follow-up activities, in this example of on-site TAH
   professional development.
 splash_image: /files/Fords_1_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -21,6 +21,10 @@ summary: Whether you use the telephone or Skype, there are a number of ways to c
 splash_image: /files/skypesplash_0.jpg
 image: /files/skypeimage_0.jpg
 author_image: /files/author_image/PercocoBioImage_0_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -11,6 +11,8 @@ date_published: '2008-08-20T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
 splash_image_fid: '6143'
 splash_image: /files/splash-him-supremecourtgl.jpg
+grade_levels:
+  - high
 ---
 
 

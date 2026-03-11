@@ -11,6 +11,10 @@ keywords: slaves, race, racism, race relations, antebellum, activists, activism,
 website_url: http://lincoln.lib.niu.edu/themevideo.html
 date_published: '2008-05-14T00:00:00'
 series_name: African-American Experience Video
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Julie Roy Jeffrey of Goucher College discusses the formation of abolitionist societies in the antebellum U.S., focusing particularly on the formation of such societies by women.

@@ -10,6 +10,9 @@ keywords: baseball, baseball players, athletes, sports, mass media, media covera
 website_url: http://baseballhall.org/education/school-programs/curriculum/womens-history
 date_published: '2003-03-18T00:00:00'
 series_name: 'National Baseball Hall of Fame and Museum: Electronic Field Trips'
+grade_levels:
+  - middle
+  - high
 ---
 
 This electronic field trip looks at pioneering women baseball players, owners, umpires, and teams from as early as 1866, all the way up to present-day women playing and working in baseball. The common thread running through the stories examined is the efforts of women and girls to be a part of America's national pastime: baseball.

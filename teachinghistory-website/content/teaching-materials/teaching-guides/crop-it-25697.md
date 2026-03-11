@@ -19,6 +19,10 @@ author_image_fid: '9450'
 summary: Use this four-step learning routine to deeply explore visual primary sources.
 splash_image: /files/cropitsplash.jpg
 author_image: /files/author_image/author_bondie.png
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

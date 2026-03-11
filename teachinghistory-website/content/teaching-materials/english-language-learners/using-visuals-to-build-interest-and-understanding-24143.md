@@ -121,6 +121,10 @@ author_image_fid: '6228
 
   6228'
 splash_image: /files/flowermaking_splash.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -5,6 +5,9 @@ lastmod: '2017-12-01T14:23:42'
 content_type: tah_grant
 draft: false
 drupal_nid: 24865
+grade_levels:
+  - elementary
+  - middle
 ---
 
 This Connecticut consortium includes the high-need urban district of New Haven and the surrounding urban fringe. Out of nearly 70,000 students, these districts have 11,780 who are designated as English language learners or special education students; teachers who are certified to teach these students often have deep training in modifying curricula and shallow knowledge in some content areas, including history. Each year, eminent historians will lead rigorous examinations of key ideas, documents, figures and turning points during eight evening seminars, two Saturday trips to local historic sites and a weeklong summer institute at sites of national significance. Instructional support will be provided by educational specialists and bolstered by classroom coaching and modeling. Project leaders will focus on recruiting teachers who work with English language learners and special education students. Although the aim is to retain a core group of 35 teachers over the life of the grant, it is likely that some will drop out and others will replace them. This project will promote educational equity by ensuring that diverse learners have access to the same high-quality content as other students. American history will be covered in chronological order, touching on all the eras. Teaching strategies will include differentiating instruction and integrating American history into other subject areas to support extended learning. Teachers will be able to apply for mini-grants to build collections of classroom resources, a key component for this group of teachers. High-quality, project-created teaching materials and lessons will be posted on the Web, and they should be particularly valuable to those who work with underserved special populations.

@@ -12,6 +12,8 @@ summary: Challenge students to gather evidence from multiple primary sources. He
   a high school student uses two related primary sources to understand the civil rights
   movement.
 splash_image: /files/splash-eoht-source-checking.jpg
+grade_levels:
+  - high
 ---
 
 

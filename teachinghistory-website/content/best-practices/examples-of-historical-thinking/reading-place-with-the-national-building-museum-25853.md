@@ -10,6 +10,10 @@ splash_image_fid: '10198'
 summary: What does architecture say about the past and the present? TAH teachers learn
   strategies for close examination of buildings in Washington, DC.
 splash_image: /files/buildingmuseumsplash_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

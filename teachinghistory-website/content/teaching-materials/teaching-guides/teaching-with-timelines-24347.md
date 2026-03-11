@@ -17,6 +17,9 @@ summary: Construct an ongoing, shared classroom timeline in middle and elementar
 splash_image: /files/timelinesplash.jpg
 image: /files/timelineimage.jpg
 author_image: /files/author_image/fillpot_1_0.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

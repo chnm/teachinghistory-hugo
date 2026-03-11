@@ -23,6 +23,10 @@ spotlight: Non-fiction is almost always present in the history curriculum, howev
 splash_image: /files/UsingHistoryBooksSplash.jpg
 image: /files/UsingHistoryBook-150x113.jpg
 author_image: /files/author_image/s-levstik_0_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

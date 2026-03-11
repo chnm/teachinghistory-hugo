@@ -11,6 +11,9 @@ splash_image_fid: '4747'
 summary: Use this guide developed by PBS and the *Antiques Roadshow* to teach about
   material culture.
 splash_image: /files/UPS-splash-AR.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

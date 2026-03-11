@@ -12,6 +12,9 @@ splash_image_fid: '9385'
 summary: Organize and share your online finds using online social pinboard services.
 splash_image: /files/splash-tft-pin.jpg
 image: /files/image-tft-pin.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

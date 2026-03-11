@@ -33,6 +33,10 @@ summary: Comic books as primary sources? Bring superheroes into the classroom wi
   these six historical themes.
 splash_image: /files/FourFavoritesSplash.jpg
 author_image: /files/author_image/ThO_1.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -6,6 +6,24 @@ content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 25478
 url: /history-content/beyond-the-textbook/25478
+question: Did Northerners all respond the same way to Brown's infamous raid? Southerners?
+summary: Did Northerners all respond the same way to Brown's infamous raid? Southerners?
+splash_image: /files/johnbrownsplash.jpg
+splash_image_fid: '8972'
+what_textbooks_say: Textbooks present the response to John Brown’s 1859 raid on Harpers
+  Ferry as polarized according to geographic sections, with Southerners condemning
+  Brown as a dangerous fanatic and many Northerners supporting his bold and violent
+  strike against slavery. That portrayal reaffirms the deep and growing sectional
+  divide and depicts a nation barreling towards secession and war.
+what_historians_say: Historians detect more variation in the responses to Brown’s
+  raid, and more nuance even among Northerners and Southerners. In particular, the
+  raid provoked deep and complicated reactions in the North, ranging from celebration
+  to political censure. Those responses reveal a country deeply divided over the institution
+  of slavery, but far from uniform in thought.
+what_sources_say: As one of the most riveting events of the antebellum era, Brown’s
+  raid precipitated passionate responses in newspapers, sermons, and political speeches.
+  Those sources provide a compelling glimpse into a vast nation’s complicated responses
+  to the captivating moment in time.
 ---
 
 ## Brown and the Raid

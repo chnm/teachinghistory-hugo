@@ -13,6 +13,9 @@ summary: This interactive tutorial models a four-step process for analyzing hist
   sources.
 splash_image: /files/Seeing_and_Engaging_-_432x240.jpg
 image: /files/Picture-18.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

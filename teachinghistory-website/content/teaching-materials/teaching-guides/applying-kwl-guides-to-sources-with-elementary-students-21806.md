@@ -17,6 +17,9 @@ summary: To engage with a source, ask, "What do I *know*, what do I *want* to kn
 splash_image: /files/kwl_0.jpg
 image: /files/kwl.jpg
 author_image: /files/author_image/fillpot_1.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

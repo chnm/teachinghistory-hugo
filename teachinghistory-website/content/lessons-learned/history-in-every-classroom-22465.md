@@ -14,6 +14,8 @@ author_image_fid: '4137'
 summary: Making history the everyday in K-5 classrooms.
 splash_image: /files/HistoryinEveryClassroomSplash.jpg
 author_image: /files/author_image/fillpot.jpg
+grade_levels:
+  - elementary
 ---
 
 

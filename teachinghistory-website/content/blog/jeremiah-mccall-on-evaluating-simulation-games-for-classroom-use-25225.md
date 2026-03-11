@@ -18,6 +18,8 @@ summary: So you want to use digital games in your teaching. How do you decide wh
 splash_image: /files/simulation2splash.jpg
 image: /files/simulation2image.jpg
 author_image: /files/author_image/authorphotojeremiahmccall75x75_2_0.jpg
+grade_levels:
+  - high
 ---
 
 

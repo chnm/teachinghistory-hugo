@@ -15,6 +15,9 @@ summary: What were the consequences of and motivations for Japanese American rem
   during World War II?
 splash_image: /files/Incarceration432x240.jpg
 image: /files/lesson_image/homephoto1.jpg
+grade_levels:
+  - high
+duration: '1-6 class sessions (or longer)'
 ---
 
 

@@ -15,6 +15,8 @@ splash_image_fid: '4958'
 summary: Before beginning my first Teaching American History (TAH) grant in 2003,
   I was a struggling new teacher . . .
 splash_image: /files/Power_of_Primary_Sources_-_432x240.jpg
+grade_levels:
+  - high
 ---
 
 

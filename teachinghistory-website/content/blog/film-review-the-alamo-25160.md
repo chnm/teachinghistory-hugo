@@ -18,6 +18,9 @@ summary: Remember the Alamo! But what does the U.S. remember? Historical fact or
 splash_image: /files/alamosplash.jpg
 image: /files/alamoimage.jpg
 author_image: /files/author_image/author_photo_corkin.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

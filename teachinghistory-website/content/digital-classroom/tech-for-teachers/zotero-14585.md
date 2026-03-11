@@ -16,6 +16,10 @@ summary: Zotero makes gathering, annotating, organizing, and cross-referencing r
 splash_image: /files/ZoteroSplashNew.jpg
 thumbnail: /files/website_image/ForeFielImage.jpg
 image: /files/ZoteroImg_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

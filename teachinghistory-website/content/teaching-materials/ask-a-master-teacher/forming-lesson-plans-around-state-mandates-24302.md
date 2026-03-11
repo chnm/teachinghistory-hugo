@@ -22,6 +22,9 @@ summary: How do you teach the effects of WWI on art and literature? Transforming
 splash_image: /files/dix_splash.jpg
 image: /files/dix_crop.jpg
 author_image: /files/author_image/Fogo_crop.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -16,6 +16,8 @@ summary: In the Montessori philosophy, which prioritizes creativity, how can you
   present history?
 splash_image: /files/Montessori-432x240.jpg
 image: /files/Montessori-150x113.jpg
+grade_levels:
+  - elementary
 ---
 
 

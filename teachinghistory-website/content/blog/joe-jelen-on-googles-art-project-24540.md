@@ -23,6 +23,10 @@ summary: Budget cuts mean field trip cuts, right? Wrong! Check out high school t
   Joe Jelen's summary of this impressive new tool from Google.
 splash_image: /files/artsprojectsplash.jpg
 author_image: /files/author_image/Author_Image_Joe_Jelen_75x75_1.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

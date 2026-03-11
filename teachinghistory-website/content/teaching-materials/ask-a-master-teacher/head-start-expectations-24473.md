@@ -18,6 +18,8 @@ summary: What are kindergartners expected to know coming out of Head Start? Find
 splash_image: /files/headstartsplash.jpg
 image: /files/headstartimage.jpg
 author_image: /files/author_image/Viet_Photo.jpg
+grade_levels:
+  - elementary
 ---
 
 

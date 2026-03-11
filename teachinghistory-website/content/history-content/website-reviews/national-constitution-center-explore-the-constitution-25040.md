@@ -13,6 +13,10 @@ summary: Looking for resources on the Constitution? What better place to look th
   a center dedicated to its legacy?
 splash_image: /files/splash-wr-constcenter.jpg
 image: /files/website_image/image-wr-constcenter.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

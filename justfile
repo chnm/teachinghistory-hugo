@@ -9,7 +9,7 @@ site := "teachinghistory-website"
 
 # Start development server with live reload
 serve:
-    cd {{site}} && hugo server -D --navigateToChanged
+    cd {{site}} && hugo server --navigateToChanged
 
 # Build the site for production
 build:

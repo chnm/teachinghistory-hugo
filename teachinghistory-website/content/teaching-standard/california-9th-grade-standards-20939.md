@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 20939
+grade_levels:
+  - high
 ---
 
 * ### CA.10.1. Content Standard: World History, Culture, and Geography

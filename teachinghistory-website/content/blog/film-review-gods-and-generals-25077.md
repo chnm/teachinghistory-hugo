@@ -19,6 +19,9 @@ summary: What view of the Civil War does *Gods and Generals* present? Historian 
 splash_image: /files/splash-blog-jahgag.jpg
 image: /files/image-blog-jahgag.jpg
 author_image: /files/author_image/author-woodworth.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

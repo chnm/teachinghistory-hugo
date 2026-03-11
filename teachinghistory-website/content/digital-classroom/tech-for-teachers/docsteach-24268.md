@@ -12,6 +12,10 @@ splash_image_fid: '6646'
 summary: Find primary sources and the tools to present them to students—in one place.
 splash_image: /files/splash-TfT-DocsTeach.jpg
 image: /files/blog-docsteach.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

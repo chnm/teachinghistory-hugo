@@ -22,6 +22,9 @@ summary: Let your students go out on a limb, and they might just exceed your exp
 splash_image: /files/elizabethglynnsstudent432x240.jpg
 image: /files/elizabethglynnsstudent150x113.jpg
 author_image: /files/author_image/author-glynn.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

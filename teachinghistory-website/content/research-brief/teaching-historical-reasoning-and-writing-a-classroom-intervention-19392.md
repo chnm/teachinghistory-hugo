@@ -11,6 +11,9 @@ summary: Teaching historical thinking, beyond the facts, results in higher achie
   among diverse learners.
 splash_image: /files/TeachingHistorical432x240.jpg
 image: /files/historicalreal.jpeg
+grade_levels:
+  - middle
+  - high
 ---
 
 

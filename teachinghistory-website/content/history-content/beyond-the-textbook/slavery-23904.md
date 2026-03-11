@@ -3,7 +3,7 @@ title: Slavery
 date: '2010-03-21T17:02:14'
 lastmod: '2017-12-05T08:43:31'
 content_type: beyond_the_textbook
-draft: false
+draft: true
 drupal_nid: 23904
 question: What was it like to be a slave in 19th-century America?
 url: /history-content/beyond-the-textbook/23904
@@ -11,7 +11,6 @@ splash_image_fid: '4367'
 summary: What was it like to be a slave in 19th-century America? Accounts contrast.
 splash_image: /files/ExSlave.jpg
 ---
-
 
 ## What Textbooks Say
 

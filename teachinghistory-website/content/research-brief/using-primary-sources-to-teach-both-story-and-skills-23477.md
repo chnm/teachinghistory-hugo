@@ -10,6 +10,8 @@ splash_image_fid: '4698'
 summary: Does teaching with primary sources inhibit success on final exams?
 splash_image: /files/UsingPrimarySources432x240.jpg
 image: /files/primsourceteach.jpg
+grade_levels:
+  - high
 ---
 
 

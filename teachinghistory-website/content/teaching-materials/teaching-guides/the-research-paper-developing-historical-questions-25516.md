@@ -22,6 +22,8 @@ summary: Research papers are not an archaic form of assessment. Learn how to hel
 splash_image: /files/researchsplash_0.jpg
 image: /files/researchimage.jpg
 author_image: /files/author_image/john.jpg
+grade_levels:
+  - high
 ---
 
 

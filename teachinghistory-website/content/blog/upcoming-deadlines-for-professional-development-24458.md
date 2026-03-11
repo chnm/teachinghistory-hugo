@@ -13,6 +13,10 @@ summary: February and March mark deadlines for several national professional dev
   opportunities.
 splash_image: /files/splash-blog-dl2011.jpg
 image: /files/image-blog-dl2011.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

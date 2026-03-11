@@ -5,6 +5,9 @@ lastmod: '2017-12-01T14:23:42'
 content_type: tah_grant
 draft: false
 drupal_nid: 24741
+grade_levels:
+  - elementary
+  - middle
 ---
 
 This California district is in its first year of improvement and several of its schools have not made Adequate Yearly Progress for two or more years. The number of English Language Learners has been increasing steadily in recent years. *Igniting Freedom's Flame: Lesson Studies in Teaching American History* (*Igniting Freedom's Flame*) will present an annual program of four supper seminars, eight Professional Learning Communities meetings, and summer field studies at a national historic site. Each year, 24 teachers will participate and be encouraged to continue for multiple years. Recruiting teachers from all three grades in each cohort will help participants see their content within a broader context. Project leaders will also recruit school administrators to build systemic support for history professional development. This aligns with the theme of seeing history as a literate discipline that depends on and fosters close reading, critical thinking, and clear writing—skills that support students across the curriculum. Historians will discuss both content and process standards to help teachers understand discipline-specific thinking. Teacher-leaders will model lessons that use primary sources and disciplinary thinking. The robust Professional Learning Community component will create groups of four same-grade teachers, one historian, and one or two teacher-leaders. These small groups will use Lesson Study to examine student work, develop and observe lessons, and critique and refine the lessons. Practice with differentiating instruction will be incorporated into this work. Igniting Freedom's Flame will produce a collection of tested history lessons and a cadre of teachers who can collaborate with their colleagues to improve history instruction.

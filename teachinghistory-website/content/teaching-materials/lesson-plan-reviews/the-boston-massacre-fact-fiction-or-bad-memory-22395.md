@@ -16,6 +16,10 @@ summary: Help students think about where evidence for history comes from.
 splash_image: /files/BostonMassacre.jpg
 thumbnail: /files/website_image/CivilWarHomepage_Image.jpg
 image: /files/lesson_image/BostonImage.jpg
+grade_levels:
+  - elementary
+  - middle
+duration: '1 class period'
 ---
 
 

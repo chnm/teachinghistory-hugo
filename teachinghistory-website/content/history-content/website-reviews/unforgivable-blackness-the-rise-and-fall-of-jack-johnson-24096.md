@@ -13,6 +13,9 @@ summary: Learn about race in the Progressive Era through the life of Jack Johnso
   the original African American Heavy Weight Champion of the World.
 splash_image: /files/UnforgivableBlackness432x240.jpg
 image: /files/website_image/UnforgivableBlackness150x113.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

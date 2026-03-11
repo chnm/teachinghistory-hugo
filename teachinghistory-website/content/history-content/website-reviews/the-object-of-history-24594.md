@@ -13,6 +13,10 @@ summary: How do objects capture the past? And how do you display objects to make
   point about the past?
 splash_image: /files/objectsplash.jpg
 image: /files/website_image/image-wr-ooh.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -5,6 +5,10 @@ lastmod: '2017-12-01T14:23:42'
 content_type: tah_grant
 draft: false
 drupal_nid: 24881
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Districts from both western Idaho and southeastern Washington will be involved in this project; focus groups with history teachers found that few have learned from or taught with primary documents, and many believe their history curricula need to be updated. Following a 2-day launch meeting, annual activities will include curriculum improvement team meetings, three days of summer historian seminars/field study, five Saturday seminars, monthly Talking History viewing and discussion sessions, and quarterly book studies. In addition, three master teachers each year will attend a 5-day Gilder Lehrman summer institute. The project will serve at least 33 teachers and a principal who have volunteered to participate for the full term of the grant. To support improvements in teaching and learning, activities will become more participatory each year; in Year 1, many activities will be passive — lectures, podcasts — and by Year 5, most activities will feature discussions, practice and teaching others; specific activities will include re-creations, simulations and debates. Each year, all major historical eras will be covered so as to coincide with the time line used in secondary classrooms; repetition and differing perspectives over the life of the project will help teachers build depth of knowledge. Teachers will develop habits of historical thinking as they study 100 significant documents, 100 court cases and 100 significant turning points in history. Curriculum improvement teams at the project, district and school levels will develop curriculum maps, pacing benchmarks and common assessments. All teacher-created curriculum maps, assessment tools and lesson plans will be posted on a Web site for other teachers to use.

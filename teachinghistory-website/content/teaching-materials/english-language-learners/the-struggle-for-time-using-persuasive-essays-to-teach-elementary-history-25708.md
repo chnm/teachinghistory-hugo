@@ -68,6 +68,9 @@ author_image_fid: '9487'
 splash_image: /files/strugglesplash.jpg
 image: /files/struggleimage.jpg
 author_image: /files/author_image/author_2.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

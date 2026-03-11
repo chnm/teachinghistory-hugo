@@ -11,6 +11,8 @@ author_image_fid: '7958'
 summary: Solving the "textbook problem" can create its own set of problems that teachers
   will still have to address.
 author_image: /files/author_image/author-cone.jpg
+grade_levels:
+  - high
 ---
 
 

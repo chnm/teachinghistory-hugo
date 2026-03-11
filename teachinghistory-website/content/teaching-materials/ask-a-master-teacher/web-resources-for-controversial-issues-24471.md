@@ -20,6 +20,9 @@ summary: Want to know both sides of an issue? Check out these debate websites!
 splash_image: /files/issuessplash.jpg
 image: /files/issuesimage.jpg
 author_image: /files/author_image/AUTHOR.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -18,6 +18,10 @@ summary: Teaching the Reconstruction? Ford's Theatre's Sarah Jencks leads teache
   through Abraham Lincoln's Second Inaugural Address and follow-up activities.
 splash_image: /files/Fords.jpg
 author_image: /files/author_image/jencks_author_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

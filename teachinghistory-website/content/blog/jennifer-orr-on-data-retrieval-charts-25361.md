@@ -16,6 +16,8 @@ summary: Young students absorb information fast. Help them make sense of everyth
   they learn with data retrieval charts!
 image: /files/detail_data_retrieval_chart.jpg
 author_image: /files/author_image/jennifer-orr_0_0_0_1.png
+grade_levels:
+  - elementary
 ---
 
 

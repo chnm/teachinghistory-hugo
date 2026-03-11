@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 20921
+grade_levels:
+  - elementary
 ---
 
 ### AZ.SS05-S1 Strand: American History

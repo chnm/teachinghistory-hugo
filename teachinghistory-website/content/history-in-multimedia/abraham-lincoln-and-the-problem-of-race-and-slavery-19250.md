@@ -11,6 +11,10 @@ keywords: slaves, race, racism, race relations, Back-to-Africa, colonies, coloni
 website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-05-01T00:00:00'
 series_name: Abraham Lincoln's Biography Video
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Eric Foner of Columbia University discusses Abraham Lincoln's preference, pre-Civil War, for the establishment of African colonies as a solution to race tensions in the U.S.; and looks at his movement away from this solution during the Civil War.

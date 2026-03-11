@@ -14,6 +14,10 @@ splash_image_fid: '9127'
 summary: Teach your students about causality with this useful activity.
 splash_image: /files/presplash.jpg
 image: /files/lesson_image/preimage.jpg
+grade_levels:
+  - elementary
+  - middle
+duration: '1 Class Session (or less)'
 ---
 
 

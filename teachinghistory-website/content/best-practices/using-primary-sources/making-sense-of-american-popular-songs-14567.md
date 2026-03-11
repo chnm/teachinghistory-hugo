@@ -10,6 +10,10 @@ website_url: http://historymatters.gmu.edu/mse/songs/
 splash_image_fid: '4785'
 summary: Don't overlook song as a way of understanding the past.
 splash_image: /files/splash-ziegfeld-follies.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

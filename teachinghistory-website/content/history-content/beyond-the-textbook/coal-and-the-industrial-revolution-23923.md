@@ -10,8 +10,29 @@ author_bio: Thomas G. Andrews is an assistant professor at the University of Col
   specializing in the social and environmental history of the Rocky Mountain West.
 author_image_fid: '4579'
 author_image: /files/author_image/image-author-andrews.jpg
+question: How can the story of coal help students understand the nature of today's
+  fossil-fueled world?
+summary: How can the story of coal help students understand the nature of today's
+  fossil-fueled world?
+splash_image: /files/BtT-Coal-Splash.jpg
+splash_image_fid: '4587'
+what_textbooks_say: Most textbooks explain the phenomenal growth of the American economy
+  during the industrial revolution by some combination of immigration, urbanization,
+  the rise of mass production, the inventiveness of great scientists, the development
+  of extensive infrastructure, the rise of corporations, government subsidies, the
+  "laissez-faire" legal environment, and the bounty of America's natural resources.
+what_historians_say: Historians also treat economic growth during the industrial revolution
+  as the product of many factors, but some seek out explanations and track changes
+  beyond the few tidy categories laid out in textbooks. How, for instance, did the
+  U.S. transition to coal power, and how was that transition both driving and driven
+  by urbanization, mechanization, and a growing infrastructure? What effect did it
+  have on the environment and living conditions?
+what_sources_say: Sources reveal a society suffering from growing pains, with environmental
+  and human rights concerns not yet keeping pace with the huge demand for raw coal
+  and power to support rapidly expanding systems of infrastructure and industry. A
+  nationwide dependency on mining sprang up unplanned, at the root of many of the
+  changes in the U.S.'s culture and economy.
 ---
-
 
 As of 1860, the United States was an industrial laggard. Great Britain, France, and Germany each produced more goods than their transatlantic counterpart. By 1900, however, U.S. industrial production exceeded "the combined manufacture of its three main rivals." Why, and with what consequences?
 

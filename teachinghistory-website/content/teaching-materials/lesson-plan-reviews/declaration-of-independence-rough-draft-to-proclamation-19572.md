@@ -14,6 +14,10 @@ splash_image_fid: '4351'
 summary: How did the final version of the Declaration differ from Jefferson's draft?
 splash_image: /files/Declaration.jpg
 image: /files/lesson_image/300_declaration_title.jpg
+grade_levels:
+  - middle
+  - high
+duration: 'One day'
 ---
 
 

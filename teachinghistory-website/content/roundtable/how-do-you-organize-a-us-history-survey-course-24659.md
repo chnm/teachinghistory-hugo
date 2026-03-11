@@ -8,6 +8,9 @@ drupal_nid: 24659
 splash_image_fid: '7436'
 summary: With so much to teach, what approaches can help frame the course?
 splash_image: /files/surveysplash.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

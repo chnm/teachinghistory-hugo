@@ -6,6 +6,9 @@ content_type: historical_site
 draft: false
 drupal_nid: 8039
 website_url: http://www.pardeehome.org
+grade_levels:
+  - elementary
+  - middle
 ---
 
 The Pardee Home Museum is the centerpiece of Oakland's Preservation Park Historic District, and is a phenomenal piece of 19th century architecture. The home was built by California Governer Enoch Pardee who became famous for his handling of the enormous earthquake in 1906. The home was listed on the National Register of Historic Places in 1976, and today stands as a historic house museum.

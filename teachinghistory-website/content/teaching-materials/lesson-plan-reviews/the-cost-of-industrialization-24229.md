@@ -14,6 +14,10 @@ splash_image_fid: '6481'
 summary: Use the Triangle Shirtwaist fire to examine the benefits and costs of industrialization.
 splash_image: /files/triangle_splash.jpg
 image: /files/lesson_image/triangle_crop.jpg
+grade_levels:
+  - middle
+  - high
+duration: '2-3 class sessions'
 ---
 
 

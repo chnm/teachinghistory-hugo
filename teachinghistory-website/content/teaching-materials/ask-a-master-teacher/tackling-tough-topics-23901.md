@@ -15,6 +15,10 @@ summary: Race, ethics, stereotyping—all are thorny issues integral to our hist
   How can you encourage empathy?
 splash_image: /files/TacklingToughTopics432x240.jpg
 image: /files/TacklingTough150x113.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

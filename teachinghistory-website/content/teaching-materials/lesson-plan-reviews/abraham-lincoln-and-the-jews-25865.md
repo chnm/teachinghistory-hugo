@@ -16,6 +16,9 @@ summary: Students learn about the sixteenth president's relationship with Jewis
 spotlight: Student explore ideas about religious tolerance during the Civil War
 splash_image: /files/LincolnSplash.jpg
 image: /files/lesson_image/LincolnLetter.jpg
+grade_levels:
+  - high
+duration: '90 minutes'
 ---
 
 

@@ -19,6 +19,9 @@ spotlight: Teachers can introduce early elementary students to historical contex
   about spatial relationships among geographic features.
 splash_image: /files/mapssplash.jpg
 image: /files/lesson_image/mapsimage.jpg
+grade_levels:
+  - elementary
+duration: '50 Minutes'
 ---
 
 

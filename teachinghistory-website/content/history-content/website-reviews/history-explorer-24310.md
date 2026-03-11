@@ -14,6 +14,10 @@ summary: The Smithsonian offers rich resources for teachers, but tracking them d
   easier!
 splash_image: /files/historyexplorer432x240.jpg
 image: /files/website_image/historyexplorer113x150.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

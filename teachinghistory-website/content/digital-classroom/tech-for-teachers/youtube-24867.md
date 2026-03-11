@@ -12,6 +12,10 @@ splash_image_fid: '7610'
 summary: YouTube is an invaluable resource—just make sure to use it properly!
 splash_image: /files/thoyoutubesplash.jpg
 image: /files/youtubeimage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -23,6 +23,9 @@ splash_image: /files/splash-blog-socratic.jpg
 thumbnail: /files/speak.jpg
 image: /files/image-blog-socratic1.jpg
 author_image: /files/author_image/ron_headshot.JPG
+grade_levels:
+  - middle
+  - high
 ---
 
 

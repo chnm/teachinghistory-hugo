@@ -17,6 +17,8 @@ summary: Use the Stanford History Education Group's curriculum to teach historic
   investigation.
 splash_image: /files/splash-ups-rlikehistorian.jpg
 author_image: /files/author_image/Logo_SHEG.jpg
+grade_levels:
+  - high
 ---
 
 

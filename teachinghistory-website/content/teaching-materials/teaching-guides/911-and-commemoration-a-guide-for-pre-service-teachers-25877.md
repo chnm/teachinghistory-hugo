@@ -17,6 +17,8 @@ summary: Help students understand the events of 9/11 and how such events are com
 splash_image: /files/service-pnp-highsm-16100-16128v.jpg
 image: /files/Shanksvillememorial2001.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_0.jpeg
+grade_levels:
+  - high
 ---
 
 

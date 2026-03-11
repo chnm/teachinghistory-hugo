@@ -16,6 +16,9 @@ summary: Absolving the guilty and punishing the innocent. Historian Elizabeth Re
   looks at primary sources recording testimony in witchcraft trials.
 splash_image: /files/salemreissplash.jpg
 author_image: /files/author_image/reis-photo.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

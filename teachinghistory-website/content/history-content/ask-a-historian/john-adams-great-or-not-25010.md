@@ -17,6 +17,10 @@ author_image_fid: '7721'
 summary: What does historical "greatness" mean, anyway?
 splash_image: /files/johnadamsgreat432x240.jpg
 author_image: /files/author_image/ag2.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

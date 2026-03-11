@@ -13,6 +13,10 @@ summary: Get classroom attention by using the "swashbuckling" history of the *US
   Constitution* as a knowledge vehicle.
 splash_image: /files/allhandson432x240.jpg
 image: /files/website_image/allhandson113x150.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -10,6 +10,10 @@ keywords: presidents, politicians, oratory, orators, speeches, speechmaking
 website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-05-05T00:00:00'
 series_name: Abraham Lincoln's Biography Video
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Gerald Prokopowicz of the Lincoln Museum examines Lincoln's development of a political language balanced between formal oratory and direct speech.

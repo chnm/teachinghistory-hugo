@@ -10,6 +10,10 @@ keywords: presidents, politicians, Illinois, churches, worship
 website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-04-30T00:00:00'
 series_name: Abraham Lincoln's Biography Video
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 John Mack Faragher of Yale University describes the religious environment in central Illinois during Abraham Lincoln's lifetime, focusing on the importance of church involvement to communities.

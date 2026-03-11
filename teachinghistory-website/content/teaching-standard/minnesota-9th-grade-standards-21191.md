@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21191
+grade_levels:
+  - high
 ---
 
 *Students in high school (grades 9–12) pursue in-depth study of social studies content that equips them with the knowledge and skills required for success in postsecondary education (i.e., freshman level courses), the skilled workplace and civic life. The amount of content in the standards for each discipline corresponds to the course credit graduation requirements identified in Minn. Stat. § 120B.024 which are as follows:

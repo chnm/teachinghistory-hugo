@@ -13,6 +13,10 @@ summary: April 12th will mark the 150th anniversary of the American Civil War. H
   is your state celebrating?
 splash_image: /files/splash-blog-sesqui11.jpg
 image: /files/image-blog-sesqui11.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

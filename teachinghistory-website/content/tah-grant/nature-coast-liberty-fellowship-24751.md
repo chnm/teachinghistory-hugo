@@ -5,6 +5,9 @@ lastmod: '2017-12-01T14:23:42'
 content_type: tah_grant
 draft: false
 drupal_nid: 24751
+grade_levels:
+  - middle
+  - high
 ---
 
 Citrus County, Florida, is rural and remote—teachers must drive about 75 miles each way to pursue university training opportunities. The district has not made Adequate Yearly Progress for six years, and district schools have performed only somewhat better. Because reading and writing have been weak, *Nature Coast Liberty Fellowship* activities will include a focus on integrating literacy into history instruction. Each year teachers can attend two 2-day colloquia, two half days of research, a 3-day summer institute, and 12 videoconferences (which are open to all district teachers). The project will offer turnkey replication of training. An annual cohort will consist of a core group of 35 fellows and five teacher leaders. The teacher leaders will train intensively to replicate project activities to nonparticipating district history teachers in Year 2. To help teachers take a professional historian's approach, the project will instruct fellows on how to conduct research, write historical narratives, and create substantive lessons and lively Web-based activities. Approaches will include Binary Paideia, Understanding by Design, and classroom coaching to support transfer of new strategies into practice. Fellows will study the American Institute for History Education's historical frameworks, signature strategies, and 12-step process for creating classroom lessons, and they will participate in its Talking History network. All district teachers will have access to fellows' lessons and to training on creating substantive lessons themselves (through CICERO, a Web-based collection of history resources). After receiving turnkey training, every history teacher will create one lesson a year. Partner organizations will maintain ongoing contact with fellows in support of their efforts to replicate training across the district.

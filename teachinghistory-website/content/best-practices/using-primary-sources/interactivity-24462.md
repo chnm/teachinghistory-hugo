@@ -11,6 +11,10 @@ splash_image_fid: '7050'
 summary: Teach students how to utilize primary sources with this game from *Annenberg
   Media*
 splash_image: /files/interactivesplash-edit.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21175
+grade_levels:
+  - middle
 ---
 
 * ### MI.H1. Strand / Standard Category: Eastern Hemisphere Studies - History - The World in Temporal Terms

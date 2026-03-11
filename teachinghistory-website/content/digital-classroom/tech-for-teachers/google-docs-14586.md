@@ -13,6 +13,10 @@ splash_image_fid: '4030'
 summary: Create, share, and collaborate with this free word-processing tool!
 splash_image: /files/GoogleDocsSplash.jpg
 image: /files/GoogleDocs150x113.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

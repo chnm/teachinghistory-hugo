@@ -22,6 +22,9 @@ summary: Historian Alex Stein poses questions about population shift in Detroit,
   models using census data and other sources to answer his question.
 splash_image: /files/splash-blog-ascensus.jpg
 author_image: /files/author_image/alex_author.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

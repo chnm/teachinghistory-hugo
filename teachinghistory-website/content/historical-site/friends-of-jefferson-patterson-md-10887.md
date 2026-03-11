@@ -6,6 +6,10 @@ content_type: historical_site
 draft: false
 drupal_nid: 10887
 website_url: http://www.jefpat.org/
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Jefferson Patterson Park and Museum (JPPM) is the state archeological museum of Maryland and is located on 560 scenic acres along the Patuxent River in Calvert County, Maryland. JPPM is home to the Maryland Archaeological Conservation Laboratory, which houses over 8 million artifacts which are available for research, education, and exhibit purposes to students, scholars, museum curators, and educators. JPPM is also a vibrant center for education.

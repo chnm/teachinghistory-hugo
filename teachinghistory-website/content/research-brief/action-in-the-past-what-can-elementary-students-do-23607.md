@@ -15,6 +15,9 @@ spotlight: Elementary students typically rely on personal experience to explain 
   events.
 splash_image: /files/TeachingAction.jpg
 image: /files/elemaction.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

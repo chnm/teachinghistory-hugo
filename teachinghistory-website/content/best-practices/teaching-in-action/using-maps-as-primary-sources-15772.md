@@ -23,6 +23,8 @@ spotlight: Maps can be crucial to understanding historical culture. Watch 4th gr
 splash_image: /files/Using_Maps_as_Primary_Sources_-_432x240.jpg
 image: /files/smithmap_large_0.jpg
 author_image: /files/author_image/StacyHoeflich75x75.jpg
+grade_levels:
+  - elementary
 ---
 
 

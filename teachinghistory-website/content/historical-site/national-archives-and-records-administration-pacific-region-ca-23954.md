@@ -10,6 +10,10 @@ splash_image_fid: '4592'
 summary: Gather primary sources to encourage your students to wrestle with history,
   rather than learn textbook facts and move on.
 splash_image: /files/NARASanFran.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

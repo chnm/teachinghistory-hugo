@@ -13,6 +13,10 @@ summary: Happy Martin Luther King Jr. Day! Celebrate this holiday as a day of pu
   service.
 splash_image: /files/splash-mlk-dosblog.jpg
 image: /files/Untitled.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

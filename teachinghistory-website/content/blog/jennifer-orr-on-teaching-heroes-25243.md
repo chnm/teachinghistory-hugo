@@ -18,6 +18,8 @@ summary: How do you teach cultural heroes without simplifying history? First-gra
 splash_image: /files/heroessplash.jpg
 image: /files/heroesimage.jpg
 author_image: /files/author_image/jennifer-orr_0_0_0.png
+grade_levels:
+  - elementary
 ---
 
 

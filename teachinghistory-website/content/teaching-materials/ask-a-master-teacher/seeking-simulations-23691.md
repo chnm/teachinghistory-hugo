@@ -16,6 +16,8 @@ summary: For when your students need a healthy dose of participation to liven up
   classroom.
 splash_image: /files/SeekingSimulationsSplash.jpg
 image: /files/SeekingSimulations150x113.jpg
+grade_levels:
+  - high
 ---
 
 

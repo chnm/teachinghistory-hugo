@@ -16,6 +16,9 @@ summary: To indict or not to indict? Watergate raised complicated questions conc
   Constitutional interpretation.
 splash_image: /files/Watergate.jpg
 image: /files/lesson_image/watergatechapstick.jpg
+grade_levels:
+  - high
+duration: '1 day'
 ---
 
 

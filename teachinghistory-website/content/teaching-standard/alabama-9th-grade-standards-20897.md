@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 20897
+grade_levels:
+  - high
 ---
 
 ## AL.9 Standard: World History—1500 to the Present

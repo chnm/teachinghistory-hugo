@@ -6,6 +6,9 @@ content_type: historical_site
 draft: false
 drupal_nid: 9327
 website_url: http://www.historicbeaufort.com/bhaindex.htm
+grade_levels:
+  - elementary
+  - middle
 ---
 
 The Beaufort Historical Association works to preserve and showcase the history of Beaufort, North Carolina. The association works closely with the Beaufort Historic Site, which is located in downtown Beaufort, and which showcases the history of this quaint seaport.

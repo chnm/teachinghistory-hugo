@@ -17,6 +17,10 @@ summary: Examining changes in early American homes helps interpret the past. It 
 splash_image: /files/splash-lpr-buildings.jpg
 thumbnail: /files/website_image/PeopleWithaHistory_Image.jpg
 image: /files/lesson_image/WT_DT2.jpg
+grade_levels:
+  - elementary
+  - middle
+duration: '4 class sessions; however, the lesson may be easily adapted to one or two class sessions'
 ---
 
 

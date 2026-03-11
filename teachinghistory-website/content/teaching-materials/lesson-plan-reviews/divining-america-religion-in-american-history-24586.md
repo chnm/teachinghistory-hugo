@@ -15,6 +15,9 @@ summary: Use this essay on Jewish immigration to flesh out a unit on the Civil W
   or immigration.
 splash_image: /files/jewsplash.jpg
 image: /files/lesson_image/jewimage.jpg
+grade_levels:
+  - high
+duration: 'Varies'
 ---
 
 

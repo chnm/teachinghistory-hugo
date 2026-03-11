@@ -19,6 +19,8 @@ spotlight: How can you make your lesson plans more exciting for your students wi
   her students about the Founding Fathers.
 splash_image: /files/orr_splash.jpeg
 author_image: /files/author_image/jennifer-orr_0.png
+grade_levels:
+  - elementary
 ---
 
 

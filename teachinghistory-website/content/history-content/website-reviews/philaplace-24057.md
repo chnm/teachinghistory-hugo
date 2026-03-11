@@ -13,6 +13,10 @@ summary: Pennsylvania educators, or teaching urban history? Explore two neighbor
   in Philadelphia using an interactive map and more than 1,240 primary sources.
 splash_image: /files/FWR-splash-philaplace.jpg
 image: /files/website_image/FWR-image-philaplace.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

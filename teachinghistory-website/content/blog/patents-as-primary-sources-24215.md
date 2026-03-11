@@ -11,6 +11,8 @@ image_fid: '6623'
 summary: Patents as primary sources? These documents can give your students clues
   to development of U.S. science, technology, business, and social concerns.
 image: /files/blog-patents.jpg
+grade_levels:
+  - high
 ---
 
 

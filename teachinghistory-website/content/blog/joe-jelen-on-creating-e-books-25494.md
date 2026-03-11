@@ -17,6 +17,8 @@ summary: Create e-books yourself, have your students create e-books, or draw on 
 splash_image: /files/ebookssplash.jpg
 image: /files/ebooksimage.jpg
 author_image: /files/author_image/author_jelen_0_0.png
+grade_levels:
+  - high
 ---
 
 

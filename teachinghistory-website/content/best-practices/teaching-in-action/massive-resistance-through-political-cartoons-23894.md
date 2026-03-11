@@ -20,6 +20,8 @@ summary: Watch 4th-graders analyze cartoons about Virginia and *Brown v. Board o
 splash_image: /files/splash-segregration.jpg
 image: /files/desegregation-image.jpg
 author_image: /files/author_image/author_hoeflich.jpg
+grade_levels:
+  - elementary
 ---
 
 

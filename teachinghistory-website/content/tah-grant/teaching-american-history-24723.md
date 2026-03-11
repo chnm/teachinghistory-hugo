@@ -5,6 +5,10 @@ lastmod: '2017-12-01T14:23:42'
 content_type: tah_grant
 draft: false
 drupal_nid: 24723
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 The *Teaching American History* program in Arkansas's Little Rock School District will target teachers who are new to the district or to teaching American history in 19 schools most in need of improvement and where student literacy levels are low. Only one percent of the district's history teachers have a degree in American history; therefore, Teaching American History will provide content-rich professional development: an American History Academy (a 45-hour online course and seven 1-day colloquia during the year); a 5-day summer history institute; a 5-day summer field study; three seminars on using history sources in an online environment; history book club meetings; community-based symposia featuring guest speakers; and a co-teaching program for high school teachers. A cadre of six lead teachers will create opportunities for collaboration among history teachers across the district. *Teaching American History* will begin with a core group of 28 teachers participating in the academy; by the end of Year 1, 53 teachers will be engaged, with approximately 50 teachers added in each subsequent year until all 201 history teachers in the targeted schools are included by Year 5. Participating teachers will explore how the concepts in the Preamble to the Constitution (justice, domestic tranquility, common defense, general welfare, and liberty) have been a refining and defining force in shaping a more perfect union. Instructional strategies will focus on historical thinking, reading and writing in the content areas, technology integration, and analysis of primary sources. Lessons learned and best practices will be disseminated within professional networks at the local, regional, and national levels.

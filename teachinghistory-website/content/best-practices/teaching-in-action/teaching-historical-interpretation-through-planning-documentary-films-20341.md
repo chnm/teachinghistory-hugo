@@ -15,6 +15,8 @@ summary: Watch this 9th-grade teacher lead his class in planning, writing, and o
 splash_image: /files/Teaching_Historical_Interpretation_through_Planning_-_432x240.jpg
 image: /files/TeachingHistInterpretation150x113.jpg
 author_image: /files/author_image/DaleBanham75x75.jpg
+grade_levels:
+  - high
 ---
 
 

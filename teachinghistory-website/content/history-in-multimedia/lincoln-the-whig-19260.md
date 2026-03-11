@@ -11,6 +11,10 @@ keywords: presidents, politicians, political parties, Whigs, Democrats, party sy
 website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-05-05T00:00:00'
 series_name: Abraham Lincoln's Biography Video
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Gerald Prokopowicz of the Lincoln Museum very briefly looks at Abraham Lincoln's association with the Whig party and his reasons for choosing it, as a believer in free labor.

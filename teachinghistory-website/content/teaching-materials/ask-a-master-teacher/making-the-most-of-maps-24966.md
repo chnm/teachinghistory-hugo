@@ -21,6 +21,10 @@ summary: Have you always wanted to use maps in your classroom, but been unsure h
 splash_image: /files/makingthemost432x240.jpg
 image: /files/makingthemost113x150.jpg
 author_image: /files/author_image/authorphotojanekon.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

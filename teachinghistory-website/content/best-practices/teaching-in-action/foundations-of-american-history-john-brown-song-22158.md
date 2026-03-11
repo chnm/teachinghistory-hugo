@@ -22,6 +22,9 @@ spotlight: Watch as the song "John Brown's Body" is transformed into a primary s
 splash_image: /files/JohnBrownSong432x240.jpg
 image: /files/brownraid.jpg
 author_image: /files/author_image/HeatherCoffey75x75.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

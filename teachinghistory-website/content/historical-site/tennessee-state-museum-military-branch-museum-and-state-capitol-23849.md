@@ -10,6 +10,10 @@ splash_image_fid: '4028'
 summary: '"What did Tenna see, boys? What did Tenna see?" Discover Tennessee history
   and U.S. overseas military involvement.'
 splash_image: /files/TNStateMuseumSplash.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

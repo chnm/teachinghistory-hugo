@@ -15,6 +15,9 @@ summary: Elementary history education lies in need of a paradigm shift. In a tim
   when critical thinking and problem solving drive instruction, educators need to
   realize history provides an avenue to practice these skills.
 author_image: /files/author_image/author_bryant.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

@@ -23,6 +23,9 @@ author_image_fid: '3437
   3437'
 summary: With effective collaboration, TAH Grant projects can change and grow.
 splash_image: /files/Collaborating_on_Content-based_Professional_Development_-_432x240.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

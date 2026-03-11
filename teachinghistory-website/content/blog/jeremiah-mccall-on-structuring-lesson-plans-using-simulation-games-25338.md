@@ -23,6 +23,8 @@ summary: What can you learn from analyzing a history-based game? How to critique
   of systems and presentations of history, says teacher Jeremiah McCall.
 splash_image: /files/games3splash.jpg
 author_image: /files/author_image/authorphotojeremiahmccall75x75_2_1.jpg
+grade_levels:
+  - high
 ---
 
 

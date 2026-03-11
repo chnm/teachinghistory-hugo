@@ -16,6 +16,10 @@ summary: What do these letters from a women's rights activist reveal about socia
   causes in the 1840s?
 splash_image: /files/murphysplash.jpg
 author_image: /files/author_image/author_murphy.png
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -18,6 +18,10 @@ summary: What does it take to win a presidential campaign? Try it yourself with 
 splash_image: /files/splash_1.jpg
 image: /files/Win the White House Img_2.jpg
 author_image: /files/author_image/mcdivittphoto.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

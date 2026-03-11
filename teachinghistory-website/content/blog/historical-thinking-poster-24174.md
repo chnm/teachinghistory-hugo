@@ -15,6 +15,10 @@ splash_image_fid: '6311'
 summary: Looking for ways to promote thoughtful, critical reading of primary and secondary
   sources in the classroom?
 splash_image: /files/ht_splash.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

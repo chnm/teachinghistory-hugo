@@ -10,6 +10,9 @@ splash_image_fid: '5023'
 summary: What do students actually learn from historical feature films?
 splash_image: /files/splash-rb-hf.jpg
 image: /files/classfilm.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

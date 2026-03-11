@@ -11,6 +11,8 @@ splash_image_fid: '4550'
 summary: Watch a scholar interpret letters from labor activist and reformer Sarah
   Bagley.
 splash_image: /files/Letters.jpg
+grade_levels:
+  - high
 ---
 
 

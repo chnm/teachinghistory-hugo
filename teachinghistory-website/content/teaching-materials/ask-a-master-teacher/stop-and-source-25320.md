@@ -21,6 +21,8 @@ summary: Students get more out of historical photographs when they take the time
 splash_image: /files/stopsplash_0.jpg
 image: /files/stopimage_0.jpg
 author_image: /files/author_image/fillpot_1_0_0.jpg
+grade_levels:
+  - elementary
 ---
 
 

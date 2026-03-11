@@ -13,6 +13,9 @@ summary: Beautiful scenery or impassable peaks? These 17 in-depth essays analyze
   the North American view of nature has changed over time.
 splash_image: /files/splash-wr-wilderness.jpg
 image: /files/website_image/image-wr-wilderness.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -12,6 +12,10 @@ splash_image_fid: '8177'
 summary: Connect with your ELL students with this bilingual Puerto Rico Encyclopedia!
 splash_image: /files/enciclopedia.jpg
 image: /files/website_image/pricoimage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

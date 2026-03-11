@@ -16,6 +16,10 @@ summary: Analyze letters written by America's presidents to learn more about the
   men.
 splash_image: /files/splash-lpr-presidents.jpg
 image: /files/lesson_image/trglb.jpg
+grade_levels:
+  - middle
+  - high
+duration: '1 class session per letter; 41 letters available.'
 ---
 
 

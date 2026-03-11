@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 20935
+grade_levels:
+  - elementary
 ---
 
 * ### CA.5.1. Content Standard: United States History and Geography

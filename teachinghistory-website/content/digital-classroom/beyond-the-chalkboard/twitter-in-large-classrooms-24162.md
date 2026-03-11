@@ -25,6 +25,9 @@ image_fid: '6270'
 splash_image_fid: '6269'
 splash_image: /files/splash-btt-twistory.jpeg
 image: /files/image-btc-twistory.jpeg
+grade_levels:
+  - middle
+  - high
 ---
 
 

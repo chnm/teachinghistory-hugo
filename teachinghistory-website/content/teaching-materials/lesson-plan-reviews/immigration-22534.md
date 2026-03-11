@@ -17,6 +17,9 @@ summary: Very few of us have ancestors who were not immigrants. Bring the topic 
 splash_image: /files/ImmigrationSplash.jpg
 thumbnail: /files/website_image/Prohibition_Image.jpg
 image: /files/lesson_image/Immigration-150x113.jpg
+grade_levels:
+  - middle
+duration: 'undefined'
 ---
 
 

@@ -28,6 +28,10 @@ image_fid: '6189'
 splash_image_fid: '6190'
 splash_image: /files/schoolhouse_img1.jpg
 image: /files/schoolhouse_img2.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

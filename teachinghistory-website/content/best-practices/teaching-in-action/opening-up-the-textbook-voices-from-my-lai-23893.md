@@ -18,6 +18,8 @@ summary: High school students use primary sources to question their textbook's n
 splash_image: /files/splash-my-lai.jpg
 image: /files/image-my-lai.jpg
 author_image: /files/author_image/author-jeplen.jpg
+grade_levels:
+  - high
 ---
 
 

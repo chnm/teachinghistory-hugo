@@ -17,6 +17,10 @@ summary: Teach students to explore contingency with this great lesson plan idea.
 splash_image: /files/stopsplash.jpg
 image: /files/stopimage.jpg
 author_image: /files/author_image/shallerimage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

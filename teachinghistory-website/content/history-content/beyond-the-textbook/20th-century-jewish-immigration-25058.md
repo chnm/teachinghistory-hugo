@@ -3,7 +3,7 @@ title: 20th-century Jewish Immigration
 date: '2011-07-29T14:03:27'
 lastmod: '2017-12-05T08:46:32'
 content_type: beyond_the_textbook
-draft: false
+draft: true
 drupal_nid: 25058
 summary: '## Jewish Immigration to the United States'
 author_bio: '## Jewish Immigration to the United States
@@ -112,7 +112,6 @@ url: /history-content/beyond-the-textbook/25058
 splash_image_fid: '7877'
 splash_image: /files/jewishimm_splash.jpg
 ---
-
 
 ## What Textbooks Say
 

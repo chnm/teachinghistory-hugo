@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21330
+grade_levels:
+  - middle
 ---
 
 * ### NV.1.0. Content Standard: Economics

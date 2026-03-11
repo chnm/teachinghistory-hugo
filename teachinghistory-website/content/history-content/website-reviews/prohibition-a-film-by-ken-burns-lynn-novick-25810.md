@@ -13,6 +13,9 @@ summary: What did the effects of the 18th Amendment *look* like? Explore 1921 th
   1933 through images and film.
 splash_image: /files/prohibitionsplash_0.jpg
 image: /files/website_image/prohibitionimage_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

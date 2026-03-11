@@ -15,6 +15,10 @@ summary: In this lesson, students will organize photographs both chronologically
   conceptually in order to construct a narrative of the Holocaust.
 splash_image: /files/holosplash.jpg
 image: /files/lesson_image/holoimage.jpg
+grade_levels:
+  - middle
+  - high
+duration: '2 Class Sessions'
 ---
 
 

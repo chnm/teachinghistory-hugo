@@ -14,6 +14,9 @@ summary: Using a variety of instructional strategies in your classroom makes goo
   sense.
 splash_image: /files/splash-aamt-dal.jpg
 image: /files/hunh.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

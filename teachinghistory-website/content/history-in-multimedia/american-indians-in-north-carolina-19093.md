@@ -10,6 +10,8 @@ keywords: Native Americans, North Carolina, race, race relations
 website_url: http://ncmuseumofhistory.org/streaming/ai_launch2.html
 date_published: '2008-03-26T00:00:00'
 series_name: North Carolina Museum of History Streaming Programs
+grade_levels:
+  - elementary
 ---
 
 In this presentation, students explore the fascinating history and contemporary culture of North Carolina's American Indian communities.

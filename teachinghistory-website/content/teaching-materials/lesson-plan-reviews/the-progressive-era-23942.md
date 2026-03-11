@@ -16,6 +16,9 @@ summary: Explore the ins and outs of turn-of-the-century labor law, business, ho
   and immigration.
 splash_image: /files/Progressive432x240.jpg
 image: /files/lesson_image/Progressive150x113.jpg
+grade_levels:
+  - elementary
+duration: '1-7 days'
 ---
 
 

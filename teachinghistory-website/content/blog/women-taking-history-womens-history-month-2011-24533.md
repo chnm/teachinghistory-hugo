@@ -13,6 +13,10 @@ summary: This Women's History Month, remind your students that women have made h
   in more ways then one—by recording it, as well as *being* recorded.
 splash_image: /files/splash-blog-wom2011.jpg
 image: /files/image-blog-wom2011.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

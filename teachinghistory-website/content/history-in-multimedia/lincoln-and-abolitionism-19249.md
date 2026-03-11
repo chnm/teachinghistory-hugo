@@ -11,6 +11,10 @@ keywords: slaves, Illinois, abolition, abolitionists, free labor, abolitionism, 
 website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-05-01T00:00:00'
 series_name: Abraham Lincoln's Biography Video
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Eric Foner of Columbia University discusses the perception of abolitionism in central Illinois, where Lincoln grew up, and Lincoln's own perceptions of slavery and of abolitionism.

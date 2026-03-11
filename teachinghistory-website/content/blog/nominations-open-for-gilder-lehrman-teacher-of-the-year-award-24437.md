@@ -13,6 +13,9 @@ summary: Know a K-6 educator who goes above and beyond in teaching U.S. history?
   them for Gilder Lehrman's state and national awards!
 splash_image: /files/splash-blog-gltaha.jpg
 image: /files/image-blog-gltaha.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

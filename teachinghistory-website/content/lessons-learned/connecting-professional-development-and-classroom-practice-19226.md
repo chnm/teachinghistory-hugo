@@ -15,6 +15,9 @@ author_image_fid: '4151'
 summary: You've gone to the workshops. Now, how do you put what you learned into practice?
 splash_image: /files/Lesson_Study_and_TAH_-_432x240.jpg
 author_image: /files/author_image/Pesick-1.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

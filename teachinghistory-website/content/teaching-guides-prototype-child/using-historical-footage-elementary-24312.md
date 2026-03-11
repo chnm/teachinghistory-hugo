@@ -26,6 +26,9 @@ thinking_focus: "<strong>History vs. Fiction: It’s All about Evidence</strong>
   \ times and how the narratives were suspect given the fact that they helped the\
   \ abolitionists’ cause.\r\n</p>"
 thumbnail_fid: '3497'
+grade_levels:
+  - elementary
+  - middle
 ---
 
 **Who was Venture Smith?**

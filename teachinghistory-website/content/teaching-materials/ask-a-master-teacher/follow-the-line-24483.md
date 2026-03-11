@@ -18,6 +18,9 @@ summary: Use these resources to integrate timelines into lesson plans!
 splash_image: /files/followsplash.jpg
 image: /files/followimage.jpg
 author_image: /files/author_image/Jacks_photo2_1.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

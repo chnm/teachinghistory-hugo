@@ -11,6 +11,10 @@ summary: Can students learn history through themes that don’t fit the usual ap
   to teaching U.S. history?
 splash_image: /files/splash-rb-realstory.jpg
 image: /files/conftrontingofficial.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

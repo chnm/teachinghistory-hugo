@@ -23,6 +23,10 @@ summary: Walk through the history of student gardening with documentarian Cintia
 splash_image: /files/gardeningsplash.jpg
 image: /files/gardeningimage.jpg
 author_image: /files/author_image/cintiacabibheadshot.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

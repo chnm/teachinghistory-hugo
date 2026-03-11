@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21359
+grade_levels:
+  - high
 ---
 
 The Social Studies Academic Content Standards revision contains syllabi for six high school social studies courses: American History, Modern World History, American Government, Economics and Financial Literacy, Contemporary World Issues and World Geography. Each contains a course and broad topics which are further clarified with content statements. Grade levels are not specified for any of the courses.

@@ -15,6 +15,10 @@ summary: Constitutional or not? Read about this 1803 landmark court case decidin
   issues of judicial review.
 splash_image: /files/MarburyMadison432x240.jpg
 image: /files/lesson_image/jmarsh.jpg
+grade_levels:
+  - middle
+  - high
+duration: '1-4 class sessions'
 ---
 
 

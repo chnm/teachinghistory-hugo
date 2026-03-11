@@ -15,6 +15,9 @@ spotlight: All students need to understand that history is not definite nor is i
   of this study by history education professor Bob Bain.
 splash_image: /files/splash-rb-globes.jpg
 image: /files/flatearth.jpeg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -11,6 +11,10 @@ summary: Do students need reading skills specific to the history classroom? Clic
   here to discover how reading differs across particular disciplines.
 splash_image: /files/readingsplash.jpg
 image: /files/readingimage_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

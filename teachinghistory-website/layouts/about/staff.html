@@ -1,0 +1,49 @@
+{{ define "main" }}
+{{ partial "page-hero.html" (dict "title" "About Us" "color" "pale-blue") }}
+
+<main class="flex-1 bg-pale-blue-tint">
+  <div class="max-w-5xl mx-auto px-6 py-10">
+
+    {{ range $gi, $group := site.Data.staff.groups }}
+    <section class="mb-12">
+      <h2 class="font-heading text-xl font-bold uppercase tracking-wide mb-6">{{ $group.name }}</h2>
+
+      <div class="grid grid-cols-2 gap-6">
+        {{ range $mi, $member := $group.members }}
+        {{ $id := printf "staff-%d-%d" $gi $mi }}
+        <div class="bg-white rounded shadow-md p-6">
+          <h3 class="font-heading text-lg font-bold mb-1">{{ $member.name }}</h3>
+          <p class="font-heading text-sm font-semibold uppercase tracking-wide text-orange mb-3">{{ $member.role }}</p>
+          <button
+            type="button"
+            onclick="document.getElementById('{{ $id }}').showModal()"
+            class="inline-flex items-center gap-1 text-sm font-semibold hover:underline">
+            Read Bio
+            <svg class="w-3 h-3" viewBox="0 0 12 12" fill="currentColor"><path d="M4 1l6 5-6 5z"/></svg>
+          </button>
+        </div>
+
+        {{/* Bio modal */}}
+        <dialog id="{{ $id }}" class="rounded-lg shadow-xl p-0 max-w-lg w-full backdrop:bg-black/50">
+          <div class="p-8">
+            <h3 class="font-heading text-xl font-bold mb-1">{{ $member.name }}</h3>
+            <p class="font-heading text-sm font-semibold uppercase tracking-wide text-orange mb-4">{{ $member.role }}</p>
+            <div class="font-body text-sm leading-relaxed text-dark mb-6">
+              {{ $member.bio | markdownify }}
+            </div>
+            <button
+              type="button"
+              onclick="this.closest('dialog').close()"
+              class="font-heading text-sm font-semibold uppercase tracking-wide hover:underline">
+              Close
+            </button>
+          </div>
+        </dialog>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+  </div>
+</main>
+{{ end }}

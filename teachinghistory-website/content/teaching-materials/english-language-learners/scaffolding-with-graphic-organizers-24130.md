@@ -73,6 +73,10 @@ image_fid: '6179'
 splash_image_fid: '6180'
 splash_image: /files/compare_contrast.jpg
 image: /files/venn_diagram.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

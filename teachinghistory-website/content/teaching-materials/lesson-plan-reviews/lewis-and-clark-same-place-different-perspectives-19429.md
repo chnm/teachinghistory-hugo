@@ -18,6 +18,9 @@ spotlight: In this Lesson Plan Review, students analyze primary and secondary so
   to analyze this important historical interaction from multiple perspectives.
 splash_image: /files/LewisandClark432x240.jpg
 image: /files/lesson_image/lewclark.jpg
+grade_levels:
+  - elementary
+duration: '1 class period'
 ---
 
 

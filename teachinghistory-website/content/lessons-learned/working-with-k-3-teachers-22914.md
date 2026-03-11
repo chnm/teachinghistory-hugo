@@ -29,6 +29,8 @@ author_image_fid: '2413
   2413'
 summary: Immerse K-3 teachers in programs designed for them.
 splash_image: /files/Working_with_K3_-_432x240.jpg
+grade_levels:
+  - elementary
 ---
 
 

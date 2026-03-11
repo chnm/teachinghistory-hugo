@@ -21,6 +21,10 @@ summary: How can historians, curators, and the organizations they represent best
 splash_image: /files/workshopsplash.jpg
 image: /files/workshopimage.jpg
 author_image: /files/author_image/bio_haveles_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

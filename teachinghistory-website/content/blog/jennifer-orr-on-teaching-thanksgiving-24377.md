@@ -19,6 +19,8 @@ summary: How do you broach the complicated issues surrounding Thanksgiving with 
 splash_image: /files/splash-blog-jotk.jpg
 image: /files/image-blog-jotg.jpg
 author_image: /files/author_image/jennifer-orr_0.jpg
+grade_levels:
+  - elementary
 ---
 
 

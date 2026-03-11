@@ -10,8 +10,26 @@ author_bio: Kirt von Daacke is Associate Professor and Department Chair of Histo
   at Lynchburg College.
 author_image_fid: '6184'
 author_image: /files/author_image/vonDaacke_author.jpg
+question: How do we define and understand resistance to slavery in regards to the
+  1822 trial and execution of Denmark Vesey?
+summary: Tried and executed in 1822, along with many other slaves, for a plotted rebellion,
+  how much do we actually know about Denmark Vesey and his uprising?
+splash_image: /files/splash-btt-vesey_0.jpg
+splash_image_fid: '6222'
+what_textbooks_say: Most textbooks do not even mention Denmark Vesey or the slave
+  insurrection panic of 1822 commonly associated with him. The few that do mention
+  him (briefly) tend to portray Vesey as a heroic rebel against slavery who met a
+  tragic end.
+what_historians_say: Historians disagree about Vesey and his relationship to a Charleston
+  slave revolt scare in 1822. Many see him as a hero who planned a major revolt against
+  slavery. Others see him as a victim of a white conspiracy to kill black Americans
+  as part of an effort to protect slavery.
+what_sources_say: Primary sources remain ambiguous regarding Denmark Vesey and the
+  slave revolt he allegedly planned. Court testimony implicating him was often provided
+  by prisoners who had been tortured, much of the evidence was secondhand in nature,
+  and some white Charlestonians at the time openly doubted that the plot had ever
+  existed.
 ---
-
 
 Between June 19 and August 6, 1822, the Charleston, SC, Court of Magistrates and Freeholders interrogated, tortured, and tried in closed sessions over 100 African Americans as co-conspirators in a planned slave rebellion. Almost all were slaves. The court sent 35 of them to the gallows, two died in custody, and nearly 40 were transported out of the United States.
 

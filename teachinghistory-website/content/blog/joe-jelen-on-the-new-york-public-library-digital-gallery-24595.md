@@ -17,6 +17,10 @@ summary: This digitized photographs contained in this collection can be incorpor
 splash_image: /files/NYPLsplash_0.jpg
 image: /files/NYPLimage-1.jpg
 author_image: /files/author_image/author_jelen_0.png
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

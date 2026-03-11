@@ -17,6 +17,9 @@ summary: Remember that any historical story, of the U.S. or otherwise, can be us
   as long as it's taken with a grain of salt.
 splash_image: /files/AmericaStoryofUS432x240.jpg
 image: /files/AmericaStoryofUS150x113.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -19,6 +19,8 @@ summary: Set up and moderate an entire elementary class's worth of blogs at once
 splash_image: /files/kidblogsplash.jpg
 image: /files/kidblogimage_0.jpg
 author_image: /files/author_image/zanten.jpg
+grade_levels:
+  - elementary
 ---
 
 

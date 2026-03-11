@@ -3,7 +3,7 @@ title: Women's Reform Movement
 date: '2010-07-23T15:54:38'
 lastmod: '2017-12-05T08:46:32'
 content_type: beyond_the_textbook
-draft: false
+draft: true
 drupal_nid: 24125
 question: Were the voices of all women involved in the Women's Rights Movement represented
   in the 1848 Seneca Falls Declaration of Sentiments?
@@ -13,7 +13,6 @@ summary: The Seneca Falls Declaration of Sentiments in 1848 reflected the voices
   all supporters of women's rights—didn't it?
 splash_image: /files/splash-btt-womenmove.jpg
 ---
-
 
 ## What Textbooks Say
 

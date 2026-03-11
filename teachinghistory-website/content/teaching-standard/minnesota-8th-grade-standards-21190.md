@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21190
+grade_levels:
+  - middle
 ---
 
 *Grade eight features geography as the lead discipline with a strong

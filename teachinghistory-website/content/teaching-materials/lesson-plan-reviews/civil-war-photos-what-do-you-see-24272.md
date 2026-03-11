@@ -15,6 +15,10 @@ summary: Analysis of photographs of Civil War artillery broadens students unders
   of the American Industrial period.
 splash_image: /files/confederatecannon_splash.jpg
 image: /files/lesson_image/monitorturret_crop.jpg
+grade_levels:
+  - elementary
+  - middle
+duration: '1 to 2 class sessions'
 ---
 
 

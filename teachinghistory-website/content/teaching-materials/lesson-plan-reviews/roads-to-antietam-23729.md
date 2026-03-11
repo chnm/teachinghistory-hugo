@@ -18,6 +18,10 @@ summary: You're a Union general on the eve of Antietam. You know Lee's plans. Wh
 splash_image: /files/Antietam.jpg
 thumbnail: /files/quiz_thumbnail/Hiroshima_Thumb.jpg
 image: /files/lesson_image/AntietamImage.jpg
+grade_levels:
+  - middle
+  - high
+duration: '2-4 class periods (50 minutes)'
 ---
 
 

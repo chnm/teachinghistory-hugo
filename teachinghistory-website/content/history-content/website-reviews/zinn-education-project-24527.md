@@ -13,6 +13,9 @@ summary: Wanting to go deeper into the history of labor and marginalized groups 
   the U.S.?
 splash_image: /files/zinneducation432x240.jpg
 image: /files/website_image/image-fwr-zinned.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

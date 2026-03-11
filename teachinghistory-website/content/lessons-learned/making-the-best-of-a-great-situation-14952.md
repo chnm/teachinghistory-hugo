@@ -14,6 +14,9 @@ splash_image_fid: '4956'
 summary: Three years to spend nearly a million dollars [. . . ]. What could go wrong?
 splash_image: /files/Making_the_Best_of_a_Great_Situation_-_432x240.jg_.jpg
 image: /files/GreatThingsImage.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

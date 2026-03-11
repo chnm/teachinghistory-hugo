@@ -14,8 +14,38 @@ author_bio: 'Katherine Mellen Charron is an Associate Professor of History at No
   American, Women''s, and Southern history.'
 author_image_fid: '7528'
 author_image: /files/author_image/kmc_biopic.jpg
+question: How did segregation shape daily life for generations of African Americans
+  and how do its legacies remain with us today?
+summary: Segregation contradicts what most students have learned about American freedom
+  and democracy. Textbooks locate segregation's origins in southern disenfranchisement
+  laws of the 1890s and highlight the Supreme Court's 1896 "separate but equal" ruling
+  in *Plessy* v. *Ferguson*. The majority of African Americans still lived in the
+  south and worked as agricultural laborers for white landowners who denied them an
+  education and exploited them economically. New job opportunities during World War
+  I offered one escape.
+splash_image: /files/JimCrowSegregation432x240.jpg
+splash_image_fid: '7540'
+what_textbooks_say: Textbooks locate segregation’s origins in Southern disenfranchisement
+  laws of the 1890s and highlight the Supreme Court's 1896 "separate but equal" ruling
+  in *Plessy* v. *Ferguson*. New job opportunities during World War I and the Great
+  Migration are briefly addressed along with "custom and tradition". Textbooks emphasize
+  the National Association for the Advancement of Colored People's legal challenges,
+  and portray the 1954 *Brown* v. *Board* decision as the culmination of the fight.
+  Thus, according to the textbooks, from the 1890s to the 1950s, African Americans
+  endured as best they could.
+what_historians_say: Historians debate the origins of Jim Crow, but it is important
+  to remember that slavery had mandated the use of laws and practices to govern interracial
+  relations. Separation from whites by choice accompanied freed people's desire for
+  independence from their former white owners even as they expected the full and equal
+  citizenship guaranteed to them by the 14th Amendment.
+what_sources_say: Primary sources provide ample evidence of segregation's brutality.
+  They demonstrate the kind of structural inequalities that white supremacist laws
+  and practices institutionalized but also that African Americans embraced a variety
+  of methods to combat Jim Crow's injustices, and that white allies occasionally joined
+  them. Collectively, the primary sources included here reveal how geography, class,
+  gender, and culture have influenced ongoing battles for justice, as have changing
+  national and international contexts.
 ---
-
 
 Segregation contradicts what most students have learned about American freedom and democracy. Textbooks locate segregation's origins in Southern disenfranchisement laws of the 1890s and highlight the Supreme Court's 1896 "separate but equal" ruling in *Plessy* v. *Ferguson*. The majority of African Americans still lived in the South and worked as agricultural laborers for white landowners who denied them an education and exploited them economically. New job opportunities during World War I offered one escape. More than a million African American Southerners joined the Great Migration to the North, where they could vote but where "custom and tradition" meant they encountered discrimination in employment and housing. Textbooks emphasize the National Association for the Advancement of Colored People's legal challenges, and portray the 1954 *Brown* v. *Board* decision as the culmination of the fight. Thus, from the 1890s to the 1950s, African Americans endured as best they could.
 

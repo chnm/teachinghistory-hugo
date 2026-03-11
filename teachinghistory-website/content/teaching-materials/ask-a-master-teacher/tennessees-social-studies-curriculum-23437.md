@@ -13,6 +13,10 @@ splash_image_fid: '3490'
 summary: Standardization is a fairly new concept in education.
 splash_image: /files/teacherscrapnypl_0.jpg
 image: /files/TeacherCardNYPL.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

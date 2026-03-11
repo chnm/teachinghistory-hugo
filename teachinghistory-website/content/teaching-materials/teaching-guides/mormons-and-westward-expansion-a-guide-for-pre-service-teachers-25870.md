@@ -19,6 +19,8 @@ spotlight: Teachers guide students to create interactive digital maps detailing 
 splash_image: /files/MormonRouteMapsplash.jpg
 image: /files/MormonRouteMap.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_2.JPG
+grade_levels:
+  - high
 ---
 
 

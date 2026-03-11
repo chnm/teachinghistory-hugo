@@ -19,6 +19,10 @@ summary: How can you make history relevant to your students? Social studies/hist
 splash_image: /files/classsongssplash.jpg
 image: /files/classsongsimage.jpg
 author_image: /files/author_image/Pellegrino_Image_3.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

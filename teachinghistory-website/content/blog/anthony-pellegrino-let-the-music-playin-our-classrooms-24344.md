@@ -20,6 +20,10 @@ summary: Teach with punk, hip hop, and classic rock with these suggestions from 
   educator Anthony Pellegrino.
 splash_image: /files/splash-blog-ap-music1.jpg
 author_image: /files/author_image/Pellegrino_Image.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

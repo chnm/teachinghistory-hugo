@@ -13,6 +13,10 @@ summary: Teaching 20th century presidential history or political events? Explore
   site for interactive timelines, exhibits, and over 1,500 primary sources.
 splash_image: /files/splash-wr-prestime.jpg
 image: /files/website_image/image-wr-prestime.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

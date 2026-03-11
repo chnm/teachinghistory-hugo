@@ -18,6 +18,10 @@ spotlight: Does something this much fun belong in the classroom? Wordle, a free,
 splash_image: /files/Wordle432x240.jpg
 thumbnail: /files/quiz_thumbnail/SpaiUSThumbnail.jpg
 image: /files/gettysm.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

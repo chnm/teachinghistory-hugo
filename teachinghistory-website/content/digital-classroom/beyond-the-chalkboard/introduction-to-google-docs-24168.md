@@ -27,6 +27,10 @@ image_fid: '6284'
 splash_image_fid: '6283'
 splash_image: /files/splash-btc-googled.jpeg
 image: /files/image-btc-googled.jpeg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -17,6 +17,9 @@ summary: Chandra Manning discusses the song “John Brown's Body,” and how mus
   be an important source in discovering the past.
 splash_image: /files/screen-shot-2012-02-22-at-2.18.20-pm.jpg
 author_image: /files/author_image/chandra_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -20,6 +20,10 @@ summary: You don't have a smartboard, but overheard projectors aren't quite flex
   camera.
 splash_image: /files/splash-blog-jjdoccam1.jpg
 author_image: /files/author_image/Author_Image_Joe_Jelen_75x75.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

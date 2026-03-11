@@ -21,6 +21,10 @@ spotlight: It is no myth that students, both young and old, learn better when th
 splash_image: /files/folksplash.jpg
 image: /files/folkimage.jpg
 author_image: /files/author_image/Jacks_photo2_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

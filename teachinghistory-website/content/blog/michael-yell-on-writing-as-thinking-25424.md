@@ -19,6 +19,8 @@ summary: Practicing writing practices good habits of thought, says Mike Yell. Tw
   strategies can get your students writing every day.
 splash_image: /files/writingsplash.jpg
 author_image: /files/author_image/myell_0.jpg
+grade_levels:
+  - middle
 ---
 
 

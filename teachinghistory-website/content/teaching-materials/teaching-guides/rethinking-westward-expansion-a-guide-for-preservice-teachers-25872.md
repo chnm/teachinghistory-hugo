@@ -18,6 +18,8 @@ summary: Help students reconsider the how the expansion of the United States fro
 splash_image: /files/Zitkala-Sa-Portrait-2-scaled.jpg
 image: /files/ZitkalaSa.png
 author_image: /files/author_image/NATE_SLEETER (1)_0_0.JPG
+grade_levels:
+  - high
 ---
 
 

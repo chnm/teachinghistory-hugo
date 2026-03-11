@@ -16,6 +16,10 @@ summary: An 8th-grade class analyzes letters about the Emancipation Proclamation
 splash_image: /files/LettersAsPrimarySplash.jpg
 image: /files/Letters-as-Primary-150x113.jpg
 author_image: /files/author_image/JasonFitzgerald75x75.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

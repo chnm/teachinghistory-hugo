@@ -15,6 +15,10 @@ summary: 'A great way for students to learn more about the War of 1812 and our n
   emblem: the Star-Spangled Banner.'
 splash_image: /files/1812splash.jpg
 image: /files/lesson_image/bannerimage.jpg
+grade_levels:
+  - elementary
+  - middle
+duration: '3 to 5 class periods'
 ---
 
 

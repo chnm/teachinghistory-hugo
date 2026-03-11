@@ -13,6 +13,10 @@ summary: Trace Virginia's route to secession in the Civil War with more than 200
   sources.
 splash_image: /files/splash-wr-unionsecess.jpg
 image: /files/website_image/image-wr-unionsecess.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

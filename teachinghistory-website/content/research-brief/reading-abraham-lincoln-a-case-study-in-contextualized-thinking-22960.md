@@ -12,6 +12,9 @@ summary: Two styles of document reading demonstrate what successful readers do t
   formulate a context for documents.
 splash_image: /files/splash-alep.jpg
 image: /files/lincoln_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

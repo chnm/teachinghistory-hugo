@@ -28,6 +28,10 @@ image_fid: '6193'
 splash_image_fid: '6194'
 splash_image: /files/bracero_img1.jpg
 image: /files/bracero_img2.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

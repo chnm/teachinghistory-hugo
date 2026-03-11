@@ -15,6 +15,8 @@ author_image_fid: '7956'
 summary: An etext is not simply a digital copy of a paper text. Rather, it is a robust,
   fully interactive technology tool.
 author_image: /files/author_image/author-griffin.jpg
+grade_levels:
+  - elementary
 ---
 
 

@@ -22,6 +22,10 @@ summary: Combine strategies to create new techniques! Mike Yell combines DBQs an
 splash_image: /files/Strategiessplash.jpg
 image: /files/Strategiesimage.jpg
 author_image: /files/author_image/mYell_1.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

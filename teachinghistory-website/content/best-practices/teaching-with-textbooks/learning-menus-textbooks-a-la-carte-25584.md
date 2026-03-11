@@ -10,6 +10,9 @@ splash_image_fid: '9205'
 summary: Turn your students into 'master chefs' by using learning menus that allow
   differentiated instruction.
 splash_image: /files/menussplash.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

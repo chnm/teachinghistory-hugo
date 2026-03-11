@@ -19,6 +19,8 @@ summary: Two practices help students to make sense of primary source documents o
 splash_image: /files/ReadingThinkingSplash.jpg
 image: /files/00126thr.jpg
 author_image: /files/author_image/GayleCribb75x75.jpg
+grade_levels:
+  - high
 ---
 
 

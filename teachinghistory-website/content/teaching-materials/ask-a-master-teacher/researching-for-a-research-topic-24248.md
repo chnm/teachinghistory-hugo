@@ -17,6 +17,9 @@ splash_image_fid: '6543'
 summary: Paring down a larger idea to answer one specific question.
 splash_image: /files/spyshadow_splash.jpg
 image: /files/spyglass_crop.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

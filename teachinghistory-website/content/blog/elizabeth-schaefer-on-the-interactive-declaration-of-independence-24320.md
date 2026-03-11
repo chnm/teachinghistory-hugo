@@ -25,6 +25,9 @@ summary: Eighth-grade U.S. history teacher Elizabeth Schaefer "warps" the Declar
   of Independence into the future with interactives from the Library of Congress.
 splash_image: /files/splash-schaefer-blog-doiinter.jpg
 author_image: /files/author_image/Author_Photo_Elizabeth_Schaefer_75x75.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

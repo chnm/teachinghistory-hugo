@@ -10,6 +10,8 @@ splash_image_fid: '10190'
 summary: Make large-scale historic events like the Holocaust personal with artifacts
   and stories from individual human lives.
 splash_image: /files/holosplash_0_0.jpg
+grade_levels:
+  - high
 ---
 
 

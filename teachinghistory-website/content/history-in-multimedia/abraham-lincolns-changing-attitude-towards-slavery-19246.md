@@ -10,6 +10,10 @@ keywords: presidents, politicians, slaves, race, racism, race relations
 website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-05-01T00:00:00'
 series_name: Abraham Lincoln's Biography Video
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 James O. Horton of George Washington University describes Abraham Lincoln's reaction to first viewing slavery in action on plantations, and discusses his changing views on slavery and what that ability to change says about him as a man and a president.

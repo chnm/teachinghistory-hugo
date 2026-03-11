@@ -16,6 +16,8 @@ summary: In the struggle for women's suffrage, how did African American women re
   themselves? TJ Boisseau reads an article by activist Nannie Helen Burroughs.
 splash_image: /files/boisseausplash4.jpg
 author_image: /files/author_image/tj_headshot_with_brown_blurred_background_5.jpg
+grade_levels:
+  - high
 ---
 
 

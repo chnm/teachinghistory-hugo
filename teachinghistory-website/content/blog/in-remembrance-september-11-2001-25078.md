@@ -13,6 +13,10 @@ summary: September 11, 2011 marks the 10th anniversary of the 9/11 attacks. When
   the recent past become history?
 splash_image: /files/splash-blog-201110.jpg
 image: /files/image-blog-201110.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

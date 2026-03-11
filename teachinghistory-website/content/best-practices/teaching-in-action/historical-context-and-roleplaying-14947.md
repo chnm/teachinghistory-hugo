@@ -21,6 +21,9 @@ spotlight: Engage students in a creative learning activity that will teach them 
 splash_image: /files/Historical_Context_and_Roleplaying_-_432x240.jpg
 image: /files/NCREST_illustration.jpg
 author_image: /files/author_image/MarthaAndrews75x75.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

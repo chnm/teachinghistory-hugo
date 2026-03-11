@@ -11,6 +11,9 @@ splash_image_fid: '6796'
 summary: Analyze art in the classroom with these resources from the *Picturing America*
   initiative.
 splash_image: /files/artsplash.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

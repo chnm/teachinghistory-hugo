@@ -13,6 +13,9 @@ summary: What would life be like without freedoms we take for granted—of the p
   right to assembly, and more?
 splash_image: /files/billofrights432x240_0.jpg
 image: /files/website_image/billofrights113x150_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

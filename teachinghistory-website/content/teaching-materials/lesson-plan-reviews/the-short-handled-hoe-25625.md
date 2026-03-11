@@ -15,6 +15,10 @@ summary: History is imbedded in the smallest objects. In this lesson, students e
   how a simple farming tool connects to the work done by United Farm Workers.
 splash_image: /files/hoesplash.jpg
 image: /files/lesson_image/hoeimage.jpg
+grade_levels:
+  - middle
+  - high
+duration: '1-2 Class Sessions'
 ---
 
 

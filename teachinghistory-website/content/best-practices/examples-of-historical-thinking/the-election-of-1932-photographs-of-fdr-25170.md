@@ -17,6 +17,10 @@ summary: What can a photograph of Franklin D. Roosevelt in 1932 reveal? Donald A
   Ritchie looks at the people captured in this photograph.
 splash_image: /files/fdr_inauguration_photo.jpg
 author_image: /files/author_image/2010_-_oah_-_author_image_-_don_ritchie_1.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

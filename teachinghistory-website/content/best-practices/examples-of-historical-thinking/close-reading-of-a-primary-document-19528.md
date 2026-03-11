@@ -13,6 +13,8 @@ summary: On the website *Historical Thinking Matters*, a student reads aloud a s
   by former Louisiana Governor Huey Long.
 splash_image: /files/Close_Reading_of_Primary_Document_-_432x240.jpg
 image: /files/CloseReadingImage.jpg
+grade_levels:
+  - high
 ---
 
 

@@ -27,6 +27,10 @@ image_fid: '6185'
 splash_image_fid: '6186'
 splash_image: /files/wdl_image1.jpg
 image: /files/wdl_image2.gif
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

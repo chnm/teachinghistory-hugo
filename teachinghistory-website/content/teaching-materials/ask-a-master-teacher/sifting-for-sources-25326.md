@@ -19,6 +19,8 @@ summary: Curious to discover how to introduce young learners to primary and seco
 splash_image: /files/sourcessplash.jpg
 image: /files/sourcesimage.jpg
 author_image: /files/author_image/fillpot_1_0_0_0.jpg
+grade_levels:
+  - elementary
 ---
 
 

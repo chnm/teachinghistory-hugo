@@ -14,6 +14,10 @@ summary: Traditional concepts of knowledge and pedagogy view the student as a "f
   sponge."
 splash_image: /files/Constructivism432x240.jpg
 image: /files/constructivism-150x113.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -15,6 +15,9 @@ summary: As a result of the federal push for qualitative and quantitative skills
   Can this issue be solved by extensive teaching preparation? Or is elementary history
   education beyond repair?
 author_image: /files/author_image/author_hoeflich_0.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

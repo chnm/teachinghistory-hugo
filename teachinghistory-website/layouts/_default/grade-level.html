@@ -1,0 +1,117 @@
+{{/*
+  Grade-Level landing page — used by elementary, middle, and high school
+  quick-links pages. Driven by frontmatter: grade_filter + carousels[].
+
+  Sections:
+    1. Page hero (pale-blue)
+    2. Teacher's Pick — random featured post + splash image
+    3. Carousel rows — grade-filtered resources or section-based content
+*/}}
+
+{{ define "main" }}
+{{ partial "page-hero.html" (dict "title" .Title "color" "pale-blue") }}
+
+{{ $gradeFilter := .Params.grade_filter }}
+
+{{/* ── Collect all pages matching this grade level ── */}}
+{{ $allGraded := slice }}
+{{ range site.RegularPages }}
+  {{ $p := . }}
+  {{ with .Params.grade_levels }}
+    {{ if in . $gradeFilter }}
+      {{ $allGraded = $allGraded | append $p }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* ── Hero: Teacher's Pick ── */}}
+{{ $heroPool := slice }}
+{{ range $allGraded }}
+  {{ if and .Params.splash_image .Params.summary }}
+    {{ $heroPool = $heroPool | append . }}
+  {{ end }}
+{{ end }}
+
+{{ if $heroPool }}
+  {{ $picked := index ($heroPool | shuffle) 0 }}
+  <section class="bg-pale-blue">
+    <div class="max-w-7xl mx-auto flex min-h-[360px]">
+
+      {{/* Left — Teacher's Pick card */}}
+      <div class="w-1/2 flex flex-col justify-center px-10 py-12">
+        <p class="font-heading text-xs uppercase tracking-widest mb-3">Teacher's Pick</p>
+        <h2 class="font-heading text-3xl leading-tight mb-4 normal-case">{{ $picked.Title }}</h2>
+        <p class="font-body text-sm leading-relaxed mb-6">
+          {{ $picked.Params.summary | truncate 200 }}
+        </p>
+        {{ partial "arrow-button.html" (dict "text" "Read More" "href" $picked.RelPermalink "color" "black") }}
+      </div>
+
+      {{/* Right — splash image */}}
+      <div class="w-1/2">
+        <img src="{{ $picked.Params.splash_image }}"
+             alt="{{ $picked.Title }}"
+             class="w-full h-full object-cover">
+      </div>
+
+    </div>
+  </section>
+{{ end }}
+
+{{/* ── Carousel rows ── */}}
+<main class="flex-1 bg-pale-blue-tint">
+  <div class="max-w-7xl mx-auto px-6 py-10">
+
+    {{/* Pre-shuffle graded pages and split across grade-based rows */}}
+    {{ $shuffled := $allGraded | shuffle }}
+    {{ $gradeRowIndex := 0 }}
+    {{ $perRow := 20 }}
+
+    {{/* Count grade-based carousel rows to split content */}}
+    {{ $gradeRowCount := 0 }}
+    {{ range .Params.carousels }}
+      {{ if .grades }}
+        {{ $gradeRowCount = add $gradeRowCount 1 }}
+      {{ end }}
+    {{ end }}
+
+    {{ range $i, $carousel := .Params.carousels }}
+      {{ $pages := slice }}
+
+      {{ if $carousel.grades }}
+        {{/* Grade-based row — take a slice of the pre-shuffled pool */}}
+        {{ $offset := mul $gradeRowIndex $perRow }}
+        {{ $pages = after $offset $shuffled | first $perRow }}
+        {{ $gradeRowIndex = add $gradeRowIndex 1 }}
+      {{ else if $carousel.section }}
+        {{/* Section-based row — pull from named section, grade-filtered */}}
+        {{ $sec := site.GetPage $carousel.section }}
+        {{ with $sec }}
+          {{ $filtered := slice }}
+          {{ range .RegularPagesRecursive }}
+            {{ $p := . }}
+            {{ with .Params.grade_levels }}
+              {{ if in . $gradeFilter }}
+                {{ $filtered = $filtered | append $p }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          {{ $pages = $filtered | shuffle | first $perRow }}
+        {{ end }}
+      {{ end }}
+
+      {{ if $pages }}
+        {{ partial "horizontal-carousel.html" (dict
+            "id"          (printf "grade-%s-%d" $gradeFilter $i)
+            "heading"     $carousel.heading
+            "description" ""
+            "viewAllURL"  "#"
+            "color"       "pale-blue"
+            "pages"       $pages
+        ) }}
+      {{ end }}
+    {{ end }}
+
+  </div>
+</main>
+{{ end }}

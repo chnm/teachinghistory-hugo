@@ -31,6 +31,9 @@ summary: For Constitution Day, DC teacher Amy Trenkle's 8th-grade class carved o
   their thoughts on the First Amendment.
 splash_image: /files/splash-blog-atcd.jpg
 author_image: /files/author_image/13eb508.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

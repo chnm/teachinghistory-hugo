@@ -19,6 +19,9 @@ summary: Conventional applications of Web 2.0 tools expect students to read and 
 splash_image: /files/splash-blog-jointtech.jpg
 image: /files/image-blog-jointtech.jpg
 author_image: /files/author_image/jennifer-orr_0_0.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

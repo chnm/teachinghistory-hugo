@@ -12,6 +12,9 @@ splash_image_fid: '7295'
 summary: Use pictures to teach and learn history—and explore copyright issues.
 splash_image: /files/FlickrSplash.jpg
 image: /files/flickr-rss.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

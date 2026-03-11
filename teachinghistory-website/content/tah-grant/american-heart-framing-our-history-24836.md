@@ -5,6 +5,10 @@ lastmod: '2017-12-01T14:23:42'
 content_type: tah_grant
 draft: false
 drupal_nid: 24836
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Located in the eastern mountains and Eastern Panhandle of West Virginia, the eight county-wide districts involved in *Framing Our History* have 20 middle and high schools that have not made Adequate Yearly Progress for one or more of the past three years, and many teachers in these schools are not highly qualified to teach history. The project will address participant needs through colloquia, institutes, field studies, and other activities that promote greater content knowledge, build pedagogical skills, and create a Professional Learning Community. The project also will provide interventions to nonparticipants at struggling schools and conduct a research study in one district on the project's long-term effects. A total of 40 teachers will participate for the full 5-year period, 30 of whom will be selected from low-performing schools and 10 of whom will be teacher-mentors, who will participate in all project activities. *Framing Our History* aims to develop teacher-historians who make history relevant to today's students by instilling historical thinking skills and habits of mind. During the summer colloquia, teachers will interact with historians, master teachers, learning/curriculum specialists, and preservice teachers from the higher education partner to explore content as professionals and develop pedagogical skills such as action research. All activities will integrate educational technology and emphasize the use of a variety of resources and delivery media. Teachers will create instructional guides and problem-based learning modules to be published on the state department's Teach 21 Web site. These resources will help other history teachers improve their classroom practice.

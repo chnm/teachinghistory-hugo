@@ -21,6 +21,8 @@ spotlight: Transform your students into history detectives! This unique lesson p
 splash_image: /files/splash-tg-mystery.jpg
 image: /files/mysteryimage.jpg
 author_image: /files/author_image/LisaCooper_Photo.jpg
+grade_levels:
+  - elementary
 ---
 
 

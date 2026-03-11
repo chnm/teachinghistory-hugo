@@ -111,6 +111,10 @@ author_image_fid: '6216'
 splash_image: /files/cause_image2.jpg
 image: /files/cause_image1.jpg
 author_image: /files/author_image/enright.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

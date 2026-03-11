@@ -11,6 +11,10 @@ splash_image_fid: '7972'
 summary: What can a quilt, a map, some photographs, a haversack, and a receipt tell
   you about the past?
 splash_image: /files/cw-poster-large.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -18,6 +18,10 @@ summary: Every town has a scattering of historical markers and statues. Discover
   they really mean!
 splash_image: /files/monuments.jpg
 author_image: /files/author_image/Percoco_author_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -14,6 +14,8 @@ summary: Meet international anarchist and women's rights activist Emma Goldman.
 splash_image: /files/splash-wr-forcefulwom.jpg
 thumbnail: /files/Like_a_Family-_The_Making_of_a_Southern_Cotton_Mill_World_432x240.jpg
 image: /files/website_image/WomeValoImage.jpg
+grade_levels:
+  - high
 ---
 
 

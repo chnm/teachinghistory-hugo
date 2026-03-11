@@ -13,6 +13,10 @@ summary: Teaching the Civil War? With the sesquicentennial kicking off, resource
   are popping up left and right!
 splash_image: /files/splash-blog-sesqui2.jpg
 image: /files/26469v.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -17,6 +17,8 @@ summary: Help students understand recent immigration history by exploring photog
 splash_image: /files/AutocareBig.jpg
 image: /files/HalalMarket.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_0_0.jpeg
+grade_levels:
+  - high
 ---
 
 

@@ -16,8 +16,27 @@ image_fid: '5474
   5474'
 author_image_fid: '4447'
 author_image: /files/author_image/author_omalley.jpg
+question: During the Great Depression and New Deal, Louisiana governor and U.S. Senator
+  Huey Long (1893–1935) promised an end to poverty. How did he plan to realize this
+  ideal, and what effect did he have on other politicians at the time?
+summary: How exactly did U.S. Senator Huey Long intend to end poverty across the U.S.?
+splash_image: /files/splash-hueylong.jpg
+splash_image_fid: '4449'
+what_textbooks_say: Textbooks routinely include brief accounts of Huey Long. They
+  describe Long's challenge to Franklin Delano Roosevelt (FDR) from "the left," and
+  mention a folksy style. They neglect, however, to describe the content of Long's
+  agenda and the meaning of his message. In that they also miss a chance to make clear
+  the stakes in FDR's political balancing act.
+what_historians_say: Historians look at Long and his political views and pushes for
+  reform in the social and political context of the Great Depression, FDR's presidency,
+  and the New Deal. By taking Long together with the world he campaigned in, historians
+  avoid caricaturing Long.
+what_sources_say: Primary sources reveal a charismatic man who used every method available
+  to him to get out his message—from television to radio, from popular song to the
+  publishing industry. Whether preparing to campaign for presidency or encouraging
+  the public to form his "Share Our Wealth" societies, Long carefully manufactured
+  and maintained his public image as he pursued his political goals.
 ---
-
 
 Bill Gates is currently worth roughly six billion dollars. Suppose I were to confiscate four billion of those dollars, ![dollar.jpg](/sites/default/files/dollar.jpg  "dollar.jpg")leaving him two billion on which he could live quite nicely indeed. I would then take the four billion, and use it to guarantee every single American a free college education. How would you react to such a plan?
 

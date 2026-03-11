@@ -13,6 +13,10 @@ summary: A comprehensive guide of everything you ever wanted to know about Orego
   history, and more!
 splash_image: /files/or_splash.jpg
 image: /files/website_image/orimage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

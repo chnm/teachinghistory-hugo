@@ -14,6 +14,8 @@ summary: A series of five primary source based learning modules that encourage h
   National Cemetery.
 splash_image: /files/forustheliving-thumbnail.png
 image: /files/website_image/forustheliving-review.png
+grade_levels:
+  - high
 ---
 
 

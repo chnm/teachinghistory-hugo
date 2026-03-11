@@ -13,6 +13,8 @@ summary: Congratulations to Teachinghistory.org writer Jennifer Orr, winner of t
   2012 Kay L. Bitter Vision Award for Excellence in Technology-Based PK-12 Education!
 splash_image: /files/josplash.jpg
 image: /files/joimage_0.jpg
+grade_levels:
+  - elementary
 ---
 
 

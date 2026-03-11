@@ -17,6 +17,8 @@ summary: Is it hard for your students to see how history affects them? Have them
 splash_image: /files/familytreesplash.jpg
 image: /files/familytreeimage.jpg
 author_image: /files/author_image/author_image_joe_jelen_75x75_3_1.jpg
+grade_levels:
+  - high
 ---
 
 

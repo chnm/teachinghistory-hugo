@@ -21,6 +21,9 @@ summary: 8th-grade teacher Elizabeth Schaefer tackles the challenge of using Fac
 splash_image: /files/splash-blog-facebook.jpg
 image: /files/image-blog-facebook.jpg
 author_image: /files/author_image/Author_Photo_Elizabeth_Schaefer_75x75_0_1.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

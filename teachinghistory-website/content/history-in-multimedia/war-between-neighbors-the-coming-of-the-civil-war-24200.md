@@ -13,6 +13,8 @@ splash_image_fid: '6390'
 summary: Edward Ayers looks at conflict within two communities, on in Virginia and
   one in Pennsylvania, during the Civil War.
 splash_image: /files/splash-him-easectional.jpg
+grade_levels:
+  - high
 ---
 
 

@@ -13,6 +13,9 @@ summary: This site, produced by PBS, uses multiple resources to examine the hist
   and influence of Jewish culture in the U.S.
 splash_image: /files/jewishamericanssplash.jpg
 image: /files/website_image/jewishamericansimage_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

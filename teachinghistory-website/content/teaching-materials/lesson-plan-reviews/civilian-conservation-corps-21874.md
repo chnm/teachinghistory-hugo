@@ -16,6 +16,10 @@ summary: Examine the role of African Americans in the Civilian Conservation Corp
   during the Great Depression.
 splash_image: /files/CCCSplash.jpg
 image: /files/lesson_image/CivilianConserveation-150x113.jpg
+grade_levels:
+  - middle
+  - high
+duration: '2-4 Days'
 ---
 
 

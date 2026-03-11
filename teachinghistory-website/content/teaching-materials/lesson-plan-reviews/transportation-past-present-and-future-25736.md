@@ -15,6 +15,9 @@ summary: What pushes and pulls people into new ways of life? In this lesson, stu
   use artifacts, documents, and photographs to help them answer this question.
 splash_image: /files/transportsplash.jpg
 image: /files/lesson_image/transportimage.jpg
+grade_levels:
+  - elementary
+duration: 'Varies'
 ---
 
 

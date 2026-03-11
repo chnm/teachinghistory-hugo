@@ -11,6 +11,8 @@ summary: What stories do elementary school students tell about the past? Read th
   research brief for more about fourth and fifth graders’ thinking processes.
 splash_image: /files/elementarystoriessplash.jpg
 image: /files/elementarythinkingimage.jpg
+grade_levels:
+  - elementary
 ---
 
 

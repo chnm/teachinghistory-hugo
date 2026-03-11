@@ -3,7 +3,7 @@ title: 'The Modern Civil Rights Movement: A River of Purposeful Anger'
 date: '2010-10-31T10:42:03'
 lastmod: '2017-12-05T08:46:32'
 content_type: beyond_the_textbook
-draft: false
+draft: true
 drupal_nid: 24317
 summary: The modern Civil Rights Movement is often marked as beginning with the 1954
   U.S. Supreme Court decision banning school segregation or the day in 1955 when Rosa
@@ -152,7 +152,6 @@ thumbnail_fid: '731'
 thumbnail: /files/nysarchives.jpg
 splash_image: /files/Dynamics_of_Idealism-_Volunteers_for_Civil_Rights_1965-1982_432x240_1.jpg
 ---
-
 
 ## What Textbooks Say
 

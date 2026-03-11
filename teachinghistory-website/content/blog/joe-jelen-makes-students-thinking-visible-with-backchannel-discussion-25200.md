@@ -17,6 +17,8 @@ summary: Can you turn classroom chatter to constructive ends? Joe Jelen says dig
 splash_image: /files/textingsplash.jpg
 image: /files/textingimage.jpg
 author_image: /files/author_image/author_image_joe_jelen_75x75_3_0.jpg
+grade_levels:
+  - high
 ---
 
 

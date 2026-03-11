@@ -67,6 +67,10 @@ image_fid: '6969'
 splash_image_fid: '6970'
 splash_image: /files/splash-ell-edl.jpg
 image: /files/image-ell-edl.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

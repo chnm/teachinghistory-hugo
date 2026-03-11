@@ -17,6 +17,9 @@ summary: This lesson leads students to see how Lincoln's life in Springfield inf
 splash_image: /files/AbrahamLincoln432x240.jpg
 thumbnail: /files/quiz_thumbnail/NWHP_Thumb.jpg
 image: /files/lesson_image/127covercl.jpg
+grade_levels:
+  - high
+duration: '1-2 class sessions'
 ---
 
 

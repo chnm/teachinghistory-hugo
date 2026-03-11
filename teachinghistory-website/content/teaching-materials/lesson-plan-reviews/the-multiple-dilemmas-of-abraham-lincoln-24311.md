@@ -15,6 +15,10 @@ summary: An interactive exploration of the decisions Abraham Lincoln had to make
   his presidency.
 splash_image: /files/lincolnsplash.jpg
 image: /files/lesson_image/lincolnimage.jpg
+grade_levels:
+  - middle
+  - high
+duration: 'If modified, one class period'
 ---
 
 

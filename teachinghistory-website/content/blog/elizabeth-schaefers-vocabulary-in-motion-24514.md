@@ -20,6 +20,10 @@ summary: As spring weather approaches, are your students getting antsy? Eighth-g
 splash_image: /files/splash-blog-lsdestiny.jpg
 image: /files/image-blog-lsdestiny.jpg
 author_image: /files/author_image/Author_Photo_Elizabeth_Schaefer_75x75_0_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

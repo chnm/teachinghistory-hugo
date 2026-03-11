@@ -11,6 +11,9 @@ splash_image_fid: '6798'
 summary: Incorporate art into lesson plans with this resource from The Metropolitan
   Museum of Art.
 splash_image: /files/compositionsplash.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

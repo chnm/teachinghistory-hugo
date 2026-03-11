@@ -14,6 +14,10 @@ summary: If you need World War II visuals, this is an excellent place to start s
 thumbnail: /files/splash-wr-chnm.jpg
 splash_image: /files/ww2pic.jpg
 image: /files/website_image/image-wr-wwiiphotos.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21479
+grade_levels:
+  - elementary
 ---
 
 In the third grade, students will explore the concept of community, learning about the development of cultures, systems of governance, how communities and cultures interconnect both locally and globally, and how the world around them has changed over time. Students will learn about individual rights and responsibilities as well as opportunities for active participation in the life of the community.

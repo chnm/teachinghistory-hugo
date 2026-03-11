@@ -13,6 +13,10 @@ summary: The website provides valuable resources for teachers that illuminate ke
   events in U.S. and Arkansas history.
 splash_image: /files/arsplash.jpg
 image: /files/website_image/ar_image.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

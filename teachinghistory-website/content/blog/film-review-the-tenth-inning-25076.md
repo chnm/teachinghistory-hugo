@@ -20,6 +20,10 @@ summary: Can one subject—say, baseball—tell a larger story of historical cha
 splash_image: /files/baseballsplash.jpg
 image: /files/baseballimage.jpg
 author_image: /files/author_image/author_photo_nathan.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

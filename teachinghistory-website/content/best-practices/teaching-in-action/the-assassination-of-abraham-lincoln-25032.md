@@ -10,6 +10,8 @@ splash_image_fid: '7785'
 summary: Teacher Bill Kendrat demonstrates the techniques he uses to draw students
   in to culturally-familiar stories.
 splash_image: /files/lincolnassassin.jpeg
+grade_levels:
+  - middle
 ---
 
 

@@ -12,6 +12,10 @@ splash_image_fid: '7778'
 summary: Digitize class surveys and poll student knowledge with this tool.
 splash_image: /files/surveymonkeysplash.jpg
 image: /files/logo_survey_monkey.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

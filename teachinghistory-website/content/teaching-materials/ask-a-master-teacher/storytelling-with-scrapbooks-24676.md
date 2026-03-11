@@ -13,6 +13,9 @@ splash_image_fid: '7469'
 summary: Be a creative teacher—use scrapbooks in YOUR history classroom!
 splash_image: /files/scrapbooksplash.jpg
 image: /files/scrapbookimage.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

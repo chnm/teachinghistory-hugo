@@ -15,6 +15,10 @@ splash_image_fid: '4000'
 summary: Vocabulary legends, guiding questions, and teamwork are all good solutions.
 splash_image: /files/PrimarySourceSplash.jpg
 image: /files/PrimaryDocumentImage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

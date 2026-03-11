@@ -18,6 +18,9 @@ summary: Thesis statements form the backbone of history essays and DBQs.
 splash_image: /files/StatingYourCaseSplash.jpg
 image: /files/stopandthink.jpg
 author_image: /files/author_image/burak_1_1.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

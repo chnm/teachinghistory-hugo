@@ -26,6 +26,9 @@ thinking_focus: "<strong>Sourcing:</strong>\r\n<p>\r\nThis newsreel, produced by
   \ The music, visuals, word choice—all of these things helped craft a convincing\
   \ argument for a 1942 audience. \r\n</p>\r\n<p>"
 thumbnail_fid: '3498'
+grade_levels:
+  - middle
+  - high
 ---
 
 **About This Topic**

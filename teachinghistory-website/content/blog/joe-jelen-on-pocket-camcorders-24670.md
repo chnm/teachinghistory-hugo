@@ -18,6 +18,10 @@ summary: With pocket camcorders, you can direct a class full of filmmakers. Joe 
 splash_image: /files/camcordersplash.jpg
 image: /files/camcorderimage.jpg
 author_image: /files/author_image/Author_Image_Joe_Jelen_75x75_2.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

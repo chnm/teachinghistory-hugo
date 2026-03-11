@@ -18,6 +18,10 @@ spotlight: In this series of videos, historian David Jaffee examines life in 19t
   and reveals their significance as symbols of economic, cultural, and social change.
 splash_image: /files/DailyObjects432x240.jpg
 author_image: /files/author_image/David_author2_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

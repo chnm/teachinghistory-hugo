@@ -16,6 +16,10 @@ summary: Help students make connections between religion, technology, and Ameri
 spotlight: Explore the Holy Land with American tourists in the 1800s
 splash_image: /files/Train_ticket.jpg
 image: /files/lesson_image/TravelPoster_0.jpg
+grade_levels:
+  - middle
+  - high
+duration: '90 minutes'
 ---
 
 

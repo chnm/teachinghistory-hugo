@@ -177,6 +177,10 @@ author_image_fid: '6294'
 splash_image: /files/mexamwar_image.jpg
 image: /files/mexamwar_sm.jpg
 author_image: /files/author_image/carey.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -21,6 +21,8 @@ summary: Many primary sources are text-heavy. Jennifer Orr asks where do you fin
   sources!
 splash_image: /files/splash-blog-joart.jpg
 author_image: /files/author_image/jennifer-orr_0_5.jpg
+grade_levels:
+  - elementary
 ---
 
 

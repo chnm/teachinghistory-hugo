@@ -13,6 +13,8 @@ summary: Teaching Watergate? Introduce students to the Nixon tapes with more tha
   2,000 hours of recordings.
 splash_image: /files/FWR-nixontapes-splash.jpg
 image: /files/website_image/FWR-nixontapes-image.jpg
+grade_levels:
+  - high
 ---
 
 

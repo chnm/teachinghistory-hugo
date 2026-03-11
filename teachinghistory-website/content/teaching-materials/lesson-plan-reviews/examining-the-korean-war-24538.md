@@ -15,6 +15,10 @@ summary: Allow students to explore historical events through multiple perspectiv
   with this lesson.
 splash_image: /files/koreansplash.jpg
 image: /files/lesson_image/koreanimage.jpg
+grade_levels:
+  - middle
+  - high
+duration: '1 to 2 class sessions'
 ---
 
 

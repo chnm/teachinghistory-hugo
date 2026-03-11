@@ -15,6 +15,9 @@ summary: Did the Chinese discover America before Columbus? How would or does thi
   impact our understanding of European explorers and exploration?
 splash_image: /files/splash-lpr-china.jpg
 image: /files/lesson_image/ship.jpg
+grade_levels:
+  - middle
+duration: '2 class periods'
 ---
 
 

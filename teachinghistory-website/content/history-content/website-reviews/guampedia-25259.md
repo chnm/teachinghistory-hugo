@@ -12,6 +12,10 @@ splash_image_fid: '8388'
 summary: Guam is often left out of discussions of U.S. history. Remedy the situation!
 splash_image: /files/guampedia432x240.jpg
 image: /files/website_image/guampedia150x113.gif
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

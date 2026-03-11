@@ -77,6 +77,10 @@ author_image_fid: '6175'
 splash_image: /files/Hall_img1.jpg
 image: /files/Hall_refugee.jpg
 author_image: /files/author_image/Hall.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

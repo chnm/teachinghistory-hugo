@@ -45,6 +45,8 @@ summary: Use art to teach both history and how disciplines are interconnected, s
   TAH project director Elizabeth Glynn.
 splash_image: /files/elizabethglynnon432x240.jpg
 author_image: /files/author_image/author-glynn_1.jpg
+grade_levels:
+  - high
 ---
 
 

@@ -16,8 +16,26 @@ image_fid: '9522
   9522'
 author_image_fid: '9563'
 author_image: /files/author_image/mfb.jpg
+question: Why is girlhood historically significant in this era?
+summary: The historical impact young girls had on the Progressive Era is often overlooked.
+  Discover the truth here.
+splash_image: /files/girlssplash.jpg
+splash_image_fid: '9526'
+what_textbooks_say: The central focus of U.S. textbook chapters on the Progressive
+  era is the historical agency of reformers who expanded public education, reformed
+  industry, and organized to abolish child labor. Textbooks focus on adults more than
+  children and on boys more than girls.
+what_historians_say: Historians studying the Progressive era have examined the nature
+  of reform, reformers, and those they sought to reform. They found that the middle-class
+  notions reformers held about womanhood, childhood, and girlhood conflicted with
+  the beliefs of immigrant working-class parents, as well as with the ideas and practices
+  of a new generation of young people.
+what_sources_say: The sources show that Progressive reformers focused primarily on
+  the “boy problem” as the major social crisis facing American cities. Sources reveal
+  the anxieties of adults as well as the agency of girls who worked for wages, organized
+  strikes, played on city streets, contributed to household economies, and participated
+  in American society.
 ---
-
 
 ## Missing Stories
 

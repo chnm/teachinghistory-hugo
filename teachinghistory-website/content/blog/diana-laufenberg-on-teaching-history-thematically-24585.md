@@ -28,6 +28,9 @@ summary: Teaching chronologically is not always effective. Check out these tips 
 splash_image: /files/thematicsplash_0.jpg
 image: /files/thematicimage_0.jpg
 author_image: /files/author_image/dlaufenberg1_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

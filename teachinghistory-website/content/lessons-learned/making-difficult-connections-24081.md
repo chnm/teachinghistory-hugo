@@ -16,6 +16,8 @@ summary: It may be tempting to ask students to identify only with young, heroic 
   students should be encouraged otherwise.
 splash_image: /files/difficult.jpg
 author_image: /files/author_image/Liou_author_0.jpg
+grade_levels:
+  - high
 ---
 
 

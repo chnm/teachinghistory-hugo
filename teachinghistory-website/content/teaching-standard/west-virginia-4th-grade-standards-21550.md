@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21550
+grade_levels:
+  - elementary
 ---
 
 *Fourth grade Social Studies is an introduction to the growth of the United States from exploration and colonization (When The Three Worlds Meet) to the conclusion of the American Revolution. Students will analyze the assimilation of various colonial groups, development of improved technology, major historical figures and events. Students will also learn about the physical geography of North America and its influence upon diverse cultures. Data collection and the essential roles of citizens in the democratic process will be emphasized. Roles of elected officials, economic trade-offs and the need for taxation will be introduced. Students will learn how the economic concepts of competition, advertising, budgeting and taxation impact production and consumption. The West Virginia Standards for 21st Century Learning include the following components: 21st Century Content Standards and Objectives and 21st Century Learning Skills and Technology Tools. All West Virginia teachers are responsible for classroom instruction that integrates learning skills, technology tools and content standards and objectives.*

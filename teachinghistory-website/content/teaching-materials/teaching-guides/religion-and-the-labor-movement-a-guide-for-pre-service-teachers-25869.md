@@ -19,6 +19,8 @@ spotlight: What was the relationship between the labor movement and organized re
 splash_image: /files/DayBookSplash.jpg
 image: /files/DayBook.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_1.JPG
+grade_levels:
+  - high
 ---
 
 

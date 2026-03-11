@@ -23,6 +23,9 @@ splash_image: /files/ManatDeskWriting.jpg
 thumbnail: /files/FEMALogo.jpg
 image: /files/WritingImage.jpg
 author_image: /files/author_image/Monte-Sano.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

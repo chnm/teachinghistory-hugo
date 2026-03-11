@@ -16,6 +16,10 @@ summary: Christina Chavarria of the U.S. Holocaust Memorial Museum describes the
   resources the museum can offer TAH Grant projects.
 splash_image: /files/Christina.jpg
 author_image: /files/author_image/Chavarria_author.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

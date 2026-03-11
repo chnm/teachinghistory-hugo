@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21480
+grade_levels:
+  - elementary
 ---
 
 In the fourth grade, students will build on these foundational concepts as they learn about the present state of Utah. Students will study history, government, economics, culture, and geography to build their understanding of Utah's past and present, as well as make inferences about Utah's future. Inquiry into current events will help students make connections between the past and the present. Students will enlarge their world connections as they trace the global travels of people from many diverse cultures who now call Utah home.

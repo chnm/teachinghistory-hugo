@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21551
+grade_levels:
+  - elementary
 ---
 
 *The fifth grade Social Studies program is a basic overview of the United States beginning with its emergence as a new nation. Students recognize and evaluate the significance of major events of each historical period. Students examine primary source documents relating to the establishment of the nation and the new government. They continue to learn the role of citizenship and social responsibility in the school and community. Students examine the transformation from rural to urban and from agriculture to industry focusing on the economic impact of these moves. Students learn how government decisions impact the economy. The West Virginia Standards for 21st Century Learning include the following components: 21st Century Content Standards and Objectives and 21st Century Learning Skills and Technology Tools. All West Virginia teachers are responsible for classroom instruction that integrates learning skills, technology tools and content standards and objectives.*

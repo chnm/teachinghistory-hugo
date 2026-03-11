@@ -14,6 +14,9 @@ summary: The current state of history education in elementary schools denies stu
   Home and an increased focus on information literacy might be able to fill in the
   gaps in historical study.
 author_image: /files/author_image/fillpot_1_0_0_0_0.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

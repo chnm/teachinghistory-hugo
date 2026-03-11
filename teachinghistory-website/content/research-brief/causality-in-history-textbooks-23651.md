@@ -11,6 +11,9 @@ summary: It's not enough to say that something has happened. Explaining why is n
   as crucial.
 splash_image: /files/Causality_1.jpg
 image: /files/causality.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

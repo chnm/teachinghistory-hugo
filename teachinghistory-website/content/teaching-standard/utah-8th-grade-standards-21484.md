@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21484
+grade_levels:
+  - middle
 ---
 
 (Note: For grades 7–12, Utah provides standards by course, instead of by grade level. Courses to be covered in grades 7–12 are Utah Studies, U.S. History I, U.S. History II, Geography for Life, World Civilizations, and U.S. Government and Citizenship.

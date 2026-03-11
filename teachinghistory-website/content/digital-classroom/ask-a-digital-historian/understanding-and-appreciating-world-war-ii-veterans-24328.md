@@ -17,6 +17,9 @@ summary: Immerse your students in World War II battles, veterans, and services f
   Veteran's Day projects with these handy websites.
 splash_image: /files/wwIIveterans432x240.jpg
 image: /files/lesson_image/wwIIvet_crop.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

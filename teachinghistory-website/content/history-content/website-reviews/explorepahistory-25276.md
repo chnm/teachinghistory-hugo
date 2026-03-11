@@ -13,6 +13,10 @@ summary: Explore this education- and tourism-centered website for lesson plans f
   teachers, as well as dozens of thematic topics in Pennsylvania history.
 splash_image: /files/pennsplash.jpg
 image: /files/website_image/pennimage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

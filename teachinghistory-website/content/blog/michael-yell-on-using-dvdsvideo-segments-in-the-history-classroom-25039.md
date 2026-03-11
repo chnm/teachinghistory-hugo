@@ -21,6 +21,9 @@ summary: What student doesn't love a "movie day"? The question is, how much are 
   learning from it?
 splash_image: /files/michaelyellon432x240.jpg
 author_image: /files/author_image/myell_1_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

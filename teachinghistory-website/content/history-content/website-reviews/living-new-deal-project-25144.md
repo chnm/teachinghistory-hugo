@@ -12,6 +12,10 @@ splash_image_fid: '8047'
 summary: Live in California? Trying to find local New Deal projects?
 splash_image: /files/livingnewdeal432x240.jpg
 image: /files/website_image/livingnewdeal113x150.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21456
+grade_levels:
+  - middle
 ---
 
 * ### TN.8.1. Content Standard: Culture

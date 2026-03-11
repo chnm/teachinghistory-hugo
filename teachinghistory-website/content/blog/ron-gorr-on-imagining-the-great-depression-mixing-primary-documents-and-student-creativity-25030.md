@@ -22,6 +22,10 @@ summary: Use primary sources to tell stories and discover what the stories you c
 splash_image: /files/rongorron432x240.jpg
 image: /files/rongorron150x113.jpg
 author_image: /files/author_image/image-blog-rongorr_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

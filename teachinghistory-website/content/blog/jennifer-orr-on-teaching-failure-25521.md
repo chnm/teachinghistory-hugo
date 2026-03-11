@@ -18,6 +18,8 @@ summary: Use the lives of historical figures to teach students that failure isn'
 splash_image: /files/failuresplash.jpg
 image: /files/failureimage.jpg
 author_image: /files/author_image/jennifer-orr_0_2.png
+grade_levels:
+  - elementary
 ---
 
 

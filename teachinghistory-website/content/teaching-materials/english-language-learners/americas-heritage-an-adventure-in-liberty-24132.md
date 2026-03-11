@@ -28,6 +28,10 @@ image_fid: '6187'
 splash_image_fid: '6188'
 splash_image: /files/amheritage_img1.jpg
 image: /files/amheritage_img2.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

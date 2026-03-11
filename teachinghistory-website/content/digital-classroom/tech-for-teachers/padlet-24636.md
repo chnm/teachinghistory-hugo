@@ -13,6 +13,10 @@ summary: Facilitate dialogue in the history classroom with this online bulletin 
   maker.
 splash_image: /files/wallwisherSplash.jpg
 image: /files/image-padlet.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

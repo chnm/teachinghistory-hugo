@@ -11,6 +11,10 @@ keywords: presidents, politicians, territories, Kansas, Nebraska, Kansas-Nebrask
 website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-04-30T00:00:00'
 series_name: Abraham Lincoln's Biography Video
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Michael Johnson of John Hopkins University discusses Lincoln's response to the Kansas-Nebraska Act, including his personal animosity towards Stephen Douglas as a possible motivating factor.

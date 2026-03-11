@@ -15,6 +15,8 @@ author_image_fid: '3427'
 summary: A Cherokee Nation Supreme Court document reveals the fluidity of racial identity.
 splash_image: /files/CherokeeLawSplash.jpg
 author_image: /files/author_image/Malinda_author.jpg
+grade_levels:
+  - high
 ---
 
 

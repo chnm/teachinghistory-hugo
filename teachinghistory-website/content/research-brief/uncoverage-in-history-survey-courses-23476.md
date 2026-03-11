@@ -11,6 +11,9 @@ summary: Teaching historical thinking is challenging in a survey class where stu
   are expected to move quickly through a lot of content.
 splash_image: /files/splash-rb-uncovering.jpg
 image: /files/uncoverage.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

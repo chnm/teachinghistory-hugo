@@ -5,6 +5,10 @@ lastmod: '2017-12-01T14:23:42'
 content_type: tah_grant
 draft: false
 drupal_nid: 24850
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Very few teachers in the Burbank and Glendale, California, districts have history degrees, and history professional development has been hard to get. Also, 64 different languages are spoken in these schools, adding another challenge for teachers whose students have little understanding of the nation’s history. Annual activities will include five after-school workshops, a summer institute or workshop, a spring break or summer field trip, 10 hours of one-on-one lesson development and coaching support, and visits to local museum and archive resources.

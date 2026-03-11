@@ -10,6 +10,8 @@ website_url: http://historicalthinkingmatters.org/scopestrial/1/studentwork/ta1/
 splash_image_fid: '4652'
 summary: Analyzing a source requires context for a more complete understanding.
 splash_image: /files/splah-eoht-cr.jpg
+grade_levels:
+  - high
 ---
 
 

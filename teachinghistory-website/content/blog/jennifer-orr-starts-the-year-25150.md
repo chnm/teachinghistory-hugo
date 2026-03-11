@@ -17,6 +17,8 @@ summary: How do you introduce history and social studies to early elementary stu
 splash_image: /files/startsplash.jpg
 image: /files/startimage.jpg
 author_image: /files/author_image/jennifer-orr_0_0.png
+grade_levels:
+  - elementary
 ---
 
 

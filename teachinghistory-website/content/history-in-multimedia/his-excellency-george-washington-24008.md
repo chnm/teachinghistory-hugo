@@ -9,6 +9,8 @@ duration: 00:41:29
 website_url: http://www.gilderlehrman.org/multimedia#3400
 date_published: '2004-11-15T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
+grade_levels:
+  - high
 ---
 
 From the Gilder Lehrman Institute:

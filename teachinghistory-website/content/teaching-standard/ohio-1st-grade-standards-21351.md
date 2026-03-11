@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21351
+grade_levels:
+  - elementary
 ---
 
 ## Theme: Families Now and Long Ago, Near and Far

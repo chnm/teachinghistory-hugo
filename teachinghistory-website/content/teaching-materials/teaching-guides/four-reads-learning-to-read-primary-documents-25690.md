@@ -16,6 +16,9 @@ summary: Teach your students to read like a historian with this guided four-step
 splash_image: /files/foursplash.jpg
 image: /files/fourimage.jpg
 author_image: /files/author_image/author_faithful.png
+grade_levels:
+  - middle
+  - high
 ---
 
 

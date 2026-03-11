@@ -21,6 +21,8 @@ summary: To most students, "histories" are entirely separate—different civiliz
 splash_image: /files/bridgingthegap432x240.jpg
 image: /files/bridgingthegap113x150.jpg
 author_image: /files/author_image/anthonyarzateauthorimage.jpg
+grade_levels:
+  - high
 ---
 
 

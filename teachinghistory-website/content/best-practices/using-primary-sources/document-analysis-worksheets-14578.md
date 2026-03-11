@@ -11,6 +11,9 @@ splash_image_fid: '4684'
 summary: Find the National Archive's worksheets for analyzing a variety of primary
   sources.
 splash_image: /files/DocumentAnalysis432x240.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

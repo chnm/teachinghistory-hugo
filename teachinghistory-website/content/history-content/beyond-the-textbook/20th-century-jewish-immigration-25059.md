@@ -16,9 +16,24 @@ image_fid: '7878'
 author_image_fid: '8412'
 image: /files/jewishimm_crop.jpg
 author_image: /files/author_image/klapper_pr_photo.jpg
+question: How is Jewish immigration generalized by textbooks?
+summary: '## Jewish Immigration to the United States'
+splash_image: /files/jewishimm_splash.jpg
+splash_image_fid: '7877'
+what_textbooks_say: Some textbook narratives point out large, well-known anti-Semitic
+  groups but fail to examine in detail acts of violence against religious and cultural
+  minorities or the acts those groups took to combat the virulent, unapologetic anti-Semitism.
+what_historians_say: American Jewish history provides a test case for the question
+  of how different the experiences of the “old” and “new” immigrants actually were,
+  with a growing number of historians convinced that the period between 1820 and 1924
+  should more properly be seen as a continuous century of American Jewish migration
+  that saw more structural similarities than discontinuities.
+what_sources_say: A shared wellspring of religious and cultural traditions helped
+  keep even the most contentious elements of the American Jewish community intertwined
+  in some ways. For example, the 1910 Protocol of Peace was negotiated and signed
+  by Jewish communal leaders and lawyers who represented both Jewish garment manufacturers
+  and factory owners, and Jewish workers and labor activists.
 ---
-
-
 
 ## Jewish Immigration to the United States
 

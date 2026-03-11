@@ -15,6 +15,9 @@ splash_image_fid: '4919'
 summary: How to identify the author, audience, date, and message of historical posters.
 splash_image: /files/splash-lpr-slaveryposters.jpg
 image: /files/lesson_image/poster1.jpg
+grade_levels:
+  - elementary
+duration: '1 day'
 ---
 
 

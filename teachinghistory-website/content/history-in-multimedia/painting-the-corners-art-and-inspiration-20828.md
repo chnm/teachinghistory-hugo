@@ -10,6 +10,9 @@ keywords: baseball, sports, entertainment, artists, athletes, athletics
 website_url: http://baseballhall.org/education/school-programs/curriculum/fine-art
 date_published: '2005-10-18T00:00:00'
 series_name: 'National Baseball Hall of Fame and Museum: Electronic Field Trips'
+grade_levels:
+  - elementary
+  - middle
 ---
 
 This Electronic Field Trip looks at the representation of baseball in American popular culture and art.

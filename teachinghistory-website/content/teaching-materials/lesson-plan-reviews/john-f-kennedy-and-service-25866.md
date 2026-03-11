@@ -15,6 +15,9 @@ summary: Students learn about John F. Kennedy and his ideas about service as a p
   to explore what service means in their communities.
 splash_image: /files/JFKwritingSplash.jpeg
 image: /files/lesson_image/JFKwriting_0.jpg
+grade_levels:
+  - middle
+duration: '90 minutes'
 ---
 
 

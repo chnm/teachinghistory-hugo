@@ -12,8 +12,18 @@ author_bio: Rosemarie Zagarri received her PhD from Yale University in 1984. Her
   the American Revolution and the early years of the country.
 author_image_fid: '9297'
 author_image: /files/author_image/zagarri_0_1.jpg
+question: What were the causes of the American Revolution?
+summary: What were the causes of the American Revolution? They were more complicated
+  than you might think!
+splash_image: /files/splash-btt-ar.jpg
+splash_image_fid: '9330'
+what_textbooks_say: Textbooks tend to emphasize a political and military story that
+  makes the American Revolution seem like a unified, logical, and inevitable event.
+what_historians_say: Historians emphasize the diversity of participants, contradictions
+  among their motives, and the variety of long-term causes of the American Revolution.
+what_sources_say: Primary sources reveal the diversity and complexity of the revolutionary
+  movement. There was no single American Revolution, but many different American revolutions.
 ---
-
 
 For the past several decades, historians have deployed new approaches to the study of the American Revolution that have fundamentally reshaped the scholarly explanation for the coming of the American war for independence. Nonetheless, most elementary and middle school American history textbooks continue to portray the pre-revolutionary era as a series of discrete political and military events that culminated, more or less inevitably, in the separation of the North American colonies from Great Britain. Little attention is given to the underlying social conditions or intellectual causes that allowed certain colonists to envision the possibility of independence. Scant emphasis is placed on the diversity of social backgrounds or economic interests that divided white colonists from one another and impeded unity. More recent accounts at least mention the participation of women and enslaved people in revolutionary activities, but few works focus in any sustained fashion on the significance of their participation or on the relationship between inclusion and exclusion in the newly emerging nation.
 

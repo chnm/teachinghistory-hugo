@@ -34,6 +34,10 @@ summary: Come Columbus Day, DC 8th-grade teacher Amy Trenkle introduces her clas
   to the man himself—or, at least, one of the nation's many memorials to him.
 splash_image: /files/splash-blog-at-columbus.jpg
 author_image: /files/author_image/13eb508_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

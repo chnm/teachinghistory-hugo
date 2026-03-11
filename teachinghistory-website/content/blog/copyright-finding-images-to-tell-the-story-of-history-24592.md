@@ -24,6 +24,10 @@ splash_image_fid: '7282'
 summary: Fair use? Public domain? Creative Commons? Find images of history that you
   can use to tell its story, without worrying about fees and fines.
 splash_image: /files/splash-blog-copy.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

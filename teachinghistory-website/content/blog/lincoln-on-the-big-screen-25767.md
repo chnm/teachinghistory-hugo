@@ -15,6 +15,9 @@ summary: How do historians think about films like Steven Spielberg's *Lincoln*? 
 splash_image: /files/3f05217v.jpg
 thumbnail: /files/quiz/fashion_1955.jpg
 image: /files/lincoln_2012_teaser_poster.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -13,6 +13,10 @@ summary: Spring will be here before you know it! Plan ahead to take advantage of
   professional development opportunities.
 splash_image: /files/7641023814_65fc1fdb0c_b.jpg
 image: /files/3682588570_952bdebefb_o.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

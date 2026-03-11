@@ -17,6 +17,10 @@ splash_image_fid: '4965'
 summary: Teachers from Maine demonstrate how biographies enhance their ability to
   stimulate critical thinking across developmental levels.
 splash_image: /files/Teaching_through_Biography_Lessons_-_432x240.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

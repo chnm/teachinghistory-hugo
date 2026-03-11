@@ -15,6 +15,9 @@ summary: Whitman Ridgway outlines some of the context in which the Bill of Right
   was created and arguments surrounding its creation.
 splash_image: /files/billrights.jpeg
 author_image: /files/author_image/ridgway.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

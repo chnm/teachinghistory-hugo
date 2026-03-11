@@ -11,6 +11,8 @@ summary: Elementary teacher Karen Eanes hooks her students with engaging histori
   fiction, art, and primary source excerpts on George Washington's crossing of the
   Delaware.
 splash_image: /files/eanessplash.jpeg
+grade_levels:
+  - elementary
 ---
 
 

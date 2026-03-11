@@ -15,6 +15,8 @@ author_image_fid: '2444'
 summary: The fictional Alphonse the Camel provides insight for one classroom.
 splash_image: /files/Causal_Reasoning_-_432x240.jpg
 author_image: /files/author_image/woodcock.jpg
+grade_levels:
+  - high
 ---
 
 

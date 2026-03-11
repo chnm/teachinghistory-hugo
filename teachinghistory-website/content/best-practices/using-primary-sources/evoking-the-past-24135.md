@@ -21,6 +21,10 @@ author_image_fid: '6195
 summary: When visiting historical sites, sometimes you need a visual/emotional "hook"
   to get students interested.
 splash_image: /files/splash-ups-evoking.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

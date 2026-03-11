@@ -26,6 +26,9 @@ summary: New technology in the classroom means new techniques and challenges. Ei
 splash_image: /files/whiteboardsplash.jpg
 image: /files/whiteboardimage_0.jpg
 author_image: /files/author_image/Amy_Trenkle.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

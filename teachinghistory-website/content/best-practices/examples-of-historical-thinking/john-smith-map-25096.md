@@ -20,6 +20,9 @@ summary: Watch Smithsonian curator Barbara Clark Smith discuss John Smith’s Ma
   Virginia published in London in 1612.
 splash_image: /files/johnsmithsplash.jpg
 author_image: /files/author_image/barbara.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

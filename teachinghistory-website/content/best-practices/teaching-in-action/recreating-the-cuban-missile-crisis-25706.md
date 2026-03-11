@@ -10,6 +10,8 @@ splash_image_fid: '9709'
 summary: Ninth-grade teacher Jamie Kimbrough asked her students to stand in Kennedy's
   shoes. How did they decide to resolve the Cuban Missile Crisis?
 splash_image: /files/jamiesplash_0.jpeg
+grade_levels:
+  - high
 ---
 
 

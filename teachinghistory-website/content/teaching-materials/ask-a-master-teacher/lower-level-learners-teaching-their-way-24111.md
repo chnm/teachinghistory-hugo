@@ -14,6 +14,10 @@ summary: Regularly assess student understanding, and revise your lesson plans to
   the needs of lower level learners.
 splash_image: /files/LowerLevelLearners432x240.jpg
 image: /files/LowerLevelLearner150x113.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

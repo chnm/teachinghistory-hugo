@@ -13,6 +13,8 @@ summary: Link literature and history with activity sets for 18 books and a datab
   of over 270 other books for young readers.
 splash_image: /files/23049_432x240.jpg
 image: /files/website_image/image-ourstory.jpg
+grade_levels:
+  - elementary
 ---
 
 

@@ -15,6 +15,9 @@ summary: Does Facebook in the history classroom take social networking too far? 
 splash_image: /files/FacebookSplash.jpg
 thumbnail: /files/quiz_thumbnail/GardPhotThumbnail.jpg
 image: /files/facebook_1.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

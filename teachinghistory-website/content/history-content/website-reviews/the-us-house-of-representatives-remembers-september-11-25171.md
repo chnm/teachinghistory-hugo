@@ -13,6 +13,9 @@ summary: 9/11 impacted more than just the nation. This repository of oral histor
   video and audio clips reflects the tragedy from personal perspectives.
 splash_image: /files/septsplash.jpg
 image: /files/website_image/septimage.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

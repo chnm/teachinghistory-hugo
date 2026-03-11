@@ -10,6 +10,8 @@ website_url: http://www.bringinghistoryhome.org/
 splash_image_fid: '8058'
 summary: Explore the SOCC analysis technique with this great website.
 splash_image: /files/splash.jpg
+grade_levels:
+  - elementary
 ---
 
 

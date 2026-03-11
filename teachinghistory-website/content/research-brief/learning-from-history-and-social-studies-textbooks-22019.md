@@ -11,6 +11,9 @@ summary: Are your students learning enough from their history textbooks? Connect
   and effect for them.
 splash_image: /files/textbookslearn.jpg
 image: /files/histtextbooks.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

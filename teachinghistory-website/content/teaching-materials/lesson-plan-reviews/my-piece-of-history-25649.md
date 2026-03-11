@@ -15,6 +15,9 @@ summary: Even the recent past was very different from the present. Students anal
   photos from the 1960s and 1970s to identify differences between then and now.
 splash_image: /files/mypiecesplash.jpg
 image: /files/lesson_image/mypieceimage.jpg
+grade_levels:
+  - elementary
+duration: '2-3 Class Sessions'
 ---
 
 

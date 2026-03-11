@@ -11,6 +11,10 @@ summary: What are the connections between student performance on tests and what 
   on in their classrooms?
 splash_image: /files/splash-rb-sols.jpg
 image: /files/historyclass.jpeg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

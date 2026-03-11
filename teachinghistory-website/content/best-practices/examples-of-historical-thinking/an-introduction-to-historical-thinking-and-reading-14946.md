@@ -12,6 +12,8 @@ splash_image_fid: '4553'
 summary: Watch this flash movie for a peek at how historians read and question sources.
 splash_image: /files/Reading-and-Thinking.jpg
 image: /files/ReadingNYPL.jpg
+grade_levels:
+  - high
 ---
 
 

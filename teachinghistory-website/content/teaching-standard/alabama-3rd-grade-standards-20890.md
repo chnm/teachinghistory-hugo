@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 20890
+grade_levels:
+  - elementary
 ---
 
 ## AL.3. Standard: Geographical and Historical Studies—People, Places, and Regions

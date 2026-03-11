@@ -25,6 +25,9 @@ summary: Engrain the APPARTS strategy into young students, and they'll be well o
 splash_image: /files/apsplash.jpg
 image: /files/apimage.jpg
 author_image: /files/author_image/hierl_photo.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

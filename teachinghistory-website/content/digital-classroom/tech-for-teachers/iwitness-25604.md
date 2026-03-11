@@ -17,6 +17,9 @@ summary: Delve into 20th-century history with Holocaust survivor and witness tes
 splash_image: /files/iwitnesssplash.jpg
 image: /files/iwitnessimage.jpg
 author_image: /files/author_image/author_haas.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

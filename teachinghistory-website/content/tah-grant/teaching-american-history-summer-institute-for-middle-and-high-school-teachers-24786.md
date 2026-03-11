@@ -5,6 +5,9 @@ lastmod: '2017-12-01T14:23:42'
 content_type: tah_grant
 draft: false
 drupal_nid: 24786
+grade_levels:
+  - middle
+  - high
 ---
 
 The 42 districts in this consortium sit close to the southern tip of Lake Michigan, almost directly across the lake from Chicago. Twelve districts are high priority; that is, they have schools in need of improvement, corrective action, or restructuring, and teachers from these schools will be recruited first. This project will bring together academic historians and museum curators to lead 10-day summer institutes that incorporate museum visits, experiences with artifacts and primary source documents, and modeling of curriculum and instruction. Activities will include six days of rigorous content instruction, two days of field study in Chicago, one and a half days split among local museum and archives visits, and a final half-day spent working on teacher projects. Two full-day extension sessions will be held in the fall. Each summer, 25 teachers will be recruited into a new cohort, and teachers who complete the activities will receive a stipend or three graduate credits. Content related to the three main topic areas will be linked with larger themes. Teachers will explore how these themes contributed to the development of freedom and democracy. In addition, participating teachers will learn to use data to identify student needs and adjust instruction accordingly. During the summer and fall sessions, each teacher will write a paper that presents a period-appropriate thesis and defend the thesis using historical inquiry. Teachers will convert their research into multimedia lessons/presentations supported by primary sources, literature, and artifacts, and these will be available for all teachers to use.

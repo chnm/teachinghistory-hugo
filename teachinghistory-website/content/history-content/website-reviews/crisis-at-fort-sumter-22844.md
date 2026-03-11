@@ -13,6 +13,8 @@ thumbnail_fid: '4959'
 summary: Work through the Fort Sumter crises alongside our nation's leaders.
 splash_image: /files/splash-wr-sumter.jpg
 image: /files/website_image/SumterInteractive_Image.jpg
+grade_levels:
+  - high
 ---
 
 

@@ -11,6 +11,10 @@ splash_image_fid: '4665'
 summary: 'Beyond Google: effective use of search engines takes careful critical thinking.'
 splash_image: /files/searchengines.jpg
 image: /files/searchenginessm.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

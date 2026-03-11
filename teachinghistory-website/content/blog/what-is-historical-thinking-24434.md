@@ -15,6 +15,10 @@ splash_image_fid: '6945'
 summary: You can use a number of frameworks to help you understand and teach historical
   thinking. Teachinghistory.org's Daisy Martin starts you off.
 splash_image: /files/splash-blog-wiht.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

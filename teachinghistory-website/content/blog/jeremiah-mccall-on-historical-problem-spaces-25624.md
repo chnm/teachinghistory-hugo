@@ -18,6 +18,8 @@ summary: Students solve "problem spaces" when they play video games. Apply "prob
 splash_image: /files/simgamessplash.jpg
 image: /files/simgamesimage.jpg
 author_image: /files/author_image/authorphotojeremiahmccall75x75_2_1_0_0.jpg
+grade_levels:
+  - high
 ---
 
 

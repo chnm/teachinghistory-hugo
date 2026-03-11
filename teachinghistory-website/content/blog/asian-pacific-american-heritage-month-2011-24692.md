@@ -18,6 +18,10 @@ splash_image_fid: '7491'
 summary: Scratch the surface of Asian Pacific American history this May, and keep
   digging.
 splash_image: /files/splash-blog-apa2011.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

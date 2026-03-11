@@ -14,6 +14,8 @@ splash_image_fid: '4973'
 summary: Look for school districts and teachers' shared lists.
 splash_image: /files/splash-longjohnsilver.jpg
 image: /files/HistoricalFictionImage.jpg
+grade_levels:
+  - high
 ---
 
 

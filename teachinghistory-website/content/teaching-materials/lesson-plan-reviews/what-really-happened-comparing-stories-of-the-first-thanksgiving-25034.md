@@ -15,6 +15,11 @@ summary: Take a variety of perspectives into account before moving past the firs
   Thanksgiving.
 splash_image: /files/whatreallyhappened432x240.jpg
 image: /files/lesson_image/whatreallyhappened113x150.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
+duration: 'One-two class sessions'
 ---
 
 

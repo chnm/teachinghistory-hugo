@@ -16,6 +16,9 @@ author_image_fid: '3514'
 summary: One institution, two very different perspectives. An expert contrasts records.
 splash_image: /files/Narratives.jpg
 author_image: /files/author_image/Follett_author.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

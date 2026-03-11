@@ -18,6 +18,8 @@ summary: Want to use digital games in your class? Jeremiah McCall shares five gu
 splash_image: /files/part5splash.jpg
 image: /files/part5image.jpg
 author_image: /files/author_image/authorphotojeremiahmccall75x75_2_1_0.jpeg
+grade_levels:
+  - high
 ---
 
 

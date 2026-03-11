@@ -19,6 +19,9 @@ summary: Is "lecture" a bad word? Or can you make a lecture an active learning e
 splash_image: /files/lecturesplash.jpg
 image: /files/lectureimage.jpg
 author_image: /files/author_image/author_yell.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

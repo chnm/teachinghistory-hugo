@@ -20,6 +20,10 @@ summary: Documentaries can be critiqued on many levels, says Professor Frank Tir
 splash_image: /files/splash-blog-jahjazz.jpg
 image: /files/image-blog-jahjazz.jpg
 author_image: /files/author_image/tirro1.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -17,6 +17,9 @@ summary: Historian Chandra Manning analyzes Civil War letters from black and whi
   Union soldiers and a Confederate soldier.
 splash_image: /files/cwlettersplash.jpg
 author_image: /files/author_image/chandra.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

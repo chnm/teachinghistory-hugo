@@ -15,6 +15,9 @@ spotlight: Not sure how to introduce your students to primary source material? W
   to analyze John White's drawings of the Powhatan and helps them compare and contrast
   the drawings with later engravings based on White's work.
 splash_image: /files/splash-tia-mm.jpeg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

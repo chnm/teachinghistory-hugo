@@ -10,6 +10,10 @@ keywords: First Ladies, pioneers, settlers, entertainment, entertaining, class
 website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-04-30T00:00:00'
 series_name: Abraham Lincoln's Biography Video
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Julie Roy Jeffrey of Goucher College compares the lifestyle of Mary Todd Lincoln, accustomed to middle-class comfort and entertaining, to that of frontierswomen of the same time period.

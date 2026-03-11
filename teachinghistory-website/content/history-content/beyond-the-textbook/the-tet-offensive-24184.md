@@ -12,8 +12,26 @@ author_bio: Fritz Fischer is a Professor of History and Director of History Educ
   Board Outstanding Teacher Award in 2003 and 2006.
 author_image_fid: '6956'
 author_image: /files/author_image/fritz_bio_0.jpg
+question: How significant is the Tet Offensive in the overall narrative of the Vietnam
+  War?
+summary: American historians have depicted the Tet Offensive as the turning point
+  for U.S. involvement in the Vietnam War. An overwhelming number of facts make an
+  alternate case.
+splash_image: /files/vietconggun_splash_0.jpg
+splash_image_fid: '6820'
+what_textbooks_say: Textbooks present the Tet Offensive as the single most important
+  turning point in the Vietnam War. They also argue that the war after Tet was characterized
+  by little more than a wind down of American involvement in Southeast Asia.
+what_historians_say: Historians argue that the Tet Offensive was a significant watershed
+  event in the Vietnam War. However, many historians also point out that the years
+  of U.S. involvement after Tet, 1968-1973, were significant and that the U.S. developed
+  ideas of counterinsurgency during this time period.
+what_sources_say: There is a plethora of previously ignored sources available that
+  illustrate the U.S. turn towards counterinsurgency in the years 1968-1973. These
+  sources suggest that the U.S. military developed this strategy in an attempt to
+  win in Vietnam even after Tet, and this philosophy became the basic structure of
+  much U.S. military thought by the late 20th century.
 ---
-
 
 ## A Complicated Story Simplified
 

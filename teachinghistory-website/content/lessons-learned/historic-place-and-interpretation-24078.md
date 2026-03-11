@@ -18,6 +18,10 @@ summary: Teaching with place involves more than walking students around a battle
   A. Percoco.
 splash_image: /files/localhistory.jpg
 author_image: /files/author_image/Percoco_author.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

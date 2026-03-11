@@ -13,6 +13,8 @@ summary: The Supreme Court is the final law of the land. Uncover its intricacies
   this resource from PBS.
 splash_image: /files/supremecourt432x240.jpg
 image: /files/website_image/supremecourt150x113.jpg
+grade_levels:
+  - high
 ---
 
 

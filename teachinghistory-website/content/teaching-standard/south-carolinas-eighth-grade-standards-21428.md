@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21428
+grade_levels:
+  - middle
 ---
 
 ### SC.8-1. Standard / Course—South Carolina: One of the United States

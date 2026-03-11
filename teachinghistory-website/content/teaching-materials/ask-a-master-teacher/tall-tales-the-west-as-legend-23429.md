@@ -16,6 +16,8 @@ summary: Wrestling bears, surly cowboys, vultures circling lone travelers. . . F
   resources on American myth.
 splash_image: /files/splash-aamt-ww.jpg
 image: /files/RalphEMadsonloc.jpg
+grade_levels:
+  - high
 ---
 
 

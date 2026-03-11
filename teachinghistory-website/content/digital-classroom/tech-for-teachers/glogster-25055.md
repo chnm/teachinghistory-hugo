@@ -12,6 +12,10 @@ splash_image_fid: '10177'
 summary: Glogster—a "posterboard" creator for the digital media age.
 splash_image: /files/glogster-splash.png
 image: /files/glogster.png
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

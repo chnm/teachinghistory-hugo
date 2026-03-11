@@ -5,6 +5,10 @@ lastmod: '2017-12-01T14:23:42'
 content_type: tah_grant
 draft: false
 drupal_nid: 24826
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Seven central Texas school districts within the Education Service Center Region 12 service area have formed a consortium to deliver targeted services to nine elementary and secondary schools that have not achieved Adequate Yearly Progress. Through the *Lyndon B. Johnson Liberty Fellowship* program, consortium teachers of American history in Grades 5, 8, and 11 will be prepared to teach American history as a distinct subject. Annual professional development activities will include a 5-day summer institute, a 2-day fall colloquium, a 3-day winter colloquium, and a 2-day field-study trip. Teachers will also view the American Institute for History Education's monthly Talking History webinars and participate in regular half-day research/lesson development sessions throughout the year. The program will serve 40 fellows, including five seasoned veterans who will serve as teacher-leader content specialists and conduct turnkey sessions for history teachers in all nine schools. A guiding theme woven into fellows' research and instruction will be how geography, economics, and political thought contributed to events in American History. Instructional strategies will incorporate the Understanding by Design approach to constructing lessons, the American Institute for History Education's Twelve Effective Steps to Optimum Teaching, and thereNow's IRIS, which will allow coaches and trusted peers to watch teachers deliver lessons in real time and make constructive comments about the lesson as it happens. Based on their research and training, teachers will create historical narratives, lessons, virtual field tours, and innovative activities to be shared with other history teachers via a Web site.

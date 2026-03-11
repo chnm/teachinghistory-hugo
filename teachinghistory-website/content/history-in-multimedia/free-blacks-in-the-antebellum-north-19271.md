@@ -12,6 +12,10 @@ keywords: slaves, race, racism, race relations, the North, antebellum, free blac
 website_url: http://lincoln.lib.niu.edu/themevideo.html
 date_published: '2008-05-14T00:00:00'
 series_name: African-American Experience Video
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Michael Johnson of the John Hopkins University discusses the lives and origins of free African Americans in the North prior to the Civil War, looking particularly at the Northern reaction to the Fugitive Slave Law.

@@ -19,6 +19,9 @@ summary: So you know you love teaching history, but do you know the history behi
   teaching history?
 splash_image: /files/historyofteachingsplash.jpg
 image: /files/historyofteachingimage.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21492
+grade_levels:
+  - elementary
 ---
 
 ### Strand / Topic: Introduction to History and Social Science

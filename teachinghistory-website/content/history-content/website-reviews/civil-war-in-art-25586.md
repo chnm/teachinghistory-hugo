@@ -13,6 +13,9 @@ summary: Why did the painter frame Lincoln in greenery? Learn about interpretati
   of the Civil War through period and recent works of art.
 splash_image: /files/civilwarinart432x240.jpg
 image: /files/website_image/civilwarinart113x150.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

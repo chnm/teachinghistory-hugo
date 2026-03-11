@@ -12,6 +12,10 @@ splash_image_fid: '7427'
 summary: Discover a whole new world of mapping and geography with Google Maps!
 splash_image: /files/GoogleMapSplash.jpg
 image: /files/GoogleImage.gif
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

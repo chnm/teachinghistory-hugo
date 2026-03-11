@@ -130,6 +130,10 @@ author_image_fid: '6219'
 splash_image: /files/writing_image1.jpg
 image: /files/writing_image2_0.jpg
 author_image: /files/author_image/enright_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

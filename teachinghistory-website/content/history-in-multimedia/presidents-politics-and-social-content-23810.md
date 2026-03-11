@@ -9,6 +9,10 @@ duration: 00:52:28
 website_url: http://www.smithsonianconference.org/apollo/session3/
 date_published: '2010-11-10T00:00:00'
 series_name: Apollo Space Program Online Conference
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 From the Smithsonian National Air and Space Museum website:

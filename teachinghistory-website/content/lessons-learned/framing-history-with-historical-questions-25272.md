@@ -28,6 +28,10 @@ summary: Is your history curriculum based on abstract concepts? Learn how the No
   Nevada TAH Project team streamlined lesson plans with essential questions (EQs).
 splash_image: /files/nvsplash.jpg
 image: /files/nvimage_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

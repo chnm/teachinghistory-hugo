@@ -14,6 +14,8 @@ splash_image_fid: '7202'
 summary: Bring history to life with Skype and other digital technologies.
 splash_image: /files/skypelecture.jpg
 image: /files/lesson_image/espforteach_crop.jpg
+grade_levels:
+  - elementary
 ---
 
 

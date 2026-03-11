@@ -21,6 +21,9 @@ splash_image: /files/TrampingThroughHistorySplash.jpg
 thumbnail: /files/author_image/frank_author_0.jpg
 image: /files/Tramping-Through-150x113.jpg
 author_image: /files/author_image/PercocoBioImage.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

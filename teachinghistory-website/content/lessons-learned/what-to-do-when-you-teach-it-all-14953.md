@@ -14,6 +14,9 @@ splash_image_fid: '4963'
 summary: Teaching American History (TAH) has been an exciting opportunity for me in
   several ways. . .
 splash_image: /files/What_to_Do_When_You_Teach_It_All_-_432x240.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

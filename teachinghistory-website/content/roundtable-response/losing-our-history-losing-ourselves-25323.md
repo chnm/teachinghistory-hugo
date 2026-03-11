@@ -14,6 +14,9 @@ summary: A nation without history is but an empty shell. The present state of hi
   in the elementary schools is in danger of becoming an empty shell despite the efforts
   of effective, dedicated teachers.
 author_image: /files/author_image/leichtle_author.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

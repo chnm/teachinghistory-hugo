@@ -17,6 +17,10 @@ summary: Historian Rosemarie Zagarri reads the Declaration of Independence close
   taking time to define its context and its effects.
 splash_image: /files/decsplash.jpg
 author_image: /files/author_image/zagarri.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

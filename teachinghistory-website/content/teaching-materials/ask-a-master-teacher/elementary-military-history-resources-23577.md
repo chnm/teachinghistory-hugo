@@ -23,6 +23,8 @@ splash_image_fid: '4932'
 summary: You don't have to wait until middle school to teach military history.
 splash_image: /files/splash-aamt-milit.jpg
 image: /files/ChildrenMilitaryImage.jpg
+grade_levels:
+  - elementary
 ---
 
 

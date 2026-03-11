@@ -9,6 +9,10 @@ website_url: http://www.lkwdpl.org/wihohio/
 splash_image_fid: '3605'
 summary: What if you could meet Clara Barton? Josephine Baker? Who says you can't!
 splash_image: /files/WomeninHistM2SplshNYPL.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

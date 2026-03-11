@@ -87,6 +87,9 @@ author_image_fid: '8916'
 splash_image: /files/representationssplash.jpg
 image: /files/representationimage.jpg
 author_image: /files/author_image/author_kovacic.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

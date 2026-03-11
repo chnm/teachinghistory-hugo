@@ -13,6 +13,10 @@ summary: Catchy primary sources? You bet! With the Library of Congress's Nationa
   Jukebox, get your students humming history.
 splash_image: /files/splash-blog-nationaljukebox.jpg
 image: /files/image-blog-nationaljukebox.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

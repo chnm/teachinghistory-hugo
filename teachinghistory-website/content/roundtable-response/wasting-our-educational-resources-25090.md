@@ -14,6 +14,10 @@ author_image_fid: '8138'
 summary: Do we dare take a new direction with the authorship and delivery of educational
   resources? We cannot afford not to.
 author_image: /files/author_image/author-khosla.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

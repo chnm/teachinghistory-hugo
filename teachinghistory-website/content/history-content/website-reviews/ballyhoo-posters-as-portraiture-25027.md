@@ -13,6 +13,10 @@ summary: Think of all the celebrity advertisements you see everyday. Why pick th
   particular person for that particular poster?
 splash_image: /files/ballyhoopostersas432x240.jpg
 image: /files/website_image/ballyhoopostersas113x150_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

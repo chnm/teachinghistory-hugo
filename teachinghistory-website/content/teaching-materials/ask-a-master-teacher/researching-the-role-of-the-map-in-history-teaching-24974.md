@@ -20,6 +20,9 @@ summary: Need to understand the theory behind maps as a history education tool? 
 splash_image: /files/researchingtherole432x240.jpg
 image: /files/researchingtherole150x113.jpg
 author_image: /files/author_image/authorphotojanekon_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

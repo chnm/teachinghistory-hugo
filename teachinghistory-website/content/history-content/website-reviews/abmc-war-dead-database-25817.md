@@ -13,6 +13,9 @@ summary: Features over 224,000 records of individuals buried or memorialized in 
   cemeteries and memorials worldwide.
 splash_image: /files/abmcsplash.jpg
 image: /files/website_image/abmc-seal-footer.png
+grade_levels:
+  - middle
+  - high
 ---
 
 

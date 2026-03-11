@@ -15,6 +15,10 @@ summary: Introduce students to the importance of oral history while simultaneous
   teaching them about 20th-century labor unions.
 splash_image: /files/cottonlaborsplash.jpg
 image: /files/lesson_image/cottonlaborimage.jpg
+grade_levels:
+  - middle
+  - high
+duration: '3-4 Class Sessions'
 ---
 
 

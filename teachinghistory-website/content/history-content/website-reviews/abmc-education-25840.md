@@ -11,6 +11,9 @@ website_url: https://abmceducation.org/
 splash_image_fid: '10185'
 summary: Classroom activities for teaching aspects of World War I and World War II.
 splash_image: /files/ActivityImage-FreddieStowers.png
+grade_levels:
+  - middle
+  - high
 ---
 
 

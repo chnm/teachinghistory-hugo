@@ -21,6 +21,9 @@ summary: Do more than read the news—assess it, with the help of NewsTrust's co
 splash_image: /files/splash-tft-newstrust.jpg
 image: /files/image-tft-newstrust.jpg
 author_image: /files/author_image/dlaufenberg1_2.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

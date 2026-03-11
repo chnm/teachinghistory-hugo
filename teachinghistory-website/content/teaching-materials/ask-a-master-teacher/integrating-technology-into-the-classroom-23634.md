@@ -15,6 +15,10 @@ spotlight: Tired of ho-hum lesson plans? Want to add a little spark to your teac
   integrating technological resources. Who says history has to stay in the past?
 splash_image: /files/splash-aamt-tic.jpg
 image: /files/ClassroomTechImage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -20,6 +20,9 @@ summary: Political cartoons are often conceptually complex, but offer valuable i
 splash_image: /files/UnderstandingPoli.jpg
 image: /files/carimg.jpg
 author_image: /files/author_image/burak_1_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

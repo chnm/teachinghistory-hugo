@@ -11,6 +11,10 @@ image_fid: '6649'
 summary: Choose from more than 3,000 primary sources and seven activity modules to
   make your own interactive online lessons.
 image: /files/blog-docsteach_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

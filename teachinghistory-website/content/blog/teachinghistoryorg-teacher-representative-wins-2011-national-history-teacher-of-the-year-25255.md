@@ -12,6 +12,8 @@ image_fid: '8385'
 summary: Congratulations to Stacy Hoeflich, the 2011 National History Teacher of the
   Year!
 image: /files/mrc_thumb.jpg
+grade_levels:
+  - elementary
 ---
 
 

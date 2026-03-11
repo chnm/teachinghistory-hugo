@@ -8,6 +8,9 @@ drupal_nid: 24047
 duration: 00:03:07
 website_url: http://www.the-map-as-history.com/demos/tome06/index.php
 date_published: '2010-01-01T00:00:00'
+grade_levels:
+  - middle
+  - high
 ---
 
 This animated presentation from [The Map as History](http://www.the-map-as-history.com/) visualizes the domino effect of alliances that led Europe and the U.S. into World War I, following the assassination of Archduke Franz Ferdinand.

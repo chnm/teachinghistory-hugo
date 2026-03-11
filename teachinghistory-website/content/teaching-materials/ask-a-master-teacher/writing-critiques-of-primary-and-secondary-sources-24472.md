@@ -15,6 +15,9 @@ splash_image_fid: '7067'
 summary: Unsure how to properly critique sources? Check out these guidelines.
 splash_image: /files/critiquesplash.jpg
 image: /files/critiqueimage.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

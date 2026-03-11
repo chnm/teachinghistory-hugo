@@ -17,6 +17,10 @@ summary: Tired of using up rolls of butcher paper on making timelines? High-scho
 splash_image: /files/splash-blog-timeline.jpg
 image: /files/image-blog-timeline.jpg
 author_image: /files/author_image/Author_Photo_Joseph_Jelen_75x75.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

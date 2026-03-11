@@ -14,6 +14,10 @@ spotlight: Maps are excellent primary and secondary sources that provide us with
   and interpret maps by introducing them to the basic concepts discussed on this website
   early and often.
 splash_image: /files/MakingSenseMapsSplash.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

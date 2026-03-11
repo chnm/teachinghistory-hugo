@@ -15,6 +15,9 @@ summary: Being a successful history teacher also necessarily involves being an e
   teacher, and putting teachers in the role of students can have brilliant consequences
   when mixed with new content.
 splash_image: /files/Learning_From_Lesson_Plans_-_432x240.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -15,6 +15,10 @@ summary: From Chinese immigrants to the Golden Spike, explore the history of the
   railroad.
 splash_image: /files/TeachingTrans432x240.jpg
 image: /files/TeachingtheTranscontinental150x113.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

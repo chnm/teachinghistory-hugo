@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21186
+grade_levels:
+  - elementary
 ---
 
 *Grade four departs from the approach in the primary years (an approach that placed equal emphasis on each the social studies disciplines) to a more discipline-centered approach. A “lead discipline” is featured in each of grades four through eight. In grade four, the lead discipline is geography, focusing on political geography and the cultural landscape of North America. Students master the understandings that lay the geographical foundation for the interdisciplinary Minnesota, United States, and Global Studies courses to follow in the middle grades. They create and use various kinds of maps to identify the physical and human characteristics of places, examine regions in different locations and time periods, and analyze patterns and trends in the United States, Mexico and Canada. They learn about tribal government and develop a better understanding of the multiple players involved in the United States government (political leaders and the public) and the economy (buyers and sellers in a market). Students practice a reasoned decision-making process to make choices—an important building block for their understanding of personal finance that will be developed in later grades.*

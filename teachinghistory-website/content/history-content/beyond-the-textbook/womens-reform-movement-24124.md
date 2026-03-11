@@ -10,8 +10,31 @@ author_bio: Ronald Walters is a Professor of History at Johns Hopkins University
   a special interest in radicalism, reform, race, and popular culture.
 author_image_fid: '6164'
 author_image: /files/author_image/Walters_author.jpg
+question: Were the voices of all women involved in the Women's Rights Movement represented
+  in the 1848 Seneca Falls Declaration of Sentiments?
+summary: The Seneca Falls Declaration of Sentiments in 1848 reflected the voices of
+  all supporters of women's rights—didn't it?
+splash_image: /files/splash-btt-womenmove.jpg
+splash_image_fid: '6168'
+what_textbooks_say: According to many textbooks, economic, cultural, social, and religious
+  changes in the antebellum period led to new roles for women and new views about
+  their "proper sphere." Women responded in a variety of ways, among them by participation
+  in reform movements. One of these, antislavery, encouraged women to examine their
+  own rights (or lack of rights) as well as those of slaves. A major result was a
+  convention in Seneca Falls, NY, in 1848 that produced a bold Declaration of Sentiments
+  attacking the oppression of women.
+what_historians_say: Historians suggest that to focus on Seneca Falls and the Women's
+  Rights Movement that followed, however, obscures differences among women by class,
+  religion, race, and other factors. To emphasize the call for voting rights in the
+  Declaration of Sentiments, moreover, diminishes the large number of other issues
+  reformers confronted and the experiences, needs, and concerns of women other than
+  the mostly middle-class ones prominent in reform movements.
+what_sources_say: In addition to painting a richer, more complex picture of women's
+  activism (and opposition to it), primary sources convey a sense of the passion Americans
+  brought to debates over women's roles and rights. Although often carried out in
+  the languages of religion, political theory, and human rights, these debates were
+  also intensely personal.
 ---
-
 
 A common story runs through textbook accounts of antebellum women reformers. It is a tale of origins and future progress, of new roles for women and the beginning of a movement for gender equality stretching to the present day. This story's usual starting point is the enormous amount of social, economic, demographic, and cultural change that occurred between 1815 and the Civil War. Exactly how the antebellum transformation of America produced an antislavery and a women's rights movement is often vague in textbook accounts, but three things commonly receive attention.
 

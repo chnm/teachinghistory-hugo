@@ -23,6 +23,10 @@ summary: Chances are, you can use blogging in your classroom. Maybe you're convi
   Amy Trenkle shows that blogs may be more flexible than you think!
 splash_image: /files/splash-blog-atblogging.jpg
 author_image: /files/author_image/13eb508_0_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

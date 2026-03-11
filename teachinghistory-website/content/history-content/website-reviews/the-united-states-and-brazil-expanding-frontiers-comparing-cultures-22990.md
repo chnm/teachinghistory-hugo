@@ -14,6 +14,8 @@ summary: How are Brazil and the U.S. similar? How are they different?
 splash_image: /files/splash-wr-brazil.jpg
 thumbnail: /files/btt-autos-cars.jpg
 image: /files/website_image/USBrazImage.jpg
+grade_levels:
+  - high
 ---
 
 

@@ -16,6 +16,9 @@ summary: Did Revere's ride really look like that? Use historical documents to an
   flights of artistic fancy.
 splash_image: /files/PReverebandw.jpg
 image: /files/lesson_image/wood_lesson.jpg
+grade_levels:
+  - high
+duration: '1-3 days'
 ---
 
 

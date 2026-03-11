@@ -17,6 +17,9 @@ summary: Donald A. Ritchie, Historian of the U.S. Senate, asks how a political c
   captures a moment of change in the 1932 presidential campaign.
 splash_image: /files/maine.jpeg
 author_image: /files/author_image/2010_-_oah_-_author_image_-_don_ritchie_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

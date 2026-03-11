@@ -8,6 +8,10 @@ drupal_nid: 25087
 splash_image_fid: '7959'
 summary: Instant updating? Access inequality? Experts weigh the pros and cons.
 splash_image: /files/digitaltextbookshas432x240.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

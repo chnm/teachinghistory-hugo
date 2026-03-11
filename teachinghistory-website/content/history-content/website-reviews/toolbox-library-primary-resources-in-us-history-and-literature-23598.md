@@ -15,6 +15,9 @@ summary: Eight "toolboxes" enable secondary teachers to enhance existing U.S. Hi
 thumbnail: /files/Dance_0.jpg
 splash_image: /files/_Toolbox_Library-_Primary_Resources_in_U.S._History_and_Literature_432x240.jpg
 image: /files/website_image/Toolbox-1.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

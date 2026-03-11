@@ -14,6 +14,9 @@ summary: Opening lines of communication at the state or regional level encourage
   the sharing of best practices, offers support to TAH directors new and old, and
   strengthens the overall TAH community . . .
 splash_image: /files/Building_a_Statewide_Community_-_432x240.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

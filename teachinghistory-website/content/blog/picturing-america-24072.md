@@ -10,6 +10,10 @@ date_published: '2010-06-03T00:00:00'
 image_fid: '5130'
 summary: Visit *Picturing America* from the National Endowment for the Humanities.
 image: /files/picturing_america1.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

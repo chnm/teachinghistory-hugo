@@ -29,6 +29,9 @@ image_fid: '6183'
 splash_image_fid: '6172'
 splash_image: /files/HTM_432x240.jpg
 image: /files/htm_small_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

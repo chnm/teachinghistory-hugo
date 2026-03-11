@@ -18,6 +18,8 @@ summary: Whichever lesson you pick, make sure it meets your learning goals.
 splash_image: /files/SettingtheTone432x240.jpg
 image: /files/SettingtheTone113x150.jpg
 author_image: /files/author_image/Fogo_crop_1.jpg
+grade_levels:
+  - high
 ---
 
 

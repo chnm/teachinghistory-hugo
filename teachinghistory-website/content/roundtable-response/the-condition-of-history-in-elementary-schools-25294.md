@@ -13,6 +13,9 @@ summary: Our best hope is that current and future teachers become critical consu
   of state standards and district-sponsored materials and see themselves as “smugglers”
   of good history back into the school day.
 author_image: /files/author_image/author_swalwell.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

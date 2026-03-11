@@ -11,6 +11,9 @@ summary: Do your students struggle with reading history texts? This instructiona
   approach helps students of all abilities make sense of different types of texts.
 splash_image: /files/boys_reading_splash.jpg
 image: /files/adolread.jpeg
+grade_levels:
+  - middle
+  - high
 ---
 
 

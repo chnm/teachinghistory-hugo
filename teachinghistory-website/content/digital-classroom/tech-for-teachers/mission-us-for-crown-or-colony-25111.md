@@ -17,6 +17,10 @@ summary: Immerse your students in the 1770s with this online game.
 splash_image: /files/revolutionsplash.jpg
 image: /files/revolutionimage.jpg
 author_image: /files/author_image/authorphotojeremiahmccall75x75_1.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

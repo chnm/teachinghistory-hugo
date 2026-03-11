@@ -19,6 +19,9 @@ summary: How can pre-service experience better serve new U.S. history teachers? 
 splash_image: /files/splash-blog-aptechexp1.jpg
 image: /files/image-blog-apstudentteach.jpg
 author_image: /files/author_image/Pellegrino_Image_0.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

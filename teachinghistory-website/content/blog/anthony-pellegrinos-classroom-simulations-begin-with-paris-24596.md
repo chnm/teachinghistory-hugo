@@ -18,6 +18,9 @@ summary: Re-enact the Paris Peace Conference with your students, and let them ex
 splash_image: /files/parissplash.jpg
 image: /files/parisimage.jpg
 author_image: /files/author_image/Pellegrino_Image_2.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -12,6 +12,10 @@ keywords: Sauk, Sauks, Native Americans, Black Hawk War, race, racism, race rela
 website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-05-09T00:00:00'
 series_name: Lincoln and Black Hawk
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 Produced by Jeffrey Chown of the Northern Illinois University Department of Communication, this documentary chronicles the Black Hawk War of 1832, looking also at the events that led up to it and its repercussions. It focuses on the roles of Sauk war chief Black Hawk and a young Abraham Lincoln. The documentary is divided into 18 short downloadable videos.

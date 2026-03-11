@@ -10,6 +10,10 @@ splash_image_fid: '4599'
 summary: Come to Texas (or visit online) to discover Louisiana, Texas, Arkansas, and
   Oklahoma history.
 splash_image: /files/NARASouthwest.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

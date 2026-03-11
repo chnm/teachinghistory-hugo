@@ -6,6 +6,10 @@ content_type: historical_site
 draft: false
 drupal_nid: 24583
 website_url: http://www.brookgreen.org/
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 In 1931 Archer and Anna Hyatt Huntington founded Brookgreen Gardens, a non-profit 501(c) (3) garden museum, to preserve the native flora and fauna and display objects of art within that natural setting.

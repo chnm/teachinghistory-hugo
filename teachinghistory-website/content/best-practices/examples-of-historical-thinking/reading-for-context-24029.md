@@ -12,6 +12,8 @@ summary: If students lack historical context, they can miss the substance of a r
   Watch a high school sophomore use what he knows about the 1950s and 1960s to approach
   a diary extract.
 splash_image: /files/splash-eoht-br.jpg
+grade_levels:
+  - high
 ---
 
 

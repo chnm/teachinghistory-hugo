@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21185
+grade_levels:
+  - elementary
 ---
 
 *In grade three, students expand and deepen their knowledge in the four social studies disciplines of citizenship and government, economics, geography and history. By applying basic concepts in each discipline to complex communities and environments near and far, students begin to understand the social, economic, geographic and political aspects of life in the world beyond our state and nation. They create and interpret simple maps, using them to understand the physical and human characteristics of places around the world, from one’s neighborhood to vast regions of the earth. As students examine the world of long ago through historical records, maps and artifacts, they discover how geographic factors, technology, and individual and group actions have shaped history. Students practice weighing the costs and benefits in making decisions, and examine the economic forces that influence interactions among individuals in a community. They further explore the civic relationship between an individual and the community in the United States in which he or she lives, the three branches of government, and the functions and funding of government.*

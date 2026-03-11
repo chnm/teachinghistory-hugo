@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21189
+grade_levels:
+  - middle
 ---
 
 *Grade seven features history as the lead discipline with a strong

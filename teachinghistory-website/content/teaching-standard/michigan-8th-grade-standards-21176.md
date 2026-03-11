@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21176
+grade_levels:
+  - middle
 ---
 
 * ### MI.F1. Strand / Standard Category: Integrated United States History - Foundations in United States History and Geography Eras 1-3 - Political and Intellectual Transformations

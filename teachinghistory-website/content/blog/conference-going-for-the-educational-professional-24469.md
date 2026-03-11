@@ -13,6 +13,10 @@ summary: Considered attending a conference for professional development? Here ar
   some suggestions on where to look and what to look for!
 splash_image: /files/splash-blog-conferences11.jpg
 image: /files/image-blog-conferences11.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

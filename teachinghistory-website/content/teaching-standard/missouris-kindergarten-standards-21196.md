@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21196
+grade_levels:
+  - elementary
 ---
 
 * ### MO.PC.1. Strand: Big Idea / Standard: Principles of Constitutional Democracy

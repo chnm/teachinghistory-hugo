@@ -13,6 +13,8 @@ summary: Invite young students into colonial history with the stories of childre
   from three very different families.
 splash_image: /files/splash-london-town.jpg
 image: /files/website_image/image-london-town.jpg
+grade_levels:
+  - elementary
 ---
 
 

@@ -13,6 +13,9 @@ summary: This website contains a vast collection of resources on Texas history a
   culture.
 splash_image: /files/txsplash.jpg
 image: /files/website_image/tximage.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

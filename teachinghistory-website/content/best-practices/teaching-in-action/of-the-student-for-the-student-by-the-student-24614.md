@@ -11,6 +11,8 @@ splash_image_fid: '7316'
 summary: Sixth graders in Prince William County film their interpretations of the
   First Battle of Manassas.
 splash_image: /files/manassassplash.jpeg
+grade_levels:
+  - middle
 ---
 
 

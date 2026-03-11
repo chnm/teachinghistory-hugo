@@ -15,6 +15,9 @@ summary: Through the lens of documents concerning the Iran-Contra Affair, this l
   enables students to examine how audience and purpose affect a document’s contents.
 splash_image: /files/iranaffairsplash.jpg
 image: /files/lesson_image/iranaffairimage.jpg
+grade_levels:
+  - high
+duration: '90-minute period or more depending on how much experience the students have had before this lesson'
 ---
 
 

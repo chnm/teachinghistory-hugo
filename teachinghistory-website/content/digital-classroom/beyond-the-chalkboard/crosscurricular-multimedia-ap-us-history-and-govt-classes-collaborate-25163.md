@@ -44,6 +44,8 @@ image_fid: '8133'
 splash_image_fid: '8132'
 splash_image: /files/splash-btc-halla.jpeg
 image: /files/image-btc-ap.jpeg
+grade_levels:
+  - high
 ---
 
 

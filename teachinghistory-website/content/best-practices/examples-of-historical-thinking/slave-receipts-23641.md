@@ -17,6 +17,9 @@ summary: What do slave receipts reveal? Ever considered using similar documents 
   teach?
 splash_image: /files/SlaveReceiptsSplash.jpg
 author_image: /files/author_image/thurston_1.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

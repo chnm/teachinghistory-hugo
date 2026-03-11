@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21183
+grade_levels:
+  - elementary
 ---
 
 *Students in grade one learn basic concepts and skills related to the four social studies disciplines of citizenship and government, economics, geography and history. They expand their understanding of America’s civic identity, determine characteristics of effective rules and demonstrate ways for citizens to participate in civic life. Their exploration of the federal government begins with the elected office of president. Fundamental geography skills are introduced including making sketch maps of places and comparing their physical and human characteristics, and identifying locations. Students practice basic historical inquiry skills by asking questions, constructing a timeline, and examining simple records and artifacts. They build their knowledge of the past by comparing family life, buildings and other technologies from earlier times to today. Students acquire a basic understanding of the economic concepts of scarcity and trade, and weigh the costs and benefits of simple alternative choices.*

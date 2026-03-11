@@ -10,6 +10,9 @@ splash_image_fid: '9610'
 summary: Students in Kristina Frank of Eagle Ridge Middle School's class script and
   film their own presidential campaign ads.
 splash_image: /files/franksplash.jpeg
+grade_levels:
+  - middle
+  - high
 ---
 
 

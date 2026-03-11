@@ -3,7 +3,7 @@ title: Huey Long
 date: '2010-04-02T15:30:01'
 lastmod: '2017-12-05T08:43:31'
 content_type: beyond_the_textbook
-draft: false
+draft: true
 drupal_nid: 23918
 question: During the Great Depression and New Deal, Louisiana governor and U.S. Senator
   Huey Long (1893–1935) promised an end to poverty. How did he plan to realize this
@@ -13,7 +13,6 @@ splash_image_fid: '4449'
 summary: How exactly did U.S. Senator Huey Long intend to end poverty across the U.S.?
 splash_image: /files/splash-hueylong.jpg
 ---
-
 
 ## What Textbooks Say
 

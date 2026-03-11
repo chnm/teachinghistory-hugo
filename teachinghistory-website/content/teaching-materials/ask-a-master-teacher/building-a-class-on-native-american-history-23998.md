@@ -16,6 +16,10 @@ summary: Museums, colleges, and tribes are invaluable for gathering course-build
   materials on Native American history.
 splash_image: /files/NatAmCourse.jpg
 image: /files/NatAmCourse150x113.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

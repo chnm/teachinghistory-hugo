@@ -17,6 +17,8 @@ summary: AP U.S. History teacher Scott Campbell and his students use Twitter to 
 splash_image: /files/tweetsplash.jpg
 image: /files/twitter_image.png
 author_image: /files/author_image/author_campbell.png
+grade_levels:
+  - high
 ---
 
 

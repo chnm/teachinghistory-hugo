@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21420
+grade_levels:
+  - elementary
 ---
 
 - ### SC.K-1. Standard / Course—Foundations of Social Studies: Children as Citizens

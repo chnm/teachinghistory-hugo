@@ -15,6 +15,8 @@ author_image_fid: '1531'
 summary: Trying to promote more productive and engaging discussions?
 splash_image: /files/Exploring_Historical_Texts_-_432x240.jpg
 author_image: /files/author_image/avram.jpg
+grade_levels:
+  - high
 ---
 
 

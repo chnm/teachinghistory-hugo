@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 20945
+grade_levels:
+  - elementary
 ---
 
 ## CO.1. Standard: History

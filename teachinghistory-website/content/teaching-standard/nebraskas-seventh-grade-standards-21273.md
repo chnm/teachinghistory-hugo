@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21273
+grade_levels:
+  - middle
 ---
 
 * ### NE.8.1. Content Standard: United States History

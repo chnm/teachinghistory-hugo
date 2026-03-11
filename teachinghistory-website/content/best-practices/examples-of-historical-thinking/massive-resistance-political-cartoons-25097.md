@@ -19,6 +19,9 @@ summary: Watch J. Douglas Smith discuss the Massive Resistance policy enacted by
   Senator, Harry F. Byrd, Sr., in 1956.
 splash_image: /files/massressplash.jpg
 author_image: /files/author_image/dougsmith.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

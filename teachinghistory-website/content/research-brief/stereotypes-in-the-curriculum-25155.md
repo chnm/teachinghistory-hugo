@@ -11,6 +11,10 @@ summary: Discover the influence popular culture and dominant narratives can have
   your curriculum and learn how to avoid stereotyping.
 splash_image: /files/nativesplash.jpg
 image: /files/indianimage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

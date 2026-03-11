@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 20894
+grade_levels:
+  - middle
 ---
 
 ## AL.6 Standard: United States Studies—Industrial Revolution to the Present

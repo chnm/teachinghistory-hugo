@@ -20,6 +20,9 @@ splash_image_fid: '4953'
 summary: Finding resources to teach local history in elementary classrooms.
 splash_image: /files/splash-aamt-local.jpg
 image: /files/LocalHistoryImage.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

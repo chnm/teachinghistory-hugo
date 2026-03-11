@@ -13,6 +13,9 @@ summary: Congratulations to National History Day for winning the 2011 National H
   Medal!
 splash_image: /files/splash-blog-nhdaward.jpg
 image: /files/image-blog-nhdaward.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

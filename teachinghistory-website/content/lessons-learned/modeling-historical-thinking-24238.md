@@ -24,6 +24,10 @@ summary: In their TAH grant project, professors John Bieter and Kathleen Budge e
   5th, 9th, and 11th-grade teachers to adopt the thinking habits of historians and
   approach history as problem-solvers.
 splash_image: /files/splash-ll-bieterbudge.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

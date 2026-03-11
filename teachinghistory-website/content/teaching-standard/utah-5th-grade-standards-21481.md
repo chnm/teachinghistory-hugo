@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21481
+grade_levels:
+  - elementary
 ---
 
 In the fifth grade, students will enlarge the study of history, government, economics, and geography as they study the United States. There is neither an intention nor a possibility of successful "coverage" of all of United States history and geography or all of the social, economic, and political movements that have helped create the story of America. Rather, students should "discover" and "uncover" this story, with attention to the overarching concepts of global interconnectedness, the processes of continuity and change over time, the rights and responsibilities we all share, and the systems of power, authority, and governance we create. Primary source documents and literature that recounts the stories of exemplary character and life skills will help students understand their own place in the continuing saga of America.

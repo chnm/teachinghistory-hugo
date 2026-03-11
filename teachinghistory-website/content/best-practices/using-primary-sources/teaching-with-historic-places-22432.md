@@ -18,6 +18,9 @@ author_image_fid: '1300'
 summary: Looking for new ideas on how to teach with the historic places in your community?
 splash_image: /files/HistPlaces2Splash2.jpg
 author_image: /files/author_image/NPS.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

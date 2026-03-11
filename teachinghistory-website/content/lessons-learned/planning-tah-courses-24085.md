@@ -17,6 +17,8 @@ summary: Speaking from years of experience, Gerri Hayes talks about planning TAH
   professional development courses for high school educators.
 splash_image: /files/tahcourses.jpg
 author_image: /files/author_image/Hayes_author.jpg
+grade_levels:
+  - high
 ---
 
 

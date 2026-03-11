@@ -15,6 +15,9 @@ summary: Navigate census data from 1940 to 2000 using interactive maps.
 splash_image: /files/SocialExplorerSplash.jpg
 thumbnail: /files/website_image/EarlRadiImage.jpg
 image: /files/SocialExplorerImage.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

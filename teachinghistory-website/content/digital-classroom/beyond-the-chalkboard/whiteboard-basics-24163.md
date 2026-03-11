@@ -27,6 +27,9 @@ image_fid: '6272'
 splash_image_fid: '6271'
 splash_image: /files/splash-wr-ict2.jpeg
 image: /files/image-btc-ict1.jpeg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

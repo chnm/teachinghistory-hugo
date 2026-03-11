@@ -13,6 +13,9 @@ splash_image_fid: '6234'
 summary: Teaching the beginning of the Civil War? Even without a visit to the site,
   walking tours of battlefields, like First Manassas, can give a sense of place.
 splash_image: /files/splash-him-henryhill.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

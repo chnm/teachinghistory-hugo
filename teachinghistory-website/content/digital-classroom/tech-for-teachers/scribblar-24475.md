@@ -16,6 +16,10 @@ spotlight: Think of this as a super-charged, online whiteboard. With its basic p
   and ideal for use outside the classroom.
 splash_image: /files/scribblar3.jpg
 image: /files/scribblar2.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

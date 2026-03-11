@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21048
+grade_levels:
+  - middle
 ---
 
 (Note: Between grades 6–9, Idaho students are expected to cover the following standards.)

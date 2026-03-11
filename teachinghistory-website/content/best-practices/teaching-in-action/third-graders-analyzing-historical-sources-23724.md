@@ -22,6 +22,8 @@ spotlight: In these clips from Kimberly Heckart's 3rd grade class, we see studen
   and generate connections.
 splash_image: /files/Third_Graders_Anaylzing_Historical_Sources_-_432x240.jpg
 image: /files/ThirdGradeImage.jpg
+grade_levels:
+  - elementary
 ---
 
 

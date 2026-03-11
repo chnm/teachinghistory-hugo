@@ -13,6 +13,10 @@ summary: Make whaling, a rich part of New England history, relevant to young stu
   with the diary of a six-year-old at sea.
 splash_image: /files/splash-wr-girlwhale.jpg
 image: /files/website_image/image-wr-girlwhale.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

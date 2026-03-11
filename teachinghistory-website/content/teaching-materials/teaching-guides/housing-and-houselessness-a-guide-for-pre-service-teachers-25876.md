@@ -23,6 +23,8 @@ summary: Help students understand the how policy and structural forces have shap
 splash_image: /files/HousingStruggleSplash.jpg
 image: /files/HousingStruggle.jpg
 author_image: /files/author_image/AMBER-PELHAM-650x650.jpg
+grade_levels:
+  - high
 ---
 
 

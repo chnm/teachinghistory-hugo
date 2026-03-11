@@ -11,6 +11,10 @@ image_fid: '6389'
 summary: Our 6th issue of *History Education News* tells you where to go to find resources
   and ideas for engaging your students with visual primary sources.
 image: /files/HEN06.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

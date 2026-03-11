@@ -6,6 +6,8 @@ content_type: historical_site
 draft: false
 drupal_nid: 10063
 website_url: http://www.slvmuseum.com
+grade_levels:
+  - elementary
 ---
 
 The San Lorenzo Valley Museum presents the history of California's San Lorenzo Valley. The museum is housed in a National Register old-growth redwood church built in 1906, and permanent exhibits include a logging display and a circa 1900s kitchen. The kitchen permits demonstration of its equipment to students.

@@ -15,6 +15,9 @@ summary: Students learn more about the larger than life figure of Theodore Roose
   through sources related to the presidential election of 1912.
 splash_image: /files/TRPaintingSplash.jpeg
 image: /files/lesson_image/TRPainting_0.jpg
+grade_levels:
+  - high
+duration: '90 minutes'
 ---
 
 

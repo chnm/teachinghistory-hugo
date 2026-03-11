@@ -6,6 +6,27 @@ content_type: beyond_the_textbook_part_2
 draft: false
 drupal_nid: 25484
 url: /history-content/beyond-the-textbook/25484
+question: Is it possible to discover the true story behind the decision to drop the
+  atomic bomb?
+summary: Controversial issues are often simplified in textbooks. Discover the facts
+  surrounding the World War II bombing of Japan.
+splash_image: /files/bombsplash.jpg
+splash_image_fid: '8984'
+what_textbooks_say: Textbooks often struggle to portray the U.S. decision to drop
+  atomic bombs on Japanese cities in 1945 in a balanced way. Some focus on the cost
+  to American lives of an invasion; others the suffering of Japanese civilians in
+  the wake of the blast. Giving limits of space, textbooks can often only summarize
+  important points of what was a multifaceted debate.
+what_historians_say: Historians note a great deal of debate surrounding the decision
+  to use the bombs in 1945. Typically, conflict has arisen over the justification
+  for the use of the bombs and about the moral ramifications of the decision. This
+  is a debate that reached the top levels of U.S. policy making and that continued
+  for decades afterwards.
+what_sources_say: As a pivotal event in the history of both World War II and the Cold
+  War, the decision to use atomic weapons generated substantial discussion, deliberation,
+  and debate (some of it highly classified). The documents created by military leaders,
+  politicians, and government agencies during the course of their exchanges tell a
+  rich, complex, and difficult story.
 ---
 
 ## The Bombings

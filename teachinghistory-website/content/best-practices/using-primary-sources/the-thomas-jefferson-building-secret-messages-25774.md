@@ -11,6 +11,10 @@ splash_image_fid: '9593'
 summary: What messages are hidden in art and architecture? Explore the Library of
   Congress's Jefferson Building in this online activity.
 splash_image: /files/screen-shot-2012-12-10-at-12.55.55-pm.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

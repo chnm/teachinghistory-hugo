@@ -20,6 +20,10 @@ summary: Summer is the time for professional development! Eighth-grade teacher E
 splash_image: /files/splash-blog-lslc.jpg
 image: /files/image-blog-lslc.jpg
 author_image: /files/author_image/author_photo_elizabeth_schaefer_75x75_0.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

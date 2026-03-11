@@ -99,6 +99,10 @@ image_fid: '6967'
 splash_image_fid: '6968'
 splash_image: /files/splash-ell-paraphrase.jpg
 image: /files/image-ell-paraphrase.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -33,6 +33,9 @@ image_fid: '6196'
 splash_image_fid: '6197'
 splash_image: /files/mysteries_img2.jpg
 image: /files/mysteries_img1.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

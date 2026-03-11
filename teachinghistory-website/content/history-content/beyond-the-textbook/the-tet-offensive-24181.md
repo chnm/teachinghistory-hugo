@@ -3,7 +3,7 @@ title: The Tet Offensive
 date: '2010-08-30T14:12:18'
 lastmod: '2017-12-05T08:46:32'
 content_type: beyond_the_textbook
-draft: false
+draft: true
 drupal_nid: 24181
 question: How significant is the Tet Offensive in the overall narrative of the Vietnam
   War?
@@ -14,7 +14,6 @@ summary: American historians have depicted the Tet Offensive as the turning poin
   alternate case.
 splash_image: /files/vietconggun_splash_0.jpg
 ---
-
 
 ## What Textbooks Say
 

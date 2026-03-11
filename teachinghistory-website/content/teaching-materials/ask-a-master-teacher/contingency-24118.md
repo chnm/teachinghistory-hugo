@@ -15,6 +15,10 @@ splash_image_fid: '6150'
 summary: What is contingency? What does it have to do with K-12 historical thinking?
 splash_image: /files/Contingency432x240.jpg
 image: /files/Contingency150x113.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

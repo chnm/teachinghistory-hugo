@@ -23,6 +23,8 @@ summary: Slave badges were used in Charleston to keep track of slaves. Can you b
 splash_image: /files/badgessplash.jpg
 image: /files/badgesimage.jpg
 author_image: /files/author_image/jacks_photo2_0_0.jpg
+grade_levels:
+  - elementary
 ---
 
 

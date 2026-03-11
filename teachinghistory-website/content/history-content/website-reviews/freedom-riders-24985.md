@@ -13,6 +13,9 @@ summary: Meet the American men and women who traveled the South in the name of b
   equality.
 splash_image: /files/freedomriders432x240.jpg
 image: /files/website_image/freedomriders113x150.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21129
+grade_levels:
+  - elementary
 ---
 
 * ### MA.1. Domain / General Standard: Massachusetts and its Cities and Towns

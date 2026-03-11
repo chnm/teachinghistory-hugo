@@ -23,6 +23,10 @@ author_image_fid: '6537
 summary: Teaching American History project staff outline the ongoing process of creating
   and managing effective lesson-study-focused grants.
 splash_image: /files/splash-ll-jonescough.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

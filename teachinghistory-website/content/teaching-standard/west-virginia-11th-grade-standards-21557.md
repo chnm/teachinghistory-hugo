@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21557
+grade_levels:
+  - high
 ---
 
 *In the eleventh grade social studies course students examine the historical evolution and global interaction of states, nations and nation-states from geographic, political and economic perspectives from 1900 through present day. Students engage in critical thinking and problem-solving skills, using maps, spreadsheets, charts, graphs, primary source documents and text and other data from a variety of credible sources to synthesize historical information, predict events and anticipate outcomes. Students recognize the economic interdependency of the United States with other countries of the world. Students examine the factors that influence changing political relationships between the United States and its world neighbors. The impact of world events on the individual citizen and the reciprocal impact of an individual citizenís actions on world events will be emphasized. The West Virginia Standards for 21st Century Learning include the following components: 21st Century Content Standards and Objectives and 21st Century Learning Skills and Technology Tools. All West Virginia teachers are responsible for classroom instruction that integrates learning skills, technology tools and content standards and objectives.*

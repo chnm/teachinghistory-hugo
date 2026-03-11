@@ -3,7 +3,7 @@ title: John Brown's Raid
 date: '2012-03-05T14:03:10'
 lastmod: '2017-12-05T08:51:59'
 content_type: beyond_the_textbook
-draft: false
+draft: true
 drupal_nid: 25479
 question: Did Northerners all respond the same way to Brown's infamous raid? Southerners?
 url: /history-content/beyond-the-textbook/25479
@@ -11,7 +11,6 @@ splash_image_fid: '8972'
 summary: Did Northerners all respond the same way to Brown's infamous raid? Southerners?
 splash_image: /files/johnbrownsplash.jpg
 ---
-
 
 ## What Textbooks Say
 

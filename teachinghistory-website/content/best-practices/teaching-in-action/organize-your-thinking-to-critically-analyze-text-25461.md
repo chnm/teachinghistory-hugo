@@ -13,6 +13,9 @@ summary: Discover the multiple strategies 5th-grade teacher Jennifer Brouhard us
   in her classroom to promote student understanding of historic texts.
 splash_image: /files/thinkingsplash.jpeg
 image: /files/thinkingimage_0.jpeg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

@@ -16,6 +16,9 @@ summary: Daunted by teaching the Bill of Rights and its complex vocabulary to st
   to the Amendments.
 splash_image: /files/billclass.jpeg
 author_image: /files/author_image/valenti.png
+grade_levels:
+  - middle
+  - high
 ---
 
 

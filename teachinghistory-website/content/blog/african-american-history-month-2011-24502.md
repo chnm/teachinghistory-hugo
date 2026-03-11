@@ -15,6 +15,10 @@ splash_image_fid: '7100'
 summary: For African American History Month, don't just focus on the heroes—use primary
   sources to explore the lives of ordinary people.
 splash_image: /files/splash-blog-aa2011.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

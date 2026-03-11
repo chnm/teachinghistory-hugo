@@ -20,6 +20,8 @@ summary: Looking for a creative way to teach the American Revolution to struggli
 splash_image: /files/picturingsplash2.jpg
 image: /files/picturingimage.jpg
 author_image: /files/author_image/author.jpg
+grade_levels:
+  - elementary
 ---
 
 

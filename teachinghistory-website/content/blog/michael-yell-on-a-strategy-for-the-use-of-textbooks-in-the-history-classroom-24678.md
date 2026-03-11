@@ -22,6 +22,9 @@ summary: Students aren't always working with primary sources. Seventh-grade hist
 splash_image: /files/textbookssplash.jpg
 image: /files/image-blog-mygist.jpg
 author_image: /files/author_image/mYell_2.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

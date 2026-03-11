@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21399
+grade_levels:
+  - middle
 ---
 
 * ### PA.5.1.9. Academic Standard: Civics and Government

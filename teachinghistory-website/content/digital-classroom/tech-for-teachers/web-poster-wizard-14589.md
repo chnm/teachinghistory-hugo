@@ -14,6 +14,10 @@ summary: Create a lesson, worksheet, or class page, and publish it online right 
 splash_image: /files/WebPoster432x240.jpg
 thumbnail: /files/quiz_thumbnail/FatsWallThumbnail.jpg
 image: /files/WebPosterImage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

@@ -13,6 +13,10 @@ summary: Discover new classroom possibilities with this easy-to-use video presen
   tool.
 splash_image: /files/AnimotoSplash.jpg
 image: /files/animotoImage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

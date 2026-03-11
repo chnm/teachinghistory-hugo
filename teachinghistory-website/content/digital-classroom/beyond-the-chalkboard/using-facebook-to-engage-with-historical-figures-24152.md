@@ -14,6 +14,8 @@ summary: Students interact with history by creating Facebook fan pages for histo
   figures.
 splash_image: /files/splash-btc-facebookfan.jpeg
 image: /files/image-btc-facebookfan.jpeg
+grade_levels:
+  - high
 ---
 
 

@@ -11,6 +11,9 @@ summary: Do students interpret third-person narratives written by anonymous auth
   differently than, say, those with a visible author writing in the first person?
 splash_image: /files/researchsplash.jpg
 image: /files/invisibletext.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

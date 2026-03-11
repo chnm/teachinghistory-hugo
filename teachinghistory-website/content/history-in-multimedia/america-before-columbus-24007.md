@@ -13,6 +13,8 @@ splash_image_fid: '8069'
 summary: Charles Mann argues that the Americas had actually been heavily populated
   and developed before the arrival of Columbus.
 splash_image: /files/splash-him-precolum.jpg
+grade_levels:
+  - high
 ---
 
 

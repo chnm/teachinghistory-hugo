@@ -8,6 +8,10 @@ drupal_nid: 23902
 duration: One and a half hours
 website_url: http://nationalhumanitiescenter.org/ows/index.htm
 target_audience: K-12
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 From the National Humanities Center website:

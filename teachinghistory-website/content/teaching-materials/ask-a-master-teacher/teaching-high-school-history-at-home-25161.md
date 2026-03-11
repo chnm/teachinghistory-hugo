@@ -16,6 +16,8 @@ splash_image_fid: '9478'
 summary: Searching for home schooling solutions? Look no more!
 splash_image: /files/splash2.jpg
 image: /files/homeschoolimage.jpg
+grade_levels:
+  - high
 ---
 
 

@@ -16,6 +16,10 @@ summary: Relive the dream of the women's vote through roleplay or interfacing wi
   primary documents.
 splash_image: /files/Woman-Suffrage432x240.jpg
 image: /files/lesson_image/Woman-Suffrage150x113.jpg
+grade_levels:
+  - middle
+  - high
+duration: 'Varies'
 ---
 
 

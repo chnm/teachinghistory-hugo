@@ -13,6 +13,9 @@ summary: Was Nixon as reluctant to initiate the Christmas bombing as his memoirs
   or was he as eager as he claimed Kissinger to be?
 splash_image: /files/memoirsvtapes432x240.jpg
 image: /files/website_image/memoirsvtapes150x113.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21187
+grade_levels:
+  - elementary
 ---
 
 *In grade five, the lead discipline is history supplemented by a strong secondary emphasis on citizenship and government. Students explore the history of North America in the period before 1800. They learn about complex societies that existed on the continent before 1500, and subsequent interactions between Indigenous peoples, Europeans and Africans during the period of colonization and settlement. They examine regional economies and learn that profit motivates entrepreneurs (such as early American fur traders). They trace the development of self-governance in the British colonies and identify major conflicts that led to the American Revolution. They analyze the debates that swirled around the creation of a new government and learn the basic principles of democracy that were set forth in the Declaration of Independence, the Constitution and the Bill of Rights. Students become immersed in historical inquiry, learning to “think like a historian.” They weigh the costs and benefits of decisions (such as the decision of some colonists to sever ties with the British) and analyze the contributions of historically significant people to the development of American political culture.*

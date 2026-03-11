@@ -14,6 +14,10 @@ summary: View over 1 million images from U.S. national parks and historic sites.
 splash_image: /files/screen_shot_2016-10-11_at_9.29.52_am.png
 thumbnail: /files/quiz_thumbnail/gravestone75px.jpg
 image: /files/website_image/ande_h1_1036.png
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

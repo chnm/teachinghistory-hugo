@@ -5,6 +5,8 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21554
+grade_levels:
+  - middle
 ---
 
 *Eighth grade social studies engages students in the comprehensive study of West Virginia, from the Pre-Columbian period to the present day. Special emphasis is placed on the interdependence of geographic, cultural, political, environmental and economic factors affecting the development and future of the state. Students develop empathy for citizens worldwide as they demonstrate connections and loyalty to homeland. Students are actively engaged citizens of their school and community and develop national and global civic perspective and responsibility. Students become economically literate to understand West Virginiaís global connectivity in the market place both as a producer and a consumer of international goods and services. Students synthesize their information to predict the future development and evolution of their state. The West Virginia Standards for 21st Century Learning include the following components: 21st Century Content Standards and Objectives and 21st Century Learning Skills and Technology Tools. All West Virginia teachers are responsible for classroom instruction that integrates learning skills, technology tools and content standards and objectives.*

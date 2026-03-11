@@ -11,6 +11,10 @@ image_fid: '6594'
 summary: Every week during the school year, Teachinghistory.org offers a new quiz.
   Test your history knowledge and, if you score high enough, you could win a prize!
 image: /files/image-quiz-blog.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

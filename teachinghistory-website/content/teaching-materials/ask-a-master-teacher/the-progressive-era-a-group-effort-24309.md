@@ -22,6 +22,10 @@ summary: Provides a comprehensive list of websites and strategies to creatively 
 splash_image: /files/progressivesplash.jpg
 image: /files/progressive.jpg
 author_image: /files/author_image/Jacks_photo2.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

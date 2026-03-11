@@ -19,6 +19,10 @@ spotlight: This nifty tool is not only fun to use, but also very useful in the h
 splash_image: /files/PA-splash-image.png
 thumbnail: /files/quiz_thumbnail/NatiPostThumbnail.jpg
 image: /files/splash-PA.png
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 

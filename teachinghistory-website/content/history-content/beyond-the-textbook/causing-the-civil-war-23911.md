@@ -3,7 +3,7 @@ title: Causing the Civil War
 date: '2010-03-24T15:49:58'
 lastmod: '2017-12-05T08:43:31'
 content_type: beyond_the_textbook
-draft: false
+draft: true
 drupal_nid: 23911
 question: Was economic difference—manufacturing in the North and slave-driven agriculture
   in the South—the primary cause of the Civil War?
@@ -12,7 +12,6 @@ splash_image_fid: '4374'
 summary: Did King Cotton cause the Civil War? Or should you look further?
 splash_image: /files/Cotton.jpg
 ---
-
 
 ## What Textbooks Say
 

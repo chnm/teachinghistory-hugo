@@ -20,6 +20,9 @@ summary: Teachers often blame time-consuming standardized testing for the histor
   should not be a stand-alone subject, but rather, relayed through historic accounts
   and primary documents to teach history content and model civic language and values.
 author_image: /files/author_image/author_long.jpg
+grade_levels:
+  - elementary
+  - middle
 ---
 
 

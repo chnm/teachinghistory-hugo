@@ -20,6 +20,9 @@ summary: Eighth-grade U.S. history teacher Elizabeth Schaefer introduces student
 splash_image: /files/24274-original.jpg
 image: /files/image-blog-schaefer-9-11.jpg
 author_image: /files/author_image/image-author-lizschaefer.jpg
+grade_levels:
+  - middle
+  - high
 ---
 
 

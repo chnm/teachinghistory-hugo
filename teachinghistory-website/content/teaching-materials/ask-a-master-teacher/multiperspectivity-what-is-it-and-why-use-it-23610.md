@@ -13,6 +13,10 @@ summary: Simply pondering "multiperspectivity" (a European term for "multiple pe
   introduces the concept.
 splash_image: /files/splash-aamt-multi.jpg
 image: /files/MultiperspectivityImage.jpg
+grade_levels:
+  - elementary
+  - middle
+  - high
 ---
 
 
