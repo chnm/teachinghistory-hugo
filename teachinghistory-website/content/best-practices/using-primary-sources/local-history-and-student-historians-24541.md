@@ -26,8 +26,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/UPS\_James5.mp4
+/files/media/video/UPS\_James5.mp4
 
 video/mp4
 
-[![Local History and Student Historians](/files/media/video/thumbs/UPS_James5.jpg)](/sites/default/files/media/video/UPS_James5.mp4) [![Gettysburg and Public Memory](/files/media/video/thumbs/UPS_James6.jpg)](/sites/default/files/media/video/UPS_James6.mp4)
+[![Local History and Student Historians](/files/media/video/thumbs/UPS_James5.jpg)](/files/media/video/UPS_James5.mp4) [![Gettysburg and Public Memory](/files/media/video/thumbs/UPS_James6.jpg)](/files/media/video/UPS_James6.mp4)

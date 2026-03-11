@@ -25,8 +25,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Ritchie5.mp4
+/files/media/video/Ritchie5.mp4
 
 video/mp4
 
-[![The Photograph and Its Context](/files/media/video/thumbs/Ritchie5.jpg)](/sites/default/files/media/video/Ritchie5.mp4) [![Mark Trice and the Photograph](/files/media/video/thumbs/Ritchie6.jpg)](/sites/default/files/media/video/Ritchie6.mp4) [![Reading the Photograph](/files/media/video/thumbs/Ritchie7.jpg)](/sites/default/files/media/video/Ritchie7.mp4) [![Polio and Roosevelt](/files/media/video/thumbs/Ritchie8.jpg)](/sites/default/files/media/video/Ritchie8.mp4)
+[![The Photograph and Its Context](/files/media/video/thumbs/Ritchie5.jpg)](/files/media/video/Ritchie5.mp4) [![Mark Trice and the Photograph](/files/media/video/thumbs/Ritchie6.jpg)](/files/media/video/Ritchie6.mp4) [![Reading the Photograph](/files/media/video/thumbs/Ritchie7.jpg)](/files/media/video/Ritchie7.mp4) [![Polio and Roosevelt](/files/media/video/thumbs/Ritchie8.jpg)](/files/media/video/Ritchie8.mp4)

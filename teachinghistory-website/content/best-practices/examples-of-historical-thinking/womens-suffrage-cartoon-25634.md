@@ -20,8 +20,8 @@ author_image: /files/author_image/tj_headshot_with_brown_blurred_background_7.jp
 
 
 
-/sites/default/files/media/video/Boisseau1a.mp4
+/files/media/video/Boisseau1a.mp4
 
 video/mp4
 
-[![The Dirty Pool of Politics](/files/media/video/thumbs/Boisseau1a.jpg)](/sites/default/files/media/video/Boisseau1a.mp4) [![Reading Visually](/files/media/video/thumbs/Boisseau1b.jpg)](/sites/default/files/media/video/Boisseau1b.mp4) [![Public Perception of Women](/files/media/video/thumbs/Boisseau1c.jpg)](/sites/default/files/media/video/Boisseau1c.mp4)
+[![The Dirty Pool of Politics](/files/media/video/thumbs/Boisseau1a.jpg)](/files/media/video/Boisseau1a.mp4) [![Reading Visually](/files/media/video/thumbs/Boisseau1b.jpg)](/files/media/video/Boisseau1b.mp4) [![Public Perception of Women](/files/media/video/thumbs/Boisseau1c.jpg)](/files/media/video/Boisseau1c.mp4)

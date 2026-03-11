@@ -15,8 +15,8 @@ grade_levels:
 ---
 
 
-/sites/default/files/media/video/holocausttour1.mp4
+/files/media/video/holocausttour1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/holocausttour1.jpg)](/sites/default/files/media/video/holocausttour1.mp4) [![Establishing the Theme](/files/media/video/thumbs/holocausttour2.jpg)](/sites/default/files/media/video/holocausttour2.mp4) [![Establishing the Theme](/files/media/video/thumbs/holocausttour3.jpg)](/sites/default/files/media/video/holocausttour3.mp4) [![Establishing the Theme](/files/media/video/thumbs/holocausttour4.jpg)](/sites/default/files/media/video/holocausttour4.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/holocausttour1.jpg)](/files/media/video/holocausttour1.mp4) [![Establishing the Theme](/files/media/video/thumbs/holocausttour2.jpg)](/files/media/video/holocausttour2.mp4) [![Establishing the Theme](/files/media/video/thumbs/holocausttour3.jpg)](/files/media/video/holocausttour3.mp4) [![Establishing the Theme](/files/media/video/thumbs/holocausttour4.jpg)](/files/media/video/holocausttour4.mp4)

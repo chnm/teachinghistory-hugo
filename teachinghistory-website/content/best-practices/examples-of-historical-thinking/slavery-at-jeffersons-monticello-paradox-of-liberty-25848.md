@@ -14,8 +14,8 @@ splash_image: /files/paradoxsplash_0.jpg
 ---
 
 
-/sites/default/files/media/video/MontExhibit1.mp4
+/files/media/video/MontExhibit1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/MontExhibit1.jpg)](/sites/default/files/media/video/MontExhibit1.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExhibit2.jpg)](/sites/default/files/media/video/MontExhibit2.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExhibit3.jpg)](/sites/default/files/media/video/MontExhibit3.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExhibit4.jpg)](/sites/default/files/media/video/MontExhibit4.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/MontExhibit1.jpg)](/files/media/video/MontExhibit1.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExhibit2.jpg)](/files/media/video/MontExhibit2.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExhibit3.jpg)](/files/media/video/MontExhibit3.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExhibit4.jpg)](/files/media/video/MontExhibit4.mp4)

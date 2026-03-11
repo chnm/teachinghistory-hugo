@@ -23,8 +23,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Reis1.mp4
+/files/media/video/Reis1.mp4
 
 video/mp4
 
-[![Dynamics of Confession](/files/media/video/thumbs/Reis1.jpg)](/sites/default/files/media/video/Reis1.mp4) [![The Dangers of Innocence](/files/media/video/thumbs/Reis2.jpg)](/sites/default/files/media/video/Reis2.mp4) [![Elements of a Successful Confession](/files/media/video/thumbs/Reis3.jpg)](/sites/default/files/media/video/Reis3.mp4) [![Leading Students through the Material](/files/media/video/thumbs/Reis4.jpg)](/sites/default/files/media/video/Reis4.mp4)
+[![Dynamics of Confession](/files/media/video/thumbs/Reis1.jpg)](/files/media/video/Reis1.mp4) [![The Dangers of Innocence](/files/media/video/thumbs/Reis2.jpg)](/files/media/video/Reis2.mp4) [![Elements of a Successful Confession](/files/media/video/thumbs/Reis3.jpg)](/files/media/video/Reis3.mp4) [![Leading Students through the Material](/files/media/video/thumbs/Reis4.jpg)](/files/media/video/Reis4.mp4)

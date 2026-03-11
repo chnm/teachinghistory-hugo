@@ -14,8 +14,8 @@ splash_image: /files/replacesplash_0.jpg
 ---
 
 
-/sites/default/files/media/video/AmArt5.mp4
+/files/media/video/AmArt5.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/AmArt5.jpg)](/sites/default/files/media/video/AmArt5.mp4) [![Establishing the Theme](/files/media/video/thumbs/AmArt6.jpg)](/sites/default/files/media/video/AmArt6.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/AmArt5.jpg)](/files/media/video/AmArt5.mp4) [![Establishing the Theme](/files/media/video/thumbs/AmArt6.jpg)](/files/media/video/AmArt6.mp4)

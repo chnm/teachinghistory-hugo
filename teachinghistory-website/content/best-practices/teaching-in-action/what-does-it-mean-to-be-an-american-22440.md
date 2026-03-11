@@ -22,8 +22,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/cruz\_classroom.mp4
+/files/media/video/cruz\_classroom.mp4
 
 video/mp4
 
-[![Lesson Introduction](/files/media/video/thumbs/cruz_classroom1.jpg)](/sites/default/files/media/video/cruz_classroom1.mp4) [![Lesson Continued](/files/media/video/thumbs/cruz_classroom2.jpg)](/sites/default/files/media/video/cruz_classroom2.mp4) [![Promoting Discussion](/files/media/video/thumbs/cruz_classroom3.jpg)](/sites/default/files/media/video/cruz_classroom3.mp4) [![Teaching Strategies](/files/media/video/thumbs/cruz_classroom4.jpg)](/sites/default/files/media/video/cruz_classroom4.mp4)
+[![Lesson Introduction](/files/media/video/thumbs/cruz_classroom1.jpg)](/files/media/video/cruz_classroom1.mp4) [![Lesson Continued](/files/media/video/thumbs/cruz_classroom2.jpg)](/files/media/video/cruz_classroom2.mp4) [![Promoting Discussion](/files/media/video/thumbs/cruz_classroom3.jpg)](/files/media/video/cruz_classroom3.mp4) [![Teaching Strategies](/files/media/video/thumbs/cruz_classroom4.jpg)](/files/media/video/cruz_classroom4.mp4)

@@ -14,8 +14,8 @@ splash_image: /files/vernonsplash_0.jpg
 ---
 
 
-/sites/default/files/media/video/mountvernon1.mp4
+/files/media/video/mountvernon1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/mountvernon1.jpg)](/sites/default/files/media/video/mountvernon1.mp4) [![Establishing the Theme](/files/media/video/thumbs/mountvernon2.jpg)](/sites/default/files/media/video/mountvernon2.mp4) [![Establishing the Theme](/files/media/video/thumbs/mountvernon3.jpg)](/sites/default/files/media/video/mountvernon3.mp4) [![Establishing the Theme](/files/media/video/thumbs/mountvernon4.jpg)](/sites/default/files/media/video/mountvernon4.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/mountvernon1.jpg)](/files/media/video/mountvernon1.mp4) [![Establishing the Theme](/files/media/video/thumbs/mountvernon2.jpg)](/files/media/video/mountvernon2.mp4) [![Establishing the Theme](/files/media/video/thumbs/mountvernon3.jpg)](/files/media/video/mountvernon3.mp4) [![Establishing the Theme](/files/media/video/thumbs/mountvernon4.jpg)](/files/media/video/mountvernon4.mp4)

@@ -24,8 +24,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/TIA\_MyLai1.mp4
+/files/media/video/TIA\_MyLai1.mp4
 
 video/mp4
 
-[![Perspectives: Those Portrayed and Those Overlooked](/files/media/video/thumbs/TIA_MyLai1.jpg)](/sites/default/files/media/video/TIA_MyLai1.mp4) [![Zoom-In Inquiry](/files/media/video/thumbs/TIA_MyLai2.jpg)](/sites/default/files/media/video/TIA_MyLai2.mp4) [![Primary Sources Challenge Concepts of Truth](/files/media/video/thumbs/TIA_MyLai3.jpg)](/sites/default/files/media/video/TIA_MyLai3.mp4)
+[![Perspectives: Those Portrayed and Those Overlooked](/files/media/video/thumbs/TIA_MyLai1.jpg)](/files/media/video/TIA_MyLai1.mp4) [![Zoom-In Inquiry](/files/media/video/thumbs/TIA_MyLai2.jpg)](/files/media/video/TIA_MyLai2.mp4) [![Primary Sources Challenge Concepts of Truth](/files/media/video/thumbs/TIA_MyLai3.jpg)](/files/media/video/TIA_MyLai3.mp4)

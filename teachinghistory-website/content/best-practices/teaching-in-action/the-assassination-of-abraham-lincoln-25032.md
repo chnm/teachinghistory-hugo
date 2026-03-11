@@ -15,8 +15,8 @@ grade_levels:
 ---
 
 
-/sites/default/files/media/video/Kendrat1.mp4
+/files/media/video/Kendrat1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/Kendrat1.jpg)](/sites/default/files/media/video/Kendrat1.mp4) [![Examining Viewpoints](/files/media/video/thumbs/Kendrat2.jpg)](/sites/default/files/media/video/Kendrat2.mp4) [![Making Decisions](/files/media/video/thumbs/Kendrat3.jpg)](/sites/default/files/media/video/Kendrat3.mp4) [![Comparing with the Actual Outcome](/files/media/video/thumbs/Kendrat4.jpg)](/sites/default/files/media/video/Kendrat4.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/Kendrat1.jpg)](/files/media/video/Kendrat1.mp4) [![Examining Viewpoints](/files/media/video/thumbs/Kendrat2.jpg)](/files/media/video/Kendrat2.mp4) [![Making Decisions](/files/media/video/thumbs/Kendrat3.jpg)](/files/media/video/Kendrat3.mp4) [![Comparing with the Actual Outcome](/files/media/video/thumbs/Kendrat4.jpg)](/files/media/video/Kendrat4.mp4)

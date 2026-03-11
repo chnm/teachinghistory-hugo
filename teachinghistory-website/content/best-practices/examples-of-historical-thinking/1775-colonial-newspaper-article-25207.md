@@ -19,8 +19,8 @@ author_image: /files/author_image/barbara_1_0.jpg
 
 
 
-/sites/default/files/media/video/csmith5.mp4
+/files/media/video/csmith5.mp4
 
 video/mp4
 
-[![What interests you about this newspaper article? ](/files/media/video/thumbs/csmith5.jpg)](/sites/default/files/media/video/csmith5.mp4) [![What do you notice when you read this article closely? ](/files/media/video/thumbs/csmith6.jpg)](/sites/default/files/media/video/csmith6.mp4) [![What questions aren't answered by the document?](/files/media/video/thumbs/csmith7.jpg)](/sites/default/files/media/video/csmith7.mp4) [![What would help you understand the context of this article?](/files/media/video/thumbs/csmith8.jpg)](/sites/default/files/media/video/csmith8.mp4)
+[![What interests you about this newspaper article? ](/files/media/video/thumbs/csmith5.jpg)](/files/media/video/csmith5.mp4) [![What do you notice when you read this article closely? ](/files/media/video/thumbs/csmith6.jpg)](/files/media/video/csmith6.mp4) [![What questions aren't answered by the document?](/files/media/video/thumbs/csmith7.jpg)](/files/media/video/csmith7.mp4) [![What would help you understand the context of this article?](/files/media/video/thumbs/csmith8.jpg)](/files/media/video/csmith8.mp4)

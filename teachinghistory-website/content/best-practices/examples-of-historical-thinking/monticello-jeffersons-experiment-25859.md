@@ -12,8 +12,8 @@ splash_image: /files/experimentsplash_0.jpg
 ---
 
 
-/sites/default/files/media/video/MontExperiment1.mp4
+/files/media/video/MontExperiment1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/MontExperiment1.jpg)](/sites/default/files/media/video/MontExperiment1.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExperiment2.jpg)](/sites/default/files/media/video/MontExperiment2.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExperiment3.jpg)](/sites/default/files/media/video/MontExperiment3.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExperiment4.jpg)](/sites/default/files/media/video/MontExperiment4.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/MontExperiment1.jpg)](/files/media/video/MontExperiment1.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExperiment2.jpg)](/files/media/video/MontExperiment2.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExperiment3.jpg)](/files/media/video/MontExperiment3.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExperiment4.jpg)](/files/media/video/MontExperiment4.mp4)

@@ -23,8 +23,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Richard1.mp4
+/files/media/video/Richard1.mp4
 
 video/mp4
 
-[![Conflicting Accounts](/files/media/video/thumbs/Richard1.jpg)](/sites/default/files/media/video/Richard1.mp4) [![Olmsted's Account](/files/media/video/thumbs/Richard2.jpg)](/sites/default/files/media/video/Richard2.mp4) [![Northup's Account](/files/media/video/thumbs/Richard3.jpg)](/sites/default/files/media/video/Richard3.mp4) [![Teaching Strategies](/files/media/video/thumbs/Richard4.jpg)](/sites/default/files/media/video/Richard4.mp4)
+[![Conflicting Accounts](/files/media/video/thumbs/Richard1.jpg)](/files/media/video/Richard1.mp4) [![Olmsted's Account](/files/media/video/thumbs/Richard2.jpg)](/files/media/video/Richard2.mp4) [![Northup's Account](/files/media/video/thumbs/Richard3.jpg)](/files/media/video/Richard3.mp4) [![Teaching Strategies](/files/media/video/thumbs/Richard4.jpg)](/files/media/video/Richard4.mp4)

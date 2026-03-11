@@ -16,8 +16,8 @@ grade_levels:
 ---
 
 
-/sites/default/files/media/video/Eanes1.mp4
+/files/media/video/Eanes1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/Eanes1.jpg)](/sites/default/files/media/video/Eanes1.mp4) [![Examining Viewpoints](/files/media/video/thumbs/Eanes2.jpg)](/sites/default/files/media/video/Eanes2.mp4) [![Making Decisions](/files/media/video/thumbs/Eanes3.jpg)](/sites/default/files/media/video/Eanes3.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/Eanes1.jpg)](/files/media/video/Eanes1.mp4) [![Examining Viewpoints](/files/media/video/thumbs/Eanes2.jpg)](/files/media/video/Eanes2.mp4) [![Making Decisions](/files/media/video/thumbs/Eanes3.jpg)](/files/media/video/Eanes3.mp4)

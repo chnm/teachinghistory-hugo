@@ -13,8 +13,8 @@ splash_image: /files/housetoursplash_0.jpg
 ---
 
 
-/sites/default/files/media/video/monticellotour1.mp4
+/files/media/video/monticellotour1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/monticellotour1.jpg)](/sites/default/files/media/video/monticellotour1.mp4) [![Establishing the Theme](/files/media/video/thumbs/monticellotour2.jpg)](/sites/default/files/media/video/monticellotour2.mp4) [![Establishing the Theme](/files/media/video/thumbs/monticellotour3.jpg)](/sites/default/files/media/video/monticellotour3.mp4) [![Establishing the Theme](/files/media/video/thumbs/monticellotour4.jpg)](/sites/default/files/media/video/monticellotour4.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/monticellotour1.jpg)](/files/media/video/monticellotour1.mp4) [![Establishing the Theme](/files/media/video/thumbs/monticellotour2.jpg)](/files/media/video/monticellotour2.mp4) [![Establishing the Theme](/files/media/video/thumbs/monticellotour3.jpg)](/files/media/video/monticellotour3.mp4) [![Establishing the Theme](/files/media/video/thumbs/monticellotour4.jpg)](/files/media/video/monticellotour4.mp4)

@@ -23,8 +23,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Leah1.mp4
+/files/media/video/Leah1.mp4
 
 video/mp4
 
-[![Reading the Document](/files/media/video/thumbs/Leah1.jpg)](/sites/default/files/media/video/Leah1.mp4) [![Teaching Strategies](/files/media/video/thumbs/Leah2.jpg)](/sites/default/files/media/video/Leah2.mp4)
+[![Reading the Document](/files/media/video/thumbs/Leah1.jpg)](/files/media/video/Leah1.mp4) [![Teaching Strategies](/files/media/video/thumbs/Leah2.jpg)](/files/media/video/Leah2.mp4)

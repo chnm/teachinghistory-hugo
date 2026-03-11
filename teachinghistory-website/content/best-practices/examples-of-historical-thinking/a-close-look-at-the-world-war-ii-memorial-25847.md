@@ -13,8 +13,8 @@ splash_image: /files/ww2splash_1_0.jpg
 ---
 
 
-/sites/default/files/media/video/wwmem1.mp4
+/files/media/video/wwmem1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/wwmem1.jpg)](/sites/default/files/media/video/wwmem1.mp4) [![Establishing the Theme](/files/media/video/thumbs/wwmem2.jpg)](/sites/default/files/media/video/wwmem2.mp4) [![Establishing the Theme](/files/media/video/thumbs/wwmem3.jpg)](/sites/default/files/media/video/wwmem3.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/wwmem1.jpg)](/files/media/video/wwmem1.mp4) [![Establishing the Theme](/files/media/video/thumbs/wwmem2.jpg)](/files/media/video/wwmem2.mp4) [![Establishing the Theme](/files/media/video/thumbs/wwmem3.jpg)](/files/media/video/wwmem3.mp4)

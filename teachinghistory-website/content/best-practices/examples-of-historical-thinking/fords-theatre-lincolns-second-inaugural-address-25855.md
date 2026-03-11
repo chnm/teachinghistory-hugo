@@ -17,8 +17,8 @@ grade_levels:
 ---
 
 
-/sites/default/files/media/video/Fords1.mp4
+/files/media/video/Fords1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/Fords1.jpg)](/sites/default/files/media/video/Fords1.mp4) [![Establishing the Theme](/files/media/video/thumbs/Fords2.jpg)](/sites/default/files/media/video/Fords2.mp4) [![Establishing the Theme](/files/media/video/thumbs/Fords3.jpg)](/sites/default/files/media/video/Fords3.mp4) [![Establishing the Theme](/files/media/video/thumbs/Fords4.jpg)](/sites/default/files/media/video/Fords4.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/Fords1.jpg)](/files/media/video/Fords1.mp4) [![Establishing the Theme](/files/media/video/thumbs/Fords2.jpg)](/files/media/video/Fords2.mp4) [![Establishing the Theme](/files/media/video/thumbs/Fords3.jpg)](/files/media/video/Fords3.mp4) [![Establishing the Theme](/files/media/video/thumbs/Fords4.jpg)](/files/media/video/Fords4.mp4)

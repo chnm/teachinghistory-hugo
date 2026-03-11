@@ -27,8 +27,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/JohnSmith1.mp4
+/files/media/video/JohnSmith1.mp4
 
 video/mp4
 
-[![Exploring the Map](/files/media/video/thumbs/JohnSmith1.jpg)](/sites/default/files/media/video/JohnSmith1.mp4) [![What is Important?](/files/media/video/thumbs/JohnSmith2.jpg)](/sites/default/files/media/video/JohnSmith2.mp4) [![Different Perspectives](/files/media/video/thumbs/JohnSmith3.jpg)](/sites/default/files/media/video/JohnSmith3.mp4) [![What Questions Can Students Ask?](/files/media/video/thumbs/JohnSmith4.jpg)](/sites/default/files/media/video/JohnSmith4.mp4)
+[![Exploring the Map](/files/media/video/thumbs/JohnSmith1.jpg)](/files/media/video/JohnSmith1.mp4) [![What is Important?](/files/media/video/thumbs/JohnSmith2.jpg)](/files/media/video/JohnSmith2.mp4) [![Different Perspectives](/files/media/video/thumbs/JohnSmith3.jpg)](/files/media/video/JohnSmith3.mp4) [![What Questions Can Students Ask?](/files/media/video/thumbs/JohnSmith4.jpg)](/files/media/video/JohnSmith4.mp4)

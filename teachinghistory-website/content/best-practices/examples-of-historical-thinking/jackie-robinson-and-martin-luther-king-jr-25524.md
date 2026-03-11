@@ -19,8 +19,8 @@ author_image: /files/author_image/author_mcdaniels.jpg
 
 
 
-/sites/default/files/media/video/Pellom1.mp4
+/files/media/video/Pellom1.mp4
 
 video/mp4
 
-[![Qualities of Character](/files/media/video/thumbs/Pellom1.jpg)](/sites/default/files/media/video/Pellom1.mp4) [![Mallie Robinson](/files/media/video/thumbs/Pellom2.jpg)](/sites/default/files/media/video/Pellom2.mp4) [![The Right to Be Treated as a Human Being](/files/media/video/thumbs/Pellom3.jpg)](/sites/default/files/media/video/Pellom3.mp4) [![Historical Moments and Anticipating Opportunities](/files/media/video/thumbs/Pellom4.jpg)](/sites/default/files/media/video/Pellom4.mp4)
+[![Qualities of Character](/files/media/video/thumbs/Pellom1.jpg)](/files/media/video/Pellom1.mp4) [![Mallie Robinson](/files/media/video/thumbs/Pellom2.jpg)](/files/media/video/Pellom2.mp4) [![The Right to Be Treated as a Human Being](/files/media/video/thumbs/Pellom3.jpg)](/files/media/video/Pellom3.mp4) [![Historical Moments and Anticipating Opportunities](/files/media/video/thumbs/Pellom4.jpg)](/files/media/video/Pellom4.mp4)

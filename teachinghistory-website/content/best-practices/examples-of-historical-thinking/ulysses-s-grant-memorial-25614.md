@@ -24,8 +24,8 @@ splash_image: /files/warmemorial1.jpg
 ---
 
 
-/sites/default/files/media/video/warmemorial1.mp4
+/files/media/video/warmemorial1.mp4
 
 video/mp4
 
-[![Ulysses S. Grant Memorial](/files/media/video/thumbs/warmemorial1.jpg)](/sites/default/files/media/video/warmemorial1.mp4)
+[![Ulysses S. Grant Memorial](/files/media/video/thumbs/warmemorial1.jpg)](/files/media/video/warmemorial1.mp4)

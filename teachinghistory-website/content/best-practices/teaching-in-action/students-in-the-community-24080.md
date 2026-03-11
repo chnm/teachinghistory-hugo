@@ -24,8 +24,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/TIA\_James1.mp4
+/files/media/video/TIA\_James1.mp4
 
 video/mp4
 
-[![Researching Their Own Questions](/files/media/video/thumbs/TIA_James1.jpg)](/sites/default/files/media/video/TIA_James1.mp4) [![Schools as Part of Communities](/files/media/video/thumbs/TIA_James2.jpg)](/sites/default/files/media/video/TIA_James2.mp4)
+[![Researching Their Own Questions](/files/media/video/thumbs/TIA_James1.jpg)](/files/media/video/TIA_James1.mp4) [![Schools as Part of Communities](/files/media/video/thumbs/TIA_James2.jpg)](/files/media/video/TIA_James2.mp4)

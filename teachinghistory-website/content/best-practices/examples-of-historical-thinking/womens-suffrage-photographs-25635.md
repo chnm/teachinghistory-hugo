@@ -20,8 +20,8 @@ author_image: /files/author_image/tj_headshot_with_brown_blurred_background_6.jp
 
 
 
-/sites/default/files/media/video/Boisseau2a.mp4
+/files/media/video/Boisseau2a.mp4
 
 video/mp4
 
-[![Women Workers and Suffrage](/files/media/video/thumbs/Boisseau2a.jpg)](/sites/default/files/media/video/Boisseau2a.mp4) [![Using the Press](/files/media/video/thumbs/Boisseau2b.jpg)](/sites/default/files/media/video/Boisseau2b.mp4) [![A Change in Tone ](/files/media/video/thumbs/Boisseau2c.jpg)](/sites/default/files/media/video/Boisseau2c.mp4)
+[![Women Workers and Suffrage](/files/media/video/thumbs/Boisseau2a.jpg)](/files/media/video/Boisseau2a.mp4) [![Using the Press](/files/media/video/thumbs/Boisseau2b.jpg)](/files/media/video/Boisseau2b.mp4) [![A Change in Tone ](/files/media/video/thumbs/Boisseau2c.jpg)](/files/media/video/Boisseau2c.mp4)

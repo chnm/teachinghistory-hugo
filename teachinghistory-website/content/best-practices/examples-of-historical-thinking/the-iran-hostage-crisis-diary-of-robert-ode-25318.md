@@ -19,8 +19,8 @@ author_image: /files/author_image/2010_-_oah_-_author_image_-_peter_hahn.jpg
 
 
 
-/sites/default/files/media/video/Hahn1.mp4
+/files/media/video/Hahn1.mp4
 
 video/mp4
 
-[![Day-to-day Experience](/files/media/video/thumbs/Hahn1.jpg)](/sites/default/files/media/video/Hahn1.mp4) [![The Context of the Diary](/files/media/video/thumbs/Hahn2.jpg)](/sites/default/files/media/video/Hahn2.mp4) [![The Context of the Hostage Crisis](/files/media/video/thumbs/Hahn3.jpg)](/sites/default/files/media/video/Hahn3.mp4) [![The Impact of the Crisis](/files/media/video/thumbs/Hahn4.jpg)](/sites/default/files/media/video/Hahn4.mp4)
+[![Day-to-day Experience](/files/media/video/thumbs/Hahn1.jpg)](/files/media/video/Hahn1.mp4) [![The Context of the Diary](/files/media/video/thumbs/Hahn2.jpg)](/files/media/video/Hahn2.mp4) [![The Context of the Hostage Crisis](/files/media/video/thumbs/Hahn3.jpg)](/files/media/video/Hahn3.mp4) [![The Impact of the Crisis](/files/media/video/thumbs/Hahn4.jpg)](/files/media/video/Hahn4.mp4)

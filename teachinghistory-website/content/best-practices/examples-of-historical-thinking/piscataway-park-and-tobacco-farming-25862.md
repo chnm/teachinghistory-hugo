@@ -13,8 +13,8 @@ splash_image: /files/piscatawaysplash_0.jpg
 ---
 
 
-/sites/default/files/media/video/Piscataway1.mp4
+/files/media/video/Piscataway1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/Piscataway1.jpg)](/sites/default/files/media/video/Piscataway1.mp4) [![Establishing the Theme](/files/media/video/thumbs/Piscataway2.jpg)](/sites/default/files/media/video/Piscataway2.mp4) [![Establishing the Theme](/files/media/video/thumbs/Piscataway3.jpg)](/sites/default/files/media/video/Piscataway3.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/Piscataway1.jpg)](/files/media/video/Piscataway1.mp4) [![Establishing the Theme](/files/media/video/thumbs/Piscataway2.jpg)](/files/media/video/Piscataway2.mp4) [![Establishing the Theme](/files/media/video/thumbs/Piscataway3.jpg)](/files/media/video/Piscataway3.mp4)

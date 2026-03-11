@@ -13,8 +13,8 @@ splash_image: /files/splash1_0.jpg
 ---
 
 
-/sites/default/files/media/video/segregation1.mp4
+/files/media/video/segregation1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/segregation1.jpg)](/sites/default/files/media/video/segregation1.mp4) [![Establishing the Theme](/files/media/video/thumbs/segregation2.jpg)](/sites/default/files/media/video/segregation2.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/segregation1.jpg)](/files/media/video/segregation1.mp4) [![Establishing the Theme](/files/media/video/thumbs/segregation2.jpg)](/files/media/video/segregation2.mp4)

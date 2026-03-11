@@ -20,8 +20,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Jerome1.mp4
+/files/media/video/Jerome1.mp4
 
 video/mp4
 
-[![Reading the Document](/files/media/video/thumbs/Jerome1.jpg)](/sites/default/files/media/video/Jerome1.mp4) [![Teaching Strategies](/files/media/video/thumbs/Jerome2.jpg)](/sites/default/files/media/video/Jerome2.mp4)
+[![Reading the Document](/files/media/video/thumbs/Jerome1.jpg)](/files/media/video/Jerome1.mp4) [![Teaching Strategies](/files/media/video/thumbs/Jerome2.jpg)](/files/media/video/Jerome2.mp4)

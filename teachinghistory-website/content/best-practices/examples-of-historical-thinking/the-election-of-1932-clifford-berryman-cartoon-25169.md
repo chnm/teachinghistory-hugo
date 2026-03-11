@@ -24,8 +24,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Ritchie1.mp4
+/files/media/video/Ritchie1.mp4
 
 video/mp4
 
-[![Introducing Clifford Berryman's Cartoons](/files/media/video/thumbs/Ritchie2.jpg)](/sites/default/files/media/video/Ritchie1.mp4) [![Explaining the Context](/files/media/video/thumbs/Ritchie3.jpg)](/sites/default/files/media/video/Ritchie2.mp4) [![Examining the Conventions](/files/media/video/thumbs/Ritchie4.jpg)](/sites/default/files/media/video/Ritchie3.mp4) [![How Cartoons Have Changed](/files/media/video/thumbs/Ritchie8.jpg)](/sites/default/files/media/video/Ritchie4.mp4)
+[![Introducing Clifford Berryman's Cartoons](/files/media/video/thumbs/Ritchie2.jpg)](/files/media/video/Ritchie1.mp4) [![Explaining the Context](/files/media/video/thumbs/Ritchie3.jpg)](/files/media/video/Ritchie2.mp4) [![Examining the Conventions](/files/media/video/thumbs/Ritchie4.jpg)](/files/media/video/Ritchie3.mp4) [![How Cartoons Have Changed](/files/media/video/thumbs/Ritchie8.jpg)](/files/media/video/Ritchie4.mp4)

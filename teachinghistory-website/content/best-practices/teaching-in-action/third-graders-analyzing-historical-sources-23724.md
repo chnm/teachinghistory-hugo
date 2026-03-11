@@ -27,8 +27,8 @@ grade_levels:
 ---
 
 
-/sites/default/files/media/video/BHH\_classroom1.mp4
+/files/media/video/BHH\_classroom1.mp4
 
 video/mp4
 
-[![Group Analysis](/files/media/video/thumbs/BHH_classroom1.jpg)](/sites/default/files/media/video/BHH_classroom1.mp4) [![Critical Thinking](/files/media/video/thumbs/BHH_classroom2.jpg)](/sites/default/files/media/video/BHH_classroom2.mp4) [![Connecting the Source](/files/media/video/thumbs/BHH_classroom3.jpg)](/sites/default/files/media/video/BHH_classroom3.mp4) [![Teacher Interview](/files/media/video/thumbs/BHH_classroom4.jpg)](/sites/default/files/media/video/BHH_classroom4.mp4)
+[![Group Analysis](/files/media/video/thumbs/BHH_classroom1.jpg)](/files/media/video/BHH_classroom1.mp4) [![Critical Thinking](/files/media/video/thumbs/BHH_classroom2.jpg)](/files/media/video/BHH_classroom2.mp4) [![Connecting the Source](/files/media/video/thumbs/BHH_classroom3.jpg)](/files/media/video/BHH_classroom3.mp4) [![Teacher Interview](/files/media/video/thumbs/BHH_classroom4.jpg)](/files/media/video/BHH_classroom4.mp4)

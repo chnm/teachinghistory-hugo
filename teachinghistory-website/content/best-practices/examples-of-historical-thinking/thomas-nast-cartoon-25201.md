@@ -19,8 +19,8 @@ author_image: /files/author_image/author_o_malley.jpg
 
 
 
-/sites/default/files/media/video/Omalley1.mp4
+/files/media/video/Omalley1.mp4
 
 video/mp4
 
-[![How did you first get interested in this cartoon? ](/files/media/video/thumbs/Omalley1.jpg)](/sites/default/files/media/video/Omalley1.mp4) [![How do you begin to understand this cartoon?](/files/media/video/thumbs/Omalley2.jpg)](/sites/default/files/media/video/Omalley2.mp4) [![What would you want a student to ask about this cartoon?](/files/media/video/thumbs/Omalley3.jpg)](/sites/default/files/media/video/Omalley3.mp4) [![What do you need to know to make sense of this cartoon?](/files/media/video/thumbs/Omalley4.jpg)](/sites/default/files/media/video/Omalley4.mp4)
+[![How did you first get interested in this cartoon? ](/files/media/video/thumbs/Omalley1.jpg)](/files/media/video/Omalley1.mp4) [![How do you begin to understand this cartoon?](/files/media/video/thumbs/Omalley2.jpg)](/files/media/video/Omalley2.mp4) [![What would you want a student to ask about this cartoon?](/files/media/video/thumbs/Omalley3.jpg)](/files/media/video/Omalley3.mp4) [![What do you need to know to make sense of this cartoon?](/files/media/video/thumbs/Omalley4.jpg)](/files/media/video/Omalley4.mp4)

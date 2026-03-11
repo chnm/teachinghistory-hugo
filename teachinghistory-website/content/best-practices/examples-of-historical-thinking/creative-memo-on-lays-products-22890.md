@@ -19,8 +19,8 @@ author_image: /files/author_image/RogerHorowitz.jpg
 
 
 
-/sites/default/files/media/video/RHSegment1.mp4
+/files/media/video/RHSegment1.mp4
 
 video/mp4
 
-[![Looking at the Document ](/files/media/video/thumbs/RHSegment1.jpg)](/sites/default/files/media/video/RHSegment1.mp4) [![Reading Between the Lines](/files/media/video/thumbs/RHSegment2.jpg)](/sites/default/files/media/video/RHSegment2.mp4) [![Teaching Strategies ](/files/media/video/thumbs/RHSegment3.jpg)](/sites/default/files/media/video/RHSegment3.mp4)
+[![Looking at the Document ](/files/media/video/thumbs/RHSegment1.jpg)](/files/media/video/RHSegment1.mp4) [![Reading Between the Lines](/files/media/video/thumbs/RHSegment2.jpg)](/files/media/video/RHSegment2.mp4) [![Teaching Strategies ](/files/media/video/thumbs/RHSegment3.jpg)](/files/media/video/RHSegment3.mp4)

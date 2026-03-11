@@ -20,8 +20,8 @@ author_image: /files/author_image/author_peterson.jpg
 
 
 
-/sites/default/files/media/video/peterson1.mp4
+/files/media/video/peterson1.mp4
 
 video/mp4
 
-[![Harper's Language](/files/media/video/thumbs/peterson1.jpg)](/sites/default/files/media/video/peterson1.mp4) [![Truth's Language](/files/media/video/thumbs/peterson2.jpg)](/sites/default/files/media/video/peterson2.mp4) [![Addressing an Audience](/files/media/video/thumbs/peterson3.jpg)](/sites/default/files/media/video/peterson3.mp4) [![Comparing Versions](/files/media/video/thumbs/peterson4.jpg)](/sites/default/files/media/video/peterson4.mp4)
+[![Harper's Language](/files/media/video/thumbs/peterson1.jpg)](/files/media/video/peterson1.mp4) [![Truth's Language](/files/media/video/thumbs/peterson2.jpg)](/files/media/video/peterson2.mp4) [![Addressing an Audience](/files/media/video/thumbs/peterson3.jpg)](/files/media/video/peterson3.mp4) [![Comparing Versions](/files/media/video/thumbs/peterson4.jpg)](/files/media/video/peterson4.mp4)

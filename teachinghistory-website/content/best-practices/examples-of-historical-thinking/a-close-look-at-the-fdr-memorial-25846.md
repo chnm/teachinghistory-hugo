@@ -14,8 +14,8 @@ splash_image: /files/fdrsplash_0.jpg
 ---
 
 
-/sites/default/files/media/video/fdr1.mp4
+/files/media/video/fdr1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/fdr1.jpg)](/sites/default/files/media/video/fdr1.mp4) [![Establishing the Theme](/files/media/video/thumbs/fdr2.jpg)](/sites/default/files/media/video/fdr2.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/fdr1.jpg)](/files/media/video/fdr1.mp4) [![Establishing the Theme](/files/media/video/thumbs/fdr2.jpg)](/files/media/video/fdr2.mp4)

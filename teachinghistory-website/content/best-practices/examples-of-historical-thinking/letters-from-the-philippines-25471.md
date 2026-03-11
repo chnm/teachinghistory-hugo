@@ -19,8 +19,8 @@ author_image: /files/author_image/author_kramer.jpg
 
 
 
-/sites/default/files/media/video/Kramer1.mp4
+/files/media/video/Kramer1.mp4
 
 video/mp4
 
-[![The U.S. in the Philippines](/files/media/video/thumbs/Kramer1.jpg)](/sites/default/files/media/video/Kramer1.mp4) [![Changing Views](/files/media/video/thumbs/Kramer2.jpg)](/sites/default/files/media/video/Kramer2.mp4) [![The Language of Liberation](/files/media/video/thumbs/Kramer3.jpg)](/sites/default/files/media/video/Kramer3.mp4) [![Letting Sources Speak](/files/media/video/thumbs/Kramer4.jpg)](/sites/default/files/media/video/Kramer4.mp4)
+[![The U.S. in the Philippines](/files/media/video/thumbs/Kramer1.jpg)](/files/media/video/Kramer1.mp4) [![Changing Views](/files/media/video/thumbs/Kramer2.jpg)](/files/media/video/Kramer2.mp4) [![The Language of Liberation](/files/media/video/thumbs/Kramer3.jpg)](/files/media/video/Kramer3.mp4) [![Letting Sources Speak](/files/media/video/thumbs/Kramer4.jpg)](/files/media/video/Kramer4.mp4)

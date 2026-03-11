@@ -22,8 +22,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Ridgway1.mp4
+/files/media/video/Ridgway1.mp4
 
 video/mp4
 
-[![The Bill of Rights in Context](/files/media/video/thumbs/Ridgway1.jpg)](/sites/default/files/media/video/Ridgway1.mp4) [![Federalist vs. Anti-Federalists](/files/media/video/thumbs/Ridgway2.jpg)](/sites/default/files/media/video/Ridgway2.mp4) [![Looking at the Amendments](/files/media/video/thumbs/Ridgway3.jpg)](/sites/default/files/media/video/Ridgway3.mp4) [![Having the Right](/files/media/video/thumbs/Ridgway4.jpg)](/sites/default/files/media/video/Ridgway4.mp4)
+[![The Bill of Rights in Context](/files/media/video/thumbs/Ridgway1.jpg)](/files/media/video/Ridgway1.mp4) [![Federalist vs. Anti-Federalists](/files/media/video/thumbs/Ridgway2.jpg)](/files/media/video/Ridgway2.mp4) [![Looking at the Amendments](/files/media/video/thumbs/Ridgway3.jpg)](/files/media/video/Ridgway3.mp4) [![Having the Right](/files/media/video/thumbs/Ridgway4.jpg)](/files/media/video/Ridgway4.mp4)

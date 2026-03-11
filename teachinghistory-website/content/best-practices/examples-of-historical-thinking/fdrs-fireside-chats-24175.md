@@ -23,8 +23,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Allida1.mp4
+/files/media/video/Allida1.mp4
 
 video/mp4
 
-[![FDR's Push for Recovery](/files/media/video/thumbs/Allida1.jpg)](/sites/default/files/media/video/Allida1.mp4) [![First Steps and Beyond](/files/media/video/thumbs/Allida2.jpg)](/sites/default/files/media/video/Allida2.mp4) [![Laying Out Principals](/files/media/video/thumbs/Allida3.jpg)](/sites/default/files/media/video/Allida3.mp4) [![The New Deal Today](/files/media/video/thumbs/Allida4.jpg)](/sites/default/files/media/video/Allida4.mp4)
+[![FDR's Push for Recovery](/files/media/video/thumbs/Allida1.jpg)](/files/media/video/Allida1.mp4) [![First Steps and Beyond](/files/media/video/thumbs/Allida2.jpg)](/files/media/video/Allida2.mp4) [![Laying Out Principals](/files/media/video/thumbs/Allida3.jpg)](/files/media/video/Allida3.mp4) [![The New Deal Today](/files/media/video/thumbs/Allida4.jpg)](/files/media/video/Allida4.mp4)

@@ -15,8 +15,8 @@ grade_levels:
 ---
 
 
-/sites/default/files/media/video/Jamie1.mp4
+/files/media/video/Jamie1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/Jamie1.jpg)](/sites/default/files/media/video/Jamie1.mp4) [![Examining Viewpoints](/files/media/video/thumbs/Jamie2.jpg)](/sites/default/files/media/video/Jamie2.mp4) [![Making Decisions](/files/media/video/thumbs/Jamie3.jpg)](/sites/default/files/media/video/Jamie3.mp4) [![Comparing with the Actual Outcome](/files/media/video/thumbs/Jamie4.jpg)](/sites/default/files/media/video/Jamie4.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/Jamie1.jpg)](/files/media/video/Jamie1.mp4) [![Examining Viewpoints](/files/media/video/thumbs/Jamie2.jpg)](/files/media/video/Jamie2.mp4) [![Making Decisions](/files/media/video/thumbs/Jamie3.jpg)](/files/media/video/Jamie3.mp4) [![Comparing with the Actual Outcome](/files/media/video/thumbs/Jamie4.jpg)](/files/media/video/Jamie4.mp4)

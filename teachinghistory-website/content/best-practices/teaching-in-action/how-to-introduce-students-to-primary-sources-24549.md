@@ -21,8 +21,8 @@ grade_levels:
 ---
 
 
-/sites/default/files/media/video/Marti1.mp4
+/files/media/video/Marti1.mp4
 
 video/mp4
 
-[![Introducing Students to Primary Sources](/files/media/video/thumbs/Marti1.jpg)](/sites/default/files/media/video/Marti1.mp4) [![Comparing and Contrasting](/files/media/video/thumbs/Marti2.jpg)](/sites/default/files/media/video/Marti2.mp4) [![A New Way to Look at History](/files/media/video/thumbs/Marti3.jpg)](/sites/default/files/media/video/Marti3.mp4) [![Scaffolding and Reflection](/files/media/video/thumbs/Marti4.jpg)](/sites/default/files/media/video/Marti4.mp4)
+[![Introducing Students to Primary Sources](/files/media/video/thumbs/Marti1.jpg)](/files/media/video/Marti1.mp4) [![Comparing and Contrasting](/files/media/video/thumbs/Marti2.jpg)](/files/media/video/Marti2.mp4) [![A New Way to Look at History](/files/media/video/thumbs/Marti3.jpg)](/files/media/video/Marti3.mp4) [![Scaffolding and Reflection](/files/media/video/thumbs/Marti4.jpg)](/files/media/video/Marti4.mp4)

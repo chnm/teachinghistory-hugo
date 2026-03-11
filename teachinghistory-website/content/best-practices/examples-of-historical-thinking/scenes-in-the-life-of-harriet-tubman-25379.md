@@ -21,8 +21,8 @@ author_image: /files/author_image/author_miles.jpg
 
 
 
-/sites/default/files/media/video/Tiya1.mp4
+/files/media/video/Tiya1.mp4
 
 video/mp4
 
-[![Who Was Harriet Tubman?](/files/media/video/thumbs/Tiya1.jpg)](/sites/default/files/media/video/Tiya1.mp4) [![Context: Tubman and the Autobiography](/files/media/video/thumbs/Tiya2.jpg)](/sites/default/files/media/video/Tiya2.mp4) [![Slavery and Escape](/files/media/video/thumbs/Tiya3.jpg)](/sites/default/files/media/video/Tiya3.mp4) [![The Importance of the Autobiography](/files/media/video/thumbs/Tiya4.jpg)](/sites/default/files/media/video/Tiya4.mp4)
+[![Who Was Harriet Tubman?](/files/media/video/thumbs/Tiya1.jpg)](/files/media/video/Tiya1.mp4) [![Context: Tubman and the Autobiography](/files/media/video/thumbs/Tiya2.jpg)](/files/media/video/Tiya2.mp4) [![Slavery and Escape](/files/media/video/thumbs/Tiya3.jpg)](/files/media/video/Tiya3.mp4) [![The Importance of the Autobiography](/files/media/video/thumbs/Tiya4.jpg)](/files/media/video/Tiya4.mp4)

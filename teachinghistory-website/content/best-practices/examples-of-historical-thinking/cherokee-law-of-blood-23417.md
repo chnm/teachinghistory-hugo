@@ -21,8 +21,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Malinda1.mp4
+/files/media/video/Malinda1.mp4
 
 video/mp4
 
-[![Reading the Document](/files/media/video/thumbs/Malinda1.jpg)](/sites/default/files/media/video/Malinda1.mp4) [![Understanding the Document](/files/media/video/thumbs/Malinda2.jpg)](/sites/default/files/media/video/Malinda2.mp4) [![Teaching Strategies](/files/media/video/thumbs/Malinda3.jpg)](/sites/default/files/media/video/Malinda3.mp4)
+[![Reading the Document](/files/media/video/thumbs/Malinda1.jpg)](/files/media/video/Malinda1.mp4) [![Understanding the Document](/files/media/video/thumbs/Malinda2.jpg)](/files/media/video/Malinda2.mp4) [![Teaching Strategies](/files/media/video/thumbs/Malinda3.jpg)](/files/media/video/Malinda3.mp4)

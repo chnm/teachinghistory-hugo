@@ -16,8 +16,8 @@ grade_levels:
 ---
 
 
-/sites/default/files/media/video/Manassas1.mp4
+/files/media/video/Manassas1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/Manassas1.jpg)](/sites/default/files/media/video/Manassas1.mp4) [![Examining Viewpoints](/files/media/video/thumbs/Manassas2.jpg)](/sites/default/files/media/video/Manassas2.mp4) [![Making Decisions](/files/media/video/thumbs/Manassas3.jpg)](/sites/default/files/media/video/Manassas3.mp4) [![Comparing with the Actual Outcome](/files/media/video/thumbs/Manassas4.jpg)](/sites/default/files/media/video/Manassas4.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/Manassas1.jpg)](/files/media/video/Manassas1.mp4) [![Examining Viewpoints](/files/media/video/thumbs/Manassas2.jpg)](/files/media/video/Manassas2.mp4) [![Making Decisions](/files/media/video/thumbs/Manassas3.jpg)](/files/media/video/Manassas3.mp4) [![Comparing with the Actual Outcome](/files/media/video/thumbs/Manassas4.jpg)](/files/media/video/Manassas4.mp4)

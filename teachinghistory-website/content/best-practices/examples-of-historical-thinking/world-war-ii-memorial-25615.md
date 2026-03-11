@@ -24,8 +24,8 @@ splash_image: /files/warmemorial2.jpg
 ---
 
 
-/sites/default/files/media/video/warmemorial2.mp4
+/files/media/video/warmemorial2.mp4
 
 video/mp4
 
-[![World War II Memorial](/files/media/video/thumbs/warmemorial2.jpg)](/sites/default/files/media/video/warmemorial2.mp4)
+[![World War II Memorial](/files/media/video/thumbs/warmemorial2.jpg)](/files/media/video/warmemorial2.mp4)

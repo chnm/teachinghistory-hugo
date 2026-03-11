@@ -13,8 +13,8 @@ splash_image: /files/mysterypocketsplash_0.jpg
 ---
 
 
-/sites/default/files/media/video/mysterypocket1.mp4
+/files/media/video/mysterypocket1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/mysterypocket1.jpg)](/sites/default/files/media/video/mysterypocket1.mp4) [![Establishing the Theme](/files/media/video/thumbs/mysterypocket2.jpg)](/sites/default/files/media/video/mysterypocket2.mp4) [![Establishing the Theme](/files/media/video/thumbs/mysterypocket3.jpg)](/sites/default/files/media/video/mysterypocket3.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/mysterypocket1.jpg)](/files/media/video/mysterypocket1.mp4) [![Establishing the Theme](/files/media/video/thumbs/mysterypocket2.jpg)](/files/media/video/mysterypocket2.mp4) [![Establishing the Theme](/files/media/video/thumbs/mysterypocket3.jpg)](/files/media/video/mysterypocket3.mp4)

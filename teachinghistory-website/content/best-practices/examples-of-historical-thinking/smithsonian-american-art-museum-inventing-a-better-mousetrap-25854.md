@@ -13,8 +13,8 @@ splash_image: /files/patentsplash_0.jpg
 ---
 
 
-/sites/default/files/media/video/patents1.mp4
+/files/media/video/patents1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/patents1.jpg)](/sites/default/files/media/video/patents1.mp4) [![Establishing the Theme](/files/media/video/thumbs/patents2.jpg)](/sites/default/files/media/video/patents2.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/patents1.jpg)](/files/media/video/patents1.mp4) [![Establishing the Theme](/files/media/video/thumbs/patents2.jpg)](/files/media/video/patents2.mp4)

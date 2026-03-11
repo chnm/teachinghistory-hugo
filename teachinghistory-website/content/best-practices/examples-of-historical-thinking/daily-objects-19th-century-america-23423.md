@@ -26,8 +26,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/David1.mp4
+/files/media/video/David1.mp4
 
 video/mp4
 
-[![Hitchcock Chair](/files/media/video/thumbs/David1.jpg)](/sites/default/files/media/video/David1.mp4) [![Moore Family Portrait ](/files/media/video/thumbs/David2.jpg)](/sites/default/files/media/video/David2.mp4) [![Across the Continent Lithograph](/files/media/video/thumbs/David3.jpg)](/sites/default/files/media/video/David3.mp4)
+[![Hitchcock Chair](/files/media/video/thumbs/David1.jpg)](/files/media/video/David1.mp4) [![Moore Family Portrait ](/files/media/video/thumbs/David2.jpg)](/files/media/video/David2.mp4) [![Across the Continent Lithograph](/files/media/video/thumbs/David3.jpg)](/files/media/video/David3.mp4)

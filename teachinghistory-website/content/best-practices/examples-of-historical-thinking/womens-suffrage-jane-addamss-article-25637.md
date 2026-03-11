@@ -20,8 +20,8 @@ author_image: /files/author_image/tj_headshot_with_brown_blurred_background_4.jp
 
 
 
-/sites/default/files/media/video/Boisseau4a.mp4
+/files/media/video/Boisseau4a.mp4
 
 video/mp4
 
-[![Why Women Should Vote](/files/media/video/thumbs/Boisseau4a.jpg)](/sites/default/files/media/video/Boisseau4a.mp4) [![Issues Then and Now](/files/media/video/thumbs/Boisseau4b.jpg)](/sites/default/files/media/video/Boisseau4b.mp4)
+[![Why Women Should Vote](/files/media/video/thumbs/Boisseau4a.jpg)](/files/media/video/Boisseau4a.mp4) [![Issues Then and Now](/files/media/video/thumbs/Boisseau4b.jpg)](/files/media/video/Boisseau4b.mp4)

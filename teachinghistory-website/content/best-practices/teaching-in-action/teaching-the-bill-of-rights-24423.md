@@ -23,8 +23,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/BillofRights1.mp4
+/files/media/video/BillofRights1.mp4
 
 video/mp4
 
-[![Introducing Students to Primary Sources](/files/media/video/thumbs/BillofRights1.jpg)](/sites/default/files/media/video/BillofRights1.mp4) [![Comparing and Contrasting](/files/media/video/thumbs/BillofRights2.jpg)](/sites/default/files/media/video/BillofRights2.mp4) [![A New Way to Look at History](/files/media/video/thumbs/BillofRights3.jpg)](/sites/default/files/media/video/BillofRights3.mp4)
+[![Introducing Students to Primary Sources](/files/media/video/thumbs/BillofRights1.jpg)](/files/media/video/BillofRights1.mp4) [![Comparing and Contrasting](/files/media/video/thumbs/BillofRights2.jpg)](/files/media/video/BillofRights2.mp4) [![A New Way to Look at History](/files/media/video/thumbs/BillofRights3.jpg)](/files/media/video/BillofRights3.mp4)

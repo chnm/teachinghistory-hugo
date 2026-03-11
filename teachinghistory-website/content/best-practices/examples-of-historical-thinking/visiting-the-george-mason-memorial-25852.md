@@ -14,8 +14,8 @@ splash_image: /files/georgemasonmem_0.jpg
 ---
 
 
-/sites/default/files/media/video/georgemasonmem.mp4
+/files/media/video/georgemasonmem.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/georgemasonmem.jpg)](/sites/default/files/media/video/georgemasonmem.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/georgemasonmem.jpg)](/files/media/video/georgemasonmem.mp4)

@@ -24,8 +24,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Manning1.mp4
+/files/media/video/Manning1.mp4
 
 video/mp4
 
-[![Introducing the Letters and a Union Soldier's Letter](/files/media/video/thumbs/Manning1.jpg)](/sites/default/files/media/video/Manning1.mp4) [![Union and Confederate Soldiers' Letters](/files/media/video/thumbs/Manning2.jpg)](/sites/default/files/media/video/Manning2.mp4) [![A Confederate Soldier's Letter and a Black Union Soldier's](/files/media/video/thumbs/Manning3.jpg)](/sites/default/files/media/video/Manning3.mp4) [![A Black Union Soldier's Letter](/files/media/video/thumbs/Manning4.jpg)](/sites/default/files/media/video/Manning4.mp4)
+[![Introducing the Letters and a Union Soldier's Letter](/files/media/video/thumbs/Manning1.jpg)](/files/media/video/Manning1.mp4) [![Union and Confederate Soldiers' Letters](/files/media/video/thumbs/Manning2.jpg)](/files/media/video/Manning2.mp4) [![A Confederate Soldier's Letter and a Black Union Soldier's](/files/media/video/thumbs/Manning3.jpg)](/files/media/video/Manning3.mp4) [![A Black Union Soldier's Letter](/files/media/video/thumbs/Manning4.jpg)](/files/media/video/Manning4.mp4)

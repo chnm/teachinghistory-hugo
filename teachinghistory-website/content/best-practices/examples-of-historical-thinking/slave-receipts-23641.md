@@ -24,8 +24,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Thurston1.mp4
+/files/media/video/Thurston1.mp4
 
 video/mp4
 
-[![Looking at the Document](/files/media/video/thumbs/Thurston1.jpg)](/sites/default/files/media/video/Thurston1.mp4) [![Close Reading](/files/media/video/thumbs/Thurston2.jpg)](/sites/default/files/media/video/Thurston2.mp4) [![Slavery and the Law](/files/media/video/thumbs/Thurston3.jpg)](/sites/default/files/media/video/Thurston3.mp4) [![Historical Context](/files/media/video/thumbs/Thurston4.jpg)](/sites/default/files/media/video/Thurston4.mp4)
+[![Looking at the Document](/files/media/video/thumbs/Thurston1.jpg)](/files/media/video/Thurston1.mp4) [![Close Reading](/files/media/video/thumbs/Thurston2.jpg)](/files/media/video/Thurston2.mp4) [![Slavery and the Law](/files/media/video/thumbs/Thurston3.jpg)](/files/media/video/Thurston3.mp4) [![Historical Context](/files/media/video/thumbs/Thurston4.jpg)](/files/media/video/Thurston4.mp4)

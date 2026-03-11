@@ -13,8 +13,8 @@ splash_image: /files/splash2_0_0.jpg
 ---
 
 
-/sites/default/files/media/video/achelous1.mp4
+/files/media/video/achelous1.mp4
 
 video/mp4
 
-[![Establishing the Theme](/files/media/video/thumbs/achelous1.jpg)](/sites/default/files/media/video/achelous1.mp4) [![Establishing the Theme](/files/media/video/thumbs/achelous2.jpg)](/sites/default/files/media/video/achelous2.mp4)
+[![Establishing the Theme](/files/media/video/thumbs/achelous1.jpg)](/files/media/video/achelous1.mp4) [![Establishing the Theme](/files/media/video/thumbs/achelous2.jpg)](/files/media/video/achelous2.mp4)

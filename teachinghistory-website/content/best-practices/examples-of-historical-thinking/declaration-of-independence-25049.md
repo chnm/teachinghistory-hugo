@@ -25,8 +25,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Zagarri1.mp4
+/files/media/video/Zagarri1.mp4
 
 video/mp4
 
-[![Leading up to the Declaration](/files/media/video/thumbs/Zagarri1.jpg)](/sites/default/files/media/video/OZagarri1.mp4) [![Beginning to Read the Declaration](/files/media/video/thumbs/Zagarri2.jpg)](/sites/default/files/media/video/Zagarri2.mp4) [![The Grievances](/files/media/video/thumbs/Zagarri3.jpg)](/sites/default/files/media/video/Zagarri3.mp4) [![Effects of the Declaration](/files/media/video/thumbs/Zagarri4.jpg)](/sites/default/files/media/video/Zagarri4.mp4)
+[![Leading up to the Declaration](/files/media/video/thumbs/Zagarri1.jpg)](/files/media/video/OZagarri1.mp4) [![Beginning to Read the Declaration](/files/media/video/thumbs/Zagarri2.jpg)](/files/media/video/Zagarri2.mp4) [![The Grievances](/files/media/video/thumbs/Zagarri3.jpg)](/files/media/video/Zagarri3.mp4) [![Effects of the Declaration](/files/media/video/thumbs/Zagarri4.jpg)](/files/media/video/Zagarri4.mp4)

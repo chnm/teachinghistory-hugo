@@ -26,8 +26,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/MassRes1.mp4
+/files/media/video/MassRes1.mp4
 
 video/mp4
 
-[![Cartoons and Newspapers](/files/media/video/thumbs/MassRes1.jpg)](/sites/default/files/media/video/MassRes1.mp4) [![Segregation](/files/media/video/thumbs/MassRes2.jpg)](/sites/default/files/media/video/MassRes2.mp4) [![Looking at the Cartoons](/files/media/video/thumbs/MassRes3.jpg)](/sites/default/files/media/video/MassRes3.mp4) [![Teaching Massive Resistance](/files/media/video/thumbs/MassRes4.jpg)](/sites/default/files/media/video/MassRes4.mp4)
+[![Cartoons and Newspapers](/files/media/video/thumbs/MassRes1.jpg)](/files/media/video/MassRes1.mp4) [![Segregation](/files/media/video/thumbs/MassRes2.jpg)](/files/media/video/MassRes2.mp4) [![Looking at the Cartoons](/files/media/video/thumbs/MassRes3.jpg)](/files/media/video/MassRes3.mp4) [![Teaching Massive Resistance](/files/media/video/thumbs/MassRes4.jpg)](/files/media/video/MassRes4.mp4)

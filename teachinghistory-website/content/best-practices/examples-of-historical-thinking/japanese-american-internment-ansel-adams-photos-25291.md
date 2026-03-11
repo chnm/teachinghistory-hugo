@@ -19,8 +19,8 @@ author_image: /files/author_image/author_wu_0.jpg
 
 
 
-/sites/default/files/media/video/Wu1.mp4
+/files/media/video/Wu1.mp4
 
 video/mp4
 
-[![Capturing a Sense of Uncertainty](/files/media/video/thumbs/Wu1.jpg)](/sites/default/files/media/video/Wu1.mp4) [![Striving for Normalcy](/files/media/video/thumbs/Wu2.jpg)](/sites/default/files/media/video/Wu2.mp4) [![Artifacts, Images, and Oral History](/files/media/video/thumbs/Wu3.jpg)](/sites/default/files/media/video/Wu3.mp4) [![Responding to Injustice](/files/media/video/thumbs/Wu4.jpg)](/sites/default/files/media/video/Wu4.mp4)
+[![Capturing a Sense of Uncertainty](/files/media/video/thumbs/Wu1.jpg)](/files/media/video/Wu1.mp4) [![Striving for Normalcy](/files/media/video/thumbs/Wu2.jpg)](/files/media/video/Wu2.mp4) [![Artifacts, Images, and Oral History](/files/media/video/thumbs/Wu3.jpg)](/files/media/video/Wu3.mp4) [![Responding to Injustice](/files/media/video/thumbs/Wu4.jpg)](/files/media/video/Wu4.mp4)

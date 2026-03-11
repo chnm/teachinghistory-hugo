@@ -22,8 +22,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/Sears1.mp4
+/files/media/video/Sears1.mp4
 
 video/mp4
 
-[![Primary Source: Exchange of Diplomatic Letters](/files/media/video/thumbs/Sears1.jpg)](/sites/default/files/media/video/Sears1.mp4) [![Historical and Geographical Context](/files/media/video/thumbs/Sears2.jpg)](/sites/default/files/media/video/Sears2.mp4) [![Helping Students Question the Text](/files/media/video/thumbs/Sears3.jpg)](/sites/default/files/media/video/Sears3.mp4) [![What Happened Later?](/files/media/video/thumbs/Sears4.jpg)](/sites/default/files/media/video/Sears4.mp4)
+[![Primary Source: Exchange of Diplomatic Letters](/files/media/video/thumbs/Sears1.jpg)](/files/media/video/Sears1.mp4) [![Historical and Geographical Context](/files/media/video/thumbs/Sears2.jpg)](/files/media/video/Sears2.mp4) [![Helping Students Question the Text](/files/media/video/thumbs/Sears3.jpg)](/files/media/video/Sears3.mp4) [![What Happened Later?](/files/media/video/thumbs/Sears4.jpg)](/files/media/video/Sears4.mp4)

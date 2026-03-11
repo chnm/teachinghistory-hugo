@@ -19,8 +19,8 @@ author_image: /files/author_image/author_hans.jpg
 
 
 
-/sites/default/files/media/video/bergman1.mp4
+/files/media/video/bergman1.mp4
 
 video/mp4
 
-[![What's interesting about this excerpt of ](/files/null)](/sites/default/files/media/video/bergman1.mp4) [![What advice would you give to a first-time reader?](/files/media/video/thumbs/bergman2.jpg)](/sites/default/files/media/video/bergman2.mp4) [![How would you put the story in a larger context?](/files/media/video/thumbs/bergman3.jpg)](/sites/default/files/media/video/bergman3.mp4) [![What tips do you have for teaching literature?](/files/media/video/thumbs/bergman4.jpg)](/sites/default/files/media/video/bergman4.mp4)
+[![What's interesting about this excerpt of ](/files/null)](/files/media/video/bergman1.mp4) [![What advice would you give to a first-time reader?](/files/media/video/thumbs/bergman2.jpg)](/files/media/video/bergman2.mp4) [![How would you put the story in a larger context?](/files/media/video/thumbs/bergman3.jpg)](/files/media/video/bergman3.mp4) [![What tips do you have for teaching literature?](/files/media/video/thumbs/bergman4.jpg)](/files/media/video/bergman4.mp4)

@@ -29,8 +29,8 @@ grade_levels:
 
 
 
-/sites/default/files/media/video/TIA\_Stacy5.mp4
+/files/media/video/TIA\_Stacy5.mp4
 
 video/mp4
 
-[![What is Important to John Smith?](/files/media/video/thumbs/TIA_Stacy5.jpg)](/sites/default/files/media/video/TIA_Stacy5.mp4) [![What Do You See?](/files/media/video/thumbs/TIA_Stacy6.jpg)](/sites/default/files/media/video/TIA_Stacy6.mp4) [![Present and Past Perspectives](/files/media/video/thumbs/TIA_Stacy7.jpg)](/sites/default/files/media/video/TIA_Stacy7.mp4) [![Arriving at Conclusions](/files/media/video/thumbs/TIA_Stacy8.jpg)](/sites/default/files/media/video/TIA_Stacy8.mp4)
+[![What is Important to John Smith?](/files/media/video/thumbs/TIA_Stacy5.jpg)](/files/media/video/TIA_Stacy5.mp4) [![What Do You See?](/files/media/video/thumbs/TIA_Stacy6.jpg)](/files/media/video/TIA_Stacy6.mp4) [![Present and Past Perspectives](/files/media/video/thumbs/TIA_Stacy7.jpg)](/files/media/video/TIA_Stacy7.mp4) [![Arriving at Conclusions](/files/media/video/thumbs/TIA_Stacy8.jpg)](/files/media/video/TIA_Stacy8.mp4)
