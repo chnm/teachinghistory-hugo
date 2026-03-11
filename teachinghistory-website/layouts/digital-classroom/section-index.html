@@ -1,0 +1,28 @@
+{{/*
+  Digital Classroom section index — carousel page showing only
+  "Tech for Teachers" and "Beyond the Chalkboard" subsections.
+  Ask a Digital Historian is excluded.
+*/}}
+
+{{ define "main" }}
+{{ $color := partial "section-color.html" .Section }}
+{{ partial "page-hero.html" (dict "title" .Title "color" $color) }}
+
+{{ $tint := partial "section-tint.html" .Section }}
+<main class="flex-1 {{ $tint }}">
+  <div class="max-w-7xl mx-auto px-6 py-10">
+    {{ range .Sections.ByWeight }}
+      {{ if not (eq .File.ContentBaseName "ask-a-digital-historian") }}
+        {{ partial "horizontal-carousel.html" (dict
+            "id"          .File.ContentBaseName
+            "heading"     .Title
+            "description" (.Params.description | default "")
+            "viewAllURL"  .RelPermalink
+            "color"       $color
+            "pages"       .Pages
+        ) }}
+      {{ end }}
+    {{ end }}
+  </div>
+</main>
+{{ end }}

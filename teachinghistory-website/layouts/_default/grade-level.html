@@ -32,34 +32,35 @@
   {{ end }}
 {{ end }}
 
-{{ if $heroPool }}
-  {{ $picked := index ($heroPool | shuffle) 0 }}
-  <section class="bg-pale-blue">
-    <div class="max-w-7xl mx-auto flex min-h-[360px]">
-
-      {{/* Left — Teacher's Pick card */}}
-      <div class="w-1/2 flex flex-col justify-center px-10 py-12">
-        <p class="font-heading text-xs uppercase tracking-widest mb-3">Teacher's Pick</p>
-        <h2 class="font-heading text-3xl leading-tight mb-4 normal-case">{{ $picked.Title }}</h2>
-        <p class="font-body text-sm leading-relaxed mb-6">
-          {{ $picked.Params.summary | truncate 200 }}
-        </p>
-        {{ partial "arrow-button.html" (dict "text" "Read More" "href" $picked.RelPermalink "color" "black") }}
-      </div>
-
-      {{/* Right — splash image */}}
-      <div class="w-1/2">
-        <img src="{{ $picked.Params.splash_image }}"
-             alt="{{ $picked.Title }}"
-             class="w-full h-full object-cover">
-      </div>
-
-    </div>
-  </section>
-{{ end }}
-
 {{/* ── Carousel rows ── */}}
 <main class="flex-1 bg-pale-blue-tint">
+
+  {{/* ── Teacher's Pick ── */}}
+  {{ if $heroPool }}
+    {{ $picked := index ($heroPool | shuffle) 0 }}
+    <section class="bg-white">
+      <div class="max-w-7xl mx-auto flex min-h-[320px]">
+
+        {{/* Left — Teacher's Pick card */}}
+        <div class="w-1/2 flex flex-col justify-center px-10 py-10">
+          <p class="font-heading text-xs uppercase tracking-widest mb-3">Teacher's Pick</p>
+          <h2 class="font-heading text-3xl leading-tight mb-4 normal-case">{{ $picked.Title }}</h2>
+          <p class="font-body text-sm leading-relaxed mb-6">
+            {{ $picked.Params.summary | truncate 200 }}
+          </p>
+          {{ partial "arrow-button.html" (dict "text" "Read More" "href" $picked.RelPermalink "color" "black") }}
+        </div>
+
+        {{/* Right — splash image */}}
+        <div class="w-1/2">
+          <img src="{{ $picked.Params.splash_image }}"
+               alt="{{ $picked.Title }}"
+               class="w-full h-full object-cover">
+        </div>
+
+      </div>
+    </section>
+  {{ end }}
   <div class="max-w-7xl mx-auto px-6 py-10">
 
     {{/* Pre-shuffle graded pages and split across grade-based rows */}}
