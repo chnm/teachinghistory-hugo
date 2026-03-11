@@ -26,7 +26,7 @@
 
 Teachinghistory.org is a K–12 history education resource site created by the Roy Rosenzweig Center for History and New Media (CHNM) at George Mason University, with funding from the U.S. Department of Education. The site provides lesson plans, teaching guides, primary source reviews, best practices, and historian Q&A resources for elementary, middle, and high school teachers.
 
-This repository is a full rebuild of the frontend as a Hugo static site, migrating from a legacy Drupal CMS. The design is driven by a comprehensive spec in [DESIGN.md](./DESIGN.md). Content was exported from Drupal as Markdown files with frontmatter preserving original URLs and metadata.
+This repository is a full rebuild of the frontend as a Hugo static site, migrating from a legacy Drupal CMS. The design is driven by a comprehensive spec in [docs/DESIGN_SPEC.md](./docs/DESIGN_SPEC.md). Content was exported from Drupal as Markdown files with frontmatter preserving original URLs and metadata.
 
 ---
 
@@ -94,12 +94,15 @@ This repository is a full rebuild of the frontend as a Hugo static site, migrati
 
 ```
 teachinghistory-hugo/
-├── DESIGN.md                          # Master design specification
 ├── AGENTS.md                          # This file — developer/AI context
 ├── SPEC.md                            # Product specification
 ├── justfile                           # Task runner commands
-├── th_logo.png                        # Horizontal logo source
-├── th_logo_stacked.png                # Stacked logo source
+├── docs/
+│   ├── DESIGN_SPEC.md                 # Master design specification
+│   ├── architecture.md                # Technical architecture overview
+│   ├── content.md                     # Content management guide
+│   ├── staff.md                       # Staff data management
+│   └── todo.md                        # Human-readable action items
 └── teachinghistory-website/           # Hugo site root
     ├── hugo.toml                      # Hugo configuration
     ├── package.json                   # npm dependencies (Tailwind, PostCSS)
@@ -140,18 +143,39 @@ teachinghistory-hugo/
     │   │   ├── baseof.html            # Base template (fonts, CSS, nav, footer)
     │   │   ├── list.html              # Default list template
     │   │   ├── single.html            # Default single-page template
-    │   │   └── section-index.html     # Carousel index layout (used by main sections)
+    │   │   ├── section-index.html     # Carousel index layout (main sections)
+    │   │   └── grade-level.html       # Grade-filtered browsing pages
     │   ├── index.html                 # Homepage template
+    │   ├── teaching-materials/        # Section-specific overrides
+    │   │   ├── list.html              # Filterable subsection listing
+    │   │   └── single.html            # Detail page with At a Glance sidebar
+    │   ├── history-content/
+    │   │   ├── list.html
+    │   │   └── single.html
+    │   ├── best-practices/
+    │   │   ├── list.html
+    │   │   └── single.html
+    │   ├── digital-classroom/
+    │   │   ├── list.html
+    │   │   ├── single.html            # Detail page with video player support
+    │   │   └── section-index.html
+    │   ├── about/
+    │   │   └── staff.html             # Staff grid with bio modals
     │   └── partials/
     │       ├── navbar.html            # Fixed top navigation bar
     │       ├── footer.html            # Footer with Quick Links bar
     │       ├── page-hero.html         # Section accent-color hero banner
     │       ├── section-color.html     # Returns accent color name for a section
+    │       ├── section-tint.html      # Returns tint background class
     │       ├── content-card.html      # 250px content card component
     │       ├── horizontal-carousel.html # Scrollable card carousel row
-    │       └── arrow-button.html      # Rounded pill CTA button
+    │       ├── arrow-button.html      # Rounded pill CTA button
+    │       ├── subsection-list.html   # 1/3-2/3 filterable listing layout
+    │       ├── search-*.html          # Section-specific search/filter cards
+    │       └── video-player.html      # Tabbed video player with transcript
     └── static/
-        └── images/                    # Logo files and static assets
+        ├── images/                    # Logo files and static assets
+        └── files/media/video/         # Video files and thumbnails
 ```
 
 ### Key conventions
@@ -263,7 +287,7 @@ No automated test suite currently. Verify changes by:
 ## Notes for AI Agents
 
 **Important context:**
-- All design decisions come from [DESIGN.md](./DESIGN.md) — do not invent layout details, colors, or component behavior
+- All design decisions come from [docs/DESIGN_SPEC.md](./docs/DESIGN_SPEC.md) — do not invent layout details, colors, or component behavior
 - The site is a migration from Drupal — content files contain legacy frontmatter fields that should be preserved
 - The "Ask a Historian" feature has been dropped — do not implement AskAHistorianBanner
 - Nav active state always uses orange (`text-orange`), not per-section accent colors
@@ -276,7 +300,7 @@ No automated test suite currently. Verify changes by:
 - Commit with conventional commit format
 
 **Font substitution:**
-- DESIGN.md may reference "Quincy CF" — use **Lora** (Google Fonts) instead
+- docs/DESIGN_SPEC.md may reference "Quincy CF" — use **Lora** (Google Fonts) instead
 - Body font is **Roboto Slab** (Google Fonts)
 
 **What to avoid:**
@@ -285,11 +309,13 @@ No automated test suite currently. Verify changes by:
 - Don't restructure content directories without understanding the `url` frontmatter mapping
 - Don't modify `url` frontmatter in content files (preserves SEO/link continuity from Drupal)
 
-**Build phases** (from DESIGN.md, in progress):
+**Build phases** (from docs/DESIGN_SPEC.md):
 - Phases 1–4 complete: design tokens, global components, carousel layout, content restructure
-- Phases 5–10 remaining: homepage, detail page layouts, grade-level pages, about/staff, bio modal, lesson format scale
+- Phases 5–8 complete: homepage, detail page layouts (all 4 sections), grade-level pages, about/staff with bio modals
+- Phase 9 complete: lesson format scale, subsection list pages with search/filter
+- Remaining: responsive/mobile design, Digital Classroom video player refinement for best-practices pages
 
 ---
 
-*Last Updated: 2026-03-10*
+*Last Updated: 2026-03-11*
 *This document is maintained for AI agent context and onboarding.*

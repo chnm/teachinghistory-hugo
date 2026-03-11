@@ -180,6 +180,30 @@ Browsing pages that aggregate resources by grade band (Elementary, Middle, High 
 
 ---
 
+### Feature: Subsection List Pages
+
+**Description:**
+Filterable listing pages for each subsection (e.g., Lesson Plan Reviews, Website Reviews) that let teachers browse and search within a content category.
+
+**User Value:**
+Lets teachers find specific resources within a subsection using keyword search and structured filters without needing to scroll through a carousel.
+
+**Functionality:**
+
+- 1/3-2/3 two-column layout: left sidebar (section tint) + right content area (white)
+- Left sidebar (sticky): section title with "← View all" link, search card with section-specific filters
+- Right content area: 2-column grid of content cards (splash image, accent-colored title, summary excerpt)
+- Client-side vanilla JS filtering (no page reload): keyword text search across title + summary + keywords
+- Filter fields vary by section:
+  - **Teaching Materials:** Keyword + Grade Level dropdown (elementary/middle/high)
+  - **History Content:** Keyword + Topic + Time Period dropdowns
+  - **Best Practices:** Keyword only
+  - **Digital Classroom:** Keyword only
+- Live result count ("Showing X of Y results")
+- "No results" message when filters eliminate all cards
+
+---
+
 ### Feature: About Us / Staff Grid
 
 **Description:**
@@ -238,15 +262,15 @@ Team page showing staff members with a bio modal.
 
 ### Explicitly Excluded
 - **Ask a Historian feature** — removed from this rebuild
-- **Search functionality** — not visible in design spec, not planned for V1
+- **Site-wide search** — subsection-level keyword filtering exists; full-text site-wide search not planned for V1
 - **User authentication / accounts** — site is fully public, no login
 - **CMS admin interface** — content managed as Markdown files in the repository
-- **Dynamic filtering or faceted search** on index pages
+- **Faceted search** on section index pages (subsection list pages have basic keyword/dropdown filtering)
 - **Comments or user-generated content**
 - **Email newsletters or subscription management**
 
 ### Not in Design Spec
-- **Digital Classroom section** — not included in Figma files; basic index page exists but no detailed design spec
+- **Digital Classroom section** — not included in Figma files; implemented following the same patterns as the other three sections (carousel index, 2-column detail pages, video player for Beyond the Chalkboard)
 - **Responsive / mobile design** — not explicitly specified in Figma; inferred breakpoints to be confirmed with design team
 
 ### Future Considerations
@@ -265,7 +289,7 @@ Team page showing staff members with a bio modal.
 
 - **Q:** Should the Digital Classroom section follow the same carousel layout as the other three sections?
   - **Context:** Digital Classroom is not in the Figma files but has content and a nav item
-  - **Status:** Currently uses the generic section-index layout; may need its own design
+  - **Status:** Resolved — implemented with carousel index, 2-column detail pages, and video player for Beyond the Chalkboard
 
 ### Content Questions
 - **Q:** Are there content pages that don't belong to any of the four main sections?
@@ -278,5 +302,5 @@ Team page showing staff members with a bio modal.
 
 ---
 
-*Last Updated: 2026-03-10*
+*Last Updated: 2026-03-11*
 *This document is maintained for AI agent context and onboarding.*

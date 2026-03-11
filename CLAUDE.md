@@ -33,7 +33,10 @@ npm scripts exist in `teachinghistory-website/package.json` but Hugo Pipes handl
 `baseof.html` wraps all pages (loads Google Fonts, CSS, navbar, footer). Content templates:
 - `index.html` — homepage
 - `section-index.html` — carousel layout for main sections (triggered by `layout: section-index` in `_index.md`)
-- `list.html` / `single.html` — default fallbacks
+- `grade-level.html` — grade-filtered browsing pages (Elementary, Middle, High School)
+- `list.html` — default list; section-specific `list.html` templates provide filterable subsection listings
+- `single.html` — default detail page fallback
+- Section-specific overrides live in `layouts/<section>/` (e.g., `layouts/digital-classroom/single.html`, `layouts/teaching-materials/list.html`)
 
 ### Component System
 
@@ -44,6 +47,10 @@ Each UI component is a Hugo partial in `layouts/partials/`. Partials receive par
 ```
 
 The `section-color.html` partial maps section name → accent color (`"orange"`, `"yellow"`, `"green"`, `"pale-blue"`). Always use this partial rather than hardcoding colors.
+
+The `video-player.html` partial renders a tabbed video player with transcript from frontmatter `videos` data (used by Beyond the Chalkboard pages in digital-classroom).
+
+The `subsection-list.html` partial provides a 1/3-2/3 filterable listing layout for subsection pages, with a sticky search card in the left sidebar and a 2-column card grid on the right. Each section has its own search card partial (e.g., `search-teaching-materials.html`) with section-appropriate filter fields. Client-side vanilla JS handles keyword search and dropdown filtering.
 
 ### Content Structure
 
@@ -59,7 +66,7 @@ Content files have `url` frontmatter preserving original Drupal paths — do not
 
 ## Design Rules
 
-All design decisions come from `DESIGN.md`. Do not invent layout details, colors, or component behavior.
+All design decisions come from `docs/DESIGN_SPEC.md`. Do not invent layout details, colors, or component behavior.
 
 - **Fonts:** Lora for headings (replaces "Quincy CF" from spec), Roboto Slab for body
 - **Nav active state:** Always orange (`text-orange`), not per-section accent colors
@@ -74,7 +81,8 @@ All design decisions come from `DESIGN.md`. Do not invent layout details, colors
 
 ## Related Docs
 
-- `DESIGN.md` — visual design spec, component inventory, page specifications
+- `docs/DESIGN_SPEC.md` — visual design spec, component inventory, page specifications
 - `AGENTS.md` — detailed tech stack, project structure, development workflow
 - `SPEC.md` — business rules, features, user flows
+- `docs/todo.md` — human-readable action items and known issues
 - `utils/CLAUDE.md` — Drupal conversion script details
