@@ -112,6 +112,17 @@ IMAGE_FIELD_TABLES = {
 # Combine all tracked tables for detection
 ALL_FIELD_TABLES = set(TEXT_FIELD_TABLES) | set(METADATA_FIELD_TABLES) | set(IMAGE_FIELD_TABLES)
 
+# Taxonomy vocabularies to include in Hugo frontmatter
+# Maps Drupal vocabulary machine name → Hugo frontmatter key
+TAXONOMY_VOCAB_MAP = {
+    'time_periods':   'time_periods',
+    'grade_level':    'grade_levels',
+    'topic':          'topics',
+    'evidence':       'evidence_types',
+    'resource_type':  'resource_types',
+    'keywords':       'tags',
+}
+
 
 def slugify(text: str) -> str:
     """Convert text to URL-friendly slug."""
@@ -319,6 +330,47 @@ def parse_path_alias_insert(lines, paths):
                 continue
 
 
+def parse_taxonomy_term_field_data(lines, taxonomy_terms):
+    """Parse taxonomy_term_field_data INSERT.
+
+    Schema: (tid, revision_id, vid, langcode, name, description__value,
+             description__format, weight, changed, ...)
+    We need: tid (0), vid (2), name (4).
+    """
+    rows = _extract_values(lines)
+    print(f"    Found {len(rows)} taxonomy term rows")
+    for row in rows:
+        if len(row) >= 5:
+            try:
+                tid = int(parse_field_value(row[0]))
+                vid = parse_field_value(row[2])
+                name = parse_field_value(row[4])
+                if vid and name:
+                    taxonomy_terms[tid] = {'name': name, 'vid': vid}
+            except (ValueError, IndexError, TypeError):
+                continue
+
+
+def parse_taxonomy_index_insert(lines, taxonomy_index):
+    """Parse taxonomy_index INSERT.
+
+    Schema: (nid, tid, status, sticky, created)
+    We need: nid (0), tid (1).
+    """
+    rows = _extract_values(lines)
+    print(f"    Found {len(rows)} taxonomy index rows")
+    for row in rows:
+        if len(row) >= 2:
+            try:
+                nid = int(parse_field_value(row[0]))
+                tid = int(parse_field_value(row[1]))
+                if nid not in taxonomy_index:
+                    taxonomy_index[nid] = []
+                taxonomy_index[nid].append(tid)
+            except (ValueError, IndexError, TypeError):
+                continue
+
+
 # ---------------------------------------------------------------------------
 # SQL file scanner
 # ---------------------------------------------------------------------------
@@ -342,6 +394,12 @@ def _detect_table(line):
     if 'path_alias' in line and 'migrate' not in line:
         return ('path', 'path_alias')
 
+    if '`taxonomy_term_field_data`' in line:
+        return ('taxonomy_terms', 'taxonomy_term_field_data')
+
+    if '`taxonomy_index`' in line and 'old' not in line and 'migrate' not in line:
+        return ('taxonomy_index', 'taxonomy_index')
+
     # Check all tracked field tables
     for table_name in ALL_FIELD_TABLES:
         # Use backtick-wrapped name for exact match
@@ -356,7 +414,8 @@ def _detect_table(line):
     return None
 
 
-def _flush_buffer(category, table_name, buffer, nodes, fields, paths):
+def _flush_buffer(category, table_name, buffer, nodes, fields, paths,
+                   taxonomy_terms=None, taxonomy_index=None):
     """Process a completed INSERT buffer."""
     if not buffer:
         return
@@ -377,10 +436,14 @@ def _flush_buffer(category, table_name, buffer, nodes, fields, paths):
         mapping = METADATA_FIELD_TABLES if category == 'meta_field' else IMAGE_FIELD_TABLES
         field_key = mapping[table_name]
         parse_text_field_insert(buffer, fields, field_key)
+    elif category == 'taxonomy_terms' and taxonomy_terms is not None:
+        parse_taxonomy_term_field_data(buffer, taxonomy_terms)
+    elif category == 'taxonomy_index' and taxonomy_index is not None:
+        parse_taxonomy_index_insert(buffer, taxonomy_index)
 
 
 def parse_sql_file(sql_path):
-    """Parse SQL file and extract node data, fields, and paths."""
+    """Parse SQL file and extract node data, fields, paths, and taxonomy."""
 
     print(f"Parsing {sql_path}...")
     print("This may take several minutes...")
@@ -388,6 +451,8 @@ def parse_sql_file(sql_path):
     nodes = {}
     fields = {}  # nid -> {field_key: value, ...}
     paths = {}
+    taxonomy_terms = {}   # tid -> {'name': ..., 'vid': ...}
+    taxonomy_index = {}   # nid -> [tid, ...]
 
     current_category = None
     current_table = None
@@ -406,7 +471,8 @@ def parse_sql_file(sql_path):
                 # Flush previous buffer
                 if current_table and buffer:
                     _flush_buffer(current_category, current_table, buffer,
-                                  nodes, fields, paths)
+                                  nodes, fields, paths,
+                                  taxonomy_terms, taxonomy_index)
 
                 current_category, current_table = detected
                 buffer = [line]
@@ -417,7 +483,8 @@ def parse_sql_file(sql_path):
                 # Check if INSERT is complete
                 if line.rstrip().endswith(';'):
                     _flush_buffer(current_category, current_table, buffer,
-                                  nodes, fields, paths)
+                                  nodes, fields, paths,
+                                  taxonomy_terms, taxonomy_index)
                     current_table = None
                     current_category = None
                     buffer = []
@@ -425,25 +492,87 @@ def parse_sql_file(sql_path):
     # Flush any remaining buffer
     if current_table and buffer:
         _flush_buffer(current_category, current_table, buffer,
-                      nodes, fields, paths)
+                      nodes, fields, paths,
+                      taxonomy_terms, taxonomy_index)
 
     # Count how many nodes have at least one field
     nodes_with_fields = sum(1 for nid in nodes if nid in fields)
+    nodes_with_taxonomy = sum(1 for nid in nodes if nid in taxonomy_index)
 
     print(f"\n✓ Extracted {len(nodes):,} nodes, "
           f"{nodes_with_fields:,} with field data, "
-          f"and {len(paths):,} URL paths")
-    return nodes, fields, paths
+          f"{len(paths):,} URL paths, "
+          f"{len(taxonomy_terms):,} taxonomy terms, "
+          f"{nodes_with_taxonomy:,} nodes with taxonomy")
+    return nodes, fields, paths, taxonomy_terms, taxonomy_index
 
 
 # ---------------------------------------------------------------------------
 # HTML preprocessing & Markdown conversion
 # ---------------------------------------------------------------------------
 
+PULLQUOTE_START = 'XPULLQUOTESTARTX'
+PULLQUOTE_END = 'XPULLQUOTEENDX'
+
+
+def apply_filter_autop(text):
+    """Replicate Drupal's filter_autop: convert double newlines to <p> tags.
+
+    Drupal's filtered_html format stores body text with \\r\\n\\r\\n between
+    paragraphs but no <p> tags — those are added at render time by the
+    filter_autop filter.  markdownify needs <p> tags to produce proper
+    paragraph breaks in Markdown output.
+    """
+    if not text:
+        return text
+
+    # Skip if content already has <p> tags
+    if re.search(r'<p[\s>]', text, re.IGNORECASE):
+        return text
+
+    # Normalize line endings
+    text = text.replace('\r\n', '\n')
+
+    # Split on double (or more) newlines
+    chunks = re.split(r'\n{2,}', text)
+
+    # Block-level elements that shouldn't be wrapped in <p>
+    block_re = re.compile(
+        r'^\s*<(div|blockquote|h[1-6]|ul|ol|li|table|tr|td|th|pre|dl|dd|dt'
+        r'|figure|figcaption|section|article|aside|header|footer|nav|form'
+        r'|fieldset|hr)',
+        re.IGNORECASE,
+    )
+
+    result = []
+    for chunk in chunks:
+        chunk = chunk.strip()
+        if not chunk:
+            continue
+        if block_re.match(chunk):
+            result.append(chunk)
+        else:
+            # Convert single newlines within the chunk to <br> (Drupal behavior)
+            chunk = re.sub(r'(?<!\n)\n(?!\n)', '<br />\n', chunk)
+            result.append(f'<p>{chunk}</p>')
+
+    return '\n\n'.join(result)
+
+
 def preprocess_html(html_content):
     """Preprocess HTML to convert custom Drupal elements to standard HTML."""
     if not html_content:
         return html_content
+
+    # Fix malformed pull-quote HTML variants before BS4 parsing
+    html_content = re.sub(
+        r'<div\s+class=pull\s+quote\s*>',
+        '<div class="pull quote">',
+        html_content, flags=re.IGNORECASE,
+    )
+    html_content = html_content.replace(
+        'class=&quot;pull quote&quot;', 'class="pull quote"'
+    )
 
     try:
         soup = BeautifulSoup(html_content, 'html.parser')
@@ -454,9 +583,16 @@ def preprocess_html(html_content):
             div.replace_with(h2)
 
         for div in soup.find_all('div', class_='pull'):
-            blockquote = soup.new_tag('blockquote')
-            blockquote.string = div.get_text()
-            div.replace_with(blockquote)
+            classes = div.get('class', [])
+            if 'quote' in classes:
+                # Pull quote → marker that survives markdownify
+                text = div.get_text().strip()
+                marker = f'\n\n{PULLQUOTE_START}{text}{PULLQUOTE_END}\n\n'
+                div.replace_with(soup.new_string(marker))
+            else:
+                blockquote = soup.new_tag('blockquote')
+                blockquote.string = div.get_text()
+                div.replace_with(blockquote)
 
         if soup.body:
             return ''.join(str(tag) for tag in soup.body.children)
@@ -470,11 +606,21 @@ def html_to_md(html):
     """Convert HTML string to Markdown, returning empty string for None/empty."""
     if not html:
         return ''
+    html = apply_filter_autop(html)
     html = preprocess_html(html)
     try:
-        return md(html, heading_style="ATX")
+        result = md(html, heading_style="ATX")
     except Exception:
-        return html
+        result = html
+
+    # Convert pull-quote markers to Hugo shortcodes
+    result = re.sub(
+        rf'{PULLQUOTE_START}(.*?){PULLQUOTE_END}',
+        r'{{< pullquote >}}\1{{< /pullquote >}}',
+        result,
+        flags=re.DOTALL,
+    )
+    return result
 
 
 # ---------------------------------------------------------------------------
@@ -674,7 +820,8 @@ def compose_body(content_type, field_data):
 # Export
 # ---------------------------------------------------------------------------
 
-def export_to_hugo(nodes, fields, paths, output_dir="content"):
+def export_to_hugo(nodes, fields, paths, output_dir="content",
+                   taxonomy_terms=None, taxonomy_index=None):
     """Export parsed data to Hugo markdown files."""
 
     print(f"\nCreating Hugo markdown files...")
@@ -685,6 +832,8 @@ def export_to_hugo(nodes, fields, paths, output_dir="content"):
     stats = defaultdict(int)
     body_stats = defaultdict(int)
     processed = 0
+    taxonomy_terms = taxonomy_terms or {}
+    taxonomy_index = taxonomy_index or {}
 
     for nid, node in nodes.items():
         if not node['status']:
@@ -735,6 +884,31 @@ def export_to_hugo(nodes, fields, paths, output_dir="content"):
         if node.get('sticky'):
             frontmatter['pinned'] = True
 
+        # Add taxonomy data
+        node_tids = taxonomy_index.get(nid, [])
+        if node_tids:
+            vocab_groups = defaultdict(list)
+            for tid in node_tids:
+                term = taxonomy_terms.get(tid)
+                if term:
+                    vocab_groups[term['vid']].append(term['name'])
+            for vid, fm_key in TAXONOMY_VOCAB_MAP.items():
+                terms = vocab_groups.get(vid, [])
+                if terms:
+                    mapped = sorted(set(terms))
+                    # Map individual grades to grade bands
+                    if vid == 'grade_level':
+                        bands = set()
+                        for g in mapped:
+                            if g in ('K', '1', '2', '3', '4', '5'):
+                                bands.add('elementary')
+                            elif g in ('6', '7', '8'):
+                                bands.add('middle')
+                            elif g in ('9', '10', '11', '12'):
+                                bands.add('high')
+                        mapped = sorted(bands)
+                    frontmatter[fm_key] = mapped
+
         # Write file
         slug = slugify(node['title'])
         if not slug:
@@ -781,7 +955,8 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
-    nodes, fields, paths = parse_sql_file(args.sql)
-    export_to_hugo(nodes, fields, paths, args.output)
+    nodes, fields, paths, taxonomy_terms, taxonomy_index = parse_sql_file(args.sql)
+    export_to_hugo(nodes, fields, paths, args.output,
+                   taxonomy_terms, taxonomy_index)
 
     print(f"\n✓ Conversion complete! Files written to {args.output}/")
