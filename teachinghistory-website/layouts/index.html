@@ -21,6 +21,9 @@
             (dict "name" "Best Practices"     "key" "best-practices"    "color" "green"  "offset" "-translate-y-10")
           }}
 
+          {{/* Build a JSON pool of candidates per section for client-side randomization */}}
+          {{ $poolData := slice }}
+
           {{ range $sections }}
             {{ $section := site.GetPage .key }}
             {{ $color := .color }}
@@ -42,27 +45,43 @@
               {{ $candidates = $fallback }}
             {{ end }}
 
-            {{/* Pick one at random */}}
-            {{ $picked := index ($candidates | shuffle) 0 }}
+            {{/* Take up to 20 shuffled candidates for the pool */}}
+            {{ $pool := $candidates | shuffle | first 20 }}
+            {{ $items := slice }}
+            {{ range $pool }}
+              {{ $items = $items | append (dict
+                "title" .Title
+                "url" .RelPermalink
+                "image" .Params.splash_image
+                "summary" ((.Params.summary | default .Title) | truncate 100)
+              ) }}
+            {{ end }}
+            {{ $poolData = $poolData | append (dict "items" $items) }}
 
-            <div class="w-52 flex flex-col rounded overflow-hidden shadow-md transform {{ $offset }}">
+            {{/* Render card with first item as default (works without JS) */}}
+            {{ $picked := index $pool 0 }}
+
+            <div class="w-52 flex flex-col rounded overflow-hidden shadow-md transform {{ $offset }}"
+                 data-hero-card>
               {{/* Section title bar — white */}}
               <div class="bg-white px-3 py-2">
                 <h2 class="font-heading text-sm font-bold normal-case">{{ $sectionName }}</h2>
               </div>
 
-              {{/* Cover image from the random post */}}
-              <a href="{{ $picked.RelPermalink }}" class="block">
-                <img src="{{ $picked.Params.splash_image }}" alt="{{ $picked.Title }}" class="w-full h-28 object-cover">
+              {{/* Cover image */}}
+              <a href="{{ $picked.RelPermalink }}" class="block" data-hero-link>
+                <img src="{{ $picked.Params.splash_image }}" alt="{{ $picked.Title }}"
+                     class="w-full h-28 object-cover" data-hero-img>
               </a>
 
               {{/* Section color bar with summary + arrow */}}
               <div class="bg-{{ $color }} px-3 py-3 flex-1 flex flex-col">
-                <p class="font-body text-xs text-white leading-relaxed mb-3 flex-1">
+                <p class="font-body text-xs text-white leading-relaxed mb-3 flex-1" data-hero-summary>
                   {{ $picked.Params.summary | default $picked.Title | truncate 100 }}
                 </p>
                 <a href="{{ $picked.RelPermalink }}"
-                   class="inline-flex items-center gap-1 text-white text-xs font-semibold">
+                   class="inline-flex items-center gap-1 text-white text-xs font-semibold"
+                   data-hero-read-more>
                   Read More &rarr;
                 </a>
               </div>
@@ -71,6 +90,23 @@
 
         </div>
       </div>
+
+      {{/* Candidate pools for client-side randomization */}}
+      <script>
+        (function() {
+          var pools = {{ $poolData | jsonify | safeJS }};
+          var cards = document.querySelectorAll('[data-hero-card]');
+          cards.forEach(function(card, i) {
+            var items = pools[i].items;
+            var pick = items[Math.floor(Math.random() * items.length)];
+            card.querySelector('[data-hero-img]').src = pick.image;
+            card.querySelector('[data-hero-img]').alt = pick.title;
+            card.querySelector('[data-hero-link]').href = pick.url;
+            card.querySelector('[data-hero-summary]').textContent = pick.summary;
+            card.querySelector('[data-hero-read-more]').href = pick.url;
+          });
+        })();
+      </script>
     </div>
   </section>
 
