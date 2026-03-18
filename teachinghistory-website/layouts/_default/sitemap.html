@@ -1,0 +1,217 @@
+{{ define "main" }}
+
+{{ partial "page-hero.html" (dict "title" "Site Map" "color" "pale-blue") }}
+
+{{/* Gather all regular pages across the entire site */}}
+{{ $allPages := where .Site.RegularPages "Kind" "page" }}
+{{ $totalPages := len $allPages }}
+
+{{/* Count pages with key fields */}}
+{{ $withImage := 0 }}
+{{ $withSummary := 0 }}
+{{ $withTags := 0 }}
+{{ range $allPages }}
+  {{ if or .Params.image .Params.splash_image }}
+    {{ $withImage = add $withImage 1 }}
+  {{ end }}
+  {{ if .Params.summary }}
+    {{ $withSummary = add $withSummary 1 }}
+  {{ end }}
+  {{ if .Params.tags }}
+    {{ $withTags = add $withTags 1 }}
+  {{ end }}
+{{ end }}
+
+{{/* Stats bar */}}
+<section class="max-w-6xl mx-auto px-4 py-8">
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+    <div class="bg-gray-50 rounded-lg p-4 text-center">
+      <div class="text-3xl font-heading font-bold text-black">{{ $totalPages }}</div>
+      <div class="text-sm text-gray-600 mt-1">Total Pages</div>
+    </div>
+    <div class="bg-gray-50 rounded-lg p-4 text-center">
+      <div class="text-3xl font-heading font-bold text-black">{{ $withImage }}</div>
+      <div class="text-sm text-gray-600 mt-1">With Images</div>
+    </div>
+    <div class="bg-gray-50 rounded-lg p-4 text-center">
+      <div class="text-3xl font-heading font-bold text-black">{{ $withSummary }}</div>
+      <div class="text-sm text-gray-600 mt-1">With Summaries</div>
+    </div>
+    <div class="bg-gray-50 rounded-lg p-4 text-center">
+      <div class="text-3xl font-heading font-bold text-black">{{ $withTags }}</div>
+      <div class="text-sm text-gray-600 mt-1">With Tags</div>
+    </div>
+  </div>
+
+  {{/* Expand/Collapse all controls */}}
+  <div class="flex gap-3 mb-6">
+    <button id="expand-all" class="text-sm px-3 py-1 border border-gray-300 rounded hover:bg-gray-50">
+      Expand All Sections
+    </button>
+    <button id="collapse-all" class="text-sm px-3 py-1 border border-gray-300 rounded hover:bg-gray-50">
+      Collapse All
+    </button>
+  </div>
+
+  {{/* Iterate over all top-level sections */}}
+  {{ range .Site.Sections }}
+    {{ $section := . }}
+    {{ $sectionName := .Section }}
+    {{ $color := partial "section-color.html" $sectionName }}
+    {{ $sectionPages := .RegularPagesRecursive }}
+    {{ $sectionCount := len $sectionPages }}
+
+    {{/* Color mapping for border/accent */}}
+    {{ $borderClass := "border-pale-blue" }}
+    {{ $bgAccent := "bg-pale-blue/20" }}
+    {{ $textAccent := "text-gray-800" }}
+    {{ if eq $color "orange" }}
+      {{ $borderClass = "border-orange" }}
+      {{ $bgAccent = "bg-orange/20" }}
+    {{ else if eq $color "yellow" }}
+      {{ $borderClass = "border-yellow" }}
+      {{ $bgAccent = "bg-yellow/20" }}
+    {{ else if eq $color "green" }}
+      {{ $borderClass = "border-green" }}
+      {{ $bgAccent = "bg-green/20" }}
+    {{ end }}
+
+    <details class="mb-4 border-l-4 {{ $borderClass }} rounded-lg overflow-hidden shadow-sm">
+      <summary class="flex items-center justify-between cursor-pointer {{ $bgAccent }} px-4 py-3 hover:brightness-95">
+        <span class="font-heading text-lg font-semibold {{ $textAccent }}">
+          {{ .Title | default (.Section | humanize | title) }}
+        </span>
+        <span class="text-sm text-gray-500 ml-2 whitespace-nowrap">{{ $sectionCount }} pages</span>
+      </summary>
+
+      <div class="px-4 py-3 bg-white">
+        {{/* Check for subsections */}}
+        {{ $subsections := .Sections }}
+        {{ if $subsections }}
+          {{ range $subsections }}
+            {{ $subPages := .RegularPagesRecursive }}
+            {{ $subCount := len $subPages }}
+
+            <details class="mb-3 border border-gray-200 rounded">
+              <summary class="flex items-center justify-between cursor-pointer px-3 py-2 bg-gray-50 hover:bg-gray-100 rounded">
+                <span class="font-heading text-base font-medium text-gray-700">
+                  {{ .Title | default (.Section | humanize | title) }}
+                </span>
+                <span class="text-sm text-gray-400 ml-2 whitespace-nowrap">{{ $subCount }} pages</span>
+              </summary>
+
+              <div class="divide-y divide-gray-100">
+                {{ range $subPages.ByTitle }}
+                  <div class="flex items-center gap-3 px-3 py-2 text-sm hover:bg-gray-50">
+                    <a href="{{ .RelPermalink }}" class="text-blue-700 hover:underline font-medium flex-1 min-w-0 truncate">
+                      {{ .Title }}
+                    </a>
+                    {{ with .Date }}
+                      <span class="text-gray-400 whitespace-nowrap text-xs">{{ .Format "2006-01-02" }}</span>
+                    {{ end }}
+                    {{ with .Params.content_type }}
+                      <span class="text-xs bg-gray-100 text-gray-500 px-1.5 py-0.5 rounded whitespace-nowrap">{{ . }}</span>
+                    {{ end }}
+                    {{/* Field badges */}}
+                    <span class="flex gap-1 shrink-0">
+                      {{ if or $.Params.image $.Params.splash_image }}{{/* Use page context */}}{{ end }}
+                      {{ if or .Params.image .Params.splash_image }}
+                        <span class="text-xs bg-blue-100 text-blue-700 px-1.5 py-0.5 rounded" title="Has image">img</span>
+                      {{ end }}
+                      {{ if .Params.summary }}
+                        <span class="text-xs bg-green-100 text-green-700 px-1.5 py-0.5 rounded" title="Has summary">sum</span>
+                      {{ end }}
+                      {{ if .Params.tags }}
+                        <span class="text-xs bg-purple-100 text-purple-700 px-1.5 py-0.5 rounded" title="Has tags">tags</span>
+                      {{ end }}
+                    </span>
+                  </div>
+                {{ end }}
+              </div>
+            </details>
+          {{ end }}
+        {{ end }}
+
+        {{/* Direct pages in this section (not in subsections) */}}
+        {{ $directPages := .RegularPages }}
+        {{ if $directPages }}
+          {{ if $subsections }}
+            <details class="mb-3 border border-gray-200 rounded">
+              <summary class="flex items-center justify-between cursor-pointer px-3 py-2 bg-gray-50 hover:bg-gray-100 rounded">
+                <span class="font-heading text-base font-medium text-gray-700 italic">
+                  (Top-level pages)
+                </span>
+                <span class="text-sm text-gray-400 ml-2 whitespace-nowrap">{{ len $directPages }} pages</span>
+              </summary>
+              <div class="divide-y divide-gray-100">
+                {{ range $directPages.ByTitle }}
+                  <div class="flex items-center gap-3 px-3 py-2 text-sm hover:bg-gray-50">
+                    <a href="{{ .RelPermalink }}" class="text-blue-700 hover:underline font-medium flex-1 min-w-0 truncate">
+                      {{ .Title }}
+                    </a>
+                    {{ with .Date }}
+                      <span class="text-gray-400 whitespace-nowrap text-xs">{{ .Format "2006-01-02" }}</span>
+                    {{ end }}
+                    {{ with .Params.content_type }}
+                      <span class="text-xs bg-gray-100 text-gray-500 px-1.5 py-0.5 rounded whitespace-nowrap">{{ . }}</span>
+                    {{ end }}
+                    <span class="flex gap-1 shrink-0">
+                      {{ if or .Params.image .Params.splash_image }}
+                        <span class="text-xs bg-blue-100 text-blue-700 px-1.5 py-0.5 rounded" title="Has image">img</span>
+                      {{ end }}
+                      {{ if .Params.summary }}
+                        <span class="text-xs bg-green-100 text-green-700 px-1.5 py-0.5 rounded" title="Has summary">sum</span>
+                      {{ end }}
+                      {{ if .Params.tags }}
+                        <span class="text-xs bg-purple-100 text-purple-700 px-1.5 py-0.5 rounded" title="Has tags">tags</span>
+                      {{ end }}
+                    </span>
+                  </div>
+                {{ end }}
+              </div>
+            </details>
+          {{ else }}
+            {{/* No subsections — list direct pages inline */}}
+            <div class="divide-y divide-gray-100">
+              {{ range $directPages.ByTitle }}
+                <div class="flex items-center gap-3 px-3 py-2 text-sm hover:bg-gray-50">
+                  <a href="{{ .RelPermalink }}" class="text-blue-700 hover:underline font-medium flex-1 min-w-0 truncate">
+                    {{ .Title }}
+                  </a>
+                  {{ with .Date }}
+                    <span class="text-gray-400 whitespace-nowrap text-xs">{{ .Format "2006-01-02" }}</span>
+                  {{ end }}
+                  {{ with .Params.content_type }}
+                    <span class="text-xs bg-gray-100 text-gray-500 px-1.5 py-0.5 rounded whitespace-nowrap">{{ . }}</span>
+                  {{ end }}
+                  <span class="flex gap-1 shrink-0">
+                    {{ if or .Params.image .Params.splash_image }}
+                      <span class="text-xs bg-blue-100 text-blue-700 px-1.5 py-0.5 rounded" title="Has image">img</span>
+                    {{ end }}
+                    {{ if .Params.summary }}
+                      <span class="text-xs bg-green-100 text-green-700 px-1.5 py-0.5 rounded" title="Has summary">sum</span>
+                    {{ end }}
+                    {{ if .Params.tags }}
+                      <span class="text-xs bg-purple-100 text-purple-700 px-1.5 py-0.5 rounded" title="Has tags">tags</span>
+                    {{ end }}
+                  </span>
+                </div>
+              {{ end }}
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </details>
+  {{ end }}
+</section>
+
+<script>
+  document.getElementById('expand-all').addEventListener('click', function() {
+    document.querySelectorAll('details').forEach(function(d) { d.open = true; });
+  });
+  document.getElementById('collapse-all').addEventListener('click', function() {
+    document.querySelectorAll('details').forEach(function(d) { d.open = false; });
+  });
+</script>
+
+{{ end }}
