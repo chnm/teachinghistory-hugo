@@ -2,9 +2,11 @@
 title: 'Arizona: 2nd-Grade Standards'
 date: '2009-02-08T20:07:47'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20918
+grade_levels:
+- elementary
 ---
 
 ### AZ.SS02-S1 Strand: American History

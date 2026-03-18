@@ -2,13 +2,31 @@
 title: Jeremiah McCall on Evaluative Activities and Assessments for Simulation Games
 date: '2012-03-30T13:32:55'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25523
 url: /nhec-blog/25523
+author_bio: 'Jeremiah McCall, PhD, teaches high school history at Cincinnati Country
+  Day School. He wrote *Gaming the Past: Using Video Games to Teach Secondary History*
+  and maintains the site [gamingthepast.net](http://gamingthepast.net/).'
+date_published: '2012-05-14T00:00:00'
+image_fid: '9120'
+splash_image_fid: '9121'
+author_image_fid: '9119'
+summary: Want to use digital games in your class? Jeremiah McCall shares five guidelines
+  for evaluating games.
+splash_image: /files/part5splash.jpg
+image: /files/part5image.jpg
+author_image: /files/author_image/authorphotojeremiahmccall75x75_2_1_0.jpeg
+grade_levels:
+- high
+tags:
+- digital games
+- games
 ---
 
 *(Note: This blog entry is the fifth part of a six-part series. Read more on using games in the classroom in parts [one](http://teachinghistory.org/nhec-blog/25117), [two](http://teachinghistory.org/nhec-blog/25225), [three](http://teachinghistory.org/nhec-blog/25338), [four](http://teachinghistory.org/nhec-blog/25451), and [six](http://teachinghistory.org/nhec-blog/25624).)*
+
 [Part Four](http://teachinghistory.org/nhec-blog/25451) dealt with activities and assessments focused on analyzing and understanding the models presented by a simulation game. Now it is time to consider exercises evaluating and critiquing the models in a game, determining the overall validity of the game as an interpretation. After a sample of activities we will consider the core principles that should guide all efforts to evaluate historical simulations as interpretations of the past.
 
 ## Annotated Screenshots for Evaluation
@@ -18,6 +36,7 @@ Annotated screenshot assignments provide an excellent opportunity for students t
 ## Small Research Assignments
 
 For a quick research and evaluation exercise, students can find (or be provided with) a valid source that deals with an element of the game. In some cases an accessible primary source can be used. The students read the source and use it to corroborate or challenge the game. This can be done in a brief oral presentation, an annotated screenshot, a reflective write-up, or a more formal essay.
+
 **Examples:**
 
 * Read a primary source written by a Boston Loyalist and compare it to the    Loyalist reasoning expressed in [*Mission US: For Crown or Colony*](http://teachinghistory.org/digital-classroom/tech-for-teachers/25111).
@@ -32,6 +51,7 @@ A formal researched essay on the ways a game does and does not reasonably presen
 ## Formal Discussions
 
 Formal discussions, where students are assessed on discussing and debating the merits of a historical simulation directly with their peers, is a fantastic form of authentic assessment. When students are placed into small groups—say three to five students—and the teacher is removed from a discussion, students must engage each other in true dialogue, not just search for the magic words they think the teacher wants to hear. Such formal discussions can result in spectacular displays of engagement, curiosity, and intellectual achievement on students’ parts.
+
 Some time prior to the discussion, students should be given a set of one to four provocative questions about how the game presents the past and the accuracy of that presentation. They develop responses to the questions based on gameplay and study of relevant evidence discussed in class and assigned as homework. During the actual discussion they may bring notes and sources with them and they must work effectively as a group to explore the questions.
 
 ## Guidelines for Evaluating Simulation Games

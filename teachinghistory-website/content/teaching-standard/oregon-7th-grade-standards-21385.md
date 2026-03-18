@@ -2,12 +2,15 @@
 title: 'Oregon: 7th-Grade Standards'
 date: '2009-02-08T20:15:59'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21385
+grade_levels:
+- middle
 ---
 
 (Note: By the completion of eighth grade, Oregon students are expected to master the following standards.)
+
 Benchmark 3 students expand their study to U.S. and World History, including early world civilizations and the development of nations and the United States post-Revolution to approximately 1900. Students increase their understanding of the U.S. Constitution, rule of law, and the powers and limitations of government. They apply their geography skills to identify physical features, population distribution, and to make predictions. Students also examine markets and types of economies, with emphasis on the U.S. economy. They also study basic investment and savings concepts and practices. Students continue to use Social Science Analysis skills, examining evidence more completely, viewing issues from more than one perspective, and making judgments about alternative responses or solutions to problems.
 
 ## Civics and Government

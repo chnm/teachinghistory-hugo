@@ -2,9 +2,11 @@
 title: South Carolina's Seventh Grade Standards
 date: '2009-02-08T20:16:09'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21427
+grade_levels:
+- middle
 ---
 
 - ### SC.7-1. Standard / Course—Contemporary Cultures: 1600 to the Present

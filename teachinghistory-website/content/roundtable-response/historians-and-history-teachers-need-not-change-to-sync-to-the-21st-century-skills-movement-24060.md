@@ -3,15 +3,33 @@ title: Historians and history teachers need not change to “sync” to the 21st
   skills movement . . .
 date: '2010-05-12T18:55:44'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24060
+author_bio: Fritz Fischer is Professor of History and Director of History Education
+  at the University of Northern Colorado. He is Chair of the Board of Trustees of
+  the National Council for History Education and was co-chair of the 2009 Colorado
+  Standards Writing Committee in Social Studies and History.
+author_image_fid: '4701'
+summary: History teachers need not change their teaching, but can and should make
+  the case that we already teach “21st century skills” . . .. The “new” skills include
+  “critical thinking,” “communication,” and “information literacy”—all skills taught
+  by the strongest history teachers for decades.
+author_image: /files/author_image/Fischer.jpg
+tags:
+- digital tools
 ---
 
 Historical concepts, historical understandings, and historical thinking always need to come first for history teachers. So, no, the teaching of history should not be changed to sync with "21st–century skills." Entering a new century does not mean that we all need to develop an entirely new set of skills to function in society. There is a danger in the 21st century skills movement of tossing out "old–fashioned subjects" to be replaced by "interdisciplinary themes." History might be especially threatened because a simplistic view suggests that since historians study the past, and the past is old, and old is dusty and old fashioned, we should just toss it out as irrelevant.
+
 Yet strong and thoughtful history teaching actually does a better job in helping students learn "21st–century skills" than any other subject and better than any newly invented theme. History teachers need not change their teaching, but can and should make the case that we *already* teach
+
 "21st–century skills." The fundamental skills and understandings used by historians and learned by students of history *are* 21st–century skills. Historical thinking skills such as analysis, judgment, inquiry, contextualization, and the ability to understand and use a variety of sources did not change on January 1, 2001; but, ironically perhaps, they do fit the profile of "new" skills. The "new" skills include "critical thinking," "communication," and "information literacy"—all skills taught by the strongest history teachers for decades.
+
 Historians and history teachers need not change to "sync" to the 21st–century skills movement . . . they need only be more thoughtful and conscious about what they already do. They also need to advocate for themselves, pointing out that they already teach the skills and understandings necessary to be successful in the 21st century.
+
 For example, the [National History Education Clearinghouse](http://teachinghistory.org>teachinghistory.org), where this forum is appearing, should be the model for how to use a "21st–century" medium (originally late 20th century, actually, but only historians would point that out!) to teach important concepts and understandings of the past. Originally, of course, [teachinghistory.org](http://teachinghistory.org) was not motivated by a desire to teach a disconnected set of skills . . . it was motivated by a desire to share the best ideas in the teaching and learning of history with the widest possible audience.
+
 Similarly, work on new history content standards that connect to 21st–century skills is taking place all over the country, including Colorado, where I participated in crafting new standards. In our work the history standards came first, and we seamlessly connected these standards to 21st–century skills almost as an afterthought.
+
 As has always been the case, the new century cannot be divorced from the historical context from which it was born, and so neither should the skills and understandings to succeed in this world be completely reinvented.

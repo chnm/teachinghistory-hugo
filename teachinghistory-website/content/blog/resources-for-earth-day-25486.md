@@ -2,15 +2,30 @@
 title: Resources for Earth Day
 date: '2012-03-08T17:13:25'
 lastmod: '2017-12-01T15:52:16'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25486
 url: /nhec-blog/25486
+date_published: '2012-04-11T00:00:00'
+splash_image_fid: '9138'
+summary: Earth Day gives students a chance to consider how human relationships with
+  the natural environment have changed over time.
+splash_image: /files/splash-blog-ed12.jpg
+topics:
+- Environment
+tags:
+- Earth Day
+- conservation
+- conservationism
+- environmentalism
 ---
 
 With its origins in the rising environmental awareness of the 1960s and '70s, Earth Day gives students a chance to consider how human relationships with the natural environment have changed over time. How did pre-colonial and colonial North Americans relate to nature? How were their lives shaped by it? How did the industrial revolution in the U.S. change these relationships? What changes have occurred since then?
-[![](http://teachinghistory.org/files/image-sp-earthday.jpg)](http://teachinghistory.org/spotlight/earth-day)
+
+[![](/files/image-sp-earthday.jpg)](http://teachinghistory.org/spotlight/earth-day)
+
 If you're looking for resources to teach the relationship of geography and natural science to U.S. history, visit our Earth Day [spotlight page](http://teachinghistory.org/spotlight/earth-day). You'll find website reviews, teaching strategies for using maps and the environment, quizzes, and more.
+
 Many other organizations also offer Earth Day resources. Here are some ideas to keep you browsing:
 
 * Discover events and volunteer opportunities nationwide on the U.S. Environmental Protection Agency (EPA)'s Earth Day [page](http://www.epa.gov/earthday/).

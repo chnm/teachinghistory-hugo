@@ -2,9 +2,11 @@
 title: 'Massachusetts: 1st-Grade Standards'
 date: '2009-02-08T20:12:01'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21127
+grade_levels:
+- elementary
 ---
 
 * ### MA.1. Domain / General Standard: True Stories and Folk Tales from America and from Around the World

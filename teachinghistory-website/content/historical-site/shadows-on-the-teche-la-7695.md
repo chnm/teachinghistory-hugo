@@ -2,8 +2,30 @@
 title: Shadows-on-the-Teche [LA]
 date: '2008-01-08T13:33:40'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 7695
+website_url: http://www.shadowsontheteche.org
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+topics:
+- Daily Life
+- Economy
+- Environment
+- Family Life
+- Rural Life
+- Slavery
+- Southern States
+tags:
+- Louisiana
+- homes
+- houses
+- plantations
 ---
 
+Shadows-on-the-Teche is an 18th-century plantation located in Southern Louisiana. Today, the location is an antebellum historic house museum allowing visitors a glimpse into life on a major southern plantation.
+
+The museum offers visitor tours and student group tours and other educational programs. The website offers a detailed history of the location, visitor information, an education section which offers information about educational tours and events, and an events calendar.

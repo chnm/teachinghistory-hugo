@@ -2,9 +2,10 @@
 title: 'New Jersey: Prekindergarten Standards'
 date: '2009-02-08T20:14:45'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21293
+grade_levels: []
 ---
 
 (Note: By the completion of prekindergarten, New Jersey students are expected to master the following standards.)

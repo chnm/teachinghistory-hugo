@@ -2,10 +2,35 @@
 title: African American History Month 2011
 date: '2011-02-03T16:19:04'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24502
 url: /nhec-blog/24502
+date_published: '2011-02-09T00:00:00'
+image_fid: '7101
+
+
+  7101'
+splash_image_fid: '7100'
+summary: For African American History Month, don't just focus on the heroes—use primary
+  sources to explore the lives of ordinary people.
+splash_image: /files/splash-blog-aa2011.jpg
+grade_levels:
+- elementary
+- high
+- middle
+time_periods:
+- All
+- General
+topics:
+- African Americans
+- Daily Life
+- Military History
+tags:
+- african american heritage month
+- african american history month
+- black history month
+- holidays
 ---
 
 It's February! Resources throughout the web stand ready to provide you with lessons and primary source materials for Black History Month (also known as African American History Month), but African American history stretches far beyond the confines of one month and the narrative litany of a handful of cultural heroes. Maybe you want to go beyond Martin Luther King, Jr., Frederick Douglass, and Jackie Robinson. What stories can you uncover beyond the headlining stories textbooks provide? Remind your students of the complexity of African American history with these resources.
@@ -20,7 +45,7 @@ It's February! Resources throughout the web stand ready to provide you with less
 
 ## Looking for More Suggestions?
 
-![](http://teachinghistory.org/files/image-blog-afamer11-2.jpg)If none of these resources fit into your curriculum or spark your interests, there's plenty where they came from. Search our [Website Reviews](http://teachinghistory.org/history-content/website-reviews?keys=&tid=48&tid_1=All&tid_2=All) using the topic "African Americans," and you'll turn up close to 300 websites, on topics ranging from Marcus Garvey to the construction of race to Seattle's Black Panthers to sheet music by and about African Americans. Or test your African American history knowledge in our weekly quiz feature! You and your students can take online quizzes on [African American baseball players](http://teachinghistory.org/history-content/quiz/24253) and [other athletes](http://teachinghistory.org/history-content/quiz/24453), the [historical accuracy of the film *Glory*](http://teachinghistory.org/history-content/quiz/24192), [Jim Crow laws](http://teachinghistory.org/history-content/quiz/24197), and [foodways](http://teachinghistory.org/history-content/quiz/24201).
+![](/files/image-blog-afamer11-2.jpg)If none of these resources fit into your curriculum or spark your interests, there's plenty where they came from. Search our [Website Reviews](http://teachinghistory.org/history-content/website-reviews?keys=&tid=48&tid_1=All&tid_2=All) using the topic "African Americans," and you'll turn up close to 300 websites, on topics ranging from Marcus Garvey to the construction of race to Seattle's Black Panthers to sheet music by and about African Americans. Or test your African American history knowledge in our weekly quiz feature! You and your students can take online quizzes on [African American baseball players](http://teachinghistory.org/history-content/quiz/24253) and [other athletes](http://teachinghistory.org/history-content/quiz/24453), the [historical accuracy of the film *Glory*](http://teachinghistory.org/history-content/quiz/24192), [Jim Crow laws](http://teachinghistory.org/history-content/quiz/24197), and [foodways](http://teachinghistory.org/history-content/quiz/24201).
 You can also explore the African American History Month pages of history and educational organizations, including:
 
 * [The Library of Congress](http://www.africanamericanhistorymonth.gov/)

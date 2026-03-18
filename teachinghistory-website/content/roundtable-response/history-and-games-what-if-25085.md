@@ -2,19 +2,34 @@
 title: 'History and Games: What If?'
 date: '2011-08-18T12:51:25'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25085
+author_bio: James Paul Gee is the Mary Lou Fulton Presidential Professor of Literacy
+  Studies at Arizona State University. Among other books, he is the author of *What
+  Video Games Have to Teach Us About Learning and Literacy* and *Language and Learning
+  in the Digital Age* (with Elisabeth Hayes).
+author_image_fid: '7951'
+summary: History, as an explanatory enterprise, is a way of doing things, not primarily
+  a body of "content." One thing history does is play a sort of game of "what if?,"
+  a game that can make a good video game, as well.
+author_image: /files/author_image/roundtable-author-gee.jpg
+tags:
+- games
+- gaming
 ---
 
 What is history? For that matter, what is physics or civics? These are all terms we often use to name "subject matter" ("content") in school. But there is another meaning to these terms. Physics is a set of tools (and these tools include facts and formulas, but much more) used to DO physics. Civics is a set of tools used to engage in civic participation. And history is a set of tools used to engage in doing history. So let's refer to "history/physics/civics (content)" and "history/physics/civics (doing)." School is usually about history (content), that is, an information-rich record of what (supposedly) happened in the past. Historical research is about history (doing), that is, how one goes about discovering and explaining what happened in the past.
+
 What is a video game? A video game is just a well-designed set of problems (of any sort) that must be solved in order to achieve one's chosen goals, where the price of failure is relatively low so that exploration and risk-taking can be encouraged. The term "serious games" is a bad one, because it implies a high cost of failure, as well as a lack of the sort of "fun" people get when they have chosen to do something they really want to do and like to do. *Civilization* is a successful commercial game, a history game, and addictively fun to play. Fun, play, engagement, choice, difficulty, and learning are not disconnected things, but integrally related.
 
 ## Gaming and Doing History
 
 Games could be one good tool for learning history (doing). This is so, in part, because there is a part—a very important part—of history (doing) that is already a type of game. I can make this game-like part of history (doing) clear with a story about an encounter I once had at a conference after a talk. Someone came up to me and said *Civilization* (the game) could not be about history because history happened one and only one way and in the course of a game of *Civilization* history can have different outcomes.
+
 But one crucial enterprise of history (doing) is asking why things happened the way they did. And a very good way of investigating this question is to ask how things could have happened otherwise. In fact—and here is where games come in—we can investigate this question by building games that challenge players to see how they can get history, or even our present state of affairs, to plausibly have worked out differently. The players could even be asked to work out how different futures might occur and thereby see that history, as an explanatory science, is as much about the present and the future as it is about the past.
 > [Certain games] also let us see that history is not, in reality, the history of humans alone, but of intricate networks of changing relationships between humans, animals, objects, tools, environments, and beliefs.
 
 One example: The vast majority of the evolution of horses took place in North America (see [this link](http://www.discoverseaz.com/History/Horse.html)). Only about 10,000 years ago did horses cross into the Old World over an Arctic-Asia land bridge. Then, about 2,000 years later, horses disappeared from the Americas. Perhaps they were hunted to extinction by ever-growing human populations. Whatever the reason, they were gone from the New World. The submergence of the Arctic-Asia land bridge ensured they could not return. Horses were not seen again in the New World until the Spaniards used them to great advantage as they conquered much of that world, against great numerical odds, in the 16th century.
+
 How might history have been different had horses not gone extinct in the New World? What role did the disappearance of the horse in the New World, but not in the Old World, play in the Spanish conquest in comparison to things like native religious beliefs and conflicts among native groups already in place before the Spanish arrived? These are the sorts of questions one could play out in a game like *Civilization*, though one perhaps made in a more special-purpose way. They are also questions about history when one sees history as an explanatory enterprise. They also let us see that history is not, in reality, the history of humans alone, but of intricate networks of changing relationships between humans, animals, objects, tools, environments, and beliefs. Seen this way, in my view, it is a remarkable achievement we have managed to make history one of the most boring and disliked subjects in school.

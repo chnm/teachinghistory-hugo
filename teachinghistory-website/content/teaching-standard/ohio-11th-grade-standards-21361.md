@@ -2,12 +2,15 @@
 title: 'Ohio: 11th-Grade Standards'
 date: '2009-02-08T20:14:58'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21361
+grade_levels:
+- high
 ---
 
 The Social Studies Academic Content Standards revision contains syllabi for six high school social studies courses: American History, Modern World History, American Government, Economics and Financial Literacy, Contemporary World Issues and World Geography. Each contains a course and broad topics which are further clarified with content statements. Grade levels are not specified for any of the courses.
+
 The syllabi, adopted by the State Board of Education in 2010, are available for districts to use as they plan course offerings. Three units of social studies credit are required for graduation from high school, including a half unit of credit in American History and a half unit of credit in American Government. No decision has been made yet about connecting specific courses to end-of-course exams. The inclusion of particular courses in the standards is not meant to require that all of these courses be offered or limit the choice of courses which districts may offer in their social studies programs.
 
 ## American History

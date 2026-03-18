@@ -2,7 +2,7 @@
 title: About the Project
 date: '2008-01-30T08:43:36'
 lastmod: '2011-06-16T09:01:43'
-type: page
+content_type: page
 draft: false
 drupal_nid: 14865
 ---

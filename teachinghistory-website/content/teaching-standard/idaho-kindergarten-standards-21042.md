@@ -2,9 +2,11 @@
 title: 'Idaho: Kindergarten Standards'
 date: '2009-02-08T20:10:30'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21042
+grade_levels:
+- elementary
 ---
 
 * ## Standard 1: History
@@ -14,6 +16,7 @@ drupal_nid: 21042
   ### Goal 1.1:
 
   Build an understanding of the cultural and social development of the United States.
+
   Objective(s): By the end of Kindergarten, the student will be able to:
   + K.SS.1.1.1 Share stories, pictures, and music of one’s own personal life, family and culture.
   + K.SS.1.1.2 Describe how families celebrate in many different ways.
@@ -26,6 +29,7 @@ drupal_nid: 21042
   ### Goal 2.1:
 
   Analyze the spatial organizations of people, places, and environment on the earth’s surface.
+
   Objective(s): By the end of Kindergarten, the student will be able to:
   + K.SS.2.1.1 Identify the globe as a model of the earth.
   + K.SS.2.1.2 Distinguish between land masses and water on a globe or map.
@@ -39,6 +43,7 @@ drupal_nid: 21042
   ### Goal 3.1:
 
   Explain basic economic concepts.
+
   Objective(s): By the end of Kindergarten, the student will be able to:
   + K.SS.3.1.1 Observe that all people have needs and wants.
   + K.SS.3.1.2 Recognize that people have limited resources.
@@ -50,6 +55,7 @@ drupal_nid: 21042
   ### Goal 4.1:
 
   Build an understanding of the foundational principles of the American political system.
+
   Objective(s): By the end of Kindergarten, the student will be able to:
   + K.SS.4.1.1 Name some rules and the reasons for them.
   + K.SS.4.1.2 Discuss how groups make decisions and solve problems.
@@ -58,6 +64,7 @@ drupal_nid: 21042
   ### Goal 4.2:
 
   Build an understanding of the organization and formation of the American system of government.
+
   Objective(s): By the end of Kindergarten, the student will be able to:
   + K.SS.4.2.1 Identify symbols of the United States such as the flag, Pledge of Allegiance, Bald Eagle, red, white, and blue.
   + K.SS.4.2.2. Recite the Pledge of Allegiance.
@@ -66,6 +73,7 @@ drupal_nid: 21042
   ### Goal 4.3:
 
   Build an understanding that all people in the United States have rights and assume responsibilities.
+
   Objective(s): By the end of Kindergarten, the student will be able to:
   + K.SS.4.3.1 Identify individuals who are helpful to people in their everyday lives.
   + K.SS.4.3.2 Identify ways to be helpful to family and school.
@@ -76,5 +84,6 @@ drupal_nid: 21042
   ### Goal 5.1:
 
   Build an understanding of multiple perspectives and global interdependence.
+
   Objective(s): By the end of Kindergarten, the student will be able to:
   + K.SS.5.1.1 Name family traditions that came to America from other parts of the world.

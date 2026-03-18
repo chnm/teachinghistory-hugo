@@ -1,61 +1,28 @@
 {{ define "main" }}
-<main class="pa3 pa4-l mw8 center">
-  <header class="mb4">
-    <h1 class="f2 lh-title mb2">{{ .Title }}</h1>
-    <p class="f5 lh-copy gray">
-      <strong>Section:</strong> {{ .Section }} |
-      <strong>Total Items:</strong> {{ len .Pages }}
-    </p>
+{{ $color := partial "section-color.html" .Section }}
+{{ partial "page-hero.html" (dict "title" .Title "color" $color) }}
+
+<main class="flex-1">
+  <div class="max-w-5xl mx-auto px-6 py-10">
     {{ with .Content }}
-      <div class="f5 lh-copy mt3">
-        {{ . }}
-      </div>
+      <article class="mb-8">{{ . }}</article>
     {{ end }}
-  </header>
 
-  <section class="mt4">
-    <h2 class="f4 mb3">Items in this section</h2>
-
-    {{ range .Pages.ByDate.Reverse }}
-      <article class="bb b--black-10 pb3 mb3">
-        <h3 class="f4 mb2">
-          <a href="{{ .Permalink }}" class="link blue hover-dark-blue">
-            {{ .Title }}
-          </a>
-        </h3>
-
-        <div class="f6 gray mb2">
+    <section>
+      {{ range .Pages.ByDate.Reverse }}
+        <article class="border-b border-gray-light pb-4 mb-4">
+          <h2 class="font-heading text-xl mb-1">
+            <a href="{{ .Permalink }}" class="hover:underline">{{ .Title }}</a>
+          </h2>
           {{ with .Params.date }}
-            <span class="mr3"><strong>Date:</strong> {{ dateFormat "2006-01-02" . }}</span>
+            <time class="text-xs text-gray-400">{{ dateFormat "January 2, 2006" . }}</time>
           {{ end }}
-          {{ with .Params.type }}
-            <span class="mr3"><strong>Type:</strong> {{ . }}</span>
-          {{ end }}
-          {{ with .Params.drupal_nid }}
-            <span class="mr3"><strong>Drupal NID:</strong> {{ . }}</span>
-          {{ end }}
-          {{ with .Params.lastmod }}
-            <span class="mr3"><strong>Last Modified:</strong> {{ dateFormat "2006-01-02" . }}</span>
-          {{ end }}
-        </div>
-
-        {{ with .Params.question }}
-          <div class="f6 mb2 i">
-            {{ . | truncate 150 }}
-          </div>
-        {{ end }}
-
-        <div class="f6 lh-copy gray">
-          {{ with .Params.summary }}
-            {{ . | plainify | truncate 150 }}
-          {{ else }}
-            {{ .Summary | plainify | truncate 150 }}
-          {{ end }}
-        </div>
-
-        <a href="{{ .Permalink }}" class="f6 link blue hover-dark-blue">Read more &rarr;</a>
-      </article>
-    {{ end }}
-  </section>
+          <p class="text-sm mt-2 text-gray-600 line-clamp-2">
+            {{ with .Params.summary }}{{ . | plainify | truncate 150 }}{{ else }}{{ .Summary | plainify | truncate 150 }}{{ end }}
+          </p>
+        </article>
+      {{ end }}
+    </section>
+  </div>
 </main>
 {{ end }}

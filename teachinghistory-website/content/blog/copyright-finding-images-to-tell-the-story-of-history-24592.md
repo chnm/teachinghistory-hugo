@@ -2,19 +2,58 @@
 title: 'Copyright: Finding Images to Tell the Story of History'
 date: '2011-03-25T12:34:25'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24592
 url: /nhec-blog/24592
+date_published: '2011-03-25T00:00:00'
+image_fid: '7281
+
+
+  7281
+
+
+  7281
+
+
+  7281
+
+
+  7281'
+splash_image_fid: '7282'
+summary: Fair use? Public domain? Creative Commons? Find images of history that you
+  can use to tell its story, without worrying about fees and fines.
+splash_image: /files/splash-blog-copy.jpg
+grade_levels:
+- elementary
+- high
+- middle
+time_periods:
+- All
+- General
+topics:
+- Media
+tags:
+- Creative Commons
+- NARA
+- arc
+- copyright
+- flickr
+- lara harmon
+- library of congress
+- photographs
 ---
 
 As you browse the Internet for sources, searching for photographs of this event or that monument, do you ever get frustrated by the ins and outs of copyright law? In most situations, it won't be an issue—images you choose to use won't go beyond your classroom and it's unlikely your students will question your adherence to the rules of [fair use](http://www.copyright.gov/fls/fl102.html).
+
 But what if you or your students are working on something that *will* travel beyond your classroom? Maybe your students are creating short digital documentaries, and you want to host the finished projects on a website—or even upload them to YouTube? Maybe you want students to create small websites themselves, or produce other types of presentations that will be shared with the public online?
+
 Now you're talking distribution, and stakes go up a little. Before you get deep into the project, you may want to take the time to orient your students to copyright and public domain. Even if you doubt your students' work will draw a large audience or generate any rights challenges, consider this a teachable moment. In a world of easy downloading, it's possible your students have never thought about the complicated web of laws that surrounds every image they encounter every day.
 
 ## A First Look at Copyright Law
 
 A good place to start is [*Tales from the Public Domain: BOUND BY LAW?*](http://web.law.duke.edu/cspd/comics/), a comic book created by Keith Aoki, James Boyle, and Jennifer Jenkins for the [Duke Center for the Study of the Public Domain](http://cspd.law.duke.edu/cspd/index). In this good-natured tour of copyright law, the main character, Akiko, just wants to make a documentary about a day in the life of New York City. What challenges will she face, and does she have the right to use the images she captures? Remember that this comic came out in 2006, and copyright laws are constantly changing!
+
 After this orientation to thinking about copyright, ask your students to consider places they might find images. Take a look around some of the major online public archives, like the [Library of Congress Prints and Photographs Collection](http://www.loc.gov/pictures/) or the National Archives and Research Administration's [ARC](http://arcweb.archives.gov/arc/action/BasicMultimediaSearchForm).
 ![Photo, Washington Monument on armistice night, 1921, Nov. 25, 1921, Library of Congress](http://teachinghistory.org/files/image-blog-copy2.jpg "Photo, Washington Monument on armistice night, 1921, Nov. 25, 1921, Library of Congress")Have students search for topics both historical and contemporary, and see what the entries for the images they turn up say about copyright. "No known restrictions on publication?" "Unrestricted?" Images created before 1923 should be in the public domain, free of copyright restrictions, as should images created by government organizations. More recent sources may note copyright restrictions, including specific caveats about how a source may be reproduced.
 

@@ -2,7 +2,7 @@
 title: Outreach
 date: '2011-03-30T09:49:36'
 lastmod: '2012-02-17T12:33:18'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24598
 ---
@@ -17,5 +17,7 @@ drupal_nid: 24598
 
 * [Common-place.org’s Web Library](http://www.common-place.org/web-library/2009-01.shtml) * [*TR Workbench’s blog*](http://trworkbench.com/blog/2009/02/national-history-education-clearing-house/ "trBlog")
   [American Historical Association](http://blog.historians.org/education/1278/teaching-the-civil-war)
+
   [National Council on Public History](http://ncph.org/cms/education/k-12-education/)
+
   [Thinkfinity](http://community.thinkfinity.org/bookmarks/9427)

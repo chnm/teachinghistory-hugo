@@ -2,13 +2,48 @@
 title: 'Film Review: Ken Burns''s Jazz'
 date: '2011-06-13T15:28:42'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24840
 url: /nhec-blog/24840
+author_bio: Frank Tirro is Professor Emeritus of Music at Yale University and former
+  Dean of the Yale School of Music. During his jazz performance days, he played with
+  the Johnny Palmer and Jimmy Phillips orchestras and over the years has played occasional
+  concerts with jazz artists Willi Ruff, Dwike Mitchell, Clark Terry, Donn Trenner,
+  and Mary Lou Williams.
+date_published: '2011-06-22T00:00:00'
+image_fid: '7583'
+splash_image_fid: '7584'
+author_image_fid: '7591'
+summary: Documentaries can be critiqued on many levels, says Professor Frank Tirro.
+  Here, he looks at Ken Burns's *Jazz* from four angles.
+splash_image: /files/splash-blog-jahjazz.jpg
+image: /files/image-blog-jahjazz.jpg
+author_image: /files/author_image/tirro1.jpg
+grade_levels:
+- elementary
+- high
+- middle
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Popular Culture, Leisure
+tags:
+- Frank Tirro
+- Ken Burns
+- documentaries
+- films
+- jazz
+- muscians
+- music
 ---
 
 *This is the second in a series of film reviews reprinted from the* [Journal of American History](http://www.journalofamericanhistory.org/). *These reviews model ways of looking critically at popular films, documentaries, miniseries, and other history-based features. Look for one each month!*
+
 *Jazz*, the much-heralded 10-part PBS video series, is an American historical event in itself. The broadcast programs and their ancillary documents—a boxed set of 10 videocassettes, a book, a boxed five-CD set of music, a single CD personally selected by Burns, 22 jazz albums devoted to individual artists featured in the documentary, and more—is the most publicized and widely promoted presentation this music has received in its hundred-year history. The magnitude, scope, and all-embracing exploitation of musical, visual, and verbal elements might favorably be compared to Richard Wagner's vision of a *Gesamtkunstwerk* that, for him, resulted in a four-opera Ring Cycle, a theater specially built for the production at Bayreuth, disciples, detractors, enormous expense, and long-lasting consequences. Although we await the consequences, and regardless of criticism pro and con, Ken Burns's *Jazz* is a significant undertaking of great magnitude and serious purpose that will be remembered as an influential advocate for America's native art music, jazz.
 > The series should be considered from at least four points of view, for it succeeds in one, is less successful in two, and fails in the fourth.
 
@@ -16,6 +51,7 @@ The series should be considered from at least four points of view, for it succee
 > After Nick LaRocca's claim that jazz was invented by the white musicians of New Orleans, the ever-ebullient Wynton Marsalis's stunned silence and loss for words is drama at its best.
 
 As an example of the filmmaker's art, *Jazz* is stunning. Miles of footage and thousands of photographs and recordings demonstrating jazz performances, musical venues, and contemporary events and places have been recovered and discovered, cleaned up, selected, and sequenced to fit seamlessly in a tight narrative. Some of the images have not been published before, and all have been meticulously polished with the latest technical wizardry. Even long-familiar movie excerpts are presented better here than elsewhere. They are sharper, brighter, and fitted with a high-quality music track. The experts who appear as talking heads, most notably Wynton Marsalis, Stanley Crouch, Albert Murray, and Gary Giddens, are convincing and articulate individuals, and their insertion in the overall narrative is never superfluous or gratuitous. After Nick LaRocca's claim that jazz was invented by the white musicians of New Orleans, the ever-ebullient Wynton Marsalis's stunned silence and loss for words is drama at its best. Burns's camera captures every subtle inflection of eye movement, smile, shock, and grimace. Further, some of the interviews of living jazz musicians are truly poignant. When tears well up in the eyes of Dave Brubeck as he relates an incident in which his father showed him a cattle brand burned on the chest of a black neighbor, there is no escaping the gripping pathos of the moment. These videocassettes are of such high quality in both dramatic content and technical virtuosity that they will be used in schools for many years to help explain and promote this music.
+
 As a social history of jazz in the 20th century, the film documentary is good but flawed. Its coverage of selected musicians, selected locales, and a 60-year time frame, 1900 to 1960, is excellent. Better to follow the lives and work of some great figures in depth than to create a superficial, all-inclusive list of players and tunes that everyone will forget. We can all quibble about whether it was better to spend more time on Coleman Hawkins but little or none on Art Tatum, Bix Beiderbecke, Bill Evans, or Benny Carter, but Burns's method of making a selection of key figures and dealing with each expansively keeps the series from being, as one critic aptly put it, balanced into blandness.
 > In taking the Great Man approach to history, Burns has adopted a 19th-century system of viewing events rather than a late-20th-century methodology for explaining our past.
 
@@ -23,7 +59,9 @@ He should not have pretended to deal with the last 40 years of the century, for 
 > *Louis's "West End Blues" . . . startles us with the powerful thrust and punch of its first four notes. We are immediately aware of their terrific swing, despite the fact that these four notes occur on the beat . . . The four notes should be heard by all people who do not understand the difference between jazz and other music.*
 
 I understand what Schuller means and can check his words against the music itself. Also, in a different time frame, one can build a case for "Free Jazz" as antiestablishment music of the 1960s and view Max Roach's Freedom Now suite as an overt political statement, but the filmmaker's interest peaks out long before his cursory and superficial presentation of Ornette Coleman, Charles Mingus, John Coltrane, and their followers.
+
 *Jazz*, the series, presents a tale of black musicians striving for equality, artistic recognition, and some of the regular entitlements of white, middle-class Americans, such as financial security, health care, freedom to travel, and so on, in a bigoted and essentially racist society. In doing so, Burns and his advisers ignore Latino contributions and circumstances, minimize the quality and magnitude of white contributors, and are seemingly unaware of jazz in Europe and Asia. Most important, in focusing on the first six decades of the century, they ignore the fact that American society has changed dramatically since 1960, and jazz was a part of that change. Black Is Beautiful, Black Power, the Nation of Islam, and the martyrdom of Dr. Martin Luther King Jr. (and the jazz stemming from these realities) all take place after the real end of his story. Episode 10, 1960 to the present, is clearly the weakest link in the series.
+
 Musically, and as a musical history of jazz, the series is just short of a disaster. Tragically, laymen will never know the difference. In nearly every instance, even when a work is touted as a masterpiece, it is treated as elevator and restaurant music, something to be talked over and relegated to some level of subliminal perception. The height of disrespect and lack of awareness occurs when the narrator cites a performance as a defining work of art and then the director allows the sound engineer to change the music to fit the demands of the script.
 > The height of disrespect and lack of awareness occurs when the narrator cites a performance as a defining work of art and then the director allows the sound engineer to change the music to fit the demands of the script.
 
@@ -31,4 +69,5 @@ This happens many times throughout the series, often enough to convince this rev
 > *On November 26th, 1945, 11 weeks after the surrender of Japan, Charlie Parker finally made his first recording under his own name for the independent label, Savoy Records. . . . Four sides were cut that day: "Billie's Bounce," "Thriving from a Riff," "Now's the Time," and a new tune, built on the chord changes of "Cherokee," called "KoKo."*
 
 The music begins, and, toward the end of the piece's musical introduction, the narrator adds his encomium: "'KoKo' is one of the most extraordinary recordings in jazz history. There is no doubt about it." "KoKo," by Charlie Parker, is a masterpiece of jazz art that lasts 2 minutes and 51 seconds beginning to end. There are no wasted notes, the phrases fall one after another in logical sequence, in a breathless drive toward a musical goal that can only be described as brilliant. The "KoKo" Ken Burns offers his listeners lasts approximately 4 minutes and 10 seconds, a hodgepodge of snippets glued together by digital splicing. It becomes a destroyed masterwork stretched for the convenience of a narration and for a closing quotation from Ralph Ellison, in which a reader states the episode's theme: "Usually, music gives resonance to memory. But not the music then in the making. Its rhythms were out of stride and seemingly arbitrary, its drummers frozenfaced introverts dedicated to chaos." Bebop was not dedicated to chaos! Ken Burns's recreation of "KoKo" is chaotic, for it destroys the symmetry, the syntax, and the grammar of a jazz classic. Ken Burns is no jazz musician, and I suspect he is not much of a musician at all. What he has fed us in four weeks of listening is a fascinating personal vision of race in America during the first six decades of the 20th century. Jazz, to him, is background music for his tale.
+
 Strangely, that vitriolic critique is not the real bottom line of this review. This morning I ate breakfast in a blue-collar café and heard Bird and Diz playing "Salt Peanuts" on the piped-in local radio station. I have not heard real jazz on a pop music station since the 1950s, and I have Ken Burns to thank for that.

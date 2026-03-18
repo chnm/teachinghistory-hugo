@@ -2,9 +2,11 @@
 title: 'Idaho: 10th-Grade Standards'
 date: '2009-02-08T20:10:33'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21052
+grade_levels:
+- high
 ---
 
 (Note: Between grades 9–12, Idaho students are expected to cover the following standards.)
@@ -18,6 +20,7 @@ drupal_nid: 21052
     ### Goal 1.8:
 
     Build an understanding of the cultural and social development of the United States.
+
     Objective(s): By the end of American Government, the student will be able to:
     - 9-12.G.1.1.1 Describe historical milestones that led to the creation of limited government in the United States, such as the Declaration of Independence (1776), Articles of Confederation (1781), state constitutions and charters, United States Constitution (1787), and the Bill of Rights (1791).
     - 9-12.G.1.1.2 Analyze important events responsible for bringing about political changes in the United States.
@@ -28,6 +31,7 @@ drupal_nid: 21052
     ### Goal 2.5:
 
     Explain how geography enables people to comprehend the relationships between people, places, and environments over time.
+
     Objective(s): By the end of American Government, the student will be able to:
     - 9-12.G.2.5.1 Analyze the impact of geography on the American political system, such as electoral politics and congressional redistricting.
   + ## Standard 3: Economics
@@ -37,6 +41,7 @@ drupal_nid: 21052
     ### Goal 3.3:
 
     Explain basic economic concepts.
+
     Objective(s): By the end of American Government, the student will be able to:
     - Analyze the economic impact of government policy.
   + ## Standard 4: Civics and Government
@@ -53,6 +58,7 @@ drupal_nid: 21052
     ### Goal 4.2:
 
     Build an understanding of the organization and formation of the American system of government.
+
     Objective(s): By the end of American Government, the student will be able to:
     - 9-12.G.4.2.1 Identify the three branches of federal government, their powers, and responsibilities.
     - 9-12.G.4.2.2 Explain the functions, powers, interactions, and relationships among federal, state, local, and tribal governments.
@@ -64,6 +70,7 @@ drupal_nid: 21052
     ### Goal 4.3:
 
     Build an understanding that all people in the United States have rights and assume responsibilities.
+
     Objective(s): By the end of American Government, the student will be able to:
     - 9-12.G.4.3.1 Explain the ways in which individuals become citizens and distinguish among obligations, responsibilities, and rights.
     - 9-12.G.4.3.2 Explain the implications of dual citizenship with regard to American Indians.
@@ -73,6 +80,7 @@ drupal_nid: 21052
     ### Goal 4.4:
 
     Build an understanding of the evolution of democracy.
+
     Objective(s): By the end of American Government, the student will be able to:
     - 9-12.G.4.4.1 Analyze the struggles for the extension of civil rights.
     - 9-12.G.4.4.2 Analyze and evaluate states’ rights disputes past and present.
@@ -85,6 +93,7 @@ drupal_nid: 21052
     ### Goal 5.1:
 
     Build an understanding of multiple perspectives and global interdependence.
+
     Objective(s): By the end of American Government, the student will be able to:
     - 9-12.G.5.1.1 Discuss the mutual impact of ideas, issues, and policies among nations, including environmental, economic, and humanitarian.
     - 9-12.G.5.1.2 Describe the characteristics of United States foreign policy and how it has been created and implemented over time.
@@ -98,6 +107,7 @@ drupal_nid: 21052
     ### Goal 1.4:
 
     Analyze the political, social, and economic responses to industrialization and technological innovations in the development of the United States.
+
     Objective(s): By the end of Economics, the student will be able to:
     + 9-12.E.1.4.1 Analyze the impact of events such as wars, industrialization, and technological developments on the business cycle.
   * ## Standard 2: Geography
@@ -107,6 +117,7 @@ drupal_nid: 21052
     ### Goal 2.4:
 
     Analyze the human and physical characteristics of different places and regions.
+
     Objective(s): By the end of Economics, the student will be able to:
     + 9-12.E.2.4.1 Explain how the factors of production are distributed among geographic regions and how this influences economic growth.
   * ## Standard 3: Economics
@@ -116,6 +127,7 @@ drupal_nid: 21052
     ### Goal 3.1:
 
     Explain basic economic concepts.
+
     Objective(s): By the end of Economics, the student will be able to:
     + 9-12.E.3.1.1 Define scarcity and explain its implications in decision making.
     + 9-12.E.3.1.2 Identify ways in which the interaction of all buyers and sellers influence prices.
@@ -126,6 +138,7 @@ drupal_nid: 21052
     ### Goal 3.2:
 
     Identify different influences on economic systems.
+
     Objective(s): By the end of Economics, the student will be able to:
     + 9-12.E.3.2.1 Compare and contrast the characteristics of different economic systems and economic philosophies.
     + 9-12.E.3.2.2 Explain and illustrate the impact of economic policies and decisions made by governments, businesses, and individuals.
@@ -133,6 +146,7 @@ drupal_nid: 21052
     ### Goal 3.3:
 
     Analyze the different types of economic institutions.
+
     Objective(s): By the end of Economics, the student will be able to:
     + 9-12.E.3.3.1 Explain the characteristics of various types of business and market structures.
     + 9-12.E.3.3.2 Describe the elements of entrepreneurship and successful businesses.
@@ -144,6 +158,7 @@ drupal_nid: 21052
     ### Goal 3.4:
 
     Explain the concepts of good personal finance.
+
     Objective(s): By the end of Economics, the student will be able to:
     + 9-12.E.3.4.1 Examine and apply the elements of responsible personal fiscal management, such as budgets, interest, investment, savings, credit, and debt.
     + 9-12.E.3.4.2 Identify and evaluate sources and examples of consumers’ responsibilities and rights.
@@ -155,6 +170,7 @@ drupal_nid: 21052
     ### Goal 4.2:
 
     Build an understanding of the organization and formation of the American system of government.
+
     Objective(s): By the end of Economics, the student will be able to:
     + 9-12.E.4.2.1 Explain the basic functions of government in a mixed economic system.
     + 9-12.E.4.2.2 Identify laws and policies adopted in the United States to regulate competition.
@@ -165,6 +181,7 @@ drupal_nid: 21052
     ### Goal 5.1:
 
     Build an understanding of multiple perspectives and global interdependence.
+
     Objective(s): By the end of Economics, the student will be able to:
     + 9-12.E.5.1.1 Describe the involvement of the United States in international economic organizations and treaties, such as GATT, IMF, and the WTO.
     + 9-12.E.5.1.2 Analyze global economic interdependence and competition.
@@ -179,6 +196,7 @@ drupal_nid: 21052
     ### Goal 1.1:
 
     Build an understanding of the cultural and social development of the United States.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.1.1.1 Compare and contrast the different cultural and social influences that emerged in the North American colonies.
     * 6-12.USH1.1.1.2 Describe the experiences of culturally, ethnically, and racially different groups existing as part of American society prior to the Civil War.
@@ -189,6 +207,7 @@ drupal_nid: 21052
     ### Goal 1.2:
 
     Trace the role of migration and immigration of people in the development of the United States.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.1.2.1 Analyze the religious, political, and economic motives of European immigrants who came to North America.
     * 6-12.USH1.1.2.2 Explain the motives and consequences for slavery and other forms of involuntary immigration to North America.
@@ -197,6 +216,7 @@ drupal_nid: 21052
     ### Goal 1.3:
 
     Identify the role of American Indians in the development of the United States.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.1.3.1 Trace federal policies and treaties such as removal, reservations, and allotment throughout history that have impacted contemporary American Indians.
     * 6-12.USH1.1.3.2 Explain how and why events may be interpreted differently according to the points of view of participants and observers.
@@ -205,6 +225,7 @@ drupal_nid: 21052
     ### Goal 1.4:
 
     Analyze the political, social, and economic responses to industrialization and technological innovations in the development of the United States.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.1.4.1 Explain the consequences of scientific and technological inventions and changes on the social and economic lives of the people in the development the United States.
     * 6-12.USH1.1.4.2 Explain how the development of various modes of transportation increased economic prosperity and promoted national unity.
@@ -212,6 +233,7 @@ drupal_nid: 21052
     ### Goal 1.5:
 
     Trace the role of exploration and expansion in the development of the United States.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.1.5.1 Examine the development of diverse cultures in what is now the United States.
     * 6-12.USH1.1.5.2 Identify significant countries and their roles and motives in the European exploration of the Americas.
@@ -225,18 +247,21 @@ drupal_nid: 21052
     ### Goal 2.1:
 
     Analyze the spatial organizations of people, places, and environment on the earth’s surface.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.2.1.1 Develop and interpret different kinds of maps, globes, graphs, charts, databases and models.
 
     ### Goal 2.2:
 
     Explain how human actions modify the physical environment and how physical systems affect human activity and living conditions.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.2.2.1 Analyze ways in which the physical environment affected political and economic development.
 
     ### Goal 2.3:
 
     Trace the migration and settlement of human populations on the earth’s surface.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.2.3.1 Describe Pre-Columbian migration to the Americas.
     * 6-12.USH1.2.3.2 Illustrate westward migration across North America.
@@ -247,6 +272,7 @@ drupal_nid: 21052
     ### Goal 3.1:
 
     Explain basic economic concepts.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.3.1.1 Describe the economic characteristics of mercantilism.
     * 6-12.USH1.3.1.2 Compare the economic development of the North with the South.
@@ -254,6 +280,7 @@ drupal_nid: 21052
     ### Goal 3.2:
 
     Identify different influences on economic systems.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.3.2.1 Describe the emergence and evolution of a market economy.
     * 6-12.USH1.3.2.2 Analyze the role of government policy in the early economic development of the United States.
@@ -261,6 +288,7 @@ drupal_nid: 21052
     ### Goal 3.3:
 
     Analyze the different types of economic institutions.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.3.3.1 Evaluate the role of financial institutions in the economic development of the United States.
   - ## Standard 4: Civics and Government
@@ -270,6 +298,7 @@ drupal_nid: 21052
     ### Goal 4.1:
 
     Build an understanding of the foundational principles of the American political system.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.4.1.1 Trace the development of constitutional democracy in the United States, such as the Mayflower Compact, colonial assemblies, Bacon’s Rebellion.
     * 6-12.USH1.4.1.2 Identify fundamental values and principles as expressed in basic documents such as the Declaration of Independence, Articles of Confederation, and the United States Constitution.
@@ -278,6 +307,7 @@ drupal_nid: 21052
     ### Goal 4.2:
 
     Build an understanding of the organization and formation of the American system of government.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.4.2.1 Explain how the executive, legislative, and judicial powers are distributed and shared among the three branches of national government.
     * 6-12.USH1.4.2.2 Explain how and why powers are distributed and shared between national and state governments in a federal system.
@@ -285,6 +315,7 @@ drupal_nid: 21052
     ### Goal 4.3:
 
     Build an understanding that all people in the United States have rights and assume responsibilities.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.4.3.1 Provide and evaluate examples of social and political leadership in early American history.
     * 6-12.USH1.4.3.2 Describe ways in which citizens participated in early American public life.
@@ -292,6 +323,7 @@ drupal_nid: 21052
     ### Goal 4.4:
 
     Build an understanding of the evolution of democracy.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.4.4.1 Describe the role of gender, race, ethnicity, religion, and national origin on the development of individual/political rights.
   - ## Standard 5: Global Perspectives
@@ -301,6 +333,7 @@ drupal_nid: 21052
     ### Goal 5.1:
 
     Build an understanding of multiple perspectives and global interdependence.
+
     Objective(s): By the end of U.S. History I, the student will be able to:
     * 6-12.USH1.5.1.1 Explain the significance of principle policies and events in the United States’ relations with the world, such as the War of 1812, Monroe Doctrine, and Mexican and Spanish American Wars.
     * 6-12.USH1.5.1.2 Evaluate the major foreign policy positions that have characterized the United States’ relations with the world, such as isolationism and imperialism.
@@ -321,6 +354,7 @@ drupal_nid: 21052
     ### Goal 1.2:
 
     Trace the role of migration and immigration of people in the development of the United States.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.1.2.1 Identify motives for continued immigration to the United States.
     + 9-12.USH2.1.2.2 Analyze the changes in the political, social, and economic conditions of immigrant groups.
@@ -329,6 +363,7 @@ drupal_nid: 21052
     ### Goal 1.3:
 
     Identify the role of American Indians in the development of the United States.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.1.3.1 Trace federal policies such as Indian citizenship, Indian Reorganization Act, Termination, AIM, and self determination throughout history that have impacted contemporary American Indians.
     + 9-12.USH2.1.3.2 Discuss the resistance of American Indians to assimilation.
@@ -346,6 +381,7 @@ drupal_nid: 21052
     ### Goal 1.5:
 
     Trace the role of exploration and expansion in the development of the United States.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.1.5.1 Describe the factors that contributed to the expansion of the United States.
   * ## Standard 2: Geography
@@ -355,12 +391,14 @@ drupal_nid: 21052
     ### Goal 2.1:
 
     Analyze the spatial organizations of people, places, and environment on the earth’s surface.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.2.1.1 Develop and interpret different kinds of maps, globes, graphs, charts, databases and models.
 
     ### Goal 2.2:
 
     Explain how human actions modify the physical environment and how physical systems affect human activity and living conditions.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.2.2.1 Analyze ways in which the physical environment affected political and economic development.
   * ## Standard 3: Economics
@@ -370,6 +408,7 @@ drupal_nid: 21052
     ### Goal 3.1:
 
     Explain basic economic concepts.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.3.1.1 Describe the emergence of the modern corporation.
     + 9-12.USH2.3.1.2 Describe the development of a consumer economy.
@@ -378,18 +417,21 @@ drupal_nid: 21052
     ### Goal 3.2:
 
     Identify different influences on economic systems.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.3.2.1 Analyze the role of government policy in the economic development of the modern United States.
 
     ### Goal 3.3:
 
     Analyze the different types of economic institutions.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.3.3.1 Evaluate the role of financial institutions in the economic development of the United States.
 
     ### Goal 3.4:
 
     Explain the concepts of good personal finance.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.3.4.1 Analyze how economic conditions affect personal finance.
   * ## Standard 4: Civics and Government
@@ -399,12 +441,14 @@ drupal_nid: 21052
     ### Goal 4.2:
 
     Build an understanding of the organization and formation of the American system of government.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.4.2.1 Analyze the relationship between the three federal branches of government.
 
     ### Goal 4.3:
 
     Build an understanding of the organization and formation of the American system of government.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.4.3.1 Identify the impact of landmark United States Supreme Court cases, including *Plessy v. Ferguson* and *Brown v. Board of Education of Topeka*.
     + 9-12.USH2.4.3.2 Provide and evaluate examples of social and political leadership in American history.
@@ -412,6 +456,7 @@ drupal_nid: 21052
     ### Goal 4.4:
 
     Build an understanding of the evolution of democracy.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.4.4.1 Trace the development and expansion of political, civil, and economic rights.
   * ## Standard 5: Global Perspectives
@@ -421,6 +466,7 @@ drupal_nid: 21052
     ### Goal 5.1:
 
     Build an understanding of multiple perspectives and global interdependence.
+
     Objective(s): By the end of U.S. History II, the student will be able to:
     + 9-12.USH2.5.1.1 Compare competing belief systems of the 20th century, including communism, totalitarianism, isolationism, and internationalism.
     + 9-12.USH2.5.1.2 Trace the major foreign policy positions that have characterized the United States’ relations with the world in the 20th century.

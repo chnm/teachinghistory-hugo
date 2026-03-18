@@ -2,9 +2,11 @@
 title: 'Utah: 12th-Grade Standards'
 date: '2009-02-08T20:17:17'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21488
+grade_levels:
+- high
 ---
 
 * ### UT.1. Standard: U.S. History II

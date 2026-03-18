@@ -2,12 +2,28 @@
 title: AP Combines Teacher Accessibility with Academic Rigor
 date: '2011-06-17T09:55:08'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 24972
+author_bio: Michael R. Anderson has taught history in high school and university settings.
+  He is now a lecturer in International Relations and Global Studies at the University
+  of Texas at Austin.
+author_image_fid: '7616'
+summary: An effective class, especially for high school students, requires ongoing
+  support and vigilance that I simply was not able to provide from afar.
+author_image: /files/author_image/michaelanderson75x75.jpg
+tags:
+- A.P.
+- AP
+- APUSH
+- Assessment
+- advanced placement
 ---
 
 Advanced Placement classes rest on the assumption that there are many high school students who are already capable of succeeding at college-level courses. So why not bring those college classes directly to high schools? Many community colleges are now offering this service, and many high schools are beginning to sign on as an alternative to the AP exam. As an adjunct history professor at a community college this past spring, I had the opportunity to teach modern U.S. history both through a traditional campus-based class as well as through a high school for students wishing to gain college credit. The material and exams were the same. My experiences have provoked a few anecdotal observations about the effectiveness of these "Early College Start" courses in relation to the AP system.
+
 First of all, the high school students I taught were generally ready for the challenge of a college course. In telling them that I would not be simplifying or watering down the course's content, I could mark out my expectations about the required maturity level to deal with history's controversial subjects. My students were relieved to find out that tests would not consist of a "gotcha" game over dates, and they embraced the idea of history as a product of multiple perspectives and ongoing debates. They listened, took notes, and wrote essays that on the whole surpassed the quality of my regular community-college students.
+
 Yet at the end of the semester, I couldn't help but feel that the course had been less than satisfactory. The course met once a week, in the evenings, for two hours and 40 minutes. Graduate students have a hard time staying focused for seminars of this length, and yet I was supposed to keep 25 teenagers on point, after a long day of classes, extracurricular activities, and a scarfed-down dinner? Unlikely. Furthermore, what I came to realize is that an effective class, especially for high school students, requires ongoing support and vigilance that I simply was not able to provide from afar. Waltzing in once a week armed with a sheaf of lecture notes was simply no substitute for the kind of academic mentorship that an effective, in-house teacher can provide.
+
 The AP system may have its flaws, but outsourcing the teaching of upper-level high school history is not the answer.

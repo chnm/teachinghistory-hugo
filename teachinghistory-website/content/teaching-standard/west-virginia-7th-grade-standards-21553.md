@@ -2,9 +2,11 @@
 title: 'West Virginia: 7th-Grade Standards'
 date: '2009-02-08T20:17:36'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21553
+grade_levels:
+- middle
 ---
 
 *Seventh grade social studies examines geography through the six essential elements: The World in Spatial Terms, Places and Regions, Physical Systems, Human Systems, Environment and Society and Uses of Geography. Students will examine people, places and events of today and analyze the relationships between them (culture, history, environmental concerns, political and economic systems) and their impact on the future of our world. Students will use 21st century technology as well as critical thinking and problem-solving skills to construct and interpret maps, graphs, charts, spreadsheets and other data to evaluate and synthesize global information from a geographical perspective. The West Virginia Standards for 21st Century Learning include the following components: 21st Century Content Standards and Objectives and 21st Century Learning Skills and Technology Tools. All West Virginia teachers are responsible for classroom instruction that integrates learning skills, technology tools and content standards and objectives.*

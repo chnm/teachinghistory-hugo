@@ -2,8 +2,94 @@
 title: Implementing Lesson Study
 date: '2010-09-14T18:11:24'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 24239
+author_bio: 'Roni Jones is a professional development coordinator at the Placer County
+  Office of Education, where she serves as the project director for TAH Grants. A
+  former elementary-school teacher, Roni received her MA in Education from California
+  State University, Sacramento, where she also serves as adjunct faculty in the College
+  of Education.
+
+  Mimi Coughlin is an Associate Professor at Sacramento State University in the Department
+  of Teacher Education. She has worked with lesson study as a professional developmental
+  model for the past five years and has been directly involved in K–12 history and
+  social science education for the past 20.'
+splash_image_fid: '6541'
+author_image_fid: '6537
+
+
+  6537'
+summary: Teaching American History project staff outline the ongoing process of creating
+  and managing effective lesson-study-focused grants.
+splash_image: /files/splash-ll-jonescough.jpg
+grade_levels:
+- elementary
+- high
+- middle
+tags:
+- California
+- Evaluation
+- Partners
+- TAH activities
+- elementary school
+- grant proposals
+- high school
+- historians
+- historical thinking
+- middle school
+- project management
+- sustainability
 ---
 
+**Roni Jones:** So we received our first Teaching American History grant in 2005 and Mimi and I were both on the writing group that put that grant together, and lesson study was a part of that grant that was originally written. And I think that over the last five years, we've really learned a lot about the fact that lesson study empowers teachers in their own classrooms.
+
+So even though they're developing an individual lesson plan, it's not necessarily about the development and completion of the individual lesson plan, it's about the teachers coming together collaboratively, talking about the content that they've learned from historians, and then translating that content for their students. In California, they're at the 5th-, 8th-, or 11th-grade level. And I think that what lesson study allows them to do is be the experts in their own class and in their own field and then working collaboratively, coming together to take ownership of that content, so that their students can then take ownership of that content.
+
+**Mimi Coughlin:** There's something about the process of lesson study is very professionalizing for the teachers. It does bond them to each other, it has bonded us as a community, and it connects them deeply to the content, too, because they can sort of own it, and I think Roni said that. It is a real ownership model.
+
+**Roni Jones:** Because we're a countywide project, we actually act as a consortium for 14 different school districts, K–12. We have two partners. Our biggest partner is Sacramento State University, and they provide us with access to historians. And then Mimi is the other faculty member in the College of Education that we work with. And we also work with historians from our local community college because it is the institute of higher ed in our county, that most of our high school students go onto.
+
+So we bring our teachers together, and typically we have a cohort of about 30 teachers, and we've experimented with different models. Sometimes we've had all 4th- and 5th-grade teachers in a summer institute, or all 8th-grade teachers. In the last few years, we've had a mix of 5th, 8th, and 11th grade, because that's where the standards are for U.S. history in California. We bring them together in a multiday summer institute where they're working with historians. Historians are doing formal lectures, with PowerPoint, sometimes historians are bringing in primary source documents and teaching them to evaluate the primary source documents and actually act as historians to draw conclusions and interpret those documents.
+
+We also work with them on lesson design, what good lesson design looks like, having an assessment with their lesson plan, instructional strategies that will work at different levels using graphic organizers or student conversations, those types of things.
+
+So that's, that's during the summer, where they're really interacting in a concentrated way with the content and with our faculty members. Then during the school year, we provide them with four substitute days, where we pull them together as large groups and as small groups to plan a lesson collaboratively. They use online lesson planning tools and online learning environments like Blackboard to continue some of their professional conversations.
+
+And then they actually have two teaching events where two teachers from their group teach the lesson on different days. After each teaching event they reflect and revise the lesson plan that they've created as a group. And I think that's really important, the most important thing about that is that they have collaboratively designed this lesson plan so they're not watching the teacher teach, they're watching the students interact with the material and the content. And that's how they do their revision, they base their revision on that interaction and on the evidence that they gathered during those teaching events
+
+And then we have instituted over the last few years, a final revision day because even though they're teachers, they don't always get the grammar right. So we bring them together, we actually have a copyeditor that we work with, we have our historians come in for the final day to answer questions, to really sort of finalize that content, selection of primary source materials and those sorts of things. So they finalize that lesson plan in the online lesson builder and they submit it to us that we can then post it and they can share it with each other. They have time to share with each other across grade levels, as well, during that time. So that's how our teachers really interact with each other and with the content.
+
+**Mimi Coughlin:** Because it really is a relationship model, where Roni and I and other members of our teams are in teachers' classrooms, they're in each other's classrooms, we have the historians in the classrooms, and we're right where the teachers live, we're right there.
+
+And every time we do a lesson study, at the very end of the day, I always says to the teacher, thank you for letting me into, for having me in your room, and you can just kind of see that they're very proud of their kids and their classrooms, and that's where we should go. If we want to change what they're doing, that's where we need to change it is right there where they—we interact with the students when we go into the classroom, we interact with the curriculum and it's all very, it's very hands-on and it's hands-on right where it should be, right where the kids interact with the content.
+
+**Roni Jones:** They ask you to list the roles, what everybody's title is and what their role is and how much time they dedicate and you do this nice little chart and you put it in the grant and you submit it. And if you don't submit it in such a way that you even have a percentage of somebody's time—Mimi's going to spend 10 hours a week or the historians are going to do this many hours—the readers can actually mark you down for that in your grant application. But I think what people should know is that as you start working on this grant, those roles and those relationships and that amount of time changes based on what starts to happen in the grant.
+
+So at the beginning we used the model that most Teaching American History grants use where we have scholars come in, and historical scholars and Pulitizer Prize-winning historians and these academics who are very much into the research of what they're doing and their knowledge is incredibly important to us and it helps guide our content. But what we have also discovered is that they come in and they want to give a lecture as though they're lecturing to a room of graduate students and there's always value in that, in increasing the personal contact knowledge, history content knowledge, of the audience.
+
+But we've also realized that we need a historian who can be in a little bit more flexible role, who isn't just giving a lecture, but who is helping the teacher to grapple with their own misconceptions as an adult learner because they then have to translate that for the students.
+
+So we find that we need multiple historians and multiple faculty members in multiple roles. And sometimes you go through a few and it's not really comfortable and you have to figure out how they fit into those roles. And so I think that somebody like Mimi who works with us on a regular basis, and Mimi and I talk almost every day, we correspond by email, we talk multiple times during the week. For historians we may not converse with them as often, but they have to be apprised as to what's going on, so you need a very a clear communication stream with all of those people.
+
+And then you need to be flexible as to how people are fitting into the grant, so having that relationship with historians so that you can ask what seem like simple questions of them so that teachers can really begin to organize those thoughts and that information in their head, so that when they do teach their lessons it's very clear to their students. Because teachers can't teach a concept that they're not clear about—it just doesn't work, it comes out as confused for the students as it does for the teacher.
+
+So I think that the role with historians is very important and I think that any new grantee or a struggling grant really needs to think about the fact that you have to be a little flexible and find where people fit, and if someone doesn't fit that role, you can't make them. You have to go find somebody else who can fit that role, and utilize the expertise of the other person in a different way. And I think that's probably one of the biggest lessons we've learned from an administrative standpoint.
+
+**Roni Jones:** We had some resistance the first few years because teachers weren't understanding well, how does this matter to me and how does this fit into my classroom? And so we've been able to frame our summer institutes and frame the work that we do a little bit differently, so that they understand larger concepts and themes about U.S. history. So that if we're talking about race, class, and gender, that we're going to talk about that over multiple time periods and they're going to select the information that they need for their standards
+
+And so in the past, we've really worked with 8th-grade teachers working with 8th-grade teachers and 5th-grade teachers working with 5th-grade teachers. This year we experimented a little bit and we actually were working with the Constitution as our main topic. And we brought together 5th-, 8th-, and 11th-grade teachers working collaboratively on a lesson plan.
+
+So we had 5th-grade teachers working with 11th-grade teachers and 8th-grade teachers. And we had a little resistance at first because they really don't teach the same things about the Constitution, but they trusted us enough over time—we don't keep a common cohort for all three years, we have teachers coming and going throughout the life of the grant so that we have some people who've been with us for multiple years and some teachers who come in for a year—and they trusted us enough and they trusted the lesson study process enough that it became a really rich and valuable experience for them.
+
+And so we have 11th-grade teachers who were learning from the 5th-grade teachers—simple things like how to give directions for a multistep process and putting those directions on the board, which an 11th-grade teacher would never do because they think their students know how to do that, when really they don't, and a 5th-grade teacher learning how to very eloquently deliver difficult concepts that they wouldn't necessarily deliver in the same way that a high school teacher has. So we have a lot this year—we actually really—we felt like we really sort of pushed the edge of that for our teachers and got them out of their comfort zone and it ended up being very successful.
+
+**Mimi Coughlin:** You know, I was thinking about that, I was thinking it is, it is resource intensive but it is outcome rich and I think that—I mean, there is no doubt about it, we have tons of evidence that our teachers are motivated, our teachers are taking initiative to do things beyond just the one lesson. They're taking initiative to do all kinds of things. They're recruiting their peers into the program, they're recruiting principals into their classroom, to come observe.
+
+They're seeing students differently—and we really need to talk about that, the impact on students is—you know, when a teacher is bringing in something interesting and that works and then the students respond positively and demonstrate skills and abilities that the teacher didn't know they had and so then it's this whole iterative process where you know, teachers are motivated by their kids. So when their kids are doing better, then the teachers want to do more. And we've heard that from more than one teacher. They say, wow my kids always want to do this now, now they're asking me, can we do something else like that?
+
+So there's all of that, but then there's the CST scores, which are our state scores. We have assessments we've done with our evaluator that show student achievement goes up, and we can demonstrate that in several different ways. Student engagement goes up. The ability of teachers to apply the historical thinking skills increases.
+
+**Roni Jones:** There are really two separate things going on. We have all of this evidence based on feedback from teachers. Everyone wants to call that anecdotal, but pretty soon, there's a pattern and pretty soon there's a message that's coming very clearly from teachers—that teachers are actually demanding—calling their administrators and sending emails to their administrators saying, you know, unless you do lesson study, I don't want to do professional development.
+
+**Mimi Coughlin:** I really believe that the professional development is profound and the leaders in Placer County in the coming years will be people who say, you know, that lesson study thing. . . Because it provided networking opportunities, it provided a clear content focus and a clear focus on the student experience—student achievement, student engagement, examining student evidence, all these great things that you want educators to do.

@@ -2,15 +2,30 @@
 title: 'Teaching Work: Resources for Labor Day'
 date: '2012-08-15T14:24:24'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25704
 url: /nhec-blog/25704
+date_published: '2012-08-31T00:00:00'
+summary: Labor Day means more than the beginning of the school year. Bring the holiday
+  into the classroom with Teachinghistory.org's resources!
+time_periods:
+- All
+- General
+topics:
+- Labor
+tags:
+- holidays
+- labor day
+- work
 ---
 
 Declared an official national holiday in 1894, the roots of Labor Day stretch back much further. Long before the Industrial Revolution and the rise of organized labor, colonists and Native peoples labored to provide for themselves and their families and to support their societies. U.S. citizens continue to work in many ways and at many jobs.
-[![](http://teachinghistory.org/files/splash-lb12.jpg)](http://teachinghistory.org/spotlight/labor-day)
+
+[![](/files/splash-lb12.jpg)](http://teachinghistory.org/spotlight/labor-day)
+
 How has work changed over time? Take a look at our Labor Day spotlight page. We've gathered lesson plans, website reviews, teaching strategies, and more on American labor history. Using these resources, you and your students can ask questions about the nature of work and search for answers.
+
 Need some questions to get started? For each particular time and place, ask:
 
 * Was work divided by gender? What tasks were associated with each gender? How strictly were these divisions followed? How have they changed over time?

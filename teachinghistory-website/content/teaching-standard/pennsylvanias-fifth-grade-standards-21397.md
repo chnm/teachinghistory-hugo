@@ -2,9 +2,11 @@
 title: Pennsylvania's Fifth Grade Standards
 date: '2009-02-08T20:16:02'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21397
+grade_levels:
+- elementary
 ---
 
 * ### PA.5.1.6. Academic Standard: Civics and Government

@@ -2,15 +2,35 @@
 title: Joe Jelen on Digital Timelines
 date: '2010-12-08T14:55:48'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24425
 url: /nhec-blog/24425
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+date_published: '2011-02-21T00:00:00'
+image_fid: '6940'
+splash_image_fid: '6941'
+author_image_fid: '6942'
+summary: Tired of using up rolls of butcher paper on making timelines? High-school
+  teacher Joe Jelen recommends flexible online timeline-building tools, instead.
+splash_image: /files/splash-blog-timeline.jpg
+image: /files/image-blog-timeline.jpg
+author_image: /files/author_image/Author_Photo_Joseph_Jelen_75x75.jpg
+grade_levels:
+- elementary
+- high
+- middle
+tags:
+- digital tools
+- joe jelen
+- timelines
 ---
 
 ## Beyond Butcher Paper
 
 History teachers have long asked students to create timelines to help conceptualize and understand historical events. Student-created timelines were often limited by the space they occupied. Often teachers would have students focus on a few events and ask them to write very small on their notebook paper to squeeze in events. Clever teachers invested in rolls of butcher paper or banner paper to have students create long timelines. But thanks to today's web designers, timelines are no longer limited in space. Using free timeline builders online allows students to see concepts over time without the constraints of paper and a straightedge.
+
 I have always liked using timelines in my classroom to help students see change over time and help students remember chronology (an oft-heard complaint for students of history).
 > I have always liked using timelines in my classroom to help students see change over time and help students remember chronology.
 
@@ -22,4 +42,5 @@ A quick search revealed lots of possibilities for creating timelines online for 
 > Digital timelines allow teachers greater flexibility and creativity in assigning timeline activities to students over the old paper timelines.
 
 Adapting the product recommended by NCSS, I asked students to create a timeline showing the impact of the Scientific Revolution on a specific field of modern science. To go one step further, students were to make some predictions about future developments in that field (i.e. chemistry, geology, meteorology, etc.). My students quickly caught on to the user interface for the timeline builder and in three 45-minute class periods had researched and created a timeline specific to their field of modern science. You can see an example of one student's timeline [here](http://www.xtimeline.com/timeline/Impact-of-the-Scientific-Revolution-on-Medicince). With more time and practice, I believe that my students will become better at creating richer timelines. After they had created their timelines, students were able to view each others' and comment on them. Ultimately, we created a class timeline merging events from each student's timeline to see the broader impact of the Scientific Revolution.
+
 Digital timelines allow teachers greater flexibility and creativity in assigning timeline activities to students over the old paper timelines. They also allow students to collaborate in a way that fosters chronological thinking and in-depth analysis of eras in history. I hope that you will experiment with digital timelines and share the creative ways you use them in your classroom.

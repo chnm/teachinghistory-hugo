@@ -2,7 +2,7 @@
 title: Teacher Representatives
 date: '2011-03-13T13:34:40'
 lastmod: '2018-09-10T16:43:38'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24576
 url: /about/teacher-representatives

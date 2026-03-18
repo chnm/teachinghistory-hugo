@@ -2,9 +2,11 @@
 title: 'Alabama: 9th-Grade Standards'
 date: '2009-02-08T20:07:42'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20897
+grade_levels:
+- high
 ---
 
 ## AL.9 Standard: World History—1500 to the Present
@@ -64,6 +66,7 @@ At the ninth-grade level, students continue the study of world history from 1500
   + ##### Grade Level Example:
 
     Scientific Revolution—astronomical theories of Copernicus and Galileo, Newton’s law of gravity
+
     Age of Enlightenment—philosophies of Montesquieu, Voltaire, and Rousseau
 
 ### 9.7
@@ -152,6 +155,7 @@ At the ninth-grade level, students continue the study of world history from 1500
   + ##### Grade Level Example:
 
     causes—unanswered aggression, Axis goal of world conquest
+
     consequences—changes in political boundaries; Allied goals; lasting issues such as the Holocaust, Atomic Age, and Nuremberg Trials* #### 9.14.2 Students will practice:
 
     + Explaining the rise of militarist and totalitarian states in Italy, Germany, the Soviet Union, and Japan

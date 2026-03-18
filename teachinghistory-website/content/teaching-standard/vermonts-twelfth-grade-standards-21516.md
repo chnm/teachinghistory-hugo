@@ -2,9 +2,11 @@
 title: Vermont's Twelfth Grade Standards
 date: '2009-02-08T20:17:26'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21516
+grade_levels:
+- high
 ---
 
 * ### VT.6.1. Standard: Critical Evaluation

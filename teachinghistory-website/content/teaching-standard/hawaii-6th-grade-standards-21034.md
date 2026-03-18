@@ -2,9 +2,11 @@
 title: 'Hawaii: 6th-Grade Standards'
 date: '2009-02-08T20:10:29'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21034
+grade_levels:
+- middle
 ---
 
 * ### HI.SS.6.1. Content Standard / Course: Historical Understanding

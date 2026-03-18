@@ -2,9 +2,11 @@
 title: 'West Virginia: Kindergarten Standards'
 date: '2009-02-08T20:17:33'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21546
+grade_levels:
+- elementary
 ---
 
 *Kindergarten Social Studies is an introduction to the lives of interesting people in history, time sequence using historic events, geographic direction and economic choices. The Social Studies program continues the formal introduction of the social responsibility and collaboration skills learned in Pre-Kindergarten. Teachers emphasize the importance of following rules, respecting the rights of others, developing self-control, honesty, courage, justice and leadership. The objectives for elementary West Virginia Social Studies may be integrated throughout the K-3 curriculum. The West Virginia Standards for 21st Century Learning include the following components: 21st Century Content Standards and Objectives and 21st Century Learning Skills and Technology Tools. All West Virginia teachers are responsible for classroom instruction that integrates learning skills, technology tools and content standards and objectives.*
@@ -242,6 +244,7 @@ drupal_nid: 21546
   + SS.O.K.05.04: identify characteristics of communities, families, and family life.
 
 (Note: By the completion of fourth grade, West Virginia students are also expected to master the following standards.)
+
 *Elementary West Virginia Studies explore historic, geographic, economic and civic concepts. These objectives shall be appropriately integrated into the kindergarten—fourth grade curriculum. Teachers introduce students to geographic places and regions. The relationship among geographic settlement patterns and economic development of West Virginia will be examined in this course. Students participate in a variety of activities enabling them to identify research and discuss the cultural heritage of the various groups who settled West Virginia. The course content reflects West Virginia’s unique characteristics as well as its national and global relationships. The West Virginia Standards for 21st Century Learning include the following components: 21st Century Content Standards and Objectives and 21st Century Learning Skills and Technology Tools. All West Virginia teachers are responsible for classroom instruction that integrates learning skills, technology tools and content standards and objectives.*
 
 ## Social Studies Standard 1: Citizenship

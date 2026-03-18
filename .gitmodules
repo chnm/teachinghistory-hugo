@@ -1,6 +1,3 @@
-[submodule "teachinghistory-website/themes/ananke"]
-	path = teachinghistory-website/themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "teachinghistory-website/themes/hextra"]
 	path = teachinghistory-website/themes/hextra
 	url = https://github.com/imfing/hextra.git

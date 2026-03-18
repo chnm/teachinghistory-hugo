@@ -2,9 +2,11 @@
 title: South Carolina's Eighth Grade Standards
 date: '2009-02-08T20:16:09'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21428
+grade_levels:
+- middle
 ---
 
 ### SC.8-1. Standard / Course—South Carolina: One of the United States

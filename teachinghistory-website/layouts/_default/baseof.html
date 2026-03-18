@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{ with .Params.summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+  {{/* Google Fonts — Lora (headings) + Roboto Slab (body) */}}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Roboto+Slab:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+  {{/* Tailwind CSS via Hugo Pipes + PostCSS */}}
+  {{ $css := resources.Get "css/main.css" | postCSS }}
+  {{ if hugo.IsProduction }}
+    {{ $css = $css | minify | fingerprint }}
+  {{ end }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+
+  {{/* Alpine.js — lightweight reactivity for image rotator, etc. */}}
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
+</head>
+<body class="min-h-screen flex flex-col font-body text-black bg-white">
+
+  {{ partial "navbar.html" . }}
+
+  {{ block "main" . }}{{ end }}
+
+  {{ partial "footer.html" . }}
+
+</body>
+</html>

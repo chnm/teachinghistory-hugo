@@ -2,8 +2,9 @@
 title: Pathways Through American History
 date: '2011-06-15T22:58:34'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24962
 ---
 
+This north central West Virginia region has 280 teachers who teach American history, and none of them have a degree in history. In addition, many students perform below average on the social studies portion of the state assessment. *Pathways Through American History* will offer history teachers a blend of in-person and online activities, including a 1-week intensive institute, a 2-day colloquium that combines content and pedagogy, and visits to museums and historic sites. Teachers will take at least two online courses each year, with the option of taking as many as eight. Grant activities will culminate with a trip to Washington, D.C. Three cohorts will study different eras of history (defined by teacher needs), and each cohort will include 12 elementary, 12 middle and 12 secondary teachers, with priority given to teachers from schools in need of improvement. Content will include major turning points in history and related primary source documents, plus hands-on experiences at museums and historic sites. In these field trips, teachers will learn about historical stewardship and object-based learning, for example, and gain deeper information about the history associated with the site. Instructional strategies will include using online resources, project-based learning and historical thinking skills. At the end of their training, teachers will receive continued access to WebLessons and professional memberships (e.g., American Historical Association, Society for History Education) that will keep them connected to scholars and resources in the years to come. A project Web portal will provide access to instructional resources, provide a forum for online communication and become a publication center for teacher-created materials.

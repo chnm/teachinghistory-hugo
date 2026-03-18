@@ -2,9 +2,11 @@
 title: 'Ohio: 3rd-Grade Standards'
 date: '2009-02-08T20:14:57'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21353
+grade_levels:
+- elementary
 ---
 
 ## Theme: Communities—Past and Present, Near and Far

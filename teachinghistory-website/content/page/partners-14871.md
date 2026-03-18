@@ -2,7 +2,7 @@
 title: Partners
 date: '2008-01-30T15:04:03'
 lastmod: '2012-05-23T16:21:15'
-type: page
+content_type: page
 draft: false
 drupal_nid: 14871
 url: /about/partners

@@ -2,9 +2,11 @@
 title: 'Alabama: 11th-Grade Standards'
 date: '2009-02-08T20:07:42'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20899
+grade_levels:
+- high
 ---
 
 ## AL.11 Standard: United States History II—Industrial Revolution to the Present

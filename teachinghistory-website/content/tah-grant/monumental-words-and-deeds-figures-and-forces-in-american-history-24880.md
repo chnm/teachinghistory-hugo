@@ -2,8 +2,11 @@
 title: 'Monumental Words and Deeds: Figures and Forces in American History'
 date: '2011-06-15T12:01:24'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24880
+grade_levels:
+- elementary
 ---
 
+This project is centered in Savannah, Georgia, where the past is a microcosm of American history. Despite this heritage, a recent needs assessment found that the district's teachers in grades K-5 possess low levels of content knowledge in American history, ranging from 33 percent proficiency regarding the Revolution to 55 percent proficiency for the Civil War and Reconstruction. Each year, the project will include a keynote address by a nationally recognized historian; four day-long history symposia, featuring lectures, visits to local historic sites or museums, and pedagogy sessions; summer travel institutes to historic sites (25 teachers per year); and an instructional support program. The project will serve two multiyear cohorts of 40 teachers: Years 1-2 and Years 3-5. In addition, Cohort 1 will serve as peer coaches in three schools in Years 3-5. The project will link Savannah’s historic landscape and resources to parallel events in American history. It also will help teachers understand more thoroughly the principles of freedom and democracy as asserted in the nation's founding documents and as illustrated through historical figures and pivotal events. The teachers will read scholarly historical texts about major events, periods and ideas in American history; interact with professional historians; travel to historic sites; use primary sources and historical nonfiction; and collaborate to produce a stronger district-wide instructional program. A project Web site will include podcasts of historian lectures; instructional units; primary source lessons and activities; strategies- and skills-based audio training podcasts; a resource library; program analysis, including participant and student data; and student work samples.

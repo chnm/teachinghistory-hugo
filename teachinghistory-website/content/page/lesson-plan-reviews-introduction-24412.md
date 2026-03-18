@@ -2,7 +2,7 @@
 title: Lesson Plan Reviews Introduction
 date: '2010-11-29T13:00:34'
 lastmod: '2018-09-19T15:58:13'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24412
 url: /lesson-plan-reviews-intro

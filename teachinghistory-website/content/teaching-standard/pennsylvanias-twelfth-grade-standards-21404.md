@@ -2,9 +2,11 @@
 title: Pennsylvania's Twelfth Grade Standards
 date: '2009-02-08T20:16:04'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21404
+grade_levels:
+- high
 ---
 
 * ### PA.5.1.12. Academic Standard: Civics and Government

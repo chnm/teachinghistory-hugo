@@ -2,13 +2,29 @@
 title: Joe Jelen on Discovering History Through Student Genealogy Research
 date: '2011-12-30T16:48:14'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25372
 url: /nhec-blog/25372
+author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
+  Connecticut.
+date_published: '2012-01-30T00:00:00'
+image_fid: '8736'
+splash_image_fid: '8737'
+author_image_fid: '8735'
+summary: Is it hard for your students to see how history affects them? Have them research
+  their own pasts! Teacher Joe Jelen looks at student genealogy.
+splash_image: /files/familytreesplash.jpg
+image: /files/familytreeimage.jpg
+author_image: /files/author_image/author_image_joe_jelen_75x75_3_1.jpg
+grade_levels:
+- high
+tags:
+- genealogy
 ---
 
 Doing math seems to come more naturally to many students than doing history. After all, everyone knows you "do" math, but who's heard of "doing" history? With a little creativity we can find authentic ways for students to “do history” and learn that it's as natural as "doing" math or science!
+
 One way for students to "do" the past as historians is to research their family’s past. Researching family history helps students create context for studying the past and helps students develop a sense of place in the present. In addition, a family history project can help foster connections with students’ guardians at home and help us, as teachers, better understand our students’ backgrounds. A student genealogy project is certainly not a new idea, but new online tools make it easier than ever to uncover family records and connect distant relatives.
 
 ## Project Ideas
@@ -17,6 +33,7 @@ Ultimately the goal of any genealogy project is to have students develop the res
 > A student genealogy project is certainly not a new idea, but new online tools make it easier than ever. . . .
 
 It is also possible for students to further sharpen their historian skills by doing a little archival research. Whether that archive is in the family attic or online, students will have to use [proper search techniques](http://teachinghistory.org/digital-classroom/ask-a-digital-historian/25219) to find what they are looking for. A project that asks students to locate a marriage certificate, gravesite, or immigration record of a relative provides students an opportunity to explore the past as a historian might. Websites like [Ancestry.com](http://www.ancestry.com/) contain an abundance of information and resources including service records, ship manifests, and marriage certificates. Ancestry.com is an expensive site, but you can get two weeks of free access, enough time for students to complete their research. In addition, some public libraries have a subscription to the site.
+
 There are a variety of ways for students to showcase their genealogical findings beyond the simple family tree diagram. Students could write narratives of their family histories ([see example](http://bingweb.binghamton.edu/~hist264a/rootexam.htm)), which can help students learn to conduct oral history and devise appropriate questions. Students could also compose family narratives online at [OurStory.com](http://www.ourstory.com//). This site allows students to link to other family members' narratives and insert relevant links or photos. A family history project also lends itself to having students create a [VoiceThread](http://voicethread.com/) with family photos, documents, and narration. With VoiceThread, other relatives could collaborate on the project as well and record their own memories or feelings.
 
 ## Respecting Diverse Backgrounds
@@ -25,4 +42,5 @@ Part of the success of projects that examine students' backgrounds comes with st
 > Part of the success of projects that examine students' backgrounds comes with students feeling valued in their classroom.
 
 For example, a “generations project” allows students to explore genealogy while remaining sensitive to the needs of students who may not live in traditional families. With this project each student chooses a historical topic of interest and researches and reflects on how the topic has affected the lives of two individuals who have some connection to the student and are from two different previous generations. This project allows students to explore previous generations, but is not restricted to interviewing members of their families.
+
 Whether you assign a family tree project, oral history project, or generation project, students will make meaningful connections to the past. Students will see both similarities and differences across time and will feel more connected to national and world events that influenced their relatives.

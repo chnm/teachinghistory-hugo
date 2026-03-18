@@ -2,13 +2,17 @@
 title: 'Utah: 4th-Grade Standards'
 date: '2009-02-08T20:17:14'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21480
+grade_levels:
+- elementary
 ---
 
 In the fourth grade, students will build on these foundational concepts as they learn about the present state of Utah. Students will study history, government, economics, culture, and geography to build their understanding of Utah's past and present, as well as make inferences about Utah's future. Inquiry into current events will help students make connections between the past and the present. Students will enlarge their world connections as they trace the global travels of people from many diverse cultures who now call Utah home.
+
 **The most important goal: a well-lived life**
+
  Excitement, wonder, inquiry, delight, and puzzlement are central to meaningful learning in social studies. Social studies should be fun and intriguing for all students, and provide opportunities to make important life-long connections between the past, present, and future. Students who appreciate the sacrifices that have been made in the past and understand the challenges that lie ahead can make better decisions in the present.
 
 ## Core Standards of the Course

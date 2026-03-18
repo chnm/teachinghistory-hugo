@@ -2,14 +2,19 @@
 title: 'Minnesota: 12th-Grade Standards'
 date: '2009-02-08T20:13:37'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21194
+grade_levels:
+- high
 ---
 
 *Students in high school (grades 9–12) pursue in-depth study of social studies content that equips them with the knowledge and skills required for success in postsecondary education (i.e., freshman level courses), the skilled workplace and civic life. The amount of content in the standards for each discipline corresponds to the course credit graduation requirements identified in Minn. Stat. § 120B.024 which are as follows:
+
 3.5 social studies credits encompassing at least United States history, geography, government and citizenship, world history, and economics
+
 OR
+
 3.0 social studies credits encompassing at least United States history, geography, government and citizenship, and world history, and .5 credit of economics taught in a school’s social studies, agriculture education, or business department.*
 
 ## Social Studies Strand 1: Citizenship & Government

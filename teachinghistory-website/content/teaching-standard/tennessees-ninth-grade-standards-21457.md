@@ -2,9 +2,11 @@
 title: Tennessee's Ninth Grade Standards
 date: '2009-02-08T20:16:15'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21457
+grade_levels:
+- high
 ---
 
 * ### TN.1.0. Content Standard: Ancient History

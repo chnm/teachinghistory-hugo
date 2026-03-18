@@ -2,9 +2,11 @@
 title: New Hampshire's Eleventh Grade Standards
 date: '2009-02-08T20:14:45'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21291
+grade_levels:
+- high
 ---
 
 * ### NH.3. Strand / Standard: Civics and Governments

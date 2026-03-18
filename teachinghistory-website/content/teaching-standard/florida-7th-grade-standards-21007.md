@@ -2,9 +2,11 @@
 title: 'Florida: 7th-Grade Standards'
 date: '2009-02-08T20:10:23'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21007
+grade_levels:
+- middle
 ---
 
 * ### FL.SS.A.1. Standard / Body Of Knowledge: Time, Continuity, and Change [History]

@@ -2,9 +2,11 @@
 title: 'California: 9th-Grade Standards'
 date: '2009-02-08T20:07:52'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20939
+grade_levels:
+- high
 ---
 
 * ### CA.10.1. Content Standard: World History, Culture, and Geography

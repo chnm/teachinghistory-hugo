@@ -2,13 +2,40 @@
 title: 'Film Review: Prohibition'
 date: '2012-07-05T12:52:06'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25654
 url: /nhec-blog/25654
+author_bio: Tona Hangen is Assistant Professor of U.S. history at Worcester State
+  University. She is a social historian of the 20th century with research interests
+  in media, religion, and popular culture.
+date_published: '2012-07-18T00:00:00'
+image_fid: '9376'
+splash_image_fid: '9377'
+author_image_fid: '9381'
+summary: Historian Tona Hangen takes a look at Ken Burns and Lynn Novick's three-part
+  documentary on Prohibition.
+splash_image: /files/prohibitionsplash.jpg
+image: /files/prohibitionimage.jpg
+author_image: /files/author_image/author_hangen_0.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Cities & Suburbs
+- Consumer Culture
+- Ideas & Ideologies
+- Legal History
+- Reform
+tags:
+- Prohibition
+- alcohol
+- crime
+- criminals
+- temperance
 ---
 
 With their three-part documentary on Prohibition, Ken Burns and Lynn Novick turn the rise and fall of the Eighteenth Amendment into a cautionary tale about metastasizing single-issue politics in America. Perhaps as expected, the films hit their stride when talking about the late 1920s, with tommy-gun wielding gangsters, bootleggers, and speakeasy patrons battling earnest federal enforcers for the soul of the nation. But the films brood far more than they sensationalize, ultimately making the story of Prohibition not only more expansive but also much more serious and less rollicking than it might be.
+
 The “noble experiment” (a term attributed to Herbert Hoover) of Prohibition was enacted to protect American families and society from the pernicious and widely acknowledged effects of alcohol consumption. While saluting these laudable intentions, Burns and Novick cast Prohibition as not only a “notorious civic failure” but, even more damning, also as a violation of the American character itself. Although Prohibition was in effect only from 1920 to 1933, its roots tapped into the early years of antebellum reform and it had lasting effects on American culture, politics, and law. *Prohibition* takes in an ambitious sweep of more than a century, starting with the beginnings of the temperance movement in the 1820s.
 > Burns and Novick cast Prohibition as not only a “notorious civic failure” but, even more damning, also as a violation of the American character itself.
 
@@ -16,14 +43,17 @@ In the first installment, “A Nation of Drunkards,” we learn that Americans d
 > Women . . . became temperance’s most powerful advocates, under the banner of “home protection.”
 
 Nineteenth-century saloons were usually owned by breweries, which paid for the licenses and provided the furnishings, even down to the paintings on the wall. Women, excluded not only from the saloon but also from the ballot and increasingly incensed by cities’ sprawling vice districts, became temperance’s most powerful advocates, under the banner of “home protection.” Temperance women gathered petitions, picketed or vandalized saloons, installed public water fountains across America, and developed a lurid public school curriculum to impress upon children the horrors of alcohol consumption. Burns and Novick profile the pious sidewalk protester Eliza Jane Thompson, the brilliant Woman’s Christian Temperance Union (WCTU) strategist Francis Willard, and the crusading saloon crasher Carrie Nation.
+
 While the WCTU’s agenda embraced women’s suffrage, settlement houses for inebriate women, and a slew of associated social causes, by the turn of the 20th century the antialcohol movement had a formidable ally in the Anti-Saloon League, which became the nation’s most successful lobbying organization. Under Wayne Wheeler, the league successfully adapted the new structure of modern corporations to its single-minded goal of eliminating alcohol, locality by locality; as Burns explained during a promotional appearance on Keith Olbermann’s cable program, the Anti-Saloon League “makes the NRA [National Rifle Association] look like they’re wearing short pants.” Prohibition was not a conservative movement; it was a progressive one. And as momentum gathered in the early 20th century for passage of national legislation, it attracted a remarkable coalition. Prohibition was probably the only issue that could have united the National Association for the Advancement of Colored People, the Ku Klux Klan, and the Industrial Workers of the World into a single campaign. In the end, World War I tipped the scales toward the passage and ratification of the Eighteenth Amendment, as it unleashed an anti-German backlash against brewers and a wartime ban on the use of grain for alcohol.
 > Prohibition was not a conservative movement; it was a progressive one.
 
 As seen in the second episode, “A Nation of Scofflaws,” the momentum carrying the amendment to passage evaporated almost overnight once it was in place. Obedient brewers retooled to make soft drinks, ice cream, malt extract, and yeast instead; saloons and distilleries were shuttered. But defiance of the new enforcement law, informally known as the Volstead Act, was everywhere. Prohibition seemed designed for everyone else. A sudden surge in medicinal alcohol prescriptions and in the number of “rabbis” who certified religious wine for household use suggests that many people creatively exploited the law’s loopholes and exemptions. As lawlessness increased, so did contempt for the law and those who represented it.
+
 We meet hapless and chronically outgunned Prohibition officials such as Assistant Attorney General Mabel Walker Willebrandt struggling against a tide of clever bootleggers, smugglers, liquor adulterators, and scammers—including St. Louis’s George Remus and Chicago’s Al Capone and Johnny Torrio. Prohibition made small-time criminals and hoodlums fabulously wealthy selling people what they wanted, at all levels of society from skid row to Newport, RI, mansions; a huge still was even discovered on the western ranch of Morris Shepherd, the man who first proposed the Eighteenth Amendment in Congress. Murder and mayhem erupted, especially in cities where police and municipal officials were often on the take, injuring both social stability and civil liberties. One sidestory explores the use of early wiretapping in bringing down the Seattle bootlegger Roy Olmstead; it was in the dissent to the decision of Olmstead’s appeal to the Supreme Court, oddly enough, that Louis Brandeis first articulated the constitutional right to privacy.
 > As lawlessness increased, so did contempt for the law and those who represented it.
 
 By the late 1920s, genuine distress had set in over the rapid social and cultural changes that could be blamed on Prohibition; the law and the weak attempts to enforce it seemed the height of “preposterous naiveté.” During the third part of the Prohibition film series, “A Nation of Hypocrites,” we follow “Lipstick,” the New Yorker writer and quintessential flapper Lois Long, on her nightly rounds of Harlem speakeasies and black-and-tans where illicit alcohol and hot jazz blurred racial boundaries. Era films such as  *Flaming Youth* (1923) illustrated the growing generation gap between the dour suffragists who had won the vote and imposed Prohibition, and the younger, hedonistic, liberated women who openly flaunted their sexuality, embraced illegal liquor as a consumer status symbol, and drank alongside men in illegal dives.
+
 The fate of Prohibition became a major issue in the presidential campaign of 1928 with the nomination of the Democrat Alfred Smith, a Catholic New Yorker and an unapologetic “wet” who drew the ire and bigotry of Protestants, Republicans, and the Ku Klux Klan. Smith’s defeat seemed to stall the movement for repeal for a time. So the real hero of the final installment in the series emerges as the patrician Long Island hostess Pauline Sabin, a Republican club woman galled by the claim of the WCTU to speak for all women. Sabin injected a note of respectability, even elegance, into the campaign for Prohibition’s repeal. There is deep irony in her use of precisely the same images and rhetoric that had been used to support the original passage of the Eighteenth Amendment: Prohibition corrupted the nation’s families and morals, endangering citizens and encouraging violence and disregard for the rule of law. Sabin’s campaign gained even more credibility at the lowest point of the depression, when the need for alcohol tax revenues took on new financial urgency for the federal government. While it was illegal, alcohol could not be regulated, but once legalized again it could become subject to regulation—and to taxation. Legalizing beer with a 3.2 percent alcohol content was one of President Franklin D. Roosevelt’s first acts upon taking office in 1933; passage and ratification of the Twenty-First Amendment—the only constitutional amendment designed to repeal a previous one—took less than a year, ending the nation’s 13-year experiment.
 > While it was illegal, alcohol could not be regulated, but once legalized again it could become subject to regulation—and to taxation.
 

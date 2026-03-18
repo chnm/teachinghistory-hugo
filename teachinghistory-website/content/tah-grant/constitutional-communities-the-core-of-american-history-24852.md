@@ -2,8 +2,12 @@
 title: 'Constitutional Communities: The C.O.R.E. of American History'
 date: '2011-06-13T20:15:59'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24852
+grade_levels:
+- high
+- middle
 ---
 
+This large and diverse California district has a majority of students (70%) eligible for reduced-price meals, and many middle and high school history teachers work outside of their major fields. Each year, the project will offer six after-school seminars and a summer seminar, in addition to lesson study groups. An online professional development component—PD OnDemand—will begin during Year 2; learning sessions recorded during Year 1 will be available, as will teacher-created lessons from Year 1. Two tiers of professional development will be offered: Tier 1 will engage 75 teachers in a 3-year, 200-hour commitment; and Tier 2 will offer online access to events, guest speakers and products to all district history teachers. When the initial Tier 1 group concludes, recently hired teachers will be recruited for Years 4 and 5; some teachers who participated at the Tier 2 level earlier may also join this cadre. C.O.R.E. stands for content, organizations, reflective practice and experiences—the conceptual framework for this project. History content will be aligned with school level, so middle and high school teachers will study topics appropriate to their teaching assignments. Historian-led seminars will focus on key issues and events in American history, as well as ways to deliver instruction that supports higher level student thinking. Ongoing lesson study groups will be led by a specialist and will engage teachers in creating, teaching, observing, reflecting and refining as they develop classroom lessons. These lessons will become part of the PD OnDemand Web site, making classroom-validated resources widely available.

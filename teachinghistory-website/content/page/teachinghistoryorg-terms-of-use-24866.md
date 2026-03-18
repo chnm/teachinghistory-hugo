@@ -2,7 +2,7 @@
 title: Teachinghistory.org Terms of Use
 date: '2011-06-14T08:53:05'
 lastmod: '2011-06-16T09:01:45'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24866
 ---

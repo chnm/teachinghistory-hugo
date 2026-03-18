@@ -2,16 +2,35 @@
 title: Resources for Independence Day
 date: '2012-05-22T17:03:15'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25621
 url: /nhec-blog/25621
+date_published: '2012-06-29T00:00:00'
+splash_image_fid: '9284'
+summary: Why do we celebrate the Fourth of July instead of the Second of July? Teach
+  the context of the Declaration of Independence with these resources!
+splash_image: /files/3g07216v.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+- Politics
+tags:
+- 4th of july
+- Declaration of Independence
+- Independence Day
+- fourth of july
 ---
 
 On July 2, 1776, the Second Continental Congress approved a resolution declaring colonial independence from Great Britain. Two days later, Congress approved the Declaration of Independence, a document listing the colonies' reasons for declaring independence. More than 200 years later, the U.S. celebrates Independence Day on the fourth of July, not the second.
+
 Why?
-[![](http://teachinghistory.org/files/image-id12.jpg)](http://teachinghistory.org/spotlight/independence-day)
+
+[![](/files/image-id12.jpg)](http://teachinghistory.org/spotlight/independence-day)
+
 Explore the resources on Teachinghistory.org's Independence Day spotlight page for the answer to this question and others. You'll find website reviews, teaching strategies, lesson plans, quizzes, and more. Though Independence Day falls outside of the school year for many teachers and students, you can use these resources whenever you teach about the holiday or the Declaration of Independence and the American Revolution. (If you're looking for resources on other founding documents, try our [spotlight page](http://teachinghistory.org/spotlight/constitution-day) on Constitution Day.)
+
 With the advent of digital archives, anyone with an Internet connection now has access to an embarrassment of historical riches, including hundreds of primary sources from the American Revolution. After browsing our spotlight page, explore some of these resources:
 
 * A [letter](http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L17760703jasecond) on July 3, 1776, to Abigail Adams, in which John Adams writes that he believes the second of July will become a national holiday (from the Massachusetts Historical Society).

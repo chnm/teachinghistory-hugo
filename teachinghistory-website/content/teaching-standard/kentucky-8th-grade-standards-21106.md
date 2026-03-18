@@ -2,9 +2,11 @@
 title: 'Kentucky: 8th-Grade Standards'
 date: '2009-02-08T20:11:57'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21106
+grade_levels:
+- middle
 ---
 
 * ### KY.PS. Category: Program of Studies 2006

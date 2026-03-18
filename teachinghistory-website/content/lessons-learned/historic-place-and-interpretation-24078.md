@@ -2,8 +2,50 @@
 title: Historic Place and Interpretation
 date: '2010-06-11T11:18:40'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 24078
+author_bio: 'James A. Percoco has taught history at West Springfield High School in
+  Springfield, VA, since 1980, where he currently teaches U.S. and Applied History.
+  He is the author of *A Passion for the Past: Creative Teaching of U.S. History,
+  Divided We Stand: Teaching About Conflict in U.S. History,* and *Summers With Lincoln:
+  Looking for the Man in the Monuments*. Since 2004 he has served as History Educator-in-Residence
+  at American University.'
+splash_image_fid: '5330'
+author_image_fid: '5299'
+summary: Teaching with place involves more than walking students around a battlefield.
+  If you're using place in a TAH program, make sure to do your homework! says James
+  A. Percoco.
+splash_image: /files/localhistory.jpg
+author_image: /files/author_image/Percoco_author.jpg
+grade_levels:
+- elementary
+- high
+- middle
+tags:
+- classroom activities
+- high school
+- historical thinking
+- middle school
+- primary sources
 ---
 
+Before you do any kind of field trip, you as a teacher have to do your own homework. You have got to do the groundwork and if you continue to go back to the same site, as I do with Gettysburg, it becomes an evolutionary process. And you as an independent learner and an independent thinker develop your own ideas, and you come to then understand that, and you come to recognize, after going back time and time and time again, that this was a place of great trauma—great tragedy—and that only comes to you once you've gotten beyond your initial reading because I think once in your initial reading, you're caught up in the excitement, you're caught up in the drama that history sometimes imposes on the present. And it's when you get beyond that, that you really begin to understand, and that comes with experience.
+
+If I were a teacher, developing a field trip experience for my teachers in my Teaching American History grant program—first I would do the homework, I would make sure it's a site in which you as an individual feel you are competent to deal with as an adult. I would encourage you to do as much reading as possible and particularly a look at the more recent scholarship that's been written about different sites. You'll find that those things that attract you to that particular vignette or that particular story will take on a life of itself for you, so you will get a different experience. So, the experience that I would give at Gettysburg may very well be different from the experience that teacher A, B, or C gives at Gettysburg because you've read different books, you've seen different things, you've brought your own biases to it and you see things differently. And that's kind of the magic of history; that there is no real one certifiable truth. I mean we all know the battle of Gettysburg took place. We all know it was July 1st, 2nd, 3rd, 1863, but what is the meaning of Gettysburg? Did the Union win? Did the Confederacy lose? Was it the turning point in the war? What are the other things? I mean there's questions that always revolve around it. So, you need to be, I think, for best practices, always willing to be open to the fact that your reading, your development is going to lead to more questions and invariably that's what you want your students to do.
+
+One option is to go to the National Park Service and use their Teaching with Historic Places [website](http://www.nps.gov/history/nr/twhp/). I mean, it's a dynamic powerful website that really cuts across all elements of American history in a very rich engaging way for teachers and their students. Every area has a historical memory and I think part of the problem in America has been, that we have so often focused on military history and political history. And it's really been in the last generation that social history has made such important inroads into the interpretation of American history that places like New Bedford, places like the Amoskeag Mill in Manchester, New Hampshire, that places like Butte, Montana, which had a huge mining industry—that these places have a resonance in and of themselves that are important for that local community.
+
+Another way, look for local trails. I mean the United states is dotted with national historical trails. Whether they be short ones from Selma to Montgomery, Alabama, marking the march from Selma to Montgomery in 1965 or they be the Lewis and Clark Trail or they be the Trail of Tears or they be the Nez Perce trail. We have got trails all over the United States—even if you can't do the whole trail you can do part of it and you can make that part of the trail and give it a kind of immediacy for the young people or the young teachers that you are working with. So the environment really, I mean history doesn't happen, and I always tell my students it didn't happen in these four walls; it happened out there and I point out the window.
+
+And again I certainly wouldn't expect teachers to be able to take their students everywhere, but there are places ripe for this and I think one of the great things about the Teaching American History grant program is that there is such an emphasis on training teachers locally. That they can use the local museums, they can use the local cemeteries, they can use the local archives as part of it, and I think that's been one of the geniuses of the Teaching American History program is that it has led teachers in that direction.
+
+Before you do any kind of field trip, you as a teacher have to do your own homework. You have got to do the groundwork and if you continue to go back to the same site, as I do with Gettysburg, it becomes an evolutionary process. And you as an independent learner and an independent thinker develop your own ideas, and you come to then understand that, and you come to recognize, after going back time and time and time again, that this was a place of great trauma—great tragedy—and that only comes to you once you've gotten beyond your initial reading because I think once in your initial reading, you're caught up in the excitement, you're caught up in the drama that history sometimes imposes on the present. And it's when you get beyond that, that you really begin to understand, and that comes with experience.
+
+If I were a teacher, developing a field trip experience for my teachers in my Teaching American History grant program—first I would do the homework, I would make sure it's a site in which you as an individual feel you are competent to deal with as an adult. I would encourage you to do as much reading as possible and particularly a look at the more recent scholarship that's been written about different sites. You'll find that those things that attract you to that particular vignette or that particular story will take on a life of itself for you, so you will get a different experience. So, the experience that I would give at Gettysburg may very well be different from the experience that teacher A, B, or C gives at Gettysburg because you've read different books, you've seen different things, you've brought your own biases to it and you see things differently. And that's kind of the magic of history; that there is no real one certifiable truth. I mean we all know the battle of Gettysburg took place. We all know it was July 1st, 2nd, 3rd, 1863, but what is the meaning of Gettysburg? Did the Union win? Did the Confederacy lose? Was it the turning point in the war? What are the other things? I mean there's questions that always revolve around it. So, you need to be, I think, for best practices, always willing to be open to the fact that your reading, your development is going to lead to more questions and invariably that's what you want your students to do.
+
+One option is to go to the National Park Service and use their Teaching with Historic Places [website](http://www.nps.gov/history/nr/twhp/). I mean, it's a dynamic powerful website that really cuts across all elements of American history in a very rich engaging way for teachers and their students. Every area has a historical memory and I think part of the problem in America has been, that we have so often focused on military history and political history. And it's really been in the last generation that social history has made such important inroads into the interpretation of American history that places like New Bedford, places like the Amoskeag Mill in Manchester, New Hampshire, that places like Butte, Montana, which had a huge mining industry—that these places have a resonance in and of themselves that are important for that local community.
+
+Another way, look for local trails. I mean the United states is dotted with national historical trails. Whether they be short ones from Selma to Montgomery, Alabama, marking the march from Selma to Montgomery in 1965 or they be the Lewis and Clark Trail or they be the Trail of Tears or they be the Nez Perce trail. We have got trails all over the United States—even if you can't do the whole trail you can do part of it and you can make that part of the trail and give it a kind of immediacy for the young people or the young teachers that you are working with. So the environment really, I mean history doesn't happen, and I always tell my students it didn't happen in these four walls; it happened out there and I point out the window.
+
+And again I certainly wouldn't expect teachers to be able to take their students everywhere, but there are places ripe for this and I think one of the great things about the Teaching American History grant program is that there is such an emphasis on training teachers locally. That they can use the local museums, they can use the local cemeteries, they can use the local archives as part of it, and I think that's been one of the geniuses of the Teaching American History program is that it has led teachers in that direction.

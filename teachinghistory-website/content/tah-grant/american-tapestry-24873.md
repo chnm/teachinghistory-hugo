@@ -2,8 +2,11 @@
 title: American Tapestry
 date: '2011-06-14T19:03:35'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24873
+grade_levels:
+- elementary
 ---
 
+Elementary teachers in this diverse Florida district—the nation’s sixth largest—have a significant need for professional development in American history. Each year of the project, 50 teachers will participate in (1) an intensive summer institute; (2) Saturday workshops, which immerse teachers in content and interactive instructional strategies and which develop six master teachers; and (3) book talks led by subject experts. In addition, 25 teachers in Year 2 and 25 teachers in Year 3 will participate in field visits to local museums and intensive content studies at historic sites in Florida, Pennsylvania, Virginia and New York. Teachers in schools identified for improvement will be actively recruited for participation. Six teachers will become master teachers, serving as mentors for other participating teachers and content experts for all elementary teachers in the district. The specific events, people and topics were selected for their unique relevance to elementary students and teachers and the district's diverse population, particularly the foreign-born students who have not had a lifetime of firsthand experiences in this country. Teachers will receive training in differentiating the curriculum, creating authentic and engaging writing assignments, and infusing research-based reading strategies into their pedagogy. The project Web site will feature lesson plans, an American history discussion forum for all district teachers, primary sources, virtual field trips, educational blogs and academic games. Participants also will create educational videos that demonstrate effective teaching strategies and that model academic rigor.

@@ -2,9 +2,11 @@
 title: 'New Jersey: Kindergarten Standards'
 date: '2009-02-08T20:14:45'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21294
+grade_levels:
+- elementary
 ---
 
 (Note: By the completion of fourth grade, New Jersey students are expected to master the following standards.)
@@ -33,6 +35,7 @@ Citizenship begins with becoming a contributing member of the classroom communit
 + no requirements in this section.
 
 **D: History, Culture, and Perspectives**
+
 Individuals and families have unique characteristics.
 
 + 6.1.P.D.1: Describe characteristics of oneself, one’s family, and others.
@@ -260,6 +263,7 @@ All students will acquire the skills needed to be active, informed citizens who 
 ### Essential Question:
 
 What are effective strategies for accessing various sources of information and historical evidence, determining their validity, and using them to solve a problem or find a solution to a public policy question?
+
 **Chronological Thinking**
 
 * Place key historical events and people in historical eras using timelines.

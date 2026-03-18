@@ -2,9 +2,11 @@
 title: 'California: 11th-Grade Standards'
 date: '2009-02-08T20:07:52'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20941
+grade_levels:
+- high
 ---
 
 * ### CA.11.1. Content Standard: United States History and Geography

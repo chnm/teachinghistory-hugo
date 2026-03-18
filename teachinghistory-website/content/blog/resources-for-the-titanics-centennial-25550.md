@@ -2,14 +2,33 @@
 title: Resources for the Titanic's Centennial
 date: '2012-04-04T13:34:12'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25550
 url: /nhec-blog/25550
+date_published: '2012-04-09T00:00:00'
+image_fid: '9141'
+splash_image_fid: '9139'
+summary: One hundred years later, we're still talking about the sinking of the *Titanic*.
+  Let these resources ground your lessons!
+splash_image: /files/splash-blog-titanic.jpg
+image: /files/image-blog-titanic.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Science & Tech.
+tags:
+- disasters
+- maritime history
+- ships
+- shipwrecks
+- titanic
 ---
 
 April 15, 2012, marks the centennial of the sinking of the *RMS Titanic*, a disaster that still looms large in popular imagination. Why is the *Titanic* so well remembered? What sets it apart from the hundreds of disasters at sea that have happened before and after?
+
 Use the centennial as a chance to ask your students how they know what they know about history. Do they know about the ship? Where did they learn about it? From a book or a movie? Your students can bring together the skills of historians and scientists to uncover their *own* answers about the disaster—from who was on the ship to why it sank to how the story of the *Titanic* fits into history and the present day.
+
 Where to begin? We've gathered some ideas for places to start your search for resources:
 
 * Research the *Titanic* with the Library of Congress's [guide](http://www.loc.gov/rr/program/bib/titanic/Titanic.html) to Library resources. The Library's [blog for teachers](http://blogs.loc.gov/teachers/2012/04/the-titanic-in-the-news-and-in-memory/) also rounds up useful primary sources and links to lesson plans.

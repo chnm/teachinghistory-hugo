@@ -2,10 +2,22 @@
 title: March is Women's History Month
 date: '2008-02-07T12:01:07'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 14912
 url: /nhec-blog/14912
+date_published: '2008-02-12T00:00:00'
+splash_image_fid: '8907'
+summary: March is Women's History Month and classroom resources and lesson plans abound.
+splash_image: /files/marchiswomens432x240.jpg
+tags:
+- holidays and heritage
+- inventors
+- lesson plans
+- material and visual culture
+- teaching materials
+- women
+- women's history
 ---
 
 March is Women's History Month and classroom resources and lesson plans abound.

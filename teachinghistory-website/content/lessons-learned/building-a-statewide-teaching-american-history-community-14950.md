@@ -2,12 +2,31 @@
 title: Building a Statewide Teaching American History Community
 date: '2008-02-08T18:06:56'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 14950
+author_bio: Jack Bareilles directs the Humboldt County Teaching American History Grant
+  programs and teaches AP and College Prep U.S. History at McKinleyville High, CA
+  and works as a curriculum coordinator and evaluator for other TAH grants nationwide.
+  He is actively involved in organizing California's TAH Director's consortium.
+splash_image_fid: '4960'
+summary: Opening lines of communication at the state or regional level encourages
+  the sharing of best practices, offers support to TAH directors new and old, and
+  strengthens the overall TAH community . . .
+splash_image: /files/Building_a_Statewide_Community_-_432x240.jpg
+grade_levels:
+- high
+- middle
+tags:
+- TAH
+- TAH Grants
+- networking
+- recruitment
+- sustainability
 ---
 
 There is an old saying in teaching that borrowing an idea is the sincerest form of flattery. Experienced educators are always on the prowl for good ideas. One of the things many of us enjoy about attending the national Teaching American History (TAH) meeting is the chance it gives us to talk and share ideas with other TAH project directors. If you've ever looked around during the lunch session, you've seen hundreds of TAH people busily doing just that. As evidenced by the H-TAH listserve on a national level, sharing ideas and expertise enriches everyone's program. But what about state or regional level communication and collaboration?
+
 Opening lines of communication at the state or regional level encourages the sharing of best practices, offers support to TAH directors new and old, and strengthens the overall TAH community—all at the "cost" of a few phone calls and emails. We see each other at the national conference, but what kind of communication do individual grant directors and staff have with other TAH grants in their state and region the rest of the year? Too often the answer is no communication or at best too little communication. In many states and regions, including my own state of California, TAH directors have taken steps to ensure regular communication and the sharing of information among themselves.
 > . . . digital communication (a fancy term for email and the phone) is the key to keeping in contact and sharing information among the state's TAH directors and history professionals.
 
@@ -16,12 +35,15 @@ There are over 50 active TAH grants spread across California, which in case you 
 ## Get the Ball Rolling
 
 Identify your state or region's TAH directors: The first step toward creating a collaborating group is to identify all the TAH directors in your target area. I've found the easiest way to do this is to contact your TAH supervisor in Washington, D.C., and ask for the current names, contact information, and email addresses for the state's TAH directors. What is listed on the Department of Education TAH website doesn't reflect changes in personnel. Once you have the names it is a matter of picking up the phone and/or sending an email. [Note: A state and national directory of TAH programs and personnel is now available on the National History Education Clearinghouse [website](http://teachinghistory.org/tah-grants).]
+
 Start sending emails: If the longest journeys begin with one step, building a statewide TAH group begins with one email. Start by sharing information and ideas. I try to send my teachers a resource- and opportunity-laden email every few weeks. These emails might include information about summer Gilder Lehrman or NEH Landmarks of American History workshops along with information about state resources. For instance, I send a copy of the Constitutional Rights Foundation's This Month in History calendar each month. Whenever I send an email of this type, I send a second copy to the other California TAH directors to share with their teachers.
 > I try to send my teachers a resource- and opportunity-laden email every few weeks.
 
 Hold a meeting: Some states like Louisiana and Florida do this quarterly, others such as California meet twice a year (once at the national meeting and once during the other semester). It all depends on your local circumstances. Agenda items can vary from state-specific issues to TAH-related issues. We invite the California Department of Education's history/social studies consultant to join our group because we feel it is important to include the state department of education in our communications—partly to ensure they know about TAH (which they didn't when we started this some years ago). Feel free to invite state or national park historians or speakers from nonprofits and other organizations to the meeting to share what they have to offer. Another idea is to meet at your state's Council for History Education or Council for Social Studies conferences—many TAH programs take teachers to these meetings so it is perfectly reasonable to ask the conference organizers (many who are involved in TAH) for the space to meet as a TAH group.
+
 Take advantage of your own expertise: Make experienced TAH directors available to share their experience and resources with newer directors. This can all be done digitally. For instance, in past years we have shared copies of year-end reports and other report data among ourselves. When one grant unexpectedly found itself without an evaluator, the director was able to ask other directors for recommendations and in short order a suitable replacement was found.
 > Make experienced TAH directors available to share their experience and resources with newer directors.
 
 Share resources: Grant directors have worked together to share the cost of bringing prominent speakers to California. For instance, a few years ago two TAH directors who lived about 250 miles apart collaborated to bring the Civil Right's icon Fred Shuttlesworth to speak to their teachers. Other grant directors collaborate on their summer travel—they share the cost of buses and speakers. Some grants invite each other's teachers to their sessions. I've heard that the four TAH directors in Louisiana have collaborated to create a standard teacher evaluation.
+
 The key is to communicate—whether you meet quarterly or communicate exclusively by email; whether you communicate to discuss national or regional issues; whether you share curriculum or focus more on sharing practical advice. All it takes is a few phone calls and emails and a TAH director or small group of TAH directors willing to start the ball rolling.

@@ -2,9 +2,11 @@
 title: 'DC: Ninth Grade Standards'
 date: '2009-02-08T20:10:08'
 lastmod: '2017-10-06T15:37:32'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20981
+grade_levels:
+- high
 ---
 
 (Note: In 2011, DC public schools began transitioning to the [Common Core State Standards](http://www.corestandards.org/the-standards/english-language-arts-standards/history-social-studies/introduction/).)

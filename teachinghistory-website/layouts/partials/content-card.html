@@ -1,0 +1,43 @@
+{{/*
+  ContentCard — used in carousels and grid listings.
+
+  Usage:
+    {{ partial "content-card.html" (dict "page" . "width" "w-[250px]") }}
+
+  Params:
+    - page: a Hugo page object
+    - width: optional Tailwind width class (default "w-[250px]")
+*/}}
+
+{{ $page := .page }}
+{{ $width := .width | default "w-[250px]" }}
+
+<a href="{{ $page.RelPermalink }}" class="{{ $width }} shrink-0 block bg-white rounded shadow border border-gray-light overflow-hidden hover:shadow-md transition group">
+  {{/* Title */}}
+  <div class="px-3 pt-3 pb-2">
+    <h3 class="font-heading text-sm font-bold leading-snug group-hover:underline">
+      {{- $page.Title -}}
+    </h3>
+  </div>
+
+  {{/* Image or placeholder — try splash_image, image, thumbnail */}}
+  {{ $img := $page.Params.splash_image | default $page.Params.image | default $page.Params.thumbnail }}
+  {{ with $img }}
+    <div class="h-[160px] overflow-hidden">
+      <img src="{{ . }}" alt="" class="w-full h-full object-cover">
+    </div>
+  {{ else }}
+    <div class="h-[160px] bg-gray-light"></div>
+  {{ end }}
+
+  {{/* Body text */}}
+  <div class="px-3 py-3">
+    <p class="font-body text-xs leading-relaxed line-clamp-3 text-gray-600">
+      {{ with $page.Params.summary }}
+        {{- . | plainify | truncate 120 -}}
+      {{ else }}
+        {{- $page.Summary | plainify | truncate 120 -}}
+      {{ end }}
+    </p>
+  </div>
+</a>

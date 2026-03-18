@@ -1,0 +1,40 @@
+---
+title: Black-Robed Regiment
+date: '2011-04-20T13:51:02'
+lastmod: '2018-09-12T11:54:35'
+content_type: ask_a_historian
+draft: false
+drupal_nid: 24635
+question: Did a black-robed regiment really exist during the American Revolution,
+  or was it just a myth?
+url: /history-content/ask-a-historian/24635
+splash_image_fid: '7425'
+summary: Not technically a military force, the "Regiment" proved integral to the success
+  of the American Revolution.
+splash_image: /files/muhlenburg_splash.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Military History
+- Politics
+- Reform
+- Religion
+tags:
+- American Revolution
+- Anglican Church
+- Church
+- black-robed regiment
+- christopher hamner
+- clergy
+---
+
+The term “Black Robe Regiment” referred not to a literal regiment of soldiers that wore black robes into battle but rather to the influential clergymen who promoted American independence and supported the military struggle against Britain. By encouraging the Patriot cause, those ministers helped muster critical support among members of their congregation—support the British begrudgingly acknowledged as vital to maintaining the colonists' frustrating resistance to British attempts to restore Parliamentary rule. In its implicit comparison of symbolic support to a specific body of troops, the term “Black Robe Regiment” is somewhat similar to the “fifth column” identified by the Spanish general Emilio Mola. During that country’s Civil War in 1936, Mola boasted that he had four columns of soldiers marching upon Madrid and a “fifth column” of sympathizers already living in the city who would support the army once it arrived. The term “fifth column” has since come to refer generally to civilian supporters living within a populace, even though that group usually lacks formal organization. Likewise, the Black Robe Regiment was not an actual detachment in the Continental Army but rather a British epithet for the influence preachers exerted in support of the Patriot cause. Advocates of the British crown found preachers’ support of the Patriot cause particularly detrimental to their efforts to maintain loyalty among the colonists. Such clergymen provided sanction for the cause of independence as well as formal support for the military effort. In the 1770s, most colonists still considered themselves aligned with England; many parishioners questioned the fundamental legitimacy of revolution, and of separating from Britain and consequently the Church of England. From their pulpits, these members of the Black Robe Regiment reassured their audiences that their revolution was justified in the eyes of God. Winning and maintaining the support of the population was critical in the American War for Independence, which relied heavily on the support of volunteers and the general population.
+
+> The origin of the British label “Black Robe Regiment,” was the rhetorical support for independence.
+
+Peter Muhlenberg is perhaps the most iconic figure associated with the Black Robe Regiment. A Virginia minister, Muhlenberg accepted a commission to lead a regiment of the Continental army. An anecdote—likely apocryphal—from an 18th-century biography depicted Muhlenberg preaching to his congregation in his clerical robes, only to strip them off and reveal his military uniform underneath, a dramatic appeal for men to join the Patriot struggle. Muhlenberg served as an officer in the Continental Army throughout the war and commanded a brigade at the Battle of Yorktown. But Muhlenberg’s literal participation in the war’s fighting was highly unusual for clergymen. Far more common, and the origin of the British label “Black Robe Regiment,” was the rhetorical support for independence those ministers offered regularly from their pulpits. Nor should the undeniable importance of support from this influential group of Protestant clergymen suggest that the American Revolution was mainly a religious revolution, or that its supporters were monolithic in their faith. Colonial religious life was heterogeneous and reflected a diverse set of beliefs. Some Patriot supporters, like the Black Robe Regiment and their congregations, subscribed to Protestant faiths and read in the events of the war evidence that God favored their cause. Many other members of the founding generation—products of the Enlightenment, which emphasized reason and rational explanation over revealed truth—characterized themselves as Deists, believing that a divine God had created the universe and set it in motion, but took no active role in shaping or guiding human affairs. A few influential Patriots seemingly defied any sort of religious affiliation: Thomas Paine, whose pamphlets "Common Sense" and "The American Crisis" were credited with boosting support for the Patriot cause during critical junctures in the revolutionary movement, famously rejected organized religion and the creeds professed by various faiths. Asserting that “My own mind is my own church,” Paine suggested that the various religions appeared to him as “no other than human inventions, set up to terrify and enslave mankind, and monopolize power and profit.” Success in the War of Independence drew on Americans of diverse backgrounds, beliefs, and faiths, who unified effectively enough to defeat the world’s strongest military power in a bloody and protracted conflict.
+
+---
+
+For more primary sources on religion in the colonies and early U.S., check out the Library of Congress exhibit [*Religion and the Founding of the American Republic*](http://teachinghistory.org/history-content/website-reviews/14649)

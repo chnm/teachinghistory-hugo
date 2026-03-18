@@ -2,9 +2,11 @@
 title: 'Massachusetts: 10th-Grade Standards'
 date: '2009-02-08T20:12:04'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21136
+grade_levels:
+- high
 ---
 
 * ### MA.1. Domain / General Standard: Concepts and Skills

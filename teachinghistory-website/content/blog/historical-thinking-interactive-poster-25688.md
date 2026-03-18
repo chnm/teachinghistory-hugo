@@ -2,13 +2,32 @@
 title: Historical Thinking Interactive Poster!
 date: '2012-07-31T16:16:18'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25688
 url: /nhec-blog/25688
+author_bio: Jennifer Rosenfeld is Outreach Director for Teachinghistory.org. She oversaw
+  the distribution of the Historical Thinking and Civil War posters.
+date_published: '2012-08-07T00:00:00'
+image_fid: '9423'
+splash_image_fid: '9425'
+author_image_fid: '9426'
+summary: So how do we top the popularity of our historical thinking poster? We make
+  a good thing even better!
+splash_image: /files/screen-shot-2012-08-06-at-1.28.53-pm.png
+image: /files/ht_elem_1.jpg
+author_image: /files/author_image/jennifer1_1.jpg
+grade_levels:
+- elementary
+- high
+- middle
+tags:
+- historical thinking
+- posters
 ---
 
 So how do we top the popularity of our historical thinking poster? We make a good thing even better! Check out *Teachinghistory.org’s* interactive version of the historical thinking poster for the 2012–2013 school year!
+
 Just like the original poster, we created a version specifically for [elementary](http://teachinghistory.org/historical-thinking-poster-1) classrooms and another for [secondary](http://teachinghistory.org/historical-thinking-poster-2) grade use.
 
 ## What will you find?

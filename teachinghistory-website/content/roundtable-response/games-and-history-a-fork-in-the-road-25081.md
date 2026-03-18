@@ -2,13 +2,25 @@
 title: 'Games and History: A Fork in the Road'
 date: '2011-08-17T22:20:24'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25081
+author_bio: Dan Norton is a Founding Partner and Creative Director at Filament Games,
+  a design and development shop dedicated exclusively to creating learning games.
+author_image_fid: '7949'
+summary: The title of this roundtable inquires whether Serious Games are relevant
+  or more "educational fluff." To be blunt, the only way a critic could come to that
+  conclusion would be from complete illiteracy with games as a form of media.
+author_image: /files/author_image/roundtable-author-norton.jpg
+tags:
+- games
+- gaming
 ---
 
 The title of this roundtable inquires whether Serious Games are relevant or more "educational fluff." To be blunt, the only way a critic could come to that conclusion would be from complete illiteracy with games as a form of media. There are writers far more persuasive than this author to cover the value of learning games: I suggest James Paul Gee's classic [*What Videogames Have to Teach About Learning and Literacy*](http://books.google.com/books?id=BZIY7TGKySsC). *(Editor's Note: James Gee also [contributes](http://teachinghistory.org/issues-and-research/roundtable-response/25085) to this roundtable.)*
+
 I hope the reader will forgive the author for treating the "fluff" accusation casually.
+
 When designing a game for learning, the origins of design decisions are the stated learning objectives. But history-based learning objectives often suffer from an identity crisis—some objectives are about reporting the facts of what happened in the past, and some are about performing historical practices (research, source evaluation, synthesis, applying historical models to current events, etc.). A design dichotomy emerges: should the player be embedded in a historical moment in time, or be embedded as a historian? Let's explore both types of games.
 
 ## Historical Experience Games
@@ -16,6 +28,7 @@ When designing a game for learning, the origins of design decisions are the stat
 > . . . history-based learning objectives often suffer from an identity crisis—some objectives are about reporting the facts of what happened in the past, and some are about performing historical practices. . .
 
 Historical Experience Games are games that ask the player to step into an identity plucked directly out of the history books. *Oregon Trail* would be the premiere example of the genre, placing the player directly into the shoes of a pioneer heading down the historical Oregon Trail.
+
 Historical Experience Games leverage several of the strengths of games as learning tools. Space only affords this answer time for one:
 
 * *Advantage: Identity*
@@ -26,7 +39,9 @@ Historical Experience Games leverage several of the strengths of games as learni
 ## Historical Practice Games
 
 Historical Practice Games are games that take a different tack than Historical Experience Games. These games attempt to place the player in the role of a historian, asking the player to take on the abilities (and limitations) of historical practice itself. This is a much less commonly explored path for historical learning games, but examples do exist.
+
 One contemporary example is the in-development [*Operation Lapis*](http://www.practomime.com/?page_id=122), which asks the player to (in the words of its project page) "discover and subsequently translate the Lapis Saeculōrum (The Stone of the Ages)."
+
 This game has directly embedded its own reference resource for the player to research and derive information from, which is an interesting starting point for historical practices in games.
 
 * *Advantage: Complicated Verbs*

@@ -2,9 +2,11 @@
 title: 'Florida: Kindergarten Standards'
 date: '2009-02-08T20:10:21'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21000
+grade_levels:
+- elementary
 ---
 
 * ### FL.SS.K.A.1 Standard / Body Of Knowledge: Historical Inquiry and Analysis [American History]

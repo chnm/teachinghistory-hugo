@@ -2,8 +2,29 @@
 title: Hanover Tavern [VA]
 date: '2008-01-08T13:38:40'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 12385
+website_url: http://www.hanovertavern.org
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- Military History
+- Popular Culture, Leisure
+- Slavery
+- Southern States
+tags:
+- Civil War
+- Confederate
+- Gabriel's Slave Rebellion
+- P.T. Barnum
+- Tavern
+- Union
+- Virginia
 ---
 
+The Hanover Tavern is a 1791 county government building, which would have originally existed within a complex including a courthouse and jail. The tavern complex has served as a Union and Confederate boarding house and the site of the first U.S. armed slave insurrection, the 1800 Gabriel's Slave Rebellion. Today, the site serves as a historic interpretive center, community center, and restaurant.
+
+The tavern offers workshops, lectures, family nights, and self-guided tours.

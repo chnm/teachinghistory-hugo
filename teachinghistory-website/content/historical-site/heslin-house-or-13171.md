@@ -2,8 +2,23 @@
 title: Heslin House [OR]
 date: '2008-01-08T13:38:59'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 13171
+website_url: http://frwhs.org/heslin-house/
+time_periods:
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Daily Life
+- Western States
+tags:
+- Oregon
 ---
 
+The Heslin House, located in Fairview, OR, beside the Columbia River, is an impressive example of Western Farmhouse architecture. The home was purchased by the Fairview-Rockwood-Wilkes Historical Society in 1991, and now stands as a historic house museum.
+
+The house offers guided tours. The website offers a brief history of the home as well as visitor information.

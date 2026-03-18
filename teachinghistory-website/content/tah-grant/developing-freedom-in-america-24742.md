@@ -2,8 +2,13 @@
 title: Developing Freedom in America
 date: '2011-06-06T17:40:15'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24742
+grade_levels:
+- elementary
+- high
+- middle
 ---
 
+Tulare County is located in California's mostly rural Central Valley, halfway between San Francisco and Los Angeles. *Developing Freedom in America* will target U.S. history teachers in 46 school districts identified as needing intervention. These districts serve significant numbers of English Language Learners. Each year will feature a 5-day summer institute that includes interactions with historians, guided research in primary sources, and curriculum development; two in-service seminars that integrate literacy and content development; and an online community that features guided discussions, Lesson Study, and peer review. Within these professional development settings, pairs of teachers will design, teach, and refine units of study aligned with state standards in U.S. history, with support from a university historian and graduate students. *Developing Freedom in America* will serve two teacher cohorts of 50 teachers each, with each cohort participating for three years. Participating teachers will connect local and national history as they examine the nation's founding principles of freedom and democracy and America's ongoing struggles, setbacks, and achievements in realizing those principles. They will learn about research-based instructional strategies for improving students' reading, writing, and critical thinking skills, with an emphasis on addressing the literacy challenges presented by primary and secondary documents, especially for English Language Learners. The program will establish a process for collaborative lesson design, an online archive of classroom-tested lesson plans and resources, and a network of American history teaching professionals to support geographically isolated colleagues within the county

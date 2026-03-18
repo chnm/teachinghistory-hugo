@@ -2,15 +2,29 @@
 title: National Archives Launches DocsTeach
 date: '2010-10-01T16:48:31'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24276
 url: /nhec-blog/24276
+date_published: '2010-10-25T00:00:00'
+image_fid: '6649'
+summary: Choose from more than 3,000 primary sources and seven activity modules to
+  make your own interactive online lessons.
+image: /files/blog-docsteach_0.jpg
+grade_levels:
+- elementary
+- high
+- middle
+time_periods:
+- All
 ---
 
 With the National Archive's [*DocsTeach*](http://docsteach.org/), educators can find primary sources and the tools to present and interpret them on the same website.
+
 Officially launched September 20, *DocsTeach* brings more than 3,000 primary sources together with seven online activities, each designed to reinforce specific classroom skills. Register for free, and log in to browse or search the site's photographs, speeches, letters, drawings, memos, video clips, maps, and other sources, dating from 1754 to the present day. Bookmark those that interest you, and head over to the site's "Activities" section.
+
 Here, you can incorporate your chosen sources into online activities adaptable to students at all grade levels. Save activities to access later—including in the classroom.
+
 Activities include:
 
 * **Find a Sequence:** Have students arrange primary sources in a particular order. DocsTeach suggests using this activity to prompt students to determine the chronological order of sources, or to order steps in a process (for instance, which documents represent which steps in the veto process? In the drafting of the U.S. Constitution?).
@@ -22,4 +36,5 @@ Activities include:
 * **Weighing the Evidence:** Present students with primary sources on a particular historical issue, and have them decide whether they support one interpretation or another. Try the causes of the Civil War. Which documents support an economic cause? Which support slavery as a dividing issue?
 
 Write introductions and conclusions to any activity, and publish them to share with other *DocsTeach* users, if you choose. Or check out the National Archives' sample activities.
+
 At present, only 28 pre-made activities are available, but check back as more users register at the site and share their work.

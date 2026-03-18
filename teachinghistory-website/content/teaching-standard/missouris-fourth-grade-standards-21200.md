@@ -2,9 +2,11 @@
 title: Missouri's Fourth Grade Standards
 date: '2009-02-08T20:13:38'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21200
+grade_levels:
+- elementary
 ---
 
 * ### MO.TS.7. Strand: Big Idea / Standard: Tools of Social Science Inquiry

@@ -2,9 +2,11 @@
 title: 'Alabama: 5th-Grade Standards'
 date: '2009-02-08T20:07:40'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20892
+grade_levels:
+- elementary
 ---
 
 ## AL.5. Standard: United States Studies—Beginnings to the Industrial Revolution
@@ -50,7 +52,9 @@ Fifth-grade content standards focus on the United States from the prehistoric pe
   - ##### Grade Level Example:
 
     patrons—King Ferdinand and Queen Isabella
+
     explorers—Christopher Columbus
+
     early settlements—St. Augustine, Quebec, Jamestown+ Tracing the development and impact of the Columbian Exchange
 
 ### 5.5

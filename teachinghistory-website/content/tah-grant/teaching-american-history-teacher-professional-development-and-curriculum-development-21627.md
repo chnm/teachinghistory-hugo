@@ -3,8 +3,9 @@ title: Teaching American History- Teacher Professional Development and Curriculu
   Development
 date: '2009-02-10T13:33:56'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 21627
 ---
 
+This program will be implemented within the context of an education community that was ravaged in the summer of 2005 by Hurricanes Katrina and Rita, which resulted in a diaspora of the community, fragmentation of the local school system, reorganization of education resources and capacity and upsurge of public charter schools. The goal of this proposal is to raise student literacy and academic achievement through the instruction of traditional American history. School leadership is acutely aware that success is not possible unless they raise teachers' understanding, knowledge, and appreciation of traditional American history through an intensive, on-going professional development program that will help teachers develop and expand their expertise in American history content and provide them with new and innovative teaching strategies. To accomplish the goals of this project, the association will partner with Our Lady of Holy Cross College, the Gilder Lehrman Institute of American History, and local museums and historic sites. Through a series of three teacher institutes for advanced study in American history, the Algiers Charter Schools will train 60 teachers. The six teacher institutes will focus on the issues, people, ideas, and events in the study of traditional American history, as well as the National Assessment of Educational Progress (NAEP) U.S. History Framework. Course content will explore the following: 1) the Americas, beginnings to 1607; 2) colonization, settlement, and communities (1607-1763); 3) the Revolution and new nation (1763-1815); 4) expansion and reform (1801-1861); 5) Civil War and Reconstruction (1850-1877); 6) the development of modern America (1865-1920); 7) Modern America and the World Wars (1914-1945); and, 8) contemporary America, 1945-present.

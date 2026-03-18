@@ -2,15 +2,41 @@
 title: 'Women Taking History: Women''s History Month 2011'
 date: '2011-02-22T18:21:29'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24533
 url: /nhec-blog/24533
+date_published: '2011-03-04T00:00:00'
+image_fid: '7198'
+splash_image_fid: '7197'
+summary: This Women's History Month, remind your students that women have made history
+  in more ways then one—by recording it, as well as *being* recorded.
+splash_image: /files/splash-blog-wom2011.jpg
+image: /files/image-blog-wom2011.jpg
+grade_levels:
+- elementary
+- high
+- middle
+time_periods:
+- All
+- General
+topics:
+- Art
+- Gender
+- Media
+- Women
+tags:
+- photographers
+- photography
+- women's history month
 ---
 
 African American History Month ends, and Women's History Month begins! Take a glance around the internet, and you'll find plenty of resources for teaching women's history—whether it be the Seneca Falls Convention, heroes of the American Revolution and the Civil War, social activists, First Ladies, workers during the World Wars, jazz and blues stars, or presidential candidates. You'll find photographs of many of these women, too—working in factories, on the campaign trail, helping the wounded, conducting scientific experiments.
+
 But who takes these photographs? Who makes these images that become the records of history? Aren't the people behind the camera as significant as the ones in front of it?
+
 Of course they are, though they can easily be forgotten. When we look at photographs of Amelia Earhart, we rarely ask who took the photo. When we're struck by a picture of New York during 9/11, do we ever ask if it was snapped by a man or a woman?
+
 Explore women's history behind the camera this Women's History Month. What have women chosen to capture on film, as they record and live through history?
 
 ## Taking Photos and Making History
@@ -25,6 +51,7 @@ If photographs aren't enough, branch out into art, journalism, fiction and nonfi
 ## Further Resources
 
 Looking for more resources? Take a quiz on women in history, with our [weekly quiz archive](http://teachinghistory.org/history-content/quiz?keys=&tid=70)! See how well you do on quizzes with subjects like [women in the West](http://teachinghistory.org/history-content/quiz/24198). Search our [Website Reviews](http://teachinghistory.org/history-content/website-reviews?keys=&tid=70&tid_1=All&tid_2=All), as well—we've reviewed and annotated more than 200 websites with women's history content.
+
 If you'd still like more, these organizations feature content and pages created just for Women's History Month:
 
 * [The Library of Congress](http://womenshistorymonth.gov/)

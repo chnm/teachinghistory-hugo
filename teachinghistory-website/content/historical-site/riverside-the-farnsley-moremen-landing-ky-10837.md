@@ -2,8 +2,21 @@
 title: Riverside, the Farnsley-Moremen Landing [KY]
 date: '2008-01-08T13:36:52'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 10837
+website_url: http://www.riverside-landing.org
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- Daily Life
+- Family Life
+- Rural Life
+- Southern States
 ---
 
+Riverside, the Farnsley-Moremen Landing, is an example of a typical 19th century farm along the Ohio River. Today the site consists of the historic house, a detached 19th century kitchen, archeological excavations, and a kitchen garden. A Visitors' Center, museum shop, and cruise service are also offered.
+
+The site offers an award-winning field trip program, Building Block of History, that can be adapted for any grade level and meets curriculum standards for many subject areas. The program includes a tour of the historic house, a chance to participate in the ongoing archeological dig on-site, and a hands-on activity where students can create their own archeological artifact. The site offers pre-visit activities for teachers to use in their classroom as well. Another option is the Life On the River program, which can also be adapted for any grade level.

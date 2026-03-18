@@ -2,13 +2,42 @@
 title: Teaching and Learning History in the Digital Age (AHA 2011)
 date: '2011-02-10T15:15:22'
 lastmod: '2017-12-01T15:52:16'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24526
 url: /nhec-blog/24526
+author_bio: Rwany Sibaja is a PhD student of History at George Mason University and
+  a Graduate Research Assistant at the [Center for History and New Media](http://chnm.gmu.edu).
+  He previously taught high school history (World and AP European) and Spanish, later
+  working as a K-12 curriculum program manager in NC.
+date_published: '2011-03-11T00:00:00'
+image_fid: '7143'
+splash_image_fid: '7144'
+author_image_fid: '7205'
+summary: Rwany Sibaja recaps our presentation at the 2011 American Historical Association
+  conference in Boston.
+splash_image: /files/prezisplashimage_0.jpg
+image: /files/2011aha.jpg
+author_image: /files/author_image/ThO.jpg
+grade_levels:
+- elementary
+- high
+- middle
+topics:
+- Education
+- Media
+tags:
+- Collaboration
+- communication
+- digital storytelling
+- digital tools
+- new media
+- presentation
+- production
 ---
 
 The degree of difficulty educators face when dealing with new technologies varies, but the sensation of feeling like a “newbie” when it comes to technology can often create tech-wariness among teachers. Educators should not feel this way.
+
 Teachinghistory.org's presentation at the 2011 American Historical Association (AHA) conference, entitled “Teaching and Learning History in the Digital Age,” offered attendees exposure to free and easy-to-use tools that can work for teachers, regardless of their technological abilities. The main message of this presentation? *Start small and be willing to face unexpected hiccups along the way.* 
 
 ## Starting Out with Digital Tools
@@ -17,16 +46,19 @@ One educator, nearing retirement, was curious about digital tools as I shared wi
 > Start with what feels comfortable.
 
 Besides, where would she even begin searching for new media tools? She found herself regretting her earlier decision to skip panels on digital tools. It seemed that her own dilemma—where to start looking for digital tools—is not unique. The goal of the presentation was to help educators like her gain exposure to technology that is easily available. My advice to her was the same as I provided the audience: *Start with what feels comfortable*.
+
 Some educators might enjoy exploring complex tools, “going under the hood,” and learning new skills. Other educators might want a ready-made tool, like Wordpress, to help build a course website. The open-source nature of platforms and browsers like [Wordpress](http://wordpress.org/), [Firefox](http://www.mozilla.com/en-US/firefox/), [Zotero](http://teachinghistory.org/digital-classroom/tech-for-teachers/14585), and [Omeka](http://omeka.org/) allow daring educators to invent the new plug-ins that can radically transform educational tools. For the less adventurous educators, these platforms allow them to take advantage of the work of others.
 
 ## So . . . What Can Educators Do on the Web?
 
 The presentation at AHA was, in part, inspired by a recent series of articles by Robert Townsend in AHA's *Perspectives on History ([Oct.](http://www.historians.org/perspectives/issues/2010/1010/1010pro1.cfm), [Nov.](http://www.historians.org/Perspectives/issues/2010/1011/1011pro2.cfm), [Dec.](http://www.historians.org/perspectives/issues/2010/1012/1012pro1.cfm)).* In his findings, which surveyed over 4,000 two- and four-year college faculty, Townsend noted that educators are increasingly embracing digital tools. Nearly 70% of respondents characterized themselves as “active users”—a number that might surprise many. Upon closer inspection, however, active digital users are mostly younger (no surprise here), and the most popular tools are not what many digitally-savvy educators would necessarily consider cutting-edge: digital cameras, scanners, search engines, word processors, and online archive searches. Tools that have the potential to change how we “do” history—text mining, social media, GIS/mapping, and data visualizations—received few responses in AHA's survey.
+
 My immediate reaction to Townsend's articles? *Is that it?* On the one hand, I found it rather underwhelming to see what passes as “digital history” in the second decade of the 21st century. On the other hand, a utopian view of this subject is probably not well-served considering the budgetary and curricular constraints teachers face; lasting change rarely develops out of radical, or revolutionary, change. A more measured approach would be to acknowledge that significant uses of technology in the history classroom will gradually occur through funding for technology training, or, more likely, through collaborative exchanging of ideas among staff.
 
 ## Key Areas in Digital Tool Use
 
 The presentation at AHA, then, was structured to address three or four key areas teachers address in their planning stages. As always, these tools are helpful, but only when applied with thoughtful consideration towards teaching and research (several good reads recently posted on [*Edwired*](http://edwired.org/) deal with the perils and possibilities of web tools).
+
  **Digital Tools for *Presentations***
 
 * [Google Maps](http://maps.google.com/) is a good instrument for examining memorials, battlefields, and other historical sites, while also allowing users to create new and interesting links between locations.
@@ -60,4 +92,5 @@ The presentation at AHA, then, was structured to address three or four key areas
 * [Diigo](http://teachinghistory.org/digital-classroom/tech-for-teachers/23471) provides a way to annotate the web (highlighting and Post-it notes). It can be added to your browser toolbar and, as long as you are logged in, notes will always appear as you re-visit the page.
 
 With such a long list, but one that barely touches the surface of what scholars can do with new media, it is easy to see that free and open-access tools are readily found online. The problem, however, is that many educators feel the same way as our curious veteran educator at AHA. The question *“Where can I find these tools?”* is still a bit too commonplace these days. As a result, teachers are often hesitant to seek out new technology—not necessarily due to a lack of will, but rather because many simply don't know what (or where) to search.
+
 This presentation aimed at closing that gap in a small way.

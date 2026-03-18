@@ -2,9 +2,11 @@
 title: Vermont's Sixth Grade Standards
 date: '2009-02-08T20:17:23'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21510
+grade_levels:
+- middle
 ---
 
 (Note: By the completion of sixth grade, Vermont students are expected to master the following standards.)

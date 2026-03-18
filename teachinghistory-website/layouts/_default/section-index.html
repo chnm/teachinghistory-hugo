@@ -1,0 +1,26 @@
+{{/*
+  Section Index layout — generic carousel page for Teaching Materials,
+  History Content, and Best Practices. Iterates over child .Sections
+  to build one HorizontalCarousel row per subsection.
+*/}}
+
+{{ define "main" }}
+{{ $color := partial "section-color.html" .Section }}
+{{ partial "page-hero.html" (dict "title" .Title "color" $color) }}
+
+{{ $tint := partial "section-tint.html" .Section }}
+<main class="flex-1 {{ $tint }}">
+  <div class="max-w-7xl mx-auto px-6 py-10">
+    {{ range .Sections.ByWeight }}
+      {{ partial "horizontal-carousel.html" (dict
+          "id"          .File.ContentBaseName
+          "heading"     .Title
+          "description" (.Params.description | default "")
+          "viewAllURL"  .RelPermalink
+          "color"       $color
+          "pages"       .Pages
+      ) }}
+    {{ end }}
+  </div>
+</main>
+{{ end }}

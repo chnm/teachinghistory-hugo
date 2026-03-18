@@ -2,15 +2,31 @@
 title: Resources for Teaching the War of 1812
 date: '2012-02-10T14:11:10'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25442
 url: /nhec-blog/25442
+date_published: '2012-04-19T00:00:00'
+splash_image_fid: '9148'
+summary: Earlier this year, we looked at what historic sites were doing to celebrate
+  the bicentennial of the War of 1812. But how can you teach the bicentennial in your
+  classroom?
+splash_image: /files/splash-blog-ussconst.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+tags:
+- War of 1812
 ---
 
 Earlier this year, we looked at what historic sites were doing to [celebrate](http://teachinghistory.org/nhec-blog/25365) the bicentennial of the War of 1812. But how can you teach the bicentennial in your classroom?
-[![](http://teachinghistory.org/files/splash-ps-1812.jpg)](http://teachinghistory.org/spotlight/war-of-1812)
+
+[![](/files/splash-ps-1812.jpg)](http://teachinghistory.org/spotlight/war-of-1812)
+
 Teachinghistory.org has gathered together lesson plans, teaching strategies, online videos, websites featuring primary sources, quizzes, and other valuable resources on our [War of 1812](http://teachinghistory.org/spotlight/war-of-1812) spotlight page. With these resources, you can introduce your students to the perspectives of Canada, the U.S., Great Britain, and Native American peoples on the war, trace the history of our national anthem, and investigate the early days of the U.S. Navy.
+
 But we aren't the only organization collecting and creating resources for the bicentennial! Find more materials to enhance your curriculum with these ideas:
 
 * Scour the Naval History and Heritage Command's [collection](http://www.history.navy.mil/commemorations/1812/1812-index.htm) of War of 1812 bicentennial resources. It may take a little exploration, but you'll find 19th-century artwork picturing the naval battles of the war, biographies of historical figures, event announcements, quick facts, and primary and secondary sources.

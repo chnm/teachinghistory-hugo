@@ -2,7 +2,7 @@
 title: Digital Classroom Introduction
 date: '2010-11-29T11:04:51'
 lastmod: '2018-09-19T15:42:02'
-type: page
+content_type: page
 draft: false
 drupal_nid: 24406
 url: /digital-classroom-intro
@@ -18,11 +18,11 @@ video/mp4
 
 Visit [Digital Classroom](http://teachinghistory.org/digital-classroom) to learn about new digital tools, ask questions, and watch examples of effective history teaching with technology. Explore the many possibilities:
 
-[#### Tech for Teachers: VoiceThread](http://teachinghistory.org/digital-classroom/tech-for-teachers/21844)![](/sites/default/files/Voicethread150x113.jpg) VoiceThread is a popular web-based tool for creating and collaborating on multimedia presentations, allowing you to combine images and video with text and audio commentary. [[...] »](http://teachinghistory.org/digital-classroom/tech-for-teachers/21844 "Read more")
+[#### Tech for Teachers: VoiceThread](http://teachinghistory.org/digital-classroom/tech-for-teachers/21844)![](/files/Voicethread150x113.jpg) VoiceThread is a popular web-based tool for creating and collaborating on multimedia presentations, allowing you to combine images and video with text and audio commentary. [[...] »](http://teachinghistory.org/digital-classroom/tech-for-teachers/21844 "Read more")
 
-[#### Ask a Digital Historian: Beyond Google Searching](/digital-classroom/ask-a-digital-historian/24089)![](/sites/default/files/capital.jpg)How can you find quality digital U.S. history images? It's harder than it looks, but keep reading for some good strategies.[[...] »](/digital-classroom/ask-a-digital-historian/24089 "Read more")
+[#### Ask a Digital Historian: Beyond Google Searching](/digital-classroom/ask-a-digital-historian/24089)![](/files/capital.jpg)How can you find quality digital U.S. history images? It's harder than it looks, but keep reading for some good strategies.[[...] »](/digital-classroom/ask-a-digital-historian/24089 "Read more")
 
-[#### Beyond the Chalkboard: Using Facebook to Engage with Historical Figures](/digital-classroom/beyond-the-chalkboard/24152)![](/sites/default/files/splash-btc-facebookfan.jpeg)After researching historical figures, this teacher had students created Facebook Fan pages, hosting albums of images, detailed biographies, and continual status updates written "in character." [[...] »](/digital-classroom/beyond-the-chalkboard/24152 "Read more")
+[#### Beyond the Chalkboard: Using Facebook to Engage with Historical Figures](/digital-classroom/beyond-the-chalkboard/24152)![](/files/splash-btc-facebookfan.jpeg)After researching historical figures, this teacher had students created Facebook Fan pages, hosting albums of images, detailed biographies, and continual status updates written "in character." [[...] »](/digital-classroom/beyond-the-chalkboard/24152 "Read more")
 
   
 (Download the video transcript [here](http://teachinghistory.org/system/files/digital_classroom.pdf). You may also download the Digital Classroom rubric, either [completed](http://teachinghistory.org/system/files/dst_rubric.pdf) or [blank](http://teachinghistory.org/system/files/dst_rubric_blank.pdf).)  

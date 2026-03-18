@@ -2,9 +2,10 @@
 title: 'Michigan: Prekindergarten Standards'
 date: '2009-02-08T20:12:13'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21167
+grade_levels: []
 ---
 
 * ### MI.1. Strand / Standard Category: Early Learning in the Social Studies

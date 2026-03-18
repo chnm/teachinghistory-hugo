@@ -1,0 +1,86 @@
+---
+title: The Many Faces of Immigration
+date: '2012-06-25T20:58:08'
+lastmod: '2017-12-05T08:51:59'
+content_type: ask_a_historian
+draft: false
+drupal_nid: 25645
+question: During the period from 1877 to 1925, what groups opposed immigration and
+  who attempted to help immigrants?
+url: /history-content/ask-a-historian/25645
+author_bio: Historian Alan Gevinson is an author and professor. His PhD is from Johns
+  Hopkins University and he currently teaches at George Mason University. Alan specializes
+  in 19th- and 20th-century American cultural history, media history, film history,
+  and older forms of popular culture.
+splash_image_fid: '9365'
+author_image_fid: '9355'
+summary: American is built upon immigration. However, attitudes about immigration
+  varied greatly from the late 19th to the early 20th century.
+splash_image: /files/immsplash.jpg
+author_image: /files/author_image/ag2_0_0.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Immigration
+tags:
+- nativism
+---
+
+“Immigration of some kind,” the historian John Higham has written, “is one of the constants of American history, called forth by the energies of capitalism and the attractions of regulated freedom.” This constancy did not preclude alternating periods of accelerating and waning nativism—a term understood best, Higham asserted, “as intense opposition to an internal minority on the ground of its foreign (i.e., ‘un-American’) connections.”
+
+The half-century between the mid-1870s and the mid-1920s is a distinctive period in immigration history. As masses of immigrants arrived in the U.S. (nearly 24 million between 1880 and 1924), currents of intensifying nativism alternated with periods of decline until the spread of race-based nativism in the early 20th century led ultimately to the passage of legislation that severely restricted the numbers and types of immigrants entering legally. In charting the ebbs and flows of nativism, Higham’s classic study, *Strangers in the Land: Patterns of American Nativism, 1860-1925*, details two periods of national crisis: from 1886 to 1896, when immigration was linked with class conflict; and World War I, when cultural conformity became imperative to impose on immigrant groups who were viewed as threats to national unity.
+
+## Class Conflict Breeds Anti-Immigration Sentiments
+
+During the first period of crisis, a number of groups sought restrictive immigration policies. Middle-class reformers and business leaders worried that polarization during a period of intense capital-labor strife threatened social stability; while native workingmen feared that immigrants competing for jobs would drive down wages. Most importantly for the future, “the amorphous, urban and semi-urban public,” consisting of “petty businessmen, nonunionized workers, and white-collar folk”—in Higham’s analysis, “rootless ‘in-betweeners’”—whose sense of danger grew into hysteria as increasing outbreaks of strikes and boycotts led them to identify immigrants with radicalism. Anti-immigrant hysteria flared up repeatedly throughout this period and afterward until restrictive legislation was ultimately enacted.
+> Anti-immigrant hysteria flared up repeatedly throughout this period. . . .
+
+In eastern cities, anti-radical and anti-Catholic patriotic societies blamed immigrants for problems in schools and city government. The phenomenon spread nationwide when nativism arose in rural areas of the South and West. As new immigrants from southern and eastern Europe arrived in great numbers, patrician intellectuals and the Republican party, imbued with Anglo-Saxon ideology, pushed for restrictionist legislation. After Republicans won the 1896 election and the period of economic depression subsided, the national mood of crisis ebbed and the drive for restrictive legislation sputtered.
+
+During the period of waning nativism that followed, progressives in the social settlement movement came to appreciate immigrants for values they might add to the national culture. Immigrant groups became influential forces in the Democratic and Republican parties. Politicians courted the immigrant vote, and with new immigrants comprising more than one third of the workforce in principal industries, corporate leaders shifted their stance and organized resistance to restrictive legislation.
+
+At the same time, racially-based ideological beliefs gained force in other segments of society. Scientists promoted eugenics. Anti-Catholicism became an outlet for some former rural populists and progressives who blamed the Catholic Church when their hopes were not fulfilled. During the first quarter of the 20th century, racial nativism grew steadily in these segments.
+
+## American Emphasis on Cultural Conformity
+
+By 1914, the immigration restriction movement had strengthened in the South and West among the native-born working class and patrician intellectuals. On the West Coast, Japanese immigrants faced the same racial anxieties that infected attitudes toward Mediterranean and eastern European peoples in the east. However, restriction legislation failed to pass because the issue still was not felt deeply throughout the rest of the country, and strong opposition came from immigrant groups and big business organizations. Presidents Taft and Wilson vetoed literacy test bills, but in February 1917, Congress overrode the veto to enact the first law that prohibited immigration by adults unable to read.
+> During World War I, preparedness societies led the nativism movement.
+
+During World War I, preparedness societies led the nativism movement. Simultaneously, an Americanization movement spread among churches, schools, fraternal orders, patriotic societies, civic organizations, chambers of commence, philanthropies, railroads, industries, and some trade unions with the goal of achieving a more tightly-knit nation through the assimilation of immigrants.
+
+After the war and during the “Red Scare” that followed, the progressive ideal that America would steadily improve due to “immigrant gifts” lost credence. While immigrant groups actively continued to campaign against restrictive legislation, most of the other groups that had earlier opposed restriction now stood passively by as forces driven by anti-Semitism and anti-Catholicism, such as the Ku Klux Klan, intensified the “war-born urge for conformity.”
+
+President Harding signed an initial immigration quota system into law in 1921. It marked, in Higham’s view, “the most important turning-point in American immigration policy.” Immigration quotas were established based on national origins: for each nationality, three percent of the number of foreign-born persons living in the U.S. in 1910 were allowed to enter the country. Passage of the law, Higham states, “meant that in a generation the foreign-born would cease to be a major factor in American history.” In 1924, a new law was enacted whereby quotas for each national group fell to two percent of the number of foreign-born living in the U.S. in 1890, a time when immigrant groups from southern and eastern Europe represented a much smaller percentage of the population than in 1910.
+
+Higham’s critics have noted that his analysis in *Strangers* does not do justice to the situation of immigrants from Asia and Mexico. More recent scholarship (some of which is listed below) has investigated nativism with regard to these other groups of immigrants and relations amongst various immigrant groups. Newer studies also have focused more closely than Higham on the immigrant groups themselves and have examined immigration from comparative and global perspectives.
+
+---
+
+“Immigration of some kind,” the historian John Higham has written, “is one of the constants of American history, called forth by the energies of capitalism and the attractions of regulated freedom.” This constancy did not preclude alternating periods of accelerating and waning nativism—a term understood best, Higham asserted, “as intense opposition to an internal minority on the ground of its foreign (i.e., ‘un-American’) connections.”
+
+The half-century between the mid-1870s and the mid-1920s is a distinctive period in immigration history. As masses of immigrants arrived in the U.S. (nearly 24 million between 1880 and 1924), currents of intensifying nativism alternated with periods of decline until the spread of race-based nativism in the early 20th century led ultimately to the passage of legislation that severely restricted the numbers and types of immigrants entering legally. In charting the ebbs and flows of nativism, Higham’s classic study, *Strangers in the Land: Patterns of American Nativism, 1860-1925*, details two periods of national crisis: from 1886 to 1896, when immigration was linked with class conflict; and World War I, when cultural conformity became imperative to impose on immigrant groups who were viewed as threats to national unity.
+
+## Class Conflict Breeds Anti-Immigration Sentiments
+
+During the first period of crisis, a number of groups sought restrictive immigration policies. Middle-class reformers and business leaders worried that polarization during a period of intense capital-labor strife threatened social stability; while native workingmen feared that immigrants competing for jobs would drive down wages. Most importantly for the future, “the amorphous, urban and semi-urban public,” consisting of “petty businessmen, nonunionized workers, and white-collar folk”—in Higham’s analysis, “rootless ‘in-betweeners’”—whose sense of danger grew into hysteria as increasing outbreaks of strikes and boycotts led them to identify immigrants with radicalism. Anti-immigrant hysteria flared up repeatedly throughout this period and afterward until restrictive legislation was ultimately enacted.
+> Anti-immigrant hysteria flared up repeatedly throughout this period. . . .
+
+In eastern cities, anti-radical and anti-Catholic patriotic societies blamed immigrants for problems in schools and city government. The phenomenon spread nationwide when nativism arose in rural areas of the South and West. As new immigrants from southern and eastern Europe arrived in great numbers, patrician intellectuals and the Republican party, imbued with Anglo-Saxon ideology, pushed for restrictionist legislation. After Republicans won the 1896 election and the period of economic depression subsided, the national mood of crisis ebbed and the drive for restrictive legislation sputtered.
+
+During the period of waning nativism that followed, progressives in the social settlement movement came to appreciate immigrants for values they might add to the national culture. Immigrant groups became influential forces in the Democratic and Republican parties. Politicians courted the immigrant vote, and with new immigrants comprising more than one third of the workforce in principal industries, corporate leaders shifted their stance and organized resistance to restrictive legislation.
+
+At the same time, racially-based ideological beliefs gained force in other segments of society. Scientists promoted eugenics. Anti-Catholicism became an outlet for some former rural populists and progressives who blamed the Catholic Church when their hopes were not fulfilled. During the first quarter of the 20th century, racial nativism grew steadily in these segments.
+
+## American Emphasis on Cultural Conformity
+
+By 1914, the immigration restriction movement had strengthened in the South and West among the native-born working class and patrician intellectuals. On the West Coast, Japanese immigrants faced the same racial anxieties that infected attitudes toward Mediterranean and eastern European peoples in the east. However, restriction legislation failed to pass because the issue still was not felt deeply throughout the rest of the country, and strong opposition came from immigrant groups and big business organizations. Presidents Taft and Wilson vetoed literacy test bills, but in February 1917, Congress overrode the veto to enact the first law that prohibited immigration by adults unable to read.
+> During World War I, preparedness societies led the nativism movement.
+
+During World War I, preparedness societies led the nativism movement. Simultaneously, an Americanization movement spread among churches, schools, fraternal orders, patriotic societies, civic organizations, chambers of commence, philanthropies, railroads, industries, and some trade unions with the goal of achieving a more tightly-knit nation through the assimilation of immigrants.
+
+After the war and during the “Red Scare” that followed, the progressive ideal that America would steadily improve due to “immigrant gifts” lost credence. While immigrant groups actively continued to campaign against restrictive legislation, most of the other groups that had earlier opposed restriction now stood passively by as forces driven by anti-Semitism and anti-Catholicism, such as the Ku Klux Klan, intensified the “war-born urge for conformity.”
+
+President Harding signed an initial immigration quota system into law in 1921. It marked, in Higham’s view, “the most important turning-point in American immigration policy.” Immigration quotas were established based on national origins: for each nationality, three percent of the number of foreign-born persons living in the U.S. in 1910 were allowed to enter the country. Passage of the law, Higham states, “meant that in a generation the foreign-born would cease to be a major factor in American history.” In 1924, a new law was enacted whereby quotas for each national group fell to two percent of the number of foreign-born living in the U.S. in 1890, a time when immigrant groups from southern and eastern Europe represented a much smaller percentage of the population than in 1910.
+
+Higham’s critics have noted that his analysis in *Strangers* does not do justice to the situation of immigrants from Asia and Mexico. More recent scholarship (some of which is listed below) has investigated nativism with regard to these other groups of immigrants and relations amongst various immigrant groups. Newer studies also have focused more closely than Higham on the immigrant groups themselves and have examined immigration from comparative and global perspectives.

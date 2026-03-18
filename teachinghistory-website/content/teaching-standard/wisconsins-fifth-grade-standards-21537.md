@@ -2,9 +2,11 @@
 title: Wisconsin's Fifth Grade Standards
 date: '2009-02-08T20:17:30'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21537
+grade_levels:
+- elementary
 ---
 
 * ### WI.A. Content Standard: Geography

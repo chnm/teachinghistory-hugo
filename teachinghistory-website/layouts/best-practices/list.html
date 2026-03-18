@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ $color := partial "section-color.html" .Section }}
+{{ $tint := partial "section-tint.html" .Section }}
+{{ partial "page-hero.html" (dict "title" "Best Practices" "color" $color) }}
+
+{{ partial "subsection-list.html" (dict
+    "context"    .
+    "color"      $color
+    "tint"       $tint
+    "searchCard" "search-best-practices.html"
+) }}
+{{ end }}

@@ -2,12 +2,15 @@
 title: 'Oregon: 11th-Grade Standards'
 date: '2009-02-08T20:16:00'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21389
+grade_levels:
+- high
 ---
 
 (Note: By the completion of high school, Oregon students are expected to master the following standards.)
+
 High school students study world and U.S. history from approximately 1900 to the present. They also consider the interrelationship of the levels and branches of government as they are involved in creating government policy. In Economics, students look at specialization, competition, and the creation of economic policy. They also investigate the risks of entrepreneurship, investment, and various economic policies and practices. Geography study includes using geographic representations to describe and explain resource use, depletion, and renewal, physical and climate change, population characteristics and migration, and cultural characteristics and change. Students use Social Science Analysis to fully explain issues, including the significance; to gather and analyze data; to view events, issues, or problems from varied and opposed perspectives, considering short- and long-term effects; and to reach refined, supported conclusions.
 
 ## Civics and Government

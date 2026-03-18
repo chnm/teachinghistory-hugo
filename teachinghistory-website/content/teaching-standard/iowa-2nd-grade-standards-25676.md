@@ -2,9 +2,11 @@
 title: 'Iowa: 2nd-Grade Standards'
 date: '2012-07-16T10:54:26'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 25676
+grade_levels:
+- elementary
 ---
 
 (Note: By the completion of second grade, Iowa students are expected to master the following standards.)

@@ -2,8 +2,9 @@
 title: 'Time Travelers: Teaching American History in the Chicago Southlands'
 date: '2011-06-09T15:28:00'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24765
 ---
 
+The Chicago Southlands districts comprising this project occupy an area with a rich history tied to the Industrial Revolution. The ethnically diverse area suffers from poverty, crime, high mobility, and high-risk industry. The curriculum does not present U.S. history as a stand-alone subject until high school, so students generally arrive with little background knowledge. In separate but parallel avenues of professional development, *Time Travelers* historians and professors will deliver content knowledge through school-year workshops and summer institutes, while a university scholar will facilitate and support teachers as they design and implement curriculum materials related to American and local history. Ten teachers a year will join in Years 1 to 3, for a total of 20 high school, four middle school, and six elementary teachers, plus two vertical team leaders. At least one teacher from each district will teach English as a Second Language and/or special education; all teachers will be asked to mentor colleagues. The *Time Travelers* theme is one of connecting local and state history to national history. Teachers will work in vertical teams to create strong support for sustaining the project in the future. All teachers will study the same topics, approaching them in grade-appropriate ways. For example, elementary and middle school teachers will focus on the administrations of Washington to Lincoln, learning about Manifest Destiny, slavery, early industrialism, and sectionalism. High school teachers will cover the same issues but with emphasis on dissent related to foreign policy and social issues. The curriculum materials produced during *Time Travelers* will be available to all area history teachers.

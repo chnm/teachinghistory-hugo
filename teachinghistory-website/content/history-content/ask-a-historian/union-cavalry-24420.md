@@ -1,0 +1,47 @@
+---
+title: Union Cavalry
+date: '2010-12-04T16:22:45'
+lastmod: '2018-09-19T13:19:19'
+content_type: ask_a_historian
+draft: false
+drupal_nid: 24420
+question: Why did it take the North so long to build an effective cavalry during the
+  Civil War?
+url: /history-content/ask-a-historian/24420
+splash_image_fid: '6899'
+summary: The development of the Union cavalry forces was behind that of the Confederates
+  which was considered, " the best Cavalry in the world." but its late formation did
+  not hinder its eventual success.
+splash_image: /files/cwcavalry_splash.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+tags:
+- Civil War
+- Confederate
+- Horse
+- Union
+- arsenal
+- cavalry
+- soldier
+- weapon
+---
+
+In the first two years of the Civil War, most judged the Southern cavalry—the horse-borne troopers who could travel far more quickly than their colleagues in the infantry—superior to that of the Union army. In the war’s first months, Confederate cavalry enjoyed a reputation for better horsemanship and more fighting spirit; they boasted the most colorful and well-known cavalry officers of the war’s early months, including the flamboyant J. E. B. Stuart and the daring Nathan Bedford Forrest; and celebrated some noteworthy victories over their Northern counterparts. No less an authority than Union General William Tecumseh Sherman described the Confederate cavalry in 1863 as “splendid riders, shots, and utterly reckless . . . the best Cavalry in the world.”
+
+> A larger number of West Point graduates and a greater proportion of Regular Army troops hailed from the South
+
+The diverging nature of life in the two regions provided Southerners with some initial advantages in fielding an effective cavalry force quickly. In 1860, far more Southerners lived in rural locations than did Northerners. Because roads in the South were generally poorer, a greater proportion of Southerners grew up in the saddle; because they learned to hunt as youths, fewer Southerners had to be taught to shoot. Those advantages in upbringing echoed in the proportion of Southerners in the cavalry units of the prewar army; despite their relatively smaller population, more cavalry officers hailed from the South than from the North, and upon the outbreak of war the majority of those cavalry officers resigned their commissions and joined the Confederate cavalry, leaving the Union Army at a further competitive disadvantage. Southerners furnished a number of explanations for their supposed prowess on horseback and in battle. Most believed themselves to naturally possess more “martial spirit” than their counterparts in the North. At the outset of the war, many if not most Southerners viewed their region as having a near monopoly on fighting ability; the fact that a larger number of West Point graduates and a greater proportion of Regular Army troops hailed from the South suggested to many that the South benefited from pronounced advantages in military aptitude. Southerners frequently regarded the North as a region of timid clerks and shopkeepers, ill-suited to the burdens of campaigning and fighting. (So widespread was that confidence in Southerners’ own innate superiority as soldiers that Confederate textbooks for elementary schoolchildren featured word problems like “A Confederate soldier captured 8 Yankees each day for 9 successive days; how many did he capture in all?” and “If one Confederate soldier can whip 7 Yankees, how many soldiers can whip 49 Yankees?”) During the first half of the war, Confederate victories at battles like Fredericksburg and Chancellorsville—against larger and better-equipped Union forces—seemed to confirm Southerners’ belief about their natural superiority in battle. The Southern cavalry’s exploits in the first months of the war, sometimes literally riding circles around their opponents, similarly suggested the Rebel horsemen’s inherent preeminence. In mid-nineteenth century armies, cavalry troops served a number of functions. Because of their speed and range, commanders often employed cavalry troops as a reconnaissance force, relying on them to furnish information about the location and strength of enemy troops: large bodies of infantry depended on the reports furnished by cavalry troopers to guard against surprise or entrapment by enemy forces. Cavalry also served as screens for infantry armies on the march: with footsoldiers strung out in long, vulnerable columns, often over several miles, horse troops could interpose themselves between enemy divisions and offer them some protection, as Confederate cavalry did so effectively in the Shenandoah Valley in 1862. Frequently, cavalry troops engaged enemy troops directly, either from horseback or (as became more and more common in the latter years of the war) fighting dismounted as infantry troops. Confederate raiders like Forrest and John Singleton Mosby used their cavalry to mount daring attacks on Federal supply lines, frustrating the outmanned Union cavalry’s efforts to check them.
+
+> Union cavalry troopers had achieved at least parity with their Confederate counterparts, thanks in part to the introduction of repeating carbines to the cavalry arsenal
+
+The changing nature of tactics and technology during the Civil War led to a dramatic change in the way horse troops were employed as the war progressed. The mounted cavalry charge became less effective with the development of more accurate shoulder arms, and the importance of reconnaissance and dismounted fighting became more important. Stuart’s daring raids into Northern territory alarmed civilians and burnished Stuart’s reputation as a dashing cavalier, but the military significance of those raids was less significant. Stuart’s infamous long raid during the Gettysburg campaign captured several Union supply trains but left the Confederate army moving blindly through unfamiliar territory; Stuart’s absence led general Robert E. Lee to accept the battle at Gettysburg without a clear idea of the terrain or the strength of the enemy, with disastrous consequences. By the midpoint of the war, Union cavalry troopers had achieved at least parity with their Confederate counterparts, matching them in horsemanship and firepower thanks in part to the introduction of repeating carbines to the cavalry arsenal. The relentless process of weeding out less-competent leaders and replacing them with soldiers of demonstrated military acumen also benefited the Union as the war dragged on. By the final year of the war, the Union cavalry troopers had more than equaled the prowess of the Southern forces, and Federal commanders like Phil Sheridan had honed the Union cavalry into a devastatingly effective tool that helped maintain unyielding pressure on Confederate armies from 1864 on.
+
+---
+
+Baggett, James. [*Homegrown Yankees: Tennessee's Union Cavalry in the Civil War. Baton Rouge: Louisiana State University Press, 2009.
+
+[**The Crisis of the Union**](http://teachinghistory.org/history-content/website-reviews/23297)
+
+Woodworth, Steven, ed. *Civil War Generals in Defeat*. Lawrence, KS: University Press of Kansas, 1999.*](https://lsupress.org/books/detail/homegrown-yankees/)

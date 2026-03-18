@@ -2,9 +2,11 @@
 title: 'Georgia: 5th-Grade Standards'
 date: '2009-02-08T20:10:25'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21019
+grade_levels:
+- elementary
 ---
 
 * ### GA.SS5H. Strand/topic: United States History Since 1860

@@ -2,8 +2,9 @@
 title: Appalachian Corridor Teaching American History Program
 date: '2009-02-10T13:34:15'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 21683
 ---
 
+District students are not receiving quality instruction in American history. Eleventh grade students scored lower on the U.S. history end-of-course test than on any other state standardized test. In most classrooms, students at the K-8 level are taught by teachers who do not possess a history/social studies credential or have any substantial background in traditional American history. The Appalachian Corridor Teaching American History project will 1) strengthen teacher content knowledge of American history; 2) improve teacher instructional strategies by training them in content-related teaching strategies; 3) sustain professional development for U.S. history teachers; and 4) encourage teacher collaboration among teachers of American history. The program will provide a core group of 30 local teachers with 33 units of graduate-level American history coursework and content-related teaching strategies provided by historians and scholars from Tennessee Tech University and the Gilder Lehrman Institute of American History. Over the course of three years, the project proposes to take this core group on three summer study trips to the National Archives-Southeast Region in Atlanta and the King National Site in 2009; to Philadelphia, Antietam, Gettysburg, and Washington D.C. in 2010; and to civil rights Sites in Atlanta, Birmingham, Montgomery, and Selma in 2011. Additionally, in-service training and American history conferences will be held during both the school year and the summer for both the core group and an additional 30 partner teachers who will be mentored by the core group teachers. All 60 participating teachers will have the opportunity to participate in the three summer institutes. Course content includes American History to 1774; Revolutionary War to War of 1812; expansion, slavery, the Mexican War, and the 1850s; the Civil War to 1919; American history from 1920- 1945; and the Cold War to the 1990s.

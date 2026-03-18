@@ -2,9 +2,11 @@
 title: Vermont's Fourth Grade Standards
 date: '2009-02-08T20:17:23'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21508
+grade_levels:
+- elementary
 ---
 
 (Note: By the completion of fourth grade, Vermont students are expected to master the following standards.)
@@ -79,6 +81,7 @@ drupal_nid: 21508
     Students interpret geography and solve geographic problems by:
     - Identifying characteristics of surrounding towns and the state
       of Vermont using resources such as road signs, landmarks,
+
       models, maps, photographs and mental mapping.
     - Observing, comparing, and analyzing patterns of local and state land use (e.g., agriculture, forestry, industry) to understand why particular locations are used for certain human activities.
     - Locating the physical and political regions of Vermont (e.g., six regions, towns, counties).

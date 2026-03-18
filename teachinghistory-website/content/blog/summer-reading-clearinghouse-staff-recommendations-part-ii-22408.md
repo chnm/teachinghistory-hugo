@@ -2,21 +2,34 @@
 title: 'Summer Reading: Clearinghouse Staff Recommendations, Part II'
 date: '2009-07-22T06:54:55'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22408
 url: /nhec-blog/22408
+date_published: '2009-07-22T00:00:00'
+image_fid: '1237'
+summary: A graphic novel, maritime history, film, and a political thriller top the
+  list!
+image: /files/watchmen.jpg
+tags:
+- environmental history
+- films
+- graphic novels
+- maritime history
+- publications
 ---
 
 Earlier this summer, Clearinghouse staff members [shared some ideas for summer reading](http://teachinghistory.org/nhec-blog/22337). In this installment, other staff members highlight their choices—a graphic novel, a maritime log book, film, and a political thriller.
 > When is a comic book not a comic book, but a novel?
 
 If you've been in a bookstore lately, you've undoubtedly noticed sections and shelf space devoted to the graphic novel. Research Associate Lara Harmon is a fan of [*Watchmen*](http://www.amazon.com/Watchmen-Alan-Moore/dp/0930289234/ref=sr_1_10?ie=UTF8&s=books&qid=1248280301&sr=8-10), a 450-plus page graphic novel first published in the mid-1980s and [released as a film](http://www.wbshop.com/product/code/1000089879.do) in March 2009. [One reviewer described *Watchmen*](http://hnn.us/blogs/entries/18529.html) as the *Citizen Kane* of graphic novels, a multi-layered narrative that has not dulled with age. Lara agrees. "It changed perceptions of the comic book as a medium and remains a tightly-plotted, cynical look at politics, science, war, and human nature."
+
 She recommends that educators look at how the story and characters treat Cold War anxieties, the Vietnam War, and issues of American world status and power following Vietnam.
 
 ## Political Policy, Culture, and Film
 
 Multimedia Developer Chris Preparato advocates [*Cadillac Desert*](http://www.amazon.com/Cadillac-Desert-American-Disappearing-Revised/dp/0140178244/ref=sr_1_1?ie=UTF8&s=books&qid=1248280564&sr=1-1) by Marc Reisner—later a [PBS documentary series](http://web.archive.org/web/20030212083841/www.kteh.org/cadillacdesert/home.html).
+
 Chris explains, "It's part history of the settlement of the American West, part environmental study of people sustainably living in essentially the desert that is the West. The first half is a dramatized version of the settling of towns like Los Angeles and how speculators and politicians destroyed entire towns just to create water sources for the city. The second half looks at policy and ways to change current policies to make the west sustainable."
 > Great minds look at films as history and culture.
 

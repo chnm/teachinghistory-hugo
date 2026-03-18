@@ -2,9 +2,11 @@
 title: 'DC: First Grade Standards'
 date: '2009-02-08T20:10:06'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20973
+grade_levels:
+- elementary
 ---
 
 * ### DC.1. Content Standard / Strand: True Stories and Folktales from America and Around the World

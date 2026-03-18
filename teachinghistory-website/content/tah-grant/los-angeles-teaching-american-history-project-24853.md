@@ -2,8 +2,13 @@
 title: Los Angeles Teaching American History Project
 date: '2011-06-13T20:20:28'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24853
+grade_levels:
+- elementary
+- high
+- middle
 ---
 
+In this district—the nation's second largest—nearly three-fourths of the students qualify for reduced-price meals, and nearly one-third are English language learners. Most of the targeted schools are not meeting adequate yearly progress goals, and none are meeting state performance goals in U.S. history. In addition, budget issues have limited the amount of professional development available for U.S. history teachers in underperforming schools. During the project, teachers will attend (1) nine day-long in-service workshops, featuring content lectures and training in differentiated instruction, student evaluation and the project's core content-related teaching practices; (2) two after-school meetings per month to prepare pretests and posttests for students and examine content and relevant materials; and (3) a 5-day summer institute to study content, review standards, and develop lesson plans and classroom-ready resources and materials. The project staff will visit each teacher’s class four times per year to observe, model lessons, share new materials and provide support. The project will provide more than 250 hours of instruction to nine cohorts of 35 teachers —three fifth grade cohorts (Years 1 and 2), three eighth grade cohorts (Years 2 and 3) and three eleventh grade cohorts (Years 4 and 5). Over their two years of professional development, the project teachers will read at least 10 books and numerous articles as well as learn to use primary documents, artifacts, first-hand accounts, illustrations and site visits to translate content into classroom lessons. Best practices, lessons and materials will be posted online via three separate Web sites.

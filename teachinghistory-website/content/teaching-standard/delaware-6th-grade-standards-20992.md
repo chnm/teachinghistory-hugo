@@ -2,9 +2,11 @@
 title: 'Delaware: 6th-Grade Standards'
 date: '2009-02-08T20:10:20'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20992
+grade_levels:
+- middle
 ---
 
 * ### DE.6.C1. Content Standard: Civics

@@ -2,9 +2,11 @@
 title: 'Kansas: 5th-Grade Standards'
 date: '2009-02-08T20:11:53'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21089
+grade_levels:
+- elementary
 ---
 
 * ### KS.1. Standard: Civics-Government

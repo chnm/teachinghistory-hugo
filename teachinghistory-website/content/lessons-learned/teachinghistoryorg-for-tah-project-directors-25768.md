@@ -2,8 +2,86 @@
 title: Teachinghistory.org for TAH Project Directors
 date: '2012-11-29T14:44:06'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 25768
+splash_image_fid: '9575'
+summary: Want to use Teachinghistory.org for professional development? Learn where
+  to start with this video from outreach director Jennifer Rosenfeld!
+splash_image: /files/ncsssplash.png
+tags:
+- historical thinking
 ---
 
+Hi, my name is Jennifer Rosenfeld. I'm the Associate Director of Educational Projects at the Roy Rosenzweig Center for History and New Media at GMU. I'd like to thank Christine Miller of the U.S. Department of Education for the opportunity to speak to you today.
+
+I'm going to be your guide as we explore Teachinghistory.org—a project that was funded by the U.S. Department of Education's Teaching American History Grant Program. In particular we'll take a look at some of the professional development resources that would be useful for TAH projector directors. As well as think about sustainability issues and how the website can be helpful to TAH grant participants after their grants have concluded.
+
+The idea for Teachinghistory.org came out of the Teaching American History Grant Program. The Department of Ed. wanted to create a clearinghouse for teachers to be able to find quality [Teaching Materials](http://teachinghistory.org/teaching-materials), [History Content](http://teachinghistory.org/history-content), and [Best Practices](http://teachinghistory.org/best-practices) online. They also wanted a way to help share all the good work coming out of [TAH Projects](http://teachinghistory.org/tah-grants), so that teachers in California, for example, could see all the good work teachers in Georgia were doing, and vice versa. Now that many of these grant programs have come to an end or will be ending soon, it's even more important to have a resource such as Teachinghistory.org available to capture this work and help guide teachers to quality history education resources.
+
+At the heart of Teachinghistory.org is its emphasis on developing students' historical thinking skills. On the home page is a short video called "[What is Historical Thinking?](http://teachinghistory.org/historical-thinking-intro)," which serves as an excellent introduction to the topic.
+
+**Video Excerpt:**
+
+Think historically? What's that? You may have heard the term, but been puzzled by it. We're all familiar with historical stories. We learn them from our textbooks, popular histories, movies, documentaries, and grandparents and neighbors. Historical *thinking* is the reading, analysis, and writing that’s necessary to *tell* these stories.
+
+It's not only *what* we know about the past, it's *how* we know it. Because the past is hard to retrieve, we can't travel back in time to see what happened at the Boston Massacre or at Wounded Knee, to hear Sojourner Truth's words, or understand how César Chávez and Dolores Huerta mobilized the Farm Workers Movement.
+
+But thinking historically helps us get closer to that past to retrieve and construct a more accurate picture of what happened and what it meant. This video focuses on five aspects of historical thinking.
+
+Multiple Accounts and Perspectives
+
+Many people think of history as a single account; but in fact, we must use multiple sources to get as accurate a picture as possible of events in the past. Whether we use textbooks, original documents, photos, drawings, or film, teaching for historical thinking demands that students work with multiple accounts and learn to analyze and synthesize them. *No single account written from one perspective captures the complexity of the past*.
+
+Analysis of Primary Sources
+
+Primary sources are original documents and objects created at the time under study and they are vital to reconstructing the past. Historical thinking includes learning how to read, question, contextualize, and analyze these sources, as they can tell different stories about the same event.
+
+So, when we study what came to be known as the Boston Massacre, we can read a report from the commanding British officer that says that soldiers fired on the crowd of colonists without orders. We can then read a contrasting account from someone in the crowd who remembers that officer giving orders to fire. But we can't just assume that one is lying and the other isn't; instead, we have to ask questions about what these two eyewitnesses had to lose or gain with their accounts. What interests were at stake? We consider how soon after the event and for what audience each account was recorded. We look for points of agreement and disagreement between the two contrasting accounts. *To be useful in retrieving the past, primary sources need to be questioned and read closely*.
+
+Stop! 
+
+Okay, you may be saying, "Wait a minute, this all sounds good but what about my state standards? And the fact that I'm expected to cover my textbook's 26 chapters? How does that fit in? Isn't this some 'pie in the sky' way to teach history?" Actually, teaching kids how history is known may very well be in your state standards—at least 38 specify this learning outcome. For example, various state standards say students should be using multiple sources and learning to analyze those sources for purpose and perspective, credibility, and validity—analysis akin to what we call "sourcing."
+
+Sourcing
+
+Sourcing is about identifying and asking questions about the origins of the source; about the author's purposes and perspective; when the source was created and for whom; about its trustworthiness. Imagine your students are working with two accounts related to the 1955 Montgomery Bus Boycott. The first, a textbook, says, "Rosa Parks was arrested for refusing to give up her seat to a White man. African Americans heard this and decided to boycott the buses." The second, a letter written by English professor Joan Robinson in May 1954 to the mayor of Montgomery, AL, states, "There has been talk from twenty-five or more local organizations of planning a city-wide boycott of busses…[E]ven now plans are being made to ride less, or not at all, on our busses." This letter was written more than a year *before* the start of the Montgomery Bus Boycott. A student who notices this learns that plans for a bus boycott preceded Rosa Parks's arrest and can better understand the boycott and its causes. Alternatively, a student who ignores the date of Robinson's letter easily misses its real significance; the familiar story that depicts the boycott as an impulsive movement motivated solely by Parks's arrest is left unchallenged. Sourcing the letter gets us closer to the fuller story.
+
+Understanding Historical Context
+
+Context is at the center of historical reasoning. Consider these words spoken by Abraham Lincoln in 1858, "I have no purpose to introduce political and social equality between the white and black races. I…am in favor of the race to which I belong having the superior position." Historians resist initial judgments to brand these words as bigoted and instead realize that they must ask questions. Such as, who was Lincoln talking to and for what purpose? What were the perspectives on race at the time? What political tensions was Lincoln navigating? They realize that to get as accurate a picture as possible of the man, his times, and the event at which he spoke, they have to contextualize these words; and this requires making connections. Lincoln did not live in a vacuum; his speeches and actions are deeply intertwined with what was going on in his own world. Context includes many different factors, from the ideologies of the day to the words that came before those under investigation. *But in the big picture, historical context is about locating events and sources in time and space and asking questions to do so*.
+
+Taking a page from the math curriculum, we can say the coordinates of history are space and time. These sources are not free-floating items that speak for themselves, their historical context matters.
+
+Claim-Evidence Connection
+
+When we write histories we tell stories and answer questions. To be called history, these stories *must* be supported by evidence. Sources, like the Lincoln speech and the Joan Robinson letter, provide evidence for claims made about the past. History isn't fiction. We can't change the story to create a more intriguing or satisfying plot. Truth claims in history need to be supported by evidence. That is how we distinguish plausible claims from balderdash and good history from pure fiction.
+
+Conclusion
+
+These five elements of historical thinking are all integral to understanding how we know what we know about the past. But of course, there are more elements, concepts like causation, significance, and change over time, and reading strategies like corroboration. Historical thinking is complex and it is vital to helping students become better readers, thinkers, and citizens. It's not separate from the content we want students to learn; instead, it is the vehicle that will help them master it. Explore the Clearinghouse to find teaching resources that will help you bring historical thinking into your classroom. It’s a gift your students will use for the rest of their lives.
+
+**Jennifer Rosenfeld:**
+
+As this video illustrates, good history starts with looking at a variety of sources. You and your teachers can find such sources easily in Teachinghistory.org's [History Content](http://teachinghistory.org/history-content) section. Here, you can find [website reviews](http://teachinghistory.org/history-content/website-reviews), free [multimedia resources](http://teachinghistory.org/history-content/history-in-multimedia), [quizzes](http://teachinghistory.org/history-content/quiz), and more. Of particular interest is the section called [Beyond the Textbook](http://teachinghistory.org/history-content/beyond-the-textbook). We asked historians to take a look at issues that commonly appear in U.S. history textbooks.
+
+Let's take a look at our newest entry on the [causes of the American Revolution](http://teachinghistory.org/history-content/beyond-the-textbook/25628). We asked a historian to look at what the textbooks have to say, what the historians have to say, and what the sources have to say—it's most interesting when these three don’t agree. The treasure trove for you and your teachers is when you look at the [Table of Contents](http://teachinghistory.org/history-content/beyond-the-textbook/25627), which includes links to the primary sources used for the article. For professional development, you could have your teachers look at their textbook and compare to the sources provided. It's a wonderful model for how to use primary sources. Or your teachers could use these primary sources in their classroom as a ready-made Document-Based Question packet.
+
+Now that we've found quality primary source materials, let's turn our attention to looking for teaching strategies to use these materials in your classroom. In [Teaching Materials](http://teachinghistory.org/teaching-materials), the teachers you work with can find [Lesson Plan Reviews](http://teachinghistory.org/teaching-materials/lesson-plan-reviews), [Teaching Guides](http://teachinghistory.org/teaching-materials/teaching-guides), and the *only* searchable [State Standard database](http://teachinghistory.org/teaching-materials/state-standards) on the web. Here you can also find our guide for planning professional development with museums and other cultural organizations called [Visiting History](http://teachinghistory.org/visiting-history). Using Washington, DC, as an example, the guide offers tips and strategies for planning professional development outside the classroom, as well as strategies for how to build on the experience back at school.
+
+Ever wish you had a way to illustrate a good teaching technique in your professional development workshops? In [Best Practices](http://teachinghistory.org/best-practices) find videos to use in professional development workshops that [show teachers](http://teachinghistory.org/best-practices/teaching-in-action) in actual classrooms demonstrating a promising practice. Also in Best Practices, you can find free [videos of experts](http://teachinghistory.org/best-practices/examples-of-historical-thinking) talking about a primary source and what it can tell us about the past. Each video is transcribed and it also includes a link to the primary source being discussed. Imagine using this image from FDR's 1932 inauguration. What questions does [this image](http://teachinghistory.org/system/files/fdr_inauguration_photo.pdf) raise in your mind? Then [watch](http://teachinghistory.org/best-practices/examples-of-historical-thinking/25170) as Senate historian Don Ritchie talks about the photo and what it means:
+> […]Roosevelt is out standing with his family. Now, Roosevelt had been stricken with polio in 1921 and he had lost the use of his legs. This was going to be an issue in the election of 1932—would we elect a president who was paralyzed?
+
+It's like bringing a free expert into your next professional development workshop or into a classroom.
+
+There's also a special section of the site specifically for [TAH Grants](http://teachinghistory.org/tah-grants). Here you can search [past grants](http://teachinghistory.org/tah-grants/tah-project-database), explore [Lessons Learned](http://teachinghistory.org/tah-grants/lessons-learned), and find resources created by other grantees. If your TAH Grant has created an online resource, we'd like to know about it so it can be added to the [TAH Project Spotlight](http://teachinghistory.org/tah-grants/project-spotlight) list.
+
+In terms of sustainability and in order to keep these resources available, the Center for History and New Media has made a commitment to keep Teachinghistory.org online. The Center has done this with other grant-funded history education websites, such as [History Matters](http://historymatters.gmu.edu/), [World History Matters](http://worldhistorymatters.org/), and many more. You can access these websites, and all of the Center's projects, by visiting [chnm.gmu.edu](http://chnm.gmu.edu). Last year, over 16 million people used the Center's various tools and websites—including over half a million visitors to Teachinghistory.org.
+
+To keep up to date with the latest from Teachinghistory.org, please visit our Outreach Page—[teachinghistory.org/outreach](http://teachinghistory.org/outreach). There you can read [past print newsletters](http://teachinghistory.org/outreach/history-education-news), view [videos](http://teachinghistory.org/24680), and connect with us via Twitter, Facebook, and RSS feed.
+
+We've also moved some of our print materials online for greater access. For example, we've created digital versions of our popular [Historical Thinking](http://teachinghistory.org/historical-thinking) and [Civil War](http://teachinghistory.org/civil-war) posters. Simply click on an image from the poster and it will take you to lesson plans, teaching ideas, and related history content.
+
+In response to the increase in schools' use of mobile technology, this summer we unveiled a mobile version of Teachinghistory.org. Now you can more easily access Teachinghistory.org's resources in a mobile-friendly format.
+
+Thanks for your time today. I hope that you'll all go home now and bookmark Teachinghistory.org as one of your favorite websites and encourage the teachers that you work with to do so also. Thanks again for all that you do for history education!

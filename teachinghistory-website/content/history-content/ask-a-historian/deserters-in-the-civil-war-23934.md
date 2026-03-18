@@ -1,0 +1,54 @@
+---
+title: Deserters in the Civil War
+date: '2010-04-08T10:46:25'
+lastmod: '2017-12-05T08:43:31'
+content_type: ask_a_historian
+draft: false
+drupal_nid: 23934
+question: I'm researching a Civil War veteran in my family. I've found his muster
+  roll records and there is something that is confusing me. My Civil War ancestor
+  was a private in the Union Army. It says on his records that he deserted on November
+  5, 1862, and returned on October 27, 1864. It says he was restored to duty (by competent
+  authority) forfeiting all pay for time absent and $10 for transportation by order
+  of General Stanly. How is this possible? I thought all deserters would have been
+  executed.
+url: /history-content/ask-a-historian/23934
+splash_image_fid: '4800'
+summary: What happened to Civil War deserters after they deserted?
+splash_image: /files/deserter-new.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+tags:
+- Civil War
+- deserters
+- desertion
+- military code of justice
+---
+
+This question gets at a central truth about service in the Civil War armies: desertion was common on both sides. It became more frequent later in the war (when more of the soldiers were draftees rather than volunteers, and when the brutal realities of Civil War combat had become more clear), and was more common among Confederate soldiers, especially as they received desperate letters from wives and families urging them to return home as Union armies penetrated further south.
+
+While it is impossible to know with certainty how many soldiers deserted over the course of the conflict, Northern generals reckoned during the war that at least one soldier in five was absent from his regiment; at war’s end, the Union Provost Marshal General estimated that nearly a quarter of a million men had been absent from their units sometime during the war. Estimates for Confederate armies range even higher—perhaps as many as one soldier in three deserted during the course of the war. The Army of Northern Virginia alone lost eight percent of its total strength in a single month during the savage campaign of the summer of 1864.
+
+Officially, desertion constituted a capital offense and was punishable by death. But because of the numbers of soldiers involved, it proved practically as well as politically impossible to execute every deserter who was captured. The armies could not afford the numerical loss of such large numbers of troops; more importantly, as Abraham Lincoln himself noted, people would not stand to see Americans shot by the dozens and twenties. Both armies employed other punishments (branding captured soldiers with a “D” on the hip, was common, for example) rather than execute every deserter they recovered. Both armies did execute some captured deserters—often in highly public ceremonies before the entire regiments, intended to deter other would-be fugitives—but such punishments were unusual.
+
+Only 147 Union deserters were executed during the course of the war. Rather than rely entirely on punitive measures, Union authorities attempted to woo deserters back with offers of amnesty for soldiers who returned to their commands before a specific deadline, frequently pairing that reprieve with threats of increased punishment for those who failed to return before the designated date. Lincoln offered general amnesty to some 125,000 Union soldiers then absent from their regiments in March 1863, provided those soldiers returned to their units.
+
+The prevalence of desertion from the ranks of both armies speaks to an interesting reality about those soldiers’ conception of military obligation. Long mistrustful of professional armies and fiercely protective of individual liberties, many Americans of the mid-nineteenth century (North and South) adhered to a conception of military service as a contractual—one that involved obligations from the state as well as from the citizen-soldier.
+
+For some Civil War volunteers, their service in the army was predicated on specific treatment from their officers and the government. When they believed that the government had not held up its end of the bargain (by failing to provide essential supplies, for example, or by furnishing incompetent leaders) they assumed that the contract had been voided—and their absence, by extension, did not constitute desertion.
+
+---
+
+This question gets at a central truth about service in the Civil War armies: desertion was common on both sides. It became more frequent later in the war (when more of the soldiers were draftees rather than volunteers, and when the brutal realities of Civil War combat had become more clear), and was more common among Confederate soldiers, especially as they received desperate letters from wives and families urging them to return home as Union armies penetrated further south.
+
+While it is impossible to know with certainty how many soldiers deserted over the course of the conflict, Northern generals reckoned during the war that at least one soldier in five was absent from his regiment; at war’s end, the Union Provost Marshal General estimated that nearly a quarter of a million men had been absent from their units sometime during the war. Estimates for Confederate armies range even higher—perhaps as many as one soldier in three deserted during the course of the war. The Army of Northern Virginia alone lost eight percent of its total strength in a single month during the savage campaign of the summer of 1864.
+
+Officially, desertion constituted a capital offense and was punishable by death. But because of the numbers of soldiers involved, it proved practically as well as politically impossible to execute every deserter who was captured. The armies could not afford the numerical loss of such large numbers of troops; more importantly, as Abraham Lincoln himself noted, people would not stand to see Americans shot by the dozens and twenties. Both armies employed other punishments (branding captured soldiers with a “D” on the hip, was common, for example) rather than execute every deserter they recovered. Both armies did execute some captured deserters—often in highly public ceremonies before the entire regiments, intended to deter other would-be fugitives—but such punishments were unusual.
+
+Only 147 Union deserters were executed during the course of the war. Rather than rely entirely on punitive measures, Union authorities attempted to woo deserters back with offers of amnesty for soldiers who returned to their commands before a specific deadline, frequently pairing that reprieve with threats of increased punishment for those who failed to return before the designated date. Lincoln offered general amnesty to some 125,000 Union soldiers then absent from their regiments in March 1863, provided those soldiers returned to their units.
+
+The prevalence of desertion from the ranks of both armies speaks to an interesting reality about those soldiers’ conception of military obligation. Long mistrustful of professional armies and fiercely protective of individual liberties, many Americans of the mid-nineteenth century (North and South) adhered to a conception of military service as a contractual—one that involved obligations from the state as well as from the citizen-soldier.
+
+For some Civil War volunteers, their service in the army was predicated on specific treatment from their officers and the government. When they believed that the government had not held up its end of the bargain (by failing to provide essential supplies, for example, or by furnishing incompetent leaders) they assumed that the contract had been voided—and their absence, by extension, did not constitute desertion.

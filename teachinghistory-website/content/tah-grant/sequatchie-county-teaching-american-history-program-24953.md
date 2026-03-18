@@ -2,8 +2,13 @@
 title: Sequatchie County Teaching American History Program
 date: '2011-06-15T21:49:36'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24953
+grade_levels:
+- elementary
+- high
+- middle
 ---
 
+In this high-poverty area of southeastern Tennessee, approximately one-third of all high school students fail to attain proficiency in American history, and their teachers have no history professional development program. All participating teachers will receive at least 280 hours of professional development, with high implementation (HI) teachers receiving about 400 additional hours during three years of colloquia and practicums as well as several summer study trips. Of the 90 teachers involved, 20 will be designated as HI teachers; they will receive in-depth training, including Web-based courses, to become history leaders for the district. Another 20 partner teachers will participate in professional development and be mentored by HI teachers. The remaining 50 consortium teachers will receive professional development. The project's underlying theme is making connections—teachers will connect to one another, to professional historians and to historic sites and events, thus bringing heightened levels of knowledge and enthusiasm to their teaching. All professional development sessions will deliver content related to the topic for the year, with the goal of helping teachers learn to practice history as historians do; readings will be a mix of factual and fictional, selected to provide insights, perspectives and teaching tools. Instructional strategies will include using historical habits of mind, primary sources, backward mapping, authentic assessment, content-area reading, research and interpretation. Project-generated best practices, evaluation tools and lessons will be reviewed by history professors and state history specialists, then posted on three Web sites, including the Gilder Lehrman site, and promoted at professional conferences.

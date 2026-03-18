@@ -2,9 +2,11 @@
 title: Nebraska's Sixth Grade Standards
 date: '2009-02-08T20:13:49'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21272
+grade_levels:
+- middle
 ---
 
 * ### NE.8.1. Content Standard: United States History

@@ -2,8 +2,13 @@
 title: 21st-Century Historians
 date: '2011-06-15T16:02:19'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24931
+grade_levels:
+- elementary
+- high
+- middle
 ---
 
+Teachers in eight southeastern New York districts have expressed interest in this project, and its topics were based on teacher-identified priorities. A typical year's activities will include a kickoff session, two after-school sessions, two 3-hour Saturday sessions, two full days of content learning, one or more online sessions and a full-day field trip to a local historic site. During the summer, teachers will attend a 5-day institute with content workshops, visits to historic locations and exploration of primary source documents and instructional strategies. Teachers will participate in one of three tiers: Tier 1 (50 teachers) will constitute the core group, committing to full participation and to mentoring other tiers; Tier 2 (50 teachers) will join in Years 2 and 3, attending many but not all activities; and Tier 3 (up to 100 teachers) will have access to Web tools training and to some other events. Rather than treating history as a set of facts, this project will address historical themes and questions that tell us who we are as Americans and how we got this way. Strategies such as document-based questioning and using primary source documents will support this approach. Teachers will focus on incorporating 21st-century technologies and skills into their practice; to this end, and to limit time away from the classroom, the project will employ both in-person and online activities. The online platform will support conferencing and social networking tools, providing the added benefit of helping teachers build a learning community. The Tier 1 teachers will produce unit plans that will be available on a regional Web site.

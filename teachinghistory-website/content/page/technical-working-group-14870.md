@@ -2,7 +2,7 @@
 title: Technical Working Group
 date: '2008-01-30T14:06:06'
 lastmod: '2013-05-14T10:32:18'
-type: page
+content_type: page
 draft: false
 drupal_nid: 14870
 url: /about/technical-working-group

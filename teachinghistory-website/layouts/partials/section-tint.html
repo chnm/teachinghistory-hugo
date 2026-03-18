@@ -1,0 +1,20 @@
+{{/*
+  Returns the tint background class for a given section.
+  Used for sidebar / panel backgrounds on detail pages.
+
+  Usage:
+    {{ $tintClass := partial "section-tint.html" .Section }}
+
+  Returns: "bg-orange-tint", "bg-yellow-tint", "bg-green-tint", or "bg-pale-blue-tint"
+*/}}
+
+{{ $section := . }}
+{{ $class := "bg-pale-blue-tint" }}
+{{ if eq $section "teaching-materials" }}
+  {{ $class = "bg-orange-tint" }}
+{{ else if eq $section "history-content" }}
+  {{ $class = "bg-yellow-tint" }}
+{{ else if eq $section "best-practices" }}
+  {{ $class = "bg-green-tint" }}
+{{ end }}
+{{ return $class }}

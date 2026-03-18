@@ -2,9 +2,11 @@
 title: 'Kentucky: 11th-Grade Standards'
 date: '2009-02-08T20:11:58'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21109
+grade_levels:
+- high
 ---
 
 * ### KY.PS. Category: Program of Studies 2006

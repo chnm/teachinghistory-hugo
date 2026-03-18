@@ -1,0 +1,65 @@
+{{/*
+  HorizontalCarousel — category row with left label + scrollable cards.
+
+  Usage:
+    {{ partial "horizontal-carousel.html" (dict
+        "id"          "lesson-plan-reviews"
+        "heading"     "Lesson Plan Reviews"
+        "description" "Evaluate key elements of effective teaching"
+        "viewAllURL"  "/lesson-plan-reviews/"
+        "color"       "orange"
+        "pages"       $pages
+    ) }}
+
+  Params:
+    - id:          unique HTML id for JS targeting
+    - heading:     category name
+    - description: brief text under the heading
+    - viewAllURL:  link for the "View All" pill button
+    - color:       accent color for the button ("orange", "yellow", "green")
+    - pages:       a Hugo page collection to display as cards
+*/}}
+
+{{ $id := .id }}
+{{ $heading := .heading }}
+{{ $description := .description }}
+{{ $viewAllURL := .viewAllURL }}
+{{ $color := .color | default "orange" }}
+{{ $pages := .pages }}
+
+<div class="flex gap-8 py-8">
+  {{/* Left column — label + description + View All */}}
+  <div class="w-[200px] shrink-0 flex flex-col">
+    <h2 class="font-heading text-xl font-bold mb-2">{{ $heading }}</h2>
+    <p class="font-body text-xs text-gray-600 leading-relaxed mb-4">{{ $description }}</p>
+    {{ partial "arrow-button.html" (dict "text" "View All" "href" $viewAllURL "color" $color) }}
+  </div>
+
+  {{/* Right column — scrollable card row + arrows */}}
+  <div class="flex-1 min-w-0">
+    {{/* Scrollable card container */}}
+    <div id="carousel-{{ $id }}" class="flex gap-4 overflow-x-hidden scroll-smooth">
+      {{ range $pages }}
+        {{ partial "content-card.html" (dict "page" .) }}
+      {{ end }}
+    </div>
+
+    {{/* Arrow navigation */}}
+    <div class="flex gap-2 mt-3">
+      <button
+        type="button"
+        aria-label="Scroll left"
+        onclick="document.getElementById('carousel-{{ $id }}').scrollBy({left: -270, behavior: 'smooth'})"
+        class="w-8 h-8 flex items-center justify-center border border-gray-light rounded hover:bg-gray-light transition text-sm">
+        &larr;
+      </button>
+      <button
+        type="button"
+        aria-label="Scroll right"
+        onclick="document.getElementById('carousel-{{ $id }}').scrollBy({left: 270, behavior: 'smooth'})"
+        class="w-8 h-8 flex items-center justify-center border border-gray-light rounded hover:bg-gray-light transition text-sm">
+        &rarr;
+      </button>
+    </div>
+  </div>
+</div>

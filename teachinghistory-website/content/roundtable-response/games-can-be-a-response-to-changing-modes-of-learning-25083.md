@@ -2,19 +2,45 @@
 title: Games Can Be a Response to Changing Modes of Learning
 date: '2011-08-17T23:06:29'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25083
+author_bio: 'Roberta Devlin-Scherer’s degrees are in Curriculum and Instruction, English
+  Education, with post-doctoral work in Special Education. She has experience teaching
+  in middle and high school, birth-3 home visit program, resource room, and residential
+  special education settings. At Seton Hall University in South Orange, NJ, she teaches
+  graduate and undergraduate classes that focus on teaching methods and evaluation.
+  She has published articles on gaming, ePortfolios, technology applications, civic
+  participation, video analysis of teaching, and student-faculty telecommunications.
+
+  Nancy B. Sardone is an Assistant Professor and Chairperson of the Teacher Education
+  Department at Georgian Court University, NJ. She teaches graduate and undergraduate
+  classes in Instructional Technology and Social Studies Methods. Her research focuses
+  on the intersection of digital technologies and learning, and she has written articles
+  on digital learning games for the social studies, and on learning through authentic
+  and virtual simulations.'
+author_image_fid: '8294
+
+
+  8294'
+summary: Exposure to mass media, affordability of technological devices, and a growing
+  expectation of immediacy among students are leading to a changing learning environment.
+tags:
+- games
+- gaming
 ---
 
 *The Handbook of Research in Social Studies Education* (2008) notes that the teaching of social studies has not changed much over the past 50-100 years; yet, children have in ways they prefer to learn. Exposure to mass media, affordability of technological devices, and a growing expectation of immediacy among students are leading to a changing learning environment. Electronic content offers the ability to teach and we can design unique learning opportunities to deliver important content with appealing devices. For the past four years, we have taught a variety of electronic games to preservice teachers and observed their use with K-12 students. Below we highlight the games that preservice teachers found interesting to play and useful for their future teaching.
+
 Our first foray into educational games was with [*River City*](http://muve.gse.harvard.edu/rivercityproject/), a well-developed online simulation designed for grades 5-9 students concerning a 19th-century town whose inhabitants are ill. Students try to find out the reasons for the spreading illness. Curiosity was stimulated by the game, but so were concerns. Our group wondered if they would be able to maintain classroom control and how much learning would result. Studies indicate that *River City* and similar games do produce learning (Dede et al., 2004) but they require extensive upfront teacher training and classroom time.
 
 ## The Reality of Classroom Implementation
 
 We found shorter, curriculum-based games a better fit with current classrooms and therefore, more attractive to teacher interest. [*Do I Have a Right?*](http://www.icivics.org/games/do-i-have-right) challenges players to learn constitutional amendments in a situated context. According to the *New Jersey Core Curriculum Content Standards*, by the end of fourth grade students need to be able to explain how fundamental rights guaranteed by the *United States Constitution* and the *Bill of Rights* contribute to the continuation and improvement of American democracy. Through easily understood stories presented in this online game, 4th-grade players learn what constitutes an amendment, what constitutes a legal case, and how to match cases with legal representation. Elementary preservice teachers found that they relearned the civics lessons they had forgotten through this game and indicated willingness to use this as a teaching tool in the future.
+
 Other positively received elementary and middle school level electronic games included [*Privacy Playground*](http://mediasmarts.ca), and [*Cybersense and Nonsense*](http://mediasmarts.ca). These games help students prepare themselves for the online world with lessons on information literacy, netiquette, and how to protect their personal information. Information literacy education is extended in [*Plimouth Plantation*](http://www.plimoth.org/learn/MRL/interact/thanksgiving-interactive-you-are-historian) through its use of primary documents that give accurate and multiple perspectives about the first Thanksgiving. Another well-received game, [*Panwapa Island*](http://www.panwapa.org ) helps young learners develop an awareness of the wider world around them, appreciate similarities and value differences between themselves and others, and develop responsibility for their actions.
 > Exposure to mass media, affordability of technological devices, and a growing expectation of immediacy among students are leading to a changing learning environment.
 
 At the secondary level, preservice teachers expressed interest in games that provided a forum for examination of current or past crucial issues in interesting ways: [*Dafur is Dying*](http://www.darfurisdying.com/) (genocide); [*Ayiti: The Cost of Life*](http://costoflife.ning.com/) (effects of poverty); *Peacemaker* (Israeli-Palestinian conflict); [*Peace Doves*](http://www.nobelprize.org/educational/peace/nuclear_weapons/index.html) (nuclear weaponry); and [*Food Force*](http://www.wfp.org/how-to-help/individuals/food-force) (distribution of food by the United Nations). These games involved participants and provoked discussions. In recently published *Alone Together: Why We Expect More from Technology and Less from Each Other* (2011), Sherry Turkle laments that the technologically savvy generation is too busy to truly communicate or think. However, these social issue games have the potential to heighten players' consciousness about serious world issues and raise their concern for others. Because of its rich content, participants also enjoyed games from *Making History*, which had players inspect leadership challenges during World War II.
+
 Games are so often equated with play that educational games still have an uphill battle convincing teachers and parents that the time expended to prepare and use these materials produces desired results in students' learning. Game advocates argue that a deeper, more satisfying learning takes place through gaming. We believe that the games we have discussed can enrich the curriculum. In order to become part of the educational mainstream, future games will need to have a tight match with the curriculum, be easily available and accessible, require minimal preparation for use, provide clear directions, employ simple navigation, and avoid extensive reading with limited interaction.

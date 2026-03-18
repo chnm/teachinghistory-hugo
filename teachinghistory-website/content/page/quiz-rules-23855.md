@@ -2,7 +2,7 @@
 title: Quiz Rules
 date: '2010-02-15T11:53:45'
 lastmod: '2011-06-16T09:01:44'
-type: page
+content_type: page
 draft: false
 drupal_nid: 23855
 ---

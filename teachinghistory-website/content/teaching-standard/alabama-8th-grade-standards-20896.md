@@ -2,9 +2,11 @@
 title: 'Alabama: 8th-Grade Standards'
 date: '2009-02-08T20:07:42'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20896
+grade_levels:
+- middle
 ---
 
 ## AL.8 Standard: World History—Early Man to 1500
@@ -85,6 +87,7 @@ The study of world history in Grade 8 addresses the time period from prehistoric
   + ##### Grade Level Example:
 
     expansion—illustrating the spread of Roman influence with charts, graphs, timelines, or maps
+
     transformation—noting reforms of Augustus, listing effects of Pax Romana* #### 8.6.2 Students will practice:
 
     + Interpreting spatial distributions and patterns of the Roman Republic using geographic tools and technologies
@@ -109,6 +112,7 @@ The study of world history in Grade 8 addresses the time period from prehistoric
   + ##### Grade Level Example:
 
     India—religions, arts and literature, philosophies, empires, caste system
+
     China—religions, politics, centrality of the family, Zhou and Han Dynasties, inventions, economic impact of the Silk Road and European trade, dynastic transitions* #### 8.8.2 Students will practice:
 
     + Identifying the effect of the monsoons on India
@@ -152,6 +156,7 @@ The study of world history in Grade 8 addresses the time period from prehistoric
   + ##### Grade Level Example:
 
     culture—describing the influence on art, architecture, language, and religion
+
     politics—describing changes in civil service economics—introducing patterns of trade
 
 ### 8.13

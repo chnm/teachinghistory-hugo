@@ -2,9 +2,11 @@
 title: 'California: 8th-Grade Standards'
 date: '2009-02-08T20:07:51'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20938
+grade_levels:
+- middle
 ---
 
 * ### CA.8.1. Content Standard: United States History and Geography

@@ -2,9 +2,11 @@
 title: South Carolina's Kindergarten Standards
 date: '2009-02-08T20:16:08'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21420
+grade_levels:
+- elementary
 ---
 
 - ### SC.K-1. Standard / Course—Foundations of Social Studies: Children as Citizens

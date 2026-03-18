@@ -2,9 +2,11 @@
 title: 'West Virginia: 12th-Grade Standards'
 date: '2009-02-08T20:17:38'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21558
+grade_levels:
+- high
 ---
 
 ## Civics for the 21st Century

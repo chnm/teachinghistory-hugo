@@ -2,13 +2,27 @@
 title: Online Professional Development through the Library of Congress
 date: '2009-09-21T16:24:38'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 22900
 url: /nhec-blog/22900
+date_published: '2009-09-21T00:00:00'
+image_fid: '2437'
+summary: Library of Congress professional development for teachers emphasizes a self-paced
+  look at resources and methodologies.
+image: /files/22900node-image.jpg
+tags:
+- examples of teaching
+- historical thinking
+- lesson plans
+- primary soruces
+- professional developemnt
+- rchives and libraries
+- teaching materials
 ---
 
 As part of its new [home for teachers](http://www.loc.gov/teachers/), the Library of Congress offers self-paced professional development modules online. (Please see this earlier blog post, [Bookmark This! Teacher Resources at the Library of Congress](http://teachinghistory.org/nhec-blog/22366).)
+
 The [two modules](http://www.loc.gov/teachers/professionaldevelopment/), *Introduction to the Library of Congress* and *Analyzing Primary Sources: Photographs and Prints*, don't break new methodological ground, but they do offer an excellent multimedia synthesis of how to use the Library of Congress and how to teach with primary source materials. Many of the examples and definitions work as well in the classroom as they do as professional development tools. Perhaps most helpfully, they may assist teachers in streamlining and consolidating search efforts for classroom resources.
 > Modules are self-directed, multimedia presentations.
 

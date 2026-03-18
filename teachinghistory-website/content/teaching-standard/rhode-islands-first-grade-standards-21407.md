@@ -2,9 +2,11 @@
 title: Rhode Island's First Grade Standards
 date: '2009-02-08T20:16:04'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21407
+grade_levels:
+- elementary
 ---
 
 * ### RI.1. Domain / Statement Of Enduring Knowledge: Civics and Government

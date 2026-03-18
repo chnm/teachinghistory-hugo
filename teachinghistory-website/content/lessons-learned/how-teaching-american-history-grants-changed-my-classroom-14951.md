@@ -2,12 +2,39 @@
 title: How Teaching American History Grants Changed My Classroom
 date: '2008-02-08T18:08:45'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 14951
+author_bio: Tracy Hutton taught at Lansing High School in Lansing, KS for 7 years.
+  After participating in two TAH grants, she was selected to be a teacher leader for
+  a third grant. She is currently the Curriculum Technologist for Salina, KS public
+  schools, working closely with teachers to help improve student achievement with
+  the effective integration of technology and continues to serve as a TAH teacher
+  leader.
+splash_image_fid: '4958'
+summary: Before beginning my first Teaching American History (TAH) grant in 2003,
+  I was a struggling new teacher . . .
+splash_image: /files/Power_of_Primary_Sources_-_432x240.jpg
+grade_levels:
+- high
+tags:
+- Chinese Exclusion Act
+- Food Administration
+- NARA
+- National Archives
+- TAH
+- Teaching American History grants
+- World War I
+- classroom activities
+- food rationing
+- high school
+- historical thinking
+- hoarding
+- primary sources
 ---
 
 Before beginning my first Teaching American History (TAH) grant in 2003, I was a struggling new teacher. Then in my third year of teaching at an affluent high school in Northeastern Kansas, I found myself struggling to get my students to become as enthusiastic about history as I was. I worked every day to get them to see a connection between what we were studying and their own lives. It was not until the lead professor of my TAH grant took us to do research at the nearby National Archives facility that I really caught a vision of how using primary sources could engage my history students.
+
 The archivists at NARA Central Plains pulled the records of the Food Administration. I was thrilled to read through detailed accusations and evidence of hoarding during WWI rationing. I was fascinated by the efforts to hide flour and sugar coupled with the suspicious finger-pointing between neighbors. In one document, a man complained to the Food Administration that he knew his neighbor had hidden a large stash of flour and sugar in a closet. He further claimed that the owner concealed the contents by wallpapering over the opening. There were so many of these examples that it was difficult to choose which ones to use. After selecting several documents to include in my WWI unit, I decided to try something different.
 
 ## And Now for Something Completely Different
@@ -16,6 +43,7 @@ After dividing students into groups, I gave each a laptop and a different docume
 > With no background information, their assignment was to use the document to determine what it was referring to.
 
 Before my TAH grants, step two of lesson planning—the first being reading the curriculum standards—was always the textbook. After having success with using primary sources, step two became a search for them. Besides searching the [National Archives and Records Administration (NARA)](http://www.archives.gov/research/arc/) website, I frequented websites such as [Digital History](http://www.digitalhistory.uh.edu/) and the archives of different state and presidential libraries. The [Internet Modern History Sourcebook](http://www.fordham.edu/halsall/mod/modsbook.html) and the New York Public Library [Digital Gallery](http://digitalgallery.nypl.org/nypldigital/index.cfm) were also great websites for digital sources. Regardless, my first stop was always the website of the [Library of Congress](http://memory.loc.gov/ammem/browse/).
+
 When our TAH grant group was introduced to the holdings of the Library of Congress, the possibilities seemed endless. My students got glimpses of factory life in a [Westinghouse factory](http://memory.loc.gov/ammem/papr/west/westhome.html) in 1900. They laughed at early motion pictures like Buster Brown and *The Great Train Robbery.* I also included early radio broadcasting and advertising to spark discussions of life and pop culture during different times in American history. My students came to know exactly what primary sources were and by the end of my time with them they were finding their own resources.
 > My students came to know exactly what primary sources were and by the end of my time with them they were finding their own resources.
 
@@ -27,5 +55,7 @@ All the success I enjoyed using primary sources did not come without some diffic
 > By using primary sources, my class became student-centered. Rarely did I lecture. Instead, my students were engaged in inquiry and research. They were seeking to answer their own questions.
 
 It is important to keep expectations high in this type of classroom setting. The teacher must have a strong classroom management system in place and provide clear instructions. It is essential that the teacher roam the room and converse with all groups to gauge the level of understanding and involvement of students. This is where differentiation can really happen and problems can be solved.
+
 It will take time to transform a classroom into this model. Begin by introducing primary sources where possible. Often, the textbook will give a short quote or image from a primary source. Use this information to find the entire document to show your students. Furthermore, there are many great books and websites available that are full of primary sources. For images, color copies are best. Save money by putting all of the primary sources for each unit into a classroom set of folders with sheet protectors. This way, fewer color copies are made and they can be reused year after year.
+
 When I was chosen for the first grant, I thought that I would learn more about history content. Although I did learn so much from the visiting historians, nothing can compare to the radical change that occurred in my teaching. I was fortunate to participate in two TAH grants and to serve as a teacher leader in a third. It is so nice to see others catch the vision of how using primary sources can transform the traditional history classroom.

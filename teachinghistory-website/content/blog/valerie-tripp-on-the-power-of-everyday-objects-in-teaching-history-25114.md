@@ -2,13 +2,29 @@
 title: Valerie Tripp on the Power of Everyday Objects in Teaching History
 date: '2011-09-02T11:50:03'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25114
 url: /nhec-blog/25114
+author_bio: Valerie Tripp is an American author best known for her American Girl historical
+  characters Felicity, Kit, Josefina, Molly, and Samantha. Ms. Tripp has also written
+  poems, songs, stories, and nonfiction educational materials.
+date_published: '2012-03-05T00:00:00'
+image_fid: '8012'
+splash_image_fid: '8013'
+author_image_fid: '8011'
+summary: The meaning of an object is its story.
+splash_image: /files/objectssplash.jpg
+image: /files/objectsimage.jpg
+author_image: /files/author_image/author_tripp_0.jpg
+tags:
+- artifacts
+- material culture
+- objects
 ---
 
 I believe that objects in and of themselves have energy. They’re so emotionally loaded that they can surprise us. Imagine that you’re cleaning out a closet. You put your hand on a scarf that you haven’t worn in years, intending to give it away. Then you say to yourself, "Oh, but this is the scarf my daughter brought back from Scotland for me, the summer my mother died. I can't give *this* away." The everyday object—the scarf—has somehow become more than a scarf, more even than a gentle memory jog. Somehow, it is a lovely loop connecting your daughter, your mother, and you. Back into the closet it goes.
+
 How can we, as teachers of history, tap into the energy of everyday objects? How can we use them to engage and instruct our students?
 
 ## Clothespins
@@ -21,6 +37,7 @@ But when clothespins with metal springs in them were shown as something that my 
 ## Typewriters
 
 Objects that *have* changed in design can intrigue your students, too. When I speak to classes and Brownie troops, I often bring along with me a miniature typewriter that American Girl created as a product for my character, Kit, who lived during the Depression. The students get a big kick out of the typewriter and refer to it as “an old-fashioned laptop.” Typewriters tell, without a word spoken, about change. Black, cumbersome, heavy, slow, smelling of ink, and taking more physical effort to use than our sensitive keyboards, typewriters can lead your students to reflect on the changing speed and ease of communication, the influences of invention and technology, and how we take mobility, immediacy, and convenience for granted.
+
 As with the clothespin, you can use the typewriter to lead your students to the realization that every object is actually more than just a physical, tangible thing; it is a symbol, too. It has meaning. In the case of the typewriter, I like to tell the students that Kit’s father repaired the typewriter for her, and when he gave it to her as a gift he was saying, "I think it is great that you want to be a writer." The typewriter—and every gift a parent gives a child—is a symbol of love, encouragement, and validation. The meaning of an object is its story.
 
 ## Clothing

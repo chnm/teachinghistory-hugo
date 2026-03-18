@@ -2,9 +2,11 @@
 title: 'California: 4th-Grade Standards'
 date: '2009-02-08T20:07:51'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20934
+grade_levels:
+- elementary
 ---
 
 * ### CA.4.1. Content Standard: California

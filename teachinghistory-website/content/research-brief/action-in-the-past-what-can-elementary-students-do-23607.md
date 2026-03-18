@@ -2,30 +2,29 @@
 title: 'Action in the Past: What Can Elementary Students Do?'
 date: '2009-12-01T17:47:40'
 lastmod: '2017-12-05T08:43:31'
-type: research_brief
+content_type: research_brief
 draft: false
 drupal_nid: 23607
+image_fid: '7377'
+splash_image_fid: '4580'
+summary: Even the youngest students can move beyond simple explanations to understand
+  historical context.
+spotlight: Elementary students typically rely on personal experience to explain the
+  actions of historical figures. However, by utilizing the results of this study,
+  teachers can help young learners excel beyond this basic understanding of historic
+  events.
+splash_image: /files/TeachingAction.jpg
+image: /files/elemaction.jpg
+grade_levels:
+- elementary
+- middle
+time_periods:
+- General
+topics:
+- Education
 ---
 
-In "Just Another Emperor," Peter Lee, Alaric Dickinson, and Rosalyn Ashby studied how students explain the actions of historical figures. Understanding how people from the past thought and believed, and relating that to the actions historical figures took, is central to the discipline of history. These authors wanted to know if elementary and middle school students were up to the task.
-> Understanding how people from the past thought and believed, and relating that to the actions historical figures took, is central to the discipline of history.
-
-For a project funded by Great Britain's [Economic and Social Research Council](http://www.esrc.ac.uk/), Lee, Dickinson, and Ashby worked with 320 children aged 7–14. The kids were shown an illustrated story of the Roman invasion of Britain and asked to explain what led Emperor Claudius to invade Britain. They were given a host of reasons why the invasion was more trouble than it was worth, from the cost of the invasion to the resistance the Romans encountered, and then told Claudius had gone ahead and invaded anyway. How would these young students explain his actions?
-This is what they found: Rather than answering that Claudius invaded Britain because he wanted to, most of the children, regardless of age, chose to offer explanations for his behavior.
-
-## Three Kinds of Explanations
-
-The students' answers were grouped into three main categories.
-
-* Basic answers that explained Claudius’s actions in personal terms, i.e., Claudius was a man who wanted power.
-* Context-aware responses that focused on the fact that Claudius was an emperor who invaded Britain due to his leadership position.
-* Complex explanations that rested on a specific understanding of the situation in which Claudius operated. Such explanations recognized contextual problems or opportunities that Claudius faced, noting not only his title of emperor, but the fact that he was a particular emperor in a specific situation. These students saw the past as a different kind of world and sought to understand it.
-
-## Explanations Vary by Age Group
-
-Older middle-school students relied less on personal explanations and more on situational analysis. In other words, Claudius’s actions were shaped more by historical context than individual desire. This was less true for younger students, who were more likely to rely on personal explanations. This told the researchers that understanding how historical context influences people's actions is learned over time, as students developed and practiced the skills of historical thinking.
-> . . . understanding how historical context influences people's actions is learned over time. . .
-
-## What Seven Year-Olds Can Do
-
-Despite the fact that students aged 7 and 8 relied more on personal explanations, at a certain level they were still able to understand historical actions. Young children possess everyday knowledge of how people behave; even elementary-age children can come up with simple but plausible reasons for someone's behavior. These explanations can provide a jumping-off point for thinking about motives in a historical context.
+* Identify a decision made by a historical figure—Claudius’s invasion of Britain, for instance—that you want your students to examine.
+* Seek out a range of sources that describe the context in which decision-makers were operating at the time.
+* Ask students to explain why historical figures made the decisions they did. You can give your students the readings first, and tell them to look for any factors that might have influenced these decisions. Or ask for explanations *before* you assign the selected readings. Next, have students read the sources and explain how the readings helped them come up with a better answer.
+* When students rely on personal explanations ("Because that’s what emperors do," etc.) help them see that specific historical factors can shape how people behave. Send them back to the texts; model for students how they can do this kind of historical detective work themselves.

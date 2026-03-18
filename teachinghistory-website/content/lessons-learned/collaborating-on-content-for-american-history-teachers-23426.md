@@ -2,9 +2,36 @@
 title: Collaborating on Content for American History Teachers
 date: '2009-10-14T17:26:17'
 lastmod: '2017-10-06T15:21:32'
-type: lessons_learned
+content_type: lessons_learned
 draft: false
 drupal_nid: 23426
+author_bio: 'Ann Marie Ryan is an assistant professor in the School of Education at
+  Loyola University Chicago. She has been involved in three TAH grants serving the
+  Chicago Public Schools, including the [Chicago History Project](http://www.newberry.org/chicagohistoryproject/aboutus.html).
+  She currently serves as one of the academic co-directors for the American History
+  Matters Collaborative.
+
+  Frank Valadez is Executive Director of the [Chicago Metro History Education Center](http://www.chicagohistoryfair.org),
+  a nonprofit organization that promotes inquiry- and project-based approaches to
+  history education. He holds a master''s degree in American history from the University
+  of Illinois at Urbana-Champaign and a bachelor''s degree in history from Northwestern
+  University.'
+splash_image_fid: '4745'
+author_image_fid: '3437
+
+
+  3437'
+summary: With effective collaboration, TAH Grant projects can change and grow.
+splash_image: /files/Collaborating_on_Content-based_Professional_Development_-_432x240.jpg
+grade_levels:
+- high
+- middle
+tags:
+- Partners
+- high school
+- historians
+- middle school
+- project management
 ---
 
 Effective collaboration is essential to successful implementation of Teaching American History (TAH) programs. Program leaders and partners need to collaborate well in order to effectively address problems, improve the program during implementation, and ensure that the program runs smoothly. Participants benefit from collaboration because it provides them an opportunity to learn from one another, and not just from the project leaders. Teachers, administrators, history education specialists, and historians bring different perspectives to the task of improving the teaching and learning of history in middle and high school classrooms. The experience of the Chicago History Project (CHP), shows that effective collaboration among all of these groups can contribute to programs that meet participants' needs.
@@ -15,6 +42,7 @@ The TAH grant program of the U.S. Department of Education funded the [Chicago Hi
 > The emphasis on collaboration helped develop communities of inquiry that strengthened teachers' pedagogical content knowledge.
 
 CHP aimed at addressing several problems in history education, including the lack of teacher preparation in the discipline of history. It also attempted to foster professional relationships among teachers by creating a program that linked 7th- through 12th-grade teachers with university history professors, history education specialists, museums, and libraries.
+
 CHP evolved over time based on participant feedback and increasingly provided teachers with programs, partnerships, and resources that increased the depth of historical content in their American history courses. The emphasis on collaboration helped develop communities of inquiry that strengthened teachers' pedagogical content knowledge.
 
 ## Evolving Goals and Design
@@ -23,6 +51,7 @@ The initial design of CHP put history content at the center with the belief that
 > Teachers . . . noted specific benefits of collaborating with colleagues from their school and other schools.
 
 At the outset, CHP mixed middle and high school teachers together in teams to articulate the American history curriculum. The logistical challenges of coordinating cross-grade level partnerships of paired schools led CHP staff to base Cohorts 2 and 3 on school-based teams rather than pairing schools. This change allowed flexibility in cross-grade relationships and allowed teachers and schools with particular interests to work together. It successfully addressed the logistical problem without sacrificing the emphasis on increasing teacher collaboration.
+
 The most significant change made based on teacher input was the redesign of the summer institute. Whereas Cohort 1 met as a single group for many sessions, Cohorts 2 and 3 were each divided into two seminar groups that met daily, meaning each group now had a consistent facilitator who could help them make connections between seminars and assist in building from one conversation to the next. In this context, the facilitator provided a consistent and constant resource in discussion, and the redesign of the summer institute allowed for small groups with more focused facilitation.
 > Working intensively with colleagues provided "a richer sense of professional collaboration among fellow CPS teachers."
 
@@ -31,4 +60,5 @@ Teachers also noted specific benefits of collaborating with colleagues from thei
 ## Benefits for All
 
 CHP provided collaboration across organizations and between teachers and historians and history education specialists. The partner organizations found participation in the Chicago History Project to be beneficial in a variety of ways. They appreciated the opportunity to interact with a group of dedicated teachers over a sustained period of time. The partner organizations forged closer relationships with many participants and saw significant crossover of CHP teachers participating in other professional development programs. Partners also noted that the long-term nature of CHP provided them with time to refine and tailor their offerings and materials to best suit the needs of CHP participants.
+
 The commitment to a rich content-based program and the collaborative structure of the professional development project were instrumental in leveraging these changes. The response to teacher feedback and the commitment to provide teachers deep engagements with historical content made the project at once responsive and challenging.

@@ -2,9 +2,11 @@
 title: 'Iowa: 6th-Grade Standards'
 date: '2012-07-16T12:04:26'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 25680
+grade_levels:
+- middle
 ---
 
 (Note: By the completion of eighth grade, Iowa students are expected to master the following standards.)

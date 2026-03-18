@@ -2,21 +2,56 @@
 title: Constitution Day 2010
 date: '2010-09-08T14:36:39'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24230
 url: /nhec-blog/24230
+date_published: '2010-09-08T00:00:00'
+image_fid: '6486'
+splash_image_fid: '6669'
+summary: Explore these online Constitution Day resources for September 17 and throughout
+  the year.
+splash_image: /files/splash-blog-cd10.jpg
+image: /files/image-blog-CD2010.jpg
+grade_levels:
+- elementary
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+topics:
+- Legal History
+- Politics
+tags:
+- Constitution Day
+- U.S. Constitution
+- constitution
+- holidays
 ---
 
 Every September 17, Constitution Day calls on teachers to memorialize—and critically engage with—Constitutional history in the classroom. But what approach to the Constitution should you take? What quality teaching resources are available? How can you interest your students in a document that is more than 200 years old?
+
 In 2008, Teachinghistory.org published a [roundup](http://teachinghistory.org/nhec-blog/19505) of Constitution Day resources. Many of those resources remain available, but online Constitution Day content continues to grow. Check out the sites below for materials that recount the Constitutional Convention of 1787, compare the Articles of Confederation with the Constitution, explore U.S. Supreme Court cases that have interpreted the Constitution, and apply the Constitution to contemporary debates.
 
 ## Online Resources
 
 The Library of Congress's Constitution Day [page](http://thomas.loc.gov/teachers/constitution.html) collects the full text of the Constitution, Bill of Rights, and Amendments, as well as the Federalist Papers and the Articles of Confederation. Lesson plans for grades 6–12 accompany the documents. The page also includes short suggested reading lists for elementary, middle, and high school, and links to relevant Library of Congress American Memory collections, such as [*Documents from the Continental Congress and the Constitutional Convention*](http://memory.loc.gov/ammem/collections/continental/) and the papers of James Madison, George Washington, and Thomas Jefferson. Also check out the Library's collection of primary sources ["Creating the United States."](http://www.loc.gov/teachers/newsevents/events/creatingus/index.html)
+
 You can find an elegant, simple presentation of the Constitution on the National Archives' Constitution Day [page](http://www.archives.gov/fed-employees/constitution-day.html). Check out their high-resolution PDF of the original document, part of NARA's [*100 Milestone Documents*](http://www.ourdocuments.gov/content.php?page=milestone) exhibit.
+
 If the Constitution is proving a difficult read for your students, try the National Constitution Center's [Interactive Constitution](http://ratify.constitutioncenter.org/constitution/index_no_flash.php). Search the text by keyword or topic, and click on passages that are unclear to find explanatory notes from Linda R. Monk's [*The Words We Live By: Your Annotated Guide to the Constitution*](http://books.google.com/books?id=-tLoPAAACAAJ&dq=The+Words+We+Live+By:+Your+Annotated+Guide+to+the+Constitution&hl=en&ei=38J-TKSGIcO78gaRorTUAw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCwQ6AEwAA). The Constitution Center also offers its own Constitution Day [page](http://www.constitutioncenter.org/ncc_progs_Constitution_Day.aspx), with a short video on the creation of the Constitution, interactive activities, and quizzes.
+
 If you're not already familiar with [*EDSITEment*](http://edsitement.neh.gov/), created by the National Endowment for the Humanities, take a look through their extensive collection of lesson plans. A quick search reveals [more than 90 lessons](http://www.thinkfinity.org/partner-search?start=0&partner=5&partner_value=no&from_links=&txtKeyWord=constitution&txtKeyWord2=constitution&narrow=1&chkPartner[]=EDSITEment
+
 ) related to the Constitution.
+
 Interested in bringing home to students the Constitution's importance today? The *New York Times'* Constitution Day [page](http://learning.blogs.nytimes.com/2010/08/17/resources-for-teaching-the-constitution/?nl=learning&emc=learningal) links current events to the Constitution in more than 40 lesson plans. The *Times* also invites students to submit answers to questions such as "Should School Newspapers Be Subject to Prior Review?" and "What Cause Would You Rally Others to Support?"
+
 Can't find anything here that sparks your interest or suits your classroom? Many more organizations and websites offer Constitution Day resources, including the [Bill of Rights Institute](http://www.billofrightsinstitute.org/teach/freeresources/constitutionday/), the [American Historical Association]( http://blog.historians.org/resources/1112/preparing-for-constitution-day), [Annenberg Media](http://www.learner.org/resources/series72.html), and [Consource](http://consource.org/). (Check out our Lesson Plan Reviews for a [review](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/24213) of a lesson plan from Consource on the Preamble to the Constitution.)

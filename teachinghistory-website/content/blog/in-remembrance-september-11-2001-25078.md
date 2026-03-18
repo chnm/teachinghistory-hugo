@@ -2,25 +2,57 @@
 title: 'In Remembrance: September 11, 2001'
 date: '2011-08-16T13:08:30'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25078
 url: /nhec-blog/25078
+date_published: '2011-08-24T00:00:00'
+image_fid: '7943'
+splash_image_fid: '7944'
+summary: September 11, 2011 marks the 10th anniversary of the 9/11 attacks. When does
+  the recent past become history?
+splash_image: /files/splash-blog-201110.jpg
+image: /files/image-blog-201110.jpg
+grade_levels:
+- elementary
+- high
+- middle
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Media
+- Military History
+- Politics
+tags:
+- 9-11
+- '911'
+- Pentagon
+- Twin Towers
+- World Trade Center
+- anniversaries
+- september 11
+- terrorism
+- terrorists
 ---
 
 Some students in class today may have clear memories of the events of September 11, 2001. Some may have vague memories. Others may have been born years after the attacks. The 10th anniversary of 9/11 presents an opportunity for educators to explore with students what it means to *experience* history. Were students alive during the attacks? Do they remember them? How do their parents remember the attacks? How did adults they know make sense of the events as they happened? How do people who were alive during the attacks interpret the past when its events are close and painful? How long does it take for historians to find a framework in which to fit events such as 9/11? People watching the World Trade Center towers collapse knew that 9/11 would appear in history books later—what has happened during students' lifetimes that they think was "history in the making?"
+
 One way to teach 9/11 is to compare and contrast it with other past events that witnesses believed were history in the making. Lesson plans often feature the bombing of Pearl Harbor and the assassination of JFK as comparable to 9/11, but what about the bombing of Hiroshima and Nagasaki? The assassination of Abraham Lincoln? The assassination of William McKinley? The Boston Massacre? The Springfield Race Riot of 1908?
+
 How many people witnessed those events? How many of them witnessed them in person? How well were the witnesses prepared for the events? Did they know ahead of time what the effects might be? Did they share their eyewitness knowledge freely with others, or keep it secret? What did people write about these events immediately after they happened? Years after they happened? Does where something happens make a difference in how people react to it? Has technology made a difference?
 
 ## Teachinghistory.org Resources
 
-[![September 11 Spotlight](http://teachinghistory.org/files/spotlight-blog-9112011.jpg)](http://teachinghistory.org/spotlight/september11)
+[![September 11 Spotlight](/files/spotlight-blog-9112011.jpg)](http://teachinghistory.org/spotlight/september11)
+
 Regardless of how you choose to teach 9/11 and whether or not you contrast it with other historical events, approach the subject thoughtfully and with clear goals. To honor the anniversary and to help you as you learn about, teach, and remember the day and its effects, we've gathered together our 9/11 resources on one page: "[In Remembrance: Teaching 9/11](http://teachinghistory.org/spotlight/september11)."
 
 ## Teaching the Recent Past
 
 Our spotlight doesn't include all of the many resources available online. More examples follow. Some were created in the immediate wake of 9/11 and some were created 10 years later, in the present day. You can use the older materials as they are, or use them as primary sources in their own right. They represent snapshots of writers, publications, and educators trying to make sense of a sudden, horrifying event.
+
 If you are contrasting 9/11 with other traumatic events in U.S. history, you may want to compare these early reactions with early reactions to those events. How did schools, educators, and students react to violence in the past?
+
 **From 2001:
 
 * A *New York Times* [lesson plan](http://learning.blogs.nytimes.com/2001/09/12/another-day-that-will-live-in-infamy/) published on September 12, 2001, suggests ways educators can help students think about and process the attacks.

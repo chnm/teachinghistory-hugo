@@ -1,0 +1,62 @@
+---
+title: Trailing Lewis and Clark
+date: '2010-10-13T09:59:20'
+lastmod: '2018-09-19T13:26:46'
+content_type: ask_a_historian
+draft: false
+drupal_nid: 24290
+question: I have heard that Spain was not happy about the Corps of Discovery expedition
+  led by Lewis and Clark and that a group of soldiers and Comanches was twice sent
+  out to stop them. Can you give me more information about these efforts including
+  who led the detachment of soldiers, or point me in the direction of a website or
+  book that would have this information?
+url: /history-content/ask-a-historian/24290
+splash_image_fid: '6689'
+summary: Spain sent several expeditions to find the Lewis and Clark Corps of Discovery.
+splash_image: /files/old_petroglyphs.jpg
+tags:
+- Corps of Discovery
+- Facundo Melgares
+- James Wilkinson
+- Lewis and Clark Expedition
+- Louisiana Purchase
+- Louisiana Territory
+- Merriwether Lewis
+- Nemesio Salcedo
+- New Mexico
+- New Spain
+- Santa Fe
+- Spain
+- Thomas Jefferson
+- William Clark
+---
+
+The Spanish believed that any American expedition into the Louisiana Territory would lead to attempts to conquer Spanish territories to the west and south. President Jefferson, in fact, did believe that the United States would eventually expand across the continent out to the Pacific Ocean, and he had long planned in secret for at least one expedition of explorers to be sent out to the far west, even before he acted on the fortuitous opportunity to purchase the Louisiana Territory from France (which had just reacquired it from the King of Spain).
+
+> President Jefferson, in fact, did believe that the United States would eventually expand across the continent out to the Pacific Ocean
+
+Merriwether Lewis and William Clark set out into the Louisiana Territory just as it was being officially turned over to the United States in early 1804 (the Purchase had been made in 1803). But the borders of the territory had not yet been well determined and Spanish authorities in America had good reason to suspect that the expedition would intrude into tenuously held Spanish territory. They also suspected, rightly, that the expedition was not just a matter of satisfying Jefferson’s scientific curiosity about the region, but that the expedition would also attempt to turn the Indian tribes they encountered against the Spanish and make them friendly toward the United States for both military and trading purposes.
+
+## Spanish Attempts to Intercept the Expedition
+
+On March 5, 1804, Sebastiàn Calvo de la Puerta y O’Farril, marqués de Casa Calvo, the former Spanish governor of Louisiana, who was remaining in New Orleans to serve on the boundary commission that was to demarcate the Louisiana Territory, sent a letter to Nemesio Salcedo, Commandant General of the Interior Provinces in Chihuahua, warning him about the expedition and instructing Salcedo to send out a force to intercept and arrest the explorers. Delays followed, but on May 3, Salcedo ordered the Governor of New Mexico, Fernando de Chacón, to dispatch a force to find Lewis and Clark, who had already begun their journey four months before. Chacón sent out a party headed by two frontiersmen, Pedro Vial and José Jarvet, who led a force of 52 soldiers, Spanish settlers, and Indians, from Santa Fe on August 1. By September 3, they reached a large Pawnee settlement on the Platte River in central Nebraska. There, they assiduously distributed presents to the local chiefs and learned that American “traders” had lately been in the area. In fact, Lewis and Clark’s expedition had passed that way, but by the time that Vial and Jarvet reached the Platte, the Corps of Discovery was already far to the north, poling up the Missouri. Unable to get a clear idea of where Lewis and Clark were (actually, they were only about 100 miles away), Vial and Jarvet returned to New Mexico, arriving in Santa Fe on November 5. Salcedo ordered Vial and Jarvet to conduct another attempt to counter Lewis and Clark in October 1805. They were given orders to negotiate with the Indians with the aim of forging close alliances with them so that the tribes would intercept Lewis and Clark upon their return journey. Vial and Jarvet set out from Santa Fe with about 100 men, soldiers, traders, and militia, but when they reached the north bank of the Arkansas River on November 6, they were attacked by a force of Pawnee, and had to return to Santa Fe. In April 1806, Vial led a third force, this time numbering about 300, on a similar mission to make Indian allies among the Pawnee, but his men soon turned against him and deserted, and he returned again to Santa Fe.
+
+> Melgares’ mission was to impress the wavering Indians who had been allied to Spain
+
+In June, Salcedo dispatched another force from Santa Fe under the command of Lieutenant Facundo Melgares. Melgares had about 600 men under his command composed of 105 soldiers, 400 militiamen, and about 100 Comanches, all accompanied by nearly 2000 horses and mules. It was the largest military force that Spanish authorities ever sent out into the Plains. Melgares’ mission was to impress the wavering Indians who had been allied to Spain until then and to repel or apprehend any American exploring expeditions it could find, including the one under Lewis and Clark. Hampered by the Pawnees’ suspicions and opposition, Melgares’ formidable but unwieldy force did not succeed in reaching the Missouri River, where it might have encamped and encountered Lewis and Clark on their return trip. The Corps of Discovery reached St. Louis on September 23, 1806, and Melgares and his men returned to Santa Fe the following month.
+
+## Other American Expeditions
+
+While Lt. Megares was on his mission, three American expeditions in the West were exploring and probing along the borders with Spanish territories. Lewis and Clark’s Corps of Discovery was just one of them. Another party was being led by U.S. Army Lieutenant Zebulon Montgomery Pike and was meant to explore the Rocky Mountains in the headwaters of the Arkansas River. (Pike had just completed an expedition from August 1805 to April 1806 up the Mississippi River from St. Louis to Minnesota to seek out the source of the Mississippi River.) His second expedition, of about 15 men, set out from near St. Louis on July 15, 1806. They journeyed through present-day Missouri, Kansas, Nebraska, and Colorado, and then south, close to Santa Fe. A Spanish force of about 100 dragoons and militiamen, sent out from Santa Fe and under the command of Lieutenant Ignatio Saltelo, apprehended them on February 27, 1807, and turned them over to Governor Salcedo, who questioned them and had them sent to Chihuahua, from where they were eventually repatriated to the United States in July. The Spanish government charged the American government with responsibility for Pike’s actions, and claimed damages of about $22,000, for the cost of searching for Pike. The Spanish claims were not resolved until 1819, as part of the Adams-Onís Treaty, which demarcated borders between the territories of the United States and Spanish possessions in North America. Another American expedition had been sent out in April 1806 to explore the headwaters of the Red River, led by U.S. Army Captain Richard Sparks, and naturalists Thomas Freeman and Peter Custis. (Yet another small expedition, under William Dunbar and George Hunter had earlier been sent into areas along the Ouachita River in present-day Arkansas and Louisiana and had returned at the beginning of 1805.) The small Sparks expedition of 24 men traveled 600 miles up the Red River and was intercepted by a force of Spanish troops under the command of Captain Francisco Viana from the Spanish garrison at Nacogdoches on July 28, 1806. The Americans were ordered to return back down the river, which they did.
+
+## Wheels within Wheels
+
+Although Jefferson believed that the United States would eventually expand out to the Pacific, pushing Spain out of the picture, he did not wish to force a confrontation, believing that it would be better for the long-term interests of the U.S. if the Spanish presence in the western territories prevented Britain from advancing south from central and western Canada. Jefferson therefore made preparations for the Lewis and Clark Expedition in secret in order not to provoke Spain. Spain knew about the planning for the expedition, however, in part because Brig. General James Wilkinson, the senior officer of the United States Army, had informed the Spanish about it in detail. He had, in fact, secretly renounced his loyalty to the United States as far back as 1787, and, in a “memorial” he had signed in order to be awarded a trading monopoly by the Spanish along the Mississippi River, had declared that he would dedicate his life to the “good of [Spain] and aggrandizement of the Spanish Monarchy.” In truth, Wilkinson spent his entire career dedicated to his own aggrandizement, plotting conspiracies and counter-conspiracies, playing off one side against another.
+
+> Jefferson ... made preparations for the Lewis and Clark Expedition in secret in order not to provoke Spain.
+
+Along with the U.S. governor of (southern) Louisiana, William Claiborne, Wilkinson represented the United States at the ceremonies in St. Louis in March 1804 that officially transferred the Louisiana Territory to the United States (Merriwether Lewis was also present). Secretly, however, Wilkinson was a paid agent of Spain, who communicated to Spanish officials as “Agent 13.” Writing to these officials in March 1804, he warned them of the Lewis and Clark expedition and gave his opinion that “An express ought immediately to be sent to the governor of Santa Fe … [for] a sufficient body of chasseurs to intercept Captain Lewis and his party, who are on the Missouri River, and force them to retire or take them prisoners.” Wilkinson was, however, also plotting with Jefferson’s ex-Vice President Aaron Burr to raise a filibustering expedition that would shear off parts of the states of Kentucky, Tennessee, and North Carolina, and join them with the Louisiana Territory in a new country independent of Spain or the United States. Wilkinson found out that the plot was near to being discovered and covered his tracks, partly by pointing the finger at his erstwhile co-conspirator, as the chief witness for the prosecution against Burr during his 1807 treason trial. Almost incredibly, Jefferson did not suspect Wilkinson of double-dealing and, instead, he had appointed him in March 1805 as the new governor of the Upper Louisiana Territory. It was Wilkinson who dispatched his young friend Zebulon Pike on his expeditions, which fact has suggested to historians that Wilkinson was using the Pike expedition—and indirectly the Lewis and Clark expedition—as means to explore the territory as reconnaissance forces for his own and other conspirators’ attempts to take it over, and perhaps partly as a deliberate provocation to draw the United States and Spain into overt hostilities. After the successful return of the Lewis and Clark expedition, Jefferson in 1807 replaced Wilkinson as governor with Merriwether Lewis. On his way back to Washington to consult with various government officials in 1809, Lewis was either murdered or committed suicide (historians still disagree about this). Wilkinson was court-martialed for some of his various commercial intrigues in 1811, but was not found guilty. His role as a paid agent of Spain was not discovered until three decades after his death in 1825. He died in Mexico City and was buried there.
+
+---
+
+Review of the Library of Congress' online exhibition of [Rivers, Edens, Empires: Lewis and Clark and the Revealing of America.](https://teachinghistory.org/history-content/website-reviews/14789) Review of the Center for Digital Research in the Humanities (University of Nebraska-Lincoln) online exhibition of [Envisaging the West: Thomas Jefferson and the Roots of Lewis and Clark.](https://teachinghistory.org/history-content/website-reviews/14732) Historian Leah Glaser analyzes [Jefferson's confidential letter to Congress](http://teachinghistory.org/best-practices/examples-of-historical-thinking/23420) in which he asked for funds for the Lewis and Clark Expedition.

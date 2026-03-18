@@ -2,8 +2,9 @@
 title: 'T.E.A.C.H.: Teachers Exploring American Culture and History'
 date: '2011-06-15T13:59:40'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24904
 ---
 
+The Montcalm consortium schools are located in a rural central Michigan region that faces persistent challenges, including academic underachievement, poverty, substance abuse, significant achievement gaps and high failure rates on American history achievement tests. Each year, 32 teachers from high-need, low-performing schools will attend two 3-day workshops taught by a team of academic/pedagogy experts from the Smithsonian Institution and a credit-bearing, weeklong summer institute taught by professors from the Central Michigan University history and education departments; in Years 2 and 4, the teachers will participate in summer learning excursions to Washington, D.C., to study with university historians, museum educators and content specialists at the Smithsonian Institution and other historic sites. Teachers from each participating school will attend peer-education forums every two months to explore teacher-identified topics, lesson plan development, modeling and peer education. The project will explore how culture and history have intertwined to shape and steer the American experience and the values and beliefs that define our national identity. Partnerships with the Smithsonian Institution, Central Michigan University and local historic sites/organizations will give the project teachers an opportunity to better understand the social and political conflicts, events and conditions that expanded civil rights, promoted the protection of personal freedom and encouraged the growth of democratic values throughout U.S. history. The project will produce a Web portal for archiving lesson plans, primary sources and material from workshops, seminars and institute lectures. A blog will allow teachers to share best practices and seek advice from peers regarding classroom challenges and content topics.

@@ -2,9 +2,11 @@
 title: 'New Jersey: 11th-Grade Standards'
 date: '2009-02-08T20:14:47'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21305
+grade_levels:
+- high
 ---
 
 (Note: By the completion of twelfth grade, New Jersey students are expected to master the following standards.)

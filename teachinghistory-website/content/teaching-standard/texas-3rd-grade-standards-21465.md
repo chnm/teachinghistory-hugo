@@ -2,9 +2,11 @@
 title: 'Texas: 3rd-Grade Standards'
 date: '2009-02-08T20:16:17'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21465
+grade_levels:
+- elementary
 ---
 
 ## ß113.14. Social Studies, Grade 3, Beginning with School Year 2011-2012
@@ -92,6 +94,7 @@ drupal_nid: 21465
   
 - Economics.
   The student understands how businesses operate in the U.S. free enterprise system. The student is expected to:- Government.
+
     The student understands the purpose of governments. The student is expected to:
     * a. identify examples of how a simple business operates;
     * b. explain how supply and demand affect the price of a good or service;

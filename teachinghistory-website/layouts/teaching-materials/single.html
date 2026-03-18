@@ -1,0 +1,181 @@
+{{ define "main" }}
+{{ $color := partial "section-color.html" .Section }}
+{{ $tint := partial "section-tint.html" .Section }}
+{{ partial "page-hero.html" (dict "title" "Teaching Materials" "color" $color) }}
+
+<main class="flex-1">
+  <div class="flex">
+    {{/* Left column — 1/3, section tint background */}}
+    <aside class="{{ $tint }} w-1/3 p-8">
+      <div class="sticky top-[76px] flex flex-col gap-6">
+
+      {{/* Subsection header + View all link */}}
+      <div>
+        <h3 class="font-heading text-sm font-bold uppercase tracking-wide">{{ .Parent.Title }}</h3>
+        <a href="/{{ .Section }}/" class="text-sm hover:underline">&larr; View all {{ .Section | humanize | title }}</a>
+      </div>
+
+      {{/* ── At a Glance card (lesson plan reviews) ── */}}
+      {{ if or .Params.topic .Params.website_url .Params.duration .Params.grade_levels }}
+      <div class="bg-white rounded shadow-md p-5">
+        <h3 class="font-heading text-lg font-bold mb-4 uppercase">At a Glance</h3>
+
+        {{ with .Params.topic }}
+        <div class="py-3 border-b border-gray-light">
+          <p class="font-heading text-xs font-bold uppercase tracking-wide text-gray-500 mb-1">Topics</p>
+          <p class="text-sm text-dark">{{ . }}</p>
+        </div>
+        {{ end }}
+
+        {{ with .Params.website_url }}
+        <div class="py-3 border-b border-gray-light">
+          <p class="font-heading text-xs font-bold uppercase tracking-wide text-gray-500 mb-1">Website</p>
+          <a href="{{ . }}" class="text-sm text-orange hover:underline break-all" target="_blank" rel="noopener">
+            {{ . | replaceRE "^https?://(www\\.)?" "" | truncate 40 }}
+          </a>
+        </div>
+        {{ end }}
+
+        {{ with .Params.duration }}
+        <div class="py-3 border-b border-gray-light">
+          <p class="font-heading text-xs font-bold uppercase tracking-wide text-gray-500 mb-1">Duration</p>
+          <p class="text-sm text-dark">{{ . }}</p>
+        </div>
+        {{ end }}
+
+        {{ with .Params.grade_levels }}
+        <div class="py-3">
+          <p class="font-heading text-xs font-bold uppercase tracking-wide text-gray-500 mb-1">Grade(s)</p>
+          <p class="text-sm text-dark">
+            {{ delimit (apply . "humanize" ".") ", " }}
+          </p>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{/* ── Lesson Format card (flexibility_scale 1-5) ── */}}
+      {{ with .Params.flexibility_scale }}
+        {{ $scale := int . }}
+        <div class="bg-white rounded shadow-md p-5">
+          <h3 class="font-heading text-lg font-bold mb-4 uppercase">Lesson Format</h3>
+
+          {{/* Circle indicators */}}
+          <div class="flex items-center justify-between mb-3">
+            {{ range $i := seq 5 }}
+              {{ if eq $i $scale }}
+                {{/* Selected — black filled circle with yellow number */}}
+                <div class="w-10 h-10 rounded-full bg-black flex items-center justify-center">
+                  <span class="text-yellow font-bold text-sm">{{ $i }}</span>
+                </div>
+              {{ else }}
+                {{/* Unselected — yellow circle with black number */}}
+                <div class="w-10 h-10 rounded-full bg-yellow flex items-center justify-center">
+                  <span class="text-black font-bold text-sm">{{ $i }}</span>
+                </div>
+              {{ end }}
+            {{ end }}
+          </div>
+
+          {{/* Scale bar with labels */}}
+          <div class="flex items-center gap-1.5 mt-2">
+            <span class="font-heading text-xs font-bold uppercase tracking-wide text-gray-500 shrink-0">Unstructured</span>
+            <svg class="flex-1 h-3" preserveAspectRatio="none" viewBox="0 0 100 12">
+              <defs>
+                <marker id="arrow-l" markerWidth="6" markerHeight="6" refX="0" refY="3" orient="auto">
+                  <path d="M6,0 L0,3 L6,6" fill="none" stroke="#9ca3af" stroke-width="1.5"/>
+                </marker>
+                <marker id="arrow-r" markerWidth="6" markerHeight="6" refX="6" refY="3" orient="auto">
+                  <path d="M0,0 L6,3 L0,6" fill="none" stroke="#9ca3af" stroke-width="1.5"/>
+                </marker>
+              </defs>
+              <line x1="6" y1="6" x2="94" y2="6" stroke="#9ca3af" stroke-width="1" marker-start="url(#arrow-l)" marker-end="url(#arrow-r)"/>
+            </svg>
+            <span class="font-heading text-xs font-bold uppercase tracking-wide text-gray-500 shrink-0">Structured</span>
+          </div>
+        </div>
+      {{ end }}
+
+      {{/* ── Download Lesson Plan pill ── */}}
+      {{ with .Params.website_url }}
+        <div>
+          {{ partial "arrow-button.html" (dict "text" "Download Lesson Plan" "href" . "color" "orange") }}
+        </div>
+      {{ end }}
+
+      {{/* ── Summary card (non-lesson-plan-review pages without At a Glance) ── */}}
+      {{ if and (not .Params.topic) (not .Params.website_url) .Params.summary }}
+      <div class="bg-white rounded shadow-md p-5">
+        <h3 class="font-heading text-lg font-bold mb-3 uppercase">At a Glance</h3>
+        <p class="font-heading text-sm font-semibold mb-1">Description</p>
+        <p class="text-sm text-dark leading-relaxed">{{ .Params.summary }}</p>
+      </div>
+      {{ end }}
+
+      {{/* ── About the Author card ── */}}
+      {{ if or .Params.author_bio .Params.author_image }}
+      <div class="bg-white rounded shadow-md p-5">
+        <h3 class="font-heading text-lg font-bold mb-3 uppercase">About the Author</h3>
+        <div class="flex flex-col items-center mb-3">
+          {{ with .Params.author_image }}
+            <img src="{{ . }}" alt="Author photo" class="w-20 h-20 rounded-full object-cover mb-3">
+          {{ else }}
+            <div class="w-20 h-20 rounded-full bg-gray-light mb-3"></div>
+          {{ end }}
+        </div>
+        {{ with .Params.author_bio }}
+          <div class="text-sm text-dark leading-relaxed">{{ . | markdownify }}</div>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      </div>
+    </aside>
+
+    {{/* Right column — 2/3, white background */}}
+    <div class="w-2/3 bg-white p-8">
+      <article>
+        <h2 class="font-heading text-2xl mb-2 normal-case">{{ .Title }}</h2>
+
+        {{ with .Params.question }}
+          <p class="text-sm text-gray-600 italic mb-4">{{ . }}</p>
+        {{ end }}
+
+        {{ with .Params.splash_image }}
+          <img src="{{ . }}" alt="" class="w-full mb-6">
+        {{ end }}
+
+        <div class="font-body leading-relaxed">
+          {{ .Content }}
+        </div>
+
+        {{/* Related Topics */}}
+        {{ $related := site.RegularPages.Related . | first 2 }}
+        {{ if not $related }}
+          {{ $siblings := .Parent.RegularPages | first 10 }}
+          {{ $related = slice }}
+          {{ range $siblings }}
+            {{ if and (ne .RelPermalink $.RelPermalink) (lt (len $related) 2) }}
+              {{ $related = $related | append . }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        {{ with $related }}
+        <section class="mt-10 pt-6 border-t border-gray-light">
+          <h3 class="font-heading text-lg font-bold uppercase mb-4">Related Topics</h3>
+          <div class="flex gap-4">
+            {{ range . }}
+              {{ partial "content-card.html" (dict "page" . "width" "w-1/2") }}
+            {{ end }}
+          </div>
+        </section>
+        {{ end }}
+
+        <footer class="mt-10 pt-4 border-t border-gray-light">
+          <a href="/teaching-materials/" class="text-sm hover:underline">&larr; Back to Teaching Materials</a>
+        </footer>
+      </article>
+    </div>
+  </div>
+</main>
+{{ end }}

@@ -2,8 +2,22 @@
 title: Chepstow [RI]
 date: '2008-08-06T14:54:43'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 19518
+website_url: http://www.newportmansions.org/explore/chepstow
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Daily Life
+- New England
+tags:
+- Rhode Island
+- homes
+- houses
 ---
 
+An Italianate-style villa, Chepstow was built in 1860 by resident Newport architect George Champlin Mason as the summer residence of Edmund Schermerhorn. Containing the original Morris-Gallatin furnishings together with important 19th-century American paintings and documents from other former Morris family residences, Chepstow is highly evocative of the taste and collections of a descendant of one of America's founding families, placed in the context of a contemporary Newport summer home.
+
+The home offers tours.

@@ -2,10 +2,31 @@
 title: A Day On, Not a Day Off
 date: '2011-01-16T17:59:05'
 lastmod: '2017-12-05T08:46:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24456
 url: /nhec-blog/24456
+date_published: '2011-01-17T00:00:00'
+image_fid: '7029'
+splash_image_fid: '8722'
+summary: Happy Martin Luther King Jr. Day! Celebrate this holiday as a day of public
+  service.
+splash_image: /files/splash-mlk-dosblog.jpg
+image: /files/Untitled.jpg
+grade_levels:
+- elementary
+- high
+- middle
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Reform
+tags:
+- Martin Luther King Day
+- Martin Luther King Jr.
+- Martin Luther King Jr. Day
 ---
 
 Happy Martin Luther King Jr. Day! Since 1994 and the signing into law of the King Holiday and Service Act, the holiday is a "day on, not a day off," a national day of service. According to the [King Center](http://www.thekingcenter.org/king-holiday), King's widow, Coretta Scott King, described the holiday this way:
@@ -19,11 +40,13 @@ President Barack Obama's [United We Serve](http://www.serve.gov/index.asp) initi
 > Helping to preserve history can be service, too!
 
 Use this site to familiarize yourself (and your students, depending on their grade level and readiness to organize projects) with service opportunities in your area. Search by city, state, or zip code; register your own project; or read up on planning a project with the site's detailed [Action Guides](http://mlkday.gov/plan/actionguides/).
+
 Now consider your curriculum and your local community. Don't limit yourself to Martin Luther King Jr. and the Civil Rights Movement, or to the third Monday of January. Think about the Great Depression, the New Deal, the Progressive Era, the women's rights movement, the victory gardens and scrap drives of the World War II homefront, the Berlin Airlift. What sorts of projects might you guide students in initiating (or at least considering) for any of these topics or time periods that would also help them learn—and feel connected to—historical content?
 
 ## Serving to Preserve
 
 Helping to preserve history can be service, too! Listen to teacher James Percoco speak on [teaching with memorials and monuments](http://teachinghistory.org/best-practices/using-primary-sources/24079) and think about your local history. Are there places that need young volunteers? Locations that students could research and then prepare their own interpretive materials?
+
 Use Martin Luther King Jr. Day as a reminder not just to memorialize history, but to empower students to connect with, interpret, and preserve it in the service of the present!
 
 ## Resources on Martin Luther King, Jr.

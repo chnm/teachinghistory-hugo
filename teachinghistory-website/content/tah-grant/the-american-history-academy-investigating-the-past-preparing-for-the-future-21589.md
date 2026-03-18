@@ -2,8 +2,9 @@
 title: 'The American History Academy: Investigating the Past, Preparing for the Future'
 date: '2009-02-10T13:33:41'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 21589
 ---
 
+The American History Academy: Investigating the Past, Preparing for the Future will engage teachers in the process of historical investigation to deepen knowledge of traditional American history and develop understanding of the discipline of history. Teachers will gain the knowledge, resources, and strategies necessary to improve instruction and raise student achievement. Academic historians from the University of California-Davis and Solano Community College will provide content talks and lead source work to provide participants with a thorough review of the American history content outlined in California's standards from the Revolutionary period through the present day. Project teacher- leaders will demonstrate how to incorporate historical thinking and literacy-building strategies into historical investigations and will coach participants to develop similarly structured lessons. Participants will work in grade-specific groups over the course of two years, with eight grade teachers served in the first two years of the grant and eleventh grade teachers in Years 2 and 3. Each year of the two-year groups will have themes, with Year 1 focusing on developing content and disciplinary understanding and Year 2 focusing on fostering communities of practice. Teachers will participate in a pre-service gear-up seminar, a fall seminar, a spring seminar, and a summer institute for each of the two years. Content themes for eighth grade teachers include democracy in the early Republic, the Age of Jackson, and the Civil War, among others. Content themes for eleventh grade teachers include World War II and "Freedom on the March." Specific historical topics covered include New England Puritans, the War of 1812, Abraham Lincoln, the Depression, civil rights, and the Reagan Revolution.

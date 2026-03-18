@@ -2,9 +2,11 @@
 title: 'Connecticut: 8th-Grade Standards'
 date: '2009-02-08T20:07:58'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20966
+grade_levels:
+- middle
 ---
 
 #### Content Suggestion:
@@ -14,6 +16,7 @@ The study of the principles of the U.S. Constitution, with emphasis on events, a
 ### 1.1 – Significant events and themes in United States history.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 1. Create historical timelines and interpret the data presented in the timelines.
@@ -29,15 +32,21 @@ Students will be able to:
 ##### **Correlations**
 
 Critical Thinking and Problem Solving
+
 Civic Literacy
+
 Communication
+
 2, 3, 4. NCSS 1 “Culture”
+
 4, 5,6,7,8, 9,10 NCSS 2 “Time, Continuity and Change”
+
 I&TL: 1, 2, 3, 4, 5, 6, 7
 
 ### 1.2 – Significant events in local and Connecticut history and their connections to United States history.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 11. Analyze the connections between and among local, state and national historical events (e.g. immigration, Civil War participation, trade, manufacturing).
@@ -45,14 +54,19 @@ Students will be able to:
 ##### **Correlations**
 
 Critical Thinking and Problem Solving
+
 Civic Literacy
+
 Financial literacy
+
 11 NCSS 2 “Time, Continuity and Change”
+
 I&TL: 1, 2, 3, 4, 5, 6, 7
 
 ### 1.3 – Significant events and themes in world history/international studies.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 12. Assess the slave trade’s impact on American social institutions.
@@ -62,15 +76,21 @@ Students will be able to:
 ##### **Correlations**
 
 Critical Thinking and Problem Solving
+
 Financial Literacy
+
 Global awareness
+
 Civic Literacy
+
 12, 13, 14 NCSS 2 “Time, Continuity and Change”
+
 I&TL: 1, 2, 3, 4, 5, 6, 7
 
 ### 1.4 – Geographical space and place.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 15. Examine how geography influenced the economic and political development of the United States
@@ -78,7 +98,9 @@ Students will be able to:
 ##### **Correlations**
 
 Critical Thinking and Problem Solving
+
 Communication
+
 Information Literacy
 15. NCSS 3 “People, Places and Environments”
 I&TL: 1, 2, 3, 4, 5, 6, 7
@@ -86,6 +108,7 @@ I&TL: 1, 2, 3, 4, 5, 6, 7
 ### 1.5 – Interaction of humans and the environment.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 16. Weigh the impact of America’s Industrial Revolution, industrialization and urbanization on the environment.
@@ -100,6 +123,7 @@ I&TL: 1, 2, 3, 4, 5, 6, 7
 ### 1.6 – Patterns of human movement across time and place.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 17. Analyze and draw conclusions about the impact of immigration on the United States at different stages in its history.
@@ -107,8 +131,11 @@ Students will be able to:
 ##### **Correlations**
 
 Critical Thinking and Problem Solving
+
 Information Literacy
+
 Communication
+
 Civic literacy
 17. NCSS 3 “People, Places and Environments”
 I&TL: 1, 2, 3, 4, 5, 6, 7
@@ -116,6 +143,7 @@ I&TL: 1, 2, 3, 4, 5, 6, 7
 ### 1.7 – The purpose, structures and functions of government and law at the local, state, national and international levels.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 18. Differentiate the functions (including checks and balances) of the United States’ three branches of government, using contemporary examples.
@@ -123,6 +151,7 @@ Students will be able to:
 ##### **Correlations**
 
 Critical Thinking and Problem Solving
+
 Civic Literacy
 18. NCSS 6 “Power, Authority and Governance”
 I&TL: 3
@@ -130,6 +159,7 @@ I&TL: 3
 ### 1.8 – The interactions between citizens and their government in the making and implementation of laws.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 19. Evaluate the impact of the U.S. Constitution on the lives of U.S. citizens (e.g. amendments, court cases).
@@ -137,6 +167,7 @@ Students will be able to:
 ##### **Correlations**
 
 Critical Thinking and Problem Solving
+
 Civic Literacy
 19. NCSS 10 “Civic Ideals and Practices”
 I&TL: 1, 2, 3, 4, 5, 6, 7
@@ -144,6 +175,7 @@ I&TL: 1, 2, 3, 4, 5, 6, 7
 ### 1.9 – The rights and responsibilities of citizens.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 20. Analyze U.S. citizens’ rights and responsibilities under the Constitution.
@@ -153,16 +185,21 @@ Students will be able to:
 ##### **Correlations**
 
 Critical Thinking and Problem Solving
+
 Civic Literacy
+
 Communication
+
 Information Literacy
 20. NCSS 6 “Power, Authority and Governance”
 21, 22. NCSS 10 “Civic Ideals and Practices”
+
 I&TL: 1, 2, 3, 4, 5, 6, 7
 
 ### 1.10 – How limited resources influence economic decisions.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 23. Analyze how technology has influenced productivity (e.g. cotton gin, steam power, interchangeable parts, telegraph, telephone, manned flight, computers).
@@ -170,6 +207,7 @@ Students will be able to:
 ##### **Correlations**
 
 Critical Thinking and Problem Solving
+
 ITC Literacy
 23. NCSS 7 “Production, Distribution, and Consumption”
 23. NCSS 8 “Science, Technology, and Society”
@@ -178,6 +216,7 @@ I&TL: 1, 2, 3, 5, 6
 ### 1.11 – How different economic systems organize resources.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 24. Analyze the relationship between supply and demand and the prices of goods and services in a market economy.
@@ -185,6 +224,7 @@ Students will be able to:
 ##### **Correlations**
 
 Critical Thinking and Problem Solving
+
 Financial Literacy
 24. NCSS 7 “Production, Distribution and Consumption”
 I&TL: 1, 2, 3, 5, 6
@@ -193,6 +233,7 @@ I&TL: 1, 2, 3, 5, 6
 ### 1.12 – The interdependence of local, national and global economies.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 25. Identify and analyze specific factors that promoted growth and economic expansion in the United States.
@@ -201,6 +242,7 @@ Students will be able to:
 ##### **Correlations**
 
 Critical Thinking and Problem Solving
+
 Financial Literacy
 25. NCSS 5 “Individuals, Groups and Institutions”
 26. NCSS 7 “Production, Distribution and Consumption”
@@ -209,6 +251,7 @@ I&TL:1,2,3,4,5,6, 7
 ### 1.13 – The characteristics of and interactions among culture, social systems and institutions.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 27. Compare similarities and differences of ethnic/cultural groups in the United States (e.g. beliefs, values, traditions) and their impact on American social systems.
@@ -218,7 +261,9 @@ Students will be able to:
 ##### **Correlations**
 
 Critical Thinking and Problem Solving
+
 Civic Literacy
+
 Communication
 27. NCSS 1 “Culture”
 28. NCSS 2 “Time, Continuity and Change”
@@ -232,6 +277,7 @@ Competence in literacy, inquiry, and research skills is necessary to analyze, ev
 ### 2.1 – Access and gather information from a variety of primary and secondary sources including electronic media (maps, charts, graphs, images, artifacts, recordings and text).
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 1. Gather information from multiple print and digital sources.
@@ -244,16 +290,23 @@ Students will be able to:
 ##### **Correlations**
 
 RH-1, 2, 3, 10
+
 RI8-3
+
 WHST- 7, 8
+
 Communication
+
 Information Literacy
+
 ICT Literacy
+
 I&TL: 1, 2, 3, 5, 6
 
 ### 2.2 – Interpret information from a variety of primary and secondary sources, including electronic media (e.g. maps, charts, graphs, images, artifacts, recordings and text).
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 7. Determine the meaning of words and phrases as they are used in a text, including vocabulary specific to domains related to history/social studies.
@@ -272,14 +325,19 @@ Students will be able to:
 ##### **Correlations**
 
 RH-4, 5, 6, 7, 9
+
 RI8- 8, 9
+
 WHST-8 SL8-3
+
 Communication Information Literacy ICT Literacy
+
 I&TL: 1, 2, 3, 5, 6
 
 ### 2.3 – Create various forms of written work (e.g. journal, essay, blog, Web page, brochure) to demonstrate an understanding of historyand social studies issues.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 19. Write arguments using discipline-specific content.
@@ -291,14 +349,19 @@ Students will be able to:
 ##### **Correlations**
 
 RH-1
+
 WHST-1, 2, 6, 8
+
 Communication Information
+
 Literacy
+
 I&TL: 1, 2, 3, 4, 5, 6, 7
 
 ### 2.4 – Demonstrate an ability to participate in social studies discourse through informed discussion, debate and effective oral presentation.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 24. Engage effectively in a range of collaborative discussions and debates (one-on-one, in groups, and teacher-led) with diverse partners on social studies topics and texts, building on others’ ideas and expressing their own clearly.
@@ -308,13 +371,17 @@ Students will be able to:
 ##### **Correlations**
 
 SL8- 1, 4
+
 Communication
+
 Information Literacy
+
 Flexibility and Adaptability
 
 ### 2.5 – Create and present relevant social studies materials using both print and electronic media (e.g. maps, charts, models, displays).
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 27. Evaluate the advantages and disadvantages of using different mediums (e.g. print or digital text, video, multimedia) to present a particular topic or idea.
@@ -323,7 +390,9 @@ Students will be able to:
 ##### **Correlations**
 
 RI8-7 SL8-5
+
 Communication
+
 Information Literacy
 
 ## Standard 3: Civic Engagement
@@ -333,6 +402,7 @@ Civic competence in analyzing historical issues and current problems requires th
 ### 3.1 – Use evidence to identify, analyze and evaluate historical interpretations.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 1. In a group or team, work together to reach a decision on an issue and explain the reasons for the decision
@@ -342,12 +412,15 @@ Students will be able to:
 ##### **Correlations**
 
 Communication
+
 Information Literacy
+
 I&TL:1,2,3,4, 5,6,7
 
 ### 3.2 – Analyze and evaluate human action in historical and/or contemporary contexts from alternative points of view.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 4. Analyze the options available to an individual in a historical or contemporary situation.
@@ -356,12 +429,15 @@ Students will be able to:
 ##### **Correlations**
 
 Communication
+
 Information Literacy
+
 I&TL: 1, 2, 3, 4, 5, 6, 7
 
 ### 3.3 - Apply appropriate historical, geographic, political, economic and cultural concepts and methods in proposing and evaluating solutions to contemporary problems.
 
 **Grade Level Expectations**
+
 Students will be able to:
 
 * 6. Develop a plan of action to provide a solution to a local, state or national issue.
@@ -370,5 +446,7 @@ Students will be able to:
 ##### **Correlations**
 
 Communication
+
 Information Literacy
+
 I&TL: 1, 2, 3, 4, 5, 6, 7

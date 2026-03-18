@@ -2,9 +2,11 @@
 title: 'Iowa: 9th-Grade Standards'
 date: '2012-07-12T17:11:26'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 25670
+grade_levels:
+- high
 ---
 
 (Note: By the completion of twelfth grade, Iowa students are expected to master the following standards.)

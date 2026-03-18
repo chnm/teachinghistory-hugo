@@ -2,8 +2,9 @@
 title: Four Corners Community History Project
 date: '2011-06-06T17:50:24'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24744
 ---
 
+These isolated Four Corners districts in Colorado have many Hispanic and Native American students, and half of the schools are in need of improvement, corrective action, or restructuring. However, project field studies will be able to take advantage of the area’s rich array of artifact sites, national parks, and historic sites. Each year, teachers will participate in pre-institute readings and online coursework, a 6-day summer institute with field trips, a 3-day summer field study, three fall workshops, four learning team meetings, and a capstone meeting where teachers present their project portfolios. A total of five cohorts of 20 to 25 teachers each will complete the 1-year training. A few members of each cohort will be invited to train for a second year to become teacher leaders. The *Four Corners* project aims to make history relevant to students by studying the intersection of native and national story lines, and past, present, and future interconnectedness, using the Ute Tribe as a case study. Historians and instructional specialists will help teachers learn to engage students in investigating family and community histories (e.g., oral histories, photo essays, community mapping). Participants will use a constructivist approach to active learning, work on integrating reading and writing strategies into history instruction, and learn techniques for using problem-based historical inquiry. Each cohort will create an artifact-centered, standards-based exhibit to be housed at Southern Ute Museum, and each exhibit will have a traveling kit with lesson plans for use at schools. Each teacher’s project portfolio will include resources and lesson plans that can be shared with other teachers.

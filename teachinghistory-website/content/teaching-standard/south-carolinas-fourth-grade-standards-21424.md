@@ -2,9 +2,11 @@
 title: South Carolina's Fourth Grade Standards
 date: '2009-02-08T20:16:08'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21424
+grade_levels:
+- elementary
 ---
 
 ### SC.4-1. Standard / Course: United States Studies to 1865

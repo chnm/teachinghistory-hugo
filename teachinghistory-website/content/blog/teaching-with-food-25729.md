@@ -2,13 +2,32 @@
 title: Teaching with Food
 date: '2012-09-04T14:40:51'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25729
 url: /nhec-blog/25729
+date_published: '2012-10-15T00:00:00'
+image_fid: '9542'
+splash_image_fid: '9541'
+summary: Teach with all five senses, including taste!
+splash_image: /files/splash-foodways.jpg
+image: /files/image-foodblog.jpg
+time_periods:
+- All
+- General
+topics:
+- Consumer Culture
+- Daily Life
+tags:
+- cookbooks
+- cooking
+- food
+- foodways
+- recipes
 ---
 
 We need food to live, but don't always think about where food that comes from. We carry foods and foodways with us as we immigrate, emigrate, or migrate. We share food and celebrate with it. Every bite we eat has a long history involving geography, trade, science, technology, global contact, and more.
+
 Take advantage of this rich history by asking questions about the foods students love. These seven links can get you started on taste-testing the past:
 
 * Reenactors make colonial foods at Colonial Williamsburg's [*History is Served*](http://recipes.history.org/)—from pink pancakes to chicken surprise.
@@ -20,4 +39,5 @@ Take advantage of this rich history by asking questions about the foods students
 * From farm to factory and kitchen to table, what does the government have to say about the foods we eat? The National Archives' [*What's Cooking, Uncle Sam?*](http://www.archives.gov/exhibits/whats-cooking/preview/index.html) takes a look.
 
 Remember that there are many ways of bringing food history into the classroom. *American Girl* author Valerie Tripp describes how she writes for hands, noses, tongues, and ears, not just eyes, in our [blog](http://teachinghistory.org/nhec-blog/25031).
+
 From cooking tools to songs about food, from the smells of spices to the taste of hardtack, explore the history of food with all five senses.

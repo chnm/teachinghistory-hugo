@@ -1,0 +1,148 @@
+---
+title: Tippecanoe and Walking Canes Too
+date: '2011-08-21T01:41:33'
+lastmod: '2017-12-05T08:46:32'
+content_type: ask_a_historian
+draft: false
+drupal_nid: 25094
+question: Is there an account of the U.S. president at the dedication of the Tippecanoe
+  battlefield presenting a cane cut from a sapling near the battlefield to Captain
+  Jacob Warrick’s widow? A cane has been handed down to the oldest son carrying the
+  Warrick name.
+url: /history-content/ask-a-historian/25094
+splash_image_fid: '7961'
+summary: A family’s oral history intersects with larger events in U.S. history.
+splash_image: /files/battle-tippecanoe.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Midwestern States
+- Military History
+- Politics
+tags:
+- Battle of Tippecanoe
+- Indiana
+- Jacob Warrick
+- Tecumseh
+- William Henry Harrison
+---
+
+This is the sort of question that motivates family genealogists (the question was submitted by a Warrick descendent) to spend years traveling to archives, poring through dusty bound volumes of local newspapers, small-run pamphlets, and family papers—in this case, perhaps, the Tippecanoe County Historical Association, the Gibson County Historical Society, the Indiana Historical Society in Indianapolis (for example, in its clipping file on the battle of Tippecanoe) or the Library of Congress in Washington, DC (for example, in its collected papers of William Henry Harrison). This particular question, however, also touches on people and events that are of wider interest outside the Warrick family, so I have spent some time researching an answer.
+> This question touches on people and events that are of wider interest outside the Warrick family.
+
+In short, I can’t locate any such account of an event similar to the one described, although I don’t have access to a complete set of Indiana newspapers from the time. So an account of such an event, if it occurred, might still be sitting in an archive somewhere, perhaps in a collection of the *Lafayette (Indiana) Free-Press*. However, it seems to me more probable that, while a cane made from wood cut from the battlefield may well have been made and presented to Warrick’s widow or his son in the years immediately after the battle, it was likely not given to her or him by a sitting U.S. president at a commemorative event at the battlefield.
+
+## Who Was Jacob Warrick?
+
+Jacob Warrick (in some sources, referred to as “Warwick”) was born in Virginia in 1773. He married Jane (“Jennie”) Montgomery in 1796 in Clark County, Kentucky. They had seven children, four of whom were sons: Montgomery Warrick (1797-1834) (who served as private in the Indiana Militia during the War of 1812), John Warrick (1803-1847), Henry Clay (“Harry”) Warrick (1805-1824), Jacob G. Warrick (1807-1858) (who was a soldier in the Blackhawk War, 1831-32, and there became an acquaintance of Abraham Lincoln, who also served), and John C Warrick (1811-1847).
+
+In 1784 Warrick moved to Fayette County, KY, and settled near Lexington, where he began a lifelong friendship with Henry Clay. At the age of 21 he enlisted in the Kentucky Militia. Under the command of General Anthony Wayne, Warrick fought along with the young William Henry Harrison at the Battle of Fallen Timbers in 1794 against a force of confederated Indian tribes under Miami chief Little Turtle and Shawnee chiefs Blue Jacket and Tecumseh. Warrick became a captain in the militia.
+
+In 1806, he emigrated west with his family to Indiana, settling in Knox (now Gibson) County, near the present town of Owensville. He brought with him several slaves, cattle, horses, and money. In 1807, he led a group of settlers there who burned the last Indian village in Gibson County, and drove away the few remaining Indians in 1809.
+
+## Warrick at the Battle of Tippecanoe
+
+In 1811, President James Madison notified Congress that he was authorizing the formation of a military expedition in the Indiana Territory, to confront Indians who had killed several white settlers and burned crops, but also to break up the menacing preparations of a large group of Indians on the Wabash River under the influence and direction of a “fanatic” of the Shawnee Tribe.
+
+The “fanatic” was Tenskwatawa, who was Chief Tecumseh’s younger brother. Tenskwatawa was called “the Prophet” because he had become a spiritual visionary who foretold the defeat of white settlers, partly through the protection his own magical powers would provide Indian warriors in battle. Hundreds of young warriors from many tribes had gathered at his settlement, which whites called “Prophetstown,” near the Wabash River. These included men from the Wyandot, Miami, Delaware, Ottawa, Chippewa, Kickapoo, Potawatomi, Winnebago, Sauk, and Shawnee tribes.
+
+Meanwhile, Tecumseh himself set out on an extended trip to enlist Indian tribes across the territory in a confederacy of militant opposition to white settlement and, eventually, recover Indian land. They were encouraged and supported by British agents and military to the North, and were generously supplied by them with rifles, ammunition, gunpowder, tomahawks, and war clubs.
+> Tecumseh set out to enlist Indian tribes across the territory in a confederacy of militant opposition to white settlement.
+
+General William Henry Harrison, who was then Governor of the Indiana Territory, ordered military companies to be raised. Jacob Warrick raised a company of about 80 men, marched them to Vincennes—at that time the capitol of the Territory—where they joined Harrison’s main force, then up the Wabash River to outside “Prophetstown,” where Harrison intended to disperse the Indians gathered there, either peacefully or by force.
+
+When Harrison’s force of about 900 men came close to Prophetstown, Indians from the settlement rode out to him, declared that they had only peaceful intentions and asked for a council between Harrison and the chiefs of the tribe the following day.
+
+Harrison agreed and had his men set up camp on wooded high ground nearby, making sure to order pickets and to have everyone sleep “on their loaded guns” and dressed, deployed about the camp in a triangular defensive formation, with Captain Warrick and his men near the acute angle to the South.
+
+Hundreds of Indians began a surprise attack on the camp while it was still dark on November 7, 1811, at 4:45 in the morning. The first Indian attack against Warrick’s men and others occurred at the Southern end of the camp. The fighting was intense and lasted more than two hours before the Indians pulled back.
+
+General Harrison’s official report on the battle says, “Captain Warrick was shot immediately through the body and taken to the surgery [the field hospital located some distance within the lines of the encampment] to be dressed. As soon as it was over, being a man of great bodily vigor and able to walk, he insisted on going back to the head of his company, although it was evident that he had but a few hours to live.” He walked back to his place and held it until the battle was over. He then dictated his will to his second-in-command, Captain James Smith, and died around 10 o’clock that morning.
+> They did not really know if they had just suffered a defeat or gained a victory.
+
+All in all, 62 of Harrison’s men were killed or mortally wounded in the battle. About 125 were less seriously wounded. The Indians probably lost about 50 men killed and perhaps 70 or 80 wounded. They had left 38 of their dead on the battlefield and carried the bodies of others back to their village.
+
+That day Harrison’s forces were unsure of what would follow, and they spent that day fortifying their camp. They also buried their own dead, including Jacob Warrick, in nine graves, and then built fires over the graves’ loose earth in an effort to conceal what lay under them. They did not really know if they had just suffered a defeat or gained a victory.
+
+The next day, Harrison dispatched Major General Samuel Wells, of the 4th Kentucky militia, with a detachment of dragoons and mounted riflemen, to reconnoiter the Indian village. They discovered that it had been hastily abandoned. They also found pigs and chickens, which they took back with them, and as much corn as they could carry. The rest of the corn they destroyed, and burned the town and its fortifications and returned to camp with the news.
+
+One source says that the soldiers also scalped the bodies of the dead Indians that lay on the field, and that the scouting party led by Wells located the Indians’ graveyard at Prophetstown, unearthed bodies there—perhaps the warriors killed in the battle—scalped them, and left the bodies on the ground.
+
+The following day, on the 9th, Harrison’s force began its return down the Wabash. The day after that, Indians began returning to the area. Some then deliberately located the soldiers’ graves, dug up the bodies, scalped them, stripped and further mutilated the bodies, and scattered the bones and other remains about the deserted camp. Apparently, the Indians were paying back the soldiers for their comrades’ desecration of the Indian burial ground.
+
+The battle had been a closely fought affair. The Indian forces massed at Prophetstown had been dispersed, at least for a while, and when Tecumseh returned and discovered that his brother had initiated an attack, he found that his chances for coalescing a strong Indian confederacy to block white advances had been much reduced. So on those counts, anyway, Harrison had won a tactical and strategic victory.
+> Another army force under General Samuel Hopkins had to be dispatched the following year.
+
+But neither Tecumseh nor his brother were decisively defeated at Tippecanoe; in fact another army force under General Samuel Hopkins had to be dispatched the following year with the aim of destroying Prophetstown again, which Indians had rebuilt. Hopkins probably briefly examined the site of the previous year’s battle, and gathered up a few of the bones on the ground that he could see under the snow that had fallen at that time.
+
+After Captain Warrick’s death, his widow, Jane, married Dr. John Maddox in 1813. They moved away from Indiana, only returning in 1825. Dr. Maddox died in 1826, but she remained in Gibson County until she died in September 1846.
+
+In the years that followed the Battle of Tippecanoe, interest in assessing its outcome and significance peaked at times that coincided with General Harrison’s campaigns for the presidency in 1836 (in which he lost to Martin Van Buren) and in 1840 (in which he won over Van Buren). Harrison’s supporters portrayed the battle as a great victory and the General’s character as solidly heroic. Van Buren’s supporters, on the other hand, portrayed the battle as a disaster and the General’s character as timorous and feckless. It was during the run-up to Harrison’s presidential campaigns that the public focused closely on the battlefield, and it came to be used at those times to stage massed patriotic ceremonies displaying political allegiances.
+
+## Later Events at the Battleground
+
+John Tipton, one of the survivors of the battle, revisited the battleground about 1820 and collected more of the scattered bones of his fellow soldiers. In 1821, a group from Terre Haute traveled to the site, collected more of the bones and covered them in the earth, marking the spot by a large stone. On July 4th of that year, reported the *Cleveland Daily Herald* in a historical retrospective some years later, “a numerous assemblage of persons, among whom were many of the survivors of the battle and relations of the fallen, met upon the battle ground, and having collected the scattered and bleached bones, placed them together in a large coffin bearing upon the lid the inscription in gilded letters, ‘Rest, Warriors, Rest,’ and re-interred them with the honors of war, upon the side of the hill on the right of the encampment ground.”
+
+General Harrison visited Princeton, IN, in October 1826, and was honored there with a formal dinner, whose attendees included officers from the battle of Tippecanoe. Harrison denied any wrongdoing at Tippecanoe and mentioned Captain Warrick: “But, gentlemen, the declarations you have made and the splendid reception you have now given me, acquits me of being the author of the mourning in which almost every family in this settlement was once clothed.
+> Harrison denied any wrongdoing at Tippecanoe and mentioned Captain Warrick.
+
+This is a point upon which you could not, you dare not, flatter me—after such treachery to themselves, and the heroic dead who fell fighting under their immediate orders, my gallant friend whom I have in my eye, and his worthy associates, could not sleep quietly in their beds; nor should I be surprised if the ghosts of Warwick and Spencer, should now appear to us, and, shaking their gory locks at their old associates, bearing their bleeding bosoms, and pointing to me, should exclaim, ‘twas he that did it’—but, I repeat, gentlemen, that I have nothing of this kind with which to reproach myself.”
+
+In 1829 Tipton bought the land on which the battle was fought in order to protect it and convey it to the state of Indiana for safekeeping (on November 7, 1836, the 25th anniversary of the battle, he completed his donation of the 16-acre site to Indiana. Nevertheless, cows would continue to graze on the site and vandals would cut down some of the oak trees that had been scarred by gunfire—perhaps to make souvenirs, like canes?). Tipton became a member of the Indiana Legislature (and later a U.S. Senator) and while in the state legislature made sure that several of Indiana's counties were named after his fallen comrades from Tippecanoe—Warrick County, for example.
+
+In October 1830, arrangements were made to re-inter the soldiers’ bones reported the *Indiana Journal* on November 3, 1830, in the article, “Tippecanoe Battle-Ground.” General Harrison was invited to the ceremonies, but was prevented by illness from coming. About a thousand people attended, among them was a son of General Harrison and—as one of the two chief mourners—a son of Captain Warrick, with a few of the survivors of the battle, who made up a solemn funeral procession. The bones were collected and put into one coffin and re-interred with the honors of war and an eloquent eulogy. No previous, current, or future U.S. president attended. However, we do find here other aspects of the scenario described in our question: It was a "dedication," of sorts, at the battleground, and Warrick's son (and perhaps other family members—Jane Maddox, Warrick's widow, had returned to Indiana by this time) was present and was honored there. The accounts of the occasion do not mention the presentation of a cane or canes, but this might have occurred.
+> The accounts of the occasion do not mention the presentation of a cane.
+
+Andrew Jackson was president at this time and did not attend the ceremony, but it is certainly possible that he could have sent a cane to be presented at or around that time.
+
+General Harrison did return to the site in the summer of 1835. He visited the battleground and in an address there said, “Teach the young men, from the examples of Daviess and Spencer and Warwick and White, and those who fell with them, to be ready, when the emergency arises, to die for their country.” He was also given formal dinners near the battleground in the towns of Lafayette, Vincennes, and Rockville. On one of those occasions he remarked, of the soldiers buried at the site, “A rude enclosure protects their remains, and the stranger passes unconscious from any sign that meets the eye, save the scathed ring of the forest trees, that the ground is hallowed by deeds of chivalry, and that the bones of our brethren are resting there!”
+
+Harrison, however, did not make it to Tippecanoe for the battle’s 24th anniversary celebration in November, 1835, but sent his regrets, and in a long letter describing the battle, which was read to the 2,000 people at the day’s ceremonies (including some who fought at Tippecanoe, but, again, no U.S. president), he described, “The indomitable Warrick [who] came fresh from the guidance of the plough, to display a more than Roman courage at the head of his friends and neighbors.”
+
+A great convention was held at the battleground on May 29, 1840, during the run-up to the presidential election that year, which Harrison, the “hero of Tippecanoe” would win. Detailed accounts of the weekend-long summer convention do not mention Captain Warrick’s widow or children at the event, although many aged veterans of the battle did attend among the perhaps 30 thousand people there. Harrison did not attend either, as he felt it would be inappropriate for a candidate to attend what amounted to a giant rally for him (presidential campaigning was different in those days). No presidential candidate or holder of the office was present for the event, and the newspaper accounts are silent as to whether Warrick’s aged widow or any other member of the Warrick family was there.
+
+Although the battleground became the property of the state of Indiana in 1836, there was no dedication of the site then.
+> Although the battleground became the property of the state of Indiana in 1836, there was no dedication of the site then.
+
+Nor did the state do much to protect the spot. It was not until 1873 that the legislature appropriated the money to replace the crude wooden picket fence around the site with an ornate iron fence and gate. In the meantime, a Methodist summer camp had been built on the property immediately adjacent to the battleground and a railroad track laid along one side of it.
+
+The Tippecanoe Battlefield Monument Commission was formed in 1892, and a marble obelisk battle monument was erected in 1908 on the site and dedicated on November 7, 1908. President Taft did not attend the dedication ceremony, nor was any member of the Warrick family mentioned in the local newspaper account of the occasion. A few years later, on November 7, 1911, the centenary of the battle, a reenactment of the battle was held on the site.
+
+## A Presentation Cane
+
+General Harrison—who did, of course, eventually become president—was generous with the survivors of the soldiers who died in the Battle of Tippecanoe, contributed to the support of some of their widows and provided for the education of some of their children, and even hosted them annually at his home in North Bend, OH, years later, so it would be entirely in keeping with his character to have a ceremonial cane made and to present it to the Warrick family (and to others), although I have not seen a record of such a gift.
+
+Presentation canes were often made and presented to mark memorable events, such as battles, and to honor their recipients. On Harrison’s inauguration day, for example, the new president was himself presented with a walking cane “made of part of the coach of General Washington, richly mounted, and bearing an appropriate inscription.”
+
+Historians of the presidential campaigns regard the hyper-emotional campaigns of 1840 as a kind of watershed in the production and use of campaign paraphernalia. Collectors of campaign gewgaws can find Tippecanoe songbooks and sheet music, Tippecanoe badges, Tippecanoe banners, Tippecanoe handkerchiefs, Tippecanoe flags and paper lanterns, Tippecanoe medals and ribbons, Tippecanoe almanacs, and Tippecanoe shaving soap. There was even William Henry Harrison Ale. Harrison’s “image,” as we would say today, was shaped into that of a simple, honest, and brave backwoodsman, who lived in a log cabin and preferred hard cider to the imported wines of the Eastern elite. Whigs erected many temporary “log cabins” across the country for the duration of the campaign, which served as local party headquarters and rallying points for campaign speeches and parades.
+
+And there were Tippecanoe walking canes. The order for the Tippecanoe Club celebration in Indianapolis in October 1840 notes the accompanying parade’s protocols. It says, “The Assistant Marshals may be designated by a citizen’s dress, with a blue scarf, and a Tippecanoe cane with a blue ribbon on it." Recently, an auction house offered for sale to collectors such a cane, made of oak and surmounted by a carved ivory barrel with the words “Hard Cider” on one end of the barrel and “Tippecanoe” on the other.
+
+Were at least some of them made from wood cut from the Tippecanoe battle site, as the Warrick cane is said to have been? Yes, at least according to a notice published in the Washington, DC newspaper, *The National Intelligencer*, placed there by Indiana Whig Congressman, James Rariden, on June 13, 1840:
+
+*The undersigned has the pleasure to announce the receipt of a Cane, cut off the Tippecanoe battle-ground, by the Log-Cabin and Hard-Cider boys of Tippecanoe county, Indiana, to be in their name presented to each of the members of the 25th Congress who have enlisted with the People, and form a part of the national militia. They are presented as a pledge to a common cause, from which no stealthy or midnight assault shall divert them; no threats or menaces deter them; nor promises seduce them. As a pledge, that though their wages may be reduced to those of the bond-men of Europe and Asia, and their log-cabins filled with hunger and nakedness by the desolating course of those who, in the night of confidence, have stolen into power—that all this will they endure in defence of the sacred legacy of Republicanism, bequeathed them by their fathers, to be transmitted unimpaired to the generations that are to come after them.*
+
+Confirming that presentation canes were indeed cut from the woods at the Tippecanoe battleground is as close as I can get, through the historical sources, to the Warrick cane. But now that I've spent some time researching Jacob Warrick, I'll raise a glass to him this November 7th, the bicentennial of the Battle of Tippecanoe.
+
+---
+
+Alfred A. Cave, *Prophets of the Great Spirit*. Lincoln: University of Nebraska Press, 2006.
+
+Freeman Cleaves, *Old Tippecanoe: William Henry Harrison and His Time*. Newtown, CT: American Political Biography Press, 1990.
+
+Catherine Dike, *Canes in the United States: Illustrated Mementoes of American History, 1607-1953*. Ladue, MO: Cane Curiosa Press, 1994.
+
+R. David Edmunds, *The Shawnee Prophet*. Lincoln: University of Nebraska Press, 1985.
+
+Roger A. Fischer, *Tippecanoe and Trinkets Too: the material culture of American presidential campaigns, 1828-1984*. Urbana: University of Illinois Press, 1988.
+
+A. J. Langguth, *Union 1812: The Americans Who Fought the Second War of Independence*. New York: Simon and Shuster, 2006.
+
+George H. Meyer and Kay White Meyer, *American Folk Art Canes: Personal Sculpture*. Seattle: University of Washington Press, 1992.
+
+Robert Martin Owens, *Mr. Jefferson’s Hammer: William Henry Harrison and the Origins of American Indian Policy*. Norman, OK.: University of Oklahoma Press, 2007.
+
+Jeffrey B. Snyder, *Canes and Walking Sticks: A Stroll through Time and Place*. Atglen, PA.: Schiffer, 2004.
+
+[Papers of the War Department](http://wardepartmentpapers.org/)

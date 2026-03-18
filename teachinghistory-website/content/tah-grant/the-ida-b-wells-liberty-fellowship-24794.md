@@ -2,8 +2,9 @@
 title: The Ida B. Wells Liberty Fellowship
 date: '2011-06-09T20:43:42'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24794
 ---
 
+Washington Township Public Schools, a New Jersey school district 20 miles southeast of Philadelphia, serves a culturally and linguistically diverse student population. Student performance on state benchmark assessments in U.S. History has been poor. To help teachers improve student achievement in this area, the Ida B. Wells Liberty Fellowship will offer several professional development activities each year: a 2-day fall colloquium, a 2-day winter colloquium, 2 half-days of research and review, and a 3-day summer institute. Fellows will use the American Institute for History Education's Twelve Effective Steps to Optimum Teaching to research and create historical narratives and lessons, which will be refined through classroom observations and real-time feedback from coaches and peers via thereNow's IRIS. A monthly series of Talking History Webinars and online access to CICERO teaching resources will be available to teachers throughout the district. The program will accommodate 40 fellows each year; 5 experienced teachers from the initial cohort will be trained as teacher-leaders, and they will replicate portions of the fellowship training to help all district history teachers create a lesson or activity each year. The program's thematic focus will be on how geography, economics, and political thought contributed to events in traditional American history. Fellows will be trained to use the American Institute for History Education's Signature Strategies, including the Binary Paideia paradigm for teaching children to compare and contrast information as they research and analyze history. A fellowship Web site will publish historical narratives, lessons that incorporate state standards and other useful materials for history teachers.

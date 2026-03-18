@@ -2,25 +2,45 @@
 title: A Window into U.S. History Themes
 date: '2011-12-07T10:40:21'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25339
+author_bio: Rebecca Hanly has served as project director and museum/historical society
+  partner on several TAH grants in Kentucky since 2002. She holds an MA in history
+  from the University of Kentucky.
+author_image_fid: '8747'
+summary: A 1978 Ford LTD. Coppertone SPF 2 suntan oil. . .. Material culture allows
+  students to make sense of the items in a way that more traditional primary sources
+  don’t always permit.
+author_image: /files/author_image/author_hanly.jpg
+tags:
+- artifacts
+- material culture
+- museums
+- traveling trunks
+- travelling trunks
 ---
 
 A 1978 Ford LTD. Coppertone SPF 2 suntan oil. A cassette tape of *Chicago 17* playing on an oversized, yet portable stereo. These three items of material culture help tell the story of my coming of age years in the 1980s. With them (or with images of them) I can engage students in a historical narrative that might come across something like this in a textbook: "In the 1970s, American auto manufacturers continued building the same large, tank-like cars with poor fuel efficiency that they had been making since the 1950s. The dangers of skin cancer were still not widely known or heeded as sunbathers used suntan oil as a means of accelerating the tanning process rather than blocking it. Cassette tapes replaced eight-tracks and portable 'boom boxes' crept into youth culture."
 > …the appeal of displaying artifacts…is the sense that…the viewer makes his or her own sense of the items, unlike a history textbook or classroom lecture where an authority tells one what is important.
 
 In the now classic *The Presence of the Past: Popular Uses of History in American Life*, Roy Rosenzweig and David Thelen argue that Americans place more trust in museums and what they say about the past than they do in history textbooks or even history teachers. ([1](#note1)) I see a clear link between their findings (Rosenzweig and Thelen interviewed over 1,000 Americans to come up with their thesis) and the value of using material culture in the U. S. history classroom.
+
 Though good museums (and good teachers) have learning objectives in all that they do, the appeal of displaying artifacts, they argue, is the sense that the experience is unmediated and the viewer makes his or her own sense of the items, unlike a history textbook or classroom lecture where an authority tells one what is important. A picture of a funny-looking old car, a bottle of suntan oil, and a cassette tape are much more accessible and less intimidating to students as pieces of historical evidence than books and documents. But with these artifacts, I can still tell a story in which several themes of late 20th-century U. S. history come into focus—suburbanization, the ongoing struggle for desegregation in public schools, the 1970s oil crisis, the slow decline of the American auto industry, the advent of cancer awareness, and the last gasp of faceless music—that which came before MTV.
 > Material culture can be an important piece of evidence to help students understand the lives of the not so rich and famous.
 
 U.S. history teachers realize that students need to know more than just the names of important political figures or the dates when certain battles took place. The new social history of the 1960s, which continues to this day, means that we place value on the stories of all people, all perspectives. But to find out about all those different historical actors we must sometimes go beyond traditional primary sources.
+
 Material culture can be an important piece of evidence to help students understand the lives of the not so rich and famous. As in my example, having students bring in a few items that help tell the story of their lives as an introductory activity can help broaden their idea of what a primary source is. To keep it from becoming just a trip “down memory lane,” insist that students choose their items as pieces of evidence that help answer a larger historical question, posed by you in the original assignment. The work of Daisy Martin and the [Stanford History Education Group](http://sheg.stanford.edu/) (SHEG) have greatly influenced my thinking in this regard.
+
 While it is important to recognize that material culture, or artifacts, are a specialized kind of primary source and may require specialized analytical tools, basic questions such as who created this, who used it, when did they use it, and why did they use it fit well within the same “Reading Like a Historian” framework that SHEG developed for reading more traditional sources.
+
 While my examples so far have focused on recent U. S. history, delving into 18th- and 19th-century U. S. history using material culture is also possible. Many museums have developed “traveling trunks” based on themes such as frontier life, Civil War soldiers, and immigration to Ellis Island, that teachers can request for free or just the cost of shipping. ([2](#note2))
+
 Resourceful teachers can assemble their own traveling trunks by gathering materials from antique stores, museum gift shops, yard sales, and attics. Giving students the opportunity to see and touch items of material culture provides a tactile, and even emotional, connection to the past that can be of great benefit to U.S. history teachers wishing to broaden students’ view of what history is and who played an important role in it.
 
 ## Footnotes
 
 [1](#fn1) Roy Rosenzweig and David Thelen, *The Presence of the Past: Popular Uses of History in American Life* (New York: Columbia University Press, 1998), 91.
+
 [2](#fn2) See [here](http://www.civilwar.org/education/teachers/travelingtrunk.html) for an example.

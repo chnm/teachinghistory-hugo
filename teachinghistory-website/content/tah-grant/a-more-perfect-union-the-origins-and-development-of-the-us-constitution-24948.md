@@ -2,8 +2,12 @@
 title: 'A More Perfect Union: The Origins and Development of the U.S. Constitution'
 date: '2011-06-15T17:16:07'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24948
+grade_levels:
+- high
+- middle
 ---
 
+U.S. history teachers in these South Dakota districts have expressed an interest in more opportunities for content-related professional development and interactions with historians. The project will include face-to-face meetings in which historians will lecture and lead discussions, and teachers will use 21st-century partnership teaching tools to create a curriculum. Teachers also will participate in asynchronous distance learning through structured online book discussion groups, blogs, webinars and podcasts. The project will involve 60 teachers over all five years. The content will focus on the early national period, including historical foundations and philosophical debates relating to the Constitution; controversies, successes and constitutional transitions through the Civil War period; deepening divisions caused by the legacy of slavery and the ultimate test of the Constitution —the Civil War and Reconstruction; the transition from an agrarian to an industrialized nation; and changes of the modern era resulting from two world wars, the Cold War and the civil rights movement. The project will examine constitutional concepts, key U.S. Supreme Court decisions, the three branches of government and periods of constitutional crises. The teachers will work with resources provided by the National Constitution Center, Library of Congress, Organization of American Historians and other organizations. They also will have access to various books, documents and electronic and multimedia resources. Dakota Wesleyan University will award six graduate credits per year for completing the activities. A Web site will host all project-generated teaching materials, including curricula tied to specific sections of the Constitution. In addition, participants will present and discuss their work at summer institute.

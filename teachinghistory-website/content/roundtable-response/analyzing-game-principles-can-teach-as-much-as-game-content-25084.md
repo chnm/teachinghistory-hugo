@@ -2,13 +2,26 @@
 title: Analyzing Game Principles Can Teach as Much as Game Content
 date: '2011-08-18T10:05:10'
 lastmod: '2017-10-06T15:21:32'
-type: roundtable_response
+content_type: roundtable_response
 draft: false
 drupal_nid: 25084
+author_bio: 'Jeremiah McCall, PhD, teaches high school history at Cincinnati Country
+  Day School. He is the author of *Gaming the Past: Using Video Games to Teach Secondary
+  History*. He also maintains the site [gamingthepast.net](http://gamingthepast.net/).'
+author_image_fid: '7950'
+summary: '[Games] have a promising future in the teaching of history as a more investigative,
+  arguable, immersive, evidence-based discipline, rather than simply as a subject
+  consisting of established facts.'
+author_image: /files/author_image/authorphotojeremiahmccall75x75_0.jpg
+tags:
+- games
+- gaming
 ---
 
 *Note: This essay focuses on simulation games, defined as those that represent the real world in some defensible ways. Most serious digital games can be considered simulation games.*
+
 Without question historical simulation games offer effective tools to learn the skills of a historian and the content of history. Simulation games offer dynamic and manipulable models of the world, interactive interpretations of how and why things have happened in the past.
+
 To offer just a few examples:
 
 * The hypothesis that geography dictates the success of civilizations is    embodied in the *Civilization* series of games.
@@ -19,6 +32,7 @@ These are defensible—though certainly debatable—interpretations of the world
 > ...simulations offer great opportunities for students to test out assumptions and dissect interpretations of reality, engaging them in ways that are difficult with other media.
 
 Unlike the text versions of these and other theses, the power of the historical interpretations in simulation games comes from their interactivity. A lecture or reading, for example, can present the problems of scarcity all societies face, but the presentation is fixed and cannot be manipulated.
+
 In an effective simulation game, however, the player can face virtual conditions of scarcity, make decisions, and see the effects of those decisions over time. Better still, a simulation game can be played many times, and players can test how different decisions lead to different outcomes. Because simulation games are fundamentally sets of related variables, the player can set some variables (say, the tax rate), and see their effects on others (say, the job growth rate). This means simulations offer great opportunities for students to test out assumptions and dissect interpretations of reality, engaging them in ways that are difficult with other media.
 
 ## Games Can Impart Historians' Skills
@@ -36,5 +50,7 @@ Simulations have a promising future in the teaching of history as a more investi
 ## The Caveats
 
 There are two critical requirements, however, for using simulation games as serious tools for studying the past. *First, simulations must be checked against other sources of evidence, not passively accepted at face-value.* In such a critique, both the strengths and flaws of the game's models are useful. Students can learn just as much by researching and exposing a flawed model as by supporting a valid proposition.
+
 *Second, the teacher must play the critical role as the expert guide to using historical skills in the class*. The teacher is the conductor and facilitator, ensuring that students formally observe the games they play, ask questions about the games and the world, and form criticisms based on historical evidence. The teacher reminds students what it means to think as historians and guides them in forming their own evidence-based conclusions.
+
 Employed effectively, simulation games can train students to be sophisticated systems-thinkers and analysts of evidence, open to many possibilities for causes and effects, but knowing the difference between valid and invalid arguments. They can play a powerful role training students how to use the skills of professional historians to be effective and positive agents in the 21st century.

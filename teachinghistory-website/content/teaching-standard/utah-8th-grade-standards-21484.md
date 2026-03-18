@@ -2,12 +2,15 @@
 title: 'Utah: 8th-Grade Standards'
 date: '2009-02-08T20:17:15'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21484
+grade_levels:
+- middle
 ---
 
 (Note: For grades 7–12, Utah provides standards by course, instead of by grade level. Courses to be covered in grades 7–12 are Utah Studies, U.S. History I, U.S. History II, Geography for Life, World Civilizations, and U.S. Government and Citizenship.
+
 Utah public schools have also adopted the Common Core Standards for [Reading for Literacy in History/Social Studies](http://www.uen.org/commoncore/downloads/6-12RdgLit_in_Hist_SS.pdf) and [Writing for Literacy in History/Social Studies](http://www.uen.org/commoncore/downloads/6-12Wrtng_for_Lit_in_His_SS_Sci_Tech.pdf) for grades 6–12.)
 
 * ### UT.1. Standard: Utah Studies

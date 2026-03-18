@@ -2,8 +2,24 @@
 title: Sherwood-Jayne House [NY]
 date: '2008-08-27T15:53:25'
 lastmod: '2017-12-01T13:56:09'
-type: historical_site
+content_type: historical_site
 draft: false
 drupal_nid: 19579
+website_url: http://www.splia.org/hist_sherwood.htm
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- Mid-Atlantic
+tags:
+- New York
+- homes
+- houses
 ---
 
+The 18th-century Sherwood-Jayne house is located in a bucolic setting with sheep grazing in the adjoining pasture. Hand-painted floral wall frescoes imitating expensive wallpaper decorate the east parlor. The property has retained its 19th-century agrarian context—hayfields, meadows, woodlot, and orchard.
+
+The site offers tours and educational programs.

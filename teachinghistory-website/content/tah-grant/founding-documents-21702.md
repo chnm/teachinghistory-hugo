@@ -2,8 +2,9 @@
 title: Founding Documents
 date: '2009-02-10T13:34:23'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 21702
 ---
 
+About half of the questions on the Wisconsin Knowledge and Concepts Examination (WKCE) in history deal with U.S. history. The achievement gap between the district and state on the history sub-skill area is 18% at Grade 4 in 2006-07, 22% for Grade 8, and 41% at Grade 10. The greatest chance to make an impact in these scores will be in the fifth and eighth grades, the two other grades where U.S. history is taught. This project, Founding Documents, is designed to ensure improved levels of teaching and learning in U.S. history as a separate academic subject area. The main goal of the project is to raise student achievement by improving teachers' knowledge, understanding, and appreciation of traditional American history. The objectives of the project are to improve the content knowledge of U.S. history teachers allowing for them to offer effective instruction in their classrooms, improve the ability of U.S. history teachers to develop and use assessments aligned to district learning targets, and improve students learning and achievement in U.S. history at Grades 5 and 8. This project will engage teachers in a three-year long professional development experience that will increase their knowledge of traditional U.S. history by engaging them in content-rich materials themed around the founding documents. Course content will explore the following: Beginnings to 1607; Colonization, Settlement, and Communities (1607-1763); the Revolution and the new nation (1763-1815); expansion and reform (1801-1861); crisis and the union: Civil War and reconstruction (1850-1877); the development of modern America (1865-1920); modern America and the World Wars (1914-1945); contemporary America (1945-present).

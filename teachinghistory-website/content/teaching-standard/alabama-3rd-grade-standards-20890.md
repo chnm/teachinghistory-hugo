@@ -2,9 +2,11 @@
 title: 'Alabama: 3rd-Grade Standards'
 date: '2009-02-08T20:07:40'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20890
+grade_levels:
+- elementary
 ---
 
 ## AL.3. Standard: Geographical and Historical Studies—People, Places, and Regions
@@ -62,7 +64,9 @@ Third grade students will learn geographic information regarding areas of the Un
   + ##### Grade Level Example:
 
     geographic—flood, hurricane, tsunami
+
     economic—crop failure
+
     historic—disease, war, migration
 * #### 3.4.2 Students will practice:
 
@@ -70,6 +74,7 @@ Third grade students will learn geographic information regarding areas of the Un
   + ##### Grade Level Example:
 
     human—city boundaries, school district lines
+
     physical—hemispheres, regions within continents or countries
 
 ### 3.5
@@ -85,6 +90,7 @@ Third grade students will learn geographic information regarding areas of the Un
   - ##### Grade Level Example:
 
     imports—coffee, crude oil
+
     exports—corn, wheat, automobiles
 
 ### 3.6
@@ -180,6 +186,7 @@ Third grade students will learn geographic information regarding areas of the Un
 + ##### Grade Level Example:
 
   prehistoric American Indians—Paleo-Indian, Archaic, Woodland, Mississippian
+
   historic American Indians—Choctaw, Chickasaw, Cherokee, Creek
 
 * #### 3.12.2 Students will practice:

@@ -2,9 +2,11 @@
 title: 'DC: Third Grade Standards'
 date: '2009-02-08T20:10:07'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20975
+grade_levels:
+- elementary
 ---
 
 (Note: In 2011, DC public schools began transitioning to the [Common Core State Standards](http://www.corestandards.org/the-standards/english-language-arts-standards/history-social-studies/introduction/).)

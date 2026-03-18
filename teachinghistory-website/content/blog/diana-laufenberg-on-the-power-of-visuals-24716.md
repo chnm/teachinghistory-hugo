@@ -2,10 +2,33 @@
 title: Diana Laufenberg on the Power of Visuals
 date: '2011-06-02T18:04:40'
 lastmod: '2017-10-06T15:21:32'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 24716
 url: /nhec-blog/24716
+author_bio: Diana Laufenberg has taught grade levels from 7-12 in Social Studies.
+  She currently teaches at the Science Leadership Academy in Philadelphia, an inquiry-driven,
+  project-based high school focused on modern learning. She has also taught in Flagstaff,
+  AZ, and was named Technology Teacher of the Year for Arizona and a member of the
+  Governor's Master Teacher Corps. Her work has been published in, among other places,
+  the New York Times Learning blog.
+date_published: '2011-06-15T00:00:00'
+image_fid: '7551'
+splash_image_fid: '7550'
+author_image_fid: '7549'
+summary: Modern U.S. history instruction relies on reading and writing. Teacher Diana
+  Laufenberg argues that students need more than text to engage their minds.
+splash_image: /files/splash-blog-dlvisual.jpg
+image: /files/image-blog-dlvisuals.jpg
+author_image: /files/author_image/dlaufenberg1_1.jpg
+grade_levels:
+- elementary
+- high
+- middle
+tags:
+- diana laufenberg
+- visualization
+- visualizations
 ---
 
 History teachers (tend to) love history. Students do not (often) love it so much. This is a perplexing situation that I have bounced around in my brain for the past two decades. When I was a student, I liked the teachers and felt as though I was being educated, but I did not love my history classes. That is until I enrolled in a special freshman seminar at the University of Wisconsin-Eau Claire: "Medieval Foundations of the Modern West," co-taught by a history professor, Dr. Thomas Miller, and an Academic Adviser with an art degree, Jeannie Harms. This course was about nurturing freshmen as students but also approaching history from an interdisciplinary angle. It was incredibly unconventional and I loved every minute of it. There was a significant 'visualness' to the history—we were constantly digging into paintings and illustrations and artifacts of the era to extract their history, for ourselves.
@@ -13,6 +36,7 @@ History teachers (tend to) love history. Students do not (often) love it so much
 ## The Need for Images
 
 As I developed my own classroom practice, it occurred to me that I needed to include that compelling visual component in my teaching as much as possible. Some years I have been more successful than others at achieving that balance, and there have been years when I was more acutely aware of the need. Consider this student: a 12-year-old girl with a 2nd-grade reading/writing level, identified with a specific learning disability in both areas. She is in my classroom in adherence with the inclusion model. I quickly realize that her struggles with the written word have nothing to do with her capacity for logic and critical thinking. She is bright and actively participates in class discussion, but is left out of the conversation much of the time because the reading and writing stand between her and the ideas. To address her identified areas of struggle, she is scheduled into small, intensive remedial classes, but much of the content is well below her actual intellect; she is bored.
+
 I began to realize that if I introduced the concepts visually, this student was much more motivated to attempt the assignment even though she struggled. In addition, her ability to engage verbally in the discussion and group work related to the content improved. Here's the other bonus moment—introducing concepts in a visual way motivated most of the kids. It helped them to access the ideas or get hooked by the story so that they then wanted, all on their own, to know more, inquire, and dig. [Two minutes of historical video](http://www.youtube.com/watch?v=y7zTKliLj_M&list=PL544AA0B033F60A71) on the Space Race can get a room of 13-year-olds completely rapt and intrigued. A famous [political cartoon](http://www.loc.gov/pictures/resource/cph.3g05315/) with clever components can provoke a stream of compelling questions. An [infographic](http://visualizingeconomics.com/2009/07/27/unemployment-great-depression-vs-great-recession/) comparing unemployment rates in the Great Depression to those today can link the personal experiences of the students today to the historical concept of the Great Depression, helping them look for commonality and divergence in the events. As teachers of history we often place reading and writing before discussion, leaving behind those students averse to or struggling with the written word. By flipping the [compelling component](http://vimeo.com/15402603) to the front of the day or lesson, students are much more likely to buy into the learning. I learned this all those years ago in that freshman seminar.
 
 ## Data Visualizations

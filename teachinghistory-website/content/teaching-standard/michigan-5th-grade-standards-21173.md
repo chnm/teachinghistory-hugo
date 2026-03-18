@@ -2,9 +2,11 @@
 title: 'Michigan: 5th-Grade Standards'
 date: '2009-02-08T20:13:31'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21173
+grade_levels:
+- elementary
 ---
 
 * ### MI.U1. Strand / Standard Category: U.S. History and Geography (USHG) Era 1 - Beginnings to 1620

@@ -2,8 +2,9 @@
 title: Frontiers of American History
 date: '2011-06-09T18:24:37'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24787
 ---
 
+The *Frontiers of American History* (*Frontiers*) districts serve Michigan's state capital and the surrounding region. Performance on state history tests has generally been poor—across consortium schools, 63 percent of students in the class of 2007 failed to meet state proficiency standards. To help teachers expand their content knowledge and teaching expertise, each year the project will offer two 3-day seminars by Smithsonian historians and education experts, a 5-day summer institute by NCHE academic historians and pedagogy experts, on-site museum excursions, and Professional Learning Community meetings. Project leaders will recruit teachers according to a tiered system, giving priority to teachers from schools with the greatest needs and including other teachers if space is available. Teachers will be encouraged to attend regularly and for more than a year, and participation in multi-grade cohorts will give context and perspective for the eras of history they teach. The *Frontiers* theme is investigating the physical, social, and political frontiers that have impacted development of American society. The project's technology component will expand the reach and availability of project resources and activities, including blogs, videoconferences, presentations, primary source materials, and online learning for teachers. The learning community component will include a forum made up of teachers from all participating schools; they will meet to explore topics, teaching strategies, lesson plans and peer education. This collaboration across grades, schools, and districts will help teachers share best practices, conduct peer reviews, and develop standards and research-based lessons. The project will produce a Web site with resources, lessons, and classroom instruction that students find engaging and relevant.

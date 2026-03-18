@@ -2,9 +2,10 @@
 title: 'Alaska: Prekindergarten Standards'
 date: '2009-02-08T20:07:36'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20872
+grade_levels: []
 ---
 
 ### AK.4. Performance / Content Standard: Cognition and General Knowledge

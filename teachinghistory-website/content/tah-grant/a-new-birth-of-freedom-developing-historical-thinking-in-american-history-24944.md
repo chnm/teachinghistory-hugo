@@ -2,8 +2,13 @@
 title: 'A New Birth of Freedom: Developing Historical Thinking in American History'
 date: '2011-06-15T17:01:31'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24944
+grade_levels:
+- elementary
+- high
+- middle
 ---
 
+The northern Rhode Island districts involved in *A New Birth of Freedom: Developing Historical Thinking in American History* make up one-third of the state's districts. When some teachers who will be affected by the project took an Advanced Placement U.S. history test, their average score was about 47 percent. Every year, academic and public historians and educators will introduce content and teaching strategies through 1-day fall and spring workshops, a series of after-school sessions, and a 5-day summer institute with field experiences. Leading New England scholars will initiate substantive work with project teachers to increase content knowledge and create excitement for American history. Project leaders will encourage teachers to build horizontal and vertical relationships among schools and with historians as the partnering organizations. Separate cohorts of 60 teachers each year will participate; priority will be given to teachers with the fewest opportunities for history professional development. The project will stress the themes of communication and flexibility while working toward building a statewide learning community. Content will focus on the ideal of "freedom" and how this concept has been expressed by influential figures, founding documents and landmark cases that have transformed American history. Teaching strategies will focus on using primary sources, differentiated instruction, document-based questioning and performance-based authentic assessments to help students develop historical, critical and reflective skills. Teachers will be able to earn graduate or continuing education credits for their participation as long as they complete unit plans that consist of several lessons. Model lesson plans and student work will be posted on the Web site to help other teachers find materials and learn from colleagues.

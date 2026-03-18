@@ -2,8 +2,9 @@
 title: 'From Sea to Shining Sea: Revisiting Our American Ideals'
 date: '2011-06-09T22:57:56'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24815
 ---
 
+Located in western Oregon, the Douglas and South Coast Education Service Districts serve 23 rural school districts, 11 of which have not achieved Adequate Yearly Progress for two consecutive years. Sixty-nine percent of middle school students and 52 percent of high school students have scored below the state average on writing tests, and all 23 districts have documented shortages of teachers highly qualified to teach history.*From Sea to Shining Sea* will address these shortages by providing 100 hours of professional development and opportunities for teachers to earn credit toward a master's degree. Activities will include a summer institute that incorporates field trips, two colloquia during the school year, two lesson observation/mentoring sessions with the project director, and small learning communities among participants. Also, participants will receive an allowance for purchasing primary objects and materials for their classrooms. Built into the program will be opportunities for teachers to improve their understanding of Oregon's Common Curriculum Goals and Content Standards, to modify and refine two lesson plans, and to share their knowledge with colleagues at their schools. Year 1 will be dedicated to project development, Year 2 will target 27 elementary teachers, and Year 3 will target 27 middle school and 26 high school teachers. *From Sea to Shining Sea* will explore the ideas and principals that have guided the course of state, regional, and national history and shaped the political scene. Instructional strategies will emphasize historical inquiry, research and analysis of primary documents, with content aligned to state standards. Standards-based lesson plans created during the program will be shared with all participants.

@@ -2,8 +2,34 @@
 title: 'Jamestown vs. Plymouth: America''s Historical Amnesia'
 date: '2008-01-04T14:03:57'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 2176
+duration: 00:53:37
+keywords: colonies, colonization, colonists, Jamestown, England, Great Britain, Virginia
+website_url: http://dev.forum-network.org/lecture/jamestown-vs-plymouth-americas-historical-amnesia
+date_published: '2007-05-14T00:00:00'
+series_name: Boston's 375th Anniversary
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Business
+- Cities & Suburbs
+- Daily Life
+- Global Contact
+- International Relations
+- Rural Life
+- Southern States
+tags:
+- England
+- Great Britain
+- Jamestown
+- Virginia
+- colonies
+- colonists
+- colonization
 ---
 
+Professor Karen Ordahl Kupperman and historian Walter W. Woodward examine the history of the Jamestown colony in-depth, focusing on the personalities involved, including John Smith.

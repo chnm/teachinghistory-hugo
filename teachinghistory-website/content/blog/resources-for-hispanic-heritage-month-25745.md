@@ -2,14 +2,33 @@
 title: Resources for Hispanic Heritage Month
 date: '2012-09-14T15:21:01'
 lastmod: '2017-12-05T08:51:59'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 25745
 url: /nhec-blog/25745
+date_published: '2012-09-18T00:00:00'
+image_fid: '9508'
+splash_image_fid: '9506'
+summary: How do you teach Hispanic Heritage Month? With resources from Teachinghistory.org
+  and across the web, you have plenty of approaches to explore!
+splash_image: /files/splash-hahm12.jpg
+image: /files/image_hahm12.jpg
+time_periods:
+- General
+topics:
+- Family Life
+tags:
+- Hispanic Americans
+- Hispanic Heritage Month
+- Latinos
+- heritage months
+- holidays
 ---
 
 Established in 1988, Hispanic Heritage Month celebrates the history of Americans with family roots in Spanish-speaking countries. Unlike other heritage months, which begin at the beginning of a month and end at the end, Hispanic American Heritage Month begins on September 15 and ends on October 15. Why? Use this question to kick off your exploration of the month, and deepen it with resources from Teachinghistory.org and elsewhere!
+
 Begin tracing back the rich strands of Hispanic American history with Teachinghistory.org's materials, including a [roundup of resources](http://teachinghistory.org/nhec-blog/22561) across the Web, a [lesson plan](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/25625) on civil rights and agricultural workers in the U.S., and [reviews](http://teachinghistory.org/history-content/website-reviews?page=3&keys=&tid=102&tid_1=All&tid_2=All) of websites preserving the experiences of Hispanic Americans. Take a [quiz](http://teachinghistory.org/history-content/quiz/25065) that "zooms in" on primary sources, or read what historians have to say about historical U.S.-Mexico relations in [*Ask a Historian*](http://teachinghistory.org/history-content/ask-a-historian?keys=mexico&tid=102&tid_1=All).
+
 Go further afield with materials from across the web. Check out these dedicated Hispanic Heritage Month pages:
 
 * [Smithsonian Education](http://www.smithsonianeducation.org/heritage_month/hhm/index.html) rounds up more than 20 educator resources and *Smithsonian Magazine* articles.

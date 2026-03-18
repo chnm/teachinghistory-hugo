@@ -1,0 +1,167 @@
+{{/*
+  SubsectionList — 1/3-2/3 filterable listing for subsection pages.
+
+  Usage:
+    {{ partial "subsection-list.html" (dict
+        "context"     .
+        "color"       $color
+        "tint"        $tint
+        "searchCard"  "search-teaching-materials.html"
+    ) }}
+
+  Params:
+    - context:    the current page (a subsection _index.md)
+    - color:      accent color string ("orange", "yellow", etc.)
+    - tint:       tint background class ("bg-orange-tint", etc.)
+    - searchCard: partial name for the section-specific search/filter card
+*/}}
+
+{{ $ctx := .context }}
+{{ $color := .color }}
+{{ $tint := .tint }}
+{{ $searchCard := .searchCard }}
+{{ $section := $ctx.Section }}
+{{ $parent := $ctx.Parent }}
+{{ $pages := $ctx.RegularPages }}
+
+<main class="flex-1">
+  <div class="flex min-h-screen">
+
+    {{/* ── Left column — 1/3, section tint ── */}}
+    <aside class="{{ $tint }} w-1/3 p-8">
+      <div class="sticky top-[76px] flex flex-col gap-6">
+
+        {{/* Section header + View all link */}}
+        <div>
+          <h3 class="font-heading text-sm font-bold uppercase tracking-wide">{{ $section | humanize | title }}</h3>
+          <a href="/{{ $section }}/" class="text-sm hover:underline">&larr; View all {{ $section | humanize | title }}</a>
+        </div>
+
+        {{/* Search / filter card */}}
+        <div class="bg-white rounded shadow-md p-5">
+          <h3 class="font-heading text-lg font-bold mb-4 uppercase">Search</h3>
+          {{ partial $searchCard (dict "context" $ctx "color" $color "pages" $pages) }}
+        </div>
+
+      </div>
+    </aside>
+
+    {{/* ── Right column — 2/3, white background, card grid ── */}}
+    <div class="w-2/3 bg-white p-8">
+      <h2 class="font-heading text-2xl mb-2 normal-case">{{ $ctx.Title }}</h2>
+      {{ with $ctx.Params.description }}
+        <p class="font-body text-sm text-gray-600 mb-6">{{ . }}</p>
+      {{ end }}
+
+      <p class="font-body text-sm text-gray-500 mb-4">
+        Showing <span id="visible-count">{{ len $pages }}</span> of {{ len $pages }} results
+      </p>
+
+      <div id="listing-grid" class="grid grid-cols-2 gap-6">
+        {{ range $pages }}
+          {{ $img := .Params.splash_image | default .Params.image | default .Params.thumbnail }}
+          <a href="{{ .RelPermalink }}"
+             class="listing-card block bg-white rounded shadow border border-gray-light overflow-hidden hover:shadow-md transition group"
+             data-title="{{ .Title | lower }}"
+             data-summary="{{ with .Params.summary }}{{ . | plainify | lower }}{{ end }}"
+             data-keywords="{{ with .Params.keywords }}{{ if reflect.IsSlice . }}{{ delimit . " " | plainify | lower }}{{ else }}{{ . | plainify | lower }}{{ end }}{{ end }}"
+             data-grade="{{ with .Params.grade_levels }}{{ delimit . "," }}{{ end }}">
+            {{ with $img }}
+              <div class="h-[160px] overflow-hidden">
+                <img src="{{ . }}" alt="" class="w-full h-full object-cover" loading="lazy">
+              </div>
+            {{ else }}
+              <div class="h-[160px] bg-gray-light"></div>
+            {{ end }}
+            <div class="px-4 pt-3 pb-1">
+              <h3 class="font-heading text-sm font-bold leading-snug text-{{ $color }} group-hover:underline">
+                {{- .Title -}}
+              </h3>
+            </div>
+            <div class="px-4 pb-4">
+              <p class="font-body text-xs leading-relaxed line-clamp-3 text-gray-600">
+                {{ with .Params.summary }}
+                  {{- . | plainify | truncate 160 -}}
+                {{ else }}
+                  {{- .Summary | plainify | truncate 160 -}}
+                {{ end }}
+              </p>
+            </div>
+          </a>
+        {{ end }}
+      </div>
+
+      {{/* No results message */}}
+      <p id="no-results" class="hidden font-body text-sm text-gray-500 py-8 text-center">
+        No results match your search.
+      </p>
+    </div>
+
+  </div>
+</main>
+
+{{/* ── Client-side filtering ── */}}
+<script>
+(function() {
+  const grid = document.getElementById('listing-grid');
+  const cards = grid.querySelectorAll('.listing-card');
+  const countEl = document.getElementById('visible-count');
+  const noResults = document.getElementById('no-results');
+
+  // Collect all filter inputs
+  const keywordInput = document.getElementById('filter-keyword');
+  const gradeSelect = document.getElementById('filter-grade');
+  const topicSelect = document.getElementById('filter-topic');
+  const periodSelect = document.getElementById('filter-period');
+
+  function applyFilters() {
+    const keyword = keywordInput ? keywordInput.value.toLowerCase().trim() : '';
+    const grade = gradeSelect ? gradeSelect.value : '';
+    const topic = topicSelect ? topicSelect.value.toLowerCase() : '';
+    const period = periodSelect ? periodSelect.value.toLowerCase() : '';
+    let visible = 0;
+
+    cards.forEach(function(card) {
+      const title = card.dataset.title || '';
+      const summary = card.dataset.summary || '';
+      const keywords = card.dataset.keywords || '';
+      const cardGrades = card.dataset.grade || '';
+      const searchable = title + ' ' + summary + ' ' + keywords;
+
+      let show = true;
+
+      // Keyword filter — match against title + summary + keywords
+      if (keyword && searchable.indexOf(keyword) === -1) {
+        show = false;
+      }
+
+      // Grade filter
+      if (grade && cardGrades.indexOf(grade) === -1) {
+        show = false;
+      }
+
+      // Topic filter (free-text in data attributes)
+      if (topic && searchable.indexOf(topic) === -1) {
+        show = false;
+      }
+
+      // Period filter
+      if (period && searchable.indexOf(period) === -1) {
+        show = false;
+      }
+
+      card.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+
+    countEl.textContent = visible;
+    noResults.classList.toggle('hidden', visible > 0);
+  }
+
+  // Bind events
+  if (keywordInput) keywordInput.addEventListener('input', applyFilters);
+  if (gradeSelect) gradeSelect.addEventListener('change', applyFilters);
+  if (topicSelect) topicSelect.addEventListener('change', applyFilters);
+  if (periodSelect) periodSelect.addEventListener('change', applyFilters);
+})();
+</script>

@@ -2,9 +2,11 @@
 title: 'Utah: 2nd-Grade Standards'
 date: '2009-02-08T20:17:14'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21478
+grade_levels:
+- elementary
 ---
 
 ## Core Standards of the Course

@@ -2,9 +2,11 @@
 title: 'Delaware: 1st-Grade Standards'
 date: '2009-02-08T20:10:19'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20987
+grade_levels:
+- elementary
 ---
 
 * ### DE.1.C1. Content Standard: Civics

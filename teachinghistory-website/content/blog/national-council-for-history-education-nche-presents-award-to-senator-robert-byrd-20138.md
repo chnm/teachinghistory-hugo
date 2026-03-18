@@ -3,20 +3,35 @@ title: National Council for History Education (NCHE) Presents Award to Senator R
   Byrd
 date: '2008-10-20T13:18:46'
 lastmod: '2011-06-14T10:02:45'
-type: blog
+content_type: blog
 draft: false
 drupal_nid: 20138
 url: /nhec-blog/20138
+date_published: '2008-10-20T00:00:00'
+image_fid: '321'
+summary: Byrd award intended for policymakers and public figures advocating history
+  in education.
+image: /files/byrd.jpg
 ---
 
 On September 24, 2008, more than a hundred guests including Senators, Chiefs of Staff, historians, educators, and directors of historical organizations and museums filled the historic Mansfield Room in the U.S. Capitol to witness the National Council for History Education (NCHE) present Senator Robert C. Byrd an award named in his honor.
+
 The award, recognizing Senator Byrd’s distinguished leadership in advancing the study of history in our nation's schools, was presented by David McCullough—Pulitzer Prize-winning historian, Medal of Freedom recipient, and member of the NCHE Board of Trustees—and by Theodore K. Rabb, Chairman of the NCHE Board of Trustees and emeritus professor of history at Princeton University.
+
 "As a lifelong student of history, I am deeply grateful to have this prestigious award named in my honor," said U.S. Senator Robert C. Byrd, D-W.Va, in a written statement after the ceremony. "My love of history, which began at a very young age, has given me great joy and inspiration throughout my life. It is my hope and belief that we can instill in young people across this country that same passion. I know it will serve them well."
+
 The National Council for History Education established the Senator Robert C. Byrd Award to be an award given to policymakers and public figures who work to ensure that history is a strong and meaningful part of our students' education.
+
 In his remarks at the ceremony, David McCullough emphasized the importance of providing America's students with a deep understanding and appreciation for history. He quoted Margaret Phelps, favorite high school teacher of President Harry Truman, who said: "History cultivates every faculty of the mind, enlarges sympathies, liberalizes thought and feeling, and furnishes and improves the highest standards of character."
+
 Theodore Rabb also read a proclamation from NCHE which articulated some of the reasons that Senator Byrd was being honored, such as “…he has demonstrated an unrivalled commitment to the belief that a knowledge of history is essential to good citizenship in our nation and our world…and he has done more to promote the teaching of history in the nation’s schools, through speech, legislation, and appropriations, than any other United States Senator.”
+
 When accepting the award, Senator Byrd received an enthusiastic standing ovation from those in the crowded room. As the room quieted, Senator Byrd uttered these brief, moving words of appreciation: "My capacity for words has gone. Thank you."
+
 Some of the distinguished guests in attendance at the September 24 award ceremony included Senator Lamar Alexander (R-TN), Senator Daniel Inouye (D-HA), Senator John Kerry (D-MA), Senator Patrick Leahy (D-VT), Senator Olympia Snowe (R-ME), Senator Robert Casey (D-PA), and Senator Mary Landrieu (D-LA). Also in attendance were Librarian of Congress James Billington, Senate Historian Richard Baker, Chairman of the National Endowment for the Humanities, Bruce Cole, and Director of the Smithsonian Institution National Museum of American History, Brent Glass.
+
 Members of the NCHE Board of Trustees and staff were also in attendance. In addition, members of the U.S. Department of Education Teaching American History (TAH) grant staff were on hand, as well as teachers who have participated in the TAH program. The Teaching American History grant program was a major national initiative sponsored by Senator Byrd in 2001.
+
 Senator Byrd, who is known for carrying a copy of the U.S. Constitution with him at all times, was also instrumental in including in the Consolidated Appropriations Act of 2005 the requirement that educational institutions that receive federal funding shall provide programs that teach students about the U.S. Constitution on September 17 (Constitution Day) or sometime during that week each year.
+
 Senator Byrd has stated on his website: "Our Constitution embodies the vision of the Framers, their dream of freedom, supported by the genius of practical structure which has come to be known as the checks and balances and separation of powers. But we cannot defend and protect this dream if we are ignorant of the Constitution‘s history and how it works."

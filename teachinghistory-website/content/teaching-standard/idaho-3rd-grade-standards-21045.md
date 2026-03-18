@@ -2,9 +2,11 @@
 title: 'Idaho: 3rd-Grade Standards'
 date: '2009-02-08T20:10:30'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21045
+grade_levels:
+- elementary
 ---
 
 * ## Standard 1: History
@@ -14,6 +16,7 @@ drupal_nid: 21045
   ### Goal 1.1:
 
   Build an understanding of the cultural and social development of the United States.
+
   Objective(s): By the end of Grade 3, the student will be able to:
   + 3.SS.1.1.1 Explain that people in the United States share a common heritage through patriotic holidays and symbols.
   + 3.SS.1.1.2 Investigate the history of your community.
@@ -23,6 +26,7 @@ drupal_nid: 21045
   ### Goal 1.2:
 
   Trace the role of migration and immigration of people in the development of the United States.
+
   Objective(s): By the end of Grade 3, the student will be able to:
   + 3.SS.1.2.1 Share the origins of classmates' ancestors.
   + 3.SS.1.2.2 Describe how migration and immigration are continuous processes.
@@ -34,6 +38,7 @@ drupal_nid: 21045
   ### Goal 2.1:
 
   Analyze the spatial organizations of people, places, and environment on the earth’s surface.
+
   Objective(s): By the end of Grade 3, the student will be able to:
   + 3.SS.2.1.1 Describe the concepts of globe, continent, country, state, county, city/town, and neighborhood.
   + 3.SS.2.1.2 Find the United States, Idaho, the state capital Boise, and own community on a map.
@@ -44,6 +49,7 @@ drupal_nid: 21045
   ### Goal 2.3:
 
   Trace the migration and settlement of human populations on the earth’s surface.
+
   Objective(s): By the end of Grade 3, the student will be able to:
   + 3.SS.2.3.1 Analyze past and present settlement patterns of the community.
   + 3.SS.2.3.2 Identify geographic features influencing settlement patterns of the community.
@@ -55,6 +61,7 @@ drupal_nid: 21045
   ### Goal 3.1:
 
   Explain basic economic concepts.
+
   Objective(s): By the end of Grade 3, the student will be able to:
   + 3.SS.3.1.1 Explain the concepts of supply and demand and the role of the consumer and producer.
   + 3.SS.3.1.2 Explain the difference between public and private property.
@@ -62,18 +69,21 @@ drupal_nid: 21045
   ### Goal 3.2:
 
   Identify different influences on economic systems.
+
   Objective(s): By the end of Grade 3, the student will be able to:
   + 3.SS.3.2.1 Explain how land, natural resources, labor, trade, and/or technology affect economic activities in the local community.
 
   ### Goal 3.3:
 
   Analyze the different types of economic institutions.
+
   Objective(s): By the end of Grade 3, the student will be able to:
   + 3.SS.3.3.1 Explain the purpose of a bank.
 
   ### Goal 3.4:
 
   Explain the concepts of good personal finance.
+
   Objective(s): By the end of Grade 3, the student will be able to:
   + 3.SS.3.4.1 Describe the purposes and benefits of savings.
 * ## Standard 4: Civics and Government
@@ -83,6 +93,7 @@ drupal_nid: 21045
   ### Goal 4.1:
 
   Build an understanding of the foundational principles of the American political system.
+
   Objective(s): By the end of Grade 3, the student will be able to:
   + 3.SS.4.1.1 Explain why communities have laws.
   + 3.SS.4.1.2 Explain that there are benefits for following the laws and consequences for breaking the laws of the community.
@@ -91,6 +102,7 @@ drupal_nid: 21045
   ### Goal 4.2:
 
   Build an understanding of the organization and formation of the American system of government.
+
   Objective(s): By the end of Grade 3, the student will be able to:
   + 3.SS.4.2.1 Identify and explain the basic functions of local governments.
   + 3.SS.4.2.2 Explain how local government officials are chosen, e.g., election, appointment.
@@ -99,6 +111,7 @@ drupal_nid: 21045
   ### Goal 4.3:
 
   Build an understanding that all people in the United States have rights and assume responsibilities.
+
   Objective(s): By the end of Grade 3, the student will be able to:
   + 3.SS.4.3.1 Identify ways children and adults can participate in their community and/or local governments.
 * ## Standard 5: Global Perspectives
@@ -108,6 +121,7 @@ drupal_nid: 21045
   ### Goal 5.1:
 
   Build an understanding of multiple perspectives and global interdependence.
+
   Objective(s): By the end of Grade 3, the student will be able to:
   + 3.SS.5.1.1 Explore connections that the local community has with other communities throughout the world.
   + 3.SS.5.1.2 Examine the contributions from various cultures from other parts of the world to the development of the community and how they make that community unique.

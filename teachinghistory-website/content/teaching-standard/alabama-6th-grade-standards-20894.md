@@ -2,9 +2,11 @@
 title: 'Alabama: 6th-Grade Standards'
 date: '2009-02-08T20:07:41'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20894
+grade_levels:
+- middle
 ---
 
 ## AL.6 Standard: United States Studies—Industrial Revolution to the Present
@@ -53,6 +55,7 @@ Sixth-grade content standards focus on the history of the United States from the
     + ##### Grade Level Example:
 
       reaction of the Congress of the United States to the Treaty of Versailles, League of Nations, and Red Scare* Recognizing the strategic placement of military
+
       bases in Alabama
 
 ### 6.4
@@ -161,6 +164,7 @@ Sixth-grade content standards focus on the history of the United States from the
     - ##### Grade Level Example:
 
       persons—Martin Luther King Jr., Rosa Parks, Fred Shuttlesworth, John Lewis
+
       events—Brown versus Board of Education, Montgomery Bus Boycott, student protests, Freedom Rides, Selma-to-Montgomery Voting Rights March, political assassinations+ Describing the changing role of women in United States’ society and how it affected the family unit
     - ##### Grade Level Example:
 
@@ -168,6 +172,7 @@ Sixth-grade content standards focus on the history of the United States from the
     - ##### Grade Level Example:
 
       genres—protest songs; Motown, rock and roll, rap, folk, and country music
+
       artists—Elvis Presley, the Beatles, Bob Dylan, Aretha Franklin, Hank Williams+ Identifying the impact of media, including newspapers, AM and FM radio, television, twenty-four hour sports and news programming, talk radio, and Internet social networking, on United States’ culture since World War II
 
 ### 6.10
@@ -192,10 +197,15 @@ Sixth-grade content standards focus on the history of the United States from the
   + ##### Grade Level Example:
 
     1950s—fashion doll, audio cassette
+
     1960s—action figure, artificial heart, Internet, calculator
+
     1970s—word processor, video game, cellular telephone
+
     1980s—personal computer, Doppler radar, digital cellular telephone
+
     1990s—World Wide Web, digital video diskette (DVD)
+
     2000s—digital music player, social networking technology, personal Global Positioning System (GPS) device
 
 ### 6.12

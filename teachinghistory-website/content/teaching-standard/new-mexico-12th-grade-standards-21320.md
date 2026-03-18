@@ -2,9 +2,11 @@
 title: 'New Mexico: 12th-Grade Standards'
 date: '2009-02-08T20:14:50'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21320
+grade_levels:
+- high
 ---
 
 (Note: By the completion of grades 9–12, Oregon students are expected to master the following standards.)

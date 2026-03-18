@@ -1,0 +1,33 @@
+{{/*
+  ArrowButton — rounded pill CTA with right-arrow icon.
+
+  Usage:
+    {{ partial "arrow-button.html" (dict "text" "View All" "href" "/teaching-materials/" "color" "orange") }}
+
+  Params:
+    - text:  button label (e.g. "View All", "Read More")
+    - href:  link destination
+    - color: "orange", "yellow", "green", or "black" (default "orange")
+*/}}
+
+{{ $text := .text | default "View All" }}
+{{ $href := .href | default "#" }}
+{{ $color := .color | default "orange" }}
+
+{{ $bgClass := "bg-orange" }}
+{{ $hoverClass := "hover:bg-orange/90" }}
+{{ if eq $color "yellow" }}
+  {{ $bgClass = "bg-yellow" }}
+  {{ $hoverClass = "hover:bg-yellow/90" }}
+{{ else if eq $color "green" }}
+  {{ $bgClass = "bg-green" }}
+  {{ $hoverClass = "hover:bg-green/90" }}
+{{ else if eq $color "black" }}
+  {{ $bgClass = "bg-black" }}
+  {{ $hoverClass = "hover:bg-gray-800" }}
+{{ end }}
+
+<a href="{{ $href }}"
+   class="inline-flex items-center gap-1.5 {{ $bgClass }} {{ $hoverClass }} text-white text-sm font-body px-5 py-2 rounded-full transition">
+  {{- $text }} &rarr;
+</a>

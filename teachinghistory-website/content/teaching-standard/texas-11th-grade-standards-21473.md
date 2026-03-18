@@ -2,9 +2,11 @@
 title: 'Texas: 11th-Grade Standards'
 date: '2009-02-08T20:17:12'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21473
+grade_levels:
+- high
 ---
 
 (Note: By the completion of high school, Texas students are expected to master the following standards.)

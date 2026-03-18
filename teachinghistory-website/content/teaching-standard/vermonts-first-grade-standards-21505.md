@@ -2,9 +2,11 @@
 title: Vermont's First Grade Standards
 date: '2009-02-08T20:17:21'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21505
+grade_levels:
+- elementary
 ---
 
 (Note: By the completion of second grade, Vermont students are expected to master the following standards.)

@@ -2,9 +2,11 @@
 title: 'Alaska: 10th-Grade Standards'
 date: '2009-02-08T20:07:39'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20883
+grade_levels:
+- high
 ---
 
 * ### AK.A. Performance / Content Standard: Geography

@@ -2,9 +2,11 @@
 title: 'Texas: 8th-Grade Standards'
 date: '2009-02-08T20:16:18'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21470
+grade_levels:
+- middle
 ---
 
 ## §113.20. Social Studies, Grade 8, Beginning with School Year 2011-2012.

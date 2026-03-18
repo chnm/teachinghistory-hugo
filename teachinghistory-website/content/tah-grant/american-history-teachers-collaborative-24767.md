@@ -2,8 +2,9 @@
 title: American History Teachers' Collaborative
 date: '2011-06-09T15:39:36'
 lastmod: '2017-12-01T14:23:42'
-type: tah_grant
+content_type: tah_grant
 draft: false
 drupal_nid: 24767
 ---
 
+Led by the Urbana School District, the *American History Teachers' Collaborative* includes seven school districts in central Illinois; four of these districts have been in improvement status for 5 years. Each year, the collaborative will provide professional development to K-12 history teachers in the form of a week-long summer institute, four Saturday workshops, a 3-day experiential learning trip, and four evening discussion groups during which teachers will analyze books and lectures. Participating teachers will also conduct local history research, present at local or national conferences, participate in a blog, and become history teacher leaders in their schools. Each summer, 20 teachers will also complete internships with a museum or archive partner. The program will serve 60 teachers each year. Eight teachers who participated in a previous Teaching American History grant will assist with program planning and act as classroom coaches, mentors, and small group facilitators. These teachers will provide extra support to beginning teachers and to elementary school teachers, who must translate history content to grade-level-appropriate lessons and activities. Participating teachers will learn to appreciate, analyze, synthesize, and evaluate the national historical record by looking at national themes and events through the lens of local history. Instructional strategies will include best practices in the teaching of American history and will focus on meaningful ways to engage students in historical analysis. The *American History Teachers' Collaborative* will develop a community of teachers, historians, archivists, and curators who collaborate to enhance the teaching of American history. A program Web site will catalog lesson plans, local primary documents, and examples of best practices.

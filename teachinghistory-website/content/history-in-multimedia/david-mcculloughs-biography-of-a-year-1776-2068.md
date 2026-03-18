@@ -2,8 +2,29 @@
 title: 'David McCullough''s Biography of a Year: 1776'
 date: '2008-01-04T14:03:54'
 lastmod: '2017-12-01T13:36:59'
-type: history_in_multimedia
+content_type: history_in_multimedia
 draft: false
 drupal_nid: 2068
+duration: 01:14:24
+keywords: Revolutionary War, American Revolution, authors, writing, writers, books,
+  1776
+website_url: http://dev.forum-network.org/lecture/david-mcculloughs-biography-year-1776
+date_published: '2005-06-01T00:00:00'
+series_name: 'American Experience: Alexander Hamilton'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Literature
+- Military History
+- Politics
+tags:
+- '1776'
+- American Revolution
+- Revolutionary War
+- authors
+- books
+- writers
+- writing
 ---
 
+Pulitzer-Prize-winning author David McCullough talks about his book *1776*, which covers the year 1776 in American history and the corresponding Revolutionary War events.

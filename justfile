@@ -9,7 +9,7 @@ site := "teachinghistory-website"
 
 # Start development server with live reload
 serve:
-    cd {{site}} && hugo server -D --navigateToChanged
+    cd {{site}} && hugo server --navigateToChanged
 
 # Build the site for production
 build:
@@ -18,6 +18,11 @@ build:
 # Build the site including drafts
 build-drafts:
     cd {{site}} && hugo -D
+
+# Rebuild Tailwind CSS (clears Hugo's cached assets and rebuilds)
+css:
+    rm -rf {{site}}/resources/_gen
+    cd {{site}} && hugo --minify
 
 # Clean generated files
 clean:

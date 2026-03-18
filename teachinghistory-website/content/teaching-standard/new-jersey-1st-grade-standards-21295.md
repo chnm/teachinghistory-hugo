@@ -2,9 +2,11 @@
 title: 'New Jersey: 1st-Grade Standards'
 date: '2009-02-08T20:14:45'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21295
+grade_levels:
+- elementary
 ---
 
 (Note: By the completion of fourth grade, New Jersey students are expected to master the following standards.)

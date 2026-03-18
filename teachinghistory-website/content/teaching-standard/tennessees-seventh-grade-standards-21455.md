@@ -2,9 +2,11 @@
 title: Tennessee's Seventh Grade Standards
 date: '2009-02-08T20:16:14'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21455
+grade_levels:
+- middle
 ---
 
 * ### TN.7.1. Content Standard: Culture

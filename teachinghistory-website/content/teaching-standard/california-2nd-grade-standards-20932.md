@@ -2,9 +2,11 @@
 title: 'California: 2nd-Grade Standards'
 date: '2009-02-08T20:07:50'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 20932
+grade_levels:
+- elementary
 ---
 
 * ### CA.2.1. Content Standard: People Who Make a Difference

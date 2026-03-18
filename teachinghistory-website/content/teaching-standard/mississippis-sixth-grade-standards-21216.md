@@ -2,9 +2,11 @@
 title: Mississippi's Sixth Grade Standards
 date: '2009-02-08T20:13:41'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21216
+grade_levels:
+- middle
 ---
 
 (NOTE: Districts may choose to divide this course into two semesters—with one on world geography and the other on citizenship.)

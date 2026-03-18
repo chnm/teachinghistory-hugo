@@ -2,7 +2,7 @@
 title: Page not found
 date: '2008-01-30T09:45:31'
 lastmod: '2018-05-23T14:17:54'
-type: page
+content_type: page
 draft: false
 drupal_nid: 14867
 ---

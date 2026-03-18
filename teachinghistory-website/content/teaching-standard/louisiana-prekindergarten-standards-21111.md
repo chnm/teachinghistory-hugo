@@ -2,9 +2,10 @@
 title: 'Louisiana: Prekindergarten Standards'
 date: '2009-02-08T20:11:58'
 lastmod: '2017-12-01T14:23:42'
-type: teaching_standard
+content_type: teaching_standard
 draft: false
 drupal_nid: 21111
+grade_levels: []
 ---
 
 * ### LA.GLE.PK. Content Standard: Grade Level Expectations - Social Studies
