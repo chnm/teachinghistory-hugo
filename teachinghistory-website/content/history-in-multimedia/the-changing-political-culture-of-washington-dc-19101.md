@@ -15,8 +15,30 @@ splash_image_fid: '7823'
 summary: Norman Ornstein discusses the changing U.S national political atmosphere
   following the 9/11 attack.
 splash_image: /files/splash-9113.jpg
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Literature
+- Media
+- Military History
+- Politics
+tags:
+- 9/11
+- foreign policy
+- foreign relations
+- journalism
+- journalists
+- mass media
+- politicans
+- reportage
+- reporting
+- terrorism
+- terrorists
 ---
 
-
 Norman Ornstein discusses the changing U.S national political atmosphere following the 9/11 attacks and his opinions on these changes, as well as speaking briefly on his career as a political writer.
+
 To listen to this interview, scroll to "Norman Ornstein" and select "Watch the Video."

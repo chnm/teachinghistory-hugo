@@ -6,7 +6,21 @@ content_type: historical_site
 draft: false
 drupal_nid: 12473
 website_url: http://www.queenshistoricalsociety.org
+time_periods:
+- General
+topics:
+- African Americans
+- Daily Life
+- Mid-Atlantic
+- Slavery
+tags:
+- NYC
+- New York
+- New York City
+- Underground Railroad
+- queens
 ---
 
 The Queens Historical Society seeks to preserve and share the history of Queens, New York City. To this end, the society operates a museum, library, and archive. The museum of Queens history is located within the colonial Kingsland Homestead. A permanent exhibit within the museum addresses the history of the homestead itself.
+
 The society offers exhibits, Kingsland Homestead tours for students, walking tours, lectures, slide presentations, and library access. Appointments are required for library access and for group tours. The website offers information on the society's teaching aids, which are available for purchase.

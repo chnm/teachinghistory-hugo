@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 21926
 website_url: http://www.theheritagemcc.org/
+time_periods:
+- General
+topics:
+- Midwestern States
+tags:
+- Michigan
+- museum
 ---
 
 The Heritage Museum and Cultural Center promotes historical preservation, education, and research that relates to Benton Harbor, St. Joseph, and the surrounding region through the presentation of exhibits and programs to the public.
+
 The museum offers exhibits, educational tours for students in all grade levels, lending kits, outreach in-classroom presentations, curriculum guides, and research library access.

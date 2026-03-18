@@ -14,8 +14,21 @@ summary: You know the Purple Heart, but can you identify these honors?
 splash_image: /files/quiz-splash-vetday11.jpg
 thumbnail: /files/website_image/1939WorlImage.jpg
 image: /files/quiz-image-vetday11.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Military History
+tags:
+- Veterans Day
+- holidays
+- medals
+- military awards
+- ribbons
 ---
 
-
 Before 1954, November 11 was Armistice Day, a federal holiday honoring veterans of World War I. Beginning in 1954, November 11 became Veterans Day, a holiday to honor all U.S. military veterans.
+
 Veterans have fought in many campaigns, and earned honors both in and out of combat. Pictured are the medals for four military honors that are no longer awarded. We've removed their names from their faces—can you match each medal to the service it honors?

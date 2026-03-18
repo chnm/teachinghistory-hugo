@@ -14,23 +14,34 @@ summary: Considered attending a conference for professional development? Here ar
 splash_image: /files/splash-blog-conferences11.jpg
 image: /files/image-blog-conferences11.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- ISTE
+- NCHE
+- NCSS
+- National Council for the Social Studies
+- conferences
+- national council for history education
+- professional development
 ---
 
-
 Networking, power lunches, panels, name badges, exchanging information on the newest developments in the field and listening to the biggest names describe their paths to success—that's the business of business, isn't it? Not necessarily!
+
 The word "conference" may bring up images of smoothly exchanged business cards and sales professionals competing to make the best impression, but conferences aren't just a boardroom cliché. Every field has organizations that bring members (and interested outsiders) together to socialize, discuss the state of their work, and exchange ideas—from science to business to the arts to, of course, education!
 
 ## Attending a Conference
 
 Maybe you've never been to a conference for educators. Attending a conference can take some time, money, research, and planning, but the investment can pay off in new colleagues, new ideas, new knowledge, and new skills. Plus, you can snag some free giveaways in the exhibition room!
+
 Conferences usually take place over a full day or several days, and are arranged around a general theme. One year might be "Diversity in the Classroom" and the next, "Great Debates: Engaging with Controversy." Registration allows you to take part in all of a conference's main activities.
 > Come home inspired and ready to try out what you've learned!
 
 Attend the keynote address (usually presented by a notable historian, author, educator, or other figure with experience and knowledge relevant to the theme). Engage in sessions presented by educators, organizations, and experts sharing content, tools, and strategies. Stroll through the exhibit halls, learning about websites, books, and other resources that might help you in your teaching. Meet educators who share your passion for growing as a professional in informal lunches and mixers. Come home inspired and ready to try out what you've learned!
+
 Remember to register as early as you can. Most conferences offer discounts for early registration, as well as discounts if you're a member of the organization hosting the event. Plan ahead, and you may also be able to book a hotel room for a reduced rate—many conferences take place in hotel conference centers, and set aside a block of reduced-rate rooms just for attendees. These can fill up fast!
+
 Planning ahead may also let you sign up for extra, ticketed events. Maybe the conference offers half-day workshops on the day before the conference officially opens. Maybe you can pay to attend special-interest breakfasts, lunches, or dinners. Maybe you can buy tickets for guided tours of local historic districts or group excursions to museums. Conferences often take place in large cities, and this could be your chance to take in some of the sites while you're in town.
 
 ## Finding Conferences

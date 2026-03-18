@@ -11,8 +11,18 @@ summary: 'Educators tour the NMAAHC exhibit "Slavery at Jefferson''s Monticello:
   of Liberty" and ask about approaches to presenting the lives of Thomas Jefferson
   and his enslaved workers.'
 splash_image: /files/paradoxsplash_0.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+tags:
+- Smithsonian National Museum of American History
+- Thomas Jefferson
+- museums
+- presidents
+- professional development
+- sally hemings
+- smithsonian
 ---
-
 
 /files/media/video/MontExhibit1.mp4
 

@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 12767
 website_url: http://www.shanescrossinghistorical.org/
+time_periods:
+- General
+topics:
+- Midwestern States
+tags:
+- Ohio
 ---
 
 The Shanes Crossing Historical Society preserves and shares the history of the village of Rockford, OH. To this end, the society operates a museum, located within the former Rockford Lumber Company.
+
 The society offers exhibits.

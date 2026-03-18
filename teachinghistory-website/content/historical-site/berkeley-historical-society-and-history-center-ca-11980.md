@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 11980
 website_url: http://www.berkeleyhistoricalsociety.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Western States
+tags:
+- Berkeley
+- California
 ---
 
 The Berkeley Historical Society seeks to preserve and share the history of Berkeley, California. To this end, the society operates a history center.
+
 The center offers exhibits.

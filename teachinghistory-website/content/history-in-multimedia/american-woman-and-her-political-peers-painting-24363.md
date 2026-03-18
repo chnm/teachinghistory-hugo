@@ -9,6 +9,17 @@ duration: 00:22:24
 website_url: http://www.kshs.org/p/cool-things-american-woman-and-her-political-peers-painting/10294
 date_published: '2010-02-24T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- Art
+- Gender
+- Ideas & Ideologies
+- Politics
+- Reform
+- Women
 ---
 
 This podcast from the Kansas Museum of History looks at a painting commissioned by Henrietta Briggs-Wall of Hutchinson, Kansas for the World's Columbian Exposition of 1893 in Chicago. The curators discuss the controversy surrounding this painting's representation of the rights of 19th century women in politics and society.

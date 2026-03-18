@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 9061
 website_url: http://www.utah.com/stateparks/buenaventura.htm
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Daily Life
+- Western States
+tags:
+- Europeans
+- Utah
+- mountain men
+- settlement
 ---
 
 Located on 88 acres of land, Fort Buenaventura, established in the 1840s, is the first permanent European settlement in the Great Basin. The site includes reproduction stockades and cabins.
+
 Fort Buenaventura offers exhibits, seasonal mountain man activities, and picnic areas.

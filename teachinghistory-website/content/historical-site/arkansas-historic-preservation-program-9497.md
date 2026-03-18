@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 9497
 website_url: http://www.arkansaspreservation.com/
+time_periods:
+- General
+topics:
+- Art
+- Daily Life
+- Southern States
+tags:
+- Arkansas
+- architecture
+- historical society
+- preservation
 ---
 
 The Arkansas Historic Preservation Program seeks to preserve architecture and cultural resources relevant to state history.
+
 The program offers guided building and district tours; speakers for external organizations, including schools; a children's radio program; art contests; a traveling trunk; and educational grants. The website offers lesson plans.

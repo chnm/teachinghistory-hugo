@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 11164
 website_url: http://www.tobaccofarmlifemuseum.org
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Daily Life
+- Family Life
+- Rural Life
+- Southern States
 ---
 
 The Tobacco Farm Life Museum provides an authentic and interesting view into the lives of turn of the century tobacco farmers in eastern North Carolina. The site focuses on daily life and farming techniques of the early 20th century.
+
 Several types of educational tours appropriate for all grade levels are offered, including a candle-making tour, a butter-churning tour, etc. Teacher resources for pre- and post-visit are also offered to accompany your visit.

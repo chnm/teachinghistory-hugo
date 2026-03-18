@@ -12,7 +12,12 @@ splash_image_fid: '8135'
 summary: Back up files and share documents anywhere with this online storage tool.
 splash_image: /files/dropboxsplash.jpg
 image: /files/dropboximage.jpg
+tags:
+- Collaboration
+- collecting and organizing
+- dropbox
+- research
+- storage
 ---
-
 
 Dropbox is an online storage tool that can back up important files and allow users to share documents anywhere.

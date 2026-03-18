@@ -17,7 +17,27 @@ summary: See how early film was used to capture and communicate the Spanish-Amer
 splash_image: /files/Spanish-American_War_in_Motion_Pictures_432x240.jpg
 thumbnail: /files/quiz/diaries-answer-mormon.jpg
 image: /files/website_image/14750.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Global Contact
+- International Relations
+- Media
+- Military History
+- Politics
+- Science & Tech.
+evidence_types:
+- Film and Video
+resource_types:
+- Video
+tags:
+- Cuba
+- Philippine Revolution
+- Spanish-American War
+- Theodore Roosevelt
+- USS Maine
+- rough riders
+- the Philippines
 ---
-
 
 The Spanish-American War was one of the first wars captured on film. This website features 68 motion pictures of the war and the Philippine Revolution produced by the Edison Manufacturing Company and the American Mutoscope & Biograph Company between 1898 and 1901. The films include footage of troops, ships, notable figures, parades, and battle reenactments shot in the U.S., Cuba, and the Philippines. Theodore Roosevelt's Rough Riders are featured alongside footage of the *USS Maine* in Havana harbor. "Special Presentation" puts the motion pictures in chronological order and brief essays provide historical context. "Collection Connections" provides thought-provoking activities and essay topics. This glimpse at early film footage enhances our understanding of the fledgling technology, and offers a way to better understand U.S. imperialism at the turn of the century. The films expose some of the ways in which the birth of cinema emerged alongside, and shaped, changing ideas of gender, race, sexuality, and nation.

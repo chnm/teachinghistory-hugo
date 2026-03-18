@@ -18,10 +18,18 @@ splash_image: /files/AutocareBig.jpg
 image: /files/HalalMarket.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_0_0.jpeg
 grade_levels:
-  - high
+- high
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Asian Americans
+- Business
+- Daily Life
+- Family Life
+- Immigration
+tags:
+- immigrants
 ---
-
-
 
 ### What is it?
 

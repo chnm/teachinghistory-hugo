@@ -11,7 +11,33 @@ keywords: Native Americans, antebellum, frontier, the Frontier, Illinois, Sauk, 
 website_url: http://lincoln.lib.niu.edu/theme4video.html
 date_published: '2008-05-19T00:00:00'
 series_name: Native American Relations Video
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Ethnicity
+- Global Contact
+- Midwestern States
+- Military History
+- Rural Life
+tags:
+- Antebellum
+- Black Hawk War
+- Fox
+- Illinois
+- Native Americans
+- Sauk
+- frontier
+- race
+- race relations
+- racism
+- the Fox
+- the Sauk
+- the frontier
+- war
+- wars
 ---
 
 Scholar James Lewis briefly examines the repeated "war scares"—fears of possible outbreaks of violence between settlers and Native Americans—that troubled Illinois up until the outbreak of the Black Hawk War in 1832.
+
 To view this clip, select "Native Americans and War Scares on the Frontier" under "Native American Relations Video."

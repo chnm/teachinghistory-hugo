@@ -6,7 +6,39 @@ content_type: historical_site
 draft: false
 drupal_nid: 9891
 website_url: http://www.guadalupemuseum.org
+time_periods:
+- Expansion & Reform, 1801-1861
+- General
+topics:
+- American Indians
+- Daily Life
+- Ethnicity
+- Global Contact
+- Immigration
+- Western States
+tags:
+- California
+- China
+- Chinese
+- Chumash
+- Filipinos
+- Italians
+- Italy
+- Japan
+- Japanese
+- Mexicans
+- Mexico
+- Philippines
+- Portugal
+- Spain
+- Spanish
+- Swiss
+- Switzerland
+- adobe
+- and Portuguese.
+- historic jail
 ---
 
 The Rancho de Guadalupe Historical Society seeks to preserve and share the history of Guadalupe, California. To that end, the society operates a museum, a historic jail, and a non-circulating library. Artifacts on display include Native American adobes and pieces representative of the cultures which succeeded the Chumash—the Chinese, Filipinos, Mexicans, Swiss, Italians, Spanish, Japanese, and Portuguese.
+
 The society offers exhibits and library access.

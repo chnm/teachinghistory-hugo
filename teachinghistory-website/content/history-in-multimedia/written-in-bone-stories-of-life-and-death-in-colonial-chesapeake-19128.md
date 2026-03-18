@@ -14,7 +14,25 @@ series_name: Historical Topics
 splash_image_fid: '3432'
 summary: The dead do talk, at least to the people who know how to listen.
 splash_image: /files/Forensics3-RichmondNewsboy.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Science & Tech.
+- Southern States
+tags:
+- Chesapeake
+- Chesapeake Bay
+- Harleigh Knoll
+- archaeologists
+- archaeology
+- artifacts
+- burials
+- cemeteries
+- colonies
+- colonists
+- colonization
+- forensics
 ---
-
 
 Forensic anthropologist Dr. Doug Owsley discusses the colonial remains found at Harleigh Knoll in the Chesapeake Bay area and some of the information that studies of such remains can reveal.

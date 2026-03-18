@@ -11,7 +11,31 @@ keywords: immigrants, Ireland, Germany, German Americans, Irish Americans, worki
 website_url: http://lincoln.lib.niu.edu/theme1video.html
 date_published: '2008-05-14T00:00:00'
 series_name: Economic Development and Labor Video
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Daily Life
+- Economy
+- Ethnicity
+- Family Life
+- Gender
+- Immigration
+- Labor
+- Religion
+- Women
+tags:
+- German Americans
+- Germany
+- Ireland
+- Irish Americans
+- class
+- erie canal
+- immigrants
+- middle class
+- working class
 ---
 
 Kathryn Kish Sklar of SUNY-Binghamton discusses the immigration of Germans and Irish to the U.S. during the antebellum period, to serve as members of the working class. Sklar considers immigrant labor as supporting the development of the new middle class, and also looks at the changing role of women in immigrant families.
+
 To view this clip, select "Women's Changing Roles in Immigrant Families" under "Economic Development and Labor Video."

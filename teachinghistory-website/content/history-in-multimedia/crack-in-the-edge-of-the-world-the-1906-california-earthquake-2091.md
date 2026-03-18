@@ -11,6 +11,22 @@ keywords: earthquakes, natural disasters, disasters, science, scientists, geolog
 website_url: http://dev.forum-network.org/lecture/crack-edge-world-1906-ca-earthquake
 date_published: '2005-11-03T00:00:00'
 series_name: Tsunami and Katrina
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Cities & Suburbs
+- Environment
+- Science & Tech.
+- Western States
+tags:
+- California
+- San Francisco
+- disasters
+- earthquakes
+- geology
+- natural disasters
+- science
+- scientists
 ---
 
 Author and journalist Simon Winchester examines the 1906 California earthquake, which devastated San Francisco. He focuses on the geology that allowed this earthquake and the historical impact of the quake.

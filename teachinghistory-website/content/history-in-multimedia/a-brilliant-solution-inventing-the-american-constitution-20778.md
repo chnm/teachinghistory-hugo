@@ -11,7 +11,19 @@ keywords: U.S. Constitution, Constitutional Convention, Founding Fathers, politi
 website_url: http://www.virginiaexperiment.com/podcast/speakerSeries120507.mp3
 date_published: '2007-12-12T00:00:00'
 series_name: 'The Virginia Experiment: Speaker Seminar Series'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Politics
+tags:
+- Constitutional Convention
+- Founding Fathers
+- U.S. Constitution
+- government
+- politicians
 ---
 
 What political traditions did the Framers draw upon as they wrote the Constitution and what innovations did they introduce into the political life of the nation?
+
 Dr. Carol Berkin of Baruch College speaks on the crisis the delegates to the Constitutional Convention believed their new nation was facing, the personalities and backgrounds of these delegates, and the main issues and ideals that shaped the Constitution these men created.

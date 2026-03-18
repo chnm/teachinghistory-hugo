@@ -12,6 +12,32 @@ keywords: states, secession, Mexican-American War, annexation, Mexico, war, wars
 website_url: http://www.teachingamericanhistory.us/tah_2/speakers/saragoza.html
 date_published: '2006-02-21T00:00:00'
 series_name: 'History Grows in Oakland: Lectures'
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Latinos
+- Military History
+- Politics
+- Western States
+tags:
+- Democrats
+- Manifest Destiny
+- Mexican-American War
+- Mexico
+- Republicans
+- U.S. Constitution
+- annexation
+- documentaries
+- film
+- films
+- movies
+- secession
+- states
+- war
+- wars
 ---
 
 Professor Alex Saragoza discusses the Mexican-American War following the annexation of Texas, focusing on historical interpretations and coverage of the war. He looks at issues that are both covered to excess and rarely covered.

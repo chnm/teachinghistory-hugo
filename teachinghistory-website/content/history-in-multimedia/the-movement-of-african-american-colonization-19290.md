@@ -11,7 +11,33 @@ keywords: slaves, abolitionists, abolition, abolitionism, race, racism, race rel
 website_url: http://lincoln.lib.niu.edu/themevideo.html
 date_published: '2008-05-14T00:00:00'
 series_name: African-American Experience Video
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Radicalism
+- Reform
+- Slavery
+tags:
+- Africa
+- Back-to-Africa
+- abolition
+- abolitionism
+- abolitionists
+- colonies
+- colonization
+- race
+- race relations
+- racism
+- slaves
 ---
 
 Edward L. Ayers of the University of Virginia looks at the early antebellum support of African colonization as an answer to U.S. racial tensions, and considers it as a possible root of the later abolitionist movement.
+
 To listen to this lecture, select "The Movement of African-American Colonization" under "African-American Experience Video."

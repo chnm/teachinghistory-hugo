@@ -13,7 +13,41 @@ keywords: presidents, politicians, lawyers, attorneys, Illinois, law, laws, Whig
 website_url: http://lincoln.lib.niu.edu/video1.html
 date_published: '2008-05-21T00:00:00'
 series_name: Lincoln's Biography Slideshows
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Cities & Suburbs
+- Daily Life
+- Economy
+- Ethnicity
+- Family Life
+- Ideas & Ideologies
+- Legal History
+- Midwestern States
+- Politics
+- Rural Life
+- Slavery
+tags:
+- Illinois
+- Whigs
+- abolition
+- abolitionism
+- abolitionists
+- attorneys
+- infrastructure
+- law
+- laws
+- lawyers
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- slaves
+- transportation
 ---
 
 This lecture, created by the Abraham Lincoln Historical Digitization Project, details several years in Abraham Lincoln's life, including his acquisition of a law license, his support of moving Illinois's capital, his continued political campaigning, and his marriage to Mary Todd. This lecture continues from the lecture "Lincoln's Biography, Part Two: Indian Fighting and Politics in New Salem, 1831-1836."
+
 To view this documentary, select "Springfield, the Law, and the Whig Party, 1837-1843" under "Multimedia Slideshows."

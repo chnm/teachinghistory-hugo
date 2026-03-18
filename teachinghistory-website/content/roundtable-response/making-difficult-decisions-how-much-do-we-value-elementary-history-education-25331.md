@@ -16,22 +16,30 @@ summary: As a result of the federal push for qualitative and quantitative skills
   education beyond repair?
 author_image: /files/author_image/author_hoeflich_0.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+tags:
+- Elementary
+- elementary school
+- elementary school teachers
 ---
-
 
 > The district I teach for allots a total of 25 minutes per day for me to cover…more than 400 years of story.
 
 The condition of history education in elementary schools is conflicted and fragile. I live and teach in the state of Virginia, where the state requires my 4th-grade students to pass an end-of-year 40-question multiple-choice test, which covers all of Virginia history, geography, and economics from 1607 to present day. The district I teach for allots a total of 25 minutes per day for me to cover all that material. Twenty-five minutes a day for more than 400 years of story.
+
 The Standards of Learning (SOLs) in Virginia were created and implemented about 15 years ago, just at the beginning of my career in 4th grade. As a 4th-grade teacher, my students only had one SOL test to pass: Virginia Studies. We were given *45 minutes daily* for social studies. My first year, I had five students out of 25 pass the test, and my class’s passing percentage was the highest of all four 4th grades. According to the promotion/retention policy of my district at the time, a student could be retained solely on the basis of failing that Virginia Studies SOL test. Virginia was very serious about her students knowing her history.
+
 Over the next decade, I worked hard to raise the bar for both my students and myself. With the support of my administration and my district, I took workshops with the Library of Congress, participated in TAH grants, created teaching materials, learned about using primary sources, and even got some hands-on experience through a teacher institute at Yorktown. I spent my summers and weekends traveling around the state of Virginia scouting out potential field trips, as well as just seeing history up close, photographing and collecting information about all those people and places we were required to teach: Monticello, Gunston Hall, Mount Vernon, Natural Bridge, Luray Caverns, Frontier Culture Museum, Richmond, Skyline Drive, etc. I’m proud to say that as a result of all this effort, our 4th graders have maintained an average of about 85% passing for the past five years.
+
 But the cold hard fact is that due to No Child Left Behind and my school’s lack of “Adequate Yearly Progress” (AYP), the pendulum has definitely swung away from the focus on history in 4th grade. Now my 4th graders are required to take SOLs in math and reading, in addition to the Virginia Studies test. But it's only the scores for the math and reading that count towards our AYP. Now we are given 25 minutes a day for social studies. I have the skills and the knowledge. I know the curriculum, and I have collected primary sources and created lessons with primary sources as the center. What I don’t have is enough time in the day to actually use the lessons and resources I have. In addition, with the focus on making AYP, nearly all of our resources are going towards programs and materials for math and reading.
 > Less money, less resources, less of everything except expectation of what our 4th-grade citizens should know, understand, and be able to explain.
 
 For example, we used to get money from the district to take our students to Jamestown and Yorktown for a capstone fieldtrip in May. Last year was the first year that we were told that we couldn't have the money for the buses. Consequently, our 4th graders missed the trip. Ironically, last year was also the first year that we were required to implement the revised Virginia Studies SOLs, revised by the state to *add* content. Less time, more content. Less money, less resources, less of everything except expectation of what our 4th-grade citizens should know, understand, and be able to explain.
+
 Admittedly, I am an elementary school teacher, so I have most of my students in my classroom all day. In order to cover the Virginia Studies material, I have been making good use of the 50 minutes allotted to writing, and the 75 minutes allotted to reading and integrating social studies into language arts. We have done vocabulary study on words like "underground" which my 4th graders are surprised to learn can mean "secret." We have been reading historical fiction mysteries, biographies, and all those *Dear America* diaries. We have written biographical essays, and letters to Disney telling them all the historical inaccuracies of their Pocahontas movies.
 > In my mind, historical thinking and citizenship are crucial to raising productive, participating, and aware adults.
 
 But again, two years ago the district adopted a new scripted writing program and so we lost that 50 minutes of writing time. As the district chips away at the flexibility I have in managing my time in my classroom, I lose the ability to integrate the historical thinking and social studies curriculum into other subject areas. The basic problem, as I understand it, is that with a finite amount of time in a school day, something's got to give. It's educational triage; who or what do we make the priority? The federal government tells the state that reading and math are paramount. The state has to follow along or lose federal funding, but they are not willing to let go of their high expectations in the other areas as well. At the district level, we have to answer to both.
+
 In my school, in my classroom, what's my choice? In my mind, historical thinking and citizenship are crucial to raising productive, participating, and aware adults. So I choose to strive and find ways to teach social studies in a meaningful way. But I am highly trained, passionate about history, and experienced. This year my 4th-grade team alone will take on three new teachers. Without the support of the state, the district, or our administration, and with only 25 minutes a day, what will their choices be?

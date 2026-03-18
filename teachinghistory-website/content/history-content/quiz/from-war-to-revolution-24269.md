@@ -13,7 +13,23 @@ summary: Can you answer these questions on figures who took part in the French a
   Indian War and the American Revolution?
 splash_image: /files/faiwar-splash.jpg
 thumbnail: /files/quiz_thumbnail/MapsCharThumbnail.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Global Contact
+- Military History
+- New England
+tags:
+- Benedict Arnold
+- Benjamin Franklin
+- France
+- French
+- French and Indian War
+- George Washington
+- Jeffrey Amherst
+- political cartoons
+- presidents
 ---
-
 
 In popular memory, the colonies' military history began with the American Revolution—but the colonies actually fought part of a global war earlier in the 18th century. The French and Indian War, a territorial conflict in the larger Seven Years' War, involved a number of individuals who would take part in the Revolution. Are the following true or false?

@@ -12,7 +12,23 @@ splash_image_fid: '9371'
 summary: Actor Danny Glover reads Frederick Douglass's 1852 speech "The Meaning of
   July Fourth for the Negro."
 splash_image: /files/splash-him-4douglass.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Reform
+- Slavery
+tags:
+- Frederick Douglass
+- Independence Day
+- abolition
+- abolitionism
+- abolitionists
+- fourth of july
+- holidays
+- orators
+- speeches
 ---
-
 
 Actor Danny Glover reads Frederick Douglass's 1852 speech "The Meaning of July Fourth for the Negro."

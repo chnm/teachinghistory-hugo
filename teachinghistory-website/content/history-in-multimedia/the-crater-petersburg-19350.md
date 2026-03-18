@@ -11,6 +11,16 @@ keywords: Petersburg, Virginia, Civil War, war, wars, soldiers, weapons, weaponr
 website_url: http://www.civilwartraveler.com/audio/index.html#crater
 date_published: '2008-05-29T00:00:00'
 series_name: Civil War Tours
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Ethnicity
+- Military History
+- Southern States
+tags:
+- Civil War
+- Virginia
 ---
 
 In this podcast, listeners learn about one of the most dramatic events of the Civil War—the explosion of tons of gunpowder under part of the Confederate line at Petersburg, July 30, 1864. Designed as a seven-stop walking tour, this podcast can also be listened to to gain a sense of the site's layout and history.

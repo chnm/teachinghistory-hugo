@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 4413
 website_url: http://www.crowwinghistory.org/
+time_periods:
+- All
+- General
+topics:
+- Daily Life
+- Midwestern States
+tags:
+- Crow Wing County
+- Minnesota
+- counties
 ---
 
 The Crow Wing County Historical Society has been preserving Crow Wing County's history since 1927. The museum has three floors of exhibits including displays on the lumber industry, the railroads, mining, and home life. The society also presents a completely-restored period home from the early 1900s.
+
 The society offers exhibits and access to a research library.

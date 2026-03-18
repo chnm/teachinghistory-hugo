@@ -15,9 +15,33 @@ summary: Visit the Gerald Ford Presidential Library for a wealth of resources re
 thumbnail: /files/Allida.jpg
 splash_image: /files/Gerald_R._Ford_Presidential_Library_and_Museum_432x240.jpg
 image: /files/website_image/FordLibrary_Image.jpg
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- International Relations
+- Military History
+- Politics
+evidence_types:
+- Newspapers and Periodicals
+- Official Documents
+- Oral History
+- Personal Accounts
+- Photographs
+- Political Documents
+- Speeches
+resource_types:
+- Audio
+- Images
+- Text
+tags:
+- Gerald Ford
+- betty ford
+- presidential libraries
+- presidents
 ---
 
-
 This site exhibits a selection of material relating to Gerald Ford's presidency. The site provides a 2,500-word biography of the former president and 800 words on his wife, Betty, as well as 230 photographs of their pre-presidential lives. More than 120 photographs of Ford in office range in subject from family pets to the Nixon pardon. A sample of 15 facsimile documents about Vietnam represents a larger collection that has recently been declassified.
+
 Other documents about Vietnam include General Fred C. Weyland's Vietnam assessment memo of April 1975, eight memoranda (4-7 pages) on conversations about the War, nine National Security Council meeting minutes (7-30 pages), and 14 photos of Ford and others in meetings about Vietnam. There are 41 National Security Study memos and 83 National Security Decision memos available on topics such as Israeli military requirements, the classification of nuclear safeguards, and U.S. policy for Antarctica. A collection of 20 items from Ford's 1976 campaign for president includes sheet music for his campaign theme song. Of the 40 Ford speeches and writings from 1970-2000 collected here, three are available as audio.
+
 The site is searchable by subject and easy to navigate. It is a useful resource for research on Ford, the Vietnam War, and the presidency.

@@ -15,10 +15,30 @@ summary: Historians have attempted to account for the great admiration that whit
   had for Tecumseh.
 thumbnail: /files/NHD4.jpg
 splash_image: /files/tecumseh-usna-grain-new.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- American Indians
+- Ideas & Ideologies
+- Midwestern States
+- Military History
+tags:
+- British
+- Canada
+- English
+- Native Americans
+- Ohio
+- Shawnee
+- War of 1812
+- generals
+- names
+- race
+- race relations
 ---
 
-
 Prior to the War of 1812, the Shawnee chief Tecumseh tried with his brother Tenskwatawa, a religious leader known as the Prophet, to revivify a confederacy of Indian peoples and rebuild it strong enough to halt the rapid expansion into their lands of American settlers, prevent additional lands from being sold to whites, and preserve Indian cultures from European influence. A number of such confederacies had been formed previously but had failed to hold together. Tecumseh ultimately allied with the British in their war against the U.S. and died in battle on October 5, 1813 at the Thames River in present-day Kent County, Ontario, fighting American soldiers who had invaded Canada. His confederation was the final one that posed a serious threat to American westward expansion.
+
 Tecumseh was highly respected by many of the white men who fought with him and against him. Tecumseh's ally, British general Isaac Brock, stated in 1812 that Tecumseh "has the admiration of everyone who conversed with him." Major John Richardson, who became Canada's first novelist, called him "a savage such as civilization herself might not blush to acknowledge as her child." Michigan Territory Governor Lewis Cass, who led militia troops against Tecumseh, praised him as "remarkable in the highest degree" and characterized his oratory as "the utterance of a great mind roused by the strongest motives of which human nature is susceptible; and developing a power and a labor of reason, which commanded the admiration of the civilized, as justly as the confidence and pride of the savage." In journalistic accounts, Tecumseh was represented as an Indian Napoleon, Hannibal, and Alexander. Towns in Michigan, Nebraska, Kansas, Missouri, Indiana, Alabama, Oklahoma, and Ontario today bear his name.
 
 ## Tecumseh Paradox
@@ -28,7 +48,9 @@ Historians have attempted to account for the great admiration that whites had fo
 ## Family Names
 
 Charles R. Sherman, the father of the future general, who settled in the Ohio Valley in 1811 and later became an Ohio State Supreme Court justice, was among the many admirers of Tecumseh. Lancaster, Ohio, where the general was born in 1820, is less than 40 miles northeast from the old Shawnee town of Chillicothe—just north of the present-day town of the same name— where historians believe that Tecumseh likely had been born some 55 years earlier. The Rev. P. C. Headley, in an 1865 biography of Sherman, one of at least five books about the general published since his military campaign of the previous year, quoted an unidentified person claiming to be from the area of the general's birthplace, who had written to Headley that Tecumseh "was for a long time kept in rather fond remembrance in this immediate vicinity, by those who were engaged in that conflict . . . because they knew that several times he prevented the shedding of innocent blood." The writer went on to relate that the desire of Sherman's father "to have one son educated for military life, led him to choose Tecumseh for the boy, he being born not long after the death of that chieftain."
+
 Some 20 years later, Sherman himself, in the second edition of his memoirs—he had neglected to discuss his early life in the first edition— wrote that the War of 1812 "caused great alarm and distress in all Ohio." He stated, "Nearly every man had to be somewhat of a soldier, but I think my father was only a commissary; still, he seems to have caught a fancy for the great chief of the Shawnees, 'Tecumseh.'" When Sherman's older brother James was born, the general related, his father "insisted on engrafting the Indian name 'Tecumseh' on the usual family list." Sherman's mother, who had named her first son after a brother of hers, prevailed, however, in her desire to name her second son after a second brother of hers. By the time of his own birth, Sherman continued, "mother having no more brothers, my father succeeded in his original purpose, and named me William Tecumseh." As a boy, Sherman was called "Cump" by family members.
+
 In 1872, William J. Reese, Sherman's brother-in-law, wrote that the choice of an Indian name did cause some consternation in the community. "Judge Sherman was remonstrated with, half in play and half in earnest, against perpetuating in his family this savage Indian name," Reese remembered. "He only replied, but it was with seriousness, 'Tecumseh was a great warrior' and the affair of the name was settled."
 
 ## Cultural Perceptions of Native Americans
@@ -38,6 +60,7 @@ The oft-repeated use of the term "savage" in describing Tecumseh and Indians in 
 ---
 
 Prior to the War of 1812, the Shawnee chief Tecumseh tried with his brother Tenskwatawa, a religious leader known as the Prophet, to revivify a confederacy of Indian peoples and rebuild it strong enough to halt the rapid expansion into their lands of American settlers, prevent additional lands from being sold to whites, and preserve Indian cultures from European influence. A number of such confederacies had been formed previously but had failed to hold together. Tecumseh ultimately allied with the British in their war against the U.S. and died in battle on October 5, 1813 at the Thames River in present-day Kent County, Ontario, fighting American soldiers who had invaded Canada. His confederation was the final one that posed a serious threat to American westward expansion.
+
 Tecumseh was highly respected by many of the white men who fought with him and against him. Tecumseh's ally, British general Isaac Brock, stated in 1812 that Tecumseh "has the admiration of everyone who conversed with him." Major John Richardson, who became Canada's first novelist, called him "a savage such as civilization herself might not blush to acknowledge as her child." Michigan Territory Governor Lewis Cass, who led militia troops against Tecumseh, praised him as "remarkable in the highest degree" and characterized his oratory as "the utterance of a great mind roused by the strongest motives of which human nature is susceptible; and developing a power and a labor of reason, which commanded the admiration of the civilized, as justly as the confidence and pride of the savage." In journalistic accounts, Tecumseh was represented as an Indian Napoleon, Hannibal, and Alexander. Towns in Michigan, Nebraska, Kansas, Missouri, Indiana, Alabama, Oklahoma, and Ontario today bear his name.
 
 ## Tecumseh Paradox
@@ -47,7 +70,9 @@ Historians have attempted to account for the great admiration that whites had fo
 ## Family Names
 
 Charles R. Sherman, the father of the future general, who settled in the Ohio Valley in 1811 and later became an Ohio State Supreme Court justice, was among the many admirers of Tecumseh. Lancaster, Ohio, where the general was born in 1820, is less than 40 miles northeast from the old Shawnee town of Chillicothe—just north of the present-day town of the same name— where historians believe that Tecumseh likely had been born some 55 years earlier. The Rev. P. C. Headley, in an 1865 biography of Sherman, one of at least five books about the general published since his military campaign of the previous year, quoted an unidentified person claiming to be from the area of the general's birthplace, who had written to Headley that Tecumseh "was for a long time kept in rather fond remembrance in this immediate vicinity, by those who were engaged in that conflict . . . because they knew that several times he prevented the shedding of innocent blood." The writer went on to relate that the desire of Sherman's father "to have one son educated for military life, led him to choose Tecumseh for the boy, he being born not long after the death of that chieftain."
+
 Some 20 years later, Sherman himself, in the second edition of his memoirs—he had neglected to discuss his early life in the first edition— wrote that the War of 1812 "caused great alarm and distress in all Ohio." He stated, "Nearly every man had to be somewhat of a soldier, but I think my father was only a commissary; still, he seems to have caught a fancy for the great chief of the Shawnees, 'Tecumseh.'" When Sherman's older brother James was born, the general related, his father "insisted on engrafting the Indian name 'Tecumseh' on the usual family list." Sherman's mother, who had named her first son after a brother of hers, prevailed, however, in her desire to name her second son after a second brother of hers. By the time of his own birth, Sherman continued, "mother having no more brothers, my father succeeded in his original purpose, and named me William Tecumseh." As a boy, Sherman was called "Cump" by family members.
+
 In 1872, William J. Reese, Sherman's brother-in-law, wrote that the choice of an Indian name did cause some consternation in the community. "Judge Sherman was remonstrated with, half in play and half in earnest, against perpetuating in his family this savage Indian name," Reese remembered. "He only replied, but it was with seriousness, 'Tecumseh was a great warrior' and the affair of the name was settled."
 
 ## Cultural Perceptions of Native Americans

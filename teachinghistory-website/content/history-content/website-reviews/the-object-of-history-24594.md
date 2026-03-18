@@ -14,11 +14,22 @@ summary: How do objects capture the past? And how do you display objects to make
 splash_image: /files/objectsplash.jpg
 image: /files/website_image/image-wr-ooh.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- All
+- General
+evidence_types:
+- Artifacts and Objects
+resource_types:
+- Images
+tags:
+- Smithsonian National Museum of American History
+- curating
+- curation
+- museums
 ---
-
 
 The Center for History and New Media and the Smithsonian National Museum of American History created this website to model both historical thinking about artifacts as primary sources and possible best practices for sharing museum collections online. With the site, students can curate their own virtual history exhibits, using documents and expert interviews related to six core artifacts from different time periods. The "Guide" section introduces users to how and why artifacts are important to historians. Seven 300- to 600-word essays argue that artifacts tell stories, create connections between people, hold many different meanings, capture moments, and reflect changes. After learning how historians relate to artifacts, users can tour model exhibits in "Objects," focusing on six Smithsonian-held artifacts: Thomas Jefferson's lapdesk, the gold nugget that started the California Gold Rush, a dress that belonged to Mary Todd Lincoln, an 1898 voting machine, the Woolworth counter where a sit-in took place in 1960, and a short-handled hoe used by farmworkers in the 1960s and 1970s.
 

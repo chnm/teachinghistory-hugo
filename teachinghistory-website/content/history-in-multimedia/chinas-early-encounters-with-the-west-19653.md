@@ -10,7 +10,25 @@ keywords: China, foreign policy, foreign relations, foreign affairs, Europe
 website_url: http://www.fpri.org/multimedia/20080301.wilson.chinaearlyencounterwest.html
 date_published: '2008-03-01T00:00:00'
 series_name: China's Encounter with the West
+time_periods:
+- All
+- General
+topics:
+- Asian Americans
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+tags:
+- China
+- Europe
+- foreign affairs
+- foreign policy
+- foreign relations
 ---
 
 Andrew Wilson of the U.S. Naval War College examines China's relationship with the U.S.—first in the 20th and 19th centuries, and then in the 18th back through the 16th centuries. This lecture was conducted for "China's Encounter with the West: A History Institute for Teachers," held on March 1-2, 2008. The event was sponsored by the Foreign Policy Research Institute's Wachman Center and the University of Tennessee at Chattanooga Asia Program, and held at UTC.
+
 Audio and video options are available.

@@ -13,7 +13,41 @@ keywords: Communism, politicians, political parties, party systems, World War I,
 website_url: http://www.digitalhistory.uh.edu/multimedia.cfm
 date_published: '2007-12-21T00:00:00'
 series_name: 'Digital History: American History Institute'
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Cities & Suburbs
+- Ideas & Ideologies
+- Labor
+- Legal History
+- Politics
+- Radicalism
+- Reform
+tags:
+- Communism
+- Reconstruction
+- World War I
+- journalism
+- journalists
+- labor movements
+- mass media
+- media coverage
+- party systems
+- political parties
+- politicians
+- progressiv
+- protest
+- protesters
+- protests
+- reportage
+- reporting
+- strikes
+- war
+- wars
+- working class
 ---
 
 Professor Nell Painter discusses the research that went into the writing of her book *Standing at Armageddon: The United States, 1877-1919*. She focuses on grassroots politics and labor movements during this period, and the political reaction to and fear of them.
+
 To view this lecture, scroll to "Nell Painter" under "American History Institute," which is in turn located under "E-Lectures."

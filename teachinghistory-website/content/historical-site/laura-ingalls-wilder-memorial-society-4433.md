@@ -6,7 +6,24 @@ content_type: historical_site
 draft: false
 drupal_nid: 4433
 website_url: http://www.liwms.com/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Daily Life
+- Education
+- Literature
+- Western States
+tags:
+- South Dakota
+- homes
+- houses
+- museums
+- schoolhouses
+- schools
 ---
 
 The Society allows visitors to step into the original Surveyors' House from Laura's book *By the Shores of Silver Lake,* or see firsthand Pa's craftsmanship in the house he built on Third Street, the Ingalls Home. The Society is open year-round and offers tours of the two original Ingalls family homes filled with items that belonged to Laura and her family and the First School of De Smet. There are 16 other sites in De Smet that Laura mentioned in her books that visitors may also see.
+
 The society offers exhibits and tours.

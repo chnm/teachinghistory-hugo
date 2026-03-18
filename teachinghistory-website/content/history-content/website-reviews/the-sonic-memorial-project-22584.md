@@ -13,7 +13,19 @@ summary: Known for the 9/11 tragedy, the World Trade Center possesses a broader 
   history.
 splash_image: /files/The_Sonic_Memorial_Project_432x240.jpg
 image: /files/website_image/SonicMemorialImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Cities & Suburbs
+- Mid-Atlantic
+evidence_types:
+- Oral History
+- Personal Accounts
+- Photographs
+resource_types:
+- Audio
+- Images
+- Text
 ---
-
 
 This is an ambitious project that details the history of the World Trade Centers and September 11th through sound. Originally started by NPR\_s Kitchen Sisters who host the radio program "Lost and Found Sound," this site harnesses the strengths of many organizations involved in image, audio, and video archiving such as Picture Projects and the September 11th Digital Archive. To date they have received more than 1,000 contributions from individuals and organizations that describe not just the thoughts or memories of September 11th survivors, but also narrations of events, such as weddings, that took place in the Towers. The site also contains a section for educators with six curriculum modules of two to three lessons each. In sum, this is an multi-sensory site that engages modern history and its impact on modern America.

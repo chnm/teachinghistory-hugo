@@ -10,6 +10,20 @@ keywords: primary sources, Williamsburg, professional development, institutes, V
 website_url: http://podcast.history.org/2008/09/08/teacher-institute/
 date_published: '2008-09-08T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- All
+- Colonization & Settlement, 1585-1763
+- General
+- Revolution & New Nation, 1754-1820s
+topics:
+- Education
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- institutes
+- primary sources
+- professional development
 ---
 
 Director of Teacher Development Tab Broyles describes Colonial Williamsburg's Teacher Institutes and their emphasis on introducing educators to using primary sources in the classroom.

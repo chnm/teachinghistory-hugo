@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 6363
 website_url: http://www.thehistorycenter.net
+time_periods:
+- All
+- General
+topics:
+- Mid-Atlantic
+tags:
+- New York
+- museums
 ---
 
 The Center seeks to help people use the tools of history to understand the past, gain perspective on the present, and play an informed role in shaping the future.
+
 The center offers exhibits, tours, educational programs, research library access, and educational and recreational events.

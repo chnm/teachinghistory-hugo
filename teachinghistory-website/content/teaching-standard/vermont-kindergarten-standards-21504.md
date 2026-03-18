@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21504
 grade_levels:
-  - elementary
+- elementary
 ---
 
 (Note: By the completion of kindergarten, Vermont students are expected to master the following standards.)

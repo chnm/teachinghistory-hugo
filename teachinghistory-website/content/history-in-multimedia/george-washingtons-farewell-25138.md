@@ -12,5 +12,7 @@ series_name: 'Colonial Williamsburg: Past and Present Podcasts'
 ---
 
 From Colonial Williamsburg: Past and Present Podcasts—
+
 "George Washington's 1796 Farewell Address teems with advice that rings true today. Listen to interpreter Ron Carnegie read excepts from the timeless epistle."
+
 The Colonial Williamsburg site also has an informative [page](http://www.history.org/Almanack/people/washhdr.cfm) that offers interested readers more information on George Washington.

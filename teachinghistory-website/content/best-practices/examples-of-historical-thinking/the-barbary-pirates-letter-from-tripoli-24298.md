@@ -17,10 +17,20 @@ summary: Two letters from 1800 Tripoli lead into a story of piracy, privateering
 splash_image: /files/Christine-Sears.jpg
 author_image: /files/author_image/image-eoht-sears.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Economy
+- International Relations
+- Military History
+- Politics
+tags:
+- Barbary Pirates
+- Barbary States
+- First Barbary War
+- Tripoli
 ---
-
-
 
 /files/media/video/Sears1.mp4
 

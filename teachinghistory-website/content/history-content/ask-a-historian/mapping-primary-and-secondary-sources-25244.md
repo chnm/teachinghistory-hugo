@@ -19,9 +19,11 @@ author_image_fid: '8350'
 summary: Is this map a primary source? Or is it secondary? How can you tell?!
 splash_image: /files/mapssplash_0.jpg
 author_image: /files/author_image/mail_2.jpeg
+tags:
+- Analyzing Maps and Charts
+- Maps
+- analyzing maps
 ---
-
-
 
 Librarians and archivists generally agree that a “primary source” is one produced contemporaneously by an eyewitness, participant, or someone with other direct evidence; that is, the person who makes the record is doing so out of his or her firsthand experience of the event or place. Secondary sources are produced by someone without direct experience of the event or place being recorded; secondary sources typically provide a synthesis or interpretation by an author removed from the scene. By this standard, only some maps are primary sources. First, explorer maps are primary sources: for example, maps of Hispaniola produced by Christopher Columbus and his cartographers in the 1490s are original documents created at the time of the encounter. Many other types of maps are primary sources too: the doodle map I create on the back of an envelope to show you the path from my house to the subway is a primary source; “mental maps” that individuals create of the extent of their geographical knowledge of their city or neighborhood are primary sources; maps produced in “real time” by humanitarian organizations in the field to identify the position of people needing assistance—or of the extent of the earthquake damage zone—are primary sources. Even when technology intervenes between the observer and the actual production of the cartography, (that is, the contemporaneous observer may not be the one who literally *produces* the map), these are primary sources: so, for example, an aerial photograph snapped by a reconnaissance plane several thousand feet overhead, and then translated by an automated cartography program into a map remains a primary source, even though one that is technologically produced. These fairly clear-cut examples aside, the waters then get muddier. A map created in 1870 by a U.S. military commander in Fort Dodge showing Native American-controlled lands in 1870 is a primary source. Even if this map is reproduced in a compilation in 2010, the map itself remains a primary source—assuming the 2010 source exactly reproduces the original without editing or redesign. But a map produced in 1965 showing what land Native Americans controlled in 1870 is a secondary source.
 

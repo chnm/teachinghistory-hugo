@@ -6,7 +6,22 @@ content_type: historical_site
 draft: false
 drupal_nid: 7251
 website_url: http://www.pattersonhistoricalsociety.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Labor
+- Latinos
+- Rural Life
+- Western States
+tags:
+- California
+- Chamber of Commerce
+- Patterson
+- W.T. Patterson
+- farm
 ---
 
 The history of the Patterson Township began with a Mexican land grant given to two brothers in 1844. The town was entirely sold to T.W. Patterson and family by 1908. Patterson decided to build his town in the same way as Paris and Washington D.C., laying out a series of circles with radiating streets. Patterson soon became a vibrant farming community in California's central valley. In 1978, the Center Building was granted to the Historical Society for use as a Patterson Township history museum. Today, the museum also serves as the headquarters for the Patterson-Westley Chamber of Commerce.
+
 The site offers several photographs depicted early figures from Patterson's history and the present day history museum, purchasing information for "The Gateway," the Patterson Historical Society's annual publication, and general information regarding the society.

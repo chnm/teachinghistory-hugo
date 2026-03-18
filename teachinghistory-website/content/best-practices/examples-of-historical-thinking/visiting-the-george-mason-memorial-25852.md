@@ -11,8 +11,20 @@ summary: How can you get teachers thinking about monuments and memorials as seco
   and primary sources? Historians Christopher Hamner and Michael O'Malley started
   out by introducing teachers to the George Mason Memorial, Washington, DC.
 splash_image: /files/georgemasonmem_0.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Revolution & New Nation, 1754-1820s
+topics:
+- Politics
+tags:
+- DC
+- District of Columbia
+- Washington DC
+- george mason
+- george mason memorial
+- memorials
+- monuments
 ---
-
 
 /files/media/video/georgemasonmem.mp4
 

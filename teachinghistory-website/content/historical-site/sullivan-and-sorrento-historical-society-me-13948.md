@@ -6,7 +6,12 @@ content_type: historical_site
 draft: false
 drupal_nid: 13948
 website_url: http://ellsworthme.org/sshs/
+time_periods:
+- General
+topics:
+- New England
 ---
 
 The Sullivan and Sorrento Historical Society seeks to preserve and share the history of Sullivan and Sorrento, ME. To this end, the society operates an archive.
+
 The society offers archive access.

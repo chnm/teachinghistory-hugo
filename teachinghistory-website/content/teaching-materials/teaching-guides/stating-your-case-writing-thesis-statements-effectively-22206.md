@@ -19,11 +19,13 @@ splash_image: /files/StatingYourCaseSplash.jpg
 image: /files/stopandthink.jpg
 author_image: /files/author_image/burak_1_1.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+topics:
+- Labor
+tags:
+- Haymarket Riot; labor relations; DBQ
 ---
-
-
 
 ## What is it?
 

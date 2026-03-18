@@ -10,7 +10,29 @@ keywords: Islam, Muslims, Quran, Koran
 website_url: http://www.fpri.org/multimedia/20060507.forte.islamlawhumanrights.html
 date_published: '2006-05-06T00:00:00'
 series_name: Islam, Islamism, and Democratic Values
+time_periods:
+- All
+- Contemporary US, 1968-Present
+- General
+- Postwar US, 1945-Early 1970s
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Legal History
+- Military History
+- Politics
+- Radicalism
+- Reform
+- Religion
+tags:
+- Islam
+- Koran
+- Muslims
+- Quran
 ---
 
 David Forte of Cleveland State University discusses the development of Islam away from its original written texts, arguing that the legal community, the needs of empire, and tribalism have distorted the religion's spiritual message, resulting in the current harsh treatment of apostates and religious minorities. He includes some comparison of Islam's development to that of Christianity and Judaism.
+
 Video and audio options are available.

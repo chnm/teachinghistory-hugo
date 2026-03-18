@@ -11,6 +11,23 @@ keywords: slaves, paintings, watercolors, plantations, conservation, restoration
 website_url: http://podcast.history.org/2008/03/10/a-rarity-restored/
 date_published: '2008-03-10T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Art
+- Children
+- Gender
+- Science & Tech.
+- Slavery
+- Women
+tags:
+- Antebellum
+- conservation
+- paintings
+- plantations
+- restoration
+- slaves
+- watercolors
 ---
 
 Colonial Williamsburg curator Barbara Luck and conservator Pam Young discuss the restoration and preservation of an 1830 watercolor of a young slave girl, done by Mary Custis (who married Robert E. Lee in the same year).

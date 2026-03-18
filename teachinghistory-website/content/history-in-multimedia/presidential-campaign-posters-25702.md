@@ -12,4 +12,5 @@ series_name: The Library of Congress Webcasts
 ---
 
 According to The Library of Congress Webcasts site:
+
 "Along with every presidential campaign there are great campaign posters. There are also ridiculous ones. In "Presidential Campaign Posters: Two Hundred Years of Election Art" editors and curators of the Library of Congress have mined the institution's extraordinary collections for 100 posters, from the campaigns of Andrew Jackson to Barack Obama." Listen as Ralph Eubanks, director of the Publishing Office at the Library of Congress, describes this extraordinary collection.

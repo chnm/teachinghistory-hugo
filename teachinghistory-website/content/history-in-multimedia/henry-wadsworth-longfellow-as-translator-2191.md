@@ -10,6 +10,23 @@ keywords: writers, writing, authors, poets, poetry, translation, translators, Eu
 website_url: http://dev.forum-network.org/lecture/henry-wadsworth-longfellow-translator
 date_published: '2007-09-12T00:00:00'
 series_name: Longfellow's Bicentennial
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- Global Contact
+- Ideas & Ideologies
+- Literature
+tags:
+- Europe
+- authors
+- poetry
+- poets
+- translation
+- translators
+- writers
+- writing
 ---
 
 Professor Colleen C. Boggs talks about poet Henry Wadsworth Longfellow's work as a translator, popularizing European literature for an American audience. Boggs also discusses the international exchange of literature as it occurred during the time in which Longfellow lived.

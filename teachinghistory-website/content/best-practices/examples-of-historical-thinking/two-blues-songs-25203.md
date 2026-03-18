@@ -16,9 +16,17 @@ summary: Written primary sources only tell you so much. To learn about history t
   was never written down, listen to sources like these two songs.
 splash_image: /files/splash.blues_.jpg
 author_image: /files/author_image/levine.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- African Americans
+- Popular Culture, Leisure
+tags:
+- blues
+- music
+- singers
+- songs
 ---
-
-
 
 /files/media/video/levine1.mp4
 

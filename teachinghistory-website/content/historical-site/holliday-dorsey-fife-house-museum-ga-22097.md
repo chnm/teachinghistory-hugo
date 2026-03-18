@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 22097
 website_url: http://www.hdfhouse.com/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Daily Life
+- Southern States
+tags:
+- Georgia
 ---
 
 The Greek Revival Holliday-Dorsey-Fife House, built in 1855, today serves as a historic house museum.
+
 The house offers exhibits and self-guided and guided tours for school groups.

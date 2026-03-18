@@ -6,6 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 6828
 website_url: http://www.hubbardston.org/index.htm
+topics:
+- Daily Life
+- Midwestern States
+- Rural Life
+tags:
+- Hubbardston
+- Michigan
+- genealogy
 ---
 
 " The purpose of the Hubbardston Area Historical Society shall be to promote the preservation, understanding and appreciation of the historical and cultrual heritage of Hubbardston and the surrounding area by:

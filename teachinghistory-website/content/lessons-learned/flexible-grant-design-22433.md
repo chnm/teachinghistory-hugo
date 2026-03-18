@@ -17,11 +17,14 @@ summary: With flexible grant design, all teachers can participate.
 splash_image: /files/Flexible_Grant_Design_-_432x240.jpg
 image: /files/ContortionistLoc.jpg
 author_image: /files/author_image/Andy_author.jpg
+tags:
+- TAH activities
+- primary sources
+- project management
 ---
 
-
-
 Finding ways for teachers who again, are absolutely burdened and myopic in terms of what they have to do every day, to have different points of entry into the grant, so that it's not one size fits all. “Everybody's going to get this treatment, I hope you can join us.” But rather, here are four or five different pieces of the overall grant design and depending on your own interest, your own engagement, your own timeframe, the fact that, you know, your husband's in med school or you coach the baseball team, or whatever the case may be, that you can find a way to participate.
+
 So finding those multiple entry levels and recognizing that some teachers, really all they have time for, right now, this year, this semester, is coming and listening to a provocative lecture. That's fine.
 > So finding those multiple entry levels and recognizing that some teachers, really all they have time for, right now, this year, this semester, is coming and listening to a provocative lecture. That's fine.
 

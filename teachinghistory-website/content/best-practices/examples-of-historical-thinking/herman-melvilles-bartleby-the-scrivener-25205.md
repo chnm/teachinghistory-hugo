@@ -15,9 +15,17 @@ summary: Is reading a piece of historic literature once enough? Not if you want 
   get the most out of literary sources.
 splash_image: /files/splash.putmansmonthly.jpg
 author_image: /files/author_image/author_hans.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Labor
+- Literature
+tags:
+- Herman Melville
+- authors
+- short stories
+- writers
 ---
-
-
 
 /files/media/video/bergman1.mp4
 

@@ -20,10 +20,15 @@ splash_image: /files/MormonRouteMapsplash.jpg
 image: /files/MormonRouteMap.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_2.JPG
 grade_levels:
-  - high
+- high
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Religion
+- Western States
+tags:
+- westward expansion
 ---
-
-
 
 **What is it?**
 
@@ -65,6 +70,7 @@ The Book of Mormon 
 *Annotation*: The Book of Mormon was published by Joseph Smith in March of 1830 in Palmyra, New York and is a central religious text of the Latter Day Saint movement. Palmyra is in western New York, an area known in the early 1800s as the “Burned-over district” due to the intensity of religious revivals in the region which were a major part of the Second Great Awakening. In addition to the establishment of the Mormon Church by Smith, religious groups such as the Millerites and the Oneida Colony were founded in this region and other groups like the Shakers and the Ebenezer Society were active as well. 
 
 For Latter-Day Saints, the Book of Mormon represents a new revelation something the text itself makes the case for new holy texts and new revelations:  
+
 “Thou fool, that shall say: A Bible, we have got a Bible, and we need no more Bible. Have ye obtained a Bible save it were by the Jews? Know ye not that there are more nations than one? Know ye not that I, the Lord your God, have created all men, and that I remember those who are upon the isles of the sea; and that I rule in the heavens above and in the earth beneath; and I bring forth my dword unto the children of men, yea, even upon all the nations of the earth?”
 
 *Book of Mormon* 2 Nephi 29:6-7
@@ -98,6 +104,7 @@ The Mormon Temple at Kirtland, Ohio - (59 x 79 feet), cost $70,000, dedicated Ma
 <https://www.loc.gov/item/2018651591/>
 
 *Annotation*:  
+
 In 1831, Joseph Smith moved the church headquarters to Kirtland, Ohio and there decreed that a temple should be built. The structure was large for its time, one of the larger buildings in northern Ohio. Smith received a revelation to, in his words, "Establish a house, even a house of prayer, a house of fasting, a house of faith, a house of learning, a house of glory, a house of order, a house of God." The architecture of the Kirtland Temple is a mixture of Federal and Gothic style. 
 
 Joseph Smith's original temple, Nauvoo, Ills. - digital file from original print | Library of Congress

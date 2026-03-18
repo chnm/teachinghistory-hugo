@@ -11,6 +11,24 @@ keywords: tobacco, agriculture, colonists, colonies, colonization, farms, farmer
 website_url: http://podcast.history.org/2008/10/06/tobacco-in-the-colonies/
 date_published: '2008-10-06T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- Business
+- Consumer Culture
+- Economy
+- Global Contact
+- International Relations
+- Southern States
+tags:
+- agriculture
+- colonies
+- colonists
+- colonization
+- farmers
+- farming
+- farms
+- tobacco
 ---
 
 Rural tradesman Wayne Randolph describes the farming of tobacco and the importance of the crop to colonial Virginia.

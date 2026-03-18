@@ -15,8 +15,22 @@ summary: Explore the 1779 Sullivan-Clinton Campaign to destroy the Seneca, Cayug
 splash_image: /files/SullivanClinton432x240.jpg
 thumbnail: /files/splash-money-fwr.jpg
 image: /files/website_image/SullClinImage.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- American Indians
+- Global Contact
+- Military History
+evidence_types:
+- Maps
+- Paintings and Prints
+resource_types:
+- Audio
+- Images
+- Text
+- Video
 ---
 
-
 This learning center focuses on the devastating 1779 Continental Army campaign into Iroquois Country that set out to destroy the Seneca, Cayuga, and Onondaga nations who had allied themselves with the British. It features maps, images, audio/visual presentations, and lesson plans. Three maps show the places affected by the campaign and its aftermath, including an interactive map explaining the background and course of the campaign, as well as an actual campaign map from 1779. The site has more than 300 images in 11 different thematic galleries including Iroquoia, the events of the campaign's 25th anniversary, traditional images, and alternative viewpoints. There are 10 audio/visual presentations directly inspired by the campaign and its aftermath or "devoted to a world freed from its legacy."
+
 The educator's guide to the campaign offers an introduction that includes an overview, background to the campaign and goals, and 13 lesson plans. The site also provides a section for posting commentary and discussion about the campaign and provides 13 links to related websites. A useful site for teaching the Revolutionary War and for anyone with an interest in the 1779 Sullivan-Clinton Campaign and its legacy.

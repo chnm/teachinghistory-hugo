@@ -17,11 +17,23 @@ summary: Jefferson, surprised by the Louisiana Purchase? Maybe not. Historian Le
 splash_image: /files/Jeffersons_Confidential_Letter_-_432x240.jpg
 author_image: /files/author_image/Leah_author2.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Environment
+- Global Contact
+- Ideas & Ideologies
+- Politics
+- Western States
+tags:
+- Lewis and Clark Expedition
+- Louisiana Purchase
+- Thomas Jefferson
+- letters
 ---
-
-
 
 /files/media/video/Leah1.mp4
 

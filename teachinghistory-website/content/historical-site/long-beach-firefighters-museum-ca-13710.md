@@ -6,7 +6,13 @@ content_type: historical_site
 draft: false
 drupal_nid: 13710
 website_url: http://lbfdmuseum.org/
+time_periods:
+- General
+topics:
+- Science & Tech.
+- Western States
 ---
 
 The Long Beach Firefighters Museum presents the history of firefighting. Collections include historic fire engines and other vehicles dating to the 1920s and onward, breathing apparatus, and firefighting hats. The museum is located within a 1925 fire station.
+
 The website offers historic photographs.

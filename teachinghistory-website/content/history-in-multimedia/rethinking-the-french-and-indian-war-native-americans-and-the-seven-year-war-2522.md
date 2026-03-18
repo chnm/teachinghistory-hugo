@@ -12,6 +12,28 @@ keywords: French and Indian War, Seven-Year War, France, Native Americans, race,
 website_url: http://www.teachingamericanhistory.us/tah_2/speakers/smolenski.html
 date_published: '2007-05-22T00:00:00'
 series_name: 'History Grows in Oakland: Lectures'
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- American Indians
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+tags:
+- France
+- French and Indian War
+- Native Americans
+- Seven-Year War
+- colonies
+- colonists
+- colonization
+- race
+- race relations
+- racism
+- war
+- wars
 ---
 
 Professor John Smolenski describes the French and Indian War (or Seven-Year War), looking at its significance in North American history and its neglect in popular memory and understanding.

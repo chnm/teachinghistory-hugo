@@ -16,11 +16,22 @@ summary: For African American History Month, don't just focus on the heroes—us
   sources to explore the lives of ordinary people.
 splash_image: /files/splash-blog-aa2011.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- All
+- General
+topics:
+- African Americans
+- Daily Life
+- Military History
+tags:
+- african american heritage month
+- african american history month
+- black history month
+- holidays
 ---
-
 
 It's February! Resources throughout the web stand ready to provide you with lessons and primary source materials for Black History Month (also known as African American History Month), but African American history stretches far beyond the confines of one month and the narrative litany of a handful of cultural heroes. Maybe you want to go beyond Martin Luther King, Jr., Frederick Douglass, and Jackie Robinson. What stories can you uncover beyond the headlining stories textbooks provide? Remind your students of the complexity of African American history with these resources.
 

@@ -6,7 +6,23 @@ content_type: historical_site
 draft: false
 drupal_nid: 10984
 website_url: http://www.pioneerwomanmuseum.com/home.htm
+time_periods:
+- All
+- General
+topics:
+- Family Life
+- Gender
+- Midwestern States
+- Western States
+- Women
+tags:
+- Cherokee Strip
+- Oklahoma
+- museums
+- pioneers
+- settlers
 ---
 
 The Museum preserves the legacy of women from all races, creeds, and nationalities who have contributed to the development of Oklahoma. Its education center features craft demonstrations, special exhibits, an interactive timeline, and the Pioneer Woman Walk of Fame.
+
 The museum offers exhibits, demonstrations, workshops, and educational and recreational events.

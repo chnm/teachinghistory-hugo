@@ -13,10 +13,19 @@ summary: Maximize student creativity with these tools that let students create t
 splash_image: /files/pixtonsplash.jpg
 image: /files/Pixton_0.png
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Pixton
+- ToonDoo
+- cartoons
+- comics
+- creativity
+- digital tools
+- multimedia
+- presentations
+- visuals and visualizing
 ---
-
 
 [Pixton](http://www.pixton.com) and [ToonDoo](http://www.toondoo.com/) are web-based comic/cartoon creation tools. They can help foster creative thinking in the classroom through the ability to create original characters, or to develop unique forms of historical analysis.

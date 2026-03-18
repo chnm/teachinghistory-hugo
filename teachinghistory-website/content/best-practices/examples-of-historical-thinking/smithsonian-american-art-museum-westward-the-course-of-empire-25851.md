@@ -11,8 +11,19 @@ summary: Watch Suzannah Niepold guide TAH teachers through analyzing the differe
   between two versions of Emanuel Gottlieb Leutze's *Westward the Course of Empire
   Takes Its Way*.
 splash_image: /files/replacesplash_0.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Art
+tags:
+- U.S. Capitol
+- art
+- artists
+- emaneul gottlieb leutze
+- manifest destin
+- westward expansion
 ---
-
 
 /files/media/video/AmArt5.mp4
 

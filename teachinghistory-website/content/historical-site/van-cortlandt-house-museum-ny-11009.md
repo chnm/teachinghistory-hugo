@@ -6,7 +6,21 @@ content_type: historical_site
 draft: false
 drupal_nid: 11009
 website_url: http://www.vancortlandthouse.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Family Life
+- Mid-Atlantic
+tags:
+- Bronx
+- New York
+- New York City
+- Van Cortlandt
+- agriculture
+- farm
 ---
 
 Van Cortlandt House Museum is a beautiful historical house museum located in Van Cortlandt Park, which is in the Bronx. The house was home to the wealthy Van Cortlandt family, and takes visitors back to a period when Van Cortlandt Park was no more than a farm.
+
 The museum offers individual and group tours along with special events. The website offers visitor information.

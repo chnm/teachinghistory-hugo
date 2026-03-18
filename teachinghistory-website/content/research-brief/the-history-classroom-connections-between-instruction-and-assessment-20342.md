@@ -12,11 +12,10 @@ summary: What are the connections between student performance on tests and what 
 splash_image: /files/splash-rb-sols.jpg
 image: /files/historyclass.jpeg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
-
 
 * Develop lessons and materials that go beyond traditional use of lectures and textbooks.
 * Create reading and writing activities focused on primary documents.

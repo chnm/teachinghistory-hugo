@@ -13,10 +13,34 @@ summary: A wheeled pull toy depicting Nixon with a crown? If you're looking for 
   unique object to bring up in class, start with the digital commons.
 splash_image: /files/yaledigitalcommons432x240.jpg
 image: /files/website_image/yaledigitalcommons150x113.jpg
+topics:
+- American Indians
+- Art
+- Asian Americans
+- Daily Life
+- Environment
+- Global Contact
+- Literature
+- Popular Culture, Leisure
+- Religion
+evidence_types:
+- Archeology
+- Architecture
+- Artifacts and Objects
+- Literary Sources
+- Maps
+- Paintings and Prints
+- Photographs
+resource_types:
+- Images
+tags:
+- Yale
 ---
 
-
 The Yale Digital Commons provides access to sources from the Yale Center for British Art, Yale Peabody Museum of Natural History, Yale University Art Gallery, Yale University Library, and Yale University on iTunes U.
+
 Getting acquainted with the commons can be somewhat daunting. Arrival on the homepage simply offers a keyword search with only a slight indication of the extent or content types of the collections you can search. The description states the contents include "art, natural history, books, and maps, as well as photos, audio, and video documenting people, places, and events that form part of Yale's institutional identity and contribution to scholarship."
+
 The best way to proceed is to select Advanced Search. From here, you can limit a search to items available online. You can also pick one or more of the aforementioned institutions to search within, or choose specific collections which range from African Art or American Decorative Arts to Vertebrate Zoology or Yale University.
+
 Sources you can find using this system include apparel; architectural elements; arms and armor; books, coins, and medals; calligraphy; containers; drawings and watercolors; flatware; fossils; furniture; hardware; inscriptions; lighting devices; jewelry; manuscripts and documents; masks; minerals; miniatures; models; mosaics; musical instruments; packaging; paintings; photographs; plant and animal remains; print templates; scientific instruments; stained glass; textiles; tools and equipment; timepieces; toys and games; sculpture; and wallpaper.

@@ -16,9 +16,24 @@ summary: How do the speeches of Sojourner Truth and Frances Ellen Watkins Harper
   Historian Carla Peterson examines documents for answers.
 splash_image: /files/replacesplash2.jpg
 author_image: /files/author_image/author_peterson.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Gender
+- Politics
+- Reform
+- Slavery
+- Women
+tags:
+- Frances Ellen Watkins Harper
+- abolition
+- abolitionists
+- orators
+- sojourner truth
+- speeches
 ---
-
-
 
 /files/media/video/peterson1.mp4
 

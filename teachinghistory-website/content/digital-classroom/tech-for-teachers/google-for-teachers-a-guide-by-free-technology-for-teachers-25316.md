@@ -12,7 +12,17 @@ splash_image_fid: '8571'
 summary: Go beyond Google Search with this free guide to Google services.
 splash_image: /files/googletesch4teachsplash.jpg
 image: /files/googletesch4teachimage.jpg
+tags:
+- Collaboration
+- Google
+- classroom management
+- collecting and organizing
+- multimedia
+- presentations
+- research
+- social networking
+- technology
+- visuals and visualizing
 ---
-
 
 Google for Teachers is a free guide that examines both principal and often-overlooked features for many Google products.

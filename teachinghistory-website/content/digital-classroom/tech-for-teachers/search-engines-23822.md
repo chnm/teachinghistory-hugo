@@ -12,10 +12,11 @@ summary: 'Beyond Google: effective use of search engines takes careful critical 
 splash_image: /files/searchengines.jpg
 image: /files/searchenginessm.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- research
 ---
-
 
 Google is the big one, but good search techniques and other tools provide specialized approaches to web information retrieval.

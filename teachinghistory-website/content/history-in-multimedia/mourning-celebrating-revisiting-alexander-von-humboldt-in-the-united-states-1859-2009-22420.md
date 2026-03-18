@@ -9,7 +9,18 @@ drupal_nid: 22420
 duration: 01:20:13
 website_url: http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=4600
 date_published: '2009-05-06T00:00:00'
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Environment
+- Global Contact
+- Literature
+- Science & Tech.
+tags:
+- Germany
 ---
 
 From the Library of Congress website:
+
 "Alexander von Humboldt achieved cultural hero status in the United States in the second half of the 19th century. His travels, experiments and knowledge transformed Western science. A lecture at the Library of Congress examined the influence and legacy of the German naturalist and explorer."

@@ -14,10 +14,15 @@ summary: Create, share, and collaborate with this free word-processing tool!
 splash_image: /files/GoogleDocsSplash.jpg
 image: /files/GoogleDocs150x113.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Collaboration
+- Google
+- Google Docs
+- classroom management
+- social networking
 ---
-
 
 Create, share, and collaborate with this free word-processing tool. Build class documents students can alter from home.

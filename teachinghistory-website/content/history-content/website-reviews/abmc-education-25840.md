@@ -12,10 +12,15 @@ splash_image_fid: '10185'
 summary: Classroom activities for teaching aspects of World War I and World War II.
 splash_image: /files/ActivityImage-FreddieStowers.png
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+resource_types:
+- Images
+- Text
+- Video
+tags:
+- Cemetery
 ---
-
 
 [The American Battle Monuments Commission](abmceducation.org) (ABMC) has updated its site to include interdisciplinary classroom activities that highlight a diverse set of topics relating to both World War I and World War II. ABMC manages permanent U.S. military cemeteries, memorials, and monuments within the United States and abroad. The lesson plans are geared for grades 6-12 and offer different levels of challenge, adaptations, and methods for extension.
 

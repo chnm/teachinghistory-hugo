@@ -18,14 +18,20 @@ summary: What does historical "greatness" mean, anyway?
 splash_image: /files/johnadamsgreat432x240.jpg
 author_image: /files/author_image/ag2.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+tags:
+- John Adams
+- presidents
 ---
 
-
-
 A number of presidential historians have come to a consensus regarding the qualities that so-called great presidents have exhibited. For example, Arthur Schlesinger, Jr. distinguishes great presidents as those who "possess, or are possessed by, a vision of an ideal America." Another historian, Robert Dallek, similarly states "every effective president had a vision or even a series of visions about where he wished to lead the country." In addition to possessing a vision for the nation, great presidents have succeeded in establishing what Schlesinger describes as "a deep psychic connection with the needs, anxieties, dreams of people." They have achieved this bond using education and persuasion to convince Americans to consent to their own vision of the nation's future. Dallek correspondingly writes that effective presidents have needed to found their policies "on a shared national perception of what served the country's well-being." James MacGregor Burns likewise links leadership to the creation of a "collective purpose" measured "by the satisfaction of human needs and expectations."
+
 In addition to vision, Schlesinger observes that while moments of crisis have presented presidents with "opportunities for bold and imaginative action," even without such crises, "forceful and persuasive presidents—Jefferson, Jackson, Theodore Roosevelt, Ronald Reagan—are able to impose their own priorities on the country." Dallek adds pragmatism and credibility as essential qualities of the most effective presidents.
 
 ## The Traditional Assessment
@@ -33,6 +39,7 @@ In addition to vision, Schlesinger observes that while moments of crisis have pr
 > Much of the lingering criticism of Adams can be traced to his re-election campaign of 1800. . .
 
 Using the above mentioned criteria, John Adams has not traditionally been viewed as one of the great presidents of the United States. Much of the lingering criticism of Adams can be traced to his re-election campaign of 1800, which he lost to Thomas Jefferson, becoming the nation's first one-term president. During the campaign, he was criticized by both the Republicans, who supported Jefferson, and his own party, the Federalists. Popular historian David McCullough has described the campaign, which resulted in Thomas Jefferson's ascendancy to the presidency, as "a contest of personal vilification surpassing any presidential election in American history." During the 1800 campaign, Adams was called a monarchist, a warmonger, and an indecisive leader during wartime. He was tarred as a vain eccentric with an "ungovernable temper." He was attacked for his conservative outlook and for his tendency to act irresponsibly and capriciously without consulting his cabinet and advisors. His enemies spread rumors that he was insane, and like Jefferson, he was branded as a libertine.
+
 Adams was also blamed both for actions he took during his term in office and for a supposed turn in political philosophy to favor aristocracy and monarchy over republicanism and democracy due to his opposition to the French Revolution. During the subsequent "quasi-war" with France, Adams's signing into law the Alien and Sedition Acts, which he did not initiate, became a liability that tarnished his reputation. His call for new taxes and the creation of a standing army alienated many at the time. With Jefferson's victory characterized as the "Revolution of 1800," Adams's association with the extinguished Federalist party has been proof for many that he was on the wrong side of history.
 
 ## Recent Redemption
@@ -42,6 +49,7 @@ However, recent biographies have sought to reconsider Adams and his legacy. One 
 ---
 
 A number of presidential historians have come to a consensus regarding the qualities that so-called great presidents have exhibited. For example, Arthur Schlesinger, Jr. distinguishes great presidents as those who "possess, or are possessed by, a vision of an ideal America." Another historian, Robert Dallek, similarly states "every effective president had a vision or even a series of visions about where he wished to lead the country." In addition to possessing a vision for the nation, great presidents have succeeded in establishing what Schlesinger describes as "a deep psychic connection with the needs, anxieties, dreams of people." They have achieved this bond using education and persuasion to convince Americans to consent to their own vision of the nation's future. Dallek correspondingly writes that effective presidents have needed to found their policies "on a shared national perception of what served the country's well-being." James MacGregor Burns likewise links leadership to the creation of a "collective purpose" measured "by the satisfaction of human needs and expectations."
+
 In addition to vision, Schlesinger observes that while moments of crisis have presented presidents with "opportunities for bold and imaginative action," even without such crises, "forceful and persuasive presidents—Jefferson, Jackson, Theodore Roosevelt, Ronald Reagan—are able to impose their own priorities on the country." Dallek adds pragmatism and credibility as essential qualities of the most effective presidents.
 
 ## The Traditional Assessment
@@ -49,6 +57,7 @@ In addition to vision, Schlesinger observes that while moments of crisis have pr
 > Much of the lingering criticism of Adams can be traced to his re-election campaign of 1800. . .
 
 Using the above mentioned criteria, John Adams has not traditionally been viewed as one of the great presidents of the United States. Much of the lingering criticism of Adams can be traced to his re-election campaign of 1800, which he lost to Thomas Jefferson, becoming the nation's first one-term president. During the campaign, he was criticized by both the Republicans, who supported Jefferson, and his own party, the Federalists. Popular historian David McCullough has described the campaign, which resulted in Thomas Jefferson's ascendancy to the presidency, as "a contest of personal vilification surpassing any presidential election in American history." During the 1800 campaign, Adams was called a monarchist, a warmonger, and an indecisive leader during wartime. He was tarred as a vain eccentric with an "ungovernable temper." He was attacked for his conservative outlook and for his tendency to act irresponsibly and capriciously without consulting his cabinet and advisors. His enemies spread rumors that he was insane, and like Jefferson, he was branded as a libertine.
+
 Adams was also blamed both for actions he took during his term in office and for a supposed turn in political philosophy to favor aristocracy and monarchy over republicanism and democracy due to his opposition to the French Revolution. During the subsequent "quasi-war" with France, Adams's signing into law the Alien and Sedition Acts, which he did not initiate, became a liability that tarnished his reputation. His call for new taxes and the creation of a standing army alienated many at the time. With Jefferson's victory characterized as the "Revolution of 1800," Adams's association with the extinguished Federalist party has been proof for many that he was on the wrong side of history.
 
 ## Recent Redemption

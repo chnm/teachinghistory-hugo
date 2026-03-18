@@ -9,6 +9,12 @@ duration: 00:12:20
 website_url: http://podcast.history.org/2009/12/07/the-john-smith-well/
 date_published: '2009-12-07T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present Podcasts'
+time_periods:
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Environment
+tags:
+- John Smith; archeology
 ---
 
 In this podcast, Colonial Williamsburg's Harmony Hunter interviews archaeologist Bill Kelso. Kelso is the director of archeology on Jamestown Island and is currently working on excavating a well that was created in 1609 under the orders of Captain John Smith. Hunter and Kelso discuss the excavation process and the importance of the discovery.

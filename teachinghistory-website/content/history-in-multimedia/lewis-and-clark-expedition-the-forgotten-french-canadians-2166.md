@@ -11,7 +11,31 @@ keywords: race, racism, race relations, Native Americans, French-Canadians, expl
   Purchase, Lewis and Clark
 website_url: http://dev.forum-network.org/lecture/lewis-and-clark-expedition-forgotten-french-canadians
 date_published: '2007-03-15T00:00:00'
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Environment
+- Ethnicity
+- Global Contact
+- Rural Life
+- Western States
+tags:
+- French-Canadians
+- Lewis and Clark
+- Lewis and Clark Expedition
+- Louisiana Purchase
+- Native Americans
+- cartographers
+- cartography
+- exploration
+- explorers
+- mapping
+- race
+- race relations
+- racism
 ---
 
 French-Canadian reporter Richard Hetu details the roles of French Canadians in the Louis and Clark Expedition. Hetu focuses particularly on Toussaint Charbonneau, husband of Sacagawea. The presentation includes slides.
+
 The lecture's audio is also available for download as a mp3 file.

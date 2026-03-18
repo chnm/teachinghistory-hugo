@@ -13,10 +13,17 @@ summary: Two styles of document reading demonstrate what successful readers do t
 splash_image: /files/splash-alep.jpg
 image: /files/lincoln_0.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Politics
+tags:
+- Abraham Lincoln
+- presidents
 ---
-
 
 The past, as L.P. Hartley wrote, is a "foreign country," which means that people thought, spoke, dressed, and lived in different ways than we do today.
 

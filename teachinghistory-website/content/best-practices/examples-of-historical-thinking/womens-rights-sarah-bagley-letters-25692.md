@@ -17,12 +17,22 @@ summary: What do these letters from a women's rights activist reveal about socia
 splash_image: /files/murphysplash.jpg
 author_image: /files/author_image/author_murphy.png
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Gender
+- Labor
+- New England
+- Reform
+- Women
+tags:
+- Women's Movement
+- factories
+- women's rights
 ---
-
-
 
 /files/media/video/Murphy1.mp4
 

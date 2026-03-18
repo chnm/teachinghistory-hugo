@@ -6,7 +6,17 @@ content_type: historical_site
 draft: false
 drupal_nid: 9309
 website_url: http://morrisoncountyhistory.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Midwestern States
+tags:
+- Little Falls
+- Minnesota
+- local history
 ---
 
 The Morrison County Historical Society is a non-profit organization devoted to preserving historical information regarding Morrison County, Minnesota. The society maintains a local history museum, the Charles A. Weyerhaeuser Memorial Museum.
+
 The museum offers exhibits on local Morrison County history. Group tours are available by appointment. The website offers a history of Morrison County, information regarding the resources available for resources, and visitor information.

@@ -13,7 +13,42 @@ keywords: U.S. Supreme Court, courts, law, laws, trials, U.S. Constitution, Worl
 website_url: http://teachingamericanhistory.org/institutes/2003/supremecourt_readings.html
 date_published: '2003-07-09T00:00:00'
 series_name: The Origins and Development of the Supreme Court
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+topics:
+- Asian Americans
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Legal History
+- Military History
+- Politics
+tags:
+- Japan
+- Japanese
+- Japanese-Americans
+- Korematsu v. U.S.
+- Patriot Act
+- U.S. Constitution
+- U.S. Supreme Court
+- World War II
+- courts
+- foreign policy
+- foreign relations
+- internment camps
+- law
+- laws
+- race
+- race relations
+- racism
+- terrorists
+- trials
+- war
+- wars
 ---
 
 Professor Ken Masugi looks at the 1944 U.S. Supreme Court case *Korematsu v. U.S.*, in which the Supreme Court ruled that the internment of Japanese Americans during World War II was constitutional—a ruling that still stands today. Masugi compares and contrasts the context and substance of this ruling with the current political and judicial stance on terrorists, looking at the U.S. Patriot Act and arguments over whether or not this document is constitutional.
+
 To listen to this lecture, scroll to session seven, and select the RealAudio link to the left of the main body of text.

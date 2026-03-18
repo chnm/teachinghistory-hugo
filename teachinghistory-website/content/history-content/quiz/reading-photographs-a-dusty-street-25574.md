@@ -12,8 +12,23 @@ thumbnail_fid: '3033'
 summary: When and where was this photo taken? See what clues you can spot!
 splash_image: /files/quiz-landscape-splash_0.jpg
 thumbnail: /files/quiz_thumbnail/19thTXThumbnail.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Asian Americans
+- Children
+- Media
+- Western States
+tags:
+- Ansel Adams
+- Japanese American internment
+- Japanese Americans
+- Manzanar
+- photographs
+- photos
+- primary sources
 ---
 
-
 When you look at a photo, do you really take the time to see it? Or do you give it a quick glance before reading the caption?
+
 Try examining this uncaptioned photograph. (To see a larger version, click "Dusty Street Photo" on the left.) What can you learn from careful analysis alone? Answer these questions about what you see.

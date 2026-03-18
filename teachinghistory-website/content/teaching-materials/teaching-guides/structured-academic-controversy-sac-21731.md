@@ -14,10 +14,11 @@ summary: Are classroom discussions about winning the argument or about understan
 splash_image: /files/StructuredAcademicSplash.jpg
 image: /files/StructuredAcademic-150x113.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+topics:
+- Politics
 ---
-
 
 ## What Is It?
 

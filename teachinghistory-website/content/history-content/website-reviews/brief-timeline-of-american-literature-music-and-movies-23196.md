@@ -15,7 +15,28 @@ summary: Explore film, music, and literature in its social context and chronolog
 splash_image: /files/brieftimeline.jpg
 thumbnail: /files/Famous_American_Trials-_Salem_Witchcraft_Trials_432x240.jpg
 image: /files/website_image/BrieTimeImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- African Americans
+- Consumer Culture
+- Literature
+- Popular Culture, Leisure
+evidence_types:
+- Film and Video
+- Literary Sources
+- Music
+- Speeches
+resource_types:
+- Audio
+- Text
+- Video
 ---
-
 
 Supplies links to 22 full-text works of American literature, 180 pieces of recorded music, and 14 motion pictures from the years 1890 through 1929. In addition to the literary texts, the site includes thousands of links to more than 100 literary figures from this period and listings in decade-by-decade timelines for significant other works (texts not provided). Music and songs accessible in RealPlayer format include performances by Scott Joplin, Eubie Blake, John Philip Sousa, Bert Williams, Nora Bayes, Enrico Caruso, John McCormack, Billy Murray, Joe Venuti, Helen Kane, Jelly Roll Morton, Bessie Smith, Al Jolson, and a youthful Bing Crosby. A 1908 talk on "Unlawful Trusts" by presidential candidate William H. Taft is also included. Most of the films provided were produced between 1897 and 1906. While this site is still under construction, it presently offers a good variety of sounds, sights, and texts from these four decades.

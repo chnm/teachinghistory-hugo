@@ -13,8 +13,13 @@ splash_image_fid: '7432'
 summary: Can video help me teach about primary and secondary sources?
 splash_image: /files/ps_wordle_432x240.png
 image: /files/lesson_image/ht_vid_thumb.jpg
+tags:
+- historical thinking
+- primary sources
+- secondary sources
+- video
+- videos
 ---
-
 
 You’ve come to the right place! Here are several high-quality online videos that teach about primary and secondary sources—and historical thinking more broadly—to get you started.
 
@@ -37,6 +42,7 @@ Click image to enlarge
 ## Other Resources
 
 Explore Teachinghistory.org for more resources, including a recent blog on [Historical Thinking](http://teachinghistory.org/nhec-blog/24434) or resources for [analyzing](http://teachinghistory.org/best-practices/using-primary-sources) or [teaching with](http://teachinghistory.org/teaching-materials) primary sources.
+
 Or try watching [examples of historical thinking](http://teachinghistory.org/best-practices/examples-of-historical-thinking) or [Teaching in Action](http://teachinghistory.org/best-practices/teaching-in-action) in classrooms around the country.
 
 ---
@@ -62,4 +68,5 @@ Click image to enlarge
 ## Other Resources
 
 Explore Teachinghistory.org for more resources, including a recent blog on [Historical Thinking](http://teachinghistory.org/nhec-blog/24434) or resources for [analyzing](http://teachinghistory.org/best-practices/using-primary-sources) or [teaching with](http://teachinghistory.org/teaching-materials) primary sources.
+
 Or try watching [examples of historical thinking](http://teachinghistory.org/best-practices/examples-of-historical-thinking) or [Teaching in Action](http://teachinghistory.org/best-practices/teaching-in-action) in classrooms around the country.

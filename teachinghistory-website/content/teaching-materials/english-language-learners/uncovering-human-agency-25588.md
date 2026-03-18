@@ -137,8 +137,8 @@ image: /files/humanagencyimage.jpg
 author_image: /files/author_image/author_oliviera.jpg
 ---
 
-
-
 de Oliveira, L. C. "[Nouns in History: Packaging Information, Expanding Explanations, and Structuring Reasoning](http://www.societyforhistoryeducation.org/pdfs/de_Oliveira.pdf)." *The History Teacher*, 43:2 (2010), 191-203.
+
 de Oliveira, L. C. *Knowing and Writing School History: The Language of Students' Expository Writing and Teachers' Expectations*. Charlotte, NC: Information Age Publishing, 2011.
+
 Read more on the language of history at Teachinghistory.org in "[The Grammar of History Textbooks, Part I: Language Analysis](http://teachinghistory.org/best-practices/teaching-with-textbooks/19439)" and "[The Grammar of History Textbooks Part II: Questioning the Text](http://teachinghistory.org/best-practices/teaching-with-textbooks/20574)."

@@ -15,8 +15,31 @@ summary: This gateway site provides a wealth of resources pertaining to the Amer
 thumbnail: /files/splash-aamt-paulr.jpg
 splash_image: /files/splash-wr-westweb.jpg
 image: /files/website_image/WestWeb_Image.jpg
+topics:
+- African Americans
+- American Indians
+- Asian Americans
+- Cities & Suburbs
+- Economy
+- Environment
+- Ethnicity
+- Immigration
+- Legal History
+- Military History
+- Politics
+- Popular Culture, Leisure
+- Religion
+- Rural Life
+- Sexuality
+- Western States
+- Women
+resource_types:
+- Images
+- Text
+tags:
+- the West
 ---
 
-
 This gateway offers a wide range of links to primary and secondary documents, bibliographies, maps, images, and other resources for the study and teaching of the American West. Its 31 topics include agriculture, economics, the environment, ethnicity, gender and sexuality, military history, political and legal history, religion, settlement, technology, and water. Also highlights six selected "outstanding sites."
+
 Well-designed, comprehensive, and easy to navigate, the site also furnishes syllabi and additional teaching materials and suggestions.

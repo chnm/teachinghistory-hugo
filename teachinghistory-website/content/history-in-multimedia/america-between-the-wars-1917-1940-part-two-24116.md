@@ -12,8 +12,12 @@ series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institu
 splash_image_fid: '6145'
 splash_image: /files/splash-him-amerbetweenwars_0.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- Immigration
 ---
-
 
 Michael Kazin, professor of History at Georgetown University, explores cultural change and cultural backlash in America during the 1920s in reaction to the influx of immigrants in the early part of the century. This lecture is part two of two. Click for [part one](http://teachinghistory.org/history-content/history-in-multimedia/24115).

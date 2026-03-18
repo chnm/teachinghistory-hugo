@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20954
 grade_levels:
-  - high
+- high
 ---
 
 (Note: By the completion of high school, Colorado students are expected to master the following standards.)

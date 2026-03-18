@@ -10,7 +10,24 @@ keywords: Boston, cemeteries, music, musicians, Mount Auburn Cemetery
 website_url: http://dev.forum-network.org/lecture/facets-mount-auburn-music
 date_published: '2007-01-24T00:00:00'
 series_name: Mount Auburn Cemetery's 175th Anniversary Series
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Art
+- Cities & Suburbs
+- Consumer Culture
+- Media
+- New England
+- Popular Culture, Leisure
+tags:
+- Boston
+- Mount Auburn Cemetery
+- cemeteries
+- music
+- musicians
 ---
 
 Musicologist Steven Ledbetter talks about his research into Boston's music life between 1875 and 1925, focusing on individuals who are now buried in Boston's historic Mount Auburn Cemetery. His presentation includes some recorded performances of works by composers buried at Mount Auburn.
+
 A downloadable mp3 version of this lecture is also available.

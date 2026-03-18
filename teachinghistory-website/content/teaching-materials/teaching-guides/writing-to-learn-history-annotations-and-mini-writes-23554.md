@@ -24,11 +24,11 @@ thumbnail: /files/FEMALogo.jpg
 image: /files/WritingImage.jpg
 author_image: /files/author_image/Monte-Sano.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- General
 ---
-
-
 
 ## What Is It?
 

@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 10877
 website_url: http://www.ocnjmuseum.org
+time_periods:
+- General
+topics:
+- Mid-Atlantic
+tags:
+- Jersey Shore
+- New Jersey
+- Ocean City
 ---
 
 The Ocean City Historical Museum is dedicated to preserving the history of Ocean City, New Jersey. The museum is open year round, and has recently eliminated entrance fees.
+
 The museum offers special events, exhibits, and guided tours. The website offers visitor information and an events calendar.

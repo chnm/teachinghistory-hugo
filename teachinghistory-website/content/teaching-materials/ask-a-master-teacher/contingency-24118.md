@@ -16,13 +16,16 @@ summary: What is contingency? What does it have to do with K-12 historical think
 splash_image: /files/Contingency432x240.jpg
 image: /files/Contingency150x113.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- historical thinking
+- resources
 ---
 
-
 Thanks for your question. Contingency is an important concept in understanding and investigating history and helping students develop historical thinking skills. Crudely defined, it is the opposite of inevitability. When students think that World War II or women's suffrage *had* to happen, that these events were *destined* to occur, they are ignoring the contingent nature of historical events. Contingency gets at how people in the past made history and how historic events and trends result from a variety of factors coming together—they are not preordained or unavoidable.
+
 Contingency is key to historical thinking and helping students understand that while in hindsight, the past seems to unroll in logical storylines, this was not necessarily the case for those who lived through it. If suffragettes hadn't taken to the streets in the 1910s or focused on changing state laws, would they have won the vote in 1920? If the Treaty of Versailles contained different stipulations, would Germany have taken the path it did and would WWII have happened? Historical events are dependent (or contingent) on multiple causes that shape when, how, and why an event happened the way it did.
 > . . . while in hindsight, the past seems to unroll in logical storylines, this was not necessarily the case for those who lived through it.
 
@@ -31,8 +34,11 @@ So contingency is deeply intertwined with understanding change over time—a fra
 ## Resources Focusing on Historical Contingency
 
 Resources for explicitly teaching K-12 students this concept can be relatively sparse. But some do exist and they run the gamut, from instructional frameworks to particular activities. Historians Thomas Andrews and Flannery Burke suggest using the "5 Cs" to frame history instruction in [this article](http://www.historians.org/Perspectives/issues/2007/0701/0701tea2.cfm). While their work was developed at the college-level, it can transfer (with modifications) to the K-12 classrooms. Their fourth "C" is contingency and they suggest it may be the most difficult to teach, but their description can help clarify the concept.
+
 UCLA's [National Center for History in the Schools](http://nchs.ucla.edu/) also includes contingency in the historical thinking skills that students should be learning. Their [standards](http://nchs.ucla.edu/standards/thinking5-12-3.html) assert that students should "Challenge arguments of historical inevitability by formulating examples of historical contingency, of how different choices could have led to different consequences." (see standard 3.G) These standards also remind us that discrete historical thinking skills are "interactive and mutually supportive" and cannot be taught in the absence of particular historical content.
+
 See this [lesson](http://www.histori.ca/benchmarks/lesson/372) for an example consistent with these recommendations. Located at the [Canadian *Benchmarks of Historical Thinking* site](http://historicalthinking.ca) created by the University of British Columbia’s Centre for the Study of Historical Consciousness, it is a fine example of how to teach this concept. Focused on historical contingency, the lesson integrates this concept with the core historical concepts of causation and change over time to investigate the Chinese experience in Canada.
+
 You will want to pay attention to instructional steps 1-7 and don’t miss the "outcomes" section at the end of the lesson. Not only does the lesson provide a coherent example of how you can take this concept into the classroom, it also succinctly describes how historic change is contingent on individual and group actions that are influenced and constrained by larger forces. It also uses two of our favorite ways to address contingency pedagogically:
 
 * counterfactual questioning, or "what if" questions; and
@@ -48,6 +54,7 @@ Contingency may be one of the harder historical thinking concepts to teach. To r
 ---
 
 Thanks for your question. Contingency is an important concept in understanding and investigating history and helping students develop historical thinking skills. Crudely defined, it is the opposite of inevitability. When students think that World War II or women's suffrage *had* to happen, that these events were *destined* to occur, they are ignoring the contingent nature of historical events. Contingency gets at how people in the past made history and how historic events and trends result from a variety of factors coming together—they are not preordained or unavoidable.
+
 Contingency is key to historical thinking and helping students understand that while in hindsight, the past seems to unroll in logical storylines, this was not necessarily the case for those who lived through it. If suffragettes hadn't taken to the streets in the 1910s or focused on changing state laws, would they have won the vote in 1920? If the Treaty of Versailles contained different stipulations, would Germany have taken the path it did and would WWII have happened? Historical events are dependent (or contingent) on multiple causes that shape when, how, and why an event happened the way it did.
 > . . . while in hindsight, the past seems to unroll in logical storylines, this was not necessarily the case for those who lived through it.
 
@@ -56,8 +63,11 @@ So contingency is deeply intertwined with understanding change over time—a fra
 ## Resources Focusing on Historical Contingency
 
 Resources for explicitly teaching K-12 students this concept can be relatively sparse. But some do exist and they run the gamut, from instructional frameworks to particular activities. Historians Thomas Andrews and Flannery Burke suggest using the "5 Cs" to frame history instruction in [this article](http://www.historians.org/Perspectives/issues/2007/0701/0701tea2.cfm). While their work was developed at the college-level, it can transfer (with modifications) to the K-12 classrooms. Their fourth "C" is contingency and they suggest it may be the most difficult to teach, but their description can help clarify the concept.
+
 UCLA's [National Center for History in the Schools](http://nchs.ucla.edu/) also includes contingency in the historical thinking skills that students should be learning. Their [standards](http://nchs.ucla.edu/standards/thinking5-12-3.html) assert that students should "Challenge arguments of historical inevitability by formulating examples of historical contingency, of how different choices could have led to different consequences." (see standard 3.G) These standards also remind us that discrete historical thinking skills are "interactive and mutually supportive" and cannot be taught in the absence of particular historical content.
+
 See this [lesson](http://www.histori.ca/benchmarks/lesson/372) for an example consistent with these recommendations. Located at the [Canadian *Benchmarks of Historical Thinking* site](http://historicalthinking.ca) created by the University of British Columbia’s Centre for the Study of Historical Consciousness, it is a fine example of how to teach this concept. Focused on historical contingency, the lesson integrates this concept with the core historical concepts of causation and change over time to investigate the Chinese experience in Canada.
+
 You will want to pay attention to instructional steps 1-7 and don’t miss the "outcomes" section at the end of the lesson. Not only does the lesson provide a coherent example of how you can take this concept into the classroom, it also succinctly describes how historic change is contingent on individual and group actions that are influenced and constrained by larger forces. It also uses two of our favorite ways to address contingency pedagogically:
 
 * counterfactual questioning, or "what if" questions; and

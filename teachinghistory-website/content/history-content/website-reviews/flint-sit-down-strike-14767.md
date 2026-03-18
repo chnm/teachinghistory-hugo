@@ -14,8 +14,44 @@ splash_image_fid: '5338'
 summary: Provides a multimedia introduction to "the greatest strike in American history."
 splash_image: /files/Flint_Sit-Down_Strike_432x240.jpg
 image: /files/website_image/FlintSitin.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+topics:
+- Business
+- Consumer Culture
+- Economy
+- Gender
+- Ideas & Ideologies
+- Labor
+- Midwestern States
+- Politics
+- Radicalism
+- Reform
+- Science & Tech.
+- Women
+evidence_types:
+- Oral History
+- Personal Accounts
+- Photographs
+resource_types:
+- Audio
+- Images
+- Text
+tags:
+- General Motors
+- Michigan
+- United Auto Workers
+- class
+- classes
+- flint
+- laborers
+- sit-ins
+- strikes
+- workers
+- working class
 ---
 
-
 This rich, multimedia resource provides an introduction to "the greatest strike in American history." The six-week occupation of the General Motors plant at Flint, Michigan, in 1936–37, was led by the recently-formed United Auto Workers. Using the new tactic of remaining in the plant rather than picketing outside, the strikers stopped production and won many demands.
+
 The site begins with a short introductory essay and a small bibliography and webography. The three main sections—organization, strike, and aftermath—provide nearly 100 audio interviews recorded between 1978 and 1984 with former strikers recalling work conditions prior to the strike, experiences during the sit-in, the hostile reaction of Flint residents, the role of the Women's Auxiliary, and conditions following the strike. Each section includes a narrative essay. In addition the site presents slideshows, an audio timeline, and a Flash-generated strike map with textual and audio links.

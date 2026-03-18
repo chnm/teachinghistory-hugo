@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20920
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ### AZ.SS04-S1 Strand: American History

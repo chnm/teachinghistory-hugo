@@ -15,8 +15,22 @@ summary: A collection of special documents and artifacts held within the Library
 thumbnail: /files/splash-aamt-changes.jpg
 splash_image: /files/splash-wr-locamertreasures.jpg
 image: /files/website_image/LCTreasures_Image.jpg
+topics:
+- Art
+- Ideas & Ideologies
+- Politics
+- Popular Culture, Leisure
+evidence_types:
+- Artifacts and Objects
+- Literary Sources
+- Official Documents
+- Personal Accounts
+- Political Documents
+resource_types:
+- Images
+- Text
 ---
 
-
 This site considers which "of the more than 110 million items in the Library of Congress" are considered "treasures." The items in the exhibit are organized into the categories of Memory (History), Reason (Philosophy), and Imagination (Fine Arts), as was the personal library of Thomas Jefferson, which became the core of the Library of Congress.
+
 The exhibit, which offers images of original documents as well as explanatory essays, contains such items as Jefferson's "original rough draft" of the Declaration of Independence, Jedediah Hotchkiss's Civil War maps, Edison's Kinetoscopic record of a sneeze, and Earl Warren's handwritten notes concerning the Miranda decision.

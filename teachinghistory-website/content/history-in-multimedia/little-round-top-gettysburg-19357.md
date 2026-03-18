@@ -11,6 +11,14 @@ keywords: Gettysburg, battles, Little Round Top, soldiers, Battle of Gettyburg, 
 website_url: http://www.civilwartraveler.com/audio/index.html#RoundTop
 date_published: '2008-05-29T00:00:00'
 series_name: Civil War Tours
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Mid-Atlantic
+- Military History
+tags:
+- Civil War
+- Pennsylvania
 ---
 
 Little Round Top on the Gettysburg battlefield was the scene of some of the most dramatic moments in American history, July 2, 1863. In this podcast, listeners will learn more about the fighting on Little Round Top. Designed as a four-stop walking tour, this podcast can also be listened to to gain a sense of the site's layout and history.

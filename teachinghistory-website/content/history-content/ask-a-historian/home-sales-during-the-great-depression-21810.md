@@ -12,8 +12,22 @@ splash_image_fid: '4863'
 summary: Building an edifice of statistics—where can you learn about the real estate
   market during the Depression?
 splash_image: /files/hooverville-new.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Business
+- Cities & Suburbs
+- Economy
+tags:
+- FHA
+- U.S. home sales statistics
+- depression
+- federal government
+- historical statistics
+- home construction
+- home mortgages
 ---
-
 
 Plenty of information about the housing market during the Depression has been collected and is easily available. Some of it is online and some of it is contained in Depression-era government publications. Nevertheless, statistics on the number of U.S. home sales during that time are not easily available, at least in a comprehensive, aggregated form.
 
@@ -38,13 +52,17 @@ The Census Bureau also makes available figures on housing vacancies and, from 19
 > The housing market in the 1930s was fundamentally different than it is today.
 
 Economist Robert Shiller, author of *Irrational Exuberance* (Princeton University Press, 2000), provides data on home prices since 1890 (in 10-year intervals), [online](http://www.econ.yale.edu/~shiller/data.htm) and downloadable as an Excel file.
+
 This data, however, was constructed, rather than collected, and, while valuable, is, as Walter Molony of NAR puts it, "academic speculation based on assumptions and modeling using sources such as the value of the dollar, or the average price of newspaper listings in Washington, D.C."
 
 ## Evolution of the Housing Market
 
 The housing market in the 1930s was fundamentally different than it is today. During the Depression, the federal government became a significant actor in the housing market (as it did in other sectors of the economy). The National Housing Act of 1934 encouraged buyer-friendly mortgages: Before this, mortgages were typically 10-year loans with 50 percent downpayments. The Federal Housing Administration and its FHA-insured loans also increased the availability of mortgages.
+
 After World War II, the G.I. Bill (the Servicemen's Readjustment Act of 1944) increased the availability of 30-year fixed-rate mortgages. Realtors think of this as the beginning of the modern real estate era. The government began to act in the housing market through Fannie Mae (the Federal National Mortgage Association, established in 1938 as part of the New Deal) and, since 1968, Freddie Mac (the Federal Home Mortgage Corporation). Their role in the housing market, to put it very briefly, has evolved over time.
+
 During the Depression, the federal government also intervened in the housing market by eventually dominating home building itself, both public housing and then, in the defense build-up toward the end of the 1930s, "war housing" units in areas near military bases and industrial plants. Privately funded housing construction fell by 80 percent between 1929 and 1933, and the federal government expanded its role in housing construction.
+
 Because of this role, the government collected data on the construction of housing units. It also tracked assumed mortgages because of its involvement in insuring loans. These figures can be found in the *Housing Yearbook*, published annually from 1935 to 1944 by the National Association of Housing and Redevelopment Officials, with sections written by the heads of the government housing agencies who described how they implemented government housing policies and the challenges they faced.
 
 ---

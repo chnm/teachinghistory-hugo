@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 22105
 website_url: http://telfair.org/
+time_periods:
+- Expansion & Reform, 1801-1861
+- General
+topics:
+- Art
+- Daily Life
+- Southern States
 ---
 
 The Telfair Museum of Art preserves and presents artwork in all forms. The Museum also operates the 1819 Owen-Thomas House, furnished with a collection of decorative arts objects.
+
 The museum offers exhibits, self-guided and guided tours for school groups, a teacher resource library, professional development for educators, and classes and other recreational and educational events; the Owen-Thomas House offers guided tours.

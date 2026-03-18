@@ -15,9 +15,37 @@ summary: 16th-century to present-day maps, focusing on Americana and cartographi
   treasures.
 splash_image: /files/Map_Collections-_1500-2003_432x240.jpg
 image: /files/website_image/MapCollections.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- General
+- Revolution & New Nation, 1754-1820s
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Literature
+- Media
+- Science & Tech.
+evidence_types:
+- Maps
+resource_types:
+- Images
+- Text
+tags:
+- Maps
+- atlases
+- cartographers
+- cartography
+- exploration
+- explorers
+- geography
 ---
 
-
 This large collection of maps from the 16th century to the present day focuses on Americana and cartographic treasures.
+
 Materials are organized into seven thematic categories—Cities and Towns, Conservation and Environment, Discovery and Exploration, Cultural Landscapes, Military Battles and Campaigns, Transportation and Communication, and General Maps. Sections include five special presentations.
+
 Users may download maps or zoom in to view details. Seventeen specific map collections contained within this larger site that are of particular importance for the study of American history include "Discovery and Exploration," "The American Revolution and Its Era," "Railroad Maps, 1828–1900," "American Colonization Society Collection: Maps of Liberia, 1830–1870," "Panoramic Maps, 1847–1929," "Civil War Maps," and "Mapping the National Parks."

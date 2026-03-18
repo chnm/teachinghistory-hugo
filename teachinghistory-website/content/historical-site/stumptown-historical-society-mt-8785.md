@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 8785
 website_url: http://www.stumptownhistoricalsociety.org/
+time_periods:
+- Emergence of Modern US, 1890-1930
+- General
+topics:
+- Daily Life
+- Labor
+tags:
+- Montana
+- Railway
+- historical society
+- museum
 ---
 
 The Stumptown Historical Society seeks to preserve and share the history of the Flathead Valley and Whitefish, Montana. The society operates a museum, housed within a working railway depot, built 1927. Collections include railroad and community artifacts.
+
 The museum offers exhibits, and the website contains a number of historical photographs.

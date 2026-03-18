@@ -6,10 +6,11 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21383
 grade_levels:
-  - elementary
+- elementary
 ---
 
 (Note: By the completion of fifth grade, Oregon students are expected to master the following standards.)
+
 Benchmark 2 students begin to apply skills to more specific Social Sciences content. Students examine the period of United States History from pre-history through the American Revolution, including focus on the Declaration of Independence. Attention is given to the study of Oregon's tribes. Students study the levels and branches of government at both the state and national levels. In Economics, students continue their study of economic choice to include supply and demand, price, trade, and money. They also study basic concepts of Personal Finance. In geography, students use maps and charts to understand and analyze patterns; compare locations, migration, and population; and to investigate causes of environmental and cultural change. Students extend their work with Social Science Analysis, conducting more sophisticated research, examining primary and secondary sources, establishing cause-and-effect relationships, and drawing conclusions from evidence.
 
 ## Civics and Government

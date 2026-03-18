@@ -12,9 +12,14 @@ summary: Sixth graders in Prince William County film their interpretations of th
   First Battle of Manassas.
 splash_image: /files/manassassplash.jpeg
 grade_levels:
-  - middle
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+tags:
+- Battle of Bull Run
 ---
-
 
 /files/media/video/Manassas1.mp4
 

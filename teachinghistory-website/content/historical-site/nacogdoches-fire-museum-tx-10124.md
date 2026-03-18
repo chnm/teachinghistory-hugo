@@ -5,7 +5,17 @@ lastmod: '2017-12-01T13:56:09'
 content_type: historical_site
 draft: false
 drupal_nid: 10124
+time_periods:
+- General
+topics:
+- Science & Tech.
+tags:
+- Texas
+- disasters
+- firefighting
+- fires
 ---
 
 The Nacogdoches Fire Museum presents local firefighting history. Collection highlights include the city's first commercial fire engine, photographic records of local fires, and firefighting equipment.
+
 The museum offers tours by appointment.

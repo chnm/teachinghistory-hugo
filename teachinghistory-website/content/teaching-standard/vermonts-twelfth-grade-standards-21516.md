@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21516
 grade_levels:
-  - high
+- high
 ---
 
 * ### VT.6.1. Standard: Critical Evaluation

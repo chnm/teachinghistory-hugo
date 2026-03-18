@@ -12,6 +12,37 @@ keywords: Great Depression, superheroes, radio, radio shows, entertainment, priv
 website_url: http://www.teachingamericanhistory.us/audio/popup_levin.html
 date_published: '2004-04-27T00:00:00'
 series_name: Presentations by Historians
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Art
+- Children
+- Consumer Culture
+- Daily Life
+- Economy
+- Ideas & Ideologies
+- Literature
+- Media
+- Popular Culture, Leisure
+- Science & Tech.
+tags:
+- Great Depression
+- Prohibition
+- comics
+- crime
+- criminals
+- detectives
+- entertainment
+- fiction
+- gangsters
+- icons
+- private eyes
+- radio
+- radio shows
+- reportage
+- reporting
+- superheroes
+- symbols
 ---
 
 Professor Lawrence Levine looks at the popular culture of the 1930s, during the Great Depression, and what it reveals about culture and society as a whole at the time. He looks at Superman, comics, and superheroes; private detectives in fiction; and gangsters in fiction.

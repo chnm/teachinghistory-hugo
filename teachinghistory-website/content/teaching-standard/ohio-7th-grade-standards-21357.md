@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21357
 grade_levels:
-  - middle
+- middle
 ---
 
 ## Theme: World Studies from 750 B.C. to 1600 A.D.: Ancient Greece to the First Global Age

@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 10385
 website_url: http://www.lowermerionhistory.org
+time_periods:
+- General
+topics:
+- Daily Life
+- Mid-Atlantic
+tags:
+- Pennsylvania
 ---
 
 The Lower Merion Historical Society seeks to preserve and share the history of the Township of Lower Merion and the Borough of Narberth, PA. To this end, the society operates a research library.
+
 The society offers library access, research assistance, lectures, and educational programs. Research assistance requires payment. The website offers digitized full texts and historic maps.

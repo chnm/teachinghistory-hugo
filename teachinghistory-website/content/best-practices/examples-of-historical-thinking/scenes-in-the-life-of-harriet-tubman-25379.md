@@ -17,9 +17,17 @@ summary: Can you trust a biography? Historian Tiya Miles analyzes an 1869 biogra
   of abolitionist Harriet Tubman.
 splash_image: /files/tiyasplash.jpg
 author_image: /files/author_image/author_miles.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Literature
+- Reform
+tags:
+- biographies
+- harriet tubman
+- sarah h. bradford
 ---
-
-
 
 /files/media/video/Tiya1.mp4
 

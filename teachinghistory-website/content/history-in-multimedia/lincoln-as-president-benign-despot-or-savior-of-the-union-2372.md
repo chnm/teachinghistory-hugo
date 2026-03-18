@@ -11,7 +11,32 @@ keywords: presidents, political parties, party systems, speeches, oratory, orato
 website_url: http://teachingamericanhistory.org/institutes/2004/presidential_readings.html
 date_published: '2004-07-13T00:00:00'
 series_name: Presidential Greatness
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Ethnicity
+- Ideas & Ideologies
+- Literature
+- Media
+- Military History
+- Politics
+- Reform
+- Slavery
+tags:
+- Civil War
+- Gettysburg Address
+- orators
+- oratory
+- party systems
+- political parties
+- presidents
+- speeches
+- speechmaking
+- war
+- wars
 ---
 
 Professors Sidney Milkis and Marc Landy look at Abraham Lincoln's presidency, examining his roles as both president and party leader, the significance of the Gettysburg Address, and perception of him today.
+
 To listen to this lecture, scroll to the Tuesday, July 13th, 4:30 pm-6:00 pm session; and select the corresponding RealAudio link to the left.

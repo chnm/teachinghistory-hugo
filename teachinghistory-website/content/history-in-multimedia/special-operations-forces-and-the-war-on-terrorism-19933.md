@@ -11,7 +11,32 @@ keywords: military, militaries, Special Operation Forces, foreign relations, for
 website_url: http://www.fpri.org/multimedia/20060112.vickers.specialforces.html
 date_published: '2006-01-12T00:00:00'
 series_name: W. W. Keen Butcher Lecture Series on Military Affairs
+time_periods:
+- Contemporary US, 1968-Present
+- General
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+- Radicalism
+- Religion
+tags:
+- Al-Qaeda
+- Islam
+- Islamists
+- Muslims
+- Shia Islam
+- Shiite
+- Special Operation Forces
+- foreign affairs
+- foreign policy
+- foreign relations
+- militaries
+- military
 ---
 
 Michael Vickers of the Center for Strategic and Budgetary Association discusses the actions of U.S. Special Operations Forces in the War on Terrorism, and looks at their opponents in the war.
+
 Audio and video options are available.

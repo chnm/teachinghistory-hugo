@@ -11,9 +11,18 @@ summary: Teacher Bill Kendrat demonstrates the techniques he uses to draw studen
   in to culturally-familiar stories.
 splash_image: /files/lincolnassassin.jpeg
 grade_levels:
-  - middle
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+tags:
+- Abraham Lincoln
+- John Wilkes Booth
+- assassination
+- promethean boards
+- smartboards
+- teaching strategies
+- whiteboards
 ---
-
 
 /files/media/video/Kendrat1.mp4
 

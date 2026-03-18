@@ -6,7 +6,26 @@ content_type: historical_site
 draft: false
 drupal_nid: 12833
 website_url: http://www.arkansasstateparks.com/hampsonmuseum/default.aspx
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Art
+- Daily Life
+- Rural Life
+- Southern States
+tags:
+- Arkansas
+- Mississippian
+- Native Americans
+- decorative arts
+- museums
+- parks
+- pottery
+- villages
 ---
 
 The James K. Hampson Collection presents an amazing look at the decorative arts of the late Mississippian people from the Nodena Site. Notable pieces include a large collection of the famed "Nodena Red and White" pottery, Nodena type site points, and a variety of effigy vessels, including a remarkable human head effigy.
+
 The site offers exhibits and occasional recreational and educational events.

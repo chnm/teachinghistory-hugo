@@ -18,16 +18,29 @@ summary: Teachers from Maine demonstrate how biographies enhance their ability t
   stimulate critical thinking across developmental levels.
 splash_image: /files/Teaching_through_Biography_Lessons_-_432x240.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- K-16 collaboration
+- Maine
+- Partners
+- TAH
+- TAH activities
+- analytical skills
+- biography
+- developmental levels
+- elementary school
+- high school
+- historians
+- middle school
 ---
-
 
 This summer, for the third consecutive year, I will have the great privilege of working with nearly 100 Maine teachers in grades 5–12 in a program entitled *Teaching American History Through Biography*. Each summer, this workshop offers participants opportunities to strengthen their ability to teach American history through study and research on notable Americans. We meet for two intensive weeks in July, and periodically throughout the academic year, to discuss important new biographies in American history. Additionally, participants undertake their own research projects into American biography, which culminate in a research essay on a historical figure that is developed from primary historical sources. Charles Calhoun, Director of Teacher Programs for the Maine Humanities Council, directs the program, which has been generously funded by the U.S. Department of Education.
 > We have explored the nature of biography as a genre of literature and as a means of understanding broader patterns in history.
 
 The program offers a rich encounter with the American past. We have studied figures as diverse as Tituba, the Afro-Indian woman accused of sparking the Salem witchcraft trials of the late 1600s, to Andrew Carnegie, the famous 19th-century industrialist and philanthropist. We have explored the nature of biography as a genre of literature and as a means of understanding broader patterns in history. Our summer workshops have featured an array of outside speakers, who have enriched the program by leading sessions on topics such as analyzing visual sources in history, understanding film and history, and enhancing library research skills.
+
 My role in the program is to serve as lead faculty scholar. I consult on the selection of readings, co-facilitate our gatherings, develop programming for our summer sessions, and help direct participants' research. I have done this kind of work for over 10 years—for example by leading workshops and institutes for teachers of Advanced Placement U.S. History. It has been an enormous joy to work with the educators who send their students on to college-level history teachers such as me.
 
 ## Observing Teachers
@@ -36,6 +49,7 @@ The experience has taught some important lessons. For one, I am in awe of the wi
 > Many of our educators have not been students for years. . .
 
 Nonetheless, there are challenges in moving from teaching in the middle or high school classroom to doing college-level work. Many of our educators have not been students for years; a few had very little college coursework in U.S. history when they were students. And incessant demands on teachers' time cut into opportunities to do grueling primary resource.
+
 While our reading discussions have flourished (particularly when there has been enough time to get them done), it has been a challenge to move participants ahead in their research projects. We have had to scale back our initial expectation that participants would complete a major research project, such that what was conceived as a 25–30 page paper is likely to become 8–10 pages. Additionally, it has helped to heavily structure the research paper assignment, breaking it down into stages. As a consequence, we have asked participants to submit pieces of work toward the final paper, such as an annotated working bibliography, problem statement, detailed paper outline, first draft, peer critique, and final draft.
 
 ## Teachers as Historians
@@ -48,5 +62,7 @@ In bringing the techniques of the college-level history course to these educator
 ## Lessons Learned
 
 All this suggests the most important insight I've taken from these experiences: History skills are scalable to a wide range of developmental levels. If middle and high school students do not learn the kinds of history skills desired by college and university professors, it is not because they are developmentally incapable of learning them. Rather, it may be because we have not done enough to help K–12 educators teach those skills.
+
 Surely, history educators have taken great strides in recent decades; the College Board's Advanced Placement Program, for example, has led generations of high school students to better understand the uses of primary source documents in history. Still, more could be done. Academic reading skills, for example, have been woefully neglected at all levels; educators more comfortable with college reading standards will be better able to impart college-level expectations in developmentally-appropriate ways. As works such as Sam Wineberg's provocative *Historical Thinking and Other Unnatural Acts* (Temple, 2001) help us understand what it really means to teach history, we can do more to help K–12 educators understand and appreciate the profession's values and methods.
+
 We will thus not only create better and more interesting college-level history majors, we will also create better thinkers. Yes, history education at the pre-collegiate level will always have an element of civic education. But the best reason for anyone to understand history in the ways historians do goes beyond an appreciation of key events and people in our national story. All such knowledge is most useful when harnessed to a thoughtful, critical intellect. In this age of hypermedia, wherein public debate too often devolves into a yelling contest, it is vital for young people to be taught the skills necessary to evaluate a profusion of platforms and arguments—most of which are rooted in our complex collective past.

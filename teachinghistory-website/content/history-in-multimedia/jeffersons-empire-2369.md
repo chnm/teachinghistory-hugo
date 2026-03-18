@@ -10,7 +10,20 @@ keywords: presidents, Founding Fathers, Louisiana Purchase, politicians
 website_url: http://teachingamericanhistory.org/institutes/2004/presidential_readings.html
 date_published: '2004-07-12T00:00:00'
 series_name: Presidential Greatness
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Western States
+tags:
+- Founding Fathers
+- Louisiana Purchase
+- politicians
+- presidents
 ---
 
 Professors Sidney Milkis and Marc Landy look at Thomas Jefferson's presidency, focusing specifically on the Louisiana Purchase and his reasons for making the purchase.
+
 To listen to this lecture, scroll to the Monday, July 12th, 7:30 pm-9:30 pm session; and select the corresponding RealAudio link to the left.

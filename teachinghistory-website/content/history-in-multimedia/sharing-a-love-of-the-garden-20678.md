@@ -12,6 +12,39 @@ keywords: gardens, gardeners, gardening, plants, flowers, trade, gentry, upper c
 website_url: http://podcast.history.org/2006/05/29/sharing-a-love-of-the-garden/
 date_published: '2006-05-29T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Consumer Culture
+- Daily Life
+- Economy
+- Environment
+- Global Contact
+- Labor
+- Science & Tech.
+- Slavery
+- Southern States
+tags:
+- botanists
+- botany
+- class
+- classes
+- colonies
+- colonists
+- colonization
+- flowers
+- food
+- gardeners
+- gardening
+- gardens
+- gentry
+- plants
+- slaves
+- taxonomy
+- trade
+- upper class
+- vegetables
 ---
 
 Wesley Green, an interpretive gardener at Colonial Williamsburg, talks about the practices of colonial-era gardening, the trade in seeds, and the class associations with gardens and gardening.

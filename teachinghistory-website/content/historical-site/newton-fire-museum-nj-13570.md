@@ -6,7 +6,13 @@ content_type: historical_site
 draft: false
 drupal_nid: 13570
 website_url: http://www.newtonfiremuseum.org/
+time_periods:
+- General
+topics:
+- Mid-Atlantic
+- Science & Tech.
 ---
 
 The Newton Fire Museum presents firefighting history. The museum collections include an 1873 engine, circa 1849 hose carriage, uniforms, and turnout gear. The museum is housed in an 1891 firehouse.
+
 The museum offers exhibits. The museum is open May through October. Groups are welcome throughout the year by appointment. The website offers historical photographs.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20941
 grade_levels:
-  - high
+- high
 ---
 
 * ### CA.11.1. Content Standard: United States History and Geography

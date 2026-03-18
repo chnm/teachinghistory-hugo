@@ -15,7 +15,29 @@ summary: What impressions did the average citizen or foreigner form of early Ame
 splash_image: /files/American_Notes-_Travels_in_America_1750-1920_432x240.jpg
 thumbnail: /files/Congress_for_the_New_Urbanism_432x240.jpg
 image: /files/website_image/NoteTravImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- American Indians
+- Daily Life
+- Environment
+- Ethnicity
+- Popular Culture, Leisure
+- Religion
+- Rural Life
+- Western States
+evidence_types:
+- Literary Sources
+- Personal Accounts
+- Travel
+resource_types:
+- Text
 ---
-
 
 This site is a collection of 253 travel narratives written between 1750 and 1920. The narratives were written by American citizens and foreign visitors about their travels in America. Some of the accounts were written by famous Americans (James Fenimore Cooper and Washington Irving, for example), but most of the authors were not famous. The narratives include their observations and opinions about American people, places, and society; and are valuable sources for the study of early American attitudes. Most accounts are viewable either as scanned images or as transcribed texts. Also included is the 32-volume set of manuscript sources entitled *Early Western Travels, 1748-1846*. The collection is searchable by keyword, and may be browsed by subject, author, and title. Students and teachers will find these primary sources invaluable for research and study of the late 18th and 19th centuries.

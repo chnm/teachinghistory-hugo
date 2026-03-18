@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21470
 grade_levels:
-  - middle
+- middle
 ---
 
 ## §113.20. Social Studies, Grade 8, Beginning with School Year 2011-2012.

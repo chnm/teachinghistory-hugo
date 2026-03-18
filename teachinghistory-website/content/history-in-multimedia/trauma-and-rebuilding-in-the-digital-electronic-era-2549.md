@@ -12,6 +12,34 @@ keywords: 9/11, New York, Manhattan, Lower Manhattan, cities, disasters, bombing
 website_url: http://video.mit.edu/
 date_published: '2002-05-13T00:00:00'
 series_name: 'The Resilient City: Trauma, Recovery, and Remembrance'
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Business
+- Cities & Suburbs
+- Daily Life
+- Media
+- Mid-Atlantic
+- Science & Tech.
+tags:
+- 9/11
+- Lower Manhattan
+- Manhattan
+- New York
+- architecture
+- bombings
+- building
+- buildings
+- cities
+- disaster prevention
+- disaster recovery
+- disasters
+- infrastructure
+- prevention
+- telecommunication
+- telecommunications
+- terrorism
+- terrorists
 ---
 
 Professor William J. Mitchell and Ph.D. candidate Anthony M. Townsend examine the rebuilding of the digital telecommunications infrastructure in Manhattan following the 9/11 attacks, look at how telecommunications has changed the structure of a city's recovery from disaster, and consider how digital infrastructure may be better protected in future.

@@ -11,7 +11,13 @@ splash_image_fid: '6684'
 summary: Benedict Arnold wasn't the only spy in the American Revolution. Take this
   quiz on 18th century spies and their techniques.
 splash_image: /files/revwarspies-splash.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+tags:
+- American Revolution
+- spies
 ---
-
 
 Think spies and the American Revolution, and what comes to mind? Likely Benedict Arnold, a name synonymous with treason in American popular memory—but Revolutionary-era spying didn't begin or end with Arnold. Decide whether the following statements about spies in the Revolution are true or false.

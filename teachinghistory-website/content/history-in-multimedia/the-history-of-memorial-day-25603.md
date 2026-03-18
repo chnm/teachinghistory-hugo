@@ -11,7 +11,8 @@ date_published: '2012-05-15T00:00:00'
 splash_image_fid: '9256'
 summary: Did you know Memorial Day was originally called Decoration Day?
 splash_image: /files/memorialsplash.jpg
+topics:
+- Military History
 ---
-
 
 Memorial Day is more than a three-day weekend filled with summertime fun. This short video created by [History.com](http://www.history.com/) traces Memorial Day's origins from the post-Civil War era to modern-day celebrations and highlights why Memorial Day is "America's most solemn holiday."

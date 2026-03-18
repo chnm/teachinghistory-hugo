@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21230
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### MT.1. Content Standard: Students access, synthesize, and evaluate information to communicate and apply social studies knowledge to real world situations.

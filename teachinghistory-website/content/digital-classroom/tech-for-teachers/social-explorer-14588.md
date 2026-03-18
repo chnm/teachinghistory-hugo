@@ -16,9 +16,8 @@ splash_image: /files/SocialExplorerSplash.jpg
 thumbnail: /files/website_image/EarlRadiImage.jpg
 image: /files/SocialExplorerImage.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
 ---
-
 
 Social Explorer offers interactive maps based on U.S. census data.

@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 9035
 website_url: http://www.ohiohistory.org/museums-and-historic-sites/museum--historic-sites-by-name/our-house
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Consumer Culture
+- Daily Life
+- Midwestern States
+- Popular Culture, Leisure
+tags:
+- Ohio
+- taverns
 ---
 
 Our House—a three-story brick tavern in the Federal style—was built in Gallipolis by Henry Cushing in 1819. The tavern boasted (in addition to its taproom, dining room, and other usual facilities) a large ballroom for social functions. On 22 May 1825, General Lafayette visited Gallipolis and was entertained at Our House Tavern. Gallipolis still celebrates Lafayette's visit with a ceremony each spring. The Cushing family owned and operated Our House until 1865.
+
 The site offers tours and educational programs.

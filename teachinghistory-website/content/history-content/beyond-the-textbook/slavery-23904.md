@@ -10,6 +10,16 @@ url: /history-content/beyond-the-textbook/23904
 splash_image_fid: '4367'
 summary: What was it like to be a slave in 19th-century America? Accounts contrast.
 splash_image: /files/ExSlave.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Daily Life
+- Economy
+- Politics
+- Slavery
+- Southern States
 ---
 
 ## What Textbooks Say

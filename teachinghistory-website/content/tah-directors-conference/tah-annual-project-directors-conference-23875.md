@@ -74,6 +74,7 @@ spotlight: Watch video of keynote speakers from the 2009 and 2011 Teaching Ameri
 ## 2011 Project Directors Meeting (Washington, DC)
 
 The 2011 Teaching American History [Project Directors Meeting](http://www.seiservices.com/tah/tah2011/) in Washington, DC, focused on the theme "Lens on Talent: Portraits of Great History Teachers."
+
 Watch video of Dr. Bob Bain talking about historical thinking and the history classroom or a panel discussing lessons learned from a decade of TAH projects.
   
 
@@ -88,15 +89,20 @@ Dr. Bob Bain, University of Michigan, MI
 *How Can These TAH Projects Best Serve Teachers? A Discussion with TAH Teachers, Adminstrators, and Partners*  
   
 Christina Chavarria, United States Holocaust Memorial Museum, DC  
+
 Keil Hileman, De Soto Unified School District 232, KS  
+
 Stacy Hoeflich, Alexandria City Public Schools, VA  
+
 Bruce Lesh, Franklin High School, MD  
+
 Dr. Mark Stout, Howard County Public School System, MD  
   
 
 ## 2009 Project Directors Meeting (Washington, DC)
 
 The 2009 Teaching American History [Project Directors Conference](http://www.seiservices.com/tah/tahpd2009december/default.htm) in Washington, DC, emphasized the importance of evaluation, the goal of improving history education for students, strategies for creating strong professional development, and ways to promote sustainability.
+
 Watch video of keynote presenters who focused on public history, Latino history, and America and the world.
   
 
@@ -109,7 +115,9 @@ Margo Anderson, Associate Assistant Deputy Secretary, U.S. Department of Educati
 *Cruising with Clio Car: Applied History and Monumental Applications to Studying the American Past*  
   
 Dr. James Percoco, West Springfield High School, VA  
+
 Priya Chhaya, Program Assistant, National Trust for Historic Preservation  
+
 Jin Prugsawan, Park Ranger, Arlington House National Memorial  
   
 

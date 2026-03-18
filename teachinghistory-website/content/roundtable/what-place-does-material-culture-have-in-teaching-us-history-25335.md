@@ -12,6 +12,8 @@ spotlight: Using material culture—whether a building, a historic artifact, or 
   a photograph—engages the senses and enhances learning by making history tangible.
   Find out how the use of artifacts can shape students' understanding of U.S. history!
 splash_image: /files/splash-rt-mc_0.jpg
+tags:
+- artifacts
+- material culture
 ---
-
 

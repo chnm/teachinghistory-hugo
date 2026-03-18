@@ -14,9 +14,14 @@ summary: K-6 teachers, worried that your students aren't ready for digital tools
 splash_image: /files/lbtsplash.jpg
 image: /files/LittleBirdImage.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+tags:
+- Collaboration
+- digital storytelling
+- multimedia
+- presentations
+- visuals and visualizing
 ---
-
 
 Little Bird Tales is a free site that allows students to create digital storytelling projects—perfect for elementary social studies

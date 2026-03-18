@@ -15,8 +15,29 @@ summary: More than 12,000 stereoscopic photographs depict life in New York, New 
   and Connecticut small towns and rural areas from 1850 to 1920.
 splash_image: /files/Small-Town_America-_Stereoscopic_Views_from_the_Robert_Dennis_Collection_1850-1920_432x240.jpg
 image: /files/website_image/SmallTownAmerica1.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Daily Life
+- Mid-Atlantic
+- New England
+- Science & Tech.
+evidence_types:
+- Photographs
+resource_types:
+- Images
+tags:
+- Connecticut
+- New Jersey
+- New York
+- photographers
+- photographs
+- photography
+- stereoscopic photography
 ---
 
-
 More than 12,000 stereoscopic photographs depict life in small towns, villages, rural areas, and cities throughout New York, New Jersey, and Connecticut from 1850 to 1920 on this website. Materials include pictures of buildings, street scenes, natural landscapes, agriculture, industry, transportation, homes, businesses, local celebrations, natural disasters, and people.
+
 Each grouping of photographs offers a short description of the contents as well as notes on the locations, medium, collection names, and digital identification information. The site also features an essay on the history of stereoscopic views and nine related website links. The site is searchable by keyword and can be browsed by subject and image name. These revealing illustrations are valuable for examining rural and urban development as well as everyday life.

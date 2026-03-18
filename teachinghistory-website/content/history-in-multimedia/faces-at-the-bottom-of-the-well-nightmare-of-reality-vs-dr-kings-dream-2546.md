@@ -18,7 +18,38 @@ splash_image_fid: '8685'
 summary: NAACP Chairman of the Board Julian Bond talks about the views of Martin Luther
   King Jr.
 splash_image: /files/splash-him-mlk2.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Education
+- Ideas & Ideologies
+- Legal History
+- Politics
+- Reform
+tags:
+- Civil Rights Movement
+- NAACP
+- Supreme Court
+- activism
+- activists
+- affirmative action
+- civil rights
+- colleges
+- desegregation
+- interpretation
+- memory
+- policies
+- policy
+- presidents
+- race
+- race relations
+- racism
+- reformers
+- segregation
+- taxes
+- universities
 ---
-
 
 NAACP Chairman of the Board Julian Bond talks about the views of Martin Luther King, Jr., and his emphasis on improving conditions for the working class as a whole. Bond criticizes current abuses and denials of civil rights and quality-of-life issues, and considers the 2003 U.S. Supreme Court cases on affirmative action.

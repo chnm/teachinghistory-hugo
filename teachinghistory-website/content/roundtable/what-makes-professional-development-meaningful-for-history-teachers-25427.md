@@ -13,6 +13,7 @@ spotlight: Professional development experiences are an excellent way to discover
   a variety of teachers, TAH Grant Directors, and museum educators explore ways to
   make professional development meaningful for history teachers.
 splash_image: /files/profdevelopmentsplash.jpg
+tags:
+- professional development
 ---
-
 

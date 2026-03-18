@@ -16,8 +16,13 @@ author_bio: Sustaining the enthusiasm after a professional development trip is c
 url: /teaching-materials/visiting-history/reflect
 thumbnail_fid: '3502'
 thumbnail: /files/charter-ann.jpg
+tags:
+- field trip
+- historic site
+- museum
+- professional development
+- teacher
 ---
-
 
 ![](/files/dcpdguide/Belfer-7633.jpg)
 

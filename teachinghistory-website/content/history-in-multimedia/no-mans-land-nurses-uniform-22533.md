@@ -9,7 +9,18 @@ duration: 00:18:09
 website_url: http://www.kshs.org/p/cool-things-nurse-s-uniform/10377
 date_published: '2009-08-12T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Gender
+- Global Contact
+- Health & Medicine
+- International Relations
+- Midwestern States
+- Military History
+- Women
 ---
 
 From the Kansas State Historical Society website:
+
 "The United States didn't immediately send soldiers to fight in World War I, but that didn't stop Americans from volunteering. In this episode we hear the story behind a nurse's uniform worn by Ethelyn Myers, whose career took her from small-town Kansas to the battlefields of Europe."

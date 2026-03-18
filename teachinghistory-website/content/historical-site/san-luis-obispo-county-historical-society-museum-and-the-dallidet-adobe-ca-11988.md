@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 11988
 website_url: http://slochs.org/
+time_periods:
+- Emergence of Modern US, 1890-1930
+- General
+topics:
+- Daily Life
+- Western States
+tags:
+- California
 ---
 
 The San Luis Obispo County Historical Society seeks to preserve and share the history of San Luis Obispo County, California. To this end, the society operates the Historical Museum and the Dallidet Adobe. The museum, housed within the circa 1905 Carnegie Library building, offers exhibits of local historical interest. The Dallidet Adobe is decorated with furnishings which once belonged to the Dallidet family. The grounds include an arbor and Mediterranean garden.
+
 The museum offers exhibits, a children's activity room, student tours, research rooms, and research assistance. The Dallidet Adobe offers gardens and school tours. Reservations are required for school tours.

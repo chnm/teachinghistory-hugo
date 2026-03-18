@@ -11,6 +11,30 @@ keywords: aviation, aviators, technology, invention, inventors, inventions, flig
   MIT
 website_url: http://video.mit.edu/
 date_published: '2003-12-17T00:00:00'
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Consumer Culture
+- Daily Life
+- Ideas & Ideologies
+- Media
+- New England
+- Popular Culture, Leisure
+- Science & Tech.
+tags:
+- MIT
+- Massachusetts
+- Wright Brothers
+- airplanes
+- artifacts
+- aviation
+- aviators
+- flight
+- invention
+- inventions
+- inventors
+- technology
+- transportation
 ---
 
 Archivist Deborah G. Douglas details the story behind a one-inch-square piece of fabric from the Wright Brothers' flyer stored at the [MIT Museum](http://teachinghistory.org/history-content/historical-places/7992). She explores the creation and flight of the flyer, considering the community that supported and contributed to the Wright Brothers' invention, and the impact of that invention on popular imagination and society.

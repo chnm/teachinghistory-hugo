@@ -12,10 +12,30 @@ website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-05-05T00:00:00'
 series_name: Abraham Lincoln's Biography Video
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Gender
+- Ideas & Ideologies
+- Politics
+- Reform
+- Women
+tags:
+- Democrats
+- First Ladies
+- Whigs
+- activism
+- politicians
+- presidents
+- suffrage
+- suffragism
+- suffragists
 ---
 
 Gerald Prokopowicz of the Lincoln Museum looks at Abraham Lincoln's remarks on women in politics, and considers the increasing presence of women in politics throughout the 19th century.
+
 To view to this clip, scroll to "Abraham Lincoln, Women, and Politics" under "Abraham Lincoln's Biography Video."

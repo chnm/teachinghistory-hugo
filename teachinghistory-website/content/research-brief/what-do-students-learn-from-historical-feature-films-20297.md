@@ -11,10 +11,9 @@ summary: What do students actually learn from historical feature films?
 splash_image: /files/splash-rb-hf.jpg
 image: /files/classfilm.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
 ---
-
 
 * Use older films in the beginning of the year as a touchstone experience for critiquing a film's accuracy and realism.
 * Provide students with the vocabulary, concepts and approaches needed to discuss both the cinematic conventions as well as the historical accuracy of the film. One important concept for students to learn is that the time period in which a film is created influences the way it depicts an historical event.

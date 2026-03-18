@@ -23,16 +23,16 @@ splash_image: /files/GrammarHistIISplash3.jpg
 author_image: /files/author_image/StaceyGreer.jpg
 ---
 
-
-
 ## Why do it?
 
 History is a discipline constructed through language. For history students to be successful they must be able to comprehend, discuss, analyze, and write historical texts. Reading history textbooks and other documents requires academic literacy skills that far too many of our students, especially English Learners, lack.
+
 *Getting Meaning through Language Analysis* not only helps struggling students comprehend the basic meaning of history writing, but this close text analysis can also promote historical thinking as students grapple with the language choices the author made in constructing the text.
 
 ## What is it?
 
 *Language Analysis* is a way to help students better understand and analyze historical text. Essential in this process is that the teacher first identifies a short standards-based textbook passage and poses an investigative question to establish the students' purpose for reading. Part I of this series discussed how to then guide students to identify different grammatical elements in the selected sentences and to notice how those elements relate to each other, thereby exposing the historical meaning. This installment demonstrates another way to identify and analyze the grammatical elements—by asking five questions of a history text.
+
 These questions drive a classroom conversation about the text's meaning.
 
 1. Who or what is doing or being something?
@@ -48,7 +48,9 @@ Let's examine the following sentence excerpted from a passage in an 8th-grade U.
 > Standards-based investigative questions guide students through text interpretation.
 
 First, the teacher should write a standards-based investigative question to set the purpose for the lesson. Here it might be "How did the Alien and Sedition Acts contribute to the divide between the first political parties?"
+
 **1. Who or what is doing something in the sentence?**
+
 This question directs students to find the subject of the sentence, the *Federalist-controlled Congress*. This will probably be difficult for students to find at first, as the subject is in the second clause. However, over time they will come to recognize this very common sentence pattern in history and other academic texts. This "who/what" question also sets up a discussion that will connect to students' prior knowledge about the responsibilities of Congress. They would need to understand what it meant for one party, the Federalists, to control the Congress, a very abstract idea. The teacher can help students understand this idea.
 
 **2. What is the *Federalist-controlled Congress* doing?**
@@ -72,6 +74,7 @@ It is also important to remind the students that this is an interpretation, and 
 By asking the same questions of this sentence, students can easily conclude that although the main subject (Congress) and verb (passed) are the same, the author's interpretation is different. Here the reason behind the Sedition Act is not to protect the nation, but to suppress domestic *opposition*. Also, this particular sentence includes a consequential relationship as it accuses the Congress of *outlawing public criticism of the federal government*.
 
 **5. How does this information help us answer the larger investigative question?**
+
 Question Five brings the students back to the main point of the lesson: what they should know after examining the text closely. Without returning to the main question, students can get lost in the details rather than the larger understanding of the material.
 
 ## Why is this a best practice?
@@ -81,10 +84,13 @@ The five questions guide students and teachers in a discussion about the languag
 ## Footnotes
 
 1 Linda Kerrigan Salvucci and Sterling Stuckey, *Call to Freedom, Beginnings to 1914* (Austin: Holt, Rinehart and Winston, 2000), 324.
+
 2 Alan Taylor, *William Cooper's Town* (New York: Vintage Books, 1995), 264.
 
 ## Resources
 
 Learn more about The History Project at UC Davis: [historyproject.ucdavis.edu](http://historyproject.ucdavis.edu).
+
 Mary J. Schleppegrell, Stacey Greer, and Sarah Taylor, ["Literacy in history: Language and meaning,"](http://www.alea.edu.au/documents/item/70) *Australian Journal of Language and Literacy* 31, no.2 (2008): 174–187.
+
 This project is also discussed in [another article](http://teachinghistory.org/best-practices/teaching-with-textbooks/19439) on this website.

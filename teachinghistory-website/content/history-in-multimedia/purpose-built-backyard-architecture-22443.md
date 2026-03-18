@@ -9,7 +9,16 @@ duration: 00:11:42
 website_url: http://podcast.history.org/
 date_published: '2009-07-27T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Daily Life
+- Slavery
+- Southern States
 ---
 
 Colonial Williamsburg author Mike Olmert discusses the significance and preservation of colonial-era outbuildings, which included structures such as kitchens, laundries, dairies, privies, smokehouses, offices, dovecotes, and icehouses. Olmert focuses on the window onto social norms and expectations and onto indentured and enslaved life that these structures reveal.
+
 To listen to this feature, select "All 2009 podcasts," and scroll to the July 27th program.

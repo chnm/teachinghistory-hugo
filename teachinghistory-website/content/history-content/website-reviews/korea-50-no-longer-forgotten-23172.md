@@ -15,7 +15,23 @@ summary: Explore one of the country's least discussed major military conflicts, 
 splash_image: /files/korea50.jpg
 thumbnail: /files/commercialcloset.jpg
 image: /files/website_image/Kore50Image.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- International Relations
+- Military History
+- Politics
+evidence_types:
+- Official Documents
+- Oral History
+- Personal Accounts
+- Photographs
+- Political Documents
+- Speeches
+resource_types:
+- Audio
+- Images
+- Text
 ---
-
 
 A collection of more than 200 official documents, nine oral histories, and more than 70 photographs pertaining to the pursuance of the Korean War by the administrations of Presidents Harry S. Truman and Dwight D. Eisenhower. Provides day-by-day access covering June 24-September 14, 1950—and more sporadic contributions during subsequent periods—to diplomatic and military documents and accounts by administration officials, including correspondence, speeches, memos, reports, and briefing papers. A special section covers the historic Wake Island meeting in October 1950 between Truman and General Douglas MacArthur, with excerpted documents, reminiscences by participants and observers, and photographs. Also includes an audio recording of Truman discussing the firing of MacArthur in 1951; an extensive "Korean War Teacher Activity" from a high school in Independence, MO, including assignments geared to official documents and oral histories; guides to archival materials in the Truman and Eisenhower presidential libraries; information on relevant exhibitions in the libraries; and links to five related sites. Valuable for students to learn to evaluate historical narratives composed of materials from diverse sources.

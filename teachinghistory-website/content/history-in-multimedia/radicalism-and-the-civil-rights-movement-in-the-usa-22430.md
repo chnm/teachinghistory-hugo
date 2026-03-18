@@ -13,7 +13,16 @@ splash_image_fid: '8716'
 summary: Dr. Simon Hall lectures on the shift of some activists away from nonviolent
   protest to radicalism during the Civil Rights Movement.
 splash_image: /files/splash-him-mlk3_1.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Ideas & Ideologies
+- Politics
+- Radicalism
+- Reform
+tags:
+- Civil Rights Movement
 ---
-
 
 Dr. Simon Hall, Senior Lecturer in American History at the University of Leeds, lectures on the shift of some activists away from nonviolent protest to radicalism during the Civil Rights Movement. He looks at activists' disillusionment with the federal government and the change in focus of organizations like the Student Nonviolent Coordinating Committee (SNCC, which became the Student National Coordinating Committee).

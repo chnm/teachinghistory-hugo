@@ -13,6 +13,51 @@ keywords: laborers, working class, workers, labor movements, strikes, unions, In
 website_url: http://www.digitalhistory.uh.edu/digital_stories.cfm
 date_published: '2007-12-21T00:00:00'
 series_name: Digital Stories about American History
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Business
+- Cities & Suburbs
+- Economy
+- Ethnicity
+- Gender
+- Ideas & Ideologies
+- Immigration
+- Labor
+- Legal History
+- Media
+- Politics
+- Radicalism
+- Reform
+- Science & Tech.
+- Women
+tags:
+- Communism
+- IWW
+- Industrial Workers of the World
+- activism
+- activists
+- industry
+- labor movements
+- laborers
+- propaganda
+- protest
+- protesters
+- protests
+- race
+- race relations
+- racism
+- radicals
+- socialism
+- strikes
+- unions
+- wobblies
+- workers
+- working class
 ---
 
 Michael Ray narrates a basic overview of the Industrial Workers of the World (IWW). The presentation looks particularly at the union's founders and the government reaction to the growing strength of the IWW and includes clips of IWW propaganda.

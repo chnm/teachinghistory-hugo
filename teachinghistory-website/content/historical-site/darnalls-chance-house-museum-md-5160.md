@@ -6,7 +6,21 @@ content_type: historical_site
 draft: false
 drupal_nid: 5160
 website_url: http://www.pgparks.com/places/eleganthistoric/darnalls_intro.html
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Daily Life
+- Gender
+- Southern States
+- Women
+tags:
+- Maryland
+- homes
+- houses
+- widows
 ---
 
 Darnall's Chance House Museum is dedicated to the interpretation and study of the history and culture of 18th-century Prince George's County, MD, with special emphasis on the lives of mid-18th-century women. The Museum interprets the story of the widow Lettice Wardrop Thomson Sim, who lived at Darnall's Chance in the decades just prior to the American Revolution. The house and grounds reflect 1760, the year Lettice Wardrop's first husband died and a room by room inventory was taken of the contents of the house. Darnall's Chance also strives to accurately reflect the African-American community on the site and town life in mid-18th-century Upper Marlboro, MD.
+
 The site offers tours, educational programs, and occasional educational and recreational events.

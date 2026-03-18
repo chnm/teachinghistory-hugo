@@ -20,9 +20,20 @@ summary: What was life like for women and girls on late 19th- and early 20th-cen
   farms?
 splash_image: /files/farmsplash.jpg
 author_image: /files/author_image/johnb.jpeg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Children
+- Daily Life
+- Family Life
+- Gender
+- Women
+tags:
+- agriculture
+- farming
+- farms
 ---
-
-
 
 Children today may be struck by ways in which their own lives contrast with those of farm children’s in earlier times. One difference is the extent to which girls and boys, from a very early age, were given hard work that was essential to the running of the farm and to the economic success of the entire family. On the other hand, children today might be surprised by how independently children in times past ranged in work and play, far from immediate adult supervision, protection, and surveillance. This was true, not just on the farm, but in towns and cities as well.
 

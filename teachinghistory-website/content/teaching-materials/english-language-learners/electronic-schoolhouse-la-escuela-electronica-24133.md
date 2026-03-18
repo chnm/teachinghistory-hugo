@@ -29,12 +29,13 @@ splash_image_fid: '6190'
 splash_image: /files/schoolhouse_img1.jpg
 image: /files/schoolhouse_img2.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
 
-
 The [Electronic Schoolhouse / La Escuela Electrónica](http://www.archives.nysed.gov/projects/escuela/index.shtml) is a bilingual educational resource of historical resources developed by the [New York State Archives](http://www.archives.nysed.gov/aindex.shtml), a program of the New York Department of Education that cares for and provides access to more than 200 million documents.
+
 With background information available in both English and Spanish, materials examine the Latino experience in New York through documents and images from 1861 to the present.
+
 Also available are focus questions, activities, lists of additional resources, and instructional videos that explain how teachers can use materials.

@@ -15,8 +15,31 @@ summary: Find out about the guitar players who came before you, and perhaps, eve
 thumbnail: /files/CivilWarLetters432x240.jpg
 splash_image: /files/musical.jpg
 image: /files/website_image/MiMOImage_0.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Popular Culture, Leisure
+- Sexuality
+evidence_types:
+- Artifacts and Objects
+- Literary Sources
+- Music
+- Oral History
+- Photographs
+resource_types:
+- Audio
+- Images
+- Text
 ---
 
-
 The title of this site is somewhat misleading, as the history and artistry of the guitar and guitarists is the primary focus for the eight collections of images and 15 exhibitions—some produced in conjunction with other cultural institutions—that the site's creators, a collector and music scholar, offer. "Dangerous Curves: Art of the Guitar," an online version of a recent Boston Museum of Fine Arts exhibition, presents more than 20 photographs of guitars from the Baroque era to modern times, including a number of celebrity instruments. This exhibition provides up to 200-word annotations on each image and a 4,000-word essay. "Bound for Glory: The Life and Times of Woody Guthrie," a complement to the traveling Smithsonian Institution show, offers a 3,100-word narrative of the folksinger's life and songwriting career, with 23 audio files of songs and interviews, 32 photographs, four pieces of sheet music, and six reviews and articles on the original exhibition. "The Private Life of Mark Twain" displays photos of the author's 1834 Martin guitar, an edited version of Twain's poem "Genius," a 350-word article, an audio file of a song about Twain performed by the Kingston Trio, and a nine-minute National Public Record audio segment on Twain's guitar. O
+
 ther exhibition topics include music in films, Elvis Presley, Django Reinhardt, music during World War II, and "the guitar as a potent sex symbol." The eight collections of images present historic guitars from the ragtime era to 1930s singing cowboy movies. The site also includes approximately 70 previously published articles on related topics. Valuable for those studying music history and American popular culture of the 20th century.

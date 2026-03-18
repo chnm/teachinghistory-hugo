@@ -17,8 +17,11 @@ summary: Print documents free of ads, hyperlinks, and other visual clutter.
 splash_image: /files/read-printsplash.jpg
 image: /files/PrintFriendly.jpg
 author_image: /files/author_image/author_wiebe_0_2.jpeg
+tags:
+- printability
+- printfriendly
+- printing
+- readability
 ---
-
-
 
 [PrintFriendly](http://www.printfriendly.com/) was designed for the eco-friendly teacher. Cut print time and document length by using these tools to rid online documents of unnecessary features.

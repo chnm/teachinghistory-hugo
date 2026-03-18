@@ -16,10 +16,19 @@ summary: A Cherokee Nation Supreme Court document reveals the fluidity of racial
 splash_image: /files/CherokeeLawSplash.jpg
 author_image: /files/author_image/Malinda_author.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- African Americans
+- American Indians
+- Legal History
+- Slavery
+- Western States
+tags:
+- Cherokee
+- Cherokee Nation
 ---
-
-
 
 /files/media/video/Malinda1.mp4
 

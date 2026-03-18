@@ -10,6 +10,16 @@ keywords: presidents, speeches, photography, criminals
 website_url: http://memory.loc.gov/ammem/pihtml/pivid07.html
 date_published: '2008-05-29T00:00:00'
 series_name: 'Presidential Inaugurations: Historical Insights'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Media
+- Politics
+tags:
+- criminals
+- photography
+- presidents
+- speeches
 ---
 
 Library of Congress historian Marvin Kranz discusses a photograph of Abraham Lincoln's second inaugural, in which some people claim they can see John Wilkes Booth, and briefly outlines the stories of Booth's presence at the inaugural.

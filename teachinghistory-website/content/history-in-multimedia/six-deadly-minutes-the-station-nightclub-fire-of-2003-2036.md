@@ -11,6 +11,26 @@ keywords: fire, fires, disasters, Boston, reporting, reportage, mass media, medi
   Nightclub
 website_url: http://dev.forum-network.org/lecture/six-deadly-minutes-station-nightclub-fire-2003
 date_published: '2004-09-28T00:00:00'
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Cities & Suburbs
+- Media
+tags:
+- Boston
+- Providence
+- Rhode Island
+- Station Nightclub
+- disasters
+- fire
+- fires
+- investigation
+- investigations
+- mass media
+- media coverage
+- nightclubs
+- reportage
+- reporting
 ---
 
 Both Thomas E. Heslin, editor of the *Providence Journal*, and Paul Edward Parker, a reporter from the paper, discuss their coverage of and investigations into a 2003 fire that killed 100 people at the Station Nightclub, near Providence, RI.

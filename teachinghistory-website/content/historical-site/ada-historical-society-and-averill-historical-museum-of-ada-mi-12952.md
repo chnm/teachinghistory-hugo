@@ -6,7 +6,13 @@ content_type: historical_site
 draft: false
 drupal_nid: 12952
 website_url: http://www.adahistoricalsociety.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Midwestern States
 ---
 
 The Ada Historical Society seeks to preserve and share the history of Ada, MI. To this end, the society operates the Averill Historical Museum of Ada.
+
 The society offers exhibits.

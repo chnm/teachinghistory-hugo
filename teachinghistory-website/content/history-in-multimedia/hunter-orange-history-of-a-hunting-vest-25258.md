@@ -12,4 +12,5 @@ series_name: Cool Things Podcasts
 ---
 
 According to the Kansas State Historical Society website:
+
 "Modern hunting apparel is emblazoned with bright orange, but this mid-20th century vest isn't brightly colored. Does that mean it was open season on hunters 50 years ago?"

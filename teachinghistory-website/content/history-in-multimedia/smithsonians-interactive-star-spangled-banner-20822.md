@@ -16,7 +16,27 @@ splash_image_fid: '9089'
 summary: Eighth-grade American history educator Eric Langhorst introduces an interactive
   Smithsonian website on the Star-Spangled Banner.
 splash_image: /files/splash-him-starspangle.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Education
+- Ideas & Ideologies
+- Media
+- Military History
+- Popular Culture, Leisure
+tags:
+- American flag
+- Star-spangled Banner
+- U.S. flag
+- War of 1812
+- artifacts
+- digital history
+- flags
+- music
+- national anthem
+- national anthems
+- songs
+- teaching strategies
 ---
-
 
 Eighth-grade American history educator Eric Langhorst introduces an interactive Smithsonian website on the Star-Spangled Banner, suggesting it as a classroom resource for studying the War of 1812.

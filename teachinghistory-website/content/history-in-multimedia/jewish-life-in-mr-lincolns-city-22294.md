@@ -8,6 +8,16 @@ drupal_nid: 22294
 duration: 00:49:33
 website_url: http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=4562
 date_published: '2009-05-19T00:00:00'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Cities & Suburbs
+- Daily Life
+- Media
+- Mid-Atlantic
+- Military History
+- Politics
+- Religion
 ---
 
 Laura Cohen Apelbaum and Wendy Turman of the Jewish Historical Society look at the life of Jewish Americans in Washington, DC during the Civil War.

@@ -9,6 +9,7 @@ splash_image_fid: '8501'
 summary: Is historical fiction an effective emotional hook, a distraction from the
   facts, or something more complicated?
 splash_image: /files/splash-rt-hf.jpg
+tags:
+- historical fiction
 ---
-
 

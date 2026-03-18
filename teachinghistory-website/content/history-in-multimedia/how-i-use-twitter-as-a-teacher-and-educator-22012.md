@@ -10,6 +10,14 @@ keywords: Twitter, teaching strategies
 website_url: http://speakingofhistory.blogspot.com/2009/04/podcast-187-how-i-use-twitter-as.html
 date_published: '2009-04-20T00:00:00'
 series_name: Speaking of History
+time_periods:
+- General
+topics:
+- Education
+- Science & Tech.
+tags:
+- Twitter
+- teaching strategies
 ---
 
 Eighth-grade teacher Eric Langhorst discusses how he uses Twitter as an individual and as an educator.

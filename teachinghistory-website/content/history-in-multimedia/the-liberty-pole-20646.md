@@ -12,6 +12,34 @@ keywords: liberty pole, Wiliamsburg, Virginia, tarring and feathering, tar and f
 website_url: http://podcast.history.org/2006/11/13/the-liberty-pole/
 date_published: '2006-11-13T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+- Radicalism
+- Reform
+- Southern States
+tags:
+- American Revolution
+- Loyalists
+- Revolutionary War
+- Tories
+- Virginia
+- Wiliamsburg
+- class
+- classes
+- liberty pole
+- middle class
+- protesters
+- protests
+- tar and feathering
+- tarring and feathering
+- taverns
+- working class
 ---
 
 Tom Hay, supervisor of the Courthouse at Colonial Williamsburg, looks at public protest and victimization of Loyalists in the period leading up to the American Revolution, including tarring and feathering, burning in effigy, and other public humiliations.

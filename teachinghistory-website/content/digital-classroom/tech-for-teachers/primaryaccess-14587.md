@@ -20,10 +20,13 @@ splash_image: /files/PA-splash-image.png
 thumbnail: /files/quiz_thumbnail/NatiPostThumbnail.jpg
 image: /files/splash-PA.png
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- presentation
+- research
+- visualization
 ---
-
 
 An application for constructing short digital movies using text, images, and narration to guide students to effectively use, interpret, and integrate primary source materials.

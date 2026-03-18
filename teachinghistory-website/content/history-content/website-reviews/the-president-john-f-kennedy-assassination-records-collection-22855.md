@@ -15,9 +15,24 @@ summary: Explore the federal government's extensive collection of resources pert
 thumbnail: /files/splash-aamt-gt.jpg
 splash_image: /files/splash-wr-jfkassass.jpg
 image: /files/website_image/JFKAssassination_Image.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Politics
+evidence_types:
+- Newspapers and Periodicals
+- Official Documents
+- Speeches
+resource_types:
+- Text
+tags:
+- JFK
+- John F. Kennedy
+- presidents
 ---
 
-
 On order of an Act of Congress signed into law in 1992, the National Archives has gathered federally-created material relating to the 1963 assassination of President John F. Kennedy—including declassified material from every relevant presidential commission, congressional investigation, and executive-branch agency—and placed it in a single collection, supplemented with materials donated by local governments, presidential libraries, institutions, and private individuals.
+
 While original records are not available online, this site presents a searchable database and extensive finding aids and includes full texts of the reports issued by the Warren Commission, published in 1964, and the 1979 House Select Committee on Assassinations.
+
 This is a well-designed site that will be of most value to scholars of the assassination who plan to conduct research at the Archives.

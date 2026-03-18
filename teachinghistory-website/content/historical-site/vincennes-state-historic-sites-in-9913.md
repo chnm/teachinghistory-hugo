@@ -6,7 +6,45 @@ content_type: historical_site
 draft: false
 drupal_nid: 9913
 website_url: http://www.in.gov/ism/StateHistoricSites/VincennesSites/index.aspx
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Expansion & Reform, 1801-1861
+- General
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- American Indians
+- Business
+- Daily Life
+- Economy
+- Education
+- Global Contact
+- Immigration
+- Labor
+- Legal History
+- Literature
+- Midwestern States
+- Military History
+- Politics
+- Science & Tech.
+- Slavery
+tags:
+- Battle of Tippecanoe
+- Fort Knox II
+- Indiana Territory
+- Maurice Thompson
+- Polly Strong v. Hyacinth Laselle
+- apprenticeships
+- burial mounds
+- communication
+- fur trade
+- historic bank
+- historic fort
+- historic print shop
+- historic schoolhouse
+- printing
 ---
 
 The Vincennes State Historic Sites commemorate Indiana's early state history—with the city itself founded in 1732. Structures include the 1805 Indiana Territory capital building; a historic print shop; the birthplace of the author Maurice Thompson; an 1838 bank; Fort Knox II, hospital to the wounded of the Battle of Tippecanoe; the 1801 Jefferson Academy; and a prehistoric burial mound. Maurice Thompson (1844-1901) authored 1900's bestselling romance novel, *Alice of Old Vincennes*. Topics covered include slavery, military life, domestic life, historical sciences, the fur trade.
+
 The sites offer period rooms, educational outreach programs, group tours, educational presentations, interpretive signage, educational programs, lesson plans, and summer camps.

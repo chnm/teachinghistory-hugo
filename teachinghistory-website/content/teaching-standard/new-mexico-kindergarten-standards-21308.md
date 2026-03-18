@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21308
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * # Strand: History
@@ -141,6 +141,7 @@ grade_levels:
     ### Performance Standards
 
     Understand the concept of product (something produced by human, mechanical, or natural process).
+
     Understand the importance of jobs.
   + ## K-4 Benchmark IV-C:
 

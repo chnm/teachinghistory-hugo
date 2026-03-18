@@ -11,6 +11,14 @@ splash_image_fid: '9189'
 summary: The "go-green" movement is rampant in modern America. However, support for
   conservation in the early 20th century was not quite as universal.
 splash_image: /files/conservationsplash.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Economy
+- Environment
+- Politics
+- Reform
 ---
 
 ## What Textbooks Say

@@ -11,7 +11,26 @@ keywords: human rights, civil rights, foreign relations, foreign policy, foreign
 website_url: http://www.fpri.org/education/livingwithoutfreedom/
 date_published: '2007-05-05T00:00:00'
 series_name: Living Without Freedom
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+tags:
+- North Korean
+- civil rights
+- dictators
+- dictatorships
+- foreign affairs
+- foreign policy
+- foreign relations
+- freedom
+- human rights
 ---
 
 Kongdan Oh of the Institute for Defense Analyses describes the oppressive political regime in North Korea, concluding by suggesting indirect means by which the U.S. might assist refugees. To help teachers teach students about life without freedom, FPRI's Marvin Wachman Fund for International Education, in cooperation with the National Constitution Center and the National Liberty Museum, assembled some of the world's leading analysts—and witnesses—of countries without freedom. The conference helped teachers define totalitarianism while examining the history of the idea of freedom.
+
 To listen to this lecture, scroll to "North Korea: The Nadir of Freedom" under "Speakers and Topics." Video and audio options are available.

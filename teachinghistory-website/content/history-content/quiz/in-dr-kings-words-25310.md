@@ -13,8 +13,19 @@ summary: People can identify (some of) the words of Martin Luther King Jr. Can y
   place these quotes?
 splash_image: /files/quiz-mlk11-splash_0.jpg
 thumbnail: /files/website_image/OlivAtkiImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Reform
+tags:
+- Civil Rights Movement
+- Martin Luther King Jr.
+- Martin Luther King Jr. Day
+- holidays
 ---
 
-
 In 2011, the Martin Luther King Jr. National Memorial opened to the public. On one side of the statue is a direct quote from King; on the other side is a paraphrased quote. Since the monument opened, people have spoken up against the decision to paraphrase King’s words, noting that the paraphrase significantly changes the meaning.
+
 Examine four quotes that have been attributed to Dr. King (including the quote on the statue). Were these words first spoken by King? Select “yes” or “no.”

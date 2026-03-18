@@ -10,7 +10,20 @@ keywords: smallpox, Boston
 website_url: http://podcast.history.org/2009/07/13/smallpox-and-the-covenant/
 date_published: '2009-07-13T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- Cities & Suburbs
+- Global Contact
+- Health & Medicine
+- Mid-Atlantic
+- Religion
+- Science & Tech.
+tags:
+- Boston
+- smallpox
 ---
 
 Tony Williams, author of *The Pox and the Covenant: Franklin, Mather, and the Epidemic That Changed America's Destiny*, discusses the colonial-era smallpox epidemic that began in Boston in 1721.
+
 Discover more about colonial germ warfare by reading [this article](http://www.history.org/Foundation/journal/Spring04/warfare.cfm) by Harold B. Gill Jr.

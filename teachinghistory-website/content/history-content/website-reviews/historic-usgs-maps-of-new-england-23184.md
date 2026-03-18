@@ -15,8 +15,28 @@ summary: Explore New England's topography with more than 1,100 topographical map
 splash_image: /files/usgs.jpg
 thumbnail: /files/conococheague-bridge.jpg
 image: /files/website_image/HistUSGSImage.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Cities & Suburbs
+- Environment
+- Mid-Atlantic
+- New England
+- Rural Life
+evidence_types:
+- Maps
+resource_types:
+- Images
+tags:
+- New England
+- New York
+- cartography
+- geography
 ---
 
-
 A collection of more than 1,100 topographical maps created by the United States Geological Survey from the 1890s to the 1950s covering all of New England—Maine, New Hampshire, Vermont, Rhode Island, Massachusetts, and Connecticut—and selected areas of New York. The maps—which reveal roads, buildings, rail lines, bodies of water, and elevations—occur in 15-minute and 7.5-minute quadrangle series (a minute is one-sixtieth of a degree of latitude or longitude). In addition, the collection includes six maps with 30-minute quadrangles.
+
 For states other than New York, users can view a state image map and select a point within a grid marked off in 15-minute increments to find listings for available images accompanied by dates the maps were surveyed, created, and revised. Towns within each quadrangle are also listed along with names of adjacent areas. Users also may search an alphabetical list of towns within each state. For New York, only an index of quadrangles names is available. Maps are presented in JPEG format. According to the site, "Each image is typically 2 megabytes, so download times are likely to be slow." A useful site for those studying changes in the New England landscape during the first half of the 20th century.

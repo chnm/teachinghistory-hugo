@@ -16,9 +16,16 @@ summary: Did the Chinese discover America before Columbus? How would or does thi
 splash_image: /files/splash-lpr-china.jpg
 image: /files/lesson_image/ship.jpg
 grade_levels:
-  - middle
-duration: '2 class periods'
+- middle
+duration: 2 class periods
+time_periods:
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Global Contact
+- Science & Tech.
+tags:
+- China
+- exploration
 ---
-
 
 TV presents a great deal of historical information these days, but not all of it is valid or trustworthy. Unfortunately, many students lack the tools needed to assess historical information they see on television. This [skill-building lesson](http://www.teachersdomain.org/resource/vtl07.la.rv.text.lp1421/) presents students with some of the tools needed to assess the validity of an argument made through a persuasive, high-quality visual medium. In this two-day lesson, students assess the validity of a claim integral to the argument that the [Chinese discovered America in 1421](http://www.gavinmenzies.net/china/book-1421/). Retired submarine commander Gavin Menzies presents this [argument](http://www.teachersdomain.org/resource/vtl07.la.rv.text.zhengI/) and the [evidence](http://www.teachersdomain.org/resource/vtl07.la.rv.text.zhengII/) to students in two short video clips highlighting the resources available to ancient Chinese sailors to make seven epic ocean voyages during the Ming dynasty. The lesson is clearly structured and guides students through steps they should take to evaluate historical claims. Helpfully, it includes a student handout that clearly explains the criteria for assessing the evidence of a historical argument. For example students are prompted to look at the qualifications of the person making a claim and to evaluate the persuasive techniques being used. A second handout has a worksheet to help students use the criteria to evaluate specific aspects of Menzies's argument. Student learning is assessed both through classroom discussion and a culminating essay that prompts students to provide a reasoned evaluation of the claim that the Chinese had the naval capacity to travel to America in the 15th century. The lesson includes a detailed rubric to assist your evaluation of these essays.

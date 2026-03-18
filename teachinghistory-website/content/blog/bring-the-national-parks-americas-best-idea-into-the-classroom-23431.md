@@ -11,8 +11,13 @@ image_fid: '3460'
 summary: The new PBS film series talks about fascinating people and places we often
   don't pay attention to.
 image: /files/natlpark.jpg
+tags:
+- historic sites and museums
+- multimedia
+- primary sources
+- teaching materials
+- websites
 ---
-
 
 The first run of the PBS six-part documentary, [*The National Parks: America's Best Idea*](http://www.pbs.org/nationalparks/) has finished on most local PBS stations, but resources abound for integrating materials from the program into various curriculum units. The photography's gorgeous and the reviews are mostly positive, and according to [*The New York Times* review](http://www.nytimes.com/2009/09/25/arts/television/25parks.html?), the first two episodes (1851-1915) contain the best material of all: the story of how the park system was born and how the men and women who built it also nourished and protected it. ". . . [I]t's full of fascinating history and larger-than-life characters."
 
@@ -26,5 +31,7 @@ Lesson plans help integrate the materials into the classroom, offering a place-b
 ## At the Clearinghouse
 
 Search [Website Reviews](http://teachinghistory.org/history-content/website-reviews) for national parks and among the 20 or so search results, you'll find [Mapping the National Parks](http://teachinghistory.org/history-content/website-reviews/23081) tracking explorers and exploration; [Evolution of the Conservation Movement, 1850-1920](http://teachinghistory.org/history-content/website-reviews/14748), a site with manuscripts, images, films, and more documenting the movement's formation and growth; and a description of [National Park Service, Teaching with Historic Places](http://teachinghistory.org/history-content/website-reviews/23381) materials and resources.
+
 Among our Lesson Plan Reviews, you'll find a prototype [on the African American experience in the Civilian Conservation Corps](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/21874), a complement to PBS materials on [The Untold Stories Project](http://www.pbs.org/nationalparks/about/untold-stories/) highlighting underserved and underrepresented communities in our nation's national park system.
+
 Then, visit [our listing of Museums and Historic Sites](http://teachinghistory.org/history-content/historical-places) to explore parks and their stories not included in the PBS series.

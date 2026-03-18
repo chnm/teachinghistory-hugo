@@ -6,8 +6,8 @@ content_type: tah_grant
 draft: false
 drupal_nid: 24872
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
 ---
 
 This project will serve the Florida Keys—1,700 islands spread over 120 miles. A 2010 survey determined that only two percent of upper-elementary and middle school American history teachers in this district feel qualified to teach their subject; 77 percent have not had training in historical thinking skills. The project will build on a new series of advanced U.S. history courses being introduced into middle schools. Each year, 20 teachers will participate in (1) history content seminars, guiding them through readings and assignments; (2) content presentation workshops in the schools; (3) history teaching workshops, focusing on specific historical-thinking skills; (4) professional learning communities, and (5) immersive summer institutes, featuring travel to historic sites. The project teachers must participate in nearly 100 annual hours of professional development. The themes will intertwine primary sources and historic sites, including visits to Massachusetts; Philadelphia; the Washington, D.C., area; and selected locations in the Keys. The strategies involve teachers in planning, using sound approaches to historical content, paying attention to pedagogy and active learning, emphasizing historical thinking skills, and promoting collaboration to help teachers address appropriate assessment methods. The key principle is that content, pedagogy and historical thinking should be interwoven and related to classroom experience. Every participating teacher will create one content-based lesson plan, which will be vetted; the highest rated plans will be uploaded to the project Web site as models. Teachers will also develop additional lesson plans and materials to share with their students and colleagues.

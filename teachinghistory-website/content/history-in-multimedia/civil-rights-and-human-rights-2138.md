@@ -15,8 +15,31 @@ splash_image_fid: '8689'
 summary: NAACP chairman Julian Bond reviews his experiences as an active participant
   in the Civil Rights Movement.
 splash_image: /files/splash-him-mlk5.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Education
+- Ethnicity
+- Ideas & Ideologies
+- Legal History
+- Politics
+- Radicalism
+- Reform
+tags:
+- Civil Rights Movement
+- NAACP
+- Southern Poverty Law Center
+- Student Nonviolent Coordinating Committee
+- civil rights
+- desegregation
+- race
+- race relations
+- racism
+- segregation
 ---
 
-
 NAACP chairman Julian Bond reviews his experiences as an active participant in the Civil Rights Movement, including helping found the Student Nonviolent Coordinating Committee and the Southern Poverty Law Center. He also talks about the continuing need for social action today, both combating racism and other social issues.
+
 An mp3 version of the lecture audio can be downloaded.

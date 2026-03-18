@@ -13,8 +13,23 @@ thumbnail_fid: '6374'
 summary: Search over 200 prominent African American scientists.
 splash_image: /files/CJWalker_432x240.jpg
 image: /files/website_image/BlackScientists_Image.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Science & Tech.
+- Women
+evidence_types:
+- Photographs
+resource_types:
+- Text
 ---
 
-
 This site contains biographical profiles of over 200 African American men and women who have contributed to the advancement of science and engineering. The site provides brief (roughly 250 word) biographies of scholars from fields such as biology, chemistry, physics, zoology, and veterinary medicine, as well as inventors. Among the scientists included in the site are prominent figures like George Washington Carver, scientist and inventor of numerous industrial applications for agricultural products, and astronomer and mathematician Benjamin Banneker.
+
 Each entry also includes a bibliography of sources for further biographical information. The site is indexed by scientist name and profession, and there are special sections for the biographies of 20 women scientists and 14 of the first African Americans to receive PhDs in science. Though there are no primary documents on this site, it is a good place to find general information on prominent African American scientists throughout American history.

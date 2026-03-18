@@ -14,9 +14,12 @@ author_image_fid: '1281'
 summary: No one can teach in a vacuum.
 splash_image: /files/Building_Community_Among_Teachers_-_432x240.jpg
 author_image: /files/author_image/Mark_author_0.jpg
+tags:
+- TAH Grants
+- Teaching American History
+- professional development
+- sustainability
 ---
-
-
 
 > . . . creating a real sense of community, which, it turns out, enriches the ability of the teachers to apply materials they've learned in the classroom, because they talk more. It's not as if they're coming to a workshop with twenty strangers whom they'll never see again.
 

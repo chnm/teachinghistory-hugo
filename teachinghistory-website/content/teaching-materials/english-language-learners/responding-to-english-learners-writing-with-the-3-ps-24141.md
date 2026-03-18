@@ -131,15 +131,15 @@ splash_image: /files/writing_image1.jpg
 image: /files/writing_image2_0.jpg
 author_image: /files/author_image/enright_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
 
-
-
 The qualities that make a piece of history writing “good” or “effective” vary, depending on the purpose and genre. For students, this can feel like a moving target! For English Learners, it’s even more challenging.
+
 Your feedback on their writing can help them to communicate their thinking more effectively. However, English Learners often turn in assignments with so many flaws in their writing that it is difficult to know where to start. Overwhelming students with too much feedback will not help their learning.
+
 Being strategic with feedback means:
 
 * focusing on meaning and understanding first, and
@@ -148,6 +148,7 @@ Being strategic with feedback means:
 > Think about the three P’s: Preparation, Purpose, and Proficiency.
 
 To prioritize your feedback, think about the three P’s: Preparation, Purpose, and Proficiency.
+
 **1. Students’ *preparation* for the assignment.**
 > The more explicit you are about your expectations when you assign student writing, the easier it will be to evaluate students’ work later on. Don’t just tell students how long their final products should be. Always give students the following information, and then give feedback on how well they’ve met these criteria.
 >

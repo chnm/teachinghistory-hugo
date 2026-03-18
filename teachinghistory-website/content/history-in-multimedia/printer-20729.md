@@ -11,6 +11,32 @@ keywords: printers, printing, newspapers, news, Virginia Gazette, printing press
 website_url: http://podcast.history.org/2005/10/31/printer/
 date_published: '2005-10-31T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Daily Life
+- Education
+- Labor
+- Literature
+- Media
+- Science & Tech.
+- Southern States
+tags:
+- Virginia
+- Virginia Gazette
+- Williamsburg
+- business
+- businesses
+- colonies
+- colonists
+- news
+- newspapers
+- presses
+- printers
+- printing
+- printing presses
 ---
 
 Pete Stinely, a printer at Colonial Williamsburg, talks about the work of printing according to colonial-era practices.

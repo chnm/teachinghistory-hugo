@@ -6,7 +6,30 @@ content_type: historical_site
 draft: false
 drupal_nid: 9716
 website_url: http://www.libbymt.com/areaattractions/museum.htm
+time_periods:
+- General
+topics:
+- American Indians
+- Business
+- Daily Life
+- Economy
+- Environment
+- Labor
+- Rural Life
+- Science & Tech.
+- Western States
+tags:
+- Kootenai
+- Montana
+- explorers
+- fur trade
+- fur trappers
+- logging
+- mining
+- railways
+- transportation
 ---
 
 The Heritage Museum presents the history of Lincoln County, Montana. Exhibit topics include transportation, explorers, fur trappers, the Kootenai people, mining, logging, and the natural environment. Period rooms display 19th-century life.
+
 The museum offers exhibits and period rooms. Tours can be arranged by appointment. The museum is only open during June, July, and August.

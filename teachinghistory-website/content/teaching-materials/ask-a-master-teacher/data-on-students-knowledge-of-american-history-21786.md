@@ -16,16 +16,22 @@ summary: Finding solid data on student learning in history can be a challenge. H
 splash_image: /files/splash-aamt-tests.jpg
 image: /files/addedimage3.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- NAEP
+- Research and Theory
+- beyond the classroom
+- standardized testing
 ---
 
-
 Good question! Unfortunately, there are not many sources for this kind of data. The best I know is the [National Assessment of Educational Progress](http://nces.ed.gov/nationsreportcard/ushistory/) in American History. NAEP, referred to as the [Nation's Report Card](http://nces.ed.gov/NATIONSREPORTCARD/), is administered by an arm of the U.S. Department of Education and periodically assesses what students know and can do in various subject areas.
+
 In U.S. history, fourth, eighth, and 11th graders across the nation take a test that includes multiple-choice and constructed-response questions. Here is the [latest report](http://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2007474) on students' U.S. history knowledge and skills. This downloadable report presents the extensive data gathered by NAEP in easy-to-read formats. To learn more about the assessment and resulting data, see the varied links on the U.S. History [home page](http://nces.ed.gov/nationsreportcard/ushistory/). Scroll down and try the *NAEP Data Explorer* tool if you wish to explore and tailor the data available.
 
 ---
 
 Good question! Unfortunately, there are not many sources for this kind of data. The best I know is the [National Assessment of Educational Progress](http://nces.ed.gov/nationsreportcard/ushistory/) in American History. NAEP, referred to as the [Nation's Report Card](http://nces.ed.gov/NATIONSREPORTCARD/), is administered by an arm of the U.S. Department of Education and periodically assesses what students know and can do in various subject areas.
+
 In U.S. history, fourth, eighth, and 11th graders across the nation take a test that includes multiple-choice and constructed-response questions. Here is the [latest report](http://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2007474) on students' U.S. history knowledge and skills. This downloadable report presents the extensive data gathered by NAEP in easy-to-read formats. To learn more about the assessment and resulting data, see the varied links on the U.S. History [home page](http://nces.ed.gov/nationsreportcard/ushistory/). Scroll down and try the *NAEP Data Explorer* tool if you wish to explore and tailor the data available.

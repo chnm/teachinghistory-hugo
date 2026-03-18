@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21267
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### NE.1. Content Standard: United States History, Geography, Civics/Government, Economics

@@ -11,8 +11,19 @@ date_published: '2009-05-08T00:00:00'
 splash_image_fid: '7833'
 summary: Nine short video clips look at terrorism in the world after 9/11.
 splash_image: /files/splash-91171.jpg
+time_periods:
+- General
+topics:
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+- Science & Tech.
+tags:
+- 9/11
+- terrorism
 ---
 
-
 In 9 short video clips, ranging in length from 57 seconds to over three minutes, scholars Joseph Cirincione, Ricardo Lagos, P. Terrence Hopmann, Thomas Nichols, and Paulo Sérgio Pinheiro examine the issue of terrorism in the wake of 9/11. Intended to accompany the Choices Program's curriculum *Responding to Terrorism: Challenges for Democracy*, these clips may still be used independently.
+
 Registration is required, but free.

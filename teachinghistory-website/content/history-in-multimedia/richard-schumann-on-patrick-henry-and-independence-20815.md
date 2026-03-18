@@ -12,6 +12,33 @@ keywords: politicians, lawyers, Stamp Acts, Founding Fathers, American Revolutio
 website_url: http://podcast.history.org/2005/06/13/richard-schumann-on-patrick-henry-and-independence/
 date_published: '2005-06-14T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+- Radicalism
+- Reform
+- Slavery
+- Southern States
+tags:
+- American Revolution
+- Founding Fathers
+- Loyalists
+- Patriots
+- Revolutionary War
+- Stamp Acts
+- Tories
+- Virginia
+- Williamsburg
+- colonies
+- colonists
+- lawyers
+- politicians
+- slaves
 ---
 
 Richard Schumann, who interprets Patrick Henry at Colonial Williamsburg, discusses Henry's role in and leading up to the American Revolution.

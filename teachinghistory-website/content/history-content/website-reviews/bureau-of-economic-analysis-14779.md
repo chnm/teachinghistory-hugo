@@ -16,8 +16,26 @@ summary: Follow historical trends in national, international, and regional econo
 thumbnail: /files/website_image/blackmask-image.jpg
 splash_image: /files/Bureau_of_Economic_Analysis_432x240.jpg
 image: /files/website_image/14779.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Business
+- Consumer Culture
+- Economy
+- Global Contact
+- International Relations
+evidence_types:
+- Official Documents
+- Quantitative Evidence
+resource_types:
+- Data
+- Text
+tags:
+- Globalization; economics; consumption;
 ---
 
-
 Comprehensive and summary data estimates concerning national, international, and regional economic activity are available on this website. Additional data is available according to industry. An overview of the economy provides data on production, purchases by type, prices, personal income, government finances, inventories, and balance of payments.
+
 An easy-to-use keyword index to a set of annual and quarterly national income and product account (NIPA) tables from 1929 to 2006—found in the "National" section under "Personal Income and Outlays"—allows users access to data on specific product sales and ways that consumers have spent money. Forty-nine recent research papers by staff members address issues such as globalization, how the "new economy" is measured, and structural change of the economy over a 28-year period.

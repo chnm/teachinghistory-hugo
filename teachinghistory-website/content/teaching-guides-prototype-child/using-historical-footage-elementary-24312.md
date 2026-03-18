@@ -27,8 +27,13 @@ thinking_focus: "<strong>History vs. Fiction: It’s All about Evidence</strong>
   \ abolitionists’ cause.\r\n</p>"
 thumbnail_fid: '3497'
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+topics:
+- African Americans
+- Daily Life
+- New England
+- Slavery
 ---
 
 **Who was Venture Smith?**

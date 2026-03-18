@@ -10,7 +10,24 @@ keywords: race, racism, race relations, Civil Rights Movement, civil rights
 website_url: http://teachingamericanhistory.org/institutes/2003/race_readings.html
 date_published: '2003-08-07T00:00:00'
 series_name: Race and Rights in American History
+time_periods:
+- Contemporary US, 1968-Present
+- General
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Daily Life
+- Ethnicity
+- Ideas & Ideologies
+- Politics
+tags:
+- Civil Rights Movement
+- civil rights
+- race
+- race relations
+- racism
 ---
 
 Dr. Carol Swain speaks about her own views on race relations and the development of race relations, particularly her view that a new "white nationalism" has replaced outright racism in the U.S. today.
+
 To listen to this lecture, scroll to the Thursday, August 7th guest lecture; and select the corresponding RealAudio link to the left.

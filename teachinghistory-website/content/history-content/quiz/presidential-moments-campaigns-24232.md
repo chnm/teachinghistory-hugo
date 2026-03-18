@@ -13,7 +13,15 @@ summary: Think the mudslinging in modern campaigns is bad? Campaigns have always
   "dirty" to amass support for one politician over another.
 splash_image: /files/PresCampaign_0.jpg
 thumbnail: /files/website_image/AgenSociImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+topics:
+- Politics
+tags:
+- presidential campaigns
+- presidents
 ---
-
 
 From the U.S.'s earliest elections through the present day, no presidential candidate has campaigned without criticism. Accusations of conspiracy, crime, and corruption dog the footsteps of anyone aiming for the position of Commander in Chief. Identify the candidate by the criticism they received during their campaign.

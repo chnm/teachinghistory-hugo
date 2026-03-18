@@ -12,6 +12,18 @@ url: /history-content/beyond-the-textbook/23918
 splash_image_fid: '4449'
 summary: How exactly did U.S. Senator Huey Long intend to end poverty across the U.S.?
 splash_image: /files/splash-hueylong.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Economy
+- Ideas & Ideologies
+- Politics
+- Southern States
+tags:
+- Huey Long
+- Louisiana
+- New Deal
+- Senators
 ---
 
 ## What Textbooks Say

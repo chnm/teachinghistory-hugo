@@ -21,12 +21,22 @@ summary: Teach with punk, hip hop, and classic rock with these suggestions from 
 splash_image: /files/splash-blog-ap-music1.jpg
 author_image: /files/author_image/Pellegrino_Image.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- All
+- General
+topics:
+- Consumer Culture
+- Politics
+- Popular Culture, Leisure
+- Radicalism
+- Reform
+tags:
+- Anthony Pellegrino
+- music
 ---
-
-
 
 Music has been a source of inspiration, of protest, of wisdom, and of emotion for millennia. In the United States, music became woven into the fabric of our culture well before we became a nation, and it remains so today. Through songs of protest and patriotism from the 18th and 19th centuries to music of today commenting on and influencing social or political issues, music has found its way into nearly every era and event in American history, inspiring it or reflecting on it.
 
@@ -36,6 +46,7 @@ Beginning in my early teens, I recall being affected by the political and social
 > Whether reflecting on or being a part of the context, these songs contained meaning.
 
 These songs became sources integral to our wrangling with the experiences of the past and examination of contemporary social and political issues. We often laughed at the vocalists or the crude recording and instrumentation, but our mission was to analyze the meanings behind the songs in terms of their significance to history and the social studies. We treated these songs for what they are: cultural contributions critically relevant to the past, present, and future of our society.
+
 I am certain that sharing these songs with my students engaged them in the content for a time. I am also certain that they enjoyed the unusual activity of listening to music in class, hearing my commentary of the artists, and discussing, for example, the characteristics of Dylan's voice or the bombast that was 1980s hardcore punk rock. However, my goal was beyond just engagement. Whether reflecting on or being a part of the context, these songs contained meaning. They represented a look inside the lives of the songwriters and the stories they had to tell. These songs allowed us to be more aware of our own world. They held the potential, as do other relevant sources in the social studies, to humanize us.
 
 ## How Can I Use Music as a Primary Source?

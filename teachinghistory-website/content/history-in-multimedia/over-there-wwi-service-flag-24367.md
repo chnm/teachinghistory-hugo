@@ -9,7 +9,18 @@ duration: 00:15:49
 website_url: http://www.kshs.org/p/cool-things-service-flag/15367
 date_published: '2010-06-02T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Daily Life
+- Family Life
+- Global Contact
+- International Relations
+- Military History
+- Women
 ---
 
 From the Kansas State Historical Society website:
+
 "In honor of Memorial Day, we consider a service flag that was proudly displayed by a Kansas family during World War I. Their son was serving his country 'over there'."

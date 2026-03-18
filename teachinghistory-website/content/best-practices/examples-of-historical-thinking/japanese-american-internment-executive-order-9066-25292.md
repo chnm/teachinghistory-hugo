@@ -16,9 +16,17 @@ summary: How did the World War II internment of Japanese Americans happen? Histo
   Frank Wu examines Executive Order 9066.
 splash_image: /files/wusplash.jpg
 author_image: /files/author_image/author_wu.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Asian Americans
+- Legal History
+- Military History
+tags:
+- Executive Order 9066
+- Japanese American internment
+- Japanese Americans
 ---
-
-
 
 /files/media/video/Wu5.mp4
 

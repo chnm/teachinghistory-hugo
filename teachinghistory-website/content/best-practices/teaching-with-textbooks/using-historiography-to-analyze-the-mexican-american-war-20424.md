@@ -6,15 +6,20 @@ content_type: teaching_with_textbooks
 draft: false
 drupal_nid: 20424
 url: /best-practices/teaching-with-textbooks/20424
-author_bio: 'Kyle Ward is the Director of Social Studies Education at St. Cloud State University in Minnesota. He is the editor of [two books on history education published through The New Press](http://www.thenewpress.com/index.php?option=com_catalog&task=author&author_id=P34355): *History Lessons* (2004) and *History in the Making* (2006).'
+author_bio: 'Kyle Ward is the Director of Social Studies Education at St. Cloud State
+  University in Minnesota. He is the editor of [two books on history education published
+  through The New Press](http://www.thenewpress.com/index.php?option=com_catalog&task=author&author_id=P34355):
+  *History Lessons* (2004) and *History in the Making* (2006).'
 splash_image_fid: '494'
 author_image_fid: '4133'
-summary: Allow students to see that history as we know it is interpretation, perspective, and bias.
+summary: Allow students to see that history as we know it is interpretation, perspective,
+  and bias.
 splash_image: /files/ph_16splash.jpg
 author_image: /files/author_image/kyle3_0_0.jpg
 ---
 
 Many students think of history as monotonous lectures, boring textbook readings, and a series of names and dates to memorize for a test. Students rarely learn about the concept of historiography, the study of how history has been written and how social change has influenced the way that people perceive historical events.
+
 Analyzing textbooks from a historiographical stance allows students to see that history is more about interpretation, perspective, and bias than about rote memorization. By looking at how textbooks from different eras describe a certain event, such as the Mexican-American War, students learn about the choices that textbook authors make. For example, do the textbooks depict the U.S. as the aggressor, as an unwilling participant forced into a conflict by enemy antagonism, or something in between?
 
 ## What is it?
@@ -65,4 +70,5 @@ The Descendants of Mexican War Veterans. [The U.S.-Mexican War](http://www.dmwv.
 NPR Interview. [How the Understanding of U.S. History Changes.](http://www.npr.org/templates/story/story.php?storyId=6517854) Steve Inskeep interviews Kyle Ward, *Morning Edition,* November 21, 2006.
 
 For another example of this strategy, see this article,
+
 John J. DeRose. "[Comparing International Textbooks to Develop Historical Thinking](http://findarticles.com/p/articles/mi_hb6541/is_1_71/ai_n29324308/)." *Social Education*.

@@ -11,6 +11,21 @@ keywords: presidents, oratory, orators, speeches, speechwriting, recordings, spe
 website_url: http://dev.forum-network.org/lecture/presidential-speechwriters
 date_published: '2007-02-19T00:00:00'
 series_name: 'American Experience: The Presidents'
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Media
+- Politics
+tags:
+- orators
+- oratory
+- presidents
+- recordings
+- records
+- speeches
+- speechwriters
+- speechwriting
 ---
 
 Theodore Sorensen (speechwriter for President Kennedy) and Ted Widmer (speechwriter for President Clinton) join Nixon and Bush, Senior's presidential speechwriters to discuss the art of capturing the president's voice, communicating his ideas, and inspiring the public. They share memories of the presidents with whom they worked and clips from their favorite speeches.

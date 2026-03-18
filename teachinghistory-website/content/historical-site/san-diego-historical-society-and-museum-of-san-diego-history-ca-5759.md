@@ -6,8 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 5759
 website_url: http://www.sandiegohistory.org
+time_periods:
+- All
+- General
+topics:
+- Western States
+tags:
+- California
+- cities
+- museums
 ---
 
 The Museum of San Diego History is the headquarters of the San Diego Historical Society. Visitors will find a collection of exhibitions that chronicle San Diego's diverse history.
+
 The Society also maintains the [Junipero Serra Museum](http://teachinghistory.org/history-content/historical-places/12893) and the [Marston House Museum](http://teachinghistory.org/history-content/historical-places/11096).
+
 The society offers educational programs, lectures, tours, and occasional recreational and educational events; the museum offers exhibits, tours, and research library access.

@@ -15,9 +15,21 @@ summary: Bring history to life with Skype and other digital technologies.
 splash_image: /files/skypelecture.jpg
 image: /files/lesson_image/espforteach_crop.jpg
 grade_levels:
-  - elementary
+- elementary
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Education
+tags:
+- American Revolution
+- Robert Townsend
+- classroom
+- digital resources
+- lecture
+- networking
+- skype
+- teaching
 ---
-
 
 There are two levels to your question—how does one find a historian who would speak to a 4th-grade class, and how does one find a historian who will Skype into the classroom? The first question is much simpler than the first. In my experience, historians greatly value current and future students of the discipline, so I often find they are quite receptive to opportunities to talk about their subjects. At the American Historical Association we maintain fairly wide-ranging databases of faculty in almost every field of specialization, and regularly suggest names of specialists that might speak on particular historical topics.
 

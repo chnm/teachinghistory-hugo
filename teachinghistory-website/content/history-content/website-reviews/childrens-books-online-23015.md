@@ -19,8 +19,27 @@ spotlight: This great site offers full versions of over 200 classic children's b
 splash_image: /files/splash-wr-childrensbooks.jpg
 thumbnail: /files/Crossroads_432x240.jpg
 image: /files/website_image/ChilBookImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+topics:
+- Children
+- Consumer Culture
+- Literature
+- Popular Culture, Leisure
+evidence_types:
+- Literary Sources
+resource_types:
+- Audio
+- Images
+- Text
+tags:
+- books
 ---
 
-
 This website's [library](http://www.childrensbooksonline.org/library.htm) offers full versions of more than 700 classic children's books indexed by age/interest reading levels (pre-readers and very early readers, early readers, intermediate readers, advanced readers, and adult readers). Such classic tales as *Jack and the Beanstalk*, *Mother Goose*, *Three Blind Mice*, *Tom Thumb*, *The Ugly Duckling*, *Peter Rabbit*, *Puss in Boots*, *The Little Old Woman Who Lived in a Shoe*, *Alice's Adventures in Wonderland*, and *Pinocchio* are available on the site.
+
 A number of the books are available in multiple languages. The site's [Eye in the Ear](http://www.childrensbooksonline.org/library-audio.htm) section offers audio tracks accompanying select children's books. And its [Super Index](http://www.childrensbooksonline.org/super-index.htm) offers a full listing of the available stories, poems, rhymes, book chapters, and illustrations. For those researching children or children's literature, this site is a treasure trove.

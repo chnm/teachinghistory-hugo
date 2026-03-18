@@ -24,12 +24,14 @@ summary: Chances are, you can use blogging in your classroom. Maybe you're convi
 splash_image: /files/splash-blog-atblogging.jpg
 author_image: /files/author_image/13eb508_0_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- amy trenkle
+- blogging
+- blogs
 ---
-
-
 
 ## Beginning to Blog
 
@@ -42,7 +44,9 @@ With two school group blogs under my belt, I decided to ramp it up for the 2009�
 > I wanted students to be able to learn how to blog . . . not just post, but learn the process.
 
 Once they chose their groups (and we discussed the characteristics of a quality groupmate, both in a group partner and as a group partner—they are 8th grade after all!), I gave them a sheet that asked them to record their group member names, create a name for their blog, and to write a username and a password that they would remember (not one that was already in use by one of the group members!). I created Google accounts for each student using the information provided, noting on their sheet, if a username was taken, the reassigned username.
+
 Generally, I’ve found that it takes about a week for me to set up the 30 or so email accounts and blog sites. I introduce the blog and what it will be about, how it will be used, etc., and then come back to it about a week later once I’ve created the accounts and site. We spend a full double block learning to log in, changing the appearance of the blog, and learning to post. We generally do the first blog post together. We discuss the elements of a quality blog post—what am I looking for? Points I stress are that it is still for class—correct English grammar must be used. For all intents and purposes, I am their audience (so it should remain as formal writing), and the blog is only for history class. I do not want to read about their weekend experiences on this blog.
+
 Usually, after a guest speaker they have a blog update to do. Sometimes they turn in an assignment and then I ask them to cut and paste what they have typed and to post it. Other times I have them work as a group to post a response to something in class.
 
 ## Points to Consider
@@ -51,7 +55,9 @@ I find that they’re pretty excited about the blogs and they like to write on t
 > I find that it is important to be very clear with parents about expectations as well.
 
 Another important note to consider is deadlines. Because students aren’t turning in a physical paper, it’s easy for them to forget deadlines and to overlook them. I find that it’s important to have a final cut-off date for grading blogs . . . along with a lot of reminders. Many parents are not familiar with blogging and so I find that it is important to be very clear with parents about expectations as well. Last year I ran a parent workshop and walked parents through the what, how, and why of blogging so that they could better support their children at home . . . and because I was getting a lot of questions!
+
 I’m fortunate enough to have a classroom set of laptops and a relatively new and working internet system. However, the number of computers is what has dictated my choices for class blog site vs. small group blog sites. When I started in 2008, I had only two laptops and a desktop, with no permanent and/or regular access to a classroom set of computers.
+
 My recommendation would be to start small—either with a classroom blog or with a select group of students. Simultaneously, I was blogging on a personal blog and it helped for me to play around with my own blog. I found the [Google help site for Blogger](http://support.google.com/blogger/?hl=en) very helpful when teaching my students. Pages can be printed and copied for students and then put in their notebooks to be referenced. *(Editor's note: If you're using a different blogging service, look for that service's support documentation.)*
 
 ## The Advantages of Blogging

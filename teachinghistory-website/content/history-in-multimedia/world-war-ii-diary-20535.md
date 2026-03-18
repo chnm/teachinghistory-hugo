@@ -15,7 +15,21 @@ splash_image_fid: '8396'
 summary: Wes Cowan of PBS's *History Detectives* gets into a B-24 bomber with World
   War II pilot Jack Pelton to talk about his experiences.
 splash_image: /files/splash-him-vd13.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+- Science & Tech.
+tags:
+- World War II
+- aircraft
+- airplanes
+- aviation
+- bombers
+- bombing
+- flight
+- pilots
+- veterans
 ---
-
 
 Wes Cowan of PBS's *History Detectives* gets into a B-24 bomber with World War II pilot Jack Pelton to talk about his experiences.

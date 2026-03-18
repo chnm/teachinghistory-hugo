@@ -13,7 +13,15 @@ summary: How does the Constitution measure up to other important documents in U.
   history?
 splash_image: /files/splash-quiz-cd1112.jpg
 thumbnail: /files/quiz_thumbnail/RecoOffiThumbnail.jpg
+time_periods:
+- General
+topics:
+- Politics
+- Reform
+tags:
+- Constitution Day
+- U.S. Constitution
+- constitution
 ---
-
 
 Constitution Day is coming up! In its original handwritten form, the Constitution filled four single-sided sheets of parchment. How does this compare with other central documents in U.S. history? Order these documents from shortest (lowest word count) at the top to longest (highest word count) at the bottom.

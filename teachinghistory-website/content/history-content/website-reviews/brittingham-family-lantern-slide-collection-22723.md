@@ -15,8 +15,24 @@ summary: Catch a glimpse of wealthy turn-of-the-century Wisconsin life and trave
 splash_image: /files/BrittinghamFamily432x240.jpg
 thumbnail: /files/author_image/Laing_author.jpg
 image: /files/website_image/BrittinghamImage_0.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Children
+- Daily Life
+- Environment
+- Family Life
+- Midwestern States
+- Popular Culture, Leisure
+- Science & Tech.
+evidence_types:
+- Photographs
+- Travel
+resource_types:
+- Images
 ---
 
-
 The Brittinghams were a prominent and influential family in Wisconsin. This collection of more than 1,600 images consists of their personal and travel photographs taken between the years 1897 and 1922. These images "capture the private lives of a wealthy family at the turn of the century, and document their travels to 22 states and 32 countries." The wide variety of subjects includes family life, social life, the Brittingham homes, and various scenes from around Wisconsin. More than 750 slides picture international locations. The site also offers an interesting collection of slides that picture forms of transportation encountered by the Brittinghams, including airplanes, sailboats, streetcars, trains, carriages, and sedans.
+
 The collection can be browsed in its entirety or by pre-selected subjects (Wisconsin, Brittingham family, social life, international travel, interiors, or transportation). Visitors can search the slide collection by using the guided search option and selecting Brittingham Lantern Slides in the drop-down menu. For those researching the lives of the well-to-do in the U.S. at the turn of the century or, more generally, the social and cultural history of Wisconsin or the U.S. in the early decades of the twentieth century, this collection of images is a useful resource.

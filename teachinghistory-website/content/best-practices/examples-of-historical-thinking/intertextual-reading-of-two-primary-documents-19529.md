@@ -13,9 +13,11 @@ summary: A student demonstrates thinking aloud reading two documents.
 splash_image: /files/IntertextualReadingSplash.jpg
 image: /files/IntertextualReadingImage.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Great Depression & WWII, 1929-1945
 ---
 
-
 This [student think-aloud](http://historicalthinkingmatters.org/socialsecurity/1/studentwork/ta2/) shows a 99-second video of a student reading a Social Security poster and congressional testimony by a NAACP representative. The student reads the poster out loud, generating a question as she reads. Rather than spending time hypothesizing answers, the student reads the next document, which helps her answer her original question, and raises other questions about the significance of race and class in the fashioning of Social Security legislation.
+
 This example of intertextual reading reveals a student capable of reading documents using and comparing multiple documents to help her answer historical questions. The accompanying text commentary explains what the student is doing and how teachers can support students in intertextual reading. The documents she interprets may be downloaded [here](http://historicalthinkingmatters.org/socialsecurity/1/sources/).

@@ -13,6 +13,46 @@ keywords: Illinois, Chicago, agriculture, farming, farmers, farms, immigrants, s
 website_url: http://lincoln.lib.niu.edu/Slideshows/economicslideshow.ram
 date_published: '2008-05-20T00:00:00'
 series_name: Abraham Lincoln Historical Digitization Project Slide Shows
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Daily Life
+- Economy
+- Ethnicity
+- Gender
+- Immigration
+- Midwestern States
+- Religion
+- Rural Life
+- Slavery
+- Women
+tags:
+- Chicago
+- Illinois
+- agriculture
+- banks
+- canals
+- erie canal
+- farmers
+- farming
+- farms
+- frontier
+- immigrants
+- infrastructure
+- land
+- land ownership
+- pioneers
+- property
+- property ownership
+- race
+- race relations
+- racism
+- settlers
+- slaves
+- steamboats
+- transportat
 ---
 
 This lecture, created by the Abraham Lincoln Historical Digitization Project, traces the economic development of Illinois from the beginning of the 19th century to the mid-1800s. It focuses particularly on the development of infrastructure, from steamboat lines to canals to railroads.

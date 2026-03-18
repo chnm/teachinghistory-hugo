@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 9613
 website_url: http://www.historicedmonds.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Western States
+tags:
+- Edmonds
+- Washington
 ---
 
 The Edmonds Historical Museum is located in Edmonds, Washington, just north of Seattle. The museum hosts a variety of exhibits on local history, as well as a historical archives and photo archive.
+
 The museum offers exhibits on local history, guided tours, and occasional special events. The website offers visitor information, and a brief history of Edwards-South Snohomish county.

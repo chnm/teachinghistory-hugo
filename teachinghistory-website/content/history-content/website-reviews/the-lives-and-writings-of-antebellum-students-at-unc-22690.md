@@ -15,8 +15,23 @@ summary: What did college students think about their lives and larger issues in 
 thumbnail: /files/PReverebandw.jpg
 splash_image: /files/trueandcandid432x240.jpg
 image: /files/website_image/TrueandCandid150x113.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Education
+- Ideas & Ideologies
+- Reform
+- Slavery
+- Southern States
+evidence_types:
+- Film and Video
+- Political Documents
+- Travel
 ---
 
-
 This site offers 121 edited documents written by students at the University of North Carolina between 1795 and 1868. Documents include letters, speeches, diary excerpts, compositions, and poems. Annotated transcriptions and images of handwritten pages are provided. The collection can be explored through 15 essays divided into six chapters, each covering a different period with links to the associated primary documents. Essay titles include "Early Student Rebellions," "Slaves and Servants," "Writing in the Academy," and "The Debating Societies."
+
 The collection can also be browsed in its entirety or by name, topic, events, organizations, places, publications, genres, or authors. The collection can be searched by keyword or advanced search. Four introductory essays offer an overview of the collection as well as short essays on the value of documentary histories and possibilities for future research. Links to 20 published sources are provided as well as a bibliography of source materials. See also [Documenting the American South](http://docsouth.unc.edu/).

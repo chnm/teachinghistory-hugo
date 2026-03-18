@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21126
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### MA.1. Domain / General Standard: Living, Learning, and Working Together

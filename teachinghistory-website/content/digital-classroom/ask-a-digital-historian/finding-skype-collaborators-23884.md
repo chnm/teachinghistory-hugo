@@ -15,8 +15,10 @@ summary: Classrooms can communicate locally and globally via Skype. Why not join
   conversation?
 splash_image: /files/telephonepole.jpg
 image: /files/lesson_image/telephonepolesm.jpg
+tags:
+- Collaboration
+- networking
 ---
-
 
 Skype is a user-friendly communication tool that extends the borders of your school. Skype conversations *via* an audio or audiovisual internet connection let you talk with other classes and bring specialists into the schoolroom to share their experiences and areas of expertise with your students. First, it may be helpful to review basic information about Skype in our Tech for Teachers section. Then, to explore connecting with other classrooms, see what these sites might offer: [The Edublogger](http://theedublogger.com) post, [Skype Other Classrooms](http://theedublogger.com/want-to-connect-with-other-classrooms/), includes a list of educators interested in linking up through Skype and you can add yourself to that list as well.
 

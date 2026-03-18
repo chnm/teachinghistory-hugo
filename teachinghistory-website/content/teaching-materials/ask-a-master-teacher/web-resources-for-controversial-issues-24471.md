@@ -21,17 +21,25 @@ splash_image: /files/issuessplash.jpg
 image: /files/issuesimage.jpg
 author_image: /files/author_image/AUTHOR.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- controversial issues
+- debate
+- health care reform
+- heath care
 ---
 
-
-
 In a word: Yes!
+
 The difficulty lies in finding the *best* of the many websites attempting to do just that.
+
 I will focus my answer on the best **free** websites for high school teachers and students. Each of these sites has concise background information on each issue and presents a thorough explanation of the opposing positions.
+
 There are also many outstanding resources that require a fee or subscription. Among the best pay sites are [CQ Researcher]( http://www.cqpress.com/researcher) and [Opposing Viewpoints]( http://www.gale.cengage.com/InContext/portal.htm); check with your media specialist to see if your school or community library subscribes to these.
+
 Which site works best for you depends on what type of issue you are learning about.
+
 For **current public policy issues**, like health care reform and immigration policy, the best three sites are below. For a quick look at how each site presents the health care debate, click here: [ProCon.org]( http://healthcarereform.procon.org/); [National Discussion and Debate Series]( http://millercenter.org/public/debates/healthcare);  [Debatepedia](http://debatepedia.idebate.org/en/index.php/Debate:_Single-payer_universal_health_care).
 
 1. [ProCon.org](http://www.procon.org/): an independent non-profit founded by Steven C. Markoff “to provide resources for critical thinking and to educate without bias.”
@@ -84,6 +92,9 @@ For **very recent events that have not yet been clearly defined as a policy or c
 ## Other sites for teaching about current controversial issues:
 
 [Teaching With the News](http://choices.edu/resources/current.php): Created by the CHOICES program at Brown University. Frequently updated with free lesson plans, video clips, and multiple perspectives on current global issues and foreign policy controversies.
+
 [TeachableMoment.org](http://www.teachablemoment.org/index.html): Created by the Morningstar Center for Teaching Social Responsibility. Updated with a new topic from the news each week. Less balanced than the three sites above, it relies primarily on the *New York Times* for content.
+
 [Today’s Best Political Cartoons](http://www.cagle.com/politicalcartoons/): Updated daily, archived by topic, and searchable. Political cartoons are an engaging tool for students to probe current issues and controversies.
+
 [DoSomething.org](http://www.dosomething.org/whatsyourthing): Focused on inspiring young people to volunteer to take action to solve problems in their communities. Good background on many problems, but with a focus on volunteerism more than policy discussion.

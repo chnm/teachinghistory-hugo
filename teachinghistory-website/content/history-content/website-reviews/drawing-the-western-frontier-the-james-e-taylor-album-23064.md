@@ -15,8 +15,30 @@ summary: How did newspaper illustration shape stereotypes (and our understanding
 thumbnail: /files/splash-wr-mapsoregon.jpg
 splash_image: /files/splash-wr-jetaylor.jpg
 image: /files/website_image/DrawWestImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+topics:
+- American Indians
+- Art
+- Environment
+- Labor
+- Latinos
+- Military History
+- Popular Culture, Leisure
+- Western States
+evidence_types:
+- Paintings and Prints
+- Photographs
+resource_types:
+- Images
+tags:
+- artists
+- newspapers
+- periodicals
+- the West
 ---
 
-
 This site explores James E. Taylor's legacy as a recorder of western culture. A professional artist, Taylor's newspaper illustrations served to popularize stereotypes of the Western frontier during the post-Civil War years. Like other illustrators and writers of the period, he depicted Indian-White relations in terms of savagery versus civilization and encouraged Americans to visualize the nation's Westward expansion in heroic terms. Taylor made his own illustrations, collected photographs taken by others, and constructed scrapbooks. Following Taylor's lead, the producers of this site use albums to display his work. The site includes about 750 items, taken from the 1,100 items that appeared on Taylor's 118 album pages.
+
 Visitors can search for images by keyword, or can browse by subject or album theme. Each album image is annotated with the date the image was made, the subject, and the creator of the image, and there is an 1,800-word introductory essay for those unfamiliar with Taylor and his work. Visitors should beware that these are high-quality images, and are therefore large files. High-speed connections will make downloading much more manageable. The photographs and images in this collection are a very useful resource for researching westward expansion.

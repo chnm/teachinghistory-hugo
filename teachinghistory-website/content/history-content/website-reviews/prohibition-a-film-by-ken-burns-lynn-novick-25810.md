@@ -14,11 +14,35 @@ summary: What did the effects of the 18th Amendment *look* like? Explore 1921 th
 splash_image: /files/prohibitionsplash_0.jpg
 image: /files/website_image/prohibitionimage_0.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- Business
+- Consumer Culture
+- Health & Medicine
+- Politics
+- Popular Culture, Leisure
+- Reform
+evidence_types:
+- Film and Video
+- Photographs
+resource_types:
+- Images
+- Video
+tags:
+- Eighteenth Amendment
+- Ken Burns
+- Lynn Novick
+- Prohibition
+- alcohol
+- documentaries
 ---
 
-
 This website provides a light introduction to the history of Prohibition in the United States, reinforced with videos and images from the Ken Burns and Lynn Novick documentary from PBS. The website showcases a photo gallery and biographies on figures from the time period paired with clips from the full-length documentary. The website also includes a map and timeline function for visualizing Prohibition efforts across space and time, as well as more than 10 lesson plans and activity resources for educators.
+
 The website is relatively easy to navigate. The photo gallery contains more than 70 images of individuals, newspaper articles, and events, coupled with brief descriptions. More than 30 brief videos, pulled from the larger documentary, are scattered throughout the website. (Note: the video content is not transcribed or captioned.) Another useful feature may be the map, which enables visitors to get a sense of the geographical relationship of events and figures, or the timeline, which visualizes the sequence of events. Students may also be encouraged to examine one of the more than 20 biographies: brief descriptions paired with videos that provide a more in-depth discussion of the individual.
+
 Educators should direct their attention to the [For Educators](http://www.pbs.org/kenburns/prohibition/educators/) section. This page provides access to four prepared lesson plans and nine quick "snapshot activities" intended to work in conjunction with website and documentary materials. These activities can be modified and integrated into larger units in coursework on these subjects. Given the graphic nature of some photos on the site and the available subject content, teachers may want to reserve the website for students grades eight and higher.

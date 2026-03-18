@@ -11,6 +11,23 @@ keywords: Loyalists, taxes, American Revolution, Revolutionary War, Williamsburg
 website_url: http://podcast.history.org/2007/07/23/a-loyal-subject/
 date_published: '2007-07-23T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Economy
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Radicalism
+- Reform
+- Southern States
+tags:
+- American Revolution
+- Loyalists
+- Revolutionary War
+- Virginia
+- Williamsburg
+- taxes
 ---
 
 Jack Flintom, an interpreter at Colonial Williamsburg speaks as John Randolph, a loyalist in Virginia's climate of revolution.

@@ -17,8 +17,28 @@ summary: Alexander Graham Bell's work and interests extended far beyond the inve
 splash_image: /files/Alexander_Graham_Bell.jpg
 thumbnail: /files/author_image/burak_1_1.jpg
 image: /files/website_image/14833.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Media
+- Mid-Atlantic
+- Science & Tech.
+evidence_types:
+- Artifacts and Objects
+- Personal Accounts
+- Photographs
+resource_types:
+- Images
+- Text
+tags:
+- Alexander Graham; Inventors; Telephone; Deaf education; Washington
+- Bell
+- D.C.; Keller
+- Helen; Aeronautics; letters; diaries; communications; science; diagrams
 ---
 
-
 The papers of telephone inventor Alexander Graham Bell (1847–1922), more than 4,600 items, are presented on this website. Materials include family papers, general correspondence, laboratory notebooks from 1891 to 1893 and 1910, scientific notebooks, blueprints, journals, articles, lectures, and photographs.
+
 Writings address a range of subjects, including the telephone, deaf education, experiments with aeronautics, and other inventions. There are more than 100 letters to and from Helen Keller, family correspondence, and material on life in Washington, DC and Nova Scotia, where Bell had a summer home and conducted experiments. Ten "collection highlights," including notebook pages, document his first success with the telephone, essays on Bell's career and on the telephone, an annotated timeline, a 19-title bibliography, and a list of related sites.

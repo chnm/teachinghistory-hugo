@@ -19,11 +19,19 @@ splash_image: /files/parissplash.jpg
 image: /files/parisimage.jpg
 author_image: /files/author_image/Pellegrino_Image_2.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- International Relations
+- Military History
+- Politics
+tags:
+- Anthony Pellegrino
+- World War I
+- paris peace conference
 ---
-
-
 
 ## Costumes Not Required
 
@@ -38,8 +46,11 @@ As preparation for the lesson, we designed various “position papers” which s
 > We chose delegations based on region in an effort to provide students the realistic situation of grappling with regional challenges as well as mutual needs.
 
 To begin, the teacher establishes delegate groups and distributes the position papers. Flexibility allows that the teacher may dictate some group dynamics. For example, the teacher may decide to assign a specific delegate group to each student or allow students to advocate for all groups within their delegation. Students might, therefore, receive all of the position papers from his or her delegation or receive only the one position paper of his or her group or nation. We chose delegations based on region in an effort to provide students the realistic situation of grappling with regional challenges as well as mutual needs. For example, Poles, Czechs, and Slovaks represented Northern Europe while the Turks, Arabs, and Jews represented the Middle East. Overall, four regions and the Big Four became our five delegations. For homework, students read their position papers and develop targeted questions designed to better understand their delegation’s stance.
+
 In the subsequent class meeting the groups, representing the various delegations, are formed and tasked with reviewing the questions written for homework and developing a consensus statement (based on the position papers and various electronic and other sources available from the teacher) to be presented to the Big Four. Members of the Big Four delegation then deliberate in an effort to consider the demands of the delegates as well as their own constituents at home.
+
 Authentic assessments are done via follow-up documents, which address the decisions of the Big Four in terms of delegations’ demands and actual outcomes of the conference. These assessments take the form of letters to the editors of home nation newspapers and detailed letters to the Big Four praising or raising concerns for the decisions made in Paris. The Big Four delegates write their own letters to home newspapers outlining the decisions they made and the reasons why these decisions are in the best interest of their constituents.
+
 Upon completion, students will have a realistic sense of deliberating in the complex environment of 1919. Moreover, the revelations of the actual decisions made by the Big Four will likely provide memorable fodder for discussion as you move forward in 20th century history.
 
 ## Expanding this Teaching Method

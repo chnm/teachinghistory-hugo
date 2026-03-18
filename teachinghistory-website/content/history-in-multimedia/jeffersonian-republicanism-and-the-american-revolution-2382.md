@@ -10,7 +10,21 @@ keywords: presidents, foreign policy, foreign relations, politicians, republican
 website_url: http://teachingamericanhistory.org/institutes/2004/foreignrelations_readings.html
 date_published: '2004-07-12T00:00:00'
 series_name: Ideas and Traditions in American Foreign Relations
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+tags:
+- foreign policy
+- foreign relations
+- politicians
+- presidents
+- republicanism
 ---
 
 Professor Jeremi Suri looks at the foreign policy of the early United States, including under George Washington and Thomas Jefferson. Suri defines and explores republicanism during this time period.
+
 To listen to this lecture, scroll to the Monday, July 12th, 9:00 am-12:30 am session; and select either the RealAudio link or image in the gray bar to the left of the main body of text.

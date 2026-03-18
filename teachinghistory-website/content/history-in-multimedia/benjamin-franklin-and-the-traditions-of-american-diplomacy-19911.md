@@ -9,7 +9,28 @@ duration: 01:16:03
 website_url: http://www.fpri.org/multimedia/20061125.sicherman.franklindiplomacy.html
 date_published: '2006-11-28T00:00:00'
 series_name: The Annual Robert Strausz-Hupé Lecture
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+tags:
+- American Revolution
+- Founding Fathers
+- France
+- French
+- Revolutionary War
+- colonies
+- colonists
+- diplomacy
+- diplomats
+- foreign affairs
+- foreign relations
 ---
 
 Harvey Sicherman, president of the Foreign Policy Research Institute, discusses Benjamin Franklin's work as a diplomat in France, securing French support of the colonists in the American Revolution.
+
 Audio and visual options are available.

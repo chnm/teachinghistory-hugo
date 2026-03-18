@@ -15,9 +15,58 @@ summary: A series of five primary source based learning modules that encourage h
 splash_image: /files/forustheliving-thumbnail.png
 image: /files/website_image/forustheliving-review.png
 grade_levels:
-  - high
+- high
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Environment
+- Gender
+- Health & Medicine
+- Ideas & Ideologies
+- Legal History
+- Media
+- Mid-Atlantic
+- Military History
+- Politics
+- Reform
+- Slavery
+- Women
+evidence_types:
+- Cartoons
+- Film and Video
+- Maps
+- Newspapers and Periodicals
+- Official Documents
+- Personal Accounts
+- Photographs
+- Political Documents
+- Speeches
+resource_types:
+- Images
+- Text
+- Video
+tags:
+- Abraham Lincoln; John Wilkes Booth; assassination
+- African American
+- Alexandria
+- Alexandria National Cemetery
+- Cemetery
+- Confederate
+- Hospital
+- Memorial
+- Reconstruction
+- U.S. Colored Troops
+- history of women
+- laundry
+- military
+- national cemetery
+- petitions
+- soldiers
+- women
 ---
-
 
 *For Us the Living* is a resource for teachers that engages high school students through online primary-source based learning modules. Produced for the National Cemetery Administration's Veterans Legacy Program, this site tells stories of men and women buried in Alexandria National Cemetery, and helps students connect these stories to larger themes in American history. Primary sources used include photographs, maps, legislation, diaries, letters, and video interviews with scholars.
 

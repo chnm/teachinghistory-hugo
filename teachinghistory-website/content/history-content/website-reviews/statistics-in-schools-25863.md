@@ -15,11 +15,31 @@ splash_image: /files/Screen Shot 2019-09-03 at 12.51.14 PM.png
 thumbnail: /files/quiz_thumbnail/Screen Shot 2019-09-03 at 1.48.18 PM.png
 image: /files/website_image/Screen Shot 2019-09-03 at 1.47.33 PM.png
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- American Indians
+- Business
+- Cities & Suburbs
+- Economy
+- Ethnicity
+- Immigration
+evidence_types:
+- Quantitative Evidence
+resource_types:
+- Data
 ---
-
 
 This website makes U.S Census data accessible to K-12 social studies students through 20 classroom activities. Divided by grade-level, these activities trace change over time in the United States using statistics. Activities address civil rights, continental expansion, the treatment of Native Americans, immigration, and other topics related to demographic change.
 

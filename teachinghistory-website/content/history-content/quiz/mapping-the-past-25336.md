@@ -12,7 +12,17 @@ thumbnail_fid: '3004'
 summary: A map can tell you more than east, west, north, and south.
 splash_image: /files/quiz-1612map-splash.jpg
 thumbnail: /files/website_image/BlacWingImage.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- Global Contact
+tags:
+- Jamestown
+- Jamestowne
+- John Smith
+- Maps
+- Virginia
+- cartography
 ---
-
 
 John Smith drew a map first published in London in 1612 for the Virginia Company. What does it tell you? Start by looking closely at the details (download a larger version by clicking the John Smith Map to the left) and then answer the questions about what you see.

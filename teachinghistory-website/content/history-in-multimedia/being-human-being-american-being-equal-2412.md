@@ -11,8 +11,31 @@ keywords: Founding Fathers, citizens, citizenship, oratory, orators, speeches, s
 website_url: http://teachingamericanhistory.org/institutes/2004/character_readings.html
 date_published: '2004-08-02T00:00:00'
 series_name: American Democracy, Being Human, and the American Character
+time_periods:
+- General
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- Education
+- Ideas & Ideologies
+- Literature
+- Politics
+tags:
+- Bill of Rights
+- Declaration of Independence
+- Founding Fathers
+- U.S. Constitution
+- citizens
+- citizenship
+- orators
+- oratory
+- speeches
+- speechmaking
+- speechwriting
 ---
 
 Professor Christopher Flannery examines the ideals and values associated with being "American," what those ideals mean, and where they originated. Flannery looks at the founding documents of the United States and the positions of the Founding Fathers and of other notable figures throughout U.S. history.
+
 To listen to this lecture, scroll to the Monday, August 2nd, 9:00 am-10:30 am session; and select either the RealAudio image or link in the gray bar to the left of the main body of text.
+
 An older version of this lecture can be found [here.](http://teachingamericanhistory.org/audio/ram/03-07-07_character_session2.ram)

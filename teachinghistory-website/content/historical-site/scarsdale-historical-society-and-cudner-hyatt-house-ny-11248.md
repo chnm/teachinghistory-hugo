@@ -6,7 +6,26 @@ content_type: historical_site
 draft: false
 drupal_nid: 11248
 website_url: http://www.artswestchester.org/cultural-organizations/profile/scarsdale-historical-society/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Daily Life
+- Military History
+- New England
+tags:
+- Civil War
+- Lenape
+- New York
+- Quaker meeting house
+- Quakers
+- historic meeting house
 ---
 
 The Scarsdale Historical Society seeks to preserve and share the history of Scarsdale and the Central- and Mid-Westchester area, NY. The society operates two historic properties, the circa 1734 Cudner-Hyatt House and an 1828 Quaker meeting house. Topics addressed include daily life in the late 19th-century, the Civil War, and the Lenape people.
+
 The society offers exhibits; two-hour curriculum-based educational programs with a lesson, tour of the Cudner-Hyatt House, activities, and a take-home project; one-hour educational programs; group tours; Scout activities; three themed traveling trunks with artifact replicas; and outreach presentations for schools. The exhibits and Cudner-Hyatt House are partially wheelchair accessible.

@@ -11,7 +11,20 @@ website_url: http://ncmuseumofhistory.org/streaming/ai_launch2.html
 date_published: '2008-03-26T00:00:00'
 series_name: North Carolina Museum of History Streaming Programs
 grade_levels:
-  - elementary
+- elementary
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Daily Life
+- Global Contact
+- Southern States
+tags:
+- Native Americans
+- North Carolina
+- race
+- race relations
 ---
 
 In this presentation, students explore the fascinating history and contemporary culture of North Carolina's American Indian communities.

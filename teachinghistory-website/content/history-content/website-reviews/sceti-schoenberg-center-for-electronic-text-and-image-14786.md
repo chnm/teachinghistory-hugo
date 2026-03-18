@@ -15,7 +15,19 @@ summary: Search and browse a collection of resources covering topics ranging fro
   the Civil War to the ENIAC computer.
 splash_image: /files/SCETI-_Schoenberg_Center_for_Electronic_Text_and_Image_432x240.jpg
 image: /files/website_image/14786.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- General
+evidence_types:
+- Literary Sources
+- Music
+- Personal Accounts
+- Photographs
+resource_types:
+- Audio
+- Images
+- Text
+- Video
 ---
-
 
 This eclectic collection of more than 2,200 items spans the 17th to the 20th centuries. Visitors can search material from nine sections and visit 14 exhibitions. "A Crisis of the Union" presents 224 pamphlets, broadsides, clippings, paintings, and maps on the Civil War. A collection devoted to Theodore Dreiser presents correspondence, various editions of the novel *Sister Carrie*, an early manuscript for *Jennie Gerhardt*, and scholarly essays. Approximately 4,000 photographs from singer Marian Anderson's papers are complemented by more than 40 audio and video recordings. A collection on the history of chemistry emphasizes the pre-1850 period with monographs and more than 3,000 images of scientists, laboratories, and scientific apparatus while another exhibit emphasizes the ENIAC computer. Other collections on the birth of the University of Pennsylvania, early sheet music, and Jewish music and history are also available. See also "Cultural Readings: Colonization and Print in the Americas" [ID].

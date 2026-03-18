@@ -22,10 +22,10 @@ spotlight: History is made by those who are unafraid to push the envelope and re
 splash_image: /files/WellBehaved432x240.jpg
 author_image: /files/author_image/zarnowski_0.jpg
 grade_levels:
-  - elementary
+- elementary
+tags:
+- picture books
 ---
-
-
 
 ## Rationale
 

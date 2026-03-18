@@ -10,7 +10,31 @@ keywords: foreign policy, military, militaries, Iraq, war, wars, foreign affairs
   foreign relations, Great Britain, Britain, British, England, English
 website_url: http://www.fpri.org/multimedia/20060919.garfieldhoffman.iraqlessons.html
 date_published: '2006-09-19T00:00:00'
+time_periods:
+- Contemporary US, 1968-Present
+- General
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+tags:
+- Britain
+- British
+- England
+- English
+- Great Britain
+- Iraq
+- foreign affairs
+- foreign policy
+- foreign relations
+- militaries
+- military
+- war
+- wars
 ---
 
 According to the FPRI sites, "In the wake of 9/11, President George W. Bush announced that henceforth those states that harbored or fostered terrorism would be held as accountable as the terrorists. The translation of the war on terrorism from groups to state meant either to change a government's behavior, or, failing that, to change the government itself. Military force might overthrow a regime such as the Taliban or Saddam's Iraq but what would be put in its place? And how could the United States and its allies assure the success of the new political order? In 2005, the Foreign Policy Research Institute initiated a pair of studies that would analyze the lessons learned thus far from what the military calls Phase IV, or stabilization and reconstruction following the end of major conflict. Andrew Garfield led a British and American research team that interviewed British officers and officials for their perspectives on the efforts of their U.S. Coalition partner in Iraq. Frank G. Hoffman surveyed U.S. Marine efforts in Iraq. In this presentation, Andrew Garfield and Frank G. Hoffman present the newly completed studies, designed to aid U.S. military and civilian planners to refine a set of best practices, including a set of principles that can become a consensus, as the U.S. confronts a long and difficult struggle."
+
 Video and audio options are available.

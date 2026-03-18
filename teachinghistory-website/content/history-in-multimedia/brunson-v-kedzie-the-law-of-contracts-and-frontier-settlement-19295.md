@@ -11,6 +11,25 @@ keywords: land, land speculation, mortgage, frontier, the Frontier, settlers, pi
 website_url: http://lincoln.lib.niu.edu/theme1video.html
 date_published: '2008-05-14T00:00:00'
 series_name: Economic Development and Labor Video
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Business
+- Economy
+- Legal History
+- Midwestern States
+- Rural Life
+- Western States
+tags:
+- Brunson v. Kedzie
+- frontier
+- land
+- land speculation
+- mortgage
+- pioneers
+- settlers
+- the frontier
 ---
 
 Charles McCurdy of the University of Virginia gives an example of the complexities of land law in the antebellum U.S., using the case *Brunson v. Kedzie* to demonstrate the interplay and contradiction of state and federal laws.

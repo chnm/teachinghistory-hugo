@@ -12,4 +12,5 @@ series_name: The Library of Congress Webcasts
 ---
 
 According to the Library of Congress Webcasts site:
+
 "The United States has stricter laws than any nation against insider trading in financial markets, but the earliest of these laws date only from 1909. Prior, stock and commodities exchanges governed themselves with minimal external oversight. Mark Geiger presents a close-up view of member relationships and business practices within the Chicago Board of Trade during the later 19th century when rival groups of exchange members, often family-centered, competed for money and power on the trading floor."

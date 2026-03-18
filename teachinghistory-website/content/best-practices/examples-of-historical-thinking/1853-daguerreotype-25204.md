@@ -15,9 +15,23 @@ summary: What does an 1853 daguerreotype have to say? Plenty, says Frank Goodyea
   particularly about tourist culture and the rise of railroads and photography.
 splash_image: /files/splash_0.jpg
 author_image: /files/author_image/author_goodyear_0.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Media
+- Mid-Atlantic
+- Popular Culture, Leisure
+- Science & Tech.
+tags:
+- New York
+- Niagara Falls
+- daguerrotypes
+- photograph
+- photos
+- tourism
+- tourists
 ---
-
-
 
 /files/media/video/goodyear1.mp4
 

@@ -21,10 +21,18 @@ splash_image: /files/BattleSplash.jpeg
 image: /files/BattleHymnoftheRepublic.jpeg
 author_image: /files/author_image/NATE_SLEETER (1)_0.JPG
 grade_levels:
-  - high
+- high
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Military History
+- Religion
+- Slavery
+- Southern States
+tags:
+- Civil War
 ---
-
-
 
 **What is it?**
 

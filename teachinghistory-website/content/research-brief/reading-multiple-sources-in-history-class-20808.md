@@ -12,9 +12,8 @@ summary: Here's help for challenges students encounter with historical documents
 splash_image: /files/ReadingMultSource.jpg
 image: /files/multsource.jpeg
 grade_levels:
-  - high
+- high
 ---
-
 
 * Teach and explicitly model such historical reading skills as sourcing, contextualization, and corroboration. To see historians
   modeling these skills, go to [Examples of Historical Thinking](/best-practices/examples-of-historical-thinking) in the Clearinghouse.

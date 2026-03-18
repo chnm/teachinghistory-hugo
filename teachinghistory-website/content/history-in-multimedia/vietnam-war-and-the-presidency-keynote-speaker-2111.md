@@ -11,7 +11,30 @@ keywords: journalism, reporting, reportage, reporters, journalists, Vietnam, Vie
 website_url: http://dev.forum-network.org/lecture/vietnam-war-and-presidency-keynote-speaker
 date_published: '2006-03-10T00:00:00'
 series_name: 'American Experience: Vietnam'
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Global Contact
+- International Relations
+- Media
+- Military History
+- Politics
+tags:
+- Vietnam
+- Vietnam War
+- journalism
+- journalists
+- mass media
+- media coverage
+- presidents
+- reportage
+- reporters
+- reporting
+- war
+- wars
 ---
 
 Pulitzer Prize-winning reporter David Halberstam delivers the keynote address to the national conference "'Vietnam and the Presidency," describing his experiences as a reporter during and on the Vietnam War and speaking on the war and its effects from this perspective.
+
 Audio and video options are available.

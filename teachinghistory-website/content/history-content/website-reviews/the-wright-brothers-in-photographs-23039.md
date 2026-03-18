@@ -15,8 +15,28 @@ summary: Meet the Wright Brothers and their family through photographs of friend
 splash_image: /files/splash-wr-wrightcollection.jpg
 thumbnail: /files/brushwithhistory.jpg
 image: /files/website_image/WrigBrotImage.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Daily Life
+- Environment
+- Midwestern States
+- Popular Culture, Leisure
+- Science & Tech.
+- Southern States
+evidence_types:
+- Photographs
+resource_types:
+- Images
+tags:
+- North Carolina
+- Orville Wright
+- Wilbur Wright
+- Wright Brothers
+- aviation
 ---
 
-
 More than 400 items, including approximately 380 photographs, on the Wright Brothers' "early inventive period documenting their experimental gliders and flight testing in both North Carolina and Ohio." Most of the materials date from 1897 to 1908. Approximately half of the photographs were taken in the Outer Banks, NC. In addition to recording the Wrights' aviation trials, these images provide "a valuable record of their home life, camp life, and the flora and fauna" of the area.
+
 More than 70 images were taken at Le Mans, France, and approximately 25 at Fort Myer, VA. The Wrights themselves produced more than 180 photos, and fellow flight pioneer Octave Chanute shot approximately 35. The site, which promises future additions, allows browsing by date, object type, place, and creator, and is fully searchable. Primarily of interest for those studying early flight history.

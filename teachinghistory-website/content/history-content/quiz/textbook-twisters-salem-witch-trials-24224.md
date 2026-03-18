@@ -13,7 +13,18 @@ summary: Burn the witch! Discover how historical coverage of the Salem Witch Tri
   has changed over time.
 splash_image: /files/WitchTrials_0.jpg
 thumbnail: /files/website_image/CiviManuImage.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- Education
+- Gender
+- Legal History
+- Religion
+- Women
+tags:
+- Salem
+- witch trials
+- witchcraft
 ---
-
 
 History isn't an unchanging entity, set, stable, and untouchable—it's also how historians tell the story of the past, based on both on what they know and what they choose to pass on and emphasize. How has U.S. history changed in the telling? Examine each history textbook passage on the Salem Witch Trials and connect it to the year of publication.

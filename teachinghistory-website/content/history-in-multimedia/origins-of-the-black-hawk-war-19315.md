@@ -11,7 +11,29 @@ keywords: war, wars, Black Hawk War, race, racism, race relations, Illinois, Sau
 website_url: http://lincoln.lib.niu.edu/theme4video.html
 date_published: '2008-05-19T00:00:00'
 series_name: Native American Relations Video
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Ethnicity
+- Global Contact
+- Midwestern States
+- Politics
+tags:
+- Black Hawk War
+- Fox
+- Illinois
+- Sauk
+- race
+- race relations
+- racism
+- the Fox
+- the Sauk
+- treaties
+- war
+- wars
 ---
 
 Scholar James Lewis outlines the circumstances that led up to the Black Hawk War of 1832, including the signing of a treaty giving away Sauk and Fox land that the U.S. considered valid and that the tribes themselves did not.
+
 To view this clip, select "Origins of the Black Hawk War" under "Native American Relations Video."

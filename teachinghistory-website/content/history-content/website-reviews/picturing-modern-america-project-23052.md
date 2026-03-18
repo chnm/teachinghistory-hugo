@@ -14,8 +14,28 @@ summary: Create your own thematic exhibits using Library of Congress images.
 splash_image: /files/splash-wr-picturingmodern.jpg
 thumbnail: /files/StephenFoster432x240.jpg
 image: /files/website_image/PictModeImage.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- American Indians
+- Children
+- Cities & Suburbs
+- Gender
+- Immigration
+- Labor
+- Military History
+- Popular Culture, Leisure
+- Reform
+- Science & Tech.
+- Western States
+evidence_types:
+- Photographs
+resource_types:
+- Images
+- Text
 ---
 
-
 It is difficult at times for young people (and people in general) to understand the past, even the more recent past of the past century or so. It seems almost banal to observe that many aspects of life have changed dramatically, and perhaps not so banal to note that many things have in fact not changed as much as we think. This fine site contains a number of interactive exercises (drawing on the vast collections of the American Memory Project at the Library of Congress) that will help deepen students' understanding of common topics in the study of modern America from 1880 to 1920 and to build their skills in analyzing primary sources.
+
 Teachers and student alike will appreciate the "Investigations" area, which contains exercises such as "Picturing Social Change", "Modern Women", and "Picturing Prairie Life". Through the exercises, visitors will be asked a variety of questions that draw on the visual materials contained within each thematic section, such as "What brought people to the prairie?" or "Why might people have left the prairie?". Visitors also have the opportunity to build their own exhibits by choosing their own theme or question about modern America, and through choosing their own images and documents for their exhibit.

@@ -11,8 +11,27 @@ splash_image_fid: '7359'
 summary: Most African Americans (free or slaves) never joined the ranks of the Confederacy.
   Are there cases where individuals did?
 splash_image: /files/lincolnemancipation.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Ethnicity
+- Ideas & Ideologies
+- Military History
+- Slavery
+- Southern States
+tags:
+- Abraham Lincoln
+- African American
+- Blacks
+- Confederate
+- Emancipation Proclamation
+- Jefferson Davis
+- Patrick Cleburne
+- Robert Toombs
+- slavery
+- soldier
 ---
-
 
 While there are isolated instances of African Americans serving in the Confederate ranks, there is overwhelming evidence that this small number represents rare and exceptional cases: historian [David Blight](http://www.davidwblight.com/) estimates that the number of black soldiers in the Confederate ranks was fewer than 200. That small number represents some partial companies of slaves training as soldiers discovered by Union forces after the fall of Richmond. One reason that only a handful of blacks fought for the Confederacy is that until the last weeks of the war, the Confederate Congress expressly forbade arming enslaved African Americans, who made up the vast majority of the black population in the South. Given white southerners' longstanding fears of a slave uprising (fears intensified by a few abortive attempts in the first half of the 19th century and exacerbated to the point of hysteria by John Brown's raid on Harper's Ferry in 1859), the acute resistance of Confederates to arming blacks is understandable. Putting muskets in the hands of enslaved African Americans presented more than simply a concrete threat—embracing the notion that blacks could serve as soldiers in the same fashion as whites threatened deeply-held Southern ideas of race-based honor and masculinity. As Confederate Secretary of State Robert Toombs put it, "The day the army of Virginia allows a negro regiment to enter their lines as soldiers, they will be degraded, ruined, and disgraced."
 

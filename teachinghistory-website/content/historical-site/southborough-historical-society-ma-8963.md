@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 8963
 website_url: http://www.southboroughhistory.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- New England
+tags:
+- Massachusetts
 ---
 
 The Southborough Historical Society seeks to preserve and share the history of Southborough, Massachusetts. To this end, the society operates a museum.
+
 The museum offers exhibits.

@@ -12,7 +12,17 @@ thumbnail_fid: '2840'
 summary: Can you match these famous first words with their presidential speakers?
 splash_image: /files/splash-inaugurationquiz_0.jpg
 thumbnail: /files/website_image/CiviChriImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Politics
+tags:
+- inaugurations
+- presidential inaugurations
+- presidents
 ---
-
 
 Each U.S. President begins his term with a speech setting the tone for his next four years in office. If they achieve later fame, or are already famous, they may become forever linked with the words they speak in these (relatively) few minutes. Which President spoke these words during an inaugural address?

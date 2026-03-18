@@ -18,11 +18,23 @@ summary: Historian Chandra Manning analyzes Civil War letters from black and whi
 splash_image: /files/cwlettersplash.jpg
 author_image: /files/author_image/chandra.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Daily Life
+- Military History
+- Politics
+- Slavery
+tags:
+- Emancipation Proclamation
+- emancipation
+- free blacks
+- letters
+- soldiers
 ---
-
-
 
 /files/media/video/Manning1.mp4
 

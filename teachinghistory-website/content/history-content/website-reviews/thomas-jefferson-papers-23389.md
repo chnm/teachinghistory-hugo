@@ -15,7 +15,23 @@ summary: The largest collection of original Jefferson documents in the world. Re
 splash_image: /files/Thomas_Jefferson_Papers_432x240.jpg
 thumbnail: /files/quiz_thumbnail/earlyex-thumbnail.jpg
 image: /files/website_image/JeffersonPapers_Image.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- American Indians
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Slavery
+evidence_types:
+- Literary Sources
+- Paintings and Prints
+- Personal Accounts
+- Speeches
+resource_types:
+- Text
 ---
-
 
 This collection presents digitized images of approximately 27,000 documents, the largest collection of original Jefferson documents in the world. Includes correspondence, commonplace books, financial account books, and manuscript volumes--approximately 83,000 images. It is organized chronologically and is searchable by keyword. Regrettably, the documents are presented as page images--no transcribed text is available. Reading the handwriting online in this way is slow and difficult.

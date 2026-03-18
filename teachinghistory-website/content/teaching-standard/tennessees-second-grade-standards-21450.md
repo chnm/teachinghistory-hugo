@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21450
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### TN.2.1. Content Standard: Culture

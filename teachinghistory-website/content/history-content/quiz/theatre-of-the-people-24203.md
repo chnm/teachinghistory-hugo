@@ -13,7 +13,24 @@ summary: Through performing art, U.S. minorities assert their identities. Answer
   questions on multicultural music and theatre.
 splash_image: /files/TheatrePeople_0.jpg
 thumbnail: /files/website_image/Phot1861Image.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Asian Americans
+- Consumer Culture
+- Immigration
+- Latinos
+- Media
+- Popular Culture, Leisure
+tags:
+- music
+- performing arts
+- theatre
 ---
-
 
 Arriving in the U.S. by choice or against their will, minority groups sought ways to express their uniqueness and maintain a sense of community. How better to come together than as an audience—or as a group of performers? Answer the following questions on multicultural performing arts in the U.S.

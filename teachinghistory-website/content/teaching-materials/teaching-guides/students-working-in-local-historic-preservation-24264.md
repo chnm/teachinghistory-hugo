@@ -19,10 +19,23 @@ splash_image: /files/museum_crop.jpg
 image: /files/histsociety_crop_0.jpg
 author_image: /files/author_image/Lichatinn_crop.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- All
+topics:
+- Art
+- Education
+- Ideas & Ideologies
+- Science & Tech.
+tags:
+- curatorial studies
+- education
+- historic preservation
+- internship
+- local history
+- museum studies
+- preservation
 ---
-
-
 
 ## What Is It?
 
@@ -34,7 +47,7 @@ Every community across America has a story to tell through its architecture, its
 
 ## Description
 
-> As a history teacher I’m always searching for ways to make the study of history relevant to my students
+{{< pullquote >}}As a history teacher I’m always searching for ways to make the study of history relevant to my students{{< /pullquote >}}
 
 I contacted the director of the historical society museum to discuss the possibility of using students in the museum to help with their work. The staff was cautiously optimistic, though concerned about adolescents working with valuable documents. When they agreed, I asked four of my capable, dedicated students who had expressed an interest in this work to help me launch the program. Each year I have added students to the group and currently 14 students work one to two hours weekly under the supervision of a volunteer museum staff member. It has been rewarding to observe my students doing work of great value, and it provides the museum with the work it needs to give the community a glimpse into their past.
 
@@ -50,7 +63,7 @@ I contacted the director of the historical society museum to discuss the possibi
 * Have a phone/email chain for messages and communication.
 * Inclement weather and vacation schedules should be discussed.
 
-> Be sure the students understand the seriousness of their work and the importance of honoring their commitments
+{{< pullquote >}}Be sure the students understand the seriousness of their work and the importance of honoring their commitments{{< /pullquote >}}
 
 ## Additional Resources for Teachers
 

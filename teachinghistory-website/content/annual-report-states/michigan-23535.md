@@ -20,5 +20,7 @@ grade_tested: 6, 9, 11
 ---
 
 **Standards Website Title:**
+
 [Grade Level Content Expectations: K-8](http://www.michigan.gov/documents/mde/SSGLCE_218368_7.pdf)
+
 [Grade Level Content Expectations: High School](http://www.michigan.gov/documents/mde/SS_HSCE_210739_7.pdf)

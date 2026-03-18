@@ -9,6 +9,11 @@ duration: 01:03:41
 website_url: http://newbooksinhistory.com/2009/09/04/peter-mancall-fatal-journey-the-final-expedition-of-henry-hudson/
 date_published: '2009-09-04T00:00:00'
 series_name: New Books in History
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Global Contact
 ---
 
 Professor Marshall Poe interviews Peter Mancall on his book *Fatal Journey: The Final Expedition of Henry Hudson*, which describes the 1610-1611 voyage of explorer Henry Hudson. While looking for a Northwest Passage, Hudson's ship was captured in ice; when it eventually came free, Hudson's crew mutinied and put Hudson adrift before returning to England.

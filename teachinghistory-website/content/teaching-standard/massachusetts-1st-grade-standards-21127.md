@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21127
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### MA.1. Domain / General Standard: True Stories and Folk Tales from America and from Around the World

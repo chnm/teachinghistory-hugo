@@ -6,7 +6,22 @@ content_type: historical_site
 draft: false
 drupal_nid: 7827
 website_url: http://www.rootsweb.ancestry.com/~nycolhs/
+time_periods:
+- General
+topics:
+- Mid-Atlantic
+- Politics
+tags:
+- Cayuga
+- Filmore
+- Millard
+- Moravia
+- New York
+- museums
+- politicans
+- presidents
 ---
 
 The historical society preserves the history of the Moravia, New York area as well as the history of Millard Filmore, 13th President of the United States. The society runs the History House, a local history museum that features a variety of exhibits, as well as the Luther Research Center and Archives.
+
 The house and research archives are open to the public by appointment. The website offers visitor information and links to other Cayuga County historical resources.

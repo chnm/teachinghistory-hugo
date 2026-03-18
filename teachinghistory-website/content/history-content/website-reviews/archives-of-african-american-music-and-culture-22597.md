@@ -15,7 +15,17 @@ summary: Interested in jazz, hip hop, blues, doo-wop, spirituals, or rock? Explo
 splash_image: /files/AAAMC_432x240.jpg
 thumbnail: /files/Aliens.jpg
 image: /files/website_image/ArchivesofAfricanImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Popular Culture, Leisure
+evidence_types:
+- Music
+- Newspapers and Periodicals
+resource_types:
+- Text
 ---
-
 
 This site introduces the Archives of African American Music and Culture (AAAMC) at Indiana University. It provides information on holdings, exhibitions, and events sponsored by the AAAMC, which focuses on the post-World War II era. The site features listings of more than 70 links to sites featuring classical, religious, and popular music, including rock, blues, rhythm and blues, hip hop, jazz, and gospel, as well as topics dealing with African-American history and culture, organizations, and magazines. The site does not feature any audio presentations, and is useful mainly for its links.

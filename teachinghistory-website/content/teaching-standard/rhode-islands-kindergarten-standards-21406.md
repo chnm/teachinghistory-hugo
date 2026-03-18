@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21406
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### RI.1. Domain / Statement Of Enduring Knowledge: Civics and Government

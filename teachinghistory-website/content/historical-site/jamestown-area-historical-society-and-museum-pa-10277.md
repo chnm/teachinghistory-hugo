@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 10277
 website_url: http://www.jamestownpa.com/History/
+time_periods:
+- General
+topics:
+- Daily Life
+- Mid-Atlantic
+tags:
+- Pennsylvania
 ---
 
 The Jamestown Area Historical Society seeks to preserve and share the history of Jamestown, Pennsylvania. To this end, the society operates a museum of local history.
+
 The museum offers exhibits.

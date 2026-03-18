@@ -16,11 +16,17 @@ summary: Whitman Ridgway outlines some of the context in which the Bill of Right
 splash_image: /files/billrights.jpeg
 author_image: /files/author_image/ridgway.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Politics
+tags:
+- Bill of Rights
+- U.S. Congress
+- congress
 ---
-
-
 
 /files/media/video/Ridgway1.mp4
 

@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 9016
 website_url: http://www.scbattlegrounds.org/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+- Southern States
+tags:
+- South Carolina
 ---
 
 The South Carolina Battleground Preservation Trust assists outside organizations in protecting Civil War and Revolutionary War battlegrounds within the state of South Carolina.
+
 The trust offers educational programs and living history demonstrations.

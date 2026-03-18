@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21134
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### MA.1. Domain / General Standard: Concepts and Skills

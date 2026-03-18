@@ -9,7 +9,19 @@ duration: 01:00:00
 website_url: http://www.pbs.org/wgbh/americanexperience/films/clemente/
 date_published: '2008-04-01T00:00:00'
 series_name: American Experience
+time_periods:
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Popular Culture, Leisure
+- Reform
+tags:
+- Roberto Clemente
+- baseball
+- civil rights
+- sports
 ---
 
 From PBS:
+
 Baseball great Roberto Clemente's talent and inimitable style drew legions of fans, but as this *American Experience* production reveals, he was more than an exceptional baseball player. He was also a committed humanitarian who challenged racial discrimination and worked for social justice.

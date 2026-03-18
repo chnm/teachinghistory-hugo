@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 9298
 website_url: http://firehallmuseum.org/
+time_periods:
+- General
+topics:
+- Labor
+- Midwestern States
+tags:
+- Fire Safety
+- Firefightin
+- Minneapolis
+- Minnesota
+- fire
 ---
 
 The Firefighters Hall & Museum is dedicated to preserving and showcasing the history of firefighting in Minneapolis, as well as working to educate local children on fire safety and firefighting in general. The museum boasts an impressive collection of firefighting memorabilia and equipment.
+
 The museum offers exhibits and tours. The website offers very basic visitor information.

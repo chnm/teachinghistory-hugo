@@ -16,13 +16,19 @@ summary: Unsure how to properly critique sources? Check out these guidelines.
 splash_image: /files/critiquesplash.jpg
 image: /files/critiqueimage.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- annotated bibliography
+- bibliographies
+- citations
+- critique
 ---
 
-
 Including the sources you consulted for a history paper is important. Your bibliography helps readers see what sources you used to make your claims and your argument. When each of the accounts is accompanied by commentary, we call that an annotated bibliography. This sounds similar to what your teacher wants for this assignment.
+
 But before including some general guidelines for writing this addendum, let me suggest that you directly ask your teacher this question. This is the best way to find out your teacher's specific expectations. (It’s likely that some of your fellow students would also benefit from hearing those—usually when one student is confused, others are also.)
+
 Having said that, here are some general guidelines:
 
 1. Keep each critique short. A few sentences are often sufficient and it should be no more than a paragraph.
@@ -41,8 +47,11 @@ Remember that when using a source from the time under study, you need to not onl
 ## Critiquing a Secondary Source
 
 Similarly, you need to ask questions about any secondary source that you use. Start with asking: What is the author’s argument? What evidence does s/he use to make that argument? Does the evidence support the author’s argument? Also ask: Does the author consider alternative explanations and arguments? How does the account compare with other sources that you have consulted? Who is the author and does s/he have credentials or experience that make them trustworthy?
+
 I am not suggesting that all of these questions should be answered in your critique, and indeed, given the brevity of each critique, that would be impossible. Rather they are examples of ways to assess the value of each source to your argument and the topic under study.
+
 Finally, remember that if you judge a source “great,” “terrible” or with some other descriptor, include a specific statement about why it was great or terrible. For example, you might say something like, “This book was incredibly helpful” and then add the specific, “as it laid out the varied ways that historians have interpreted the conditions under slavery over the past 60 years.”
+
 Good Luck!
 
 ## Bibliography
@@ -52,7 +61,9 @@ Mary Lynn Rampolla, *A Pocket Guide to Writing in History, Fourth edition*, (Bos
 ---
 
 Including the sources you consulted for a history paper is important. Your bibliography helps readers see what sources you used to make your claims and your argument. When each of the accounts is accompanied by commentary, we call that an annotated bibliography. This sounds similar to what your teacher wants for this assignment.
+
 But before including some general guidelines for writing this addendum, let me suggest that you directly ask your teacher this question. This is the best way to find out your teacher's specific expectations. (It’s likely that some of your fellow students would also benefit from hearing those—usually when one student is confused, others are also.)
+
 Having said that, here are some general guidelines:
 
 1. Keep each critique short. A few sentences are often sufficient and it should be no more than a paragraph.
@@ -71,8 +82,11 @@ Remember that when using a source from the time under study, you need to not onl
 ## Critiquing a Secondary Source
 
 Similarly, you need to ask questions about any secondary source that you use. Start with asking: What is the author’s argument? What evidence does s/he use to make that argument? Does the evidence support the author’s argument? Also ask: Does the author consider alternative explanations and arguments? How does the account compare with other sources that you have consulted? Who is the author and does s/he have credentials or experience that make them trustworthy?
+
 I am not suggesting that all of these questions should be answered in your critique, and indeed, given the brevity of each critique, that would be impossible. Rather they are examples of ways to assess the value of each source to your argument and the topic under study.
+
 Finally, remember that if you judge a source “great,” “terrible” or with some other descriptor, include a specific statement about why it was great or terrible. For example, you might say something like, “This book was incredibly helpful” and then add the specific, “as it laid out the varied ways that historians have interpreted the conditions under slavery over the past 60 years.”
+
 Good Luck!
 
 ## Bibliography

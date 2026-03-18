@@ -9,6 +9,8 @@ duration: 00:04:58
 website_url: http://www.arkansascivilwar150.com/!Userfiles/podcasts/Arsenal%20Crisis_mixdown.mp3
 date_published: '2011-01-03T00:00:00'
 series_name: Civil War Podcasts
+time_periods:
+- Civil War & Reconstruction, 1850-1877
 ---
 
 Stephan McAteer of the MacArthur Museum of Arkansas Military History discusses the arsenal crisis that occurred in Little Rock, Arkansas in 1861, an event that almost sparked the Civil War.

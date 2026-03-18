@@ -12,10 +12,22 @@ series_name: American History Podcasts
 splash_image_fid: '8691'
 summary: Dr. Simon Hall lectures on the tactics used by the Civil Rights Movement.
 splash_image: /files/splash-him-mlk3_0.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Ideas & Ideologies
+- Legal History
+- Politics
+- Reform
+tags:
+- Civil Rights Movement
 ---
 
-
 From the History Faculty website:
+
 "In recent years historians of the civil rights movement have moved their focus away from the charismatic leadership of Martin Luther King, Jr. to explore the role played by 'ordinary people' in the struggle for racial equality. While not denying King's importance as a tactician, figurehead and orator historians have argued that, at root, the civil rights movement was a people's movement and that the countless inspiring contributions made by local blacks was a critical component of the movement's success."
+
 "After setting out the problems that the civil rights movement sought to tackle, the presentation charts some of the civil rights movement's major tactics—litigation, boycotts and direct action, and voter registration drives—emphasizing the importance of ordinary African Americans and their allies to these efforts. The presentation ends with a re-consideration of King's role, highlighting his importance as a 'bridge' between the local campaigns and national politics."
+
 Dr. Simon Hall, Senior Lecturer in American History at the University of Leeds, presents this lecture.

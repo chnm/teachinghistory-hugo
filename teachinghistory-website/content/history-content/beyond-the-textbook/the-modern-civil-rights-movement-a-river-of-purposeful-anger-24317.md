@@ -151,6 +151,25 @@ splash_image_fid: '7113'
 thumbnail_fid: '731'
 thumbnail: /files/nysarchives.jpg
 splash_image: /files/Dynamics_of_Idealism-_Volunteers_for_Civil_Rights_1965-1982_432x240_1.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Cities & Suburbs
+- Ethnicity
+- Ideas & Ideologies
+- Legal History
+- Midwestern States
+- New England
+- Reform
+- Southern States
+- Western States
+tags:
+- civil rights; slavery; slaves; race; racism; race relations; abolition; abolitionists;
+  abolitionism; African-Americans; propaganda; activism; activists; newspapers; reporting;
+  reportage; media coverage;
 ---
 
 ## What Textbooks Say

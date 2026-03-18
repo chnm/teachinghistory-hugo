@@ -12,8 +12,36 @@ keywords: ambassadors, diplomacy, families, politicians, journalists, journalism
 website_url: http://www.archives.gov/about/archivist/conversations/
 date_published: '2006-05-10T00:00:00'
 series_name: American Conversations with the Archivist of the United States
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Children
+- Daily Life
+- Family Life
+- Gender
+- Media
+- Politics
+- Women
+tags:
+- House Representatives
+- House of Representatives
+- Representatives
+- ambassadors
+- diplomacy
+- families
+- journalism
+- journalists
+- mass media
+- politicians
+- reportage
+- reporting
 ---
 
 Former Congresswoman Lindy Boggs and her daughter, noted journalist Cokie Roberts, join archivist Allen Weinstein for a conversation about their mother/daughter relationship in an influential political family. Mrs. Boggs served nine terms in the House of Representatives—the first woman elected to the House from that state. She was the first woman to chair a national political convention and the first woman to serve as Ambassador to the Vatican. Mrs. Boggs is the author of *Washington Through a Purple Veil*.
+
 Cokie Roberts is a political commentator for ABC News covering Congress, politics, and public policy. She has won countless journalistic awards and has been inducted into the Broadcasting and Cable Hall of Fame. Her books include *We Are Our Mothers' Daughters* and *Founding Mothers*.
+
 To listen to this interview, scroll to "Lindy Boggs and Cokie Roberts," and select "Watch the Video."

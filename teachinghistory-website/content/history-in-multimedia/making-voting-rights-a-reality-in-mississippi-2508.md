@@ -15,7 +15,30 @@ splash_image_fid: '8707'
 summary: Graduate student Rachel Reinhard explores the African American struggle to
   realize voting rights in Mississippi during and following the Civil Rights Movement.
 splash_image: /files/splash-him-mlk9.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Legal History
+- Politics
+- Reform
+- Southern States
+tags:
+- Civil Rights Movement
+- Jim Crow
+- archives
+- civil rights
+- law
+- laws
+- race
+- race relations
+- racism
+- recordings
+- records
+- segregation
+- voters
+- voting
 ---
-
 
 Graduate student Rachel Reinhard explores the African American struggle to realize voting rights in Mississippi during and following the Civil Rights Movement.

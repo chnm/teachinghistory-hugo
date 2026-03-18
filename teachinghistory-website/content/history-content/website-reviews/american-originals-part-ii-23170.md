@@ -15,7 +15,32 @@ summary: Introduce students to 25 documents selected by the National Archives fo
 splash_image: /files/amorig.jpg
 thumbnail: /files/coloradoplateau.jpg
 image: /files/website_image/AmerOrigImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- American Indians
+- International Relations
+- Legal History
+- Military History
+- Politics
+- Southern States
+- Western States
+- Women
+evidence_types:
+- Official Documents
+- Personal Accounts
+- Political Documents
+resource_types:
+- Images
+- Text
 ---
-
 
 A presentation of more than 25 "of the most treasured documents in the holdings of the National Archives" with 10 contextual essays of up to 300 words in length. Arranged in chronological sections, corresponding to eras suggested by the National Standards for History, this site provides facsimile reproductions of important documents relating to diplomacy, presidents, judicial cases, exploration, war, and social issues. Includes the Treaty of Paris ending the American Revolutionary War (1783); receipts from the Lewis and Clark expedition (1803); the judgment in the Supreme Court's Dred Scott Decision (1857); Robert E. Lee's demand for the surrender of John Brown at Harper's Ferry in 1859; the Treaty of 1868 with the Sioux Indians; an 1873 petition to Congress from the National Woman Suffrage Association for the right of women to vote, signed by Susan B. Anthony, Matilda Joslyn Gage, and Elizabeth Cady Stanton; and a 1940 letter from student Fidel Castro to Franklin D. Roosevelt asking for a ten-dollar bill. Provides links to teaching suggestions for two of the documents. A good site for introducing students to a variety of the forms of documentation accumulated in the collections of the Archives.

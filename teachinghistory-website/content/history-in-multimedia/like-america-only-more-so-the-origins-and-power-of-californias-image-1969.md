@@ -11,7 +11,35 @@ keywords: Gold Rush, California, commerce, commercialism, miners, mining, prospe
 website_url: http://bancroft.berkeley.edu/info/lectures.html
 date_published: '2002-01-12T00:00:00'
 series_name: California History Lectures
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- Business
+- Daily Life
+- Economy
+- Environment
+- Labor
+- Rural Life
+tags:
+- California
+- boomtowns
+- commerce
+- commercialism
+- farmers
+- farming
+- farms
+- gold rush
+- law
+- laws
+- miners
+- mines
+- mining
+- prospecting
+- prospectors
 ---
 
 This lecture provides a narrative account of the rapid migration to and development of California during the Gold Rush years, from 1849 through 1884. It describes the wild scramble for profit, exploitation of resources, and relative lawlessness during the early years, while also emphasizing the role of farmers in the Gold Rush—first as supporters of the miners, and then in conflict with the miners.
+
 To listen to this lecture, scroll to "Like America Only More So: The Origins and Power of California's Image," and select "Listen to Broadcast."

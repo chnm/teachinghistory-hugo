@@ -6,10 +6,11 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21379
 grade_levels:
-  - elementary
+- elementary
 ---
 
 (Note: By the completion of third grade, Oregon students are expected to master the following standards.)
+
 Benchmark 1 students focus on basic skills in history, geography, civics and economics relating most to home and community. Students use their local area to explore their responsibilities and rights as citizens of a community, and the history of that community. They use simple maps, locate physical features, and consider how people are affected by the environment and how the environment is affected by people. Students also study the concept of economic scarcity and how people make economic choices. Additionally, they learn the basic concepts of Social Science Analysis, identifying issues or problems, gathering information, comparing perspectives, and considering options or responses to issues or problems.
 
 ## Civics and Government

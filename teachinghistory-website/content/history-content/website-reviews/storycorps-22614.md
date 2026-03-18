@@ -15,8 +15,35 @@ summary: Connect 20th-century events and daily life with real human experiences 
 splash_image: /files/StoryCorps432x240.jpg
 thumbnail: /files/splash-pop_0.jpg
 image: /files/website_image/StoryCorpsImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Business
+- Children
+- Consumer Culture
+- Daily Life
+- Education
+- Ethnicity
+- Family Life
+- Gender
+- Immigration
+- Labor
+- Latinos
+- Military History
+- Popular Culture, Leisure
+- Reform
+- Religion
+- Women
+evidence_types:
+- Oral History
+resource_types:
+- Audio
 ---
 
-
 StoryCorps is a nonprofit organization dedicated to collecting and preserving the stories of people across the U.S. Founded in 2003, it has collected more than 15,000 stories from people in all walks of life—immigrants, veterans, those that suffer from debilitating diseases, lovers, September 11th survivors, and many more. Each recorded conversation includes two or three people, often grandchildren interviewing grandparents, old friends interviewing each other, or children remembering their parents. Clips, usually between two and five minutes, from hundreds of these stories are available.
+
 The clips are keyword searchable and browseable by category: Angels & Mentors, Discovery, Friendship, Griot, Growing Up, Hurricane Katrina, Identity, Romance, September 11, Struggle, Witness, Wisdom, and Work. Many people discuss their involvement in World War II or the Vietnam War, and many more talk about how they met their spouses or coped with segregation. Always thought-provoking, and often moving, these clips can expose the more human side of major 20th-century events.

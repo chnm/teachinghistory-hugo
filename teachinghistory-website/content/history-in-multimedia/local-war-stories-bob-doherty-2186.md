@@ -13,7 +13,18 @@ series_name: 'The War: Local War Stories'
 splash_image_fid: '8363'
 summary: World War II veteran Bob Doherty shares his personal memories of the war.
 splash_image: /files/splash-him-vd5.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+tags:
+- World War II
+- recordings
+- records
+- soldiers
+- veterans
+- war
+- wars
 ---
-
 
 World War II veteran Bob Doherty shares his personal memories of the war.

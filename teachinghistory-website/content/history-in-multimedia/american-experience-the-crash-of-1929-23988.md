@@ -9,8 +9,16 @@ duration: 01:00:00
 website_url: http://www.pbs.org/wgbh/americanexperience/films/crash/
 date_published: '2009-01-01T00:00:00'
 series_name: American Experience
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Economy
+tags:
+- Great Depression
 ---
 
 From PBS:
+
 In 1929 there were few critics of the stock market; it seemed to rise without limits. In fact, presidents and economists alike confidently predicted that America would soon enter a "New Era" when everyone could be rich. But when reality finally struck, the consequences of such unbound optimism shocked the world.
+
 This *American Experience* documentary looks at the stock market crash of 1929 and its repercussions.

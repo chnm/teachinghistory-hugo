@@ -13,11 +13,18 @@ summary: You've seen spy movies, but what is the *real* history of U.S. intellig
   operations?
 splash_image: /files/CIAsplsh.jpg
 thumbnail: /files/quiz_thumbnail/LewisandClarkMaps_Thumb.jpg
+topics:
+- International Relations
+- Military History
+- Science & Tech.
 ---
 
-
 President Harry S. Truman created the CIA in 1947 when he signed the National Security Act. Today, the agency performs worldwide reconnaissance, advises the President and key national decision makers based on the intelligence acquired, and operates additional covert missions as directed in order to protect U.S. interests.
+
 The CIA website offers a wealth of information, particularly in the form of web-based articles, on the history of intelligence operations within the United States. These text-based features discuss intelligence during the [Revolutionary War](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/intelligence/index.html) and [Civil War](https://www.cia.gov/library/publications/additional-publications/civil-war/index.html), the [Office of Strategic Services](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/oss/index.htm), the *Corona* project and [space reconnaissance](https://www.cia.gov/library/publications/additional-publications/corona-between-the-sun-and-the-earth/index.html), and [heroin use worldwide](https://www.cia.gov/library/publications/additional-publications/heroin-movement-worldwide/index.html). The Revolutionary War and Civil War articles include suggested reading lists, and the former also offers a [letter by George Washington](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/intelligence/letter.html).
+
 If you are interested in historical comparison, the CIA's web publications are of note. [*The World Factbook*](https://www.cia.gov/library/publications/the-world-factbook/index.html) includes information on the geography, people, government, economy, communications, transportation, and transnational issues of the countries of the world. Or perhaps you would like your students to compare historical governments, domestic or international, to their modern counterparts? In that case, the CIA's listing of current [world leaders](https://www.cia.gov/library/publications/world-leaders-1/index.html) may come in handy. If you just cannot find the information you are looking for, consider the site's [suggested reading list](https://www.cia.gov/library/intelligence-literature/index.html).
+
 The CIA also maintains a website for children. The [K-5 section](https://www.cia.gov/kids-page/k-5th-grade/index.html) holds a short description of the CIA seal, an introduction to K-9 helpers, and a brief history of pigeons as aerial photographers; while the [6-12 section](https://www.cia.gov/kids-page/6-12th-grade/index.html) includes brief histories of intelligence and the CIA, as well as biographies of notable individuals, written in the first person. Teachers can also utilize suggested [lesson plans](https://www.cia.gov/kids-page/parents-teachers/teacher-resources/index.html).
+
 Finally, the site offers a CIA [virtual museum tour](https://www.cia.gov/about-cia/cia-museum/cia-museum-tour/index.html) which introduces key intelligence artifacts, such as the Enigma Machine. Flash is required for a visual tour, although a text option is available.

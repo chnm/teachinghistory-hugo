@@ -14,10 +14,21 @@ summary: Teaching the beginning of the Civil War? Even without a visit to the si
   walking tours of battlefields, like First Manassas, can give a sense of place.
 splash_image: /files/splash-him-henryhill.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+- Southern States
+tags:
+- Battle of Bull Run
+- Battle of Manassas
+- First Manassas
+- Stonewall Jackson
+- Virginia
 ---
 
-
 This walking tour covers the July 21, 1861 Battle of First Manassas, the first notable battle of the war. It focuses on "the intense fighting on Henry Hill where the tide of the battle turned from Union success to a decisive Confederate victory. The fighting on the hill was marked by charges and counter charges, often ending in hand-to-hand fighting. One of the Confederate leaders on Henry Hill was Gen. Thomas J. Jackson, who would become 'Stonewall' that day."
+
 Scroll down on the "Podcasts" page to "Henry Hill: First Manassas (Bull Run)" to find the tour.

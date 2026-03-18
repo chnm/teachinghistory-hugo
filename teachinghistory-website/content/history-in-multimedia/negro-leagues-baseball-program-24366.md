@@ -9,7 +9,15 @@ duration: 00:22:12
 website_url: http://www.kshs.org/p/cool-things-negro-leagues-baseball-program/15369
 date_published: '2010-05-19T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Daily Life
+- Popular Culture, Leisure
 ---
 
 From the Kansas State Historical Society website:
+
 "Baseball has long been known as America's pastime, but like many of our country's institutions, it has a history of racial segregation. Today we consider a program from a 1950s game between two Negro Leagues teams."

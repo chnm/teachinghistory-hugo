@@ -13,7 +13,11 @@ summary: Long before sunblock, boogie boards, or bikinis...did ladies wear corse
   to the beach?
 splash_image: /files/splash-beach_0_0.jpg
 thumbnail: /files/website_image/AmerLiteImage.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Popular Culture, Leisure
+- Women
 ---
-
 
 In the last half of the 19th century, large numbers of Americans discovered the seaside as a place for renewing their health, engaging in physical sports, and socializing. Did authorities really offer the following advice to beachgoers in the late 19th century?

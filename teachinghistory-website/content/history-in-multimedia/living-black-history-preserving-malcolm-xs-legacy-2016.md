@@ -15,7 +15,28 @@ splash_image_fid: '8709'
 summary: Black history and studies scholar Manning Marable looks at the significance
   of Malcolm X's work and life to contemporary scholarship and African American identity.
 splash_image: /files/splash-him-audio_0.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Education
+- Environment
+- Ethnicity
+- Ideas & Ideologies
+- Literature
+- Media
+- Radicalism
+- Reform
+tags:
+- Black Power
+- Civil Rights Movement
+- civil rights
+- race
+- race relations
+- racism
+- radicals
 ---
-
 
 Black history and studies scholar Manning Marable looks at the significance of Malcolm X's work and life to contemporary scholarship and African American identity. Marable focuses on the importance of accurately preserving information and materials on important public figures like Malcolm X and on the dangers of losing and misinterpreting such information.

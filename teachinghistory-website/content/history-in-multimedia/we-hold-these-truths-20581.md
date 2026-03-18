@@ -12,6 +12,32 @@ keywords: orators, orators, speeches, Virginia, American Revolution, Revolutiona
 website_url: http://podcast.history.org/2008/12/29/we-hold-these-truths-2/
 date_published: '2009-12-29T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Literature
+- Media
+- Military History
+- Politics
+- Radicalism
+- Reform
+- Southern States
+tags:
+- American Revolution
+- Antifederalists
+- Bill of Rights
+- Declaration of Independence
+- Federalists
+- Founding Fathers
+- Revolutionary War
+- Virginia
+- Williamsburg
+- criminals
+- orators
+- speeches
 ---
 
 Paul Aron, author of *We Hold These Truths*, discusses examples of famous American rhetoric, particularly dating from the American Revolution.

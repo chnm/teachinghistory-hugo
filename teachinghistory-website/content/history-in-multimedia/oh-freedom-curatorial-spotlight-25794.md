@@ -9,7 +9,20 @@ duration: 00:45:00
 website_url: http://ohfreedom.smithsonianconference.org/curatorial-spotlight/
 date_published: '2013-04-06T00:00:00'
 series_name: 'Oh Freedom!: Teaching Civil Rights through Civil Right'
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Art
+- Reform
+tags:
+- Civil Rights Movement
+- art
+- artists
+- civil rights
 ---
 
 From the Smithsonian Institution:
+
 "Smithsonian American Art Museum Chief Curator Virginia Mecklenburg discusses her curatorial perspective on the vision and creativity of African American artists and the various ways these artists have expressed notions of Civil Rights from protest to identity and representation to community."

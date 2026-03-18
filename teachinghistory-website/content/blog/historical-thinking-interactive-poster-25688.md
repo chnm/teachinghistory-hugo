@@ -18,14 +18,16 @@ splash_image: /files/screen-shot-2012-08-06-at-1.28.53-pm.png
 image: /files/ht_elem_1.jpg
 author_image: /files/author_image/jennifer1_1.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- historical thinking
+- posters
 ---
 
-
-
 So how do we top the popularity of our historical thinking poster? We make a good thing even better! Check out *Teachinghistory.org’s* interactive version of the historical thinking poster for the 2012–2013 school year!
+
 Just like the original poster, we created a version specifically for [elementary](http://teachinghistory.org/historical-thinking-poster-1) classrooms and another for [secondary](http://teachinghistory.org/historical-thinking-poster-2) grade use.
 
 ## What will you find?

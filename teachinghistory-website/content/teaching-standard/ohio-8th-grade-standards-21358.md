@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21358
 grade_levels:
-  - middle
+- middle
 ---
 
 ## Theme: U.S. Studies from 1492 to 1877: Exploration through Reconstruction

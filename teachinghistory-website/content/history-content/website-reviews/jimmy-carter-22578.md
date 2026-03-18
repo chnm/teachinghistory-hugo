@@ -15,8 +15,21 @@ summary: Brush up on your knowledge of Carter's staff, family, and the events of
 thumbnail: /files/website_image/image-milwaukee_0.jpg
 splash_image: /files/American_Experience-_Jimmy_Carter_432x240.jpg
 image: /files/website_image/AmericanExperienceImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Economy
+- International Relations
+- Politics
+evidence_types:
+- Photographs
+resource_types:
+- Images
+- Text
+- Video
 ---
 
-
 This well-designed website, companion to the PBS documentary, offers a wide variety of secondary material on the Carter presidency. "People and Places" offers short profiles of Carter, his wife Rosalynn, his brother Billy, Carter's White House staff (collectively known as "The Georgia Mafia"), Speaker of the House Thomas P. "Tip" O\_Neill, and Vice-President Walter Mondale.
+
 It also offers short essays on key events of Carter's presidency, including the election of 1976, the Egyptian-Israeli peace talks at Camp David, the Iranian hostage crisis, Carter's July 1979 "Crisis of Confidence" speech, and the election of 1980. Many of the essays link to special features, such as the extensive media coverage of the Iranian hostage crisis and the text of the "Crisis of Confidence" speech. "Teacher's Guide" offers nine suggestions for classroom learning activities in four categories: economics, civics, history, and geography. The site also includes a detailed chronology of Carter's life and a small photo gallery with 16 images. This site provides a useful overview of Carter's life and the political and diplomatic history of his presidency.

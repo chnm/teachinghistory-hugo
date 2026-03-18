@@ -10,7 +10,18 @@ date_published: '2008-04-04T00:00:00'
 summary: The Massachusetts Historical Society home of the Adams Family Papers for
   more than a century, launched a website and an exhibit displaying the documents
   behind the HBO miniseries, *John Adams.*
+tags:
+- Abigail Adams
+- HBO
+- John Adams
+- colonial
+- early republic
+- massachusetts historical society
+- miniseries
+- president
+- primary source
 ---
 
 [The Massachusetts Historical Society](http://www.masshist.org/welcome/), home of the Adams Family papers for more than a century, has launched the website [John Adams: the Letters Behind the Miniseries](http://www.masshist.org/adams/explore-adams/). Arranged by episode, these webpages link the [HBO series, *John Adams*](http://www.hbo.com/john-adams?ntrack_para1=feat_main_image) to digitized versions of letters from the Adamses and others. Adams family letters and additional documents are also on view at the Historical Society until May 31, 2008. (See local television listings for miniseries broadcast times.)
+
 From April 7-30, the Society will mount an exhibition of Adams manuscripts at the  [Archives and Special Collections Library](http://www.vassar.edu/mydearestfriend/) at Vassar College in Poughkeepsie, New York. Entitled [*My Dearest Friend*](http://www.vassar.edu/mydearestfriend/), the exhibition consists primarily of letters chosen from among almost 1,200 surviving letters exchanged between John and Abigail Adams.

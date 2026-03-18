@@ -16,10 +16,13 @@ spotlight: Elementary students typically rely on personal experience to explain 
 splash_image: /files/TeachingAction.jpg
 image: /files/elemaction.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+time_periods:
+- General
+topics:
+- Education
 ---
-
 
 * Identify a decision made by a historical figure—Claudius’s invasion of Britain, for instance—that you want your students to examine.
 * Seek out a range of sources that describe the context in which decision-makers were operating at the time.

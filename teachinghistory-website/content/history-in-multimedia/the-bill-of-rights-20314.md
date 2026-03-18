@@ -11,7 +11,20 @@ keywords: Constitutional Convention, U.S. Constitution, Founding Fathers, politi
 website_url: http://www.esd112.org/history/cc/seminars/CRFSeminar.cfm
 date_published: '2006-08-01T00:00:00'
 series_name: Constitutional Academies
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Politics
+- Reform
+tags:
+- Bill of Rights
+- Constitutional Convention
+- Founding Fathers
+- U.S. Constitution
+- politicians
 ---
 
 Jack Rakove of Stanford University examines the creation and significance of the Bill of Rights, arguing that it is perhaps not as significant as popularly believed.
+
 To listen to this lecture, select "The Bill of Rights" under "Listen to Dr. Rakove's lectures."

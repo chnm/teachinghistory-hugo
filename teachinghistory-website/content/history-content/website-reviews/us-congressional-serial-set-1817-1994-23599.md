@@ -15,7 +15,33 @@ summary: More than 355,000 items produced by the U.S. Senate and House of Repres
 thumbnail: /files/Aliens_0.jpg
 splash_image: /files/SerialSet1pic-432x240.jpg
 image: /files/website_image/CongressSerial.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- American Indians
+- Economy
+- Environment
+- International Relations
+- Military History
+- Politics
+- Science & Tech.
+evidence_types:
+- Maps
+- Official Documents
+- Paintings and Prints
+resource_types:
+- Images
+- Subscription
+- Text
+tags:
+- House of Representatives
+- Senate
 ---
-
 
 [SUBSCRIPTION REQUIRED] This vast archive includes many documents and reports produced by the U.S. Senate and House of Representatives and published between 1817 and 1980, for a total of more than 355,000 items. These items include 48,000 maps, 9,000 illustrations, thousands of reports, and numerous records of committee hearings and floor proceedings. All items are full-text searchable and can be browsed by subject, such as education, economics, food and agriculture, health, Indian affairs, armed forces and conflicts, environment and natural resources, and social issues. Within each of these broad categories, there are hundreds of subject headings, such as "animal welfare" (83 items), "alien labor" (306 items), and "ordnance testing" (353 items). The "Indian Affairs" category, for example, presents thousands of items on agencies and organizations relating to Indian affairs, Indian reservations, treaties, names of Indian tribes, as well as documents relating to hundreds of laws and supreme court cases. There is also a bill number search, an alphabetical list of names of all acts of Congress, and a listing of all documents by U.S. Congress session. All documents can be downloaded in PDF format. In addition, a separate browse feature entitled "Serial Set Maps" facilitates access to thousands of maps from counties and cities across the country. Many of these date to the Civil War-era or later and include images of forts and depictions of field operations. Readex plans to expand coverage through 1994.

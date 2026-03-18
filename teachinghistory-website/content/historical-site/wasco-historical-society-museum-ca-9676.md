@@ -5,7 +5,16 @@ lastmod: '2017-12-01T13:56:09'
 content_type: historical_site
 draft: false
 drupal_nid: 9676
+time_periods:
+- General
+topics:
+- Daily Life
+tags:
+- California
+- historical society
+- museum
 ---
 
 The Wasco Historical Society Museum seeks to preserve and share the history of Wasco, California. To that end, it operates a museum of local history.
+
 The museum offers exhibits.

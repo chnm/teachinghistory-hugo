@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 8908
 website_url: http://www.oregonstateparks.org/park_139.php
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Religion
+- Western States
+tags:
+- Mission
+- Oregon
+- Park
+- missionaries
 ---
 
 The Willamette Mission State Park commemorates the location of the first mission created for Native Americans, founded 1834 by Reverend Jason Lee. The Wheatland Ferry, which carried the first covered wagon across the Willamette River in 1844, also has a landing in the park.
+
 The park offers a monument, ghost structures (framed outlines) indicating the original buildings, and interpretive signage.

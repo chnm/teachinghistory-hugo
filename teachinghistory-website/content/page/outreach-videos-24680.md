@@ -15,6 +15,7 @@ Use these free videos at your next professional development workshop or teacher 
 [![](/files/ht_vid_thumb-intro.jpg)](/historical-thinking-intro)
 
 Need a good way to introduce what historical thinking is and why it is important? Use this video to start the conversation.  
+
 [Watch the video here »](/historical-thinking-intro)
 
 #### Elementary Introduction
@@ -22,6 +23,7 @@ Need a good way to introduce what historical thinking is and why it is important
 [![](/files/es_vid_thumb-into.jpg)](/elementary-school-intro)
 
 Want to introduce elementary school teachers to the resources available at teachinghistory.org? Use this video to show classroom resources just for them!  
+
 [Watch the video here »](/elementary-school-intro)
 
 #### Middle School Introduction
@@ -29,6 +31,7 @@ Want to introduce elementary school teachers to the resources available at teach
 [![](/files/ms_vid_thumb-intro.jpg)](/middle-school-intro)
 
 Want to introduce middle school teachers to the resources available at teachinghistory.org? Use this video to show classroom resources just for them!  
+
 [Watch the video here »](/middle-school-intro)
 
 #### High School Introduction
@@ -36,6 +39,7 @@ Want to introduce middle school teachers to the resources available at teachingh
 [![](/files/hs_vid_thumb-intro.jpg)](/high-school-intro)
 
 Want to introduce high school teachers to the resources available at teachinghistory.org? Use this video to show classroom resources just for them!  
+
 [Watch the video here »](/high-school-intro)
 
 #### Digital Classroom
@@ -43,6 +47,7 @@ Want to introduce high school teachers to the resources available at teachinghis
 [![](/files/dig_classroom_thumb-intro.jpg)](/digital-classroom-intro)
 
 Looking for ways to bring technology and digital tools into the history classroom in a meaningful way? Use this video for tips to begin exploring the possibilities.  
+
 [Watch the video here »](/digital-classroom-intro)
 
 #### Lesson Plan Reviews
@@ -50,4 +55,5 @@ Looking for ways to bring technology and digital tools into the history classroo
 [![](/files/lpr_thumb.jpg)](/lesson-plan-reviews-intro)
 
 How do you find quality lesson plans online? Use this video to learn how to use teachinghistory.org’s [lesson plan rubric](/sites/default/files/rubric.pdf) to evaluate lesson plans.  
+
 [Watch the video here »](/lesson-plan-reviews-intro)

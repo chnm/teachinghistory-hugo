@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21442
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### SD.8.US. Goal / Strand: U.S. History

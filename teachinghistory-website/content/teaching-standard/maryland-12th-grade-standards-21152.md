@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21152
 grade_levels:
-  - high
+- high
 ---
 
 * ### MD.1. Strand / Topic / Standard: Government (Core) Political Systems

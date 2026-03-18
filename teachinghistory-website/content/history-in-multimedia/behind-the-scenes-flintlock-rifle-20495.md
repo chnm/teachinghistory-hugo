@@ -11,6 +11,24 @@ keywords: weapons, guns, American Revolution, Revolutionary War, primary sources
 website_url: http://www.pbs.org/opb/historydetectives/video/1479893114/
 date_published: '2008-12-17T00:00:00'
 series_name: 'History Detectives: Video Library'
+time_periods:
+- All
+- General
+- Revolution & New Nation, 1754-1820s
+topics:
+- Media
+- Military History
+- Science & Tech.
+tags:
+- American Revolution
+- History Detectives
+- Revolutionary War
+- artifacts
+- guns
+- objects
+- primary sources
+- television
+- weapons
 ---
 
 This clip examines the research required to verify word-of-mouth legends surrounding historical artifacts—in this case, a pistol rumored to date from the American Revolution.

@@ -12,6 +12,27 @@ keywords: religious freedom, freedom of religion, Virginia, Williamsburg, politi
 website_url: http://podcast.history.org/2006/07/10/patrick-henry-on-religion-2/
 date_published: '2006-07-10T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Politics
+- Religion
+- Southern States
+tags:
+- Founding Fathers
+- Protestantism
+- Protestants
+- Virginia
+- Virginia General Assembly
+- Williamsburg
+- bills
+- freedom of religion
+- politicians
+- religious freedom
+- tax
+- taxation
+- taxes
 ---
 
 Patrick Henry, as portrayed by Colonial Williamsburg interpreter Richard Schumann, defends the bill on religion he introduced to the Virginia General Assembly.

@@ -13,7 +13,22 @@ summary: What did people living in what is now known as North America leave behi
   Answer these questions about archaeological finds.
 splash_image: /files/earlyamer-splash.jpeg
 thumbnail: /files/quiz_thumbnail/HistInkThumbnail.jpg
+time_periods:
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+tags:
+- Anasazi
+- Ancient Pueblo
+- Hohokam
+- Mississippians
+- Mound Builders
+- Pueblo
+- Timucua
+- burial mounds
+- foodways
+- pottery
+- shell middens
 ---
-
 
 For thousands of years, diverse cultures have inhabited the continent we call North America. Many of those cultures have died out, dispersed, evolved, or been wiped out, but artifacts from their long histories remain. Answer these questions about the physical evidence left behind by four early cultures.

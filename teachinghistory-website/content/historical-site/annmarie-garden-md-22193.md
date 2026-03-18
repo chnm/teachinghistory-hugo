@@ -6,7 +6,13 @@ content_type: historical_site
 draft: false
 drupal_nid: 22193
 website_url: http://www.annmariegarden.org/
+time_periods:
+- General
+topics:
+- Art
+- Mid-Atlantic
 ---
 
 The Annmarie Garden invites the public to explore its 30-acre sculpture garden and indoors arts exhibits.
+
 The garden offers exhibits, classes, and educational and recreational events.

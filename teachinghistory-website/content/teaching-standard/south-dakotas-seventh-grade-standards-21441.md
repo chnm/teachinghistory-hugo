@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21441
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### SD.7.G. Goal / Strand: Geography

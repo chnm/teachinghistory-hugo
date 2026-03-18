@@ -12,9 +12,18 @@ summary: Elementary teacher Karen Eanes hooks her students with engaging histori
   Delaware.
 splash_image: /files/eanessplash.jpeg
 grade_levels:
-  - elementary
+- elementary
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Art
+- Military History
+tags:
+- George Washington
+- paintings
+- primary sources
+- secondary sources
 ---
-
 
 /files/media/video/Eanes1.mp4
 

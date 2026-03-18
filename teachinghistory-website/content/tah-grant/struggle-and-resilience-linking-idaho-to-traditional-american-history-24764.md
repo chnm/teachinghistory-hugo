@@ -6,9 +6,9 @@ content_type: tah_grant
 draft: false
 drupal_nid: 24764
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
 
 Located in a rural town near Boise, the Kuna district is in its fifth year of improvement: only one of eight district schools made Adequate Yearly Progress in 2007-2008. In project Year 1, master teacher trainees will spend 175 hours in field studies, collaboration with partners, workshops, book studies, and design of summer institutes for subsequent years. Thereafter, teachers will receive more than 75 hours of research-based professional development as they participate in workshops, book studies, and summer institutes. Year 1 will develop four master teachers; Years 2 to 5 will bring in about 35 more teachers overall. The project goal is to develop 19 teacher-leaders and approximately 20 additional teachers with strong content knowledge, pedagogical background, and resources. The underlying purpose of the *Struggles and Resilience* project is to develop American history as a separate academic subject that is supported by resident historians and pedagogical experts. In Year 1, master teachers will participate in individualized and collaborative field study, primary source research, and intense learning sessions with local and national history experts. In the following years, the master teachers will work with historians and other educators to help participating teachers build their content knowledge and instructional skills. History content will draw connections between traditional American history and state and local histories. Pedagogy will be based on nine essential strategies outlined in *Classroom Instruction That Works*. Participating teachers will earn college credits and/or history endorsements or certifications. All district teachers will benefit from lesson plans created during project activities.

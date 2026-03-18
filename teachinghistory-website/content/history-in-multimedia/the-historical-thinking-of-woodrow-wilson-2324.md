@@ -11,7 +11,22 @@ keywords: Declaration of Independence, Founding Fathers, presidents, politicians
 website_url: http://teachingamericanhistory.org/institutes/2003/progressivism_readings.html
 date_published: '2003-08-04T00:00:00'
 series_name: Progressivism and the Origins of 20th-century Politics
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Ideas & Ideologies
+- Literature
+- Politics
+- Reform
+tags:
+- Declaration of Independence
+- Founding Fathers
+- politicians
+- presidents
+- progressives
+- progressivism
 ---
 
 Professor Ronald J. Pestritto explores the progressive political beliefs of Woodrow Wilson, examining his disagreements with the Founding Fathers' political theory of natural rights as expressed in the Declaration of Independence.
+
 To listen to this lecture, scroll to session three, and select the corresponding RealAudio link to the left.

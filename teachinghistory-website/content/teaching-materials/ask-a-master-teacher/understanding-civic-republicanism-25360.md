@@ -20,13 +20,17 @@ splash_image: /files/republicanismsplash.jpg
 image: /files/republicanismimage.jpg
 author_image: /files/author_image/matlock_photo.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+tags:
+- civic republicanism
+- civics
+- history content
+- resources
 ---
 
-
-
 *California State History-Social Science Content Standard 8.1.4: Describe the nation’s blend of civic republicanism, classical liberal principles, and English parliamentary traditions.*
+
 There is a famous story about the day the Constitutional Convention ended in September 1787. Benjamin Franklin was walking out of Independence Hall, and a woman ran to him and asked, “Dr. Franklin, what kind of government have you given us?” He replied, “A republic, if you can keep it.” Whether apocryphal or not, this statement shapes the definition of active citizenship in this country. At the heart of Franklin’s challenge is the idea of civic republicanism. The notion that it is imperative for people of this country to remain attentive and devoted to the maintenance of our institutions for their sustainability is still one of America’s cherished ideals.
 > The idea of civic republicanism is not meant to be a one-shot assignment that can be covered with a worksheet.
 
@@ -39,6 +43,7 @@ Students must understand that while citizenship is a right it is also a responsi
 ## Resources
 
 Many textbooks have sections regarding the roles of citizenship that can prove quite useful when introducing the concept of civic republicanism. This [lesson plan](http://www.civiced.org/index.php?page=wtp_ms28_sb) and [this plan](http://www.civiced.org/index.php?page=pc_sample_sb), both from the [Center for Civic Education](http://www.civiced.org/index.php ), can be used to help students explore and identify what it means to play an active role in our republic. This would also be an appropriate time to review ideas from students’ 6th- and 7th-grade classes, such as Pericles’s praise of public service and the Roman Republic’s expectation of its citizens to perform public service, and various Enlightenment ideas from thinkers like Locke, Rousseau, and Montesquieu.
+
 [This handout](http://teachinghistory.org/system/files/handout.pdf) can be used as part of a class discussion. The first page would be done by students in groups or as an entire class while sharing common ideas. (It may also be helpful to identify pages in your textbook that can help students answer these questions.) The second page includes some of the content that could come out in the discussion of the second question and particular principles.
 
 ## An Important Idea!
@@ -48,5 +53,7 @@ Again, this concept is not an easy one to teach, especially with the limited tim
 ---
 
 Students can learn more about the responsibilities of modern-day citizens and the workings of U.S. government at [iCivics](http://teachinghistory.org/history-content/website-reviews/25018). Online games explore the responsibilities of citizens and each of the three branches of government.
+
 What resources can you use to teach about civics and civic republicanism? A previous [*Ask a Master Teacher*](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/25062) shares more suggestions.
+
 Do you teach ELL students? You don't need advanced English comprehension to learn about the rights and responsibilities that are part of living in a republic! Michael Long shares a [teaching strategy](http://teachinghistory.org/teaching-materials/english-language-learners/24139).

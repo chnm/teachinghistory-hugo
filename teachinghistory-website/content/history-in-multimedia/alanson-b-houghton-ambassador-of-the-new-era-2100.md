@@ -13,7 +13,41 @@ keywords: industry, industrialists, politicians, ambassadors, diplomats, Germany
 website_url: http://dev.forum-network.org/lecture/alanson-b-houghton-ambassador-new-era
 date_published: '2006-01-26T00:00:00'
 series_name: 'American Experience: America and the Holocaust'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- Business
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+tags:
+- Dawes Plan
+- England
+- Europe
+- Germany
+- Great Britain
+- Kellogg-Briand peace pact
+- Locarno security treaties
+- World War I
+- World War II
+- ambassadors
+- diplomats
+- foreign policy
+- industrialists
+- industry
+- policies
+- policy
+- politicians
+- presidents
+- war
+- wars
 ---
 
 Scholar Jeffrey Matthews explores the life of Alanson B. Houghton, American industrialist, politician, and diplomat (to Germany, 1922-1925, and to Great Britain, 1925-1929). Houghton uses this exploration to examine U.S. foreign policy between World War I and World War II, citing Houghton's criticism of policy under Presidents Harding and Coolidge.
+
 Audio and video options are available.

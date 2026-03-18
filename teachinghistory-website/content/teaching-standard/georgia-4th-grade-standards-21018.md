@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21018
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### GA.SS4H. Strand/topic: United States History to 1860

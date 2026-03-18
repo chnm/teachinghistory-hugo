@@ -15,8 +15,28 @@ summary: Explore maps from throughout America's history, with a special focus on
 splash_image: /files/splash-wr-raremaps.jpg
 thumbnail: /files/Presidentsofthe432x240.jpg
 image: /files/website_image/RareMap_Image.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Daily Life
+- Military History
+- Slavery
+- Southern States
+evidence_types:
+- Maps
+resource_types:
+- Images
+tags:
+- Maps
 ---
 
-
 A collection of more than 800 maps dating from 1544 to 1939 of mostly North American locations, with an emphasis on 19th-century Georgia. Organized into nine chronological and topical divisions—New World; Colonial America; Revolutionary America; Revolutionary Georgia; Union and Expansion; American Civil War; Frontier to New South; Savannah and the Coast; and Transportation.
+
 Includes maps of battles, American Indian nations, railroads, and roads. Useful especially for those studying military history and the development of the South.

@@ -6,7 +6,20 @@ content_type: historical_site
 draft: false
 drupal_nid: 13571
 website_url: http://www.gcv.org/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- Mid-Atlantic
+- Rural Life
+tags:
+- New York
 ---
 
 Genesee Country Village and Museum's 68 buildings recreate a 19th-century rural village, from the pioneer years, beginning in 1795, to the 1920s. Depending on when they visit, visitors may watch period baseball games and foodways, crafts, and other living history demonstrations, and participate in hands-on activities. The village also houses the John L. Wehle Art Gallery, displaying sporting and wildlife art as well as a changing exhibit on 19th-century life.
+
 The museum offers exhibits, living history demonstrations, period baseball games (on some weekends), classes, summer camps, family pioneer experience weekends, nature trails, and other recreational and educational events.

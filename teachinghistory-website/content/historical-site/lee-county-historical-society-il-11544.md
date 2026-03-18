@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 11544
 website_url: http://www.leecountyhistory.com/
+time_periods:
+- General
+topics:
+- Daily Life
+- Midwestern States
+tags:
+- Illinois
 ---
 
 The Lee County Historical Society seeks to preserve and share the history of Lee County, IL. To this end, the society operates a research center.
+
 The society offers research center access and research assistance.

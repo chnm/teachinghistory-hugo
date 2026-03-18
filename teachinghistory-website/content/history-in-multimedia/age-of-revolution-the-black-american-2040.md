@@ -11,6 +11,25 @@ keywords: race, racism, race relations, American Revolution, Revolutionary War, 
 website_url: http://dev.forum-network.org/lecture/age-revolution-black-american
 date_published: '2004-11-08T00:00:00'
 series_name: African American Culture
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Education
+- Ethnicity
+- Literature
+- Media
+- Military History
+- Slavery
+tags:
+- American Revolution
+- Revolutionary War
+- race
+- race relations
+- racism
+- slaves
+- war
+- wars
 ---
 
 Director of the National Center for History in the Schools Gary Nash discusses African-American history in the Revolutionary War and memory of that history constructed by historians, the public, and researchers. Nash focuses on what is and was taught and published about African Americans in the Revolutionary War.

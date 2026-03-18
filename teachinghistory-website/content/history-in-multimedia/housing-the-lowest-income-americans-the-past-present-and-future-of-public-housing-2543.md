@@ -13,6 +13,29 @@ website_url: http://video.mit.edu/watch/housing-the-lowest-income-americans-the-
 date_published: '2003-06-07T00:00:00'
 series_name: 'Technology Day 2003: Fast Times at MIT: What''s New, What''s Next--Now
   What?'
+time_periods:
+- General
+topics:
+- Cities & Suburbs
+- Consumer Culture
+- Daily Life
+- Ethnicity
+- Ideas & Ideologies
+- Media
+- Politics
+- Popular Culture, Leisure
+- Reform
+tags:
+- architecture
+- building
+- buildings
+- housing
+- interpretation
+- memory
+- policies
+- policy
+- public housing
+- relief programs
 ---
 
 Professor Lawrence J. Vale shows provocative images from early advertisements to demonstrate some of society's long-held attitudes toward public housing and those who live in public housing. He analyzes government policies as they evolved to provide housing to 'reward people who are most deserving' of assistance, or to provide housing assistance as a 'coping mechanism.'

@@ -15,7 +15,24 @@ summary: Learn about the American south in the late 19th century through 141 fir
 thumbnail: /files/splash-ups-numbers.jpg
 splash_image: /files/First-PersonNarratives432x240.jpg
 image: /files/website_image/NarrativesoftheAmericanSouth_Image.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- American Indians
+- Military History
+- Religion
+- Rural Life
+- Southern States
+- Women
+evidence_types:
+- Newspapers and Periodicals
+- Oral History
+- Personal Accounts
+resource_types:
+- Text
 ---
-
 
 Features 141 texts relating to the culture of the American south "from the viewpoint of Southerners," during the latter half of the 19th and beginning decades of the 20th centuries, " a period of enormous change." Focusing on the voices of women, blacks, laborers, and Native Americans, the site offers a variety of documents--including ex-slave narratives, travel memoirs, personal accounts and diaries, and autobiographies, such as *Narrative of the Life of Moses Grandy; Late a Slave in the United States of America* (1843). Includes some materials published prior to 1860. Provides a 31-title bibliography, with some resources geared toward young readers, and links to 13 related sites. Part of the University of North Carolina's digital library project,  [Documenting the American South](http://docsouth.unc.edu/), which is described further in its own History Matters entry.

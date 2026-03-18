@@ -15,7 +15,15 @@ summary: Peruse this website to explore comments made by Tocqueville, Beaumont, 
 thumbnail: /files/Splash-UPS-Secondary.jpg
 splash_image: /files/womeninamerica432x240.jpg
 image: /files/website_image/WomeninAmerica_Image.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Literature
+- Women
+evidence_types:
+- Literary Sources
+resource_types:
+- Text
 ---
-
 
 This site, created by a graduate student, presents fragments of 18 texts that discuss the condition of women written by visitors to the United States between 1820 to 1842. Authors include Charles Dickens, Alexis de Tocqueville, Charles Lyell, Michel Chevalier, and James Fenimore Cooper. The 13 topics include marriage and courtship, work, government, education, race, arts and entertainment, fashion, travel, prisons, wilderness, health, Indians, and religion. The primary purpose of the site—to ascertain the accuracy of "the picture of women in [Tocqueville's] *Democracy in America*" and "what parts of women's lives" Tocqueville and [Gustave de] Beaumont "missed"—suggests that it is best regarded as an exercise in simple description, not interpretation or even exposition of the texts. These particular concerns indeed mean that users will not be able to draw conclusions about Tocqueville's social or political theory, for instance, since the site does not ask what the omissions actually mean for the texts involved. The site is useful on its own terms, which some students may find compelling. But others may find it narrow and awkward. In either case, it should be read with questions of context and purpose in mind. Also offers a 20-item bibliography.

@@ -11,6 +11,29 @@ keywords: Native Americans, race, racism, race relations, French and Indian War,
 website_url: http://dev.forum-network.org/lecture/american-indians-and-french-english-war
 date_published: '2005-09-28T00:00:00'
 series_name: Native American Culture
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- American Indians
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+tags:
+- England
+- France
+- French and Indian War
+- Native Americans
+- colonies
+- colonists
+- colonization
+- race
+- race relations
+- racism
+- war
+- wars
 ---
 
 Professor Colin G. Calloway looks at Native American participation in the French and Indian War, focusing on the motivations and experiences of these individuals.

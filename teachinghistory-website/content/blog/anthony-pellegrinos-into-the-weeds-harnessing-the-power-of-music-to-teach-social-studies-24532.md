@@ -25,12 +25,22 @@ summary: Present the context first, or later? Teaching with music can be valuabl
 splash_image: /files/splash-blog-apmusic23.jpg
 author_image: /files/author_image/Pellegrino_Image_1.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- General
+topics:
+- Labor
+- Popular Culture, Leisure
+- Radicalism
+- Reform
+tags:
+- Anthony Pellegrino
+- Joe Hill
+- Woody Guthrie
+- music
 ---
-
-
 
 Nearly every student shares some connection with music. Whether students favor listening to today’s pop music by Justin Bieber or Rhianna; classic rock by the Beatles or Bruce Springsteen; folk music by Woody Guthrie, Pete Seeger, or Bob Dylan; or jazz music from Charles Mingus or John Coltrane, they glean messages from music and the artists who create it. Moreover, music has been such a part of American popular culture and history that we are rich with music that has commented and reflected on the people and events of that history. As such, using music in a history classroom to foster student interest and content analysis can be part of an effective lesson. But incorporating music in such a way as to encourage meaningful learning requires some structure and forethought. In a [previous posting](/nhec-blog/24344) I outlined four general models of incorporating music into a history lesson. I’d like to take this time to explore in a bit more detail how I have made effective use of music in my classroom.
 
@@ -42,6 +52,7 @@ My most common method for including music in my lessons was to present the music
 Although it is rare to find performances from these songwriters, I often find performances of these songs by various artists reinterpreting them. John Denver, for example, recorded and often performed “Bread and Roses. Many education and historical websites provide samples or entire performances of these songs. I have often used the PBS site [*Strange Fruit*](http://www.pbs.org/independentlens/strangefruit/workers.html) as a starting point for my research (incidentally, using the song “Strange Fruit” typically elicits emotional responses when dealing with race relations and the Jim Crow era, and I highly recommend its use for class).
 ![Photo, Young migratory agricultural workers singing at the Saturday night dance at the Agua Fria migratory labor camp, Arizona, May 1940, Russell Lee, Library of Congress](http://teachinghistory.org/files/image-blog-apmusic22.jpg "Photo, Young migratory agricultural workers singing at the Saturday night dance at the Agua Fria migratory labor camp, Arizona, May 1940, Russell Lee, Library of Congress")
 Using this method, I begin class by handing out a guidance worksheet designed to get students to be keener listeners as we hear the song. This worksheet is divided into two distinct parts. In the first section, which I label as pre-listening, I provide students with some basic information about the song, including the genre, the songwriter, and about the interpretation as we are about to hear it. In my experience, giving students this information before we commence listening allows them to consider the message and tone with fewer distractions—including quibbles over whether or not the song was really a blues or jazz song, for example—which can take away from the foundational intention of the listening activity.
+
 Once we are ready to listen to the song, I review the context once more. Just before listening to “Solidarity Forever,” for example, I would reiterate the travails of the labor movement and the methods unions and employers had taken in an effort to strengthen their respective sides. Upon completion of the pre-listening information and context, I project the lyrics onto the screen in the classroom and we then begin listening. While the students are listening, they write down on part two of the worksheet some of the meaningful lyrical passages as well as the tone set by the music and presentation. Additionally, in an effort to gauge effectiveness of the message, they are asked whether the song appears to be more of a call to action or a reflection on the historical event or situation. And finally, I also ask students to ponder for whom this song was written and whether the song effectively addresses those constituents.
 
 ## Listening Without Context

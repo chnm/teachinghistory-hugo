@@ -13,8 +13,24 @@ summary: View photographs taken by everyday people as they came to terms with th
   9/11 attacks, or watch oral histories.
 splash_image: /files/hereisnew432x240.jpg
 image: /files/website_image/hereisnew113x150.jpg
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- International Relations
+- Radicalism
+evidence_types:
+- Oral History
+- Personal Accounts
+- Photographs
+resource_types:
+- Images
+- Video
+tags:
+- 9-11-01
+- 9/11
+- September 11th
 ---
 
-
 *Here is New York* started as a pop-up gallery show in SOHO. Any individual who had photographed 9/11 or related topics was given the opportunity to submit their images to the charitable event. Images are no longer for sale, but a sizable collection can be accessed via this website. There is no way to keyword search for content, but the photographs have been sorted into more than 50 categories, ranging from "Animals" to "WTC - Pre 9/11." Be aware that several categories, such as "Victims" or "Medical" may contain graphic content. As a result, the best use of the gallery would likely entail vetting particular images for your individual lesson needs.
+
 The homepage also offers a link to a collection of [oral histories](http://hereisnewyorkv911.org/). As of August 24, 2011, 110 of the 550 personal accounts taped in 2002 and 2003 are available online. Speakers were permitted to say anything they wished, as long as they wished, in any language; so, again, vetting is highly suggested. Videos can be searched by location of filming—New York City; Shanksville, PA; or the Pentagon.

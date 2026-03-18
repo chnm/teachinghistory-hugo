@@ -6,7 +6,25 @@ content_type: historical_site
 draft: false
 drupal_nid: 6599
 website_url: http://www.constitutionisland.org/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- International Relations
+- Mid-Atlantic
+- Military History
+tags:
+- American Revolution
+- Revolutionary War
+- forts
+- homes
+- houses
+- islands
 ---
 
 Constitution Island is part of West Point, the United States Military Academy, a National Registered Landmark. The Island is most famous for the Great Chain that was placed across the Hudson during the Revolutionary War and the Warner family who lived on the Island during the 19th century. The Warner House and ruins of the Revolutionary War fortifications are the primary points of interest.
+
 The site offers tours and occasional recreational and educational events (including living history events).

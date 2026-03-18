@@ -6,7 +6,12 @@ content_type: historical_site
 draft: false
 drupal_nid: 11766
 website_url: http://www.rootsweb.ancestry.com/~pahhs/
+time_periods:
+- General
+topics:
+- Mid-Atlantic
 ---
 
 The Hermitage Historical Society seeks to preserve and share the history of Hermitage, PA.
+
 The society offers tours of its headquarters, the historic Stuart Home.

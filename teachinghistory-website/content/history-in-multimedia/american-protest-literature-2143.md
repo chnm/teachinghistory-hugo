@@ -12,7 +12,56 @@ keywords: protest, protests, protesters, activism, activists, socialism, sociali
   war, wars, Civil War
 website_url: http://dev.forum-network.org/lecture/american-protest-literature
 date_published: '2006-11-15T00:00:00'
+time_periods:
+- All
+- General
+topics:
+- African Americans
+- Art
+- Education
+- Ethnicity
+- Gender
+- Ideas & Ideologies
+- Labor
+- Legal History
+- Literature
+- Media
+- Military History
+- Politics
+- Popular Culture, Leisure
+- Radicalism
+- Reform
+- Sexuality
+- Slavery
+- Women
+tags:
+- Civil War
+- Emancipation Proclamation
+- activism
+- activists
+- authors
+- drama
+- oration
+- orators
+- oratory
+- photographers
+- photography
+- photos
+- plays
+- propaganda
+- protest
+- protesters
+- protests
+- socialism
+- socialists
+- theater
+- theatre
+- trials
+- war
+- wars
+- writers
 ---
 
 Author Zoe Trodd follows the history of protest literature in the United States, looking at its use in movements ranging from pre-Revolutionary War to the present day. The presentation also includes Adoyo Owuor reading the Emancipation Proclamation, Timothy Patrick McCarthy reading *Eugene v. Debs* Statement to the Court, John Stauffer displaying a collection of 20th-century protest photography, and Doric Wilson presenting excerpts from his play *Street Theater*.
+
 An mp3 of the presentation may be downloaded.

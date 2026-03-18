@@ -13,8 +13,14 @@ summary: Challenge students to gather evidence from multiple primary sources. He
   movement.
 splash_image: /files/splash-eoht-source-checking.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Reform
+tags:
+- Civil Rights Movement
 ---
-
 
 In this 107-second [video clip](http://historicalthinkingmatters.org/rosaparks/1/studentwork/ta2/), we see a high school student checking his ideas against the available evidence. In reading a leaflet from the civil rights movement, he encounters a name from a previous document and assumes that she is a white civic leader. The second document, however, raises questions for him about the woman's position. Flipping back and forth between sources, he comes to a reasoned conclusion about who Jo Ann Robinson is and develops a more nuanced understanding of what the civil rights movement was like. The accompanying written commentary points out the clues that the student uses to inform his reading. Find the documents the student reads [here](http://historicalthinkingmatters.org/rosaparks/0/inquiry/) (see "Robinson" and "Leaflet").

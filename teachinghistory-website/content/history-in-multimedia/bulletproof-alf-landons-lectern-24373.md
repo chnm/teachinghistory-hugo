@@ -9,7 +9,15 @@ duration: 00:29:44
 website_url: http://www.kshs.org/p/cool-things-alf-landon-s-lectern/10331
 date_published: '2010-09-22T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Media
+- Politics
+tags:
+- Alf Landon; Franklin Roosevelt; election of 1936
 ---
 
 From the Kansas State Historical Society website:
+
 "Politics was a rough business in the 1930s. Kansas governor Alf Landon knew the stakes were high, so he traveled with this lead lectern during the 1936 presidential campaign."

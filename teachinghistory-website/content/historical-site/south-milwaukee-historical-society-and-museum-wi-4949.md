@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 4949
 website_url: http://www.southmilwaukee.org/historical_society/
+time_periods:
+- All
+- General
+topics:
+- Midwestern States
+tags:
+- Wisconsin
+- museums
 ---
 
 The Society operates a small local history museum and archives.
+
 The museum offers exhibits and tours; the society offers research library access and occasional recreational and educational events.

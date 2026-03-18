@@ -15,9 +15,15 @@ summary: Diaries give a personal view of historical events. Historian Peter Hahn
   the diary of Robert Ode, kept as he was held hostage in Iran.
 splash_image: /files/hahnsplash.jpg
 author_image: /files/author_image/2010_-_oah_-_author_image_-_peter_hahn.jpg
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- International Relations
+tags:
+- Iran
+- Iran Hostage Crisis
+- robert ode
 ---
-
-
 
 /files/media/video/Hahn1.mp4
 

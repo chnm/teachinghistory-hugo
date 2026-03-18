@@ -11,6 +11,28 @@ keywords: baskets, basketmaking, basketmakers, crafts, craftspeople, colonists, 
 website_url: http://podcast.history.org/2006/11/20/basketmaking-a-skill-learned-with-the-hands/
 date_published: '2006-11-20T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Business
+- Consumer Culture
+- Daily Life
+- Global Contact
+- Labor
+- Southern States
+tags:
+- Native Americans
+- Virginia
+- Williamsburg
+- basketmakers
+- basketmaking
+- baskets
+- colonies
+- colonists
+- colonization
+- crafts
+- craftspeople
 ---
 
 Richard Carr, a basketmaker at Colonial Williamsburg, describes the importance of baskets and the skill of basketmaking during the colonial era, and outlines the process of making a basket.

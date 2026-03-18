@@ -13,8 +13,25 @@ summary: The cherry trees in Washington, DC were a gift from Japan. What does th
   history tell us?
 splash_image: /files/quiz_cherries_splash_0.jpg
 thumbnail: /files/quiz_thumbnail/MoMIThumbnail.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Environment
+- Global Contact
+- International Relations
+- Popular Culture, Leisure
+tags:
+- DC
+- District of Columbia
+- Japan
+- Washington DC
+- World War II
+- cherry trees
 ---
 
-
 In 1912, First Lady Helen Taft and Iwa Chinda, wife of Japanese ambassador Sutemi Chinda, oversaw the planting of the first cherry trees, a gift from Japan, around the Washington, DC, Tidal Basin. This spring, the annual National Cherry Blossom Festival celebrates the 100th anniversary of this first planting.
+
 Following the history of goodwill symbols can tell you a lot about how international relations change over time. Are these statements about the cherry trees True or False?

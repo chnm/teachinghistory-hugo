@@ -11,6 +11,15 @@ splash_image_fid: '9330'
 summary: What were the causes of the American Revolution? They were more complicated
   than you might think!
 splash_image: /files/splash-btt-ar.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Ideas & Ideologies
+- Military History
+- Politics
+- Slavery
+- Women
 ---
 
 ## What Textbooks Say

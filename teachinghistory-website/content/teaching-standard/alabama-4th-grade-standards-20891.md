@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20891
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## AL.4. Standard: Alabama Studies
@@ -41,7 +41,9 @@ Fourth-grade students apply geographic concepts obtained in Grade 3 to a study o
   + ##### Grade Level Example:
 
     social—adoption of European culture by American Indians, opening of Alabama land for settlement
+
     political—forced relocation of American Indians, labeling of Andrew Jackson as a hero and propelling him toward Presidency
+
     economic—acquisition of tribal land in Alabama by the United States
 * #### 4.3.2 Students will practice:
 
@@ -75,7 +77,9 @@ Fourth-grade students apply geographic concepts obtained in Grade 3 to a study o
   + ##### Grade Level Example:
 
     cultural—housing, education, religion, recreation
+
     economic—transportation, means of support
+
     political—inequity of legal codes
 * #### 4.6.2 Students will practice:
 
@@ -100,6 +104,7 @@ Fourth-grade students apply geographic concepts obtained in Grade 3 to a study o
   + ##### Grade Level Example:
 
     economic—production of iron products, munitions, textiles, and ships
+
     military—provision of military supplies through the Port of Mobile, provision of armament center at Selma
 * #### 4.8.2 Students will practice:
 
@@ -115,6 +120,7 @@ Fourth-grade students apply geographic concepts obtained in Grade 3 to a study o
   + ##### Grade Level Example:
 
     political issues—military rule, presence of Freedmen’s Bureau, Alabama’s readmittance to the Union
+
     economic issues—sharecropping, tenant farming, scarcity of goods and money
 * #### 4.9.2 Students will practice:
 
@@ -130,6 +136,7 @@ Fourth-grade students apply geographic concepts obtained in Grade 3 to a study o
   + ##### Grade Level Example:
 
     social—implementation of the Plessy versus Ferguson ―separate but equal‖ court decision, birth of the National Association for the Advancement of Colored People (NAACP)
+
     educational—establishment of normal schools and land-grant colleges such as Alabama Agricultural and Mechanical (A&M) University, Auburn University, Tuskegee University, Alabama State University
 * #### 4.10.2 Students will practice:
 
@@ -156,6 +163,7 @@ Fourth-grade students apply geographic concepts obtained in Grade 3 to a study o
   + ##### Grade Level Example:
 
     Impact of the 1920s—increase in availability of electricity, employment opportunities, wages, products, consumption of goods and services; overproduction of goods; stock market crash
+
     Impact of the Great Depression—overcropping of land, unemployment, poverty, establishment of new federal programs
 * #### 4.12.2 Students will practice:
 

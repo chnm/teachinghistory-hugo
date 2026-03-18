@@ -11,6 +11,30 @@ keywords: biographies, presidents, Civil War, war, wars, race, race relations, r
 website_url: http://www.teachingamericanhistory.us/audio/popup_adams.html
 date_published: '2005-07-01T00:00:00'
 series_name: Lectures (Biography), 2004-2005
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Ideas & Ideologies
+- Military History
+- Politics
+- Reform
+- Slavery
+tags:
+- Civil War
+- abolition
+- abolitionism
+- abolitionists
+- biographies
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- slaves
+- war
+- wars
 ---
 
 Professor Kevin Adams reviews the life of Abraham Lincoln, considering the contradictions of his decisions and views on race and in politics. Adams looks at how these contradictions reflected and fit into the context of Lincoln's times.

@@ -15,8 +15,38 @@ summary: Primary sources on Illinois history with an emphasis on residential and
 splash_image: /files/catsplash.jpg
 thumbnail: /files/quiz_thumbnail/quiz-chinesefood-thumbnail.jpg
 image: /files/website_image/DigiPastImage_0.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Business
+- Cities & Suburbs
+- Daily Life
+- Midwestern States
+- Politics
+- Popular Culture, Leisure
+evidence_types:
+- Advertising
+- Architecture
+- Cartoons
+- Film and Video
+- Literary Sources
+- Maps
+- Newspapers and Periodicals
+- Oral History
+- Personal Accounts
+- Photographs
+- Travel
+resource_types:
+- Audio
+- Images
+- Text
+- Video
 ---
 
-
 This website offers an archive of more than 35,000 items from 75 individual collections at nearly 30 institutions in Illinois. Items include black-and-white and color photographs, post cards, audio recordings, maps, books, newspaper articles, newsletters and bulletins, handbills, and film clips. The focus of all the collections is the history of Illinois, its places, and people. A strength of the collections is the large number of photographs of residential and commercial buildings from cities and towns throughout Illinois.
+
 Visitors can browse the contents of all collections by city, organization, or proper name. Once in a collection, other collections can be individually browsed by selecting from the collections dropdown menu. All collections are searchable by such fields as subject, description, creator, publisher, contributors, date, type, or format. Clicking on the thumbnail image brings up a new window with a large image and descriptive data. There are also 14 exhibits on various topics such as "History of Park Ridge, 1841-1926" and "Brides of Yesteryear." This is a useful collection of primary source material on the social and cultural history of Illinois.

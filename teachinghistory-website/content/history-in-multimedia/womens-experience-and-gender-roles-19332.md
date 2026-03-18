@@ -13,6 +13,50 @@ keywords: abolition, abolitionism, abolitionists, activism, activists, class, du
 website_url: http://lincoln.lib.niu.edu/Slideshows/womenslideshow.ram
 date_published: '2008-05-20T00:00:00'
 series_name: Abraham Lincoln Historical Digitization Project Slide Shows
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- American Indians
+- Daily Life
+- Education
+- Ethnicity
+- Family Life
+- Gender
+- Ideas & Ideologies
+- Midwestern States
+- Politics
+- Reform
+- Religion
+- Rural Life
+- Slavery
+- Women
+tags:
+- Illinois
+- Native Americans
+- abolition
+- abolitionism
+- abolitionists
+- activism
+- activists
+- class
+- duels
+- families
+- family
+- frontier
+- middle class
+- pioneers
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- schools
+- settlers
+- slaves
+- teachers
+- teaching
 ---
 
 This lecture, created by the Abraham Lincoln Historical Digitization Project, examines the role of women in 19th-century Illinois. It looks at the development of the idea of separate gender spheres of influence—work for men and the home for women; the application and adaptation of this idea in the frontier; the developing power of women in pushing for social reform; the status of Native American and African-American women; and the gender perceptions of Abraham Lincoln and his wife, Mary Todd.

@@ -9,8 +9,17 @@ duration: 00:06:09
 website_url: http://www.the-map-as-history.com/demos/tome08/03-world_war_II_1941_1942_demo.php
 date_published: '2010-01-01T00:00:00'
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+tags:
+- Africa
+- Japan
+- North Africa
+- Russia
 ---
 
 This animated presentation from [The Map as History](http://www.the-map-as-history.com/) follows the expansion of World War II into a global war. Tracing the war on world maps, it looks at Germany's invasion of Russia and of North Africa—and at the U.S.'s entrance into war with Japan in the Pacific.

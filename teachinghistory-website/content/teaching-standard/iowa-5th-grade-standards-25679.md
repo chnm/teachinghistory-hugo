@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 25679
 grade_levels:
-  - elementary
+- elementary
 ---
 
 (Note: By the completion of fifth grade, Iowa students are expected to master the following standards.)

@@ -17,7 +17,19 @@ summary: A useful gateway site for materials on Carrie Chapman Catt and the wome
   suffrage movement.
 thumbnail: /files/splash-btc-facebookfan.jpeg
 splash_image: /files/Carrie_Chapman_Catt_Childhood_Home_432x240.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Ideas & Ideologies
+- Politics
+- Reform
+- Women
+evidence_types:
+- Personal Accounts
+- Photographs
+resource_types:
+- Images
+- Text
 ---
-
 
 Carrie Chapman Catt's childhood home is a good starting place for research about her work in the suffrage movement. The site provides a 900-word biographical essay of Catt, seven photographs of the 1865 Iowa farmhouse where she grew up, and a 300-word essay about the house, but its primary use is as a gateway to material about Catt and the suffrage movement. The site provides links to more than 100 archival sites, including a collection of 15 recordings of Catt speaking about suffrage. Bibliographies list 20 books, articles, and speeches by Catt, 15 books, articles, and dissertations about Catt, and 24 movies and television documentaries about suffrage. In addition, the site presents a 1,200-word essay by archivist David McCartney about FBI files on Catt.

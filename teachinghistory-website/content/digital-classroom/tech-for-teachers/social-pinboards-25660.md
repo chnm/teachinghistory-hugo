@@ -13,9 +13,15 @@ summary: Organize and share your online finds using online social pinboard servi
 splash_image: /files/splash-tft-pin.jpg
 image: /files/image-tft-pin.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- Collaboration
+- bulletin boards
+- collecting
+- learnist
+- pinboards
+- pinterest
 ---
-
 
 Online social pinboard services let you "pin" images, videos, text, and more (depending on the service) onto virtual bulletin boards.

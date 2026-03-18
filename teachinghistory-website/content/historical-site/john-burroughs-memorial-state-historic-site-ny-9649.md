@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 9649
 website_url: http://www.nysparks.com/historic-sites/3/details.aspx
+time_periods:
+- General
+topics:
+- Environment
+- Literature
+- Mid-Atlantic
+tags:
+- Catskill
+- John Burroughs
+- New York
+- North Blenheim
 ---
 
 The John Burroughs Memorial State Historic Site is located at the final resting place of famed nature writer John Burroughs. Burroughs was buried at a site overlooking a quiet field with majestic views of the Catskill Mountains.
+
 The historic site offers hiking, interpretive signs, and self guided tours. The website offers a brief history of the site and visitor information.

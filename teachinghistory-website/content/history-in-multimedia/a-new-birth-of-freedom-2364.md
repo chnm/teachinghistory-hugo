@@ -12,8 +12,41 @@ keywords: presidents, politicians, oratory, orators, speeches, speechmaking, war
 website_url: http://teachingamericanhistory.org/institutes/2004/lincoln_readings.html
 date_published: '2004-06-25T00:00:00'
 series_name: Abraham Lincoln, Slavery, and the Civil War
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Ethnicity
+- Ideas & Ideologies
+- Literature
+- Media
+- Military History
+- Politics
+- Slavery
+tags:
+- Civil War
+- Reconstruction
+- civil rights
+- generals
+- orators
+- oratory
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- slaves
+- soldiers
+- speeches
+- speechmaking
+- the North
+- the South
+- war
+- wars
 ---
 
 Professors Mackubin T. Owens and Lucas E. Morel discuss Lincoln's second Inaugural Address and his second election as President. They examine what Lincoln's view for the future of the nation was, and also discuss the Northern and Southern troops' and generals' views of each other.
+
 To listen to this lecture, scroll to the Friday, June 25th, 10:45 am-12:15 pm session; and select either the RealAudio image or link in the gray bar to the left of the main body of text.
+
 Older versions of this lecture, from newer to older, can be found [here](http://teachingamericanhistory.org/audio/ram/03-06-27_lincoln_session13.ram) and [here.](http://www.teachingamericanhistory.org/audio/ram/02-08-10_lincoln_session13.ram)

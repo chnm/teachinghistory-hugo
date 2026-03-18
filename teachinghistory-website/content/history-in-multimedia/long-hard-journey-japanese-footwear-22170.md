@@ -10,6 +10,12 @@ keywords: 5/6/2009
 website_url: http://www.kshs.org/p/cool-things-japanese-footwear/10365
 date_published: '2009-05-15T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Global Contact
+- International Relations
+- Military History
 ---
 
 Kansas Museum of History curators discuss the history behind a pair of *geta* sandals that Colonel James C. Hughes brought back from the Bataan Death March, which took place in the Philippines during World War II.

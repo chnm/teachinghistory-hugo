@@ -6,7 +6,34 @@ content_type: historical_site
 draft: false
 drupal_nid: 19495
 website_url: http://www.parks.ca.gov/default.asp?page_id=507
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Business
+- Daily Life
+- Rural Life
+- Science & Tech.
+- Western States
+tags:
+- California
+- blacksmiths
+- bunkhouses
+- gold
+- gold rush
+- homes
+- houses
+- mills
+- miners
+- mines
+- mining
+- museums
+- offices
+- parks
+- smiths
+- stables
 ---
 
 Plumas-Eureka State Park provides visitors with a glimpse into a fascinating period of California history, as well as opportunities for quiet recreation in a high Sierra mountain setting. The focal point of the park is the museum building and historic area surrounding it. Originally constructed as the miner's bunkhouse, the museum now serves as a visitor center. Inside, displays depict the natural and cultural history of the park. Outside and across the street from the museum is the historic mining area, where the Mohawk Stamp Mill, Bushman five-stamp mill, stable, mine office, Moriarity House (historic miner’s residence), and the blacksmith shop depict life in gold rush-era California.
+
 The park offers exhibits, tours, and demonstrations.

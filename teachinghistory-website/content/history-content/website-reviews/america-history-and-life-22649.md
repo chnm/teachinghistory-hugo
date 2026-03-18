@@ -15,7 +15,11 @@ summary: Peruse bibliographies and abstracts of scholarly articles, reviews, and
 splash_image: /files/AmericaHistory432x240.jpg
 thumbnail: /files/quiz-alien_invasions.pdf
 image: /files/website_image/AmHistoryandLifeImage.jpg
+topics:
+- Literature
+- Media
+resource_types:
+- Data
 ---
-
 
 This website provides abstracts of scholarly literature and bibliographic data for all major historical journals on the history and culture of the U.S. and Canada as well as historical abstracts for world history. Users can search by keyword or subject term, can limit a search by type of resource, such as articles, book reviews, media reviews, collections, and dissertations/theses, and can search for materials in one of five languages (English, French, German, Russian, or Spanish). *CLIO Notes* presents chronologies and brief summaries of events and themes in American history. Users may browse 19 broad time periods to find more specific topics and events.

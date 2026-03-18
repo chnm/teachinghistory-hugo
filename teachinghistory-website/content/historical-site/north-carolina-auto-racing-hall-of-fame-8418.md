@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 8418
 website_url: http://www.ncarhof.com
+time_periods:
+- General
+topics:
+- Popular Culture, Leisure
+- Science & Tech.
+- Southern States
+tags:
+- automobiles
+- racing
+- sports
 ---
 
 The North Carolina Auto Racing Hall of Fame presents the heritage of motorsports and the cultural contributions thereof. The museum, dedicated to all types of racing, features over 35 cars on display.
+
 The Hall of Fame offers exhibits and a film.

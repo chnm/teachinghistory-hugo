@@ -11,8 +11,13 @@ image_fid: '1056'
 summary: The term Asian Pacific American covers millions of people, thousands of cultures,
   and dozens of countries.
 image: /files/commonground.jpg
+topics:
+- Asian Americans
+tags:
+- asian american
+- holidays and heritage
+- teaching materials
 ---
-
 
 Asian Pacific Heritage Month, a celebration of Asian and Pacific islanders living in the United States, began as a 10-day observance in 1977. Congress passed Pub. L. 95-419 which requested the President to issue a proclamation designating the seven-day period beginning on May 4, 1979 as Asian/Pacific American Heritage Week. In 1978, President Carter spoke of the significant role Asian-Americans have played in the creation of a dynamic and pluralistic American society and made the observation an annual event. Then, in 1990, President George H.W. Bush proclaimed the entire month of May to be Asian Pacific American Heritage Month.
 
@@ -27,11 +32,13 @@ The U.S. Census Bureau lists over 25 Asian and Pacific Islander groups. This inc
 ## What online resources do you recommend?
 
 The [2008 website on Asian Pacific Heritage Month](http://asianpacificheritage.gov/) from the [Library of Congress](http://www.loc.gov/index.html) offers a gateway to collections and exhibitions that emphasize the individual cultures of Asian Pacific Americans such as this [collection of art from ancient Cambodia](http://www.nga.gov/exhibitions/cambodia/camrmenter-0.htm) at the [National Gallery of Art](http://www.nga.gov) or this presentation on [The Chinese in California](http://memory.loc.gov/ammem/award99/cubhtml/) which includes essays, images, and primary source materials.
+
 The [Veterans History Project](http://www.loc.gov/vets/stories/ex-war-asianpacific.html) highlights the contributions of Asian Pacific Americans to America's wartime efforts. The presentation highlights eight stories from World War II, Korea, Vietnam, and Iraq, with special emphasis on the 442nd Regimental Combat Team, the "Go for Broke" outfit of Japanese Americans who fought valiantly in Europe during World War II. Many of these men put their lives on the line for their country while their families were confined to internment camps back in the States.
 
 ## What about lesson plans?
 
 [AskAsia.org](http://www.askasia.org/) is an educational website for students and teachers. This presentation looks at 30 countries that comprise Asia today and offers dozens of educational activities, from short skill builders to project-based curriculum units. Master teachers created the units; scholars edited them. Maps, images, and an annotated national directory of Asia-related resources are also available.
+
 The special [For Students](http://askasia.org/students/) section looks at global issues, politics, and daily lives through student-created essays and documentaries. This dense multimedia resource emphasizes current issues, people, and points of view.
 
 ## Does the Clearinghouse have any materials related to Asian Pacific Americans?

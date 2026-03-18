@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 22093
 website_url: http://www.mennellomuseum.org/
+time_periods:
+- General
+topics:
+- Art
+- Southern States
+tags:
+- folk art
 ---
 
 The Mennello Museum of American Art focuses on American folk art.
+
 The museum presents exhibits.

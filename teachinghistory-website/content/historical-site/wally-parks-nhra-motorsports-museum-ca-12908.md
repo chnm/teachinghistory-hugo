@@ -6,7 +6,21 @@ content_type: historical_site
 draft: false
 drupal_nid: 12908
 website_url: http://museum.nhra.com/
+time_periods:
+- General
+topics:
+- Popular Culture, Leisure
+- Science & Tech.
+- Western States
+tags:
+- California
+- automobile racing
+- automobiles
+- dragsters
+- hot rods
+- restoration
 ---
 
 The Wally Parks NHRA Motorsports Museum addresses the impact of motorsports on U.S. culture. Collections include dragsters, hot rods, and artifacts pertinent to the history of automobile racing. The site includes a garage where visitors can view restorations in progress and talk with the restoration specialists.
+
 The museum offers exhibits.

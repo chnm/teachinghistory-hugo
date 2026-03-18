@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21502
 grade_levels:
-  - high
+- high
 ---
 
 * ### Strand / Topic: Virginia and United States Government

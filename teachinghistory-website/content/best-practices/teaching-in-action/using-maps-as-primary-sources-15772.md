@@ -24,10 +24,24 @@ splash_image: /files/Using_Maps_as_Primary_Sources_-_432x240.jpg
 image: /files/smithmap_large_0.jpg
 author_image: /files/author_image/StacyHoeflich75x75.jpg
 grade_levels:
-  - elementary
+- elementary
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Environment
+- Global Contact
+- Mid-Atlantic
+- Southern States
+tags:
+- Classroom in Action
+- John Smith
+- Maps
+- Powhatan
+- Virginia
+- primary sources
 ---
-
-
 
 /files/media/video/TIA\_Stacy5.mp4
 

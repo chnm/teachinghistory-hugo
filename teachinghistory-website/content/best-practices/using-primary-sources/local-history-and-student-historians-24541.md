@@ -19,12 +19,16 @@ summary: So you don't live near Gettysburg or the Alamo—can you still teach wi
 splash_image: /files/localhistory_0.jpg
 author_image: /files/author_image/Percoco_author_1.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- battlefields
+- james a. percoco
+- memorials
+- monuments
+- teaching with place
 ---
-
-
 
 /files/media/video/UPS\_James5.mp4
 

@@ -13,7 +13,37 @@ website_url: http://www.fpri.org/multimedia/20080726.zelner.revolutionarywar.htm
 date_published: '2008-07-26T00:00:00'
 series_name: 'What Students Need To Know About America’s Wars, Part I: 1622–1919:
   A History Institute for Teachers'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Global Contact
+- International Relations
+- Military History
+- Politics
+tags:
+- American Revolution
+- Britain
+- British
+- England
+- English
+- Great Britain
+- Native Americans
+- Revolutionary War
+- colonies
+- colonists
+- colonizations
+- lectures
+- militaries
+- military
+- race
+- race relations
+- war
+- wars
 ---
 
 Kyle Zelner of the University of Southern Mississippi discusses the military history of British North America prior to the Revolutionary War, arguing for the significance of this history to both military and general U.S. history overall. Zelner also covers the Revolutionary War itself. This lecture was part of "What Students Need To Know About America's Wars, Part I: 1622-1919: A History Institute for Teachers," held July 26-27, 2008, at the First Division Museum in Wheaton, IL, sponsored by the Foreign Policy Research Institute's Wachman Center and by the Cantigny First Division Foundation.
+
 Video and audio options are available.

@@ -15,7 +15,40 @@ summary: Follow the formation of the African American community in the city of H
 thumbnail: /files/SayItPlain432x240.jpg
 splash_image: /files/hartford.jpg
 image: /files/website_image/HartBlacImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Art
+- Cities & Suburbs
+- Daily Life
+- Labor
+- Legal History
+- Military History
+- New England
+- Politics
+- Popular Culture, Leisure
+- Religion
+- Slavery
+evidence_types:
+- Maps
+- Newspapers and Periodicals
+- Official Documents
+- Paintings and Prints
+- Photographs
+- Quantitative Evidence
+resource_types:
+- Data
+- Images
+- Text
 ---
-
 
 Provides two exhibits on black history in Hartford, CT. "A Struggle from the Start" charts stages in the life of the Hartford African-American community from 1638 to 1920. Structured in five chronological sections, each with three-to-four thematic subsections, a text of 21,000 words is punctuated with approximately 60 images of documents, photographs, illustrations, newspaper clippings, tables, paintings, and maps. This exhibit covers slavery, black codes, free blacks, Black governors in the early Republic period, black soldiers, the black bourgeoisie, the formation of the black community, black labor, black society, black churches, the "Talented Tenth" in Hartford, black painters Charles Ethan Porter and Holdridge Primus, black migration from the South, mass politics, and black community institutions. A second exhibit presents approximately 80 photographs from Hartford's African-American community covering the years 1870 to the 1970s. Valuable for those interested in studying African-American history from a community perspective.

@@ -9,7 +9,12 @@ duration: 00:54:00
 website_url: http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=5190
 date_published: '2011-04-21T00:00:00'
 series_name: The Library of Congress Webcasts
+tags:
+- Cuba
+- Florida history
+- Ponce de Leon
 ---
 
 From The Library of Congress Webcasts site:
+
 "In the annual Kislak Lecture, Miguel Bretos looks at the Cuban presence in 'La Florida' from the time of Ponce de Leon, almost 500 years ago, through the late 20th century."

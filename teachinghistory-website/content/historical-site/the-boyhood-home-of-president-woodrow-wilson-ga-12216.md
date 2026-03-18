@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 12216
 website_url: http://www.WilsonBoyhoodHome.org/index.cfm
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Children
+- Daily Life
+- Family Life
+- Politics
+- Southern States
 ---
 
 Woodrow Wilson spent his childhood in Augusta Georgia in this house. Today, the house functions as a museum dedicated to Wilson's early life.
+
 School tours of the house were developed with Georgia teaching standards in mind. Teacher resources have also been developed for the site.

@@ -13,7 +13,14 @@ summary: Securing the blessings of liberty for ourselves and for posterity—ans
   these questions on the U.S. Constitution.
 splash_image: /files/splash-constitutionday2010.jpg
 thumbnail: /files/quiz_thumbnail/HistAtlaThumbnail.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Education
+- Politics
+tags:
+- Connecticut
+- U.S. Constitution
 ---
-
 
 September 17th is Constitution Day in the United States, the anniversary of the day in 1787 when the delegates to the U.S. Constitutional Convention signed the Constitution. Can you choose the right answers to the following questions?

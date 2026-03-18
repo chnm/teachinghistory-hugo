@@ -16,8 +16,35 @@ summary: Houses more than 3,500 full-text documents addressing the legal, econom
   and political history of the U.S.
 splash_image: /files/Avalon_Project-_Documents_in_Law_History_and_Government_432x240.jpg
 image: /files/website_image/avalonproject.jpg
+time_periods:
+- All
+- General
+topics:
+- Economy
+- International Relations
+- Legal History
+- Literature
+- Media
+- Military History
+- Politics
+evidence_types:
+- Official Documents
+- Political Documents
+- Speeches
+resource_types:
+- Text
+tags:
+- 9/11
+- Cold War
+- Confederacy
+- Confederate States of America
+- Federalist
+- World War II
+- federalist papers
+- politicians
+- the Federalist
 ---
 
-
 The more than 3,500 full-text documents available on this website address the legal, economic, political, diplomatic, and government history of the U.S. Documents are divided into five time periods—pre-18th, 18th, 19th, 20th, and 21st centuries—and include treaties, presidential papers and addresses, and colonial charters, as well as state and federal constitutional and legal documents.
+
 The materials are categorized into 64 document collections as well, such as American Revolution, Federalist Papers, slavery, Native Americans, Confederate States of America, World War II, Cold War, Indochina, Soviet-American diplomacy, and September 11, 2001. By clicking "What's New," the latest digitized documents become available. Material also can be accessed through an alphabetical list of 350 more specific categories, keyword searching, and advanced searching. Most of these documents are directly related to American history, but the site includes some materials on European and modern diplomatic history.

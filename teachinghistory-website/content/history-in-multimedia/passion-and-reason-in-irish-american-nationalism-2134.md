@@ -11,6 +11,33 @@ keywords: ethnicity, Ireland, Irish, Irish-Americans, Canada, Irish-Canadians, j
 website_url: http://dev.forum-network.org/lecture/passion-and-reason-irish-american-nationalism
 date_published: '2006-09-27T00:00:00'
 series_name: Irish Culture
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Education
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- Immigration
+- International Relations
+- Literature
+- Media
+- New England
+- Politics
+tags:
+- Boston
+- Canada
+- Ireland
+- Irish
+- Irish-Americans
+- Irish-Canadians
+- ethnicity
+- journalism
+- journalists
+- poetry
+- poets
+- politicians
 ---
 
 Professor David Wilson introduces the life and times of Thomas D'Arcy McGee (1826-1868), an Irish-Canadian journalist, poet, politician, and critic of Irish republicanism. McGee lived in the United States from 1842 to 1845 and from 1848 to 1857.

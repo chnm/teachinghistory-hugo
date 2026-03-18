@@ -11,6 +11,22 @@ keywords: flags, battles, artifacts, objects, Revolutionary War, generals, Engla
 website_url: http://podcast.history.org/2008/08/11/captured-colors/
 date_published: '2008-08-11T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+tags:
+- American Revolution
+- England
+- English
+- Revolutionary War
+- artifacts
+- battles
+- colonies
+- colonists
+- flags
+- generals
+- objects
 ---
 
 Curator Erik Goldstein talks about four Patriot flags known to have been captured by Banastre Tarleton during the American Revolution.

@@ -22,15 +22,23 @@ summary: Passionate project directors can spell the difference between successfu
 splash_image: /files/OvercomeYourTeachingSplash.jpg
 image: /files/Director.jpg
 author_image: /files/author_image/kevin_0.jpg
+tags:
+- TAH
+- Teaching American History
+- department of education
+- grants
+- professional development
+- project management
+- recruitment
 ---
 
-
-
 The Teaching American History (TAH) grant has to rank as one of the most productive investments of taxpayers' dollars that the Department of Education has ever made in teacher professional development. Having been involved in more than 70 TAH grants since 2001, I have witnessed remarkable transformations in teachers' content knowledge and in classroom teaching methods, along with salient increases in student achievement that have been nothing short of inspiring.
+
 Of all the types of TAH grants that we have been involved with, the one common element of highly successful grants has been a passionate project director (PD). Successful PDs all have strong leadership skills that include grasping the big picture—seeing the benefits of the grant well beyond the immediate confines of the yearly cohort of teachers. Even if the grant has a good steering committee of teachers, without a competent PD the grant often stagnates from the paralyzing effects of death by committee and debate.
 > . . . the one common element of highly successful grants has been a passionate project director . . .
 
 TAH grants are ". . . designed to raise student achievement by improving teachers' knowledge and understanding of and appreciation for traditional U.S. history . . . these programs will improve instruction and raise student achievement." On the American Institute for History Education's (AIHE) Liberty Fellowship models for TAH grants, the focus is directed straight as a laser beam toward meeting those DOE objectives. Unfortunately, some grants that we have been involved with as a partner or as a minor partner lose that focus and float adrift like a rudderless ship on a stormy sea. In every one of these cases, the lack of directed focus can be traced to an uncommitted PD.
+
 After reviewing the many grants we are involved with, the one area that really sets the tone for the three-year success of the grant starts with recruitment. A good recruitment program provides a solid structure that avoids the many challenges that plague some TAH grants. Most Fellowships have overflow numbers and waiting lists, while some grants struggle anemically to fill the available seats. The common quality we see in the well-attended Fellowships is the dynamism of the PD or the person designated to organize the grant. Grants that don't recruit large numbers seem to have similar subsequent problems that only magnify throughout the three years unless firm corrective action is taken.
 > A good recruitment program provides a solid structure that avoids the many challenges that plague some TAH grants.
 

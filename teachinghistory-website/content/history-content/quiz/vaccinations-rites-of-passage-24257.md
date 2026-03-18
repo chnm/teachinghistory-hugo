@@ -13,7 +13,17 @@ summary: Have *you* had your shots? Which childhood diseases do these public hea
   announcements address?
 splash_image: /files/Vaccination_0.jpg
 thumbnail: /files/quiz_thumbnail/AdveWorlThumbnail.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Children
+- Education
+- Health & Medicine
+- Media
+tags:
+- vaccinations
 ---
-
 
 Vaccination—introducing dead or weakened versions of germs into the body to promote the production of antibodies and create immunity to a disease—has been practiced for at least 200 years, making it a chronological "peer" of the United States. Which childhood diseases do these American public health announcements address?

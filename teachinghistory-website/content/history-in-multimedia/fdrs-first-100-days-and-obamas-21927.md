@@ -14,7 +14,15 @@ splash_image_fid: '4062'
 summary: FDR and Obama, both leaders of the United States during economic downturns.
   How do their initial actions compare?
 splash_image: /files/FDRsFirst100Splash.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Economy
+- Politics
+tags:
+- Great Depression
+- politicians
+- presidents
 ---
-
 
 Anthony J. Badger, author of the new book *FDR: The First Hundred Days*, talks about FDR's first 100 days and how they have been interpreted by historians across the political spectrum.

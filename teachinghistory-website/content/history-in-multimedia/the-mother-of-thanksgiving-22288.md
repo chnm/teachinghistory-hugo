@@ -13,8 +13,20 @@ splash_image_fid: '8407'
 summary: Historian Anne Blue Wills tells the story of Sarah Josepha Hale, a New England
   magazine editor who campaigned tirelessly to put Thanksgiving on our national calendar.
 splash_image: /files/splash-him-vd24.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Family Life
+- Gender
+- Ideas & Ideologies
+- Immigration
+- Media
+- New England
+- Religion
 ---
 
-
 From the BackStory [website](http://backstoryradio.org/the-mother-of-thanksgiving/):
+
 "Historian Anne Blue Wills tells the story of Sarah Josepha Hale, a New England magazine editor who campaigned tirelessly to put Thanksgiving on our national calendar."

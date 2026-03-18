@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21020
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### GA.SS6H. Strand/topic: Latin America and Canada

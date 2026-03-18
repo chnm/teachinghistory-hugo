@@ -11,7 +11,31 @@ keywords: Nevada, California, Civil War, writing, writers, authors, war, wars, h
 website_url: http://bancroft.berkeley.edu/info/lectures.html
 date_published: '2002-01-24T00:00:00'
 series_name: California History Lectures
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Daily Life
+- Ideas & Ideologies
+- Literature
+- Media
+- Military History
+- Rural Life
+- Western States
+tags:
+- California
+- Civil War
+- Mark Twain
+- Nevada
+- authors
+- humor
+- humorists
+- war
+- wars
+- writers
+- writing
 ---
 
 This lecture chronicles Samuel Clemens's travels to Nevada and California from his home state of Mississippi, beginning in 1861. At this time, Clemens was an out-of-work river pilot; the lecture follows his development into the famous writer he would become and includes readings from fragments of his writing recovered from Civil-War-era journals and newspapers.
+
 To listen to this lecture, scroll to "Heaven on the Half-Shell: Mark Twain in California," and select "Listen to Broadcast."

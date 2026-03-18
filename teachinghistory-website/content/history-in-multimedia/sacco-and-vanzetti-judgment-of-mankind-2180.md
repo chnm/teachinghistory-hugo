@@ -12,6 +12,43 @@ keywords: crimes, crime, criminals, trials, murders, murderers, murders, robberi
   policy, mass media, media coverage, reporting, reportage
 website_url: http://dev.forum-network.org/lecture/sacco-and-vanzetti-judgment-mankind
 date_published: '2007-08-21T00:00:00'
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Ethnicity
+- Ideas & Ideologies
+- Immigration
+- International Relations
+- Legal History
+- Media
+- New England
+- Politics
+- Radicalism
+- Reform
+tags:
+- Boston
+- Italian-Americans
+- Italians
+- Massachusetts
+- anarchists
+- anarchy
+- crime
+- crimes
+- criminals
+- foreign policy
+- foreign relations
+- immigrants
+- murderers
+- murders
+- protest
+- protesters
+- protests
+- reporting
+- robberies
+- robbers
+- robbery
+- trials
 ---
 
 Author Bruce Watson describes the lives and trials of Ferdinand Sacco (1891-1927) and Bartolomeo Vanzetti (1888-1927), Italian-born anarchists charged with the armed robbery and murder of two Massachusetts payroll clerks in 1920. The case, which ended in Sacco and Vanzetti's execution in 1927, drew worldwide attention and criticism, for the alleged anti-immigrant, anti-Italian, and anti-anarchist sentiments that colored it and the uncertain guilt of the men. The presentation includes slides.

@@ -11,6 +11,21 @@ keywords: Federalists, federalism, Antifederalists, Republicans, politicians, po
 website_url: http://www.teachingamericanhistory.us/tah_2/speakers/einhorn3.html
 date_published: '2006-06-26T00:00:00'
 series_name: 'History Grows in Oakland: Lectures'
+time_periods:
+- General
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Politics
+tags:
+- Antifederalists
+- Federalists
+- Republicans
+- federalism
+- government
+- party systems
+- political parties
+- politicians
 ---
 
 Professor Robin Einhorn seeks to define the concept of federalism in U.S. government, detailing what precisely a federal government entails. She looks at how the term has been used and changed over U.S. history.

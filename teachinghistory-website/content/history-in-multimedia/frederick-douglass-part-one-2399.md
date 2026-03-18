@@ -12,8 +12,43 @@ keywords: slaves, race, racism, race relations, emancipation, abolition, aboliti
 website_url: http://teachingamericanhistory.org/institutes/2004/race_readings.html
 date_published: '2004-08-02T00:00:00'
 series_name: Race and Rights in American History
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Radicalism
+- Reform
+- Slavery
+tags:
+- Africa
+- Back-to-Africa
+- Back-to-Africa Movement
+- Israel
+- abolition
+- abolitionism
+- abolitionists
+- emancipation
+- emigration
+- emigrationists
+- orators
+- oratory
+- race
+- race relations
+- racism
+- slaves
+- speeches
+- speechmaking
 ---
 
 Professor Diana Schaub reviews the life and views of abolitionist Frederick Douglass, particularly his criticism of emigration of freed slaves as a solution to race relations in the U.S. and his own views on how race relations could be improved.
+
 To listen to this lecture, scroll to the Monday, August 2nd, 10:50 am-12:15 pm session; and select either the RealAudio image or link in the gray bar to the left of the main body of text.
+
 An older version of this lecture can be found [here.](http://teachingamericanhistory.org/audio/ram/03-08-04_race_session3.ram)

@@ -11,8 +11,19 @@ summary: How do the buildings and artifacts at Mount Vernon reflect the lives of
   people who lived and worked there? Educators explore the slave quarters and question
   what they find.
 splash_image: /files/vernonsplash_0.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Daily Life
+- Slavery
+tags:
+- George Washington
+- mount vernon
+- presidents
+- professional development
 ---
-
 
 /files/media/video/mountvernon1.mp4
 

@@ -9,7 +9,18 @@ duration: 00:31:14
 website_url: http://www.kshs.org/p/cool-things-african-american-officer-s-saber/16803
 date_published: '2011-04-20T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+topics:
+- African Americans
+- Global Contact
+- International Relations
+- Military History
+tags:
+- John Brown
+- Spanish-American War
 ---
 
 From the Kansas State Historical Society website:
+
 "African American soldiers were rare during the Civil War, and black officers almost non-existent. Thirty years later, Major John Brown from Topeka led soldiers to Cuba during the Spanish-American War using this saber."

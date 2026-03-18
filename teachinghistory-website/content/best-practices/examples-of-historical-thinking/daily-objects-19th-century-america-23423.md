@@ -19,12 +19,25 @@ spotlight: In this series of videos, historian David Jaffee examines life in 19t
 splash_image: /files/DailyObjects432x240.jpg
 author_image: /files/author_image/David_author2_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Art
+- Business
+- Consumer Culture
+- Environment
+- Media
+- Popular Culture, Leisure
+- Western States
+tags:
+- furniture
+- portraits
 ---
-
-
 
 /files/media/video/David1.mp4
 

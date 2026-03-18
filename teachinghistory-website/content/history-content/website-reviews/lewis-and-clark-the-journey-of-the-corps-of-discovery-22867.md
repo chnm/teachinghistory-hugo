@@ -15,8 +15,28 @@ summary: Visit the companion site to the Ken Burns documentary which chronicles 
 splash_image: /files/splash-wr-lct.jpg
 thumbnail: /files/A_Map_of_the_United_States_1864.pdf
 image: /files/website_image/LewisandClarkDocumentary_Image.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Global Contact
+- Western States
+evidence_types:
+- Film and Video
+- Oral History
+- Personal Accounts
+- Photographs
+resource_types:
+- Audio
+- Images
+- Text
+- Video
+tags:
+- Lewis and Clark Expedition
+- Meriwether Lewis
+- William Clark
 ---
 
-
 A PBS companion site for the film *The Journey of the Corps of Discovery* by Ken Burns. The site contains brief biographies of members of the expedition, historical sketches of the Native American tribes encountered by Lewis and Clark, a semi-searchable selection of transcribed journal excerpts from seven expedition members, over 800 minutes of unedited interviews with scholars and other specialists, over 30 links to related websites, a bibliography, and an interactive story section.
+
 The site also offers teaching resources, including lesson plans and printable activity sheets, as well as a video interview and email forum with filmmaker Ken Burns. An easily navigated site.

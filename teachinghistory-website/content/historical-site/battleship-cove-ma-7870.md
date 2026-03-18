@@ -6,7 +6,26 @@ content_type: historical_site
 draft: false
 drupal_nid: 7870
 website_url: http://www.battleshipcove.org
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+- New England
+- Science & Tech.
+tags:
+- Battleship
+- Battleship Cove
+- Massachusetts
+- Memorial
+- World War II
+- battleships
+- boats
+- monument
+- navy
+- ships
+- warship
 ---
 
 Battleship Cove is the largest collection of historic naval ships in the world. The cove boasts four large World War II-era battleships, along with a collection of smaller boats and naval helicopters.
+
 The cove offers a variety of tours which can be adapted to any age group, a collection of naval ships available for tours, and a small museum with naval history exhibits. The website offers historical information regarding all of the cove's ships, visitor information, and an events calendar.

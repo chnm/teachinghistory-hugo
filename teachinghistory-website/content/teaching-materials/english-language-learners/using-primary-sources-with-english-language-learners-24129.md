@@ -78,12 +78,10 @@ splash_image: /files/Hall_img1.jpg
 image: /files/Hall_refugee.jpg
 author_image: /files/author_image/Hall.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
-
-
 
 Finding creative ways to include English Language Learners in classroom activities can be challenging regardless of the teacher’s dedication. One activity that I have found to be successful with all of my students, including those with limited English proficiency, is a primary source analysis activity. This activity can be used in relation to any topic of study. Follow these steps:
 

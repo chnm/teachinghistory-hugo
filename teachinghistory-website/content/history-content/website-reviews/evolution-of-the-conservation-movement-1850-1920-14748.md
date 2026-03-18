@@ -16,8 +16,46 @@ summary: Documents the birth of the conservation movement through published work
   manuscripts, images, and motion picture footage.
 splash_image: /files/Evolution_of_the_Conservation_Movement_1850-1920_432x240.jpg
 image: /files/website_image/14748.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Art
+- Environment
+- Ideas & Ideologies
+- Legal History
+- Literature
+- Media
+- Politics
+- Popular Culture, Leisure
+- Reform
+evidence_types:
+- Film and Video
+- Newspapers and Periodicals
+- Official Documents
+- Paintings and Prints
+- Photographs
+resource_types:
+- Images
+- Text
+- Video
+tags:
+- U.S. Congress
+- Yosemite
+- conservation
+- conservation movement
+- conservationists; muir
+- government documents
+- john; roosevelt
+- parks
+- photographs
+- politicians
+- presidents
+- theodore; national parks
+- travel
 ---
 
-
 These published works, manuscripts, images, and motion picture footage address the formation of the movement to conserve and protect America's natural heritage. Materials include 62 books and pamphlets, 140 Federal statutes and Congressional resolutions, 34 additional legislative documents, and excerpts from the *Congressional Globe* and the *Congressional Record.* An additional 360 presidential proclamations, 170 prints and photographs, two historic manuscripts, and two motion pictures are available.
+
 Materials include Alfred Bierstadt paintings, period travel literature, a photographic record of Yosemite, and Congressional acts regarding conservation and the establishment of national parks. An annotated chronology discusses events in the development of the conservation movement with links to pertinent documents and images.

@@ -19,11 +19,23 @@ summary: Looking for new ideas on how to teach with the historic places in your 
 splash_image: /files/HistPlaces2Splash2.jpg
 author_image: /files/author_image/NPS.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Mid-Atlantic
+- Military History
+- Southern States
+tags:
+- National Park Service
+- analyzing place
+- historic places
+- james a. percoco
+- material culture
+- models of analysis
+- strategies and lessons
 ---
-
-
 
 /files/media/video/twhp-1.mp4
 

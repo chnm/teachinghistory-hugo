@@ -12,10 +12,31 @@ website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-04-30T00:00:00'
 series_name: Abraham Lincoln's Biography Video
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Ethnicity
+- Ideas & Ideologies
+- Politics
+- Reform
+- Slavery
+tags:
+- Back-to-Africa
+- colonies
+- colonization
+- emigration
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- slaves
 ---
 
 Michael Johnson of John Hopkins University discusses Lincoln's views on race, focusing on his favoring of colonization as a solution to race tensions.
+
 To view this clip, select "Lincoln's Ideas About Race" under "Abraham Lincoln's Biography Video."

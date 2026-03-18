@@ -9,7 +9,12 @@ duration: 00:35:41
 website_url: http://www.spymuseum.org/spycasts/spying-soviet-army-east-germany
 date_published: '2011-01-05T00:00:00'
 series_name: SpyCast
+time_periods:
+- Contemporary US, 1968-Present
+tags:
+- Cold War
 ---
 
 According to the SpyCast website:
+
 "During the Cold War, the United States, the United Kingdom, and France each had a 'military liaison mission' authorized to roam East Germany. While the fiction was that they existed to coordinate military affairs with the Soviets in Germany, the reality was that they collected intelligence on the Soviet military. Join Spy Museum Historian Mark Stout as he talks with Brigadier General Roland Lajoie, a former chief of the US Military Liaison Mission, about the accomplishments, adventures, and tragedies of these little known spies in uniform."

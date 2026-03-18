@@ -10,6 +10,15 @@ keywords: primary sources, secondary sources, historians
 website_url: http://www.pbs.org/opb/historydetectives/video/1484875806/
 date_published: '2008-12-18T00:00:00'
 series_name: 'History Detectives: Video Library'
+time_periods:
+- All
+- General
+topics:
+- Education
+tags:
+- historians
+- primary sources
+- secondary sources
 ---
 
 Gwen Wright of PBS's *History Detectives* discusses resources for historical research, looking particularly at primary sources and their importance in historical research.

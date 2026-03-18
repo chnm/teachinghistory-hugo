@@ -11,7 +11,33 @@ keywords: Native Americans, archaeology, archaeologists, artifacts, colonies, co
 website_url: http://www.virginiaexperiment.com/index.php?option=com_content&task=view&id=15
 date_published: '2007-04-19T00:00:00'
 series_name: 'The Virginia Experiment: Speaker Seminar Series'
+time_periods:
+- All
+- Colonization & Settlement, 1585-1763
+- General
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Daily Life
+- Global Contact
+- International Relations
+- Mid-Atlantic
+- New England
+- Rural Life
+- Science & Tech.
+- Southern States
+tags:
+- Native Americans
+- archaeologists
+- archaeology
+- artifacts
+- colonies
+- colonists
+- colonization
+- race
+- race relations
 ---
 
 Dr. Julie Solometo of James Madison University attempts to reconstruct the lives of Native Americans as they stood on the eve of and during contact with European colonists in North America.
+
 To listen to this lecture, select "Podcast Part 1" under the April 19th listing.

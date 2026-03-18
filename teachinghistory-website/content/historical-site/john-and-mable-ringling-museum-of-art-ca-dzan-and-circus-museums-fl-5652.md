@@ -6,7 +6,36 @@ content_type: historical_site
 draft: false
 drupal_nid: 5652
 website_url: http://www.ringling.org/
+time_periods:
+- All
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- General
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Art
+- Business
+- Children
+- Consumer Culture
+- Daily Life
+- Media
+- Popular Culture, Leisure
+- Southern States
+tags:
+- Florida
+- circuses
+- entertainment
+- homes
+- houses
+- museums
+- performance
+- performances
+- performers
+- performing art
 ---
 
 Located on a 66-acre estate on Sarasota Bay, the John and Mable Ringling Museum of Art was established in 1927 as the legacy of John Ringling (1866–1936) and his wife, Mable (1875–1929). Recognized as the official State Art Museum of Florida, the Museum of Art offers 21 galleries of European paintings as well as Cypriot antiquities, Asian art, American paintings, and contemporary art. The Ulla R. and Arthur F. Searing Wing hosts a variety of traveling exhibitions throughout the year. The estate features the spectacular Cà d'Zan ("House of John"), a waterfront mansion that was restored in 2002. The Circus Museums, including the Tibbals Learning Center, display the world's largest miniature circus, costumes, wagons, performance equipment, and other artifacts chronicling the history of the Circus. The estate also features Mable Ringling's Rose Garden, completed in 1913, and beautifully landscaped grounds overlooking Sarasota Bay.
+
 The museums offer exhibits and tours; the Ca d'Zan offers tours; the museum complex as a whole offers performances, lectures, film screenings, educational programs, research library access, educational and recreational events.

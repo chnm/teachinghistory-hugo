@@ -17,8 +17,10 @@ summary: Keep track of and share notes with this tool for teachers or students.
 splash_image: /files/evernotesplash.jpg
 image: /files/evernoteimage.jpg
 author_image: /files/author_image/author_wiebe_0_0_0.jpeg
+tags:
+- collecting
+- evernote
+- visualization
 ---
-
-
 
 Keep track of research and collect assignments with this web-based note-taking tool.

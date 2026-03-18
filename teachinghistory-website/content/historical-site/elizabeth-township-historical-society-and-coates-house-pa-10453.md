@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 10453
 website_url: http://www.familytreetracer.com/index.html
+time_periods:
+- General
+topics:
+- Daily Life
+- Mid-Atlantic
+tags:
+- Pennsylvania
 ---
 
 The Elizabeth Township Historical Society seeks to preserve and share the history of the communities within a 35-mile radius of Elizabeth Township, PA. The society operates and maintains two cemeteries and the Coates House, which contains the society's administrative offices, a museum, and the Golda B. Abraham Memorial Library.
+
 The society offers exhibits and research assistance. Research assistance requires payment.

@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 9679
 website_url: http://www.nps.gov/tuma/index.htm
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- American Indians
+- Ideas & Ideologies
+- Religion
+- Western States
+tags:
+- Mission
+- Spanish
+- Tumacacori
 ---
 
 Tumacacori National Historical Park protects three Spanish colonial mission ruins in southern Arizona. Each of the ruins has a modern adobe structure on it, and the Tumacacori ruin now is home to the park visitor center.
+
 The park offers hiking, guided tours, ranger-led activities, presentations, field trip programs, and a traveling trunk program. The website offers historical and cultural information about the park, visitor information, and online curriculum materials. In order to contact the park, use the "contact us" link located on the left side of the webpage.

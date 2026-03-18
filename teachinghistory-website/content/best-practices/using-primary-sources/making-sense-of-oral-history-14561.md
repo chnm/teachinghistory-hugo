@@ -15,10 +15,12 @@ spotlight: Oral histories and interviews are a unique form of historical documen
   to be adapted for elementary students, the ideas Shopes presents are extremely useful.
 splash_image: /files/OralHistorySplash.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Analyzing Oral Histories
+- oral history
 ---
-
 
 [Making Sense of Oral History](http://historymatters.gmu.edu/mse/oral/) offers a place for students and teachers to begin working with oral history interviews as historical evidence. Written by Linda Shopes, this guide presents an overview of oral history and ways historians use it; tips on what questions to ask when reading or listening to oral-history interviews; a sample interpretation of an interview; an annotated bibliography; and a guide to finding and using oral history online. Linda Shopes is a historian at the Pennsylvania Historical and Museum Commission.

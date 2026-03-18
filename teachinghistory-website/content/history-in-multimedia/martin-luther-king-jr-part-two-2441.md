@@ -12,7 +12,38 @@ keywords: Civil Rights Movement, civil rights, civil disobedience, protest, prot
 website_url: http://teachingamericanhistory.org/seminars/2003/myers.html
 date_published: '2003-11-15T00:00:00'
 series_name: Free Saturday Seminars for Social Studies Teachers
+time_periods:
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Education
+- Ethnicity
+- Ideas & Ideologies
+- Literature
+- Media
+- Politics
+- Radicalism
+- Reform
+- Religion
+tags:
+- Civil Rights Movement
+- Declaration of Independence
+- civil disobedience
+- civil rights
+- orators
+- oratory
+- protest
+- protesters
+- protests
+- race
+- race relations
+- racism
+- speeches
+- speechmaking
+- speechwriting
 ---
 
 Professor Peter Myers investigates Martin Luther King, Jr.'s concepts of civil disobedience and political action, as well King's thought, as found in his writings and speeches, more generally. Myers examines particularly the objectives King wished to achieve with his work.
+
 This lecture continues from the lecture [Martin Luther King, Jr., Part One](/history-content/history-in-multimedia/2440).

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21541
 grade_levels:
-  - high
+- high
 ---
 
 * ### WI.A. Content Standard: Geography

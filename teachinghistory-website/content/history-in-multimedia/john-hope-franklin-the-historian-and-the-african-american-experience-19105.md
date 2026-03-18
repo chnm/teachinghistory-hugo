@@ -15,8 +15,31 @@ splash_image_fid: '8704'
 summary: Distinguished historian and lifelong civil rights activist Professor John
   Hope Franklin discusses his careers as educator, scholar, and activist.
 splash_image: /files/splash-him-mlk6_0.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Children
+- Daily Life
+- Education
+- Ethnicity
+- Family Life
+- Ideas & Ideologies
+- Politics
+- Reform
+tags:
+- Civil Rights Movement
+- activism
+- activists
+- civil rights
+- families
+- scholars
+- scholarship
 ---
 
-
 Distinguished historian and lifelong civil rights activist Professor John Hope Franklin joins archivist Allen Weinstein and Dr. Lonnie Bunch, director of the new National Museum of African-American History and Culture, to discuss his careers as educator, scholar, and activist.
+
 To watch this interview, scroll to "John Hope Franklin," and select "Watch the Video."

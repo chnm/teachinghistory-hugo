@@ -17,11 +17,12 @@ splash_image: /files/foursplash.jpg
 image: /files/fourimage.jpg
 author_image: /files/author_image/author_faithful.png
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- close reading
+- historical thinking
 ---
-
-
 
 ## What is it?
 

@@ -10,7 +10,29 @@ keywords: Boston, Mormonism, Mormons, religious conflict, religious tension, Pur
   Puritans, prophets, New England
 website_url: http://dev.forum-network.org/lecture/joseph-smith-rough-stone-rolling
 date_published: '2005-10-08T00:00:00'
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Daily Life
+- Education
+- Family Life
+- Ideas & Ideologies
+- New England
+- Radicalism
+- Reform
+- Religion
+tags:
+- Boston
+- Mormonism
+- Mormons
+- New England
+- Puritanism
+- Puritans
+- prophets
+- religious conflict
+- religious tension
 ---
 
 Professor Richard L. Bushman reviews the life and character of Joseph Smith, Mormon prophet and founder, and explores Smith's New England roots.
+
 Audio and video options are available.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21464
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## ß113.13. Social Studies, Grade 2, Beginning with School Year 2011-2012

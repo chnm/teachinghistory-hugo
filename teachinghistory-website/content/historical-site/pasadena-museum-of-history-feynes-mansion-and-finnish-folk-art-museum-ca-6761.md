@@ -6,7 +6,31 @@ content_type: historical_site
 draft: false
 drupal_nid: 6761
 website_url: http://www.pasadenahistory.org
+time_periods:
+- All
+- Emergence of Modern US, 1890-1930
+- General
+topics:
+- Art
+- Daily Life
+- Ethnicity
+- Global Contact
+- Immigration
+- Western States
+tags:
+- California
+- Finland
+- Finnish
+- Finnish Americans
+- folk art
+- folkart
+- homes
+- houses
+- immigrants
+- mansions
+- museums
 ---
 
 The Museum displays exhibits on Pasadena history. It also operates the 1906 Fenyes Mansion and the Finnish Folk Art Museum.
+
 The Museum of History offers exhibits, tours, and research library access. and recreational and educational events; the mansion offers tours; the Folk Art Museum offers exhibits and tours.

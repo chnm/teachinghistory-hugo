@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21119
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### LA.G-M. Content Standard: Geography

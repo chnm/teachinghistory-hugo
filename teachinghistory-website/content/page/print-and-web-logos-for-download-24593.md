@@ -29,6 +29,7 @@ Please do not distort or recolor the logo, or apply textures or other filters to
 ![](/files/th-logo-full-color.png)
 
 DOWNLOAD (Click on link, then choose "save page as")  
+
 [Teaching History Logo + Wordmark png (100kb)](/sites/default/files/th-logo-full.png)
 
 ### Print
@@ -36,6 +37,7 @@ DOWNLOAD (Click on link, then choose "save page as")
 ![](/files/th-logo-full-color.png)
 
 DOWNLOAD (Click on link to get download options)  
+
 [Teaching History Logo + Wordmark cmyk eps (320kb)](/sites/default/files/th-logo-full-cmyk.eps)
 
 ### Print
@@ -43,6 +45,7 @@ DOWNLOAD (Click on link to get download options)
 ![](/files/th-logo-full-gray.png)
 
 DOWNLOAD (Click on link to get download options)  
+
 [Teaching History Logo + Wordmark grayscale eps (316kb)](/sites/default/files/th-logo-full-gray.eps)
 
 ### Web
@@ -50,6 +53,7 @@ DOWNLOAD (Click on link to get download options)
 ![](/files/th-wordmark-only-color.png)
 
 DOWNLOAD (Click on link, then choose "save page as")  
+
 [Teaching History Wordmark png (80kb)](/sites/default/files/th-logo-wordmark-only.png)
 
 ### Print
@@ -57,6 +61,7 @@ DOWNLOAD (Click on link, then choose "save page as")
 ![](/files/th-wordmark-only-color.png)
 
 DOWNLOAD (Click on link to get download options)  
+
 [Teaching History Wordmark cmyk eps (335kb)](/sites/default/files/th-logo-wordmark-only-cmyk.eps)
 
 ### Print
@@ -64,4 +69,5 @@ DOWNLOAD (Click on link to get download options)
 ![](/files/th-wordmark-only-gray.png)
 
 DOWNLOAD (Click on link to get download options)  
+
 [Teaching History Wordmark grayscale eps (314kb)](/sites/default/files/th-logo-wordmark-only-gray.eps)

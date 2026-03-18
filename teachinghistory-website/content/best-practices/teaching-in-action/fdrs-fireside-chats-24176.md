@@ -15,10 +15,16 @@ summary: High school teacher Joe Jelen combines roleplaying and critical analysi
 splash_image: /files/tiafdr.jpeg
 author_image: /files/author_image/Author-Photo-Joseph-Jelen-75x75.png
 grade_levels:
-  - high
+- high
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Economy
+tags:
+- FDR
+- New Deal
+- presidents
 ---
-
-
 
 /files/media/video/TIA\_FDR1.mp4
 

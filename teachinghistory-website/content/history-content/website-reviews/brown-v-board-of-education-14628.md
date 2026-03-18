@@ -18,8 +18,42 @@ summary: Examine segregation and desegregation through summaries and the court's
 splash_image: /files/Brown_v._Board_of_Education_432x240.jpg
 thumbnail: /files/nrc_thumbnail/CooperHewittThumbnail.jpg
 image: /files/website_image/BrownvBoardofEducation.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Children
+- Education
+- Ideas & Ideologies
+- Legal History
+- Media
+- Midwestern States
+- Politics
+- Reform
+evidence_types:
+- Official Documents
+- Oral History
+- Photographs
+- Quantitative Evidence
+resource_types:
+- Images
+- Text
+tags:
+- Ann Arbor
+- Brown v. Board of Education
+- Civil Rights Movement
+- Michigan
+- U.S. Supreme Court
+- busing
+- bussing
+- desegregation
+- race
+- race relations
+- schools
+- segregation
 ---
 
-
 Created in anticipation of the 50-year anniversary of the monumental Supreme Court decision, *Brown v. Board of Education*, this website covers four general areas. These include Supreme Court cases, busing and school integration, school integration in Ann Arbor (home of the University of Michigan), and recent resegregation trends in America. The site contains a case summary and the court's opinion for each of 34 landmark court cases, from *Plessy v. Ferguson* to *Brown v. Board of Education of Topeka.*
+
 *Brown* includes transcripts of oral arguments, as well. Visitors can also read the oral histories of five members of the University of Michigan community who remember the *Brown* decision and its impact. There are more than 30 photographs of participants in the *Brown* case and other civil rights activists, as well as a collection of documents pertaining to desegregation in the Ann Arbor Public School District. A statistical section details the growing number of African Americans in Michigan and Ann Arbor schools from 1950 to 1960.

@@ -15,8 +15,30 @@ splash_image_fid: '7827'
 summary: The Foreign Policy Research Institute considers 9/11 and presidential leadership
   following the attack as teachable subjects.
 splash_image: /files/splash-91122.jpg
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+tags:
+- 9/11
+- Iraq
+- Iraq War
+- War on Terror
+- foreign affairs
+- foreign policy
+- foreign relations
+- politicians
+- presidents
+- terrorism
+- war
+- wars
 ---
 
-
 David Eisenhower of the Foreign Policy Research Institute considers the current necessity of approaching terrorism and the current war as teaching subjects, and looks at how national crises—such as 9/11—pose certain rhetorical and leadership demands on presidents, and how President Bush reacted to these demands.
+
 Video and audio options are available.

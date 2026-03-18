@@ -6,7 +6,30 @@ content_type: historical_site
 draft: false
 drupal_nid: 6493
 website_url: http://www.chittenangolandingcanalboatmuseum.com/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+topics:
+- Business
+- Daily Life
+- Economy
+- Labor
+- Mid-Atlantic
+- Science & Tech.
+tags:
+- New York
+- boats
+- canal boats
+- canals
+- cargo boats
+- erie canal
+- infrastructure
+- museums
+- transportation
 ---
 
 The Chittenango Landing Canal Boat Museum is located within the Old Erie Canal State Historic Park in Central New York State. During the 19th and 20th centuries, 96-foot long cargo boats were built and repaired on this site. The Museum tells of the construction of these boats, the workings of the restored dry docks, and the social history of the canal area.
+
 The museum offers exhibits, educational programs, and occasional recreational and historical events.

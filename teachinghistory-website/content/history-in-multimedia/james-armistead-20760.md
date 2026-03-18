@@ -11,6 +11,24 @@ keywords: slaves, spies, colonies, colonists, American Revolution, Revolutionary
 website_url: http://podcast.history.org/2005/09/26/james-armistead/
 date_published: '2005-09-26T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Military History
+- Slavery
+- Southern States
+tags:
+- American Revolution
+- Revolutionary War
+- Virginia
+- Williamsburg
+- colonies
+- colonists
+- race
+- race relations
+- slaves
+- spies
 ---
 
 Richard Josey, an interpreter at Colonial Williamsburg, talks about the life of the historical figure he portrays, James Armistead, a slave who served as a double agent during the Revolutionary War.

@@ -9,6 +9,20 @@ duration: 00:57:46
 website_url: http://newbooksinhistory.com/2009/07/22/charles-postel-the-populist-vision/
 date_published: '2009-07-22T00:00:00'
 series_name: New Books in History
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Economy
+- Global Contact
+- Ideas & Ideologies
+- Labor
+- Politics
+- Reform
+- Rural Life
+- Western States
+tags:
+- Populism
 ---
 
 Professor Marshall Poe interviews Charles Postel, author of *The Populist Vision*, which examines the Populist Party, a turn-of-the-19th-to-20th-century party anchored by western farmers.

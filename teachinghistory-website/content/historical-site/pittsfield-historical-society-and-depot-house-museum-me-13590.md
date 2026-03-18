@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 13590
 website_url: http://www.pittsfieldhistoricalsociety.org
+time_periods:
+- General
+topics:
+- New England
+tags:
+- Maine
 ---
 
 The Pittsfield Historical Society maintains the Depot House Museum, displaying artifacts from local history.
+
 The museum offers exhibits.

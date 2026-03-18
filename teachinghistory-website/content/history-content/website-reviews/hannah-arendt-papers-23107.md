@@ -14,7 +14,21 @@ summary: Do you read German? Not to worry. Select documents are available in Eng
 splash_image: /files/hannaharendt.jpg
 thumbnail: /files/Copyright_Basics.pdf
 image: /files/website_image/HannArenImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Ideas & Ideologies
+- Politics
+- Religion
+- Women
+evidence_types:
+- Literary Sources
+- Official Documents
+resource_types:
+- Text
 ---
-
 
 Due to copyright restrictions, only a small portion of the more than 25,000 digitized items from the Hannah Arendt papers can be viewed outside of three locations. Visitors who are not at the Library of Congress, New School University in New York City, or Carl von Ossietzky University in Oldenburg, Germany, may, however, view almost all of the collection's documents relating to the Adolph Eichmann trial and Arendt's book, *Eichmann in Jerusalem*. Material in this collection includes correspondence with holocaust survivors, minutes of the trial, Arendt's notes, and positive and negative reviews of the book. About one quarter of Arendt's general correspondence from 1938 to 1975, arranged alphabetically by correspondent, is available. Visitors may access eight folders of notes, lectures, fiction, and poetry from the 1920s and 1940s and all of Arendt's appointment books from 1972 to 1975. All material is in facsimile, much of it in German. Most of a collection of lecture notes, correspondence with students, and royalty statements for Arendt's books from 1949 to 1975 is available offline. Nearly half of a collection of drafts of Arendt's books, *On Revolution* and *Between Past and Future* may also be accessed from any location. Although limited, the site will be interesting for research on Arendt, modern Europe, and philosophy.

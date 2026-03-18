@@ -10,8 +10,16 @@ splash_image_fid: '10199'
 summary: Take a look at artifacts from the past—what might they be? Teachers model
   questioning objects in this Smithsonian exhibit on inventions.
 splash_image: /files/patentsplash_0.jpg
+topics:
+- Science & Tech.
+tags:
+- Smithsonian American Art Museum
+- artifacts
+- inventions
+- object-based learning
+- primary sources
+- smithsonian
 ---
-
 
 /files/media/video/patents1.mp4
 

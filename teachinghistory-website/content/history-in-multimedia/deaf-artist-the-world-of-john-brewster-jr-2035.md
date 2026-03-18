@@ -13,8 +13,18 @@ splash_image_fid: '1220'
 summary: John Brewster, Jr., born 1766, communicated through art until learning sign
   at age 51.
 splash_image: /files/JohnBrewster_0.jpg
+topics:
+- Art
+- Health & Medicine
+tags:
+- artists
+- colonists
+- deaf
+- deafness
+- disabilities
+- portraits
 ---
 
-
 Scholar Harlan Lane explores the life of John Brewster, Jr., a talented deaf portrait artist and American colonist born in 1766. The presentation includes slides of Brewster's work.
+
 Audio and video options are available.

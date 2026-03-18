@@ -16,8 +16,37 @@ summary: Multimedia resources for teaching slavery, private life, technology, an
   film.
 splash_image: /files/Digital_History_432x240.jpg
 image: /files/website_image/14601.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- General
+topics:
+- African Americans
+- American Indians
+- Ethnicity
+- Labor
+- Latinos
+- Military History
+- Politics
+- Reform
+- Slavery
+evidence_types:
+- Film and Video
+- Official Documents
+- Paintings and Prints
+- Personal Accounts
+- Photographs
+- Speeches
+resource_types:
+- Audio
+- Images
+- Text
+- Video
+tags:
+- Native Americans; slavery; social history; mexican americans; supreme court decisions;
+  Vietnam; War on Poverty; history of American film
 ---
 
-
 These multimedia resources for teaching American history focus on slavery, ethnic history, private life, technological achievement, and American film. There are more than 600 documents on the history of Mexican Americans, Native Americans, and slavery, from "first encounters" through the Civil War.
+
 A complete U.S. history textbook is presented, along with historical newspaper articles and more than 1,500 annotated links, including 330 links to audio files of historic speeches, and nine links to audio files of historians discussing relevant topics. Ten essays (800 words) address past controversies, such as the Vietnam War, socialism, and the war on poverty. Seven essays present historical background on more recent controversies and essays of more than 10,000 words each address the history of American film and private life in America. Exhibits offer 217 photographs from a freedmen's school in Alabama and seven letters between 18th-century English historian Catharine Macaulay and American historian Mercy Otis Warren.

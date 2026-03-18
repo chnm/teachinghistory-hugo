@@ -21,12 +21,14 @@ splash_image: /files/pickingcivicstextbooks432x240.jpg
 image: /files/pickingcivicstextbooks113x150.jpg
 author_image: /files/author_image/author_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- civics
+- resources
+- textbooks
 ---
-
-
 
 My first suggestion is that you look for outstanding *curriculum*, not just outstanding *textbooks*. I have seen most government *textbooks* gather dust on classroom shelves, while there is a host of interactive government *curriculum* that engages students in problem solving, group work, research, and exploration of major themes.
 

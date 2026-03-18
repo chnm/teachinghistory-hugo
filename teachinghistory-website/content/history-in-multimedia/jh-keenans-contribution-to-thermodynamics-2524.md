@@ -11,6 +11,16 @@ keywords: thermodynamics, entropy, science, scientists, teachers, professors, ed
 website_url: http://video.mit.edu/
 date_published: '2007-10-04T00:00:00'
 series_name: Meeting the Entropy Challenge
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Education
+- Ideas & Ideologies
+- Science & Tech.
+tags:
+- scientists
 ---
 
 Professor Ahmed F. Ghoniem, MIT president Susan Hockfield, and American DG Energy chairman George N. Hatsopoulos look at the life of thermodynamicist Joseph Henry Keenan and his contributions to the field and to the teaching of the subject. They also look at the history of thermodynamics more generally.

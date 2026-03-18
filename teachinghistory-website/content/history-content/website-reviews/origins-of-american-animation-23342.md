@@ -14,7 +14,16 @@ summary: A collection of early animated films useful for the study of early Amer
   animation.
 splash_image: /files/Origins_of_American_Animation_432x240.jpg
 image: /files/website_image/AmericanAnimation_Image.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Art
+- Popular Culture, Leisure
+evidence_types:
+- Film and Video
+resource_types:
+- Text
+- Video
 ---
-
 
 This site traces the development of early American animation through a collection of 21 animated films from the years 1900 to 1921. The films, including several media--clay, puppet, cut-out animation, and pen drawings--indicate the "connection between newspaper comic strips and early animated films." In addition, these "tiny, often satiric, films tell much about the social fabric of World War I-era America." Films can be viewed in RealMedia, MPEG, or Quick Time formats. Part of the American Memory Collection at the Library of Congress, drawn from collections in the Library of Congress Motion Picture, Broadcasting and Recorded Sound Division.

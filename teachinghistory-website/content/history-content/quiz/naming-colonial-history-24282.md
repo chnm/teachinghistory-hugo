@@ -13,7 +13,18 @@ summary: Everyone knows what "American Revolution" means. But can you identify t
   other labels used in naming colonial history?
 splash_image: /files/prercolon-splash.jpg
 thumbnail: /files/quiz_thumbnail/LibrAmerThumbnail.jpg
+topics:
+- Ideas & Ideologies
+- Politics
+- Religion
+- Slavery
+tags:
+- England
+- Enlightenment
+- Glorious Revolution
+- Great Awakening
+- Middle Passage
+- slave trade
 ---
-
 
 Awakenings, enlightenments, passages, revolutions—historical events and phenomena gain colorful names that say little about what they stand for, when taken out of context. Identify the meanings of the following names, all taken from narratives of English colonial history.

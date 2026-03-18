@@ -38,16 +38,23 @@ summary: How can we help our 5th-grade ELL students build background and make co
   with our social studies curriculum?
 splash_image: /files/ellsplash.jpg
 grade_levels:
-  - elementary
+- elementary
+tags:
+- ELL
+- differentiation
+- literacy
+- resources
+- teaching methods
 ---
 
-
 The wonderful thing about teaching strategies for ELLs is that they are fabulous models of good teaching in general. Strategies like [Kagan Cooperative Learning](http://www.kaganonline.com/free_articles/dr_spencer_kagan/279/Kagan-Structures-for-English-Language-Learners)  can be used with ELL and non-ELL students alike. SDAIE ([Specially Designed Academic Instruction in English](http://ktslearning.com/SDAIEstrategies.html)) activities are designed to scaffold information for ELLs, but many SDAIE strategies make for an engaging learning environment for all. Most importantly, using particular SDAIE strategies like *Mix-Freeze-Match*, *Carousel*, or *Stay and Stray* with a combination of ELL and non-ELL learners can be quite powerful.
+
 So, when thinking about your question, what we really need to ask ourselves is: “What do my ELL students need to **access** the content, that my native speakers may not need?” That is, should we assume that because English is a student’s first language that he/she already has necessary background knowledge? No, we should not, but we know that our ELLs need more exposure to new terminology in order to access information. Below are strategies I use with my ELL population to help build background knowledge.
 
 ## Building Academic Vocabulary
 
 Bear in mind that ELLs may not understand the text as easily as native English speakers simply because they are still developing an understanding of English syntax, grammar, and vocabulary. Fifth-grade texts pose a challenge, given that they include longer and more complex words and phrasing than students have previously encountered.
+
 So what do you do? Make history fun! Use primary sources including, but not limited to, photographs, illustrations, maps, diary entries, and letters. Build vocabulary while you build background knowledge (for all). Show pictures of artifacts labeled with their appropriate name or make it more personal and memorable by asking the students to guess what each item is and what it may have been used for before you assign a term to it.
 
 ## Text in Small Doses
@@ -63,6 +70,7 @@ Use the textbook in small doses. Do not ask students learning English to read th
 ## Videos Are OKAY!
 
 Lastly, and I know I am taking a risk by saying this—use videos! Five minutes of visual content to help students gain an understanding of the past is worth its weight in gold. But use them thoughtfully. Even though kids love watching TV they get bored after about 20 minutes, and the content and purpose of the video is lost.
+
 These types of learning activities lower the students’ affective filter while simultaneously introducing new material. In a safe environment, students have opportunities to practice their newly acquired academic vocabulary before they are asked to share their thoughts with you, the teacher.
 
 ## Sample Resources
@@ -88,9 +96,11 @@ Below are just a few resources that I have enjoyed using in my classroom. I espe
 ### A Final Recommendation
 
 **[Enchanted Learning](http://www.enchantedlearning.com/Home.html)**
+
 I am sure this site is not new to most, but it is great for our ELLs. The text is simpler and illustrations are usually included.
 
 ---
 
 Visit [our section](http://teachinghistory.org/teaching-materials/english-language-learners) on teaching English Language Learners in the history classroom.
+
 See [this entry](http://teachinghistory.org/teaching-materials/english-language-learners/24617) for examples of history-specific sentence starters for middle schoolers and [this one](http://teachinghistory.org/teaching-materials/english-language-learners/24142) for cause and effect examples.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21250
 grade_levels:
-  - high
+- high
 ---
 
 * ### NC.1. Course / Competency Goal: African American Studies

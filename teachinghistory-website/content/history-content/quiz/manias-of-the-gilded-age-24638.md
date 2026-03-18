@@ -13,7 +13,19 @@ summary: Fads, crotchets, crazes, rages, and cultural fevers. Test your knowledg
   of these short-lived obsessions.
 splash_image: /files/splash-gildedgames.jpg
 thumbnail: /files/quiz_thumbnail/LessPlanThumbnail.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Consumer Culture
+- Popular Culture, Leisure
+tags:
+- Gilded Age
+- athletes
+- board games
+- games
+- ping pong
+- puzzles
+- sports
 ---
-
 
 The Gilded Age saw the introduction of many games, sports, dances, hobbies, and activities that blazed bright for a while, but then dimmed considerably. Test your knowledge of these 19th-century fads.

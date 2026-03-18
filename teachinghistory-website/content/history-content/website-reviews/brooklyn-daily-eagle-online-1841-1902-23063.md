@@ -15,8 +15,35 @@ summary: Explore the history of Brooklyn, 1841 through 1902, with historical new
 splash_image: /files/splash-wr-brooklyndaily.jpg
 thumbnail: /files/author_image/Martin_author.jpg
 image: /files/website_image/BrooDailImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Art
+- Cities & Suburbs
+- Consumer Culture
+- Daily Life
+- Immigration
+- International Relations
+- Legal History
+- Media
+- Mid-Atlantic
+- Military History
+- Politics
+- Popular Culture, Leisure
+- Radicalism
+- Reform
+- Science & Tech.
+- Women
+evidence_types:
+- Newspapers and Periodicals
+resource_types:
+- Text
 ---
 
-
 The *Brooklyn Daily Eagle* newspaper was published from 1841 to 1955 and was revived for a short time from 1960 to 1963. This website covers the period from October 26, 1841, to December 31, 1902, representing half of the *Eagle's* years of publication.
+
 Approximately 147,000 pages of newspaper, in various digital formats, are available. Access can be gained either by date of issue, keyword, or by eight subjects (African American history, Bridges, Crime, Draft Riot, Spanish American War, Women and Women's Suffrage, Arts and Entertainment, and Holidays). A timeline contains detailed information about the creation and development of the *Brooklyn Daily Eagle*. For an overview, users can browse the newspaper in five-year increments.

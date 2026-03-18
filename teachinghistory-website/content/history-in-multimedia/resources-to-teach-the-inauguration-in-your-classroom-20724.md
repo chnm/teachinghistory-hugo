@@ -11,6 +11,21 @@ keywords: teaching strategies, websites, inaugurations, presidents, politicians,
 website_url: http://speakingofhistory.blogspot.com/2009/01/podcast-170-resources-to-teach.html
 date_published: '2009-01-19T00:00:00'
 series_name: Speaking of History
+time_periods:
+- All
+- Contemporary US, 1968-Present
+- General
+topics:
+- Education
+- Media
+- Politics
+tags:
+- digital media
+- inaugurations
+- politicians
+- presidents
+- teaching strategies
+- websites
 ---
 
 Eighth grade American history educator Eric Langhorst talks about several online resources that can be used to teach about Presidential inaugurations and Barack Obama's inauguration in particular.

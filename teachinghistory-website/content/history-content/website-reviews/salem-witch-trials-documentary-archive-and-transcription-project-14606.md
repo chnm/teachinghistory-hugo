@@ -16,8 +16,41 @@ summary: Examine the verbatim transcripts of the 1692 Salem Witch Trials.
 splash_image: /files/Salem_Witch_Trials_432x240.jpg
 thumbnail: /files/author_image/Leah_author2.jpg
 image: /files/website_image/SalemWitchTrialsEdit.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- Gender
+- Ideas & Ideologies
+- Legal History
+- New England
+- Politics
+- Religion
+- Rural Life
+- Sexuality
+- Women
+evidence_types:
+- Official Documents
+- Paintings and Prints
+- Personal Accounts
+- Religious Texts
+resource_types:
+- Images
+- Text
+tags:
+- Massachusetts
+- Puritans
+- Salem
+- colonies
+- colonists
+- colonizations
+- law
+- laws
+- trials
+- witch trials
+- witchcraft
+- witches
 ---
 
-
 This website presents a valuable collection of resources for examining the Salem Witch trials of 1692. There are full-text versions of the three-volume, verbatim Salem Witch trial transcripts, an extensive 17th-century narrative of the trials, and full-text pamphlets and excerpts of sermons by Cotton Mather, Robert Calef, and Thomas Maule. The site also offers four full-text rare books written in the late 17th and early 18th centuries about the witchcraft scare. Descriptions and images of key players in the trials are presented as well.
+
 Access is provided to more than 500 documents from the collections of the Essex County Court Archives and the Essex Institute Collection, and roughly 100 primary documents housed in other archives. There are also seven maps of Salem and nearby villages. Basic information on the history of Salem/Danvers is complemented by eight related images and a brief description of 14 historical sites in Danvers.

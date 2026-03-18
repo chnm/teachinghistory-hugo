@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 13535
 website_url: http://www.oregonmuseums.org/SectionIndex.asp?SectionID=212
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Daily Life
+- Politics
+- Western States
 ---
 
 The Stevens-Crawford Heritage House is a historic house museum which depicts the lives of the Stevens and Crawford families in Oregon circa 1908. These two families were instrumental to area settlement and politics.
+
 The house offers period rooms.

@@ -18,10 +18,16 @@ summary: Class discussion and personal inquiry builds an interactive relationshi
 splash_image: /files/reading_splash.jpg
 author_image: /files/author_image/Pesick_headshot.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- General
+tags:
+- historical analysis
+- narrative
+- primary source analysis
+- question
+- textbook
 ---
-
-
 
 ## Why Do It?
 

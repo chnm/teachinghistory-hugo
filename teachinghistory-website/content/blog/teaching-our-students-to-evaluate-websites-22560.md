@@ -10,11 +10,16 @@ date_published: '2009-08-31T00:00:00'
 image_fid: '1606'
 summary: If it's from Google, does it got to be good?
 image: /files/google.jpg
+tags:
+- best practices
+- teaching materials
+- websites
 ---
 
-
 Need some help in teaching your students how to separate the good from the bad when they research topics on the web? One way, of course, is to limit the sites you'll allow them to use and the number of web references they're allowed to cite—perhaps the [Library of Congress](http://www.loc.gov/index.html), the [National Archives](http://www.archives.gov/index.html), a newspaper or two, and a historical society or association.
+
 But somewhere along the line, they need to learn to critically evaluate the seemingly limitless information they encounter online, whether it's for school or not.
+
 The following sites are a few that offer evaluative standards and materials helpful for the K-12 classroom.
 
 ## Rubrics, videos, and lists

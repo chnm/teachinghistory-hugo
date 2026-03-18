@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 19417
 website_url: http://www.historicnewengland.org/historic-properties/homes/boardman-house/boardman-house/?searchterm=Boardman%20House
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- New England
+tags:
+- New England
+- homes
+- houses
 ---
 
 Built around 1687 for the young family of William Boardman, a local joiner, this house has survived remarkably intact since its construction.
+
 The house offers tours.

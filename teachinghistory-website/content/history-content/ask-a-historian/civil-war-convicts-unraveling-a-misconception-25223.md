@@ -21,14 +21,21 @@ summary: Did criminals fight during the Civil War? Not exactly, but some soldier
   became convicts as a result of their service.
 splash_image: /files/exconsplash.jpg
 author_image: /files/author_image/mail_0.jpeg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+tags:
+- Civil War regiments
+- Civil War soldiers
+- Conscription Act
 ---
-
-
 
 Neither the Union nor the Confederate armies had regiments composed exclusively of convicts. The first year of the war drew only volunteers on both sides, though many of these men enlisted in response to social coercion from friends, family, or community leaders. In April 1862, the Confederacy passed its Conscription Act and in March 1863 the Union did the same. These acts pulled in only men of military age who were physically fit and outside the exemption categories. Neither act allowed men to be released from jail or prison in order to serve in the armies. That said, it is possible that communities that could not meet their quotas in 1863 may have released men from light sentences early if they obligated themselves to military service. But these men would have been folded into regular conscript regiments, which included a wide array of men from different backgrounds.
 > One real element that could have generated the impression of regiments of convicts was war-time prosecutions.
 
 Contemporary cinematic treatments of the war (especially the popular *Gangs of New York*) leave the impression that Northern units filled their ranks with recently arrived immigrants or other people who did not understand the rules of enlistment. While many immigrants served, the immediate enlistment of new arrivals pictured in the film overstates the reality considerably. One real element that could have generated the impression of regiments of convicts was war-time prosecutions. Both Union and Confederate officers punished their men for transgressions of military law. Infractions became particularly common when troops camped near urban areas or occupied cities for long periods of time. The traditional mix of bar, gambling house, and brothel attendance that often accompany armies created a climate ripe for eager officers to arrest, prosecute, and punish transgressors. Certain units developed reputations for lower-class crimes such as theft, drunkenness, and fighting, which could have well colored the impression of other soldiers about the entire regiment.
+
 Other units compiled lengthy lists of men who violated battlefield rules—from cowardice to desertion. One regiment of this sort was the 19th New York Infantry, organized in Cayuga County. After serving their original three-month enlistment term, the unit was remustered for two years. According to the New York State Military Museum and Veterans Research Center, "these orders were received with open dissatisfaction and by refusal of obedience on the part of 206 members, 23 of the greatest offenders being sent to the Dry Tortugas and the others placed under arrest until they were ready to be remustered. The 23 were finally released on condition that they serve the remainder of the two years in the 2nd N.Y. infantry." These men were not convicts going into the war, but became so in response to what they regarded as unfair treatment. Though a small number, their actions may well have been enough to color perceptions of the regiment as a whole.
 > Class distinctions, especially between officers and enlisted men, contributed to an assumption that criminals and other lowlifes filled the ranks.
 
@@ -37,6 +44,9 @@ Another element that might have contributed to a perception that some regiments 
 ---
 
 Joseph T. Glatthaar. *General Lee's Army: From Victory to Collapse*. New York: Free Press, 2008.
+
 Reid Mitchell. *Civil War Soldiers: Their Expectations and Their Experiences*. New York: Touchstone, 1988.
+
 David Madden. *Beyond the Battlefield: The Ordinary Life and Extraordinary Times of the Civil War Soldier*. New York: Touchstone, 2000.
+
 Moore, Albert Burton. *Conscription and Conflict in the Confederacy*. New York: MacMillan, 1924.

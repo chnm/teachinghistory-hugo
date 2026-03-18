@@ -12,6 +12,34 @@ keywords: cattle, cowboys, West, Cattle Trail, driving, drovers, ranches, ranchi
 website_url: http://timelines.tv/index.php?t=4&e=6
 date_published: '2009-02-16T00:00:00'
 series_name: Seven Journeys in the American West
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Business
+- Economy
+- Global Contact
+- Ideas & Ideologies
+- Labor
+- Rural Life
+- Western States
+tags:
+- Cattle Trail
+- West
+- beef
+- cattle
+- cowboys
+- driving
+- drovers
+- infrastructure
+- pioneers
+- railroads
+- railways
+- ranchers
+- ranches
+- ranching
+- settlers
+- trains
+- transportation
 ---
 
 This presentation, narrated partially from the perspective of cowboy and rancher Teddy Blue Abbott, describes the life of the cowboy driving cattle along the Cattle Trail and the end of the cowboy's way of life as settlers occupied the American West.

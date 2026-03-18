@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 6593
 website_url: http://www.jphs.org/
+time_periods:
+- All
+- General
+topics:
+- New England
+tags:
+- Massachusetts
 ---
 
 The Society seeks to preserve, interpret, and educate the public on the history of Jamaica Plains and the local area.
+
 The society offers tours and occasional lectures.

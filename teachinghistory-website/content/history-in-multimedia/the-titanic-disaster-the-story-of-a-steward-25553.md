@@ -9,6 +9,11 @@ duration: 00:07:34
 website_url: http://www.bbc.co.uk/archive/titanic/5048.shtml
 date_published: '2012-04-06T00:00:00'
 series_name: Survivors of the Titanic
+time_periods:
+- Emergence of Modern US, 1890-1930
+tags:
+- sinking of the titanic
+- titanic
 ---
 
 In this interview from the BBC series entitled "Survivors of the Titanic," former *RMS Titanic* steward Frederick Dent Ray relays the events of the sinking of this great ocean-liner from his perspective and narrates the manner in which he escaped from the ship. The interview was originally conducted in 1958.

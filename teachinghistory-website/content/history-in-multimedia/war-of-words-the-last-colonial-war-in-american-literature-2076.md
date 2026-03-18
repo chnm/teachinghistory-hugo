@@ -11,6 +11,34 @@ keywords: authors, writers, writing, novels, novelists, The Last of the Mohicans
   entertainment
 website_url: http://dev.forum-network.org/lecture/war-words-last-colonial-war-american-literature
 date_published: '2005-09-21T00:00:00'
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- American Indians
+- Consumer Culture
+- Education
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- Literature
+- Media
+- Military History
+- Popular Culture, Leisure
+tags:
+- French and Indian War
+- New York
+- The Last of the Mohicans
+- authors
+- colonies
+- colonists
+- colonization
+- entertainment
+- historical fiction
+- novelists
+- novels
+- writers
+- writing
 ---
 
 Professor Wayne Franklin discusses the life and work of James Fenimore Cooper, his inspiration for and work on the French and Indian War novel *The Last of the Mohicans*, and the influence of his depiction of this war on U.S. popular novels, works on the war, literature and on the colonial-era history of the U.S. Franklin also covers, in relation, the history of fiction-writing and novels in the U.S.

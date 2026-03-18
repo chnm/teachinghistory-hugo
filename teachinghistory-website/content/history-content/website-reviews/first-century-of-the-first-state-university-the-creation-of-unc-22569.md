@@ -13,7 +13,27 @@ summary: Primary sources document the history of the University of North Carolin
   at Chapel Hill, the first U.S. public university.
 splash_image: /files/First_Century_of_the_First_State_University-_The_Creation_of_UNC_432x240.jpg
 image: /files/website_image/FirstCenturyimage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Cities & Suburbs
+- Daily Life
+- Education
+- Ideas & Ideologies
+- Religion
+- Southern States
+evidence_types:
+- Architecture
+- Official Documents
+- Personal Accounts
+- Political Documents
+- Religious Texts
+- Speeches
+resource_types:
+- Text
 ---
-
 
 The University of North Carolina at Chapel Hill opened its doors to students in 1789, becoming the first public university in the U.S. Part of the larger [Documenting the American South](http://teachinghistory.org/history-content/website-reviews/14709) website, this collection illuminates the first century of UNC's operation. Close to 500 primary source documents—letters, speeches, architectural drawings, account ledgers, meeting minutes, sermons, and General Assembly acts—are available, including previously unpublished materials. Topics include: Buildings, Campus, Creation and Governance, Curriculum, Faculty, Student Life, Town and Gown, The University During the Civil War and Reconstruction, and The University in the Life of the State. These broad topics, in turn, shed light on smaller dramas within the history of the university, such as the 1856 dismissal of a professor for expressing anti-slavery views to students. Contextual essays and an extensive timeline accompany these materials, rendering them accessible to specialists and generalists alike interested in the histories of the Civil War, North Carolina, and higher education in the United States.

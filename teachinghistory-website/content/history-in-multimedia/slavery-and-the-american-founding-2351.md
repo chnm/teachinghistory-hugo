@@ -11,8 +11,36 @@ keywords: Founding Fathers, U.S. Constitution, presidents, politicians, slaves, 
 website_url: http://teachingamericanhistory.org/institutes/2004/lincoln_readings.html
 date_published: '2004-06-21T00:00:00'
 series_name: Abraham Lincoln, Slavery, and the Civil War
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Business
+- Consumer Culture
+- Daily Life
+- Economy
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Literature
+- Politics
+- Slavery
+tags:
+- Bill of Rights
+- Declaration of Independence
+- Founding Fathers
+- U.S. Constitution
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- slaves
 ---
 
 Professor Lucas E. Morel looks at the history of slavery in the U.S., examining the Founding Fathers' attitudes towards slavery and the policies on slavery written into the founding documents of the U.S.
+
 To listen to this lecture, scroll to the Monday, June 21st, 9:00 am-10:30 am session; and select the RealAudio image or link in the gray bar to the left of the main body of text.
+
 An older version of this lecture can be found [here.](http://www.teachingamericanhistory.org/audio/ram/02-08-06_lincoln_session3.ram)

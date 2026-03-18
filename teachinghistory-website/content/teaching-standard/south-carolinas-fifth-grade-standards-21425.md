@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21425
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ### SC.5-1. Standard / Course—United States Studies: 1865 to the Present

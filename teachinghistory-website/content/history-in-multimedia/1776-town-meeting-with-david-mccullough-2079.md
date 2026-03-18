@@ -11,6 +11,27 @@ keywords: Revolutionary War, American Revolution, biographies, authors, writing,
 website_url: http://dev.forum-network.org/lecture/1776-town-meeting-david-mccullough
 date_published: '2005-09-30T00:00:00'
 series_name: 'American Experience: Alexander Hamilton'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- International Relations
+- Literature
+- Media
+- Military History
+- Politics
+- Reform
+tags:
+- '1776'
+- American Revolution
+- Revolutionary War
+- authors
+- biographies
+- books
+- historic sites
+- research
+- scholarship
+- writers
+- writing
 ---
 
 Pulitzer-Prize-winning author David McCullough talks about his book *1776,* which covers the year 1776 in American history, and the corresponding Revolutionary War events. He particularly focuses on his research while writing the book.

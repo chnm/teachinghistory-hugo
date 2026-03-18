@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 11411
 website_url: https://www.icloud.com/mobileme/not_found/
+topics:
+- Business
+- Daily Life
+- Education
+- Popular Culture, Leisure
+- Science & Tech.
 ---
 
 The South Whidbey Historical Society presents the history of the South Whidbey, Washington. Exhibits include transportation, a period parlor and kitchen, fishing, education, Langley, Baby Island, and Clinton.
+
 The society offers exhibits.

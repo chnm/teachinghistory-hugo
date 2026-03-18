@@ -12,7 +12,18 @@ thumbnail_fid: '2826'
 summary: Do you have your mother's—and her mother's—fashion sense?
 splash_image: /files/Fashion_0.jpg
 thumbnail: /files/website_image/BayPigsImage.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Business
+- Consumer Culture
+- Women
+tags:
+- clothes
+- clothing
+- fashion
 ---
-
 
 Identifying changes in fashion throughout history can help you pin an image down to the decade—or even the year—and fashion-related primary sources are diverse and easily come by. Look no further than historical advertisements! What year did each of these fashion ads appear in the newspaper?

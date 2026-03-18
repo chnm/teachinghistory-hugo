@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21015
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### GA.SS1H. Strand/topic: American Heroes

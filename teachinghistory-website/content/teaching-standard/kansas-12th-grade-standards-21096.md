@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21096
 grade_levels:
-  - high
+- high
 ---
 
 * ### KS.1. Standard: Civics-Government

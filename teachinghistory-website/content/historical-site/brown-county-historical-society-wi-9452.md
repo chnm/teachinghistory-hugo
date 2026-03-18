@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 9452
 website_url: http://www.browncohistoricalsoc.org
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Daily Life
+- Midwestern States
+tags:
+- Wisconsin
+- historic home
+- historical society
+- house
 ---
 
 The Brown County Historical Society seeks to preserve and share the history of Brown County, Wisconsin. To this end, the society operates the Hazelwood Historic House Museum. This structure was built in 1837 by Morgan L. Martin, who served as president of the state convention which drafted the Wisconsin state constitution in 1847, and today houses 10 period rooms of Victorian-era artifacts.
+
 The society offers guided tours of the house and of the historic Astor Neighborhood.

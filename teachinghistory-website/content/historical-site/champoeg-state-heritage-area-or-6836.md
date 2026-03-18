@@ -6,8 +6,30 @@ content_type: historical_site
 draft: false
 drupal_nid: 6836
 website_url: http://www.oregonstateparks.org/park_113.php
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- Business
+- Daily Life
+- Western States
+tags:
+- Oregon
+- barns
+- cabins
+- homes
+- houses
+- log cabins
+- museums
+- parks
+- shops
+- stores
+- towns
 ---
 
 Champoeg features a combination of history, nature, and recreation. This is the site where Oregon's first provisional government was formed by a historical vote in 1843. Situated on the south bank of the scenic Willamette River, Champoeg's acres of forest, fields, and wetlands recreate the landscape of a bygone era. Visitors can tour the park's visitor center, Newell House, and Pioneer Mothers Log Cabin museums to discover pioneer life at Champoeg; or take a guided walk to learn what happened to the bustling pioneer town of Champoeg, and how the Donald Manson Barn was built. An 1860s-style garden lies next to the visitor center. The park also includes the Historic Butteville Store founded in 1863. It is considered the oldest operating store in Oregon. The store is the last commercial vestige of the once thriving Willamette River community of Butteville.
+
 A second website for the area, the Friends of Historic Champoeg site, can be found [here.](http://www.champoeg.org/)
+
 The area offers short films; exhibits, tours; educational programs; demonstrations; lectures; and educational and recreational events, including living history events.

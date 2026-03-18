@@ -15,8 +15,33 @@ summary: Offers letters and diary entries by Robert "King" Carter (1663–1732),
   Virginian landowner and public figure.
 splash_image: /files/Diary_Correspondence_and_Papers_of_Robert_King_Carter_of_Virginia_1701-1732_432x240.jpg
 image: /files/website_image/RobertCarter.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- Daily Life
+- Global Contact
+- Politics
+- Southern States
+evidence_types:
+- Official Documents
+- Personal Accounts
+- Political Documents
+resource_types:
+- Text
+tags:
+- Carter
+- Northern Neck Proprietary
+- Robert
+- colonies
+- colonists
+- colonization
+- diary
+- governors
+- letters
+- politicians
+- wills
 ---
 
-
 A work-in-progress, this collection offers letters and diary entries by Robert "King" Carter (1663–1732), a wealthy landowner and leading public figure in Virginia. Educated in England, Carter inherited and acquired more than 300,000 acres in the Northern Neck Proprietary between the Rappahannock and Potomac Rivers. Carter, who owned nearly 1,000 slaves, served as a member of the Council of Virginia and as acting governor of the colony.
+
 The site presently contains transcripts of all existing Robert Carter texts, including approximately 800 letters, written between 1701 and 1727, diary entries covering 1722–1726, and wills. Each document provides both modern and original spellings, and hyperlinked notes offering identifying information for more than 130 persons, places, and things. A 2,200-word biography of Carter, a 2,100-word essay on the Northern Neck Proprietary, and a bibliography of nearly 80 titles are also available.

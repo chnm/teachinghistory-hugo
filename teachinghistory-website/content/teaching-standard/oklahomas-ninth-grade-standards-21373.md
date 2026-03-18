@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21373
 grade_levels:
-  - high
+- high
 ---
 
 * ### OK.1. Content Standard / Course: Economics

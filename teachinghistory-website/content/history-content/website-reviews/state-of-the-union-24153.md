@@ -13,9 +13,29 @@ summary: What can 214 State of the Union addresses tells us about American polit
   and rhetoric?
 splash_image: /files/splash-wr-stateofunion.jpg
 image: /files/website_image/image-wr-stateofunion.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+topics:
+- Politics
+evidence_types:
+- Speeches
+resource_types:
+- Data
+- Text
+tags:
+- State of the Union addresses
+- presidents
 ---
 
-
 Presidents from George Washington to Barack Obama have delivered 214 State of the Union addresses, some delivered orally and many more only written. This website makes the full text of all addresses available and fully searchable, and has done some innovative work text-mining these speeches to examine "changes in the language of the State of the Union address over the past 200 years."
+
 A good place to begin is the website's [Essay](http://stateoftheunion.onetwothree.net/essay.html) section, which gives a brief history of the State of the Union address, and describes some of the project's most interesting findings. The website's most prominent feature is a series of graphical representations of the most frequently used words in each address, which allows users to compare those words to those of any other speech.
+
 Another tool allows users to compare the usage of two words in all addresses delivered. Comparing "war" and "peace," for example, reveals that these words have been used in 206 of the addresses, and that the word "war" alone has been used more than 2,600 times, compared to 1,821 usages for "peace."

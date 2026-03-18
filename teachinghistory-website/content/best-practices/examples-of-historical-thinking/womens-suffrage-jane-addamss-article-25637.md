@@ -16,9 +16,19 @@ summary: Who was Jane Addams, and how is her article "Why Women Should Vote" sti
   relevant today?
 splash_image: /files/replacementspalsh.jpg
 author_image: /files/author_image/tj_headshot_with_brown_blurred_background_4.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Gender
+- Media
+- Politics
+- Reform
+- Women
+tags:
+- Jane Addams
+- Women's Movement
+- suffrage
 ---
-
-
 
 /files/media/video/Boisseau4a.mp4
 

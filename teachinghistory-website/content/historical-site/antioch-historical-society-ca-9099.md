@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 9099
 website_url: http://www.art4antioch.org/ahs.asp
+time_periods:
+- General
+topics:
+- Art
+- Daily Life
+- Western States
+tags:
+- California
 ---
 
 The Antioch Historical Society seeks to preserve and share the history of Antioch, California. To this end, the society operates a museum.
+
 The museum offers period rooms and group tours. Reservations are required for school groups.

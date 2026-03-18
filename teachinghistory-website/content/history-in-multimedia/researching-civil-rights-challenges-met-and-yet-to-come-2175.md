@@ -10,7 +10,35 @@ keywords: Civil Rights Movement, civil rights, research, scholarship, Civil Righ
   Project, race, race relations, racism, NAACP, laws, law, minorities
 website_url: http://dev.forum-network.org/lecture/researching-civil-rights-challenges-met-and-yet-come
 date_published: '2007-05-11T00:00:00'
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Daily Life
+- Education
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- Immigration
+- International Relations
+- Legal History
+- Reform
+tags:
+- Civil Rights Movement
+- Civil Rights Project
+- NAACP
+- civil rights
+- law
+- laws
+- minorities
+- race
+- race relations
+- racism
+- research
+- scholarship
 ---
 
 Civil Rights Project co-founder and director Gary Orfield and director and president of the NAACP Legal Defense and Education Fund Theodore Shaw examine how researchers and legal advocates can further the aim of advancing civil rights in knowledge and policy. With a look back to the Civil Rights Project's original research agenda and its impact over the past ten years, this discussion considers how research on social equity and civil rights can be successfully extended to include the changing reality of a highly stratified multiracial society with a white minority.
+
 The discussion audio is available as a downloadable mp3 file.

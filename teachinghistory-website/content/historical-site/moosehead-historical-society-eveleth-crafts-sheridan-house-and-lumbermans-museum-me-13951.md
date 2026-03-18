@@ -7,7 +7,20 @@ content_type: historical_site
 draft: false
 drupal_nid: 13951
 website_url: http://mooseheadhistory.org/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- American Indians
+- Business
+- Daily Life
+- Labor
+- New England
+- Science & Tech.
 ---
 
 The Moosehead Historical Society seeks to preserve and share the history of the Moosehead Lake area, ME. To this end, the society operates the Lumberman's Museum and the 1899 Victorian Eveleth-Crafts-Sheridan House. The house holds exhibits of local historical relevance, covering the period between the Civil War and World War II. The Lumberman's House exhibits address Native American life, 19th-century logging, and steamships, among other topics.
+
 The society offers exhibits, guided house and museum tours led by costumed interpreters, and archive access. Archive access is only available during the winter, while guided tours are only available June through September. During the summer, the society hosts periodic living history events. Picnicking is welcome in the sunken garden.

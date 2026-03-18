@@ -11,12 +11,20 @@ splash_image_fid: '8818'
 summary: How do you incorporate African American history in your teaching? African
   American History Month is one among many opportunities.
 splash_image: /files/splash-blog-aahm12.jpg
+topics:
+- African Americans
+tags:
+- african american heritage month
+- african american history month
+- black history month
 ---
 
-
 In 1925, historian Carter G. Woodson established Negro History Week. Growing in recognition over the following decades, the week became a month in 1976, when the U.S. celebrated African American History Month for the first time. This February, African American History Month reminds us to teach, learn, and remember the men and women who have contributed to U.S. history from its very beginning.
+
 [![](/files/extra-sp-aahm.jpg)](http://teachinghistory.org/spotlight/african-american-history)
+
 Looking for resources on African American history? Our African American History Month [spotlight page](http://teachinghistory.org/spotlight/african-american-history) brings together website links and reviews, examples of historical thinking, lesson plans, teaching strategies, quizzes, and more. Browse the spotlight to find materials for teaching pre-colonial history to the present day.
+
 Other organizations and websites also round up teacher resources for African American History Month. Check out these examples:
 
 * Browse [front pages](http://learning.blogs.nytimes.com/2010/02/01/celebrate-black-history-month/) from the Civil Rights Movement, as well as lesson plans for African American history month, courtesy of the *New York Times*.

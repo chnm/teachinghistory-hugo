@@ -100,13 +100,15 @@ splash_image_fid: '6968'
 splash_image: /files/splash-ell-paraphrase.jpg
 image: /files/image-ell-paraphrase.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+topics:
+- American Indians
 ---
 
-
 Summarizing and paraphrasing is a useful practice for English Language Learners (ELLs) who struggle with understanding history text. By learning how to paraphrase, students can improve at reading and analyzing challenging text and gain a better understanding about what they are reading. Practicing key concept identification and rewording the material in another way helps ELL students understand the history content and the original text more fully.
+
 There are a variety of ways you can teach your students to summarize and paraphrase key historical information. A few basic suggestions include:
 
 * **Reading the text twice:** During the first read of the text, students should read to develop a general understanding of what is written. The second time, students should read the material more carefully and begin to identify key concepts.
@@ -123,11 +125,13 @@ You might also try a few other strategies that focus on how students organize an
 ## Example
 
 The following is an example of summarizing and paraphrasing using the *Digital History* [website](http://www.digitalhistory.uh.edu/):
+
 **Original text:**
 > *Most of the history that we acquire comes not from history textbooks or classroom lectures but from images that we receive from movies, television, childhood stories, and folklore. Together, these images exert a powerful influence upon the way we think about the past. Some of these images are true; others are false. But much of what we think we know about the past consists of unexamined mythic images.*
 > *No aspect of our past has been more thoroughly shaped by popular mythology than the history of Native Americans. Quite unconsciously, Americans have picked up a complex set of mythic images. For example, many assume that pre-Columbian North America was a sparsely populated virgin land; in fact, the area north of Mexico probably had seven to 12 million inhabitants. Also, when many Americans think of early Indians, they conceive of hunters on horseback. This image is misleading in two important respects: first, many Native Americans were farmers; and second, horses had been extinct in the New World for 10,000 years before Europeans arrived.*
 
 From: Mintz, S. (2007). "The First Americans." *Digital History,* retrieved October 17, 2010 from http://www.digitalhistory.uh.edu/database/article\_display.cfm?HHID=657
+
 **Summarized and paraphrased text:**
 > *A lot of our knowledge of history comes from movies, stories, and television. Not all of this knowledge is true even though we might think it is.*
 > *Native Americans have had a lot of myths created about them. For example, we think there weren't very many people living back then in North America when there were really millions and millions. We also think Indians rode horses when horses weren't even around then.*

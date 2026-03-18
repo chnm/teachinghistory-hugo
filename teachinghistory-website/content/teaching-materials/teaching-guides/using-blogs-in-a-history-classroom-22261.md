@@ -14,10 +14,11 @@ summary: Setting up and maintaining a blog for your classroom is easy (and typic
   free)!
 splash_image: /files/UsingBlogs.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- blogs
 ---
-
 
 ## What Is It?
 

@@ -12,7 +12,39 @@ keywords: war, wars, Iraq War, Salafi, Salafis, Salafism, Islam, Muslim, Sunni I
 website_url: http://www.fpri.org/multimedia/20051015.sageman.understandingterrornetworks.html
 date_published: '2005-10-15T00:00:00'
 series_name: Teaching 9/11 and the War on Terrorism
+time_periods:
+- All
+- Contemporary US, 1968-Present
+- General
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Radicalism
+- Reform
+- Religion
+tags:
+- Al Qaeda
+- Iraq War
+- Islam
+- Muslim
+- Salafi
+- Salafis
+- Salafism
+- Sunni Islam
+- Sunni Muslims
+- forensic psychiatry
+- forensic psychology
+- psychiatry
+- psychology
+- terrorism
+- terrorists
+- war
+- wars
 ---
 
 Marc Sageman, forensic psychiatrist, discusses the importance of gathering actual solid evidence on terrorists, as human beings, and the difficulties present in collecting this information. He describes the information he gathered on a group of modern Salafi terrorists and the environment they came from.
+
 Video and audio options are available.

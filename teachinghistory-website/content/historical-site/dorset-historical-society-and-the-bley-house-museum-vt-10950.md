@@ -6,7 +6,23 @@ content_type: historical_site
 draft: false
 drupal_nid: 10950
 website_url: http://www.dorsethistory.com/
+time_periods:
+- General
+topics:
+- Art
+- Daily Life
+- Economy
+- Environment
+- Labor
+- New England
+tags:
+- Fenton
+- Vermont
+- artists
+- marble
+- stoneware
 ---
 
 The Dorset Historical Society seeks to preserve and share the history of Dorset, Vermont. To this end, the society operates the Bley House Museum. Exhibits address local artists, the Dorset marble industry, and Fenton stoneware, among other topics.
+
 The society offers exhibits, research and genealogical library access, and research assistance.

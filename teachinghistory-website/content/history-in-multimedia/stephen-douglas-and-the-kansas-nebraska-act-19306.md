@@ -12,7 +12,35 @@ keywords: Kansas-Nebraska Act, politicians, railroads, trains, railways, territo
 website_url: http://lincoln.lib.niu.edu/theme2video.html
 date_published: '2008-05-15T00:00:00'
 series_name: Frontier Settlement Video
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Ethnicity
+- Ideas & Ideologies
+- Politics
+- Slavery
+- Western States
+tags:
+- Antebellum
+- Compromise of 1850
+- Democrats
+- Kansas-Nebraska Act
+- U.S. Congress
+- Whigs
+- political parties
+- politicians
+- race
+- race relations
+- racism
+- railroads
+- railways
+- slaves
+- territories
+- trains
 ---
 
 Michael F. Holt of the University of Virginia outlines Stephen Douglas's creation of the Kansas-Nebraska Act and the repercussions of Congress's passing the Act.
+
 To view this clip, select "Stephen Douglas and the Kansas-Nebraska Act" under "Frontier Settlement Video."

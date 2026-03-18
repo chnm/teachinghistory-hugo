@@ -6,7 +6,17 @@ content_type: historical_site
 draft: false
 drupal_nid: 11011
 website_url: http://www.sdstate.edu/agmuseum/
+time_periods:
+- General
+topics:
+- Midwestern States
+- Rural Life
+tags:
+- Brookings
+- South Dakota
+- agriculture
 ---
 
 The South Dakota State Agricultural Heritage Museum is dedicated to preserving the agricultural and rural heritage of South Dakota. The museum is located on South Dakota State University's campus, and is open to visitors year round.
+
 The museum offers guided tours, exhibits, special events, and field trip programs. The website offers visitor information, detailed information regarding all current exhibits, and an events calendar.

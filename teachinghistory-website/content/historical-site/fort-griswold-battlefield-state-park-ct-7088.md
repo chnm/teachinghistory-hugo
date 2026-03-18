@@ -6,7 +6,26 @@ content_type: historical_site
 draft: false
 drupal_nid: 7088
 website_url: http://www.ct.gov/dep/cwp/view.asp?a=2716&q=325198&depNav_GID=1650
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- Military History
+- New England
+tags:
+- American Revolution
+- Battle of Fort Griswold
+- Connecticut
+- Revolutionary War
+- battlefields
+- battles
+- forts
+- homes
+- houses
+- museums
+- parks
 ---
 
 This is the historic site where, on September 6, 1781, British forces, commanded by the infamous Benedict Arnold, captured the Fort and massacred 88 of the 165 defenders stationed there. The Ebenezer Avery House which sheltered the wounded after the battle has been restored on the grounds. A Revolutionary War museum also depicts the era.
+
 The site offers exhibits and tours.

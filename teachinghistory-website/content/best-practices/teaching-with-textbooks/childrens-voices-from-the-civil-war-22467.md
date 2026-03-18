@@ -19,15 +19,20 @@ summary: Help students identify with the past via children who lived through the
 splash_image: /files/ChildrensVoicesCWSplash.jpg
 author_image: /files/author_image/Maria.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Children
+- Family Life
+- Military History
 ---
-
-
 
 ## Why do it?
 
 Textbooks, which feature the passive voice and condensed versions of momentous events, rarely capture the passion and drama of the past. By supplementing the textbook with documents that show how real-life children experienced historical events, the teacher can engage students' interests and can also offer multiple perspectives on historical events.
+
 As an example of this approach, consider children's experiences during the Civil War. Although Joy Hakim's [excellent textbook *A History of US*](http://www.amazon.com/History-US-Book-Terrible-1855-1865/dp/0195153308/ref=sr_1_1?ie=UTF8&s=books&qid=1241881598&sr=1-1 )) (volume six, *War, Terrible War*), touches on how the war affected children's lives, students can gain a much deeper understanding through analyzing additional primary sources. Documents such as period photos and excerpts from letters help students reconstruct what children experienced during the Civil War.
 > Young girls were pressed into service as nurses when their farms and villages became battlefields.
 
@@ -36,6 +41,7 @@ The destructive swath of "total war" drew children into its path as they witness
 ## What is it?
 
 After reading a section of the textbook, students analyze primary sources showing how children their age experienced the events described in the textbook. In this lesson, students examine excerpts from letters written by teenagers who witnessed or participated in Civil War battles, and they analyze period photographs to consider the extent and ramifications of children's involvement.
+
 Teachers can adapt this approach to other historical topics by supplementing with the appropriate primary sources.
 
 ## Example

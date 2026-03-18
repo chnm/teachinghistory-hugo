@@ -13,7 +13,28 @@ thumbnail_fid: '4444'
 summary: Gold mining, though often portrayed as lawless, was, in some cases, big business.
 splash_image: /files/TharsGold432x240.jpg
 image: /files/website_image/TharGoldImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+topics:
+- Business
+- Economy
+- Labor
+- Legal History
+- Popular Culture, Leisure
+- Science & Tech.
+- Southern States
+evidence_types:
+- Newspapers and Periodicals
+- Official Documents
+- Oral History
+- Political Documents
+- Religious Texts
+resource_types:
+- Text
 ---
-
 
 This website examines gold mining in Georgia's Lumpkin County from the late 1830s through the early 1940s with 90 primary sources, including letters, memoranda, photographs, picture postcards, and selected legal, financial, and promotional documents, including company prospectuses. The main concentration is the period between Reconstruction and the turn of the 20th century. Subjects include account collection, companies, leases, machinery, mineral rights, operations and techniques, and ore handling. An essay on Georgia gold mining history with links to primary documents discusses the Georgia Gold Rush, the "Great Intrusion" and Cherokee Removal, the U.S. branch mint in Dahlonega, gold mining in Georgia during the second half of the 19th century, the Second Georgia Gold Rush, 20th-century gold mining activity, and gold tourism. "Players and Places" provides brief descriptions of the people and places involved. "Suggested Readings" lists 38 related books, articles, and web essays as well as 14 mining company prospectuses and reports available at various archives and libraries. There is also a list of related archival collections.

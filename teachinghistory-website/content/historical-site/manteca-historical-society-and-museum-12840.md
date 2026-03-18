@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 12840
 website_url: http://www.mantecamuseum.org/
+time_periods:
+- All
+- General
+topics:
+- Western States
+tags:
+- California
+- museums
 ---
 
 The Society operates a museum which presents displays related to local history.
+
 The museum offers exhibits and tours.

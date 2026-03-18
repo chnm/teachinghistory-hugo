@@ -20,10 +20,10 @@ splash_image: /files/worldhistorysplash.jpg
 image: /files/worldhistoryimage.jpg
 author_image: /files/author_image/author_harris.jpg
 grade_levels:
-  - high
+- high
+tags:
+- World history
 ---
-
-
 
 You ask a good question, but, unfortunately, not one that is easily answered. Currently, there are not very many culminating world history assessments on the Internet. Part of the issue may stem from the fact that many instructional sites focus more on lessons and activities than they do on assessments (with the exception of released standardized exams from states such as [New York](http://www.nysedregents.org/GlobalHistoryGeography/) or [California](http://www.cde.ca.gov/ta/tg/sr/css05rtq.asp)). Since there are not many sites devoted to world history projects, teachers must do a bit of searching to find assessment ideas. Before doing so, however, it may be helpful to think about what type of culminating assessments might be particularly well suited to world history courses. One of the challenges of teaching a global world history course is developing final assessments that are on the right scale. Since world history units typically include several regions and centuries, end of unit, semester, or year projects should allow students to show what they have learned about connections between particular events and larger global patterns. In what follows, I suggest types of culminating assessments that would work at the unit, semester, or course levels. Where possible, I have included some web-based examples of these types of assessments.
 

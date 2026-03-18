@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21421
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ### SC.1-1. Standard / Course—Foundations of Social Studies: Families

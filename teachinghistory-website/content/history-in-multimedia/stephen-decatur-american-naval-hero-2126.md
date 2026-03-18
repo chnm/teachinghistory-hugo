@@ -15,8 +15,28 @@ splash_image_fid: '9088'
 summary: Historian Robert Allison details the life of Stephen Decatur (1779-1820),
   the young U.S. Navy captain who became a hero of the War of 1812.
 splash_image: /files/splash-him-decatur.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Global Contact
+- International Relations
+- Military History
+tags:
+- Barbary Wars
+- Philadelphia
+- U.S. Navy
+- War of 1812
+- captains
+- naval captains
+- navies
+- oceans
+- seas
+- ships
+- war
+- wars
 ---
 
-
 Historian Robert Allison details the life of Stephen Decatur (1779-1820), the young U.S. Navy captain who became a hero of the War of 1812 and the Barbary Wars.
+
 Audio and video options are available.

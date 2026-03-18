@@ -11,6 +11,26 @@ keywords: slaves, race, race relations, Civil War, presidents, politicians, eman
 website_url: http://ncmuseumofhistory.org/collateral/Podcasts/LincolnSymposium/LorenSchweninger.mp3
 date_published: '2009-04-07T00:00:00'
 series_name: 'Bits of History Podcast: Lincoln Symposium'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Ideas & Ideologies
+- Military History
+- Politics
+- Slavery
+tags:
+- Civil War
+- Emancipation Proclamation
+- abolition
+- abolitionism
+- abolitionists
+- emancipation
+- politicians
+- presidents
+- race
+- race relations
+- slaves
 ---
 
 Loren Schweninger of the University of North Carolina at Greensboro describes the relationship between Abraham Lincoln and Frederick Douglass, including their meeting in the White House following Lincoln's inaugural address.

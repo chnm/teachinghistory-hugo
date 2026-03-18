@@ -9,6 +9,14 @@ duration: 00:30:29
 website_url: http://www.civilwartraveler.com/audio/index.html
 date_published: '2008-05-29T00:00:00'
 series_name: Civil War Tours
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Mid-Atlantic
+- Military History
+tags:
+- Civil War
+- Pennsylvania
 ---
 
 The doomed Confederate charge July 3, 1863, at Gettysburg has become one of the most famous events in American military history. In this podcast, listeners will follow in the footsteps of Pickett's men that day. Designed as a five-stop walking tour, this podcast can also be listened to to gain a sense of the site's layout and history.

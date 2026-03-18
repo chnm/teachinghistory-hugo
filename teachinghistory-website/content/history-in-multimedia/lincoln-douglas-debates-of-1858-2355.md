@@ -12,8 +12,40 @@ keywords: abolition, abolitionists, Antebellum, campaigns, debates, elections, L
 website_url: http://teachingamericanhistory.org/institutes/2004/lincoln_readings.html
 date_published: '2004-06-22T00:00:00'
 series_name: Abraham Lincoln, Slavery, and the Civil War
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Ethnicity
+- Ideas & Ideologies
+- Media
+- Midwestern States
+- Politics
+- Reform
+- Slavery
+tags:
+- Antebellum
+- Lincoln-Douglas debates
+- abolition
+- abolitionists
+- campaigns
+- debates
+- elections
+- orators
+- oratory
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- slaves
+- speeches
+- speechmaking
 ---
 
 Professor Lucas E. Morel details the debates between Abraham Lincoln and Stephen A. Douglas in the 1858 campaign for an Illinois seat in the United States Senate. Morel looks at the discussion of slavery in these debates.
+
 To listen to this lecture, scroll to the Tuesday, June 22nd, 9:00 am-10:30 am session; and select the corresponding RealAudio link to the left.
+
 Older versions of this lecture, from newer to older, can be found [here](http://teachingamericanhistory.org/audio/ram/03-06-24_lincoln_session6.ram) and [here](http://www.teachingamericanhistory.org/audio/ram/02-08-07_lincoln_session6.ram).

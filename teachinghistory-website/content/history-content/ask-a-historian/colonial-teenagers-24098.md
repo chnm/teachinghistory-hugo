@@ -12,17 +12,39 @@ summary: Young people in their teens were not thought of as a distinct group, bu
   as young adults who were obliged to work for their living, whether they lived at
   home or not.
 splash_image: /files/colonial-kitchen-children.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Children
+- Daily Life
+- Economy
+- Education
+- Family Life
+- Popular Culture, Leisure
+tags:
+- Colonial America
+- apprenticeship
+- child labor
+- children
+- indentured servants
+- teenagers
 ---
 
-
 In colonial America, there were not really any “teenagers” as we know them. Of course, children passed through the decade that we know as the “teens,” but that stage of their lives was not the carefree, exploratory period that today’s youth experience. Children grew into adulthood more quickly than they do today, and by the time a child entered their teen years, they were already on a path toward their life’s occupation. Although a youth’s path to adulthood depended on their family’s socio-economic status, regardless of wealth, young men usually learned their trade through some form of apprenticeship.
+
 Children from poor families were often bound out to servitude at a young age, earning their keep while learning a trade. In the seventeenth century, 80% of the Chesapeake’s immigrants were indentured servants. Many of these servants were over the age of 20, but a significant number were young men and women still in their teens. In return for their passage to the Chesapeake, these servants agreed to work for a period of time, usually between four and seven years, without pay. During their service, masters provided food, clothing and shelter, and at the end of their term, servants received “freedom dues,” usually three barrels of corn and a suit of clothes. Many of these youths were orphans, but some were from indigent families who could not care for their children, and therefore sent them off to find their own fortunes. But a young person did not have to travel across the Atlantic to enter into servitude. At the age of 12, Benjamin Franklin was apprenticed to his brother, James, a Philadelphia printer. In his autobiography, Franklin recalled that his brother was “passionate” and often beat him. “Thinking my apprenticeship very tedious,” Franklin stated, he “was continually wishing for some opportunity of shortening it.” At the age of 17, Franklin ran away from his brother’s household.
+
 Children of wealthier families also took on considerable responsibility at a young age. Children from families of middling means often learned how to read and write, especially if they lived in urban areas. By the time they were in their mid-teens, sons were at work in the family farm or business, learning the trade that they would probably practice the rest of their lives. In the wealthiest families adolescent boys were often sent to boarding school, and then when they were around 15 years of age, they entered institutions such as Harvard, William and Mary, or Yale. After finishing their formal education, many took apprenticeships as clerks in merchant offices or law offices, or they returned home to follow their fathers’ profession.
+
 Only young men were allowed to pursue higher education. Although there were a few opportunities for girls to receive a more extensive formal education in the colonial period, most families kept their daughters at home to learn how to run a household and to be a dutiful mate for her future husband. There were rare exceptions to this convention, however. In 1738, when Eliza Lucas was 15, her father moved her and her mother from Antigua, West Indies, to a plantation near Charleston, South Carolina. Her father’s travels with the army and her mother’s ill health forced Eliza to manage the family business. In a letter to a woman friend, Eliza Lucas described her duties: “I have the business of 3 plantations to transact, which requires much writing and more business and fatigue of other sorts than you can imagine.” But, she assured her friend that “I think myself happy that I can be useful to so good a father, and by rising very early I find I can go through much business.” Lucas assumed an unusual burden as a young woman, but eventually she followed a somewhat conventional path – she married a planter and had children, yet she continued to hold considerable responsibility in the management of her husband’s plantations.
 
 ---
 
 Brewer, Holly. *By Birth or Consent: Children, Law, and the Anglo-American Revolution in Authority*. Chapel Hill: University of North Carolina Press, 2005.
+
 Demos, John. *A Little Commonwealth: Family Life in Plymouth Colony*. New York: Oxford University Press, 1970.
+
 Herndon, Ruth Wallis and John E. Murray, eds. *Children Bound to Labor: The Pauper Apprentice System in Early America*. Ithaca: Cornell University Press, 2009.
+
 Marten, James, ed. *Children in Colonial America*. New York: New York University Press, 2007.

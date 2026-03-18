@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 5713
 website_url: http://wichitahistory.org/
+time_periods:
+- All
+- General
+topics:
+- Midwestern States
+tags:
+- Wichita-Sedgwick County
+- counties
+- kansas
+- museums
 ---
 
 The Museum is housed in the 1892 "Palace of the Plains," designed by architects Willis Proudfoot and George Bird as Wichita's City Building. The museum collection has evolved form a core of early memorabilia to nearly 70,000 artifacts relating to Wichita and Sedgwick County from 1865 to the present. From photographs to fashions, business records to furniture, these items help tell the story of the people and events that have shaped the county's history.
+
 The museum offers exhibits, tours, and educational and recreational programs.

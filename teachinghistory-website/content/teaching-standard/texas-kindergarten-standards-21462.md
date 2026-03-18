@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21462
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## ß113.11. Social Studies, Kindergarten, Beginning with School Year 2011-2012

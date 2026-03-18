@@ -6,7 +6,17 @@ content_type: historical_site
 draft: false
 drupal_nid: 12281
 website_url: http://gfp.sd.gov/state-parks/directory/sica-hollow/
+topics:
+- American Indians
+- Midwestern States
+tags:
+- Hollow
+- Lake City
+- Sica
+- Sieche
+- South Dakota
 ---
 
 The Sica Hollow State Park is located in Lake City, South Dakota, and is the subject of many Indian legends. The Hollow is located in rolling hills created by glaciers over 20,000 years ago.
+
 The park offers guided tours, the "Trail of Spirits" a self-guided nature trail, and interpretive guides who can help bring to life the legends of the Sioux Indians. The website offers visitor information and a brief history of the site.

@@ -11,10 +11,25 @@ website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-04-30T00:00:00'
 series_name: Abraham Lincoln's Biography Video
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Daily Life
+- Gender
+- Rural Life
+- Women
+tags:
+- First Ladies
+- class
+- entertaining
+- entertainment
+- pioneers
+- settlers
 ---
 
 Julie Roy Jeffrey of Goucher College compares the lifestyle of Mary Todd Lincoln, accustomed to middle-class comfort and entertaining, to that of frontierswomen of the same time period.
+
 To view this clip, select "Mary Todd Lincoln's Frontier Life" under "Abraham Lincoln's Biography Video."

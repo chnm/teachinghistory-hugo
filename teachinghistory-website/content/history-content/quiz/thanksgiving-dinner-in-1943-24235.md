@@ -13,7 +13,13 @@ summary: What traditional Thanksgiving foods would have been hard to come by dur
   WWII?
 splash_image: /files/TDinner_0.jpg
 thumbnail: /files/website_image/NYPLWestImage.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Daily Life
+- Military History
+tags:
+- food rationing
 ---
-
 
 During World War II, the Office of Price Administration (OPA) instituted rationing, limiting the amount of goods, including food items, that civilians could purchase, affecting daily life and traditions on the homefront. What was it like to plan a holiday meal in 1943?

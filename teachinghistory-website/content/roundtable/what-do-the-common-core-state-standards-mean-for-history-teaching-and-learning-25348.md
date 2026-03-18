@@ -9,6 +9,9 @@ splash_image_fid: '8676'
 summary: Are the Common Core State Standards a good idea? What are the pros and cons
   of this approach to standards?
 splash_image: /files/splash-cc.jpg
+tags:
+- common core
+- common core standards
+- standards
 ---
-
 

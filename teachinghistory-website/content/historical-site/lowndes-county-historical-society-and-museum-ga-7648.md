@@ -6,7 +6,17 @@ content_type: historical_site
 draft: false
 drupal_nid: 7648
 website_url: http://www.valdostamuseum.org
+time_periods:
+- General
+topics:
+- Southern States
+tags:
+- Georgia
+- South
+- counties
+- museums
 ---
 
 The Museum preserves the history of Valdosta and Lowndes County. Located in the old Carnegie Library, it hosts almost 10,000 sq. ft. of historic displays and research material.
+
 The museum offers exhibits, tours, and events that showcase the museum and the history of Lowndes County. The museum also houses a research library. The website offers a brief history of Valodsta, an online newsletter, information regarding the research library, a kids webpage, and three online collections.

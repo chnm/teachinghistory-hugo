@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 12206
 website_url: http://www.bartholomewhistory.org
+time_periods:
+- General
+topics:
+- Daily Life
+- Midwestern States
+tags:
+- Indiana
 ---
 
 The Bartholomew County Historical Society is dedicated to preserving the historical heritage of Bartholomew County, IN. The society is headquartered in the McEwen-Samuels-Marr House, located in downtown Columbus, which also serves as a local history museum. The society also owns and operates the Historic Breeding Farm.
+
 The society offers guided tours of its two historic properties and special events such as home tours. The website offers a photo gallery of history Bartholomew County, visitor information, a brief history of the society, and an events calendar.

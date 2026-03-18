@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 4384
 website_url: http://www.chathamhistory.org
+time_periods:
+- All
+- General
+topics:
+- Southern States
+tags:
+- Chatham County
+- North Carolina
+- counties
+- museums
 ---
 
 The Association's Museum displays artifacts from local history. The current exhibit includes artifacts from the now-closed silk mill in Pittsboro, including a sample book of labels from famous manufacturers that were made at Chatham Mills.
+
 The society offers lectures and occasional recreational and educational events; the museum offers exhibits and research library access.

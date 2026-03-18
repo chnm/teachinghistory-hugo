@@ -24,8 +24,25 @@ spotlight: History has been shaped and influenced by the out come of ancient tri
 splash_image: /files/Famous_Trials_432x240.jpg
 thumbnail: /files/author_image/Logo SHEG.jpg
 image: /files/website_image/FamousTrials
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- General
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+evidence_types:
+- Newspapers and Periodicals
+- Official Documents
+- Photographs
+resource_types:
+- Images
+- Text
+tags:
+- court cases
+- courts
+- trials
 ---
 
-
 This exceptional legal history site presents balanced treatments of over 50 prominent court trials. Trials include: Salem witchcraft (1692); Burr conspiracy (1807); Amistad (1839–1840); Dakota conflict (1862); Lincoln conspiracy (1865); Johnson impeachment (1868); and Susan B. Anthony (1873). 20th-century trials include: Bill Haywood (1907); Sacco and Vanzetti (1921); Scopes (1925); Scottsboro Boys (1931–1937); Rosenbergs (1951); Lenny Bruce (1964); "Mississippi Burning" (1967); Chicago Seven (1969–70); My Lai courts martial (1970); LAPD officers (1992); O. J. Simpson (1995); Clinton impeachment (1999); and Moussaoui's 9/11 trial (2006).
+
 Each trial website includes a chronology, maps, and court documents, including transcripts of testimony, media coverage, depositions, and government documents. Most cases also contain images, links to related websites, and a bibliography. Biographies center on five "trial heroes," including trial lawyer Clarence Darrow. "Exploring Constitutional Law" offers 83 important constitutional topics for class discussion.

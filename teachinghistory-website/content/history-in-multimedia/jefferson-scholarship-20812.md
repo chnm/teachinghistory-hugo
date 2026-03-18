@@ -12,6 +12,33 @@ keywords: presidents, politicians, colonies, colonists, American Revolution, Rev
 website_url: http://podcast.history.org/2005/06/30/jefferson-scholarship/
 date_published: '2005-06-30T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+- Radicalism
+- Reform
+- Religion
+- Slavery
+- Southern States
+tags:
+- American Revolution
+- Continental Congress
+- Declaration of Independence
+- Founding Fathers
+- Revolutionary War
+- Virginia
+- Williamsburg
+- colonies
+- colonists
+- freedom of religion
+- politicians
+- presidents
+- religious freedom
 ---
 
 Bill Barker, an interpreter at Colonial Williamsburg, talks about Thomas Jefferson, the historical figure he portrays. Barker focuses on Jefferson's beliefs and ideals as reflected in the Declaration of Independence.

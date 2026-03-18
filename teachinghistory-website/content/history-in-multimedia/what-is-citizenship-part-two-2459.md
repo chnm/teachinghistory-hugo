@@ -12,7 +12,31 @@ keywords: Founding Fathers, the Federalist, Federalist papers, Declaration of In
 website_url: http://teachingamericanhistory.org/seminars/2005/allen.html
 date_published: '2005-04-02T00:00:00'
 series_name: Free Saturday Seminars for Social Studies Teachers
+time_periods:
+- All
+- General
+topics:
+- Daily Life
+- Education
+- Ideas & Ideologies
+- Literature
+- Media
+- Politics
+tags:
+- Declaration of Independence
+- Founding Fathers
+- U.S. Constitution
+- citizens
+- citizenship
+- federalist papers
+- orators
+- oratory
+- speeches
+- speechmaking
+- speechwriting
+- the Federalist
 ---
 
 Professor Danielle Allen discusses the concept of U.S. citizenship and the ideal behavior of a U.S. citizen as suggested by major documents in U.S. history, including the Federalist papers, the Declaration of Independence, and presidential inaugural addresses.
+
 This lecture continues from the lecture [What is Citizenship?: Part One](/history-content/history-in-multimedia/2458).

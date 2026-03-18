@@ -12,6 +12,42 @@ keywords: Civil War, war, wars, North Carolina, the South, Confederacy, race, ra
   weapons
 website_url: http://www.ncmuseumofhistory.org/exhibits/civilwar/explore_section2_content.html
 date_published: '2008-03-26T00:00:00'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Cities & Suburbs
+- Daily Life
+- Economy
+- Ethnicity
+- Ideas & Ideologies
+- Military History
+- Politics
+- Slavery
+- Southern States
+tags:
+- Battle of Bethel
+- Chancellorsville
+- Civil War
+- Confederacy
+- First Manassas
+- Gettysburg
+- North Carolina
+- POWs
+- Stoneman's Raid
+- battles
+- flags
+- prison camps
+- prisoners of war
+- race
+- race relations
+- racism
+- secession
+- the South
+- uniforms
+- war
+- wars
+- weapons
 ---
 
 Historian Tom Belton guides viewers through the North Carolina Museum of History exhibit "North Carolina and the Civil War." Progressing through the war chronologically, Belton describes both military and civilian life in North Carolina during the war, briefly highlighting several of the major battles in which North Carolina was involved. This presentation is divided into 31 short subchapters, which can be accessed separately.

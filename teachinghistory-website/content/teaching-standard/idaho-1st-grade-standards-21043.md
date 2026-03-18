@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21043
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ## Standard 1: History
@@ -16,6 +16,7 @@ grade_levels:
   ### Goal 1.1:
 
   Build an understanding of the cultural and social development of the United States.
+
   Objective(s): By the end of Grade 1, the student will be able to:
   + 1.SS.1.1.1 Recognize that each person belongs to many groups such as family, school, friends and neighborhood.
   + 1.SS.1.1.2 Compare differences in the ways American families live today to how they lived in the past.
@@ -28,6 +29,7 @@ grade_levels:
   ### Goal 2.1:
 
   Analyze the spatial organizations of people, places, and environment on the earth’s surface.
+
   Objective(s): By the end of Grade 1, the student will be able to:
   + 1.SS.2.1.1 Explain what maps and globes represent and how they are used.
   + 1.SS.2.1.2 Use directions on a map: East, West, South, and North.
@@ -38,6 +40,7 @@ grade_levels:
   ### Goal 2.2:
 
   Explain how human actions modify the physical environment and how physical systems affect human activity and living conditions.
+
   Objective(s): By the end of Grade 1, the student will be able to:
   + 1.SS.2.2.1 Describe ways people adjust to their environment.
   + 1.SS.2.2.2 Identify the ways people modify their environment.
@@ -48,6 +51,7 @@ grade_levels:
   ### Goal 3.1:
 
   Explain basic economic concepts.
+
   Objective(s): By the end of Grade 1, the student will be able to:
   + 1.SS.3.1.1 Identify the basic needs of people such as food, clothing, and shelter.
   + 1.SS.3.1.2 Identify ways people meet their needs by sharing, trading, and using money to buy goods and services.
@@ -56,6 +60,7 @@ grade_levels:
   ### Goal 3.4:
 
   Explain basic economic concepts.
+
   Objective(s): By the end of Grade 1, the student will be able to:
   + 1.SS.3.4.1 Identify ways to save money for future needs and wants.
 * ## Standard 4: Civics and Government
@@ -65,6 +70,7 @@ grade_levels:
   ### Goal 4.1:
 
   Build an understanding of the foundational principles of the American political system.
+
   Objective(s): By the end of Grade 1, the student will be able to:
   + 1.SS.4.1.1 Explain why rules are necessary at home and school.
   + 1.SS.4.1.2 Create rules and explain why rules must be applied fairly.
@@ -74,6 +80,7 @@ grade_levels:
   ### Goal 4.2:
 
   Build an understanding of the organization and formation of the American system of government.
+
   Objective(s): By the end of Grade 1, the student will be able to:
   + 1.SS.4.2.1 Identify the significance of symbols in the United States.
   + 1.SS.4.2.2. Recite the Pledge of Allegiance.
@@ -82,6 +89,7 @@ grade_levels:
   ### Goal 4.3:
 
   Build an understanding that all people in the United States have rights and assume responsibilities.
+
   Objective(s): By the end of Grade 1, the student will be able to:
   + 1.SS.4.3.1 Identify individuals who are helpful to people in their everyday lives.
   + 1.SS.4.3.2 Name some responsibilities that students have at home and school.
@@ -93,6 +101,7 @@ Students in Grade 1 build an understanding of multiple perspectives and global i
 ### Goal 5.1:
 
 Build an understanding of multiple perspectives and global interdependence.
+
 Objective(s): By the end of Grade 1, the student will be able to:
 
 + 1.SS.5.1.1 Compare family life in other parts of the world.

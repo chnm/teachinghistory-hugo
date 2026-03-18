@@ -11,6 +11,28 @@ keywords: bricks, brickmakers, brickmaking, colonies, colonists, Williamsburg, V
 website_url: http://podcast.history.org/2006/10/09/the-brick-kiln/
 date_published: '2009-10-09T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Business
+- Daily Life
+- Labor
+- Science & Tech.
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- brickmakers
+- brickmaking
+- bricks
+- class
+- classes
+- colonies
+- colonists
+- slaves
+- working class
 ---
 
 Jason Whitehead, supervisor of historic masonry training at Colonial Williamsburg, discusses the process of making bricks according to colonial-era practices.

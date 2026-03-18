@@ -6,7 +6,22 @@ content_type: historical_site
 draft: false
 drupal_nid: 6403
 website_url: http://www.historicsaranaclake.org
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Health & Medicine
+- Mid-Atlantic
+- Science & Tech.
+tags:
+- New York
+- disease
+- diseases
+- illness
+- laboratories
+- scientists
+- tuberculosis
 ---
 
 Historic Saranac Lake maintains ownership of Dr. Edward Livingston Trudeau's 1894 Saranac Laboratory, which was founded for the study of tuberculosis. The building survives as a tangible reminder of the possibility and optimism Trudeau sustained despite the struggle and loss of so many to this debilitating disease.
+
 The organization offers educational programs and occasional recreational and educational events; the Laboratory is not yet open to the public, although restoration is in progress.

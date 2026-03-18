@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21023
 grade_levels:
-  - high
+- high
 ---
 
 * ### GA.SSCG. Strand/topic: American Government/Civics

@@ -9,7 +9,15 @@ duration: '1:00:11'
 website_url: http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=5206
 date_published: '2011-03-24T00:00:00'
 series_name: The Library of Congress Webcasts
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+tags:
+- Loyalists
 ---
 
 Video background from The Library of Congress Webcasts site:
+
 "On Nov. 25, 1783, the last British troops pulled out of New York City, bringing the American Revolution to an end. Patriots celebrated their departure and the confirmation of U.S. independence. But for tens of thousands of American loyalists, the British evacuation spelled worry, not jubilation. Maya Jasanoff discusses the plight of these exiles in place in her new book."

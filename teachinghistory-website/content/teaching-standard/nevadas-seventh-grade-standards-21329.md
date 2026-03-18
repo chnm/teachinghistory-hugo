@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21329
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### NV.1.0. Content Standard: Economics

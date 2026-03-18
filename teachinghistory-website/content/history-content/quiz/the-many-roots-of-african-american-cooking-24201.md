@@ -13,7 +13,16 @@ summary: Africa, Europe, and North America—mix, and serve. Explore the foods t
   African Americans developed in the colonies, and later in the nation.
 splash_image: /files/AfAmCooking_0.jpg
 thumbnail: /files/website_image/RondPartImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+tags:
+- food
+- foodways
 ---
-
 
 From the beginning of African American history, African Americans freely combined foodways and ingredients from their African heritage with foods native to Europe and North America. Sometimes, these foodways first met in Africa; sometimes, in the Americas. In each list, check the item that does ***not*** belong.

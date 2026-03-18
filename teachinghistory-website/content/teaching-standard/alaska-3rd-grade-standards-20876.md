@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20876
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### AK.A. Performance / Content Standard: Geography

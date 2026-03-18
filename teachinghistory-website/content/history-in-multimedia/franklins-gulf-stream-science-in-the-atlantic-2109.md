@@ -12,6 +12,35 @@ keywords: Atlantic Gulf Stream, science, scientists, charts, cartography, shippi
 website_url: http://dev.forum-network.org/lecture/franklins-gulf-stream-science-atlantic
 date_published: '2006-03-09T00:00:00'
 series_name: Benjamin Franklin
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Business
+- Environment
+- Global Contact
+- Media
+- Science & Tech.
+tags:
+- Atlantic Gulf Stream
+- Atlantic Ocean
+- cartography
+- charts
+- colonies
+- colonists
+- colonizations
+- currents
+- exploration
+- explorers
+- navigation
+- navigators
+- ocean currents
+- oceans
+- science
+- scientists
+- shipping
+- ships
 ---
 
 Professor Joyce E. Chaplin covers Benjamin Franklin's creation of one of the first accurate charts of the Atlantic Gulf Stream in 1768 and the history of scientific research in the British colonies, both by Franklin and other scientists, that allowed the creation of such a chart.

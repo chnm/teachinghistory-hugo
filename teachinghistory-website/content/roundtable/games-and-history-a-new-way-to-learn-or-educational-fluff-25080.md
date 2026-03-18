@@ -10,9 +10,12 @@ summary: Can digital games encourage historical thinking, or do they waste valua
   teaching time?
 splash_image: /files/gameslearningand432x240.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- digital games
+- games
+- gaming
 ---
-
 

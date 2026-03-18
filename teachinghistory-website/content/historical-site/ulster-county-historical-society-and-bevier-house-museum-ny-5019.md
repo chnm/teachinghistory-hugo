@@ -6,7 +6,20 @@ content_type: historical_site
 draft: false
 drupal_nid: 5019
 website_url: http://www.ulstercountyhistoricalsociety.org/
+time_periods:
+- All
+- General
+topics:
+- Mid-Atlantic
+tags:
+- New York
+- Ulster County
+- counties
+- homes
+- houses
+- museums
 ---
 
 Built in the 1680s, on land originally settled by Native Americans, Bevier House today reflects the diverse history and culture of Ulster County. It displays exhibits on themes including women's history, slavery, immigration, Native Americans, and more.
+
 The museum offers exhibits, tours, educational programs, research library access, occasional lectures, and occasional living history events.

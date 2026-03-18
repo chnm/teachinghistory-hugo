@@ -12,10 +12,13 @@ summary: It's not enough to say that something has happened. Explaining why is n
 splash_image: /files/Causality_1.jpg
 image: /files/causality.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- General
+topics:
+- Education
 ---
-
 
 Whatever their grade level, students can begin to think critically about what kind of language is used in their textbooks.
 

@@ -17,9 +17,11 @@ summary: Searching for new, exciting ways to engage your students in the classro
 splash_image: /files/webquestsplash.jpg
 image: /files/webquestimage.jpg
 author_image: /files/author_image/authorphotojohnlee75x75_0.jpg
+tags:
+- Abraham Lincoln
+- teaching strategies
+- webquests
 ---
-
-
 
 ## What Is It?
 

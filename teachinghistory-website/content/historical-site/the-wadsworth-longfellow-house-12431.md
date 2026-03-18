@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 12431
 website_url: http://www.mainehistory.org/house_overview.shtml
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Children
+- Daily Life
+- Family Life
+- Literature
+- New England
 ---
 
 This is the childhood home of Henry Wadsworth Longfellow, a prominent poet in the transcendentalist movement of the early 19th century.
+
 School tours are available for the house and for downtown Portland. Activities for younger students are also offered. Teacher resources and on-line activities are free.

@@ -11,6 +11,27 @@ keywords: race, racism, race relations, American Revolution, Revolutionary War, 
 website_url: http://dev.forum-network.org/lecture/age-revolution-founding-fathers-and-slavery
 date_published: '2004-11-09T00:00:00'
 series_name: Slavery and the Making of America
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Ethnicity
+- Ideas & Ideologies
+- Politics
+- Reform
+- Slavery
+tags:
+- American Revolution
+- Founding Fathers
+- Revolutionary War
+- abolitionism
+- abolitionists
+- politicians
+- race
+- race relations
+- racism
+- slaves
+- war
 ---
 
 Director of the National Center for History in the Schools Gary Nash considers whether or not the Founding Fathers, in forming the United States of America, could have successfully abolished slavery.

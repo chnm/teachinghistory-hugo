@@ -14,8 +14,12 @@ summary: Decoration Day is a tradition that involves cleaning community cemeteri
   decorating them with flowers, holding religious services in cemeteries, and having
   dinner on the ground.
 splash_image: /files/splash-him-md5.jpg
+tags:
+- decoration day
+- holidays
+- memorial day
 ---
 
-
 Video background from The Library of Congress Webcasts site:
+
 "Decoration Day is a late spring or summer tradition that involves cleaning community cemeteries, decorating them with flowers, holding religious services in cemeteries, and having dinner on the ground. These commemorations seem to predate the post-Civil-War celebrations that ultimately gave us our national Memorial Day. Little has been written about this tradition, but it is still practiced widely throughout the Upland South, from North Carolina to the Ozarks and beyond."

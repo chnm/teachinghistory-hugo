@@ -68,11 +68,14 @@ splash_image_fid: '6970'
 splash_image: /files/splash-ell-edl.jpg
 image: /files/image-ell-edl.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+topics:
+- Mid-Atlantic
+- Midwestern States
+- Western States
 ---
-
 
 Integrating English Language Development (ELD) standards and objectives into your lesson planning can strengthen both your students' understanding of history and their language skill levels.
 
@@ -83,6 +86,7 @@ For many students, meeting content goals can be particularly difficult as many d
 ## How to Target Content and English Language Objectives
 
 Effective lesson plans that target content and English language objectives start with content objectives. Decide on the topic, history content standard, and history objectives first. Then, determine the ELD objectives that compliment the content goals. In doing so, choose ELD objectives that all students should meet. Differentiate for skill levels by adjusting work products that match students' abilities.
+
 Remember, if you are creating both ELD and content objectives, they should be assessed separately. Content objectives are measured by how well the students understood the material, whereas ELD objectives are measured by how effectively the students communicated their understanding.
 
 ## What This Looks Like in the Classroom
@@ -96,7 +100,11 @@ The following example, written for a California 8th-grade U.S. History classroom
          ## ELD standards
 
          Many states have ELD standards, although the name may vary from state to state. What may be called English as a Second Language in one state may be called English Language Proficiency in another state. Despite this difference, all of the standards focus on English language acquisition.
+
          Check your state's department of education website for ELD standards and other resources. If your state does not have them, the state English Language Arts standards can substitute. Below are sample state ELD standards.
+
          [California English Language Development Standards](http://www.cde.ca.gov/ci/rl/im/elaeldmatrixlinks.asp)
+
          [New York Learning Standards for English as a Second Language](http://www.emsc.nysed.gov/biling/resource/ESL/standards.html)
+
          [Indiana English Language Proficiency Standards](http://dc.doe.in.gov/Standards/AcademicStandards/PrintLibrary/elp.shtml)

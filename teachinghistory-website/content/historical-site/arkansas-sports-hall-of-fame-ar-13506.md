@@ -9,4 +9,5 @@ website_url: http://www.arksportshalloffame.com
 ---
 
 The Arkansas Sports Hall of Fame honors sports figures who have garnered national attention for the state of Arkansas through their athletic abilities. The organization operates a museum, which displays Mark Martin's first race car, in addition to other sport artifacts.
+
 The museum offers exhibits.

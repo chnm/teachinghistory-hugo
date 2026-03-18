@@ -17,11 +17,19 @@ summary: Daunted by teaching the Bill of Rights and its complex vocabulary to st
 splash_image: /files/billclass.jpeg
 author_image: /files/author_image/valenti.png
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- All
+- General
+topics:
+- Legal History
+tags:
+- Bill of Rights
+- Supreme Court
+- U.S. Supreme Court
+- amendments
 ---
-
-
 
 /files/media/video/BillofRights1.mp4
 

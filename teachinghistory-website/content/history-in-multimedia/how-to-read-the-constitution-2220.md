@@ -12,7 +12,28 @@ keywords: Founding Fathers, Constitutional Convention, Virginia Plan, New Jersey
 website_url: http://teachingamericanhistory.org/institutes/2004/founding_readings.html
 date_published: '2002-06-26T00:00:00'
 series_name: The American Revolution and the Founding of a New Nation
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Education
+- Ideas & Ideologies
+- Literature
+- Politics
+tags:
+- Connecticut Compromise
+- Constitutional Convention
+- Founding Fathers
+- Hamilton Proposal
+- New Jersey Plan
+- Philadelphia
+- Philadelphia Convention
+- U.S. Constitution. Articles of Confederation
+- Virginia Plan
+- ethics
+- government
+- politicians
 ---
 
 Professor Gordon Lloyd takes the listeners through the Constitution of United States, comparing it to the Articles of the Confederation and considering why it is less celebrated in popular memory than the Declaration of Independence.
+
 To listen to this lecture, scroll to the Wednesday, June 26th, 9:00 am-10:30 am session. This should be the lecture "How to Read the Constitution." Select either the RealAudio image or text in the gray bar to the left of the main text.

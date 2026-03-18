@@ -11,8 +11,9 @@ summary: How do factors such as race and ethnicity shape young peoples’ perspe
   the history of race relations?
 splash_image: /files/pastdiversitysplash.jpg
 image: /files/racialdiversityimage.jpg
+topics:
+- African Americans
 ---
-
 
 * Work to uncover the narratives about the United States that your students bring to your classroom. You might ask students to do a task similar to Epstein’s where students identify significant events and people, or ask students to free-write about the story of the American past.
 * Periodically, throughout your class, ask students to revisit these tasks so you can continue to learn more about how your students are constructing the American past.

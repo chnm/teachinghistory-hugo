@@ -10,6 +10,15 @@ keywords: vice presidents, presidents
 website_url: http://memory.loc.gov/ammem/pihtml/pivid11.html
 date_published: '2008-05-29T00:00:00'
 series_name: 'Presidential Inaugurations: Historical Insights'
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Cities & Suburbs
+- Politics
+- Popular Culture, Leisure
+tags:
+- presidents
+- vice presidents
 ---
 
 Library of Congress historian Marvin Kranz describes the institution of inaugural balls and how it has developed up to the present day; he also outlines Theodore Roosevelt's rise from vice president to president following McKinley's assassination.

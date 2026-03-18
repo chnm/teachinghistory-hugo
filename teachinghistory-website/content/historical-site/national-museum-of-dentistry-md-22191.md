@@ -6,7 +6,12 @@ content_type: historical_site
 draft: false
 drupal_nid: 22191
 website_url: http://www.dentalmuseum.org/
+time_periods:
+- General
+topics:
+- Health & Medicine
 ---
 
 The National Museum of Dentistry educates the public on the importance of dental hygiene and the history of dentistry as a practice and profession.
+
 The museum offers exhibits, self-guided and guided tours, homeschooler days, research library access, and occasional recreational and educational events.

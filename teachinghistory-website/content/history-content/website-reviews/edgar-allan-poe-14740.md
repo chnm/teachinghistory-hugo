@@ -14,7 +14,30 @@ splash_image_fid: '5256'
 summary: Annotated materials about Poe published during his lifetime.
 splash_image: /files/Edgar_Allan_Poe_432x240.jpg
 image: /files/website_image/14740.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Literature
+- Popular Culture, Leisure
+evidence_types:
+- Literary Sources
+- Newspapers and Periodicals
+- Personal Accounts
+resource_types:
+- Audio
+- Text
+- Video
+tags:
+- Edgar Allen; poetry; Baltimore
+- MD; literature
+- Poe
+- authors
+- fiction
+- horror
+- poetry
+- poets
+- short stories
+- writers
 ---
-
 
 Annotated versions of most of the material published by Poe during his lifetime (1809–1849) are presented on these two websites, including at least one example of all surviving poems and tales and in many cases multiple versions. Materials include selections of Poe's literary reviews and essays on a variety of subjects, including aesthetics, dreams, etiquette, and American literature. Also available are autobiographical writings, hundreds of letters, and miscellaneous documents, including a bill of sale for a slave. Bibliographies and an annotated chronology are available.

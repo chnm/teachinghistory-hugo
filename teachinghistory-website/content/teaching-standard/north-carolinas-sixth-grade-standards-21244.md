@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21244
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### NC.1. Course / Competency Goal: South America and Europe

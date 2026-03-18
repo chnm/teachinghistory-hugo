@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 22195
 website_url: http://www.arabamericanmuseum.org/
+time_periods:
+- General
+topics:
+- Ethnicity
+- Global Contact
+- Immigration
 ---
 
 The Arab American Museum, according to its website, "is the first museum in the world devoted to Arab American history and culture."
+
 The museum offers exhibits, programs and guided tours for school groups, a student photography program, research library access, and occasional recreational and educational events.

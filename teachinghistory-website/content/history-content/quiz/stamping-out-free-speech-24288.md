@@ -13,7 +13,15 @@ summary: The Stamp Act of 1765 had colonists crying foul. Answer these questions
   this most hated act.
 splash_image: /files/quiz-stampact-splash.jpg
 thumbnail: /files/website_image/DOTDigiImage.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- American Indians
+- Politics
+tags:
+- media
+- politics
 ---
-
 
 The 1765 Stamp Act taxed paper goods in the colonies. Many colonists saw the tax as a deliberate attack on the development of colonial business, political power, and press—even though England may not have intended it as such. Answer the following questions about the Stamp Act.

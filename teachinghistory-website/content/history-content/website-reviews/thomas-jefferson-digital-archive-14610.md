@@ -17,9 +17,33 @@ summary: Peruse more than 1,700 texts written by or to Thomas Jefferson—from c
 splash_image: /files/Thomas_Jefferson_Digital_Archive_432x240.jpg
 thumbnail: /files/quiz_thumbnail/princess-thumbnail-image.jpg
 image: /files/website_image/ThomasJefferson.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Literature
+- Politics
+- Southern States
+evidence_types:
+- Official Documents
+- Personal Accounts
+- Political Documents
+- Speeches
+resource_types:
+- Text
+tags:
+- Founding Fathers
+- Jefferson
+- Thomas; presidents
+- University of Virginia
+- Virginia
+- letters
+- politicians
 ---
 
-
 More than 1,700 texts written by or to Thomas Jefferson are available on this website, including correspondence, books, addresses, and public papers. While most texts are presented in transcribed, word-searchable format, 18 appear as color images of original manuscripts.
+
 The site also includes a biography of Jefferson written in 1834, eight years after his death. *The Jeffersonian Cyclopedia,* published in 1900, organizes more than 9,000 quotes according to theme and other categories. A collection of 2,700 excerpts from Jefferson's writings present his political philosophy. A wealth of searchable bibliographic listings is provided, including two previously published volumes and thousands of additional bibliographic references.
+
 Also available are a recent dissertation on the construction of the Jefferson-designed University of Virginia (UVA), listings from the *Oxford English Dictionary* that show Jefferson's influence on English-language usage, and four links to UVA exhibitions on Jefferson.

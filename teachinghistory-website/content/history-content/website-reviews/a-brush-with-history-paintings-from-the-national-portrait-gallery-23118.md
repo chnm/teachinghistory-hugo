@@ -14,7 +14,19 @@ summary: Compare changing artistic styles, or source images of famous individual
 splash_image: /files/brushwithhistory.jpg
 thumbnail: /files/slavemovement.jpg
 image: /files/website_image/BrusHistImage.jpg
+time_periods:
+- General
+topics:
+- African Americans
+- American Indians
+- Art
+- Popular Culture, Leisure
+- Women
+evidence_types:
+- Paintings and Prints
+resource_types:
+- Images
+- Text
 ---
-
 
 Visitors to this site can view 76 portraits of prominent Americans, drawn from the Gallery's collections. The paintings are arranged in chronological order, from the 1720s to the 1990s. Featured artists include famous 18th and 19th century portraitists Gilbert Stuart and John Singer Sargent, as well as more abstract 20th century artists like Marguerite Zorath and Alex Katz. The wide variety of subjects includes Benjamin Franklin, popular music icon Michael Jackson, 20th century dancer and choreographer Martha Graham, and Cherokee statesman Sequoyah. A brief (200-250 word) biography of the subject accompanies each portrait, along with the artist's name (if known), the year painted, the medium, and accession information. For those interested in American portraiture from colonial times to the present, this site provides a sampler of changing styles and subjects.

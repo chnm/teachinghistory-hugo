@@ -9,4 +9,5 @@ website_url: http://gfp.sd.gov/state-parks/directory/oakwood-lakes/
 ---
 
 The Oakwood Lakes State Park encompasses land used for annual meetings and summer encampment by area Native Americans, and an 1869 settler's cabin is located in its original location within the park. A displays presents archaeological findings.
+
 The park offers a display, outdoor activities, and picnic areas.

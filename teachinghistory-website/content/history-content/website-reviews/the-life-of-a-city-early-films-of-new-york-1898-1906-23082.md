@@ -14,10 +14,28 @@ summary: View early films of New York City life.
 thumbnail: /files/TeachingFuture432x240.jpg
 splash_image: /files/splash-wr-newyorkfilms.jpg
 image: /files/website_image/LifeCityImage.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Cities & Suburbs
+- Daily Life
+- Immigration
+- Popular Culture, Leisure
+- Science & Tech.
+evidence_types:
+- Film and Video
+resource_types:
+- Text
+- Video
+tags:
+- New York
 ---
 
-
 Part of the Library of Congress American Memory project, this site offers 45 films of New York City, 1898 to 1906, from the Paper Print Collection of the Motion Picture, Broadcasting, and Recorded Sound Division. Subjects of these films include buildings, parades, everyday activities like delivering newspapers, immigrants landing on Ellis Island, and the interior of a subway.
+
 Each film is accompanied by a 75–100 word summary of the film's contents and notes on the duration of the film, the cameraman's name, filming location, date filmed, and the call number and location information for the original film. The site also offers a 500-word essay on New York City at the turn of the century; a 750-word essay about America at the turn of the century; and a 200-word essay on the career of "Pioneer Cameramen" of the era.
+
 A "Learn More About It" section includes links to 10 other American Memory resources and related exhibits, and selected bibliographies offer 24 works on the history of New York City and 14 works on the history of motion pictures. Visitors can search the site by keyword and browse by subject and film title.
+
 Though somewhat limited in scope, this site is ideal for those interested in urban history, the history of New York, or the early motion picture industry.

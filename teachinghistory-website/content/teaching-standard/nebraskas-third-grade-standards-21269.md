@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21269
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### NE.4. Content Standard: United States History, Nebraska History, Geography, Civics/Government, Economics

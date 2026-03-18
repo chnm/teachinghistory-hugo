@@ -14,8 +14,35 @@ summary: What picture have people painted of the Washington, D.C. in written wor
 image: /files/website_image/CapiBayImage.jpg
 thumbnail: /files/splash-wr-tupper.jpg
 splash_image: /files/capital.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- American Indians
+- Cities & Suburbs
+- Global Contact
+- Literature
+- Politics
+- Slavery
+- Southern States
+evidence_types:
+- Advertising
+- Literary Sources
+- Personal Accounts
+- Photographs
+- Religious Texts
+- Speeches
+- Travel
+resource_types:
+- Images
+- Text
 ---
 
-
 This site offers published books selected from the Library of Congress' general and rare book collections in an "attempt to capture in words and pictures a distinctive region as it developed between the onset of European settlement and the first quarter of the twentieth century." Contains 139 books, a few by well-known figures, such as Edwin Booth, Frederick Douglass, and Thomas Jefferson, but most by little-known residents and visitors to the region. Includes memoirs, autobiographies, biographies, books of letters, journals, poems, addresses, reports, speeches, travel books, sermons, books of photographs, and promotional brochures. In addition to Washington, D.C., the cities of Baltimore, MD, and Richmond, VA, are featured.
+
 A special presentation entitled "Pictures of People and Places from the Collection" consists of selected illustrations organized in three sections of 10 images each on Maryland, the District of Columbia, and Virginia. The site includes 10 works dealing with slavery—a number of which were written by former slaves—and approximately 10 works dealing with encounters between whites and Native Americans. Includes links to 22 related sites. A valuable collection for those studying ways that Washington, D.C., and neighboring regions have been described in print over several centuries.

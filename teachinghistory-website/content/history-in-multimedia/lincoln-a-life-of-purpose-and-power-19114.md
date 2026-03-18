@@ -11,6 +11,39 @@ keywords: presidents, politicians, race, racism, race relations, biographies, bi
 website_url: http://www.gilderlehrman.org/multimedia#3451
 date_published: '2004-04-15T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Daily Life
+- Education
+- Ethnicity
+- Ideas & Ideologies
+- Literature
+- Media
+- Military History
+- Politics
+- Reform
+- Religion
+- Rural Life
+- Slavery
+tags:
+- Civil War
+- authors
+- biographers
+- biographies
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- research
+- scholarship
+- war
+- wars
+- writers
+- writing
 ---
 
 Richard Carwardine is Rhodes Professor of American History at Oxford University, author of *Lincoln: A Life of Purpose and Power*, and winner of the 2004 Lincoln Book Prize. In this lecture, he discusses different aspects of Lincoln's life. Why is Lincoln a mythic figure? How early in his career did he develop his views against slavery? What role did religion play in his life? Professor Carwardine analyzes Lincoln's greatness as well as his humility.

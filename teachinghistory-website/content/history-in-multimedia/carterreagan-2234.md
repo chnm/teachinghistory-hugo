@@ -10,7 +10,16 @@ keywords: presidents, politicians
 website_url: http://teachingamericanhistory.org/institutes/2002/presidency_readings.html
 date_published: '2002-06-20T00:00:00'
 series_name: The Origins and Development of the American Presidency
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Ideas & Ideologies
+- Politics
+tags:
+- politicians
+- presidents
 ---
 
 Professor John Moser compares and contrasts the presidencies of Jimmy Carter and Ronald Reagan, looking at public perception of them and what these perceptions were based on. Moser examines particularly arguments over the extent of presidential power.
+
 To listen to this lecture, scroll to session eight, and select the RealAudio link to the left of the main body of text.

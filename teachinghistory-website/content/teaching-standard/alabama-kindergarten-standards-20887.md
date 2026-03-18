@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20887
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## AL.K. Standard: Living and Working Together in Families and Communities
@@ -62,6 +62,7 @@ Kindergarten students are introduced to the world beyond family and home.
   + ##### Grade Level Example:
 
     Goods—food, toys, clothing  
+
     Services—medical care, fire protection, law enforcement, library resources
 
 ### K.6
@@ -108,8 +109,11 @@ Kindergarten students are introduced to the world beyond family and home.
   + ##### Grade Level Example:
 
     Symbols—United States flag, Alabama flag, bald eagle  
+
     Customs—pledging allegiance to the United States flag, singing "The Star-Spangled Banner"  
+
     Individuals—George Washington, Abraham Lincoln, Squanto, Martin Luther King Jr.  
+
     Celebrations—Fourth of July, Memorial Day, Veterans Day
 
 ### K.12

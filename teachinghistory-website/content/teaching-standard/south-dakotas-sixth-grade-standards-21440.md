@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21440
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### SD.6.W. Goal / Strand: World History

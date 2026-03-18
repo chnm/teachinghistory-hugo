@@ -9,6 +9,14 @@ duration: 00:05:13
 website_url: http://memory.loc.gov/ammem/pihtml/pivid01.html
 date_published: '2008-05-29T00:00:00'
 series_name: 'Presidential Inaugurations: Historical Insights'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Politics
+- Religion
+tags:
+- presidents
+- speeches
 ---
 
 Library of Congress historian Marvin Kranz outlines the proceedings of the United States' first presidential inauguration, and points out the precedents that George Washington set during the ceremony.

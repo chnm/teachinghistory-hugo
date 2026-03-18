@@ -10,8 +10,20 @@ splash_image_fid: '10195'
 summary: Watch Briana Zavadil White introduce teachers to portraits of inventors and
   presidents from the 19th century.
 splash_image: /files/portraitsplash_0.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Art
+- Politics
+- Science & Tech.
+tags:
+- Abraham Lincoln
+- Ulysses S. Grant
+- inventors
+- photographs
+- portraits
 ---
-
 
 /files/media/video/portraitgallery1.mp4
 

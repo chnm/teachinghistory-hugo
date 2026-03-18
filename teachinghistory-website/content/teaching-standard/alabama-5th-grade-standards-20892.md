@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20892
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## AL.5. Standard: United States Studies—Beginnings to the Industrial Revolution
@@ -52,7 +52,9 @@ Fifth-grade content standards focus on the United States from the prehistoric pe
   - ##### Grade Level Example:
 
     patrons—King Ferdinand and Queen Isabella
+
     explorers—Christopher Columbus
+
     early settlements—St. Augustine, Quebec, Jamestown+ Tracing the development and impact of the Columbian Exchange
 
 ### 5.5

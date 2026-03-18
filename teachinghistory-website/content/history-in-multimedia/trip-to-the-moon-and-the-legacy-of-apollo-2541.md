@@ -11,6 +11,25 @@ keywords: astronauts, geologists, geology, space, outer space, mining, space tra
 website_url: http://video.mit.edu/watch/trip-to-the-moon-and-the-legacy-of-apollo-9045/
 date_published: '2003-09-30T00:00:00'
 series_name: Gardner Lecture
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Science & Tech.
+tags:
+- Apollo mission
+- astronauts
+- energy
+- energy sources
+- exploration
+- geologists
+- geology
+- mining
+- moon
+- outer space
+- resources
+- space
+- space travel
 ---
 
 Professor, geologist, and former astronaut on the Apollo mission Harrison H. Schmitt talks about his experiences as a member of the Apollo mission to the moon, and also discusses the possibilities of mining the moon in future for the energy source helium-3. His presentation includes film footage of the Apollo mission.

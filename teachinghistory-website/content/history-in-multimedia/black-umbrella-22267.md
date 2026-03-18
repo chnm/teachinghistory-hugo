@@ -9,6 +9,13 @@ duration: 00:25:44
 website_url: http://www.kshs.org/p/cool-things-lincoln-umbrella/10373
 date_published: '2009-05-20T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Media
+- Midwestern States
+- Military History
+- Politics
 ---
 
 Kansas Museum of History curators look at a black umbrella—used to shelter Abraham Lincoln from the weather during his inaugural tour in 1861—in the museum's collection.

@@ -9,8 +9,17 @@ duration: 00:13:49
 website_url: http://podcast.history.org/2011/09/26/first-do-no-harm/
 date_published: '2011-09-26T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+tags:
+- archaeology
+- conservation
+- musical instruments
 ---
 
 From Colonial Williamsburg: Past and Present Podcasts
+
 "Restoration presents a paradox when repairing old instruments could mean erasing their stories. Conservator John Watson walks the fine line."
+
 Interested readers can also learn more about the material culture present at Colonial Williamsburg by exploring the Art Museums of Colonial Williamsburg [website](http://www.history.org/history/museums/).

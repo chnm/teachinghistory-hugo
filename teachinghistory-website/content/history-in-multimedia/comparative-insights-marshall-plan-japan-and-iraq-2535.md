@@ -12,6 +12,36 @@ keywords: presidents, foreign relations, foreign policy, policy, policies, polit
 website_url: http://video.mit.edu/watch/comparative-insights-marshall-plan-japan-and-iraq-9928/
 date_published: '2005-03-07T00:00:00'
 series_name: The Politics of Reconstructing Iraq
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+tags:
+- Cold War
+- Communism
+- Iraq
+- Japan
+- Japanese
+- Marshall Plan
+- Middle East
+- War on Terror
+- World War II
+- economics
+- foreign policy
+- foreign relations
+- occupation
+- policies
+- policy
+- politicians
+- presidents
+- terrorism
+- war
+- wars
 ---
 
 Professors John W. Dower and Charles S. Maier contrast previous U.S. foreign policy events and relations with the current situation in Iraq, focusing on the U.S. occupation of Japan following World War II and the Marshall Plan designed to stop the spread of Communism in Western Europe.

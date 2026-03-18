@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21467
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## §113.16. Social Studies, Grade 5, Beginning with School Year 2011-2012.

@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 13573
 website_url: http://www.warmsprings.biz/museum/visit/index.shtml
+topics:
+- American Indians
+- Art
+- Daily Life
+- Environment
+- Family Life
+- Rural Life
+- Western States
 ---
 
 The Museum at Warms Springs is devoted to exhibiting the history of the Confederated Tribes of the Warm Springs Reservation, a Native American reservation in Oregon. The Museum rotates its exhibits once a year but focuses on showcasing the culture of the tribes, including tribal song and language, craftsmanship, and daily life.
+
 School groups are welcome to tour the museum's gallery and its outdoor portion of the museum containing information on the museum's traditional architecture.

@@ -12,8 +12,23 @@ url: /history-content/ask-a-historian/24501
 splash_image_fid: '7099'
 summary: How emigrants traveled from Pennsylvania to Illinois in 1830.
 splash_image: /files/conestoga-wagon.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Daily Life
+- Immigration
+- Mid-Atlantic
+- Midwestern States
+tags:
+- Canal
+- Chicago
+- Illinois
+- Pennsylvania
+- Pennsylvania Road
+- Stagecoach
+- emigration
+- erie canal
 ---
-
 
 From the early 1830's, emigrants from rural northeastern Pennsylvania traveling to northwestern Illinois had two possible routes that were widely used. The most popular of these was to take the Erie Canal.
 

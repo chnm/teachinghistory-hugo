@@ -12,9 +12,23 @@ summary: Use this guide developed by PBS and the *Antiques Roadshow* to teach ab
   material culture.
 splash_image: /files/UPS-splash-AR.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- All
+topics:
+- American Indians
+- Art
+- Children
+- Consumer Culture
+- Global Contact
+tags:
+- analyzing objects
+- artifacts
+- collectibles
+- material culture
+- strategies and lessons
+- worksheets
 ---
-
 
 The creators of the Public Broadcasting Series (PBS), *Antiques Roadshow* developed this guide to integrating material culture into the classroom. Using artifacts from the show, such as late-19th-century American Indian clothing and a napkin drawing by Andy Warhol, it presents strategies for teaching with material culture and questions to ask about how people make, collect, and use material objects.

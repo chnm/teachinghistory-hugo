@@ -12,7 +12,15 @@ summary: Produce digital documentaries with iMovie for Mac and Windows Movie Mak
   for PCs.
 splash_image: /files/imoviesplash.jpg
 image: /files/moviemaker-and-imovie2.jpg
+tags:
+- digital storytelling
+- films
+- movies
+- multimedia
+- presentations
+- video
+- visualization
+- visuals and visualizing
 ---
-
 
 iMovie and Movie Maker are video production tools that make moviemaking easy for teachers and students.

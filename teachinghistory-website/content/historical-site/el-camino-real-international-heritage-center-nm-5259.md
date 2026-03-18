@@ -6,8 +6,38 @@ content_type: historical_site
 draft: false
 drupal_nid: 5259
 website_url: http://www.nmmonuments.org/inst.php?inst=9
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Daily Life
+- Economy
+- Ethnicity
+- Global Contact
+- International Relations
+- Latinos
+- Rural Life
+- Western States
+tags:
+- El Camino Real de Tierra Adentro
+- Mexicans
+- Mexicos
+- Native Americans
+- New Mexico
+- Spain
+- Spanish
+- monuments
+- museums
+- trails
 ---
 
 The newest State Monument tells the fascinating story of more than three centuries of trade and commerce that traversed the trail, linking Spain, Mexico, and the United States at a time when mules, trains, and horses were the only means of land travel. The award-winning building is set amidst the pristine Chihuahuan Desert north of the Jornada del Muerto and houses an exhibit that takes visitors on a virtual journey along the historic trail from Zacatecas, Mexico to Santa Fe, New Mexico. Visitors can discover the indigenous people encountered by the Spanish and the impact the arrival of the Spanish had on the formation of New Mexico. Remnants of the early journey remain today in hand-hewn carts, tools, leather water jugs, and religious altars and objects that accompanied the travelers into the northern territory. Visitors experience the journeys of Native Americans, Spaniards, and Mexicans; the military fort period; and the first Anglo settlers from the Eastern United States, through first-person stories and the art and objects they brought with them.
+
 A second website, maintained by the El Camino Real International Heritage Center Foundation, can be found [here.](http://www.caminorealheritage.org/foundation/foundation.htm)
+
 The center offers exhibits, tours, educational programs, workshops, and occasional recreational and educational events.

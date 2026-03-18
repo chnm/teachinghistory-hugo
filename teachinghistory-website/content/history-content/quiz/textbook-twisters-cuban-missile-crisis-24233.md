@@ -13,7 +13,13 @@ summary: The Cuban Missile Crisis was one of the greatest conflicts between the 
   and Cuba. How did both nations interpret the Crisis?
 splash_image: /files/TextbookTwister_0.jpg
 thumbnail: /files/website_image/DemoVistImage.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- International Relations
+- Politics
+tags:
+- Cuban Missile Crisis
 ---
-
 
 The world was watching during the Cuban Missile Crisis—and it wrote down what it saw. Different countries interpreted the Cuban Missile Crisis in different ways, when they constructed historical narratives following the Crisis. Read the following textbooks selections, and choose the country of origin for each.

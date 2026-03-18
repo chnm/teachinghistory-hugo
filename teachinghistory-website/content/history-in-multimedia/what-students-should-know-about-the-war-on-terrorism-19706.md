@@ -15,8 +15,27 @@ splash_image_fid: '7830'
 summary: Edward Turzanski sums up what he believes students should be taught about
   the War on Terrorism
 splash_image: /files/splash-91141.jpg
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Economy
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+tags:
+- foreign affairs
+- foreign policy
+- foreign relations
+- geography
+- language
+- languages
+- terrorism
+- war
+- wars
 ---
 
-
 Edward Turzanski of the Foreign Policy Research Institute attempts to sum up what students should be taught about the War on Terrorism, in order to prepare students to critically analyze world events and plan for and anticipate future events. He suggests that the languages of cultures beyond the Spanish-speaking and Western European world and world geography need to be more widely taught.
+
 Audio and video options are available.

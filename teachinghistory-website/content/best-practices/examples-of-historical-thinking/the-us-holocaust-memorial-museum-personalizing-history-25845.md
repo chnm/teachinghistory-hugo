@@ -11,9 +11,20 @@ summary: Make large-scale historic events like the Holocaust personal with artif
   and stories from individual human lives.
 splash_image: /files/holosplash_0_0.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Ethnicity
+- International Relations
+- Military History
+tags:
+- Holocaust
+- U.S. Holocaust Memorial Museum
+- artifacts
+- genocide
+- museums
 ---
-
 
 /files/media/video/holocausttour1.mp4
 

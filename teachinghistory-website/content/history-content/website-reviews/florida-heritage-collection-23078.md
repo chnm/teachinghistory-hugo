@@ -14,10 +14,56 @@ summary: Explore Florida state, regional, and local history.
 thumbnail: /files/splash-wr-presport.jpg
 splash_image: /files/splash-wr-floridaheritage.jpg
 image: /files/website_image/FLHistImage_0.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- African Americans
+- American Indians
+- Art
+- Business
+- Cities & Suburbs
+- Education
+- Environment
+- Ethnicity
+- Health & Medicine
+- Ideas & Ideologies
+- Literature
+- Military History
+- Politics
+- Popular Culture, Leisure
+- Reform
+- Rural Life
+- Science & Tech.
+- Southern States
+- Women
+evidence_types:
+- Advertising
+- Literary Sources
+- Maps
+- Official Documents
+- Paintings and Prints
+- Personal Accounts
+- Photographs
+resource_types:
+- Images
+- Text
+tags:
+- Florida
 ---
 
-
 This project provides a collection of more than 280 digitized materials documenting the history of Florida from pre-contact to the present. It includes materials relating to Florida history, culture, arts, literature, and social sciences in a number of major thematic areas, including Native American and minority populations, exploration and development, tourism, natural environment, and regional interests. These materials are drawn from the archives, special collections, and libraries of the 10 state universities in the Florida system.
+
 Items include family papers, local history books and booklets, diaries, advertising materials, and Civil War letters, business records, maps, and photographs. Many of the materials are regional or local in scope.
+
 The site also includes an extensive (5000-word) Florida history narrative timeline from pre-contact (before 1492) to the present. A user guide and tutorial are provided, and the documents are searchable by county name, keyword, subject, author, or title. The search engine has an option for listing either electronic holdings only or all collection holdings under a particular subject. Entries in the electronic catalog include the archive in which the original is located as well as a 20-word description of the item and its contents.
+
 Note that a few links are still under construction with no completion date indicated. The site is ideal for researching Florida's state and local history.

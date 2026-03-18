@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 19419
 website_url: http://www.historicnewengland.org/historic-properties/homes/clemence-irons-house/clemence-irons-house/?searchterm=Clemence-Irons%20House
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- New England
+tags:
+- Rhode Island
+- homes
+- houses
 ---
 
 Built by Richard Clemence in 1691, the Clemence-Irons House is a rare surviving example of a "stone-ender," a once-common building type first developed in the western part of England.
+
 The house offers tours.

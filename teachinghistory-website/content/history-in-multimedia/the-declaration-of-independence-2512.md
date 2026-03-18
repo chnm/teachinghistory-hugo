@@ -11,6 +11,21 @@ keywords: Founding Fathers, government, memory, interpretation, Declaration of I
 website_url: http://www.teachingamericanhistory.us/tah_2/speakers/einhorn2.html
 date_published: '2006-02-23T00:00:00'
 series_name: 'History Grows in Oakland: Lectures'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Legal History
+- Military History
+- Politics
+tags:
+- American Revolution
+- Declaration of Independence
+- Founding Fathers
+- Revolutionary War
+- government
+- war
+- wars
 ---
 
 Professor Robin Einhorn examines the text and context of the Declaration of Independence, including the contradictions within the text and the structure of the text.

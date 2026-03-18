@@ -15,8 +15,32 @@ summary: Explore the planned community of Reston, VA. Gain a better sense of the
 thumbnail: /files/AAAMC_432x240.jpg
 splash_image: /files/splash-wr-reston.jpg
 image: /files/website_image/RestCollImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Cities & Suburbs
+- Daily Life
+- Education
+- Health & Medicine
+- Popular Culture, Leisure
+- Science & Tech.
+- Southern States
+evidence_types:
+- Advertising
+- Architecture
+- Maps
+- Official Documents
+- Paintings and Prints
+- Personal Accounts
+- Photographs
+resource_types:
+- Images
+tags:
+- Virginia
 ---
 
-
 This collection of more than 160 texts, maps, photographs, and sketches is focused on the people, themes, and organizations important to Reston's history as a planned community. Textual materials include deeds, certificates, promotional brochures, studies, reports, and correspondence. Maps include Reston's Master Plan, major road systems, educational facilities, and recreational areas. Photographs include Lake Anne, various physical structures, and people significant to Reston's history. Sketches are mostly of building and community plans. Subject areas include health care, education, public services, parks, recreation, transportation, and population.
+
 The collection can be browsed by title, subject, people, or organization and it can also be searched by subject, personal name, corporate name, or title. This is a website of interest to those researching the history of Reston or of planned communities.

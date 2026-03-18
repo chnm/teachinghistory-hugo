@@ -18,9 +18,18 @@ summary: Why were the people living in rural areas more likely to support "free 
   in 1896 than urban dwellers?
 splash_image: /files/freesilversplash.jpg
 author_image: /files/author_image/ag2_0.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Economy
+- Politics
+tags:
+- Free Silver
+- Populists
+- The People’s Party
+- election of 1896
+- gold standard
 ---
-
-
 
 ## Gold bugs v. Silverites
 
@@ -29,13 +38,17 @@ Political battles over currency issues became intensely divisive during the last
 ## Farmers for Free Silver
 
 Congress had discontinued the minting of silver coins in 1873 in an act that came to be known as the “Crime of ’73.” Professor of government Elizabeth Sanders includes the demonetization of silver as one of a few significant policies of the period that led many working people, especially farmers, to believe that a “fraud against the people” was being “perpetrated by the national state on behalf of a financial elite.” With silver coins delegitimized, the amount of money in circulation decreased. A tightened money supply benefited creditors, like banks and merchants, at the expense of debtors, especially farmers who had to borrow annually from banks and merchants in order to plant cash crops that could bring in money for the repayment of their debts only at harvest time. Farmers sought inflation of the money supply so that more money would be available to them for credit, prices for their crops would rise, and debts would become easier to repay.
+
 Advocates for inflating the money supply ranged from those who proposed that the federal government print paper money not backed by either gold or silver to those who called for the remonetization of silver. Free silver proponents came to believe in the 1890s that unlimited coinage of silver, a reform less extreme than others that agrarian radicals earlier had supported, could unite divergent groups into a national coalition to challenge politicians who supported monied interests.
+
 The People’s Party, also known as the Populists, formed as a political party in 1891. As Sanders emphasizes, “Its philosophy was anti-corporate, though not anti-capitalist.” The Populist platform during the 1892 election campaign advocated free silver and other reforms with the intent, Sanders writes, “not to turn the clock back on industrial development but to harness the new technological power for social good, to use the state to check exploitative excesses, to uphold the rights and opportunities of labor (farm and factory), and to maintain a healthy and creative business competition.”
 
 ## Election of 1896
 
 Populists hoped to win the 1896 election and supplant the Democrats as one of the nation’s two major national parties. Their strategy relied on convincing silverites from the Democratic Party to vote with the Populists rather than for the expected Democratic nominee, President Grover Cleveland, who supported the gold standard, as did the Republican nominee, Ohio governor William McKinley. The Democrats, however, selected as their candidate William Jennings Bryan, a strong advocate for free silver. McKinley forces, mounting a well-funded campaign supported by the Northern intelligentsia, church and business interests, and the urban press, tarnished Bryan as a radical with an economic program that would lead to disastrous consequences for the nation. McKinley soundly won the election, and although Bryan triumphed in 22 states to McKinley’s 23, McKinley captured nearly 100 more electoral votes and prevailed in every city of more than 100,000, with the exception of Denver, where the silver mining interest was strong.
+
 Some historians believe that many urban workers voted for McKinley because they had become convinced that Bryan’s policies would destroy the economy and result in reduced wages and increased unemployment. Some argue that Bryan’s “revivalist” style of campaigning and the Prohibitionist views of some of his supporters were distasteful to Catholics, especially Germans, in the urban labor force. Sanders contends that reporters’ coverage of Bryan’s campaign provides strong evidence that his message, in fact, did resonate with urban workers. She suggests, however, that “the powerful economic warnings of the core establishment” and the claim that a program to benefit farmers would wreck havoc upon the Northern industrial economy “were ultimately persuasive on election day.”
+
 Sanders and others emphasize that labor organizations of the time did not want to rely on government to resolve its disputes with management. Unions sought to effect change through exerting leverage at the work site itself. Burnham writes, “From the perspective of the urban voter committed to the network of urban-industrial social and economic relationships that now existed, currency inflation could only be regarded as irrelevant at best and disruptive at worst.”
 
 ---
@@ -47,11 +60,15 @@ Political battles over currency issues became intensely divisive during the last
 ## Farmers for Free Silver
 
 Congress had discontinued the minting of silver coins in 1873 in an act that came to be known as the “Crime of ’73.” Professor of government Elizabeth Sanders includes the demonetization of silver as one of a few significant policies of the period that led many working people, especially farmers, to believe that a “fraud against the people” was being “perpetrated by the national state on behalf of a financial elite.” With silver coins delegitimized, the amount of money in circulation decreased. A tightened money supply benefited creditors, like banks and merchants, at the expense of debtors, especially farmers who had to borrow annually from banks and merchants in order to plant cash crops that could bring in money for the repayment of their debts only at harvest time. Farmers sought inflation of the money supply so that more money would be available to them for credit, prices for their crops would rise, and debts would become easier to repay.
+
 Advocates for inflating the money supply ranged from those who proposed that the federal government print paper money not backed by either gold or silver to those who called for the remonetization of silver. Free silver proponents came to believe in the 1890s that unlimited coinage of silver, a reform less extreme than others that agrarian radicals earlier had supported, could unite divergent groups into a national coalition to challenge politicians who supported monied interests.
+
 The People’s Party, also known as the Populists, formed as a political party in 1891. As Sanders emphasizes, “Its philosophy was anti-corporate, though not anti-capitalist.” The Populist platform during the 1892 election campaign advocated free silver and other reforms with the intent, Sanders writes, “not to turn the clock back on industrial development but to harness the new technological power for social good, to use the state to check exploitative excesses, to uphold the rights and opportunities of labor (farm and factory), and to maintain a healthy and creative business competition.”
 
 ## Election of 1896
 
 Populists hoped to win the 1896 election and supplant the Democrats as one of the nation’s two major national parties. Their strategy relied on convincing silverites from the Democratic Party to vote with the Populists rather than for the expected Democratic nominee, President Grover Cleveland, who supported the gold standard, as did the Republican nominee, Ohio governor William McKinley. The Democrats, however, selected as their candidate William Jennings Bryan, a strong advocate for free silver. McKinley forces, mounting a well-funded campaign supported by the Northern intelligentsia, church and business interests, and the urban press, tarnished Bryan as a radical with an economic program that would lead to disastrous consequences for the nation. McKinley soundly won the election, and although Bryan triumphed in 22 states to McKinley’s 23, McKinley captured nearly 100 more electoral votes and prevailed in every city of more than 100,000, with the exception of Denver, where the silver mining interest was strong.
+
 Some historians believe that many urban workers voted for McKinley because they had become convinced that Bryan’s policies would destroy the economy and result in reduced wages and increased unemployment. Some argue that Bryan’s “revivalist” style of campaigning and the Prohibitionist views of some of his supporters were distasteful to Catholics, especially Germans, in the urban labor force. Sanders contends that reporters’ coverage of Bryan’s campaign provides strong evidence that his message, in fact, did resonate with urban workers. She suggests, however, that “the powerful economic warnings of the core establishment” and the claim that a program to benefit farmers would wreck havoc upon the Northern industrial economy “were ultimately persuasive on election day.”
+
 Sanders and others emphasize that labor organizations of the time did not want to rely on government to resolve its disputes with management. Unions sought to effect change through exerting leverage at the work site itself. Burnham writes, “From the perspective of the urban voter committed to the network of urban-industrial social and economic relationships that now existed, currency inflation could only be regarded as irrelevant at best and disruptive at worst.”

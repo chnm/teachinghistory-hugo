@@ -12,6 +12,30 @@ keywords: Boston, disasters, fire, fires, religious tension, religious conflicts
 website_url: http://dev.forum-network.org/lecture/charlestown-convent-fire-1834
 date_published: '2004-09-07T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Children
+- Cities & Suburbs
+- Education
+- Gender
+- New England
+- Religion
+- Women
+tags:
+- Boston
+- Catholicism
+- Catholics
+- Protestantism
+- Protestants
+- boarding schools
+- convents
+- disasters
+- fire
+- fires
+- religious conflicts
+- religious tension
+- schools
 ---
 
 Author Nancy Schultz, author of *Fire and Roses: The Burning of the Charlestown Convent, 1834*, describes the burning down of a Roman Catholic convent and elite boarding school in 19th-century Boston; and discusses its causes.

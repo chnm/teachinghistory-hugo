@@ -45,9 +45,9 @@ splash_image_fid: '8132'
 splash_image: /files/splash-btc-halla.jpeg
 image: /files/image-btc-ap.jpeg
 grade_levels:
-  - high
+- high
 ---
 
-
 Ken Halla blogs about his teaching strategies and online finds at [*US History Teachers Blog*](http://ushistoryeducatorblog.blogspot.com/).
+
 Ash, Katie. “[Digitized Historical Documents Give Students Direct Access to the Past](http://www.edweek.org/ew/articles/2011/06/15/35mm-history.h30.html).” Jun. 13, 2011. [*Education Week*](http://www.edweek.org/ew/index.html). 2011. (Accessed Sept. 16, 2011.)

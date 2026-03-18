@@ -15,8 +15,24 @@ splash_image_fid: '8394'
 summary: World War II U.S. Navy veteran Gerald Halderman talks about his experiences
   during the war, in the Pacific theatre.
 splash_image: /files/splash-him-vd11.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+- New England
+tags:
+- U.S. Navy
+- World War II
+- navies
+- recordings
+- records
+- sailors
+- soldiers
+- veterans
+- war
+- wars
 ---
 
-
 World War II U.S. Navy veteran Gerald Halderman talks about his experiences during the war, in the Pacific theatre.
+
 The audio of this clip is available as a downloadable MP3 file.

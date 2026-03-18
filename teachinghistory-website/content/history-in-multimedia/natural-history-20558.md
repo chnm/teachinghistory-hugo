@@ -11,6 +11,30 @@ keywords: naturalism, naturalists, colonies, colonization, colonists, botany, bo
 website_url: http://podcast.history.org/2008/06/16/natural-history/
 date_published: '2008-12-22T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- Art
+- Environment
+- Global Contact
+- Literature
+- Media
+- Science & Tech.
+- Southern States
+tags:
+- animals
+- artists
+- birds
+- botanists
+- botany
+- colonies
+- colonists
+- colonization
+- naturalism
+- naturalists
+- plants
+- watercolorists
+- watercolors
 ---
 
 Naturalist [Mark Catesby](http://www.history.org/foundation/journal/Winter01-02/bird.cfm) (1683-1749) studied and made watercolors of the wildlife and plants of colonial America. Interpreter Robb Warren talks about the man and his art.

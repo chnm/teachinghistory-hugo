@@ -9,6 +9,13 @@ duration: 00:26:20
 website_url: http://www.kshs.org/p/cool-things-civil-war-guidons/10353
 date_published: '2009-06-03T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Midwestern States
+- Military History
+- Politics
+- Western States
 ---
 
 Kansas Museum of History curators look at two guidons (swallowtail flags) used by Kansas cavalry units during the Civil War.

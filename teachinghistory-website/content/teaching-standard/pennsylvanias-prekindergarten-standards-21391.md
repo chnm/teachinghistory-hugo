@@ -5,6 +5,7 @@ lastmod: '2017-12-01T14:23:42'
 content_type: teaching_standard
 draft: false
 drupal_nid: 21391
+grade_levels: []
 ---
 
 * ### PA.SS1. Academic Standard: Social Studies

@@ -13,10 +13,14 @@ summary: Graphic organizers can be tricky. Check out these tips on how to keep t
   simple!
 splash_image: /files/organizersplash_0.jpg
 image: /files/organizersimage_0.jpg
+tags:
+- graphic organizers
+- resources
+- teaching methods
 ---
 
-
 Graphic organizers [GOs] are essential classroom tools. They help students identify and organize significant information, understand important relationships between concepts, and make sense of difficult texts and content. Charts, timelines, Venn diagrams, cause and effect sequences—these are just a few of these visual tools that can support student learning.
+
 So what type of GOs do students have difficulty with? Trouble for students usually lies not with a particular type of graphic organizer, but rather in *how* it is used in the classroom.
 
 ## Guidelines for Use
@@ -32,7 +36,11 @@ All in all, unfamiliar GOs or ones that are visually busy and complicated can be
 ---
 
 [Scaffolding with Graphic Organizers](http://teachinghistory.org/teaching-materials/english-language-learners/24130)
+
 [Teaching Strategies for Museums: Graphic Organizers](http://teachinghistory.org/best-practices/teaching-in-action/24216)
+
 See example [here](http://teachinghistory.org/teaching-materials/teaching-guides/24313) (look in the “Download” box) that demonstrates how you can use graphic organizers to help students analyze and compare historical sources.
+
 The blog entry "[Teaching with Timelines]( http://teachinghistory.org/nhec-blog/24425)," by high-school teacher Joe Jelen, looks at timeline tools.
+
 Dexter, Douglas D., and Charles A. Hughes. “[Graphic Organizers and Students with Learning Disabilities: A Meta-Analysis](http://www.eric.ed.gov/ERICWebPortal/search/recordDetails.jsp?ERICExtSearch_SearchValue_0=%22Hughes+Charles+A.%22&ERICExtSearch_SearchType_0=au&_pageLabel=RecordDetails&objectId=0900019b80478c88&accno=EJ931412&_nfls=false).” *Learning Disability Quarterly* 34(1) (2011): 51–72.

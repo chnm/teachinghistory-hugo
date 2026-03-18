@@ -20,9 +20,12 @@ summary: Explore the fine line between Captains of Industry and Robber Barons an
   how the terms has evolved over time.
 splash_image: /files/fineline.jpg
 author_image: /files/author_image/pscranton_cropped.jpg
+topics:
+- Business
+- Consumer Culture
+- Economy
+- Popular Culture, Leisure
 ---
-
-
 
 This provocative question contains at least four historical sub-questions: what’s a captain of industry? what’s a robber baron? what’s the difference? and is Mr. Trump either one? Clearly, there is also a judgmental tone to these terms – the first speaks of admiration, the second of condemnation – though by whom?
 
@@ -37,7 +40,11 @@ Tricky stock maneuvers, shady contracts, credit squeezes, and at times outright 
 ---
 
 Blair, Gwenda. [The Trumps: Three Generations That Built an Empire](http://www.amazon.com/Trumps-Three-Generations-Built-Empire/dp/0743210794/ref=sr_1_1?ie=UTF8&s=books&qid=1286902391&sr=1-1), New York: Touchstone, 2001.
+
 Chernow, Ron. [Titan: The Life of John D. Rockefeller](http://www.amazon.com/Titan-Life-John-Rockefeller-Sr/dp/0679757031/ref=sr_1_2?s=books&ie=UTF8&qid=1286902460&sr=1-2), New York: Random House, 1998.
+
 Klein, Maury. [The Life and Legend of Jay Gould](http://www.amazon.com/Life-Legend-Jay-Gould/dp/0801857716/ref=sr_1_1?s=books&ie=UTF8&qid=1286902543&sr=1-1), Baltimore: The Johns Hopkins University Press, 1986.
+
 Nasaw, David. [Andrew Carnegie](http://www.amazon.com/Andrew-Carnegie-David-Nasaw/dp/0143112449/ref=sr_1_1?s=books&ie=UTF8&qid=1286902596&sr=1-1), New York: Penguin, 2006.
+
 Tarbell, Ida. [The History of the Standard Oil Company](http://www.amazon.com/The-History-Standard-Company-ebook/dp/B001O0DQZG/ref=sr_1_3?ie=UTF8&qid=1342544024&sr=8-3&keywords=The+History+of+the+Standard+Oil+Company), New York: Cosimo Books, 2009 (reprint of 1904 edition).

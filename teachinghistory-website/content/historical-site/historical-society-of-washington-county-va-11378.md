@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 11378
 website_url: http://hswcv.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Southern States
+tags:
+- Virginia
 ---
 
 The Historical Society of Washington County seeks to preserve and share the Washington County, Virginia. To this end, the society operates a library with more than 1,000,000 available resources.
+
 The society offers library access and research assistance. Payment is required for research assistance.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21314
 grade_levels:
-  - middle
+- middle
 ---
 
 * # Strand: History

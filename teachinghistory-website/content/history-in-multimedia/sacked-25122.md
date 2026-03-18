@@ -9,7 +9,10 @@ duration: 00:31:04
 website_url: http://www.kshs.org/p/cool-things-embroidered-flour-sacks/16791
 date_published: '2011-05-18T00:00:00'
 series_name: Cool Things Podcasts
+time_periods:
+- Great Depression & WWII, 1929-1945
 ---
 
 According to the Kansas State Historical Society website:
+
 "Belgians were starving during WWI. Luckily, Kansas farmers came to their rescue by sending over tons of wheat in flour sacks. As a thank you, the Belgians decorated the empty sacks and sent them right back to Kansas."

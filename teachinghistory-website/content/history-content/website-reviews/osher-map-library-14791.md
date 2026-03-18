@@ -16,9 +16,32 @@ summary: History can be revealed through the study of maps, as these exhibits co
   more than 600 maps and related documents explain.
 splash_image: /files/Osher_Map_Library_432x240.jpg
 image: /files/website_image/14791.jpg
+time_periods:
+- General
+topics:
+- African Americans
+- Global Contact
+- Immigration
+- International Relations
+- Military History
+- New England
+- Politics
+- Religion
+- Science & Tech.
+evidence_types:
+- Maps
+resource_types:
+- Images
+tags:
+- Maine; Jews; Exploration; colonies; manifest destiny; expansion; New England
+- Maps
+- cartographers
+- cartography
+- explorers
 ---
 
-
 These 14 exhibitions include more than 600 maps and related documents on aspects of history revealed through the study of maps. The website provides well-integrated essays of up to 8,000 words for each exhibit and some annotated bibliographies.
+
 Exhibits focusing on American history include "Mapping the Republic," on conflicting conceptualizations of the U.S. from 1790 to 1900; "Exodus and Exiles," on Diaspora experiences of Jews and African Americans; "The American Way," a collection of 20th-century road maps and guidebooks; "Carto-Maine-ia," on popular uses of maps; and "Maine Wilderness Transformed," that examines "the creation of a landscape of exploitation."
+
 In addition, "The Cartographic Creation of New England," addresses European exploration and settlement, "The 'Percy Map,'" presents a significant Revolutionary War map; and "John Mitchell's Map" offers insight into diplomatic disputes. These maps are especially valuable for studying exploration and cartography in American history.

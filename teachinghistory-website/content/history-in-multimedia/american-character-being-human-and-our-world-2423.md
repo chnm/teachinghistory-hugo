@@ -11,7 +11,31 @@ keywords: Republicans, Democrats, presidents, values, ideals, oratory, orators, 
 website_url: http://teachingamericanhistory.org/institutes/2004/character_readings.html
 date_published: '2004-08-06T00:00:00'
 series_name: American Democracy, Being Human, and the American Character
+time_periods:
+- All
+- Contemporary US, 1968-Present
+- General
+topics:
+- Daily Life
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Religion
+tags:
+- Democrats
+- Republicans
+- ideals
+- identity
+- orators
+- oratory
+- presidents
+- speeches
+- speechmaking
+- speechwriting
+- values
 ---
 
 Professors Christopher Flannery and David Tucker examine the definitions of the ideal American character, government, and values today and how they are both different from and similar to those of the past. They focus on the relations of the U.S. with the rest of the world and how these values affect these relations.
+
 To listen to this lecture, follow the link below, and scroll down to the first seminar under Friday, August 6.

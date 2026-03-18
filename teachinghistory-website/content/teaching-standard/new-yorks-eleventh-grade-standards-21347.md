@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21347
 grade_levels:
-  - high
+- high
 ---
 
 * ### NY.1. Strand / Standard: History of the United States and New York

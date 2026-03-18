@@ -17,8 +17,32 @@ summary: Read the accounts of former slaves in oral history interviews collected
 splash_image: /files/Born_in_Slavery-_Slave_Narratives_from_the_Federal_Writers_Project_1936-1938_432x240.jpg
 thumbnail: /files/SharingIdeasSplash.jpg
 image: /files/website_image/14803.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+topics:
+- African Americans
+- Slavery
+evidence_types:
+- Official Documents
+- Oral History
+- Personal Accounts
+- Photographs
+resource_types:
+- Images
+- Text
+tags:
+- Federal Writers' Project; slave narratives
+- New Deal
+- WPA
+- Works Progress Administration
+- Works Projects Administration
+- slaves
 ---
 
-
 More than 2,300 firsthand accounts of slavery and 500 black and white photographs of former slaves are presented on this website. These materials were collected in the 1930s by the Federal Writers' Project of the Works Project Administration, a Roosevelt Administration New Deal bureau.
+
 Each slave narrative transcript is accompanied by notes including the name of the narrator, place and date of the interview, interviewer's name, length of transcript, and catalog information. Each photograph has similar notes. Browse photographs and narratives by keyword, subject, and narrator. An introductory essay discusses the significance of slave narratives and a selection of excerpts from eight narratives along with photographs of the former slaves. This is a rich resource for exploring slavery, historical memory, and New Deal efforts to document America's past.

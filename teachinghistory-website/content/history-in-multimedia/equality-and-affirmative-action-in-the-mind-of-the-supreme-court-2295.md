@@ -13,7 +13,35 @@ keywords: Regents of the University of California v. Bakke, U.S. Supreme Court, 
 website_url: http://teachingamericanhistory.org/institutes/2003/supremecourt_readings.html
 date_published: '2003-07-08T00:00:00'
 series_name: The Origins and Development of the Supreme Court
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- African Americans
+- Children
+- Daily Life
+- Education
+- Ethnicity
+- Ideas & Ideologies
+- Legal History
+- Politics
+tags:
+- Gratz v. Bollinger
+- Grutter v. Bollinger
+- Regents of the University of California v. Bakke
+- U.S. Constitution
+- U.S. Supreme Court
+- University of California
+- University of Michiga
+- affirmative action
+- courts
+- law
+- laws
+- race
+- race relations
+- racism
+- trials
 ---
 
 Professor Jeffrey Sikkenga looks at the legal debate over affirmative action and how to enforce recognition of equality among U.S. citizens. He examines particularly court cases related to affirmative action polices, including the 2003 U.S. Supreme Court cases *Grutter v. Bollinger* and *Gratz v. Bollinger*.
+
 To listen to this lecture, scroll to session six, and select the RealAudio link to the left.

@@ -14,7 +14,25 @@ summary: Browse official publications from the 1933-1934 World's Fair.
 thumbnail: /files/splash-eoht-window.jpg
 splash_image: /files/CenturyofProgress432x240.jpg
 image: /files/website_image/ACentImage.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Cities & Suburbs
+- Economy
+- Ideas & Ideologies
+- Midwestern States
+- Popular Culture, Leisure
+- Science & Tech.
+evidence_types:
+- Advertising
+- Maps
+- Newspapers and Periodicals
+- Official Documents
+- Photographs
+- Travel
+resource_types:
+- Images
+- Text
 ---
-
 
 This website provides materials published for the 1933-34 World's Fair including copies of official publications, press releases, souvenir albums, guidebooks, maps, brochures, postcards, photographs, and newspaper clippings. Users can search the checklist of the *Official Publications of the Century of Progress International Exposition and Its Exhibitors* containing over 1,225 items, some 350 of which are available online. The checklist can also be browsed by author, title, or subject. Additionally, the site provides links to websites related to the 1933-34 World's Fair.

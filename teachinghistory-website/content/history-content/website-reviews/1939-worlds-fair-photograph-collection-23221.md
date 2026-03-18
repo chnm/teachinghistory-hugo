@@ -13,7 +13,23 @@ thumbnail_fid: '5822'
 summary: What images does a state choose to describe its way of life to the nation?
 image: /files/website_image/1939WorlImage.jpg
 splash_image: /files/worldfair.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Business
+- Daily Life
+- Education
+- Environment
+- Popular Culture, Leisure
+- Rural Life
+- Science & Tech.
+- Southern States
+evidence_types:
+- Archeology
+- Architecture
+- Photographs
+resource_types:
+- Images
 ---
-
 
 For the Court of States exhibit at the 1939 World's Fair in New York, the Virginia State Chamber of Commerce prepared a collection of albums containing more than 3,000 photographs on "twelve aspects of Virginia life: scenic tours; recreation; historic homes; culture; history; colonial archaeology; scenery and natural wonders; physiography; agriculture; education; government and the people; and industry, commerce, and transportation." These photographs are accessible according to 10 Library of Congress subject headings: geographic location, personal name, building name, historic subjects, and keywords appearing in bibliographic records. Useful for those interested in Virginia history or studying practices of historical memory.

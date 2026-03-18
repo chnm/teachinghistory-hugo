@@ -9,7 +9,12 @@ duration: 00:11:54
 website_url: http://podcast.history.org/2012/05/07/organic-gardening-colonial-style/
 date_published: '2012-05-07T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- Environment
 ---
 
 From the Colonial Williamsburg: Past and Present Podcasts website—
+
 "Colonists went green before green was a movement. Learn to keep an organic garden the Colonial Williamsburg way. Master Gardener Wesley Greene talks about history’s methods."

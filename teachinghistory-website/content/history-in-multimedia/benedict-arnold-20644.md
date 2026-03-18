@@ -12,6 +12,29 @@ keywords: generals, Revolutionary War, American Revolution, treason, traitors, W
 website_url: http://podcast.history.org/2006/11/27/benedict-arnold/
 date_published: '2006-11-27T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Military History
+- Politics
+- Southern States
+tags:
+- American Revolution
+- British Constitution
+- Continental Congress
+- Founding Fathers
+- Pennsylvania
+- Philadelphia
+- Revolutionary War
+- Virginia
+- Williamsburg
+- constitutions
+- generals
+- governors
+- traitors
+- treason
 ---
 
 Ken Johnston, a historical interpreter at Colonial Williamsburg, looks at the beliefs and actions of Benedict Arnold, arguing that Arnold never betrayed his own beliefs and values.

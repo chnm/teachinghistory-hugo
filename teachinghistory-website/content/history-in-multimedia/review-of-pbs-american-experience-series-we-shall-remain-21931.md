@@ -10,6 +10,20 @@ keywords: Native Americans, teaching strategies, films, film
 website_url: http://speakingofhistory.blogspot.com/2009/04/podcast-186-review-of-upcoming-pbs.html
 date_published: '2009-04-02T00:00:00'
 series_name: Speaking of History
+time_periods:
+- General
+topics:
+- American Indians
+- Education
+- Global Contact
+- Media
+- Military History
+- Politics
+tags:
+- Native Americans
+- film
+- films
+- teaching strategies
 ---
 
 Eighth-grade American history educator Eric Langhorst discusses the PBS American Experience series *We Shall Remain*, which describes the Native American story within the context of American history. He offers thoughts on how educators might use clips from the series in the classroom.

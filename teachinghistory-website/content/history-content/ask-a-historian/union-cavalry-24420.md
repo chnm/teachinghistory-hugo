@@ -13,8 +13,20 @@ summary: The development of the Union cavalry forces was behind that of the Conf
   which was considered, " the best Cavalry in the world." but its late formation did
   not hinder its eventual success.
 splash_image: /files/cwcavalry_splash.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+tags:
+- Civil War
+- Confederate
+- Horse
+- Union
+- arsenal
+- cavalry
+- soldier
+- weapon
 ---
-
 
 In the first two years of the Civil War, most judged the Southern cavalry—the horse-borne troopers who could travel far more quickly than their colleagues in the infantry—superior to that of the Union army. In the war’s first months, Confederate cavalry enjoyed a reputation for better horsemanship and more fighting spirit; they boasted the most colorful and well-known cavalry officers of the war’s early months, including the flamboyant J. E. B. Stuart and the daring Nathan Bedford Forrest; and celebrated some noteworthy victories over their Northern counterparts. No less an authority than Union General William Tecumseh Sherman described the Confederate cavalry in 1863 as “splendid riders, shots, and utterly reckless . . . the best Cavalry in the world.”
 
@@ -29,5 +41,7 @@ The changing nature of tactics and technology during the Civil War led to a dram
 ---
 
 Baggett, James. [*Homegrown Yankees: Tennessee's Union Cavalry in the Civil War. Baton Rouge: Louisiana State University Press, 2009.
+
 [**The Crisis of the Union**](http://teachinghistory.org/history-content/website-reviews/23297)
+
 Woodworth, Steven, ed. *Civil War Generals in Defeat*. Lawrence, KS: University Press of Kansas, 1999.*](https://lsupress.org/books/detail/homegrown-yankees/)

@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 13915
 website_url: http://fwp.mt.gov/lands/site_282818.aspx
+time_periods:
+- General
+topics:
+- Environment
+- Labor
+- Science & Tech.
+- Western States
 ---
 
 The Sluice Boxes State Park contains a portion of the Montana Central Railroad, remnants of the Barker mines, and historic cabins. Besides railroad workers and miners, the area was also utilized by men who drove mules, known as muleskinners; prospectors; and smeltermen.
+
 The park offers a guided geology hike for students, three miles of trails, and outdoor activities. Wheelchair accessibility is limited. The website offers a lesson plan.

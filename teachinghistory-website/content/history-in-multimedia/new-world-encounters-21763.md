@@ -16,7 +16,30 @@ splash_image_fid: '8070'
 summary: Explore the pre-Contact and contact history of the Americas, beginning with
   the Ice Age migrations, through to the explorations of the Spanish.
 splash_image: /files/splash-him-precolum2.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Global Contact
+- International Relations
+- Military History
+- Politics
+- Religion
+tags:
+- Native Americans
+- North America
+- South American
+- Spain
+- Spanish
+- archaeology
+- colonies
+- colonists
+- colonization
+- conquistadors
+- pre-Contact
+- race
+- race relations
 ---
-
 
 Donald L. Miller, with Stephen Ambrose; Virginia Scharff; Waldo E. Martin, Jr.; Pauline Maier; Louis P. Masur; and Douglas Brinkley, explores the pre-Contact and contact history of the Americas, beginning with the Ice Age migrations, through the corn civilizations of Middle America, to the explorations of Columbus, de Soto, and other Spaniards.

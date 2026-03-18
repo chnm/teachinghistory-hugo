@@ -11,10 +11,24 @@ website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-05-05T00:00:00'
 series_name: Abraham Lincoln's Biography Video
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Education
+- Politics
+tags:
+- orators
+- oratory
+- politicians
+- presidents
+- speeches
+- speechmaking
 ---
 
 Gerald Prokopowicz of the Lincoln Museum examines Lincoln's development of a political language balanced between formal oratory and direct speech.
+
 To view this clip, scroll to "Lincoln's Political Rhetoric and the Growth of American Democracy" under "Abraham Lincoln's Biography Video."

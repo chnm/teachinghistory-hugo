@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20930
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### CA.K.1. Content Standard: Learning and Working Now and Long Ago

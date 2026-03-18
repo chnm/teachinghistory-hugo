@@ -16,10 +16,11 @@ spotlight: Can students with learning disabilities learn historical thinking? Th
 splash_image: /files/splash-rb-ld.jpg
 image: /files/histunderstand.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+tags:
+- Special Education
 ---
-
 
 When working in heterogeneous classrooms, group projects focused on historical questions can help all students learn more about investigating and understanding the past.
 

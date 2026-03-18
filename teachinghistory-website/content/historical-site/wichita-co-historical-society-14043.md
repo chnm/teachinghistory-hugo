@@ -6,6 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 14043
 website_url: http://www.wichitacountymuseum.org/
+time_periods:
+- General
+topics:
+- Western States
+tags:
+- Wichita County
+- counties
+- kansas
+- museums
 ---
 
 "Wichita County Historical Society and the Museum of the Great Plains"

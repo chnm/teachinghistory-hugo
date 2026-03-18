@@ -10,6 +10,17 @@ url: /history-content/beyond-the-textbook/25479
 splash_image_fid: '8972'
 summary: Did Northerners all respond the same way to Brown's infamous raid? Southerners?
 splash_image: /files/johnbrownsplash.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Politics
+- Radicalism
+- Slavery
+- Southern States
+tags:
+- Harpers Ferry
+- John Brown
 ---
 
 ## What Textbooks Say

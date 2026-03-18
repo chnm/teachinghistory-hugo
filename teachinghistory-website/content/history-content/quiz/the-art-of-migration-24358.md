@@ -12,7 +12,19 @@ thumbnail_fid: '2921'
 summary: What can artistic renderings tell us about the Great Migration?
 splash_image: /files/splash-jacoblawrence.jpg
 thumbnail: /files/quiz_thumbnail/InduReseThumbnail.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- Art
+- Mid-Atlantic
+- Southern States
+tags:
+- Great Migration
+- Jacob Lawrence
+- artists
+- painters
+- paintings
 ---
-
 
 Born in 1917, artist Jacob Lawrence grew up at the height of the Great Migration. During the Migration, often defined as 1910–1930, more than 10% of the African American population in the U.S. moved north to find work and in hopes of a better life. Lawrence painted conditions in both North and South from memory. Answer these questions about Lawrence and his work.

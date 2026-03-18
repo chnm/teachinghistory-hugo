@@ -10,6 +10,19 @@ keywords: Revolutionary War, American Revolution, wars, war
 website_url: http://dev.forum-network.org/lecture/founding-mothers-women-who-raised-our-nation
 date_published: '2004-11-29T00:00:00'
 series_name: 'Ken Burns: Thomas Jefferson'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- Family Life
+- Gender
+- Military History
+- Women
+tags:
+- American Revolution
+- Revolutionary War
+- war
+- wars
 ---
 
 NPR senior news analyst Cokie Roberts tells the stories of women who supported and took part in the Revolutionary War on the colonial side.

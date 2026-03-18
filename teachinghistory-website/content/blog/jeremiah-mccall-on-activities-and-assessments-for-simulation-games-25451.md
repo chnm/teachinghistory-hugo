@@ -20,19 +20,24 @@ splash_image: /files/gameblogsplash.jpg
 image: /files/gameblogimage.jpg
 author_image: /files/author_image/authorphotojeremiahmccall75x75_2_1_0.jpg
 grade_levels:
-  - high
+- high
+tags:
+- digital games
+- games
 ---
 
-
-
 *(Note: This blog entry is the fourth part of a six-part series. Read more on using games in the classroom in parts [one](http://teachinghistory.org/nhec-blog/25117), [two](http://teachinghistory.org/nhec-blog/25225), [three](http://teachinghistory.org/nhec-blog/25338), [five](http://teachinghistory.org/nhec-blog/25523), and [six](http://teachinghistory.org/nhec-blog/25624).)*
+
 The goal of lessons involving simulation games is twofold: to explore systems in the past by making choices and experiencing the resulting consequences and to critique simulation games as interpretations of the past in order to develop historical criticism skills and appreciate the role of modern media in shaping our views of the past. Accordingly, after students have had sufficient time to play and observe a game, they should be provided with learning activities and assessments that facilitate these two goals.
+
 Activities and assessments can be divided into two types. The first consists of those that focus on analyzing, understanding, and extrapolating on the models posed by a simulation game. It concerns the content of the game, the questions raised by the game about how and why people in the past acted as they did. The second type of activity focuses on evaluating and critiquing the models in a game, determining the validity of the game as an interpretation. This blog entry will deal with the former.
+
 Before beginning it is worth remembering that recent position statements from the [National Council for the Social Studies](http://www.ncss.org/positions/medialiteracy) and [National Council of Teachers of English](http://www.ncte.org/positions/21stcenturyliteracy) emphasize training students to interpret, critique, and create new media. Though not all of the activities and assessments that follow meet this goal, many do by design.
 
 ## Strategy 1: Creating a Journal or Game Blog
 
 Gaining familiarity with how a game functions and models the past depends upon regular opportunities for play and reflection. Keeping a regular journal of gameplay is an excellent way to give students writing exercises and encourage them to consider and engage with the models involved in gameplay. As an added benefit, teachers can use the information in these journals to monitor students’ progress and understanding, and adapt lessons accordingly.
+
 The game journal can be used to take observation notes along the lines of those explored in the [previous segment](http://teachinghistory.org/nhec-blog/25338). Providing opportunities for reflective writing is also a good idea. Consider variations on prompts that ask students how the game presents the past as a way to introduce them to critiquing the game. For example:
 
 * What does *[Mission US](http://teachinghistory.org/digital-classroom/tech-for-teachers/25111)* suggest the key divisions in colonial Boston were?
@@ -40,6 +45,7 @@ The game journal can be used to take observation notes along the lines of those 
 * Does *[Energyville](http://teachinghistory.org/digital-classroom/tech-for-teachers/25173)* suggest it is possible for U.S. cities to shift to renewable fuels in the near future?
 
 Reflections like this should be accompanied with observations from the game that support the students' conclusions.
+
 Where the resources are available, students can also log their ideas and observations in the 21st-century analog of the journal, the [blog](http://teachinghistory.org/digital-classroom/tech-for-teachers/14590). There are many sites dedicated to providing free blogging capabilities to individuals and groups, most notably [Wordpress](http://wordpress.com/) and [Blogger](https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=http://www.blogger.com/home&followup=http://www.blogger.com/home<mpl=start#s01).
 
 ## Strategy 2: Annotating Screenshots

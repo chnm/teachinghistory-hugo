@@ -12,6 +12,26 @@ website_url: http://boweryboys.libsyn.com/webpage/_79_the_whyos_gang_of_new_york
 date_published: '2009-03-28T00:00:00'
 series_name: 'New York City History: The Bowery Boys'
 summary: What would it set you back to have a man's ear chewed off?
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Cities & Suburbs
+- Ethnicity
+- Immigration
+- Legal History
+- Mid-Atlantic
+- Politics
+tags:
+- New York
+- Whyos
+- corruption
+- crime
+- criminals
+- gangs
+- organized crime
+- politcal corruption
+- politicians
 ---
 
 The Whyos were New York's most notorious gang after the Civil War, organizing their criminal activities and terrorizing law-abiding citizens of the Gilded Age. In this presentation, Greg Young and Tom Meyers explore they lived, how they broke the law, and who they were—from Googie Corcoran to Dandy Johnny.

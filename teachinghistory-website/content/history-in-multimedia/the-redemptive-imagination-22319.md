@@ -9,6 +9,11 @@ duration: Unspecified
 website_url: http://www.learner.org/biographyofamerica/prog26/index.html
 date_published: '2009-06-13T00:00:00'
 series_name: A Biography of America
+time_periods:
+- General
+topics:
+- Ideas & Ideologies
+- Literature
 ---
 
 Donald L. Miller speaks with four fiction authors—Esmerelda Santiago, Arthur Golden, Charles Johnson, and Kurt Vonnegut, Jr.—about the challenge of finding narrative in history and the differences between an academic understanding of history and a novelist's understanding of history.

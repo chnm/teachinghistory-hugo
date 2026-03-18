@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21114
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### LA.G-E. Content Standard: Geography

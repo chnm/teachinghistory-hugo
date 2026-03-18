@@ -13,7 +13,18 @@ summary: Who else left Europe following the call of wealth, fame, religion, or o
   lures?
 splash_image: /files/columbus-triumph.jpg
 thumbnail: /files/website_image/HirsMuseImage.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Global Contact
+tags:
+- Francesco Vasquez de Coronado
+- Hernando de Soto
+- John Smith
+- Rene-Robert Cavelier
+- exploration
+- explorers
 ---
-
 
 Below are the routes of four post-Columbus explorers from Spain, England, and France. Match the expedition routes to the explorers. Connect each explorer with the colored box that matches the color of his route. And remember that these routes are only estimates! Historical records aren't always precise, and it is often impossible to recover the exact paths explorers traveled.

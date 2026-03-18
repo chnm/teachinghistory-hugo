@@ -10,6 +10,24 @@ keywords: China, foreign policy, foreign relations, foreign affairs
 website_url: http://www.fpri.org/multimedia/20061021.lardy.chinaseconomy.html
 date_published: '2006-10-21T00:00:00'
 series_name: Understanding China
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Business
+- Consumer Culture
+- Economy
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+tags:
+- China
+- foreign affairs
+- foreign policy
+- foreign relations
 ---
 
 Nicholas Lardy of the Institute for International Economics examines China's economy as it stands today, including current vast internal gaps in wealth and increasing presence in global trade. He also looks at the changes that led to China's economic growth and at the possible economic future of the country, as well as the impact of China's growth on the world at large. On October 21-22, 2006, FPRI's Marvin Wachman Fund for International Education hosted 50 teachers from 26 states across the country for a weekend of discussion on teaching about China. The History Institute, held in Kenosha, WI, was cosponsored by the Clausen Center for World Business, Carthage College.

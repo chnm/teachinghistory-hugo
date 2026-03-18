@@ -12,7 +12,14 @@ thumbnail_fid: '2828'
 summary: How did the American colonies get addicted to growing tobacco?
 splash_image: /files/Tobacco_0.jpg
 thumbnail: /files/website_image/BeecTradImage.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- Economy
+tags:
+- colonies
+- plantations
+- tobacco
 ---
-
 
 Thomas Jefferson described the system of growing tobacco that prevailed in Tidewater Virginia and Maryland as "a culture of infinite wretchedness." What do you know about tobacco and the tobacco farming of his time?

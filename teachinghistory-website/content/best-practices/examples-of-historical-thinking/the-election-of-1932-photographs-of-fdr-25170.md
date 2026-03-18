@@ -18,12 +18,24 @@ summary: What can a photograph of Franklin D. Roosevelt in 1932 reveal? Donald A
 splash_image: /files/fdr_inauguration_photo.jpg
 author_image: /files/author_image/2010_-_oah_-_author_image_-_don_ritchie_1.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Politics
+tags:
+- Eleanor Roosevelt
+- Franklin D. Roosevelt
+- James Roosevelt
+- Mark Trice
+- disabilities
+- photographs
+- polio
+- presidential campaigns
+- presidential elections
 ---
-
-
 
 /files/media/video/Ritchie5.mp4
 

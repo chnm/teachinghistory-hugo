@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21133
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### MA.1. Domain / General Standard: Ancient and Classical Civilizations in the Mediterranean to the Fall of the Roman Empire

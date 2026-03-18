@@ -10,7 +10,23 @@ keywords: Cold War, foreign relations, foreign policy, foreign affairs
 website_url: http://www.virginiaexperiment.com/index.php?option=com_content&task=view&id=15
 date_published: '2007-03-01T00:00:00'
 series_name: 'The Virginia Experiment: Speaker Seminar Series'
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Media
+- Military History
+- Politics
+- Science & Tech.
+tags:
+- Cold War
+- foreign affairs
+- foreign policy
+- foreign relations
 ---
 
 Dr. Tom Ewing of Virginia Tech talks about the difficulty and complexity of searching out cause and effect in the events of the Cold War.
+
 To listen to this lecture, select "Part 2" under the March 1st listing.

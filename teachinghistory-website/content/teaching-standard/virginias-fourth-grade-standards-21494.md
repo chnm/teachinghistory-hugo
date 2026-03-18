@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21494
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ### Strand / Topic: Virginia Studies

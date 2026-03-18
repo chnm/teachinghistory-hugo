@@ -6,6 +6,31 @@ content_type: historical_site
 draft: false
 drupal_nid: 14048
 website_url: http://history.delaware.gov/museums/stl/stl_main.shtml
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Business
+- Consumer Culture
+- Daily Life
+- Health & Medicine
+- Rural Life
+- Science & Tech.
+- Southern States
+tags:
+- Delaware
+- businesses
+- crafts
+- medicine
+- museums
+- pharmacies
+- post offices
+- printers
+- printing
+- shops
+- stores
+- towns
+- trades
+- woodworking
 ---
 
 "Exhibits at the Museum of Small Town Life emphasize society, commercial industry, trade, cost of living, occupations, and consumer goods utilized by the ordinary citizens of late 19th century Delaware small towns."

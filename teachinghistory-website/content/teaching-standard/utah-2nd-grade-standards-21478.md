@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21478
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## Core Standards of the Course

@@ -12,6 +12,44 @@ keywords: Black Hawk War, Fox, French and Indian War, frontier, fur trappers, Il
 website_url: http://lincoln.lib.niu.edu/Slideshows/nativeamericanslideshow.ram
 date_published: '2008-05-20T00:00:00'
 series_name: Abraham Lincoln Historical Digitization Project Slideshows
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- American Indians
+- Daily Life
+- Environment
+- Ethnicity
+- Family Life
+- Gender
+- Global Contact
+- International Relations
+- Midwestern States
+- Military History
+- Religion
+- Rural Life
+tags:
+- Black Hawk War
+- Fox
+- French and Indian War
+- Illinois
+- Illinois Confederacy
+- Illinois Confederation
+- Kickapoo
+- Native Americans
+- Sauk
+- Sioux
+- War of 1812
+- frontier
+- fur trappers
+- pioneers
+- settlers
+- the Sioux
+- the frontier
+- traders
+- war
+- wars
 ---
 
 This lecture, created by the Abraham Lincoln Historical Digitization Project, traces the history of Native American tribes in Illinois, from the early days of Western North American exploration into the mid-1800s.

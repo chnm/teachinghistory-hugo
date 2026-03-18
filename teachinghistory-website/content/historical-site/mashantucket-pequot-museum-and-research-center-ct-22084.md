@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 22084
 website_url: http://www.pequotmuseum.org/
+time_periods:
+- General
+topics:
+- American Indians
+- New England
+tags:
+- Connecticut
+- Pequot
 ---
 
 Owned and operated by the Mashantucket Pequot Tribal Nation, the Museum and Research Center presents the history and culture of the Pequot and other North American Native peoples, as well as exploring the natural history of the continent.
+
 The museum offers exhibits, guided tours and enrichment programs for school groups, in-class outreach presentations, on-demand professional development workshops, and research library access.

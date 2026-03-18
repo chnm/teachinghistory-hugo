@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20937
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### CA.7.1. Content Standard: World History and Geography

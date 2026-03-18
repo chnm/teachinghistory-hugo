@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21469
 grade_levels:
-  - middle
+- middle
 ---
 
 ## §113.19. Social Studies, Grade 7, Beginning with School Year 2011-2012.

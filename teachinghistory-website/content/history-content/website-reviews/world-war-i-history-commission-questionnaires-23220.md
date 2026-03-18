@@ -15,8 +15,31 @@ summary: How did World War I change soldiers' attitudes, religious beliefs, and 
 splash_image: /files/questionnaire.jpg
 thumbnail: /files/Jim_Crow_Museum_of_Racist_Memorabilia_432x240.jpg
 image: /files/website_image/WWIHistImage.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- American Indians
+- Asian Americans
+- Business
+- Daily Life
+- Health & Medicine
+- Ideas & Ideologies
+- Labor
+- Military History
+- Religion
+- Southern States
+evidence_types:
+- Quantitative Evidence
+resource_types:
+- Data
+- Images
+- Text
+tags:
+- World War I
+- veterans
 ---
 
-
 Beginning in 1919, the Virginia War History Commission compiled more than 14,900 surveys of World War I veterans in Virginia. Images of these four-page questionnaires—with additional material submitted by veterans or family members, including 1,046 photographs—have been digitized and made accessible on this site. The surveys provide basic demographic information on the soldiers and their families, as well as details of their war records, including descriptions of engagements, citations, injuries, and deaths.
+
 In addition, the last page of the survey poses questions regarding the effect of the war and military service on states of mind and religious beliefs, as well as effects of disabilities on employment after the war. A valuable source for historians and students researching military history and the war experience.

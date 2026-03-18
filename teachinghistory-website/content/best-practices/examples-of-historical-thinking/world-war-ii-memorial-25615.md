@@ -21,8 +21,17 @@ author_image_fid: '9348
 summary: What meanings does the World War II Memorial in Washington, DC, have? Historians
   Christopher Hamner and Michael O'Malley try to answer this question.
 splash_image: /files/warmemorial2.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+tags:
+- World War II
+- memorials
+- monuments
+- world war ii memorial
 ---
-
 
 /files/media/video/warmemorial2.mp4
 

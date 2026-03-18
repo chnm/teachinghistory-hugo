@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20925
 grade_levels:
-  - high
+- high
 ---
 
 ### AZ.SSHS-S1 Strand: American History

@@ -11,7 +11,32 @@ keywords: theater, theatre, Shakespeare, Othello, Hamlet, drama, entertainment, 
 website_url: http://podcast.history.org/
 date_published: '2007-03-12T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- American Indians
+- Ideas & Ideologies
+- Literature
+- Media
+- Popular Culture, Leisure
+- Southern States
+tags:
+- Cherokee
+- Hamlet
+- Native Americans
+- Othello
+- Shakespeare
+- Virginia
+- Williamsburg
+- drama
+- entertainment
+- race
+- race relations
+- theater
+- theatre
 ---
 
 Todd Norris, manager of performing arts at Colonial Williamsburg, talks about colonial theatrical performances and Colonial Williamsburg's presentation of *Othello*.
+
 **Note: this podcast is no longer available. To view a transcript of the original podcast, click [here](http://podcasts.history.org/podcasts_transcripts/Othello.cfm).**

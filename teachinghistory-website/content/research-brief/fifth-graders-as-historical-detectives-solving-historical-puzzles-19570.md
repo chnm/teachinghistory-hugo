@@ -15,10 +15,9 @@ spotlight: Through direct instruction in historical analysis skills, elementary 
 splash_image: /files/splash-rb-puzzle.jpg
 image: /files/fifthgraders.jpeg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
 ---
-
 
 * Introduce historical thinking as detective work or similar to the work that journalists do when piecing together a story. This kind of historical discovery can be fun for younger students.
 * Try modeling a "think-aloud" for students as you read a document. Tell students that you are going to share your thoughts as you read and ask them to pay attention to the questions you ask, the mental notes you make, and the types of things you are looking for.

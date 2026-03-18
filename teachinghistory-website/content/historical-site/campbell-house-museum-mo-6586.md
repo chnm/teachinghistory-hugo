@@ -6,7 +6,20 @@ content_type: historical_site
 draft: false
 drupal_nid: 6586
 website_url: http://www.campbellhousemuseum.org/index.html
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- Daily Life
+- Midwestern States
+tags:
+- Missouri
+- homes
+- houses
 ---
 
 Built in 1851, the first house in the elegant neighborhood Lucas Place, the Campbell House was the home of renowned fur trader and entrepreneur Robert Campbell and his family from 1854 until 1938. The museum contains hundreds of original Campbell possessions including furniture, paintings, clothing, letters, carriages, and a unique set of interior photographs taken in the mid-1880s.
+
 The museum offers tours, educational programs, research library access, and occasional recreational and educational events.

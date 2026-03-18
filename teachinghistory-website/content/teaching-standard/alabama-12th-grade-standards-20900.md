@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20900
 grade_levels:
-  - high
+- high
 ---
 
 ## AL.12 Standard: United States Government
@@ -24,7 +24,9 @@ Twelfth grade students will develop the civic knowledge necessary for becoming a
   - ##### Grade Level Example:
 
     constitutional—United States
+
     authoritarian—Iran
+
     totalitarian—North Korea
 
 ### 12.2

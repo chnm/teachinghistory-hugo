@@ -10,12 +10,19 @@ date_published: '2012-03-02T00:00:00'
 splash_image_fid: '8962'
 summary: Teach women's history in March and all year long with these resources.
 splash_image: /files/splash-blog-whm12.jpg
+topics:
+- Gender
+- Women
+tags:
+- women's history month
 ---
 
-
 With Teachinghistory.org's women's history resources and the rich resources available elsewhere on the Web, you can find ideas and materials for any time period, topic, or grade level. Whether you're covering well-known events like the Seneca Falls Convention or helping your students *un*cover little-known figures from history, primary sources, digital tools, and thoughtful teaching strategies can bring women's history to life in March—and in every month of the year!
+
 [![](/files/splash-sp-whm.jpg)](http://teachinghistory.org/spotlight/womens-history)
+
 Start your search for resources on our Women's History Month [spotlight page](http://teachinghistory.org/spotlight/womens-history), where you'll find website reviews, lesson plans, quizzes, videos, and other materials that encourage historical thinking.
+
 Need even more resources? Try these suggestions for exploring Women's History Month materials beyond Teachinghistory.org:
 
 * Explore the Library of Congress's resources through its Women's History Month [gateway](http://womenshistorymonth.gov/).

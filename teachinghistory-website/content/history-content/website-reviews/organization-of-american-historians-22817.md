@@ -15,7 +15,8 @@ summary: Visit the website of the largest organization of professional historian
 splash_image: /files/Organization_of_American_Historians_432x240.jpg
 thumbnail: /files/liliuokalani-casket-new.jpg
 image: /files/website_image/OAH_Image.jpg
+resource_types:
+- Text
 ---
-
 
 The site of the largest organization for professional historians of the United States, the Organization of American Historians (OAH), includes basic information about membership; current programs, annual meetings, and special events; employment listings, grants, fellowships, and other professional resources; and issues on which the organization has adopted positions of advocacy. The site's "Teaching History Resource Center" includes publications and resources of current interest to history teachers, including 14 syllabi for undergraduate-level U.S. History survey courses. The site also offers an introduction to OAH publications, including *Journal of American History*, *OAH Newsletter*, and *OAH Magazine of History* and a list more than 90 links to other professional associations, history journals, and governmental agencies. A valuable site for professionals in the field of history.

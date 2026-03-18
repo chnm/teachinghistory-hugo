@@ -36,13 +36,14 @@ splash_image_fid: '6192'
 splash_image: /files/rael_img1.jpg
 image: /files/rael_img2.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
 ---
 
-
 [Hispano Music & Culture of the Northern Rio Grande](http://memory.loc.gov/ammem/rghtml/rghome.html), housed at the Library of Congress’s digital archive [America Memory](http://memory.loc.gov/ammem/index.html), is a collection of religious and secular music of Spanish-speaking residents of rural Northern New Mexico and Southern Colorado.
+
 The collection consists of hymns, folk drama, wedding songs, and dance songs and includes dozens of recordings and transcripts in Spanish. On the [homepage](http://memory.loc.gov/ammem/rghtml/rghome.html) of the collection, there are four essays written in Spanish and English that orientate users to the collection, the local culture and the geographic region.
+
 Essays include:
 
 * [Juan Bautista Rael, 1900-1993: Pioneer Hispano Folklorist](http://memory.loc.gov/ammem/rghtml/rgrael.html)

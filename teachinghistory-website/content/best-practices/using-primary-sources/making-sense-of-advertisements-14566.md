@@ -12,10 +12,19 @@ summary: Advertisements have surrounded us for years. How can you interpret them
   Where can you find them?
 splash_image: /files/splash-ups-ads.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- All
+- General
+topics:
+- Consumer Culture
+tags:
+- advertisements
+- analyzing images
+- images
+- models of analysis
 ---
-
 
 Advertisements are all around us today and have been for a long time; advertising-free "good old days" just don't exist. This [guide](http://historymatters.gmu.edu/mse/ads/) offers an overview of advertisements as historical sources and how historians use them; a brief history of advertising; questions to ask when interpreting ads as historical evidence; an annotated bibliography; and a guide to finding advertisements online.

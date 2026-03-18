@@ -10,6 +10,18 @@ url: /history-content/beyond-the-textbook/24074
 splash_image_fid: '5173'
 summary: Americans today take cars for granted. How did they change American life?
 splash_image: /files/splash-btt-auto.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Business
+- Consumer Culture
+- Science & Tech.
+tags:
+- Henry Ford
+- automobiles
+- cars
+- transportation
 ---
 
 ## What Textbooks Say

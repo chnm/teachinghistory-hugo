@@ -12,10 +12,14 @@ summary: How do children in different countries learn history? Is the role of na
 splash_image: /files/IsNarrative.jpg
 image: /files/narrative.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- General
+topics:
+- Education
+- Ideas & Ideologies
 ---
-
 
 Help students understand that the passage of time doesn't always bring what is commonly viewed as "progress."
 

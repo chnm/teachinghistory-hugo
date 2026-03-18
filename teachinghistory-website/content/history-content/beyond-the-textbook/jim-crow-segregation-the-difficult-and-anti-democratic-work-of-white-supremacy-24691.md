@@ -165,6 +165,35 @@ question: How did segregation shape daily life for generations of African Americ
 url: /history-content/beyond-the-textbook/24691
 splash_image_fid: '7540'
 splash_image: /files/JimCrowSegregation432x240.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Daily Life
+- Economy
+- Ethnicity
+- Ideas & Ideologies
+- Legal History
+- Politics
+- Reform
+- Slavery
+tags:
+- African Americans
+- Brown v. Board of Education
+- Ferguson
+- Jim Crow
+- Plessy
+- Plessy v. Ferguson
+- discrimination
+- laws
+- rights
+- segregation
 ---
 
 ## What Textbooks Say

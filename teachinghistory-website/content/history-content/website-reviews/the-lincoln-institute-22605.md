@@ -15,8 +15,26 @@ summary: Explore Lincoln's presidency; and access related classroom resources, i
 thumbnail: /files/ReadingMultSource.jpg
 splash_image: /files/The_Lincoln_Institute_432x240.jpg
 image: /files/website_image/LincolnInstImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Cities & Suburbs
+- Ideas & Ideologies
+- Military History
+- Politics
+- Radicalism
+- Reform
+- Slavery
+evidence_types:
+- Paintings and Prints
+- Photographs
+resource_types:
+- Images
+- Text
 ---
 
-
 This extensive website offers five projects on Abraham Lincoln's life and political career along with teacher and student resources. Each section offers essays on the persons discussed. "Mr. Lincoln's White House" explores the people and events related to the White House in Mr. Lincoln's time, including a look at nearby areas of the city, and a section on visitors' impressions of Lincoln. "Mr. Lincoln and the Founders" includes an essay on Lincoln and the Declaration of Independence, a background essay, observations by Lincoln scholars, and a bibliography. "Mr. Lincoln and Freedom," explores Lincoln and the issue of slavery. Additional topics include "Mr. Lincoln and Friends" and "Mr. Lincoln and New York."
+
 The "Teacher Assistance" page includes links to 13 lesson plans. The site also offers a link to "Abraham Lincoln's Classroom" with resources for students and teachers, including quizzes, quotes, featured commentary, and links to maps. This site is an outstanding resource for material on teaching about Lincoln and the events of his presidency, as well as an excellent starting point for research on the Lincoln presidency and the politics and people of the Civil War era.

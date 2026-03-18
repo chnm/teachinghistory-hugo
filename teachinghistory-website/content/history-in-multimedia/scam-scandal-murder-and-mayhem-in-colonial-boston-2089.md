@@ -11,7 +11,34 @@ keywords: Boston, colonists, colonies, colonization, crimes, criminals, murders,
 website_url: http://dev.forum-network.org/lecture/scam-scandal-murder-and-mayhem-colonial-boston
 date_published: '2005-10-31T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Business
+- Cities & Suburbs
+- Legal History
+- New England
+- Religion
+tags:
+- Boston
+- colonies
+- colonists
+- colonization
+- courts
+- crimes
+- criminals
+- executions
+- murder
+- murderers
+- murders
+- trials
+- witch trials
+- witchcraft
+- witches
+- witchhunts
 ---
 
 COO of the New England Genealogical Society D. Brenton Simons explores the criminal history of colonial Boston. He examines such issues as murders and murderers, including a serial murderer; con men; and witch trials. His presentation includes slides.
+
 Audio and video options are available.

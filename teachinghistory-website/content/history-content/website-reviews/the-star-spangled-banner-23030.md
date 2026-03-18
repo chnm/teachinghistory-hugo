@@ -19,10 +19,26 @@ splash_image: /files/splash-wr-starspangled.jpg
 thumbnail: /files/splash-wr-dogs911.jpg
 image: /files/website_image/StarSpanImage.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Military History
+- Politics
+evidence_types:
+- Artifacts and Objects
+- Paintings and Prints
+resource_types:
+- Audio
+- Images
+- Text
+tags:
+- American flag
+- Star-spangled Banner
 ---
 
-
 This exhibit tells the story of "the flag that inspired the National Anthem" through more than 50 images and short texts (50–200 words) explaining their significance. Also presents images from Smithsonian collections to illustrate sections on expressing patriotism, fostering national memory, and how "common cultural symbols, such as the American flag, patriotic songs, presidential images, and monuments, serve to coalesce a common identity among Americans." Elucidates challenges the Smithsonian faces to preserve the flag that flew over Fort McHenry during the Battle of Baltimore in 1814 and inspired Francis Scott Key's poem.
+
 Provides a teacher's manual in three sections for grades K–2, 3–5, and 6–8 and suggestions for using the site in the classroom. Includes a 10-title reading list, links to 14 related sites, and games designed to stimulate students to use primary sources to investigate "mysteries surrounding this famous flag." A well-conceived site, though modest in size, that will prove useful for K–8 classes.

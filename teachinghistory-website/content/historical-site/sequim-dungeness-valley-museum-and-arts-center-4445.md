@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 4445
 website_url: http://www.macsequim.org/
+time_periods:
+- All
+- General
+topics:
+- Western States
+tags:
+- Washington
+- museums
 ---
 
 The Museum and Arts Center (MAC) in the Sequim-Dungeness Valley is the regional natural and cultural history museum, featuring Manis mastodon artifacts as well as rotating local history exhibits and ongoing local and regional art exhibits.
+
 The museums offers exhibits and education and recreational events.

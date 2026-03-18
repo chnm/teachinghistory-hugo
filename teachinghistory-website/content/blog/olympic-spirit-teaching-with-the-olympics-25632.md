@@ -13,10 +13,24 @@ summary: Summer or winter, the Olympics bring together countries worldwide—inc
   the U.S. How can you teach with Olympic history?
 splash_image: /files/splash-blog-olympics.jpg
 image: /files/image-blog-olympics.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Global Contact
+- International Relations
+- Popular Culture, Leisure
+tags:
+- Olympics
+- athletes
+- sports
 ---
 
-
 The 2012 Summer Olympic Games begin on July 27 and continue through August 12. London hosts them this time, but in the past, the U.S. has hosted the Olympics eight times (four times in the summer and four in the winter), the most of any country! The U.S. also holds the greatest number of Olympic medals of any nation—more than 2,500.
+
 What place have the Olympics had in U.S. history? The games can be many things: a focus for cultural exchange, a showcase for new technology and development, an economic boon (or bust), and a platform for international political tensions. Explore the history of the Olympics with these ideas:
 
 * Read oral histories of Olympic participants from 1932 to 1968 and official Olympic reports from 1896 to 2010 at the [Amateur Athletic Foundation Digital Archive](http://teachinghistory.org/history-content/website-reviews/14681). What were the experiences of American women who competed in the early Olympics like? How did being Korean American influence the experiences of diver Sammy Lee, who competed shortly after World War II? How do the Olympic reports from Los Angeles in 1932 and Salt Lake City in 2002 compare? Do the reports from Berlin, 1936, show any signs of the tension between the U.S. (and other nations) and Nazi Germany?

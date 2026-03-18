@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21472
 grade_levels:
-  - high
+- high
 ---
 
 (Note: By the completion of high school, Texas students are expected to master the following standards.)

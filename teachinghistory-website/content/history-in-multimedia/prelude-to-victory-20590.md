@@ -12,6 +12,26 @@ keywords: battles, American Revolutionary, Revolutionary War, Founding Fathers, 
 website_url: http://podcast.history.org/2007/09/24/prelude-to-victory/
 date_published: '2007-09-24T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- International Relations
+- Military History
+- Southern States
+tags:
+- American Revolutionary
+- Battle of Yorktown
+- Founding Fathers
+- French
+- Revolutionary War
+- Siege of Yorktown
+- Virginia
+- Williamsburg
+- Yorktown
+- battles
+- generals
+- politicians
+- presidents
 ---
 
 Ron Carnegie, who portrays [George Washington](http://www.history.org/Almanack/people/washhdr.cfm) at Colonial Williamsburg, discusses the American Revolution and the upcoming Siege of Yorktown in character.

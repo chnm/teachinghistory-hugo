@@ -26,11 +26,15 @@ splash_image: /files/lucid.jpg
 image: /files/image-tft-lucidchart1.jpg
 author_image: /files/author_image/dlaufenberg1.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Collaboration
+- LucidChart
+- charting
+- charts
+- visuals and visualizing
 ---
-
-
 
 A collaborative online tool for creating easily-shared diagrams and flowcharts

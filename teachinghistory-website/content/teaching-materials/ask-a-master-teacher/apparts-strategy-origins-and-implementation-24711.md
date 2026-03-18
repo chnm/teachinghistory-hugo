@@ -26,15 +26,22 @@ splash_image: /files/apsplash.jpg
 image: /files/apimage.jpg
 author_image: /files/author_image/hierl_photo.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+topics:
+- Education
+tags:
+- Research and Theory
+- historical thinking
+- literacy
+- research
+- resources
 ---
-
-
 
 ## Origins
 
 APPARTS was developed by the Social Studies Vertical Teams Committee of the College Board to promote equity and access to Advanced Placement courses. By the mid-1990s, the College Board committed itself to the elimination of gate-keeping strategies for entry into AP courses, believing that many underserved students could benefit from a more rigorous curriculum. Contingent on the success of those students was earlier exposure to rigorous academic work from middle school on. As a result, the College Board developed a series of pre-AP initiatives designed to foster better preparation for challenging courses. One of those was the Social Studies Vertical Teams Guide.
+
 The original Social Studies Vertical Teams Guide was divided into five sections:
 
 * Improving Student Comprehension: Primary Sources
@@ -76,6 +83,7 @@ We are not aware of any research done on the use of the APPARTS strategy, but we
 ## Origins
 
 APPARTS was developed by the Social Studies Vertical Teams Committee of the College Board to promote equity and access to Advanced Placement courses. By the mid-1990s, the College Board committed itself to the elimination of gate-keeping strategies for entry into AP courses, believing that many underserved students could benefit from a more rigorous curriculum. Contingent on the success of those students was earlier exposure to rigorous academic work from middle school on. As a result, the College Board developed a series of pre-AP initiatives designed to foster better preparation for challenging courses. One of those was the Social Studies Vertical Teams Guide.
+
 The original Social Studies Vertical Teams Guide was divided into five sections:
 
 * Improving Student Comprehension: Primary Sources

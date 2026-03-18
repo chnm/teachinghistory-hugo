@@ -9,7 +9,14 @@ duration: 00:10:04
 website_url: http://podcast.history.org/2009/10/12/horses-in-williamsburg/
 date_published: '2009-10-12T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Consumer Culture
+- Daily Life
 ---
 
 Joyce Henry, head coachman and interpreter at Colonial Williamsburg, describes the place of the horse in colonial society, including its use in work and transportation, its value, and its training.
+
 Colonial Williamsburg also provides a [short video clip](http://www.history.org/media/videoplayer/?cat=vodcast&file=HorsesinWilliamsburg) demonstrating present-day horse training.

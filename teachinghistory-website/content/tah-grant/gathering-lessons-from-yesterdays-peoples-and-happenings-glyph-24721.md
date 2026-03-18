@@ -6,9 +6,9 @@ content_type: tah_grant
 draft: false
 drupal_nid: 24721
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
 
 The Deer Valley School District in Phoenix has many teachers who have little formal history training and have expressed a lack of confidence in teaching the full scope of American history content. At annual *Gathering Lessons from Yesterday's Peoples and Happenings* (*GLYPH*) kick-off events, staff will preview the year's topics and teachers will receive materials for book studies and classroom use. Day-long history workshops, week-long summer academies at historic sites, book studies, Lesson Study, mentoring, and elective activities will provide content information, field experiences, and instructional strategies practice. The cohort of 45 teachers will be selected through nominations by principals and invitations to all history teachers from schools in need of improvement, with a goal of including teachers who need the most support. The theme of highlighting the perspectives of diverse groups in American history provides the backdrop for historical inquiry and developing relevant context and multidimensional understanding of history. *GLYPH* activities will address identified gaps in teachers' knowledge by selecting two topics for each summer academy and other topics for workshops during the school year. Teachers who participate in at least 75 percent of annual activities will be eligible to attend the summer academy. University historians and skilled *GLYPH* teachers will lead two book study circles each year, and *GLYPH* staff will provide classroom demonstrations and observations, as well as ongoing, one-on-one mentoring in using Lesson Study. The Lesson Study cycle will result in lessons to be shared with other teachers, and the project will also provide classroom resource materials, including multimedia libraries related to specific topics.

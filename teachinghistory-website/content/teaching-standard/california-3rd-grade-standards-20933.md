@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20933
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### CA.3.1. Content Standard: Continuity and Change

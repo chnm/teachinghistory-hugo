@@ -12,8 +12,13 @@ series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institu
 splash_image_fid: '6144'
 splash_image: /files/splash-him-amerbetweenwars.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+- Politics
 ---
-
 
 Michael Kazin, professor of History at Georgetown University, explores the turbulent two decades between World War I and World War II. He describes the radical shifts in American political power and social institutions during that time. This lecture is part one of two. Click for [part two](http://teachinghistory.org/history-content/history-in-multimedia/24116).

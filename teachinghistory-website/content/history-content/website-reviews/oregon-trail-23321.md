@@ -15,8 +15,24 @@ summary: A companion site to a PBS documentary, this website hosts a wealth of i
 thumbnail: /files/picturing.jpg
 splash_image: /files/Oregon_City_432x240.jpg
 image: /files/website_image/OregonTrail_Image.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Family Life
+- Western States
+evidence_types:
+- Newspapers and Periodicals
+- Personal Accounts
+- Photographs
+- Travel
+resource_types:
+- Data
+- Images
+- Text
+- Video
 ---
 
-
 This site was created by Idaho State University professors Mike Trinklein and Steve Boettcher as a companion to their PBS documentary, *The Oregon Trail*. The website describes the history of the Trail and the settlers who used it to migrate to the Oregon Territory beginning in the early 1840s. It is divided into five sections: general information about the history of the Oregon Trail; historic sites along the Trail; facts and statistics; full-text archive; and "Shop the Oregon Trail." The archive includes full texts of seven diaries, two letters, nine memoirs, and five period books about journeys along the Trail.
+
 The site also contains roughly 30 video clips of historians discussing the history of the Trail and a virtual field trip of the Trail's top sites. There is an online teacher's guide that was designed as a companion to the documentary video, but its discussion topics and activities can be adapted for classroom use. The site is easy to navigate and has a keyword search feature.

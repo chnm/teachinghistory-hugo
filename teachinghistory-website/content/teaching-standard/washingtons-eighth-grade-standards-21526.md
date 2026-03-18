@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21526
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### WA.1. Ealr / Domain: CIVICS

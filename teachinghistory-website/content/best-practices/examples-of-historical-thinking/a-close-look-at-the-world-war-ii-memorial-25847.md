@@ -10,8 +10,19 @@ splash_image_fid: '10192'
 summary: Historian Christopher Hamner introduces educators to the World War II Memorial
   in Washington, DC. He asks, what was its intended audience and purpose?
 splash_image: /files/ww2splash_1_0.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Military History
+tags:
+- memorials
+- monuments
+- professional development
+- veterans
+- world war ii memorial
 ---
-
 
 /files/media/video/wwmem1.mp4
 

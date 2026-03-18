@@ -12,10 +12,27 @@ summary: Ford's Theatre Society's Sarah Jencks leads teachers through Abraham Li
   professional development.
 splash_image: /files/Fords_1_0.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Military History
+- Politics
+- Slavery
+- Southern States
+tags:
+- Abraham Lincoln
+- Ford's Theatre
+- Partners
+- TAH activities
+- high school
+- historical thinking
+- inaugural addresses
+- presidential inaugurations
+- presidents
 ---
-
 
 /files/media/video/Fords1.mp4
 

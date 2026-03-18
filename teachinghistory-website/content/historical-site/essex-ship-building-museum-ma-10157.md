@@ -6,7 +6,17 @@ content_type: historical_site
 draft: false
 drupal_nid: 10157
 website_url: http://www.essexshipbuildingmuseum.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- New England
+tags:
+- Essex
+- Massachusetts
+- shipbuilding
 ---
 
 The Essex Ship Building Museum chronicles the history of the most successful industry in the town of Essex, the shipbuilding industry, and the history of Essex more generally.
+
 The museum offers educational programs, guided tours, professional development for teachers, occasional presentations, and evening classes on a variety of topics. The website offers visitor information, information regarding all programs offered by the museum, and a calendar of events.

@@ -10,6 +10,22 @@ keywords: souvenirs, pottery, industry, industries, Kansas, tourism, tourists, c
 website_url: http://www.kshs.org/p/cool-things-dryden-pottery/10356
 date_published: '2009-04-08T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Business
+- Consumer Culture
+- Midwestern States
+- Popular Culture, Leisure
+tags:
+- consumerism
+- industries
+- industry
+- kansas
+- pottery
+- souvenirs
+- tourism
+- tourists
 ---
 
 This podcast from the Kansas Museum of History looks at James Dryden, ceramics manufacturer in the 1950s, who cornered the market on souvenir pottery until the highway bypassed his location and Dryden moved his operation out-of-state.

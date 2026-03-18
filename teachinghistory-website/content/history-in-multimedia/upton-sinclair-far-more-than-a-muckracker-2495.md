@@ -12,6 +12,45 @@ keywords: biographies, socialism, socialists, anarchism, anarchists, politicians
 website_url: http://www.teachingamericanhistory.us/audio/popup_coodley.html
 date_published: '2005-06-30T00:00:00'
 series_name: Lectures (Biography), 2004-2005
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Business
+- Cities & Suburbs
+- Consumer Culture
+- Health & Medicine
+- Labor
+- Literature
+- Media
+- Politics
+- Radicalism
+- Reform
+- Science & Tech.
+tags:
+- The Jungle
+- activism
+- activists
+- anarchism
+- anarchists
+- authors
+- biographies
+- labor
+- labor movements
+- novelists
+- novels
+- politicians
+- protest
+- protesters
+- protests
+- reformers
+- socialism
+- socialists
+- working class
+- writers
+- writing
 ---
 
 Professor Lauren Coodley reviews the life of writer and activist Upton Sinclair. She focuses on the details of his life not commonly included in his popular image as a "muckraker."

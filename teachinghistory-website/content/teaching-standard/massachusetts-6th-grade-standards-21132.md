@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21132
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### MA.1. Domain / General Standard: World Geography

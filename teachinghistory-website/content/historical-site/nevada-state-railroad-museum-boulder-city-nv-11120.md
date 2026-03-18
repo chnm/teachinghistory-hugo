@@ -6,7 +6,21 @@ content_type: historical_site
 draft: false
 drupal_nid: 11120
 website_url: http://www.nevadasouthern.com/
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Science & Tech.
+- Western States
+tags:
+- Boulder City
+- Hoover Dam
+- Nevada
+- Railroad
+- Train
 ---
 
 The Nevada State Railroad Museum is located in Boulder City, Nevada, the city that built the Hoover Dam. The museum chronicles the history of rail travel in Nevada, dating back to the 1930s.
+
 The museum offers train rides, field trip programs, exhibits on railroad history, and the "engineer for an hour" program. The website offers basic visitor information.

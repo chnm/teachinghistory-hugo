@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21021
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### GA.SS7H. Strand/topic: Africa
@@ -220,6 +220,7 @@ grade_levels:
     * ##### SS7CG2.c. Element:
 
       Describe the two predominant forms of democratic governments: parliamentary and
+
       presidential.
   - #### SS7CG5. Standard:
 

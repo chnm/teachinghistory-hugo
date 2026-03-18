@@ -10,7 +10,26 @@ keywords: slaves, race, race relations, racism, Virginia, antebellum, slave rebe
 website_url: http://www.virginiaexperiment.com/index.php?option=com_content&task=view&id=15
 date_published: '2007-02-01T00:00:00'
 series_name: 'The Virginia Experiment: Speaker Seminar Series'
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Ideas & Ideologies
+- Legal History
+- Radicalism
+- Reform
+- Slavery
+- Southern States
+tags:
+- Antebellum
+- Virginia
+- race
+- race relations
+- racism
+- slave rebellions
+- slaves
 ---
 
 Dr. Scot French of the University of Virginia looks at Nat Turner's Rebellion, the slave uprising of 1831—considering how the historical narrative and understanding of the Rebellion were formed and continue to be shaped.
+
 To listen to this lecture, select "Podcast Part 1" under the February 1st listing.

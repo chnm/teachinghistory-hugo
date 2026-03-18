@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21445
 grade_levels:
-  - high
+- high
 ---
 
 * ### SD.9-12.US Goal / Strand: Core High School U.S. History

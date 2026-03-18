@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21179
 grade_levels:
-  - high
+- high
 ---
 
 * ### MI.F. Strand / Standard Category: World History and Geography - Foundations WHG 1-3

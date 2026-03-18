@@ -12,8 +12,21 @@ thumbnail_fid: '2955'
 summary: Even American presidents were babies once!
 splash_image: /files/splash-quiz-pd12_0.jpg
 thumbnail: /files/quiz_thumbnail/USSteeThumbnail.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Children
+- Politics
+tags:
+- babies
+- infants
+- photographs
+- presidents
 ---
 
-
 Politicians kiss babies to bring good luck to the kisser and the kissed. Were our presidents kissed by politicians when they were babies? Would you have kissed these kids?
+
 Match each baby photo to the president he would grow up to be.

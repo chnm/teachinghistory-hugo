@@ -11,6 +11,20 @@ keywords: historical analysis, scientific testing, experts, primary sources, obj
 website_url: http://www.pbs.org/opb/historydetectives/video/1484932525/
 date_published: '2008-12-17T00:00:00'
 series_name: 'History Detectives: Video Library'
+time_periods:
+- All
+- General
+topics:
+- Science & Tech.
+tags:
+- History Detectives
+- artifacts
+- experts
+- forensic analysis
+- historical analysis
+- objects
+- primary sources
+- scientific testing
 ---
 
 Wes Cowan of PBS's *History Detectives* discusses the work of experts who carry out tests to determine the authenticity and origin of artifacts investigated in the show.

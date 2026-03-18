@@ -13,7 +13,18 @@ summary: The politics of love—answer these questions about valentines to and f
   U.S. presidents
 splash_image: /files/PresValentine_0.jpg
 thumbnail: /files/website_image/WestArtiImage.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Revolution & New Nation, 1754-1820s
+topics:
+- Politics
+- Popular Culture, Leisure
+tags:
+- Valentines
+- Valentine’s Day
+- holidays
+- presidents
 ---
-
 
 What sort of note do you send your sweetheart when he's the head of state—or if she's the First Lady? A cardboard Valentine might not be enough. Read each of the selections below, and match them with the presidents (in the pull-down menu) who received or sent them.

@@ -14,10 +14,11 @@ summary: Facilitate dialogue in the history classroom with this online bulletin 
 splash_image: /files/wallwisherSplash.jpg
 image: /files/image-padlet.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Collaboration
 ---
-
 
 Padlet is an online bulletin board maker that can help teachers facilitate dialogue in the history classroom

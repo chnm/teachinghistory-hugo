@@ -12,6 +12,35 @@ keywords: Jews, Judaism, presidents, Bill of Rights, Constitutional Convention, 
 website_url: http://teachingamericanhistory.org/seminars/2004/arkes.html
 date_published: '2004-09-18T00:00:00'
 series_name: Free Saturday Seminars for Social Studies Teachers
+time_periods:
+- Contemporary US, 1968-Present
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- Ethnicity
+- Ideas & Ideologies
+- Legal History
+- Literature
+- Media
+- Politics
+- Religion
+tags:
+- Bill of Rights
+- Constitutional Convention
+- Founding Fathers
+- Goldman v. Weinberger
+- Jews
+- Judaism
+- U.S. Constitution
+- U.S. Supreme Court
+- civil rights
+- courts
+- federalist papers
+- law
+- laws
+- presidents
+- religious freedom
+- the Federalist
 ---
 
 Professor Hadley Arkes returns to the original debate over whether the Bill of Rights should be added to the Constitution. He looks at the arguments that were put forward, the basis of these arguments, and the repercussions the inclusion of and the contents of the Bill of Rights have had on U.S. history. He uses the 1986 U.S. Supreme Court case *Goldman v. Weinberger* as a frame for discussing these issues. This lecture continues from the lecture "A Reconsideration of the Original Case Against the Bill of Rights, Part One."

@@ -14,7 +14,19 @@ summary: Read hundreds of poems by major and lesser known figures.
 splash_image: /files/Modern_and_Contemporary_American_Poetry_432x240.jpg
 thumbnail: /files/charlestown-new.jpg
 image: /files/website_image/English88_Image.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Art
+- Popular Culture, Leisure
+evidence_types:
+- Literary Sources
+resource_types:
+- Audio
+- Images
+- Text
+- Video
 ---
-
 
 This site consists of hundreds of poems by major and minor figures--from Emily Dickinson to William Carlos Williams and Allen Ginsberg to contemporary artists and writers--hundreds of links to poetry resources, and a "readings schedule" for a course in American poetry. Also offers materials as diverse as audio clips, newspaper articles, and television spots. Although the organization is haphazard, this is a rewarding and eclectic site packed with primary documents and leads for further work.

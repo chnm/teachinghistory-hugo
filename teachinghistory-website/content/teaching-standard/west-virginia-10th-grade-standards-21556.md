@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21556
 grade_levels:
-  - high
+- high
 ---
 
 ## Tenth Grade: United States Studies to 1900

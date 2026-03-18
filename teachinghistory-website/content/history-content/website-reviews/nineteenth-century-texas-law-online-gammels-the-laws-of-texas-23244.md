@@ -14,8 +14,19 @@ summary: Delve into Texas law from early colonization through 1897.
 splash_image: /files/Nineteenth-Century_Texas_Law_Online-_Gammels_The_Laws_of_Texas_432x240.jpg
 thumbnail: /files/splash-wr-sanfransciscobridge.jpg
 image: /files/website_image/19thTXImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- Legal History
+- Southern States
+evidence_types:
+- Official Documents
+resource_types:
+- Text
 ---
 
-
 H. P. N. Gammel's 10-volume compilation *The Laws of Texas, 1822-1897* is available in PDF format on this site, providing more than 16,500 pages of historical legal documents. Includes early colonization laws and constitutions, proceedings from constitutional conventions, and all laws and resolutions passed from every congressional and legislative session from statehood to 1897. Users may browse each volume or an analytical index of the whole work, or take advantage of a search engine that allows keyword searching. Includes six links to related sites.
+
 Valuable for those conducting research into 19th-century Texas history or legal history.

@@ -15,7 +15,30 @@ summary: How many hospital beds did New Orleans have in 1960? Was it able to acc
 splash_image: /files/census.jpg
 thumbnail: /files/washington.jpg
 image: /files/website_image/CharCensImage.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Cities & Suburbs
+- Economy
+- Education
+- Ethnicity
+- Gender
+- Health & Medicine
+- Immigration
+- Labor
+- Mid-Atlantic
+- Midwestern States
+- Science & Tech.
+- Southern States
+- Women
+evidence_types:
+- Quantitative Evidence
+resource_types:
+- Data
+- Images
+- Text
 ---
-
 
 A 28-page study, including charts, of 1960 census data compiled according to residence areas, or "tracts," within the cities of Atlanta, Baltimore, Chicago, Cleveland, Detroit, Newark, New Orleans, Philadelphia, and Pittsburgh. Also provides census data for 1940 and 1950 with regard to Chicago and Detroit. Offers raw data and percentage computations on total population of tracts, number of males and females, African-American ethnicity, foreign origin, age, marital status, income level, education, units of substandard housing, rent amounts, employment figures, and salary levels. Also provides medical-related data, such as numbers of hospitals, hospital beds, pharmacists, and types of physicians in each tract. Of use for those studying mid-20th-century urban history. See "History Matters" entry [Data and Program Library Service: Online Data Archive](http://www.disc.wisc.edu) for information on other social science studies available at this site.

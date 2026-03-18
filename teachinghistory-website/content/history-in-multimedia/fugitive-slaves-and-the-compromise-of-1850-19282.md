@@ -11,7 +11,31 @@ keywords: slaves, Fugitive Slave Law, fugitives, fugitive slaves, race, racism, 
 website_url: http://lincoln.lib.niu.edu/themevideo.html
 date_published: '2008-05-14T00:00:00'
 series_name: African-American Experience Video
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Ethnicity
+- Ideas & Ideologies
+- Legal History
+- Politics
+- Slavery
+- Southern States
+tags:
+- Fugitive Slave Law
+- fugitive slaves
+- fugitives
+- personal liberty laws
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- slaves
+- state rights
 ---
 
 Eric Foner of Columbia University discusses the implementation of the Fugitive Slave Law and Northern reactions to it. He also considers the contradiction between Southern support of the Fugitive Slave Law and of state rights, as well as Abraham Lincoln's own political (if not personal) support of the Fugitive Slave Law.
+
 To view this clip, select "Fugitive Slaves and the Compromise of 1850" under "African-American Experience Video."

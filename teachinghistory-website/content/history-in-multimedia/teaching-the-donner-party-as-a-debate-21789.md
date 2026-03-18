@@ -11,7 +11,20 @@ keywords: California Trail, pioneers, settlers, trails, cannibalism, Donners, Do
 website_url: http://speakingofhistory.blogspot.com/2009/03/podcast-181-teaching-donner-party-as.html
 date_published: '2009-03-04T00:00:00'
 series_name: Speaking of History
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Western States
+tags:
+- California Trail
+- Donner Party
+- Donners
+- cannibalism
+- pioneers
+- settlers
+- trails
 ---
 
 Eighth-grade American history educator Eric Langhorst discusses his techniques for exploring the fate of the Donner Party in the classroom, using the PBS documentary *The Donner Party* from PBS and in-class debate over the role of Lansford Hastings in the tragedy.
+
 To listen to the podcast select "Direct link to Podcast #181 - Teaching the Donner Party as a Debate." The video clip shows the in-class debate.

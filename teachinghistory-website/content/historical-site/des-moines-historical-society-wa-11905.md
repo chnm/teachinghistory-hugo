@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 11905
 website_url: http://www.dmhs.org/
+time_periods:
+- General
+topics:
+- Western States
+tags:
+- King County
+- Seattle
+- Washington
 ---
 
 The Des Moines Historical Society is dedicated to preserving the historical heritage of the greater Des Moines area of Southern King County in Washington. The society owns and operates a local history museum, which serves to showcase the society's collection of local historical artifacts and documents.
+
 The society offers exhibits and guided tours of the society's museum. The website offers a history of the area and visitor information.

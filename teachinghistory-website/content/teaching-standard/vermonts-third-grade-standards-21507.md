@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21507
 grade_levels:
-  - elementary
+- elementary
 ---
 
 (Note: By the completion of fourth grade, Vermont students are expected to master the following standards.)
@@ -81,6 +81,7 @@ grade_levels:
     Students interpret geography and solve geographic problems by:
     - Identifying characteristics of surrounding towns and the state
       of Vermont using resources such as road signs, landmarks,
+
       models, maps, photographs and mental mapping.
     - Observing, comparing, and analyzing patterns of local and state land use (e.g., agriculture, forestry, industry) to understand why particular locations are used for certain human activities.
     - Locating the physical and political regions of Vermont (e.g., six regions, towns, counties).

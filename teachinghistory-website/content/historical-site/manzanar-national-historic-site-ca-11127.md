@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 11127
 website_url: http://www.nps.gov/manz/index.htm
+time_periods:
+- General
+- Great Depression & WWII, 1929-1945
+topics:
+- Asian Americans
+- Ethnicity
+tags:
+- Internment Camp
+- Japanese American
+- Japanese American internment
 ---
 
 The Manzanar National Historic Site preserves the history of the Manzanar War Relocation Center, an internment camp for Japanese Americans during World War II. The site today is home to a visitor center and the Merritt Park Archaeological Dig.
+
 The park offers guided tours, field trip programs, exhibits, and outreach programs such as educator resources boxes. The website offers detailed historical information regarding the park, as well as visitor information. In order to contact the park via email, use the "contact us" link located on the left side of the webpage.

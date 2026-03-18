@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 9489
 website_url: http://www.rootsweb.ancestry.com/~vaochs/index.htm
+time_periods:
+- General
+topics:
+- Daily Life
+- Southern States
+tags:
+- Virginia
+- historical society
 ---
 
 The Center for Orange County History seeks to preserve and share the history of Orange County, Virginia. To this end, the society offers a library with over 3,000 volumes, as well as maps, photographs, and information on families, buildings, sites, and events.
+
 The center offers a library and archive. The website offers historical diary excerpts and a selection of historical photographs.

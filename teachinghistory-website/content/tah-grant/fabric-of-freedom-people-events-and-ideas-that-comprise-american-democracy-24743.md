@@ -6,9 +6,9 @@ content_type: tah_grant
 draft: false
 drupal_nid: 24743
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
 
 Centennial BOCES in north central Colorado includes schools that are diverse in size and demographic composition. *Fabric of Freedom* will serve four districts that include 16 schools in need of improvement. Professional development provided through the program will be guided by five focal points: standards-based U.S. history, historical investigation, primary source enrichment, incorporation of local stories, and framing of history as a historian. Each year, the program will deliver a 10-day summer academy, six day-long professional learning team workshops, interactive online discussions and presentations, intensive technology training, and one-on-one mentoring and coaching. Participating teachers will be eligible for graduate credits, acquire libraries of durable learning goods to support instruction, read and review historical nonfiction, and receive paid memberships in professional history organizations. A cohort of 30 teachers will enter the program each year, and cohort members can continue some activities after their year of training ends. Year 1 and Year 3 participants will continue as teacher leaders beyond the life of the program. All participants will investigate the pivotal people, ideas, events, documents, and legislation that have created and shaped American democracy since the 17th Century. They will learn about historical investigation, historical analysis and interpretation, and other instructional strategies that are effective and engaging for a wide spectrum of learners, such as the use of digital storytelling to support content delivery. A Web site will disseminate teachers’ digital storytelling products, curricula, and a "source book" that contains classroom exercises based on primary documents.

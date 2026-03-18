@@ -20,9 +20,28 @@ author_image_fid: '7013'
 summary: Segregation and equality in America was a case of double standards.
 splash_image: /files/diversity1920s432x240.jpg
 author_image: /files/author_image/malindalowery.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- American Indians
+- Asian Americans
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Reform
+tags:
+- John J. Pershing
+- civil rights
+- equal rights
+- ethnicity
+- military history
+- race
+- segregation
 ---
-
-
 
 Pershing undoubtedly had complex views on race and American citizenship, probably not so different from his political ally and fellow Republican, Theodore Roosevelt. Given his command of African American “Buffalo Soldiers” in the 1898 Spanish-American War and his participation in the Wounded Knee Massacre of Lakota Indians just eight years earlier, it would seem that he held very contradictory views. To Pershing, blacks may have seemed like worthy soldiers, while Indians deserved genocide. On the other hand, as a military officer, Pershing was carrying out orders and we cannot assume these actions reflected his personal beliefs. Roosevelt, however, was in a different position. Unlike Pershing, who followed orders, Roosevelt gave orders and thus set the tone for race relations both in the military and in society at large. For example, Roosevelt was determined to see the cultural extinction of American Indians (while holding them up as “noble savages” nonetheless), but he also hosted black educator Booker T. Washington at the White House, a very controversial move, especially to white Southern Democratic politicians.
 
@@ -37,4 +56,5 @@ Famously, Roosevelt believed in the “melting pot,” a phrase that we have com
 ---
 
 [The Modern Civil Rights Movement: A Rise of Purposeful Anger](http://www.teachinghistory.org/history-content/beyond-the-textbook/24317)
+
 U.S. Department of the State: Office of the Historian. [Milestones: 1921-1936](https://history.state.gov/milestones/1921-1936/immigration-act). Accessed January 12, 2011.

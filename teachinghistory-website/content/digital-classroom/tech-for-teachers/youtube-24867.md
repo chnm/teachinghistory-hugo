@@ -13,10 +13,17 @@ summary: YouTube is an invaluable resource—just make sure to use it properly!
 splash_image: /files/thoyoutubesplash.jpg
 image: /files/youtubeimage.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- multimedia
+- presentations
+- social networking
+- video player
+- videos
+- visuals and visualizing
+- web hosting
 ---
-
 
 YouTube offers educators a wide variety of useful videos, but must be used carefully to maximize its potential.

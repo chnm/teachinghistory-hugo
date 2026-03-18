@@ -19,12 +19,14 @@ splash_image: /files/AdaptingDocumentsSplash.jpg
 image: /files/AdaptingDocuments-150x113.jpg
 author_image: /files/author_image/Logo SHEG.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- General
+tags:
+- scaffolding
 ---
-
-
 
 ## What Is It?
 

@@ -17,11 +17,22 @@ spotlight: Explore the Holy Land with American tourists in the 1800s
 splash_image: /files/Train_ticket.jpg
 image: /files/lesson_image/TravelPoster_0.jpg
 grade_levels:
-  - middle
-  - high
-duration: '90 minutes'
+- high
+- middle
+duration: 90 minutes
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+topics:
+- International Relations
+- Religion
+- Science & Tech.
+tags:
+- Industrial Revolution
+- Mark Twain
+- religion
+- tourism
+- travel
 ---
-
 
 In [this teaching module](https://www.shapell.org/historical-perspectives/teacher-resources/americans-tourists-in-the-holy-land-1865-1900) from the [Shapell Manuscript Foundation](https://www.shapell.org/) in collaboration with the [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/)students learn how to examine engaging primary sources including travel posters, train tickets, maps, and a letter written by Mark Twain to better understand the attitudes and experiences of Americans who travelled to British Palestine in the late 1800s.
 

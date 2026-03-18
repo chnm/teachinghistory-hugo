@@ -12,7 +12,18 @@ thumbnail_fid: '2824'
 summary: What about the *other* occupants of the White House?
 splash_image: /files/splas-firstfirsts_0.jpg
 thumbnail: /files/website_image/PrivPassImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Gender
+- Politics
+- Women
+tags:
+- First Ladies
 ---
-
 
 The role of the First Lady has changed over time due to shifting social values as well as the individual personalities of the first ladies. Try to identify the correct first lady in each question based on the following descriptions.

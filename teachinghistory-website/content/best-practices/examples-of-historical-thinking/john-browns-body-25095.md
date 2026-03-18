@@ -18,11 +18,22 @@ summary: Chandra Manning discusses the song “John Brown's Body,” and how mus
 splash_image: /files/screen-shot-2012-02-22-at-2.18.20-pm.jpg
 author_image: /files/author_image/chandra_0.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Art
+- Media
+- Slavery
+tags:
+- Battle Hymn of the Republic
+- John Brown's Body
+- lyrics
+- music
+- songs
 ---
-
-
 
 /files/media/video/JBrownScholar1.mp4
 

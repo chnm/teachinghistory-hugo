@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 13504
 website_url: http://kansasfirefightersmuseum.com/ffmuseum/index.html
+time_periods:
+- General
+topics:
+- Daily Life
+- Midwestern States
+- Western States
+tags:
+- kansas
 ---
 
 Located in an historic engine house, the Kansas Firefighters Museum displays vintage firefighting vehicles and equipment.
+
 The museum offers exhibits and research archive access.

@@ -9,7 +9,7 @@ question: Multiple Choice
 grade_tested: 8, 10, 11
 website_url: http://www.cde.ca.gov/be/st/ss/documents/histsocscistnd.pdf
 grade_levels:
-  - middle
-  - high
+- high
+- middle
 ---
 

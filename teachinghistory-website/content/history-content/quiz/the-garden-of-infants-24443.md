@@ -13,7 +13,16 @@ summary: Kindergarten came to America in the 19th century on a wave of German Ro
   Idealism.
 splash_image: /files/splash-kindergarten.jpg
 thumbnail: /files/quiz_thumbnail/EconDataThumbnail.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Children
+- Education
+- Immigration
+- Reform
+tags:
+- kindergarten
 ---
-
 
 "Kindergarten"—the name gives it away. Advocated by the Prussian education reformer Friedrich Fröbel as an environment in which to nurture children like young plants in a garden, kindergarten came to the U.S. with German immigrants in the late 19th century. The first English-language kindergarten opened in 1860. Answer these questions about the institution.

@@ -12,8 +12,9 @@ series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institu
 splash_image_fid: '5240'
 splash_image: /files/splash-him-clinton20th.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Contemporary US, 1968-Present
 ---
-
 
 Historian James T. Patterson discusses his book *Restless Giant: The United States From Watergate to Bush v. Gore*. He looks at the United States during the final quarter of the 20th century, from the 1970s to the election of 2000. This is part one of a [two-part](http://teachinghistory.org/history-content/history-in-multimedia/25613) lecture.

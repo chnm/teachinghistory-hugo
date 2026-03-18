@@ -11,6 +11,16 @@ splash_image_fid: '8906'
 summary: Was colonial trade really triangular? What kinds of work did colonists do,
   and what kinds of work do textbooks leave out?
 splash_image: /files/4717148439_2b4e96be00_b.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- American Indians
+- Economy
+- Gender
+- Labor
+- Women
+tags:
+- Triangle trade
 ---
 
 ## What Textbooks Say

@@ -9,6 +9,10 @@ duration: 01:01:26
 website_url: http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=5498
 date_published: '2012-04-03T00:00:00'
 series_name: The Library of Congress Webcasts
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Military History
 ---
 
 In this interview produced by The Library of Congress Webcasts, author Jeanne Guillemin discusses her new book, *American Anthrax: Fear, Crime, and the Investigation of the Nation's Deadliest Bioterror Attack*, which offers a definitive account of the five-year investigation into the 2001 anthrax attacks.

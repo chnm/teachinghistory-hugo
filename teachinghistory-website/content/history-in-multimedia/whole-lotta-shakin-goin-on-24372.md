@@ -9,6 +9,15 @@ duration: 00:20:54
 website_url: http://www.kshs.org/p/cool-things-belt-vibrator/15638
 date_published: '2010-08-25T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Consumer Culture
+- Daily Life
+- Popular Culture, Leisure
+- Women
 ---
 
 In this podcast from the Kansas Museum of History, the curators examine a classic folly in the world of exercise equipment: the belt vibrator. The podcast also includes an overview of the history of the creation of the machine and a brief discussion of its usefulness as a weight-loss device.

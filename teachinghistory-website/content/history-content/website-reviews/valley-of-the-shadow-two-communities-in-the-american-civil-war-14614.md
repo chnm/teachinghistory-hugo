@@ -16,7 +16,41 @@ summary: Take a closer look at the Civil War with this extensive database that o
   PA.
 splash_image: /files/Valley_of_the_Shadow_432x240.jpg
 image: /files/website_image/ValleyoftheShadow.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Ideas & Ideologies
+- Literature
+- Media
+- Mid-Atlantic
+- Military History
+- Politics
+- Slavery
+- Southern States
+evidence_types:
+- Maps
+- Newspapers and Periodicals
+- Official Documents
+- Paintings and Prints
+- Personal Accounts
+- Photographs
+- Quantitative Evidence
+resource_types:
+- Data
+- Images
+- Text
+tags:
+- Augusta County
+- Civil War
+- Franklin County
+- Freedmen's Bureau
+- Harpers Ferry
+- Pennsylvania
+- Shenandoah Valley
+- Virginia
+- counties
+- slaves
 ---
-
 
 This massive, searchable archive compares two Shenandoah Valley counties during the Civil War period—Augusta County, VA and Franklin County, PA. These two counties were divided by 200 miles and the institution of slavery. Thousands of pages of maps, images, letters, diaries, and newspapers, in addition to church, agricultural, military, and public records provide data, experiences, and perspectives from the eve of the war until its aftermath. The site furnishes timelines, bibliographies, and other materials intended to foster research into the Civil War and the lives of those affected by it. The website includes a [section on John Brown](http://www2.iath.virginia.edu/jbrown/master.html) and one entitled "Memory of the War," presenting postwar writings on battles, the lives of soldiers, reunions, obituaries and tributes, and politics.

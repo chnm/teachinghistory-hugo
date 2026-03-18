@@ -9,7 +9,16 @@ duration: 00:11:47
 website_url: http://podcast.history.org/2010/09/20/call-forth-the-militia/
 date_published: '2010-09-20T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present Podcasts'
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+tags:
+- Revolutionary War
+- militas
 ---
 
 Colonial Williamsburg's Harmony Hunter interviews milita expert John Hill to discover how local militas participated in the war effort during the Revolutionary War.
+
 To learn more about the militia in Colonial Williamsburg, click [here](http://www.history.org/almanack/places/hb/hbmag.cfm) to read about the Power Magazine.

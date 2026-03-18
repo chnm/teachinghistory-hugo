@@ -15,9 +15,26 @@ summary: See a turn-of-the-century city, San Francisco, before, during, and afte
 thumbnail: /files/splash-fw-omoinst.jpg
 splash_image: /files/Before-and-After-4322x240.jpg
 image: /files/website_image/Before-and-After-150x113.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Cities & Suburbs
+- Western States
+evidence_types:
+- Film and Video
+resource_types:
+- Text
+- Video
+tags:
+- California
+- San Francisco
+- disasters
+- earthquakes
 ---
 
-
 Part of the Library of Congress American Memory project, this site features 26 films of San Francisco, produced from 1897 to 1916, both before and after the Great Earthquake and fire. Seventeen of the films depict life in San Francisco before the 1906 disaster, including an arrest in Chinatown, a panoramic view of the city from a balloon, and various other scenes of buildings and special attractions in the city.
+
 Seven films describe the earthquake and fire, and two films show a rebuilt city and give a tour of the Panama Pacific Exposition of 1915. Each film includes a roughly 500-word descriptive summary of the contents of the film. The site also includes a 250-word descriptive essay on pre-earthquake San Francisco and an approximately 750-word essay on America at the turn of the 20th century. A selected bibliography notes 32 scholarly works on San Francisco's earthquake.
+
 This site is keyword searchable and contains a subject index and an alphabetical list of film titles. For those exploring San Francisco's history, urban history, or natural disasters, this is a useful site.

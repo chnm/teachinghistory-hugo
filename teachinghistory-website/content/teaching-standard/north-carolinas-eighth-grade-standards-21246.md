@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21246
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### NC.1. Course / Competency Goal: North Carolina

@@ -12,8 +12,28 @@ thumbnail_fid: '403'
 summary: Lives dedicated to teaching and nursing.
 thumbnail: /files/website_image/OAC.jpg
 splash_image: /files/marie_large-new.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Education
+- Health & Medicine
+- Religion
+- Women
+tags:
+- Canada
+- Hotel-Dieu
+- Marie de l'Incarnation
+- Montreal
+- New France
+- New Orleans
+- Quebec
+- Roman Catholicism
+- Ursulines
+- religious orders
+- women
 ---
-
 
 Women of religious orders were active in New France mainly in founding schools and hospitals. Three religious orders were present almost from the time of the earliest French settlements. Jesuit Relations reports, first published in 1611, inspired many founders of these religious communities to travel to New France. Reports narrated the adventures and trials of the earliest Jesuit missionaries who accompanied French explorers and trappers. The religious orders of women that soon followed established the first schools and hospitals in the colony and were among the first women to arrive in New France. The most important of these communities were:
 
@@ -32,19 +52,35 @@ St. Marguerite Bourgeoys began this noncloistered religious order and, in 1658, 
 ---
 
 The Virtual Museum of Canada, [Seasons of New France](http://www.virtualmuseum.ca/home/).
+
 Quebec City's Chapelle et Musée de Ursulines.
+
 Ursulines of Canada.
+
 Some from Marie de l'Incarnation to her brother.
+
 Montreal's [Musée des Hospitalières de l'Hôtel-Dieu](http://www.museedeshospitalieres.qc.ca/).
+
 Montreal's [Marguerite-Bourgeoys Museum, Notre-Dame-de-Bon-Secour Chapel](http://www.marguerite-bourgeoys.com/en/index.asp).
+
 Canada's First Hospital, Hôtel-Dieu of Quebec City.
+
 The Augustinian Sisters and Quebec City's Hôtel-Dieu.
+
 Also very useful for understanding the role of nuns and sisters in New France:
+
 Robert Choquette, "French Catholicism Comes to the Americas," 131- 242, in Charles H. Lippy et al. *Christianity Comes to the Americas 1492-1776*. New York: Paragon House, 1992.
+
 W. J. Eccles. "The Role of the Church in New France," 26-37 in Eccles, *Essays on New France*. Toronto: Oxford University Press, 1987.
+
 W. J. Eccles. *The Canadian Frontier 1534-1760*. Albuquerque: University of New Mexico Press, 1983.
+
 Thérèse Germain. *Autrefois, les Ursulines de Trois-Rivières: une école, un hôpital, un cloître*. Sillery, Quebec: A. Sigier, 1997.
+
 Colleen Gray. *The Congrégation de Notre-Dame, Superiors, and the Paradox of Power, 1693-1796*. Montreal: McGill-Queen's University Press, 2007.
+
 Dom Claude Martin. *La Vie de la Vénérable Mère Marie de l'Incarnation, première supérieure des Ursulines de la Nouvelle France*. Paris: L. Billaine, 1677.
+
 Peter N. Moogk. *La Nouvelle France: The Making of French Canada: A Cultural History*. Lansing: Michigan State University Press, 2000.
+
 Marcel Trudel. *Les Écolières des Ursulines de Québec, 1639-1686: Amérindiennes et Canadiennes*. Montreal: Hurtubise-HMH, 1999.

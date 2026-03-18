@@ -17,8 +17,17 @@ summary: History lessons on the founding documents invariably include the Declar
   of Independence and the Constitution.
 splash_image: /files/doi-new.jpg
 thumbnail: /files/quiz/electionmap1b.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+tags:
+- Bill of Rights
+- Declaration of Independence
+- constitution
+- federalist papers
+- founding documents
 ---
-
 
 I have not found a commonly agreed upon list of precisely four documents. History lessons that focus on the founding documents, however, invariably include the Declaration of Independence and the Constitution. They also include the Bill of Rights, but because these are amendments to the Constitution, sometimes they are folded into the Constitution, along with the other amendments.
 
@@ -31,11 +40,15 @@ If it means foundational for the initial establishment of the U.S., that is, wha
 > If "founding," however, means foundational for clarifying how we have come to understand our country today, the list of documents grows in a different direction and becomes difficult to limit.
 
 If "founding," however, means foundational for clarifying how we have come to understand our country today, the list of documents grows in a different direction and becomes difficult to limit. Some candidates for inclusion might be the Mayflower Compact, the Northwest Ordinances, the Emancipation Proclamation, the Gettysburg Address, the Seneca Falls Declaration of Sentiments, and the "I Have a Dream" speech by Martin Luther King, Jr.
+
 Several years ago, the National Archives and Records Administration collected a list of 100 milestone documents in American history called [*Our Documents*](http://www.ourdocuments.gov/content.php?flash=old&page=milestone). The list begins, chronologically, with the Richard Henry Lee Resolution of June 7, 1776, proposing independence for the American colonies, and runs through the Voting Rights Act of 1965.
 
 ---
 
 National Archives, "Teaching With Documents: U.S. Constitution Workshop":
+
 http://www.archives.gov/education/lessons/constitution-workshop/
+
 John J. Patrick, "Teaching America's Founding Documents," ERIC Digest, November 2002:
+
 http://findarticles.com/p/articles/mi\_pric/is\_200211/ai\_3178660388/

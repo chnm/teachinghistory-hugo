@@ -18,9 +18,31 @@ spotlight: Immigration is an important topic in American History. So, don't just
   bring the past to life.
 splash_image: /files/splash-wr-letm.jpg
 image: /files/website_image/image-wr-lestm.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- Cities & Suburbs
+- Daily Life
+- Family Life
+- Immigration
+- Mid-Atlantic
+evidence_types:
+- Photographs
+resource_types:
+- Audio
+- Images
+- Text
+tags:
+- New York
+- New York City
+- tenements
 ---
 
-
 In 1863, 97 Orchard Street, a tenement in New York City's Lower East Side, opened its doors to the growing population of recent immigrants to that city, housing more than 7,000 people before it closed in 1935. The museum that now occupies that building has restored six families' apartments with careful attention to historical detail. This website, while primarily intended as a guide for those intending to visit the physical museum, provides several tantalizing glimpses at tenement life, as well as information on historical restoration.
+
 The History section presents 15 photographs and etchings explaining the evolution of bathrooms, light, water, and heat in the building, as well as examples of primary source documents and interviews available in the museum's collections. Additionally, a small exhibit of five photographs reconstructs how the museum's curators interpreted a 1918 apartment in the tenement—showing the use of crime scene photographs to determine how the family would have decorated the walls.
+
 The Play section contains a narrated virtual tour of the museum, and five well-designed interactive experiences on immigration and immigrant life geared towards younger learners. Highlights from these sections are repeated in the Education section, which also includes three lesson plans each for elementary, middle, and high school levels focused on teaching with objects, oral histories, and other primary sources.

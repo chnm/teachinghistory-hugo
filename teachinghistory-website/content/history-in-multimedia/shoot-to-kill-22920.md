@@ -9,6 +9,11 @@ duration: 00:16:15
 website_url: http://www.kshs.org/p/cool-things-rifle-from-james-gang-shootout/10371
 date_published: '2009-09-23T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Legal History
+- Midwestern States
 ---
 
 Curators of the Kansas Museum of History describe the history of a German Schuetzen rifle in the museum's collection. The rifle was used in a shootout with members of Jesse James's gang in 1875, killing one member.

@@ -11,8 +11,10 @@ splash_image_fid: '8321'
 summary: Learn how to teach your students historical thinking with this informative
   video from the University of Wisconsin-Whitewater.
 splash_image: /files/thinkinglikehistoriansplash.jpg
+tags:
+- overview
 ---
 
-
 This 30-min. [video](http://www.uww.edu/cls/history/for-teachers), introduces the *Thinking Like a Historian* approach developed by Dr. Nikki Mandel and Dr. Bobbie Malone. The approach frames history as detective work and focuses on steps such as asking questions, using multiple sources, and synthesizing information and ideas. This video includes vignettes from elementary, middle, and high school classrooms showing the approach in action with accompanying teacher commentaries, as well as commentaries by the authors.
+
 Note: Scroll to the bottom of the webpage to view the video.

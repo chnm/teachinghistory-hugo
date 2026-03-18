@@ -11,6 +11,28 @@ keywords: presidents, New Deal, politicians, Bill of Rights, U.S. Constitution, 
 website_url: http://teachingamericanhistory.org/seminars/2003/brand.html
 date_published: '2003-10-18T00:00:00'
 series_name: Free Saturday Seminars for Social Studies Teachers
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Military History
+- Politics
+- Reform
+tags:
+- American Revolution
+- Bill of Rights
+- New Deal
+- Revolutionary War
+- U.S. Constitution
+- World War I
+- World War II
+- politicians
+- presidents
+- reformers
+- war
+- wars
 ---
 
 Professor Donald Brand examines the relationship of Franklin D. Roosevelt's New Deal to earlier American political traditions—including the policies of Woodrow Wilson and those of the U.S. Founding Fathers. This lecture continues from the lecture "Franklin D. Roosevelt and the Second Bill of Rights, Part One."

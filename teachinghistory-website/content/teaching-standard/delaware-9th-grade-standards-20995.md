@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20995
 grade_levels:
-  - high
+- high
 ---
 
 * ### DE.9.C1. Content Standard: Civics

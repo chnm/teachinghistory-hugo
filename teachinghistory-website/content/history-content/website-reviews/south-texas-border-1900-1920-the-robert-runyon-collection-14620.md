@@ -15,8 +15,38 @@ summary: This site showcases over 8,000 images documenting the history and devel
   of South Texas and the border.
 splash_image: /files/South_Texas_Border_432x240.jpg
 image: /files/website_image/SouthTexasBorder.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Daily Life
+- Ethnicity
+- Global Contact
+- International Relations
+- Latinos
+- Media
+- Military History
+- Politics
+- Radicalism
+- Reform
+- Science & Tech.
+- Western States
+evidence_types:
+- Maps
+- Photographs
+resource_types:
+- Images
+- Text
+tags:
+- Mexican Revolution
+- Mexico
+- Rio Grande Valley
+- Texas
+- World War I
+- photographers
+- photographs
+- photography
 ---
 
-
 These more than 8,000 images document the history and development of South Texas and the border. The collection features the life's work of commercial photographer Robert Runyon (1881–1968). Topics include the U.S. military presence in the area prior to and during World War I and the growth and development of the Rio Grande Valley in the early 1900s.
+
 A special section presents nine of Runyon's 350 photographs of the Mexican Revolution (1910–1920) in Matamoros, Monterrey, Ciudad Victoria, and the Texas border area from 1913 through 1916. "Maps of the Lower Rio Grande" offers a number of topographical and military maps depicting the region. The website also offers essays on the revolution and on Runyon.

@@ -22,10 +22,15 @@ splash_image: /files/splash-tft-newstrust.jpg
 image: /files/image-tft-newstrust.jpg
 author_image: /files/author_image/dlaufenberg1_2.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+topics:
+- Media
+tags:
+- Collaboration
+- dianal laufenberg
+- research
+- social networking
 ---
-
-
 
 The NewsTrust community provides users with tools for sharing, assessing, reviewing, and commenting on the news. Use it to hone your students' questioning abilities when reading both contemporary and historical reports of 'just the facts.'

@@ -10,6 +10,18 @@ keywords: Pennsylvania, Gettysburg, Civil War, battles, battlefields, Battle of 
 website_url: http://www.civilwartraveler.com/audio/index.html#Wheatfield
 date_published: '2009-01-26T00:00:00'
 series_name: Civil War Tours
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Mid-Atlantic
+- Military History
+tags:
+- Battle of Gettysburg
+- Civil War
+- Gettysburg
+- Pennsylvania
+- battlefields
+- battles
 ---
 
 The fighting in the Wheatfield at Gettysburg on July 2, 1863, was some of the most intense and confusing of the war. Gettysburg park historian Eric Campbell leads listeners through the bloody back-and-forth action.

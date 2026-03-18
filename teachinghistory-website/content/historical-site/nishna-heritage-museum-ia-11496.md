@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 11496
 website_url: http://www.nishnaheritagemuseum.com/
+time_periods:
+- General
+topics:
+- Daily Life
+- Midwestern States
+- Popular Culture, Leisure
+- Rural Life
+- Science & Tech.
 ---
 
 The Nishna Heritage Museum primarily presents the history of the Oakland, Iowa area. Additional displays are global in scope. Exhibits include quilts and quilting, historical tools, music playing devices, and dairy equipment. Highlights include an early 20th-century tire changer, Edison phonographs, a butter press, and a switch board.
+
 The museum offers period rooms and exhibits.

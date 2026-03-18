@@ -13,8 +13,20 @@ summary: Ever wanted to be Sherlock Holmes? Look at history the way a detective 
   into crime.
 splash_image: /files/hsi432x240.jpg
 image: /files/website_image/hsi150x113.jpg
+evidence_types:
+- Literary Sources
+- Newspapers and Periodicals
+- Oral History
+- Paintings and Prints
+- Personal Accounts
+- Photographs
+- Political Documents
+- Speeches
+resource_types:
+- Audio
+- Images
+- Text
 ---
-
 
 HSI was created in order to facilitate the use of primary sources in history education. By using the concept of historians as detectives, the site has collected several "cases" for students to examine using a pre-vetted set of related primary sources. The site describes the HSI model as having four steps:
 

@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 22231
 website_url: http://www.snug-harbor.org/
+time_periods:
+- General
+topics:
+- Art
+- Environment
+- Mid-Atlantic
 ---
 
 The Snug Harbor Cultural Center and Botanical Garden occupies 83 acres of what was once a 19th-century home for retired seamen. Today, the complex serves as a center for the arts and culture.
+
 The center offers exhibits, programs and tours for school groups, camps, performances, and other recreational and educational events.

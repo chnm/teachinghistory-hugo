@@ -11,6 +11,22 @@ keywords: presidents, politicians, campaigns, elections, presidential campaigns,
 website_url: http://podcast.history.org/2008/10/13/the-will-of-the-people-2/
 date_published: '2008-10-13T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Politics
+tags:
+- Democratic-Republicans
+- Federalists
+- campaigns
+- elections
+- party systems
+- political parties
+- politicians
+- presidential campaigns
+- presidential elections
+- presidents
 ---
 
 Bill White, the Theresa A. and Lawrence C. Salameno Director of Educational Program Development at Colonial Williamsburg, describes the heated campaigning surrounding the Presidential election of 1800.

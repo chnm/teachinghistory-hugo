@@ -12,7 +12,44 @@ keywords: abolitionists, abolition, abolitionism, slaves, race relations, race, 
 website_url: http://dev.forum-network.org/lecture/nature-sacrifice-biography-charles-russell-lowell-jr
 date_published: '2005-03-22T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Business
+- Cities & Suburbs
+- Consumer Culture
+- Economy
+- Ethnicity
+- Ideas & Ideologies
+- Military History
+- New England
+- Radicalism
+- Reform
+- Science & Tech.
+- Slavery
+tags:
+- 54th Regiment
+- Boston
+- Civil War
+- Front Royal Affair
+- abolition
+- abolitionism
+- abolitionists
+- biographies
+- industrialists
+- industry
+- race
+- race relations
+- racism
+- railroads
+- railways
+- slaves
+- war
+- wars
 ---
 
 Writer Carol Bundy talks about the life of her great-great-great uncle, Charles Russell Lowell, Jr., a Boston abolitionist and industrialist eventually killed in the Civil War. The presentation includes slides.
+
 Audio and video options are available.

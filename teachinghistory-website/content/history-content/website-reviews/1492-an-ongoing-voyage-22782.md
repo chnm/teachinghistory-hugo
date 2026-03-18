@@ -15,7 +15,16 @@ summary: Featuring a variety of secondary sources, this website chronicles the h
 thumbnail: /files/Flexible_Grant_Design_-_432x240.jpg
 splash_image: /files/1492AnOutgoing432x240.jpg
 image: /files/website_image/1492_Image.jpg
+time_periods:
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Global Contact
+evidence_types:
+- Travel
+resource_types:
+- Images
+- Text
 ---
-
 
 This exhibit "examines the first sustained contacts between American people and European explorers, conquerors, and settlers from 1492 to 1600." Divided into six sections--"What Came To Be Called 'America'," "The Mediterranean World," "Christopher Columbus: Man and Myth," "Inventing America," "Europe Claims America," and "Epilogue"--the materials include background essays, illustrations of objects such as Columbus' Coat of Arms, and a 15-title bibliography. An interesting exhibition that consists mostly of secondary text.

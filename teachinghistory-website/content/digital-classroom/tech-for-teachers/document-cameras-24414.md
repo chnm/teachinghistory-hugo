@@ -17,11 +17,16 @@ splash_image: /files/24326_432x240.jpg
 image: /files/image-blog-jjdoccam1_0.jpg
 author_image: /files/author_image/Author_Image_Joe_Jelen_75x75_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- digital tools
+- examples of teaching
+- material and visual culture
+- multimedia
+- presentations
+- visuals and visualizing
 ---
-
-
 
 Document cameras capture and project images of anything placed in their field of view, from worksheets to three-dimensional artifacts.

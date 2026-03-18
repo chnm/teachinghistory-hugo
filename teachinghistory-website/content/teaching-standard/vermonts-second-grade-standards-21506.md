@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21506
 grade_levels:
-  - elementary
+- elementary
 ---
 
 (Note: By the completion of second grade, Vermont students are expected to master the following standards.)

@@ -6,7 +6,12 @@ content_type: historical_site
 draft: false
 drupal_nid: 13019
 website_url: http://www.lowellhistoricalsociety.org
+time_periods:
+- General
+topics:
+- New England
 ---
 
 The Lowell Historical Society seeks to preserve and share the history of Lowell, MA. To this end, the society operates two archival collections.
+
 The society offers archive access. Appointments are necessary for use of the archives.

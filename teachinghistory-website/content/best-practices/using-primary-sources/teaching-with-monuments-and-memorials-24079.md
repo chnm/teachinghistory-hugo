@@ -19,12 +19,17 @@ summary: Every town has a scattering of historical markers and statues. Discover
 splash_image: /files/monuments.jpg
 author_image: /files/author_image/Percoco_author_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- analyzing place
+- james a. percoco
+- memorials
+- models of analysis
+- monuments
+- strategies and lessons
 ---
-
-
 
 /files/media/video/UPS\_Jim1.mp4
 

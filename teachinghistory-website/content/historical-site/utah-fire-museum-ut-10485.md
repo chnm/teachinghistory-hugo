@@ -6,7 +6,13 @@ content_type: historical_site
 draft: false
 drupal_nid: 10485
 website_url: http://www.utahfiremuseum.com
+time_periods:
+- General
+topics:
+- Science & Tech.
+- Western States
 ---
 
 The Utah Fire Museum is home to more than 35 fire apparatuses and covers over 30,000 sq. feet.
+
 Tours are available for schools on appointment. No other educational programming exists.

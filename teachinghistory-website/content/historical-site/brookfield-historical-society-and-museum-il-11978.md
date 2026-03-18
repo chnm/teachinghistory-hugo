@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 11978
 website_url: http://gailla.com/bhs/index.html
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Daily Life
+- Midwestern States
+tags:
+- Illinois
 ---
 
 The Brookfield Historical Society seeks to preserve the Prairie Avenue railroad station and share the history of Brookfield, Illinois and the surrounding area. To this end, the society operates local history displays within the 1889 station.
+
 The society offers exhibits.

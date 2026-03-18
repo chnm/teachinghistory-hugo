@@ -12,11 +12,15 @@ summary: Discover the influence popular culture and dominant narratives can have
 splash_image: /files/nativesplash.jpg
 image: /files/indianimage.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+topics:
+- American Indians
+tags:
+- stereotypes
+- textbooks
 ---
-
 
 * Ask students to describe or depict a Native American from the past.
 * Some students will focus on Plains Indians, emphasizing aspects of nomadic life like the construction of teepees and the hunting of buffalo.

@@ -17,11 +17,20 @@ summary: One institution, two very different perspectives. An expert contrasts r
 splash_image: /files/Narratives.jpg
 author_image: /files/author_image/Follett_author.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Literature
+- Slavery
+- Southern States
+tags:
+- Frederick Law Olmsted
+- slave narratives
+- solomon northup
 ---
-
-
 
 /files/media/video/Richard1.mp4
 

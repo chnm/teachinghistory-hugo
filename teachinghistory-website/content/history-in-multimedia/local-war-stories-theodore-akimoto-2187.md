@@ -14,8 +14,20 @@ splash_image_fid: '8364'
 summary: World War II veteran Theodore Akimoto shares his personal memories of the
   war.
 splash_image: /files/splash-him-vd6.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+tags:
+- World War II
+- recordings
+- records
+- soldiers
+- veterans
+- war
+- wars
 ---
 
-
 World War II veteran Theodore Akimoto shares his personal memories of the war.
+
 The audio from this clip is available independently as a MP3 file.

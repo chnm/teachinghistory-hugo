@@ -11,6 +11,23 @@ keywords: Presidents, biographies, Panama Canal, orators, oratory, speechmaking,
 website_url: http://dev.forum-network.org/lecture/theodore-roosevelt-white-house-years
 date_published: '2002-03-05T00:00:00'
 series_name: 'American Experience: The Presidents'
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+topics:
+- Ideas & Ideologies
+- Media
+- Politics
+tags:
+- Panama Canal
+- biographies
+- orators
+- oratory
+- presidents
+- public relations
+- speeches
+- speechmakers
+- speechmaking
 ---
 
 Edmund Morris, biographer of Theodore Roosevelt, discusses Theodore Roosevelt and Ronald Reagan's construction of self-imagery and use of imagery in speeches.

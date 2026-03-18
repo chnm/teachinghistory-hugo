@@ -13,9 +13,17 @@ summary: Help students visualize the reshaping of Europe post-World War I with t
   animated presentation.
 splash_image: /files/splash-tov-him.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Military History
+tags:
+- Fourteen Points
+- League of Nations
+- Treaty of Versailles
+- World War I
 ---
-
 
 This animated presentation from [The Map as History](http://www.the-map-as-history.com/demos/tome03/index.php) visualizes the reshaping of Europe at the end of World War I, looking at the shifts in the boundaries of countries and the creation of others.

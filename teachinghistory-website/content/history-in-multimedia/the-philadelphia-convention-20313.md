@@ -11,7 +11,20 @@ keywords: Constitutional Convention, U.S. Constitution, Founding Fathers, politi
 website_url: http://www.esd112.org/history/cc/seminars/CRFSeminar.cfm
 date_published: '2006-08-01T00:00:00'
 series_name: Constitutional Academies
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Politics
+- Reform
+tags:
+- Constitutional Convention
+- Founding Fathers
+- Philadelphia Convention
+- U.S. Constitution
+- politicians
 ---
 
 Jack Rakove of Stanford University examines the proceedings of the Philadelphia Convention, focusing specifically on the compromises struck and the reasons for the formation of the Electoral College.
+
 To listen to this lecture, select "The Philadelphia Convention" under "Listen to Dr. Rakove's lectures."

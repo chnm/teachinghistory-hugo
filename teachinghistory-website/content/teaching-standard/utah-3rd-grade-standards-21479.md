@@ -6,13 +6,17 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21479
 grade_levels:
-  - elementary
+- elementary
 ---
 
 In the third grade, students will explore the concept of community, learning about the development of cultures, systems of governance, how communities and cultures interconnect both locally and globally, and how the world around them has changed over time. Students will learn about individual rights and responsibilities as well as opportunities for active participation in the life of the community.
+
 While the primary focus is on the local community, students will also learn more about the larger world. Geographic skills development will result from comparisons of local communities with communities both near and far. Students will learn more about the geography and richness of indigenous communities and their cultures both in the Americas and around the world.
+
 Third graders should begin to use historical thinking skills and the interpretation of primary sources. Local resources, including newspapers and other primary sources could serve to further develop the awareness of the many parts of a community.
+
 **The most important goal: a well-lived life**
+
  Excitement, wonder, inquiry, delight, and puzzlement are central to meaningful learning in social studies. Social studies should be fun and intriguing for all students, and provide opportunities to make important life-long connections between the past, present, and future. Students who appreciate the sacrifices that have been made in the past and understand the challenges that lie ahead can make better decisions in the present.
 
 ## Core Standards of the Course

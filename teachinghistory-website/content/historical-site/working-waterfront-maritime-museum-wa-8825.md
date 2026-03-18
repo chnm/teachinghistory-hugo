@@ -6,7 +6,24 @@ content_type: historical_site
 draft: false
 drupal_nid: 8825
 website_url: http://www.fosswaterwayseaport.org/index.php?p=AboutWWMM
+time_periods:
+- General
+topics:
+- Business
+- Economy
+- Science & Tech.
+- Western States
+tags:
+- Maritime
+- Washington
+- boats
+- museum
+- shipping
+- ships
+- timber frame
+- waterfront
 ---
 
 The Working Waterfront Maritime Museum, housed in the last intact remaining timber frame warehouse section in the area, presents the history of Tacoma's working waterfront. Collections include Andrew Foss rowboats, Willits canoes, and photographs by maritime photographer Wilhelm Hester (born 1872).
+
 The museum offers interactive exhibits and group tours, which can be customized to account for group interests. Reservations are required for group tours.

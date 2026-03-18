@@ -21,11 +21,15 @@ splash_image: /files/googleformsplash.jpg
 image: /files/googleformsimage.jpg
 author_image: /files/author_image/dlaufenberg1_1_1.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Biomedical Research; technology; cellular biology; genetics; biochemistry; public
+  health
+- Collaboration
+- classroom management
+- collecting and organizing
 ---
-
-
 
 With Google Forms, a tool in the Google Docs suite, teachers can create a wide variety of online surveys and quizzes.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21079
 grade_levels:
-  - high
+- high
 ---
 
 * ### IN.E. Standard: Economics

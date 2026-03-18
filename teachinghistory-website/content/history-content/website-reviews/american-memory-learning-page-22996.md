@@ -18,8 +18,43 @@ spotlight: This resource created by the Library of Congress is invaluable. It of
 splash_image: /files/splash-wr-amermemory.jpg
 thumbnail: /files/kitty-hawk-new.jpg
 image: /files/website_image/AmerMemoImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- American Indians
+- Business
+- Children
+- Daily Life
+- Economy
+- Education
+- Gender
+- Global Contact
+- Ideas & Ideologies
+- Immigration
+- International Relations
+- Labor
+- Literature
+- Military History
+- Politics
+- Radicalism
+- Reform
+- Rural Life
+- Science & Tech.
+- Western States
+- Women
+resource_types:
+- Text
 ---
 
-
 Designed to provide support for elementary, middle, and high school history teachers, this site makes the entire American Memory collection at the Library of Congress available for classroom learning. Using the more than 7 million digital sources available through American Memory's 100 collections, the creators have written and collected 140 lesson plans for teaching American history. Organized chronologically and thematically, the lesson plans are detailed suggestions for classroom activities. Each has a recommended age group and uses primary sources collected by students or teachers from American Memory.
+
 Especially useful are the included guides on using primary sources, using American Memory resources, and using digital or Internet sources in the classroom. A "Professional Development" section offers online workshops and tutorials to improve teachers' digital literacy. An excellent resource for the classroom, this site would be useful to both student and teacher.

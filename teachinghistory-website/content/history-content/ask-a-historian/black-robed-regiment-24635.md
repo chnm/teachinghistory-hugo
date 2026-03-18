@@ -12,8 +12,22 @@ splash_image_fid: '7425'
 summary: Not technically a military force, the "Regiment" proved integral to the success
   of the American Revolution.
 splash_image: /files/muhlenburg_splash.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Military History
+- Politics
+- Reform
+- Religion
+tags:
+- American Revolution
+- Anglican Church
+- Church
+- black-robed regiment
+- christopher hamner
+- clergy
 ---
-
 
 The term “Black Robe Regiment” referred not to a literal regiment of soldiers that wore black robes into battle but rather to the influential clergymen who promoted American independence and supported the military struggle against Britain. By encouraging the Patriot cause, those ministers helped muster critical support among members of their congregation—support the British begrudgingly acknowledged as vital to maintaining the colonists' frustrating resistance to British attempts to restore Parliamentary rule. In its implicit comparison of symbolic support to a specific body of troops, the term “Black Robe Regiment” is somewhat similar to the “fifth column” identified by the Spanish general Emilio Mola. During that country’s Civil War in 1936, Mola boasted that he had four columns of soldiers marching upon Madrid and a “fifth column” of sympathizers already living in the city who would support the army once it arrived. The term “fifth column” has since come to refer generally to civilian supporters living within a populace, even though that group usually lacks formal organization. Likewise, the Black Robe Regiment was not an actual detachment in the Continental Army but rather a British epithet for the influence preachers exerted in support of the Patriot cause. Advocates of the British crown found preachers’ support of the Patriot cause particularly detrimental to their efforts to maintain loyalty among the colonists. Such clergymen provided sanction for the cause of independence as well as formal support for the military effort. In the 1770s, most colonists still considered themselves aligned with England; many parishioners questioned the fundamental legitimacy of revolution, and of separating from Britain and consequently the Church of England. From their pulpits, these members of the Black Robe Regiment reassured their audiences that their revolution was justified in the eyes of God. Winning and maintaining the support of the population was critical in the American War for Independence, which relied heavily on the support of volunteers and the general population.
 

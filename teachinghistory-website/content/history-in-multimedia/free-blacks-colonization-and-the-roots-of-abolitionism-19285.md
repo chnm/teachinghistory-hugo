@@ -12,6 +12,39 @@ keywords: slaves, race, racism, race relations, Africa, emigration, colonies, co
 website_url: http://lincoln.lib.niu.edu/themevideo.html
 date_published: '2008-05-14T00:00:00'
 series_name: African-American Experience Video
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Radicalism
+- Reform
+- Religion
+- Slavery
+tags:
+- Africa
+- Antebellum
+- Back-to-Africa
+- Liberia
+- abolition
+- abolitionism
+- abolitionists
+- colonies
+- colonization
+- emigration
+- missionaries
+- protest
+- protesters
+- protests
+- race
+- race relations
+- racism
+- slaves
 ---
 
 Eric Foner of Columbia University looks at antebellum consideration of African colonization as a means to deal with race tensions, focusing on the opposition of most free African Americans to the proposition.

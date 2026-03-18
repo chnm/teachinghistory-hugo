@@ -23,9 +23,19 @@ spotlight: In these clips from Kimberly Heckart's 3rd grade class, we see studen
 splash_image: /files/Third_Graders_Anaylzing_Historical_Sources_-_432x240.jpg
 image: /files/ThirdGradeImage.jpg
 grade_levels:
-  - elementary
+- elementary
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Children
+- Cities & Suburbs
+- Media
+- Reform
+tags:
+- Lewis Hine
+- photography
 ---
-
 
 /files/media/video/BHH\_classroom1.mp4
 

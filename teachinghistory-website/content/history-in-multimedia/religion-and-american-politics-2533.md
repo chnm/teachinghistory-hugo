@@ -13,6 +13,35 @@ keywords: presidents, foreign relations, foreign policy, policy, policies, war, 
 website_url: http://video.mit.edu/
 date_published: '2005-03-29T00:00:00'
 series_name: Myths About America
+time_periods:
+- Contemporary US, 1968-Present
+- General
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Religion
+tags:
+- Christianity
+- Christians
+- Iraq
+- Middle East
+- War on Terror
+- foreign policy
+- foreign relations
+- policies
+- policy
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- religious conflict
+- religious tension
+- terrorism
+- war
+- wars
 ---
 
 Professor Alan Wolfe discusses the role of religion in U.S. politics, particularly in the present day. He argues that the "current Christian revival" in the U.S. is not having a negative, "fundamentalist" effect on U.S. government as a whole.

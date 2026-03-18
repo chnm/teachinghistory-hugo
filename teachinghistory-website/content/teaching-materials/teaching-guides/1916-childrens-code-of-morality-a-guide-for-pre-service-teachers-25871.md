@@ -21,10 +21,18 @@ splash_image: /files/MoralsSplash.jpg
 image: /files/sn83045389-19160521_0.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_3.JPG
 grade_levels:
-  - high
+- high
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Children
+- Education
+- Family Life
+- Immigration
+- Religion
+tags:
+- morals
 ---
-
-
 
 **What is it?**
 

@@ -16,8 +16,13 @@ summary: Discover a new world of teaching possibilities with portable tablet com
 splash_image: /files/ipadsplash.jpg
 image: /files/ipadimage.jpg
 author_image: /files/author_image/author_wiebe_0_0.jpeg
+tags:
+- hardware
+- iPad
+- iPads
+- multimedia
+- tablet computers
+- tablets
 ---
-
-
 
 The Apple iPad allows for mobile learning anywhere, anytime.

@@ -15,8 +15,46 @@ summary: An array of primary sources follows the rise of the consumer economy un
   Coolidge.
 splash_image: /files/Prosperity_and_Thrift-_Coolidge_Era_and_the_Consumer_Economy_432x240.jpg
 image: /files/website_image/14846.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- Business
+- Consumer Culture
+- Economy
+- Labor
+- Politics
+- Popular Culture, Leisure
+- Reform
+- Science & Tech.
+evidence_types:
+- Advertising
+- Film and Video
+- Official Documents
+- Photographs
+- Political Documents
+- Speeches
+resource_types:
+- Audio
+- Images
+- Text
+- Video
+tags:
+- class
+- classes
+- consumer economy
+- consumerism
+- consumers
+- laborers
+- middle class
+- politicians
+- presidents
+- race
+- race relations
+- upper class
+- working class
 ---
 
-
 This exhibit assembles a wide assortment of materials from the 1920s, items loosely related to the prosperity of the Coolidge years and the rise of a mass consumer economy. The collection includes more than 400 documents, images, and audio and video clips on subjects ranging from automobiles, consumer goods, department stores, families, *Motion Picture News*, and the National Negro Business League, to politics.
+
 An introductory essay provides valuable background information on the Coolidge administration with additional insight on the social and cultural context of the era. An alphabetized guide to people, organizations, and topics includes definitions and brief descriptions. This sort of material has not been widely available, and this collection is extremely valuable as a resource on the development of mass consumption.

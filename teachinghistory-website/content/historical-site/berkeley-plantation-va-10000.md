@@ -6,7 +6,36 @@ content_type: historical_site
 draft: false
 drupal_nid: 10000
 website_url: http://www.berkeleyplantation.com
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Expansion & Reform, 1801-1861
+- General
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Daily Life
+- Politics
+- Southern States
+tags:
+- Benjamin Harrison V
+- Declaration of Independence
+- George McClellan
+- Harrison's Landing
+- Old Tippecanoe
+- Sydney King
+- Taps
+- Thanksgiving
+- Thomas Jefferson
+- Tippecanoe
+- Union
+- Virginia
+- William Henry Harrison
+- historic plantation
+- president
 ---
 
 Berkeley Plantation is the birthplace of Benjamin Harrison V (1726-1791), Governor of Virginia and signer of the Declaration of Independence, and William Henry Harrison (1773-1841) or "Old Tippecanoe", ninth President of the United States. The plantation lands were also the site of the first official Thanksgiving in 1619 and of the composition of "Taps" in 1862. The structure itself is Georgian in style and dates to 1726. Collections include 18th-century decorative arts, Civil War artifacts, and paintings by Sydney King.
+
 The plantation offers house tours led by guides in period dress, period rooms, exhibits, an audio-visual program, self-guided tours of the grounds, and guided student tours. Student tour topic options include the life of children in the 18th century, William Henry Harrison, and Civil War Major General George McClellan (1826-1885) and Harrison's Landing circa 1862.

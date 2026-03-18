@@ -10,7 +10,28 @@ keywords: films, film, documentaries, World War II, war, wars, filmmakers
 website_url: http://www.archives.gov/about/archivist/conversations/
 date_published: '2006-02-09T00:00:00'
 series_name: American Conversations with the Archivist of the United States
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+topics:
+- Cities & Suburbs
+- Daily Life
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Media
+- Military History
+tags:
+- World War II
+- documentaries
+- film
+- filmmakers
+- films
+- war
+- wars
 ---
 
 Emmy-Award–winning documentary filmmaker Ken Burns joins Allen Weinstein, Archivist of the United States, to discuss his past work and his current project, *The War*, a seven-part series examining the ways in which World War II touched the lives of American families.
+
 To listen to this video, scroll to "Ken Burns," and select "Watch the Video."

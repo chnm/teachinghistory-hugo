@@ -13,7 +13,15 @@ summary: To each prophet, a certain way of speaking. Match civil rights leaders 
   their words.
 splash_image: /files/splash-whirlwind_0_0.jpg
 thumbnail: /files/website_image/FreeSpeeImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- Reform
+tags:
+- civil rights
 ---
-
 
 Great orators have spoken up for civil and human rights in the U.S. since the founding of the country. Match the person to what he or she spoke or wrote.

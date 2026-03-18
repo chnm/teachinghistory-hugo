@@ -10,8 +10,21 @@ splash_image_fid: '10188'
 summary: Textbooks describe segregation in a few pages, but these artists share complicated,
   personal views of how segregation looked and felt.
 splash_image: /files/splash1_0.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Art
+- Southern States
+tags:
+- Jacob Lawrence
+- art
+- artists
+- norman lewis
+- paintings
 ---
-
 
 /files/media/video/segregation1.mp4
 

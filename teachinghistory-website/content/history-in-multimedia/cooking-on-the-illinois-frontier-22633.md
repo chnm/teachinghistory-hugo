@@ -9,7 +9,17 @@ duration: 01:18:43
 website_url: http://www.wbez.org/episode-segments/cooking-illinois-frontier
 date_published: '2009-08-12T00:00:00'
 series_name: Chicago Amplified
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Consumer Culture
+- Daily Life
+- Gender
+- Popular Culture, Leisure
+- Women
 ---
 
 Illinois Humanities Council Road Scholar Ellie Carlson portrays an 1850s housewife preparing a picnic meal, with the assistance of several children in the audience.
+
 For more on the Elk Grove Historical Museum, where this presentation was recorded, refer to NHEC's Museums and Historic Sites [listing](http://teachinghistory.org/history-content/historical-places/22632).

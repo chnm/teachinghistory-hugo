@@ -10,6 +10,24 @@ keywords: Founding Fathers, citizens, citizenship, government, values, ethics, i
 website_url: http://www.teachingamericanhistory.us/audio/popup_gjerde.html
 date_published: '2003-10-23T00:00:00'
 series_name: Presentations by Historians
+time_periods:
+- All
+- General
+topics:
+- Daily Life
+- Education
+- Ethnicity
+- Ideas & Ideologies
+- Immigration
+- Politics
+tags:
+- Founding Fathers
+- citizens
+- citizenship
+- ethics
+- government
+- immigrants
+- values
 ---
 
 Professor Jon Gjerde looks at how the concepts of democracy and citizenship have changed over the course of U.S. history. He focuses particularly on how these concepts have affected and reacted to immigrants and immigration throughout that history.

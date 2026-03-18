@@ -24,12 +24,32 @@ splash_image: /files/UsingHistoryBooksSplash.jpg
 image: /files/UsingHistoryBook-150x113.jpg
 author_image: /files/author_image/s-levstik_0_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+topics:
+- American Indians
+- Art
+- Asian Americans
+- Business
+- Children
+- Cities & Suburbs
+- Consumer Culture
+- Daily Life
+- Economy
+- Education
+- Environment
+- Ethnicity
+- Family Life
+- Gender
+- Global Contact
+- Health & Medicine
+- Ideas & Ideologies
+- Immigration
+- International Relations
+tags:
+- historical fiction; civil rights; Japanese internment
 ---
-
-
 
 ## What Is It?
 

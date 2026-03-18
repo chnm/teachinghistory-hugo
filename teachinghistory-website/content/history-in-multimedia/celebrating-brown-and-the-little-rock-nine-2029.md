@@ -15,7 +15,29 @@ splash_image_fid: '8708'
 summary: A panel discusses and debates the troubled desegregation of schools in Little
   Rock, AR, and the move towards desegregation in general.
 splash_image: /files/splash-him-audio.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Children
+- Cities & Suburbs
+- Education
+- Ethnicity
+- Legal History
+- Reform
+- Southern States
+tags:
+- Arkansas
+- Civil Rights Movement
+- Little Rock
+- Little Rock Nine
+- civil rights
+- desegregation
+- race
+- race relations
+- racism
+- schools
+- segregation
 ---
-
 
 A panel discusses and debates the troubled desegregation of schools in Little Rock, AR, and the move towards desegregation in general. Ernest Green, one of the nine African American students who attended Little Rock's desegregated school, speaks as one of the panelists.

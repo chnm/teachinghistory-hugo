@@ -12,6 +12,17 @@ splash_image_fid: '6168'
 summary: The Seneca Falls Declaration of Sentiments in 1848 reflected the voices of
   all supporters of women's rights—didn't it?
 splash_image: /files/splash-btt-womenmove.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Gender
+- Politics
+- Reform
+- Women
+tags:
+- Seneca Falls
+- Women's Movement
+- women's rights
 ---
 
 ## What Textbooks Say

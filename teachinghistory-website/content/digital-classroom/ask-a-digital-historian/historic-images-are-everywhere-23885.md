@@ -13,8 +13,11 @@ splash_image_fid: '4197'
 summary: 'Needed: directions to reliable databases for historic images.'
 splash_image: /files/stereo.jpg
 image: /files/lesson_image/stereosm.jpg
+tags:
+- collecting
+- multimedia
+- research
 ---
-
 
 Historic images are online, everywhere. And with the speed of cut-and-paste and right-click downloads, it's easy to grab a photo and run without validating the original source of an image, who posted it online, and whether the digitized representation corresponds to the archival version. Fragments, touchups, and images without citations often mislead. Institutional archives and repositories, then, are likely the most logical places to find images for use in a high school classroom for at least two pedagogical reasons. Educators can count on the reliability of the source, and students can learn steps of research, citation, copyright, and critical thinking about visual evidence.
 

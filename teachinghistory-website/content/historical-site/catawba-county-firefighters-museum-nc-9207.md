@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 9207
 website_url: http://www.catawbacountync.gov/depts/ES/ffm.asp
+time_periods:
+- General
+topics:
+- Science & Tech.
+- Southern States
+tags:
+- Fire Safety
+- North Carolina
+- firefighting
+- safety
 ---
 
 The Catawba County Firefighters Museum presents the history of firefighting in Catawba County, North Carolina. Collections include communication devices, a 1936 American LaFrance fire engine, a 1906 municipal alarm system, and an early 20th-century uniform.
+
 The museum offers exhibits, fire safety lectures and films, and a picnic site.

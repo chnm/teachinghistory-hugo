@@ -13,10 +13,16 @@ summary: Brainstorm and organize ideas with this easy-to-use visual tool.
 splash_image: /files/poppletsplash.jpg
 image: /files/poppletimage.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Collaboration
+- collecting and organizing
+- graphic organizers
+- networking
+- presentations
+- visuals and visualizing
 ---
-
 
 Popplet is a collaborative visualization tool that is ideal for developing graphic organizers and presentations.

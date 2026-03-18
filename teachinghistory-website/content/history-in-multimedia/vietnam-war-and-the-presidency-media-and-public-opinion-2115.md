@@ -11,6 +11,34 @@ keywords: Vietnam, Vietnam War, wars, war, media coverage, mass media, reporting
 website_url: http://dev.forum-network.org/lecture/vietnam-war-and-presidency-media-and-public-opinion
 date_published: '2006-03-11T00:00:00'
 series_name: 'American Experience: Vietnam'
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Asian Americans
+- Education
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Literature
+- Media
+- Military History
+- Politics
+tags:
+- Vietnam
+- Vietnam War
+- journalism
+- journalist
+- mass media
+- media coverage
+- newsanchors
+- politicians
+- presidents
+- reportage
+- reporting
+- war
+- wars
 ---
 
 A panel including newsanchors Brian Williams and Dan Rather, former correspondent Steve Bell, and Pulitzer-Prize-winning author Frances Fitzgerald discusses media coverage of the Vietnam War and public opinion on the war, both during the war and today.

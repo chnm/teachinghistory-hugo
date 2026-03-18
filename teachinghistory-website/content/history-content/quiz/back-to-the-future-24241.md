@@ -12,7 +12,18 @@ thumbnail_fid: '2864'
 summary: In the year 1900, what did Americans think the next century would bring?
 splash_image: /files/Future_0.jpg
 thumbnail: /files/website_image/IrviFineImage.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Business
+- Cities & Suburbs
+- Consumer Culture
+- Daily Life
+- Economy
+- Environment
+- Health & Medicine
+- Popular Culture, Leisure
+- Science & Tech.
 ---
-
 
 In addition to looking to the past to understand our society, we also look to the future. In 1900, newspapers and magazines printed predictions for the turn of the 21st century. Decide, true or false, whether each of the following was predicted in 1900.

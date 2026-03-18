@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 8620
 website_url: http://amhersthistory.org/
+time_periods:
+- Colonization & Settlement, 1585-1763
+- General
+topics:
+- Daily Life
+- New England
+tags:
+- Massachusetts
+- decorative arts
+- house
+- museum
 ---
 
 The Amherst History Museum, housed in the 1750s Strong House, presents Amherst's history from colonial times to modern day.
+
 The museum offers exhibits; a guided architectural walking tour; a guided tour of the Strong House; educational tours for students; period rooms; and special events, including lectures.

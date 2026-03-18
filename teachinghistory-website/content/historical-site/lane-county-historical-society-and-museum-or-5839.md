@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 5839
 website_url: http://www.lanecountyhistoricalsociety.org/
+time_periods:
+- All
+- General
+topics:
+- Western States
+tags:
+- Lane County
+- Oregon
+- counties
+- museums
 ---
 
 The Society's Museum presents displays on topics including the Oregon Trail, historic vehicles, the 1920s and 1930s, and early crafts and historic photographs.
+
 The society offers occasional recreational and educational events; the museum offers exhibits, tours, and research library access.

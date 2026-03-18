@@ -6,7 +6,25 @@ content_type: historical_site
 draft: false
 drupal_nid: 21832
 website_url: http://www.littletongov.org/museum/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- General
+topics:
+- Daily Life
+- Rural Life
+- Western States
+tags:
+- Colorado
+- agriculture
+- blacksmiths
+- farming
+- farms
+- museums
+- schools
+- smiths
 ---
 
 The Museum serves as the primary repository for the history, art, and culture of Littleton. It consists of two living history farms (one from the 1860s and one from the 1890s), a small lake, a collections center, and a main exhibition and administration building. Interpreters work the farm sites, run the blacksmith shop, and teach in the schoolhouse, offering a "living history" perspective to the museum visitor.
+
 The museum offers exhibits, research library access, and recreational and educational events (including living history events).

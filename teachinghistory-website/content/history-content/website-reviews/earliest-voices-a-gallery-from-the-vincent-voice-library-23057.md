@@ -14,8 +14,27 @@ summary: Hear the conviction and charisma of seven renowned turn-of-the-century 
 thumbnail: /files/localhistory.jpg
 splash_image: /files/splash-wr-earliestvoices.jpg
 image: /files/website_image/EarlVoicImage.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- Business
+- Economy
+- Ideas & Ideologies
+- International Relations
+- Labor
+- Military History
+- Politics
+- Radicalism
+- Reform
+evidence_types:
+- Speeches
+resource_types:
+- Audio
+- Images
+- Text
 ---
 
-
 A collection of 19 audio clips of speeches recorded by seven turn-of-the-century public figures—William Jennings Bryan, Eugene V. Debs, Thomas Edison, Samuel Gompers, William McKinley, William Howard Taft, and Booker T. Washington. The clips last between one and seven minutes each; all but one were made between 1900 and 1920. Subjects of the speeches include politics, reform, socialism, isolationism, trusts, the gold standard, U.S. military force, labor issues, and race relations. The site includes transcripts of the speeches as well as 150-word biographies and three photographs of each speaker.
+
 Through digitization, technicians have improved the sound quality of these recordings, some of which had become nearly inaudible. An opportunity for users to experience the oratorical powers of influential men from the early 20th century.

@@ -17,9 +17,16 @@ summary: SMART boards are only as useful as you make them.
 splash_image: /files/introducingstudentsto432x240.jpg
 image: /files/lesson_image/introducingstudentsto150x113.jpg
 author_image: /files/author_image/author_image_joe_jelen_75x75.jpeg
+topics:
+- Education
+tags:
+- Collaboration
+- collecting
+- management
+- multimedia
+- presentation
+- visualization
 ---
-
-
 
 Interactive whiteboards (IWBs for short) have certainly changed what classrooms look like today. However, an IWB is only revolutionary when teachers know how to unlock the board's potential. There are a number of simple ways to engage students with the IWB in a history classroom.
 
@@ -40,6 +47,7 @@ Any excuse to get students up and interacting with their classmates and the IWB 
 ## Interacting with Text
 
 Place primary source text on the IWB and have students highlight the main idea, or write reactions/questions in the margins. This activity encourages students to interact with primary sources and ask questions of text, something students must do to think like a historian.
+
 Students could also use the IWB to review a [cloze passage](http://www.ehow.com/how_4425024_make-cloze-passage.html). The cloze passage could be projected with the answers blocked out. Students would then approach the board to guess as to the correct word and "rub and reveal" the correct answer lying beneath the color block. IWB software tools allow you to write text, layer text, and lock text so that when a student uses the eraser function, he/she reveals the correct answer beneath.
 
 ## Analyzing Images

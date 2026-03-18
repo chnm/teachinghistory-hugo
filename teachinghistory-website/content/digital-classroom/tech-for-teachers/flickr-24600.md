@@ -13,9 +13,16 @@ summary: Use pictures to teach and learn history—and explore copyright issues.
 splash_image: /files/FlickrSplash.jpg
 image: /files/flickr-rss.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- Collaboration
+- free
+- photographs
+- presentations
+- public
+- social networking
+- visuals and visualizing
 ---
-
 
 Flickr, beyond photo management, is a tool that empowers students to think about image selection and copyright, and encourages critical thinking

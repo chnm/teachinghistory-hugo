@@ -12,7 +12,18 @@ thumbnail_fid: '2792'
 summary: '"John Brown''s Body" keeps reappearing. What do you know about the song?'
 splash_image: /files/splash-brown_0_0.jpg
 thumbnail: /files/website_image/JoFreeImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Military History
+- Popular Culture, Leisure
+- Radicalism
+- Religion
+tags:
+- John Brown's Body
+- music
+- songs
 ---
-
 
 March is Music in Our Schools Month! Have you considered using historical tunes in your classroom? Here’s one possibility—the 19th-century popular song “John Brown’s Body.” Answer these questions about the song’s history.

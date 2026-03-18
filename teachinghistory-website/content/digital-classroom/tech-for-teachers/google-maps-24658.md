@@ -13,10 +13,19 @@ summary: Discover a whole new world of mapping and geography with Google Maps!
 splash_image: /files/GoogleMapSplash.jpg
 image: /files/GoogleImage.gif
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Collaboration
+- Maps
+- collecting and organizing
+- distance
+- historical maps
+- markers
+- photography
+- presentations
+- visuals and visualizing
 ---
-
 
 Google Maps allows users to place pin markers, draw shapes and lines, and embed descriptions to create history-based maps. Images, videos, and links can also be added to each marker. Allowing collaboration and the importation of information, Google Maps is ideal for group projects.

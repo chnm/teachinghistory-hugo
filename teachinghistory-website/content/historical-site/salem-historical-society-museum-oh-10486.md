@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 10486
 website_url: http://www.salemhistoricalsociety.org/
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Daily Life
+- Family Life
+- Midwestern States
+- Religion
 ---
 
 The Salem Historical Society Museum houses the town of Salem, Ohio's history over three buildings. Artifact's date back to the town's founding in 1806 and the rooms of the museum each have a theme, such as the Kitchen or the Clothes room.
+
 Group tours must be scheduled ahead of time, although there is no formal school tour or programming.

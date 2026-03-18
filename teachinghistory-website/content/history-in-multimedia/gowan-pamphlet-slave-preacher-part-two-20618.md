@@ -11,7 +11,35 @@ keywords: slaves, race, race relations, business, businesses, churches, Baptists
 website_url: http://podcast.history.org/
 date_published: '2007-02-26T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Business
+- Consumer Culture
+- Daily Life
+- Gender
+- Ideas & Ideologies
+- Religion
+- Slavery
+- Southern States
+- Women
+tags:
+- Baptists
+- Christianity
+- Christians
+- Virginia
+- Williamsburg
+- business
+- businesses
+- churches
+- race
+- race relations
+- slaves
+- taverns
 ---
 
 James Ingram, a character interpreter at Colonial Williamsburg, describes the life of Gowan Pamphlet, a colonial tavern slave who, influenced by the Great Awakening, became a Baptist slave preacher. For the first part of this interview, click [here](http://teachinghistory.org/history-content/history-in-multimedia/20617).
+
 **Note: this podcast is no longer available. To view a transcript of the original podcast, click [here](http://podcasts.history.org/podcasts_transcripts/GowanPamphlet2.cfm).**

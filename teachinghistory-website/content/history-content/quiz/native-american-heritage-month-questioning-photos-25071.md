@@ -13,8 +13,21 @@ summary: Photographs capture how someone appeared at one moment in time. But who
   that moment?
 splash_image: /files/quiz-splash-clothes.jpg
 thumbnail: /files/website_image/LAPastImage.jpg
+time_periods:
+- General
+topics:
+- American Indians
+- Media
+tags:
+- Navajo
+- Ojibwa
+- Ojibwe
+- Seminole
+- kwakwaka'wakw
+- photographs
+- photography
 ---
 
-
 Photographs capture particular moments in time, but don't tell us who designed those moments. Who chose the clothing, poses, and setting? The subject? The photographer? What were those choices meant to represent, and who was the intended audience?
+
 The photographs in this quiz were taken of people around the turn of the 20th century. Match each photograph with the name of the group the photo's subject is believed be a member of.

@@ -13,8 +13,14 @@ splash_image_fid: '9245'
 summary: Can iPads open an exciting new world filled with digital textbooks and sources?
 splash_image: /files/ipadsplash_0.jpg
 image: /files/ipadimage_0.jpg
+tags:
+- beyond the classroom
+- digital textbooks
+- iPads
+- resources
+- tablet computers
+- tablets
 ---
-
 
 Having just bought an iPad, I was eager to investigate your question. Given the combination of rich historical archives and resources on the Web and the growing use of the iPad and other tablet devices, I can imagine a new kind of textbook, one that facilitates teachers guiding students in historical investigations and problem-solving.
 
@@ -33,4 +39,5 @@ See Joe Jolen’s [blog]( http://teachinghistory.org/nhec-blog/25494) on teacher
 ---
 
 A recent [news report](http://minnesota.publicradio.org/display/web/2012/04/23/university-open-source-textbooks) provides a heads up about a forum under development where you will be able to find reviews of open-source college textbooks.
+
 Read the thoughts of six educators, publishers (including Neeru Khosla, co-founder of CK–12), and more in Teachinghistory.org's *Roundtable* that asks, "[Digital textbooks: Has their time come?](http://teachinghistory.org/issues-and-research/roundtable/25087)"

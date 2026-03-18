@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 19563
 website_url: http://oha.alexandriava.gov/archaeology/
+time_periods:
+- All
+- General
+topics:
+- Environment
+- Southern States
+tags:
+- Virginia
+- archaeology
+- museums
 ---
 
 The Alexandria Archaeology Museum is dedicated to preserving and studying Alexandria's rich archaeological heritage and fostering within citizens and visitors a connection between the past and present while inspiring a sense of stewardship and adventure.
+
 The museum offers exhibits, tours, and educational programs.

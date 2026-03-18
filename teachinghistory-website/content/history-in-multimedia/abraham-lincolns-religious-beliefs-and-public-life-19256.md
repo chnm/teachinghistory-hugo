@@ -11,7 +11,23 @@ keywords: presidents, politicians, spirituality, worship, oratory, orators, spee
 website_url: http://lincoln.lib.niu.edu/aboutbiovideo.html
 date_published: '2008-05-05T00:00:00'
 series_name: Abraham Lincoln
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Politics
+- Religion
+tags:
+- orators
+- oratory
+- politicians
+- presidents
+- speeches
+- speechmaking
+- spirituality
+- worship
 ---
 
 Gerald Prokopowicz of the Lincoln Museum discusses the importance of religious beliefs in presidential campaigns in Abraham Lincoln's day, and considers what is known of Lincoln's changing religious views.
+
 To listen to this clip, select "Abraham Lincoln's Religious Beliefs and Public Life" under "Abraham Lincoln's Biography Video."

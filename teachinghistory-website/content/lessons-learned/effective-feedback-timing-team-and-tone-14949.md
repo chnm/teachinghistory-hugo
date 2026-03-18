@@ -16,9 +16,17 @@ summary: Collaboration is the key! Conduct feedback with your teachers, not upon
   to build mutual respect.
 splash_image: /files/Effective-Feedback_-_432x240.jpg
 author_image: /files/author_image/EleanorGreene_0.jpg
+tags:
+- TAH
+- TAH activities
+- Teaching American History grants
+- classroom activities
+- classroom practice
+- curriculum units
+- feedback
+- historical thinking
+- lesson plans
 ---
-
-
 
 Our goal throughout [Peopling the American Past](http://chnm.gmu.edu/7tah/)—a Teaching American History (TAH) project partnership of seven small and rural Virginia school districts and George Mason University—was to support teachers in developing TAH skills, especially in teaching effectively with primary sources. To accomplish this goal with each of three teacher cohorts we provided feedback on classroom observations and on their written work.
 > Our intention was to keep feedback collaborative, something that was done with, not to, teachers.
@@ -35,10 +43,15 @@ So for our second and third years we pared down our requirements. Instead of the
 ## Providing Constructive Feedback
 
 Here is an example from a middle school lesson on the Transcontinental Railroad:
+
 *I especially liked:*
+
 Your use of the Library of Congress website [Railroad Maps, 1828—1900](http://memory.loc.gov/ammem/gmdhtml/rrhtml/rrhome.html). This is an ambitious choice and there's a lot going on there. It was clear that you preselected some relevant maps to share with your students.
+
 *I wonder if:*
+
 You might, as we discussed, first model using one of the maps yourself as a primary source. Then you could ask students to work in pairs on a different preselected map or two and see if they could find their way around their map. The [NARA website](http://www.archives.gov/digital_classroom/lessons/analysis_worksheets/map.html) has a bunch of useful questions for examining maps, but don't feel compelled to use all of them—select and adapt.
+
 Even veteran teachers appreciated this approach, many commenting that they rarely had colleagues or supervisors observing and discussing with them how they taught history. When we offered an optional second observation, many teachers asked us to return.
 
 ## Ongoing Feedback
@@ -47,4 +60,5 @@ Next we asked teachers to use what they learned from observed infusions to write
 > . . . we provided extensive feedback when it had maximum impact: right after teachers wrote their outline.
 
 Each outline included a background essay, an annotated list of resources, and the primary sources to be used. Teachers got written feedback on their outlines from our project team, with our academic program director focusing on their historical narrative and sources, and our master teachers suggesting effective teaching strategies to meet the developmental needs of their students. The project director then scheduled individual phone conversations with teachers who were equipped with their outline, our comments, and Internet access to connect them to the websites we recommended. From here, teachers wrote their rough drafts, again received written feedback especially on their teaching strategies, completed their final drafts, and presented their mini-units to their colleagues and the project team.
+
 This approach was definitely labor intensive and some teachers required more patience and persistence than others. Still, in the end we were fully satisfied with our revised feedback process.

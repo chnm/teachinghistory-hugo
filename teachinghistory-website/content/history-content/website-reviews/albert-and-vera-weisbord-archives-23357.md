@@ -14,7 +14,17 @@ summary: Learn about American radicalism and the communist movement with this co
   of primary sources.
 splash_image: /files/AlbertandVera432x240.jpg
 image: /files/website_image/AmericanCommunism_Image.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Politics
+- Radicalism
+evidence_types:
+- Literary Sources
+- Newspapers and Periodicals
+- Political Documents
+resource_types:
+- Text
 ---
-
 
 This archive contains the transcribed public papers of Albert and Vera Weisbord, American Communists active from the 1920s to the 1970s. As yet, no personal papers have been transcribed. The site contains a 500-word biographical introduction and seven volumes of *Class Struggle*, 1931-37, a journal that the Weisbords edited and to which Albert was the main contributor. In addition, visitors may read the preface, introduction, and a review of Albert's book, *The Conquest of Power*. The bulk of the material contains transcriptions of approximately 75 articles by Albert and/or Vera on topics such as "Moscow's Betrayal of the Cuban Revolution," "Feminism and Family Names," "The Struggle for Negro Emancipation," and "Unique Problems of the Spanish Revolution." Material is indexed by title within subject categories, but visitors cannot perform subject searches. This site will be useful for research on American radicalism.

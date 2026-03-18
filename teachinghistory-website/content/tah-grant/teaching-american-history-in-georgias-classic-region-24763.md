@@ -6,9 +6,9 @@ content_type: tah_grant
 draft: false
 drupal_nid: 24763
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
 
 Within the districts in this northeast Georgia region, 15 schools did not make Adequate Yearly Progress in 2008, and 13 schools are in need of improvement. On the 2008 history tests for Grades 4, 8, and high school, 35 percent or more of the region’s students did not meet state standards. *Teaching American History in Georgia's Classic Region* will expand teachers' content knowledge and help them develop their pedagogical skills. Seminars, field studies, and summer institutes will be led by historians and master educators who will help teachers gain an increased appreciation of traditional American history. Professional Learning Communities, meeting both face-to-face and online, will collaborate to create lesson plans. A cohort of 60 teachers will include 30 from Grades 3-5 and 30 from middle and high schools; priority will be given to teachers from the schools most in need of improvement. Instructional strategies for this project include Understanding by Design and using historical thinking skills. Each year, these will be applied to content from the selected topic area/historical period. The project will produce technology-based collaborative instructional units that incorporate primary sources, local history resources, Web sites, and databases. All units will be reviewed by an advisory board and mounted on the project Web site to share with teachers in Georgia and across the nation. In addition, materials related to the book studies, blogs, podcasts, lectures, and presentations will be available online for all teachers in the project service area. In addition, teachers will conduct model demonstration lessons in their local schools and districts to sustain the project's impact over time.

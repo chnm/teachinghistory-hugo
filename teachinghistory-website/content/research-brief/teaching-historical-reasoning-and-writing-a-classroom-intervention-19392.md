@@ -12,10 +12,9 @@ summary: Teaching historical thinking, beyond the facts, results in higher achie
 splash_image: /files/TeachingHistorical432x240.jpg
 image: /files/historicalreal.jpeg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
 ---
-
 
 * *Reading and writing are always connected.*
   Writing allows all of us to clarify and organize our thoughts. A curriculum that focuses on historical thinking must include opportunities for reading multiple documents and writing about them.

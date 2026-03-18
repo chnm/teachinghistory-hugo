@@ -19,34 +19,47 @@ splash_image: /files/simulation2splash.jpg
 image: /files/simulation2image.jpg
 author_image: /files/author_image/authorphotojeremiahmccall75x75_2_0.jpg
 grade_levels:
-  - high
+- high
+tags:
+- digital games
+- games
+- gaming
+- video games
 ---
 
-
-
 *(Note: This blog entry is the second part of a six-part series. Read more on using games in the classroom in parts [one](http://teachinghistory.org/nhec-blog/25117), [three](http://teachinghistory.org/nhec-blog/25338), [four](http://teachinghistory.org/nhec-blog/25451), [five](http://teachinghistory.org/nhec-blog/25523), and [six](http://teachinghistory.org/nhec-blog/25624).)*
+
 The [first part](http://teachinghistory.org/nhec-blog/25117) in this series considered resources for finding simulation games. Once a potentially suitable sim has been found, however, it still needs to be tested and evaluated for classroom use. In other words, the teacher needs to play-test it. While teachers do not have to be experts in playing games they assign in class, they must be familiar with how those games play and how they represent reality. With this in mind, this segment addresses the most important considerations when evaluating a game for classroom use.
 
 ## Evaluating Simulation Games
 
 There are educationally useful computer games that are not simulation games because the games do not to any significant degree represent real-world systems and situations. In general such games tend to focus on teaching factual content. Simulation games, however, offer models of real-world systems, relationships, and scenarios. Their ability to immerse players in dynamic interpretations of the past is their primary strength. Therefore, the most critical question for a teacher evaluating a simulation is: *How reasonably does the game simulate the aspects of the real world that will be studied?*
+
 **Tip One: Do Accuracies Outweigh Inaccuracies?**
+
 This is not an all-or-nothing proposition for any simulation. There is no such thing as a completely accurate interpretation of the world, regardless of whether that interpretation is encapsulated in a simulation or some other form of media.
 > The real issue for a teacher is whether the core gameplay defensibly models the real world in ways that address the curricular goals of the class.
 
 The real issue for a teacher is whether the core gameplay defensibly models the real world in ways that address the curricular goals of the class. [*Mission US: For Crown or Colony*](http://teachinghistory.org/digital-classroom/tech-for-teachers/25111), for example, could be cited for any number of inaccuracies, particularly issues of oversimplification. The views presented by the characters are not particularly sophisticated; the player tends to encounter exceptional figures rather than average ones (Phillis Wheatley, for example); in these ways the game could be said to mislead.
+
 Ultimately, though, the core gameplay suggests that there were conflicting opinions on British policies in colonial Boston that could be grouped into broad categories and that tensions developed over how to deal with these policies. This core of the game is defensible; it is a point of view that can be supported with weighty evidence. By this standard, *For Crown or Colony* is a valid classroom simulation game. Equally as important is that even the flaws themselves in a game’s interpretation serve a useful purpose, providing valuable opportunities for students to engage in criticism. Ideally, historical criticism involves both supporting the reasonable elements of an interpretation and challenging the unreasonable. In practice it is very hard to get students to challenge the interpretations of texts and teachers. It is far less intimidating for students, however, to challenge the flaws in a game.
 > If the student played the game uncritically and came away accepting its main historical points, would those be reasonable?
 
 Even with this criterion a teacher has considerable leeway when determining if a game’s version of the past is reasonable enough. Each teacher will ultimately have to decide whether the combination of accuracies and inaccuracies in a game is appropriate for their class. Still, a helpful general guideline when evaluating a simulation is to consider the worst-case scenario: if the student played the game uncritically and came away accepting its main historical points, would those be reasonable? If so, then the game is a contender for classroom use and lessons can be planned to refine students’ views of the game. If not, it may be better to find a different game.
+
 **Tip Two: Can Students Easily Grasp Major Concepts?**
+
 For example, if someone played *Sid Meier’s Railroads* uncritically, they might walk away with the sense that the 19th-century development of the railroad was driven by powerful companies competing with one another to connect various resources and markets by rails in order to maximize profits. Flaws aside, that’s a reasonable impression. A real-time strategy game like *Age of Empires*, on the other hand, suggests that all civilizations are engaged in a mad dash to exhaust the world of resources and crush their enemies with overwhelming numbers and technology. On a dark day some may suspect this to be the case, but it is a very problematic generalization and thus, *Age of Empires* is a more problematic game to use for a history class.
+
 This general guideline is not meant to suggest, however, that students should ever be left in a position to receive the messages of a game uncritically. Accordingly, even when a game’s interpretation of the past passes a teacher’s standards of “reasonable enough,” it is important to be aware—and as part of the process of encouraging critical thinking, make students aware—that simulation games are constrained by their very medium to provide certain interpretations of the past.
+
 **Tip Three: Remember, Simulation Games are *Simulations***
+
 First, simulation games, because they are games, often tend to deal with clear-cut goals: build this city, raise this amount of wealth, win this battle, manage this conflict. While historical actors certainly could have such clarity of purpose, games tend to present historical roles, goals, and methods for achieving goals with an idealized precision and accuracy. This is, in fact, one of the great strengths of simulation games as a representational medium, but teachers and students should still consider and analyze potential differences between the game and reality in this respect.
 > Finally, it’s important to remember that simulation games are one powerful tool for studying the past.
 
 Second, simulation games generally focus on making trade-offs between quantifiable resources—they are computer models, after all, and computers are nothing more than billions of binary switches combined to magnificent effect. This can lead to all manner of terrific insights about humans and systems, but often at the expense of the historical narrative of what actually did happen. This is not a weakness, per se. Indeed, understanding that the past was not pre-determined and humans had a variety of options, albeit within a set of constraints, is a strength of simulation games. Nevertheless, it is important that teachers and students consider the difference between historically valid narrative, which attempts to reproduce what did happen and why, and a historically valid simulation, which attempts to model the variety of things that *could have* happened and why.
+
 Finally, it’s important to remember that simulation games are one powerful tool for studying the past. They are not the only powerful tool and any rich environment for studying history should include a balanced variety of resources including primary sources, quantitative data, historical narratives, images, and/or film, among others. Certainly, it should be at the heart of 21st-century history for students to reconstruct the past critically through a wide variety of media.
 
 ## Considering Ease of Play and Time Requirements

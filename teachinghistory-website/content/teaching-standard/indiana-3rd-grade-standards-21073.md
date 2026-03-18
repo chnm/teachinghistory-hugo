@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21073
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### IN.1. Standard: History

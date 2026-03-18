@@ -16,9 +16,15 @@ author_image_fid: '7240'
 summary: When did universities start making teaching students do student teaching?
 splash_image: /files/clinicalsplash.jpg
 author_image: /files/author_image/Jacks_photo2_2.jpg
+topics:
+- Education
+tags:
+- Jack Schneider
+- history of teaching
+- student teaching
+- teachers
+- teaching
 ---
-
-
 
 ## In the Beginning
 
@@ -27,12 +33,15 @@ Teacher training did not begin at the university level. In fact, for the first s
 ## Slight Reform
 
 In 1838, Massachusetts paved the way for the creation of four state "normal schools" ("normal" because they were designed to establish teaching norms) and the first opened in Lexington in 1839. Such schools, which began cropping up in other states, were roughly equivalent to high schools, offering instruction in pedagogy, as well as what were then the basics: spelling, reading, writing, grammar, geography, and arithmetic. Additionally, some schools created laboratory schools in which would-be teachers could practice their craft. Others established partnerships with local grammar schools. On the whole, however, practice teaching made up a small part of training, often lasting no more than a week or so. For some, it was a dreaded rite of passage.
+
 However, most teachers did not attend normal schools. In rural areas, for instance, local school boards ran teacher institutes, where their teachers could brush up on academic and pedagogical subjects. Some large school districts, like New York City, organized their own teacher-training programs, led by experienced teachers, well into the 1930s. Even graduates of normal schools, however, did not always have practice teaching opportunities. As former Maryland state superintendent of education M.E. Newell wrote in 1891 some teacher training schools had established relationships with lab schools, "some schools have made the attempt and have abandoned it; some have accomplished the feat—on paper."
 
 ## Emergence of the Modern System
 
 By the 1930s, though, a standard was emerging. As normal schools transformed into state colleges and universities, as higher education enrollments grew, and as more states created educational requirements for licensure, more and more teachers received formal training in a school or department of education. A standard course of study included general education, courses in educational foundations and pedagogy, and a practice teaching component. Still, such matters varied on a school-by-school basis. According to a 1927 survey, some schools required 0–50 hours of student teaching, while some required upwards of 500–600.
+
 Extended clinical experiences became more common in the 1950s and 1960s as states strengthened licensure requirements. Some, like Maine and Oregon, still did not require student teaching. Others, like Rhode Island, mandated a minimum of 200 hours of student teaching for licensure. By the 1970s and '80s, most states had established standards for student teaching; yet variance remained the norm, ranging from four to 18 weeks.
+
 Today, most states require a BA from an accredited college or university and between 12 and 16 weeks of student teaching. There are, of course, alternate routes into public school classrooms that, in a sense, turn back the clock.
 
 ---

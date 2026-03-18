@@ -15,8 +15,28 @@ splash_image_fid: '8393'
 summary: World War II welder and wife of a veteran Margaret Spalluzzi talks about
   working as a welder during the war.
 splash_image: /files/splash-him-vd10.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Daily Life
+- Gender
+- Global Contact
+- International Relations
+- Labor
+- Military History
+- Women
+tags:
+- World War II
+- industry
+- recordings
+- records
+- veterans
+- war
+- wars
+- welders
+- welding
 ---
 
-
 World War II welder and wife of a veteran Margaret Spalluzzi talks about working as a welder during the war, life as a civilian during the war, and communicating with her husband overseas.
+
 The audio portion of this oral history is available independently as a MP3 file.

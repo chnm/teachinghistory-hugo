@@ -10,7 +10,29 @@ keywords: painting, painters, boxes, slaves, satire, humor, artists, artifacts
 website_url: http://anacostia.si.edu/Online_Academy/Academy/academy.htm
 date_published: '2008-04-16T00:00:00'
 series_name: 'The Online Academy: Scholars'
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- Art
+- Daily Life
+- Ethnicity
+- Ideas & Ideologies
+- Media
+- Religion
+- Slavery
+tags:
+- artifacts
+- artists
+- boxes
+- humor
+- painters
+- painting
+- satire
+- slaves
 ---
 
 Cultural resources manager of the Anacostia Museum Portia James displays and discusses a tool box painted in 1891, depicting a plantation owner and his family riding down into Hell and their slaves ascending to Heaven.
+
 To view this video, select "Scholars," followed by "Portia James." From there, select one of the Windows Media viewing options.

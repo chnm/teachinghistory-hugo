@@ -10,8 +10,26 @@ url: /history-content/ask-a-historian/24297
 splash_image_fid: '6702'
 summary: Raising "the terrible weapon of self-defense" during riots in 1917 Illinois.
 splash_image: /files/fleeing-east-st-louis.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- Cities & Suburbs
+- Ethnicity
+- Labor
+- Midwestern States
+- Politics
+tags:
+- East St. Louis
+- East St. Louis Massacre
+- East St. Louis Riot
+- Illinois
+- NAACP
+- World War I
+- labor relations
+- race relations
+- race riot
 ---
-
 
 The name refers to a race riot that occurred in the industrial city of East St. Louis, Illinois, over July 2-3, 1917. It is also referred to as the “East St. Louis Riot.” As historians have looked at its various causes, they have labeled it in different ways, depending on what aspect of it they have focused their attention on. Some recent historians have called it a “pogrom” against African Americans in that civil authorities in the city and the state appear to have been at least complicit in—if not explicitly responsible for—the outbreak of violence. Even in 1917, some commentators already made the comparison between the East St. Louis disturbance and pogroms against Jews that were occurring at the time in Russia. Roving mobs rampaged through the city for a day and a night, burning the homes and businesses of African Americans, stopping street cars to pull their victims into the street, and assaulting and murdering men, women, and children who they happened to encounter. A memorial petition to the U.S. Congress, sent by a citizen committee from East St. Louis described it as “a very orgy of inhuman butchery during which more than fifty colored men, women and children were beaten with bludgeons, stoned, shot, drowned, hanged or burned to death—all without any effective interference on the part of the police, sheriff or military authorities.” In fact, estimates of the number of people killed ranged from 40 to more than 150. Six thousand people fled from their homes in the city, either out of fear for their lives or because mobs had burned their houses.
 

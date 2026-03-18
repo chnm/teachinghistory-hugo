@@ -15,7 +15,35 @@ summary: Uncover novels, readers, hymnals, almanacs, diaries, maps, treaties, an
 splash_image: /files/EarlyAmerican432x240.jpg
 thumbnail: /files/splash-calendarsquiz_0.jpg
 image: /files/website_image/EarlyAmSeriesIIImage.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Children
+- Daily Life
+- Education
+- Ideas & Ideologies
+- Legal History
+- Literature
+- Media
+- Politics
+- Popular Culture, Leisure
+- Religion
+- Rural Life
+- Slavery
+evidence_types:
+- Advertising
+- Literary Sources
+- Maps
+- Newspapers and Periodicals
+- Official Documents
+- Personal Accounts
+- Political Documents
+- Religious Texts
+resource_types:
+- Images
+- Subscription
+- Text
 ---
-
 
 This database is the most essential collection of written materials for historical research in American history from 1801-1819. It provides full-text access to nearly 4.5 million pages of 36,000 books, pamphlets, broadsides and other imprints published in the U.S. during this period. Gazetteers, almanacs, juvenile literature, chapbooks, hymnals, campaign literature, novels, slave narratives, spelling books, school readers, treaties, maps, atlases, advertisements, diaries, autobiographies, and much more are all included. Most of these materials were originally detailed in the bibliography compiled by Ralph Shaw and Richard Shoemaker. This collection, long available on microfiche, is made available here as a digital, fully searchable online database. It complements Readex's other Early American Imprints series of material from the period of 1639-1800.

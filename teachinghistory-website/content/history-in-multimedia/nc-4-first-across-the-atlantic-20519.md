@@ -11,6 +11,19 @@ keywords: Atlantic, Atlantic Ocean, aviation, flight, aircraft, planes, airplane
 website_url: http://www.pbs.org/opb/historydetectives/video/1486853815/
 date_published: '2008-12-18T00:00:00'
 series_name: 'History Detectives: Video Library'
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Science & Tech.
+tags:
+- Atlantic
+- Atlantic Ocean
+- NC-4
+- aircraft
+- airplanes
+- aviation
+- flight
+- planes
 ---
 
 John Bayer shows Elyse Luray of PBS's *History Detectives* the NC-4 and describes conditions for the crew during its flight across the Atlantic in 1919.

@@ -17,10 +17,18 @@ summary: Examine the role of African Americans in the Civilian Conservation Corp
 splash_image: /files/CCCSplash.jpg
 image: /files/lesson_image/CivilianConserveation-150x113.jpg
 grade_levels:
-  - middle
-  - high
-duration: '2-4 Days'
+- high
+- middle
+duration: 2-4 Days
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- African Americans
+tags:
+- CCC
+- Civilian Conservation Corps
+- Great Depression
+- New Deal
 ---
-
 
 The strength of this 2–4 day [lesson](http://edsitement.neh.gov/lesson-plan/african-americans-and-new-deals-civilian-conservation-corps) is that it presents students with [primary source documents](http://newdeal.feri.org/aaccc/index.htm#resources) representing multiple perspectives. These documents can help build students' understanding of the issues surrounding African American employment in the CCC. The documents also provide an excellent platform for students to explore the sticky political and civil rights issues facing the Roosevelt administration as it attempted to hold together a precarious political coalition that included both large numbers of African Americans and conservative Southern Democrats opposed to civil rights reforms. The lesson is comprised of four activities. Each activity is well structured and provides detailed procedures for classroom teachers. Teachers will use class discussions to assess student learning. The lesson closes with a solid writing prompt that encourages students to use documentary evidence to construct a historical argument. The lesson plan does not, however, provide resources for teachers to help students construct a high-quality historical essay. We suspect that teachers may need to provide guidance and assistance for writing the essay beyond that which is described in the lesson.

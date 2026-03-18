@@ -23,10 +23,12 @@ splash_image: /files/researchsplash_0.jpg
 image: /files/researchimage.jpg
 author_image: /files/author_image/john.jpg
 grade_levels:
-  - high
+- high
+tags:
+- historical thinking
+- research
+- research papers
 ---
-
-
 
 ## What Is It?
 

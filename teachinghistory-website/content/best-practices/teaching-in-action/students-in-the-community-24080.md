@@ -19,10 +19,11 @@ summary: Is a school an island? James Liou talks about working to integrate scho
 splash_image: /files/studentcommunity.jpg
 author_image: /files/author_image/Liou_author.jpg
 grade_levels:
-  - high
+- high
+tags:
+- Boston
+- Massachusetts
 ---
-
-
 
 /files/media/video/TIA\_James1.mp4
 

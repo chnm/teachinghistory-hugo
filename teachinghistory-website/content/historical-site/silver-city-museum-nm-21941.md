@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 21941
 website_url: http://www.silvercitymuseum.org/
+time_periods:
+- General
+topics:
+- Western States
+tags:
+- New Mexico
+- museum
 ---
 
 The Silver City Museum preserves, presents, and interprets the history of southwestern New Mexico through exhibits and public programs.
+
 The museum offers exhibits, traveling trunks for loan, in-class outreach presentations, guided tours of the museum for school groups, speakers to guide school bus tours, and occasional recreational and educational events.

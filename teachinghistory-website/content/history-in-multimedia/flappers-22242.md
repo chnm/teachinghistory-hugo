@@ -13,7 +13,20 @@ splash_image_fid: '3740'
 summary: '"Illegally attractive"? Just what did the news of 1920 San Francisco have
   to say about flappers.'
 splash_image: /files/WhereTheresSmokeTheresFireLoC.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Business
+- Cities & Suburbs
+- Gender
+- Global Contact
+- Ideas & Ideologies
+- Immigration
+- Media
+- Popular Culture, Leisure
+- Sexuality
+- Western States
+- Women
 ---
-
 
 Richard Miller reads two 1922 *San Francisco Chronicle* articles on the public reaction to and perception of flappers.

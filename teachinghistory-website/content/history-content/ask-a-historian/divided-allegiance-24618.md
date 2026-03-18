@@ -22,9 +22,38 @@ author_image_fid: '7344'
 summary: Being born in the United States was not always a guaranteed path to citizenship.
 splash_image: /files/dividedallegiance432x240.jpg
 author_image: /files/author_image/friedman.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- American Indians
+- Children
+- Family Life
+- Global Contact
+- Immigration
+- International Relations
+- Latinos
+- Legal History
+- Politics
+- Slavery
+tags:
+- Supreme Court
+- amendment
+- citizen
+- citizenship
+- emmigration
+- immigration
+- race
+- slavery
+- sufferage
 ---
-
-
 
 Throughout the history of the United States, there has been a consistent evolution of who a citizen is and how a citizen is defined, as the United States Constitution has been both decided upon and modified on various occasions to expand the definition of who is a citizen and guarantee equal rights for all individuals. In the late 18th century, a citizen was defined as a white, male landowner, and African Americans could legally be held as slaves. The 1857 *Dred Scott* v *Sandford* Supreme Court case affirmed this definition. The [Oyez Project](http://teachinghistory.org/history-content/website-reviews/14599) (2005–2011) puts forth that in this case the Court found that "no person descended from an American slave had ever been a citizen." Six years subsequent to this decision, President Lincoln issued the Emancipation Proclamation, which declared "that all persons held as slaves within the rebellious states are, and henceforward shall be free."
 

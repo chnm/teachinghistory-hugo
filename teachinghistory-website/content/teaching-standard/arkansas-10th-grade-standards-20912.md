@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20912
 grade_levels:
-  - high
+- high
 ---
 
 * ### AR.AG. Strand / Content Standard: American Government

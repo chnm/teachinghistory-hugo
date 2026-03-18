@@ -11,6 +11,28 @@ keywords: baseball, sports, Civil Rights movement, civil rights, labor movement,
 website_url: http://dev.forum-network.org/lecture/reserve-clause-curtis-flood-and-baseball
 date_published: '2003-10-30T00:00:00'
 series_name: 'Ken Burns: Unforgiveable Blackness'
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Business
+- Consumer Culture
+- Ideas & Ideologies
+- Legal History
+- Media
+- Popular Culture, Leisure
+- Reform
+tags:
+- Civil Rights Movement
+- baseball
+- civil rights
+- labor movement
+- race
+- race relations
+- racism
+- sports
 ---
 
 Professor Gerald L. Early discusses cultural observations on Curt Flood, the first player in Major League Baseball to challenge the infamous "reserve clause" which opened the doors to free agency. Early focuses on the significance of sports as a public arena.

@@ -16,10 +16,15 @@ splash_image: /files/Teaching_Historical_Interpretation_through_Planning_-_432x2
 image: /files/TeachingHistInterpretation150x113.jpg
 author_image: /files/author_image/DaleBanham75x75.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Military History
+tags:
+- World War I
+- documentaries
 ---
-
-
 
 *\*Please note that this video is no longer hosted by the Teachers TV website. It may be hosted on a different site and found through doing an internet search on the video's title.*
 

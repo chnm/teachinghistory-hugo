@@ -13,9 +13,17 @@ splash_image_fid: '9060'
 summary: Sharp quills did the bidding of the even sharper intellects of the Revolution's
   founding mothers. Listen to the words of Mercy Otis Warren and Abigail Adams.
 splash_image: /files/adamssplash.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Women
+tags:
+- Abigail Adams
+- Mercy Otis Warren
 ---
 
-
 From Colonial Williamsburg: Past and Present Podcasts
+
 "Sharp quills did the bidding of the even sharper intellects of the Revolution's founding mothers. Listen to the words of Mercy Otis Warren and Abigail Adams, voiced by Abigail Schumann."
+
 The Colonial Williamsburg site also has an informative [essay](http://www.ouramericanrevolution.org/index.cfm/people/view/pp0047) that offers interested readers more information on Abigail Adams.

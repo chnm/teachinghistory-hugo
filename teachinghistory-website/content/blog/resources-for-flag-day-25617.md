@@ -13,10 +13,30 @@ summary: Flag Day may not fall during the school year for many, but Flag Day res
   are valuable all year long.
 splash_image: /files/splash-blog-fd12.jpg
 image: /files/image-blog-fd12.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+topics:
+- Media
+- Military History
+- Popular Culture, Leisure
+tags:
+- Star-spangled Banner
+- flag
+- flag day
+- flags
+- teaching materials
+- websites
 ---
 
-
 Do you celebrate Flag Day? Though not an official federal holiday, June 14 (one week from today) memorializes the day when the Second Continental Congress approved the first version of what evolved into our modern national flag.
+
 Since 1777, the flag has gained 37 stars and exact specifications for color and design, but it's always been recognizable. Red, white, and blue, it has waved over people, places, and events throughout U.S. history. How much do your students know about the flag and its history? If you ask them to share what they know, do they offer stories about Betsy Ross or the writing of "The Star-Spangled Banner"? Use these stories as starting points or explore other pieces of flag history with free online resources.
 
 ## On Teachinghistory.org

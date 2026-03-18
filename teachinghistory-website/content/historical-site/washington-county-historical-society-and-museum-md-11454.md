@@ -6,7 +6,24 @@ content_type: historical_site
 draft: false
 drupal_nid: 11454
 website_url: http://www.rootsweb.ancestry.com/~mdwchs/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- General
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Children
+- Daily Life
+- Education
+- International Relations
+- Military History
+- Science & Tech.
+- Southern States
 ---
 
 The Washington County Historical Society seeks to preserve and share the history of Washington County, MD. To this end, the society operates a museum within the Miller House, a late Federal townhouse dating to between 1818 and 1823, and the 1904 two-room Beaver Creek School. Exhibits in the Miller House include period rooms set to 1850s through 1870s appearances, clocks, dolls, Shenandoah Valley pottery, the Revolutionary War, the War of 1812, the Civil War, and the C and O Canal. The house grounds also include a library and gardens. The Beaver Creek School contains period school, workshop, parlor, and cobbler shop settings; vintage toys; costumes and uniforms; an 1840s hand crank organ; and other artifacts.
+
 The society offers exhibits, period rooms, a garden, and research library access.

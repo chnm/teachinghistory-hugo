@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20973
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### DC.1. Content Standard / Strand: True Stories and Folktales from America and Around the World

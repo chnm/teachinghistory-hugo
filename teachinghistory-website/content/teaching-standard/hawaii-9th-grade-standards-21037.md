@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21037
 grade_levels:
-  - high
+- high
 ---
 
 * ### HI.SS.9MHH Content Standard / Course: Modern Hawaiian History

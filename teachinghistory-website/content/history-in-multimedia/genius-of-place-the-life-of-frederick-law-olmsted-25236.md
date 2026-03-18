@@ -9,7 +9,13 @@ duration: '1:08:17'
 website_url: http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=5234
 date_published: '2011-07-07T00:00:00'
 series_name: The Library of Congress Webcasts
+topics:
+- Art
+tags:
+- Frederick Law Olmsted
+- architecture
 ---
 
 Video background from The Library of Congress Webcasts site:
+
 "Frederick Law Olmsted is best remembered for his landscape architecture, from New York's Central Park and Boston's Emerald Necklace to the grounds of the U.S. Capitol and the campus of Stanford University. Olmsted was also an influential journalist, an early voice for the environment and an abolitionist credited with helping dissuade England from joining the South in the Civil War. Justin Martin discusses his new book, "Genius of Place: The Life of Frederick Law Olmsted.""

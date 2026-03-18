@@ -11,7 +11,34 @@ keywords: colonies, colonization, colonists, crime, crimes, criminals, courts, l
 website_url: http://dev.forum-network.org/lecture/naked-quaker-and-other-pre-revolutionary-tales
 date_published: '2007-11-01T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Daily Life
+- Gender
+- Ideas & Ideologies
+- Legal History
+- New England
+- Politics
+- Religion
+- Women
+tags:
+- Puritans
+- Quakers
+- colonies
+- colonists
+- colonization
+- courts
+- crime
+- crimes
+- criminals
+- law
+- laws
+- religious conflict
+- trials
 ---
 
 Historian and lawyer Diane Rapaport recovers stories from pre-Revolutionary-War New England court records, examining cases that highlight the concerns of ordinary people and reveal the daily life of Puritans during this period. The presentation includes slides.
+
 Audio and video options are available. The video can be watched with or without captions.

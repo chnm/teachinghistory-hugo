@@ -6,7 +6,21 @@ content_type: historical_site
 draft: false
 drupal_nid: 8397
 website_url: http://www.newportirishhistory.org
+time_periods:
+- All
+- General
+topics:
+- Ethnicity
+- Immigration
+- New England
+tags:
+- Ireland
+- Irish
+- Irish Americans
+- Rhode Island
+- immigrants
 ---
 
 The Museum collects, preserves, and displays photographs, letters, documents, artifacts, and oral history that trace the chronology of Irish immigration and settlement in Newport County, as well as the social and cultural impact of this immigration on the community as a whole.
+
 The museum offers lectures and research library access.

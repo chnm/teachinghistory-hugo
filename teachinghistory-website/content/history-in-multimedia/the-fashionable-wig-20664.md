@@ -12,6 +12,33 @@ keywords: wigs, wigmaking, wigmakers, clothing, dress, fashion, clothes, colonie
 website_url: http://podcast.history.org/2006/09/25/the-fashionable-wig/
 date_published: '2006-09-25T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Consumer Culture
+- Daily Life
+- Popular Culture, Leisure
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- business
+- businesses
+- class
+- classes
+- clothes
+- clothing
+- colonies
+- colonists
+- dress
+- fashion
+- gentry
+- upper class
+- wigmakers
+- wigmaking
+- wigs
 ---
 
 Terry Lyons, a Colonial Williamsburg wigmaker, looks at the place of wigs in colonial society and what they revealed about the wearer's social status.

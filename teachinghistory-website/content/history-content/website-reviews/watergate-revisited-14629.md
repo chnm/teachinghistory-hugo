@@ -17,8 +17,39 @@ summary: The *Washington Post* looks back at the Watergate scandal in this exhib
 thumbnail: /files/books.gif
 splash_image: /files/Watergate_Revisited_432x240.jpg
 image: /files/website_image/WatergateRevisited.jpg
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Ideas & Ideologies
+- Legal History
+- Media
+- Politics
+- Science & Tech.
+evidence_types:
+- Cartoons
+- Film and Video
+- Newspapers and Periodicals
+- Official Documents
+- Oral History
+- Photographs
+- Speeches
+resource_types:
+- Audio
+- Images
+- Text
+- Video
+tags:
+- Watergate
+- impeachment
+- impeachments
+- journalism
+- journalists
+- politicians
+- presidents
+- scandals
+- washington post
 ---
 
-
 This is a thorough introduction to the Watergate scandal. Created by the *Washington Post,* the newspaper whose investigative journalism led to President Richard M. Nixon's downfall, the website provides more than 80 relevant news stories. It also offers links to 20 documents—speeches, tape transcriptions, and Nixon's letter of resignation—in the National Archives and the Nixon Library. A detailed timeline links to *Post* stories, and brief biographies introduce 26 "key players" in various phases of the scandal.
+
 Users may listen to eight audio clips and view 11 video clips, such as Nixon's "I am not a crook" speech, announcement of his resignation, and farewell to his staff as well as John Dean's testimony. The *Post*'s Bob Woodward and Ben Bradlee discuss the scandal in the transcript of a 1997 interview and a video recording of a 2002 forum. The site also includes a link to 20 cartoons by the *Post*'s Herblock, photographs, and an interactive quiz.

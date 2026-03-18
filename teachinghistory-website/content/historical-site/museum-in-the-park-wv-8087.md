@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 8087
 website_url: http://www.wvculture.org/sites/Logan/index.html
+time_periods:
+- General
+topics:
+- Southern States
+tags:
+- West Virginia
 ---
 
 The Museum in the Park presents exhibits relevant to West Virginia history and culture.
+
 The museum offers exhibits.

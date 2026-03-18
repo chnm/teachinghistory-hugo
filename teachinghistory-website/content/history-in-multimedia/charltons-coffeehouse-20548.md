@@ -12,6 +12,32 @@ keywords: coffeehouses, Stamp Act, Williamsburg, restoration, Virginia, reconstr
 website_url: http://podcast.history.org/2008/08/18/charltons-coffeehouse/
 date_published: '2008-08-18T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Consumer Culture
+- Daily Life
+- Politics
+- Popular Culture, Leisure
+- Science & Tech.
+- Southern States
+tags:
+- American Revolution
+- Reconstruction
+- Revolutionary War
+- Stamp Act
+- Virginia
+- Williamsburg
+- archaeology
+- architecture
+- buildings
+- coffeehouses
+- colonies
+- colonists
+- conservation
+- restoration
 ---
 
 Architectural historian Ed Chappell explains the reconstruction of the [Charlton Coffeehouse](http://www.history.org/almanack/places/hb/hbcoffee.cfm) in Colonial Williamsburg and the function of the coffeehouse when it stood.

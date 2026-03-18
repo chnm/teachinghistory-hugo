@@ -11,6 +11,29 @@ keywords: metal, founders, foundries, smiths, craftsmen, colonies, colonists, Wi
 website_url: http://podcast.history.org/2007/08/20/a-different-kind-of-founder/
 date_published: '2008-08-20T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Consumer Culture
+- Daily Life
+- Economy
+- Labor
+- Science & Tech.
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- business
+- businesses
+- colonies
+- colonists
+- craftsmen
+- founders
+- foundries
+- metal
+- smiths
 ---
 
 Doc Hassell, Colonial Williamsburg's master brass founder, discusses the work of a founder during the colonial era.

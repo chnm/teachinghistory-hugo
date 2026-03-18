@@ -10,8 +10,16 @@ website_url: http://www.gilderlehrman.org/multimedia#3400
 date_published: '2004-11-15T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
 grade_levels:
-  - high
+- high
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Politics
+tags:
+- George Washington
+- presidents
 ---
 
 From the Gilder Lehrman Institute:
+
 Pulitzer Prize-winning historian Joseph J. Ellis explores the life of George Washington. He discusses the difficulties of writing about Washington due to his well known aversion to revealing his personal thoughts. He presents theories about Washington's personality based on what has been documented about his early life.

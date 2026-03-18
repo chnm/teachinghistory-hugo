@@ -17,8 +17,37 @@ summary: Collects 150 1894–1915 motion pictures on work, school, and leisure a
 thumbnail: /files/UsingBlogs.jpg
 splash_image: /files/America_at_Work_America_at_Leisure-_Motion_Pictures_from_1894-1915_432x240.jpg
 image: /files/website_image/AmericaatWork.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Business
+- Daily Life
+- Economy
+- Media
+- Popular Culture, Leisure
+- Science & Tech.
+evidence_types:
+- Film and Video
+resource_types:
+- Video
+tags:
+- U.S. Postal Service
+- agriculture
+- amusement parks
+- cattle
+- film
+- films
+- firefighters
+- firefighting
+- loggers
+- logging
+- motion pictures
+- movies
+- parades
+- schools
+- sports
 ---
 
-
 This collection of 150 motion pictures produced between 1894 and 1915 deals with work, school, and leisure activities in the U.S. The films include footage of the U.S. Postal Service in 1903, cattle breeding, firefighters, ice manufacturing, logging, physical education classes, amusement parks, sporting events, and local festivals and parades. Each film is accompanied by a brief summary.
+
 A special presentation furnishes additional information on three categories: America at school, work, and leisure. Essays of roughly 1,000-words provide context and general descriptions of films in each category, display 15 illustrative photographs, and link to related films. A 31-work bibliography provides suggestions for further reading and websites on American labor, education, and leisure.

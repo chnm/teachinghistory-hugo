@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 12977
 website_url: http://www.crt.state.la.us/parks/ifairview.aspx#Otis
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Daily Life
+- Southern States
+tags:
+- Louisiana
 ---
 
 The Otis House is an 1880s residence, originally possessed by a sawmill owner.
+
 The house offers period rooms and tours. The website offers a virtual tour. The park offers educational programs and picnic facilities.

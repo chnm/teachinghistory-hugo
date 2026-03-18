@@ -11,6 +11,21 @@ keywords: Founding Fathers, generals, presidents, war, wars, Revolutionary War, 
 website_url: http://www.teachingamericanhistory.us/tah_2/speakers/cox3.html
 date_published: '2005-06-27T00:00:00'
 series_name: 'History Grows in Oakland: Lectures'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Legal History
+- Military History
+- Politics
+tags:
+- American Revolution
+- Founding Fathers
+- Revolutionary War
+- generals
+- presidents
+- war
+- wars
 ---
 
 Professor Caroline Cox reviews the life of George Washington, examining the difficulties of sorting factual historical information from created mythology.

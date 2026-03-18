@@ -11,6 +11,36 @@ keywords: dresses, gowns, dress, fashion, Williamsburg, Virginia, dressmakers, d
 website_url: http://podcast.history.org/2006/08/07/milliner-and-mantua-maker/
 date_published: '2007-08-06T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Consumer Culture
+- Daily Life
+- Economy
+- Gender
+- Global Contact
+- International Relations
+- Labor
+- Popular Culture, Leisure
+- Southern States
+- Women
+tags:
+- Virginia
+- Williamsburg
+- business
+- businesses
+- dress
+- dresses
+- dressmakers
+- dressmaking
+- fashion
+- gowns
+- mantuamakers
+- mantuamaking
+- milliners
+- millinery
+- stays
 ---
 
 Janea Whitacre, Colonial Williamsburg's mistress of the millinery and mantua-making trades, examines the business of female fashion in the colonial era.

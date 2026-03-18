@@ -21,12 +21,22 @@ splash_image: /files/splash-blog-lsdestiny.jpg
 image: /files/image-blog-lsdestiny.jpg
 author_image: /files/author_image/Author_Photo_Elizabeth_Schaefer_75x75_0_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- International Relations
+- Politics
+- Western States
+tags:
+- Manifest Destiny
+- elizabeth schaefer
+- expansionism
+- isolationism
 ---
-
-
 
 My middle school students contain tremendous physical energy and can struggle with the transition into the adult world of sitting still. Meanwhile, real kinesthetic learning is one of the most difficult areas to incorporate effectively into your history classroom. Last year, to meet my goal of getting the students moving in a relevant and productive manner, I created Policy Pull-Out—a fun and interactive game related to the key concepts of American Expansion.
 
@@ -40,6 +50,7 @@ Policy Pull-Out was created to specifically support and review for DC's 8.5.2: *
 ## The Concept
 
 Policy Pull-Out stemmed from a game that I had played as an after-school coordinator, called “Huggie Bear.” In Huggie Bear, the students mingle around until the teacher calls out a number. Whether the number is seven or two, the students have to gather in a group of that number of students. If students do not find a group that size or cannot find a group fast enough, they are out.
+
 In Policy Pull-Out, we use history-related calls demanding different numbers of people group together or do a specific action. The motions they use in these calls directly relate to understanding the meaning of the words.
 
 ## The Calls
@@ -63,9 +74,12 @@ First, you need to secure an adequate space. For teachers whose weather permits,
 > The students love this game and are always very excited to be doing an activity out of the norm.
 
 Before leaving the classroom, I recommend reviewing the first four calls and having a volunteer demonstrate each one. The students should have already been introduced to the key concepts and vocabulary but this would be a good time to discuss why certain words represent certain motions and allow them to make the connections for themselves. Perhaps they could even add to the game with their own ideas! You can give students the option of a cheat sheet depending on the situation.
+
 After the class has arrived at the chosen location, the games can begin! The students love this game and are always very excited to be doing an activity out of the norm, but it is important to anticipate problems and set up ground rules about student-to-student contact, referee absolutes, and what to do when you are out. In the past, the students have been very invested in playing the game and are afraid to be taken out as long as you define clear borders. I limit the first round to four calls and then add as we go by gathering the group back together.
+
 At the end of the game, debriefing is necessary in order to reinforce the purposefulness of the game: *Did anyone feel safe when they were isolated? Did anyone prefer expansionism? How did you like running to the borders for Manifest Destiny? Do you think that our early presidents may have experienced some of these feelings?* As the individuals within a class will form different opinions of their favorite motions, there are mixed opinions about the policies that would be best for our country.
 > Policy Pull-Out will reinforce the connection between human history and geography to help your students remember and understand why our 50 states exist today!
 
 This conversation should be a jumping-off point for more directly connected historical thinking activities. As the following step in scaffolding, I recommend using a collection of primary sources including documents that supported expansion and ones that warned against it. As another logical step, several research assignments could stem from this. For example, the students could compare George Washington to the later presidents that preferred expansionism, or research the motivations of different presidents who did expand (e.g., Thomas Jefferson’s motivations compared to James Monroe’s). Policy Pull-Out should be viewed as an early scaffold to more critical thinking about these concepts.
+
 I hope that you and your students enjoy this game! It has been a highlight of my teaching. When spun correctly, Policy Pull-Out will reinforce the connection between human history and geography to help your students remember and understand why our 50 states exist today!

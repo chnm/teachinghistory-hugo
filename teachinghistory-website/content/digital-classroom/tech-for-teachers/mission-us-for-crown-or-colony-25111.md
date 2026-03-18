@@ -18,11 +18,18 @@ splash_image: /files/revolutionsplash.jpg
 image: /files/revolutionimage.jpg
 author_image: /files/author_image/authorphotojeremiahmccall75x75_1.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- Politics
+tags:
+- digital games
+- games
+- gaming
 ---
-
-
 
 Mission US is an online game that lets students take on the role of a 1770s printer's apprentice to learn about pre-Revolution colonial life and viewpoints.

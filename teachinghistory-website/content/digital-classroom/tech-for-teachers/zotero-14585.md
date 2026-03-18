@@ -17,10 +17,13 @@ splash_image: /files/ZoteroSplashNew.jpg
 thumbnail: /files/website_image/ForeFielImage.jpg
 image: /files/ZoteroImg_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Collaboration
+- collecting and organizing
+- research
 ---
-
 
 At its most basic level, Zotero is a citation manager. It runs in the Firefox web browser and helps users gather, annotate, organize, cross-reference, and share the results of their research.

@@ -13,10 +13,25 @@ summary: Glogster—a "posterboard" creator for the digital media age.
 splash_image: /files/glogster-splash.png
 image: /files/glogster.png
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- collecting
+- creativity
+- glogging
+- glogs
+- glogster
+- images
+- multimedia
+- organizing
+- poster
+- presentations
+- sounds
+- videos
+- visualizing
+- visuals
+- visuals and visualizing
 ---
-
 
 Glogster allows users to develop online posters, using a variety of media sources (images, sounds, videos, graphics), which can be shared with classmates and teachers.

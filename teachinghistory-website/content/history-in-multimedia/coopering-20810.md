@@ -11,7 +11,30 @@ keywords: coopers, coopering, barrels, business, businesses, colonists, colonies
 website_url: http://podcast.history.org/
 date_published: '2005-07-18T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Consumer Culture
+- Daily Life
+- Economy
+- Labor
+- Science & Tech.
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- barrels
+- business
+- businesses
+- colonies
+- colonists
+- coopering
+- coopers
+- trade
 ---
 
 Marshall Scheetz, an apprentice cooper at Colonial Williamsburg, talks about coopering according to colonial-era practices.
+
 **Note: this podcast is no longer available. To view a transcript of the original podcast, click [here](http://podcasts.history.org/podcasts_transcripts/CWPP_MScheetz.cfm).**

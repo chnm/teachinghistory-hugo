@@ -20,11 +20,18 @@ splash_image: /files/splash-blog-jotechteach.jpg
 image: /files/image-blog-joteachtech.jpg
 author_image: /files/author_image/jennifer-orr_0_1.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+tags:
+- Jennifer Orr
+- cameras
+- digital storytelling
+- movie maker
+- photo story
+- video cameras
+- wallwisher
+- whiteboards
 ---
-
-
 
 In a [recent post](http://teachinghistory.org/nhec-blog/24452) I argued the importance of both history and technology in primary grades. I also made the case that both are significant challenges for teachers of young children for a variety of reasons. However, I’m a firm believer that we can do anything we think is important.
 
@@ -41,4 +48,5 @@ First graders in Virginia also learn about the difference between past and prese
 > The structure is set for brief writing, which is comforting to young children.
 
 As the year is progressing and my students are gaining literacy skills, I’m introducing them to [Wallwisher](http://wallwisher.com/). This free site allows me to create a wall with a question or topic and my students can add Post-It like items with their thoughts. As they are working around the classroom exploring a topic they can head to our interactive whiteboard to add their thinking. I can also place the wall on our class blog for students to come back to or to add more thoughts. The structure is set for brief writing, which is comforting to young children. It is a great way for us to record our learning and return to it later.
+
 These different options for technology use offer opportunities for presenting information, processing learning, and sharing our thinking. In my next post I’ll explore my favorite, free, online tool in detail.

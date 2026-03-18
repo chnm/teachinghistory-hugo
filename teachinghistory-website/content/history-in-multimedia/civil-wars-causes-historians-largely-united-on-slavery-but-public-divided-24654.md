@@ -14,8 +14,16 @@ summary: Major historic events are always shrouded in controversy. Check out thi
   interview with Civil War scholars to discover the issues that still surround this
   conflict.
 splash_image: /files/civilsplash.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Ideas & Ideologies
+- Military History
+tags:
+- 150th anniversary of the Civil War
+- Civil War
 ---
 
-
 From the PBS NewsHour website:
+
 "On the 150th anniversary of the start of the Civil War at South Carolina's Fort Sumter, Judy Woodruff has an excerpt from Ken Burns' 'The Civil War' and discusses the conflict's causes and legacy with Harvard University's Drew Gilpin Faust, Howard University's Edna Medford, and the University of South Carolina's Walter Edgar."

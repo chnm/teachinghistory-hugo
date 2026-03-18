@@ -10,6 +10,20 @@ keywords: digital media, digital history, Smithsonian, websites, blogs, teaching
 website_url: http://speakingofhistory.blogspot.com/2009/02/podcast-175-smithsonian-museum-of.html
 date_published: '2009-02-05T00:00:00'
 series_name: Speaking of History
+time_periods:
+- All
+- General
+topics:
+- Education
+- Media
+- Science & Tech.
+tags:
+- blogs
+- digital history
+- digital media
+- smithsonian
+- teaching strategies
+- websites
 ---
 
 Eighth grade American history educator Eric Langhorst discusses the Smithsonian's use of Web 2.0 tools and applications to connect with public and educators.

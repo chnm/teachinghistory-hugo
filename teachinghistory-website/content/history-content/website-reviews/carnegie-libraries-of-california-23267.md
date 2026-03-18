@@ -14,7 +14,18 @@ summary: Learn about the California libraries built with Carnegie funding.
 thumbnail: /files/SixtiesProject432x240.jpg
 splash_image: /files/Carnegie_Libraries_of_California_432x240.jpg
 image: /files/website_image/CarnLibrImage.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Education
+- Western States
+evidence_types:
+- Architecture
+- Photographs
+resource_types:
+- Images
+- Text
 ---
-
 
 Designed to document the many thousands of dollars Andrew Carnegie donated to establish public libraries in California, this site includes modern and contemporary photographs of each of the 144 libraries built between 1889 and 1923. San Diego was the first to receive a Carnegie grant, receiving $60,000 in 1889. Although many of the libraries have been demolished, this site includes photographs and short (250-word) descriptions of each. The date and amount of each grant is documented, as is the style of architecture and the architect. The site also features three essays: a 1,000-word history of the California library building boom; a 3,000-word analysis of the California Carnegie Libraries' different architectural styles; and a 2,000-word biography of Carnegie. Particular emphasis is paid to Carnegie's philanthropy, and the site points out that he donated money to 1,681 public libraries across the United States. The 144 library photographs are the only primary sources included on the site.

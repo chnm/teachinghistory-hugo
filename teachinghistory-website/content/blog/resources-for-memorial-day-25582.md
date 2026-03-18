@@ -11,8 +11,12 @@ splash_image_fid: '9255'
 summary: How do you observe Memorial Day? Teachinghistory.org shares teaching resources
   for the holiday.
 splash_image: /files/splash-blog-md12.jpg
+topics:
+- Military History
+tags:
+- holidays
+- memorial day
 ---
-
 
 Observed on the last Monday of May, our modern Memorial Day has its roots in two wars. In the late 19th century, "Decoration Day" honored the Civil War dead. After World War I, the holiday expanded to honor all citizens who died in service to the U.S. (though it would not become an official national holiday until 1971).
 

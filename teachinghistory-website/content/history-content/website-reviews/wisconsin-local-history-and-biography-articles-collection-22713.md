@@ -14,7 +14,28 @@ summary: Search Wisconsin newspapers mainly from 1860 through 1940.
 splash_image: /files/WisconsinLocal432x240.jpg
 thumbnail: /files/CWDigital.jpg
 image: /files/website_image/WILocalImage.gif
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+topics:
+- American Indians
+- Business
+- Cities & Suburbs
+- Education
+- Media
+- Midwestern States
+- Politics
+- Religion
+- Rural Life
+- Science & Tech.
+- Women
+evidence_types:
+- Newspapers and Periodicals
+resource_types:
+- Text
 ---
-
 
 This extensive archive assembles some 16,000 historical and biographical articles preserved in scrapbooks at the Wisconsin Historical Society in the late 19th and 20th centuries. The primary focus of the collection is the people and communities of Wisconsin. Most of the articles were published between 1860 and 1940 in hundreds of local Wisconsin newspapers. Together the articles contain more than 50,000 pages, all of which are available in the archive. Articles are displayed as page images, but transcripts are not provided. Visitors can search the collection by keyword or search by dropdown menus of counties, newspapers, or topics. Topics include agriculture, architecture, education, government and politics, Indians and Native Peoples, industry, and transportation. Full-text searching of the articles is not possible. An excellent resource for researching the social, cultural, and political history of Wisconsin and its people.

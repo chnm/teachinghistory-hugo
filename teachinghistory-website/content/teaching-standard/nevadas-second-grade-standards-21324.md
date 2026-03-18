@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21324
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### NV.1.0. Content Standard: Economics

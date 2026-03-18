@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 13989
 website_url: http://www.scoe.net/oldsacschoolhouse/index.html
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Children
+- Education
+- Western States
 ---
 
 The Old Sacramento Schoolhouse Museum is a replica of a typical late 19th-century one-room schoolhouse. The interior is furnished to period, and costumed docents offer information on school life.
+
 The museum offers a period room, costumed docents, an annual student essay contest, and field trip programs. Reservations are required for school groups. The website offers arithmetic problems, historic game instructions, and a reading lesson.

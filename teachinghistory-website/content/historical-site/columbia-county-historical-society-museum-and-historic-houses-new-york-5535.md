@@ -6,7 +6,22 @@ content_type: historical_site
 draft: false
 drupal_nid: 5535
 website_url: http://www.cchsny.org/intro_links.html
+time_periods:
+- All
+- Colonization & Settlement, 1585-1763
+- Expansion & Reform, 1801-1861
+- General
+topics:
+- Mid-Atlantic
+tags:
+- Columbia County
+- New York
+- counties
+- homes
+- houses
+- museums
 ---
 
 The Society is a private, nonprofit organization dedicated to the preservation and promotion of the history of Columbia County, NY. The Society owns and operates three historic properties, open to the public during the summer season, and a museum, open year-round. The Columbia County Museum, open to the public since 1985, was originally built as a Masonic Temple in 1916. Today it houses the Society offices, research library, collections storage, and exhibit space. Volunteers and staff organize educational programs and aid in genealogical research as well as many other activities. The Society also operates the 1820s James Vanderpoel House and the 1737 Luykas Van Alen House.
+
 The museums offer exhibits, tours, and research library access; the society offers lectures and educational and recreational programs.

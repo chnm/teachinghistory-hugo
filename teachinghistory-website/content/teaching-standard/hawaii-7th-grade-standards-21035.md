@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21035
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### HI.SS.7HHK Content Standard / Course: History of the Hawaiian Kingdom

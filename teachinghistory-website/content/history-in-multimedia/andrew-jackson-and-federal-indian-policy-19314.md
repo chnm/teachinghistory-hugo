@@ -14,8 +14,32 @@ series_name: Native American Relations Video
 splash_image_fid: '3922'
 summary: To Jackson, treaties made with Native American groups held no power.
 splash_image: /files/AndrewJacksonSplash.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+tags:
+- Creek War
+- Native Americans
+- land
+- land ownership
+- politicians
+- presidents
+- property
+- property ownership
+- race
+- race relations
+- racism
+- treaties
+- war
+- wars
 ---
 
-
 Scholar James Lewis outlines Andrew Jackson's views of Native Americans and his discounting of Native American power and the validity of treaties signed with Native American tribes.
+
 To view this clip, select "Andrew Jackson and Federal Indian Policy" under "Native American Relations Video."

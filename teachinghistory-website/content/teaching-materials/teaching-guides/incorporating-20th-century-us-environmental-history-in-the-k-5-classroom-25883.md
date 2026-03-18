@@ -33,9 +33,18 @@ summary: This guide consists of curated primary and secondary sources to help st
   connect environmental history to broader themes in twentieth century US history.
 splash_image: /files/PoliticalCartoonNYTribune.png
 author_image: /files/author_image/Annabelle and Hannah_0.png
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Environment
+- Gender
+- Ideas & Ideologies
+- Women
 ---
-
-
 
 ## Introduction: How to Use this Guide
 
@@ -237,6 +246,7 @@ Background:
   further economic hardship and health issues.
 * The Dust Bowl would also cause a mass migration of  
   farmers out of states like Oklahoma, Texas, and Arkansas  
+
   and to California as they searched for better opportunities.
 
 Discussion Questions:

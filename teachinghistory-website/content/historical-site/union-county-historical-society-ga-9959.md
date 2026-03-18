@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 9959
 website_url: http://unioncountyhistory.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Southern States
+tags:
+- Georgia
 ---
 
 The Union County Historical Society seeks to preserve and share the history of Union County, Georgia. To this end, the society operates a museum. The museum, located within the 1899 Historic Union County Courthouse, presents local history through a collection of textiles, costume, Native American objects, vernacular items, and medical equipment. Collection highlights include the Margarita Morgan Miniature House Collection.
+
 The society offers exhibits, museum tours, and a non-circulating genealogical library.

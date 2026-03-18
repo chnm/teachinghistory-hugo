@@ -17,8 +17,42 @@ summary: Follows Jefferson's life, political participation, and accumulation of 
   geographical knowledge from 1735 to 1804.
 splash_image: /files/Envisaging_the_West-_Thomas_Jefferson_and_the_Roots_of_Lewis_and_Clark_432x240.jpg
 image: /files/website_image/14732.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- Environment
+- Global Contact
+- Ideas & Ideologies
+- Politics
+- Rural Life
+- Science & Tech.
+- Western States
+evidence_types:
+- Maps
+- Official Documents
+- Personal Accounts
+- Travel
+resource_types:
+- Images
+- Text
+tags:
+- Jefferson
+- Lewis and Clark
+- Lewis and Clark Expedition
+- Louisiana Purchase
+- Manifest Destiny
+- Maps
+- Thomas; presidents
+- cartography
+- exploration
+- explorers
+- geography
+- politicians
+- westward expansion
 ---
 
-
 By the time Thomas Jefferson became the third President of the United States in 1801, interest in exploring the West had begun to shape U.S. policy. This chronological narrative traces Jefferson's life, participation in politics, and accumulation of scientific geographical knowledge from 1735 to 1804. There are four main sections: "The Jeffersons and Their Frontier Virginia Neighborhood," "From Colony to Commonwealth," "Science and Statecraft at Home and Abroad," and "Public Servant to the Early Republic."
+
 This narrative is accompanied by an archive of 169 letters, statues, books, treaties, maps, and journals providing primary source insight into Jefferson's thoughts about the West and the Lewis and Clark expedition in particular. Three interactive maps from the 1700s, overlaid with historical data about cities, private dwellings, natural features, courthouses, and waterways, provide important insight into the geographic and social environment at the time.

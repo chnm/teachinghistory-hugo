@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21239
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### NC.1. Course / Competency Goal: Neighborhoods and Communities Around the World

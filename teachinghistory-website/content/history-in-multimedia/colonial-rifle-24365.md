@@ -9,7 +9,13 @@ duration: 00:16:54
 website_url: http://www.kshs.org/p/cool-things-colonial-rifle/15366
 date_published: '2010-05-05T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
 ---
 
 From the Kansas State Historical Society website:
+
 "Gun collectors covet this rare and beautiful 18th century Pennsylvania-made rifle. How did it end up in Kansas? We'd like to know the answer to that question, too!"

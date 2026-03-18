@@ -17,8 +17,9 @@ summary: Bookmark, store, and share online resources.
 splash_image: /files/livebinderssplash.jpg
 image: /files/LiveBinders1_0.png
 author_image: /files/author_image/author_wiebe_0_3.jpeg
+tags:
+- collecting
+- research
 ---
-
-
 
 LiveBinders is a free online bookmarking site that provides a unique method of storing and sharing online resources.

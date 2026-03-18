@@ -12,8 +12,27 @@ keywords: Founding Fathers, American Revolution, Founding Fathers, politicians, 
 website_url: http://teachingamericanhistory.org/institutes/2004/founding_readings.html
 date_published: '2004-06-21T00:00:00'
 series_name: The American Revolution and the Founding of a New Nation
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Education
+- Ideas & Ideologies
+- International Relations
+- Literature
+- Military History
+- Politics
+tags:
+- American Revolution
+- Declaration of Independence
+- Founding Fathers
+- Revolutionary War
+- politicians
+- war
+- wars
 ---
 
 Professor Christopher Flannery examines the prominence of the Declaration of Independence in U.S. history and present life, the context in which it was written, and the intentions of its drafters. He includes readings from historical documents.
+
 For the lecture, follow the link below and scroll down to the first seminar under Monday, June 21.
+
 Older versions of this lecture can be found, from most recent to oldest, [here](http://www.teachingamericanhistory.org/audio/ram/03-06-23_Founding_session1.ram), [here](http://www.teachingamericanhistory.org/audio/ram/02-06-23_founding_session2.ram), and [here.](http://teachingamericanhistory.org/audio/ram/02-04-13_flannery_session1.ram)

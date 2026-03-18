@@ -12,10 +12,11 @@ summary: Teaching historical thinking is challenging in a survey class where stu
 splash_image: /files/splash-rb-uncovering.jpg
 image: /files/uncoverage.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- historical thinking
 ---
-
 
 * If you teach a survey class, it's time to take a step back. Don’t worry about what you need to "cover." Instead, think about what you want to teach.
 * Consider which overarching history lessons students need to know. Ask your students questions like "What is the story of American history?" and "How and why have freedoms expanded (or contracted) over time?"

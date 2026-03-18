@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 12258
 website_url: http://www.cloverdalehistory.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Western States
+tags:
+- California
 ---
 
 The Cloverdale Historical Society is dedicated to preserving the historical heritage of Cloverdale, CA, and the surrounding area. The society is headquartered in the Gould-Shaw House, which also serves as a historic house museum and houses the society's historic archives.
+
 The society offers exhibits and guided tours of the Gould-Shaw House, as well as research resources and special events. The website offers visitor information, a history of the Gould-Shaw House, a history of Cloverdale, and a calendar of events.

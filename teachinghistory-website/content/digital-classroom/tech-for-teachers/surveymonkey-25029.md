@@ -13,10 +13,18 @@ summary: Digitize class surveys and poll student knowledge with this tool.
 splash_image: /files/surveymonkeysplash.jpg
 image: /files/logo_survey_monkey.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Collaboration
+- Survey Graphic
+- collecting
+- curriculum development
+- data
+- management
+- surveys
+- visualization
 ---
-
 
 SurveyMonkey is an online survey builder. Its ability to analyze data through various graphs is a useful way to engage students in how historians construct questions and use data to inform historical thinking.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21102
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### KY.PS. Category: Program of Studies 2006

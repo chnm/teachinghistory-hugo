@@ -11,6 +11,28 @@ keywords: artists, photos, photographs, photography, landscapes, archaeology, ph
 website_url: http://dev.forum-network.org/lecture/looking-mr-gilbert-african-american-photographer
 date_published: '2005-03-30T00:00:00'
 series_name: African American Culture
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Art
+- Business
+- Consumer Culture
+- Environment
+- Ethnicity
+- Media
+- Science & Tech.
+tags:
+- Boston
+- archaeology
+- artists
+- landscapes
+- photographers
+- photographs
+- photography
+- photos
 ---
 
 Author John Hanson Mitchell outlines his discovery of 2,000 antique glass plate negatives by a previously unknown 19th-century African-American landscape photographer, Robert Alexander Gilbert. Mitchell presents slides of Gilbert's work, and discusses what is known of Gilbert's life.

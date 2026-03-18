@@ -10,6 +10,16 @@ keywords: primary sources, documents, genealogy
 website_url: http://www.pbs.org/opb/historydetectives/video/1484945142/
 date_published: '2008-12-17T00:00:00'
 series_name: 'History Detectives: Video Library'
+time_periods:
+- All
+- General
+topics:
+- Literature
+- Media
+tags:
+- documents
+- genealogy
+- primary sources
 ---
 
 Tukufu Zuberi of PBS's *History Detectives* gives tips on how to follow a trail of primary documents to uncover reliable historical information.

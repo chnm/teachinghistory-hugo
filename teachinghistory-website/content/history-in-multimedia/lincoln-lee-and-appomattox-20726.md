@@ -12,6 +12,31 @@ keywords: politicians, presidents, Civil War, generals, North, South, Confederat
 website_url: http://www.fordstheatre.org/home/education/multimedia-lesson-plans/lincoln-lee-and-appomattox
 date_published: '2009-01-27T00:00:00'
 series_name: 'Ford''s Theatre: Multimedia Lesson Plans'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Ideas & Ideologies
+- Military History
+- Politics
+- Southern States
+tags:
+- Appomattox
+- Civil War
+- Confederacy
+- Confederates
+- North
+- South
+- assassination
+- assassinations
+- generals
+- guerrilla warfare
+- politicians
+- presidents
+- richmond
+- surrender
+- surrenders
+- war
+- wars
 ---
 
 Jay Winik, author of the Lincoln biography *April 1865: The Month That Saved America*, looks at how Abraham Lincoln and Robert E. Lee handled Lee's surrender at Appomattox; and considers the possible consequences if the surrender had not gone through or had proceeded poorly.

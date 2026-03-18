@@ -11,6 +11,29 @@ keywords: slaves, race, racism, race relations, Antebellum, reformers, protest, 
 website_url: http://www.teachingamericanhistory.us/audio/popup_henkinsummer.html
 date_published: '2003-06-19T00:00:00'
 series_name: Presentations by Historians
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Radicalism
+- Reform
+- Slavery
+tags:
+- Antebellum
+- abolition
+- abolitionism
+- abolitionists
+- activism
+- activists
+- protest
+- protesters
+- protests
+- race
+- race relations
+- racism
+- reformers
+- slaves
 ---
 
 Professor David Henkin explores Antebellum views on slavery, both in opposition to it and in favor of it. He also examines modern perceptions of slavery in history.

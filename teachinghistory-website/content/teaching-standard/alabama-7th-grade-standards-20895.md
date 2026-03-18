@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20895
 grade_levels:
-  - middle
+- middle
 ---
 
 ## AL.7 Standard: Geography
@@ -24,7 +24,9 @@ In this one-semester geography course, students increase their knowledge about t
   - ##### Grade Level Example:
 
     type—reference, thematic, planimetric, topographic, globes and map projections, aerial photographs, satellite images
+
     direction—lines of latitude and longitude, cardinal and intermediate directions
+
     distance—fractional, graphic, and verbal scales+ Identifying geospatial technologies to acquire, process, and report information from a spatial perspective
   - ##### Grade Level Example:
 
@@ -46,6 +48,7 @@ In this one-semester geography course, students increase their knowledge about t
   - ##### Grade Level Example:
 
     physical features—landforms, climates, water bodies, resources
+
     human features—language, religion, culture, economy, government+ Interpreting processes and reasons for regional change, including land use, urban growth, population, natural disasters, and trade
   + Analyzing interactions among regions to show transnational relationships, including the flow of commodities and Internet connectivity
   - ##### Grade Level Example:
@@ -70,15 +73,18 @@ In this one-semester geography course, students increase their knowledge about t
   - ##### Grade Level Example:
 
     processes—plate tectonics, glaciers, ocean and atmospheric circulation, El Niño long-range
+
     effects—erosion on agriculture, typhoons on coastal ecosystems+ Describing characteristics and physical processes that influence the spatial distribution of ecosystems and biomes on Earth’s surface
   + Comparing how ecosystems vary from place to place and over time
   - ##### Grade Level Example:
 
     place to place—difference in soil, climate, and topography
+
     over time—alteration or destruction of natural habitats due to effects of floods and forest fires, reduction of species diversity due to loss of natural habitats, reduction of wetlands due to replacement by farms, reduction of forest and farmland due to replacement by housing developments, reduction of previously cleared land due to reforestation efforts+ Comparing geographic issues in different regions that result from human and natural processes
   - ##### Grade Level Example:
 
     human—increase or decrease in population, land-use change in tropical forests
+
     natural processes—hurricanes, tsunamis, tornadoes, floods
 
 ### 7.4
@@ -89,12 +95,14 @@ In this one-semester geography course, students increase their knowledge about t
   + ##### Grade Level Example:
 
     population structure—age and sex distribution using population pyramids
+
     special patterns—major population clusters* #### 7.4.2 Students will practice:
 
     * Predicting reasons and consequences of migration, including push and pull factors
     + ##### Grade Level Example:
 
       push factors —politics, war, famine
+
       pull factors—potential jobs, family
 
 ### 7.5
@@ -111,7 +119,9 @@ In this one-semester geography course, students increase their knowledge about t
   + ##### Grade Level Example:
 
     primary—forestry, agriculture, mining
+
     secondary—manufacturing furniture, grinding coffee beans, assembling automobiles
+
     tertiary—selling furniture, selling coffee latte, selling automobiles* #### 7.6.2 Students will practice:
 
     * Comparing one location over another for production of goods and services
@@ -130,6 +140,7 @@ In this one-semester geography course, students increase their knowledge about t
   + ##### Grade Level Example:
 
     types—linear, clustered, grid
+
     sizes—large urban, small urban, and rural areas* #### 7.7.2 Students will practice:
 
     + Explaining human activities that resulted in the development of settlements at particular locations due to trade, political importance, or natural resources
@@ -153,6 +164,7 @@ In this one-semester geography course, students increase their knowledge about t
     - ##### Grade Level Example:
 
       physical systems—rivers as boundaries between counties
+
       human systems—streets as boundaries between local government units+ Identifying effects of cooperation among countries in controlling territories
     - ##### Grade Level Example:
 
@@ -169,6 +181,7 @@ In this one-semester geography course, students increase their knowledge about t
   + ##### Grade Level Example:
 
     within places—construction of dams and downstream water availability for human consumption, agriculture, and aquatic ecosystems
+
     between places—urban heat islands and global climate change, desertification and land degradation, pollution and ozone depletion
 
 ### 7.10
@@ -205,6 +218,7 @@ In this one-semester geography course, students increase their knowledge about t
   + ##### Grade Level Example:
 
     physical features—fall line, Cumberland Gap, Westward Expansion in the United States, weather conditions at Valley Forge and the outcome of the American Revolution, role of ocean currents and winds during exploration by Christopher Columbus
+
     environmental issues—boundary disputes, ownership of ocean resources, revitalization of downtown areas
 
 ## AL.7 Standard: Civics
@@ -276,6 +290,7 @@ Seventh grade students should be able to assume more responsibilities in their f
   - ##### Grade Level Example:
 
     increase in oil prices resulting from supply and demand+ Analyzing agriculture, tourism, and urban growth in
+
     Alabama for their impact on economic development
 
 ### 7.8
@@ -302,6 +317,7 @@ Seventh grade students should be able to assume more responsibilities in their f
   + ##### Grade Level Example:
 
     individual—respect for rights of others, self- discipline, negotiation, compromise, fiscal responsibility
+
     civic—respect for law, patriotism, participation in political process, fiscal responsibility* #### 7.10.2 Students will practice:
 
     + Differentiating rights, privileges, duties, and responsibilities between citizens and noncitizens
@@ -319,6 +335,7 @@ Seventh grade students should be able to assume more responsibilities in their f
   + ##### Grade Level Example:
 
     social—family values, peer pressure, education opportunities, women in the workplace
+
     economic—career opportunities, disposable income, change in consumption of goods and services* #### 7.11.2 Students will practice:
 
     + Determining benefits of Alabama’s role in world trade

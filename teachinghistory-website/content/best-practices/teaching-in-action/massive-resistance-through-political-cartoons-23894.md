@@ -21,10 +21,20 @@ splash_image: /files/splash-segregration.jpg
 image: /files/desegregation-image.jpg
 author_image: /files/author_image/author_hoeflich.jpg
 grade_levels:
-  - elementary
+- elementary
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Legal History
+- Reform
+tags:
+- Brown v. Board of Education
+- Virginia
+- desegregation
+- schools
+- segregation
 ---
-
-
 
 /files/media/video/TIA\_Stacy1.mp4
 

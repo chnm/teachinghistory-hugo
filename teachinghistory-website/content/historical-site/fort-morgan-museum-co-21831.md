@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 21831
 website_url: http://ftmorganmus.org/
+time_periods:
+- General
+topics:
+- Western States
+tags:
+- Colorado
+- museums
 ---
 
 The Museum tells the story of Fort Morgan and Morgan County through permanent and temporary exhibits. It also takes advantage of traveling exhibits from other institutions throughout the United States.
+
 The museum offers exhibits, reference library access, educational programs, and occasional recreational and educational events.

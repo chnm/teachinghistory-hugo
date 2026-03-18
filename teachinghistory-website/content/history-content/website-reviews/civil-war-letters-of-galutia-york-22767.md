@@ -14,8 +14,20 @@ summary: Read about the Civil War from private Galutia York's perspective.
 thumbnail: /files/PeopleasPrimary432x240.jpg
 splash_image: /files/CivilWarLetters432x240.jpg
 image: /files/website_image/GalutiaYorkimage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Daily Life
+- Family Life
+- Military History
+- Slavery
+evidence_types:
+- Personal Accounts
+resource_types:
+- Images
+- Text
 ---
 
-
 Features 48 letters from Galutia York, a 19-year-old Union soldier from an upstate New York farm family. The letters are directed to family members, and cover the period from August 1862 to May 1863, when York died from disease. The site also includes a letter from a private in York's company and one from his captain, both to York's family expressing their condolences.
+
 Arranged chronologically, the transcriptions, formatted like the actual letters, provide brief summaries and supplementary materials on persons and places mentioned in the letters, including three photographs, a map, and two other images. The site also gives facsimile reproductions of a partial letter and an envelope, and links to a site for the 114th New York State Volunteer Infantry Archives. Valuable for those interested in the experiences of ordinary soldiers during wartime.

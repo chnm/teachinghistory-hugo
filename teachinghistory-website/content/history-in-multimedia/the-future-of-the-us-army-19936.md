@@ -11,7 +11,24 @@ keywords: soldiers, U.S. Army, military, militaries, citizenship, foreign policy
 website_url: http://www.fpri.org/multimedia/20051111.goldberg.futureusarmy.html
 date_published: '2005-11-11T00:00:00'
 series_name: W. W. Keen Butcher Lecture Series on Military Affairs
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+tags:
+- U.S. Army
+- citizenship
+- foreign affairs
+- foreign policy
+- foreign relations
+- militaries
+- military
+- soldiers
 ---
 
 Sherwood Goldberg, Civilian Aide to the Secretary of the Army for D.C., considers the identity and duties of the modern-day U.S. soldier, considering possible changes and incentives that can allow the Army to attract and maintain soldiers today.
+
 Audio and video options are available.

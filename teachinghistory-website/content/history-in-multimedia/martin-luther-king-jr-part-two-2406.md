@@ -12,8 +12,36 @@ keywords: race, racism, race relations, oratory, orators, speeches, speechmaking
 website_url: http://teachingamericanhistory.org/audio/ram/04-08-04_race_session11.ram
 date_published: '2004-08-04T00:00:00'
 series_name: Race and Rights in American History
+time_periods:
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Cities & Suburbs
+- Ethnicity
+- Ideas & Ideologies
+- Literature
+- Media
+- Politics
+- Reform
+tags:
+- Civil Rights Movement
+- I Have a Dream
+- March on Washington
+- civil disobedience
+- civil rights
+- orators
+- oratory
+- presidents
+- race
+- race relations
+- racism
+- speeches
+- speechmaking
 ---
 
 Professor Lucas E. Morel reviews the life and views of Martin Luther King, Jr., focusing on the March on Washington and King's "I Have a Dream" speech. This lecture continues from the lecture [Martin Luther King, Jr., Part One](/history-content/history-in-multimedia/2405).
+
 For the lecture, scroll down to the third seminar of Wednesday, August 4. Readings, available for download, accompany the lecture.
+
 An older version of this lecture can be found [here.](http://teachingamericanhistory.org/audio/ram/03-08-07_race_session12.ram)

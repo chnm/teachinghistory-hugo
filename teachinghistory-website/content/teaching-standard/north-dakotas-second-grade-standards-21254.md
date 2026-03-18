@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21254
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### ND.1. Content Standard: Skills and Resources

@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 22092
 website_url: http://www.thephil.org/museum/museum.html
+time_periods:
+- General
+topics:
+- Art
+- Southern States
+tags:
+- Florida
 ---
 
 The Naples Museum of Art features 15 galleries of artwork, focusing on modern and contemporary art.
+
 The museums offers exhibits, lectures, research library access, and programs and guided tours for school groups.

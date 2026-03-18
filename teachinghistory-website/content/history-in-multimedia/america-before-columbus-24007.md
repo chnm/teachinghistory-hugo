@@ -14,9 +14,17 @@ summary: Charles Mann argues that the Americas had actually been heavily populat
   and developed before the arrival of Columbus.
 splash_image: /files/splash-him-precolum.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Global Contact
+- Health & Medicine
+tags:
+- diseases
 ---
 
-
 From the Gilder Lehrman Institute:
+
 Charles Mann's most recent book, *1491*, won the U.S. National Academy of Sciences' Keck Award for the best book of the year. In this lecture he looks at new research on pre-Columbian America. He concludes that the Americas had actually been heavily populated and developed before the arrival of Columbus but then were rapidly depopulated by the introduction of numerous European and African diseases, giving Europeans the mistaken idea that their new land was a vast, empty wilderness.

@@ -17,8 +17,34 @@ summary: Explore the cultural, intellectual, and political trends of the 1950s i
 splash_image: /files/Literature_and_Culture_of_the_American_1950s_432x240.jpg
 thumbnail: /files/author_image/EleanorGreene_0.jpg
 image: /files/website_image/14841.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Literature
+- Media
+- Politics
+- Radicalism
+- Reform
+evidence_types:
+- Literary Sources
+- Political Documents
+resource_types:
+- Text
+tags:
+- Daniel; Whyte
+- McCarthyism; Anticommunism; Bell
+- Philip; Packard
+- Vance; feminism
+- William H.; Feminism; Rieff
+- colleges
+- feminists
+- universities
 ---
 
-
 This collection of more than 100 primary texts, essays, biographical sketches, obituaries, book reviews, and partially annotated links explores the cultural, intellectual, and political trends of the 1950s. Organized alphabetically and according to lesson plans, this eclectic collection of readings is structured around a few landmark texts and topics, including McCarthyism and anticommunism, Daniel Bell's *The End of Ideology* (1960), William H. Whyte's *The Organization Man* (1956), feminism, Philip Rieff's *The Triumph of the Therapeutic* (1966), and conformity in universities.
+
 Materials include substantial excerpts from Vance Packard's *The Status Seekers* (1959) and the *Encyclopedia of the American Left*, in addition to retrospective analyses of the postwar period.

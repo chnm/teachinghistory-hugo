@@ -19,10 +19,15 @@ splash_image: /files/splash-my-lai.jpg
 image: /files/image-my-lai.jpg
 author_image: /files/author_image/author-jeplen.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Military History
+tags:
+- My Lai
+- Vietnam
 ---
-
-
 
 /files/media/video/TIA\_MyLai1.mp4
 

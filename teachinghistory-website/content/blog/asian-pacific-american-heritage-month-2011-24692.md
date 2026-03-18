@@ -19,11 +19,25 @@ summary: Scratch the surface of Asian Pacific American history this May, and kee
   digging.
 splash_image: /files/splash-blog-apa2011.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- General
+topics:
+- Asian Americans
+- International Relations
+- Military History
+tags:
+- Asian Pacific American Heritage Month
+- Chinese Americans
+- Filipino Americans
+- Hawaii
+- Japanese American internment
+- Japanese Americans
+- Korean Americans
+- World War II
 ---
-
 
 In 1992, Congress passed [Public Law 102.42](http://www.loc.gov/law/help/commemorative-observations/pdf/106%20stat%202251.pdf), permanently designating May as Asian Pacific American Month. Just as with other heritage months, May is barely enough time to scratch the surface of the many strands of history the month memorializes. In May 2009, Teachinghistory.org suggested some places to [start digging](http://teachinghistory.org/nhec-blog/22027). Continue to dig this year, with more suggestions.
 

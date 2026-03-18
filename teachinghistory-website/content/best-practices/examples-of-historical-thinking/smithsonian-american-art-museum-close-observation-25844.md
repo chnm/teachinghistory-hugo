@@ -10,8 +10,21 @@ splash_image_fid: '10189'
 summary: Close observation and an inquisitive mind are all the tools you need to start
   analyzing primary sources! Teachers model analyzing works of art.
 splash_image: /files/amartsplash_0.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Great Depression & WWII, 1929-1945
+topics:
+- African Americans
+- Art
+tags:
+- Smithsonian American Art Museum
+- art
+- artists
+- paintings
+- primary sources
+- smithsonian
 ---
-
 
 /files/media/video/americanart1.mp4
 

@@ -6,7 +6,21 @@ content_type: historical_site
 draft: false
 drupal_nid: 7824
 website_url: http://www.locustgrove.org/
+topics:
+- Art
+- Cities & Suburbs
+- Daily Life
+- Family Life
+- Southern States
+tags:
+- Kentucky
+- Locust Grove
+- Louisville
+- architecture
+- homes
+- houses
 ---
 
 The Locust Grove Historic Home was first built in 1790, and is one of the first structures built in Kentucky. Today, the site serves as a historic house museum, and consists of the original house, the smoke house, and eight other stone and log supporting structures. Visitors to the site can view a collection of Kentucky-crafted furniture, time period artworks, and historic artifacts belonging to the home's tenants.
+
 The house offers a collection of historic artifacts and antique furniture and daily tours, as well as a variety of special events, including children's events and an afternoon lecture series. The website offers a history of the home, an events calendar, visitor information, educational information including field trip information and worksheets for students, and information regarding upcoming events.

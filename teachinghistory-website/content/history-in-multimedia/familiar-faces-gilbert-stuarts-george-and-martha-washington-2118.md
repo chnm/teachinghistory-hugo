@@ -13,8 +13,24 @@ date_published: '2006-03-21T00:00:00'
 splash_image_fid: '1209'
 summary: How can a depiction of a person change the way he or she is remembered?
 splash_image: /files/Washingtons.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Art
+- Environment
+- Media
+- Politics
+tags:
+- Boston
+- Boston Athenaeum
+- First Ladies
+- artists
+- painters
+- painting
+- portraits
+- presidents
 ---
 
-
 National Portrait Gallery curator Ellen Miles looks at painter Gilbert Stuart's 1796 portraits of George and Martha Washington, covering their creation by Stuart, Stuart's relationship with the presidential couple, and the impact and reception of the portraits since their creation. The presentation includes slides.
+
 Audio and video options are available.

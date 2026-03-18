@@ -20,11 +20,13 @@ summary: NHD is a great way to get students to interact with history. KY teacher
 splash_image: /files/ktsplash.jpg
 image: /files/ktimage.jpg
 author_image: /files/author_image/jacks_photo2_0_0_0.jpg
+tags:
+- history content
+- resources
 ---
 
-
-
 The theme for National History Day this year is “Revolution, Reaction, Reform in History.” The NHD guidelines ask students to consider the following questions: “What factors contributed to a revolution? Why was there a need to reform at the particular time? Why did this event cause a reaction?”
+
 There’s plenty of revolution, reaction, and reform in American history (defining those terms with students may actually be a good place to start any unit that you design). So what kinds of things might you do that are covered in your state’s standards?
 
 ## Elementary School
@@ -51,12 +53,15 @@ As with other examples, the Progressive movement was full of revolution, reactio
 ## Other Tips
 
 And, remember that in meeting the requirements for National History Day projects, you will also be meeting state standards for historical thinking. Kentucky’s standard 5.1.1 for 8th grade, for instance, asks students to use “a variety of tools (e.g., primary and secondary sources) to
+
 describe and explain historical events and conditions and to analyze the perspectives of different individuals and groups.” Those are exactly the sorts of tools that National History Day organizers are looking to see.
+
 You will likely need to craft your own unit, but a powerful lesson plan or two can go a long way in helping you do so. Resources like EDSITEment have content-rich plans on a number of relevant topics, including good ones on [Reconstruction](http://edsitement.neh.gov/lesson-plan/battle-over-reconstruction-politics-reconstruction) and the [American Revolution](http://edsitement.neh.gov/edsitements-4th-july-lessons-protest-revolution-and-independence#node-21677). You can also search our website for lessons on a wide range of topics, including the [Progressive Era](http://edsitement.neh.gov/edsitements-4th-july-lessons-protest-revolution-and-independence#node-21677). We also have some resources for integrating standards into your lesson plans, like [this response](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/24302) to an earlier question.
 
 ---
 
 The theme for National History Day this year is “Revolution, Reaction, Reform in History.” The NHD guidelines ask students to consider the following questions: “What factors contributed to a revolution? Why was there a need to reform at the particular time? Why did this event cause a reaction?”
+
 There’s plenty of revolution, reaction, and reform in American history (defining those terms with students may actually be a good place to start any unit that you design). So what kinds of things might you do that are covered in your state’s standards?
 
 ## Elementary School
@@ -83,5 +88,7 @@ As with other examples, the Progressive movement was full of revolution, reactio
 ## Other Tips
 
 And, remember that in meeting the requirements for National History Day projects, you will also be meeting state standards for historical thinking. Kentucky’s standard 5.1.1 for 8th grade, for instance, asks students to use “a variety of tools (e.g., primary and secondary sources) to
+
 describe and explain historical events and conditions and to analyze the perspectives of different individuals and groups.” Those are exactly the sorts of tools that National History Day organizers are looking to see.
+
 You will likely need to craft your own unit, but a powerful lesson plan or two can go a long way in helping you do so. Resources like EDSITEment have content-rich plans on a number of relevant topics, including good ones on [Reconstruction](http://edsitement.neh.gov/lesson-plan/battle-over-reconstruction-politics-reconstruction) and the [American Revolution](http://edsitement.neh.gov/edsitements-4th-july-lessons-protest-revolution-and-independence#node-21677). You can also search our website for lessons on a wide range of topics, including the [Progressive Era](http://edsitement.neh.gov/edsitements-4th-july-lessons-protest-revolution-and-independence#node-21677). We also have some resources for integrating standards into your lesson plans, like [this response](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/24302) to an earlier question.

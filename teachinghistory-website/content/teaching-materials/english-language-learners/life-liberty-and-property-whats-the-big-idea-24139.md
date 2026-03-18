@@ -137,11 +137,9 @@ splash_image: /files/long_image2.jpg
 image: /files/long_image1.jpg
 author_image: /files/author_image/Long.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
 ---
-
-
 
 Ideas for this lesson were inspired by:
 

@@ -11,9 +11,21 @@ website_url: http://memory.loc.gov/ammem/pihtml/pivid06.html
 date_published: '2008-05-29T00:00:00'
 series_name: 'Presidential Inaugurations: Historical Insights'
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Education
+- Literature
+- Military History
+- Politics
+- Religion
+tags:
+- Civil War
+- presidents
+- speeches
 ---
 
 Library of Congress historian Marvin Kranz discusses Abraham Lincoln's first inaugural address, pointing out that research has revealed that some of the phrases in the speech were suggested to Lincoln by others, while at the same time praising Lincoln's self-taught prose writing style.

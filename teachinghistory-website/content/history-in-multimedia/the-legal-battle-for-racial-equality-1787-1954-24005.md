@@ -10,8 +10,19 @@ website_url: http://www.gilderlehrman.org/multimedia#3481
 date_published: '2009-07-23T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
 grade_levels:
-  - high
+- high
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- African Americans
+- Reform
+tags:
+- civil rights
+- constitution
 ---
 
 From the Gilder Lehrman Institute:
+
 What does the Constitution say about racial equality? Larry Kramer, Dean at Stanford Law School, explains the role of the Reconstruction amendments and the challenges faced by the Supreme Court in shaping civil rights legislation in the years before *Brown v. Board of Education*.

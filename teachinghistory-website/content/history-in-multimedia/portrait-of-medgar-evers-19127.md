@@ -16,7 +16,38 @@ splash_image_fid: '8714'
 summary: Smithsonian curators examine a photograph of civil rights activist Medgar
   Evers (1925-1963).
 splash_image: /files/splash-him-mlk10.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Education
+- Ethnicity
+- Ideas & Ideologies
+- Media
+- Politics
+- Radicalism
+- Reform
+tags:
+- Civil Rights Movement
+- activism
+- activists
+- assassinations
+- civil rights
+- mass media
+- media coverage
+- photographs
+- photography
+- photos
+- presidents
+- primary sources
+- protest
+- protesters
+- protests
+- race
+- race relations
+- racism
+- research
+- scholarship
 ---
-
 
 Smithsonian curators examine a photograph of civil rights activist Medgar Evers (1925-1963), looking at what it says about the tension between racial groups at the time and the call for social change an accumulation of such media objects can communicate.

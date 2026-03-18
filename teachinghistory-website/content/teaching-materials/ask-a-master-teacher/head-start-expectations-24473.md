@@ -19,12 +19,14 @@ splash_image: /files/headstartsplash.jpg
 image: /files/headstartimage.jpg
 author_image: /files/author_image/Viet_Photo.jpg
 grade_levels:
-  - elementary
+- elementary
+tags:
+- head start
+- kindergarden
 ---
 
-
-
 For a child in preschool, their classroom surroundings encompass the meaning of Social Studies. When a preschooler enters the classroom they will be required to share, communicate, take turns, and identify their role as a member of a community. Essentially, the outcomes for a preschool student are to learn how people relate to one another, their environment and to the world they live in.
+
 In addition, preschool Social Studies outcomes include (but are not limited to):
 > * learning how to form friendships and trusting relationships with their peers and teachers
 > * learning how to make decisions independently, solve problems, and take turns
@@ -38,6 +40,7 @@ Additionally, if we acknowledge literacy as central to the K-12 history/Social S
 ---
 
 For a child in preschool, their classroom surroundings encompass the meaning of Social Studies. When a preschooler enters the classroom they will be required to share, communicate, take turns, and identify their role as a member of a community. Essentially, the outcomes for a preschool student are to learn how people relate to one another, their environment and to the world they live in.
+
 In addition, preschool Social Studies outcomes include (but are not limited to):
 > * learning how to form friendships and trusting relationships with their peers and teachers
 > * learning how to make decisions independently, solve problems, and take turns

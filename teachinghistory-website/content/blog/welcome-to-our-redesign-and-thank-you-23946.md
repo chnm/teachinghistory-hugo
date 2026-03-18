@@ -11,10 +11,15 @@ image_fid: '4520'
 summary: New content, new graphic interface, and streamlined search and save tools
   get you where you need to go.
 image: /files/newdesign_0.jpg
+tags:
+- historical thinking
+- publications
+- teaching materials
+- websites
 ---
 
-
 The National History Education Clearinghouse, teachinghistory.org, is now about two years old. Our shakedown phase is over, and we have been listening to you when you tell us what works, what doesn't, and what we can do to help you teach American history to your K-12 students. Thank you for your feedback.
+
 We've launched this redesign to reflect what educators have told us. You'll find new and improved content types, a new graphic interface, video overviews of historical thinking, suggestions for using teachinghistory.org by grade level, more comprehensive searching mechanisms and a backpack tool that helps you build and save content you need.
 
 ## Don't miss these highlights!
@@ -23,12 +28,15 @@ Read conversations on topical issues in history education through [Roundtables](
 > Teachinghistory.org integrates content, methdology, and educational context.
 
 Do standard textbook narratives tell educators all they need to know to teach? Visit [Beyond the Textbook](http://teachinghistory.org/history-content/beyond-the-textbook) for supplementary materials by expert historians on major topics in American history including essays, critical questions, and key primary sources exploring questions such as [Was economic difference—manufacturing in the North and slave-driven agriculture in the South—http://teachinghistory.org/professional-development/ask-a-digital-historianthe primary cause of the Civil War?](http://teachinghistory.org/history-content/beyond-the-textbook/23911).
+
 Teaching with technology can mean anything from using the internet for research to building projects and constructing narratives combining a variety of media, digital resources, and tools. But how to usefully, appropriately, and incrementally integrate technology into the history curriculum sometimes raises more issues than solutions. Visit [Ask-a-digital historian](/digital-classroom/ask-a-digital-historian) to pose questions and find answers. ([Tech for Teachers](/digital-classroom/tech-for-teachers) is also a growing content area of *how-to* and examples.)
 
 ## Useful tools
 
 Notice the Bookmark Backpack throughout the site. As the [Directions](/favorites) explain, bookmarking articles enables you to save and annotate articles, then email selections you assembled during your visit.
+
 Check Quick Links especially for [elementary](http://teachinghistory.org/quick-links-elementary), [middle](http://teachinghistory.org/quick-links-middle), and [high school](http://teachinghistory.org/quick-links-high) consistently linked at the bottom of each page as well as on specialized pages. These selections highlighting content and methodology for each level will rotate periodically to help you find grade-appropriate materials more quickly.
+
 We hope you'll join a dialogue about teaching American history and comment share your experience and perspectives *via* the comment boxes. You are welcome to post anonymously or to add your name. Your point of view is welcomed.
 
 ## And there's more

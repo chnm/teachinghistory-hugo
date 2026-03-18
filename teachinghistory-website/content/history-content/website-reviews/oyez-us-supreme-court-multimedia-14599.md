@@ -16,8 +16,33 @@ summary: Showcases primary sources from more than 3,300 Supreme Court cases sinc
   1955.
 splash_image: /files/Oyez-_U.S._Supreme_Court_Multimedia_432x240.jpg
 image: /files/website_image/oyez.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- General
+- Postwar US, 1945-Early 1970s
+topics:
+- Legal History
+evidence_types:
+- Official Documents
+resource_types:
+- Audio
+- Text
+tags:
+- First Amendment
+- U.S. Supreme Court
+- abortion
+- civil rights
+- court cases
+- desegregation
+- due process
+- judicial power
+- law
+- laws
+- privacy
+- segregation
+- unions
 ---
 
-
 These audio files, abstracts, transcriptions of oral arguments, and written opinions cover more than 3,300 Supreme Court cases. Materials include 3,000 hours of audio arguments in selected cases since 1955 and all cases since 1995. Users can access cases through keyword searches or a list of thirteen broad categories, such as civil rights, due process, first amendment, judicial power, privacy, and unions.
+
 Cases include *Roe v. Wade* (abortion), *Gideon v. Wainwright* (right to counsel), *Plessy v. Ferguson* (segregation), *Grutter v. Bollinger* (affirmative action), and *Bush v. Gore* (election results). Biographies are provided for all Supreme Court justices and "The Pending Docket" provides briefs and additional materials on upcoming cases. The website also includes links to written opinions since 1893 and podcasts featuring discussions of cases starting in 1793.

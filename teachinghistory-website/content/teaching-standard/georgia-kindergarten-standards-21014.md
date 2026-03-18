@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21014
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### GA.SSKH. Strand/topic: Symbols of America

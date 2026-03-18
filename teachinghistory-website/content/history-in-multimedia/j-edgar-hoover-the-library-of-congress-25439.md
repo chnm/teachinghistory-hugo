@@ -9,6 +9,11 @@ duration: 01:07:36
 website_url: http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=5385
 date_published: '2012-01-18T00:00:00'
 series_name: The Library of Congress Webcasts
+time_periods:
+- Emergence of Modern US, 1890-1930
+tags:
+- J. Edgar Hoover
+- Red Scare
 ---
 
 In this video from The Library of Congress Webcasts series, author Kenneth Ackerman describes his new book *Young J. Edgar: Hoover, the Red Scare and the Assault on Civil Liberties*. The book itself "brings to life the nationwide Palmer raids of 1919-20 and the coming of age of the seminal FBI director, including his four-year career (1913-17) at the Library of Congress."

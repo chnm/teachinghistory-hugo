@@ -11,6 +11,31 @@ keywords: Boston, American Revolution, Boston Massacre, Revolutionary War, crime
 website_url: http://dev.forum-network.org/lecture/prelude-boston-massacre
 date_published: '2005-04-06T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Children
+- Cities & Suburbs
+- Ideas & Ideologies
+- Legal History
+- Media
+- Military History
+- New England
+- Politics
+- Popular Culture, Leisure
+- Radicalism
+- Reform
+tags:
+- American Revolution
+- Boston
+- Boston Massacre
+- Revolutionary War
+- crime
+- crimes
+- criminals
+- murder
+- murders
+- trials
 ---
 
 Author Hiller Zobel explores the death of Christopher Seider, an 11-year-old shot and killed during a riot on Feb. 22, 1770, and the trial of Boston loyalist Ebenezer Richardson for his murder. Zobel casts this as an event leading up to the Boston Massacre.

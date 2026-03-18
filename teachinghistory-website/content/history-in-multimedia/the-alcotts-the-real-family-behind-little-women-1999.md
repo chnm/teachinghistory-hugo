@@ -11,7 +11,28 @@ keywords: novels, writers, writing, authors, homes, houses, buildings, architect
 website_url: http://dev.forum-network.org/lecture/alcotts-real-family-behind-little-women
 date_published: '2003-09-24T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Daily Life
+- Family Life
+- Literature
+- New England
+tags:
+- Little Women
+- architecture
+- authors
+- biographies
+- buildings
+- families
+- homes
+- houses
+- novelists
+- novels
+- writers
+- writing
 ---
 
 Jan Turnquist, executive director of Orchard House, looks at the history of the Orchard House, childhood home of novelist Louisa May Alcott and her family. Turnquist describes the lives of each family member in detail. The presentation includes slides.
+
 Audio and video options are available.

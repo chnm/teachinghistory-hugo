@@ -6,7 +6,12 @@ content_type: historical_site
 draft: false
 drupal_nid: 13473
 website_url: http://chelanmuseum.com/
+time_periods:
+- General
+topics:
+- Western States
 ---
 
 The Lake Chelan Historical Society operates the Chelan Museum, located within a 1902 bank building.
+
 The museum offers exhibits and research resources.

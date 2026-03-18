@@ -15,9 +15,19 @@ summary: What connections do documents related to the Jackie Robinson Testimonia
   Dinner in 1962 make between these two men?
 splash_image: /files/pellom_splash.jpg
 author_image: /files/author_image/author_mcdaniels.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Popular Culture, Leisure
+- Reform
+tags:
+- Jackie Robinson
+- athletes
+- baseball
+- martin luther king jr
+- sports
 ---
-
-
 
 /files/media/video/Pellom1.mp4
 

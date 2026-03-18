@@ -25,11 +25,16 @@ summary: History is often muddled by modern hindsight. Discover the true meaning
   the Battle of Gettysburg.
 splash_image: /files/gettysburgsplash.jpg
 author_image: /files/author_image/mail_1.jpeg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+tags:
+- Battle of Gettysburg
 ---
 
-
-
 It would have surprised the tens of thousands of men who found themselves casualties of fighting in 1864 to hear that the Civil War had essentially ended the year before. Indeed, some of the bloodiest fighting of the war (especially during the Overland Campaign in Spring 1864) occurred after July 1863. So the short answer to the first question is yes, we are guilty of looking backwards when we argue that Gettysburg was the decisive moment in the Civil War. Hindsight is a powerful tool and can create great gains for understanding, but it can also warp how we see the past and produce false insights. Viewed contemporaneously, the Civil War (as with most wars) had no single moment that participants could identify as the fulcrum point.
+
 But the war did have several crucial moments visible both at the time and later, that clearly channeled the conflict in different directions. A short list of these moments include Lee's repulse of McClellan's army on the peninsula below Richmond in Spring 1862, the Union victory at Antietam and Lincoln's subsequent issuance of the Emancipation Proclamation, the simultaneous Union successes of Gettysburg and Vicksburg in July 1863, the Union capture of Atlanta in Summer 1864, and Lincoln's reelection in November of that year. At all of these moments, events transformed the conflict in fundamental ways. Lincoln's decision to make emancipation a Northern war aim probably marks the single most important shift in the course of the war.
 > [Gettysburg] marked the fullest and, in some respects first, clear defeat of Lee's army by Union forces.
 
@@ -38,8 +43,13 @@ Therefore, neither side saw Confederate defeat at Gettysburg as the moment that 
 ---
 
 Gary W. Gallagher, "Lee's Army Has Not Lost Any of Its Prestige: The Impact of Gettysburg on
+
 the Army of Northern Virginia and the Confederate Home Front," in *The Third Day at Gettysburg and Beyond*. Chapel Hill: University of North Carolina Press, 1994, 1-30.
+
 A. Wilson Greene, "Meade's Pursuit of Lee: From Gettysburg to Falling Waters," in Gary W.
+
 Gallagher, ed. *The Third Day at Gettysburg and Beyond*. Chapel Hill: University of North Carolina Press, 1994, 161-201.
+
 Brian Holden Reid. *America's Civil War: The Operational Battlefield*, 1861-1863. Amherst, NY: Prometheus Books, 2008.
+
 Stephen W. Sears. *Gettysburg*. Boston: Houghton Mifflin, 2003.

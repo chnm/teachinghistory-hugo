@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 12922
 website_url: http://www.fryeburghistorical.org/
+time_periods:
+- General
+topics:
+- New England
+tags:
+- Maine
 ---
 
 The Fryeburg Historical Society Museum presents the history of Fryeburg, Maine. The museum is located within a 19th century Greek Revival structure.
+
 The museum offers exhibits.

@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 9874
 website_url: http://www.ocfm.us
+time_periods:
+- General
+topics:
+- Labor
+- Mid-Atlantic
+tags:
+- Fire Safety
+- Firefighter
+- Montgomery
+- New York
+- firefighting
 ---
 
 The Orange County Firefighters Museum chronicles the history of firefighting in Orange County, New York. The museum is home to an impressive collection of firefighting equipment and memorabilia.
+
 The museum offers tours, exhibits, a fire safety education center, and presentations. The website offers a history of the museum, visitor information, stories and memories from former Orange County firefighters, and a calendar of events.

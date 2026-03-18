@@ -10,8 +10,19 @@ splash_image_fid: '10208'
 summary: What was it like being a small farmer in the 1700s? Follow a tour group through
   Maryland's Piscataway Park.
 splash_image: /files/piscatawaysplash_0.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Consumer Culture
+- Daily Life
+- Mid-Atlantic
+- Rural Life
+- Slavery
+tags:
+- Maryland
+- historical architecture
 ---
-
 
 /files/media/video/Piscataway1.mp4
 

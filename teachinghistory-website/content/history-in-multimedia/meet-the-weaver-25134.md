@@ -12,5 +12,7 @@ series_name: 'Colonial Williamsburg: Past and Present Podcasts'
 ---
 
 From Colonial Williamsburg: Past and Present Podcasts
+
 "War makes the weaver busy. Cloth for everything from sails to bedsheets is created on his loom. Max Hamrick weaves the tale."
+
 The Colonial Williamsburg site also has an informative [essay](http://www.history.org/Almanack/life/trades/tradewea.cfm) that offers interested readers more information on the role of weavers in Colonial society.

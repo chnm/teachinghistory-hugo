@@ -20,13 +20,19 @@ summary: Help your students with special needs build historical understanding wi
   five tips from Mark Smith.
 splash_image: /files/non-vervalwilliamssplash.jpg
 author_image: /files/author_image/author_msmith_0.jpg
+tags:
+- Colonial Williamsburg
+- field trips
+- nonverbal
+- special needs
 ---
 
-
-
 Taking a special needs child outside the school is sometimes a difficult prospect. CBIs, or Community Based Initiatives, get children out of the classroom and into society. This lets them build their social skills and have experiences some might not otherwise get.
+
 Beyond CBIs, which many times are functional in nature (like trips to the store), taking these highly impacted kids on more scholastic-oriented field trips is valuable for them and their general education peers.
+
 I recently took a nonverbal autistic fourth grader to Williamsburg. By “nonverbal” I’m referring to a student with little or no receptive language, as well as little or no expressive language. It’s difficult to communicate the concepts of history to such a student. Background knowledge is limited to popular sources like Disney’s *Pocahontas* and experiences like visiting Williamsburg. Although I understand there are historical accuracy problems with popular sources (as many of the articles in Teachinghistory.org point out) and I agree with those assertions, with such a nonverbal student those popular sources can be used, in spite of flaws that make them harder to use in other ways or with other students.
+
 Here are a few tips that work with nonverbal students:
 
 1. **Videos for Prior Knowledge:** I used familiar videos prior to making the trip to provide background knowledge. We watched Disney's *Pocahontas* and *Ben and Me* and the BBC's version of Beatrix Potter's *Tailor of Gloucester*. Although my 4th-grade student had watched these movies many (hundreds) of times, we went through them and I pointed out the architecture, such as the houses used by the Powhatans, and tried to visually bring the elements out from the story that we might be seeing on the trip to Williamsburg/Jamestown and Yorktown.
@@ -36,4 +42,5 @@ Here are a few tips that work with nonverbal students:
 5. **Compare Videos with Pictures Taken Onsite:** I showed the videos I used for building prior knowledge, and compared them with the pictures taken while on the trip. This made the connections between the experience and prior learning.
 
 The obvious rules apply if you use these tips. Get them plenty of sleep. Take a backpack full of anything you might need. Structure as low a ratio of exceptional students per teacher/IA as possible.
+
 It's a great thing when it works well. And when it doesn't, it still is a great thing.

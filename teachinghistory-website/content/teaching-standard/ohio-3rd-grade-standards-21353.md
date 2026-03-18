@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21353
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## Theme: Communities—Past and Present, Near and Far

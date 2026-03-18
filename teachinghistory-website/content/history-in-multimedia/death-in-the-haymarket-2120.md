@@ -12,6 +12,42 @@ keywords: working class, class, labor movement, class conflict, class struggle, 
   anarchists
 website_url: http://dev.forum-network.org/lecture/death-haymarket
 date_published: '2006-03-30T00:00:00'
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- General
+topics:
+- Cities & Suburbs
+- Ideas & Ideologies
+- Labor
+- Legal History
+- Media
+- Midwestern States
+- Politics
+- Radicalism
+- Reform
+tags:
+- Chicago
+- Haymarket Riot
+- anarchists
+- anarchy
+- bombings
+- class
+- class conflict
+- class struggle
+- executions
+- labor movement
+- labor unions
+- mass media
+- media coverage
+- police
+- police officers
+- rallies
+- reportage
+- reporting
+- strikes
+- trials
+- unions
+- working c
 ---
 
 Author and professor Howard Zinn and professor James Green look at the Chicago Haymarket Riot of May 1886, in which a bomb killed several policeman at a Chicago labor rally, and the resulting trial and executions. They also discuss the history of the working class in the U.S. generally.

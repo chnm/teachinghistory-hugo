@@ -12,7 +12,39 @@ keywords: Japan, atom bombs, Japanese, World War II, wars, Pacific, Pacific Ocea
 website_url: http://dev.forum-network.org/lecture/american-experience-victory-pacific
 date_published: '2005-06-14T00:00:00'
 series_name: 'American Experience: Victory in the Pacific'
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Asian Americans
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Media
+- Military History
+- Politics
+- Science & Tech.
+tags:
+- Hiroshima
+- Japan
+- Japanese
+- Nagasaki
+- Pacific
+- Pacific Ocean
+- WMDs
+- World War II
+- atom bombs
+- atomic bombs
+- atomic weapons
+- documentaries
+- film
+- films
+- nuclear bombs
+- nuclear weapons
+- war
+- wars
 ---
 
 Filmmaker Austin Hoyt answers questions on his new documentary, *American Experience: Victory in the Pacific*, which examines the final year of World War II in the Pacific, including the rationale for using the atomic bomb, and features firsthand recollections of both American and Japanese civilians and soldiers. The presentation includes a collage of audio and visual clips from the film.
+
 Audio and video options are available.

@@ -15,7 +15,32 @@ summary: What can oral histories tell us about girlhood, adolescence, and more i
 splash_image: /files/TwentiethCenturyGirl432x240.jpg
 thumbnail: /files/quiz-presidential_ads.pdf
 image: /files/website_image/ComingofImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Children
+- Cities & Suburbs
+- Daily Life
+- Education
+- Ethnicity
+- Family Life
+- Gender
+- Ideas & Ideologies
+- Immigration
+- Midwestern States
+- Popular Culture, Leisure
+- Rural Life
+- Sexuality
+- Women
+evidence_types:
+- Cartoons
+- Music
+- Oral History
+resource_types:
+- Audio
+- Text
 ---
-
 
 This website explores "girls' history" with 40 oral history interviews conducted by women's studies students at Minnesota State University-Mankato. Each interviewee was asked extensively about her girlhood. Questions focused on adolescence and growing up as well as the social, cultural, and physical implications of girlhood and personal experiences. Topics include family, race, sexuality, education, and women's issues. The archive includes brief biographies, video clips, and transcripts of interviews (arranged thematically), photographs, and reflections of the interview process. Most of the women interviewed were born and raised in Minnesota, although a few came from other states with a smaller number immigrating from other countries. The site is not searchable, and the video clips are not high quality.

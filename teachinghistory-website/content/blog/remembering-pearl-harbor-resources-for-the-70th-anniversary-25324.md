@@ -11,12 +11,21 @@ splash_image_fid: '8598'
 summary: December 7, 2011 will mark the 70th anniversary of the attack on Pearl Harbor.
   Discover resources for teaching the day.
 splash_image: /files/splash-spotlight-ph2011.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+tags:
+- Pearl Harbor
+- anniversaries
 ---
 
-
 September 11, 2011, marked the 10th anniversary of the terrorist attacks on New York City and Washington, DC. Next week, December 7, 2011, will mark the 70th anniversary of the Japanese attack on Pearl Harbor. Though [news sources](http://www.cbsnews.com/stories/2011/09/07/earlyshow/main20102503.shtml), lesson plans, and other materials draw parallels between the attacks, it is important to remember that they occurred in different times and places. What led to the attack on Pearl Harbor? What did the attack entail? What effect did it have on the U.S.? How was the attack memorialized (or not) in later years?
+
 [![](/files/image-blog-pearlh.jpg)](http://teachinghistory.org/spotlight/pearl-harbor)
+
 We've gathered all of our resources on the attack on Pearl Harbor on our spotlight page, [*Remembering Pearl Harbor*](http://teachinghistory.org/spotlight/pearl-harbor). Learn about the attack and popular memory with [oral history](http://teachinghistory.org/history-content/website-reviews/14692), discover lesson plans and more exploring the [context](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/25315) of the attack, and uncover [photographs](http://teachinghistory.org/history-content/website-reviews/23133) of U.S. participation in World War II.
+
 After you've explored our spotlight, check out these websites for more resources on Pearl Harbor and the anniversary:
 
 * Read the one-line naval dispatch that was the first official announcement of the attack at the Library of Congress's December 7 "[Today in History](http://memory.loc.gov/ammem/today/dec07.html)" feature, and check out [suggestions](http://www.loc.gov/teachers/classroommaterials/connections/pearl-harbor/index.html) for teaching about Pearl Harbor with oral history and music. The Library has also assembled a small [collection](http://www.loc.gov/vets/stories/ex-war-pearlharbor.html) of oral histories in honor of the anniversary.

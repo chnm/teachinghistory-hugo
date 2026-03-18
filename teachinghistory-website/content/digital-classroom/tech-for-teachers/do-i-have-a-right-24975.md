@@ -18,11 +18,17 @@ splash_image: /files/doihave432x240.jpg
 image: /files/doihave113x150.jpg
 author_image: /files/author_image/authorphotojeremiahmccall75x75.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+topics:
+- Ideas & Ideologies
+tags:
+- U.S. Constitution
+- amendments
+- games
+- gaming
+- iCivics
 ---
-
-
 
 An engaging, lighthearted game for drilling students on legal applications of the amendments

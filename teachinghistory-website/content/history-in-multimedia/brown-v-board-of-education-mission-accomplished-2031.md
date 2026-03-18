@@ -17,7 +17,32 @@ summary: A panel of scholars reviews the landmark school desegregation case *Bro
   v. Board of Education* and debates whether the case led to true improvement in the
   life conditions of African Americans.
 splash_image: /files/splash-him-audio_3.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Children
+- Daily Life
+- Education
+- Family Life
+- Ideas & Ideologies
+- Legal History
+- Reform
+tags:
+- Brown v. Board of Education
+- Civil Rights Movement
+- U.S. Supreme Court
+- civil rights
+- courts
+- desegregation
+- law
+- laws
+- race
+- race relation
+- racism
+- schools
+- segregation
+- trials
 ---
-
 
 A panel of scholars reviews the landmark school desegregation case *Brown v. Board of Education* and debates whether the case led to true improvement in the life conditions of African Americans.

@@ -11,7 +11,25 @@ keywords: human rights, civil rights, foreign relations, foreign policy, foreign
 website_url: http://www.fpri.org/education/livingwithoutfreedom/
 date_published: '2007-05-05T00:00:00'
 series_name: Living Without Freedom
+time_periods:
+- All
+- General
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Reform
+tags:
+- civil rights
+- foreign affairs
+- foreign policy
+- foreign relations
+- freedom
+- human rights
 ---
 
 J. Rufus Fears of the University of California discusses the definition of freedom, arguing that it is not a universal value; that freedom is divided into three sectors—national, political, and individual—which are not necessarily inclusive; and that the U.S.'s definition of freedom developed under unique circumstances. To help teachers teach students about life without freedom, FPRI's Marvin Wachman Fund for International Education, in cooperation with the National Constitution Center and the National Liberty Museum, assembled some of the world's leading analysts—and witnesses—of countries without freedom. The conference helped teachers define totalitarianism while examining the history of the idea of freedom.
+
 To listen to this lecture, scroll to "Freedom: The History of an Idea" under "Speakers and Topics." Audio and video options are available.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21131
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### MA.1. Domain / General Standard: United States History, Geography, Economics, and Government

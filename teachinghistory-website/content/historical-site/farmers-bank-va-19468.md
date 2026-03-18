@@ -6,7 +6,20 @@ content_type: historical_site
 draft: false
 drupal_nid: 19468
 website_url: http://www.apva.org/FarmersBank/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Business
+- Consumer Culture
+- Daily Life
+- Economy
+- Southern States
+tags:
+- Virginia
+- banks
 ---
 
 One of the nation's only bank museums, the Farmer's Bank was incorporated in 1812 and opened its Petersburg branch in 1817. The first floor is now exhibited as a bank.
+
 The bank is open to the public.

@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 6595
 website_url: http://www.pipestoneminnesota.com/museum////
+time_periods:
+- All
+- General
+topics:
+- Midwestern States
+tags:
+- Minnesota
+- Pipestone
+- counties
+- museums
 ---
 
 The Society's Museum, housed in the old City Hall, houses many historical artifacts as well as genealogical resources.
+
 The museum offers exhibits and research library access.

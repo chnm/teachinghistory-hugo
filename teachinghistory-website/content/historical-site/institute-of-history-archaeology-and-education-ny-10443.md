@@ -6,7 +6,23 @@ content_type: historical_site
 draft: false
 drupal_nid: 10443
 website_url: http://www.ihare.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Mid-Atlantic
+- Politics
+- Religion
+tags:
+- Bible
+- Biblical archaeology
+- Egypt
+- Greece
+- Mesopotamia
+- New York
+- Rome
 ---
 
 The Institute of History, Archaeology and Education presents world cultural history, with a particular focus on the development of kindergarten through twelfth grade history and archaeology curriculum. Subjects include ancient civilizations, Biblical archaeology, and U.S. history.
+
 The institute offers professional development hostels for educators, as well as a wide variety of public lectures.

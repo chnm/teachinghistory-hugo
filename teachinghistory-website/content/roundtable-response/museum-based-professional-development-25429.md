@@ -18,14 +18,19 @@ summary: 'We ask an important question: Can you use museums as a resource to enh
   your own education, breathe life into your traditional social studies curriculum,
   and get students excited about learning history? But of course!'
 author_image: /files/author_image/combined_authors.jpg
+tags:
+- museums
+- partnerships
+- professional development
 ---
-
 
 As educators, we want to continue learning, which is precisely why we look for professional development opportunities. How can you use museums as a resource to enhance your own education, breathe life into your traditional social studies curriculum, and get students excited about learning history?
 > As educators, we want to continue learning, which is precisely why we look for professional development opportunities.
 
 A recent study by the Museum of the City of New York (MCNY) demonstrates the power of teaching and learning opportunities in a [museum setting](http://www.mcny.org/education/Professional-Development.html). MCNY worked with Randi Korn & Associates, Inc. (RK&A), a museum evaluation and planning firm, to evaluate the *Traveling Through Time (TTT)* program, a 90-minute field trip facilitated by museum educators that explores New York City history through objects and inquiry.
+
 The study focuses on whether and to what extent this program affects students’ history knowledge and history-related skills. RK&A developed rubrics to measure attainment of each of the skill areas. For the study, RK&A conducted open-ended interviews focused around a set of images and an object, similar to those used in *TTT*, with a treatment group and control group of 4th-grade students in New York City public schools. The interviews produced qualitative data that was then quantified through rubric scoring. The study revealed that the *TTT* program had statistically significant positive effects on students’ achievement of *all* history-related skills. These skill areas are historical knowledge (understanding facts about people/events), historical inquiry (explaining how they know what they know about a primary source), historical perspective (understanding and appreciating the differences among people, situations, and cultures), and historical reasoning (understanding cause and effect and change over time). The results are astounding when one considers the program is only 90 minutes.
+
 How can we understand these results in relationship to what constitutes meaningful professional development opportunities for classroom educators?
 
 * **Strong ties to your curriculum.** Look for opportunities that were developed as supplemental to the curriculum you are mandated to teach. Additionally, consider museums that boast developing their programs with classroom teachers, or use feedback from teachers, so the goals of the experience directly meet the needs of classroom teachers.
@@ -41,5 +46,7 @@ What is *your* learning style? Do you prefer to read for content, listen to a le
 ## For More Information
 
 Institute for Learning Innovation, *Results from the Quality Fieldtrip Study: Assessing the LEAD Program in Cleveland, Ohio* (Edgewater, MD: Institute for Learning Innovation, 2006).
+
 Randi Korn & Associates, Inc., [*Educational Research: Evaluation of* Traveling Through Time*, a School Program of the Museum of the City of New York*](http://informalscience.org/evaluation/show/294) (Museum of the City of New York, 2010).
+
 Randi Korn & Associate, Inc., *Program Evaluation: School Programs of the Frederick A.O. Schwarz Children’s Center at the Museum of the City of New York* (Alexandria, VA: Randi Korn & Associates, Inc, 2007).

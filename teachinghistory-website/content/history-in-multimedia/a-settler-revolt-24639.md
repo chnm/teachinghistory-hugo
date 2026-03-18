@@ -9,7 +9,10 @@ duration: 00:13:17
 website_url: http://podcast.history.org/2011/03/21/a-settler-revolt/
 date_published: '2011-03-21T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
 ---
 
 From Colonial Williamsburg: Past and Present Podcasts
+
 "British colonists revolt against their mother country when traditional English rights are threatened. Author and historian Jack Greene explains."

@@ -15,7 +15,18 @@ summary: Interested in the life of a particular artist? Find out more about the 
 image: /files/website_image/ArchAmArImage.jpg
 splash_image: /files/archivesart.jpg
 thumbnail: /files/History_of_the_American_West_1860-1920_432x240.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Art
+- Popular Culture, Leisure
+- Women
+evidence_types:
+- Oral History
+resource_types:
+- Text
 ---
-
 
 This archive offers more than 180 transcriptions of oral history interviews with a variety of artists, including Louise Nevelson, Robert Indiana, Richard Diebenkorn, and Rube Goldberg. Many of the interviews involved artists who were active in the Works Projects Administration Artist Projects, and took place as part of the "New Deal and the Arts Oral History Program" in the 1960s. Each interview is accompanied by notes on the date and place of the interview and the name of the interviewer. These full-text transcriptions are useful for those interested in specific artists and their lives, but because the site has no search engine and there are no introductory notes or biographical information for the artists other than the information included in the interviews, the site is somewhat difficult to navigate.

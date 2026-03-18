@@ -6,7 +6,13 @@ content_type: historical_site
 draft: false
 drupal_nid: 22103
 website_url: http://boothmuseum.org/
+time_periods:
+- General
+topics:
+- Art
+- Western States
 ---
 
 The Booth Western Art Museum presents and preserves works of contemporary Western art, as well as Western movie posters and illustration, Civil War art, and Presidential portraits and letters.
+
 The museum offers exhibits, lectures, guided tours for school groups, research library access, in-class outreach presentations, and other recreational and educational events.

@@ -16,12 +16,21 @@ spotlight: All students need to understand that history is not definite nor is i
 splash_image: /files/splash-rb-globes.jpg
 image: /files/flatearth.jpeg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Global Contact
+- Science & Tech.
+tags:
+- Christopher Columbus
 ---
 
-
 Seek out significant historical problems and questions to frame curricular units. Historians and other content experts can be helpful in identifying these.
+
 Make historical reading and thinking strategies explicit. Use [frameworks and organizers](http://books.nap.edu/openbook.php?record_id=11100&page=203 ) that allow students repeated practice with these strategies.
+
 Surface student beliefs about what they think they know and challenge these beliefs when incorrect with concrete documentary evidence.
+
 Plan instruction so students can distinguish between history and various accounts of it.

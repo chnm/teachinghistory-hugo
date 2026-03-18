@@ -13,7 +13,11 @@ splash_image_fid: '3644'
 summary: Don't just give the Bill of Rights a surface treatment. Learn to analyze
   it in depth.
 splash_image: /files/FreedomSplash.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Politics
 ---
-
 
 In 12 short video clips, University of Maryland professor Whitman Ridgway demonstrates scholarly analysis of the Bill of Rights.

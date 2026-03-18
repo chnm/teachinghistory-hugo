@@ -22,10 +22,15 @@ splash_image: /files/searchingsplash.jpg
 image: /files/lesson_image/searchingimage.jpg
 author_image: /files/author_image/author_wiebe.jpeg
 grade_levels:
-  - elementary
+- elementary
+tags:
+- Google
+- bing
+- collecting
+- research
+- search engines
+- yahoo
 ---
-
-
 
 It can be very frustrating spending time on search tools and not finding what you need. The good news is that major search tools such as Google, Bing, and Yahoo provide a variety of built-in search strategies that can assist in your search. These strategies deliver quality results while saving you time. There is also an assortment of online tools that provide ways for teachers to bookmark and share resources with their students.
 

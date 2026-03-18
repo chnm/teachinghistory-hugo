@@ -11,9 +11,10 @@ summary: Use these suggestions to help students write informed historical essays
 splash_image: /files/briefsplash.jpg
 image: /files/evidencewrite.jpg
 grade_levels:
-  - high
+- high
+tags:
+- evidence-based essays;
 ---
-
 
 * Have students write frequently. Consider the demands of the writing tasks you use and have students write analytic pieces and historical arguments, not just descriptive or summary pieces.
 * Teach students to write historical arguments where they make claims and support them with evidence.

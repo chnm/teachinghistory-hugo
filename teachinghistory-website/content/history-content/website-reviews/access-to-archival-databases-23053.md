@@ -14,8 +14,28 @@ summary: Delve into more than 85 million records related to U.S. history.
 splash_image: /files/National_Archives.jpg
 thumbnail: /files/MinnesotaMaps432x240.jpg
 image: /files/website_image/AcceArchImage.jpg
+time_periods:
+- All
+- General
+topics:
+- Health & Medicine
+- Immigration
+- Labor
+- Mid-Atlantic
+- Midwestern States
+- Military History
+- New England
+- Politics
+- Southern States
+- Western States
+evidence_types:
+- Official Documents
+resource_types:
+- Text
+tags:
+- NARA
 ---
 
-
 The National Archives has created this vast database of electronic records (85 million records on the date visited) from federal agencies and from collections of donated historical materials. Search and browse functions extend throughout the database, and the collection can also be browsed by pre-set subject categories or by time spans. All records are electronic texts. There are no scanned images of documents, photographs, or microfilm.
+
 A very small sampling of the records: Ships and passengers who arrived in New York during the Irish Potato Famine, 1846–1851; Red Cross records of WW2 Allied POWs; descriptive indexes of flood photographs from FEMA (1989–2004); helicopter air sorties flown in Vietnam (1970–1975); documentation from the Historic American Buildings Survey (1933–1997); and records about worker-initiated strikes and employed-initiated lockouts (1953–1981).

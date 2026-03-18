@@ -6,7 +6,22 @@ content_type: historical_site
 draft: false
 drupal_nid: 9188
 website_url: http://www.myspace.com/ohiocountymuseum
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- General
+topics:
+- Daily Life
+- Midwestern States
+tags:
+- Indiana
+- boats
+- musical instruments
+- racing
 ---
 
 The Ohio County Historical Society seeks to preserve and share the history of Ohio County, Indiana. To this end, the society operates a museum, housed in a 19th-century plow factory. This museum focuses on local life in the 1800s and early 1900s. Collection highlights include a record-winning, early 20th-century race boat called the *Hoosier Boy* and an auto-harp.
+
 The society offers exhibits.

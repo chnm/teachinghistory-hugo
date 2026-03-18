@@ -12,8 +12,44 @@ keywords: slaves, race, racism, race relations, emancipation, abolition, aboliti
 website_url: http://teachingamericanhistory.org/institutes/2004/race_readings.html
 date_published: '2004-08-02T00:00:00'
 series_name: Race and Rights in American History
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Ethnicity
+- Ideas & Ideologies
+- Literature
+- Media
+- Military History
+- Politics
+- Radicalism
+- Reform
+- Slavery
+tags:
+- Civil War
+- Reconstruction
+- U.S. Constitution
+- abolition
+- abolitionism
+- abolitionists
+- civil rights
+- emancipation
+- orators
+- oratory
+- race
+- race relations
+- racism
+- slaves
+- speeches
+- speechmaking
+- war
+- wars
 ---
 
 Professor Lucas E. Morel examines the life and views of abolitionist Frederick Douglass, especially his views of the U.S. Constitution and of the condition of African Americans and the fight for civil rights both before and after the Civil War, as revealed in his writings and speeches. This lecture continues from the lecture "Frederick Douglass, Part One."
+
 To listen to this lecture, scroll to the Monday, August 2nd, 4:30 pm-6:00 pm session; and select either the RealAudio image or link in the gray bar to the left of the main body of text.
+
 An older version of this lecture can be found [here.](http://teachingamericanhistory.org/audio/ram/03-08-04_race_session4.ram)

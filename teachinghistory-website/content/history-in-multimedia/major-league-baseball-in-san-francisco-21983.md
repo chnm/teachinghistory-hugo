@@ -11,6 +11,23 @@ keywords: baseball, sports, athletes, California, Giants, Dodgers, San Francisco
 website_url: http://www.sparkletack.com/2009/04/13/san-francisco-timecapsule-041309/
 date_published: '2009-04-13T00:00:00'
 series_name: San Francisco History Podcast
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Business
+- Cities & Suburbs
+- Consumer Culture
+- Popular Culture, Leisure
+- Western States
+tags:
+- California
+- Dodgers
+- Giants
+- San Francisco
+- Seals Stadium
+- athletes
+- baseball
+- sports
 ---
 
 In this podcast, Richard Miller describes the first major league baseball game on the West Coast, on April 15, 1958, when the Giants played the Dodgers.

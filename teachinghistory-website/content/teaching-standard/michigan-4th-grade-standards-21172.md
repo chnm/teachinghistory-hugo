@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21172
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### MI.H. Strand / Standard Category: History

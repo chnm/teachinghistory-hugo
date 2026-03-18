@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 8002
 website_url: http://www.livingstoncountyhistoricalsociety.com/
+time_periods:
+- General
+topics:
+- Daily Life
+- Mid-Atlantic
+tags:
+- Finger Lakes
+- Geneseo
+- New York
+- Upstate
+- local history
 ---
 
 The Livingston County Historical Society is dedicated to preserving and showcasing the history of Livingston County and the Geneseo area. The society owns and operates a local history museum, presenting a variety of exhibits on the history of the Geneseo area.
+
 The museum offers exhibits on local history, including pieces of historic furniture and historic artifacts, and is one of the few remaining examples of cobblestone architecture in New York. The website offers visitor information and a brief history of the society.

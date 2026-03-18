@@ -27,8 +27,15 @@ thinking_focus: "<strong>Sourcing:</strong>\r\n<p>\r\nThis newsreel, produced by
   \ argument for a 1942 audience. \r\n</p>\r\n<p>"
 thumbnail_fid: '3498'
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+topics:
+- Asian Americans
+- Daily Life
+- Ethnicity
+- Immigration
+- Legal History
+- Western States
 ---
 
 **About This Topic**

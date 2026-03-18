@@ -10,6 +10,25 @@ keywords: Vietnam, soldiers, wars, Vietnam War, war
 website_url: http://dev.forum-network.org/lecture/christian-appy-vietnam-war-all-sides
 date_published: '2003-04-22T00:00:00'
 series_name: 'American Experience: Vietnam'
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Education
+- Global Contact
+- International Relations
+- Literature
+- Media
+- Military History
+- Politics
+- Radicalism
+- Reform
+tags:
+- Vietnam
+- Vietnam War
+- soldiers
+- war
+- wars
 ---
 
 Christian Appy, associate professor of history at MIT, discusses perceptions and memories of the Vietnam War from all possible sides: American civilians, antiwar protestors, and soldiers, as well as Vietnamese civilians and soldiers.

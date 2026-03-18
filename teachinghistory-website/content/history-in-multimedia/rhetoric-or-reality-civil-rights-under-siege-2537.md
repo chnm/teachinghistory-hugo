@@ -16,7 +16,30 @@ summary: Economist and author Dr. Julianne Malveaux delivers the keynote address
   MIT's Annual Breakfast Celebrating the Life and Legacy of Dr. Martin Luther King
   Jr.
 splash_image: /files/splash-him-mlk4_0.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Daily Life
+- Economy
+- Ideas & Ideologies
+- Politics
+- Reform
+tags:
+- Civil Rights Movement
+- activism
+- activists
+- civil rights
+- interpretation
+- memory
+- policies
+- policy
+- presidents
+- race
+- race relations
+- racism
+- reformers
 ---
-
 
 Economist and author Dr. Julianne Malveaux delivers the keynote address for MIT's Annual Breakfast Celebrating the Life and Legacy of Dr. Martin Luther King, Jr., contrasting the values and goals of the civil rights movement with enduring direct and indirect abuses and denials of civil rights.

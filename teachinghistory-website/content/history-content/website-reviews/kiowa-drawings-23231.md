@@ -14,7 +14,20 @@ summary: Kiowa artwork from buffalo hide canvases to university art training.
 image: /files/website_image/KiowDrawImage.jpg
 splash_image: /files/kionadrawings.jpg
 thumbnail: /files/Elizabeth-Patterson-Bonaparte_Gilbert-Stuart_1804.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- American Indians
+- Art
+- Southern States
+- Western States
+resource_types:
+- Images
+- Text
 ---
-
 
 Presents more than 600 drawings by Kiowa Indians—a tribe originally from the Southern Plains—from the 19th and 20th centuries. While many are on traditional buffalo hide, more recent drawings are on paper. These drawings illustrate "tribal social and artistic traditions" as well as the history of contact and conflict. The first of five sections includes 45 drawings created by Kiowa, Cheyenne, and Arapahoe warriors imprisoned in the 1870s. The largest section offers more than 400 images commissioned by anthropologist James Mooney in the late 19th century as illustrations for his field notes. Additional sections include the Silver Horn pictorial calendar, composed of images used to track time and illustrate stories, and Silver Horn Target Record Book, with images of "warfare, courting, personal dress, the Sun Dance, and stories of the mythical trickster figure, Saynday." The final section offers material by the "Kiowa Five," artists who studied at the University of Oklahoma in the late 1920s and helped establish contemporary Indian painting. Useful for those studying American Indian history, culture, life, and art.

@@ -24,10 +24,19 @@ splash_image: /files/HousingStruggleSplash.jpg
 image: /files/HousingStruggle.jpg
 author_image: /files/author_image/AMBER-PELHAM-650x650.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- African Americans
+- Cities & Suburbs
+- Economy
+- Legal History
+- Politics
+- Reform
+tags:
+- housing
 ---
-
-
 
 ### **What is it?**
 

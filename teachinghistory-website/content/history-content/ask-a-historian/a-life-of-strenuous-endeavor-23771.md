@@ -16,8 +16,20 @@ thumbnail_fid: '378'
 summary: 'T Roosevelt: "Let us pay with our bodies for our souls'' desire."'
 thumbnail: /files/website_image/StarsandStripes.jpg
 splash_image: /files/tr-at-oyster-bay-1912-new.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+tags:
+- National Security League
+- Strenuous Life
+- Theodore Roosevelt
+- safety
+- security
 ---
-
 
 I often watch *Dirty Jobs*. The episode on fishing for slime eels off the coast of Maine has to have been some of the most weirdly compelling television ever. Unfortunately, I did not see the episode about safety, "Safety Third," episode 05x18, which was first aired November 24, 2009.
 
@@ -30,13 +42,17 @@ Poking about the blogosphere for comments on that episode, I see that several pe
 ## The National Security League
 
 The National Security League was founded by Menken and General Leonard Wood (the Army Chief of Staff) in December 1914. It emphasized the need for American "preparedness" in the face of challenges around the world. A swirl of various worries contributed to its rapid growth. Roosevelt echoed some of them here, including a conviction that American character had grown weak and soft, and so its ability to resist challenges had been dangerously reduced. Its young men had been "mollycoddled" by parents, especially mothers, who doted on them. The League's idea was to keep America at peace by keeping it strong. It formed the Military Training Camps Association of America, which operated summer camps for boys, the most successful one at Plattsburgh on Lake Champlain in upstate New York.
+
 The League also heavily promoted (along with the American Legion and the American Red Cross) a 1915 movie, "The Battle Cry of Peace," starring Norma Talmadge in her first leading role, in which American pacifists, used as dupes by foreign agents, successfully lobby against defense spending. America is then invaded and New York and Washington are destroyed and enslaved. Admiral George Dewey and General Wood both played themselves in the film.
+
 The challenges that the League had in mind were not only direct confrontations with foreign powers, which appeared to be looming in dark political clouds throughout Europe and Asia, but also more indirect confrontations within American society between democracy and its foes: an elite, moneyed oligarchy from the right, and a violent, fracturing anarchism from the left, both of which were popularly seen as being unnatural, foreign importations into America.
+
 Among other efforts to promote American preparedness, the League proposed universal athletic and military training for young men, which would not only prepare them for possible battles, but also increase the general "vigor" of the population, and contribute to the assimilation of immigrants into the mainstream. Despite the League's early popularity across the spectrum of political allegiances, after a few years it lost most of its membership when it veered off into a form of xenophobic nativism that encouraged the formation of paramilitary units among youth.
 
 ## Roosevelt on Safety in Rough Sports
 
 Roosevelt, as is well known, was a firm believer in the virtues of physical exercise and adventures that tested and developed one's courage and inner resources. It is no surprise that he should criticize "safety-first instead of duty first." But he placed duty above physical prowess as well.
+
 President Roosevelt wrote to his son Kermit, who was at Groton Academy, on October 4, 1903:
 > I am delighted to have you play football. I believe in rough, manly sports. But I do not believe in them if they degenerate into the sole end of any one's existence. I don't want you to sacrifice standing well in your studies to any over-athleticism; and I need not tell you that character counts for a great deal more than either intellect or body in winning success in life. Athletic proficiency is a mighty good servant, and like so many other good servants, a mighty bad master. Did you ever read Pliny's letter to Trajan, in which he speaks of its being advisable to keep the Greeks absorbed in athletics, because it distracted their minds from all serious pursuits, including soldiering, and prevented their ever being dangerous to the Romans? . . .. A man must develop his physical prowess up to a certain point; but after he has reached that point there are other things that count more.
 
@@ -59,5 +75,7 @@ He used his considerable influence to place his sons (with their eager permissio
 ---
 
 Edmund Morris. *Theodore Rex.* New York: Random House, 2001.
+
 Kathleen M. Dalton. *Theodore Roosevelt: A Strenuous Life.* New York: Alfred A. Knopf, 2002.
+
 Sarah Lyons Watts. *Rough Rider in the White House: Theodore Roosevelt and the Politics of Desire.* Chicago: University of Chicago Press, 2003.

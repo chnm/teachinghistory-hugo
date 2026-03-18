@@ -15,11 +15,12 @@ summary: Encourage students to think critically about website content by introdu
 splash_image: /files/Internet_map_plain_1024.png
 image: /files/lesson_image/internet.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- research
 ---
-
 
 It may be helpful to give students in all disciplines a basic understanding of what the internet actually is—to differentiate between the medium and the message. According to the [How Stuff Works](http://computer.howstuffworks.com/internet/basics/internet-infrastructure.htm), the *internet* is "a global collection of networks, both big and small. These networks connect together in many different ways to form the single entity that we know as the Internet." The Internet is an information medium in the same sense as telephone, television, or radio, but the hardware and connectivity of the Internet enable people to publish and communicate in diverse ways (text, audiovisuals, asynchronously, simultaneously) and to access information through a variety of tools (computers, phones, game consoles, datacards). And some of that information we send and receive *via* the Internet is reliable, and some isn't.
 

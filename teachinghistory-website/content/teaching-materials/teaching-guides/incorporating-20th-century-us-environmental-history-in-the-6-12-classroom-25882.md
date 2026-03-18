@@ -34,11 +34,35 @@ summary: This guide consists of curated primary and secondary sources to help st
 splash_image: /files/NMAH-YWCA Camp for Girls.jpg
 author_image: /files/author_image/Annabelle and Hannah.png
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- American Indians
+- Art
+- Business
+- Children
+- Cities & Suburbs
+- Consumer Culture
+- Daily Life
+- Economy
+- Education
+- Environment
+- Ethnicity
+- Family Life
+- Gender
+- Women
+tags:
+- U.S.; World War I; World War II; Vietnam; Cold War; foreign relations; Eisenhower
+- environmental history
+- progressive era
+- victory gardens
 ---
-
-
 
 ## Introduction: How to Use this Guide
 
@@ -121,6 +145,7 @@ Background:
 * Congress proposed a bill to establish the NPS in response to the growing national ethos toward conservation coming out of the Progressive Era.
 * This Congressional report summarizes the bill,  
   highlighting the utility behind the creation of the  
+
   NPS under the Secretary of the Interior.
 
 Annotation/Discussion Questions:
@@ -168,15 +193,21 @@ Annotation:
 * A Federation of Garden Clubs through the County indicates that Garden club work was important to the government. Even on the local level, there was institutional support of the war effort.
 * This exhibit attempted to make conservation interesting  
   to a wide audience by connecting it to Christmas, and  
+
   hoped to encourage families to reduce waste and decorate using recycled materials at home. Reducing  
+
   waste was important during war time when money and  
+
   resources were scarce.
 * All of the club’s leaders were women which shows that  
   conservation was seen as a “women’s activity.” Garden  
+
   Clubs provided women leadership opportunities. Also note that they were all listed by their husbands’ names.
 * Garden Clubs were often made exclusive to only wealthy  
   white women. This article shows that in spite of  
+
   segregation, Black women organized their own Garden  
+
   Clubs and advocated for conservation.
 
 Extension Videos:
@@ -208,6 +239,7 @@ Discussion Questions:
   from other propaganda images?
 * Why might America be depicted in  
   this way? Where have we seen  
+
   something similar?
 * Why do you think the painting/image  
   was made to look this way?
@@ -269,6 +301,7 @@ Background:
   further economic hardship and health issues.
 * The Dust Bowl would also cause a mass migration of  
   farmers out of states like Oklahoma, Texas, and Arkansas  
+
   and to California as they searched for better opportunities.
 
 Discussion Questions:
@@ -311,6 +344,7 @@ The sources in this section highlight the specific ways outdoor spaces were segr
 * Ownership and Segregation of Beaches
   + Photo: “YWCA camp for girls. Highland Beach, Maryland,”  
     1930, Scurlock Studio Records, Box 41, Archives Center,  
+
     Smithsonian National Museum of American History.
   + Newspaper: “Police on Guard at Wade-In,” Chicago Tribune, July 9, 1961
   + Video: “Five Minute Histories: Carr’s Beach,” Baltimore Heritage, August 25, 2023.

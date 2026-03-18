@@ -16,9 +16,52 @@ summary: Includes more than 300 U.S. government pamphlets and books on home fron
   issues from World War II.
 splash_image: /files/Historic_Government_Publications_from_World_War_II-_A_Digital_Library_432x240.jpg
 image: /files/website_image/HistoricGovernmentPublications.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Business
+- Children
+- Consumer Culture
+- Daily Life
+- Economy
+- Global Contact
+- Health & Medicine
+- Ideas & Ideologies
+- International Relations
+- Labor
+- Media
+- Military History
+- Politics
+- Science & Tech.
+evidence_types:
+- Official Documents
+- Photographs
+resource_types:
+- Images
+- Text
+tags:
+- Germany
+- Italy
+- North Africa
+- Southern France
+- World War II
+- child labor
+- civilians
+- government documents
+- home front
+- laborers
+- medical history
+- photographers
+- photographs
+- photography
+- propaganda
+- victory farms
+- victory gardens
+- workers
 ---
 
-
 More than 300 U.S. government publications from World War II have been digitized for this site, an ongoing project that plans to add another 200 documents.
+
 Materials include pamphlets and books emphasizing home front issues, such as air raids, preservation, child labor, and victory farms. All materials are searchable by title, author, subject, and keyword. Browsing is also available.
+
 A companion collection of photographs, the "Melvin C. Shaffer Collection," depicts the home front situation in Germany, North Africa, Italy, and Southern France from 1943 to 1945. Shaffer was a U.S. Army medical photographer assigned to document the medical history of the war through major campaigns. Shafer took the photographs on this site—totaling approximately 340—unofficially with the goal of recording the war's impact on civilians.

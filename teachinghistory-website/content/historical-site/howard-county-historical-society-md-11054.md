@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 11054
 website_url: http://hchsmd.org/
+time_periods:
+- General
+topics:
+- Southern States
+tags:
+- Baltimore
+- Ellicott City
+- Maryland
 ---
 
 The Howard County Historical Society is dedicated to preserving the history of Howard County, Maryland, from its origins in the colonial days to its current state as a major suburban area of Baltimore. The society owns and operates a local history museum, housed in the historic Presbyterian Church, and a library, which is located in the historic Ellicot City schoolhouse.
+
 The society offers exhibits, guided tours and research resources. The website offers historical information regarding Howard County as well as visitor information.

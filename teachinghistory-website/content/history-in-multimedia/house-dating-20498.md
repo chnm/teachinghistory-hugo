@@ -10,6 +10,17 @@ keywords: buildings, architecture, homes, houses
 website_url: http://www.pbs.org/opb/historydetectives/video/1479803895/
 date_published: '2008-12-17T00:00:00'
 series_name: 'History Detectives: Video Library'
+time_periods:
+- All
+- General
+topics:
+- Art
+- Science & Tech.
+tags:
+- architecture
+- buildings
+- homes
+- houses
 ---
 
 Gwen Wright of PBS's *History Detectives* introduces some basic characteristics to look for when dating a house.

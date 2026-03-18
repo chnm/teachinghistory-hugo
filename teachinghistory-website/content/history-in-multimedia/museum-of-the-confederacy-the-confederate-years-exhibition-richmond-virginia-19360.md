@@ -9,6 +9,17 @@ duration: 00:29:05
 website_url: http://www.civilwartraveler.com/audio/index.html#moc
 date_published: '2008-05-29T00:00:00'
 series_name: Civil War Tours
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Ethnicity
+- Military History
+- Politics
+- Slavery
+- Southern States
+tags:
+- Civil War
 ---
 
 This podcast describes the signature exhibit at the Museum of the Confederacy in Richmond, Virginia, which covers the entire Civil War and some of the war's most famous artifacts, including Robert E. Lee's camp gear and JEB Stuart's plumed hat.

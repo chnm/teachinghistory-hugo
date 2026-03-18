@@ -6,7 +6,28 @@ content_type: historical_site
 draft: false
 drupal_nid: 9600
 website_url: http://www.arkansasstateparks.com/arkansaspostmuseum/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- Daily Life
+- Rural Life
+- Southern States
+tags:
+- Arkansas
+- Grand Prairie
+- frontier
+- homes
+- houses
+- log homes
+- log houses
+- museums
+- pioneers
+- prairie
+- settlers
 ---
 
 Early travelers used the Arkansas River as a highway. Just north of the waterway lay a land of tall grasses filled with elk, buffalo, and deer. Explorers such as Audubon, Schoolcraft, and Washington Irving were startled at the expanse of land in this region. Visitors can stroll through this museum's complex of five buildings and explore life on the Arkansas Grand Prairie.
+
 The site offers a short film, exhibits, tours, and occasional recreational and educational events (including living history events).

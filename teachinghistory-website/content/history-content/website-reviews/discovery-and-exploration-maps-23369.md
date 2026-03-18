@@ -14,7 +14,16 @@ summary: A collection of maps which chronicle the age of European discovery.
 splash_image: /files/Discovery_and_Exploration_Maps_432x240.jpg
 thumbnail: /files/ICP_splash.jpg
 image: /files/website_image/DiscoveryandExploration_Image.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Global Contact
+evidence_types:
+- Maps
+resource_types:
+- Images
 ---
-
 
 A collection of maps dealing with the age of European discovery (1400-1800), this collection is searchable by word, subject, and geographical region. Maps are presented in several formats; high resolution images are available.

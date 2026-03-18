@@ -15,7 +15,32 @@ splash_image_fid: '8391'
 summary: World War II veteran Susumu Ito talks about his memories of serving in the
   all-Japanese-American 442nd Regimental Combat Team.
 splash_image: /files/splash-him-vd8.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Asian Americans
+- Ethnicity
+- Global Contact
+- International Relations
+- Media
+- Military History
+tags:
+- 442nd Regimental Combat Team
+- Japan
+- Japanese
+- Japanese-Americans
+- World War II
+- internment camps
+- issei
+- nisei
+- prison camps
+- race
+- race relations
+- racism
+- soldiers
+- veterans
+- war
+- wars
 ---
-
 
 World War II veteran Susumu Ito talks about his memories of serving in the all-Japanese-American 442nd Regimental Combat Team during the war and the internment of his parents in an American internment camp. The presentation includes film footage, images, and subtitles.

@@ -12,5 +12,7 @@ series_name: SpyCast
 ---
 
 According to the SpyCast website:
+
 "During the Cold War, Soviet intelligence used disinformation to malign the United States, for example, by spreading the rumor that AIDS resulted from U.S. Army bacteriological warfare experiments. U.S. State Department Counter-Misinformation officer Todd Leventhal discusses some of the most notorious Soviet-inspired conspiracy theories and explains how the United States sought to counter them."
+
 For the first podcast in this series, click [here](http://teachinghistory.org/history-content/history-in-multimedia/25547).

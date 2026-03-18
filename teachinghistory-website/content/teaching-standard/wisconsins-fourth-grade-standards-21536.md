@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21536
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### WI.A. Content Standard: Geography

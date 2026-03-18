@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 9626
 website_url: http://www.in.gov/ism/StateHistoricSites/PigeonRoost/index.aspx
+time_periods:
+- General
+topics:
+- Midwestern States
+- Military History
+tags:
+- Indiana
+- Mass Burial
+- Scottsburg
+- Shawnee Indians
 ---
 
 From the historic site's website: "Pigeon Roost is the mass burial site of settlers killed in conflicts with the Shawnee. The site got its name from the thousands of passenger pigeons that flocked to the area before they became extinct." Today, the historic site consists of a small memorial and memorial park.
+
 The historic site offers self guided tours. The website offers visitor information.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21352
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## Theme: People Working Together

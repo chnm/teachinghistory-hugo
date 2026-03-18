@@ -14,7 +14,24 @@ summary: Take a virtual tour of George Washington's famous estate, Mt. Vernon.
 splash_image: /files/Mount_Vernon_432x240.jpg
 thumbnail: /files/website_image/image-wr-uppermidwest.jpg
 image: /files/website_image/MtVernon_Image.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Daily Life
+- Politics
+- Rural Life
+- Slavery
+- Southern States
+evidence_types:
+- Archeology
+- Architecture
+- Artifacts and Objects
+- Personal Accounts
+- Photographs
+resource_types:
+- Images
+- Text
 ---
-
 
 Homepage for Mt. Vernon Estate and Gardens, George Washington's Virginia estate, this site offers valuable sources for researching the life and home of the first U.S. President. An exhibit contains more than 50 images of furniture, art, documents, and other Mount Vernon household objects. Each image is accompanied by a 150-word description of the artifact and its location or significance to the estate. A virtual tour of Mt. Vernon's mansion takes visitors through every room with a photograph and 350-word description of the room and its furnishings. An archaeology section describes digs at eight sites on the estate, a 500-word description of a current excavation of Washington's distillery, and a 1500-word essay on the Mt. Vernon mansion's restoration beginning in 1858. An Educational Resources section offers a fifth-grade lesson plan, complete with trivia about Washington, excerpts from his *Rules on Civility*, and anecdotes from his military career and presidency; a 2000-word essay on Washington's attitude toward slavery and information on his slaves' lives, including links to a facsimile copy of Washington's 1798 slave census and 18 images of paintings and artifacts depicting the everyday lives of Mt. Vernon's slaves. This site is ideal for researching Washington's life and home, and it could also be useful for those studying material culture and archaeology.

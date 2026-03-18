@@ -10,6 +10,17 @@ keywords: artifacts, objects, appraising, appraisal, primary sources
 website_url: http://www.pbs.org/opb/historydetectives/video/1479724711/
 date_published: '2008-12-17T00:00:00'
 series_name: 'History Detectives: Video Library'
+time_periods:
+- All
+- General
+topics:
+- Science & Tech.
+tags:
+- appraisal
+- appraising
+- artifacts
+- objects
+- primary sources
 ---
 
 Elyse Luray of PBS's *History Detectives* gives an overview of basic points to look for and sources to turn to in identifying found artifacts.

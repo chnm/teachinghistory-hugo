@@ -10,8 +10,22 @@ splash_image_fid: '10206'
 summary: Historian Christopher Hamner engages educators in close questioning of the
   Ulysses S. Grant Memorial in Washington, DC.
 splash_image: /files/grantsplash_0.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- Art
+- Military History
+tags:
+- DC
+- District of Columbia
+- Ulysses S. Grant
+- memorials
+- monuments
+- professional development
 ---
-
 
 /files/media/video/Grant1.mp4
 

@@ -16,7 +16,36 @@ splash_image_fid: '1179'
 summary: Why did colonial doctors expect their treatments to work? What were they
   treating?
 splash_image: /files/apothecary.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Consumer Culture
+- Daily Life
+- Health & Medicine
+- Science & Tech.
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- apothecaries
+- business
+- businesses
+- colonies
+- colonists
+- dentists
+- disease
+- doctors
+- druggists
+- drugs
+- illness
+- illnesses
+- malaria
+- medications
+- midwives
+- smallpox
+- surgeons
 ---
-
 
 Medical historian Susan Pryor describes the role of the apothecary in the colonial society, and looks at colonial understanding of disease and treatment.

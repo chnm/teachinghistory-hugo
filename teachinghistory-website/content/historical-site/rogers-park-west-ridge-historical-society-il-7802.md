@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 7802
 website_url: http://www.rpwrhs.org
+time_periods:
+- General
+topics:
+- Cities & Suburbs
+- Daily Life
+- Midwestern States
+tags:
+- Chicago
+- Illinois
+- museums
 ---
 
 The Rogers Park/West Ridge Historical Society is dedicated to preserving and showcasing the history of the western section of Chicago, Illinois. In addition to actively aiding and encouraging preservation, the society owns and operates a small museum that showcases the history of the Rogers Park area.
+
 The society offers exhibits. The website offers information regarding upcoming events, visitor information, and a brief history of the area.

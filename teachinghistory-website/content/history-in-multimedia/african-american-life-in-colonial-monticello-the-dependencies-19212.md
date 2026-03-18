@@ -12,7 +12,33 @@ keywords: Monticello, Founding Fathers, slaves, Virginia, archaeology, artifacts
 website_url: http://anacostia.si.edu/Online_Academy/Academy/academy.htm
 date_published: '2008-04-22T00:00:00'
 series_name: 'The Online Academy: Scholars'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Daily Life
+- Ethnicity
+- Labor
+- Slavery
+- Southern States
+tags:
+- Founding Fathers
+- Monticello
+- Virginia
+- archaeology
+- architecture
+- artifacts
+- buildings
+- crafts
+- craftspeople
+- estates
+- race
+- race relations
+- slave quarters
+- slaves
 ---
 
 Dianne Swann-Wright, Director of African American and Special Programs at the Thomas Jefferson Foundation, discusses the living quarters of slaves at Monticello, looking particularly at the dependencies in the building, which served the kitchens, and at what life would have been like there.
+
 To view this video, select "Scholars," followed by "Dianne Swann-Wright." Choose one of the Windows Media options.

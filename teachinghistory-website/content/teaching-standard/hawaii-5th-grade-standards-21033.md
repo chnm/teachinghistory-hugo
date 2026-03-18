@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21033
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### HI.SS.5.1. Content Standard / Course: Historical Understanding

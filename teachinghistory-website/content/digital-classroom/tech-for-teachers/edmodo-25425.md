@@ -17,8 +17,11 @@ summary: Create a safe, collaborative online community for students.
 splash_image: /files/edmodo.png
 image: /files/edmodo1.png
 author_image: /files/author_image/author_wiebe_0_1.jpeg
+tags:
+- Collaboration
+- management
+- networking
+- social media
 ---
-
-
 
 With Edmodo, teachers can bypass many of the dangers of other social media sites and create a safe online community for students.

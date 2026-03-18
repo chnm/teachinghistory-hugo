@@ -11,7 +11,23 @@ keywords: California, politicians, senators, governors, political campaigns, Sou
 website_url: http://bancroft.berkeley.edu/info/lectures.html
 date_published: '2003-08-21T00:00:00'
 series_name: California History Lectures
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Politics
+- Reform
+- Western States
+tags:
+- California
+- Senators
+- Southern Pacific Railroad
+- Theodore Roosevelt
+- governors
+- political campaigns
+- politicians
+- reforms
 ---
 
 This lecture explores Hiram Johnson's 1910 campaign for California governor and the reforms he instituted while in office. Johnson (1866–1945)'s work was praised by Theodore Roosevelt, and he would later serve as a senator.
+
 To listen to this lecture, scroll to "Kick Out the Southern Pacific," and select "Listen to Broadcast."

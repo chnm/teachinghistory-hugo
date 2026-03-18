@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21047
 grade_levels:
-  - elementary
+- elementary
 ---
 
 - ## Standard 1: History
@@ -16,6 +16,7 @@ grade_levels:
   ### Goal 1.1:
 
   Build an understanding of the cultural and social development of the United States.
+
   Objective(s): By the end of Grade 5, the student will be able to:
   * 5.SS.1.1.1 Describe the interactions between European colonists and established societies in North America.
   * 5.SS.1.1.2 Discuss significant individuals who have been responsible for bringing about cultural and social changes in the United States.
@@ -27,6 +28,7 @@ grade_levels:
   ### Goal 1.2:
 
   Trace the role of migration and immigration of people in the development of the United States.
+
   Objective(s): By the end of Grade 5, the student will be able to:
   * 5.SS.1.2.1 Discuss the religious, political, and economic motives of voluntary European immigrants to the United States.
   * 5.SS.1.2.2 Explain the history of indentured servitude and the slave trade in the United States.
@@ -38,6 +40,7 @@ grade_levels:
   ### Goal 1.3:
 
   Identify the role of American Indians in the development of the United States.
+
   Objective(s): By the end of Grade 5, the student will be able to:
   * 5.SS.1.3.1 Discuss that American Indians were the first inhabitants of the United States.
   * 5.SS.1.3.2 Identify examples of American Indian individual contributions and influences.
@@ -53,6 +56,7 @@ grade_levels:
   ### Goal 2.1:
 
   Analyze the spatial organizations of people, places, and environment on the earth’s surface.
+
   Objective(s): By the end of Grade 5, the student will be able to:
   * 5.SS.2.1.1 Develop and use different kinds of maps, globes, graphs, charts, databases, and models to display and obtain information.
   * 5.SS.2.1.2 Identify the regions of the United States and their resources.
@@ -65,6 +69,7 @@ grade_levels:
   ### Goal 3.1:
 
   Explain basic economic concepts.
+
   Objective(s): By the end of Grade 5, the student will be able to:
   * 5.SS.3.1.1 Describe examples of improved transportation and communication networks and how they encourage economic growth.
   * 5.SS.3.1.2 Explain the concepts of tariffs, taxation, and embargo.
@@ -73,12 +78,14 @@ grade_levels:
   ### Goal 3.2:
 
   Identify different influences on economic systems.
+
   Objective(s): By the end of Grade 5, the student will be able to:
   * 5.SS.3.2.1 Discuss the economic policies of England that contributed to the revolt in the North American colonies.
 
   ### Goal 3.4:
 
   Explain the concepts of good personal finance.
+
   Objective(s): By the end of Grade 5, the student will be able to:
   * 5.SS.3.4.1 Identify economic incentives for entrepreneurship.
   * 5.SS.3.4.2 Explain the impact of taxation on personal finance.
@@ -89,6 +96,7 @@ grade_levels:
   ### Goal 4.1:
 
   Build an understanding of the foundational principles of the American political system.
+
   Objective(s): By the end of Grade 5, the student will be able to:
   * 5.SS.4.1.1 Identify the people and groups who make, apply, and enforce laws within federal and tribal governments.
   * 5.SS.4.1.2 Identify and explain the important concepts in the Declaration of Independence.
@@ -98,6 +106,7 @@ grade_levels:
   ### Goal 4.2:
 
   Build an understanding of the organization and formation of the American system of government.
+
   Objective(s): By the end of Grade 5, the student will be able to:
   * 5.SS.4.2.1 Distinguish and compare responsibilities among state, national, and tribal governments in a federal system.
   * 5.SS.4.2.2 Identify the three branches of government and the functions and powers of each.
@@ -105,6 +114,7 @@ grade_levels:
   ### Goal 4.3:
 
   Build an understanding that all people in the United States have rights and assume responsibilities.
+
   Objective(s): By the end of Grade 5, the student will be able to:
   * 5.SS.4.3.1 Name the President and Vice President of the United States and the United States senators and congressional representatives from Idaho.
   * 5.SS.4.3.2 Identify some of the personal responsibilities and basic rights of individual freedoms that belong to American citizens.
@@ -113,6 +123,7 @@ grade_levels:
   ### Goal 4.4:
 
   Build an understanding of the evolution of democracy.
+
   Objective(s): By the end of Grade 5, the student will be able to:
   * 5.SS.4.4.1 Explain how the United States is a democratic republic.
   * 5.SS.4.4.2 State the difference between direct democracy and the constitutional representative democracy of today’s United States.
@@ -124,6 +135,7 @@ grade_levels:
   ### Goal 5.1:
 
   Build an understanding of multiple perspectives and global interdependence.
+
   Objective(s): By the end of Grade 5, the student will be able to:
   * 5.SS.5.1.1 Explain how the world is divided into many different nations and that each has its own government.
   * 5.SS.5.1.2 Define a nation.

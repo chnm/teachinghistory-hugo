@@ -13,7 +13,13 @@ splash_image_fid: '9090'
 summary: This short video from the Library of Congress takes a look at a rather unimposing
   document from 1814.
 splash_image: /files/splash-him-1812doc.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+tags:
+- War of 1812; Admiral Cockburn
 ---
-
 
 This short video from the Library of Congress takes a look at a rather unimposing document from 1814. The document—a printed summary of the federal government's expenses from that year—was a symbol of retribution to Admiral Cockburn, commander of the British forces during the War of 1812.

@@ -21,11 +21,19 @@ summary: What is the key line in Franklin D. Roosevelt's second inaugural addres
 splash_image: /files/kennedysplash.jpeg
 author_image: /files/author_image/dkennedy.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Economy
+- Politics
+tags:
+- FDR
+- Franklin D. Roosevelt
+- inaugural addresses
+- presidential inaugurations
 ---
-
-
 
 /files/media/video/Kennedy1.mp4
 

@@ -12,4 +12,5 @@ series_name: Cool Things Podcasts
 ---
 
 According to the Kansas State Historical Society website:
+
 "Tornadoes have threatened residents of the Great Plains for centuries, but until the late 1800s most Americans had never seen one. That changed when a Kansas farmer captured the first known photograph of a tornado in 1884."

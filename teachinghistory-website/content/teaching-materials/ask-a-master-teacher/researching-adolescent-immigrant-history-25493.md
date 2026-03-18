@@ -16,15 +16,19 @@ summary: Discover resources that will enable you to examine this unique area of 
   History.
 splash_image: /files/youngimmssplash_0.jpg
 image: /files/youngimmsimage.jpg
+topics:
+- Children
+- Immigration
 ---
-
 
 It’s great to hear that students are learning geography and I like your idea of using immigration, past and present, to help them learn this subject. A focus on children and teens only makes the plan more exciting, and I hope you find some resources that will fit your teaching goals and context in the set below.
 
 ### California History Online
 
 You may want to start with the go-to site for teaching K–12 California history, [*Calisphere*](http://www.calisphere.universityofcalifornia.edu/). This site, produced by the California Digital Library at the University of California Libraries, has essays, texts, and images relevant to the history of California and its place in regional, national, and international events. Browse their collection on immigration [here](http://www.calisphere.universityofcalifornia.edu/browse/azBrowse/Immigration).
+
 Search the site using the key phrase ”child immigrant” and you get hundreds of results including texts and images. Learn more about four groups, including African Americans and Hispanic Americans, by starting on their page, “[California Cultures](http://www.calisphere.universityofcalifornia.edu/calcultures/).”
+
 Also check out the Library of Congress’s American Memory sites, *[California As I Saw It: California, 1849–1900](http://teachinghistory.org/history-content/website-reviews/14660)* or *[Chinese in California, 1850–1925](http://teachinghistory.org/history-content/website-reviews/14682)*. At the latter site, one of the things you can find through an “immigration” search are official “certificates of residence.” Using one of these can provoke all kinds of questions from students and enable making connections to the present.
 
 ### Focus on Children and Immigration
@@ -40,7 +44,9 @@ Additional potentially useful sites that address this topic include:
 ### Print and Community Resources
 
 Off-line, you may want to check out Phillip Hoose’s book, *We Were There, Too! Young People in U.S. History*. Here you will find short essays about specific young people in the past, both the famous and more obscure.
+
 And don’t forget to check out your local museums, libraries, and independent bookstores. Often they have local history collections and programs that can help you make history come alive!
+
 Good luck!
 
 ---
@@ -50,7 +56,9 @@ It’s great to hear that students are learning geography and I like your idea o
 ### California History Online
 
 You may want to start with the go-to site for teaching K–12 California history, [*Calisphere*](http://www.calisphere.universityofcalifornia.edu/). This site, produced by the California Digital Library at the University of California Libraries, has essays, texts, and images relevant to the history of California and its place in regional, national, and international events. Browse their collection on immigration [here](http://www.calisphere.universityofcalifornia.edu/browse/azBrowse/Immigration).
+
 Search the site using the key phrase ”child immigrant” and you get hundreds of results including texts and images. Learn more about four groups, including African Americans and Hispanic Americans, by starting on their page, “[California Cultures](http://www.calisphere.universityofcalifornia.edu/calcultures/).”
+
 Also check out the Library of Congress’s American Memory sites, *[California As I Saw It: California, 1849–1900](http://teachinghistory.org/history-content/website-reviews/14660)* or *[Chinese in California, 1850–1925](http://teachinghistory.org/history-content/website-reviews/14682)*. At the latter site, one of the things you can find through an “immigration” search are official “certificates of residence.” Using one of these can provoke all kinds of questions from students and enable making connections to the present.
 
 ### Focus on Children and Immigration
@@ -66,5 +74,7 @@ Additional potentially useful sites that address this topic include:
 ### Print and Community Resources
 
 Off-line, you may want to check out Phillip Hoose’s book, *We Were There, Too! Young People in U.S. History*. Here you will find short essays about specific young people in the past, both the famous and more obscure.
+
 And don’t forget to check out your local museums, libraries, and independent bookstores. Often they have local history collections and programs that can help you make history come alive!
+
 Good luck!

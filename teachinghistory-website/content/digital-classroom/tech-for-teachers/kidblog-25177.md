@@ -20,9 +20,13 @@ splash_image: /files/kidblogsplash.jpg
 image: /files/kidblogimage_0.jpg
 author_image: /files/author_image/zanten.jpg
 grade_levels:
-  - elementary
+- elementary
+tags:
+- Collaboration
+- blogging
+- blogs
+- classroom management
+- collecting and organizing
 ---
-
-
 
 Kidblog is a blogging service specially designed for teachers and their students.

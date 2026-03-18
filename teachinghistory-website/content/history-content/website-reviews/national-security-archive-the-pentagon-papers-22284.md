@@ -13,7 +13,21 @@ summary: In 1971, the "Pentagon Papers" formed the center of a legal debate over
   of speech. Follow the Supreme Court's process and decisions.
 splash_image: /files/National_Security_Archive-_The_Pentagon_Papers_432x240.jpg
 image: /files/website_image/NationalSecurityArchiveImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- International Relations
+- Legal History
+- Military History
+- Politics
+evidence_types:
+- Official Documents
+- Oral History
+- Personal Accounts
+- Political Documents
+resource_types:
+- Audio
+- Text
 ---
-
 
 A collection of textual and audio documents concerning "arguably the most important Supreme Court case ever on freedom of the press." The case revolved around the 1971 decision to lift prior restraint orders instigated by the Nixon Administration to prohibit publication of the government's secret historical collection of documents labeled "United States-Vietnam Relations 1945-1967." These quickly became known to the world as the "Pentagon Papers." Includes 10 recently released audio files and transcripts of Nixon Administration telephone conversations and meetings; Supreme Court briefs (including some material originally kept secret) and opinions; audio files and transcripts of oral arguments before the Court; appellate court documents; and excerpts from memoirs by Richard Nixon, Henry Kissinger, and H. R. Haldeman. Also provides a 4,500-word commentary on the documents. Valuable for those studying American political and legal history and the Vietnam War.

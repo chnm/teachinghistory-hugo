@@ -12,8 +12,11 @@ splash_image_fid: '9723'
 summary: Transcibe WWI era newspaper images and increase access to historical collections.
 splash_image: /files/Splash-Image-Beyond-Words.png
 image: /files/website_image/Image-Beyond-Words_0.png
+resource_types:
+- Text
+tags:
+- primary sources
 ---
-
 
 The Library of Congress's LC Labs has created the crowdsourcing pilot project *Beyond Words* that lets users identify and transcribe World War I era images in Chronicling America's historical newspaper collection.
 

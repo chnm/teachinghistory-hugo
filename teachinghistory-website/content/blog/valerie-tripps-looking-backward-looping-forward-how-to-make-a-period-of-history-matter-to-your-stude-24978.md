@@ -19,11 +19,13 @@ summary: Start with memoirs or historical fiction and small issues children can 
 splash_image: /files/valerietrippon432x240b.jpg
 image: /files/valerietrippon113x150.jpg
 author_image: /files/author_image/author_tripp_1.jpg
+tags:
+- historical fiction
+- valerie tripp
 ---
 
-
-
 When I visit classrooms and Brownie troops to talk about the historical fiction that I write for American Girl, one child always asks, "Where do the ideas for the stories come from?" My answer is simple. I say, "You." Whenever I sit down to write a story, I begin the same way. I begin by thinking about my reader's life right now, in 2011, and I try to create a lovely, silky, satiny ribbon of connection that starts with her and flows through time and connects her to my character, who lived long ago and often far away. That ribbon of connection is made up of the things they have in common: school, family, friends, challenges, triumphs, and chores. The ribbon is flexible, but it has integrity.
+
 How can you make a period of history matter to your students? Begin where they are, right now, and connect them to the past by telling them what their lives would be like if they lived back then. Begin with the practical, the tangible, the everyday. For example, what would they be learning in school? What would they have for lunch? How would they celebrate their birthdays? What chores would they be expected to do? Then stretch a bit to the abstract: What would their parents' and teachers' aspirations be for them? What would their own hopes and dreams be? You’ll make a long ago time matter to your students today if you enable them to look backward and loop forward, to compare their lives now to children's lives in the past; and practical, child-oriented facts are your tools to do so.
 
 ## Befriending the Past
@@ -31,6 +33,7 @@ How can you make a period of history matter to your students? Begin where they a
 > I believe it is emotion—making a person-to-person connection, imagining yourself in someone else’s shoes—that sparks, fuels, and maintains a student's interest in a period of history.
 
 Students take pride in newfound factual knowledge. You'll be calling upon the very nature of your students when you give them information, because your students are inquisitive, playful, and imaginative. They are empathetic, too, and indeed, I believe it is emotion—making a person-to-person connection, imagining yourself in someone else’s shoes—that sparks, fuels, and maintains a student's interest in a period of history. To make a period matter to your students, to help them care about it, try to find nonfiction stories (think of *The Diary of Anne Frank*, for example) or good historical fiction about children who lived in that period. If your students identify with that child, if they get to be friends with that child, they’ll care about the social, economic, and political forces shaping the child's life.
+
 In my books, I try to have my character's personality and life situation grow organically from her place, culture, and period. I make my character's problems girl-sized versions of the major conflicts of the time. The character's personality is a metaphor for what was going on in American history when she lived. For example, Felicity wants to be independent, as does the colony she lives in, Virginia. Both learn that independence means self-governance, not self-indulgence. My hope is that my readers will become friends with Felicity, so that the issues, conflicts, philosophies, fashions, games, discoveries, manners, arts, and inventions that influence Felicity's world matter to them. If Felicity is a bore or a drip or a dork or a goody-two-shoes or a pain or an implausible character, my reader won't be interested in her or in the period she lives in; that’s why tapping into the nature and interests of real children is so essential. That's why when a reader asks where the ideas for the stories come from, I answer: you!
 > That's why when a reader asks where the ideas for the stories come from, I answer: you!
 

@@ -19,9 +19,39 @@ summary: The direct and indirect impacts of various trade routes during the 16th
   19th centuries.
 splash_image: /files/tobacco_splash.jpg
 author_image: /files/author_image/pscranton_cropped_0.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- African Americans
+- Business
+- Cities & Suburbs
+- Consumer Culture
+- Economy
+- Global Contact
+- Immigration
+- International Relations
+- Labor
+- Latinos
+- Mid-Atlantic
+- New England
+- Politics
+- Slavery
+- Southern States
+tags:
+- Colony
+- economy
+- exploitation
+- international relations
+- merchants
+- politics
+- resources
+- slavery
+- taxation
+- trade
 ---
-
-
 
 Good question and one that is often answered a bit too narrowly. The key issue is whether trade routes promoted resource extraction and/or economic development, and if the latter, what sort of development. Of course, the most famous route, with the greatest impact on New World colonies, was the Triangular Trade, which had some variants. In addition, though, there were several versions of a simpler two-way transatlantic trade, from the UK to the northern colonies, from France to Quebec, and from Spain/Portugal to Latin American places. Last, and less known, a transpacific trade took shape in the 17th century, connecting the Philippines with Mexico through the west coast port of Acapulco. So here we have at least half dozen routes to assess in terms of impacts.
 > These ventures, plus those made by Spanish and Portuguese slavers extracted over nine million Africans from their home terrains between the 16th and 19th centuries
@@ -34,10 +64,17 @@ Bilateral trade is simpler to grasp, and yet may depart from our current notions
 ---
 
 Bailey, Anne. **African Voices of the Atlantic Slave Trade**. Boston: Beacon, 2006.
+
 Bjork, Katherine. “The Link That Kept the Philippines Spanish: Mexican Merchant Interests and the Manila Trade, 1571-1815.” **Journal of World History 9 (1998): 25-50.
+
 Bravo, Karen. “Exploring the Analogy between Modern Trafficking in Humans and the Transatlantic Slave Trade.” **Boston University Int’nl Law Journal** 25 (2007), 207-95.
+
 Evans, Chris and Goran Ryden. **Baltic Iron in the Atlantic World** Leiden: Brill, 2007.
+
 Hart, Michael. **A Trading Nation: Canadian Trade Policy from Colonialism to Globalization.** Vancouver: University of British Columbia Press, 2002.
+
 [**Jamestown-Yorktown Foundation, Jamestown Settlement, and Yorktown Victory Center[VA]**](http://teachinghistory.org/history-content/historical-places/6354)
+
 Ostrander, Gilman. “The Making of the Transatlantic Slave Trade Myth,” **William and Mary Quarterly** 30 (1973): 635-44.
+
 Rawley, James and Stephen Behrendt. “The Coastal Trade of the British North American Colonies,” **Journal of Economic History** 34 (1972): 783-810.**

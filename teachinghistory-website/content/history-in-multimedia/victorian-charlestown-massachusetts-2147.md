@@ -11,7 +11,31 @@ keywords: Charlestown, Boston, Massaschusetts, Victorian, Victorian era, transpo
 website_url: http://dev.forum-network.org/lecture/victorian-charlestown-massachusetts
 date_published: '2007-01-04T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- Business
+- Cities & Suburbs
+- Daily Life
+- New England
+- Popular Culture, Leisure
+tags:
+- Boston
+- Charlestown
+- Massaschusetts
+- Victorian
+- Victorian era
+- architecture
+- buildings
+- historic sites
+- ice
+- industry
+- infrastructure
+- transportation
 ---
 
 New England Victorian Society president Ed Gordon explores the history of Charlestown in the Victorian era, looking at the many Victorian structures that remain today. The presentation includes slides.
+
 The lecture audio can be downloaded separately.

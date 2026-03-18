@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 6425
 website_url: http://frankfordhistoricalsociety.org/cneph/tacony/tachood.htm
+time_periods:
+- All
+- General
+topics:
+- Mid-Atlantic
+tags:
+- Pennsylvania
+- Philadelphia
 ---
 
 The Society is dedicated to preserving the rich traditions and history of the Tacony section of the City of Philadelphia.
+
 The society offers occasional recreational and educational events.

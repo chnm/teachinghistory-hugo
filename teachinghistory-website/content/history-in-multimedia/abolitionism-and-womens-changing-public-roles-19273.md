@@ -11,6 +11,35 @@ keywords: activists, activism, slaves, race, racism, race relations, antebellum,
 website_url: http://lincoln.lib.niu.edu/themevideo.html
 date_published: '2008-05-14T00:00:00'
 series_name: African-American Experience
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Education
+- Ethnicity
+- Gender
+- Ideas & Ideologies
+- Politics
+- Radicalism
+- Reform
+- Slavery
+- Women
+tags:
+- Antebellum
+- abolition
+- abolitionism
+- abolitionists
+- activism
+- activists
+- petitions
+- protest
+- protesters
+- protests
+- race
+- race relations
+- racism
+- slaves
 ---
 
 Julie Roy Jeffrey of Goucher College discusses women's increasing involvement in politics in the antebellum U.S., focusing on their involvement in circulating and supporting anti-slavery petitions and publications and arranging events to support abolitionism.

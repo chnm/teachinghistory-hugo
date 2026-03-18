@@ -21,8 +21,20 @@ author_image_fid: '9335
 summary: How does the Ulysses S. Grant Memorial in Washington, DC, depict Grant and
   the Civil War? Historians Christopher Hamner and Michael O'Malley take a look.
 splash_image: /files/warmemorial1.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Emergence of Modern US, 1890-1930
+topics:
+- Art
+- Military History
+tags:
+- District of Columbia
+- Ulysses S. Grant
+- Washington DC
+- memorials
+- monuments
+- statues
 ---
-
 
 /files/media/video/warmemorial1.mp4
 

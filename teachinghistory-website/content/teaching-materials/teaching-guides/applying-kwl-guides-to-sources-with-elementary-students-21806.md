@@ -18,11 +18,12 @@ splash_image: /files/kwl_0.jpg
 image: /files/kwl.jpg
 author_image: /files/author_image/fillpot_1.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+tags:
+- KWL
+- KWL guides
 ---
-
-
 
 ## What Is It?
 

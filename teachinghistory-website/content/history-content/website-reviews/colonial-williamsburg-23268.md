@@ -19,8 +19,37 @@ spotlight: Whether you are interesting in teaching your students more about Colo
 splash_image: /files/Colonial_Williamsburg_432x240.jpg
 thumbnail: /files/splash-wr-historymaps.jpg
 image: /files/website_image/ColoWillImage.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- African Americans
+- Children
+- Cities & Suburbs
+- Consumer Culture
+- Daily Life
+- International Relations
+- Labor
+- Legal History
+- Politics
+- Popular Culture, Leisure
+- Science & Tech.
+- Slavery
+- Southern States
+evidence_types:
+- Advertising
+- Architecture
+- Artifacts and Objects
+- Maps
+- Official Documents
+- Political Documents
+- Speeches
+resource_types:
+- Audio
+- Images
+- Text
+- Video
 ---
 
-
 Intended to promote tourism to Colonial Williamsburg, this website is also rich in educational resources. Visitors may "Experience the Life" by selecting one of 12 categories, ranging from animals to food to the African-American Experience; and will find information and resources about each topic. For example, visitors can learn about colonial clothing for men, women, and children. There is a paper doll game where players must assemble the various layers of colonial clothing in the proper order. Selecting the link "See the Places" allows users to virtually visit 27 buildings, including the prison (Public Gaol), the Capitol, and eight colonial sites, including Market Square and Duke of Gloucester Street. "Meet the People" allows visitors to learn about prominent Williamsburg natives, such as the Randolph family, Thomas Jefferson, and Patrick Henry; or meet more diverse groups, like African Americans or colonial children.
+
 The "Teacher Resource" section allows educators to virtually tour Colonial Williamsburg or learn about the science of mapping colonial America. It also provides 18 lesson plans for exploring such topics as the colonial reaction to the Stamp Act or the murder trial of Abigail Briggs. Listen to the audio review:.

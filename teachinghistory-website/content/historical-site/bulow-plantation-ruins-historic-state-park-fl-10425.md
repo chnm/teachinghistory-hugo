@@ -6,7 +6,31 @@ content_type: historical_site
 draft: false
 drupal_nid: 10425
 website_url: http://www.floridastateparks.org/bulowplantation/default.cfm
+topics:
+- African Americans
+- American Indians
+- Business
+- Consumer Culture
+- Daily Life
+- Economy
+- Global Contact
+- Labor
+- Slavery
+- Southern States
+tags:
+- Florida
+- Native Americans
+- Second Seminole War
+- Seminoles
+- mills
+- parks
+- plantations
+- race
+- race relations
+- slave quarters
+- slaves
 ---
 
 In 1836, the Second Seminole War swept away the prosperous Bulow Plantation where the Bulow family grew sugar cane, cotton, rice, and indigo. Ruins of the former plantation—a sugar mill, a unique spring house, several wells, and the crumbling foundations of the plantation house and slave cabins—show how volatile the Florida frontier was in the early 19th century. Today, a scenic walking trail leads visitors to the sugar mill ruins, listed on the National Register of Historic Sites. The park has picnic facilities and an interpretive center that tells the plantation's history.
+
 The park offers exhibits

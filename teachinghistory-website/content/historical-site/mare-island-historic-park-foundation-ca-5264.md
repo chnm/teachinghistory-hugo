@@ -6,7 +6,31 @@ content_type: historical_site
 draft: false
 drupal_nid: 5264
 website_url: http://www.mareislandhpf.org/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Daily Life
+- Science & Tech.
+- Western States
+tags:
+- California
+- blacksmiths
+- boats
+- chapels
+- homes
+- houses
+- mansions
+- museums
+- ships
+- shipyards
+- shops
+- smitheries
+- smiths
+- stores
 ---
 
 David Glasgow Farragut founded the Mare Island Shipyard in 1854, and the Navy closed the yard in 1996. During that period, over 500 ships, including nuclear submarines, were built at Mare Island Naval Shipyard. The Foundation cares for four of the most historic buildings in Mare Island's National Historic Landmark District. These include St. Peter's Chapel (built 1901), renowned for its Tiffany-designed stained glass windows; Quarters "A" (built 1900), largest (10,500 square feet) of the 13 colonial revival mansions; Quarters "B," a mansion of 7,400 square feet also called the "Captain's Mansion;" and Building 46 (built 1855), originally a smithery, then the pipe shop, now the Artifacts Museum.
+
 The foundation offers tours and occasional workshops and classes; Building 46 offers exhibits.

@@ -11,9 +11,18 @@ summary: Ninth-grade teacher Jamie Kimbrough asked her students to stand in Kenn
   shoes. How did they decide to resolve the Cuban Missile Crisis?
 splash_image: /files/jamiesplash_0.jpeg
 grade_levels:
-  - high
+- high
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- International Relations
+- Military History
+tags:
+- Cuban Missile Crisis
+- WMDs
+- atomic bombs
+- nuclear weapons
 ---
-
 
 /files/media/video/Jamie1.mp4
 

@@ -13,7 +13,13 @@ summary: Board games preserve the past in squares, paper money, and toy tokens. 
   these questions about the history of play.
 splash_image: /files/Playing_History_432x240.jpg
 thumbnail: /files/quiz_thumbnail/HistCoopThumbnail.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Popular Culture, Leisure
+tags:
+- games
 ---
-
 
 Since the early 19th century, Americans have played games about American settings, governed by American rules. Space by space, children and adults have learned, consciously and unconsciously, about mathematics, economics, ethics, history, politics, and other subjects through these settings and their rules. Answer these questions about board games.

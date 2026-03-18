@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 12525
 website_url: http://www.landmarksociety.org
+time_periods:
+- General
+topics:
+- Mid-Atlantic
+tags:
+- New York
 ---
 
 The Landmark Society of Western New York is dedicated to preserving western New York's rich architectural and historical heritage. The society owns and operates two historic house museums, the Campbell-Whittlesey House and the Stone-Talon House. The society is headquartered in the Hoyt-Potter House in Rochester, New York.
+
 The society offers frequent tours of local historic structures and districts, guided tours of the society's historic homes, presentations on architectural history, and a research library. The website offers information regarding society properties, visitor information, and a calendar of events.

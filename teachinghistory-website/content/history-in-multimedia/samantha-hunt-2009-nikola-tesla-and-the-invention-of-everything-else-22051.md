@@ -10,6 +10,20 @@ keywords: invention, inventions, inventors
 website_url: http://www.kwls.org/podcasts/samantha_hunt_2009_nikola_tesl/
 date_published: '2009-04-24T00:00:00'
 series_name: 'KWLS 2009: Historical Fiction and the Search for Truth'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- Global Contact
+- Ideas & Ideologies
+- Literature
+- Science & Tech.
+tags:
+- invention
+- inventions
+- inventors
 ---
 
 Samantha Hunt, author of the historical fiction novel *The Invention of Everything Else*, written from the perspective of inventor Nikola Tesla, reads an excerpt from her novel and briefly talks about the inventor's life and personality.

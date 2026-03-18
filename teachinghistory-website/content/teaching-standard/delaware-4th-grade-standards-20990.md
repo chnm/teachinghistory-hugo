@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20990
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### DE.4.C1. Content Standard: Civics

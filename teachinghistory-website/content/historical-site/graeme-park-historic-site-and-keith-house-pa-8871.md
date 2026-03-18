@@ -6,7 +6,25 @@ content_type: historical_site
 draft: false
 drupal_nid: 8871
 website_url: http://www.ushistory.org/graeme
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- Mid-Atlantic
+- Politics
+tags:
+- Pennsylvania
+- colonies
+- colonists
+- colonization
+- governors
+- homes
+- houses
+- parks
+- politicians
 ---
 
 Graeme Park is a 42-acre historic park, featuring the Keith House, the only surviving residence of a Colonial Pennsylvania Governor. The mansion has remained virtually intact since the late 18th century.
+
 The site offers tours, educational programs, and occasional recreational and educational events (including living history events).

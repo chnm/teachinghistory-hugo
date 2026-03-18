@@ -13,8 +13,20 @@ summary: Headlines and deadlines. Where was the line between muckraking and prof
   ethics?
 splash_image: /files/1903-C-D-Gibson-LC-new.jpg
 thumbnail: /files/quiz/electionmap4a.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Media
+tags:
+- Joseph Pulitzer
+- New York Journal
+- New York World
+- William Randolph Hearst
+- journalism
+- news
+- newspapers
+- yellow journalism
 ---
-
 
 In 1900, the news reached the public all in print. The newspapers were at the height of their power and influence. They were inexpensive and ubiquitous throughout the country. It was their Golden Age, before newsreels, commercial radio, television, or the internet. The publishers and editors of the largest metropolitan daily newspapers of that time had enormous political and social influence. They became celebrities in their own right—including men such as Joseph Pulitzer, William Randolph Hearst, and Joseph Medill—who inherited the same notoriety that had attached itself in the preceding generation to Horace Greeley, James Gordon Bennett, and Charles Anderson Dana.
 

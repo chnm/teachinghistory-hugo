@@ -74,11 +74,10 @@ splash_image_fid: '6180'
 splash_image: /files/compare_contrast.jpg
 image: /files/venn_diagram.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
-
 
 Graphic organizers can be effective scaffolds for all history students, but they can be especially helpful for students with limited English proficiency. They allow these students to engage with difficult historical concepts without depending completely upon academic language to convey information. Graphic organizers are visual tools that allow students to **clarify key concepts** and **understand the relationship between them**. Examples of graphic organizers that are useful in the history classroom include flow charts, Venn diagrams, story maps, and timelines. These scaffolds can help you teach the important historical concepts of chronology, change over time, cause and effect, multiple-causality, and contrasting cases. Remember, however, that you may also need to teach your students *how* to use these tools—a Venn diagram is not necessarily intuitive! Below find resources for locating and creating graphic organizers to use in your classroom. **Creating Graphic Organizers Using Microsoft Office** The resources below allow teachers to create custom graphic organizers using software that is readily available to many teachers.
 

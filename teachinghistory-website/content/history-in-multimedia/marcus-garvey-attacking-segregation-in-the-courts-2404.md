@@ -13,8 +13,44 @@ keywords: race, racism, race relations, oratory, orators, speeches, speechmaking
 website_url: http://teachingamericanhistory.org/institutes/2004/race_readings.html
 date_published: '2004-08-04T00:00:00'
 series_name: Race and Rights in American History
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- African Americans
+- Children
+- Education
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Radicalism
+- Reform
+tags:
+- Back-to-Africa
+- Back-to-Africa Movement
+- Brown v. Board of Education
+- Civil Rights Movement
+- Garveyism
+- Jamaica
+- Nation of Islam
+- Rastafar
+- UNIA-A
+- civil rights
+- desegregation
+- emigration
+- journalism
+- journalists
+- race
+- race relations
+- racism
+- segregation
 ---
 
 Professor Lucas E. Morel reviews the life and views on race relations of Marcus Garvey, examining his political philosophy and its focus on establishing an African nation. Morel also looks at the *Brown v. Board of Education* case, the landmark Supreme Court Case in the struggle for desegregation.
+
 To listen to this lecture, scroll to the Wednesday, August fourth, 9:00 am-10:30 am session; and select the corresponding RealAudio link to the left.
+
 An older version of this lecture can be found [here](http://teachingamericanhistory.org/audio/ram/03-08-06_race_session9.ram).

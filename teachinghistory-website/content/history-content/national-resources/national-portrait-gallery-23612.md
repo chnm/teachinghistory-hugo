@@ -13,8 +13,9 @@ thumbnail_fid: '2245'
 summary: Allow students to "meet" their favorite historical figures.
 splash_image: /files/NationalPortrait432x240.jpg
 thumbnail: /files/quiz_thumbnail/thumb-vaccination.jpg
+topics:
+- Art
 ---
-
 
 The National Portrait Gallery gathers together artistic depictions of or by ". . . individuals who have left—and are leaving—their mark on our country and our culture," according to the gallery website. If you are looking for art relating to early America or politicians, then the exhibits could prove quite useful. While the temptation is to immediately select the web-only exhibitions, the other sections ([current](http://npg.si.edu/whats-on/current-exhibitions) and [past](http://npg.si.edu/whats-on/past-exhibitions)) all also have well-developed web components. Examples of exhibits worth a look include "[Thomas Paine: The Radical Founding Father](http://npg.si.edu/exhibition/one-life-thomas-paine-radical-founding-father)," "[Presidents in Waiting](http://npg.si.edu/exhibition/presidents-waiting)," and "[American Origins, 1600-1900](http://npg.si.edu/exhibition/american-origins)." The museum offers a number of [educational resources](http://npg.si.edu/learn/teachers) to accompany their exhibits. These include lesson plans, study guides, and teacher's guides. You can also access short [articles on historical figures](http://npg.si.edu/teachers/classroom-resources) such as Rosa Parks and Walt Whitman.
 

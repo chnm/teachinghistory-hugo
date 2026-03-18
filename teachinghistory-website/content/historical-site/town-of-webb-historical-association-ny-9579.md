@@ -6,7 +6,13 @@ content_type: historical_site
 draft: false
 drupal_nid: 9579
 website_url: http://www.webbhistory.org
+time_periods:
+- General
+topics:
+- Daily Life
+- New England
 ---
 
 The Town of Webb Historical Association seeks to preserve and share the history of the Adirondack region. To this end, the society operates the Goodsell Museum. The resource center contains over 5,000 photos and more than 2,000 regional postcards.
+
 The museum offers exhibits, guided historic walking tours, and a resource center.

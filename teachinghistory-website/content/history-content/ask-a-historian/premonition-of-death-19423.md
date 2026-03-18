@@ -14,8 +14,23 @@ summary: Accounts of Abraham Lincoln's dream of a presidential assassination var
   and so do the interpretations.
 thumbnail: /files/smithmap_large_0.jpg
 splash_image: /files/lincoln-deathbed-new.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Literature
+- Media
+- Politics
+- Popular Culture, Leisure
+tags:
+- Abraham Lincoln
+- George Washington
+- assassination
+- dreams
+- politicians
+- presidents
+- psychology
+- spiritualism
 ---
-
 
 Lincoln's former law partner, Ward Hill Lamon, who accompanied him as a bodyguard on his train ride through Baltimore at the beginning of his presidency and remained as a friend and occasional bodyguard until Lincoln's death, wrote that he was among the "two or three persons present" when the president related a disturbing dream he had "only a few days before his assassination." Lamon's account appeared in a book of anecdotal reminiscences compiled by Lamon's daughter and published in 1895 two years after his death. Some of the writings had appeared previously in newspapers, others came from Lamon's letters and an unpublished manuscript. Lamon presented Lincoln's account of the dream, he wrote, "as nearly in his own words as I can, from notes which I made immediately after its recital."
 

@@ -12,6 +12,31 @@ keywords: history, memory, interpretation, Founding Fathers, American Revolution
 website_url: http://video.mit.edu/watch/you-teach-history-at-mit-9046/
 date_published: '2003-10-18T00:00:00'
 series_name: Alumni Association Family Weekend
+time_periods:
+- General
+topics:
+- Education
+- Ideas & Ideologies
+- New England
+- Science & Tech.
+tags:
+- American Revolution
+- Founding Fathers
+- Iraq
+- MIT
+- Middle East
+- Revolutionary War
+- War on Terror
+- colleges
+- history
+- interpretation
+- memory
+- professors
+- teachers
+- teaching
+- universities
+- war
+- wars
 ---
 
 Professor Pauline Maier discusses her experiences teaching U.S. history at the Massachusetts Institute of Technology (MIT), from the American Revolution to the current events in Iraq.

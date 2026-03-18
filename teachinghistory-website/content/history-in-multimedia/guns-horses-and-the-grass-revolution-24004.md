@@ -10,8 +10,23 @@ website_url: http://www.gilderlehrman.org/multimedia#3376
 date_published: '2010-01-27T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
 grade_levels:
-  - high
+- high
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Health & Medicine
+- Science & Tech.
+tags:
+- diseases
+- guns
+- horses
+- weapons
 ---
 
 From the Gilder Lehrman Institute:
+
 Elliott West, Distinguished Professor of the American West and the American Indian at the University of Arkansas, describes how guns and horses changed Native American culture, while European diseases ravaged the indigenous people of the New World who had no inherent immunity to them.

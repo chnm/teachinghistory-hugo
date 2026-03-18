@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 22008
 website_url: http://www.cvmuseum.com/
+time_periods:
+- General
+topics:
+- Daily Life
+tags:
+- Schoolhouse
+- school
+- soda fountain
 ---
 
 The Chippewa Valley Museum preserves and presents the history of Wisconsin's Chippewa Valley through exhibits on the region's history and through historical structures, including the 1866 Lars and Grethe Anderson log home, the 1882 one-room Sunnyview School, and the 1871 Schlegelmilch House. Visitors may also eat and drink at a turn-of-the-century ice cream parlor within the museum.
+
 The museum offers exhibits, tours for school groups, history kits for rent, a one-room schoolhouse which educators may rent for classes, and research library access.

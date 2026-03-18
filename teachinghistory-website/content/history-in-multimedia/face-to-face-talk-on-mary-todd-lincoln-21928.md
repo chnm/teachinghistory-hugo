@@ -10,6 +10,21 @@ keywords: First Ladies, presidents, politicians, marriage, marriages
 website_url: http://face2face.si.edu/my_weblog/2009/04/mary-todd-lincoln.html
 date_published: '2009-04-01T00:00:00'
 series_name: Face to Face
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Art
+- Family Life
+- Gender
+- Politics
+- Women
+tags:
+- First Ladies
+- marriage
+- marriages
+- politicians
+- presidents
 ---
 
 Erin Carlson Mast, curator at Lincoln's Cottage, speaks about the relationship between Abraham and Mary Todd Lincoln.

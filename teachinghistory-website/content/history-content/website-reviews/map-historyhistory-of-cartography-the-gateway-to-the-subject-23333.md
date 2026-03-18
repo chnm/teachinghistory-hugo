@@ -15,7 +15,22 @@ summary: A collection of 3,000 historical maps and information about the history
 splash_image: /files/Map_History-History_of_Cartography-_The_Gateway_to_the_Subject_432x240.jpg
 thumbnail: /files/splash-wr-whathistcat.jpg
 image: /files/website_image/EarlyCartography_Image.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Global Contact
+- Science & Tech.
+evidence_types:
+- Maps
+resource_types:
+- Images
+- Text
 ---
-
 
 A comprehensive gateway to more than 3,000 links that provide historical maps and information about the history of cartography, with an emphasis on early maps. Searchable by an index with more than 400 alphabetically-arranged subject terms or by keyword. Includes sites offering listings for conferences, discussion lists, fellowships, map societies, journals, images of early maps, map collecting, web projects on early cartography, histories of maps, and articles on cartography. Now incorporated into the World Wide Web–Virtual Library and updated weekly. Extremely useful as a starting point for online cartographic resources.

@@ -16,11 +16,15 @@ spotlight: Primary sources are a crucial part of any historical study. However, 
 splash_image: /files/splash-rb-websites.jpg
 image: /files/primarysource.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- General
+topics:
+- Education
+- Science & Tech.
 ---
-
 
 * Explore a few excellent collections of primary sources like the Library of Congress's [American Memory](http://www.loc.gov/teachers/classroommaterials/primarysourcesets/), [Our Documents](http://www.ourdocuments.gov/content.php?page=milestone), the [National Archives](http://www.archives.gov/research/arc/education/documents.html), [Digital History](http://www.digitalhistory.uh.edu/documents/documents.cfm), and PBS's American Experience.
 * As you browse through available sources (don't forget these include photographs!), try to think of a historical question which the documents can help students answer. Would the documents, for example, allow students to answer a question about why the American Revolution was fought, or what caused the Great Depression? Look for primary sources that demand close reading or analysis for understanding, illuminate facets of a historical context, or lead to more questions.

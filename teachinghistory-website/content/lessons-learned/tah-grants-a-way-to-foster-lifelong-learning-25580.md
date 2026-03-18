@@ -15,20 +15,29 @@ summary: Student learning begins with a teacher's dedication to and passion for 
 splash_image: /files/tahgrantsplash2.jpg
 image: /files/tahimage2.jpg
 author_image: /files/author_image/author_image_joe_jelen_75x75_1.jpg
+tags:
+- historians
+- historical thinking
+- primary sources
+- sustainability
 ---
 
-
-
 We give lots of thought to crafting student education goals, but what about the education goals of teachers? We want students to be “lifelong learners,” but what about teachers? How can we ensure teachers are “lifelong learners” as well?
+
 I have had the opportunity to serve as a Teaching American History (TAH) grant participant and as a project director on several different projects. I think this has given me a unique lens through which I look at professional development.
+
 TAH grants, created in 2002 and administered by the U.S. Department of Education, offer an opportunity for teachers to extend beyond the discussion of student achievement gaps and into rigorous academic content. While each grant is unique, all grapple with meeting the theoretical framework laid out in the grant proposal and the reality of the teachers before them. This conflict between the theoretical and the concrete is best exemplified by the tension between the grants’ intention to teach content versus teachers' demands for strategies.
+
 Teachers are accustomed to attending professional development training and leaving with straightforward classroom activities. It takes time for participants in a TAH grant to realize that they are not learning so much about how to teach as they are about the content they teach. Needs assessments have shown that teachers need more content knowledge to feel comfortable teaching a subject like history, yet I have failed to come across a set of professional development standards that articulates that teachers should continue learning content. TAH grants address this oversight.
 > For me, the most powerful lesson a teacher can learn from a TAH grant is that content in any discipline is always evolving.
 
 TAH grants train teachers' academic minds. For me, the most powerful lesson a teacher can learn from a TAH grant is that content in any discipline is always evolving. The body of history knowledge is not static. New interpretations are made every day. We should therefore immerse ourselves in making meaning of the past as much as we ask students to.
+
 Teachers change as a result of their participation in a TAH grant. It can be tricky to quantify it, but other data show that TAH grants positively impact teachers. First and foremost, I see teachers leave a session reinvigorated. Teaching is a demanding profession, and teachers likely entered the profession because they are intellectually curious people. Therefore, the ability to interact with likeminded peers and discuss subject matter as opposed to education data is refreshing for participants. Second, I watch participants broaden their horizons to consider collaborations with universities and cultural institutions. These partnerships extend long after the life of a TAH grant project. Third, I see teachers considering new ways to reach their students in social studies. Many teachers are years removed from their teaching methods coursework. TAH grants, and hopefully any subsequent grants like it, model for teachers the latest research-based teaching methods.
 > We should . . . immerse ourselves in making meaning of the past as much as we ask students to.
 
 One of the largest gaps in our education system exists between high school and college. Professors are finding students more ill prepared for the rigors of college than in years past. Moreover, the university system and K-12 system have not communicated well. While Common Core hopes to fix that, inroads have already been made as the result of university and school district cooperation in TAH grants.
+
 Professors and teachers are having open dialogue across the country about how professors can embrace better teaching methods and how K-12 teachers can better prepare students for the rigors of the university history classroom at the very least. Without intending it, TAH grants are creating K-20 vertical teams honing a common vocabulary and methods for teaching primary source analysis.
+
 TAH grants have had a tremendous impact not only on the teaching of history, but also in how professional development is conducted. Scholarship in any field is fluid, and for teachers to teach well, they must be exposed to new academic research in addition to new teaching methods. Professional development in the style of TAH helps inspire teacher "lifelong learners."

@@ -14,7 +14,24 @@ series_name: Boston's 375th Anniversary
 splash_image_fid: '1363'
 summary: What measures have men taken to save those on sinking ships?
 splash_image: /files/stormwarriors.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- Cities & Suburbs
+- Daily Life
+- New England
+- Science & Tech.
+tags:
+- Boston
+- Hull
+- Storm Warriors
+- United States Life-Saving Service
+- maritime disasters
+- nautical disasters
+- shipwrecks
+- water
 ---
-
 
 Ed McCabe and Lory Newmyer of the Hull Lifesaving Museum examines Boston's past as a major shipping port and a center for the development of marine lifesaving devices and shipwreck prevention measures. They focus on the devices and procedures used by the men of the United States Life-Saving Service in the late 1800s and early 1900s.

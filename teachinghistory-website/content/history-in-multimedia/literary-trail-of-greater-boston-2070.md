@@ -10,6 +10,24 @@ keywords: Boston, authors, writers, writing, historical sites
 website_url: http://dev.forum-network.org/lecture/literary-trail-greater-boston
 date_published: '2005-06-23T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- All
+- General
+topics:
+- Cities & Suburbs
+- Daily Life
+- Family Life
+- Gender
+- Literature
+- New England
+- Sexuality
+- Women
+tags:
+- Boston
+- authors
+- historical sites
+- writers
+- writing
 ---
 
 Photographer and writer Susan Wilson outlines the "Literary Trail" of Boston—tracking the history of significant writers in Boston through the historical sites related to their lives remaining in the city. Wilson focuses specifically on female writers.

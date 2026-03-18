@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 11873
 website_url: http://www.ryerssmuseum.org/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Art
+- Global Contact
 ---
 
 The Ryerss Museum and Library served as the home of Joseph Ryerss and his family during the second half of the 19th century. The Ryerss were great collectors of international art and the home today includes an Asian gallery, a European gallery, as well as many of the Ryerss' personal items and restored living rooms.
+
 The Museum offers group tours free of charge and a library for student and teacher research.

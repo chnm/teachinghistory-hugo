@@ -6,7 +6,17 @@ content_type: historical_site
 draft: false
 drupal_nid: 11878
 website_url: http://www.bournehistoricalsociety.org/bournevillage.html
+time_periods:
+- General
+topics:
+- Daily Life
+- New England
+tags:
+- Bourne
+- Cape Cod
+- Massachusetts
 ---
 
 Old Bourne Village is the historic heart of Bourne, Massachusetts, and consists of well over 20 historic structures, several of which are on the National Register of Historic Places. The village has several structures which are open to visitors year round, including a Blacksmith's shop and the Briggs-McDermott house. The village is operated by the Bourne Historical Society.
+
 The village offers periodic guided tours, as well as self-guided tours year round. The website offers a brief history of all of the village's historic structures, as well as an events calendar for the Bourne Historical Society and basic visitor information.

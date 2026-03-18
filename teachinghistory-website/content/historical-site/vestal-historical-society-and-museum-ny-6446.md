@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 6446
 website_url: http://www.vestalny.com/page.aspx?dID=18&pID=96
+time_periods:
+- All
+- General
+topics:
+- Mid-Atlantic
+tags:
+- New York
+- museums
 ---
 
 The Society's Museum presents displays exploring the history of the town of Vestal and the surrounding area.
+
 The society offers occasional recreational and educational events; the museum offers exhibits.

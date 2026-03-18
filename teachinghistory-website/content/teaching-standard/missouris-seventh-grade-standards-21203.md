@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21203
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### MO.TS.7. Strand: Big Idea / Standard: Tools of Social Science Inquiry

@@ -12,7 +12,28 @@ keywords: presidents, politicians, libraries, paintings, Nicaragua, Managua, art
 website_url: http://www.trumanlibrary.org/video/index.php
 date_published: '2007-06-13T00:00:00'
 series_name: My Favorite Things
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+topics:
+- Art
+- Global Contact
+- International Relations
+- Military History
+- Politics
+tags:
+- Managua
+- Nicaragua
+- USS San Jacinto
+- World War II
+- artifacts
+- chairs
+- libraries
+- paintings
+- politicians
+- presidents
 ---
 
 Director of the Bush Presidential Library Warren Finch describes his two favorite items in the library's collection: a ready-room chair from the World War II aircraft carrier USS *San Jacinto*; on which George Bush, Sr. served and a rock painting of Managua, Nicaragua, gifted to the library by Violeta Chamorro.
+
 To watch this clip, scroll to "Warren Finch" under "Presentation: My Favorite Things," and select "Play."

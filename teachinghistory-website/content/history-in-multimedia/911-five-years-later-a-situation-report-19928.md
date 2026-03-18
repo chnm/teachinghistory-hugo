@@ -14,7 +14,24 @@ splash_image_fid: '7822'
 summary: The Foreign Policy Research Institute reports on the War on Terrorism in
   2006.
 splash_image: /files/splash-9112.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- General
+topics:
+- Global Contact
+- International Relations
+- Military History
+- Politics
+tags:
+- 9/11
+- War on Terror
+- War on Terrorism
+- foreign affairs
+- foreign policy
+- foreign relations
+- terror
+- terrorism
+- terrorists
 ---
-
 
 Michael Radu and Stephen Gale, co-chairs of the Foreign Policy Research Institute's Center on Terrorism, Counter-Terrorism, and Homeland Security, present the FPRI's annual report on the current state of the War on Terrorism.

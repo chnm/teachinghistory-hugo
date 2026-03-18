@@ -29,16 +29,19 @@ splash_image: /files/thematicsplash_0.jpg
 image: /files/thematicimage_0.jpg
 author_image: /files/author_image/dlaufenberg1_0.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- diana laufenberg
+- war
 ---
-
-
 
 ## The Pitfalls of Chronology
 
 History is a series of events and causal relationships, stories and tragedies and successes, that when strung together weave narratives of peoples and places. To teach this has proven quite tricky throughout American education. Any history teacher watching Jay Leno and his [random trivia questions](http://www.nbc.com/the-tonight-show/video/categories/jaywalking/1204884/) cringes in horror at the utter lack of historical understanding in the greater American populace. However, one must ask, "If we teach history every year in school, why do the students retain so little of the information?"
+
 This is the perfect time to invoke Einstein's famous quote, "Insanity: doing the same thing over and over again and expecting different results." After a number of years of teaching history chronologically, I made the curricular decision to shift to a thematic approach. I am privileged to work in schools that allow me the flexibility to make these types of classroom decisions.
+
 My rationale for this change was grounded in a number of gut-check teacher experiences but also in the writings of [Sam Wineburg](http://ed.stanford.edu/faculty/wineburg), [Eric Foner](http://www.ericfoner.com/), [David Perkins](http://pzweb.harvard.edu/PIs/DP.htm), and [James Loewen](http://sundown.afro.illinois.edu/). America has never excelled at knowing its own past. As I watched the school days pass, I observed that students participated and engaged, but still did not meaningfully retain the information. Something had to give. I ditched chronological teaching.
 > In my classroom, each of the themes then becomes a shelf and as students understand the greater historical narrative they look for patterns and trends and flow over time.
 
@@ -51,11 +54,14 @@ The themes that I teach in American History are: [American Identity](https://doc
 ## A Closer Look
 
 One unit that gets better each time I teach it is the *War* unit. Many K-12 history students feel like history class is one long study of America at War, rather than of the rich narrative that accompanies the nation’s endeavors. My *War* unit asks students to define war. One would think that with the amount of conversation about war we foster in America that this would be an easy process. Let me assure you it is not.
+
 I start by asking students to write their own definition, then work with a partner to get one definition between the two.
 > In the end they have a definition, but they also have a sense of the concept that I could not possibly instill in them in any other way.
 
 After that, the partners join another partnership. We stop for a bit at this point and the students take their group definition and apply it to the American historical record. Each student is responsible for a section of years and applies their group's war definition to determine if America was at war that year. They then name the war and the place it occurred and report the death tolls. This is a bit time consuming, but I find that this process makes students reconsider the definition as well as thoroughly examine the historical record. We then return to the definition activity and repeat the consensus process until we get to a whole-class discussion.
+
 The goal of the whole-class discussion is for the students to come to consensus on the definition of war. It takes all 65 minutes of class. I do not actively participate at all; I observe. This is about them and their ideas. The students sit in a circle and decide a process and go. Watching it unfold this year was like educational bliss: students asking really tough questions, listening hard to the answers, pushing back when they did not agree—but doing so respectfully, other students making sure each person’s voice was honored in the process. In the end they have a definition, but they also have a sense of the concept that I could not possibly instill in them in any other way. They did this. The creation of the definition was also the creation of their learning.
+
 We then layer this theme over the previous themes and discuss connections and patterns and flow and trends that exist when we look at multiple themes at once. Then we move forward with another theme. By the end of the year they have seven shelves onto which to load their learning. The final unit has students choose a pivotal point in history and change the outcome. This final unit draws upon all the previous themes to craft a story that retells history.
 
 ## Closer to the Goal

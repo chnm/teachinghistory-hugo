@@ -11,8 +11,20 @@ summary: Historian Christopher Hamner visits the *original* Franklin D. Roosevel
   Memorial with educators. They consider the different purposes the old and new memorials
   serve.
 splash_image: /files/fdrsplash_0.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Politics
+tags:
+- FDR
+- FDR Memorial
+- Franklin D. Roosevelt
+- memorials
+- monuments
+- professional development
 ---
-
 
 /files/media/video/fdr1.mp4
 

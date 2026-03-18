@@ -9,7 +9,16 @@ duration: 01:22:00
 website_url: http://www.pbs.org/wgbh/americanexperience/films/assassination/
 date_published: '2009-01-01T00:00:00'
 series_name: American Experience
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Politics
+tags:
+- Abraham Lincoln
+- assassinations
+- presidents
 ---
 
 From PBS:
+
 A highlight of the nationwide Lincoln Bicentennial celebration is this unprecedented two-hour documentary on the life and legacy of the man widely considered one of our best—and most enigmatic—presidents. It addresses many of the controversies surrounding Lincoln about race, equality, religion, politics, and depression by carefully interpreting evidence from those who knew him and those who study him today.

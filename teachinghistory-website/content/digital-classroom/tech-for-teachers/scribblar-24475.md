@@ -17,10 +17,19 @@ spotlight: Think of this as a super-charged, online whiteboard. With its basic p
 splash_image: /files/scribblar3.jpg
 image: /files/scribblar2.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+topics:
+- Media
+tags:
+- Collaboration
+- graphic organizers
+- multimedia
+- organizing
+- social networking
+- technology skills
+- visuals and visualizing
 ---
-
 
 Scribblar is an online, collaborative, and interactive whiteboard for teaching and planning

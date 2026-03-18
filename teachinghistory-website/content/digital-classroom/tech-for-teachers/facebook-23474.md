@@ -16,9 +16,13 @@ splash_image: /files/FacebookSplash.jpg
 thumbnail: /files/quiz_thumbnail/GardPhotThumbnail.jpg
 image: /files/facebook_1.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- Collaboration
+- facebook
+- management
+- networking
 ---
-
 
 Facebook is perhaps the ultimate social networking site, but it's increasingly used for classroom management and institutional communication and marketing.

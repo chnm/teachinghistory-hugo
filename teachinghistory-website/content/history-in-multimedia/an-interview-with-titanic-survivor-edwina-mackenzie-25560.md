@@ -9,6 +9,11 @@ duration: 00:02:56
 website_url: http://www.bbc.co.uk/archive/titanic/5053.shtml
 date_published: '2012-04-06T00:00:00'
 series_name: Survivors of the Titanic
+time_periods:
+- Emergence of Modern US, 1890-1930
+tags:
+- sinking of the titanic
+- titanic
 ---
 
 In this short interview from the BBC series entitled "Survivors of the Titanic," Edwina MacKenzie vividly relays her experiences during the RMS Titanic's final hours. The interview was originally conducted on April 15, 1975.

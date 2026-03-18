@@ -11,6 +11,24 @@ keywords: presidents, foreign policy, foreign relations, National Security Advis
 website_url: http://dev.forum-network.org/lecture/nixon-and-kissinger-partners-power
 date_published: '2007-06-20T00:00:00'
 series_name: 'American Experience: The Presidents'
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Literature
+- Media
+- Military History
+- Politics
+tags:
+- National Security Advisors
+- Secretaries of State
+- foreign policy
+- foreign relations
+- politicians
+- presidents
 ---
 
 Author Robert Dallek examines the relationship between Richard Nixon and National Security Advisor and then Secretary of State Henry Kissinger, drawing on recently-released documents and tapes.

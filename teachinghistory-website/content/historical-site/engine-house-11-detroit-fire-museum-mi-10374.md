@@ -6,7 +6,17 @@ content_type: historical_site
 draft: false
 drupal_nid: 10374
 website_url: http://www.mcgi.state.mi.us/hso/sites/24753.htm
+time_periods:
+- General
+topics:
+- Midwestern States
+- Science & Tech.
+tags:
+- Detroit
+- Michigan
+- firefighting
 ---
 
 Engine House #11 presents the history of fire fighting in Detroit, Michigan. The structure, built in 1883, is the oldest firehouse in the city. Collections include historical fire fighting equipment.
+
 The museum offers exhibits.

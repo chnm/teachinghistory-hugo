@@ -16,7 +16,38 @@ summary: Offers over 2,500 hours of White House recordings by six American presi
   between 1940 and 1973.
 splash_image: /files/White_House_Tapes_432x240.jpg
 image: /files/website_image/WhiteHouseTapes.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Media
+- Military History
+- Politics
+evidence_types:
+- Official Documents
+- Political Documents
+resource_types:
+- Audio
+- Text
+tags:
+- Dwight D.; Kennedy
+- Franklin; Truman
+- Harry; Eisenhower
+- John F.; Johnson
+- Lyndon; Nixon
+- Richard; Vietnam War
+- Roosevelt
+- War on Poverty,
+- Watergate
+- Watergate scandal
+- audio recordings
+- politicians
+- presidents
+- recordings
 ---
-
 
 More than 2,500 hours of White House recordings by six American presidents between 1940 and 1973 are available on this website. Presidents include Franklin Roosevelt (eight hours), Harry Truman (10 hours), Dwight Eisenhower (four and a half hours), John Kennedy (193 hours), Lyndon Johnson (550 hours), and Richard Nixon (2,019 hours). A substantial introduction to each set of recordings is provided and edited transcriptions of the Kennedy tapes are available. "From the Headlines" relates current events to the recordings. Eight exhibits with short scholarly essays feature such topics as the Civil Rights Movement, the Vietnam War, Johnson's "War on Poverty," and the Space Race. Additionally, the site presents 16 preselected multimedia clips that include recordings of Kennedy discussing withdrawal from Vietnam, Johnson talking to McNamara about leaks, Johnson discussing women in politics, and Nixon discussing Mark Felt during the Watergate cover-up. The site provides links to more than 40 related articles and links to related presidential libraries, document collections, websites, and articles.

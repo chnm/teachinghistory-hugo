@@ -12,8 +12,19 @@ splash_image_fid: '6981'
 summary: 'The Constitution states: “Congress shall make no law respecting an establishment
   of religion, or prohibiting the free exercise thereof.”'
 splash_image: /files/constitution_splash.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Legal History
+- Religion
+tags:
+- amendment
+- constitution
+- freedom
+- religion
+- worship
 ---
-
 
 The United States Constitution does not state in so many words that there is a separation of church and state. The first part of the First Amendment to the Constitution states: “Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof.” Therefore, it is more accurate to say that the Constitution promotes freedom of religion and prohibits the federal government from inhibiting its citizens’ ability to worship as they wish.
 

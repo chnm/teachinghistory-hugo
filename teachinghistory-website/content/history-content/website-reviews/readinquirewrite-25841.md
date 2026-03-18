@@ -13,8 +13,9 @@ summary: Help middle school students improve their skills in writing arguments t
   source-based reasoning and social study inquiry.
 splash_image: /files/read-write-inquire-splash.png
 image: /files/website_image/read-write-inquire.png
+tags:
+- evidence
 ---
-
 
 Read.Inquire.Write. offers a free curriculum for middle school students to improve their ability to write arguments on social and historical issues using sources and evidence. Aligning with the C3 Framework for Social Studies State Standards and the Common Core Standards for Literacy, this curriculum builds students’ skills in reasoning, source analysis, reading, speaking, and knowledge in social and historical issues. The materials are downloadable and the only requirement is to create a free login.
 

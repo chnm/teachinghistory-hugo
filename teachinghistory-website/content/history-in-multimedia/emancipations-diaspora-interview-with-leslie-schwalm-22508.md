@@ -9,6 +9,12 @@ duration: 00:59:21
 website_url: http://newbooksinhistory.com/2009/07/30/leslie-schwalm-emancipations-diaspora-race-and-reconstruction-in-the-upper-midwest/
 date_published: '2009-07-30T00:00:00'
 series_name: New Books in History
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Midwestern States
+- Slavery
 ---
 
 University of Iowa history professor Marshall Poe interviews Leslie Schwalm on her book *Emancipation's Diaspora: Race and Reconstruction in the Upper Midwest*. The book traces the migration of African Americans to Iowa, Wisconsin, and Minnesota during and after the Civil War and the harsh reception they received.

@@ -13,8 +13,24 @@ splash_image_fid: '4858'
 summary: During the 1840s, Manifest Destiny remained an effusive spirit rather than
   an agenda for empire.
 splash_image: /files/polk-photo-new.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Global Contact
+- Ideas & Ideologies
+- Latinos
+- Military History
+- Politics
+- Southern States
+- Western States
+tags:
+- California
+- James K. Polk
+- Manifest Destiny
+- Mexican War
+- Mexican-American War
+- Texas
 ---
-
 
 George Bancroft, Secretary of the Navy under Polk, recalled many years later that Polk had announced in 1845 near the beginning of his presidency that the acquisition of California was one of "four great measures" he hoped to accomplish while in office. Historian Sam W. Haynes has identified Polk as a "fitting representative" of the "expansionist impulse" known as Manifest Destiny. As a condition of the Treaty of Guadalupe Hidalgo, which ended the Mexican War, the government of Mexico ceded to the U.S. a vast amount of territory that included the present state of California.
 
@@ -24,6 +40,7 @@ The term Manifest Destiny appeared in print for the first time a few months foll
 > Manifest Destiny remained inchoate, undefined, an effusive, bumptious spirit rather than a clearly articulated agenda for empire.
 
 Haynes writes, "In 1845, for both President Polk and the public at large, Manifest Destiny remained inchoate, undefined, an effusive, bumptious spirit rather than a clearly articulated agenda for empire." In addition to reflecting anxieties over European nations controlling parts of the American West, Manifest Destiny, as interpreted in the works of numerous historians, expressed a number of other diverse fears, beliefs, visions, goals, and interests of divergent segments of the population. Surveying the work of a number of scholars, John C. Pinheiro states in a recent book that while one prominent historian of Manifest Destiny, Frederick Merk, identified "a belief in a religious-like republican mission as the primary motivation for American expansion," others have posited that many Americans imbued with the spirit of Manifest Destiny "desired only to ensure freedom for themselves or to encourage the United States's development as a white, Anglo-Saxon, and Protestant republic." Some historians have argued that desires for specific diplomatic and economic outcomes were the prime motivations for Manifest Destiny, while others have emphasized racism, anti-Catholicism, and Jacksonian doctrines derived from Jeffersonian principles as dominant factors.
+
 Many historians agree that the doctrine spread quickly, especially throughout the North and West, through the institution of the penny press, which had begun to proliferate during the previous decade. Some historians, however, have objected to the use of such a vaguely defined term to adequately characterize U.S. expansionism during this period.
 
 ## Public Opposition to the War
@@ -32,10 +49,12 @@ While the public's fear of foreign involvements in continental North America may
 > . . . the war he fought against Mexico . . . sparked widespread criticism throughout political, journalistic, and literary circles in addition to strong support.
 
 Concurrently, the administration-controlled newspaper, the Washington *Union*, stated that resistance by Mexico would result in an invasion and occupation by U.S. troops. When Mexico refused to sell, Polk began to prepare a declaration of war, but before its completion he learned that Mexican forces had killed or wounded 16 U.S. soldiers in the disputed territory. On May 11, 1846, Polk presented a special message to Congress announcing that "war exists" between the two countries because the Mexican government has "at last invaded our territory and shed the blood of our fellow-citizens on our own soil."
+
 Although the next day Congress passed a war resolution by overwhelming margins in both the House and Senate to the delight of many Americans clamoring for war, adverse reaction to Polk's war message quickly was expressed in Congress and the press. Many Whigs, deeming the conflict "Mr. Polk's War," charged that the president and members of his party in Congress had employed stampede tactics to ensure the resolution's passage and to foment public hysteria. Polk, they contended, had provoked the Mexicans to attack in order to start a war against a weak neighbor so that the U.S. could acquire with relative ease the desired western territory. Radical members of the Whig party stated that Polk's primary goal in instigating war was to expand slavery in order to increase the political power of slaveholding states. The Massachusetts legislation passed resolutions charging that the war "was unconstitutionally commenced by the order of the President . . . with the triple object of extending slavery, of strengthening the slave power, and of obtaining the control of the Free States."
 > Historians disagree about the extent of public opposition to the war.
 
 Democratic Senator John C. Calhoun, while abstaining from the vote on the war resolution, vehemently objected to stampede tactics and argued for "dispassionate consideration" to be given to the issue of war. In addition to the attacks on Polk by politicians and members of the press, antiwar sentiments were expressed by the American Peace Society, the American Anti-Slavery Society, and by literary and religious figures such as James Russell Lowell, Henry David Thoreau, Ralph Waldo Emerson, William Ellery Channing, Theodore Parker, and Wendell Phillips.
+
 As fighting intensified, calls for U.S. forces to capture all of Mexico increased in the penny presses of the urban Northeast and in Illinois, but by the time the Treaty of Guadalupe Hidalgo was ratified, Frederick Merk has written, "the nation was utterly weary of the war." Merk argues that had there been less dissent during the course of the war, more Mexican territory would have been acquired. In a recent article, however, Piero Gleijeses criticizes historians for failing to examine the relative lack of dissent during the period leading up to war. He posits that a broad consensus existed for acquiring land from Mexico, but contends that the fierce opposition to Polk following the war resolution derived from the belief that the desired land could have been easily acquired without going to war.
 
 ---
@@ -48,6 +67,7 @@ The term Manifest Destiny appeared in print for the first time a few months foll
 > Manifest Destiny remained inchoate, undefined, an effusive, bumptious spirit rather than a clearly articulated agenda for empire.
 
 Haynes writes, "In 1845, for both President Polk and the public at large, Manifest Destiny remained inchoate, undefined, an effusive, bumptious spirit rather than a clearly articulated agenda for empire." In addition to reflecting anxieties over European nations controlling parts of the American West, Manifest Destiny, as interpreted in the works of numerous historians, expressed a number of other diverse fears, beliefs, visions, goals, and interests of divergent segments of the population. Surveying the work of a number of scholars, John C. Pinheiro states in a recent book that while one prominent historian of Manifest Destiny, Frederick Merk, identified "a belief in a religious-like republican mission as the primary motivation for American expansion," others have posited that many Americans imbued with the spirit of Manifest Destiny "desired only to ensure freedom for themselves or to encourage the United States's development as a white, Anglo-Saxon, and Protestant republic." Some historians have argued that desires for specific diplomatic and economic outcomes were the prime motivations for Manifest Destiny, while others have emphasized racism, anti-Catholicism, and Jacksonian doctrines derived from Jeffersonian principles as dominant factors.
+
 Many historians agree that the doctrine spread quickly, especially throughout the North and West, through the institution of the penny press, which had begun to proliferate during the previous decade. Some historians, however, have objected to the use of such a vaguely defined term to adequately characterize U.S. expansionism during this period.
 
 ## Public Opposition to the War
@@ -56,8 +76,10 @@ While the public's fear of foreign involvements in continental North America may
 > . . . the war he fought against Mexico . . . sparked widespread criticism throughout political, journalistic, and literary circles in addition to strong support.
 
 Concurrently, the administration-controlled newspaper, the Washington *Union*, stated that resistance by Mexico would result in an invasion and occupation by U.S. troops. When Mexico refused to sell, Polk began to prepare a declaration of war, but before its completion he learned that Mexican forces had killed or wounded 16 U.S. soldiers in the disputed territory. On May 11, 1846, Polk presented a special message to Congress announcing that "war exists" between the two countries because the Mexican government has "at last invaded our territory and shed the blood of our fellow-citizens on our own soil."
+
 Although the next day Congress passed a war resolution by overwhelming margins in both the House and Senate to the delight of many Americans clamoring for war, adverse reaction to Polk's war message quickly was expressed in Congress and the press. Many Whigs, deeming the conflict "Mr. Polk's War," charged that the president and members of his party in Congress had employed stampede tactics to ensure the resolution's passage and to foment public hysteria. Polk, they contended, had provoked the Mexicans to attack in order to start a war against a weak neighbor so that the U.S. could acquire with relative ease the desired western territory. Radical members of the Whig party stated that Polk's primary goal in instigating war was to expand slavery in order to increase the political power of slaveholding states. The Massachusetts legislation passed resolutions charging that the war "was unconstitutionally commenced by the order of the President . . . with the triple object of extending slavery, of strengthening the slave power, and of obtaining the control of the Free States."
 > Historians disagree about the extent of public opposition to the war.
 
 Democratic Senator John C. Calhoun, while abstaining from the vote on the war resolution, vehemently objected to stampede tactics and argued for "dispassionate consideration" to be given to the issue of war. In addition to the attacks on Polk by politicians and members of the press, antiwar sentiments were expressed by the American Peace Society, the American Anti-Slavery Society, and by literary and religious figures such as James Russell Lowell, Henry David Thoreau, Ralph Waldo Emerson, William Ellery Channing, Theodore Parker, and Wendell Phillips.
+
 As fighting intensified, calls for U.S. forces to capture all of Mexico increased in the penny presses of the urban Northeast and in Illinois, but by the time the Treaty of Guadalupe Hidalgo was ratified, Frederick Merk has written, "the nation was utterly weary of the war." Merk argues that had there been less dissent during the course of the war, more Mexican territory would have been acquired. In a recent article, however, Piero Gleijeses criticizes historians for failing to examine the relative lack of dissent during the period leading up to war. He posits that a broad consensus existed for acquiring land from Mexico, but contends that the fierce opposition to Polk following the war resolution derived from the belief that the desired land could have been easily acquired without going to war.

@@ -11,7 +11,35 @@ keywords: war, wars, slaves, territories, race, racism, race relations, Mexico, 
 website_url: http://lincoln.lib.niu.edu/theme2video.html
 date_published: '2008-05-15T00:00:00'
 series_name: Frontier Settlement Video
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- Military History
+- Politics
+- Slavery
+- Western States
+tags:
+- Antebellum
+- Compromise of 1850
+- Fugitive Slave Law
+- Mexican-American War
+- Mexico
+- fugitive slaves
+- fugitives
+- race
+- race relations
+- racism
+- slaves
+- territories
+- war
+- wars
 ---
 
 Michael F. Holt of the University of Virginia discusses the struggle to resolve disputes over territory acquired during the Mexican-American War, particularly the dispute over how (and whether) slavery should spread into the new territories.
+
 To view this clip, select "Origins of the Compromise of 1850" under "Frontier Settlement Video."

@@ -13,6 +13,35 @@ keywords: churches, race, racism, race relations, civil rights, Civil Rights Mov
 website_url: http://www.teachingamericanhistory.us/tah_2/speakers/salvatore.html
 date_published: '2005-04-19T00:00:00'
 series_name: 'History Grows in Oakland: Lectures'
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Daily Life
+- Family Life
+- Reform
+- Religion
+tags:
+- Baptism
+- Baptists
+- Christianity
+- Christians
+- Civil Rights Movement
+- churches
+- civil rights
+- orators
+- oratory
+- preachers
+- preaching
+- race
+- race relations
+- racism
+- speakers
+- speeches
+- speechmaking
 ---
 
 Professor Salvatore Nick reviews the life of C.L. Franklin (1915-1984), African-American Baptist preacher and civil rights activist. Nick looks particularly at the greater social context within which Franklin spoke and worked—that is, the daily experiences of the African American communities to which he spoke and which he spoke for.

@@ -10,7 +10,19 @@ keywords: World War I, presidents
 website_url: http://www.trumanlibrary.org/video/index.php
 date_published: '2007-06-13T00:00:00'
 series_name: My Favorite Things
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Art
+- Global Contact
+- International Relations
+- Military History
+- Politics
+tags:
+- World War I
+- presidents
 ---
 
 Herbert Hoover Presidential Library Director Timothy Walch talks about the embroidered Belgian flour sacks sent to Herbert Hoover as thanks for his work as the head of the Commission for the Relief of Belgium during World War I.
+
 To view this video, scroll down to "Timothy Walch," and select "Play."

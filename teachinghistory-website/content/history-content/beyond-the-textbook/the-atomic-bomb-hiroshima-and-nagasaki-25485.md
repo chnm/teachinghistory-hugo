@@ -12,6 +12,16 @@ splash_image_fid: '8984'
 summary: Controversial issues are often simplified in textbooks. Discover the facts
   surrounding the World War II bombing of Japan.
 splash_image: /files/bombsplash.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Military History
+tags:
+- Hiroshima
+- Nagasaki
+- atomic bombs
+- atomic weapons
 ---
 
 ## What Textbooks Say

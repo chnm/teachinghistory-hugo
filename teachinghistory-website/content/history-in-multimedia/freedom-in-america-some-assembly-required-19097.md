@@ -11,6 +11,27 @@ keywords: American Revolution, Revolutionary War, Founding Fathers, Independence
 website_url: http://www.schooltube.com/video/416034b94a351b22951a/Freedom-in-America-Some-Assembly-Required
 date_published: '2008-03-26T00:00:00'
 series_name: Ball State University Electronic Field Trips
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Literature
+- Media
+- Mid-Atlantic
+- Politics
+tags:
+- American Revolution
+- Declaration of Independence
+- Founding Fathers
+- Independence Hall
+- Liberty Ball
+- Revolutionary War
+- U.S. Constitution
+- politicians
+- war
+- wars
 ---
 
 On this electronic field trip, students get the chance to see up close historical documents such as the Declaration of Independence and the U.S. Constitution. Students will also have entry to the entire Independence National Historical Park with 21 historical sites available for fascinating tours.

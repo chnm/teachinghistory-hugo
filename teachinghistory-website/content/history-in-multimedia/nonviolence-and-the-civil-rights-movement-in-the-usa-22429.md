@@ -13,7 +13,15 @@ splash_image_fid: '8686'
 summary: Dr. Simon Hall lectures on nonviolent protest as employed by participants
   in the civil rights movement, including as prescribed by Martin Luther King, Jr.
 splash_image: /files/splash-him-mlk3.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Ideas & Ideologies
+- Politics
+- Reform
+tags:
+- Civil Rights Movement
 ---
-
 
 Dr. Simon Hall, Senior Lecturer in American History at the University of Leeds, lectures on nonviolent protest as employed by participants in the civil rights movement, including as prescribed by Martin Luther King, Jr.

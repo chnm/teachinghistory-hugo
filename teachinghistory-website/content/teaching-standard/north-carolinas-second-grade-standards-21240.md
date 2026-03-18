@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21240
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### NC.1. Course / Competency Goal: Regional Studies

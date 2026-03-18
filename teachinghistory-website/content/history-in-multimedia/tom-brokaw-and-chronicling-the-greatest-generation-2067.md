@@ -12,7 +12,34 @@ keywords: Greatest Generation, World War II, Great Depression, news, mass media,
 website_url: http://dev.forum-network.org/lecture/tom-brokaw-and-chronicling-greatest-generation
 date_published: '2005-05-20T00:00:00'
 series_name: 'Ken Burns: The War'
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Children
+- Daily Life
+- Literature
+- Media
+tags:
+- Great Depression
+- Greatest Generation
+- World War II
+- authors
+- biographies
+- books
+- journalism
+- journalists
+- mass media
+- media coverage
+- news
+- reportage
+- reporting
+- writers
+- writing
 ---
 
 Newsanchor Tom Brokaw discusses his chronicling of the Greatest Generation in his book with the same title. *The Greatest Generation* tells the stories of America's citizens who came of age during the Great Depression and World War II. Brokaw also discusses his career with NBC Nightly News, where he has been the sole anchor and managing editor since 1983.
+
 The lecture audio is available in mp3 format.

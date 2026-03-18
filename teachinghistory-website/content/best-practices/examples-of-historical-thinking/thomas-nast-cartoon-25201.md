@@ -15,9 +15,18 @@ summary: Today, we accept paper—and electronic—money as a fact of life. Hist
   Michael O'Malley analyzes an 1876 cartoon criticizing "greenbacks."
 splash_image: /files/splah.cartoon.jpg
 author_image: /files/author_image/author_o_malley.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Economy
+tags:
+- Thomas Nast
+- cartoons
+- editorial cartoons
+- money
+- political cartoons
 ---
-
-
 
 /files/media/video/Omalley1.mp4
 

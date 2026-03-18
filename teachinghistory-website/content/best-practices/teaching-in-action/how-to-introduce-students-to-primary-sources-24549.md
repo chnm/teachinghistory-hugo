@@ -16,10 +16,18 @@ spotlight: Not sure how to introduce your students to primary source material? W
   the drawings with later engravings based on White's work.
 splash_image: /files/splash-tia-mm.jpeg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- American Indians
+tags:
+- John White
+- Marti MacKenzie
+- Powhatans
+- primary sources
 ---
-
 
 /files/media/video/Marti1.mp4
 

@@ -14,7 +14,19 @@ summary: What can the music of World War I tell us about its era?
 splash_image: /files/WorldWarI.jpg
 thumbnail: /files/cranberry-boy_0.jpg
 image: /files/website_image/WWISheetImage.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- Family Life
+- Ideas & Ideologies
+- Military History
+- Politics
+- Popular Culture, Leisure
+evidence_types:
+- Maps
+resource_types:
+- Text
 ---
-
 
 This website offers an archive of nearly 2,000 pieces of sheet music printed during the First World War (1914-1918). The collection includes such diverse subjects as African-American soldiers, democracy, flags, marriage, and Woodrow Wilson, and it includes the work of such musicians as Irving Berlin, Eddie Cantor, and John Philip Sousa. The collection can be browsed by creator, publisher, subject, or titles; and both basic and advanced searches are available. A general introduction and a historical essay are forthcoming. This website is a useful resource for historians of early 20th-century American culture or those studying material or visual culture.

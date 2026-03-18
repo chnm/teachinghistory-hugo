@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21105
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### KY.PS. Category: Program of Studies 2006

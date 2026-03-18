@@ -27,10 +27,10 @@ splash_image_fid: '6275'
 splash_image: /files/splash-btc-ict4.jpeg
 image: /files/image-btc-ict3.jpeg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
 ---
 
-
 In this [video](http://www.schoolsworld.tv/node/139?terms=1024), UK teacher Simon Botten demonstrates beyond-the-basics [whiteboard](http://teachinghistory.org/digital-classroom/tech-for-teachers/21577) techniques for use in history and geography classes. The video focuses on elementary-level students and on engaging younger children using interaction with the whiteboard. Botten looks at making hyperlinks for the desktop, using interactive comic book tools, using wireless keyboards and small video cameras, and introducing evocative visuals (such as those in the Myst video games) into classwork.
+
 Though the presentation was created in the UK and features UK students, the content applies multinationally.

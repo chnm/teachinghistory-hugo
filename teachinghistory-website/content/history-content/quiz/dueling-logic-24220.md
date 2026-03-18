@@ -13,7 +13,13 @@ summary: Pistols at noon, or handbags at dawn? Decode the Code of Honor by answe
   these questions on dueling etiquette.
 splash_image: /files/DuelingLogic_0.jpg
 thumbnail: /files/website_image/RegiOralImage.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Legal History
+tags:
+- colonies
+- dueling
 ---
-
 
 In 1838, former South Carolina Governor John Lyde Wilson published *The Code of Honor; or, Rules for the Government of Principals and Seconds in Duelling*. You are a respected lawyer and landed gentleman in Charleston, SC, in 1838, and determined to follow the Code in your life (and duels).

@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 5731
 website_url: http://westportwa.com/museum/
+time_periods:
+- All
+- General
+topics:
+- Western States
+tags:
+- Washington
+- museums
 ---
 
 The Society operates a museum housed in a 1939 Coast Guard Lifeboat Station. Exhibits in the main building explore the Coast Guard on the South Beach, cranberry growing, life on the edge of the ocean, whales and whaling, and lighthouses.
+
 The society offers occasional recreational and educational events; the museum offers exhibits and tours.

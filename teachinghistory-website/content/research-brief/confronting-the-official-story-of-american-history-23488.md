@@ -12,11 +12,14 @@ summary: Can students learn history through themes that don’t fit the usual ap
 splash_image: /files/splash-rb-realstory.jpg
 image: /files/conftrontingofficial.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- General
+topics:
+- Education
 ---
-
 
 * Have students create a timeline of important events in American history, asking them to explain why they make particular choices.
 * After students create their timeline, discuss the major themes that arise from their picks. Do they seem to represent an "official" history?

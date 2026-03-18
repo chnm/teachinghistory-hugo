@@ -6,7 +6,22 @@ content_type: historical_site
 draft: false
 drupal_nid: 21813
 website_url: http://www.kcmuseum.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Western States
+tags:
+- California
+- Kern County
+- businesses
+- counties
+- homes
+- houses
+- museums
+- oil
 ---
 
 The Museum features 56 historic exhibits, many in relocated structures; an award-winning hands-on oil exhibition, *Black Gold: The Oil Experience*; and the Lori Brock Children's Discovery Center for youth eight and under. In addition, the museum hosts temporary exhibitions and special events.
+
 The museum offers exhibits, tours, research library access, educational programs, and educational and recreational events (including living history events).

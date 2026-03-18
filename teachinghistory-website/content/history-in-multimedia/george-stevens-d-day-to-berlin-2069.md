@@ -17,8 +17,33 @@ summary: Filmmaker George Stevens, Jr., introduces *D-Day to Berlin*, the docume
   he made using color footage that his father, director George Stevens, filmed across
   Europe at the end of World War II.
 splash_image: /files/splash-him-md1.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Global Contact
+- International Relations
+- Media
+- Military History
+tags:
+- 6th Army
+- Allied Forces
+- Allies
+- D-Day
+- Europe
+- Normandy
+- World War II
+- directors
+- documentaries
+- film
+- films
+- journalism
+- journalists
+- mass media
+- media coverage
+- reportage
+- reporting
 ---
 
-
 Filmmaker George Stevens, Jr., introduces and discusses *D-Day to Berlin*, the Emmy Award-winning documentary he made using color footage that his father, director George Stevens, filmed across Europe at the end of World War II. In 1943, Stevens, Sr., was assigned to follow the invasion of Normandy with the 6th Army for the purpose of recording their operations for army archives; the footage used to make up *D-Day to Berlin* was discovered after his death and follows Stevens and his crew as they follow the Allied Army.
+
 Audio and video options are available.

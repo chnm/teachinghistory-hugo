@@ -20,9 +20,15 @@ summary: Using primary sources from the Library of Congress, help students recon
 splash_image: /files/Baldwin2.jpg
 image: /files/service-pnp-ggbain-16900-16916v.jpeg
 author_image: /files/author_image/NATE_SLEETER (1)_0_2.JPG
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- American Indians
+- Asian Americans
+- Gender
+- Women
 ---
-
-
 
 **What is it?**
 
@@ -55,25 +61,33 @@ When they are done, ask the class:
 Provide students with links to the primary sources below. Ask them to choose one of the sources, and add to their responses to the questions above with observations about their source.
 
 1913 Suffrage Parade  
+
 Primary sources:  
+
 Official program woman suffrage procession. Washington, D. C. March 3, 1913. | Library of Congress  
+
 https://www.loc.gov/item/rbpe.20801600/
 
 Head of suffrage parade in Washington, D.C., Mar. 3, 1913 | Library of Congress  
+
 https://www.loc.gov/item/97500042/
 
 “Fifteen Thousand Women to March for Suffrage,” The sun. [volume] (New York [N.Y.]), 28 April 1912. Chronicling America: Historic American Newspapers. Lib. of Congress. <https://chroniclingamerica.loc.gov/lccn/sn83030272/1912-04-28/ed-1/seq-57/> (Mentions Mabel Lee)
 
 "Home Makers," Suffrage Parade | Library of Congress  
+
 https://www.loc.gov/item/2014691447/
 
 [College section of the March 3, 1913, suffrage parade in Washington, D.C.] | Library of Congress  
+
 https://www.loc.gov/item/mnwp000444/
 
 Woman suffrage parade, Wash., D.C. | Library of Congress  
+
 https://www.loc.gov/item/2013648100/
 
 **Pro-Suffrage Activists**  
+
 Below are profiles of women’s suffrage reformers who marched in the 1913 parade. These women wanted the 19th amendment to pass and for restrictions on women voting to end, but that was not enough to secure the vote for all of them. As a result, their activism did not end in 1920. Along with each reformer is a brief biographical sketch that details causes for which the individuals advocated before and after 1920.. Each profile also contains several primary sources for students to examine so they can learn more about the individual.
 
 *Marie Louise Bottineau Baldwin*
@@ -81,13 +95,17 @@ Below are profiles of women’s suffrage reformers who marched in the 1913 parad
 Marie Louise Bottineau Baldwin was born in 1863 on Ojibwe land in present-day North Dakota. She attended public schools in Minnesota and eventually graduated from Washington College of law. Baldwin used her status as a lawyer to advocate for Native issues. From 1904 to 1932 she worked for the U.S. federal government’s Office of Indian Affairs overseeing government contracts to reservations. She joined the Society of American Indians after it was formed in 1911. When the 19th Amendment was ratified in 1920, Native women like Baldwin were not automatically granted the right to vote as they were not considered U.S. citizens.
 
 Primary Sources  
+
 Mrs. Marie L. Baldwin ,1914  
+
 https://www.loc.gov/item/2014697070/
 
 Mrs. Marie L. Baldwin, 1914  
+
 https://www.loc.gov/item/2014697069/
 
 GRETCHEN SMITH, “INDIAN COLLECTION WORK OF 30 YEARS: Mrs. Baldwin, Chippewa,” The Evening Star, April 15, 1929  
+
 https://chroniclingamerica.loc.gov/lccn/sn83045462/1929-04-15/ed-1/seq-7/
 
 *Gertrude Simmons Bonnin/ Zitkála-Šá*
@@ -97,11 +115,13 @@ Zitkála-Šá (pronounced Zeet-KA-la-sha) was born on the Yankton Indian Reserva
 In her life, Zitkála-Šá rose to prominence as a musician, writer, and political advocate. An accomplished violinist, she performed at the White House for President William McKinley in 1900 and as a soloist at the Paris Exposition that same year. A prolific writer, Zitkála-Šá’s presented depictions of American Indians that emphasized family and community in books such as *American Indian Stories* and presented her own experiences in personal essays for *Harper’s Monthly* and *The Atlantic Monthly*. When the 19th Amendment was ratified in 1920, Native women like Zitkála-Šá were not automatically granted the right to vote as they were not considered U.S. citizens.
 
 Primary Sources  
+
 “She is Watching Congress,” Evening Public Ledger, February 22, 1921 https://chroniclingamerica.loc.gov/lccn/sn83045211/1921-02-22/ed-1/seq-20/
 
 “Sioux Princess Closely Watches Indian Welfare,” The Richmond Palladium and Sun-Telegram, February 26, 1921 https://chroniclingamerica.loc.gov/lccn/sn86058226/1921-02-26/ed-1/seq-15/
 
 Maryland Suffrage Sews, June 15, 1918  
+
 https://chroniclingamerica.loc.gov/lccn/sn89060379/1918-06-15/ed-1/seq-5/
 
 *Carrie Williams Clifford*
@@ -123,34 +143,53 @@ Carrie Williams Clifford, “Marching to Conquest,” 1911
 *Marching to Conquest*
 
 We are battling for the right with purpose strong and true;  
+
 'Tis a mighty struggle, but we've pledged to dare and do;  
+
 Pledged to conquer evil and we'll see the conflict thro'  
+
 Marching and marching to conquest.  
   
 All the noble things of life we'll teach our girls and boys,  
+
 Warn them of its pitfalls and reveal its purest joys,  
+
 Counsel, guide and keep them from the evil that destroys  
+
 As we go marching to conquest.  
   
 Loving confidence and trust must mark our intercourse,  
+
 Harmony and unity will our success enforce ;  
+
 Seeking guidance from the Lord of good, the boundless source,  
+
 As we go marching to conquest.  
   
 Come and join our anthem then and raise a mighty shout,  
+
 Sing it with such fervor as will put our foes to rout,  
+
 Sing it with conviction strong, dispelling every doubt,  
+
 As we go marching to conquest.  
   
 Women, when our work is o'er and we to rest have gone.  
+
 May our efforts doubled, trebled, still go sweeping on.  
+
 And the voices of millions swell the volume of our song.  
+
 As they go marching to conquest.  
   
 Chorus :  
+
 Hurrah, hurrah, we'll shout the jubilee;  
+
 Hurrah, hurrah, we'll set the captives free,  
+
 Ignorance, distrust and hate at our approach shall flee.  
+
   Marching and marching to conquest.
 
 #### 
@@ -176,32 +215,51 @@ Mabel Ping-Hua Lee
 Mabel Ping-Hua Lee was born in Guangzhou, China in 1897. When Lee was nine-years-old, she won an academic scholarship to study in New York City where her father, a missionary, was already living. Living in Chinatown and attending school at the Erasmus Hall Academy in Brooklyn, Lee became involved with activism as a teenager participating, on horseback, in her first suffrage parade in 1912. Lee attended Barnard College and wrote essays for the college’s *The Chinese Students’ Monthly* one of which was titled “The Meaning of Woman Suffrage.” When the 19th Amendment was ratified, Lee herself was not still able to vote because the Chinese Exclusion Act of 1882 prevented any Chinese person from becoming a U.S. citizen. Lee earned her PhD in economics from Columbia University and published an economic history of China in 1921.
 
 Primary Sources  
+
 “Chinese Girl Wants to Vote,” New-York tribune. [volume] (New York [N.Y.]), 13 April 1912. Chronicling America: Historic American Newspapers. Lib. of Congress. <https://chroniclingamerica.loc.gov/lccn/sn83030214/1912-04-13/ed-1/seq-3/>
 
 Mabel Ping-Hua Lee, Excerpt from “The Meaning of Woman Suffrage” The Chinese Student Monthly, Barnard College, May 1914.
 
 *I once heard Professor Kirchway of Columbia say that although scientists are always  
+
 telling us that in the midst of life we are in death, we are not as apt to realize it as  
+
 much as that while in the midst of life we are in the woman suffrage question. And it  
+
 is a fact that no matter where we go we cannot escape hearing about woman  
+
 suffrage. Yet there is hardly a question more misunderstood or that has more  
+
 misapplications. So manifold are its misconceptions that it has come to be a by-­‐word  
+
 suitable for every occasion. For instance, if when in company one should wish to  
+
 scramble out of an embarrassing situation, or his more fortunate brother should  
+
 wish to be considered witty, all that either would have to do would be to mention  
+
 woman suffrage, and they may be sure of laughter and merriment in response.*
 
 *The reason for this is that the idea of woman suffrage at first stood for something  
+
 abnormal, strange and extraordinary, and so has finally become the word for  
+
 anything ridiculous. The idea that women should ever wish to have or be anything  
+
 more than their primitive mothers appears at first thought to be indeed tragic  
+
 enough to be comic; but if we sit down and really think it over, throwing aside all  
+
 sentimentalism, we find that it is nothing more than a wider application of our ideas  
+
 of justice and equality. We all believe in the idea of democracy; woman suffrage or  
+
 the feminist movement (of which woman suffrage is a fourth part) is the application  
+
 of democracy to women.*
 
 **Suggested activity: Reframe the story**  
+
 After students have read through the textbook account of women’s suffrage, distribute the sources and brief biographical sketches of the women’s suffrage reformers listed above. Prompt the students to take special note of each reformer’s activities before and after the ratification of the 19th amendment in 1920. Place them in groups where each group has a mix of students who learned about a different reformer. In groups, have them draft new text for a textbook entry on women's suffrage that provides a new timeline for the topic. Questions they should consider as they write their entry:
 
 * What dates are the most important to emphasize? Do they need a timeline to communicate the order of events?

@@ -13,7 +13,15 @@ splash_image_fid: '8717'
 summary: Dr. Simon Hall lectures on President John F. Kennedy's policies on civil
   rights, which were seen by some as far too conservative.
 splash_image: /files/splash-him-mlk3_2.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Ideas & Ideologies
+- Politics
+- Reform
+tags:
+- Civil Rights Movement
 ---
-
 
 Dr. Simon Hall, Senior Lecturer in American History at the University of Leeds, lectures on President John F. Kennedy's policies on civil rights, which were seen by some as far too conservative.

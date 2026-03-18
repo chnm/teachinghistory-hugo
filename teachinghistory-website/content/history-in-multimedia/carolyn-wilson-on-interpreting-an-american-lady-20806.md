@@ -10,6 +10,27 @@ keywords: slaves, Virginia, Williamsburg, names, upper class, gentry, class, cla
 website_url: http://podcast.history.org/2005/08/15/carolyn-wilson-on-interpreting-an-american-lady/
 date_published: '2005-08-15T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Daily Life
+- Education
+- Family Life
+- Gender
+- Slavery
+- Southern States
+- Women
+tags:
+- Virginia
+- Williamsburg
+- class
+- classes
+- gentry
+- names
+- slaves
+- upper class
 ---
 
 Carolyn Wilson, an interpreter at Colonial Williamsburg, talks about the historical figure she interprets, Betty Randolph, and the work involved in interpretation.

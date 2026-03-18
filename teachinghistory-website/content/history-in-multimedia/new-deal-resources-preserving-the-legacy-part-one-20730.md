@@ -11,7 +11,30 @@ keywords: New Deal, depression, depressions, Great Depression, presidents, polit
 website_url: http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=4473
 date_published: '2008-03-13T00:00:00'
 series_name: 'Library of Congress: Webcasts'
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Art
+- Business
+- Consumer Culture
+- Daily Life
+- Economy
+- Ideas & Ideologies
+- Literature
+- Media
+- Politics
+tags:
+- Great Depression
+- New Deal
+- archives
+- artifacts
+- depression
+- depressions
+- libraries
+- politicians
+- presidents
 ---
 
 The "New Deal" Franklin Delano Roosevelt had promised the American people began to take shape immediately after his inauguration on March 4, 1933. The multifaceted social, cultural, and fiscal recovery program aimed to reform and reinvigorate national life, and to end the Great Depression. Many New Deal administrators believed that art could be a part of the daily lives of all Americans, not just the elite, and could enrich the lives of all who came in contact with it.
+
 In this presentation, representatives from the National Archives and Records Administration and the Franklin Delano Roosevelt Presidential Library and Museum join staff from several Library of Congress divisions to discuss and display a selection of materials from their New Deal holdings.

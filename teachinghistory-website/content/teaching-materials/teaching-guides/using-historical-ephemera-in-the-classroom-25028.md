@@ -18,11 +18,13 @@ splash_image: /files/learninghistorywith432x240.jpg
 image: /files/learninghistorywith150x113.jpg
 author_image: /files/author_image/authorphotojohnlee75x75.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+topics:
+- Daily Life
+tags:
+- ephemera
 ---
-
-
 
 ## What Is It?
 

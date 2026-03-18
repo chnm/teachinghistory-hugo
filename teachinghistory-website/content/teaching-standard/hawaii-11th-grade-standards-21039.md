@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21039
 grade_levels:
-  - high
+- high
 ---
 
 * ### HI.SS.11.1 Content Standard / Course: Historical Understanding

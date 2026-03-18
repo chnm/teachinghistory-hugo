@@ -20,11 +20,23 @@ summary: Watch J. Douglas Smith discuss the Massive Resistance policy enacted by
 splash_image: /files/massressplash.jpg
 author_image: /files/author_image/dougsmith.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- African Americans
+- Art
+- Media
+- Mid-Atlantic
+tags:
+- Brown v. Board of Education
+- Harry F. Byrd
+- Massive Resistance
+- Virginia
+- desegregation
+- segregation
 ---
-
-
 
 /files/media/video/MassRes1.mp4
 

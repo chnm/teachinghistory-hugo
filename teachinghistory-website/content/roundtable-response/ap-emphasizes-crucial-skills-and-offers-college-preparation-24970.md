@@ -12,9 +12,16 @@ author_image_fid: '7614'
 summary: Does AP U.S. History enhance or distract student learning? Overall, I believe
   that the AP U.S. History program is extremely beneficial to students.
 author_image: /files/author_image/heathersteven75x75.jpg
+tags:
+- A.P.
+- AP
+- APUSH
+- Assessment
+- advanced placement
 ---
 
-
 Does AP U.S. History enhance or distract student learning? Overall, I believe that the AP U.S. History program is extremely beneficial to students. Students are exposed to a variety of primary source documents and asked to evaluate sources, which is an important skill for any citizen. Students also learn how to write a historical essay and construct a solid thesis statement. These are skills that are required of the students on the test, and are taught in every AP history class. In my experience, AP U.S. History teachers are excellent teachers who go beyond teaching the skills needed by students to do well on the AP exam and strive to engage students and excite them about the content. Students participate in a variety of class activities including debates, simulations, and class discussions to further their understanding of historical events. Students make connections between the past and current events.
+
 AP U.S. History reflects current historiography and emphasizes new scholarship and trends, such as social history and women's history. The course is rigorous and students are expected to do a lot of reading at home. This is beneficial in that it prepares them for the independent reading and workload they will face in college. It can also be a detriment because there is not always sufficient time to ensure that students fully understand the content. AP U.S. History is a survey course and is extremely fast-paced. In order to cover U.S. history from colonization through the present between August and May, we rush through it. There is not enough time to have the students do in-depth research papers or study the changes in how historians have chronicled a certain era during class time before the exam. These are the kinds of skills high school students need to be taught before getting into college so that they can be successful. My classes usually do a research paper after the AP exam.
+
 Changes are coming to the AP U.S. History curriculum, which I believe will make the course more beneficial for students. The new exam will emphasize higher-level thinking skills even within the multiple choice section. Students will not have to simply recall memorized facts, but will interpret sources. The scope will be widened to include more focus on pre-colonial history, but it will also give teachers the opportunity to go in-depth throughout the course. I think this will lessen the pressure to race to the 21st century and give teachers more time to teach the historical skills students will need in college.

@@ -10,6 +10,17 @@ keywords: buildings, architecture, homes, houses
 website_url: http://www.pbs.org/opb/historydetectives/video/1485756235/
 date_published: '2008-12-17T00:00:00'
 series_name: 'History Detectives: Video Library'
+time_periods:
+- All
+- General
+topics:
+- Mid-Atlantic
+- Science & Tech.
+tags:
+- architecture
+- buildings
+- homes
+- houses
 ---
 
 Gwen Wright of PBS's *History Detectives* discusses the details to look at when dating a building, examines scientific techniques used in difficult dating tasks, and looks at several specific homes.

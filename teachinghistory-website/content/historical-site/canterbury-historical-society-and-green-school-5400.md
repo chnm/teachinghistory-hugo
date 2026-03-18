@@ -6,7 +6,20 @@ content_type: historical_site
 draft: false
 drupal_nid: 5400
 website_url: http://www.canterburyhistorical.org/
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- Children
+- Daily Life
+- Education
+- New England
+tags:
+- Connecticut
+- schoolhouses
+- schools
 ---
 
 The Society maintains and operates the restored early-20th-century one-room Green School. Visitors can see what school was like in the not-so-distant past, and depending on who is volunteering that day, perhaps even chat with someone who attended a one-room school.
+
 The society offers lectures and occasional educational and recreational programs; the school offers access.

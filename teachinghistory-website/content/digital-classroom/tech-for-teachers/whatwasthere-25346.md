@@ -20,8 +20,12 @@ spotlight: Looking for a way to encourage your young learners to understand conn
 splash_image: /files/whatwastheresplash.jpg
 image: /files/whatwasthereimage.jpg
 author_image: /files/author_image/vojslavek.jpg
+tags:
+- Maps
+- mapping
+- photographs
+- photography
+- visualization
 ---
-
-
 
 WhatWasThere is a website that lets users compare what places look like today with what they looked like in the past.

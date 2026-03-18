@@ -12,6 +12,36 @@ keywords: Germans, Germany, Christmas, Christmas trees, Williamsburg, Virginia, 
 website_url: http://podcast.history.org/2005/12/05/professor-minnigerode-lights-a-tree/
 date_published: '2005-12-05T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Global Contact
+- Ideas & Ideologies
+- Immigration
+- International Relations
+- Media
+- Popular Culture, Leisure
+- Religion
+- Science & Tech.
+- Southern States
+tags:
+- Anglican Church
+- Anglicans
+- Baptists
+- Catholics
+- Christmas
+- Christmas trees
+- Church of England
+- College of William and Mary
+- Germans
+- Germany
+- Presbyterians
+- Puritans
+- Virginia
+- Williamsburg
+- celebrations
+- colonies
+- colonists
 ---
 
 Bob Doares, a trainer and interpreter at Colonial Williamsburg, talks about Karl Minnigerode, the historical figure he portrays, a German professor who lit the first Christmas tree in Williamsburg in 1842.

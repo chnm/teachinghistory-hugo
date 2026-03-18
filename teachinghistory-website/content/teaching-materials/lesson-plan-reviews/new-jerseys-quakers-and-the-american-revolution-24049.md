@@ -16,12 +16,30 @@ summary: Did you know the Quakers were pre-Revolution abolitionists?...
 splash_image: /files/LibertyvsSlavery432x240.jpg
 image: /files/lesson_image/Quakers150x113.jpg
 grade_levels:
-  - middle
-  - high
-duration: '1-2 days, 90 minutes total'
+- high
+- middle
+duration: 1-2 days, 90 minutes total
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Ideas & Ideologies
+- Religion
+- Slavery
+tags:
+- John Woolman
+- New Jersey
+- Patrick Henry
+- Pennsylvania
+- Quakers
+- Samuel Allinson
+- Society of Friends
+- William Livingston
 ---
 
-
 The [lesson plan](https://nj.gov/state/njhistorypartnership/americanRevolution/quakers/lesson/quakersLesson.pdf) suggests that teachers begin by delivering a lecture based on an online talk by historian Jean Soderlund. (Adobe Flash Player and Acrobat Reader are required to access the lecture). However, the historian’s lecture is brief, informative, and fairly engaging, so teachers may want to consider playing the lecture for students.
+
 Next, students are asked to read a set of documents written by Quakers in the 18th century, and identify the various reasons Quakers were opposed to slavery. The documents are rich and informative. However, the language is challenging; and teachers may need to modify and shorten the documents, and create guiding questions to help students analyze them.
+
 For an assessment, middle school students create protest pamphlets expressing the reasons behind Quaker opposition to slavery. High school students analyze the Declaration of Independence from the Quaker perspective. High school teachers may want to consider having students also analyze the [original draft of the Declaration of Independence](http://www.princeton.edu/~tjpapers/declaration/declaration.html) which had much stronger language opposing slavery. The original draft of the Declaration of Independence reflects more of Jefferson’s personal views, while the final version reflects more of the consensus view of congress.

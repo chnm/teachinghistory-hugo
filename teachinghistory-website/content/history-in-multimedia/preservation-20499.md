@@ -10,6 +10,18 @@ keywords: preservation, artifacts, objects, conservation, restoration
 website_url: http://www.pbs.org/opb/historydetectives/video/1479782129/
 date_published: '2008-12-17T00:00:00'
 series_name: 'History Detectives: Video Library'
+time_periods:
+- All
+- General
+topics:
+- Environment
+- Science & Tech.
+tags:
+- artifacts
+- conservation
+- objects
+- preservation
+- restoration
 ---
 
 Elyse Luray of PBS's *History Detectives* discusses basic preservation techniques for taking care of antiques and heirlooms.

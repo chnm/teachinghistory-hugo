@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21287
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### NH.3. Strand / Standard: Civics and Governments

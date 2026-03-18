@@ -23,26 +23,34 @@ splash_image: /files/Strategiessplash.jpg
 image: /files/Strategiesimage.jpg
 author_image: /files/author_image/mYell_1.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- DBQs
+- michael yell
+- response groups
 ---
-
-
 
 > *As you enter a classroom ask yourself this question: "If there were no students in the room, could I do what I am planning to do?" If your answer to the question is yes, don't do it. (*
 > —General Ruben Cubero [[1](#note1)])
 
 This quote says a lot about the types of teaching strategies that we should use as history teachers. A passive lecture can be given in an empty room, a PowerPoint explained, a worksheet passed out, or even a reading assigned; but you cannot engage with an empty room. An empty room cannot inquire into an historical event, idea, or person. Because interaction and engagement are the climate to set in a history class, the focus must be on more than teacher-led presentations. A lot more.
+
 As history teachers, we know the importance of having our students wrestle intellectually with primary sources, i.e., learn to investigate history using the words and ideas of people of the past. However, it is essential that we keep in mind that the use of primary sources must be part of larger investigations in the history classroom, just as it is with historians. In an interview for Social Education, Professor Keith Barton told me “[primary sources] are not meaningful in their own right; they’re just a means to an end—they’re evidence in a broader investigation.” ([2](#note2))
 
 ## Using the Strategy
 
 When you make the decision to use primary sources within a broader unit, how can they best be presented to students? Over the years, both as a secondary history teacher and now a middle school history teacher, I have found two strategies combined help students make the best use of primary sources in the context of the investigations we are conducting in class.
+
 The first strategy that I combine to help my students understand and interact with primary sources is the **DBQ** strategy. DBQs, Document-Based Questions, have been long used in Advanced Placement exams. A DBQ asks students to analyze a series of six or so textual and visual primary sources in order to write an essay that addresses a historical question. ([3](#note3)) One adaptation that I make with DBQs in my teaching is that I do not use them as an assessment so much as a strategy for instruction with a unit.
+
 To do this, I fold the ideas behind a particular DBQ together with the teaching strategy known as **Response Groups**. The **Response Groups** strategy was developed by the *Teachers’ Curriculum Institute* as a part of the *History Alive!* program. In this strategy students receive written and/or pictorial information and consider open-ended questions on that material. Presenters are then chosen to share their group’s ideas prior to opening the discussion to the entire class.
+
 As an example of one of my uses of the strategy, I will site my lesson *The Roman Antecedents of American Government*. ([4](#note4)) In this lesson, my 7th graders, in groups of three or four, receive a folder with two papers with primary source quotations and visuals. The lesson has students examine the writing of a well-known Roman historian (Polybius) on the nature of government in the Roman Republic. The second paper contains quotations from the Federalist Papers. Both papers also contain visual elements (a picture of a statue of Polybius, a photocopy of a section of the Federalist Papers, and a painting of Alexander Hamilton).
+
 In putting these two excellent strategies together, I make the following adaptations: (1) rather than use six or more documents in the DBQ, I use two or three, and (2) in addition to having written questions that I have developed to which the students respond after examining the sources, as done in both DBQs and Response Groups, I have students develop some questions as well that they wish to pursue prior to examining the sources.
+
 On the face of it, developing questions prior to examining documents might appear difficult, but if you have heightened students’ interest in the historical period/question being studied, discussing what they wonder about out loud isn't problematic. Students developing their own questions is, of course, a basic premise of Donna Ogle’s KWL strategy—what students ***K***now, what they ***W***ant to know, and what they have ***L***earned.
 
 ## Breaking the Strategy Down
@@ -67,4 +75,5 @@ On the face of it, developing questions prior to examining documents might appea
 ## Final Thoughts
 
 As a believer in using primary sources with my 7th-grade students, and as a practicing teacher I am in agreement with Professors Sam Wineburg and Daisy Martin when they write that we must strive *to provide all students with access to the rich voices of the past*. ([7](#note7)) This means judicious adaptation of those sources and quotations so that students have access to them while explaining what I have adapted and how I have done it. I also show them (via my Smartboard) the original source. Using primary sources is important in the teaching of history, not as an end in itself but as a means to involve students in investigation and inquiry into historical topics. Melding the basic ideas of DBQs and Response Groups and adapting them in your own classroom is a wonderful way to have your students grapple with the ideas provoked by what they study.
+
 As classroom teachers, we often have a textbook we use in our curriculum. In my next blog, I will share a strategy that I have found most helpful in helping students think about, interact with, and get meaning from their text.

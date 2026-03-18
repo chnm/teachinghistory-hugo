@@ -11,7 +11,30 @@ keywords: Monticello, Founding Fathers, slaves, Virginia, archaeology, artifacts
 website_url: http://anacostia.si.edu/Online_Academy/Academy/academy.htm
 date_published: '2008-04-22T00:00:00'
 series_name: 'The Online Academy: Scholars'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Daily Life
+- Ethnicity
+- Labor
+- Slavery
+- Southern States
+tags:
+- Founding Fathers
+- Monticello
+- Virginia
+- archaeology
+- artifacts
+- estates
+- race
+- race relations
+- slave quarters
+- slaves
+- workshops
 ---
 
 Dianne Swann-Wright, Director of African American and Special Programs at the Thomas Jefferson Foundation, introduces Mulberry Row at Monticello, along which slave quarters and workshops which supported the estate stood.
+
 To view this video, select "Scholars," followed by "Dianne Swann-Wright." Choose one of the Windows Media options.

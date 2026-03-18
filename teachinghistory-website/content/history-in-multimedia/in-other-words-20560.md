@@ -11,6 +11,31 @@ keywords: language, American English, English, British English, class, classes, 
 website_url: http://podcast.history.org/2008/05/26/in-other-words/
 date_published: '2008-05-26T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- African Americans
+- Daily Life
+- Global Contact
+- International Relations
+- Literature
+- Media
+- Southern States
+tags:
+- American English
+- British English
+- English
+- Virginia
+- Williamsburg
+- class
+- classes
+- colonies
+- colonists
+- colonization
+- language
+- race
 ---
 
 Historian Cathy Hellier explains the differences between modern American English and the English of the colonists during the 1700s; she looks also at new ideas on the dialect of African Americans in the Williamsburg area at the time. Click [here](http://www.history.org/foundation/journal/Summer01/words.cfm) to learn more about 18th century speech.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21001
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### FL.SS.A.1. Standard / Body Of Knowledge: Time, Continuity, and Change [History]

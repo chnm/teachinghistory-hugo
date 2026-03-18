@@ -10,7 +10,24 @@ keywords: inventors, inventions, patents
 website_url: http://www.fpri.org/multimedia/20080517.klein.technologicalrevolution.html
 date_published: '2008-05-17T00:00:00'
 series_name: 'America in the Civil War Era, 1829–77: A History Institute for Teachers'
+time_periods:
+- All
+- General
+topics:
+- Business
+- Consumer Culture
+- Daily Life
+- Economy
+- Labor
+- Media
+- Popular Culture, Leisure
+- Science & Tech.
+tags:
+- inventions
+- inventors
+- patents
 ---
 
 Maury Klein of the University of Rhode Island discusses the importance of technological development in U.S. history. He examines the topic from a broad view, establishing context for his later discussion of Frederick Douglass. This lecture was delivered as part of "America in the Civil War Era: A History Institute for Teachers," held May 17-18 at Carthage College in Kenosha, WI, sponsored by the Foreign Policy Research Institute's Wachman Center and by the Clausen Center for World Business, Carthage College and Adult Education, Carthage College.
+
 Audio and video options are available.

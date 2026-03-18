@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21403
 grade_levels:
-  - high
+- high
 ---
 
 * ### PA.5.1.12. Academic Standard: Civics and Government

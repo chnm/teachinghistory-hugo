@@ -12,7 +12,22 @@ splash_image_fid: '8690'
 summary: Joseph Kip Kosek discusses the impact of radical Christian pacifists, including
   Martin Luther King Jr. on American democratic theory and practice.
 splash_image: /files/splash-him-mlk6.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Politics
+- Religion
+tags:
+- Christianity
+- Christians
+- nonviolent protest
+- pacifism
+- pacifists
+- protesters
+- protests
 ---
-
 
 According to the Library of Congress Webcasts summary, in this video, "Joseph Kip Kosek, assistant professor at George Washington University, discussed the impact of radical Christian pacifists on American democratic theory and practice, at the Library of Congress. Kosek, the author of *Acts of Conscience: Christian Nonviolence and Modern American Democracy* and a former fellow of the Library's John W. Kluge Center, talked about his book. According to Kosek, in response to the massive bloodshed that defined the 20th century, American religious radicals developed an effective new form of nonviolent protest, one that combined Christian principles with new uses of mass media. Greatly influenced by the ideas of Mohandas K. Gandhi, these 'acts of conscience' included sit-ins, boycotts, labor strikes and conscientious objection to war. Beginning with World War I and ending with the ascendance of Martin Luther King Jr., Kosek traces the impact of radical Christian pacifists on America."

@@ -27,11 +27,12 @@ splash_image: /files/whiteboardsplash.jpg
 image: /files/whiteboardimage_0.jpg
 author_image: /files/author_image/Amy_Trenkle.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- amy trenkle
+- whiteboards
 ---
-
-
 
 Through the hard work of dedicated parents, our school received funding to improve its technology. Part of this technology was to install interactive whiteboards in every teacher’s classroom. It has been a wonderful addition to the classroom and really heightened enthusiasm for technology and learning, particularly from the students.
 
@@ -51,6 +52,9 @@ With this said, it has also been a bit challenging as a teacher. The boards were
 > * Working more with my colleagues to develop tools that we all can use. As a department, we agree that there is terrific potential in this technology. We need to make a concerted effort to pinpoint what we could all use to strengthen social studies skills as a vertical team. For instance, is there a tool or a program or a method we can use to reinforce common social studies vocabulary words? Or the five themes of geography? Or timeline-building skills? These are social-studies-specific skills that we reinforce throughout the grade levels. Are there materials that we can create and then adapt for grade-level-specific needs? What is something that has worked well for one social studies teacher that the others could benefit from?
 
 I have been surprised—but at the same time, not really—at the enthusiasm the board brings for student learning. Students have walked in and have seen that the whiteboard is on and said, “Yay! We’re using the whiteboard today?”
+
 Unfortunately, while it has not been intended, there has been little training for the fantastic materials we have received. We have had small group peer training (probably one of the most helpful types, in my opinion) in our morning collaborative time; a staff PD morning where we were shown a lot that we could do, but had just a short amount of time to try it; and monthly district training that often collides with other obligations.
+
 That said, I’m definitely looking forward to spending some dedicated time this summer on enhancing certain lessons and integrating them with my whiteboard software now that I understand the technology and the capabilities more.
+
 ***Editor's Note:** The features of interactive whiteboards vary by brand and model. Amy Trenkle's school uses SMART Boards. Other boards may have different capabilities than those mentioned in this blog entry.*

@@ -15,9 +15,18 @@ author_image_fid: '8885'
 summary: If the U.S. interned you and your family, how would you respond?
 splash_image: /files/splash-eoht-manzanar.jpg
 author_image: /files/author_image/author_wu_0.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Asian Americans
+- Military History
+- Western States
+tags:
+- California
+- Japanese American internment
+- Japanese Americans
+- Manzanar
 ---
-
-
 
 /files/media/video/Wu1.mp4
 

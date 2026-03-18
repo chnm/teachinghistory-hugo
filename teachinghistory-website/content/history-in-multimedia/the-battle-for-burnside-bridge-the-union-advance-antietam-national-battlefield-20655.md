@@ -11,6 +11,21 @@ keywords: Confederates, Confederacy, battle, battlefields, Battle of Antietam, A
 website_url: http://www.civilwartraveler.com/audio/index.html#Burnside
 date_published: '2008-09-05T00:00:00'
 series_name: Civil War Tours
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+tags:
+- Antietam
+- Battle of Antietam
+- Burnside Bridge
+- Civil War
+- Confederacy
+- Confederates
+- Maryland
+- battle
+- battlefields
+- soldiers
 ---
 
 This audio tour follows the opening attack on the Confederate right flank during the Battle of Antietam, Sept. 17, 1862. The focal point of the attack and the tour is the Burnside Bridge, one of the most famous Civil War landmarks. The Confederate defenders managed to hold out here for more than four hours against repeated Union assaults.

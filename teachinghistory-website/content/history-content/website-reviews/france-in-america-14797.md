@@ -17,8 +17,39 @@ summary: In French and English, explore the history of the French in North Ameri
 splash_image: /files/France_in_America_432x240.jpg
 thumbnail: /files/quiz_thumbnail/flag-thumb.jpg
 image: /files/website_image/14797.jpg
+time_periods:
+- General
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Economy
+- Global Contact
+- International Relations
+- Military History
+- Politics
+- Rural Life
+evidence_types:
+- Architecture
+- Film and Video
+- Literary Sources
+- Maps
+- Official Documents
+- Paintings and Prints
+- Personal Accounts
+- Photographs
+- Travel
+resource_types:
+- Images
+- Text
+- Video
+tags:
+- French
+- colonies
+- colonists
+- colonization
+- exploration; France; imperialism; French and Indian War; Louisiana Purchase
+- explorers
 ---
 
-
 This bilingual website (English and French) explores the history of the French presence in North America from the early 16th century to the end of the 19th century through more than 360 manuscripts, books, maps, and other documents. Each thematic presentation—"Exploration and Knowledge," "The Colonies," "Franco-Indian Alliances," "Imperial Struggles," and "The French and North America after the Treaty of Paris"—includes a title exhibit and additional exhibits that highlight particular items in the collection. Materials can also be browsed in the collections section.
+
 A timeline (1515–1804) organizes events in French America by explorations, colonization and development, and conflicts and diplomacy, and places them in the context of events in France. Additionally, there are eight descriptive maps that show various Indian groups in contact with the French and the changes in political boundaries in North America from before 1763 to the era of the Louisiana Purchase.

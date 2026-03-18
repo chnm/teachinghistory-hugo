@@ -11,8 +11,31 @@ keywords: literature, writers, writing, authors, autobiographies, politics, poli
 website_url: http://teachingamericanhistory.org/institutes/2004/character_readings.html
 date_published: '2004-08-05T00:00:00'
 series_name: American Democracy, Being Human, and the American Character
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+topics:
+- Daily Life
+- Ideas & Ideologies
+- Literature
+- Media
+- Politics
+- Religion
+tags:
+- authors
+- autobiographies
+- identity
+- literature
+- politicians
+- politics
+- writers
+- writing
 ---
 
 Professor Christopher Flannery looks at the autobiography of novelist, journalist, historian, and academic Henry Adams (1838-1918). Flannery focuses on what it says about the "American character" and how Adams saw it changing at the turn of the century.
+
 For the lecture, follow the link below and scroll down to the first seminar under Thursday, August 5.
+
 An older version of this lecture can be found [here.](http://teachingamericanhistory.org/audio/ram/03-07-10_character_session11.ram)

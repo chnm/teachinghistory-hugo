@@ -21,11 +21,11 @@ splash_image: /files/UnderstandingPoli.jpg
 image: /files/carimg.jpg
 author_image: /files/author_image/burak_1_0.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- political cartoons
 ---
-
-
 
 ## What Is It?
 

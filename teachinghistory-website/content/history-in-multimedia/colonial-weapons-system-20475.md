@@ -11,6 +11,21 @@ keywords: weapons, cannons, crafts, craftsmen, wheelwrights, colonies, colonizat
 website_url: http://podcast.history.org/2008/12/15/colonial-weapons-system/
 date_published: '2008-12-15T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+- Science & Tech.
+tags:
+- cannons
+- colonies
+- colonists
+- colonization
+- crafts
+- craftsmen
+- weapons
+- wheelwrights
 ---
 
 As important as the cannon is the vehicle to carry it: a two-wheeled cart that transports, supports, and stores the weapon and its accoutrements. Wheelwright John Boag has the task of construction.

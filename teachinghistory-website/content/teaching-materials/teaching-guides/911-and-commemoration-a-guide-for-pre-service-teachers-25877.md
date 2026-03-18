@@ -18,10 +18,17 @@ splash_image: /files/service-pnp-highsm-16100-16128v.jpg
 image: /files/Shanksvillememorial2001.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_0.jpeg
 grade_levels:
-  - high
+- high
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Global Contact
+- International Relations
+- Media
+- Military History
+tags:
+- september 11
 ---
-
-
 
 ### What is it?
 

@@ -15,7 +15,18 @@ summary: Let your students compare the entertainment of yesteryear—radio—wit
 thumbnail: /files/As-American_0.jpg
 splash_image: /files/OldTimeRadio_432x240.jpg
 image: /files/website_image/radio-image.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Popular Culture, Leisure
+evidence_types:
+- Music
+- Oral History
+resource_types:
+- Audio
+tags:
+- radio
 ---
-
 
 This website features 85 selections from the "Golden Age of Radio," which lasted from the early 1920s until television replaced radio in many homes in the United States in the 1950s. Shows include original dramatic favorites such as *Dragnet, Perry Mason, Gunsmoke, Sherlock Holmes,* and the *Radio Detective Story Hour*, and adventure and western shows such as *The Adventures of Superman, The Lone Ranger,* and *Batman Adventures*. Other selections include shows discussing aspects of radio's Golden Age, and presenting clips from shows, such as *Theater of the Mind* and *Yesterday's Radio*, as well as shows devoted to music and radio soap operas. There are at least 10 episodes of each show available, and often more than 70. All shows can be streamed online, and many can be downloaded via an iTunes podcast. This website is now part of a larger website devoted to presenting more contemporary radio shows, some of which may not be appropriate for young audiences.

@@ -16,10 +16,14 @@ splash_image: /files/VoiceThreadSplash.jpg
 thumbnail: /files/website_image/CrisUnioImage.jpg
 image: /files/Voicethread150x113.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Collaboration
+- multimedia
+- presentation
+- visualization
 ---
-
 
 Voicethread allows you to collaborate and to create a multimedia presentation combining images and video with text and audio commentary.

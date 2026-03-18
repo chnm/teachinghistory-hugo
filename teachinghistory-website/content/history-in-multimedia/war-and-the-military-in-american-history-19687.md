@@ -10,6 +10,20 @@ keywords: war, wars, military, militaries
 website_url: http://www.fpri.org/multimedia/20070324.mcdougall.warmilitaryushistory.html
 date_published: '2007-03-24T00:00:00'
 series_name: Teaching about the Military in American History
+time_periods:
+- All
+- General
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+tags:
+- militaries
+- military
+- war
+- wars
 ---
 
 Walter A. McDougall, Co-chair of the Foreign Policy Research Institute's History Institute for Teachers explores the U.S. attitude towards war—in which the nation simultaneously claims to be peace-loving and finds itself seeking out or being drawn into conflicts time after time.

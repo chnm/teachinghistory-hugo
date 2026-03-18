@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21165
 grade_levels:
-  - high
+- high
 ---
 
 * ### ME.A. Content Standard: Applications of Social Studies Processes, Knowledge, and Skills

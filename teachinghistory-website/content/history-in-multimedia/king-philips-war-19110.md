@@ -12,6 +12,34 @@ keywords: King Philip's War, colonies, colonists, colonization, Native Americans
 website_url: http://gilderlehrman.org/multimedia#3397
 date_published: '1998-10-05T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- American Indians
+- Education
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- New England
+- Religion
+- Rural Life
+tags:
+- King Philip
+- King Philip's War
+- Metacom
+- Metacom's Rebellion
+- Metacom's War
+- Native Americans
+- colonies
+- colonists
+- colonization
+- race
+- race relations
+- racism
+- war
+- wars
 ---
 
 Jill Lepore, Professor of Early American History at Harvard University, speaks about her book, *The Name of War: King Philip’s War and the Origins of American Identity*, and traces the meanings attached to this brutally destructive war. Lepore examines early colonial accounts that depict King Philip's men as savages and interpret the war as a punishment from God, discusses how the narrative of the war is retold a century later to rouse anti-British sentiment during the Revolution, and finally describes how the story of King Philip is transformed yet again in the early 19th century to portray him as a proud ancestor and American patriot.

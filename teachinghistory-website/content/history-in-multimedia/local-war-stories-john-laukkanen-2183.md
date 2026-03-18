@@ -12,7 +12,18 @@ date_published: '2007-09-07T00:00:00'
 splash_image_fid: '8361'
 summary: World War II veteran John Laukkanen shares his personal memories of the war.
 splash_image: /files/splash-him-vd3.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+tags:
+- World War II
+- recordings
+- records
+- soldiers
+- veterans
+- war
+- wars
 ---
-
 
 World War II veteran John Laukkanen shares his personal memories of the war.

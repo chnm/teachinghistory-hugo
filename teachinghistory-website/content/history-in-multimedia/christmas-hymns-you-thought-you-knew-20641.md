@@ -11,6 +11,30 @@ keywords: hymns, music, songs, lyrics, violins, pochettes, Christmas, musical in
 website_url: http://podcast.history.org/2006/12/25/christmas-hymns-you-thought-you-knew/
 date_published: '2006-12-25T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Daily Life
+- Popular Culture, Leisure
+- Religion
+- Southern States
+tags:
+- Christian
+- Christianity
+- Christmas
+- Great Awakening
+- Puritans
+- Virginia
+- Williamsburg
+- hymns
+- lyrics
+- music
+- musical instruments
+- pochettes
+- songs
+- violins
 ---
 
 John Turner, program manager and religious projects specialist at Colonial Williamsburg, discusses the colonial hymns that evolved into modern Christmas carols. He also looks generally at popular music in the colonial era, and at views on how Christmas should be observed.

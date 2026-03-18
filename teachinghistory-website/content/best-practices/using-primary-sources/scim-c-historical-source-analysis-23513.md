@@ -12,10 +12,13 @@ summary: Virginia Tech’s short video shows how to analyze primary sources and 
   them in context.
 splash_image: /files/SCIM-CSplash.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- overview
+- primary source analysis
+- primary sources
 ---
-
 
 In this short video, created by the [Historical Inquiry](http://www.historicalinquiry.com) project at Virginia Tech, Education Professor David Hicks describes the five steps of **SCIM-C**, a model for analyzing historical sources and placing them within a historical narrative. The steps ask students to:
 

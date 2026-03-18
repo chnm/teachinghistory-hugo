@@ -13,8 +13,15 @@ summary: What do you think Civil War uniforms looked like? They varied more than
   might think!
 splash_image: /files/splash-quiz-cwuniforms_0.jpg
 thumbnail: /files/quiz_thumbnail/OralReseThumbnail.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+tags:
+- soldiers
+- uniforms
 ---
 
-
 Suppose you were fighting in the Civil War and you encountered the uniformed soldiers pictured while scouting in the woods. Would you consider them friend or foe?
+
 Are the soldiers pictured in the quiz from the North or the South?

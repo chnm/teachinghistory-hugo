@@ -10,6 +10,17 @@ keywords: politicians, presidents, secession, Civil War
 website_url: http://ncmuseumofhistory.org/collateral/Podcasts/LincolnSymposium/IntroSectyWilliamHarris.mp3
 date_published: '2009-04-07T00:00:00'
 series_name: 'Bits of History Podcast: Lincoln Symposium'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Ideas & Ideologies
+- Military History
+- Politics
+tags:
+- Civil War
+- politicians
+- presidents
+- secession
 ---
 
 William C. Harris of North Carolina State University describes the qualities Lincoln possessed that directed his leadership decisions during the Civil War.

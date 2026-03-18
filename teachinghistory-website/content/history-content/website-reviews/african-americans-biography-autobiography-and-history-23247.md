@@ -14,7 +14,20 @@ summary: Read a selection of the world's greatest speeches by prominent African 
   figures.
 splash_image: /files/The_Avalon_Project-_African-Americans--Biography_Autobiography_and_History_432x240.jpg
 image: /files/website_image/AvalProjImage.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Ideas & Ideologies
+- Radicalism
+- Reform
+- Women
+evidence_types:
+- Speeches
+resource_types:
+- Text
 ---
-
 
 This section, recently added to the Avalon Project, contains complete copies of Martin Luther King Jr.'s August 28, 1963, "I Have A Dream" speech; Frederick Douglass' 1855 *My Bondage and Freedom*; *The Narrative of Sojourner Truth*, dictated by Sojourner Truth and edited by Olive Gilbert; W.E.B. Du Bois' 1903 *The Souls of Black Folk*; and *Up From Slavery: An Autobiography* by Booker T. Washington. All of the transcripts are legible and available in HTML format.

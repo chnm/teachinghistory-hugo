@@ -12,7 +12,16 @@ splash_image_fid: '8184'
 summary: Bring geography into the history classroom with resources from Google Earth.
 splash_image: /files/googleearthsplash.jpg
 image: /files/google-earthimage.jpg
+tags:
+- GIS
+- Maps
+- geography
+- images
+- mapping
+- overlays
+- research
+- satellite
+- visuals and visualizing
 ---
-
 
 Google Earth is a geo-mapping tool that makes use of a wide variety of imaging sources.

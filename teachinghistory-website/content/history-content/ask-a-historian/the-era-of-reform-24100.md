@@ -12,8 +12,21 @@ url: /history-content/ask-a-historian/24100
 splash_image_fid: '5864'
 summary: Was the antebellum period the height of reform movements in U.S. history?
 splash_image: /files/Brook_Farm_Rainbow_1845.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Ideas & Ideologies
+- New England
+- Radicalism
+- Reform
+- Religion
+tags:
+- politics
+- progressivism
+- radicalism
+- reform
 ---
-
 
 The reform movements that arose during the antebellum period in America focused on specific issues: temperance, abolishing imprisonment for debt, pacifism, antislavery, abolishing capital punishment, amelioration of prison conditions (with prison's purpose reconceived as rehabilitation rather than punishment), the humane treatment of animals, the humane and just treatment of Native Americans, the establishment of public institutions for the care of the destitute, orphans, blind, and mentally ill, the establishment of public schools, the abolition of tobacco use, vegetarianism, health reform, homeopathic medicine, woman's rights (including, at first, especially the establishment of a woman's right to own property apart from her husband and her right to sue for divorce), and the amelioration of labor conditions (including higher pay, the right to form unions, the right to strike, and the demand for limits on the number of work hours, and safe working conditions).
 

@@ -10,6 +10,24 @@ keywords: cross-dressing, crossdressers, crossdressing, cross-dressers, disguise
   disguises, wars, war, American Revolution, Revolutionary War
 website_url: http://dev.forum-network.org/lecture/masquerade-deborah-sampson-continental-soldier
 date_published: '2004-09-29T00:00:00'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Gender
+- Military History
+- Sexuality
+- Women
+tags:
+- American Revolution
+- Revolutionary War
+- cross-dressers
+- cross-dressing
+- crossdressers
+- crossdressing
+- disguise
+- disguises
+- war
+- wars
 ---
 
 Historian Alfred Young, author of *Masquerade*, and Pulitzer Prize-winning historian Laurel Thatcher Ulrich examine Americans' public memory of Deborah Sampson (a woman who fought in the American Revolution disguised as a man) and other Revolutionary-era women. Performer and storyteller Joan Gatturna also brings Deborah Sampson to life in a dramatic first-person performance.

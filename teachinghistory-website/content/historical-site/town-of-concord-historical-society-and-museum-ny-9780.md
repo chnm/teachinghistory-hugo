@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 9780
 website_url: http://www.townofconcordnyhistoricalsociety.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Mid-Atlantic
+tags:
+- New York
 ---
 
 The Town of Concord Historical Society seeks to preserve and share the history of Concord and Springville, New York. To this end, the society operates the Warner Museum.
+
 The museum offers exhibits.

@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 12878
 website_url: http://www.ncfiremuseum.org
+time_periods:
+- General
+topics:
+- Daily Life
+- Mid-Atlantic
+- Science & Tech.
+tags:
+- Fire Safety
+- New York
+- firefighting
+- uniforms
 ---
 
 The Francis X. Pendl Nassau County Firefighters Museum and Education Center presents the history of firefighting in Nassau County, New York communities. Collections include historic and modern apparatus and uniforms. An interactive exhibit focuses on fire safety.
+
 The museum offers traditional and interactive exhibits, interactive fire safety and prevention presentations for students, and senior programs.

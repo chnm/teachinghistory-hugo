@@ -6,7 +6,25 @@ content_type: historical_site
 draft: false
 drupal_nid: 5324
 website_url: http://www.hiller.org
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Science & Tech.
+- Western States
+tags:
+- California
+- airplanes
+- aviation
+- aviators
+- flight
+- museums
+- planes
+- transportation
 ---
 
 The Hiller Aviation Museum celebrates the human spirit of adventure expressed in the history of aviation in Northern California and beyond. Through aircraft collections, exhibits, and programs, the museum provides multiple ways for visitors to experience the adventure and innovation of flight and to use aviation as a portal for exploring science, history, and technology.
+
 The museum offers exhibits, tours, educational programs, research library access, and educational and recreational events.

@@ -6,7 +6,17 @@ content_type: historical_site
 draft: false
 drupal_nid: 21913
 website_url: http://www.monh.org/
+time_periods:
+- General
+topics:
+- New England
+tags:
+- Masonry
+- Masons
+- Massachusetts
+- museum
 ---
 
 The Museum presents wide-ranging exhibits on U.S. history, from the traditional stories of Paul Revere, George Washington, and the American Revolution to novel topics such as Route 66, diners, neon signs, or even doing laundry in America. Each year, the museum holds as many as 18 changing exhibitions.
+
 The museum offers exhibits, guided and self-guided tours for school groups, educational programs for all grade levels, research library access, and recreational and educational events.

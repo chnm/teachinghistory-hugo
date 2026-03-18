@@ -12,8 +12,29 @@ url: /history-content/ask-a-historian/24601
 splash_image_fid: '7299'
 summary: The work of the Civilian Conservation Corps in central New York State.
 splash_image: /files/CCC-boys-putting-out-forest-fire.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- American Indians
+- Economy
+- Environment
+- Labor
+- Mid-Atlantic
+- Reform
+- Rural Life
+tags:
+- CCC
+- Civilian Conservation Corps
+- FDR
+- Great Depression
+- New Deal
+- New York State
+- Onondaga County
+- Onondaga Reservation
+- Syracuse
+- conservation
+- environment
 ---
-
 
 The Civilian Conservation Corps (CCC) began in early 1933, under its FDR-appointed director, Robert Fechner, a union leader who had previously been the vice president of the International Association of Machinists. The CCC was a public work relief program for unemployed young men, aged 18-25, who worked on government-owned lands, mostly on natural resource conservation projects. The U.S. Army ran the program, which was therefore sometimes jocularly referred to as “Roosevelt’s Tree Army.” It ended in 1942. The CCC’s Second Corps Area included New York and New Jersey, and in these two states there were 75 camps, most of which resembled rustic World War I Army camps. Some of them were essentially tent towns and were occupied only during the warmer seasons, but others served as winter quarters as well and were constructed of timber buildings and masonry. The enlistees who served in each camp generally came from all over the country. The young men who enlisted from Onondaga County, for example, were transported by train to Fort Dix, New Jersey, where they were given some very basic training before being assigned to CCC camps around the country.
 

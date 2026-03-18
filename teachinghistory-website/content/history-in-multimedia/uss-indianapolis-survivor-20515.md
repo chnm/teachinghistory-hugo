@@ -15,7 +15,23 @@ splash_image_fid: '8399'
 summary: Wes Cowan of PBS's *History Detectives* interviews USS *Indianapolis* survivor
   L.D. Cox, who relates his memories of the ship's sinking.
 splash_image: /files/splash-him-vd17.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+tags:
+- Pacific
+- Pacific Theater
+- Pacific Theatre
+- U.S. Navy
+- USS Indianapolis
+- World War II
+- boats
+- sailors
+- ships
+- shipwrecks
+- soldiers
+- veterans
 ---
-
 
 Wes Cowan of PBS's *History Detectives* interviews USS *Indianapolis* survivor L.D. Cox, who relates his memories of the ship's sinking.

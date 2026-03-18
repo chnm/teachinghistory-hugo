@@ -18,9 +18,14 @@ summary: Use the Stanford History Education Group's curriculum to teach historic
 splash_image: /files/splash-ups-rlikehistorian.jpg
 author_image: /files/author_image/Logo_SHEG.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- General
+tags:
+- Analyzing texts
+- overview
+- strategies and lessons
+- worksheets
 ---
-
-
 
 The Stanford History Education Group produced these lessons and materials as part of the Reading Like a Historian (RLH) curriculum. Three introductory lessons draw upon familiar, real-life situations to help students understand historical thinking and prepare them to do inquiry using primary and secondary sources. For example, one lesson positions students to understand sourcing by having them reason through why witnesses to a lunchroom fight might tell different stories about what happened. Also included here are resources for teaching the historical thinking skills of sourcing, contextualization, and corroboration. These include handouts that remind students what questions they should ask as they analyze documents and a helpful skills chart with useful prompts and descriptions (see "Classroom posters).

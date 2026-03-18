@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 11142
 website_url: http://www.monroehistory.org
+time_periods:
+- General
+topics:
+- Midwestern States
+tags:
+- Bloomington
+- Indiana
+- Monroe County
 ---
 
 The Monroe County Historical Society is dedicated to preserving the history of Monroe County, IN. The society is headquartered in the Monroe County History Center, which is located in downtown Bloomington. The history center is also home to the society's historical archives and a museum of local history.
+
 The society offers research resources, field trip programs, guided tours, periodic presentations, and exhibits. The website offers visitor information, a history of Monroe County, and an events calendar.

@@ -13,7 +13,12 @@ splash_image_fid: '9424'
 summary: In this lecture, American music historian David Hildebrand discusses the
   truth behind the music of the War of 1812.
 splash_image: /files/spangledsplash.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+tags:
+- Francis Scott Key
+- Star-spangled Banner
+- national anthem
 ---
-
 
 In this lecture produced by the Maryland Historical Society, early American music historian David Hildebrand discusses the creation of the national anthem. Hildebrand talks about how the Battle of Fort McHenry inspired Francis Scott Key to write the poem that became the lyrics to "The Star-Spangled Banner." In addition, he offers an analysis of musical expressions of patriotism during and after the war and responds to various questions posed by the audience.

@@ -12,10 +12,15 @@ summary: Do students interpret third-person narratives written by anonymous auth
 splash_image: /files/researchsplash.jpg
 image: /files/invisibletext.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- authors
+- historians
+- historical thinking
+- improvement
+- textbooks
 ---
-
 
 1. Have students read more than the textbook in your classroom. Use many varied texts including primary sources.
 2. Use texts in your classroom with visible authors. Authors can be visible through:

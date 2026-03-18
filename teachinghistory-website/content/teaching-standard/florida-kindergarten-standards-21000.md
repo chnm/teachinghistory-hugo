@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21000
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### FL.SS.K.A.1 Standard / Body Of Knowledge: Historical Inquiry and Analysis [American History]

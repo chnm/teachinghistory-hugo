@@ -12,11 +12,13 @@ summary: Do students need reading skills specific to the history classroom? Clic
 splash_image: /files/readingsplash.jpg
 image: /files/readingimage_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- historical thinking
+- literacy
 ---
-
 
 1. Ask yourself a series of questions to determine if and how you are teaching your students historical reading.
 

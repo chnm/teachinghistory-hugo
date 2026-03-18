@@ -10,8 +10,15 @@ splash_image_fid: '10201'
 summary: Watch Suzannah Niepold of the Smithsonian American Art Museum guide teachers
   in analyzing four works of art.
 splash_image: /files/amart1splash_0.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Art
+tags:
+- art
+- artists
 ---
-
 
 /files/media/video/AmArt1.mp4
 

@@ -18,14 +18,16 @@ author_image_fid: '7810'
 summary: Slavery outside of the South is often overlooked, as is Wyoming history.
 splash_image: /files/slaveryinwyoming432x240b.jpg
 author_image: /files/author_image/authorphotobrianhosmer75x75.jpg
+topics:
+- Slavery
+- Western States
 ---
-
-
 
 It depends on the time period. As Wyoming did not become a state until 1890, then slavery would obviously have been illegal, as this was after the passage of the 13th Amendment in 1865. However, if the question refers to the legality of slavery in southern Wyoming in earlier times, then the answer must be a qualified 'yes.'
 > What became southeastern Wyoming was part of the French Colony of Louisiana between 1699 and 1764, when jurisdiction passed to the Spanish. Slavery was legal in Louisiana, under both the French and the Spanish at this time.
 
 What became southeastern Wyoming was part of the French Colony of Louisiana between 1699 and 1764, when jurisdiction passed to the Spanish. Slavery was legal in Louisiana, under both the French and the Spanish at this time. However, the fact that slavery existed in Louisiana doesn't necessarily mean that the institution took root in Wyoming. Louisiana was a big place, so conditions that existed in St. Louis and New Orleans did not necessarily translate to Wyoming.
+
 The purchase of Louisiana by the U.S. in 1803 did not change these conditions materially. Louisiana Territory was open to slavery, and, as we know, Lewis and Clark brought at least one slave—York—with them on their journey up the Missouri. The Territory of Missouri, established in 1812 and encompassing what came to be Wyoming east of the Continental Divide, also permitted slavery. However, the Missouri Compromise of 1821 outlawed slavery north of 36 degrees, 30 minutes latitude in remaining portions of the former Louisiana Territory. That settled the issue temporarily. The Kansas-Nebraska Act of 1854 erased the Missouri Compromise line and made slavery possible via the instrument of popular sovereignty. Later, the Civil War and 13th Amendment rendered that a moot point.
 
 ## Slavery of and Among Native Americans
@@ -38,6 +40,7 @@ It depends on the time period. As Wyoming did not become a state until 1890, the
 > What became southeastern Wyoming was part of the French Colony of Louisiana between 1699 and 1764, when jurisdiction passed to the Spanish. Slavery was legal in Louisiana, under both the French and the Spanish at this time.
 
 What became southeastern Wyoming was part of the French Colony of Louisiana between 1699 and 1764, when jurisdiction passed to the Spanish. Slavery was legal in Louisiana, under both the French and the Spanish at this time. However, the fact that slavery existed in Louisiana doesn't necessarily mean that the institution took root in Wyoming. Louisiana was a big place, so conditions that existed in St. Louis and New Orleans did not necessarily translate to Wyoming.
+
 The purchase of Louisiana by the U.S. in 1803 did not change these conditions materially. Louisiana Territory was open to slavery, and, as we know, Lewis and Clark brought at least one slave—York—with them on their journey up the Missouri. The Territory of Missouri, established in 1812 and encompassing what came to be Wyoming east of the Continental Divide, also permitted slavery. However, the Missouri Compromise of 1821 outlawed slavery north of 36 degrees, 30 minutes latitude in remaining portions of the former Louisiana Territory. That settled the issue temporarily. The Kansas-Nebraska Act of 1854 erased the Missouri Compromise line and made slavery possible via the instrument of popular sovereignty. Later, the Civil War and 13th Amendment rendered that a moot point.
 
 ## Slavery of and Among Native Americans

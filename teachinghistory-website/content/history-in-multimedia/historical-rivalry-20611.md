@@ -14,7 +14,31 @@ series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
 splash_image_fid: '3366'
 summary: Greed, nude cartwheels, and massacre, oh my!
 splash_image: /files/HistorRivalSplsh.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Education
+- Global Contact
+- Ideas & Ideologies
+- New England
+- Southern States
+tags:
+- Jamestown
+- Massachusetts
+- Native Americans
+- Plymouth
+- Puritans
+- Virginia
+- archaeology
+- colonies
+- colonists
+- colonization
+- museums
+- pilgrims
+- race
+- race relations
 ---
-
 
 Jim Axtell, the College of William and Mary's William R. Kenan Jr. Professor of Humanities, discusses possible reasons why many people mistakenly believe that Plymouth was founded before Jamestown; and looks at what might be required for Jamestown to assume prominence in popular memory.

@@ -14,10 +14,15 @@ summary: Discover the extent of students' understanding of historical subjects w
 splash_image: /files/image-splash-mentalmap.jpg
 image: /files/mind-mapping.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- General
+topics:
+- Education
+tags:
+- visuals and visualizing
 ---
-
 
 Mapping out historical thoughts and ideas

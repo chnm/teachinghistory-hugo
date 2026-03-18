@@ -6,7 +6,24 @@ content_type: historical_site
 draft: false
 drupal_nid: 8683
 website_url: http://lauraingallswilderhome.com/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- General
+topics:
+- Daily Life
+- Family Life
+- Midwestern States
+tags:
+- Laura Ingalls Wilder
+- Little House
+- Missouri
+- Pioneer
+- Rose Wilder Lane
+- house
+- museum
 ---
 
 The Laura Ingalls Wilder Home and Museum exhibits include artifacts spanning over a century of the pioneer history described in the *Little House* books. The books, written by Laura Ingalls Wilder (1867-1957), chronicle the author's life in a pioneer family. The life, writings, and career of Rose Wilder Lane (1886-1968), Laura's daughter, are also featured in a section of the museum. Recreations of rooms from Rose's homes, her desks, her manuscripts, and souvenirs from her world travels are also displayed. The museum is located at Rocky Ridge Farm, where Laura Ingalls Wilder wrote her famous novels.
+
 The museum offers period rooms and exhibits. The website offers word finds, book quizzes, and coloring pages.

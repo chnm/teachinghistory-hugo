@@ -21,11 +21,23 @@ summary: Watch Smithsonian curator Barbara Clark Smith discuss John Smith’s Ma
 splash_image: /files/johnsmithsplash.jpg
 author_image: /files/author_image/barbara.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- American Indians
+- Mid-Atlantic
+tags:
+- Jamestown
+- Jamestowne
+- John Smith
+- Maps
+- Powhatans
+- Virginia
+- exploration
+- explorers
 ---
-
-
 
 /files/media/video/JohnSmith1.mp4
 

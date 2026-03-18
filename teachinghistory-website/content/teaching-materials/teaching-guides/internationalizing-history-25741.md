@@ -17,9 +17,12 @@ summary: Discover the resources you need to "globalize" your U.S. history lesson
 splash_image: /files/internationalsplash.jpg
 image: /files/internationalimage.jpg
 author_image: /files/author_image/author_green.jpg
+topics:
+- Global Contact
+- International Relations
+tags:
+- global history
 ---
-
-
 
 ## What Is It?
 

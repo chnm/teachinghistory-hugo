@@ -15,7 +15,22 @@ summary: Catch up on the latest scholarly research, and learn and incorporate ne
 thumbnail: /files/amcity.jpg
 splash_image: /files/cooperative.jpg
 image: /files/website_image/HistCoopImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- African Americans
+- Reform
+resource_types:
+- Text
 ---
-
 
 This website provides full-text access to 22 academic history journals, including major titles, such as the *American Historical Review* and the *Journal of American History*, and smaller journals, such as the *Journal of Social History*, the *Western Historical Quarterly*, and the *Journal of World History*. Available journals include current issues and coverage from the recent past, going back as far as 1999, in PDF and HTML format. The website offers keyword and Boolean searching as well as advanced searching by type of article. There are four additional resources, including conference proceedings, the Booker T. Washington Papers, and Historical Map Collections. Articles in the *American Historical Review* are available for free without a subscription; reviews are available only by subscription.

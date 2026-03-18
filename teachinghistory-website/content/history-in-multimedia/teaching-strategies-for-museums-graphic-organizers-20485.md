@@ -11,6 +11,20 @@ keywords: museums, graphic organizers, teaching, teachers, education, U.S. Posta
 website_url: http://smithsoniansource.org/display/topic/video/viewdetailstea.aspx?TopicId=1033
 date_published: '2008-12-17T00:00:00'
 series_name: Teaching with Primary Sources
+time_periods:
+- All
+- General
+topics:
+- Education
+tags:
+- U.S. Postal Service
+- education
+- graphic organizers
+- museums
+- primary sources
+- teachers
+- teaching
+- transportation
 ---
 
 This brief lecture explores the use of graphic organizers to help students prepare for, gather information during, and synthesize information after a visit to a museum.

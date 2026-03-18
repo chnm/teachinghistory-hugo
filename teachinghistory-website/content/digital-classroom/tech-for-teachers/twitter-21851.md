@@ -17,9 +17,12 @@ splash_image: /files/TwitterSplash.jpg
 thumbnail: /files/quiz_thumbnail/NatGeoUnThumbnail.jpg
 image: /files/Twitter-150x113.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- Collaboration
+- networking
+- social networking
 ---
-
 
 Twitter is a social networking application for quick messages (280 characters or fewer) sent and received from computers and mobile devices.

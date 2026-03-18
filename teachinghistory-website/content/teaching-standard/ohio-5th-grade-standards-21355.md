@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21355
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## Theme: Regions and People of the Western Hemisphere

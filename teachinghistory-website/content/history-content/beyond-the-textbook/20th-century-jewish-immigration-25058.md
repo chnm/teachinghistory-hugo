@@ -111,6 +111,36 @@ question: How is Jewish immigration generalized by textbooks?
 url: /history-content/beyond-the-textbook/25058
 splash_image_fid: '7877'
 splash_image: /files/jewishimm_splash.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Cities & Suburbs
+- Daily Life
+- Economy
+- Education
+- Ethnicity
+- Family Life
+- Global Contact
+- Ideas & Ideologies
+- Immigration
+- Labor
+- Reform
+- Religion
+- Women
+tags:
+- Jewish
+- Ku Klux Klan
+- Protocol of Peace
+- activism
+- activists
+- anti-Semitism
+- immigration
+- labor
+- rights
 ---
 
 ## What Textbooks Say

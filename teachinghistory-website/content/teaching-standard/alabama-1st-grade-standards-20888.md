@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20888
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## AL.1 Standard: Living and Working Together in Communities and State
@@ -78,19 +78,23 @@ The goal of the first-grade curriculum is to help students acquire knowledge reg
   - ##### Grade Level Example:
 
     past—letter, radio, rotary-dial telephone
+
     present—e-mail, television, cellular telephone+ Identifying past and present types of apparel
   + Identifying past and present types of technology
   - ##### Grade Level Example:
 
     past—record player, typewriter, wood-burning stove
+
     present—compact diskette (CD) and digital video diskette (DVD) players, video cassette recorder (VCR), computer, microwave oven+ Identifying past and present types of recreation
   - ##### Grade Level Example:
 
     past—marbles, hopscotch, jump rope
+
     present—video games, computer games+ Identifying past and present primary sources
   - ##### Grade Level Example:
 
     past—letters, newspapers
+
     present—e-mail, Internet articles
 
 ### 1.7
@@ -101,6 +105,7 @@ The goal of the first-grade curriculum is to help students acquire knowledge reg
   + ##### Grade Level Example:
 
     Occupational—commercial fishing and tourism in Gulf coast areas
+
     Recreational—camping and hiking in mountain areas, fishing and waterskiing in lake areas
 
 ### 1.8

@@ -11,6 +11,29 @@ keywords: racism, race, race relations, Japan, Japanese, Japanese-Americans, pro
 website_url: http://dev.forum-network.org/lecture/detested-foe-america-during-wwii
 date_published: '2005-03-21T00:00:00'
 series_name: 'Ken Burns: The War'
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Asian Americans
+- Global Contact
+- International Relations
+- Literature
+- Media
+- Military History
+- Politics
+- Popular Culture, Leisure
+- Science & Tech.
+tags:
+- Japan
+- Japanese
+- Japanese-Americans
+- World War II
+- propaganda
+- race
+- race relations
+- racism
+- war
+- wars
 ---
 
 Professors Seth Jacobs and Franziska Seraphim lecture on America's strategy in the Pacific during World War II, and how Americans perceived the Japanese enemy. They discusses America's war crimes against the Japanese, anti-Japanese propaganda, and the bombings of Hiroshima and Nagasaki.

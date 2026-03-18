@@ -6,6 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 4381
 website_url: http://ncmuseumofhistory.org
+time_periods:
+- All
+- General
+topics:
+- Southern States
+tags:
+- North Carolina
+- museums
 ---
 
 The North Carolina Museum of History is an exciting place to explore the state’s rich heritage and learn about its people. The museum offers exhibits, self-guided and spotlight tours for school groups, summer camps, the Tar Heel Junior Historian Association for students, history-in-a-box kits for loan, virtual field trips, professional development for educators, and other educational events and programs.

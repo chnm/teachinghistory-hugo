@@ -12,10 +12,15 @@ summary: Quantitative data, although seemingly daunting and impersonal, can help
   understand the past.
 splash_image: /files/splash-ups-numbers.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- All
+- General
+tags:
+- analyizng maps and charts
+- models of analysis
 ---
-
 
 Does the very thought of quantitative analysis make you shake in your shoes? "Making Sense of Numbers" provides a place for students and teachers to begin working with quantitative historical data as a way of understanding the past. Written by Gary J. Kornblith, this [guide](http://historymatters.gmu.edu/mse/numbers/) offers an overview of quantitative methods, how historians use historical data, and step-by-step instructions using actual historical data to determine totals, rates, averages, standard deviations, and coefficients of correlation.

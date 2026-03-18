@@ -14,8 +14,28 @@ summary: How does a university grow into its own?
 splash_image: /files/splash-wr-georgemasonu.jpg
 thumbnail: /files/SocietyforHistory432x240.jpg
 image: /files/website_image/GMUElecImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Education
+- Southern States
+evidence_types:
+- Film and Video
+- Official Documents
+- Photographs
+- Quantitative Evidence
+resource_types:
+- Audio
+- Data
+- Images
+- Text
+- Video
+tags:
+- colleges
+- universities
 ---
 
-
 Charts the institutional history of George Mason University from its beginnings in 1949–50 as an adult education extension of the University of Virginia located in northern Virginia, through its formal separation from UVA in 1960, to its present-day existence as a multi-campus university.
+
 Offers more than 30 documents and nearly 50 photographs related to the history, a 400-word biography of George Mason, an annotated chronology, and a current 108-page fact book. Of interest to those studying the history of education and Virginia history.

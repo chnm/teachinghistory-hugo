@@ -18,8 +18,42 @@ summary: Explore this archive of over 900 images by American photographer, Willi
 splash_image: /files/Around_the_World_in_the_1890s_432x240.jpg
 thumbnail: /files/quiz/princesses_answer-weetamoo.jpg
 image: /files/website_image/AroundtheWorld1.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Consumer Culture
+- Environment
+- Global Contact
+- International Relations
+- Media
+- Popular Culture, Leisure
+- Science & Tech.
+evidence_types:
+- Photographs
+- Travel
+resource_types:
+- Images
+tags:
+- Asia
+- Australia
+- Chicago
+- North Africa
+- Oceania
+- Russia
+- colonialism
+- industrialization
+- mass media
+- photographers
+- photographs
+- photography
+- railroads
+- railways
+- transportation
+- travel
+- world's transportation commission
 ---
 
-
 This photograph archive contains more than 900 images made by American photographer William Henry Jackson (1843–1942) during his tour of North Africa, Asia, Russia, Australia, and Oceania from 1894 to 1896. The World's Transportation Commission, an organization formed to aid American business interests abroad, commissioned Jackson for this trip.
+
 The photographs, originally exhibited in Chicago's Field Columbian Museum, focus on transportation systems, especially railroads, as well as tourist sites, indigenous life, wildlife, and locations of natural beauty. Nearly 687 of the images are from lantern slides, many of which were hand-colored. Many of the photographs appeared in *Harper's Weekly.* This collection is valuable for those interested in late 19th-century photography, colonialism, and industrialization.

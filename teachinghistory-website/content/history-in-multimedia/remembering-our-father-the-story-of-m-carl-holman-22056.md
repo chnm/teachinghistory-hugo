@@ -15,7 +15,26 @@ summary: The children of author and civil rights activist M. Carl Holman—Kinsh
   Holman-Conwill, Kwasi Holman, and Kwame Holman—reflect on the character of their
   father.
 splash_image: /files/splash-him-mlk8.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Cities & Suburbs
+- Ideas & Ideologies
+- Literature
+- Politics
+- Reform
+tags:
+- Civil Rights Movement
+- National Urban Coalition
+- authors
+- civil rights
+- race
+- race relations
+- writers
 ---
-
 
 In this Library of Congress presentation, the children of author and civil rights activist M. Carl Holman—Kinshasha Holman-Conwill, Kwasi Holman, and Kwame Holman—reflect on the character of their father, who also served as the director of the National Urban Coalition.

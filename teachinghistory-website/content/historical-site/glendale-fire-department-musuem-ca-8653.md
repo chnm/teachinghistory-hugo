@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 8653
 website_url: http://fire.ci.glendale.ca.us/gfdmuseum.asp
+time_periods:
+- General
+topics:
+- Labor
+- Science & Tech.
+- Western States
+tags:
+- California
+- firefighting
+- museum
 ---
 
 The Glendale Fire Department Museum presents historical information and artifacts relevant to firefighting and to the Glendale Fire Department.
+
 The museum offers tours.

@@ -14,20 +14,27 @@ summary: Be a creative teacher—use scrapbooks in YOUR history classroom!
 splash_image: /files/scrapbooksplash.jpg
 image: /files/scrapbookimage.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+tags:
+- Creative teaching
+- scrapbooks
+- teaching ideas
+- teaching methods
 ---
-
 
 ## Using Scrapbooks
 
 Making scrapbook pages can be a fun activity for students in the elementary grades. You will want to help students understand that, in this case, a scrapbook—like all history—uses pieces of the past to tell a story. Students can make their own scrapbook pages that tell a story and these pages, when bound together, can tell a larger story or multiple stories about the same theme, historical event, or era.
+
 Students could construct pages that tell family history or pages that focus on an historical figure like George Washington, Elizabeth Cady Stanton or César Chávez. Such scrapbooks might integrate photos, portraits, maps, timelines, and age-appropriate primary documents. Another option for scrapbooking is to examine a topic related to local history. Students might construct pages about historic sites in their own community, including important buildings, parks, and graveyards, pages about people from the past who made a difference in their local areas, or pages about daily life in the past. These pages could be bound together and used as a resource for future activities like writing a town history. Naturally, you will want to tailor the assignment’s topic and requirements to the particular age-group that you’re working with, asking older students to use more materials and craft more complete and clear narratives.
 
 ## Assignment’s Requirements
 
 You’ll want to guide students in terms of what their scrapbooks should include. First, you’ll want to help students understand the kinds of sources they should use. Have a conversation with them about where they might gather the ingredients for a scrapbook page, and consider working with your school librarian to ensure that students have the necessary materials they will need to tell their story—photos and pictures from the internet, old newspapers and magazines, etc. You will also want to help students understand that a scrapbook, like all history, uses pieces of the past to tell a story. Selecting and ordering their materials chronologically, by theme, or in some other manner, will affect the nature of their narrative—and they’ll want to consider this when choosing sources to paste on their page. Consider if you will require specific sources, for example, will they need to include a map? Two photographs?
+
 Students will need coaching in creating titles for their pages and captions for the “scraps” they include on that page. Remind them to use details in those captions and include information about names, dates, and places. Again, consider your students’ abilities in deciding what prose will be required in the assignment, and the choices (e.g., page title) you will leave to them and the choices you will make for them. Your experience with creating scrapbook pages will likely make it easy for you to model how you plan your page and what finished pages look like. This kind of modeling is always helpful for students. We also recommend using the creation of scrapbook pages as a prewriting or presentation assignment, where they put into words the story they have created on their page.
+
 Scrapbooking, in short, can be a useful tool in the history classroom, as long as you take the time to create assignments that focus on understanding the past. Teaching opportunities in the activity include students learning more about the use and selection of evidence to tell a story, and cultivating a deeper understanding of primary sources and the specific historical stories they illustrate. Be sure to define your learning objectives thoughtfully so it is an activity with significant purpose. Try this [backwards design]( http://edutechwiki.unige.ch/en/Backwards_design) model for planning, where those objectives determine the specific shape and nature of the activity that you design.
 
 ---
@@ -35,10 +42,13 @@ Scrapbooking, in short, can be a useful tool in the history classroom, as long a
 ## Using Scrapbooks
 
 Making scrapbook pages can be a fun activity for students in the elementary grades. You will want to help students understand that, in this case, a scrapbook—like all history—uses pieces of the past to tell a story. Students can make their own scrapbook pages that tell a story and these pages, when bound together, can tell a larger story or multiple stories about the same theme, historical event, or era.
+
 Students could construct pages that tell family history or pages that focus on an historical figure like George Washington, Elizabeth Cady Stanton or César Chávez. Such scrapbooks might integrate photos, portraits, maps, timelines, and age-appropriate primary documents. Another option for scrapbooking is to examine a topic related to local history. Students might construct pages about historic sites in their own community, including important buildings, parks, and graveyards, pages about people from the past who made a difference in their local areas, or pages about daily life in the past. These pages could be bound together and used as a resource for future activities like writing a town history. Naturally, you will want to tailor the assignment’s topic and requirements to the particular age-group that you’re working with, asking older students to use more materials and craft more complete and clear narratives.
 
 ## Assignment’s Requirements
 
 You’ll want to guide students in terms of what their scrapbooks should include. First, you’ll want to help students understand the kinds of sources they should use. Have a conversation with them about where they might gather the ingredients for a scrapbook page, and consider working with your school librarian to ensure that students have the necessary materials they will need to tell their story—photos and pictures from the internet, old newspapers and magazines, etc. You will also want to help students understand that a scrapbook, like all history, uses pieces of the past to tell a story. Selecting and ordering their materials chronologically, by theme, or in some other manner, will affect the nature of their narrative—and they’ll want to consider this when choosing sources to paste on their page. Consider if you will require specific sources, for example, will they need to include a map? Two photographs?
+
 Students will need coaching in creating titles for their pages and captions for the “scraps” they include on that page. Remind them to use details in those captions and include information about names, dates, and places. Again, consider your students’ abilities in deciding what prose will be required in the assignment, and the choices (e.g., page title) you will leave to them and the choices you will make for them. Your experience with creating scrapbook pages will likely make it easy for you to model how you plan your page and what finished pages look like. This kind of modeling is always helpful for students. We also recommend using the creation of scrapbook pages as a prewriting or presentation assignment, where they put into words the story they have created on their page.
+
 Scrapbooking, in short, can be a useful tool in the history classroom, as long as you take the time to create assignments that focus on understanding the past. Teaching opportunities in the activity include students learning more about the use and selection of evidence to tell a story, and cultivating a deeper understanding of primary sources and the specific historical stories they illustrate. Be sure to define your learning objectives thoughtfully so it is an activity with significant purpose. Try this [backwards design]( http://edutechwiki.unige.ch/en/Backwards_design) model for planning, where those objectives determine the specific shape and nature of the activity that you design.

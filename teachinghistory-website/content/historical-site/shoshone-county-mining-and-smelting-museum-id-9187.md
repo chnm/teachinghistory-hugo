@@ -6,7 +6,29 @@ content_type: historical_site
 draft: false
 drupal_nid: 9187
 website_url: http://www.staffhousemuseum.com/
+time_periods:
+- Emergence of Modern US, 1890-1930
+- General
+topics:
+- Business
+- Daily Life
+- Economy
+- Environment
+- Health & Medicine
+- Labor
+- Western States
+tags:
+- Idaho
+- disasters
+- electricity
+- medicine
+- metallurgy
+- minerals
+- mining
+- mining disasters
+- smelting
 ---
 
 The Shoshone County Mining and Smelting Museum presents the local history of the Silver Valley, Idaho, with a particular emphasis on mining and smelting history. Exhibits cover mining, environmental history, smelting equipment, minerals, metallurgy, medicine, and electricity. Collection highlights include an 1899 Nordberg Air Compressor and scale models of the Bunker Hill and Sunshine Mines. Dating to 1906, the museum structure was built as the residence of Stanley A. Easton (died 1961), manager of the Bunker Hill and Sullivan Mining and Concentrating Company.
+
 The museum offers exhibits and a period sitting room.

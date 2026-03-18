@@ -12,4 +12,5 @@ series_name: The Library of Congress Webcasts
 ---
 
 According to the The Library of Congress Webcasts site:
+
 "Jane Sheehan and Don Olson discuss the history of the guide dog movement, the trends of the movement today, and how the movement impacts both blind and sighted communities."

@@ -11,6 +11,25 @@ keywords: livestock, cattle, poultry, animal husbandry, food, meat, farming, far
 website_url: http://podcast.history.org/2005/05/05/colonial-williamsburgs-livestock-program/
 date_published: '2005-05-05T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Consumer Culture
+- Daily Life
+- Science & Tech.
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- animal husbandry
+- cattle
+- farmers
+- farming
+- food
+- livestock
+- meat
+- poultry
 ---
 
 Elaine Shirley, manager of rare breeds at Colonial Williamsburg, talks about the management of livestock and the roles these animals played in colonial-era society.

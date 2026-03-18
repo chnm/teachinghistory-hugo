@@ -10,7 +10,30 @@ keywords: photography, photographs, photos, photographers, architecture, buildin
   businesses, Boston, Southworth & Hawes, historic sites
 website_url: http://dev.forum-network.org/lecture/tremont-row-artists-daguerreotype-rooms
 date_published: '2006-02-28T00:00:00'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Business
+- Cities & Suburbs
+- Consumer Culture
+- Media
+- New England
+- Popular Culture, Leisure
+- Science & Tech.
+tags:
+- Boston
+- Southworth & Hawes
+- architecture
+- buildings
+- businesses
+- historic sites
+- photographers
+- photographs
+- photography
+- photos
 ---
 
 Curator and conservator Grant Romer talks about the formation and work of the Boston photography partners Albert Sands Southworth and Josiah Johnson Hawes and their studio on Tremont Row. Romer looks at the architecture of Tremont Row and how it impacted the work of the partners. His presentation includes slides.
+
 Audio and video options are available.

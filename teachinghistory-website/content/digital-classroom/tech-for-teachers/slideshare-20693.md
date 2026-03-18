@@ -16,10 +16,14 @@ splash_image: /files/Slideshare.jpg
 thumbnail: /files/quiz_thumbnail/PhotWorlThumbnail.jpg
 image: /files/SlideshareImage.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Collaboration
+- collecting
+- multimedia
+- visualization
 ---
-
 
 Slideshare enables you to upload, download, and access Powerpoint, OpenOffice, or PDF presentations on the web.

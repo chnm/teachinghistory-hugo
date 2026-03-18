@@ -13,6 +13,32 @@ keywords: exploration, Lewis and Clark Expedition, interpretation, memory, Louis
 website_url: http://www.teachingamericanhistory.us/tah_2/speakers/wagner.html
 date_published: '2007-04-19T00:00:00'
 series_name: Lectures 2006 - 2007
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Environment
+- Global Contact
+- Western States
+tags:
+- Lewis and Clark Expedition
+- Louisiana Purchase
+- Manifest Destiny
+- Maps
+- Native Americans
+- cartographers
+- cartography
+- exploration
+- imperialism
+- imperialists
+- mapping
+- memory
+- nature
+- race
+- race relations
+- racism
+- symbols
+- trails
 ---
 
 Professor William Wagner considers the actual significance of the Lewis and Clark Expedition to and in U.S. history. He seeks to remove the voyage from obscuring popular myths and into the realm of historical fact, while also looking at how popular understanding of the Expedition has changed over time.

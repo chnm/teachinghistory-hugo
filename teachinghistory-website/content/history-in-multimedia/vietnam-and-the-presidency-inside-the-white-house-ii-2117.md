@@ -11,6 +11,24 @@ keywords: Vietnam, wars, Vietnam War, presidents, war, politicians, Bay of Pigs,
 website_url: http://dev.forum-network.org/lecture/vietnam-war-and-presidency-inside-white-house-ii
 date_published: '2006-03-11T00:00:00'
 series_name: 'American Experience: Vietnam'
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+tags:
+- Bay of Pigs
+- Secretaries of State
+- Vietnam
+- Vietnam War
+- politicians
+- presidents
+- war
+- wars
 ---
 
 A panel discussion including former U.S. secretaries of state Henry Kissinger and Alexander Haig, special counsel to JFK Theodore Sorensen, and special assistant to LBJ Jack Valenti looks at presidential policies during the Vietnam War. This discussion follows the discussion "Vietnam and the Presidency: Inside the White House I."

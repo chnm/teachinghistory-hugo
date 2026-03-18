@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 10201
 website_url: http://www.townshendvt.org
+time_periods:
+- General
+topics:
+- Education
+- New England
+tags:
+- Townshend
+- Vermont
 ---
 
 The Townshend Historical Society is dedicated to researching and preserving the history of the town of Townshend. The society has published a local history book, and also works with local schools in order to create innovative ways to study history.
+
 The society offers presentations and school programs. The website offers general information regarding the society.

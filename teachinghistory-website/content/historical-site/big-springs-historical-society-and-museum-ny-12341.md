@@ -6,7 +6,26 @@ content_type: historical_site
 draft: false
 drupal_nid: 12341
 website_url: http://www.bigspringsmuseum.org/
+time_periods:
+- General
+topics:
+- American Indians
+- Art
+- Business
+- Daily Life
+- Education
+- Environment
+- Mid-Atlantic
+- Military History
+- Religion
+- Rural Life
+tags:
+- New York
+- costumes
+- hatchery
+- textiles
 ---
 
 The Big Springs Historical Society seeks to preserve and share the history of the Caledonia-Mumford community, New York. To this end, the society operates a museum. Museum collections include Caledonia’s Seth Green Fish Hatchery artifacts, costumes and textiles, military artifacts, religious artifacts, educational artifacts, natural history samples, fine and decorative arts, and Native American artifacts.
+
 The society offers exhibits and on site research assistance.

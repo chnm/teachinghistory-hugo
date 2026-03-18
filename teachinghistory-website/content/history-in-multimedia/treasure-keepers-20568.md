@@ -11,6 +11,21 @@ keywords: conservation, preservation, primary sources, objects, artifacts, museu
 website_url: http://podcast.history.org/2008/03/03/treasure-keepers/
 date_published: '2008-03-03T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Contemporary US, 1968-Present
+- Revolution & New Nation, 1754-1820s
+topics:
+- Science & Tech.
+tags:
+- artifacts
+- conservation
+- curators
+- museums
+- musical instruments
+- objects
+- preservation
+- primary sources
+- restoration
 ---
 
 Colonial Williamsburg curator John Watson discusses the considerations curators and preservationists must make in deciding how to conserve, preserve, restore, and display historical artifacts.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21216
 grade_levels:
-  - middle
+- middle
 ---
 
 (NOTE: Districts may choose to divide this course into two semesters—with one on world geography and the other on citizenship.)

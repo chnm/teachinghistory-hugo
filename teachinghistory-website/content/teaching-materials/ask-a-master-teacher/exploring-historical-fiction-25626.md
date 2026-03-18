@@ -17,10 +17,23 @@ summary: Make the Lewis and Clark expedition and life on the Oregon Trail come a
 splash_image: /files/fictionsplash.jpg
 image: /files/fictionimage.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Global Contact
+- Literature
+- Western States
+tags:
+- Lewis and Clark
+- Lewis and Clark Expedition
+- Oregon Trail
+- historical fiction
+- novels
 ---
-
 
 Thanks for your inquiry. We often get requests for recommendations of historical fiction to use when studying particular time periods and historical events. So below, I first list some open-access digital databanks of fiction (and occasionally nonfiction) to use in the history/social studies classroom. Then I share some recommendations specific to your request.
 
@@ -42,5 +55,7 @@ And finally, consider one experienced middle school history teacher’s response
 ---
 
 Teachinghistory.org addresses World War I and II literature in another *Ask a Master Teacher* [response](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/25505) and 20th-century literature for the high school classroom in [another](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/20685).
+
 See [this response](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/24378) for five picture books for teaching the American Revolution to fifth graders.
+
 Also see this [*Teaching Guide*](http://teachinghistory.org/teaching-materials/teaching-guides/22365) on using “book sets” that include fiction and nonfiction texts.

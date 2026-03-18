@@ -15,8 +15,31 @@ splash_image_fid: '7826'
 summary: One high school teacher suggests teaching 9/11 and the Barbary pirates in
   comparison with each other.
 splash_image: /files/splash-91121.jpg
+time_periods:
+- All
+- Contemporary US, 1968-Present
+- General
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+tags:
+- 9/11
+- Al-Qaeda
+- Iraq War
+- War on Terrorism
+- foreign affairs
+- foreign policy
+- foreign relations
+- terrorism
+- terrorists
+- war
+- wars
 ---
 
-
 Paul Dickler of Neshaminy High School reviews several points he considers important in teaching on 9/11 and terrorism, as well as in teaching history more generally.
+
 Audio and video options are available.

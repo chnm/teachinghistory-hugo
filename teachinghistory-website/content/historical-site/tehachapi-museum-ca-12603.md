@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 12603
 website_url: http://www.tehachapimuseum.org/
+time_periods:
+- General
+topics:
+- American Indians
+- Children
+- Daily Life
+- Environment
+- Science & Tech.
+- Western States
+- Women
 ---
 
 The Tehachapi Museum presents the history of Tehachapi, CA. Exhibit topics addressed include women of note, children, Native American life, early man, costumes and textiles, geology, the railway, and Ice Age animals.
+
 The museum offers exhibits and self-guided area walking tours.

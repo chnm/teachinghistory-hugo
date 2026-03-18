@@ -11,6 +11,22 @@ keywords: libraries, primary sources, books, documents, New York, New York Publi
 website_url: http://www.pbs.org/opb/historydetectives/video/1480770393/
 date_published: '2008-12-17T00:00:00'
 series_name: 'History Detectives: Video Library'
+time_periods:
+- All
+- Contemporary US, 1968-Present
+- General
+topics:
+- Literature
+- Media
+- Mid-Atlantic
+tags:
+- History Detectives
+- New York
+- New York Public Library
+- books
+- documents
+- libraries
+- primary sources
 ---
 
 Elyse Luray of PBS's *History Detectives* briefly introduces the New York Public Library and its extensive collection of historically-significant holdings from around the world.

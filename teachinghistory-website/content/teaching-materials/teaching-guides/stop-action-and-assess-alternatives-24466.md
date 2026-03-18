@@ -18,12 +18,18 @@ splash_image: /files/stopsplash.jpg
 image: /files/stopimage.jpg
 author_image: /files/author_image/shallerimage.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+tags:
+- Native Americans
+- Trail of Tears
+- contingency
 ---
-
-
 
 ## What Is It?
 

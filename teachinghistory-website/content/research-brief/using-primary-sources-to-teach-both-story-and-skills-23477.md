@@ -11,9 +11,8 @@ summary: Does teaching with primary sources inhibit success on final exams?
 splash_image: /files/UsingPrimarySources432x240.jpg
 image: /files/primsourceteach.jpg
 grade_levels:
-  - high
+- high
 ---
-
 
 * Begin by having students read the textbook account of a particular event. Aim for a manageable topic like the creation of the Panama Canal, rather than a large and complex event such as the Civil War.
 * After they have read the textbook passage, have students write about (or briefly discuss as a class) whether they believe the textbook account is reliable, or if they need more information.

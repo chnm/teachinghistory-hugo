@@ -13,6 +13,38 @@ keywords: Back Bay, bays, discrimination, harbors, land creation, land reclamati
 website_url: http://dev.forum-network.org/lecture/gaining-ground-history-landmaking-boston
 date_published: '2003-12-02T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- All
+- General
+topics:
+- Cities & Suburbs
+- Daily Life
+- Environment
+- Ethnicity
+- Global Contact
+- Immigration
+- New England
+tags:
+- Back Bay
+- Boston
+- Irish
+- Irish-Americans
+- archaeology
+- bays
+- discrimination
+- harbors
+- immigrants
+- land creation
+- land management
+- land reclamation
+- landfilling
+- landfills
+- natural resources
+- race
+- race relations
+- racism
+- urban development
+- waste managemen
 ---
 
 Historian Nancy S. Seasholes discusses the history of land creation and landfill projects in Boston. She looks at the social forces that led to the demand for new land, including tensions between Irish immigrants and native Bostonians.

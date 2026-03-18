@@ -20,12 +20,17 @@ summary: Use this four-step learning routine to deeply explore visual primary so
 splash_image: /files/cropitsplash.jpg
 author_image: /files/author_image/author_bondie.png
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+topics:
+- Media
+tags:
+- images
+- photographs
+- primary sources
+- visuals
 ---
-
-
 
 ## What is it?
 

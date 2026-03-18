@@ -11,7 +11,23 @@ keywords: spies, espionage, colonies, colonists, Williamsburg, Virginia, Revolut
 website_url: http://podcast.history.org/2009/03/23/spies-of-the-18th-century/
 date_published: '2009-03-23T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+- Politics
+- Southern States
+tags:
+- American Revolution
+- Revolutionary War
+- Virginia
+- Williamsburg
+- colonies
+- colonists
+- espionage
+- spies
 ---
 
 The art of spying is as old as the art of war. Colonial Williamsburg interpreter Jay Templin talks about the techniques and deceptions employed during the American Revolution.
+
 Check out [this article](http://www.history.org/Foundation/journal/Summer04/spies.cfm) by Ed Crews to discover more about espionage during the colonial era.

@@ -19,10 +19,12 @@ splash_image: /files/Wordle432x240.jpg
 thumbnail: /files/quiz_thumbnail/SpaiUSThumbnail.jpg
 image: /files/gettysm.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- presentation
+- visualization
 ---
-
 
 Wordle creates text hierarchical text vizualizations that help teach vocabulary and define document concepts and themes.

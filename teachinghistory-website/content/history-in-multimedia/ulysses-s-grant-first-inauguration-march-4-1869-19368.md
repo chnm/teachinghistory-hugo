@@ -10,6 +10,14 @@ keywords: presidents, speeches
 website_url: http://memory.loc.gov/ammem/pihtml/pivid08.html
 date_published: '2008-05-29T00:00:00'
 series_name: 'Presidential Inaugurations: Historical Insights'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Economy
+- Politics
+tags:
+- presidents
+- speeches
 ---
 
 Library of Congress historian Marvin Kranz discusses the currency debate addressed in Ulysses S. Grant's first inaugural address, explaining what the controversy over whether money should be "soft" or "hard" meant.

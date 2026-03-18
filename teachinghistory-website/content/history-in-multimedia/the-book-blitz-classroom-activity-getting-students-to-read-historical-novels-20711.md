@@ -15,8 +15,23 @@ splash_image_fid: '4682'
 summary: Students not interested in digging through the library? Bring the library
   to them.
 splash_image: /files/BookBlitz432x240.jpg
+time_periods:
+- General
+topics:
+- Children
+- Education
+- Literature
+tags:
+- books
+- educators
+- historical fiction
+- novels
+- reading
+- students
+- teachers
+- teaching strategies
 ---
 
-
 Eighth-grade American history educator Eric Langhorst describes the "Book Blitz," an activity he uses to encourage students to explore the historical fiction novels available in their school library.
+
 To listen to this "how to" podcast, scroll down to the blog archive links along the right hand side of the site. From there select "2009" and "January." Now scroll down to the end of the Friday, January 09, 2009 entry; and push play.

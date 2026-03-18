@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 5518
 website_url: http://www.phlf.org/
+time_periods:
+- All
+- General
+topics:
+- Cities & Suburbs
+- Mid-Atlantic
+tags:
+- Pennsylvania
 ---
 
 The Foundation seeks to preserve the history of Pittsburgh, PA, while simultaneously encouraging urban renewal.
+
 The foundation offers tours, educational programs, and occasional recreational and educational events (including living history events).

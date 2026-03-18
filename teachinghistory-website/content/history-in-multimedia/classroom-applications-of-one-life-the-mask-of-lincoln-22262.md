@@ -9,8 +9,17 @@ duration: 00:51:41
 website_url: http://www.smithsonianconferences.org/2009/maskclassroomapps/
 date_published: '2009-02-04T00:00:00'
 series_name: Lincoln Online Conference
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Art
+- Media
+- Politics
 ---
 
 From the Lincoln Online Conference [website](http://www.smithsonianconferences.org/2009/maskclassroomapps/):
+
 "In this session, participants will be introduced to the idea of reading portraiture and, in this case, what a portrait might say about Abraham Lincoln and they era in which he lived. They will utilize what they learned from David Ward in the previous session and the Portrait Gallery’s 'One Life: The Mask of Lincoln' exhibition to brainstorm lesson ideas for classroom instruction. Participants [were] encouraged to share ideas about the use of portraiture in the classroom as presenter Briana Zavadil White facilitate[d] a highly interactive session with fellow educators."
+
 Free registration is required to access the webcast.

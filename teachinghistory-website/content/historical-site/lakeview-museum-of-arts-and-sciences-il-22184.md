@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 22184
 website_url: http://www.lakeview-museum.org/
+time_periods:
+- General
+topics:
+- Art
+- Midwestern States
+- Science & Tech.
 ---
 
 The Lakeview Museum of Arts and Sciences involves the visitor in the exploration of natural sciences and the arts, with collections including American folk art.
+
 The museum offers exhibits, planetarium shows, self-guided and guided tours for school groups, loan kits for educators, classes and summer camps, and other recreational and educational events.

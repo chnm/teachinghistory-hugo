@@ -11,6 +11,34 @@ keywords: Middle East, war, wars, Iran, Lebanon, Gaza, Gaza Strip, Israel, forei
   theocracy, theocracies
 website_url: http://www.fpri.org/multimedia/20060719.sicherman.mideastcrisis.html
 date_published: '2006-07-19T00:00:00'
+time_periods:
+- Contemporary US, 1968-Present
+- General
+topics:
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+- Religion
+tags:
+- Gaza
+- Gaza Strip
+- Iran
+- Israel
+- Lebanon
+- Middle East
+- democracies
+- democracy
+- democratization
+- foreign affairs
+- foreign policy
+- foreign relations
+- theocracies
+- theocracy
+- war
+- wars
 ---
 
 Foreign Policy Research Institute President Harvey Sicherman delivers an impromptu briefing on the Middle East crisis. A former aide to three U.S. secretaries of state, Sicherman examines the Israel-Lebanon-Gaza war as Round Three in the struggle between the U.S. and Iran over the future direction of the Middle East, or, to put it another way, between the forces for democracy and the forces for theocracy.

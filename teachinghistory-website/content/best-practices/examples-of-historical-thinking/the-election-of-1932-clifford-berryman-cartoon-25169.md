@@ -18,11 +18,22 @@ summary: Donald A. Ritchie, Historian of the U.S. Senate, asks how a political c
 splash_image: /files/maine.jpeg
 author_image: /files/author_image/2010_-_oah_-_author_image_-_don_ritchie_0.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Politics
+tags:
+- Clifford Berryman
+- FDR
+- Franklin D. Roosevelt
+- Herbert Hoover
+- Maine
+- political cartoons
+- presidential campaigns
+- presidential elections
 ---
-
-
 
 /files/media/video/Ritchie1.mp4
 

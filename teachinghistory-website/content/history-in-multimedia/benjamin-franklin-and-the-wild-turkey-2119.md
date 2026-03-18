@@ -10,6 +10,22 @@ keywords: symbols, national symbols, turkeys, birds, animals, Founding Fathers, 
 website_url: http://dev.forum-network.org/lecture/benjamin-franklin-and-wild-turkey
 date_published: '2006-03-23T00:00:00'
 series_name: Benjamin Franklin
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Cities & Suburbs
+- Ideas & Ideologies
+- New England
+- Politics
+tags:
+- Boston
+- Founding Fathers
+- animals
+- birds
+- national symbols
+- symbols
+- turkeys
 ---
 
 Historian Elizabeth Riely explores Benjamin Franklin's fascination with the wild turkey, including his desire to see the turkey made the national symbol. She touches on the history of European discovery of the turkey.

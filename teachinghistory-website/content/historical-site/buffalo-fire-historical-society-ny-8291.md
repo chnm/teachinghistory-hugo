@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 8291
 website_url: http://www.buffalorising.com/2009/03/buffalo-fire-historical-society-museum.html
+time_periods:
+- General
+topics:
+- Labor
+- Mid-Atlantic
+- Science & Tech.
+tags:
+- New York
+- firefighting
+- historical society
+- museum
 ---
 
 The Buffalo Fire Historical Society promotes fire safety and maintains a museum, which exhibits records and artifacts of the Buffalo fire service.
+
 The museum offers exhibits.

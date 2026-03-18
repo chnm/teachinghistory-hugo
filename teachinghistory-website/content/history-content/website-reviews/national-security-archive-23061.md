@@ -15,8 +15,20 @@ summary: Read official documents on U.S. intelligence and positions from the Col
 thumbnail: /files/Truman_Presidential_Museum_and_Library_432x240.jpg
 splash_image: /files/splash-wr-nsa.jpg
 image: /files/website_image/NatiSecuImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- International Relations
+- Military History
+- Politics
+evidence_types:
+- Official Documents
+- Political Documents
+resource_types:
+- Text
 ---
 
-
 Despite its official sounding name, this is a non-governmental institution. Founded in 1985 as a central repository for declassified materials obtained through Freedom of Information Act requests, the Archives at present offers approximately 100 "Briefing Books," each providing government documents and a contextual narrative on national security history and issues, foreign policy initiatives, and military history.
+
 While much of the material relates to events abroad, documents provide information on U.S. involvement and perceptions. Major categories include Europe (with documents on the Hungarian Revolution, Solidarity, and the 1989 revolutions); Latin America (overall CIA involvement, war in Colombia, contras, Mexico); nuclear history (treaties, Berlin crisis, India and Pakistan, North Korea, China, Israel); Middle East and South Asia (Iraq and WMD, hostages in Iran, October 1973 war); the U.S. intelligence community; government secrecy; humanitarian interventions; and September 11 sourcebooks on the terrorist threat. A wealth of information on U.S. diplomatic and military history during and after the Cold War.

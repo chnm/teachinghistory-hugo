@@ -6,7 +6,29 @@ content_type: historical_site
 draft: false
 drupal_nid: 9120
 website_url: http://www.seacoastnh.com/touring/jpjhouse.html
+time_periods:
+- General
+- Revolution & New Nation, 1754-1820s
+topics:
+- Art
+- Children
+- Daily Life
+- Military History
+- New England
+tags:
+- John Paul Jones
+- New Hampshire
+- Ranger
+- Revolutionary War
+- U.S.S. America
+- USS America
+- costume
+- decorative arts
+- firearms
+- naval history
+- toys
 ---
 
 The John Paul Jones House Museum structure was built as a residence in 1758. After the death of her husband, the owner of the home rented it out to gentlemen boarders. Revolutionary War hero John Paul Jones (1747-1792) stayed in the home on two separate occasions: while waiting for the *Ranger* to sail in 1777 and while awaiting the readiness of the *U.S.S. America* in 1781. The house collection includes period decorative arts, costume and wedding gowns, firearms, toys, and documents.
+
 The museum offers period rooms, exhibits, and tours covering Jones' life.

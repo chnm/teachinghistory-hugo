@@ -10,6 +10,22 @@ keywords: museums, teaching, teachers, educators, Smithsonian, primary sources, 
   inventions, laundry, artifacts
 website_url: http://smithsoniansource.org/display/topic/video/viewdetailstea.aspx?TopicId=1012
 date_published: '2008-12-17T00:00:00'
+time_periods:
+- All
+- General
+topics:
+- Education
+tags:
+- artifacts
+- educators
+- invention
+- inventions
+- laundry
+- museums
+- primary sources
+- smithsonian
+- teachers
+- teaching
 ---
 
 Sharon Shaffer, Executive Director of the Smithsonian Early Education Center, outlines methods for using hands-on exploration of objects to prepare students to experience museum exhibits and to extend the lesson following museum visits.

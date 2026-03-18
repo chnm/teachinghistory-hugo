@@ -9,6 +9,13 @@ duration: 00:50:42
 website_url: http://www.gilderlehrman.org/multimedia#3367
 date_published: '1998-04-06T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Slavery
 ---
 
 In this lecture from the Gilder Lehrman Institute of American History, "historians James and Lois Horton cover 200 years of African American history from the colonial slave trade through the American Revolution to, finally, the Civil War."

@@ -10,6 +10,10 @@ website_url: http://ed.ted.com/lessons/why-do-americans-vote-on-tuesdays
 date_published: '2012-04-10T00:00:00'
 series_name: 'TED-ed: Lessons Worth Sharing'
 summary: Since 1845, Americans have been voting on Tuesdays—but why?
+topics:
+- Politics
+tags:
+- voting
 ---
 
 Since 1845, Americans have been voting on Tuesdays—but why? In this humorous talk, Jacob Soboroff shares the history of Election Day and shows how voting on a Tuesday affects voter turnout.

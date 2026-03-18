@@ -31,8 +31,7 @@ splash_image_fid: '6285'
 splash_image: /files/splash-btc-digstory1.jpeg
 image: /files/image-btc-digstory1.jpeg
 grade_levels:
-  - middle
+- middle
 ---
-
 
 The Clearinghouse looks at another digital storytelling tool: [Digital Storyteller](http://teachinghistory.org/digital-classroom/tech-for-teachers/14587) from *PrimaryAccess.org*.

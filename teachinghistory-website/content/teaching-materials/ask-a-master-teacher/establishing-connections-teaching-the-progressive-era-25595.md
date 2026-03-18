@@ -19,9 +19,13 @@ summary: Students are often disconnected from the past. Why not immerse them in 
 splash_image: /files/progressivesplash_0.jpg
 image: /files/progressiveimage.jpg
 author_image: /files/author_image/author_myers_0.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Ideas & Ideologies
+- Politics
+- Reform
 ---
-
-
 
 ## Essential Questions Are Key
 

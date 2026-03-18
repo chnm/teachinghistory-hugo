@@ -17,8 +17,10 @@ author_image_fid: '9208'
 summary: Like any other instructional medium, digital history games will only be as
   effective as the quality of design—instructional AND game—underlying them.
 author_image: /files/author_image/authors.jpg
+tags:
+- games
+- gaming
 ---
-
 
 As interactive media, digital history games have the potential to capture students' interest and imagination and engage them in historical thinking in ways that few other "non-participatory" media offer. Broadly defined, games are packaged problem spaces that can require players to apply strategy and disciplined responses to overcome obstacles and achieve goals. Historical dilemmas as posed in games are still ill-defined and subject to the interpretive challenges of a humanistic discipline. But game systems are dynamic in ways that document-based questions and narratives of the past, either in film or print, cannot be. Games can enable students to imaginatively enter a constructed historical world, interact with research-based social and political archetypes, and contemplate the consequences of their actions.
 > Games can enable students to imaginatively enter a constructed historical world, interact with research-based social and political archetypes, and contemplate the consequences of their actions.
@@ -28,6 +30,7 @@ The potentialities we see in digital history games are only partially realized i
 ## Engagement
 
 Historical fiction and primary and secondary documents do not change based on students' readings, nor can they alert students to possible misreadings. That sort of feedback is ordinarily the domain of teachers and peers. But history simulations can become practice spaces in which students work on elements of historical understanding. Much like a well-crafted classroom unit that allows for discovery and meaningful application of skills in context, well-designed history games can call upon students to engage in historical perspective-taking, to consider cause and effect and contingency, and to draw upon warranted evidence to support conclusions—all as means by which to overcome problems. Based on failure (in the best formative sense) and feedback, students can refine their understanding as they play to win, or even play to explore narrative outcomes in an historical account.
+
 However, the devil is in the details of a specific game's design. Like any other instructional medium, digital history games will only be as effective as the quality of design—instructional AND game—underlying them. Further, games are efficacious tools for formal instruction only insofar as their utility is considered in the context of broader curricular activity systems, including students' social and cognitive development, teachers' practices and beliefs about what and how students should learn, and competing curriculum and assessment priorities.
 
 ## Points to Consider

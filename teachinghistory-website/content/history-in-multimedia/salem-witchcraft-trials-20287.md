@@ -11,6 +11,30 @@ keywords: trials, law, laws, politicians, witches, witchcraft, witch trials, Sal
 website_url: http://www.gilderlehrman.org/multimedia#3409
 date_published: '2004-01-06T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- Gender
+- Ideas & Ideologies
+- Legal History
+- New England
+- Politics
+- Religion
+- Sexuality
+- Women
+tags:
+- Massachusetts
+- Salem
+- colonies
+- colonists
+- colonization
+- law
+- laws
+- politicians
+- trials
+- witch trials
+- witchcraft
+- witches
 ---
 
 In this lecture, historian Mary Beth Norton examines the original court documents from the Salem witchcraft trials; she places these well-known events in the context of the Indian wars and other witch trials in New England. The trials, she concludes, were driven more by politics than by superstition.

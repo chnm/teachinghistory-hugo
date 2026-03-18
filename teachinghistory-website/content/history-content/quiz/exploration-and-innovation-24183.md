@@ -13,7 +13,15 @@ summary: Crossing vast oceans required specialized tools and knowledge. Discover
   about navigation and exploration.
 splash_image: /files/navtools_splash.jpeg
 thumbnail: /files/quiz_thumbnail/TravCultThumbnail.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Global Contact
+- Science & Tech.
+tags:
+- exploration
+- navigation
 ---
-
 
 As Europe pushed forward into several centuries of exploration, improving methods of mapping and navigation became a matter of life and death, poverty or profit, for crews at sea and governments at home. Are the following statements about the 15th and 16th centuries true or false?

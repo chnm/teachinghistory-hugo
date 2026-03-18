@@ -15,15 +15,26 @@ author_image_fid: '9368'
 summary: What were the origins of this infamous controversy?
 splash_image: /files/bleedingsplash.jpg
 author_image: /files/author_image/author_denial_0_0_0.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Politics
+- Slavery
+- Western States
+tags:
+- Bleeding Kansas
+- Missouri Compromise
+- kansas
+- territories
 ---
 
-
-
 "Bleeding Kansas" describes a period of civil unrest in Kansas Territory between 1854 and 1856.
+
 After the Missouri Compromise of 1820, which prohibited slavery in the former Louisiana Territory north of the 36° 30’ parallel (except for the state of Missouri), Congress tried to maintain a balance between slave and free states in the Union. "Free" states did not permit slavery to exist within their borders, but this was rarely because they felt a commitment to equality between different racial groups. Instead, citizens in many free states feared that if slavery were permitted in their region, they would be unable to compete against agriculturalists who would use slave laborers to work in their fields. Most people in free states were happy to see slavery continue in the areas where it already existed—even those men and women who worked for wages in the North often feared if slaves were freed they would compete against them for their jobs. By the 1850s, supporting the idea of a "free" state more often than not meant supporting the idea that any expansion of the United States should benefit working white people over all others. Most citizens of slave states, on the other hand, believed that slavery should be permitted everywhere, and thought it unfair that they should be prevented from expanding their interests in the West like everyone else.
 > Most people in free states were happy to see slavery continue in the areas where it already existed. . . ."
 
 In 1853, these issues came to a head when the U.S. Senate took up the question of organizing the territories of Kansas and Nebraska. Nebraska was too far north to support the crops most commonly grown in slave-holding states, but Kansas was not. It did, however, exist north of the 36° 30´ line enshrined in the Missouri Compromise, which should have meant the territory was free. Southerners wanted slavery to be permitted in Kansas very badly, and some Northerners, feeling the country was in danger of tearing itself apart along sectional lines, wanted to find a means to compromise over the issue. Senator Stephen A. Douglas of Illinois negotiated a compromise whereby the citizens of Kansas would be able to choose for themselves if their territory should permit slavery to exist within its borders—a strategy called "popular sovereignty." This was affirmed in the Kansas-Nebraska Act, which passed Congress in May 1854; the Missouri Compromise was thereby repealed.
+
 The situation in Kansas rapidly became fraught with tension. Beyond the political commitments of those settlers who already lived in Kansas, there were people who lived outside the territory who sought to influence what happened within it. Slave-holding Missourians flooded into Kansas to cast illegal votes for a pro-slavery territorial legislature and Congressional representative. Northerners responded by traveling to the state—sometimes from as far away as Massachusetts—to help elect an anti-slavery legislature. President Pierce recognized the first, but not the second, and the stand-off between the two spilled over into armed conflict. After Congressional investigators declared, in 1856, that the 1854 elections were fraudulent—information on which the President refused to act—this conflict escalated, aided and abetted by Northerners and Southerners who sent money and arms to their allies. More than 55 people died as a result, and the period became known as "Bleeding Kansas."
 > The situation in Kansas rapidly became fraught with tension.
 
@@ -38,5 +49,7 @@ The matter of whether Kansas would enter the Union as a free or slave state was 
 ---
 
 [Text of the Kansas-Nebraska Act](http://avalon.law.yale.edu/19th_century/kanneb.asp), 1854.
+
 [Territorial Kansas Online: A Primary Source Collection](http://www.territorialkansasonline.org/~imlskto/cgi-bin/index.php).
+
 [The Wyandotte Constitution](http://www.kansasmemory.org/item/90272), 1859 (ratified by Congress, 1861).

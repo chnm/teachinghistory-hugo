@@ -11,6 +11,27 @@ keywords: race, racism, race relations, civil rights, civil rights movement, sch
 website_url: http://dev.forum-network.org/lecture/living-black-history-revolution-black-studies
 date_published: '2004-04-22T00:00:00'
 series_name: African American Culture
+time_periods:
+- All
+- General
+topics:
+- African Americans
+- Education
+- Ethnicity
+- Ideas & Ideologies
+- Literature
+- Media
+- Radicalism
+- Reform
+tags:
+- Civil Rights Movement
+- civil rights
+- race
+- race relations
+- racism
+- revolution
+- scholars
+- scholarship
 ---
 
 Black history and studies scholar Manning Marable looks at the necessity for "revolution" in the field of Black studies. He looks at the history of education, scholarship, and the loss and construction of collective memory by and for African Americans.

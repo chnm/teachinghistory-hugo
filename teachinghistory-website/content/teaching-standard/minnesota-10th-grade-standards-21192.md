@@ -6,12 +6,15 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21192
 grade_levels:
-  - high
+- high
 ---
 
 *Students in high school (grades 9–12) pursue in-depth study of social studies content that equips them with the knowledge and skills required for success in postsecondary education (i.e., freshman level courses), the skilled workplace and civic life. The amount of content in the standards for each discipline corresponds to the course credit graduation requirements identified in Minn. Stat. § 120B.024 which are as follows:
+
 3.5 social studies credits encompassing at least United States history, geography, government and citizenship, world history, and economics
+
 OR
+
 3.0 social studies credits encompassing at least United States history, geography, government and citizenship, and world history, and .5 credit of economics taught in a school’s social studies, agriculture education, or business department.*
 
 ## Social Studies Strand 1: Citizenship & Government
@@ -33,7 +36,9 @@ OR
 * 3. The United States is based on democratic values and principles that include liberty, individual rights, justice, equality, the rule of law, limited government, common good, popular sovereignty, majority rule and minority rights.
   + 9.1.2.3.1 Define and provide examples of foundational ideas of American government which are embedded in founding era documents: natural rights philosophy, social contract, civic virtue, popular sovereignty, constitutionalism, representative democracy, political factions, federalism and individual rights.
     *For example:* Documents—Mayflower Compact, English Bill of Rights, the Virginia Declaration of
+
     Rights, the Declaration of Independence, Virginia Statute for Religious Freedom, the Constitution, selected Federalist
+
     Papers (such as 10, 39, 51, 78), the Bill of Rights.
   + 9.1.2.3.2 Analyze how the following tools of civic engagement are used to influence the American political system: civil disobedience, initiative, referendum and recall.
   + 9.1.2.3.3 Analyze the tensions between the government’s dual role of protecting individual rights and promoting the general welfare, the struggle between majority rule and minority rights, and the conflict between diversity and unity.

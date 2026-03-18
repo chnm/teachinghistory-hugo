@@ -18,8 +18,40 @@ summary: Follows the development of popular entertainment forms from the 1870s t
 splash_image: /files/American_Variety_Stage-_Vaudeville_and_Popular_Entertainment_1870-1920_432x240.jpg
 thumbnail: /files/quiz/diaries-answer-Dakota.jpg
 image: /files/website_image/14751.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Business
+- Consumer Culture
+- Ethnicity
+- Media
+- Popular Culture, Leisure
+evidence_types:
+- Film and Video
+- Literary Sources
+resource_types:
+- Audio
+- Images
+- Text
+- Video
+tags:
+- Harry; theater; burlesque; comedy; minstrel show; musical comedy
+- Vaudeville; Houdini
+- drama
+- escape artists
+- film
+- films
+- magicians
+- motion pictures
+- performing arts
+- plays
+- playscripts
+- scripts
+- theater
+- theaters
 ---
 
-
 This collection documents the development of vaudeville and other popular entertainment forms from the 1870s to the 1920s. Materials include 334 English and Yiddish playscripts and 146 theater programs and playbills. Sixty-one motion pictures range from animal acts to dance to dramatic sketches. Ten sound recordings feature comic skits, popular music, and a dramatic monologue.
+
 The website also features 143 photos and 29 memorabilia items documenting the life and career of magician Harry Houdini and an essay with links to specific items entitled "Houdini: A Biographical Chronology." Search by keyword or browse the subject and author indexes. The site is linked to the Library of Congress Exhibition [Bob Hope and American Variety"](http://www.loc.gov/exhibits/bobhope/), that charts the persistence of a vaudeville tradition in later entertainment forms.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20899
 grade_levels:
-  - high
+- high
 ---
 
 ## AL.11 Standard: United States History II—Industrial Revolution to the Present

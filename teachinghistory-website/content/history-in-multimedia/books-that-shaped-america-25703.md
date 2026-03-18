@@ -12,4 +12,5 @@ series_name: The Library of Congress Webcasts
 ---
 
 According to The Library of Congress Webcasts site:
+
 "As part of our 2012 Celebration of the Book and recognition of Books That Shaped America, we asked several book enthusiasts to talk about the books that they believed shaped America."

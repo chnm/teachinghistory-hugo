@@ -10,7 +10,19 @@ keywords: Vietnam War, presidents
 website_url: http://www.trumanlibrary.org/video/index.php
 date_published: '2007-06-13T00:00:00'
 series_name: My Favorite Things
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Global Contact
+- International Relations
+- Military History
+- Politics
+tags:
+- Vietnam
+- presidents
 ---
 
 Ford Presidential Library Director Elaine Didier describes an artifact in the collection of the Gerald R. Ford Presidential Library: the staircase by which U.S. citizens and individuals loyal to the U.S. climbed to helicopters to escape Saigon during the last days of the city's fall to anti-U.S. forces. She also describes the process by which the library acquired the staircase.
+
 To listen to this lecture, scroll to "Elaine Didier."

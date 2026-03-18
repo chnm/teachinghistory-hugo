@@ -19,10 +19,19 @@ splash_image: /files/Zitkala-Sa-Portrait-2-scaled.jpg
 image: /files/ZitkalaSa.png
 author_image: /files/author_image/NATE_SLEETER (1)_0_0.JPG
 grade_levels:
-  - high
+- high
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Education
+- Family Life
+- Western States
+tags:
+- Native Americans
 ---
-
-
 
 **What is it?**
 
@@ -53,6 +62,7 @@ This guide will focus on two examples of Indigenous people who advocated for Ind
 **Description**
 
 *Zitkála-Šá*  
+
 Zitkála-Šá (pronounced Zeet-KA-la-sha) was Yankton Dakota, born on the Yankton Indian Reservation in South Dakota in 1876. Like many thousands of Native children at the time was also forced to attend a boarding school far away from her home. At eight years old, Zitkála-Šá left Yankton and her family to attend the Indiana Manual Labor Institute in Wabash, Indiana over 700 miles away. At the institute she was given the name Gertrude Simmons (later Gertrude Simmons Bonnin) which she also used at various points in her life. Zitkála-Šá would attend the boarding school for three years and there learned to play violin and piano. She returned to Yankton, and then went back to the institute three years later. Upon graduation, she took a position as a music teacher at the school. Zitkála-Šá/Gertrude Simmons became an expert at navigating two cultures. Some scholars have seen Zitkála-Šá as a person who assimilated into white-U.S. culture, but more recently scholars have emphasized how she used these cultural skills to support and defend Native people and culture. As historian Tadeusz Lewandowski writes in his biography of Zitkála-Šá, she “fought the dispossession of Indians with every tool of white society she had mastered.”
 
 In her life, Zitkála-Šá rose to prominence as a musician, writer, and political advocate. An accomplished violinist, she performed at the White House for President William McKinley in 1900 and as a soloist at the Paris Exposition that same year. A prolific writer, Zitkála-Šá’s presented depictions of American Indians that emphasized family and community in books such as American Indian Stories and presented her own experiences in personal essays for *Harper’s Monthly* and *The Atlantic Monthly*.
@@ -66,9 +76,11 @@ For more background on how *The Sun Dance* opera came to be written by Zitkála-
 Zitkála-Šá also used her cultural expertise to lobby the government directly on policies that affected Indigenous people and in particular advocated for the government to protect Native people and culture.
 
 *Primary Source #1*  
+
 “She is Watching Congress,” Evening Public Ledger, February 22, 1921 https://chroniclingamerica.loc.gov/lccn/sn83045211/1921-02-22/ed-1/seq-20/
 
 *Primary Source #2*  
+
 “Sioux Princess Closely Watches Indian Welfare,” The Richmond Palladium and Sun-Telegram, February 26, 1921 https://chroniclingamerica.loc.gov/lccn/sn86058226/1921-02-26/ed-1/seq-15/
 
 > Questions to ask about these primary sources:
@@ -85,7 +97,9 @@ Along with other members of the Society of American Indians, Zitkála-Šá advoc
 Under the Dawes Act, Native people whom the US government did not see as “competent” had their land (called an “allotment”) held by the US government. Though Native people were already citizens of their Native nations and did not necessarily want US citizenship, Zitkála-Šá saw U.S. citizenship as one possible form of protection against land loss. She not only advocated for citizenship for Native Americans but also for women to receive the right to vote. In this source from 1918, Zitkála-Šá addressed the National American Women's Suffrage Association and tied together the causes of the women’s vote and the vote for Native Americans:
 
 *Primary Source #3:*  
+
 *Maryland Suffrage News*, June 15, 1918  
+
 https://chroniclingamerica.loc.gov/lccn/sn89060379/1918-06-15/ed-1/seq-5/
 
 > Question to ask about this primary source:
@@ -96,6 +110,7 @@ https://chroniclingamerica.loc.gov/lccn/sn89060379/1918-06-15/ed-1/seq-5/
 In 1924, partially as a result of the lobbying of Zitkála-Šá and the Society of American Indians, the Indian Citizenship Act was passed. This concluded the process of making all Native people born in the United States citizens. Although it is important to note that states could restrict the Native people’s right to vote and states such as Utah and New Mexico did just that. Zitkála-Šá continued to speak out on Native issues to both national and local groups. For example, in 1928 in Bismarck, North Dakota she gave a talk on the history of Native people and the current Native issues to the Rotarians, a community-based organization.
 
 *Primary Source #4:*  
+
 “Rotarians Hear Famous Woman at Weekly Meeting,” The Bismarck Tribune, June 14, 1928. https://chroniclingamerica.loc.gov/lccn/sn85042243/1928-06-14/ed-1/seq-7/
 
 > Questions to ask about this primary source:
@@ -106,6 +121,7 @@ In 1924, partially as a result of the lobbying of Zitkála-Šá and the Society 
 > * Why do you think she chose to emphasize these issues?
 
 *Charles Eastman*  
+
  As was the case with Zitkála-Šá, Charles Eastman’s upbringing involved direct experience with white society, his Dakota nation, and a variety intertribal communities. He too developed skills to move within and between these social spaces. Born in 1858 near Redwood Falls, Minnesota to a Dakota woman named Winona who died in childbirth, he was given the name “Hakadah.” He fled with his family to Canada following the U.S.-Dakota War of 1862. As an older child, he was given the name Ohiyesa (pronounced oh-he-yes-suh and meaning “the winner”) after a victory in a lacrosse match. When he was 15, his father — who had been estranged from the family — returned and demanded that Ohiyesa live with him in Dakota Territory near present day Sioux Falls, South Dakota. Ohiyesa’s father had converted to Christianity and taken the name “Jacob Eastman”. His father changed Ohiyesa’s name to “Charles Alexander Eastman” and enrolled him in white schools. Similar to Zitkála-Šá, Eastman grieved about the separation from the culture he was born into while, at the same time, he also excelled in his new environment. After secondary school, he attended college at Beloit College and then Dartmouth, and eventually earned his degree in medicine from Boston Medical School in 1890.
 
 Eastman sought to use his training to help Native people so shortly after earning his degree, he accepted a position on the Pine Ridge Reservation in South Dakota. On December 29, 1890, only a few weeks after Eastman’s arrival, 500 soldiers of the United States 7th Cavalry confronted a band of 350 Miniconjou Lakota Indians that included women and children and fired on the unarmed group killing more than 150 people. It is important to emphasize that this incident, which would become known as the Wounded Knee Massacre was not an isolated incident but part of a pattern where U.S. military forces, often commanded by officers with little to no knowledge of Native people and irrationally paranoid about their safety fired on defenseless Native groups that included unarmed men, women, and children with deadly results. Soldiers and travelers took souvenirs and graphic photographs document the carnage. At Pine Ridge, Eastman helped treat the few who survived. For more on the Wounded Knee Massacre read this entry from the Encyclopedia of the Great Plains: http://plainshumanities.unl.edu/encyclopedia/doc/egp.war.056
@@ -130,6 +146,7 @@ In addition to his career as a physician, Eastman wrote about Native American pe
 > * In what ways did Eastman emphasize family, community, and land relations in his description? Why do you think he did that?
 
 **In the Classroom**  
+
 The primary sources above can be incorporated into a unit that also covers westward expansion. Teachers can use this opportunity to have students reflect on how the term “westward expansion” only considers some perspective while leaving others out — namely the perspectives of those in the “west” who are “facing east”.
 
 In the classroom, students can be prompted to reflect on these east-facing perspectives:

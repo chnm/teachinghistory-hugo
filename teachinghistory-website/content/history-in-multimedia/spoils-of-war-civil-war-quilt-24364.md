@@ -9,7 +9,13 @@ duration: 00:18:51
 website_url: http://www.kshs.org/p/cool-things-civil-war-quilt/15368
 date_published: '2010-04-21T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Daily Life
+- Military History
 ---
 
 From the Kansas State Historical Society website:
+
 "Thousands of buildings were looted of their contents during the Civil War. This quilt from a ransacked South Carolina home has only recently been reunited with its history."

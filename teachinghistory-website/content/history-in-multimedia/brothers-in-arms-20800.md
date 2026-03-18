@@ -12,6 +12,26 @@ keywords: Dunmore's Raw Ethiopian Regiment, race, race relations, free blacks, s
 website_url: http://podcast.history.org/2005/09/12/brothers-in-arms/
 date_published: '2005-09-12T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Military History
+- Politics
+- Slavery
+- Southern States
+tags:
+- American Revolution
+- Dunmore's Proclamation
+- Dunmore's Raw Ethiopian Regiment
+- Revolutionary War
+- Rhode Island Regiment
+- Virginia
+- Wiliamsburg
+- free blacks
+- race
+- race relations
+- slaves
 ---
 
 Harvey Bakari of Colonial Williamsburg talks about the role of African Americans in the American Revolution, including Lord Dunmore's Raw Ethiopian Regiment and the Rhode Island Regiment.

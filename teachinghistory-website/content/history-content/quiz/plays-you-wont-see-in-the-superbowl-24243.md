@@ -13,7 +13,15 @@ summary: Football has always been a great American sport, but how much do you kn
   about its beginnings?
 splash_image: /files/NotinSuperbowl_0.jpg
 thumbnail: /files/website_image/InteDeclImage.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Popular Culture, Leisure
+tags:
+- athletes
+- football
+- sports
 ---
-
 
 Over 30 years, beginning in 1876, football evolved from a slight variation on rugby into (roughly) its present-day form. Along the way, spectators saw some plays that would baffle today's football fans. Choose the answer that best describes each play below.

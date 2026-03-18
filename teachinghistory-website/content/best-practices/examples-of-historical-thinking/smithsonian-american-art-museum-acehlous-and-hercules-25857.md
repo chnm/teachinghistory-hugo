@@ -10,8 +10,18 @@ splash_image_fid: '10203'
 summary: Analyzing a massive primary source? Divide it up! Teachers at the Smithsonian
   American Art Museum examine a Thomas Hart Benton mural.
 splash_image: /files/splash2_0_0.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Art
+tags:
+- Smithsonian American Art Museum
+- art
+- artwork
+- murals
+- professional development
+- smithsonian
 ---
-
 
 /files/media/video/achelous1.mp4
 

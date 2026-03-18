@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21500
 grade_levels:
-  - high
+- high
 ---
 
 * ### Strand / Topic: World Geography

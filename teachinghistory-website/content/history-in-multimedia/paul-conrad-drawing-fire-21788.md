@@ -11,6 +11,23 @@ keywords: cartoons, cartoonists, editorial cartoons, political cartoons, mass me
 website_url: http://www.hulu.com/watch/55119
 date_published: '2009-03-05T00:00:00'
 series_name: Independent Lens
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Ideas & Ideologies
+- Media
+- Politics
+tags:
+- cartoonists
+- cartoons
+- editorial cartoons
+- journalism
+- mass media
+- newspapers
+- political cartoons
 ---
 
 This documentary presents a tribute to the three-time Pulitzer Prize-winning editorial cartoonist Paul Conrad and his half-century career.

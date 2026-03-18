@@ -12,4 +12,5 @@ series_name: Cool Things Podcasts
 ---
 
 According to the Kansas State Historical Society website:
+
 "The commander of Fort Hays wore this army dress jacket during the 1870s. His years of Kansas service were the culmination of a long and distinguished career."

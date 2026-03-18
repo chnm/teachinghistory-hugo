@@ -10,7 +10,26 @@ keywords: artists, paintings, painters, sculptors, sculpture, Boston
 website_url: http://dev.forum-network.org/lecture/history-boston-women-artists
 date_published: '2006-11-16T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- All
+- General
+topics:
+- Art
+- Cities & Suburbs
+- Gender
+- Media
+- Popular Culture, Leisure
+- Sexuality
+- Women
+tags:
+- Boston
+- artists
+- painters
+- paintings
+- sculptors
+- sculpture
 ---
 
 Curator Erica Hirshler looks at the contributions of Boston women artists to the world of painting and sculpture, focusing on little-known artists throughout the city's history. The presentation includes slides.
+
 The lecture audio can be downloaded separately.

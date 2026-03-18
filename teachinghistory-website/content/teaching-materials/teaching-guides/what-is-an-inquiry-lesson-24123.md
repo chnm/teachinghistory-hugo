@@ -19,12 +19,10 @@ splash_image: /files/TeachingHistoricalInquiry432x240.jpg
 image: /files/TeachingHistoricalInquiry150x113.jpg
 author_image: /files/author_image/Logo_SHEG_1.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
-
-
 
 ## What Is an "Inquiry Lesson"?
 

@@ -12,7 +12,19 @@ thumbnail_fid: '2951'
 summary: A menagerie of terms for politicians, parties, factions, and movements.
 splash_image: /files/splash-polslang.jpg
 thumbnail: /files/quiz_thumbnail/AMDOCSThumbnail.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+topics:
+- Politics
+tags:
+- Democrats
+- Theodore Roosvelt
+- barnburners
+- hunkers
+- language
+- political parties
+- slang
 ---
-
 
 Filibustering and gerrymandering are classic examples of the eccentric words politics ushers into the English language, but there are many, many more—some with clear origins and some more mysterious. Test your knowledge of the origins of these examples of colorful political slang.

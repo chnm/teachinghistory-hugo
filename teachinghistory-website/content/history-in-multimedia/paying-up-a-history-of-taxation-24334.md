@@ -9,8 +9,21 @@ duration: 00:54:55
 website_url: http://backstoryradio.org/our-civic-duties-a-history-of-taxes/
 date_published: '2010-04-07T00:00:00'
 series_name: BackStory
+topics:
+- Economy
+- Politics
+- Radicalism
+tags:
+- Patrick Henry
+- Sons of Liberty
+- history of taxes
+- stamp act of 1765
+- taxes
+- whiskey tax
 ---
 
 According to *Backstory:*
+
 Since the beginning of our history, Americans have had a complicated relationship with the Tax Man. “Taxation without representation” was one of the main grievances of the Sons of Liberty, but the Revolution hardly settled the issue. Whiskey tax resistors waged an armed rebellion just a few years later, and ever since, Americans have been arguing about what constitutes “fair” taxation.
+
 On this episode, the History Guys look at the long and turbulent history of taxation in America. How have we decided what to tax? From the Stamp Act of 1765 to the current-day Tea Party Movement, how have our attitudes about taxation changed? Do we think differently about taxes in times of war and national crisis? What was the tariff, anyway, and why did it matter?

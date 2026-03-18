@@ -11,6 +11,30 @@ keywords: blacksmiths, smiths, smithing, blacksmithing, business, businesses, co
 website_url: http://podcast.history.org/2005/08/08/ken-schwarz-on-the-life-of-a-blacksmith/
 date_published: '2005-08-08T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Daily Life
+- Labor
+- Military History
+- Science & Tech.
+- Southern States
+tags:
+- American Revolution
+- Revolutionary War
+- Virginia
+- Williamsburg
+- blacksmithing
+- blacksmiths
+- business
+- businesses
+- colonies
+- colonists
+- smithing
+- smiths
+- weapons
 ---
 
 Ken Schwarz, a blacksmith at Colonial Williamsburg, talks about smithing according to colonial-era practices.

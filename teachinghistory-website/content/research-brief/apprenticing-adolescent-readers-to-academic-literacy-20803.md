@@ -12,10 +12,9 @@ summary: Do your students struggle with reading history texts? This instructiona
 splash_image: /files/boys_reading_splash.jpg
 image: /files/adolread.jpeg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
 ---
-
 
 Think of teaching history as teaching reading. Plan lessons where guiding students in making sense of historical texts is central to the activities.
 

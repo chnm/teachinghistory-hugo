@@ -11,6 +11,25 @@ keywords: west, pioneers, settlers, immigrants, travel, wagon trails, covered wa
 website_url: http://www.timelines.tv/index.php?t=4&e=3
 date_published: '2009-02-16T00:00:00'
 series_name: Seven Journeys in the American West
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Global Contact
+- Rural Life
+- Western States
+tags:
+- Native Americans
+- West
+- covered wagons
+- farmers
+- immigrants
+- pioneers
+- race
+- race relations
+- settlers
+- travel
+- wagon trails
 ---
 
 This presentation, narrated partially from the perspective of Sallie Hester, a young girl heading across the U.S. to California with her family, looks at the journey of settlers across the American West.

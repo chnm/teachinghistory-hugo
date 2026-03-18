@@ -10,6 +10,25 @@ keywords: Taiwan, China, foreign policy, foreign relations, foreign affairs
 website_url: http://www.fpri.org/multimedia/20061021.rigger.abouttaiwan.html
 date_published: '2006-10-21T00:00:00'
 series_name: Understanding China
+time_periods:
+- All
+- Contemporary US, 1968-Present
+- General
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+tags:
+- China
+- Taiwan
+- foreign affairs
+- foreign policy
+- foreign relations
 ---
 
 Shelley Rigger of Davidson College outlines what she believes all U.S. students should know about Taiwan, looking also at how the media represents Taiwan internally and globally. On October 21-22, 2006, FPRI's Marvin Wachman Fund for International Education hosted 50 teachers from 26 states across the country for a weekend of discussion on teaching about China. The History Institute, held in Kenosha, WI, was cosponsored by the Clausen Center for World Business, Carthage College.

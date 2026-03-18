@@ -15,7 +15,24 @@ summary: Leading up to the civil rights movement in a high school class? Explore
 splash_image: /files/Duluth_Lynchings_432x240.jpg
 image: /files/website_image/duluth-image.jpg
 thumbnail: /files/quiz_thumbnail/thumbnail-tobacco-web_0.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- Legal History
+- Midwestern States
+evidence_types:
+- Newspapers and Periodicals
+- Official Documents
+- Oral History
+resource_types:
+- Audio
+- Images
+- Text
+tags:
+- Minnesota
+- crime
+- lynchings
 ---
-
 
 On June 15, 1920, a white mob broke into a jail in Duluth, Minnesota, and lynched three black men—Elias Clayton, Elmer Jackson, and Isaac McGhie—accused of raping a white woman. This website tells the story of that attack and its aftermath through more than 700 primary source documents and photographs relating to the lynchings, legal proceedings against members of the lynch mob and several other black men accused of rape, and the incarceration of three white mob members for rioting and one black man for rape. It ends with the aftermath of the incident, including a drop in the black population of Duluth by 16 percent, the formation of an active NAACP chapter in the city, and a campaign for anti-lynching legislation. A Background section sets the scene in 1920s Duluth alongside information on rising racial tensions across the country and lynchings in northern states. An interactive timeline of events surrounding the lynchings, accompanied by an audio narrative, is a good place to begin. All documents are keyword searchable and browseable by document type (government document, newspaper, correspondence) and by date.

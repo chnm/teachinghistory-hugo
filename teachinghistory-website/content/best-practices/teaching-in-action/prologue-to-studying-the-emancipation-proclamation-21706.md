@@ -17,12 +17,18 @@ splash_image: /files/LettersAsPrimarySplash.jpg
 image: /files/Letters-as-Primary-150x113.jpg
 author_image: /files/author_image/JasonFitzgerald75x75.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+tags:
+- Civil War
+- Emancipation Proclamation
+- letters
 ---
-
-
 
 [This website](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/classroom-practice/) shows an 8th-grade teacher in Maryland teaching a lesson based on Civil War letters. [Source Analysis](http://chnm.gmu.edu/mcpstah/source-analysis/), a feature created for the Montgomery County (Maryland) TAH website, has three sections focused on these primary sources: [Scholar Analysis](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/scholar-analysis/), [Teacher Analysis](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/teacher-analysis/), and [Classroom Practice](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/classroom-practice/). The latter two sections show a lesson that asks students to examine what a Union and a Confederate soldier thought about the Emancipation Proclamation. In order to investigate this, the teacher asks students to study [two letters](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/read-the-letters/) written by soldiers during the Civil War. This series of videos provides examples of two promising practices:
 

@@ -12,15 +12,19 @@ splash_image_fid: '8658'
 summary: It's never too early to start planning for summer professional development.
 splash_image: /files/splash-blog-pd11.jpg
 image: /files/image-blog-pd11.jpg
+tags:
+- professional development
 ---
 
-
 Have you started thinking about the summer yet? It's never too early, especially if you're considering professional development opportunities. Many summer programs have spring application deadlines.
+
 Check with local and state historical societies, libraries and archives, historic sites, national parks, and museums in your area—your never know what organizations may be offering workshops, institutes, or seminars.
+
 Looking for something on the national level? These professional development programs are $200 or less:
 
 * **American Red Cross:**
   Offers a four-day [institute](https://www.signup4.net/public/ap.aspx?EID=EXPL66E&OID=50) introducing middle and high school teachers to its [*Exploring Humanitarian Law*](http://teachinghistory.org/history-content/website-reviews/25229) curriculum. The registration fee is $150, but scholarships of up to $600 are available to a limited number of applicants. The application deadline is May 4, 2012.* **Civil War Trust:**
+
     Offers two-day regional institutes and one four-day [national institute](http://www.civilwar.org/aboutus/events/teacher-institute/). Institutes require a refundable registration deposit. Registration begins February 2012 for the national institute.
   * **C-SPAN Classroom:**
     Offers a four-week [fellowship](http://www.c-spanclassroom.org/Teacher-Opportunities.aspx) for middle and high school teachers. Participants will develop teaching materials using C-SPAN's resources. Fellows receive a $7,000 award. Registration ends February 10, 2012. Also offers a two-day summer educators' [conference](http://www.c-spanclassroom.org/Teacher-Opportunities.aspx) for grade 6–12 teachers. Participants must be C-Span Classroom members. Successful applicants receive stipends. The application deadline is April 13, 2012.
@@ -40,4 +44,5 @@ Looking for something on the national level? These professional development prog
     Offers one-week [Landmarks of American History and Culture workshops](http://www.neh.gov/divisions/education/summer-programs) and [Summer Seminars and Institutes](> and two- to five-week <a href=) throughout the country. Successful applicants receive stipends. The application deadline for workshops, seminars, and institutes is March 1, 2012.
   * **Smithsonian American Art Museum:**
     Offers the [Clarice Smith National Teacher Institutes](http://americanart.si.edu/education/dev/cs/), week-long institutes for 6th–12th-grade teachers, exploring connections between 21st-century skills, American art, English, and social studies. Requires a nonrefundable $200 application fee, but a limited number of $500 scholarships are available. The application deadline is April 2, 2012.* **United States Holocaust Museum:**
+
       Offers [Museum Teacher Fellowships](http://www.ushmm.org/education/foreducators/prodev/teacherfellowship/), which include a one-week, expenses-paid summer institute in Washington, DC. Applications are due February 10, 2012.

@@ -22,17 +22,25 @@ splash_image: /files/makingthemost432x240.jpg
 image: /files/makingthemost113x150.jpg
 author_image: /files/author_image/authorphotojanekon.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Jane Kon
+- Maps
+- cartography
+- differentiation
+- mapping
+- resources
+- teaching methods
 ---
-
-
 
 ## Elementary Students
 
 To some extent the answer to this question depends on the age of the children you are teaching. Given the abstract nature of maps, formal introduction to map skills is likely best done after age six. For these young learners, I suggest that you look at the newly redesigned [National Geographic Education website](http://education.nationalgeographic.com/education/mapping/ ) that includes a mini-lesson on "[What is a Map](http://education.nationalgeographic.com/education/activity/exploring-maps-and-models/?ar_a=1)." This lesson introduces the concept of a map as a simplified model of reality. From there one of the best ways to introduce map reading is to create a map of a familiar area (such as the classroom) together. That and other elementary geography projects can be found on [this teacher-created site](http://geography.mrdonn.org/mapskills.html).
+
 For slightly older students map skills should include learning the vocabulary of maps: words and concepts such as legends, scales, and compass roses. Instruction can also begin to focus on the concept that mapmakers must be selective and can show only a limited number of things on each map. Try [this lesson](http://egsc.usgs.gov/isb/pubs/teach-pack/mapshow/lesson1.html) from the United States Geological Survey that gets to this point. In any case, it is important to teach students about maps and how to use them before asking them to read and analyze content-specific maps.
+
 Once students have a basic understanding of maps, teachers can begin to explore the use of maps to highlight important historical concepts. Elementary school is not too early to begin this type of lesson. A video example of using maps to teach history in a 4th-grade classroom can be explored [here](http://chnm.gmu.edu/loudountah/source-analysis/john-smith-map/). The main goal in this lesson is to engage students in actively asking questions of the primary source document (in this case John Smith's map of Tidewater Virginia) and interpreting and understanding what they are seeing.
 
 ## Finding the Right Map for Your Classroom
@@ -44,6 +52,7 @@ The Library of Congress has a [large collection of maps](http://memory.loc.gov/a
 > As with other print media, students must learn to ask why was this document made, for whom, and in what context.
 
 High school students with weaker geography backgrounds may require a review of terms and fundamental spatial concepts. But it is even more important for this age group for you to teach dynamic geographic analysis skills. See this [Teaching Guide](http://teachinghistory.org/teaching-materials/teaching-guides/24070) that includes an easy-to-use 12-step [handout](http://teachinghistory.org/system/files/handout_1-_maps_in_12_steps.pdf) to guide questioning about a map. It not only lists what to look for in a map, but also engages students in asking their own questions about what is represented (and what is not) and how that influences our understanding of the map. As with other print media, students must learn to ask why was this document made, for whom, and in what context.
+
 Finally, I am excited by the new uses for older maps that are afforded by the new Geographical Information Systems (GIS) technologies. An example of a high school lesson plan using interactive mapping features can be found [here](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/22531). This is just [one of several history lesson plans](http://www.gisforhistory.org/projects/index.php?user=teacher) based on GIS technology that are becoming available.
 
 ## Creativity is Key

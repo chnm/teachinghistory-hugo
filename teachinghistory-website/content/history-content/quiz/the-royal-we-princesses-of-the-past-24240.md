@@ -13,7 +13,20 @@ summary: Daughters of rulers and subjects of history...are these statements on w
   of monarchical lineage true or false?
 splash_image: /files/Princess_0.jpg
 thumbnail: /files/website_image/SpyLettImage.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Global Contact
+- International Relations
+- Politics
+tags:
+- Hawaii
+- Japan
+- princesses
+- royalty
 ---
-
 
 The U.S. formed by breaking ties with a king, but its people remain fascinated by royalty—particularly glamorous queens and princesses, whether fictional or real. While we have no royalty of our own, monarchies (and princesses) *do* figure in American history. Choose whether the statements are true or false.

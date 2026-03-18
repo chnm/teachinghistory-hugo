@@ -10,7 +10,17 @@ keywords: presidents
 website_url: http://www.trumanlibrary.org/video/index.php
 date_published: '2007-06-13T00:00:00'
 series_name: My Favorite Things
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Art
+- Global Contact
+- International Relations
+- Politics
+tags:
+- presidents
 ---
 
 Acting Director of Clinton Presidential Library Emily Robison describes a gift President Clinton received from the country of Belarus: a woven-wicker horse sculpture.
+
 To view this clip, scroll to "Emily Robison," and select "Play."

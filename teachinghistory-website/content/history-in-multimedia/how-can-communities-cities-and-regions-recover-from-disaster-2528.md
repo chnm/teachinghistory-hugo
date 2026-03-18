@@ -17,7 +17,44 @@ splash_image_fid: '8561'
 summary: How does U.S. response to Pearl Harbor contrast with U.S. response to natural
   disasters?
 splash_image: /files/splash-him-disaster.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+topics:
+- African Americans
+- Business
+- Cities & Suburbs
+- Daily Life
+- Economy
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+- Southern States
+tags:
+- 9/11
+- Hurricane Katrina
+- Iraq
+- Katrina
+- New Orleans
+- Pearl Harbor
+- War on Terror
+- World War II
+- cities
+- disaster relief
+- disasters
+- housing
+- hurricanes
+- natural disasters
+- poor
+- poverty
+- presidents
+- race
+- race relations
+- racism
+- relief
+- terrorism
 ---
-
 
 Professors Lawrence J. Vale, Thomas Kochan, and J. Phillip Thompson discuss issues related to the destruction of New Orleans by Hurricane Katrina and the recovery of New Orleans. Vale looks at past urban disasters and how these cities have changed and recovered; Kochan contrasts Franklin D. Roosevelt's response to Pearl Harbor with Bush's to Katrina; and Thompson looks at racial tension in New Orleans, prior to and after the hurricane.

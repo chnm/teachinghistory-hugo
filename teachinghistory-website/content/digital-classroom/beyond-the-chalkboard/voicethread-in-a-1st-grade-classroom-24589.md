@@ -20,20 +20,20 @@ spotlight: How can you make your lesson plans more exciting for your students wi
 splash_image: /files/orr_splash.jpeg
 author_image: /files/author_image/jennifer-orr_0.png
 grade_levels:
-  - elementary
+- elementary
 videos:
-  - src: /files/media/video/Orr1.mp4
-    thumb: /files/media/video/thumbs/Orr1.jpg
-    title: Introducing Two Founding Fathers
-  - src: /files/media/video/Orr2.mp4
-    thumb: /files/media/video/thumbs/Orr2.jpg
-    title: Practicing Sequencing
-  - src: /files/media/video/Orr3.mp4
-    thumb: /files/media/video/thumbs/Orr3.jpg
-    title: Recording Their Thoughts
-  - src: /files/media/video/Orr4.mp4
-    thumb: /files/media/video/thumbs/Orr4.jpg
-    title: The Challenges of Preliteracy
+- src: /files/media/video/Orr1.mp4
+  thumb: /files/media/video/thumbs/Orr1.jpg
+  title: Introducing Two Founding Fathers
+- src: /files/media/video/Orr2.mp4
+  thumb: /files/media/video/thumbs/Orr2.jpg
+  title: Practicing Sequencing
+- src: /files/media/video/Orr3.mp4
+  thumb: /files/media/video/thumbs/Orr3.jpg
+  title: Recording Their Thoughts
+- src: /files/media/video/Orr4.mp4
+  thumb: /files/media/video/thumbs/Orr4.jpg
+  title: The Challenges of Preliteracy
 ---
 
 **Jennifer Orr:** We've taken a couple of weeks, we've spent a couple of days just reading books about Benjamin Franklin. Some of the books were definitely at a level above their real reading ability, but they had some fabulous images in them, which I knew would trigger some thoughts, and then a lot of them were trade books that we've purchased to have at their level. And we created our data retrieval chart about him, looking for the dates in his life, the way he contributed to our lives today, and then just the things that they find fascinating. They're supposed to know, according to the state, his contributions. I add the facts because, really, there's always things we find fascinating that don't fit under the title of contributions.

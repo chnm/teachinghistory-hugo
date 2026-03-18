@@ -16,7 +16,35 @@ splash_image_fid: '1527'
 summary: As explorers encountered Native American groups, they also experienced a
   multitude of languages.
 splash_image: /files/Native-Tongue.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Global Contact
+- International Relations
+- Southern States
+tags:
+- Algonquin
+- Algonquins
+- Chesapeake
+- England
+- English
+- Iroquois
+- Native Americans
+- Sioux
+- Spain
+- Spanish
+- Virginia
+- Williamsburg
+- colonies
+- colonists
+- colonization
+- language
+- languages
+- race
+- race relations
 ---
-
 
 Buck Woodard of Colonial Williamsburg talks about instances of first contact between explorers and colonists and Native Americans, focusing on the diversity of Native American languages and problems of understanding and translation that arose at these meetings.

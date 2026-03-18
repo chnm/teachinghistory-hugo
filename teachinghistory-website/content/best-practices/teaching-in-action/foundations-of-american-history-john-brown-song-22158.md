@@ -23,11 +23,15 @@ splash_image: /files/JohnBrownSong432x240.jpg
 image: /files/brownraid.jpg
 author_image: /files/author_image/HeatherCoffey75x75.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+tags:
+- Harpers Ferry
+- John Brown
+- music
 ---
-
-
 
 [*Foundations of U.S. History, Virginia History as U.S. History*](http://chnm.gmu.edu/loudountah/) features [4th graders learning about John Brown's raid](http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/classroom-practice/) on Harpers Ferry through analyzing the song ["John Brown's Body](http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/get-the-songs/)." Video clips of classroom instruction accompany [short videos of a scholar analyzing the song](http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/scholar-analysis/) and the [teacher reflecting on the lesson]( http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/teacher-analysis/). The John Brown song is one of eight documents found on the Source Analysis feature of the [Teaching American History grant website]( http://chnm.gmu.edu/loudountah/) in Loudoun County, Virginia. In the classroom practice section for John Brown's Body we see students analyzing the song to understand how northerners viewed John Brown shortly after his raid on Harpers Ferry. This video provides examples of two promising practices:
 

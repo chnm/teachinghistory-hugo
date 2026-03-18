@@ -14,7 +14,19 @@ summary: What was popular music like in the 19th century?
 image: /files/website_image/KeffCollImage.jpg
 splash_image: /files/Keffer_Collection_of_Sheet_Music_ca._1790-1895_432x240.jpg
 thumbnail: /files/African-American_Perspectives-_Pamphlets_from_the_Daniel_A._P._Murray_Collection_1818-1907_432x240.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Popular Culture, Leisure
+evidence_types:
+- Music
+- Paintings and Prints
+resource_types:
+- Images
+- Text
 ---
-
 
 This site provides more than 2,500 musical scores, mostly published in the United States from 1790 to 1895, drawn from the Edward I. Keffer Collection. The collection is particularly strong in music by Philadelphia artists like Benjamin Carr, Benjamin Cross, and Alexander Reinagle. Although most of the works are American popular songs and piano music, there are also works by famous European composers, operas, and music for other instruments. The site also includes 867 illustrations from the sheet music. All music and illustrations are searchable by topic, composer or lithographer, and publisher. The site includes a list of three related collections at the University of Pennsylvania, three related websites, and a bibliography of 18 related scholarly works. The site is ideal for those interested in 19th-century American music and popular culture.

@@ -11,6 +11,25 @@ keywords: politicians, senators, Civil Rights movement, civil rights, Cuban Miss
 website_url: http://dev.forum-network.org/lecture/rfk-remembered
 date_published: '2004-04-25T00:00:00'
 series_name: 'American Experience: RFK'
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Family Life
+- Ideas & Ideologies
+- International Relations
+- Media
+- Military History
+- Politics
+tags:
+- Attorney Generals
+- Civil Rights Movement
+- Cuban Missile Crisis
+- Senators
+- assassinations
+- civil rights
+- politicians
 ---
 
 A panel reviews the life, times, and memory of Robert F. Kennedy. Robert F. Kennedy's wife attends the panel as an audience member.

@@ -12,7 +12,26 @@ keywords: Founding Fathers, Constitutional Convention, Virginia Plan, New Jersey
 website_url: http://teachingamericanhistory.org/institutes/2002/founding_readings.html
 date_published: '2002-06-25T00:00:00'
 series_name: The American Revolution and the Founding of a New Nation
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Literature
+- Politics
+tags:
+- Bill of Rights
+- Connecticut Compromise
+- Constitutional Convention
+- Founding Fathers
+- Hamilton Proposal
+- New Jersey Plan
+- Philadelphia
+- Philadelphia Convention
+- U.S. Constitution
+- Virginia Plan
+- politicians
 ---
 
 Professor Gordon Lloyd looks at the Constitutional Convention and the debate over what form the new government and its constitution should take. He examines the final Constitution arrived at. This lecture continues from the lecture "Constitutional Convention II: The Convention in Crisis."
+
 To listen to this lecture, scroll to session six, and select the RealAudio image or text in the gray bar to the left of the main text.

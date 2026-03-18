@@ -10,7 +10,24 @@ keywords: artifacts, decorative arts, arts, Boston
 website_url: http://dev.forum-network.org/lecture/our-daily-bread-tales-how-treasures-were-saved
 date_published: '2003-11-12T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- All
+- General
+topics:
+- Art
+- Consumer Culture
+- Daily Life
+- Environment
+- Family Life
+- Global Contact
+- New England
+tags:
+- Boston
+- artifacts
+- arts
+- decorative arts
 ---
 
 Ken Turino, exhibitions manager for the exhibit "Cherished Possessions," examines the history of New England furniture and decorative objects and the ways in which they were preserved and handed down over time. His presentation includes slides.
+
 Video and audio options are available.

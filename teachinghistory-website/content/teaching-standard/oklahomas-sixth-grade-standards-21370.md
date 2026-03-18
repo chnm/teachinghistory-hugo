@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21370
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### OK.1. Content Standard / Course: World Studies

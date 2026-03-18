@@ -13,8 +13,13 @@ splash_image_fid: '8398'
 summary: William A. Frazier discusses the impact of Mexican War veterans on the Civil
   War in Arkansas.
 splash_image: /files/splash-him-vd16.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+tags:
+- Mexican American War
+- veterans
 ---
 
-
 From the Arkansas Civil War Sesquicentennial Commission website:
+
 "William A. Frazier, editor of *Ready, Booted and Spurred: Arkansas in the U.S.-Mexican War*, discusses the impact of Mexican War veterans on the Civil War in Arkansas."

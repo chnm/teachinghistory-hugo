@@ -10,6 +10,17 @@ keywords: Washington DC, presidents, speeches, photography
 website_url: http://memory.loc.gov/ammem/pihtml/pivid05.html
 date_published: '2008-05-29T00:00:00'
 series_name: 'Presidential Inaugurations: Historical Insights'
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Cities & Suburbs
+- Politics
+- Science & Tech.
+tags:
+- Washington DC
+- photography
+- presidents
+- speeches
 ---
 
 Library of Congress historian Marvin Kranz looks at an early photograph taken of James Buchanan's inauguration. He discusses both the technology involved in taking the photograph and the construction work in D.C. that the photograph captured.

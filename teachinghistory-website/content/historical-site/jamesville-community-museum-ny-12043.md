@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 12043
 website_url: http://jamesvillemuseum.org/content
+time_periods:
+- General
+topics:
+- Environment
+- Mid-Atlantic
+- Science & Tech.
+tags:
+- New York
+- Solvay Process
+- minerals
 ---
 
 The Jamesville Community Museum presents history and geology relevant to Jamesville, New York. Permanent exhibits topics include local and state minerals and the Solvay Process, the production of soda ash. Soda ash is used for water treatment and making glass, cleaning agents, and paper, among other purposes.
+
 The museum offers exhibits.

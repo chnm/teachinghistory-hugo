@@ -18,10 +18,16 @@ summary: Historian Allida Black analyzes FDR's April 28, 1935 Fireside Chat. Wha
 splash_image: /files/Allida.jpg
 author_image: /files/author_image/allidaauthor.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Economy
+tags:
+- FDR
+- New Deal
+- presidents
 ---
-
-
 
 /files/media/video/Allida1.mp4
 

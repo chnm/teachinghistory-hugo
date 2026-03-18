@@ -9,9 +9,8 @@ splash_image_fid: '7402'
 summary: How can they be used? Should they be used?
 splash_image: /files/splash-rt-mc.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
-
 

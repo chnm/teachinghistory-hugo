@@ -12,8 +12,13 @@ thumbnail_fid: '2978'
 summary: Where do historians turn for historical evidence?
 splash_image: /files/primsources-splash.jpg
 thumbnail: /files/website_image/EncyBritImage.jpg
+time_periods:
+- General
+tags:
+- primary sources
+- secondary sources
 ---
 
-
 How do you study the past, a time that no longer exists? By referring to objects, records, and even people that have survived into the present. Artifacts that existed close in time, place, and experience to the topic being researched are called primary sources. Records that interpret primary sources are called secondary sources.
+
 Examine the sources in the quiz and consider whether they are primary or secondary sources.

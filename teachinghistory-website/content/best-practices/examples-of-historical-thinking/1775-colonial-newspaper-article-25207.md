@@ -15,9 +15,20 @@ summary: Smithsonian Barbara Clark Smith looks at what a colonial newspaper arti
   says—and doesn't say—about a Patriot protest.
 splash_image: /files/splash.papers.jpg
 author_image: /files/author_image/barbara_1_0.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Media
+- New England
+- Politics
+- Radicalism
+tags:
+- Patriots
+- Providence
+- Rhode Island
+- newspapers
+- tea
 ---
-
-
 
 /files/media/video/csmith5.mp4
 

@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 9195
 website_url: http://www.westville.org/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- General
+topics:
+- Daily Life
+- Southern States
+tags:
+- Georgia
 ---
 
 Westville is a living history museum which emulates an 1850s west Georgia village. Numbering over 30 total, the restored antebellum structures include businesses, residences, a church, a schoolhouse, and a courtyard.
+
 Westville offers costumed interpreters and group tours. Reservations are required for group tours.

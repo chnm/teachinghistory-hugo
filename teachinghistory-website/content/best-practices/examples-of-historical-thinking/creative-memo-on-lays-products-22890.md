@@ -15,9 +15,22 @@ author_image_fid: '4135'
 summary: Potato chip marketing—how a luxury item became an everyday U.S. food.
 splash_image: /files/CreativeMemoSplash.jpg
 author_image: /files/author_image/RogerHorowitz.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Business
+- Children
+- Cities & Suburbs
+- Consumer Culture
+- Daily Life
+tags:
+- advertising
+- consumer culture
+- lays
+- market research
+- postwar
+- potato chips
 ---
-
-
 
 /files/media/video/RHSegment1.mp4
 

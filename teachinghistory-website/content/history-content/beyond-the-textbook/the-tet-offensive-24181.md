@@ -13,6 +13,17 @@ summary: American historians have depicted the Tet Offensive as the turning poin
   for U.S. involvement in the Vietnam War. An overwhelming number of facts make an
   alternate case.
 splash_image: /files/vietconggun_splash_0.jpg
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Military History
+tags:
+- Tet
+- Tet Offensive
+- Vietnam War
+- Vietnamese
+- foreign policy
+- war
 ---
 
 ## What Textbooks Say

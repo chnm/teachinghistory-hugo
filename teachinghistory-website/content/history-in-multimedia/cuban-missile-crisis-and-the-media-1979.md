@@ -11,6 +11,27 @@ keywords: Cuban Missile Crisis, nuclear weapons, atomic weapons, atom bombs, nuc
 website_url: http://dev.forum-network.org/lecture/cuban-missile-crisis-and-media
 date_published: '2002-10-28T00:00:00'
 series_name: 'American Experience: Fidel Castro'
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Global Contact
+- International Relations
+- Media
+- Military History
+- Politics
+- Science & Tech.
+tags:
+- Cuban Missile Crisis
+- WMDs
+- atom bombs
+- atomic weapons
+- mass media
+- nuclear bombs
+- nuclear war
+- nuclear weapons
+- public relations
+- reportage
+- reporting
 ---
 
 Several panelists involved in the original reportage of the Cuban Missile Crisis discuss and debate their coverage of the Crisis and how the media might cover such a situation today. The presentation includes audio clips from original coverage of the Crisis.

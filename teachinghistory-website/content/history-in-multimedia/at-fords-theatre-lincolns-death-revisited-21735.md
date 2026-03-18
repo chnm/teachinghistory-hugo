@@ -11,6 +11,19 @@ keywords: presidents, politicians, Ford's Theatre, District of Columbia, DC, ass
 website_url: http://www.npr.org/templates/story/story.php?storyId=100577343
 date_published: '2009-02-12T00:00:00'
 series_name: 200 Years of Abraham Lincoln
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Mid-Atlantic
+- Radicalism
+tags:
+- DC
+- District of Columbia
+- Ford's Theatre
+- assassination
+- assassinations
+- politicians
+- presidents
 ---
 
 To follow the story of Lincoln's assassination, NPR's Renee Montagne accompanies James Swanson to Ford's Theatre in Washington, DC.

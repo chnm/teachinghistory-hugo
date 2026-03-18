@@ -14,10 +14,25 @@ summary: Discover new classroom possibilities with this easy-to-use video presen
 splash_image: /files/AnimotoSplash.jpg
 image: /files/animotoImage.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+topics:
+- Education
+- Media
+- Popular Culture, Leisure
+tags:
+- collecting and organizing
+- digital storytelling
+- images
+- movies
+- multimedia
+- music
+- presentations
+- production
+- sound
+- videos
+- visuals and visualizing
 ---
-
 
 Animoto is an easy-to-use tool that can transform any collection of images, by adding sound and text, into a short movie presentation—ideal for reconceptualizing a class presentation.

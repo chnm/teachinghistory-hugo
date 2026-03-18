@@ -13,7 +13,25 @@ summary: How do we relate to national memorials? Photographs can show us how we 
   to see our monuments.
 splash_image: /files/splash-mem2011.jpg
 thumbnail: /files/quiz_thumbnail/TJPapeThumbnail.jpg
+time_periods:
+- All
+- General
+topics:
+- Art
+- Media
+- Military History
+- Politics
+- Science & Tech.
+tags:
+- FDR Memorial
+- Iwo Jima
+- Lincoln Memorial
+- Marine Corps War Memorial
+- Washington Monument
+- holidays
+- memorial day
+- memorials
+- monuments
 ---
-
 
 Visiting a national memorial? Take a picture! It's a tourist tradition, but what do these photos say about the memorials and monuments themselves, and about how we approach them? Look at these photos, and choose the monument they capture.

@@ -12,7 +12,19 @@ series_name: BackStory
 splash_image_fid: '4339'
 summary: How has the meaning of Independence Day changed over time?
 splash_image: /files/4thofJuly.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+- General
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Reform
+tags:
+- Independence Day
+- fourth of july
+- holidays
 ---
-
 
 Ed Ayers, Peter Onuf, and Brian Balogh look at changing interpretations of the Declaration of Independence and the origins of Independence Day celebrations.

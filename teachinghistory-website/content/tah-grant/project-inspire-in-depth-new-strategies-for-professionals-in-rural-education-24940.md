@@ -6,9 +6,9 @@ content_type: tah_grant
 draft: false
 drupal_nid: 24940
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
 
 *Project INSPIRE* will serve rural districts with limited financial resources; many teachers have little background in American history and teach out-of-field. Activities will capitalize on experts in history and online learning to deliver in-person and distance learning experiences that are organized in five tiers: (1) a lecture series, (2) monthly online history activities, (3) annual colloquia at historic sites (e.g., Williamsburg, Boston, Gettysburg), (4) annual 2-day master teacher workshops, and (5) annual intensive summer workshops focused on a specific time period. Tiers 1 and 2 will be delivered mainly by 21st century technologies such as Skype, and all activities will be supported by such technology tools as Moodle, which will be used for lesson planning. The 57 teachers will be chosen on the basis of greatest need; all will participate for the first three years, and some will continue for the final two years, to be joined by additional colleagues. Each year 40 participants will rotate into the colloquium and master teacher workshop, with smaller groups of three per year selected for the intensive summer workshop. This 5-year training-of-trainers program aims to develop "teacher content specialists" who can sustain the professional development beyond the grant period. To build content knowledge of national and local history and to develop expertise in such research-based strategies as thinking like a historian, teachers will explore online resources and get hands-on practice with conducting research, using primary sources, and teaching from multiple perspectives. Participants will create lesson plans, book reviews, project activities and guides, and a Web site featuring student work and National History Day projects.

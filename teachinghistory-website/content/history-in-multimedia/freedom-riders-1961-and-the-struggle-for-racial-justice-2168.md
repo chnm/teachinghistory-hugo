@@ -15,7 +15,28 @@ splash_image_fid: '8711'
 summary: Professor Raymond Arsenault discusses the Freedom Rides of 1961, in which
   participants rode public buses into the South to protest transportation segregation.
 splash_image: /files/splash-him-audio_2.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Ethnicity
+- Ideas & Ideologies
+- Radicalism
+- Reform
+- Southern States
+tags:
+- Civil Rights Movement
+- Freedom Riders
+- Freedom Rides
+- buses
+- civil rights
+- desegregation
+- infrastructure
+- race
+- race relations
+- racism
+- segregation
+- transportation
 ---
-
 
 Professor Raymond Arsenault discusses the Freedom Rides of 1961, in which participants rode public buses into the South to protest transportation segregation. He focuses on the personal stories of the Freedom Riders.

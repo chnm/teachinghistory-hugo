@@ -9,7 +9,15 @@ duration: 01:13:41
 website_url: http://www.gilderlehrman.org/multimedia#3291
 date_published: '2010-08-18T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
 ---
 
 From the Gilder Lehrman Institute of American History website:
+
 "Alice Kessler-Harris is the R. Gordon Hoxie Professor of American History at Columbia University, in New York City. She specializes in the history of American labor and the comparative and interdisciplinary exploration of women and gender."

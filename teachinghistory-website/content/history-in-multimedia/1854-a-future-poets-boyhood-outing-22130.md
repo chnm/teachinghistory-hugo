@@ -9,6 +9,14 @@ duration: 00:14:00
 website_url: http://www.sparkletack.com/2009/05/04/san-francisco-timecapsule-050409/
 date_published: '2009-05-04T00:00:00'
 series_name: San Francisco History Podcast
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Children
+- Cities & Suburbs
+- Family Life
+- Literature
+- Western States
 ---
 
 In this episode of the weekly San Francisco Timecapsule, Richard Miller presents some of the reminiscences of author Charles Warren Stoddard (1843-1909) on his childhood in San Francisco.

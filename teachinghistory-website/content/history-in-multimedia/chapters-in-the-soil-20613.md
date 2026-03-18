@@ -11,6 +11,25 @@ keywords: Williamsburg, colonists, colonies, Virginia, archaeology, archaeologis
 website_url: http://podcast.history.org/2007/04/16/chapters-in-the-soil/
 date_published: '2007-04-16T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Daily Life
+- Education
+- Science & Tech.
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- archaeologists
+- archaeology
+- architecture
+- buildings
+- colonies
+- colonists
+- trash
 ---
 
 Meredith Poole, a staff archaeologist at Colonial Wiliamsburg, describes work on the Ravenscroft site, where 17th-century artifacts are being discovered.

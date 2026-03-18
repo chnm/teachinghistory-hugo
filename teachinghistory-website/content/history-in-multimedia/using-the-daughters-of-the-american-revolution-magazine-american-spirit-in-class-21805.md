@@ -12,6 +12,22 @@ keywords: American Revolution, magazines, periodicals, DAR, Daughters of the Rev
 website_url: http://speakingofhistory.blogspot.com/2009/03/podcast-183-using-daughters-of-american.html
 date_published: '2009-03-06T00:00:00'
 series_name: Speaking of History
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Education
+tags:
+- American Revolution
+- DAR
+- Daughters of the Revolution
+- Revolutionary War
+- colonies
+- colonists
+- colonization
+- magazines
+- periodicals
+- teaching strategies
 ---
 
 Eighth-grade American history educator Eric Langhorst describes how he uses articles from a magazine produced by the Daughters of the American Revolution—*American Spirit*—in his classroom.

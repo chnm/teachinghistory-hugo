@@ -11,6 +11,27 @@ keywords: furniture, colonies, colonists, Williamsburg, Virginia, wood, business
 website_url: http://podcast.history.org/2006/08/21/a-fourth-generation-cabinetmaker/
 date_published: '2006-08-21T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Consumer Culture
+- Daily Life
+- Labor
+- Science & Tech.
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- business
+- businesses
+- cabinetmakers
+- cabinetmaking
+- colonies
+- colonists
+- furniture
+- wood
 ---
 
 Mack Headley, Colonial Williamsburg's master cabinetmaker, discusses the work of a cabinetmaker in colonial-era Williamsburg and today.

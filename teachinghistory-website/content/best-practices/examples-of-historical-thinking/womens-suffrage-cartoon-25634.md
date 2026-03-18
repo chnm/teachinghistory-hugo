@@ -16,9 +16,20 @@ summary: How does a political cartoon use popular beliefs about women to make it
   point? Historian TJ Boisseau examines the conventions in this image.
 splash_image: /files/boisseausplash1.jpg
 author_image: /files/author_image/tj_headshot_with_brown_blurred_background_7.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Gender
+- Media
+- Politics
+- Reform
+- Women
+tags:
+- Women's Movement
+- editorial cartoons
+- political cartoons
+- suffrage
 ---
-
-
 
 /files/media/video/Boisseau1a.mp4
 

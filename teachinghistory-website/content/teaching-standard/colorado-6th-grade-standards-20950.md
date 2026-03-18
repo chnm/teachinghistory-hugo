@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20950
 grade_levels:
-  - middle
+- middle
 ---
 
 ## CO.1. Standard: History

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21364
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### OK.1. Content Standard / Course: Civics

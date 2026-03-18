@@ -12,6 +12,35 @@ keywords: orators, oratory, speeches, speechmaking, presidents, politicians, law
 website_url: http://www.fordstheatre.org/index.php?q=home/education/multimedia-lesson-plans/lincoln-leader-unlikely-president
 date_published: '2009-01-27T00:00:00'
 series_name: 'Ford''s Theatre: Multimedia Lesson Plans'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Ideas & Ideologies
+- Legal History
+- Midwestern States
+- Military History
+- Politics
+- Rural Life
+- Slavery
+tags:
+- Civil War
+- Democrats
+- Republicans
+- generals
+- lawyers
+- orators
+- oratory
+- political parties
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- slaves
+- speeches
+- speechmaking
 ---
 
 David Herbert Donald, Charles Warren Professor of American History and Professor of American Civilization Emeritus at Harvard University, talks about the qualities and experience that made Abraham Lincoln both an exceptional and an unlikely national leader.

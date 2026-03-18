@@ -11,7 +11,40 @@ keywords: jihads, jihad, jihadism, terror, terrorism, Iraq War, Salafi, Salafis,
 website_url: http://www.fpri.org/multimedia/20051015.habeck.jihadism.html
 date_published: '2005-10-15T00:00:00'
 series_name: Teaching 9/11 and the War on Terrorism
+time_periods:
+- All
+- Contemporary US, 1968-Present
+- General
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+- Radicalism
+- Reform
+- Religion
+tags:
+- Al-Qaeda
+- Iraq War
+- Islam
+- Islamism
+- Islamists
+- Jihadis
+- Muslim
+- Salafi
+- Salafis
+- Salafism
+- Sunni Islam
+- Sunni Muslims
+- jihad
+- jihadism
+- jihads
+- terror
+- terrorism
 ---
 
 Mary Habeck of Johns Hopkins University looks at the theories backing jihadism and the practice of jihadism. She examines the differences between Islamist and Salafi groups that believe change can be achieved by social/political means and those that believe change can only be realized through violence—the Jihadi groups.
+
 Video and audio options are available.

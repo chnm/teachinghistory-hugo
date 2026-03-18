@@ -11,7 +11,21 @@ website_url: http://www.fpri.org/multimedia/20080726.springer.mexicanamericanwar
 date_published: '2008-07-27T00:00:00'
 series_name: 'What Students Need To Know About America’s Wars, Part I: 1622–1919:
   A History Institute for Teachers'
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Global Contact
+- International Relations
+- Military History
+- Politics
+tags:
+- Mexican-American War
+- Mexico
+- lectures
+- war
+- wars
 ---
 
 Paul Springer of the U.S. Military Academy discusses the significance of the Mexican-American War to U.S. history, looking at how little most students know about and arguing the war is mis- and underrepresented in many texts. This lecture was part of "What Students Need To Know About America’s Wars, Part I: 1622-1919: A History Institute for Teachers, held July 26-27, 2008, at the First Division Museum in Wheaton, IL, sponsored by the Foreign Policy Research Institute's Wachman Center and by the Cantigny First Division Foundation.
+
 Video and audio options are available.

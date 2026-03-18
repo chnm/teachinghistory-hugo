@@ -11,6 +11,29 @@ keywords: slaves, race, race relations, reenactors, reenactment, Williamsburg, V
 website_url: http://podcast.history.org/2006/09/18/researching-revolutionary-citizens/
 date_published: '2006-09-18T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Daily Life
+- Gender
+- Military History
+- Slavery
+- Southern States
+- Women
+tags:
+- American Revolution
+- Revolutionary War
+- Virginia
+- Williamsburg
+- camp followers
+- marriage
+- marriages
+- race
+- race relations
+- reenactment
+- reenactors
+- slaves
 ---
 
 Corinne Dame, an actor-interpreter at Colonial Williamsburg, describes the work involved in researching and portraying a variety of historical characters, including Frances Davenport, an upper-middling wife, married to Matthew Davenport, a clerk of the courts; Barbry Hoy, whose husband enlists in the Army during the Revolutionary War; and Elizabeth Maloney, who has two children with a slave.

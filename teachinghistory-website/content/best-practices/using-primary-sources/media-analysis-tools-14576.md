@@ -11,7 +11,15 @@ splash_image_fid: '4756'
 summary: These worksheets from the Library of Congress help students analyze primary
   sources.
 splash_image: /files/splash-usp-mat.jpg
+tags:
+- Analyzing Maps and Charts
+- Analyzing Oral Histories
+- Analyzing texts
+- analyzing film and music
+- analyzing images
+- images
+- strategies and lessons
+- worksheets
 ---
-
 
 These media analysis tools or worksheets guide students into deeper analysis of primary sources. The guides focus on life histories, objects, and photographs.

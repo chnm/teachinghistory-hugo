@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 8471
 website_url: http://www.leelanauhistory.org/
+time_periods:
+- General
+topics:
+- American Indians
+- Daily Life
+- Labor
+- Midwestern States
 ---
 
 The Leelanau Historical Society seeks to preserve and share the cultural history of the Leelanau Peninsula, MI. The museum's permanent exhibit features Anishnabek baskets and quill work. Other displays present domestic and vernacular arts.
+
 The society offers exhibits and archive access. Archive access is by appointment only.

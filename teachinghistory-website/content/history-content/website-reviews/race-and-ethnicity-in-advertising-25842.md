@@ -11,7 +11,22 @@ summary: The definitive online exhibition and archives about how American experi
   of race and ethnicity have shaped and been shaped by the development of advertising
   over the course of the 20th century.
 grade_levels:
-  - high
+- high
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+evidence_types:
+- Advertising
+resource_types:
+- Audio
+- Images
+- Video
+tags:
+- advertisements
+- advertising
+- race
 ---
 
 Offering a new way of looking at the history of American culture and society, *Race and Ethnicity in Advertising* is a database of advertisements from across the United States throughout the 20th century.  This site offers a fresh lense for students to explore the changes in how Americans view themselves and each other in the world through the familiar medium of commercials and advertisements. 

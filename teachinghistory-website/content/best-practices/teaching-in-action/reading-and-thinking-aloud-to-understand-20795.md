@@ -20,10 +20,18 @@ splash_image: /files/ReadingThinkingSplash.jpg
 image: /files/00126thr.jpg
 author_image: /files/author_image/GayleCribb75x75.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Asian Americans
+- Military History
+tags:
+- Japanese Americans
+- World War II
+- internment camps
 ---
-
-
 
 This 11th-grade honors U.S. history class, using [Reading Apprenticeship](http://www.wested.org/cs/ra/print/docs/ra/home.htm) techniques developed by WestEd, shows students engaged in the process of reading primary source documents as a means of better understanding the internment of Japanese Americans during World War II. The students in this [video](https://readingapprenticeship.org/video/honors-u-s-history/) are in an honors classroom. The class is in an ethnically, linguistically, and economically diverse school in a high immigrant, rural community. This video provides examples of two promising practices:
 

@@ -9,6 +9,17 @@ duration: 00:21:12
 website_url: http://www.kshs.org/p/cool-things-carry-nation-s-hammer/10156
 date_published: '2010-06-16T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Gender
+- Ideas & Ideologies
+- Radicalism
+- Reform
+- Women
+tags:
+- temperance movement; Carry Nation; Woman's Christian Temperance Union; Kansas State
+  Temperance Union
 ---
 
 In this podcast by the Kansas Museum of History, museum curators use a rather vicious-looking hammer as a spring board to discuss the (literal) saloon-smashing crusade of Carry Nation.

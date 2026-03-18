@@ -15,7 +15,23 @@ splash_image_fid: '9251'
 summary: Dr. Caroline Janney discusses her book about the role of Southern women in
   creating the first Memorial Days.
 splash_image: /files/splash-him-md4.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Gender
+- Ideas & Ideologies
+- Military History
+- Politics
+- Women
+tags:
+- Civil War
+- Confederacy
+- Confederates
+- Ladies' Memorial Associations
+- South
+- death
+- memorial day
+- memorials
 ---
-
 
 Dr. Caroline Janney discusses her book, *Burying the Dead but Not the Past: Ladies' Memorial Associations and the Lost Cause*, about the role of Southern women in creating the first Memorial Days to honor fallen Confederate soldiers after the Civil War. While Memorial Day is now a one-day celebration, Janney argues that the concept began in the spring of 1866 when Southern women began memorials, not only to honor the dead, but also as political statements in the post-Civil War South.

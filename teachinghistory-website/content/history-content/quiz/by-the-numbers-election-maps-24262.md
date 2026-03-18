@@ -13,7 +13,14 @@ summary: What can historical election maps tell us? Take a look at the electoral
   for several 19th-century presidential elections.
 splash_image: /files/splash-electionmaps_0_0.jpg
 thumbnail: /files/quiz_thumbnail/HistWireThumbnail.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Politics
+tags:
+- presidential campaigns
+- presidential elections
 ---
-
 
 During modern presidential campaigns and elections, red-and-blue maps dominate reporting on politics, tracking the success of candidates and their parties state by state. Check out these older maps, drawn from 19th-century presidential elections. The colors indicate Electoral College results for each state then in existence. Figure out what year each election occurred.

@@ -6,7 +6,23 @@ content_type: historical_site
 draft: false
 drupal_nid: 11932
 website_url: http://www.historic-deerfield.org
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Daily Life
+- New England
+tags:
+- Massachusetts
+- cemeteries
+- graveyards
+- homes
+- houses
+- inns
+- museums
 ---
 
 In historic Deerfield, visitors can step back into early America as they tour 11 house museums, exploring hundreds of years of history along an original, mile-long street. Two houses, the Stebbins House and Sheldon House, are available for self-guided tours all day during the regular season.
+
 The site offers exhibits, tours, workshops, educational programs, research library access, and recreational and educational events.

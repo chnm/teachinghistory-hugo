@@ -6,7 +6,20 @@ content_type: historical_site
 draft: false
 drupal_nid: 6719
 website_url: http://www.asapackermansion.com/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Daily Life
+- Mid-Atlantic
+tags:
+- Pennsylvania
+- homes
+- houses
+- mansions
 ---
 
 The Mansion was the home of philanthropist, railroad magnate, and founder of Lehigh University, Asa Packer. Built in 1861 by Philadelphia architect, Samuel Sloan, the home was constructed over a span of two years and cost a total of $14,000 dollars, the equivalent of $2.3 million dollars today. Topped by a red-ribbed tin roof and a central cupola or belvedere, the home was built over a cast-iron frame and consists of three stories, 18 rooms and approximately 11,000 square feet of living space.
+
 The museum offers tours and occasional recreational and educational events.

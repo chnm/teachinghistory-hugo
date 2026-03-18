@@ -11,7 +11,31 @@ keywords: U.S. Supreme Court, courts, law, laws, trials, U.S. Constitution, Isla
 website_url: http://teachingamericanhistory.org/institutes/2003/supremecourt_readings.html
 date_published: '2003-07-09T00:00:00'
 series_name: The Origins and Development of the Supreme Court
+time_periods:
+- All
+- General
+topics:
+- Daily Life
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Legal History
+- Politics
+- Religion
+tags:
+- Islam
+- Muslims
+- U.S. Constitution
+- U.S. Supreme Court
+- courts
+- law
+- laws
+- religious conflict
+- religious tension
+- trials
 ---
 
 Professor David Forte discusses the relationship between religion, government, and law, focusing on the religious base of the U.S. government and the religious base of Islamic states.
+
 To listen to this lecture, scroll to the Wednesday, July ninth, 4:30 pm guest lecture; and select the RealAudio link to the left of the main body of text.

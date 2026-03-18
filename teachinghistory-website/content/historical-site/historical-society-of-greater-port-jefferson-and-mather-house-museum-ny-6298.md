@@ -6,7 +6,22 @@ content_type: historical_site
 draft: false
 drupal_nid: 6298
 website_url: http://www.portjeffhistorical.org
+time_periods:
+- All
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+- General
+topics:
+- Daily Life
+- Mid-Atlantic
+tags:
+- New York
+- homes
+- houses
+- museums
 ---
 
 The Society operates the Mather House Museum. Several historical structures, including the 1840-1860 Mather House, house exhibits related to local history, including displays of toys, spinning wheels, and quilts; a collection of items from old-fashioned barber shops, general stores, and butcher shops; Port Jefferson shipbuilding and sailmaking artifacts; and antique clocks.
+
 The museum offers exhibits, tours, and occasional recreational and educational events.

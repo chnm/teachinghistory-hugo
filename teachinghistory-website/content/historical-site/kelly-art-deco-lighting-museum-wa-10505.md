@@ -6,7 +6,25 @@ content_type: historical_site
 draft: false
 drupal_nid: 10505
 website_url: http://www.thedecomuseum.com
+time_periods:
+- Emergence of Modern US, 1890-1930
+- General
+- Great Depression & WWII, 1929-1945
+topics:
+- Art
+- Daily Life
+- Economy
+- Western States
+tags:
+- Art Deco
+- Washington
+- chandeliers
+- decorative arts
+- lighting
+- sconces
+- table lamps
 ---
 
 The Kelly Art Deco Lighting Museum is the world's only museum dedicated to displaying U.S. Art Deco slipe-shade lights. Collections include chandeliers, sconces, and table lights from between 1928 and 1938.
+
 The museum offers exhibits.

@@ -18,11 +18,15 @@ splash_image: /files/timelinesplash.jpg
 image: /files/timelineimage.jpg
 author_image: /files/author_image/fillpot_1_0.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+tags:
+- class projects
+- interactive
+- lesson plans
+- teaching
+- timelines
 ---
-
-
 
 ## What Is It?
 
@@ -34,6 +38,7 @@ Researchers have found that students too often encounter little bits and pieces 
 > Use [timelines] to categorize similar or related events into themes, eras, and topics, and to help students compare elements in different time periods.
 
 Timelines help students understand the chronology of historic events, and help students situate newly encountered events and figures in relation to those they’ve already studied ([4](#note4)). They provide a visual aid for identifying cause and effect relationships between events, and a visual prompt to activate student prior knowledge. They allow students to recognize how historic events, eras and topics overlap in time. Use them to categorize similar or related events into themes, eras, and topics, and to help students compare elements in different time periods.
+
 All of these purposes are important singly, and collectively they help students develop a long-range understanding of historic chronology.
 
 ## Description

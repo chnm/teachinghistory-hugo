@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21188
 grade_levels:
-  - middle
+- middle
 ---
 
 *In the middle grades, the “lead discipline” approach continues, but with added emphasis on interdisciplinary connections (as the word “Studies” in the title “Minnesota Studies” suggests). Grade six features history as the lead discipline but the focus includes geographic, economic and civic understandings. Students study Minnesota history and its government, placing t he state and its people within the context of the national story. They engage in historical inquiry and study events, issues and individuals significant to Minnesota history, beginning with the early indigenous people of the upper Mississippi River region to the present day. They examine the relationship between levels of government, and how the concept of sovereignty affects the exercise of treaty rights. They analyze how the state’s physical features and location of resources affected settlement patterns and the growth of cities. Drawing on their knowledge of economics, students analyze the influence of a market-based economy at the local and national levels. They learn about the unique role Minnesota played, and continues to play, in regional, national and global politics.*
@@ -18,12 +18,19 @@ grade_levels:
 * 1. Democratic government depends on informed and engaged citizens who exhibit civic skills and values, practice civic discourse, vote and participate in elections, apply inquiry and analysis skills, and take action to solve problems and shape public policy.
   + 6.1.1.1.1 Evaluate arguments about selected issues from diverse perspectives and frames of reference, noting the strengths, weaknesses and consequences associated with the decision made on each issue
   *For Example:
+
   Historical issues—women’s suffrage, treaties with indigenous nations, Civil Rights movement, New Deal programs.
+
   Strengths might include—expanded rights to new group of Americans, established tribal sovereignty, collaborative effort of multiple groups in American society, provided a financial safety net for individuals.
+
   Weaknesses might include—too expensive, unintended consequences, caused more problems than it solved.*+ 6.1.1.1.2 Use graphic data to analyze information about a public issue in state or local government.
+
   *For Example:
+
   Graphic data—charts, graphs, maps, surveys, political cartoons.*+ 6.1.1.1.3 Address a state or local policy issue by identifying key opposing positions, determining conflicting values and beliefs, defending and justifying a position with evidence, and developing strategies to persuade others to adopt this position.
+
   *For Example:
+
   State and local policy issues—land use, human services, hunting or fishing regulations, school levy, labor unions.*
 
 ### Substrand 3: Rights and Responsibilities
@@ -31,6 +38,7 @@ grade_levels:
 * 5. Individuals in a republic have rights, duties and responsibilities.
   + 6.1.3.5.1 Describe the establishment and expansion of rights over time, including the impact of key court cases, state legislation and constitutional amendments.
   *For Example:
+
   Key court cases and state legislation—the Minnesota Human Rights Law, Brown v. Board of Education, Miranda v. Arizona.** 6. Citizenship and its rights and duties are established by law.
     + 6.1.3.6.1 Define citizenship in the United States and explain that individuals become citizens by birth or naturalization.
 
@@ -42,21 +50,35 @@ grade_levels:
   + 6.1.4.7.3 Identify the purpose of Minnesota's Constitution; explain how the Minnesota Constitution organizes government and protects rights.
   + 6.1.4.7.4 Identify the major state and local (county, city, school board, township) governmental offices; describe the primary duties associated with them.
   *For Example:
+
   State governmental offices—attorney general, secretary of state.
+
   Local governmental offices—city council, county board.*+ 6.1.4.7.5 Describe how laws are created; explain the differences between civil and criminal law; give examples of federal, state and local laws
+
   *For Example:
+
   Federal laws—immigration. State laws—drivers’ licenses.
+
   City ordinances—gun control.*+ 6.1.4.7.6 Describe the goals, offenses, penalties, long-term consequences, and privacy concerns of Minnesota's juvenile justice system.
+
   *For Example:
+
   Juvenile status offenses (laws that regulate behavior because the offender is under age)—truancy, tobacco use by minor, curfew violations.
+
   Goal—rehabilitation. (The adult system is more punitive.)
+
   Penalties—treatment, restorative justice, probation, deferred penalty. (Adult penalties are primarily fines and incarceration.)
+
   Long-term consequences—go beyond penalties imposed by the court system and predict future problems with the law.
+
   Privacy concerns—Juvenile proceedings are not open to the public. (Adult trials are public.)*+ 6.1.4.7.7 Compare and contrast the basic structures, functions and ways of funding state and local governments.
+
   *For Example:
+
   Property tax funds local government (schools, parks, city streets). Sales and income tax funds state government (State Patrol, Department of Natural Resources). Fees fund parks.** 11. The United States establishes and maintains relationships and interacts with indigenous nations and other sovereign nations, and plays a key role in world affairs.
     + 6.1.4.11.1 Explain the concept of sovereignty and how treaty rights are exercised by the Anishinaabe and Dakota today.
     *For Example:
+
     Organization of tribal government, gaming rights, hunting and fishing rights.*
 
 ## Social Studies Strand 2: Economics
@@ -71,6 +93,7 @@ grade_levels:
 * 2. Personal and financial goals can be achieved by applying economic concepts and principles to personal financial planning, budgeting, spending, saving, investing, borrowing and insuring decisions.
   + 6.2.2.2.1 Describe various types of income including wage, rent, interest and profit; explain the role that the development of human capital plays in determining one's income.
   *For example:
+
   Consider examples of Minnesota entrepreneurs, wages of various careers available in Minnesota, and the education or training required for those careers.*
 
 ### Substrand 3: Fundamental Concepts
@@ -78,6 +101,7 @@ grade_levels:
 * 5. Individuals, businesses and governments interact and exchange goods, services and resources in different ways and for different reasons; interactions between buyers and sellers in a market determines the price and quantity exchanged of a good, service or resource.
   + 6.2.3.5.1 Describe the movement of goods and services, resources and money through markets in a market-based economy.
   *For Example:
+
   Circular flow model with households and businesses—The Mayo Clinic hires a doctor who uses her income to pay for auto repairs by a small business which then pays its mechanic who in turn uses his income to buy Mayo Clinic medical services.*
 
 ### Substrand 4: Microeconomic Concepts
@@ -85,6 +109,7 @@ grade_levels:
 * 8. Market failures occur when markets fail to allocate resources efficiently or meet other goals, and this often leads to government attempts to correct the problem.
   + 6.2.4.8.1 Explain why federal and state governments regulate economic activity to promote public wellbeing.
   *For Example:
+
   Regulations—environmental (Environmental Protection Agency, Minnesota Pollution Control Agency), health (Food and Drug Administration), worker safety regulations (Occupational Safety and Health Administration); banking (Federal Deposit Insurance Corporation) and business oversight (Securities and Exchange Commission, Federal Trade Commission), wildlife preservation (Department of Natural Resources); anti-trust laws to promote competition.*
 
 ## Social Studies Strand 3: Geography
@@ -94,7 +119,9 @@ grade_levels:
 * 1. People use geographic representations and geospatial technologies to acquire, process, and report information within a spatial context.
   + 6.3.1.1.1 Create and use various kinds of maps, including overlaying thematic maps, of places in Minnesota; incorporate the “TODALSS” map basics, as well as points, lines and colored areas to display spatial information.
   *For example:
+
   “TODALSS” map basics—title, orientation, date, author, legend/ key, source, and scale.
+
   Spatial information—cities, roads, boundaries, bodies of water, regions.*
 
 ### Substrand 3: Human Systems
@@ -102,6 +129,7 @@ grade_levels:
 * 6. Geographic factors influence the distribution, functions, growth and patterns of cities and other human settlements.
   + 6.3.3.6.1 Locate, identify and describe major physical features in Minnesota; explain how physical features and the location of resources affect settlement patterns and the growth of cities in different parts of Minnesota.
   *For Example:
+
   Physical features—ecosystems, topographic features, continental divides, river valleys, cities, communities and reservations of Minnesota’s indigenous people.*
 
 ### Substrand 4: Human Environment Interaction
@@ -109,6 +137,7 @@ grade_levels:
 * 10. The meaning, use, distribution and importance of resources changes over time.
   + 6.3.4.10.1 Describe how land was used during different time periods in Minnesota history; explain how and why land use has changed over time.
   *For Example:
+
   Land use might include agriculture, settlement, suburbanization, recreation, industry.*
 
 ## Social Studies Strand 4: History
@@ -124,46 +153,71 @@ grade_levels:
   + 6.4.4.15.1 Compare and contrast the Dakota and Anishinaabe nations prior to 1800; describe their interactions with each other and other indigenous peoples. (Before European Contact)* 16. Rivalries among European nations and their search for new opportunities fueled expanding global trade networks and, in North America, colonization and settlement and the exploitation of indigenous peoples and lands; colonial development evoked varied responses by indigenous nations, and produced regional societies and economies that included imported slave labor and distinct forms of local government (Colonization and Settlement: 1585-1763).
     + 6.4.4.16.1 Describe European exploration, competition and trade in the upper Mississippi River region; describe varied interactions between Minnesota’s indigenous peoples and Europeans in the seventeenth and eighteenth centuries. (Colonization and Settlement: 1585-1763)
     *For Example:
+
     The role of missionaries, the transmission of diseases, the domino effect of people being pushed further west due to the fur trade in Great Lakes region.** 18. Economic expansion and the conquest of indigenous and Mexican territory spurred the agricultural and industrial growth of the United States; led to increasing regional, economic and ethnic divisions; and inspired multiple reform movements. (Expansion and Reform: 1792-1861)
       + 6.4.4.18.1 Describe how and why the United States claimed and settled the upper Mississippi River region in the early nineteenth century; explain the impact of steamboat transportation and settlement on the physical, social and cultural landscapes. (Expansion and Reform: 1792-1861)
       *For Example:
+
       Louisiana Purchase in 1803, changing relationships between the United States and Dakota and Anishinaabe, competing concepts of land use, ownership and gender roles, transport of immigrants and freight by steamboat.*+ 6.4.4.18.2 Analyze how and why the United States and the Dakota and Anishinaabe negotiated treaties; describe the consequences of treaties on the Anishinaabe, Dakota and settlers in the upper Mississippi River region. (Expansion and Reform: 1792-1861)
       + 6.4.4.18.3 Describe the process of how Minnesota became a territory and state; identify the key events, individuals and groups involved in the process. (Expansion and Reform: 1792-1861)
       *For Example:
+
       Census, Territorial congress, writing a state constitution, Pierre “Pig’s Eye” Parrant, Henry Sibley, Alexander Ramsey.** 19. Regional tensions around economic development, slavery, territorial expansion and governance resulted in a civil war and a period of Reconstruction that led to the abolition of slavery, a more powerful federal government, a renewed push into indigenous nations’ territory and continuing conflict over racial relations. (Civil War and Reconstruction: 1850-1877)
         + 6.4.4.19.1 Explain the causes of the Civil War; describe how the debate over slavery and abolition played out in Minnesota. (Civil War and Reconstruction: 1850-1877)
         *For Example:
+
         Events related to debate over slavery—Dred Scott at Fort Snelling, role of free blacks in early Minnesota.*+ 6.4.4.19.2 Create a timeline of the key events of the American Civil War; describe the war-time experiences of Minnesota soldiers and civilians. (Civil War and Reconstruction: 1850-1877)
         + 6.4.4.19.3 Explain reasons for the United States-Dakota War of 1862; compare and contrast the perspectives of settlers and Dakota people before, during and after the war. (Civil War and Reconstruction: 1850-1877)* 20. As the United States shifted from its agrarian roots into an industrial and global power, the rise of big business, urbanization and immigration led to institutionalized racism, ethnic and class conflict and new efforts at reform. (Development of an Industrial United States: 1870-1920)
           + 6.4.4.20.1 Analyze how the rise of big business, the growth of industry, the use of natural resources, and technological innovation influenced Minnesota's economy from 1860 to 1920. (Development of an Industrial United States: 18701920)
           *For Example:
+
           Technological innovation—Improved ground and water transportation increased commerce.*+ 6.4.4.20.2 Analyze the causes and impact of migration and immigration on Minnesota society during the late nineteenth and early twentieth centuries. (Development of an Industrial United States: 1870-1920)
+
           *For Example:
+
           Establishment of ethnic communities and neighborhoods, shifting political power, language barriers.*+ 6.4.4.20.3 Describe the effects of reform movements on the political and social culture of Minnesota in the early twentieth century. (Development of an Industrial United States: 1870-1920)
+
           *For Example:
+
           Labor unions, Socialists, Progressive Movement, women’s suffrage.*+ 6.4.4.20.4 Describe Minnesota and federal American Indian policy of the late nineteenth and twentieth centuries and its impact on Anishinaabe and Dakota people, especially in the areas of education, land ownership and citizenship. (Development of an industrial United States: 1870-1920)
           + 6.4.4.20.5 Describe the political and social culture of Minnesota during World War I and how it affected Minnesotans. (Development of an Industrial United States: 1870-1920)
           *For Example:
+
           Temperance Movement, persecution of Germans in Minnesota, Minnesota National Guard, Commission of Public Safety, Non-partisan League.** 21. The economic growth, cultural innovation and political apathy of the 1920s ended in the Great Depression which spurred new forms of government intervention and renewed labor activism, followed by World War II and an economic resurgence. (Great Depression and World War II: 1920-1945)
             + 6.4.4.21.1 Describe how the major cultural and social transformations of the 1920s changed the lifestyle of Minnesotans. (The Great Depression and World War II: 19201945)
             *For Example:
+
             Arts, literature, entertainment, popular culture, gender roles, Prohibition, the Duluth lynchings, the farm crisis.*+ 6.4.4.21.2 Describe political and social impact of the Great Depression and New Deal in Minnesota, including the increased conflict between big business and organized labor. (The Great Depression and World War II: 19201945)
+
             *For Example:
+
             Trucker’s Strike, Citizen’s Alliance, New Deal Programs (Civilian Conservation Corps camps, Works Progress Administration art programs, National Youth Association roadside attraction construction), formation of the Farmer-Labor Party.*+ 6.4.4.21.3 Create a timeline of key events leading to World War II; describe how Minnesotans influenced, and were influenced by, the debates over United States involvement. (The Great Depression and World War II: 1920-1945)
+
             *For Example:
+
             America First, Charles Lindbergh, German-American loyalty.*+ 6.4.4.21.4 Identify contributions of Minnesota and its people to World War II; describe the impact of the war on the home front and Minnesota society after the war. (The Great Depression and World War II: 19201945)
+
             *For Example:
+
             Fort Snelling, Japanese Language School, SPAM, Iron Range mining and steel production.** 22. Post-World War II United States was shaped by an economic boom, Cold War military engagements, politics and protests, and rights movements to improve the status of racial minorities, women and America’s indigenous peoples. (Post-World War II United States: 19451989)
               + 6.4.4.22.1 Give examples of economic changes in Minnesota during the Cold War era; describe the impact of these changes on Minnesota’s people. (Post-World War II United States: 1945-1989)
               *For Example:
+
               Growth of suburbs, growth of Minnesota defense industries.*+ 6.4.4.22.2 Describe civil rights and conservation movements in Post-World War II Minnesota, including the role of Minnesota leaders. (Post-World War II United States: 1945-1989)
+
               *For Example:
+
               Movements—Civil Rights Movement (Hubert H. Humphrey, Eugene McCarthy, student takeover of Morrill Hall at the University of Minnesota); American Indian Movement; Women’s Rights Movement; Conservation Movement (Ernest Oberholtzer, Boundary Waters Canoe Area).*+ 6.4.4.22.3 Describe the response of Minnesotans to global conflicts and displaced peoples since 1945. (Post-World War II United States: 1945-1989)
+
               *For Example:
+
               World War II refugee resettlement, Vietnam War, The Red Bulls National Guard, Center for Victims of Torture, post-WWII refugee resettlement.** 23. The end of the Cold War, shifting geopolitical dynamics, the intensification of the global economy and rapidly changing technologies have given renewed urgency to debates about the United States’ identity, values and role in the world. (The United States in a New Global Age: 1980-present)
                 + 6.4.4.23.1 Identify the push-pull factors that bring the Hmong, East African, Hispanic, Asian Indian and other immigrants and refugees to Minnesota; compare and contrast their experiences with those of earlier Minnesota immigrant groups in the nineteenth and early twentieth centuries. (The United States in a New Global Age: 1980present)
                 + 6.4.4.23.2 Identify the major Minnesota political figures, ideas and industries that have shaped or continue to shape Minnesota and the United States today. (The United States in a New Global Age: 1980-present)
                 *For Example:
+
                 Minnesota political figures—Hubert H. Humphrey, Walter Mondale, Jesse Ventura.
+
                 Minnesota ideas—rollerblades, Post-it Notes, thermostats.
+
                 Minnesota industries—mining (taconite); forestry; technology/ health/ biosciences (3M, Medtronic, St. Jude Medical, Mayo Clinic, United Health Group); agriculture and agribusiness (Cargill, General Mills, Land O’ Lakes, Hormel Foods); manufacturing (CHS Inc., Ecolab, Toro, Polaris); retail (Dayton’s, Target Corporation, Best Buy, Supervalu, Mall of America).*

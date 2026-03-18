@@ -15,8 +15,18 @@ summary: Read a firsthand account of army life during the Civil War. See the bat
 thumbnail: /files/WebPoster432x240.jpg
 splash_image: /files/LettersfromanIowa432x240.jpg
 image: /files/website_image/Scott_Image.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+- Southern States
+evidence_types:
+- Personal Accounts
+resource_types:
+- Images
+- Text
 ---
 
-
 Features the text of 15 letters, written from October 1862 to August 1865 by Civil War soldier Newton Scott, a private with the 36th Infantry, Iowa Volunteers. The letters, presented by a librarian in Saratoga, California, average approximately 500 words, and furnish insight into the experiences of ordinary soldiers. "Scott's letters," writes the site's author, "are filled with rich details of the war and the living conditions in the Union camps in Mississippi, Missouri, Iowa and Arkansas. He tells of the terrible diseases that took a heavier toll than Confederate bullets, and the soldiers' frustration and impatience with the politicians in Washington."
+
 The documents are accompanied by Scott's service record and obituary, a handful of links to other Civil War resources, and the obituary of Hannah Cone, the audience for Scott's prose. A valuable collection of primary material.

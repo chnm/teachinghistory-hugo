@@ -6,7 +6,29 @@ content_type: historical_site
 draft: false
 drupal_nid: 5777
 website_url: http://www.plimoth.org
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Daily Life
+- Global Contact
+- New England
+- Religion
+- Rural Life
+tags:
+- Masschusetts
+- Native Americans
+- Wampanoag
+- animal husbandry
+- barns
+- crafts
+- pilgrims
+- settlers
+- ships
+- villages
 ---
 
 Plimoth Plantation, a bicultural museum, offers powerful personal encounters with history built on thorough research about the Wampanoag People and the Colonial English community in the 1600s. The Plantation's exhibits, programs, live interpreters, and historic settings encourage a new level of understanding about present-day issues affecting communities around the world. The Plantation is made up of several organized areas, including the Wampanoag Homesite, the *Mayflower II,* the 1627 English Village, the Crafts Center, and the Nye Barn.
+
 The plantation offers exhibits, tours, living history demonstrations, workshops, lectures, and educational and recreational programs.

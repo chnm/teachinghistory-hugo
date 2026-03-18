@@ -15,7 +15,17 @@ summary: Explore the Library of Congress' collection of Civil War maps, includin
 thumbnail: /files/glory-splash_0.jpg
 splash_image: /files/Civil_War_Maps_432x240.jpg
 image: /files/website_image/CivilWarMaps_Image.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+- Southern States
+evidence_types:
+- Maps
+- Photographs
+resource_types:
+- Images
+- Text
 ---
-
 
 Presents approximately 2,240 Civil War maps and charts and 76 atlases and sketchbooks. The materials, primarily Union and Confederate "reconnaissance, sketch, coastal, and theater-of-war maps which depict troop activities and fortifications," also include commercially-produced maps. Provides 210 maps and three atlases belonging to General William Tecumseh Sherman, and 341 maps and sketchbooks prepared by Confederate topographical engineer Major Jedediah Hotchkiss. A "Special Presentation" offers a 10,000-word essay illustrated with 17 photographs and maps on the history of mapping the war. Maps can be viewed with the Library of Congress's excellent map viewing software. Very useful for Civil War specialists and those interested in historical geography.

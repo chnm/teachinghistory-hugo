@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21437
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### SD.3.US. Goal / Strand: U.S. History

@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 12302
 website_url: http://newbaltimorehistoricalsociety.webs.com/grandpacifichouse.htm
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Cities & Suburbs
+- Daily Life
+- Midwestern States
 ---
 
 The New Baltimore Historical Society serves to preserve the history of the Anchor Bay area of Michigan. It maintains the Grand Pacific House Museum, formerly one of the town's best hotels, built in 1881.
+
 The Society offers educational programming for children and adults. The Museum is open on Wednesday and Saturday to the public.

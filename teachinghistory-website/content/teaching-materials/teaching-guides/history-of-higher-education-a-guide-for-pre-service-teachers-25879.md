@@ -19,10 +19,18 @@ splash_image: /files/Clock.jpg
 image: /files/ElPaso.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_0_1.jpeg
 grade_levels:
-  - high
+- high
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- African Americans
+- American Indians
+- Education
+- Religion
+- Women
+tags:
+- education
 ---
-
-
 
 ### What is it?
 
@@ -50,6 +58,7 @@ Introduce the activity by noting that there are a wide variety of institutions i
 What kind of facilities and buildings do you see? 
 
 What can you tell about the kinds of academic programs at these schools?   
+
 What kinds of activities are offered? (IE Sports? Recreation opportunities? Socializing opportunities? Museums?) 
 
 Do you think this is a state school or a private school? What makes you think so? 

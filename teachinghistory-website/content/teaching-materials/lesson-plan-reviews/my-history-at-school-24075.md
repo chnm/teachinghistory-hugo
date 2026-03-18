@@ -21,10 +21,15 @@ spotlight: Elementary students are more than capable of mastering complex concep
 splash_image: /files/MyHistory432x240.jpg
 image: /files/lesson_image/MyHistory150x113.jpg
 grade_levels:
-  - elementary
-duration: '1-7 days'
+- elementary
+duration: 1-7 days
+time_periods:
+- Contemporary US, 1968-Present
+- General
+topics:
+- Daily Life
+- Education
 ---
-
 
 This collection of [activities](http://www.bringinghistoryhome.org/first/unit-2) found on the [Bringing History Home website](http://www.bringinghistoryhome.org/) introduces first graders to important historical concepts. Through exploring the history of their time at school, students learn about topics such as chronology and historical context as well as how to identify and question different types of primary sources. While these concepts may seem fairly sophisticated for first or second graders, the activities introduce them in accessible and engaging ways. There are seven activities that make up this instructional unit. Each activity can stand alone as a single class lesson or can be combined with others for a multi-day lesson or unit. The first activity asks the question, "What is history," and distinguishes between fictional stories and stories about things that actually happened. Understanding history as a story is a central theme throughout the plan, and the subsequent activities focus on the centrality of evidence in creating historical stories.
 

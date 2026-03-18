@@ -15,7 +15,22 @@ summary: An extensive collection of primary and secondary resources detailing th
 splash_image: /files/The_Aaron_Copland_Collection_ca._1900-1990_432x240.jpg
 thumbnail: /files/author_image/Long.jpg
 image: /files/website_image/AaronCopeland_Image.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Art
+- Daily Life
+- Popular Culture, Leisure
+evidence_types:
+- Music
+- Newspapers and Periodicals
+- Personal Accounts
+- Photographs
+resource_types:
+- Images
+- Text
 ---
-
 
 Yet another fine production from the American Memory Collection at the Library of Congress, this site was created to celebrate the centennial of composer Aaron Copland's birth. The site offers a selection of over 1000 items and 5000 images drawn from over 400,000 items in the Copland Collection of the Library's Music Division. Items in the online exhibit include music sketches, correspondence, writings, and photographs spanning 1899-1981, but primarily drawn from the 1920s to 1950s. In addition to these items the site also includes a roughly 3000-word essay on Copland's life and works with 12 photographs of Copland and a timeline of the artist's life and accomplishments from his birth in 1900 to his death in 1990. Leonard Bernstein's 1000-word article on Copland from the 1970 *High Fidelity/Musical America* issue and five 300-word tributes to Copland on his 75th birthday, published in the 1975 *Schwann-1 Record and Tape Guide* are also included. Visitors may search the site by keyword or browse alphabetical listings of musical sketches, writings, correspondence, photographs, titles, and works. This is a useful site for students and teachers interested in the history of American music and the lives of American composers.

@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 10527
 website_url: http://historicechopark.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- Western States
+tags:
+- California
+- architecture
 ---
 
 The Echo Park Historical Society seeks to preserve and share the history of Echo Park, one of the older neighborhoods of Los Angeles, CA. Echo Park dates to the late 19th century.
+
 The society offers periodic area walking tours. Reservations are required.

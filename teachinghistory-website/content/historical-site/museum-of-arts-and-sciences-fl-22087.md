@@ -6,7 +6,13 @@ content_type: historical_site
 draft: false
 drupal_nid: 22087
 website_url: http://www.moas.org/
+time_periods:
+- General
+topics:
+- Art
+- Science & Tech.
 ---
 
 The Museum of Arts and Sciences houses extensive collections of art, both early American and international; Americana; and artifacts related to Florida history, as well as to science and natural history.
+
 The museum offers exhibits, film screenings, planetarium shows, programs and guided tours for school groups, programs for homeschoolers, summer camps, and other recreational and educational events.

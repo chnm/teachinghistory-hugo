@@ -10,7 +10,16 @@ keywords: slaves
 website_url: http://www.gilderlehrman.org/multimedia#3480
 date_published: '2004-02-03T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
+time_periods:
+- All
+- General
+topics:
+- African Americans
+- Slavery
+tags:
+- slaves
 ---
 
 From the Gilder Lehrman Institute of American history [website](http://www.gilderlehrman.org/):
+
 "University of Maryland Distinguished University Professor Ira Berlin suggests that the unique circumstances of American slavery continue to shape the nation even today. Unlike most other slave-holding countries, the United States had a large indigenous slave population and one of the most stringent definitions of race—the '"one drop" rule'—in the world. The result is a society whose very fabric is bound up in the legacy of human bondage."

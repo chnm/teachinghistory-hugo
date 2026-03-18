@@ -15,8 +15,17 @@ summary: Understanding fair use and public domain are key to navigating through 
   labyrinth of copyright law.
 splash_image: /files/WhenCopyrightMeets432x240.jpg
 image: /files/lesson_image/WhenCopyrightMeets150x113.jpg
+topics:
+- Ideas & Ideologies
+tags:
+- collecting
+- copyright
+- fair use
+- multimedia
+- presentation
+- public domain
+- research
 ---
-
 
 The very short answer is that copyright is complicated. For educators, though, there are some basic things to know and guidelines to follow that make it less scary. Citing your sources is **always** a good idea. Beyond crediting your source, you are modeling a key skill for students: always pay attention to the source of information, primary and secondary.
 

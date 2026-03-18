@@ -6,7 +6,26 @@ content_type: historical_site
 draft: false
 drupal_nid: 9905
 website_url: http://www.historycolorado.org/
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Business
+- Daily Life
+- Global Contact
+- Rural Life
+- Western States
+tags:
+- Colorado
+- forts
+- fur trade
+- fur traders
+- museums
+- trade
+- traders
+- trading
+- trading posts
 ---
 
 Visitors to the site of this 1835 fur-trading fort can follow the paths of founders Louis Vasquez and Andrew Sublette. The traders employed many of their mountain-man friends, including Baptiste Charbonneau and Jim Beckwourth, at their adobe outpost on the South Platte River.
+
 The museum offers exhibits, tours, and educational programs.

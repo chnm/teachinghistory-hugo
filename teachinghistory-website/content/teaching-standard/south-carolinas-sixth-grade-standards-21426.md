@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21426
 grade_levels:
-  - middle
+- middle
 ---
 
 - ### SC.6-1. Standard / Course: Early Cultures to 1600

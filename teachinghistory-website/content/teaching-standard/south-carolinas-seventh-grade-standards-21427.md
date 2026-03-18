@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21427
 grade_levels:
-  - middle
+- middle
 ---
 
 - ### SC.7-1. Standard / Course—Contemporary Cultures: 1600 to the Present

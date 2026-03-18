@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 6755
 website_url: http://www.tamastslikt.org/
+topics:
+- American Indians
+- Western States
+tags:
+- Casino
+- Pendleton
+- Washington
+- Wildhorse
 ---
 
 The Tamástslikt Cultural Institute is located in Pendleton, Oregon. Located on the grounds of Wildhorse Resort and Casino, the museum offers visitors a chance to celebrates the traditions of Cayuse, Umatilla and Walla Walla Tribes of the Pacific Northwest.
+
 The site offers museum information, shopping, and teacher resources.

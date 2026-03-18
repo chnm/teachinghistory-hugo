@@ -13,9 +13,14 @@ summary: Don't be daunted by website creation—Weebly offers a user-friendly DI
 splash_image: /files/weebly.jpg
 image: /files/weeblysm.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- Collaboration
+- classroom management
+- multimedia
+- presentations
+- social networking
 ---
-
 
 Weebly for educators allows teachers to create classroom websites and related student websites and projects with linked blogs.

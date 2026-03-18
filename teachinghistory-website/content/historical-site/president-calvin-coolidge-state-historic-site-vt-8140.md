@@ -6,7 +6,28 @@ content_type: historical_site
 draft: false
 drupal_nid: 8140
 website_url: http://www.historicvermont.org/coolidge/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- General
+- Great Depression & WWII, 1929-1945
+topics:
+- Daily Life
+- Labor
+- New England
+- Politics
+- Science & Tech.
+tags:
+- Calvin Coolidge
+- Inauguration
+- Vermont
+- Vice President
+- farming
+- president
+- transportation
 ---
 
 The President Calvin Coolidge State Historic Site presents Calvin Coolidge's (1872-1933) boyhood home, which also served as the site where he was sworn in as the 30th President of the United States following the death of Warren Harding. The site has been restored to its appearance in 1923, the year in which the aforementioned event took place. In addition to Coolidge's home, the public can also visit the Plymouth Cheese Factory, created by Coolidge's father; a general store; a church; several barns; the dance hall turned temporary White House; heritage gardens; and the home in which Coolidge was born.
+
 The museum offers period rooms and exhibits on Coolidge's life, horse-drawn vehicles, and farming equipment, among other topics.

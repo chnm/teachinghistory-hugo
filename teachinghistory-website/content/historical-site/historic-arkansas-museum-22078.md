@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 22078
 website_url: http://www.historicarkansas.org/
+time_periods:
+- Expansion & Reform, 1801-1861
+- General
+topics:
+- Daily Life
+- Rural Life
+- Southern States
 ---
 
 The Historic Arkansas Museum preserves five restored antebellum homes, where visitors can learn from living history interpreters about life in frontier Arkansas. In addition, the museum center displays art objects and artifacts from Arkansas history.
+
 The museum offers exhibits, living history demonstrations, tours and educational programs for school groups, loan boxes, and professional development opportunities for educators.

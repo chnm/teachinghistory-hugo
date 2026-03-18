@@ -12,6 +12,19 @@ splash_image_fid: '6222'
 summary: Tried and executed in 1822, along with many other slaves, for a plotted rebellion,
   how much do we actually know about Denmark Vesey and his uprising?
 splash_image: /files/splash-btt-vesey_0.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Legal History
+- Slavery
+- Southern States
+tags:
+- Denmark Vesey
+- South Carolina
+- slave rebellions
+- slave revolts
+- trials
 ---
 
 ## What Textbooks Say

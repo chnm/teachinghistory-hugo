@@ -9,6 +9,25 @@ duration: 01:05:45
 keywords: New England, Boston, mayors, Faneuil Hall Marketplace, Quincy family, politicians
 website_url: http://dev.forum-network.org/lecture/quincy-generations-family-faneuil-hall
 date_published: '2003-09-17T00:00:00'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Cities & Suburbs
+- Family Life
+- New England
+- Politics
+tags:
+- Boston
+- Faneuil Hall Marketplace
+- New England
+- Quincy family
+- mayors
+- politicians
 ---
 
 John Quincy, Jr., 11th-generation descendent of the New England Quincy family, traces the history of the family, a dominant force in area politics (the Boston mayorage passed from Quincy father to son for several generations).

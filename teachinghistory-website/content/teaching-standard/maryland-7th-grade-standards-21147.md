@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21147
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### MD.1.0. Strand / Topic / Standard: Political Science

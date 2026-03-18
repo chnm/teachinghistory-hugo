@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21397
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### PA.5.1.6. Academic Standard: Civics and Government

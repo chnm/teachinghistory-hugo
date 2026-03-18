@@ -15,11 +15,11 @@ summary: High school teacher Joe Jelen introduces the primary source analysis st
 splash_image: /files/zoomin.jpeg
 author_image: /files/author_image/author_jelen.png
 grade_levels:
-  - high
+- high
 videos:
-  - src: /files/media/video/Zoomin.mp4
-    thumb: /files/media/video/thumbs/Zoomin.jpg
-    title: Zoom-in Inquiry
+- src: /files/media/video/Zoomin.mp4
+  thumb: /files/media/video/thumbs/Zoomin.jpg
+  title: Zoom-in Inquiry
 ---
 
 History teacher Joe Jelen, of Northwood High School, MD, introduces "zoom-in inquiry," a technique for approaching visual primary sources. Using PowerPoint, Jelen guides students in looking at small pieces of a political cartoon on the My Lai Massacre, slowly revealing the entire image.

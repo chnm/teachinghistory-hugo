@@ -12,6 +12,44 @@ keywords: food, parties, social life, wealthy, upper classes, catering, service 
 website_url: http://dev.forum-network.org/lecture/catering-history-remonds-salem
 date_published: '2006-02-02T00:00:00'
 series_name: Abolition and Garrison Bicentennial
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Business
+- Cities & Suburbs
+- Consumer Culture
+- Daily Life
+- Ethnicity
+- Ideas & Ideologies
+- New England
+- Popular Culture, Leisure
+- Radicalism
+- Reform
+- Slavery
+tags:
+- Boston
+- Dutch-Americans
+- Jewish-Americans
+- Newport
+- abolitionism
+- abolitionists
+- businesses
+- caterers
+- catering
+- civil rights
+- food
+- parties
+- race
+- race relations
+- racism
+- service industries
+- slaves
+- social life
+- upper classes
+- wealthy
 ---
 
 Julie Winch discusses the highly successful African-American Remond family and their business of catering lavish parties in Boston and Newport in the 1800s. Winch focuses on the Remonds as free African Americans and supporters of abolitionism during the era of slavery.

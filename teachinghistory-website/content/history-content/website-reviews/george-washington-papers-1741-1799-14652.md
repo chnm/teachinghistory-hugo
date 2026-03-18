@@ -14,8 +14,26 @@ splash_image_fid: '5083'
 summary: Presents the largest set of original Washington documents in the world.
 splash_image: /files/George_Washington_Papers_1741-1799_432x240.jpg
 image: /files/website_image/GeorgeWashingtonPapers2.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+- Politics
+evidence_types:
+- Official Documents
+- Personal Accounts
+resource_types:
+- Text
+tags:
+- American Revolution
+- Founding Fathers
+- Revolutionary War
+- diaries
+- letters
+- politicians
+- presidents
 ---
 
-
 This collection of approximately 152,000 documents written by or to George Washington is the largest set of original Washington documents in the world. It includes correspondence, letterbooks, diaries, journals, account books, military records, reports, and notes from 1741 through 1799. Although the site is searchable by keyword, many documents are available only as page images rather than as transcribed text and the handwriting can be difficult to read. Transcripts, however, do exist for all diary pages and for selected documents.
+
 The site includes a timeline with links to relevant documents; essays on Washington's diaries, letterbooks, and career as a surveyor and mapmaker; and an essay entitled "Creating the American Nation."

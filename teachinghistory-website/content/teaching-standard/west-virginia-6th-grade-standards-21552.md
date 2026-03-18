@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21552
 grade_levels:
-  - middle
+- middle
 ---
 
 *Sixth grade Social Studies provides an interdisciplinary examination of selected world regions: North America, South America, Western Europe and the Middle East. Students study historical and current development, characteristics of places, connections between regions and their impact on one another. Students learn the historic foundations and evolutions of developed and developing nations, states and nation-states. Emphasis is placed on how environment, technology and resources have helped to determine economic relations and conflicts between these regions in the past and how these factors will influence the interactions of these four regions of the world throughout the 21st Century. Various economic systems are introduced. The West Virginia Standards for 21st Century Learning include the following components: 21st Century Content Standards and Objectives and 21st Century Learning Skills and Technology Tools. All West Virginia teachers are responsible for classroom instruction that integrates learning skills, technology tools and content standards and objectives.*

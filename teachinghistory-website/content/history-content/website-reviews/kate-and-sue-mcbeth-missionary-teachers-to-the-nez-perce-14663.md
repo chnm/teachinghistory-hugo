@@ -15,8 +15,40 @@ summary: Presents the letters and diaries of Kate and Sue McBeth, late 19th-cent
   missionaries and teachers among the Nez Perce Indians.
 splash_image: /files/Kate_and_Sue_McBeth_Missionary_Teachers_to_the_Nez_Perce_Indians_432x240.jpg
 image: /files/website_image/KateandSueMcBeth.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+topics:
+- American Indians
+- Daily Life
+- Education
+- Gender
+- Global Contact
+- Religion
+- Rural Life
+- Western States
+- Women
+evidence_types:
+- Maps
+- Official Documents
+- Paintings and Prints
+- Personal Accounts
+- Religious Texts
+resource_types:
+- Images
+- Text
+tags:
+- Idaho
+- Native Americans
+- Nez Perce
+- Pacific Northwest
+- Walla Walla Treaty
+- diaries
+- educators
+- letters
+- missionaries
+- teachers
 ---
 
-
 Presenting full-text letters and diaries, this website focuses on the lives and careers of Kate and Sue McBeth, missionaries and teachers among the Nez Perce Indians during the last quarter of the 19th century. Government documents and images pertaining to the tribe's history accompany these materials. Sue McBeth established a successful theological seminary for Nez Perce men, collected and organized a Nez Perce/English dictionary, and wrote journal articles. Kate McBeth provided literacy education for Nez Perce women, taught Euro-American domestic skills, and directed a Sabbath school and mission society.
+
 Divided into five sections, materials include more than 150 letters, a diary, a journal, five treaties, more than 70 commission and agency reports and legislative actions, excerpts from a history of the Nez Perce, and 19 biographies. Six maps and approximately 100 images, including 13 illustrations depicting the 1855 Walla Walla Treaty negotiations, are also available.

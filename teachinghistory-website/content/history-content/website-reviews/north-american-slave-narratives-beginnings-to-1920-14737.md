@@ -17,8 +17,37 @@ summary: Explore all of the known published slave narratives, to better understa
 splash_image: /files/North_American_Slave_Narratives_Beginnings_to_1920_432x240.jpg
 thumbnail: /files/GreatMigrationSplash.jpg
 image: /files/website_image/NorthAmericanSlaveNarratives.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Literature
+- Slavery
+evidence_types:
+- Literary Sources
+- Personal Accounts
+resource_types:
+- Images
+- Text
+tags:
+- Frederick; fugitives
+- Sojourner; Douglass
+- autobiographies
+- biographies
+- diaries
+- memoirs
+- race
+- race relations
+- racism
+- slave narratives; Truth
+- slaves
 ---
 
-
 Offering 230 full-text documents, this collection presents the written lives of American slaves, including all known published slave narratives and many published biographies of slaves. Materials include autobiographical narratives of fugitive and former slaves published in a range of formats, such as broadsides, pamphlets, and books.
+
 In addition, biographies of fugitive and formal slaves and fictionalized slave narratives are included. The collection includes well-known authors, such as Sojourner Truth and Frederick Douglass, as well as many authors less commonly known. Documents are available in HTML and SGML/TEI file formats and are accessible through alphabetical and chronological listings. Users can also view images of the covers, spines, title pages, and versos of title pages. Documents have been indexed by subject, but searches return materials in additional collections. An introductory essay by Professor William Andrews is available.

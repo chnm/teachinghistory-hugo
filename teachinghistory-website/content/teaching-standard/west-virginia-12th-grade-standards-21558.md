@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21558
 grade_levels:
-  - high
+- high
 ---
 
 ## Civics for the 21st Century

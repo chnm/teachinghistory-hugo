@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 4539
 website_url: http://www.mtcoks.com/museum/
+time_periods:
+- All
+- General
+topics:
+- Midwestern States
+tags:
+- kansas
+- museums
 ---
 
 The museum offers tour exhibits depicting various rooms of pioneer home and early businesses; a covered wagon hooked up to lifesize horses; and a 14-foot teepee with Indian artifacts.
+
 The museum offers exhibits.

@@ -12,6 +12,43 @@ keywords: witches, witch trials, witchhunts, witchcraft, judges, courts, laws, l
 website_url: http://dev.forum-network.org/lecture/salem-witch-judge-samuel-sewalls-life-and-repentance
 date_published: '2007-10-18T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- African Americans
+- Daily Life
+- Gender
+- Ideas & Ideologies
+- Legal History
+- New England
+- Radicalism
+- Reform
+- Religion
+- Slavery
+- Women
+tags:
+- Boston
+- Massachusetts
+- Old South Meeting House
+- abolition
+- abolitionism
+- abolitionists
+- colonies
+- colonists
+- colonization
+- courts
+- crimes
+- criminals
+- ethics
+- executions
+- judges
+- law
+- laws
+- trials
+- witch trials
+- witchcraft
+- witches
+- witchhunts
 ---
 
 Historian Eve LaPlante examines the life of Judge Samuel Sewall, who condemned over 30 people to death for witchcraft in 1692 and publicly apologized in 1697, spending the rest of his life in penitence and social action. The presentation includes slides.

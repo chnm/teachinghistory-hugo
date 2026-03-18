@@ -18,12 +18,17 @@ summary: Historian Rosemarie Zagarri reads the Declaration of Independence close
 splash_image: /files/decsplash.jpg
 author_image: /files/author_image/zagarri.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Politics
+tags:
+- Declaration of Independence
 ---
-
-
 
 /files/media/video/Zagarri1.mp4
 

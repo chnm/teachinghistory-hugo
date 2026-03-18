@@ -11,7 +11,28 @@ keywords: presidents, policy, policies, foreign policy, foreign relations, forei
 website_url: http://teachingamericanhistory.org/institutes/2004/foreignrelations_readings.html
 date_published: '2004-07-14T00:00:00'
 series_name: Ideas and Traditions in American Foreign Relations
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+tags:
+- Europe
+- balance of power
+- foreign affairs
+- foreign policy
+- foreign relations
+- isolationism
+- nationalism
+- policies
+- policy
+- politicians
+- presidents
+- republicanism
 ---
 
 Professor John Moser examines U.S. foreign policy and involvement during the 1920s, considering whether the claim that the country retreated into isolationism during this period is accurate or not.
+
 To listen to this lecture, scroll down to 10:50 am-12:20 pm on Wednesday, July 14th. This should be the lecture "Balance of Power in the 1920s." Click on the Real Audio image or text in the gray bar to the left of the main text.

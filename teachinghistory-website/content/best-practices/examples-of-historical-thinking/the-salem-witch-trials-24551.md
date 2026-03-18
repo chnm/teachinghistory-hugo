@@ -17,11 +17,24 @@ summary: Absolving the guilty and punishing the innocent. Historian Elizabeth Re
 splash_image: /files/salemreissplash.jpg
 author_image: /files/author_image/reis-photo.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- Gender
+- Legal History
+- New England
+- Religion
+- Women
+tags:
+- Massachusetts
+- Puritans
+- Salem Witch Trials
+- elizabeth reis
+- witchcraft
+- witches
 ---
-
-
 
 /files/media/video/Reis1.mp4
 

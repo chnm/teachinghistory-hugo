@@ -6,13 +6,17 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21481
 grade_levels:
-  - elementary
+- elementary
 ---
 
 In the fifth grade, students will enlarge the study of history, government, economics, and geography as they study the United States. There is neither an intention nor a possibility of successful "coverage" of all of United States history and geography or all of the social, economic, and political movements that have helped create the story of America. Rather, students should "discover" and "uncover" this story, with attention to the overarching concepts of global interconnectedness, the processes of continuity and change over time, the rights and responsibilities we all share, and the systems of power, authority, and governance we create. Primary source documents and literature that recounts the stories of exemplary character and life skills will help students understand their own place in the continuing saga of America.
+
 The fifth grade core is presented in a chronological framework, separated into eras in a modification of the organizing framework of the National Standards for History. Under the rubric of these interconnected eras, students will be able to explore each era's essential ideas and events. The eras are: Exploration and Colonization, Beginnings of Self-Government, the Constitution and Bill of Rights, the Expansive 19th Century, and The United States on the World Stage. By framing the history of the United States within comprehensible sections, students will be supported in their own cognitive development. As students develop a basic understanding of key events and the basic chronology of United States history, the nation's geography, and its economic history, they will be building a foundation that will serve them well in the years to come.
+
 The eras selected underscore that while there is much more content in studying the United States than can be covered in a year, there are essential aspects students should learn. As students develop a basic understanding of key events and the basic chronology of United States history, the nation's geography, and its economic history, they will be building a foundation that will serve them well in the years to come.
+
 **The most important goal: a well-lived life** 
+
 Excitement, wonder, inquiry, delight, and puzzlement are central to meaningful learning in social studies. Social studies should be fun and intriguing for all students, and provide opportunities to make important life-long connections between the past, present, and future. Students who appreciate the sacrifices that have been made in the past and understand the challenges that lie ahead can make better decisions in the present.
 
 ## Core Standards of the Course

@@ -13,7 +13,29 @@ summary: These African American athletes drew crowds with their skill and determ
   in the early 20th century.
 splash_image: /files/splash-aaathletes.jpg
 thumbnail: /files/quiz_thumbnail/DismVirtThumbnail.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- African Americans
+- Popular Culture, Leisure
+tags:
+- Basketball
+- Golf
+- Harlem Globetrotters
+- Joe Louis
+- Major Taylor
+- Marshall Taylor
+- athletes
+- bicycles
+- boxers
+- boxing
+- cycling
+- cyclists
+- golfers
+- jack johnson
+- sports
 ---
-
 
 Part of the history of race relations in 20th-century America was the progressive entry of African Americans into sports where they competed professionally with white players. How much do you know about this story?

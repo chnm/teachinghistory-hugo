@@ -22,10 +22,36 @@ splash_image: /files/splash-tg-mystery.jpg
 image: /files/mysteryimage.jpg
 author_image: /files/author_image/LisaCooper_Photo.jpg
 grade_levels:
-  - elementary
+- elementary
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- General
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Consumer Culture
+- Economy
+- Environment
+- Midwestern States
+- Science & Tech.
+- Western States
+tags:
+- Pioneer
+- West
+- beaver
+- detectives
+- ecosystem
+- extinction
+- fashion
+- fur trade
+- habitat
+- hypothesis
+- mystery
+- pelt
+- science
 ---
-
-
 
 ## What Is It?
 

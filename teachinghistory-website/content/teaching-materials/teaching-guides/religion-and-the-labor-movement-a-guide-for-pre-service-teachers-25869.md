@@ -20,10 +20,17 @@ splash_image: /files/DayBookSplash.jpg
 image: /files/DayBook.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_1.JPG
 grade_levels:
-  - high
+- high
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Gender
+- Labor
+- Religion
+- Women
+tags:
+- labor movement
 ---
-
-
 
 **What is it?**
 

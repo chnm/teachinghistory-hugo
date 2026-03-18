@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 22095
 website_url: http://www.museumofdesign.org/
+time_periods:
+- General
+topics:
+- Business
+- Consumer Culture
+- Popular Culture, Leisure
+tags:
+- design
 ---
 
 The Museum of Design interprets all aspects and forms of design, from architecture to fashion.
+
 The museum offers exhibits, lectures, self-guided and guided tours for school groups, and occasional recreational and educational events.

@@ -13,12 +13,47 @@ summary: Guam is often left out of discussions of U.S. history. Remedy the situa
 splash_image: /files/guampedia432x240.jpg
 image: /files/website_image/guampedia150x113.gif
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- General
+topics:
+- Art
+- Business
+- Daily Life
+- Economy
+- Education
+- Family Life
+- Gender
+- Global Contact
+- Health & Medicine
+- Labor
+- Legal History
+- Military History
+- Popular Culture, Leisure
+- Religion
+- Rural Life
+evidence_types:
+- Architecture
+- Artifacts and Objects
+- Film and Video
+- Music
+- Newspapers and Periodicals
+- Paintings and Prints
+- Photographs
+resource_types:
+- Audio
+- Images
+- Text
+- Video
+tags:
+- Guam
+- territories
 ---
 
-
 Don't let Guam be forgotten in your classroom! After all, it is one of only 16 non-self-governing territories worldwide that are recognized by the UN. As such, leaving Guam out of history is to ignore a rather remarkable political exception.
+
 Guampedia offers a range of short articles on everything from architecture to World War II. These pages also feature relevant photographs and further resource listings. Additional sections offer basic facts on Guam (motto, population, etc.) and its major villages. Be sure to check out the [history lesson plans](http://guampedia.com/category/educational-lesson-plans/history/) to see if there's any ready-made content appropriate for you to introduce to your classroom.
+
 Additional ways to explore include a selection of media collections including photographs, illustrations, soundbites, and video; MARC Publications, including issues of the *Guam Recorder*, lectures, and additional e-publications on topics such as archaeology and stonework; and traditional recipes.

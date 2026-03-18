@@ -10,8 +10,10 @@ splash_image_fid: '7087'
 summary: Check out these sites for primary sources grouped into sets by topic, grade-level
   appropriateness, and other factors.
 splash_image: /files/PS-SetsSplash.jpg
+tags:
+- finding sources
+- primary sources
 ---
-
 
 It can be time-consuming to find and prepare primary sources for your lessons. On each of the below sites, you will find primary sources that address multiple topics in U.S. History. Many of the sites provide sources that have been prepared for the classroom, from excerpting lengthy documents to providing clear headnotes and source information. Start at one of these sites to find primary sources to use in your next lesson!
 

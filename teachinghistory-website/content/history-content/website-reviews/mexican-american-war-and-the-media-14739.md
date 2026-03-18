@@ -17,9 +17,35 @@ summary: More than 5,500 transcribed newspaper articles related to the Mexican-A
 thumbnail: /files/king.jpg
 splash_image: /files/Mexican-American_War_and_the_Media_432x240.jpg
 image: /files/website_image/14739.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Media
+- Military History
+- Politics
+- Slavery
+- Western States
+evidence_types:
+- Newspapers and Periodicals
+- Paintings and Prints
+resource_types:
+- Images
+- Text
+tags:
+- England
+- Great Britain
+- Mexican-American War; Texas; England; Treaty of Guadalupe Hidalgo; Westward Expansion
+- Mexico
+- UK
+- journalism
+- mass media
 ---
 
-
 These more than 5,500 transcribed newspaper articles related to the Mexican-American War represent five newspapers from the U.S. and England. They span the period from 1845, when the U.S. annexed Texas, through 1848, when Mexico surrendered and the Treaty of Guadalupe Hidalgo was signed.
+
 The contrast between coverage of the war in the U.S. and England is particularly striking. *The Times* of London fulminated against the immorality of slavery and of the southern scheme to annex Texas as a slave state, while exposing America's imperialist ambitions as, among other things, an attempt to shore up the nation's fragile stability through the escape valve of western migration. By contrast, newspapers from Maryland and West Virginia did not examine the issue of slavery in the articles included here.
+
 Some images and links to watercolor and print collections are also available. The website provides a comprehensive bibliography on the war, but offers little historical background or contextualization beyond links to related materials and an expanded timeline.

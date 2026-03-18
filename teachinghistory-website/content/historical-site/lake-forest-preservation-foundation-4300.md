@@ -6,6 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 4300
 website_url: http://www.lfpf.org/index.htm
+time_periods:
+- All
+- General
+topics:
+- Environment
+tags:
+- Illinois
+- conservation
+- preservation
+- restoration
 ---
 
 "The Lake Forest Preservation Foundation protects the historic visual character of Lake Forest."

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20942
 grade_levels:
-  - high
+- high
 ---
 
 * ### CA.12.1. Content Standard: Principles of American Democracy

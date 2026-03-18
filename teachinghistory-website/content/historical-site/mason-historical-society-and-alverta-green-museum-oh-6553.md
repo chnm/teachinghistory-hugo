@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 6553
 website_url: http://www.masonhistoricalsociety.org/index.html
+time_periods:
+- All
+- General
+topics:
+- Midwestern States
+tags:
+- Ohio
+- museums
 ---
 
 The Society's Alverta Green Museum is home to many photographs, documents, and artifacts which represent the history of Mason.
+
 The museum offers exhibits and research library access.

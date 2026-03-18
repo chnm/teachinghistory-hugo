@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 5740
 website_url: http://www.maconnchistorical.org
+time_periods:
+- All
+- General
+topics:
+- Health & Medicine
+- Southern States
+tags:
+- North Carolina
+- museums
+- shops
+- stores
 ---
 
 The Society is housed in and operates the Macon County Historical Museum in one of the oldest buildings in Macon County—the 100-year-old Pendergrass Store. The museum showcases displays on Cherokee history, medical and drugstore artifacts, period clothing, and other topics.
+
 The museum offers research library access, exhibits, and tours.

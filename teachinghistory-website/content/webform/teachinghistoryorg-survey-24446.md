@@ -18,4 +18,5 @@ author_bio: 'Thank you for completing the survey. Your answers have been submitt
 ---
 
 Thank you for completing the survey. Your answers have been submitted to Goodman Research Group.
+
 Please provide your name and address to receive a free Teachinghistory.org flash drive.

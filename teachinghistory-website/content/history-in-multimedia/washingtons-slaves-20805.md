@@ -10,7 +10,22 @@ keywords: slaves, presidents, politicians, Founding Fathers, race, race relation
 website_url: http://www.learner.org/courses/amerhistory/units/4/addtlResources/#
 date_published: '2005-08-22T00:00:00'
 series_name: 'Organization of American Historians: Talking History Radio Program'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Ideas & Ideologies
+- Politics
+- Slavery
+tags:
+- Founding Fathers
+- politicians
+- presidents
+- race
+- race relations
+- slaves
 ---
 
 *Talking History*'s Fred Nielsen discussed the complex story of George Washington, and his action of granting freedom to his slaves, with Henry Wiencek, author of *An Imperfect God: George Washington, His Slaves, and the Creation of America*.
+
 To listen to this podcast, scroll to the bottom of the page, and select "MP3 Format" under "Best of Talking History Program 4: Washington's Slaves."

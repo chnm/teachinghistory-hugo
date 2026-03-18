@@ -18,9 +18,18 @@ summary: How does modern television portray early 20th-century suffragists? Thro
 splash_image: /files/anglessplash.jpg
 image: /files/anglesimage.jpg
 author_image: /files/author_image/author_bittel_0.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Gender
+- Politics
+- Women
+tags:
+- films
+- movies
+- suffrage
+- suffragists
 ---
-
-
 
 Today, when it seems that everyone is getting a make-over, so are the suffragists. *Iron Jawed Angels*, a recent film by *HBO*, dramatizes the final years of the American woman suffrage movement, from 1912 to the winning of the vote in 1920. Historians familiar with the classic documentary *One Woman, One Vote* (1996) will be amused by how the suffragists have been updated and recast to mirror our own contemporary sensibilities. This film portrays these women as you have never seen them before: shopping for fashionable hats, smoking and lounging in their undergarments, and marching to a soundtrack of hip-hop rhythms. They are more than “new women”; they are 21st-century women in their casual manner, informal speech, and attitudes toward men and sexuality. With this approach, the film modernizes our political foremothers in an attempt to win new audiences in a postfeminist age.
 > The film modernizes our political foremothers in an attempt to win new audiences in a postfeminist age.

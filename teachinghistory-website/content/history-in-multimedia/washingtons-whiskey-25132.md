@@ -12,6 +12,9 @@ series_name: 'Colonial Williamsburg: Past and Present Podcasts'
 ---
 
 From Colonial Williamsburg: Past and Present Podcasts—
+
 "George Washington's retirement venture had a high alcohol content. Mount Vernon's Director of Preservation, Dennis Pogue, leads us on a tour through Washington's whiskey distillery."
+
 The Colonial Williamsburg site also has an informative [essay](http://www.history.org/Foundation/journal/Summer08/whiskey.cfm) that offers interested readers more information on the history of whiskey in Colonial America.
+
 To learn more about Mount Vernon—whiskey excluded—check out the official Mount Vernon Website.

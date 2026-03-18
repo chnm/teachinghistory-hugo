@@ -11,7 +11,27 @@ keywords: steel, iron, industry, industries, colonies, colonists, colonization, 
 website_url: http://www.engr.psu.edu/mtah/photos/video_ironsmelt.htm
 date_published: '2008-11-19T00:00:00'
 series_name: 'Building Community: Medieval Technology and American History'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Business
+- Consumer Culture
+- Economy
+- Science & Tech.
+tags:
+- Medieval
+- Middle Ages
+- colonies
+- colonists
+- colonization
+- furnaces
+- industries
+- industry
+- iron
+- steel
 ---
 
 This 20-minute video shows Penn State University's experimental iron smelting and how a small two-foot chimney can replicate a medieval/colonial iron furnace.
+
 The video can be viewed as one file or as six separate smaller sections.

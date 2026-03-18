@@ -16,11 +16,13 @@ spotlight: Public school teachers have to prepare their students for the momento
 splash_image: /files/testsplash.jpg
 image: /files/testimage.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- standardized testing
+- tests
 ---
-
 
 Working with—and in some cases, around—standardized tests, teachers can help students improve their scores without sacrificing key knowledge and skills.
 

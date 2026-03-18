@@ -14,8 +14,18 @@ thumbnail_fid: '336'
 summary: The enemy of my enemy is my friend—what was Spain's role (and motivation)
   in the American Revolution?
 splash_image: /files/siege-pensacola-new.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+tags:
+- American Revolution
+- Bernardo de Galvez
+- Carlos III
+- John Jay
+- Revolutionary War
+- Spain
 ---
-
 
 Spain was not a bystander to the American Revolutionary War, although that fact is rarely mentioned in cursory historical surveys. Spain's motivation to help the American colonists was driven by a desire to regain the land it had lost to Britain and, with other European powers, make incremental gains against British possessions in other parts of the world. Although some dreamers in Spain perhaps envisioned its eventual possession of the entire New World, I have found no evidence that such an idea guided its assistance to the American colonists.
 > Spain was not a bystander to the American Revolutionary War

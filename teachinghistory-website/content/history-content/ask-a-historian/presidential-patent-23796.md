@@ -10,8 +10,18 @@ url: /history-content/ask-a-historian/23796
 splash_image_fid: '4829'
 summary: How many presidents have applied for and received patents?
 splash_image: /files/jolly-flatboatmen-new.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Science & Tech.
+tags:
+- Abraham Lincoln
+- Patent Office
+- flatboat
+- inventions
+- patent
+- presidential patent
 ---
-
 
 Many presidents have been intensely interested in science, technology, and invention. Early presidents signed the certificates that the Patent Office issued, and collectors of these certificates sometimes refer to them as "Presidential patents." But Abraham Lincoln was the only president to receive a patent himself.
 
@@ -32,6 +42,9 @@ His second trip, however, was more eventful. In the spring of 1831, a business e
 ---
 
 Ida M. Tarbell, ed. ["Lincoln. … The Building of the Flatboat and the Trip to New Orleans, …"](http://www.gutenberg.org/files/11548/11548-h/11548-h.htm) *McClure's Magazine* (New York) December 1895, vol. 6, issue 1, pp. 15-19.
+
 "Short Autobiography Written at the Request of a Friend to Use in Preparing a Popular Campaign Biography in the Election of 1860," in John George Nicolay and John Hay, eds. [Abraham Lincoln: Complete Works, Comprising His Speeches, Letters , State Papers, and Miscellaneous Writings, Vol. 1.](http://books.google.com/books?id=wiuRyJK6OocC&dq=%22Abraham%20Lincoln%22%20Nicolay&pg=PP1#v=onepage&q=&f=false) New York: Century Company, 1907, pp. 640-641.
+
 The National Park Service "Lincoln Boyhood National Memorial" [explanation](https://www.nps.gov/libo/index.htm) of flatboats.
+
 Spencer County, Indiana, in 2008, sponsored a goodwill recreation of Lincoln's 1828 flatboat journey with a 26-day trip down the Ohio and Mississippi rivers from Rockport, Indiana, to New Orleans, on a reconstructed flatboat in an event it called "Lincoln's Journey of Remembrance" as part of the national celebration of the centennial of Lincoln's birth. One of the participants posted a blog of the trip.

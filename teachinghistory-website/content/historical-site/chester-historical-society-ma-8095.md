@@ -6,7 +6,13 @@ content_type: historical_site
 draft: false
 drupal_nid: 8095
 website_url: http://chesterhistoricalsociety.org/
+topics:
+- Daily Life
+- New England
+tags:
+- Massachusetts
 ---
 
 The Chester Historical Society seeks to preserve and share the cultural and architectural history of Chester, Massachusetts.
+
 The society offers library and archival access.

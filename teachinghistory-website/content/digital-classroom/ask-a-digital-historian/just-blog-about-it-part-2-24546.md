@@ -17,8 +17,15 @@ splash_image_fid: '7224'
 summary: Everything you ever wanted to know about blogs, and more!
 splash_image: /files/blogsplash_0.jpg
 image: /files/lesson_image/blogimage2_0.jpg
+tags:
+- Collaboration
+- Jeffrey W. McClurken
+- blogging
+- blogs
+- history blogs
+- multimedia
+- research
 ---
-
 
 The short answer to this question is, yes, digital history has begun to change the way that we research and write history. Some of this question is covered by [Robert Townsend's post](http://teachinghistory.org/digital-classroom/ask-a-digital-historian/24122) on this site about how new media tools are changing history. Dr. Townsend's post discusses a couple of new tools beginning to be used by historians in the Digital Age, either to visualize data in new ways (including spatial tools like GIS) or to analyze mass quantities of textual data (like Google Books' [N-Gram Viewer](http://books.google.com/ngrams/) and some of the work being done [using that](http://www.dancohen.org/2010/12/03/new-york-times-covers-victorian-books-project/) and [other vast digital repositories](http://sappingattention.blogspot.com/) of books). To build on Townsend's post and more directly answer this question, I would note *three* other ways in which digital history is currently changing the way that we write history and use our sources.
 

@@ -22,16 +22,30 @@ summary: When does a historical film go from "based on historical events" to tot
 splash_image: /files/pearlharborsplash.jpg
 image: /files/pearlharborimage.jpg
 author_image: /files/author_image/mail_5.jpeg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+- Popular Culture, Leisure
+tags:
+- Hawaii
+- Pearl Harbor
+- U-571
+- films
+- historical films
+- movies
+- submarines
 ---
-
-
 
 What constitutes the limits of dramatic license in fictional motion pictures set within the framework of a historical event? Filmmakers have regularly argued that the need for drama always outweighs the need for plausibility and historical accuracy. Audiences have generally bought the argument, as have the filmmakers themselves. Does it matter that Steven Spielberg portrays the Pentagon receiving word of the death of two Ryan brothers on Omaha Beach within two days of D-Day? Does it matter that a German fighter plane flew to the vicinity of Greenland as shown in *U-571*? Does it matter that Jimmy Doolittle and his raiders never flew in formation during the attack on Tokyo as shown in *Pearl Harbor*?
 > But does falsifying or fabricating events add to the drama, or is good drama incompatible with truth?
 
 Who cares? After watching *U-571*, one person said, “If I want to see the truth, I will watch PBS.” But does falsifying or fabricating events add to the drama, or is good drama incompatible with truth? Clearly painting the name *Enola Gay* on the wrong side of the fuselage in *The Beginning or the End* (1947) and *Above and Beyond* (1952) adds nothing to the drama of Paul Tibbets's mission to drop an atomic bomb on Hiroshima. Does the mistake matter? On the other hand, portraying Tibbets as feeling guilty for carrying out his assignment, as *Above and Beyond* clearly does, falsifies history. Do the directors' justification that they could not show an American officer in 1952 willingly killing 80,000 people suffice?
+
 Jonathan Mostow, director of *U-571*, claimed he was making a fictional story, not a documentary, about life aboard a submarine during the battle of the Atlantic and therefore he did not have to portray history accurately. Nevertheless, the British immediately took offense, claiming he was turning the Royal Navy's capture of an Enigma machine from a German submarine in 1941 into an American heist in 1942. Mostow denied he was doing this, pointing out that the British used a destroyer while he used a submarine. With *U-571*, the problems had less to do with history than with plausibility. The Germans did fly four-engine patrol planes over the North Atlantic but certainly not single-engine fighters. Whether an American submarine disguised as a German submarine might capture a U-boat might not be too farfetched, at least as portrayed in the movie. But having a second German submarine, in the dark of night, in a driving rainstorm recognize what was happening and figure out which one to torpedo stretches credibility beyond any realistic limits. Likewise, having the American boarding party know how immediately to start the disabled German submarine and get underway strains believability. Worse, submariners have attested to the virtual impossibility of one submarine torpedoing another submarine when both were submerged with the technology available early in the war.
+
 *U-571* remains probably the most exciting submarine movie ever made. Nevertheless, the factual and historical errors in the film prevented the director, Mostow, from fulfilling his goal of providing the contemporary generation with any real sense of life aboard a World War II submarine. His response to critics of the film: “Hey folks, it's only a movie.” In contrast, producer Jerry Bruckheimer and director Michael Bay tried to have it both ways with *Pearl Harbor*. On one hand, both men claimed they were making a fictional movie using the historical events only as the stage on which to create a love story. On the other hand, Bay predicted before the start of production, “You will see what happened at Pearl Harbor like you have never seen it in any other movie. Our goal is to stage the event with utmost realism.” He claimed that he wanted his Pearl Harbor movie to become one “by which all other films are measured,” dismissing *Tora! Tora! Tora!* (1970) as being “more of a documentary.”
+
 To achieve these goals, Bay and Bruckheimer claimed to have read extensively in the histories about Pearl Harbor and to have interviewed many Pearl Harbor and Doolittle raid survivors. Noting that everyone had his or her own memories that did not always agree with others' on particular aspects of the Japanese attack, the filmmakers felt their re-creation was as valid as any of the recollections.
 > “Pearl Harbor is a fictional tale crafted from a kaleidoscope of real life personal experiences of those living through this terrifying tragedy.” The operative word is “fictional.”
 
@@ -39,5 +53,7 @@ Of course, all memories are created equal, but some are more equal; where truth 
 > Historians have to be careful to criticize the elephants, not the ants, when discussing the dramatic license filmmakers take in their movies.
 
 However, the title *Pearl Harbor* and Bay's predictions about what he intended to do strongly suggest the film is providing a reasonably accurate account of what happened on December 7. Historians have to be careful to criticize the elephants, not the ants, when discussing the dramatic license filmmakers take in their movies. But audiences have to know little or nothing about Pearl Harbor to recognize the errors or fabrications. In view of the recent attention given to President Franklin D. Roosevelt because of the dedication of his memorial, most people understand that he simply could not stand up unaided, as happens in the movie.
+
 Likewise, since the movie portrays the growing tensions between Japan and the United States and relates at least superficially the plans for the attack on Pearl Harbor, audiences are going to wonder how one of the heroes could manage to get permission to fly his P-40 over Pearl Harbor at dusk. While Bay commented with pride about the film's signature shot of a bomb falling slowly downward toward the *Arizona*, people recognize the hokiness of the sequence even if they do not know that the battleship was hit after the *Oklahoma*, not before, as portrayed.
+
 In fact, the reviewer has compiled a five-page list of “flaws” in *Pearl Harbor*. Do they matter? Only to the extent that truth itself matters. For most historians the liberties the filmmakers took with the facts render *Pearl Harbor* useless as a tool to teach students about the Japanese attack. From the Japanese perspective, however, the film has a significant upside. Most people went to see *Pearl Harbor* for the love story and the explosions and so left the theater without any significant antagonism toward those friendly people who brought the United States into World War II and later began making fine cars, cameras, television sets, and video recorders.

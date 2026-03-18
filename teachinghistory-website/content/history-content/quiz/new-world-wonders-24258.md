@@ -12,7 +12,12 @@ thumbnail_fid: '2893'
 summary: How did explorers describe the plants and animals they discovered in America?
 splash_image: /files/splash-sealion_0_0.jpg
 thumbnail: /files/quiz_thumbnail/PhilMorrThumbnail.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Environment
+- Global Contact
 ---
-
 
 For explorers and colonists from Europe, North and South America were full of strange new lifeforms—stunning and surprising plants and animals, from insects to birds to sea creatures. Examine the following drawings and descriptions created by European visitors to the Americas. Can you identify what plant or animal is being described or depicted?

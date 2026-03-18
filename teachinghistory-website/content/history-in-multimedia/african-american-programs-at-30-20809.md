@@ -11,6 +11,31 @@ keywords: race, race relations, museums, interpretation, Williamsburg, Virginia,
 website_url: http://podcast.history.org/2009/02/02/african-american-programs-at-30/
 date_published: '2009-02-02T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Contemporary US, 1968-Present
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Education
+- Ideas & Ideologies
+- Military History
+- Politics
+- Reform
+- Slavery
+- Southern States
+tags:
+- American Revolution
+- Revolutionary War
+- Virginia
+- Williamsburg
+- colonies
+- colonists
+- interpretation
+- museums
+- race
+- race relations
+- slaves
 ---
 
 The manager of African American history interpretation at Colonial Williamsburg, Harvey Bakari, talks about how interpretation of African American history has changed at Colonial Williamsburg over the past three decades.

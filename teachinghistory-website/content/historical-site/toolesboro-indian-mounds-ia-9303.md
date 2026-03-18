@@ -6,7 +6,21 @@ content_type: historical_site
 draft: false
 drupal_nid: 9303
 website_url: http://www.iowabeautiful.com/southeast-iowa-tourism/647-toolesboro-indian-mounds-museum-wapello-iowa.html
+time_periods:
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Daily Life
+- Midwestern States
+- Rural Life
+tags:
+- Hopewell
+- Native Americans
+- burial mounds
+- earthworks
+- mounds
 ---
 
 The Hopewellian mounds at Toolesboro are among the best-preserved and accessible remnants of an ancient culture flourishing from around 200 B.C. to 300 A.D. The five-acre site includes several large surviving mounds, an education center, and a prairie demonstration plot.
+
 The site offers exhibits.

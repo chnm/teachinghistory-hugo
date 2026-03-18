@@ -12,10 +12,12 @@ summary: Teach students how to utilize primary sources with this game from *Anne
   Media*
 splash_image: /files/interactivesplash-edit.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- overview
+- primary sources
 ---
-
 
 This classroom [tool](http://www.learner.org/interactives/historical/index.html)—one of several history “interactives” on the [Annenberg Media website]( http://www.learner.org/interactives/)—focuses on what a primary source is. Designed for students to work through either individually or in groups, this online resource is designed to help students read different kinds of primary sources for clues about their historical context. Using newspapers, journals, letters, and speeches, the site challenges students to test their document-reading abilities in an online game.

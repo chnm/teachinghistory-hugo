@@ -13,7 +13,14 @@ summary: Wherever people go, disease is sure to follow. Answer these questions a
   U.S. epidemics.
 splash_image: /files/Epidemic_0.jpg
 thumbnail: /files/website_image/AmerCityImage.jpg
+time_periods:
+- All
+topics:
+- Health & Medicine
+tags:
+- disease
+- diseases
+- epidemics
 ---
-
 
 Swine flu, avian flu, SARS, MRSA—what do modern-day epidemics bring to mind for you? The Black Plague? Or how about more recent outbreaks, closer to home? Match the descriptions of diseases that have troubled North America with their names. (Each is used once and only once.)

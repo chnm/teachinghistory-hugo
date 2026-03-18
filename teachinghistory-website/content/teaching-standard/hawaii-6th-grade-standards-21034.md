@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21034
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### HI.SS.6.1. Content Standard / Course: Historical Understanding

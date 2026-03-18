@@ -11,7 +11,26 @@ keywords: presidents, policy, policies, foreign policy, foreign relations, forei
 website_url: http://teachingamericanhistory.org/institutes/2004/foreignrelations_readings.html
 date_published: '2004-07-12T00:00:00'
 series_name: Ideas and Traditions in American Foreign Relations
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+tags:
+- Manifest Destiny
+- foreign affairs
+- foreign policy
+- foreign relations
+- policies
+- policy
+- politicians
+- presidents
+- republicanism
 ---
 
 Professor Jeremi Suri looks at the effect of American westward expansion on mid-19th-century foreign policy. He looks at the role of republican ideals in policy at this time.
+
 To listen to this lecture, scroll down to the Monday, July 12th, 4:30-6:00 pm session. Then click on the Real Audio link in the gray bar to the left of the main text.

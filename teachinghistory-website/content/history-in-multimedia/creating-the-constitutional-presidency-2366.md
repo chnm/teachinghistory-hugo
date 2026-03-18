@@ -11,7 +11,20 @@ keywords: presidents, Founding Fathers, Constitutional Convention, politicians, 
 website_url: http://teachingamericanhistory.org/institutes/2004/presidential_readings.html
 date_published: '2004-07-12T00:00:00'
 series_name: Presidential Greatness
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Literature
+- Politics
+tags:
+- Constitutional Convention
+- Founding Fathers
+- U.S. Constitution
+- politicians
+- presidents
 ---
 
 Professors Sidney Milkis and Marc Landy discuss the creation of the institution of the presidency as part of the creation of the U.S. government at the Constitutional Convention. They look at how the presidency is defined in the Constitution.
+
 To listen to this lecture, scroll to the Monday, July 12th, 9:00 am-10:30 am session; and select the corresponding RealAudio link to the left.

@@ -6,7 +6,17 @@ content_type: historical_site
 draft: false
 drupal_nid: 20788
 website_url: http://www.manassascity.org/index.asp?NID=211
+time_periods:
+- All
+- General
+topics:
+- Cities & Suburbs
+- Southern States
+tags:
+- Virginia
+- museums
 ---
 
 The Museum houses permanent and temporary historical exhibits interpreting Northern Virginia Piedmont history through artifacts, documents, videos, and images.
+
 The museum offers exhibits, tours, research library access, educational programs, and recreational and educational events.

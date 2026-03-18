@@ -17,10 +17,20 @@ summary: In the struggle for women's suffrage, how did African American women re
 splash_image: /files/boisseausplash4.jpg
 author_image: /files/author_image/tj_headshot_with_brown_blurred_background_5.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- Gender
+- Media
+- Politics
+- Reform
+- Women
+tags:
+- Women's Movement
+- suffrage
 ---
-
-
 
 /files/media/video/Boisseau3a.mp4
 

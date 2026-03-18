@@ -13,8 +13,33 @@ splash_image_fid: '5535'
 summary: An assemblage of more than 80 photographs and postcards of lynchings, from
   the late 19th and early 20th centuries.
 splash_image: /files/Without_Sanctuary-_Photographs_and_Postcards_of_Lynching_in_America_432x240.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- African Americans
+- Ideas & Ideologies
+- Media
+evidence_types:
+- Photographs
+resource_types:
+- Images
+- Text
+tags:
+- crime
+- criminals
+- hate crimes
+- lynching
+- lynchings
+- murder
+- murderers
+- murders
+- race
+- race relations
+- racism
+- violence
 ---
 
-
 James Allen has assembled a collection of chilling photographs of lynchings throughout America, primarily from the late 19th and early 20th centuries. Many were circulated as souvenir postcards. The site is a companion to Allen's book *Without Sanctuary.* The exhibit can be experienced through a flash movie with narrative comments by Allen or as a gallery of more than 80 photographs with brief captions. Most images also have links to more extensive descriptions of the circumstances behind each specific act of violence.
+
 While the vast majority of lynching victims were African Americans, white victims are also depicted. Individually and as a group, these images are disturbing and difficult to fathom. They provide, however, an excellent resource for approaching the virulence and impact of racism in late 19th and 20th-century America.

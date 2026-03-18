@@ -12,6 +12,29 @@ keywords: U.S. Exploring Expedition, science, scientists, exploration, ships, Pa
 website_url: http://dev.forum-network.org/lecture/sea-glory-us-exploring-expedition-1838-1842
 date_published: '2005-01-13T00:00:00'
 series_name: 'Frontline: Storm Over Everest'
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Environment
+- Global Contact
+- International Relations
+- Science & Tech.
+tags:
+- Antarctica
+- Pacific Ocean
+- U.S. Exploring Expedition
+- exploration
+- explorers
+- maritime disasters
+- nautical disasters
+- science
+- scientists
+- ships
+- shipwrecks
+- the Essex
+- water
+- whalers
+- whaling
 ---
 
 Author Nathaniel Philbrick, author of *Sea of Glory*, describes the U.S. Exploring Expedition of 1838-1842, in which six ships of explorers and scientists, commanded by Charles Wilkes, set out to explore the Pacific Ocean and eventually discovered Antarctica. Philbrick also covers the story of the whaling ship *Essex*'s shipwreck and related shipwrecks, to lead into the story of the Exploring Expedition

@@ -6,8 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 22072
 website_url: http://www.arizonahistoricalsociety.org/museums/
+topics:
+- Business
+- Cities & Suburbs
+- Daily Life
+- Western States
+tags:
+- Arizona
+- Tucson
 ---
 
 From the Arizona Historical Society [website](http://www.arizonahistoricalsociety.org/museums/):
+
 "The AHS Downtown Museum exhibits depict early Tucson businesses and homes, including drugstores, police and fire departments, and the Romero barbershop."
+
 The museum offers exhibits.

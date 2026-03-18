@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21496
 grade_levels:
-  - middle
+- middle
 ---
 
 ### Strand / Topic: United States History 1877 to the Present

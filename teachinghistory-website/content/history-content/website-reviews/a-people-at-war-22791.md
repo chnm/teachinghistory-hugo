@@ -15,7 +15,24 @@ summary: A collection of primary sources detailing the American war effort in Wo
 splash_image: /files/APeopleatWar432x240.jpg
 thumbnail: /files/AnnieOakley_432x240.jpg
 image: /files/website_image/APeopleAtWar_Image.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- African Americans
+- International Relations
+- Military History
+- Science & Tech.
+- Women
+evidence_types:
+- Newspapers and Periodicals
+- Official Documents
+- Personal Accounts
+- Photographs
+- Political Documents
+- Speeches
+resource_types:
+- Images
+- Text
 ---
-
 
 Drawn primarily from documents at the National Archives' National Personnel Records Center, this exhibit explores "the contributions of the thousands of Americans, both military and civilian, who served their country during World War II." Arranged into seven sections--"Prelude to War"; "New Roles"; "Women Who Served"; "The War in the Pacific"; "The War in Europe" "Science Pitches In"; and "The War is Over"--the site presents approximately 60 photographs, editorials, letters, and governmental reports, such as General Benjamin O. Davis's 1943 report concerning racial discrimination in the military. A 3,000-word background essay narrates the materials. Though lacking in depth and limited in size, the exhibit offers a selection of valuable and interesting materials regarding the war effort.

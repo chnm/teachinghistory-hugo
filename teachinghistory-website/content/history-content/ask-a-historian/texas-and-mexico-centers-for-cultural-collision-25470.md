@@ -17,15 +17,25 @@ summary: In 1821, Anglo settlers migrated to Texas en masse. Discover the profou
   impact this movement had on the relationship between whites and hispanic Tejanos.
 splash_image: /files/texasmexicosplash.jpg
 author_image: /files/author_image/author_denial_0.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Military History
+tags:
+- Mexico
+- Tejanos
+- hispanic history
+- history of texas
+- mexican history
 ---
-
-
 
 Anglo (meaning non-Hispanic white) migration to Texas began in earnest after Mexico secured its independence from Spain in 1821. In the new republic, Texas was just one part of the state of Coahuila-Texas, a region in Mexico's northern borderlands in which Native communities were powerful. Mexican families lived throughout the northern portion of Coahuila-Texas—the wealthiest of whom were known as Tejanos—and to the Comanche and Lipan Apache they were unwelcome. Viewed from the perspective of the region's Native communities, both Tejano and Anglo settlers were undocumented immigrants.
 
 ## The Anglo Squatters
 
 Many of the first Anglo immigrants to Texas were squatters, individuals who had no Mexican legal claim to their land. By 1824, however, both Mexican and Tejano officials welcomed Anglo settlers, although for very different reasons. The Mexican government wanted assistance securing the country's northern border against raids by the Comanche and other Native groups; the Tejanos wanted help in raising Texas to the level of Mexican statehood, independent of Coahuila, so that they might govern themselves more effectively. Anglo settlers wanted land, and they were initially willing to accept multiple conditions on their immigration in order to get it. In 1825, Mexico passed the Coahuila-Texas colonization law, which offered men at the head of households 177 acres of farming land, grazing rights, and tax breaks in order to settle the region. In return, settlers had to agree to become Mexican citizens, to practice Catholicism, and to uphold all Mexican laws, including those that prohibited slavery.
+
 The vision of colonization held by Mexican officials was soon upended. By the mid 1820s there were more Anglo settlers in Texas than Tejanos, and Anglo families refused to settle where Mexican officials preferred them to go. Instead, they clustered around the state's eastern borders, which made the Mexican government nervous—it appeared that the United States' borders were encroaching into Mexican territory by default.
 
 ## Increased Tension: Anglos and Tejanos
@@ -38,6 +48,7 @@ By 1832, more than 6,000 Anglo settlers, who owned more than 1,000 slaves, lived
 ## Post-1830s
 
 The Mexican government never recognized Texas as an independent state. When the United States annexed Texas in 1845 Mexico once again went to war. After three years, the peace Treaty of Guadalupe Hildalgo saw the transfer of millions of acres of Mexican territory to the United States government—modern-day Texas, Arizona, New Mexico, and California, as well as portions of states further north. Anglo settlement, which had once seemed a sound strategic defense against borderland warfare with Indian people, proved the thin edge of a wedge that saw Mexico lose more than half of its territory to the United States.
+
 The Comanche and Lipan Apache continued to defend their territory against immigrants for many more years.
 
 ---

@@ -12,7 +12,13 @@ thumbnail_fid: '2907'
 summary: The Stock Market Crash of 1929 opened the curtain on the Great Depression.
 splash_image: /files/quiz-splash-greatdep2010.jpg
 thumbnail: /files/quiz_thumbnail/OnliDataThumbnail.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Economy
+tags:
+- Great Depression
+- Stock market crash
 ---
-
 
 On three days of panicked selling in late October 1929, the price of stocks traded on the New York Stock Exchange crashed, opening on October 24—"Black Thursday"—at 306, continuing down on October 25—"Black Monday"—and closing on October 29—"Black Tuesday"—at 230. Answer the following questions about the crash.

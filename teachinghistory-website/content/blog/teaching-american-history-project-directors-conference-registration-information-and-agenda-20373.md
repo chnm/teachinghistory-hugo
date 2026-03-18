@@ -13,4 +13,5 @@ summary: 2009 Annual Teaching American History Project Directors Conference foll
 ---
 
 The [2009 Annual Teaching American History Project Directors Conference](http://www.seiservices.com/AboutLatestNewsDetails.aspx?lngID=44) takes place in New York City, January 6–8, 2009, at the Hilton, New York, right on the heels of the Annual [American History Association](http://www.historians.org) annual meeting.
+
 This year's focus is [*Enhancing Project Quality,*](http://www.seiservices.com/ed/oii/tahpd2009/Agenda.asp) and the agenda includes presentations on historical content and pedagogical approaches in the classroom; project evaluation; and effective reporting and communication.

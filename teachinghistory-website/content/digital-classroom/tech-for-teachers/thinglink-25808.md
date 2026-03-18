@@ -17,8 +17,12 @@ summary: Turn an image into an interactive graphic with ThingLink!
 splash_image: /files/splash2_1.jpg
 image: /files/screen_shot_2013-09-27_at_3.38.jpg
 author_image: /files/author_image/legg.jpg
+tags:
+- graphics
+- images
+- interactives
+- multimedia
+- visualization
 ---
-
-
 
 A multimedia tool that lets users annotate images with text, videos, links, and more

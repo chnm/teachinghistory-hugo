@@ -11,7 +11,23 @@ keywords: presidents, politicians, libraries, artifacts, cars, Chryslers, automo
 website_url: http://www.trumanlibrary.org/video/index.php
 date_published: '2007-06-13T00:00:00'
 series_name: My Favorite Things
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Consumer Culture
+- Politics
+- Science & Tech.
+tags:
+- Chryslers
+- artifacts
+- automobiles
+- cars
+- libraries
+- politicians
+- presidents
+- vehicles
 ---
 
 Truman Presidential Library Director Mike Devine describes Harry Truman's two Chryslers, commenting on the condition they were in when the library received them and the condition in which Truman kept them.
+
 To view this clip, scroll to "Mike Devine."

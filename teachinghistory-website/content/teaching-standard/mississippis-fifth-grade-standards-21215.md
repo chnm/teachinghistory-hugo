@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21215
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## Course: United States History from Pre-Columbian Era to Colonization

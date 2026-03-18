@@ -10,8 +10,18 @@ website_url: http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=5244
 date_published: '2011-06-03T00:00:00'
 series_name: The Library of Congress Webcasts
 grade_levels:
-  - high
+- high
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Daily Life
+tags:
+- history of photography
+- photography
 ---
 
 Video background from The Library of Congress Webcasts site:
+
 "As photography became an increasingly accessible medium in the 20th century, the popularity of the photographic album exploded, yielding a wonderful range of objects made for varying purposes—to memorialize, document (officially or unofficially), promote or educate and sometimes simply to channel creative energy. Verna Posever Curtis traces the rise of the album from the turn of the last century to the present day."

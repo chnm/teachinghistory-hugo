@@ -11,6 +11,20 @@ keywords: Iraq, Iraq Study Group, military, militaries, foreign policy, foreign 
 website_url: http://www.fpri.org/enotes/20061208.kuehner.iraqstudygroup.html
 date_published: '2006-12-08T00:00:00'
 series_name: E-Notes
+time_periods:
+- Contemporary US, 1968-Present
+- General
+topics:
+- International Relations
+- Military History
+tags:
+- Iraq
+- Iraq Study Group
+- foreign policies
+- foreign policy
+- foreign relations
+- militaries
+- military
 ---
 
 In this panel, Harvey Sicherman, president of the Foreign Policy Research Institute; Andrew Garfield, deputy director of the International Policy Institute (IPI) at King's College London and senior director of Influence and Insight for the Lincoln Group; and Edward A. Turzanski, security analyst at La Salle University, discuss the report of the bipartisan Iraq Study Group (ISG), chaired by James Baker and Lee Hamilton, which was released the day before.

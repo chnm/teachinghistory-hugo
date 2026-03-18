@@ -20,12 +20,13 @@ splash_image: /files/24295_432x240.jpg
 image: /files/Room-4-2.jpg
 author_image: /files/author_image/mYell_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Roanoke Island
+- michael yell
 ---
-
-
 
 > *The word history comes from the Greek* historein*—meaning “to inquire.” Recommendations for using inquiry [for learning history] have a long tradition.*
 > *People learn through inquiry. . . . inquiry is an approach consistent with current theory and research on human learning. When understanding is needed, inquiry appears to be one of the best ways to get there.*
@@ -38,6 +39,7 @@ As teachers of history and social studies teachers, I am convinced that we can r
 > This strategy presents a mystery, but does not provide answers—rather students develop answers for themselves by analyzing clues.
 
 Having our students get involved in the process of inquiry is not a matter of simply telling them “here is a problem, here are some sources, now go for it.” That approach will prove no more motivating to most than simply telling them to open their notebooks and then listen to a lecture. However, there are practice-proven strategies that are available to the teacher in order to thoughtfully engage their students in the inquiry process. **Mystery**, along with **Discrepant Event Inquiry** (explained in [my previous blog](http://teachinghistory.org/nhec-blog/24402)), is a highly motivating strategy that will do just that.
+
 Your students are in groups of four discussing topics about the colonization of what would become the United States, and you bring up the lost colony of Roanoke (perhaps in a Discrepant Event Inquiry). Students express an interest in the topic and begin to pose questions that they would like to answer about the colony. When the students next come into class, each group is given a manila envelope containing 12 strips of paper each with a Roanoke fact that they will put together as clues, discuss, and use as they hypothesize on what might have happened to the lost colony.
 
 ## Using the Strategy
@@ -50,6 +52,7 @@ As with Discrepant Event Inquiry, students have been confronted with a puzzle, b
 ## Breaking the Strategy Down
 
 Prior to beginning the strategy, peak student interest in something unknown or mysterious in the historical era that you are studying (such as the lost colony of Roanoke) and have them begin to develop the questions that they would like to try to answer.
+
 There are three steps in the Mystery strategy:
 
 1. Prepare a set of clues for a mystery that will be given to each group (I develop about 12 clues and each group will receive the same set). Although the clues can take many forms (quotations, short primary source documents, pictures, charts or graphs), I begin by using short written clues that contain basic information about the topic in question. For example, the Roanoke mystery might contain clues such as “three years after John White left the Roanoke he returned to find it empty,” “there was no trace of the colonists,” “on a post was carved the word CROATOAN,” “there was a nearby tribe called the Powhatans,” “there was no sign left by the colonists that they had fled from danger,” etc. There must be enough clues to help students begin to formulate a number of hypotheses. The information can come from readings you have done, resources that you find via the Internet, from DVDs—even from the textbook
@@ -62,4 +65,5 @@ Organizing information, making sense of data, and developing reasonable hypothes
 > Using inquiry in the classroom does take some work, but it is good work.
 
 To engage our students in this type of thinking, in this type of work, is not only more important than recall alone, it is more fun for them and for us as teachers. With such strategies as Discrepant Event Inquiry and Mystery we help our students develop questions and reason through information in attempting to answer those questions.
+
 Using inquiry in the classroom does take some work, but it is good work. The journey from teaching history as a body of content to be memorized to teaching history as inquiry, as a way of thinking and questioning, is a powerful one. It is important for history teachers to incorporate primary sources into their lessons, not as an end in itself, but as a means to further students’ inquiry into eras, people, and ideas of the past. In my next blog, I will share one of the strategies I have found is excellent for the use of primary sources in the history classroom.

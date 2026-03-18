@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20898
 grade_levels:
-  - high
+- high
 ---
 
 ## AL.10 Standard: United States History I—Beginnings to the Industrial Revolution

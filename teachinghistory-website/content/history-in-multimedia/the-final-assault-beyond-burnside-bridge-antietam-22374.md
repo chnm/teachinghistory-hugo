@@ -9,7 +9,13 @@ duration: 00:47:09
 website_url: http://www.civilwartraveler.com/audio/index.html#Antietam3
 date_published: '2009-06-15T00:00:00'
 series_name: 'Civil War Traveler: Podcasts'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Mid-Atlantic
+- Military History
 ---
 
 From the Civil War Traveler [website](http://www.civilwartraveler.com/):
+
 "Following the capture of Burnside Bridge over the Antietam Creek Sept. 17, 1862, the Union 9th Corps still had its work cut out. This tour covers the final Federal attack that day and the dramatic Confederate counterattack that saved the day for Lee's army."

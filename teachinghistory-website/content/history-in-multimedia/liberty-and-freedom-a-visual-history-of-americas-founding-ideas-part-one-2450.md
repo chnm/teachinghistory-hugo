@@ -11,7 +11,31 @@ keywords: values, freedom, liberty, ethics, mythology, symbols, Civil War, Revol
 website_url: http://teachingamericanhistory.org/seminars/2004/fischer.html
 date_published: '2004-10-30T00:00:00'
 series_name: Free Saturday Seminars for Social Studies Teachers
+time_periods:
+- All
+- General
+topics:
+- Art
+- Daily Life
+- Ideas & Ideologies
+- Literature
+- Media
+tags:
+- Civil War
+- Great Depression
+- New Deal
+- Revolutionary War
+- artists
+- ethics
+- freedom
+- images
+- liberty
+- mythology
+- propaganda
+- symbols
+- values
 ---
 
 Professor David Hackett Fischer traces how definitions of the ideals of liberty and freedom have changed over the course of U.S. history, from the American Revolution to the present day. He looks particularly at visual and literary symbols that have been created to stand for these ideals.
+
 Part Two of this lecture is currently not functioning.

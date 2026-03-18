@@ -17,7 +17,31 @@ summary: Listen to oral history interviews with Americans who served overseas an
 splash_image: /files/Rutgers_Oral_History_Archives_432x240.jpg
 thumbnail: /files/UsingHistoriography-150x113.jpg
 image: /files/website_image/RutgersOralHistory.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Education
+- Global Contact
+- International Relations
+- Media
+- Military History
+evidence_types:
+- Oral History
+- Personal Accounts
+resource_types:
+- Images
+- Text
+tags:
+- Cold War
+- G.I. Bill
+- Korean War
+- Vietnam
+- Vietnam War
+- World War II
+- soldiers
+- veterans
 ---
-
 
 This collection of oral history interviews centers on men and women who served overseas and on the home front during World War II, the Korean War, Vietnam, and the Cold War. The project was started to learn more about the war from ordinary people. The archive contains 444 full-text interviews, primarily of Rutgers College and Douglass College (formerly New Jersey College for Women) alumni and many of these interviews were conducted by Rutgers undergraduate students. Interviewees were selected to investigate the effects of the G.I. Bill on American society. The easily navigable site provides an alphabetical interview list with the name of each interviewee, date and place of interview, college of affiliation and class year, theater in which the interviewee served, and branch of service, if applicable. The list also provides "Description" codes, including military occupations such as infantry and artillery members, nurses, and civilian occupations.

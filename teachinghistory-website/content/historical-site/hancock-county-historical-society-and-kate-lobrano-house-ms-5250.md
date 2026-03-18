@@ -6,7 +6,20 @@ content_type: historical_site
 draft: false
 drupal_nid: 5250
 website_url: http://www.hancockcountyhistoricalsociety.com/
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Daily Life
+- Southern States
+tags:
+- Hancock County
+- Mississippi
+- counties
+- homes
+- houses
+- museums
 ---
 
 The Society has its headquarters in the Kate Lobrano House, an 1896 shotgun cottage that was donated to the society in 1988 by the grandchildren of Katherine Maynard Lobrano. Most of the original house is used as a turn-of-the-century museum.
+
 The society offers occasional recreational and educational events; the house offers exhibits.

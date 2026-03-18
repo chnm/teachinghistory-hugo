@@ -18,10 +18,18 @@ splash_image: /files/iwitnesssplash.jpg
 image: /files/iwitnessimage.jpg
 author_image: /files/author_image/author_haas.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Military History
+tags:
+- Holocaust
+- digital storytelling
+- multimedia
 ---
-
-
 
 This collection of Holocaust survivor and witness interviews allows students to connect with 20th century history and improve digital and media literacy.

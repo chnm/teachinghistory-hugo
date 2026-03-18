@@ -12,9 +12,14 @@ summary: What stories do elementary school students tell about the past? Read th
 splash_image: /files/elementarystoriessplash.jpg
 image: /files/elementarythinkingimage.jpg
 grade_levels:
-  - elementary
+- elementary
+tags:
+- literacy
+- narrative
+- reading
+- story
+- storytelling
 ---
-
 
 * Use historical stories to engage students and help them imagine the past.
 * Teach students the differences between fictional stories and evidence-based historical narratives.

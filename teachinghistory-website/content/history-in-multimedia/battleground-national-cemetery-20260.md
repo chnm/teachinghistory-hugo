@@ -12,7 +12,26 @@ keywords: Battleground National Cemetery, Civil War, graveyards, cemeteries, Roc
 website_url: http://www.nps.gov/rocr/photosmultimedia/multimedia.htm
 date_published: '2008-10-26T00:00:00'
 series_name: 'Rock Creek Park: Multimedia Presentations'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Mid-Atlantic
+- Military History
+tags:
+- Battle of Fort Stevens
+- Battleground National Cemetery
+- Civil War
+- DC
+- District of Columbia
+- Rock Creek Park
+- Union
+- battlefields
+- battles
+- cemeteries
+- graveyards
+- soldiers
 ---
 
 This podcast provides a self-guided tour of Battleground National Cemetery. According to the Battle Creek Park website, ". . . Battleground National Cemetery is one of nine Civil War installations under the stewardship of Rock Creek Park and serves as the final resting place for the majority of Union Civil War soldiers who perished while defending Washington, D.C. during a Confederate attack on July 11th and 12th, 1864."
+
 To listen to this tour, select "podcast" under "Battleground National Cemetery."

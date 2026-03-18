@@ -12,4 +12,5 @@ series_name: Cool Things Podcasts
 ---
 
 According to the Kansas State Historical Society website:
+
 "The second floor of the Kansas capitol features a pantheon of our state's heroes in stone. In this segment we consider four small busts related to this massive installation."

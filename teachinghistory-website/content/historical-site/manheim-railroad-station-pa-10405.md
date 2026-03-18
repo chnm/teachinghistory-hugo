@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 10405
 website_url: http://www.manheimpa.com/properties.html
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- General
+topics:
+- Mid-Atlantic
+- Science & Tech.
+tags:
+- Pennsylvania
+- decorative arts
+- historic railroad station
+- railways
 ---
 
 Constructed in 1881, the Manheim Railroad Station contains three rooms—the freight room, men's waiting room, and women's waiting room— which have been refurnished to period style.
+
 The station offers tours, trolley rides, and period rooms.

@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 10939
 website_url: http://www.shinnecockmuseum.org/index.html
+time_periods:
+- General
+topics:
+- American Indians
+tags:
+- Algonquin
+- David Bunn Martine
+- Eastern Woodlands
+- Long Island
+- New York
+- Shinnecock
 ---
 
 The Shinnecock National Cultural Center and Museum presents the history and modern culture of the Shinnecock, an Algonquin people. Permanent exhibits include bronze figures of Native Americans and murals, created by Shinnecock artist David Bunn Martine, depicting Shinnecock history.
+
 The museum offers exhibits, private tours, interactive curriculum-based student tours, and educational outreach programs for students. Please make reservations at least two weeks in advance for private tours.

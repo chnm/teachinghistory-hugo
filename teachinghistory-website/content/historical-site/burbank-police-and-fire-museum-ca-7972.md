@@ -6,7 +6,25 @@ content_type: historical_site
 draft: false
 drupal_nid: 7972
 website_url: http://www.burbank.com/story/Police-Fire-Museum/78052
+time_periods:
+- General
+topics:
+- Daily Life
+- Labor
+- Legal History
+- Science & Tech.
+- Western States
+tags:
+- Burbank
+- California
+- fire
+- firefighting
+- law enforcement
+- museum
+- police
+- police officers
 ---
 
 The Burbank Police and Fire Museum preserves and showcases the past of the Burbank Police and Fire Departments. The museum includes exhibits on all aspects of police and firefighting work.
+
 The museum offers a variety of exhibits, ranging from uniforms to a vintage fire engine, viewable by appointment only; tours for school groups can be arranged. The website offers a brief history of the museum, along with descriptions of all displays and artifacts currently on display in the museum.

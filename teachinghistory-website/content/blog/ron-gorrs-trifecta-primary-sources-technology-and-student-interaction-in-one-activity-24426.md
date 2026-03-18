@@ -24,17 +24,23 @@ splash_image: /files/splash-blog-rgwiki.jpg
 image: /files/image-blog-rgwiki.jpg
 author_image: /files/author_image/image-blog-rongorr.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Expansion & Reform, 1801-1861
+tags:
+- Wikis
+- primary sources
+- ron gorr
 ---
-
-
 
 ## Finding Room for 21st-century Teaching
 
 As an A.P. U.S. history teacher, I often struggle to balance my desire/need to teach content with the seemingly endless changes to national and state standards, administrative expectations, current trends in education, and 21st-century learning, but by gosh. . . . I think I found an activity that will work.
+
 Motivated by my gig as Teacher Representative for Teachinghistory.org, I tried to design a lesson that might accomplish multiple goals in one fell swoop, while also fitting into my current curriculum. In this case, I focused my energy on the Jacksonian Period, which is a unit that we traditionally fly though very quickly. My hope was that I could keep the pace of the course moving, but still allow the students an opportunity to experience a more contextual connection with the subject.
+
 In 2010, I presented this activity with Jennifer Rosenfeld (Outreach Director for Teachinghistory.org) at the National Council for Social Studies Conference in Denver, CO. My specific objectives for this assignment were:
 
 1. Require students to use Teachinghistory.org to locate primary sources applicable to a specific period of history
@@ -48,14 +54,19 @@ I think it is important to note that my objectives DID NOT include a stringent P
 ## Step One: Introduction to the Technology
 
 The foundations for this project actually started earlier in the year with simple searches of the Teachinghistory.org site and one practice Wiki discussion surrounding electoral politics. But, for those of you who have never done a Wiki, blog, or other type of online discussion board, don't freak out. They are very user-friendly and odds are, the kids have already taken part in one. I prefer [PBWorks](http://pbworks.com/education?utm_campaign=nav-tracking&utm_source=Home%2520navigation), but there are many to choose from. See if your school or colleagues have a favorite.
+
 I also spent some time going over online discussion norms. See the [main page](http://teachinghistory.org/system/files/GORRWEBWIKI_licensed_for_non-commercial_use_only__Chapter_13_Primary_Documents.pdf) of my Wiki!
 
 ## Step Two: Assignment
 
 In class, I assigned one of four topics to each student: Corrupt Bargain 1824, the Nullification Crisis 1832–33, The Alamo 1836, and the Trail of Tears 1838–39. These topics were specific enough to focus, but generic enough to provide ample research.
+
 Student were told to use the Teachinghistory.org website's [History Content Gateway](http://teachinghistory.org/history-content/gateway-to-history-websites?cx=015291029838648875433%3Ab9pr4apkg5w&cof=FORID%3A11&ie=UTF-8&as_q=&query=) to find, read, and analyze ONE primary document pertaining to their assigned topic.
+
 They were then asked to share their findings with their classmates via the Wiki by answering four basic questions about their source. If they completed this part of the assignment thoroughly and with attention to detail, they received 75% of the total points possible.
+
 The final 25% was earned by engaging in a discussion (certainly defined differently by each student) with at least one other student in the class who had the same assigned topic.
+
 To see the actual assignment, the Wiki, and the student responses, click the link below.
 > <http://gorrwebwiki.pbworks.com/w/page/31880259/GORRWEB-WIKI>
 
@@ -64,6 +75,7 @@ To see the actual assignment, the Wiki, and the student responses, click the lin
 ## Step Three: Discussion
 
 While the online discussion is interesting and some student really got into it, there were quite a few who met the minimum requirement and moved on.
+
 Since the existing curricular structure of this unit asked students to take an online quiz the night before we discussed the material in class, time for discussing the primary source activity was already built into my schedule. (We did have to add an extra half day to complete it!)
 > By the end of the day, we had not only talked about the four content-specific areas assigned to each student, but we had covered the entire scope of the chapter.
 
@@ -72,6 +84,7 @@ When the students came to class after completing the Wiki assignment, I simply a
 ## Step Four: Assessment
 
 Assessing the students was quite simple. I read their original posts and then I looked for their online discussion. I based their grades on my perceived effort and degree of detail they put into their posts. I did not formally assess their discussions, but I suppose I could in the future.
+
 As far as my own assessment of the entire project, here are some of my observations and thoughts:
 
 * Throughout this entire process, I found that most of my students enjoyed the online aspect of the assignment.
@@ -79,4 +92,5 @@ As far as my own assessment of the entire project, here are some of my observati
 * I really enjoyed the online discussions between the kids who really got into it. They were insightful and interesting to read.
 * I use the online discussion portion as an opportunity to emphasize the difference between your academic online persona vs. your social persona. We discussed the importance of having an appropriate email address for jobs, colleges, teachers, etc. I discouraged texting shorthand and slang in academic discussions. I even went over proper techniques for complimenting, critiquing, and assessing other classmate's posts. I thought it was a fantastic side effect of this project.
 Overall, I thought this assignment accomplished every one of the goals I set. I intend to repeat a similar assignment in the second semester. In addition, it is my hope that by building research competence in my students, I will be able to create a DBQ creation exercise for the latter part of the school year. (See one of my upcoming blogs for more information on that!)
+
 I hope this information was helpful and please feel free to contact me (rmgorr at comcast dot net) with any questions, comments, or concerns. I'd love to hear how you use primary documents in your classes.

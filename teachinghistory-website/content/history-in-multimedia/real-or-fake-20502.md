@@ -11,6 +11,20 @@ keywords: paper, documents, primary sources, objects, artifacts, signatures, for
 website_url: http://www.pbs.org/opb/historydetectives/video/1479729897/
 date_published: '2008-12-17T00:00:00'
 series_name: 'History Detectives: Video Library'
+time_periods:
+- All
+- General
+topics:
+- Science & Tech.
+tags:
+- artifacts
+- documents
+- forgeries
+- forgery
+- objects
+- paper
+- primary sources
+- signatures
 ---
 
 Wes Cowan of PBS's *History Detectives* provides a brief overview of points to consider when trying to determine the authenticity of a perhaps-historical document.

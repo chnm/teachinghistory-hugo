@@ -12,7 +12,14 @@ thumbnail_fid: '2876'
 summary: Should you leave your hat on when you talk on the telephone?
 splash_image: /files/splash-phonedog_0_0.jpg
 thumbnail: /files/website_image/VAInveImage.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Science & Tech.
+tags:
+- Alexander Graham Bell
+- Bell Company
+- telephones
 ---
-
 
 The invention of the telephone modified social communication and called for new forms of etiquette. During the years 1916-1919, the Bell Company created newspaper ads to teach their customers how to adapt to the nature of the telephone conversation and how it was different from face-to-face dialogue. Decide if the following points of etiquette appeared in national ads run by the Bell Company.

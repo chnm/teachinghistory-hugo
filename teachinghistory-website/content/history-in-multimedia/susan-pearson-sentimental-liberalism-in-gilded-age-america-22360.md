@@ -8,6 +8,13 @@ drupal_nid: 22360
 duration: 00:07:34
 website_url: http://hnn.us/roundup/entries/71821.html
 date_published: '2009-03-26T00:00:00'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Children
+- Family Life
+- Ideas & Ideologies
 ---
 
 Susan Pearson of Northwestern University, speaking at the Organization of American Historians 2009 meeting, discusses late 19th-century reimagining of the role of the family and the best interests of children, leading to reform in child protection. She holds that this change sprang from change in liberal ideology during this time period.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21488
 grade_levels:
-  - high
+- high
 ---
 
 * ### UT.1. Standard: U.S. History II

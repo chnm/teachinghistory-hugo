@@ -14,11 +14,16 @@ summary: Spring will be here before you know it! Plan ahead to take advantage of
 splash_image: /files/7641023814_65fc1fdb0c_b.jpg
 image: /files/3682588570_952bdebefb_o.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- conferences
+- institutes
+- pd
+- seminars
+- workshops
 ---
-
 
 Ready for spring? How about summer? It's never too early to start planning ahead for professional development. Historical societies, museums, libraries, and other institutions across the nation offer workshops, seminars, conferences, and more for U.S. history educators. Visit the websites of your local and state institutions to see what they're planning, and check out these offerings from national institutions:
 
@@ -26,6 +31,7 @@ Ready for spring? How about summer? It's never too early to start planning ahead
   Offer a week-long [institute](http://www.americanbar.org/groups/public_education/initiatives_awards/summer_institute_for_teachers.html) on federal trials and great debates in U.S. history. Applications are due by Mar. 1, 2013.
 * **Bill of Rights Institute:**
   Offers a week-long [Founders Fellowship](http://billofrightsinstitute.org/ff-2013/) for high school teachers, Jul. 22-26. Fellows explore the intersection of civil and economic liberty in lectures, discussions, and site visits in Washington, DC. Fellows receive a $400 travel stipend, as well as $100 upon completion of post-program activities. Applications are due by Mar. 26, 2013.* **Civil War Trust:**
+
     Offers two-day regional institutes and one four-day [national institute](http://www.civilwar.org/aboutus/events/teacher-institute/2013/national-institute/civil-war-professional.html). Institutes require a refundable registration deposit. Registration begins February 2013 for the national institute.
   * **C-SPAN Classroom:**
     Offers a four-week [fellowship](http://www.c-spanclassroom.org/Teacher-Opportunities.aspx) for middle and high school teachers. Participants will develop teaching materials using C-SPAN's resources. Fellows receive a $7,000 award. Registration ends Feb. 8, 2013.

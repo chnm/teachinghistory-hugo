@@ -14,9 +14,29 @@ summary: Learn about the Hard Hat Riots of New York with this innovative website
 splash_image: /files/splash-wr-hardhat.jpg
 thumbnail: /files/SupremeCourt432x240.jpg
 image: /files/website_image/HardHatRiots_Image.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Cities & Suburbs
+- Ideas & Ideologies
+- International Relations
+- Labor
+- Politics
+- Popular Culture, Leisure
+- Radicalism
+evidence_types:
+- Newspapers and Periodicals
+- Photographs
+resource_types:
+- Images
+- Text
+tags:
+- New York
 ---
 
-
 A well-designed and innovative approach to teaching history, this site, designed by three PhD candidates at New York University, presents multifaceted perspectives on the May 8, 1970, attacks in New York City on Vietnam War protesters by hundreds of construction workers.
+
 Users can enter the site by selecting any of 12 photographs, nine newspaper headlines, three places in the city where rioting occurred, or 10 summaries of views on the events and their meaning by historians and journalists. Selected items link to additional resources, including a police report and interviews with a student and a construction worker. The creators challenge users to fit the riots into wider contexts and to assess variant attempts at historical understanding.
+
 Offers about a dozen suggested activities for high school and college teachers. Though limited in scope and quantity of material, this site is of great value to those studying social class in the Vietnam War era, labor history, and media influence in American life.

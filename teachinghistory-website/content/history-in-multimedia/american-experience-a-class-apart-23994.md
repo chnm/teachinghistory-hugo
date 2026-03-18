@@ -9,7 +9,18 @@ duration: 01:00:00
 website_url: http://www.pbs.org/wgbh/americanexperience/films/class/
 date_published: '2009-01-01T00:00:00'
 series_name: American Experience
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Latinos
+- Legal History
+- Reform
+tags:
+- Hernandez v. Texas
+- Mexican Americans
+- U.S. Supreme Court
 ---
 
 From PBS:
+
 Built around the landmark 1954 legal case *Hernandez v. Texas*, the film interweaves the stories of its central characters with a broader story of the civil rights movement. It also brings to life the heroic post-World War II struggle of Mexican Americans fighting to dismantle the discrimination targeted against them.

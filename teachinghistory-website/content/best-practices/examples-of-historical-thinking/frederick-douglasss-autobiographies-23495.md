@@ -14,11 +14,22 @@ summary: Use autobiographies to deconstruct views of slavery and historical hero
 splash_image: /files/FrederickDouglass.jpg
 author_image: /files/author_image/Jerome_author.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Literature
+- Religion
+- Slavery
+tags:
+- Frederick Douglass
+- abolition
+- abolitionists
+- autobiographies
 ---
-
-
 
 /files/media/video/Jerome1.mp4
 

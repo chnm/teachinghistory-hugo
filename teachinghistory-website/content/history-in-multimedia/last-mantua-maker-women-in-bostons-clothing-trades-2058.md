@@ -10,7 +10,29 @@ keywords: Boston, mantuas, mantuamakers, dressmakers, costume, dress, dresses, c
 website_url: http://dev.forum-network.org/lecture/last-mantua-maker-women-bostons-clothing-trades
 date_published: '2005-03-24T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Business
+- Consumer Culture
+- Daily Life
+- Gender
+- New England
+- Popular Culture, Leisure
+- Women
+tags:
+- Boston
+- clothing
+- costume
+- dress
+- dresses
+- dressmakers
+- mantuamakers
+- mantuas
 ---
 
 Professor Marla Miller discusses the falling out of use of the term "mantuamaker" by female dressmakers in Boston and the transition to the term "dressmaker." Miller focuses on the history of dressmaking and of women as dressmakers, beginning in the colonial era and continuing to the 1800s. Her presentation includes slides.
+
 Audio and video options are available.

@@ -20,10 +20,12 @@ splash_image: /files/sourcessplash.jpg
 image: /files/sourcesimage.jpg
 author_image: /files/author_image/fillpot_1_0_0_0.jpg
 grade_levels:
-  - elementary
+- elementary
+tags:
+- historical thinking
+- resources
+- teaching methods
 ---
-
-
 
 It’s exciting that you are engaging your second graders in historical source analysis! I encourage you not to worry too much about making distinctions between types of sources at this age, as teaching critical reading of all texts is the most important goal. The primary versus secondary issue might be distracting. For lessons and resources to engage your second graders in historical analysis, you may wish to start on the [Bringing History Home](http://www.bringinghistoryhome.org/) (BHH) website. BHH lesson plans engage children in history as interpretive and evidence-based. The lessons center on five skills for doing history:
 > 1. Reading accounts for historical context (BHH uses a great deal of historical fiction).
@@ -50,6 +52,7 @@ Teachinghistory.org is also a treasure trove for resources:
 * Learn effective methods to analyze and annotate primary and secondary sources by clicking [here](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/24472).
 
 Before you decide to use any online resource, I encourage you to scrutinize it carefully for perspective and integrity. Catherine Denial, Assistant Professor of History at Knox College in Galesburg, IL, wrote a brief guide for [analyzing websites](http://www.bringinghistoryhome.org/assets/bringinghistoryhome/general-resources/evaluating_websites_ten_short_reminders.pdf). For your purposes, sometimes you will find a site that does not meet criteria for integrity but it will include links to sites that do. It’s fine to take advantage of this scenario.
+
 Using common sense and careful analysis as you prowl the web, you will find excellent resources to engage your second graders in history.
 
 ---
@@ -79,4 +82,5 @@ Teachinghistory.org is also a treasure trove for resources:
 * Learn effective methods to analyze and annotate primary and secondary sources by clicking [here](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/24472).
 
 Before you decide to use any online resource, I encourage you to scrutinize it carefully for perspective and integrity. Catherine Denial, Assistant Professor of History at Knox College in Galesburg, IL, wrote a brief guide for [analyzing websites](http://www.bringinghistoryhome.org/assets/bringinghistoryhome/general-resources/evaluating_websites_ten_short_reminders.pdf). For your purposes, sometimes you will find a site that does not meet criteria for integrity but it will include links to sites that do. It’s fine to take advantage of this scenario.
+
 Using common sense and careful analysis as you prowl the web, you will find excellent resources to engage your second graders in history.

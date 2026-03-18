@@ -10,7 +10,19 @@ keywords: Presidents, politicians
 website_url: http://dev.forum-network.org/lecture/presidency-lbj
 date_published: '2005-11-20T00:00:00'
 series_name: 'American Experience: The Presidents'
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+tags:
+- politicians
+- presidents
 ---
 
 Lyndon B. Johnson biographer Robert Caro introduces a panel discussion on the presidency and legacy of LBJ, with the panel including writers; historians; and former adviser to President Johnson, Jack Valenti.
+
 Audio, video, and text options are available. The video can be viewed with or without captions.

@@ -13,19 +13,32 @@ summary: Historians dispute the date of the first Thanksgiving. Is there a defin
   time and place?
 splash_image: /files/splash-him-vd23.jpg
 image: /files/plimothplant.jpg
+tags:
+- blogs and networks
+- history and headlines
+- holidays and heritage
+- issues and research
+- primary sources
+- teaching materials
+- websites
 ---
 
-
 Is there a real first Thanksgiving?
+
 According to resources from the [Library of Congress](http://www.loc.gov/index.html), the Plymouth colonists were latecomers to the scene. The Library's [Wise Guide](http://www.loc.gov/wiseguide/nov02/thanks-early.html) explains that Spanish explorer Francisco Vasquez de Coronado and 1,500 men gave thanks in 1541 in the present-day Texas Panhandle. French Huguenot colonists celebrated in Florida in 1564, and Jamestown settlers gave thanks in 1610—in fact, many actually consider [*this*](http://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/thanksgiving/timeline/1610.html) the first Thanksgiving. Visit the [American Memory Learning Page](http://www.loc.gov/teachers/classroommaterials/presentationsandactivities/) and search for *Thanksgiving* to gather resources, timelines, and primary source sets on [Thanksgiving in American Memory](http://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/thanksgiving/).
+
 Historians at [Plimoth Plantation](http://www.plimoth.org) are adamant that the harvest celebration held in 1621, [often called the First Thanksgiving](http://www.plimoth.org/learn/MRL/read/thanksgiving-history), wasn't. Instead, they place the first observance in Massachusetts in mid-July, 1623, after a Day of Humiliation and Fasting, during which these early colonists sought prayerful relief from a series of misfortunes threatening the settlement. (Visit Plimoth Plantation's interactive exercise emphasizing historical thinking: [You are the Historian: Investigating the First Thanksgiving](http://www.plimoth.org/learn)—especially excellent for elementary and middle school.)
+
 The [National Park Service](http://www.nps.gov/index.htm) helps us move us quickly to the indisputable date of 1863 as the establishment of the holiday as an annual event—the date when President Lincoln issued his [Thanksgiving Day Proclamation](http://www.nps.gov/history/history/online_books/source/sb2/sb2w.htm). Technically, his proclamation only affected the District of Columbia and federal employees, but governors throughout the Union followed suit. (Note, however, that the Park Service advocates 1621 as the first Thanksgiving!) Check the [White House website](http://www.whitehouse.gov) during the week of November 22, 2009, to read this year's Presidential Proclamation.
 > If an actual Pilgrim came to Thanksgiving dinner today, chances are, he'd be stunned!
 
 [Backstory with the American History Guys](http://backstoryradio.org/) takes a lively look at solid historical evidence about the history of Thanksgiving. The three historians who host this radio program talk among themselves and with guests about how holiday traditions and celebrations have changed since those first days of thanksgiving. [*As American as Pumpkin Pie: A History of Thanksgiving*](http://www.backstoryradio.org/2009/11/american-as-pumpkin-pie-a-history-of-thanksgiving/) points out that "when we sit down to Thanksgiving dinner, we think we know what we’re commemorating. But if an actual Pilgrim were to attend your Thanksgiving, chances are he’d be stunned, and a little disgusted, by what he saw."
+
 Listen to historian James McWilliams discussing why the Puritans would have turned up their noses at our traditional Thanksgiving foods, religion scholar Anne Blue Wills explaining the 19th-century origins of our modern holiday, and legendary NFL quarterback Roger Staubach describing what it was like to spend every Thanksgiving on the football field—about a century after the first Thanksgiving Day championship playoff in 1876. Read [how the the industrial revolution and large-scale migration and immigration](http://findarticles.com/p/articles/mi_m2005/is_4_32/ai_55083998/pg_2/?tag=content;col1) in the 19th-century turned Thanksgiving into a holiday of family homecoming.
+
 Wills's discussion is accompanied by an [audio slideshow of primary sources](http://www.virginia.edu/vfh/photoalbums/backstory/tgiving09/), and you'll find links to a wealth of other primary and secondary materials: the timeline of [thanksgiving celebrations from the Library of Congress](http://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/thanksgiving/timeline/1541.html), an [article on the agricultural challenges of Europeans in the New World](http://www.nytimes.com/2005/11/24/opinion/24mcwilliams.html?_r=2&pagewanted=print), a [translation of an Iroquois prayer of Thanksgiving](http://www.poets.org/viewmedia.php/prmMID/19276), and more.
 > Check resources on the Clearinghouse site.
 
 On the Clearinghouse site, test yourself with the weekly quiz, [Thanksgiving Dinner in 1943](http://teachinghistory.org/history-content/quiz/23436), and visit the [Ask-a-Historian archive](http://teachinghistory.org/history-content/ask-a-historian) , to find the [answer to the question](http://teachinghistory.org/history-content/ask-a-historian/19263), *"At the first Thanksgiving did the Pilgrims/Native Americans eat roasted kernels of corn or popped corn, or was there no corn served in that matter at all?"* (Note that our Clearinghouse historian doesn't pinpoint a date!)
+
 And Happy Thanksgiving!

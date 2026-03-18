@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 10289
 website_url: http://www.sdautomuseum.org
+time_periods:
+- General
+topics:
+- Science & Tech.
+- Western States
+tags:
+- California
+- historic automobile
 ---
 
 The San Diego Automotive Museum presents the history of the automobile. The collection includes rare vehicles.
+
 The museum offers exhibits and a children's area.

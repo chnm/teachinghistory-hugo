@@ -15,7 +15,19 @@ summary: You've read his words, but do you know who he was? Explore the man behi
 splash_image: /files/hemingway.jpg
 thumbnail: /files/AmericanSlave432x240.jpg
 image: /files/website_image/PictHemiImage.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Art
+- Literature
+evidence_types:
+- Paintings and Prints
+- Photographs
+resource_types:
+- Images
+- Text
 ---
-
 
 A celebratory exhibit of approximately 35 images and accompanying short texts—each only approximately 100 words in length—on the life of Nobel prize-winning author Ernest Hemingway (1899-1961). The exhibit begins with the writer's family and educational background in Oak Park, IL, then offers sections on his Paris, middle, and later years. Images include photographs and artists' renditions of Hemingway and a few literary contemporaries, and images of covers of some of his novels. Though commentary is slight in content and in insight into the man and his art, the images and accompanying quotations are well-chosen.

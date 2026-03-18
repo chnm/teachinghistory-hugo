@@ -14,8 +14,26 @@ summary: Can you imagine starting your life over in the U.S. following the Holoc
 splash_image: /files/LifeAfter432x240.jpg
 thumbnail: /files/splash-inauguralbible.jpg
 image: /files/website_image/AfterHoloImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Daily Life
+- Family Life
+- Ideas & Ideologies
+- Immigration
+- Military History
+- Religion
+evidence_types:
+- Oral History
+- Photographs
+resource_types:
+- Audio
+- Images
+- Text
 ---
 
-
 This website presents the stories of six Holocaust survivors—three men, three women; five born in Poland and one in Czechoslovakia—who immigrated to the United States after World War II. Visitors can either listen to the six 30-minute interviews in their entirety, or listen to interview clips surrounding six themes: "starting over," "arriving in New York," "living with the past," "speaking out," "faith, guilt, and responsibility," and "telling their children." Many of the survivors begin by talking about their experiences before the war, and proceed to explain the complexities of starting over in the United States after the war.
+
 Each interview is interspersed with narration and accompanied by photographs and other personal memorabilia, helping visitors better contextualize the narrators' stories. Audio files and interview transcripts are downloadable, making this website's resources useful in classroom settings, as well as to a broader public interested in understanding the aftermath of the Holocaust through deeply personal accounts.

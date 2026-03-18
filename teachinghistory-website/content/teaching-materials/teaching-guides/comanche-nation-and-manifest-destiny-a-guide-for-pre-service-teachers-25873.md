@@ -19,10 +19,14 @@ splash_image: /files/service-pnp-cph-3b40000-3b44000-3b44200-3b44254v.jpeg
 image: /files/iiif-service_gmd_gmd432_g4322_g4322s_ct006428-full-pct_12.5-0-default.jpg
 author_image: /files/author_image/NATE_SLEETER (1)_0_1.JPG
 grade_levels:
-  - high
+- high
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+tags:
+- Native American
 ---
-
-
 
 **What is it?**
 
@@ -70,7 +74,9 @@ So whether there was a Comanche Empire is a topic of debate among historians, bu
 The Comanches mastered a divide and conquer style of politics and consistently played their rivals against each other. After warring on and off with the Spanish colony of New Mexico in the 1770s and 1780s, for example, the western Comanche leader, Ecueracapa, signed a peace treaty with the military governor of New Mexico, Juan Batista de Anza in 1786. As part of the treaty, the Comanche joined forces with Spain to attack their mutual rivals the Apaches in New Mexico. The results of one such battle are depicted in the source below.
 
 Primary Source #1  
+
 [Comanche pictograph map of the Battle of Sierra Blanca, 1787]. | Library of Congress  
+
 https://www.loc.gov/item/2014590059/
 
 It is important for historians of Indigenous people to use sources created by the Indigenous people themselves whenever possible. This map is one such source. The map was drawn after the battle by a Comanche participant and then it was sent to Governor Anza as the official record of the altercation. The key below the map, the letters A-G with Spanish text, was added by Spanish officials to interpret the map. Together they relate how many Comanche warriors were involved in the battle, how many on each side were killed, and how many people and horses were captured. Anza certified the document himself — signing and dating the document July 30, 1787 on the bottom.
@@ -90,14 +96,19 @@ When using this map to students teachers can ask them to consider what this sour
 By the 1840s, Comanchería, as the territory the Comanches controlled was called, stretched from Sante Fe in the West to San Antonio in the East. In the North, it stretched to approximately the Arkansas river in the North and in the South to the Pecos river. While powerful, the Comanche also remained “hidden” in a sense. The Comanches allowed and even sometimes encouraged settlements in their territory, but then also gained economically from those territories through raids and trade. Thus maps of the period tended to downplay the range of territory that the Comanche controlled.
 
 Primary Source #2:  
+
 A new map of Texas, Oregon and California. 1846 https://www.loc.gov/item/00561203/.
 
 For students to gain a better understanding of the geography of the Comanche influence in the Southwest, have them analyze this map. So that the students can zoom in on parts of the map this activity would work best on a computer - either as a whole class with the map projected on a screen or individually or in pairs with personal laptops or tablets.
 
 First, draw their attention to the area shaded green and labeled “Texas” in the bottom part of the map. Zoom in or have students zoom in and examine this area closely. The Comanche controlled region at the time the map was made extended roughly to the following:  
+
 Eastern border - Warrenton on the Red River  
+
 Western border - Santa Fe in the West  
+
 Northern border - Arkansas River  
+
 Southern Border - Pecos River
 
 > Key questions:
@@ -107,6 +118,7 @@ Southern Border - Pecos River
 > * Students could additionally find the same area on a map in the textbook from this chapter - Are the Comanches are mentioned at all?
 
 *Source Activity 3: Trade Network and Economic Power*  
+
 The Comanche’s power in the Southwest was fueled by a vast trade network that connected various American markets. This trade network featured a supply chain that provided horses and mules to the growing Euro-American settlements in Missouri, Arkansans, Illinois, Kentucky, and Tennessee. In addition to livestock, the Comanche traded bison hides from animals they hunted on the prairie which were highly sought after by buyers in cities on the east coast of the United States. In addition to these exports, the Comanche imported goods from all over the continent. Staples like maize from New Mexico, molasses from New Orleans, and coffee and wheat flour from the United States. Blankets were imported from Navajo country and metal goods such as kettles, pans, and knives came from eastern U.S. cities. Vast supplies of weapons too entered Comancheria in the form of lead, powder, and muskets which further bolstered the Comanches ability to conduct raids into Mexico and Texas.
 
 A key part of this trading network and a key part of the Comanches success overall was the ability to acquire and trade horses. To give students a sense of how horses fit into the culture of the Comanche and other Southern Plains groups have them examine this collection of sources from the Smithsonian’s National Museum of the American Indian https://americanindian.si.edu/exhibitions/horsenation/trading.html
@@ -123,9 +135,11 @@ A key part of this trading network and a key part of the Comanches success overa
 In discussing this vast Comanche trading network with students, teachers could return to the 1846 map (Primary Source #2) or any other map from their textbook and see if they can locate  Bent’s Fort. On the 1846 map it is obscured by shading but it can be found on the Arkansas River on the northern edge of Comanchería. Bent’s Fort was a U.S. military fort but it also served as a trade hub for the trade goods listed above coming into and flowing out of Comanchería. Students could then find locations like New Orleans, New Mexico, Navajo country to appreciate the reach and extent of this trade.
 
 Along with examining the map and considering the trade that centered at Bent’s Fort, Students could also examine a drawing of the fort itself:  
+
 Drawing of Bent’s Fort, 1859 https://www.loc.gov/item/2004661632/
 
 *Land Theft and Extermination of the American Bison*  
+
 The United States did eventually expand into Comanchería, but this expansion could not be called Manifest Destiny. Instead it was a drawn out process that met with fierce resistance from the Comanche and relied on the purposeful extermination of almost an entire species of animal. After the end of the Civil War in 1865, the U.S. government turned its attention to settling the west and devoted increased military resources to accomplish this goal. To open up the land for settlers, the U.S. planned to designate tracts of land as reservations for Native Americans to live on. Another goal of this policy was to assimilate Native Americans into white-U.S. culture and to end the practices associated with hunting and religious practices.
 
 One group of reservations would be for Indians of the northern plains, the Lakota, Northern Cheyenne, Northern Arapahoes and Crows, and would be located in the Black Hills of the Dakota Territory. Another group of reservations would be for the Indians of the Southwest and southern plains, including the Comanches, Kiowas, Naishans, Southern Cheyenne, and Southern Arapahoes, and would be located in what is today western Oklahoma.
@@ -133,11 +147,17 @@ One group of reservations would be for Indians of the northern plains, the Lakot
 In 1867, the Medicine Lodge Treaty officially created the southern reservations. The Comanches and several allied groups agreed to the terms but had their own interpretation of what those terms meant. The treaty also granted bison hunting rights to the Comanche in the region south of the Arkansas River. These hunting grounds extended beyond the reservation tract and to the Comanches thinking that meant that this land had not been ceded. Comanche made use of the reservation but only seasonally — raiding and hunting in the spring, summer, and fall and then returning to the reservation in the winter. Thus while the U.S. government sought to end the way of life of the Comanche and other southern plains Native people, the Comanches instead incorporated the reservation into their seasonal migration. With bison to hunt the Comanche did not need the support of the U.S. government that the reservation represented.
 
 Unable to control the Comanches using military force, the U.S. government’s response was to eliminate their means of support: the bison. Beginning in 1868, under the direction of Gen. William Tecumseh Sherman and his subordinate Gen. Philip Sheridan, the U.S. Army actively engaged in the mass killing of bison and encouraged private hunters by organizing hunting excursions and even supplying firearms when requested  
+
 .    
+
 Primary Source #4  
+
 Sherman to Sheridan, 10 May 1868, The Papers of Philip H . Sheridan, microfilm reel no. 17, Manuscript Division, Library of Congress, Washington, DC (hereafter Sheridan Papers)  
+
 https://www.loc.gov/resource/mss39768.017\_0007\_0246/?sp=4  
+
 https://www.loc.gov/resource/mss39768.017\_0007\_0246/?sp=5  
+
 https://www.loc.gov/resource/mss39768.017\_0007\_0246/?sp=6
 
 ![Handwritten letter excerpted above](/files/inline-images/Sherman1.png)
@@ -155,6 +175,7 @@ Born in 1845 to a Comanche leader (Peta Nocona) and an Anglo American mother (Cy
 Primary Source #5
 
 [Quanah Parker, Comanche Indian Chief, full-length portrait, standing, facing front, holding feathers, in front of tepee] | Library of Congress  
+
 https://www.loc.gov/item/89714963/
 
 > Questions to ask about this source:
@@ -165,6 +186,7 @@ https://www.loc.gov/item/89714963/
 **Comanche Nation Today**
 
 Despite the efforts of the U.S. government to undermine the Comanches, the Comanche Nation still exists today with approximately 17,000 enrolled tribal members. The Comanche Nation Constitution ratified in 1966, declares that the mission of the Comanche Nation is to:  
+
 “1. To define, establish and safe guard the rights, powers and privileges of the tribe and its members.  
  2. To improve the economic, moral, educational and health status of its members and to cooperate with and seek the assistance of the United States in carrying out mutual programs to accomplish these purposes by all possible means.    
 3. To promote in other ways the common well-being of the tribe and its membership.
@@ -182,7 +204,9 @@ An important source for understanding the history of Indigenous people are the c
 *Other lessons*
 
 “How Did Six Different Native Nations Try to Avoid Removal?” National Museum of the American Indian  
+
 An excellent lesson plan about the strategies that six American Indian nations tried to avoid removal from the Smithsonian’s National Museum of the American Indian. Afterwards students select a case study and closely examine the sources that tell a story of removal.  
+
 https://americanindian.si.edu/nk360/removal#titlePage
 
 The Stanford History Education Group (SHEG) has put together a great activity with primary sources that demonstrates the multiple motivations behind expansion as well as sources from those at the time who opposed this expansion. https://sheg.stanford.edu/history-lessons/manifest-destiny
@@ -192,6 +216,7 @@ The Stanford History Education Group (SHEG) has put together a great activity wi
 In addition to incorporating an activity on the Comanches, there are a number of other ways teachers can help students understand the complexity behind Manifest Destiny and territorial expansion.  Students can, for example, consider the writings of John L. O’Sullivan, the columnist who coined the term Manifest Destiny, in their historical context. O’Sullivan was an enthusiastic advocate of westward expansion, and used Manifest Destiny in a column advocating for the United States to annex the then independent republic of Texas in 1845. The very fact that O’Sullivan was trying to make the case for annexation implies strongly that not everyone agreed with his position. Clearly not everyone in the United States at the time felt that the United States had a moral obligation to expand. O’Sullivan himself gives more than one rationale for expanding, noting that a U.S. that spread across the continent would engender the “immense utility to the commerce of the world” which hints that there were also economic reasons to support expansion.
 
 Teachers might introduce a unit on Manifest Destiny by playing this brief audio clip (~5 minutes), a group of historians explain what Manifest Destiny means and how they approach the topic with students. https://www.r2studios.org/show/consolation-prize/season-2-trailer-what-is-manifest-destiny/    
+
 The terminology might be difficult for some students, but even if not used in the classroom the clip is helpful for teachers looking for a brief but scholarly perspective on Manifest Destiny.
 
 Teachers could also have students search Manifest Destiny on Google Books Ngram Viewer <https://books.google.com/ngrams/>. This search engine charts the frequencies of any word or phrase using a yearly count found in printed sources that have been digitized by Google. The graph shows that the term was used increasingly in the 1840s through the 1850s. Teachers could ask students why they think that was the case. It seems to suggest that rather than describing that the Manifest Destiny served as a justification after the expansion occurred.  https://books.google.com/ngrams/graph?content=manifest+destiny&year\_start=1800&year\_end=2019&corpus=en-2019&smoothing=3

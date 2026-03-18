@@ -22,10 +22,17 @@ splash_image: /files/stopsplash_0.jpg
 image: /files/stopimage_0.jpg
 author_image: /files/author_image/fillpot_1_0_0.jpg
 grade_levels:
-  - elementary
+- elementary
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Media
+tags:
+- historical thinking
+- literacy
+- teaching methods
 ---
-
-
 
 Before you place photos in an album and make comparisons, use your pictures to introduce an activity called ***Stop and Source***. *Sourcing* refers to taking inventory of the creator, date, place, and type of a piece of evidence in order to “read” it more accurately. Sourcing is an essential skill for critical analysis and information literacy. As soon as children have books read aloud to them or look at pictures, they can be introduced to the concept that all texts, written or visual, have a creator and a time when they were made.
 
@@ -52,4 +59,5 @@ Wineburg, S. and D. Martin. "Seeing Thinking on the Web." *The History Teacher* 
 ---
 
 The Bringing History Home project's Source, Observe, Contextualize, Corroborate [Visual Image Analysis Guide](http://www.bringinghistoryhome.org/assets/bringinghistoryhome/socc%20visual%20image%20analysis%20worksheet.pdf) can help guide your students' sourcing.
+
 Or check out this [*Ask a Master Teacher*](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/24676) by Teachinghistory.org on using scrapbooking in the history classroom.

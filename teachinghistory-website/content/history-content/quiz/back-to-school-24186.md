@@ -13,7 +13,20 @@ summary: Binders, buses, and backpacks—consider the history of these back-to-s
   basics.
 splash_image: /files/quiz-splash-backtoschool.jpg
 thumbnail: /files/quiz_thumbnail/MaxHuntThumbnail.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Children
+- Daily Life
+- Health & Medicine
+- Science & Tech.
+tags:
+- foodways
+- school
+- vaccinations
 ---
-
 
 Many of the common things all around you at school have fascinating histories, from school busses to pencils, from health policies to the food you eat for lunch. Read the questions below and choose the correct answers.

@@ -11,7 +11,39 @@ keywords: slaves, Civil War, war, wars, race, racism, race relations, Ex-Slave M
   civil rights, Civil Rights Movement, Reconstruction
 website_url: http://dev.forum-network.org/lecture/callie-house-my-face-black-true
 date_published: '2005-09-14T00:00:00'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- African Americans
+- Ethnicity
+- Gender
+- Ideas & Ideologies
+- Legal History
+- Military History
+- Radicalism
+- Reform
+- Slavery
+- Women
+tags:
+- Civil Rights Movement
+- Civil War
+- Ex-Slave Mutual Relief Bounty and Pension Association
+- Jim Crow
+- Reconstruction
+- activism
+- activists
+- civil rights
+- race
+- race relations
+- racism
+- reformers
+- slaves
+- war
+- wars
 ---
 
 Professor Mary Frances Berry reviews the life of Callie House, an ex-slave and civil rights activist in the late 1800s and early 1900s who started the Ex-Slave Mutual Relief, Bounty and Pension Association, which sought African-American pensions based on those offered Union soldiers. Berry presents House as a forerunner of figures such as Malcolm X and Martin Luther King, Jr. Her presentation includes a question-and-answer session.
+
 Audio and video options are available.

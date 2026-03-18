@@ -14,8 +14,9 @@ splash_image_fid: '4178'
 summary: Factual accuracy isn't the main deterrent to citing Wikipedia.
 splash_image: /files/wiklakota.jpg
 image: /files/lesson_image/wikiscreenshot.jpg
+tags:
+- research
 ---
-
 
 Wikipedia founder Jimmy Wales is quite clear about the uses of Wikipedia. Asked, *"Do you think students and researchers should cite Wikipedia?* during an interview with [*Business Week*](https://www.bloomberg.com/news/articles/2005-12-19/the-wikipedia-debate-continues) in 2005, he replied, "No, I don't think people should cite it, and I don't think people should cite Britannica, either... People shouldn't be citing encyclopedias in the first place. Wikipedia and other encyclopedias should...give good, solid background information to inform your studies for a deeper level."
 

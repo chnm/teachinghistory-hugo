@@ -11,8 +11,18 @@ url: /history-content/ask-a-historian/22270
 splash_image_fid: '4856'
 summary: The pronunciation devil is in the historical details.
 splash_image: /files/va-colonels-new.jpg
+topics:
+- Military History
+tags:
+- Received British Pronunciation
+- colonel
+- dialects
+- linguistics
+- military
+- non-rhotic
+- pronunciation
+- rhotic
 ---
-
 
 *Colonel* came into English, according to *The Oxford English Dictionary*, in the mid-16th century from Middle French, and there were two forms of the word then, *coronel* (or *coronelle*, akin to Spanish *coronel*) and *colonel*, the latter form more clearly reflecting its Old Italian antecedent, *colonello* ("column of soldiers," from Latin, *columnella*, "small column"). The written style continued to reflect the older form, while the spoken form, competing against it, as it were, reflected the other—*coronel*—which was often pronounced to sound like "kernul" or "kernel." Given the Middle French form, the *r* sound in the pronunciation of some Americans is not strange.
 > British and American pronunciations differ, but dialects across the British Isles vary as well.
@@ -21,6 +31,7 @@ Most American English dialects are "rhotic," whereas "Received British Pronuncia
 > Not all Americans pronounce the r
 
 In addition, not all Americans pronounce the *r*. My aunt Virginia, I imagine, was surprised when, growing up as a little girl in Mississippi, she was taught to spell her name and discovered that there was an *r* in it. In my head, I can hear her pronounce the name of our distant kinsman, "Colonel John Singleton Mosby," and I hear no *r* in it at all.
+
 Now here's a question for you to research: When Brits pronounce the rank of Lieutenant Colonel, why do they sometimes pronounce the word "Lieutenant" as if it were spelled "Lef-tenant?"
 
 ---
@@ -32,4 +43,5 @@ Most American English dialects are "rhotic," whereas "Received British Pronuncia
 > Not all Americans pronounce the r
 
 In addition, not all Americans pronounce the *r*. My aunt Virginia, I imagine, was surprised when, growing up as a little girl in Mississippi, she was taught to spell her name and discovered that there was an *r* in it. In my head, I can hear her pronounce the name of our distant kinsman, "Colonel John Singleton Mosby," and I hear no *r* in it at all.
+
 Now here's a question for you to research: When Brits pronounce the rank of Lieutenant Colonel, why do they sometimes pronounce the word "Lieutenant" as if it were spelled "Lef-tenant?"

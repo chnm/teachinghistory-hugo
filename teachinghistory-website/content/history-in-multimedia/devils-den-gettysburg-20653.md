@@ -12,6 +12,26 @@ keywords: Union, Civil War, battles, soldiers, Gettysburg, Pennsylvania, Battle 
 website_url: http://www.civilwartraveler.com/audio/index.html#DevilsDen
 date_published: '2008-07-13T00:00:00'
 series_name: Civil War Tours
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Mid-Atlantic
+- Military History
+- Science & Tech.
+tags:
+- Battle of Gettysburg
+- Civil War
+- Devil's Den
+- Gettysburg
+- Little Round Top
+- Pennsylvania
+- Union
+- battlefields
+- battles
+- photographers
+- photographs
+- photography
+- soldiers
 ---
 
 The Union soldiers defending this pile of giant boulders just west of Little Round Top found themselves on the far left flank of the Federal line July 2, 1863. They were the first to take on Confederate Gen. James Longstreet's assault that day. This audio tour covers the fight for Devil's Den and the true story behind one of the Civil War's most famous photographs.

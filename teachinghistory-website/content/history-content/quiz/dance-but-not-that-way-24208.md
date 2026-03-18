@@ -13,7 +13,22 @@ summary: Do you know how to dance the Sleigh Bell Polka? Learn the proper way to
   19th and 20th century dances.
 splash_image: /files/Dance_0.jpg
 thumbnail: /files/website_image/VisuJourImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Consumer Culture
+- Daily Life
+- Popular Culture, Leisure
+- Women
+tags:
+- ballroom dance
+- dance
+- dancing
+- etiquette
+- instruction manuals
+- nineteenth century
 ---
-
 
 Dance and etiquette manuals in the 19th and early 20th centuries offered instruction on dance steps as well as advice on everything from grooming habits to acceptable dialogue during a dance. How would you have fared? Answer the questions below to see if you would trip or soar on the dance floor.

@@ -12,6 +12,33 @@ keywords: racism, race, race relations, colonists, colonies, Africa, colonizatio
 website_url: http://dev.forum-network.org/lecture/free-people-color-new-england
 date_published: '2004-04-22T00:00:00'
 series_name: Slavery and the Making of America
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Cities & Suburbs
+- Daily Life
+- Ethnicity
+- Global Contact
+- Immigration
+- International Relations
+- New England
+tags:
+- Africa
+- American Revolution
+- Connecticut
+- New Haven
+- Nova Scotia
+- Revolutionary War
+- Rhode Island
+- colonies
+- colonists
+- colonization
+- creoles
+- race
+- race relations
+- racism
 ---
 
 Two scholars present papers on the history of slavery, the slave trade, and African-American life in New England. The papers are "Creoles and Colonization: African Colonization Movements in Rhode Island and Nova Scotia in the Age of the American Revolution" and "William Lanson and the Vagaries of Early Free Black Life in New Haven, Connecticut, 1800-1831."

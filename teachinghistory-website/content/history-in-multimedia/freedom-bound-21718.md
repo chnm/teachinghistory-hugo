@@ -14,7 +14,31 @@ date_published: '2009-02-16T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
 summary: Not all slaves went north for freedom. The U.S., after all, has southern
   borders too.
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Legal History
+- Slavery
+- Southern States
+tags:
+- Fugitive Slave Law
+- Mexico
+- Underground Railroad
+- Virginia
+- Williamsburg
+- colonies
+- colonists
+- colonization
+- fugitive slaves
+- race
+- race relations
+- runaway slaves
+- slaves
 ---
 
 When slavery was introduced to the colonies in 1600, the reaction was a struggle to become free. Writer Christy Coleman discusses the efforts of slaves to secure freedom and the creation of an Electronic Field Trip on the subject for Colonial Williamsburg.
+
 Interested in learning more about Electronic Field Trips? Click [here](http://www.history.org/history/teaching/eft/)!

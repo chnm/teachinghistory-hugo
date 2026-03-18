@@ -18,11 +18,18 @@ summary: What do slave receipts reveal? Ever considered using similar documents 
 splash_image: /files/SlaveReceiptsSplash.jpg
 author_image: /files/author_image/thurston_1.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Economy
+- Legal History
+- Slavery
+tags:
+- slave receipts
 ---
-
-
 
 /files/media/video/Thurston1.mp4
 

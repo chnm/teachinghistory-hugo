@@ -15,10 +15,12 @@ summary: Direct your students through the historical research process with these
 splash_image: /files/UsingtheWeb432x240.jpg
 image: /files/lesson_image/UsingtheWeb150x113.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- presentation
+- research
 ---
-
 
 There are a variety of resources out there for helping students to get started on historical research. Some are quite detailed and younger students will need help identifying the most pertinent information to their research. Others give a brief overview of the research process, but also include links to resources to support that research. Below are a few sites we thought would be most helpful. But be forewarned, these sites are not necessarily designed for students to use without the guidance of a teacher, and you may need to modify their resources for your students (especially if they are middle schoolers).
 

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21217
 grade_levels:
-  - middle
+- middle
 ---
 
 ## Course: World History from Pre-Historic Era to the Age of Enlightenment

@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 6767
 website_url: http://www.arkansasstateparks.com/crowleysridge/default.aspx
+time_periods:
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+tags:
+- Arkansas
+- Civilian Conservation Corps
+- Great Depression
+- depression
+- parks
+- pioneers
+- settlers
 ---
 
 Located atop the forested hills in northeast Arkansas, Crowley's Ridge State Park occupies the former homestead of Benjamin Crowley, whose family first settled this area. Native log and stone structures, constructed by the Civilian Conservation Corps in the 1930s, set the mood for this park's rustic warmth.
+
 The site offers occasional recreational and educational events.

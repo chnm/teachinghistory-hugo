@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21422
 grade_levels:
-  - elementary
+- elementary
 ---
 
 - ### SC.2-1. Standard / Course—Foundations of Social Studies: Communities

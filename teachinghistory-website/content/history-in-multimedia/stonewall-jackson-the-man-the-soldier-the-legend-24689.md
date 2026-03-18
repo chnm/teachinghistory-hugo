@@ -9,7 +9,14 @@ duration: 00:30:00
 website_url: http://www.gilderlehrman.org/multimedia#3393
 date_published: '1999-04-12T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+tags:
+- Stonewall Jackson
 ---
 
 In this lecture from the Gilder Lehrman Institute of American History, distinguished historian James I. Robertson discusses his book *Stonewall Jackson: The Man, the Soldier, the Legend*.
+
 Free registration is required to access this lecture.

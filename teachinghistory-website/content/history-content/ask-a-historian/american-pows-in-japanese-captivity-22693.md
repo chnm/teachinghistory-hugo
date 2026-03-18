@@ -13,8 +13,18 @@ thumbnail_fid: '333'
 summary: Japanese treatment of American prisoners of war.
 thumbnail: /files/lesson_image/leagueofnations.jpg
 splash_image: /files/volunteer-of-the-red-cross-motor-corps-new.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+tags:
+- American POWS
+- Harry S. Truman
+- Japan
+- World War II
+- atomic bomb
+- prisoners of war
 ---
-
 
 I have found no indication of this figure in the works of several historians who have written about the fate of Allied POWs in Japanese captivity.
 
@@ -24,11 +34,13 @@ Gavan Daws, in *Prisoners of the Japanese: POWs of World War II in the Pacific*,
 > "... dispose of the prisoners as the situation dictates ..."
 
 Daws concludes, however, that with regard to carrying out the policy of killing POWs in various camps, “the picture was mixed.” In Palawan, in the Philippines, Japanese soldiers machine-gunned, clubbed, and bayonets 150 POWs trying to escape air raid shelters that the captors had doused with gasoline and lit. During the Battle of Manila in February and March 1945, guards at the camp at Bilibid left without harming the POWs.
+
 Historian David M. Kennedy has summarized figures regarding the brutal treatment of American POWs by the Japanese. “Ninety percent of American prisoners of war in the Pacific reported being beaten,” Kennedy states. “More than a third died. Those who survived spent thirty-eight months in captivity on average and lost sixty-one pounds.”
 
 ## POWs and the Atomic Bomb
 
 After noting that 20 American POWs died as a result of the atomic bomb dropped on Hiroshima, according to Japanese military commanders, and that between one and three American prisoners may have been killed by the Japanese after the bombing, Richard B. Frank states, “The average number of Allied prisoners of war or civilian internees who died each day of the effects of captivity at the hands of the Japanese easily doubled this toll.”
+
 In a radio broadcast on the night of August 9, 1945, hours after the U.S. dropped the second atomic bomb on Japan, President Harry S. Truman linked the use of the bomb to the treatment by the Japanese of American prisoners of war: “Having found the bomb we have used it. We have used it against those who attacked us without warning at Pearl Harbor, against those who have starved and beaten and executed American prisoners of war, against those who have abandoned all pretense of obeying international laws of warfare. We have used it in order to shorten the agony of war, in order to save the lives of thousands and thousands of young Americans.” In a letter two days later, Truman wrote, “nobody is more disturbed over the use of Atomic bombs than I am, but I was greatly disturbed by the unwarranted attack by the Japanese on Pearl Harbor and their murder of our prisoners of war.”
 
 ---
@@ -41,9 +53,11 @@ Gavan Daws, in *Prisoners of the Japanese: POWs of World War II in the Pacific*,
 > "... dispose of the prisoners as the situation dictates ..."
 
 Daws concludes, however, that with regard to carrying out the policy of killing POWs in various camps, “the picture was mixed.” In Palawan, in the Philippines, Japanese soldiers machine-gunned, clubbed, and bayonets 150 POWs trying to escape air raid shelters that the captors had doused with gasoline and lit. During the Battle of Manila in February and March 1945, guards at the camp at Bilibid left without harming the POWs.
+
 Historian David M. Kennedy has summarized figures regarding the brutal treatment of American POWs by the Japanese. “Ninety percent of American prisoners of war in the Pacific reported being beaten,” Kennedy states. “More than a third died. Those who survived spent thirty-eight months in captivity on average and lost sixty-one pounds.”
 
 ## POWs and the Atomic Bomb
 
 After noting that 20 American POWs died as a result of the atomic bomb dropped on Hiroshima, according to Japanese military commanders, and that between one and three American prisoners may have been killed by the Japanese after the bombing, Richard B. Frank states, “The average number of Allied prisoners of war or civilian internees who died each day of the effects of captivity at the hands of the Japanese easily doubled this toll.”
+
 In a radio broadcast on the night of August 9, 1945, hours after the U.S. dropped the second atomic bomb on Japan, President Harry S. Truman linked the use of the bomb to the treatment by the Japanese of American prisoners of war: “Having found the bomb we have used it. We have used it against those who attacked us without warning at Pearl Harbor, against those who have starved and beaten and executed American prisoners of war, against those who have abandoned all pretense of obeying international laws of warfare. We have used it in order to shorten the agony of war, in order to save the lives of thousands and thousands of young Americans.” In a letter two days later, Truman wrote, “nobody is more disturbed over the use of Atomic bombs than I am, but I was greatly disturbed by the unwarranted attack by the Japanese on Pearl Harbor and their murder of our prisoners of war.”

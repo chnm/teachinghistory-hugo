@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20934
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### CA.4.1. Content Standard: California

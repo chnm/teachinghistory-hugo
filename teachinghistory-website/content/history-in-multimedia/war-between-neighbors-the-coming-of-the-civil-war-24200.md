@@ -14,8 +14,16 @@ summary: Edward Ayers looks at conflict within two communities, on in Virginia a
   one in Pennsylvania, during the Civil War.
 splash_image: /files/splash-him-easectional.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Mid-Atlantic
+- Military History
+- Southern States
+tags:
+- Pennsylvania
+- Virginia
 ---
-
 
 Edward Ayers, President of the University of Richmond, discusses his prize-winning book, *In the Presence of Mine Enemies: War in the Heart of America, 1859-1863*. Based on an archive of documents that Professor Ayers collected from two counties, one in Virginia and one in Pennsylvania, he explores the way that sectionalism grew in these communities before and during the Civil War.

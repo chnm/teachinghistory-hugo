@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 11557
 website_url: http://showcase.netins.net/web/powshk/index.htm
+time_periods:
+- Expansion & Reform, 1801-1861
+- General
+topics:
+- Daily Life
+- Midwestern States
+tags:
+- Iowa
 ---
 
 The Poweshiek County Historical and Genealogical Society seeks to preserve and share the socio-cultural history of Poweshiek County, Iowa, officially founded in 1848. To this end, the society operates a museum of local history.
+
 The society offers exhibits and research library access.

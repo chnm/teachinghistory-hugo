@@ -11,6 +11,32 @@ keywords: curators, museums, Virginia, Williamsburg, inventories, cookbooks, dia
 website_url: http://podcast.history.org/2005/12/19/curator-of-historic-interiors/
 date_published: '2005-12-19T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Consumer Culture
+- Daily Life
+- Economy
+- Global Contact
+- International Relations
+- Literature
+- Southern States
+tags:
+- England
+- English
+- Virginia
+- Williamsburg
+- colonies
+- colonists
+- cookbooks
+- curators
+- diaries
+- food
+- foodways
+- inventories
+- museums
+- trade
 ---
 
 Emily Roberts, assistant curator of historic interiors at Colonial Williamsburg, talks about the research involved in furnishing and re-outfitting rooms according to colonial practices.

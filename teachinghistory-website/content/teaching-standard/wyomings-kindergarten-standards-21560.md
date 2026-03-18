@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21560
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### WY.1. Content Standard: Citizenship/Government/Democracy

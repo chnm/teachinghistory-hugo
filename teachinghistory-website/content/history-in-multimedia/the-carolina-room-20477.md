@@ -11,6 +11,23 @@ keywords: Williamsburg, Virginia, restoration, conservation, homes, houses, pain
 website_url: http://podcast.history.org/2008/11/24/the-carolina-room/
 date_published: '2008-11-24T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Art
+- Daily Life
+- Environment
+- Science & Tech.
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- conservation
+- homes
+- houses
+- painters
+- painting
+- restoration
 ---
 
 Modern-day curators focus on reversible restoration techniques. Conservator Shelley Svoboda describes the renewal of the [Carolina Room](http://www.history.org/Foundation/journal/Summer08/carolina.cfm).

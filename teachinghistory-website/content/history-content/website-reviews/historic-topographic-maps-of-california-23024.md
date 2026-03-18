@@ -15,7 +15,23 @@ summary: Explore a wide range of Californian geological survey maps, dating from
 splash_image: /files/splash-wr-historictopomaps.jpg
 thumbnail: /files/ProbingthePast432x240.jpg
 image: /files/website_image/HistTopoImage.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Cities & Suburbs
+- Environment
+- Rural Life
+- Western States
+evidence_types:
+- Maps
+resource_types:
+- Images
+tags:
+- California
 ---
-
 
 Provides historical United States Geological Survey maps of the San Francisco Bay area, from Point Reyes in the north to Half Moon Bay, and east to San Jose. Includes maps from different time periods—the earliest is from 1895, the latest 1997—covering each 7.5-minute and 15-minute quadrangle of the area. Users may zoom in to see minute details. Searchable by quadrangle or place name. Of value for those studying change over time in the development of the Bay Area during the 20th century.

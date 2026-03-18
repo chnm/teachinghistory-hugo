@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 11144
 website_url: http://www.capemeareslighthouse.org/
+time_periods:
+- General
+topics:
+- American Indians
+- Western States
+tags:
+- Lighthouse
+- Netarts
+- Octopus Tree
+- Oregon
 ---
 
 The Cape Meares Lighthouse & Wildlife Refuge is located west of Portland along the Oregon coast. The park is home to the Cape Meares Lighthouse, miles of hiking trails, an informational kiosk, the Three Arch Rocks National Wildlife Refuge, and the famous Octopus Tree.
+
 The park offers hiking trails, exhibits, and guided tours of the lighthouse and park grounds. The website offers historical information regarding the park, visitor information, and a virtual tour of the park.

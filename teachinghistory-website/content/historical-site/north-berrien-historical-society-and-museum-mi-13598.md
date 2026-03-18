@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 13598
 website_url: http://www.northberrienhistory.org
+time_periods:
+- General
+topics:
+- Midwestern States
+tags:
+- Michigan
 ---
 
 The North Berrien Historical Society maintains a local history museum, focusing on the history of North Berrien County.
+
 The museum offers exhibits, tours for school groups (free with reservation), and occasional recreational and educational events.

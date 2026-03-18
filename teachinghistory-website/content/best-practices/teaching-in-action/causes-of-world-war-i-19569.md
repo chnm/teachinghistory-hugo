@@ -16,10 +16,12 @@ splash_image: /files/Causes_of_World_War_-_432x240.jpg
 image: /files/bp2.jpg
 author_image: /files/author_image/JamesWoodcock75x75.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Emergence of Modern US, 1890-1930
+tags:
+- World War I
 ---
-
-
 
 *\*Please note that this video is no longer hosted by the Teachers TV website. It may be hosted on a different site and found through doing an internet search on the video's title.*
 

@@ -15,9 +15,18 @@ summary: Letters from U.S. soldiers during the Philippine-American War reveal pe
   very different from the official language of liberation.
 splash_image: /files/kramersplash.jpg
 author_image: /files/author_image/author_kramer.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Global Contact
+- International Relations
+- Military History
+tags:
+- Philippine American War
+- Philippines
+- letters
 ---
-
-
 
 /files/media/video/Kramer1.mp4
 

@@ -16,8 +16,33 @@ summary: Firsthand accounts of exploration range from Viking stories to early 19
   trappers' journals.
 splash_image: /files/American_Journeys_432x240.jpg
 image: /files/website_image/14721.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- General
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- Global Contact
+- Rural Life
+- Science & Tech.
+evidence_types:
+- Literary Sources
+- Maps
+- Official Documents
+- Paintings and Prints
+- Personal Accounts
+- Photographs
+- Travel
+resource_types:
+- Images
+- Text
+tags:
+- Christopher; Lewis and Clark expedition; travel narratives
+- exploration; Columbus
+- explorations
+- explorers
 ---
 
-
 These 181 firsthand accounts of North American and Canadian exploration range from Viking stories such as *The Saga of Eric the Red* from circa 1,000 CE to journal entries written in the early 19th century on a trapping expedition in the Southwest. Documents include the *Original Journals of the Lewis and Clark Expedition, 1804–1806.* Materials include rare books, original manuscripts, and classic travel narratives.
+
 Users can browse the full archive or by expedition, settlement, geographic region, and U.S. state or Canadian province. Each document is individually searchable and accompanied by a short background essay and a reference map. There are also 150 images available, including woodcuts, drawings, paintings, and photographs. *Highlights* follows the collection chronologically and connects moments in American history with eyewitness accounts.

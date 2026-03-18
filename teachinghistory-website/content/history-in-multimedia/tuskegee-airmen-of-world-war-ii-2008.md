@@ -11,6 +11,23 @@ keywords: race, race relations, Tuskegee Airmen, pilots, wars, war, World War II
 website_url: http://dev.forum-network.org/lecture/tuskegee-airmen-world-war-ii
 date_published: '2004-02-26T00:00:00'
 series_name: African American Culture
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- African Americans
+- Media
+- Military History
+tags:
+- Tuskegee Airmen
+- World War II
+- aviation
+- flight
+- pilots
+- race
+- race relations
+- racism
+- war
+- wars
 ---
 
 This presentation exhibits excerpts from the film *Tuskegee Heroes,* covering the history of the Tuskegee Airmen, World War II's African-American 332nd Fighter Group. The film clips are followed by questions and answers with attorney Enoch Woodhouse, who served in the Bombardment Group as a young man during the War.

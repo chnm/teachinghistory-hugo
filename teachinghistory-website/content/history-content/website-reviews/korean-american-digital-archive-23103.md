@@ -14,8 +14,29 @@ summary: Meet singer Florence Ahn, minister Soon Hyun, and others.
 splash_image: /files/splash-wr-korean-americans.jpg
 thumbnail: /files/Wright_American_Fiction_1851-1875_432x240.jpg
 image: /files/website_image/KoreAmerImage.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Asian Americans
+- Daily Life
+- Immigration
+- International Relations
+- Western States
+- Women
+evidence_types:
+- Official Documents
+- Oral History
+- Personal Accounts
+- Photographs
+resource_types:
+- Images
+- Text
+tags:
+- Korean Americans
 ---
 
-
 Thousands of primary materials, including documents compiled by Korean American organizations, personal papers, more than 1,900 photographs, and around 180 interviews, address the experiences of Koreans in the United States between 1903 and 1965 on this website. The materials run the gamut from organizational memos and other official documents to personal letters, wedding programs, birth certificates, and social security check stubs.
+
 This material allows users to piece together the life histories of individual Korean Americans. They will find individuals like Soon Hyun, an activist in the Korean resistance movement against Japanese colonialism in 1919, who later moved to the United States and became a minister in Hawaii. Or Florence Ahn, a Korean American who became a prominent singer in Los Angeles. These personal biographies, in turn, allow users to examine the human dimension of the history of Asian Americans, and place individuals within a larger history.

@@ -15,8 +15,35 @@ summary: Delve into Wisconsin's maritime history. Discover the multiple ways in 
 splash_image: /files/splash-wr-lakeswisconsin.jpg
 thumbnail: /files/Northwestern_European_Military_Situation_Maps_from_World_War_II_432x240.jpg
 image: /files/website_image/GreaLakeImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Environment
+- Midwestern States
+- Military History
+- Popular Culture, Leisure
+evidence_types:
+- Advertising
+- Official Documents
+- Photographs
+resource_types:
+- Images
+tags:
+- Great Lakes
+- Lake Michigan
+- Lake Superior
+- Wisconsin
 ---
 
-
 Dedicated to recording the maritime history of Wisconsin (especially Lake Michigan and Lake Superior), this site features more than 7,000 documents, advertisements, and photographs of ships associated with Wisconsin waters since 1679. Geared toward the specialist as well as the beginner, the site contains a list of the more than 400 ships registered in Wisconsin over the years, as well as useful descriptions of the types of ships.
+
 The collection is searchable by keyword and browsable. The quality of the photographs varies; some are small files, while others are quite large. The site recommends six related outside resources. This site would be very useful to anyone interested in the history of Wisconsin maritime shipping, passenger cruises, or naval history.

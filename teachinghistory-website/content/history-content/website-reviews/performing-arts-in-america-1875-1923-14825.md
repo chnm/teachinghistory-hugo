@@ -18,8 +18,42 @@ summary: Browse primary sources reflecting the performing arts of the late 19th 
 thumbnail: /files/Tramping-Through-150x113.jpg
 splash_image: /files/Performing_Arts_in_America_1875-1923_432x240.jpg
 image: /files/website_image/14825.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Art
+- Business
+- Consumer Culture
+- Economy
+- Media
+- Popular Culture, Leisure
+evidence_types:
+- Advertising
+- Film and Video
+- Music
+- Newspapers and Periodicals
+- Personal Accounts
+- Photographs
+resource_types:
+- Audio
+- Images
+- Text
+- Video
+tags:
+- Isadora; dancers
+- Loie; Duncan
+- Motion pictures; Theater; Dance; Broadway; Tin Pan Alley; St. Denis
+- Ruth; Fuller
+- actors
+- drama
+- film
+- films
+- performing artists
+- performing arts
+- theatre
 ---
 
-
 A selection of more than 16,000 items relating to the performing arts of the late 19th and early 20th centuries is offered on this website. Materials include books, clippings, photographs, drawings, music, manuscripts, moving images, posters and lobby cards, programs, and recorded sound.
+
 Diverse types of material on specific performers—such as Ruth St. Denis, Loie Fuller, and Isadora Duncan—have been selected to allow focused study. More than 2,400 entries are available for photographs (entries often contain multiple images) as well as 21 large format clippings scrapbooks, each with more than 100 pages. The website also presents 16 full-text books and video clips from nine early motion pictures, including a nine-minute clip featuring renowned dancer Anna Pavlowa in Lois Weber's *The Dumb Girl of Portici* (1914).

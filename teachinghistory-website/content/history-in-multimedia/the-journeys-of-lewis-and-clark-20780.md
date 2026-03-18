@@ -12,7 +12,33 @@ keywords: West, Manifest Destiny, presidents, politicians, Native Americans, Eur
 website_url: http://www.virginiaexperiment.com/podcast/speakerSeries020508.mp3
 date_published: '2008-02-11T00:00:00'
 series_name: 'The Virginia Experiment: Speaker Seminar Series'
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- American Indians
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Midwestern States
+- Politics
+- Rural Life
+- Western States
+tags:
+- Europe
+- Europeans
+- Lewis and Clark
+- Lewis and Clark Expedition
+- Manifest Destiny
+- Native Americans
+- West
+- exploration
+- explorers
+- politicians
+- presidents
+- race
+- race relations
 ---
 
 Many Americans think Lewis and Clark were sent west simply to explore the newly-acquired Louisiana Purchase. In fact, the Lewis and Clark Expedition was part of an international contest to control North America and exploit its wealth and an important part of Thomas Jefferson's plan for the development of the United States and the future of its Native American population.
+
 Dr. Dan Thorp of Virginia Tech explores the nature of earlier European activities in the North American West and how they shaped the timing and nature of the Lewis and Clark Expedition.

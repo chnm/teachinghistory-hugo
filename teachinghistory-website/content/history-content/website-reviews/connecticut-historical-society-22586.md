@@ -12,11 +12,34 @@ splash_image_fid: '5587'
 summary: Explore the political and sociocultural history of Connecticut.
 splash_image: /files/The_Connecticut_Historical_Society_432x240.jpg
 image: /files/website_image/ConnecticutHistoricalImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- Art
+- Cities & Suburbs
+- Daily Life
+- Military History
+- New England
+- Politics
+evidence_types:
+- Cartoons
+- Paintings and Prints
+- Photographs
+resource_types:
+- Audio
+- Images
+- Text
+tags:
+- Connecticut
 ---
 
-
 A nonprofit museum, library, and education center, the Connecticut Historical Society offers an abundance of resources through its website. Its collections document the cultural, social, political, economic, and military history of Connecticut.
+
 Visit [*Online Exhibits*](https://chs.org/online-exhibition/) to see resources the society currently offers online. As of July 10, 2012, the site features an exhibit on the department store G. Fox & Co., which operated in Hartford from 1847 until 1993. In *Research*, "Collection Highlights" features 25 artifacts pulled from the society's collections, ranging from Silly Putty to one of the flags that decorated Abraham Lincoln's box in Ford's Theatre on the day he was assassinated.
+
 Educators will be most interested in three other resources found in *Research*:
 
 * The *eMuseum*features more than 8,000 objects from the society's collections, including "clothing, furniture, weapons, needlework, tools, household objects, photographs, paintings, prints, drawings, and more." Visitors can search by keyword or by other categories, such as culture, date, and medium. Visitors can also browse specific collections, including "Connecticut Needlework: Women, Art, and Family, 1740-1840," "G. Fox & Co.," "Kellogg Brothers Lithographs," "Tavern and Inn Signs," "West End Architecture," and "Women Photographers."

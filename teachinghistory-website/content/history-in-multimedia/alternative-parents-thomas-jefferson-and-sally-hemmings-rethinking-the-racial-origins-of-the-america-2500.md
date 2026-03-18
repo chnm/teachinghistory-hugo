@@ -12,6 +12,33 @@ keywords: Founding Fathers, politicians, presidents, ethics, values, slaves, rac
 website_url: http://www.teachingamericanhistory.us/audio/popup_c_walker.html
 date_published: '2003-06-18T00:00:00'
 series_name: Presentations by Historians
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Children
+- Daily Life
+- Ethnicity
+- Family Life
+- Gender
+- Ideas & Ideologies
+- Politics
+- Sexuality
+- Slavery
+- Women
+tags:
+- Founding Fathers
+- affairs
+- ethics
+- marriage
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- slaves
+- values
 ---
 
 Professor Clarence Walker looks at the possible relationship between Thomas Jefferson and his slave Sally Hemmings and how it can be interpreted and used to suggest an alternative racial origin of the United States—that is, an origin that was multiracial instead of mono-racial.

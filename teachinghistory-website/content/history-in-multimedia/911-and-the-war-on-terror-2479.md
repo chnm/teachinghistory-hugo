@@ -14,8 +14,40 @@ splash_image_fid: '7825'
 summary: Professor and author Noam Chomsky discusses the War on Terrorism in the context
   of the Cold War and World War II.
 splash_image: /files/splash-9115.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- General
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Media
+- Military History
+- Politics
+- Science & Tech.
+tags:
+- Cold War
+- Communism
+- Communists
+- Cuba
+- Cuban Missile Crisis
+- Iraq
+- Middle East
+- Russia
+- USSR
+- WMDs
+- War on Terror
+- atomic bombs
+- nuclear war
+- nuclear weapons
+- terror
+- terrorism
+- war
+- wars
 ---
 
-
 Professor and author Noam Chomsky discusses the current "War on Terrorism" in the context of earlier perceptions of terrorism and national threat, including the Cold War and World War II.
+
 The link provides direct access to the video, as no visual webpage exists as a gateway.

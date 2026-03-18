@@ -22,11 +22,20 @@ summary: When visiting historical sites, sometimes you need a visual/emotional "
   to get students interested.
 splash_image: /files/splash-ups-evoking.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+tags:
+- Antietam
+- Arlington House
+- Robert E. Lee
+- battlefields
+- historic houses
 ---
-
 
 /files/media/video/UPS\_Priya1.mp4
 

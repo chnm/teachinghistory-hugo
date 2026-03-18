@@ -12,8 +12,12 @@ summary: Excite students by introducing them to primary sources that answer ques
   *they* have—not just questions you pose to them.
 splash_image: /files/splash-eoht-window.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Education
+- Science & Tech.
 ---
-
 
 This 33-second [student think-aloud](http://historicalthinkingmatters.org/scopestrial/1/studentwork/ta2/) shows a high school student reading the introduction to an excerpt from a 1925 biology textbook. During the video, she expresses excitement about the opportunity to find an answer to a question she asked about how biology had been taught in the 1920s. She also expresses enthusiasm about having access to a primary source—"the actual one," as she calls it. This video shows how using primary sources can engage and intrigue students, and is accompanied by a written commentary. Find the document the student reads [here](http://historicalthinkingmatters.org/scopestrial/1/sources/40/).

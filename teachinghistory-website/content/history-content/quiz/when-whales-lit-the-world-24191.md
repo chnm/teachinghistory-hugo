@@ -13,7 +13,19 @@ summary: Up to the 20th century, whalers provided oil for the industrial revolut
   How much do you know about these iron men and wooden ships?
 splash_image: /files/quiz-whaling-splash_0.jpg
 thumbnail: /files/quiz_thumbnail/SoutMillThumbnail.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Business
+- Daily Life
+- Literature
+- Science & Tech.
+tags:
+- ocean
+- whaling
 ---
-
 
 Up to the 20th century, men shipped out whaling—risking their lives and spending up to five years at sea per voyage. Why? Because whalers lit the world, providing oil for lamps and for the machines of the industrial revolution—at no small cost to the whale population. Test your whaling knowledge.

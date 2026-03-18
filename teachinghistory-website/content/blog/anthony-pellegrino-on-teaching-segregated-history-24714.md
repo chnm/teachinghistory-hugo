@@ -19,12 +19,25 @@ splash_image: /files/splash-blog-segschools.jpg
 image: /files/image-blog-segschools.jpg
 author_image: /files/author_image/Pellegrino_Image_4.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+topics:
+- African Americans
+- Children
+- Daily Life
+- Education
+- Politics
+- Reform
+- Southern States
+tags:
+- Anthony Pellegrino
+- Florida
+- St. Augustine
+- desegregation
+- schools
+- segregation
 ---
-
-
 
 For a time early in my teaching career, I lived in the historically black neighborhood in St. Augustine, FL, known as Lincolnville, which had been the home to prominent black civil rights leaders Henry and Katherine "Kat" Twine as well as the location of several stops by Martin Luther King, Jr. during the 1950s and 1960s. About three blocks from my house was the Excelsior School which served black students from the neighborhood and surrounding areas from the early 20th century to the late 1960s. I passed by the building every day on my way to teach history at a high school some 30 years after integration. After living in the neighborhood, I learned that the Excelsior building had ceased operation as a school after the 1967–68 school year when its students were finally integrated. The state took over the building some time after and used it for offices during the 1980s, but it was vacant for much of the decade before I moved into the area.
 > I learned that many prominent black leaders were educated at this school.
@@ -41,6 +54,7 @@ Since my time at Excelsior, I have had the opportunity to talk with some former 
 ## Encouraging Students to Challenge and Discover
 
 In the interest of presenting our students with a more inclusive history, teachers can presents sources to students that challenge the idea that the black community was incapable of providing quality education to their students and that only through integration into the white school system were black students able to receive a worthwhile education. With review of articles such as Siddle Walker's, teachers themselves can become more knowledgeable about the historiography of segregated education beyond the traditional narrative. Through examination of web resources from the Library of Congress, the National Archives, and others, teachers can show that even in the face of inadequate facilities and tremendous societal discrimination, many of these schools educated generations of future teachers, doctors, lawyers, civil rights leaders, and informed and active democratic citizens with constructive learning environments and challenging curriculum. For instance, "[Education Resources on School Desegregation](http://www.archives.gov/midatlantic/education/desegregation/)" on the National Archives website provides useful resources as well as implementation ideas and strategies for the classroom.
+
 Allowing students the chance to discover sources for themselves, which open up this more nuanced paradigm, can also serve as an entry into this topic and provide experience in moving beyond the textbook when examining the past. Students may begin by using keywords such as ["segregation and education"](http://www.loc.gov/search/?q=segregation%20and%20education&fa=digitized:true) in the Library of Congress site to get started in their search to challenge the traditional narrative of African American education.
 
 ## The Spirit of Good History

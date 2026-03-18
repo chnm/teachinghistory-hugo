@@ -6,7 +6,21 @@ content_type: historical_site
 draft: false
 drupal_nid: 11946
 website_url: http://www.firemuseumofgreaterchicago.org
+time_periods:
+- General
+topics:
+- Cities & Suburbs
+- Labor
+- Midwestern States
+tags:
+- Chicago
+- Fire Department
+- Firefightin
+- Illinois
+- fire
+- firefigher
 ---
 
 The Fire Museum of Greater Chicago is dedicated to preserving the history of firefighting in the city of Chicago and its suburbs. The museum has been recently renovated and contains an impressive collection of firefighting memorabilia and equipment.
+
 The museum offers guided tours. The website offers basic visitor information and a calendar of events.

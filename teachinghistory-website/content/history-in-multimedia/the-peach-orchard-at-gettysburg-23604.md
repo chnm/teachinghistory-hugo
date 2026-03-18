@@ -9,7 +9,16 @@ duration: 00:50:42
 website_url: http://www.civilwartraveler.com/audio/
 date_published: '2009-07-01T00:00:00'
 series_name: Civil War Tours
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Mid-Atlantic
+- Military History
+tags:
+- Gettysburg
+- Pennsylvania
 ---
 
 From CivilWarTraveler.org:
+
 "Confederate attackers had a real chance to cut the Union line in half in and around the Peach Orchard July 2, 1863. Gettysburg park historian Eric Campbell tells the story of that attack and a heroic stand by Union artillery that day."

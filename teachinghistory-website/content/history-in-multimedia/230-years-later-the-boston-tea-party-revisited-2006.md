@@ -10,7 +10,32 @@ keywords: Boston Tea Party, American Revolution, radicals, protest, protests, pr
   activists, activism, Revolutionary War, tea, Boston
 website_url: http://dev.forum-network.org/lecture/230-years-later-boston-tea-party-revisited
 date_published: '2003-12-11T00:00:00'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Cities & Suburbs
+- Daily Life
+- Economy
+- International Relations
+- Military History
+- New England
+- Politics
+- Radicalism
+- Reform
+tags:
+- American Revolution
+- Boston
+- Boston Tea Party
+- Revolutionary War
+- activism
+- activists
+- protest
+- protesters
+- protests
+- radicals
+- tea
 ---
 
 Historian Charlie Bahne fleshes out the historical context of the 1773 Boston Tea Party, discussing the role of tea in everyday colonial life and reexamining the event from a modern perspective.
+
 An mp3 version of the lecture may be downloaded.

@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 4442
 website_url: http://waynehistoricalohio.org/
+time_periods:
+- All
+- General
+topics:
+- Midwestern States
+tags:
+- Ohio
+- Wayne County
+- counties
+- museums
 ---
 
 The mission of the Wayne County Historical Society is to collect, preserve, and interpret artifacts and experiences that reflect the cultural heritage of the county for the education and enjoyment of present and future generations.
+
 The museum offers tours, exhibits, and educational and lecture events.

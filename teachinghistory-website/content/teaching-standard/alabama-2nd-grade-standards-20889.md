@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20889
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## AL.2 Standard: Living and Working Together in State and Nation
@@ -113,6 +113,7 @@ The goal of the second-grade curriculum is to introduce students to major histor
 + ##### Grade Level Example:
 
   how—ships, planes, automobiles
+
   why—improved quality of life, family connections, disasters
 
 * #### 2.9.2 Students will practice:
@@ -138,7 +139,9 @@ The goal of the second-grade curriculum is to introduce students to major histor
   - ##### Grade Level Example:
 
     positive—restocking fish in lakes, reforesting cleared land
+
     negative—polluting water, littering roadways, eroding soil+ Recognizing benefits of recreation and tourism at
+
     state and national parks
 
 ### 2.11

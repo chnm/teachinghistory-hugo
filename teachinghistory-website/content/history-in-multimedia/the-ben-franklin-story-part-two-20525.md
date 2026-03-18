@@ -11,7 +11,26 @@ keywords: U.S. Postal Service, Postmaster Generals, American Revolution, Revolut
 website_url: http://www.earlyamerica.com/ben2.htm
 date_published: '2008-12-18T00:00:00'
 series_name: 'The Ben Franklin Story: The Movie'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+tags:
+- American Revolution
+- Founding Fathers
+- France
+- French
+- Postmaster Generals
+- Revolutionary War
+- U.S. Postal Service
+- diplomats
+- infrastructure
+- politicians
 ---
 
 Don Vitale of *Archiving Early America* narrates an overview of Benjamin Franklin's accomplishments as a diplomat, politician, and thinker during and after the Revolutionary War.
+
 Captioned and uncaptioned options are available.

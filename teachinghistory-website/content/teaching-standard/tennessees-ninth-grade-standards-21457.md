@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21457
 grade_levels:
-  - high
+- high
 ---
 
 * ### TN.1.0. Content Standard: Ancient History

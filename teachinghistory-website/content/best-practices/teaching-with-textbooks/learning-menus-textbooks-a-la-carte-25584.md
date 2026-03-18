@@ -11,10 +11,12 @@ summary: Turn your students into 'master chefs' by using learning menus that all
   differentiated instruction.
 splash_image: /files/menussplash.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+tags:
+- learning menus
+- rubrics
 ---
-
 
 ## Why do it?
 

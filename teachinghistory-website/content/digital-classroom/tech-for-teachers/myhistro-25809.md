@@ -19,11 +19,16 @@ splash_image: /files/screen_shot_2013-12-13_at_1.06.39_pm.png
 image: /files/myhistroimage.jpg
 author_image: /files/author_image/photo.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Maps
+- cartography
+- mapping
+- presentation
+- timelines
+- visualization
 ---
-
-
 
 A visual tool that combines maps and a timeline to tell the story of change over time and place.

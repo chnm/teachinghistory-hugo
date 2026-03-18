@@ -17,13 +17,28 @@ summary: To indict or not to indict? Watergate raised complicated questions conc
 splash_image: /files/Watergate.jpg
 image: /files/lesson_image/watergatechapstick.jpg
 grade_levels:
-  - high
-duration: '1 day'
+- high
+duration: 1 day
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Legal History
+- Politics
+tags:
+- Richard Nixon
+- Watergate
+- Watergate scandal
+- impeachment
+- presidents
 ---
 
-
 The strength of this [lesson](http://www.archives.gov/education/lessons/watergate-constitution/index.html#documents) is that it is centered around a document which presents compelling arguments both for and against the indictment of former President Nixon for his role in the Watergate scandal. The featured document, a memo to the Watergate Special Prosecutor Leon Jaworski, was written by Jaworski's staff as he was considering whether or not to indict Nixon.
+
 The memorandum’s language should be accessible to most high school students. Both a copy of the [original document](http://www.archives.gov/education/lessons/watergate-constitution/index.html) and a [transcribed version](http://www.archives.gov/education/lessons/watergate-constitution/memo-transcript.html) are available.
+
 The question at the center of the lesson is, "Should the Watergate Special Prosecutor seek an indictment of the former President?" If teachers want to make this lesson more of an historical inquiry, we recommend modifying that question to read: "What were the main arguments for and against the indictment of former President Richard Nixon?"
+
 An additional strength of this lesson is two activities that use the Constitution as a lens to understand the Watergate affair. One of the [suggested activities](http://www.archives.gov/education/lessons/watergate-constitution/activities.html) asks students to identify the specific role each branch of government played in the Watergate affair. Another activity asks students to apply specific sections of the Constitution and determine the role particular constitutional powers and rights played in the Watergate affair.
+
 This lesson would likely work best after an introductory lesson on Watergate. While there is no formal assessment included in this lesson, the questions presented by the document easily lend themselves to an essay or a discussion.

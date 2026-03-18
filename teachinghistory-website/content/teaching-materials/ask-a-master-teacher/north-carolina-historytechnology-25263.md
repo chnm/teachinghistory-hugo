@@ -21,11 +21,12 @@ summary: Incorporating technology is an excellent way to engage students and dee
 splash_image: /files/nc-history-splash.jpg
 image: /files/nc-history-image.jpg
 author_image: /files/author_image/author_johnson.jpg
+tags:
+- resources
 ---
 
-
-
 First of all I would like to applaud your decision to integrate technology into your instruction; both you and your students will benefit from this pedagogical approach to learning. Becoming familiar with how content is delivered online is a good first step. The website, [Learn NC]( http://www.learnnc.org/nchistory/) offers a digital textbook that covers a standard course of North Carolina history. From there, you can branch out into more sophisticated, specialized sites as you become more familiar and comfortable with curricular content. In regards to presentation software such as PowerPoint or Prezi, many textbook companies offer online supplemental or supporting materials such as those you've requested. You can also find out more about these tools at Teachinghistory.org’s [digital classroom](http://teachinghistory.org/digital-classroom) feature. [This entry](http://teachinghistory.org/digital-classroom/tech-for-teachers/24457) on using Prezi in the classroom may be especially helpful.
+
 **What follows is a list of sites I've found to be particularly useful over the years, followed by a brief commentary on their contents:**
 
 * [Learn NC](http://www.learnnc.org/): This site is a "one-stop shop" for North Carolina educators, providing everything from lesson plans to primary source documents. Under "Projects and Special Collections," choose "North Carolina History" for materials and ideas I think you'll find very useful.
@@ -53,6 +54,7 @@ Once you've developed a certain comfort level with the curriculum, I think you'l
 ---
 
 First of all I would like to applaud your decision to integrate technology into your instruction; both you and your students will benefit from this pedagogical approach to learning. Becoming familiar with how content is delivered online is a good first step. The website, [Learn NC]( http://www.learnnc.org/nchistory/) offers a digital textbook that covers a standard course of North Carolina history. From there, you can branch out into more sophisticated, specialized sites as you become more familiar and comfortable with curricular content. In regards to presentation software such as PowerPoint or Prezi, many textbook companies offer online supplemental or supporting materials such as those you've requested. You can also find out more about these tools at Teachinghistory.org’s [digital classroom](http://teachinghistory.org/digital-classroom) feature. [This entry](http://teachinghistory.org/digital-classroom/tech-for-teachers/24457) on using Prezi in the classroom may be especially helpful.
+
 **What follows is a list of sites I've found to be particularly useful over the years, followed by a brief commentary on their contents:**
 
 * [Learn NC](http://www.learnnc.org/): This site is a "one-stop shop" for North Carolina educators, providing everything from lesson plans to primary source documents. Under "Projects and Special Collections," choose "North Carolina History" for materials and ideas I think you'll find very useful.

@@ -16,10 +16,12 @@ summary: The fictional Alphonse the Camel provides insight for one classroom.
 splash_image: /files/Causal_Reasoning_-_432x240.jpg
 author_image: /files/author_image/woodcock.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Emergence of Modern US, 1890-1930
+tags:
+- World War I
 ---
-
-
 
 *\*Please note that this video is no longer hosted by the Teachers TV website. It may be hosted on a different site and found through doing an internet search on the video's title.*
 

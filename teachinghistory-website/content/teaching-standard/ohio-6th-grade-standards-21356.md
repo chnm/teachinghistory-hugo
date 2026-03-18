@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21356
 grade_levels:
-  - middle
+- middle
 ---
 
 ## Theme: Regions and People of the Eastern Hemisphere

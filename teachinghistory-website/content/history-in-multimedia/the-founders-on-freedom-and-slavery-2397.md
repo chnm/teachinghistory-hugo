@@ -11,8 +11,31 @@ keywords: Founding Fathers, Declaration of Independence, U.S. Constitution, slav
 website_url: http://teachingamericanhistory.org/institutes/2004/race_readings.html
 date_published: '2004-08-01T00:00:00'
 series_name: Race and Rights in American History
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Ethnicity
+- Gender
+- Ideas & Ideologies
+- Literature
+- Politics
+- Slavery
+- Women
+tags:
+- Declaration of Independence
+- Founding Fathers
+- U.S. Constitution
+- citizens
+- citizenship
+- race
+- race relations
+- racism
+- slaves
 ---
 
 Professors Lucas E. Morel and Diana Schaub discuss the Founding Fathers' intentions in drafting the founding documents of the United States and the views of slavery, freedom, and equality that may be taken from these documents.
+
 To listen to this lecture, scroll to the first session, and select the corresponding RealAudio link to the left.
+
 An older version of this lecture can be found [here.](http://teachingamericanhistory.org/audio/ram/03-08-03_race_session1.ram)

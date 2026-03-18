@@ -10,6 +10,20 @@ keywords: A People's History of the United States, scholarship, class, class con
   labor movements, working class
 website_url: http://dev.forum-network.org/lecture/town-meeting-howard-zinn
 date_published: '2004-03-25T00:00:00'
+time_periods:
+- General
+topics:
+- Education
+- Ideas & Ideologies
+- Labor
+- Literature
+tags:
+- A People's History of the United States
+- class
+- class conflict
+- labor movements
+- scholarship
+- working class
 ---
 
 Howard Zinn, author of the history text *A People's History of the United States*, discusses his reasons for studying and writing about American history, focusing on his desire to connect the past and the present. His presentation includes a question-and-answer session.

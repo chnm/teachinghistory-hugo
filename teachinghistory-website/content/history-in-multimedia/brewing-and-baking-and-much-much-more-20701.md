@@ -11,6 +11,28 @@ keywords: food, drink, beer, colonies, colonists, Williamsburg, Virginia, cooks,
 website_url: http://podcast.history.org/2006/01/23/brewing-and-baking-and-much-much-more/
 date_published: '2006-01-30T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- Science & Tech.
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- bakers
+- baking
+- beer
+- brewers
+- brewing
+- butchers
+- colonies
+- colonists
+- cooking
+- cooks
+- drink
+- food
 ---
 
 Frank Clark, supervisor of Historic Foodways and brewmaster, talks about preparing food according to colonial-era practices.

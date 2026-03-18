@@ -12,7 +12,20 @@ thumbnail_fid: '2854'
 summary: Was there conflict in the past over one of our favorite summer treats?
 splash_image: /files/IceCream2_0_0.jpg
 thumbnail: /files/website_image/AdFlipImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- Business
+- Consumer Culture
+- Popular Culture, Leisure
+tags:
+- food
+- foodways
+- ice cream
 ---
-
 
 The history of ice cream seems like it should be easy enough to determine, but many of its landmarks are hidden in the fog of historical controversy. Here are milestones in the history of American ice cream. Which ones are highly contested and which are not? (Hint: there are five that are contested)

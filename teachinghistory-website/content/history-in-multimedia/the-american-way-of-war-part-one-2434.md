@@ -11,6 +11,29 @@ keywords: Iraq, Middle East, war, wars, armies, military, militaries, corps, tro
 website_url: http://teachingamericanhistory.org/seminars/2003/hanson.html
 date_published: '2003-03-29T00:00:00'
 series_name: Free Saturday Seminars for Social Studies Teachers
+time_periods:
+- All
+- Contemporary US, 1968-Present
+- General
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+tags:
+- Iraq
+- Middle East
+- War on Terror
+- armies
+- corps
+- militaries
+- military
+- military strategies
+- military tactics
+- troops
+- war
+- wars
 ---
 
 Professor Victor Davis Hanson discusses the United States' military heritage, focusing on its dual use of large armies and small overseas intervention corps, and the U.S. definition of war. Hanson relates this discussion to the current debates over the war in Iraq.

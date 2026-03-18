@@ -11,7 +11,27 @@ keywords: slaves, race, racism, race relations, Great Britain, England, American
 website_url: http://dev.forum-network.org/lecture/epic-journeys-freedom
 date_published: '2006-02-22T00:00:00'
 series_name: 'Frontline: Storm over Everest'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Slavery
+tags:
+- American Revolution
+- England
+- Great Britain
+- Revolutionary War
+- race
+- race relations
+- racism
+- slaves
 ---
 
 Australian Humanities Review founder Cassandra Pybus traces the lives and experiences of slaves who fled to the British to gain freedom during the Revolutionary War.
+
 Audio and video options are available, in addition to a lecture transcript. The video is captioned.

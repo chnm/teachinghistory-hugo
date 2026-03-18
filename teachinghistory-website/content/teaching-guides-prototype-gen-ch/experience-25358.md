@@ -18,8 +18,13 @@ author_bio: Seeing something from a different perspective, learning new things, 
 url: /teaching-materials/visiting-history/experience
 thumbnail_fid: '3501'
 thumbnail: /files/quiz/predictions_coal_150.jpg
+tags:
+- field trip
+- historic site
+- museum
+- professional development
+- teacher
 ---
-
 
 ![](/files/dcpdguide/plowing113x150.jpg)
 

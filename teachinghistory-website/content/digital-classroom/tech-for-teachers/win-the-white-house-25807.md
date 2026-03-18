@@ -19,11 +19,18 @@ splash_image: /files/splash_1.jpg
 image: /files/Win the White House Img_2.jpg
 author_image: /files/author_image/mcdivittphoto.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Politics
+tags:
+- games
+- political campaigns
+- presidency
+- presidential campaigns
 ---
-
-
 
 An online game that gives students a chance to run their own presidential campaign.

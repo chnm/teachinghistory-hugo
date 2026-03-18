@@ -6,7 +6,25 @@ content_type: historical_site
 draft: false
 drupal_nid: 11625
 website_url: http://mshf.com/
+time_periods:
+- General
+topics:
+- Midwestern States
+- Popular Culture, Leisure
+- Science & Tech.
+tags:
+- Hall of Fame
+- Michigan
+- air racing
+- automobile racing
+- automobiles
+- boat racing
+- boats
+- racing
+- snow racing
+- vehicles
 ---
 
 The Motorsports Museum and Hall of Fame presents more than 40 racing vehicles. These include racing cars, powerboats, drag racers, motorcycles, racing snowmobiles, and air vehicles. Topics addressed include the people, companies, and equipment behind the racing industries. The Hall of Fame celebrates important members of the racing industry, past and present.
+
 The museum offers exhibits, racing simulators, games, films, group tours, and school field trips. Reservations are required for group tours and field trips.

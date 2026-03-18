@@ -13,12 +13,26 @@ splash_image_fid: '6035'
 summary: Can historians answer questions about alternate history? No, but they can
   assess a particular moment in the past.
 splash_image: /files/field-commanders-1945.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- New England
+- Politics
+tags:
+- Franklin Delano Roosevelt
+- Pearl Harbor
+- Winston Churchill
+- World War II
+- alternate history
+- alternative history
 ---
 
-
 During the months preceding the attack on Pearl Harbor, the war in Europe had essentially boiled down to a contest between the Axis Powers of Germany and Italy, and against them, the Soviet Union and Great Britain.
+
 Six months before Pearl Harbor, Germany had launched an invasion of the Soviet Union, its erstwhile ally. By December 5, two days before the Japanese attack on Pearl Harbor, German armies had advanced to within 5 miles of Moscow.
+
 Hitler had decided to postpone a cross-channel invasion of Britain itself until his armies were able to defeat the Soviet Union, but Germany was still fighting Britain through aerial and missile bombing, and was engaged against Britain on the seas, as well as elsewhere in the British Empire, as in North Africa. In South Asia, Britain was also defending its colonies and commonwealth against Japan. On the face of it, especially in the long term and even with Lend-Lease aid from the United States, it is difficult to see how Britain could have continued the war without the entry of the United States into the conflict on its side. Presumably, Winston Churchill would have had to sue for peace, or endure a German invasion of the British Isles once the Nazis had consolidated their military strength in Europe.
+
 That did not happen, of course. After Churchill heard that America had been attacked at Pearl Harbor, he rushed to a secure telephone to call Franklin Roosevelt. His *Memoirs of the Second World War* relate the following:
 > *In two or three minutes Mr. Roosevelt came through. "Mr. President, what's this about Japan? "It's quite true," he replied. "They have attacked us at Pearl Harbor. We are all in the same boat now."
 > *No American will think it wrong of me if I proclaim that to have the United States at our side was to me the greatest joy. I could not foretell the course of events. I do not pretend to have measured accurately the martial might of Japan, but now at this very moment I knew the United States was in the war, up to the neck and in to the death. So we had won after all!
@@ -33,8 +47,13 @@ Your questions are hypothetical. They invite speculation. One of the delights of
 ---
 
 Philip K. Dick, [*The Man in the High Castle*](http://www.librarything.com/work/16570) (1962), in which Nazi Germany and Imperial Japan win World War II. The East Coast and Midwest of the United States are occupied by Germany and the West Coast by Japan.
+
 Harry Turtledove, [*In the Presence of Mine Enemies*](http://www.librarything.com/work/182089) (2003), in which the U.S. does not enter the war, and the Axis Powers win. Germany then bombs the U.S. in the 1970s with nuclear weapons and defeats it.
+
 Robert Harris, [*Fatherland*](http://www.librarything.com/work/2165743) (1992), another one in which Germany wins the war, although the U.S. defeats Japan.
+
 Norman Spinrad, [*The Iron Dream*](http://www.librarything.com/work/49259) (1972), which is presented as a science fiction novel written by pulp-fiction artist Adolf Hitler after he flees Germany to live in the United States after the end of the First World War.
+
 Jo Walton’s ["Small Change"](http://www.librarything.com/series/Small+Change+%281%29) series [*Farthing* (2006), *Ha’penny* (2007), and *Half a Crown* (2008)], in which the U.S. fails to provide aid to the UK to resist Germany and Britain makes peace with the Nazi Reich. Germany continues a drawn-out war with the Soviet Union, and Britain turns into a fascist state.
+
 Newt Gingrich and William R. Forstchen, [*1945*](http://www.librarything.com/work/48047) (1995), in which the U.S. defeats Japan but not Germany, and a subsequent "cold war" ensues between the U.S. and Germany.

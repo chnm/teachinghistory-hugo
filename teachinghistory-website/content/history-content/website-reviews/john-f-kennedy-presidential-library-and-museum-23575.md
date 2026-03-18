@@ -15,8 +15,39 @@ summary: This presidential library presents sources from the 35th President's li
 splash_image: /files/JFK_Library_432x240.jpg
 thumbnail: /files/quiz_thumbnail/AAfoodways-thumbnail_0.jpg
 image: /files/website_image/JFKPresLibrary-1.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+- Science & Tech.
+evidence_types:
+- Film and Video
+- Official Documents
+- Oral History
+- Photographs
+- Political Documents
+- Speeches
+resource_types:
+- Audio
+- Images
+- Text
+tags:
+- Civil Rights Movement
+- Cold War
+- Cuban Missile Crisis
+- JFK
+- John F. Kennedy
+- Peace Corps
+- Vietnam
+- nuclear test ban treaty
+- presidents
+- space
 ---
 
-
 This website is devoted to the life, work, and memory of John F. Kennedy, the 35th president of the U.S. Of primary interest to historians and teachers are the "Historical Resources and Education" and "Public Programs" sections of the website, which shed light on important events in early 1960s political history, including the Cuban missile crisis, the Vietnam War, the civil rights movement, the Peace Corps, the space program, and the 1963 Nuclear Test Ban Treaty. Users unfamiliar with the history of the Kennedy White House might begin with the "Timeline," which puts events important to the Kennedy administration in a larger political and cultural context, or "Biographies and Profiles," which presents a Kennedy family tree and profiles of early 1960s notables such as Fidel Castro, Robert McNamara, and Arthur M. Schlesinger, Jr. "White House Diary" further familiarizes users with Kennedy's day-to-day activities as President.
+
 The website also includes hundreds of historical sources including speeches, photographs, telegrams, correspondence, eulogies for Bobby Kennedy, JFK, and Jacqueline Kennedy Onassis (all accessible through an Advanced Search feature), and transcripts of more than 170 oral interviews with notables such as John Kenneth Galbraith (Harvard University economic professor and Ambassador to India), Supreme Court Justice Felix Frankfurter, singer Harry Belafonte, and President Gerald Ford. In some cases, the original audio files of speeches are also included. Several lesson plans designed for elementary, middle, and high school students use materials from this archive to address topics such as Kennedy's inaugural address, the Cuban missile crisis, and the civil rights movement.

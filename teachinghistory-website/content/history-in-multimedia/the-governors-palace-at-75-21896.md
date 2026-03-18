@@ -11,7 +11,23 @@ keywords: Williamsburg, Virginia, restoration, preservation, conservation, inven
 website_url: http://podcast.history.org/
 date_published: '2009-03-30T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Daily Life
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- colonies
+- colonists
+- conservation
+- inventories
+- preservation
+- restoration
 ---
 
 The Governor's Palace is a Williamsburg icon. Chief Curator Emeritus Graham Hood discusses the work involved in reexamining the furnishing and decoration of its period rooms, to make them as historically accurate as possible.
+
 **Note: this podcast is no longer available. To view a transcript of the original podcast, click [here](http://podcasts.history.org/033009/TheGovernorsPalaceat75.cfm).**

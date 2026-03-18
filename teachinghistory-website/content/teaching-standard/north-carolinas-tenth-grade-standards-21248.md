@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21248
 grade_levels:
-  - high
+- high
 ---
 
 * ### NC.1. Course / Competency Goal: Civics and Economics

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21296
 grade_levels:
-  - elementary
+- elementary
 ---
 
 (Note: By the completion of fourth grade, New Jersey students are expected to master the following standards.)

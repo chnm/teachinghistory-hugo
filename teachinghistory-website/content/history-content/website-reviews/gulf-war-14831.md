@@ -18,8 +18,38 @@ summary: Participants in Operation Desert Storm talk about their experiences in 
 thumbnail: /files/QuestioningTextbook432x240_0.jpg
 splash_image: /files/Gulf_War_432x240.jpg
 image: /files/website_image/14831.jpg
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Global Contact
+- International Relations
+- Military History
+- Politics
+- Science & Tech.
+evidence_types:
+- Artifacts and Objects
+- Film and Video
+- Oral History
+- Quantitative Evidence
+resource_types:
+- Audio
+- Data
+- Text
+- Video
+tags:
+- Gulf War; Iraq; Weapons systems; Frontline; Operation Desert Storm
+- aircraft
+- airplanes
+- aviation
+- munitions
+- pilots
+- planes
+- space
+- weaponry
+- weapons
+- weapons systems
 ---
 
-
 Focusing on Operation Desert Storm, these materials emphasize the perspectives of those directly involved. There are 19 oral history interviews (up to 20 pages each) with eight "decision makers," seven commanders, two Iraqi officials, and two news analysts.
+
 "War Stories" presents the personal reminiscences of five pilots, available in text and audio. "Weapons and Technology" details 10 ground, aircraft, and space weapons systems and munitions. A seven-minute video excerpt from the "Frontline" program is available as well as four 15-minute episodes of a BBC radio program in text and audio. The site includes a chronology, 10 maps, a bibliography, facts and statistics, and brief essays on press coverage and Iraqi war deaths. Links are available to five sites produced to accompany more recent "Frontline" reports on Iraq.

@@ -6,6 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 4322
 website_url: http://www.switzcomuseums.org/
+time_periods:
+- All
+- General
+topics:
+- Daily Life
+- Midwestern States
+tags:
+- Indiana
+- museums
 ---
 
 "Our mission is to unite those people interested in the history of Switzerland County, Indiana, and surrounding region, for its protection, preservation, and promotion to the public."

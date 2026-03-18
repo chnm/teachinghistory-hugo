@@ -9,7 +9,20 @@ duration: 00:18:33
 website_url: http://www.kshs.org/p/cool-things-small-town-photographer-s-camera/15046
 date_published: '2009-10-07T00:00:00'
 series_name: Cool Things Podcast
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Art
+- Business
+- Gender
+- Midwestern States
+- Science & Tech.
+- Women
 ---
 
 From the Kansas Museum of History website:
+
 "A century ago, photography was much more difficult than point-and-shoot. In this podcast we hear about the challenges faced by a pioneering woman photographer. Alice Gardiner Sennrich documented her town—Valley Falls, Kansas—through the lens of a massive camera."

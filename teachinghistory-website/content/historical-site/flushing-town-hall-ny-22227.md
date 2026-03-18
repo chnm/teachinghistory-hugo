@@ -6,7 +6,13 @@ content_type: historical_site
 draft: false
 drupal_nid: 22227
 website_url: http://www.flushingtownhall.org/index.php
+time_periods:
+- General
+topics:
+- Art
+- Mid-Atlantic
 ---
 
 Flushing Town Hall provides a venue for cultural events and explorations, including performances and gallery exhibits on arts and culture.
+
 The site offers exhibits; programs, performances, and guided tours for school groups; and occasional recreational and educational events.

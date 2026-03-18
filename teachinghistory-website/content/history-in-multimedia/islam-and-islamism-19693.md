@@ -11,7 +11,29 @@ keywords: Islam, Muslims, foreign policy, foreign affairs, foreign relations, Is
 website_url: http://www.fpri.org/multimedia/20060506.schleifer.islamvislamism.html
 date_published: '2006-05-06T00:00:00'
 series_name: Islam, Islamism, and Democratic Values
+time_periods:
+- All
+- Contemporary US, 1968-Present
+- General
+- Postwar US, 1945-Early 1970s
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Reform
+- Religion
+tags:
+- Islam
+- Islamism
+- Muslims
+- foreign affairs
+- foreign policy
+- foreign relations
+- terrorism
 ---
 
 S. Abdallah Schleifer of the Washington News Bureau, Al Arabiya, compares and contrasts the interpretations of Islam that lead to Islamism and that lead to coexistence with or under other political systems. He focuses particularly on defining what, precisely, Islamism is and what adherents to the ideology believe.
+
 To listen to this lecture, select "Watch streaming video with RealPlayer," "Listen to streaming MP3 audio," or "Download MP3 audio file."

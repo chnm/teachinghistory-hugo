@@ -23,9 +23,13 @@ summary: Get the most out of your grant; the benefits of collaboration as profes
 splash_image: /files/K-16_0.jpg
 image: /files/K-16.jpg
 author_image: /files/author_image/halttunan_0.jpg
+tags:
+- K-12 teaching
+- K-16 collaboration
+- Partners
+- Teaching American History grants
+- historians
 ---
-
-
 
 Fifteen years ago, when I first began working with K–12 history teachers, the standard term used to characterize such activity was K–12 outreach. As a participant in the [History Project at UC Davis](http://historyproject.ucdavis.edu/)—one of the 19 subject-matter sites established by the [California History-Social Science Project](http://csmp.ucop.edu/) (CHSSP)—I believed that what I had to offer K–12 teachers was my scholarly expertise. I would lecture to the teachers—treating them essentially as returning college students—on historiographic developments, and they would (I thought) return to their classrooms enriched by what I had to tell them. At summer institutes, Saturday workshops, and periodic conferences, I delivered lectures on such subjects as History and Literature, Mainstreaming American Women’s History, and Teaching the History of Everyday Life. I was dimly aware of the fact that my late colleague Roland Marchand was working very differently with K–12 teachers, on a model closer to what happens in K–12 classrooms: discussions, collaborative projects, roleplaying exercises, and model lesson plans. But it took me several years to register the significance of that different approach.
 > I would lecture to the teachers—treating them essentially as returning college students—on historiographic developments, and they would (I thought) return to their classrooms enriched by what I had to tell them.
@@ -35,6 +39,7 @@ Fortunately, I was surrounded by people—not just Roland Marchand, but a talent
 ## Historian-Teachers
 
 This change in terminology might have gone unnoticed had it not captured some important insights I'd been having during my early years with the Davis [History Project](http://historyproject.ucdavis.edu/). In lecturing to K–12 teachers, I had initially drawn a distinction between *myself* as research scholar and *them* as teachers. But I was waking up to the fact that I too was a teacher—in many cases, a less effective teacher than the K–12 teachers I thought I was teaching. And I was realizing as well that they too were research historians, tracking down evidence, identifying questions and problems, interpreting findings, crafting arguments, working towards synthetic overviews—and their chronological range was often greater than mine. Our lives as teachers and researchers are structured very differently, but we have far more in common than I had initially realized. Confronted with a common teaching problem—"How should we integrate the small histories of everyday life with the grand narrative of political history?" or "What's the best way to get our students to read the Declaration of Independence closely and thoughtfully?"—we have much to offer one another when we structure our work as K–16 collaboration. The Teaching American History grants make it possible for historian-teachers at all levels to explore both more widely and more intensively than ever before the possibilities of K–16 collaboration.
+
 And the impact of that collaboration on my own classroom teaching has been dramatic. I began to move away from what learner-centered education proponents call the "sage-on-the-stage" model of teaching towards the "guide-on-the-side." I have learned the value of pedagogical variety, and particularly the cultivation of different teaching modalities for different types of learners. I have a new appreciation for the value of kinesthetic learning: rearranging chairs for in-class discussions, taking trips to museums and historic sites, attending movies and plays with my students. In my classrooms, I have come to privilege academic history less, and public history more; and I now try to identify potential K–12 teachers among my students, to encourage their interest, and help prepare them for their own classrooms. I have learned the value of collaborative research towards a single larger project, such as a public-history installation or a website.
 > I began to move away from what learner-centered education proponents call the "sage-on-the-stage" model of teaching towards the "guide-on-the-side."
 

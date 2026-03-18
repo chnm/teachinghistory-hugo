@@ -20,9 +20,19 @@ author_image_fid: '7125'
 summary: Common misconceptions of the classification of civilization are debunked.
 splash_image: /files/civilization_splash.jpg
 author_image: /files/author_image/malindalowery_0.jpg
+time_periods:
+- All
+topics:
+- American Indians
+- Daily Life
+- Ideas & Ideologies
+tags:
+- American Indians
+- Culture
+- Native Americans
+- civilization
+- development
 ---
-
-
 
 I’m not sure how this question defines “great civilization,” but it seems that, like most other people educated in the United States, the questioner is unaware of the highly stratified, centralized, and elaborate societies that did exist north of the Rio Grande prior to the arrival of Europeans. We are taught that Indian societies in North America had no governments, class structures, religions, intellectual traditions, or other elements of what Western European philosophy calls “civilization.” But to contrast that view, I'll offer a few examples. I think we can fairly say that all societies, regardless of how elaborate their social and political structures may be, are “civilized.” The largest city in North America prior to 1492 was called Cahokia, located on what is today the Missouri River across from St. Louis. As a city-state, the population of 15,000 people was comparable to London or Paris at that time. Cahokia was the center of an elaborate trade network that stretched across the entire continent from 950 to 1250 AD. City residents, along with laborers from far away, traveled to Cahokia over the course of several hundred years to build enormous earthen mounds. The largest one is 15 acres around and is the largest earthen structure in the Western Hemisphere. These mounds—not unlike European cathedrals in spiritual or architectural significance—served as symbols of power for elite religious and political leaders. These leaders often lived atop the mounds to be closer to the sun, their spiritual source of power. The influence these leaders possessed was enormous. Not only could they command the construction of mounds, but they held the reins of the city's economic and military fortunes as well. Because of the extent of Cahokia's trade networks, the consequences of their decisions were felt all over the continent.
 

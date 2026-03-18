@@ -10,6 +10,24 @@ keywords: inventions, invention, technology, planes, flight, airplanes, aviation
   science, scientists, inventors
 website_url: http://dev.forum-network.org/lecture/wright-brothers-and-invention-aerial-age
 date_published: '2005-10-08T00:00:00'
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Daily Life
+- Ideas & Ideologies
+- New England
+- Science & Tech.
+tags:
+- airplanes
+- aviation
+- flight
+- invention
+- inventions
+- inventors
+- planes
+- science
+- scientists
+- technology
 ---
 
 Chairman of Aeronautics at the Smithsonian Institution Peter L. Jakab explores the Wright brothers' invention of the airplane and how the brothers were able to achieve flight when scientists and engineers for centuries had failed to do so. Jakab discusses the impact of the airplane on the "world at large"—particularly in 1905, three years after its invention, the year Einstein published his most notable papers.

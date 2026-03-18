@@ -10,7 +10,23 @@ keywords: war, wars, Civil War, nurses, hospitals
 website_url: http://www.fpri.org/multimedia/20080518.schultz.womencivilwar.html
 date_published: '2008-05-18T00:00:00'
 series_name: 'America in the Civil War Era, 1829–77: A History Institute for Teachers'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Gender
+- Health & Medicine
+- Military History
+- Reform
+- Sexuality
+- Women
+tags:
+- Civil War
+- hospitals
+- nurses
+- war
+- wars
 ---
 
 Jane Schultz of Indiana University discusses the contributions of women at the front in the Civil War, particularly those who participated as relief workers. This lecture was delivered as part of "America in the Civil War Era: A History Institute for Teachers," held May 17-18 at Carthage College in Kenosha, WI, sponsored by the Foreign Policy Research Institute's Wachman Center and by the Clausen Center for World Business, Carthage College and Adult Education, Carthage College.
+
 Audio and video options are available.

@@ -6,7 +6,22 @@ content_type: historical_site
 draft: false
 drupal_nid: 7091
 website_url: http://www.appanoosehistory.org
+topics:
+- American Indians
+- Daily Life
+- Environment
+- Labor
+- Midwestern States
+- Rural Life
+- Science & Tech.
+tags:
+- Centerville
+- Coal Mining
+- Iowa
+- Post Office
+- mining
 ---
 
 The Appanoose County Historical & Coal Mining Museum is located in the old post office in Centerville, Iowa. The museum features a variety of exhibits, including exhibits on coal mining, pioneer life, local businesses, the mormon trail, and the local American Indian population. The museum is open to the public every Sunday during the summer months and by appointment.
+
 The site offers visitor information, very brief information on the exhibits, and an events calendar.

@@ -11,6 +11,22 @@ keywords: Revolutionary War, American Revolution, Founding Fathers, slaves, Nati
 website_url: http://dev.forum-network.org/lecture/joseph-ellis-american-creation
 date_published: '2007-01-01T00:00:00'
 series_name: 'American Experience: Alexander Hamilton'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- American Indians
+- Politics
+- Slavery
+tags:
+- American Revolution
+- Founding Fathers
+- Native Americans
+- Revolutionary War
+- race
+- race relations
+- racism
+- slaves
 ---
 
 Pulitzer-Prize-winning historian Joseph Ellis tells six stories from the early years of the American Republic, looking at the choices the Founding Fathers faced and the choices they made. Ellis examines the impact these decisions had on U.S. history and how they relate to current situations and life.

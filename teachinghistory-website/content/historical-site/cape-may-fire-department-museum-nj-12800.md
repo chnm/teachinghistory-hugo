@@ -6,7 +6,13 @@ content_type: historical_site
 draft: false
 drupal_nid: 12800
 website_url: http://www.capemayfd.com/museum.htm
+time_periods:
+- General
+topics:
+- Mid-Atlantic
+- Science & Tech.
 ---
 
 The Cape May Fire Department Museum presents firefighting history. Collections include a 1928 La France engine, historic firefighting tools, and photographs of past fires and department employees. The museum represents the appearance of a Victorian firehouse.
+
 The museum offers exhibits.

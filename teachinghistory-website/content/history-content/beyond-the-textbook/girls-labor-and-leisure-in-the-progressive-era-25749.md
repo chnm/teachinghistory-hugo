@@ -11,6 +11,10 @@ splash_image_fid: '9526'
 summary: The historical impact young girls had on the Progressive Era is often overlooked.
   Discover the truth here.
 splash_image: /files/girlssplash.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Children
 ---
 
 ## What Textbooks Say

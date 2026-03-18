@@ -12,6 +12,30 @@ keywords: rivers, Charles River, parks, parkland, parklands, recreation, nature,
 website_url: http://video.mit.edu/
 date_published: '2002-11-09T00:00:00'
 series_name: authors@mit
+time_periods:
+- General
+topics:
+- Cities & Suburbs
+- Environment
+- New England
+- Politics
+- Popular Culture, Leisure
+tags:
+- Boston
+- Charles River
+- Charles River Basin
+- cities
+- infrastructure
+- nature
+- parkland
+- parklands
+- parks
+- politicians
+- preservation
+- recreation
+- rivers
+- urban development
+- water
 ---
 
 A panel of authors, urban planners, and politicians detail the history of Boston's Charles River Parklands, and discuss its possible future.

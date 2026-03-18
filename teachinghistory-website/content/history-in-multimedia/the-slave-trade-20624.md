@@ -12,6 +12,41 @@ keywords: South American, North America, colonies, colonists, colonization, Euro
 website_url: http://podcast.history.org/2007/02/12/the-slave-trade-2/
 date_published: '2007-02-12T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- African Americans
+- Business
+- Consumer Culture
+- Economy
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Labor
+- New England
+- Slavery
+- Southern States
+tags:
+- Africa
+- Africans
+- Colonial Williamsburg
+- Europe
+- North America
+- South American
+- Virginia
+- colonies
+- colonists
+- colonization
+- race
+- race relations
+- racism
+- rum
+- slave trade
+- trade
+- triangular trade
 ---
 
 Bill White, Executive Producer and Director of Educational Program Development at Colonial Williamsburg, discusses the range of the slave trade and its importance to the colonial and global economy, as well as Colonial Wiliamsburg's efforts to educate on the slave trade and slavery in general.

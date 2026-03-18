@@ -15,9 +15,13 @@ author_image_fid: '9185'
 summary: Slavery in colonial America was not an exclusively Southern institution.
 splash_image: /files/slavessplash.jpg
 author_image: /files/author_image/zagarri_0_0.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Slavery
 ---
-
-
 
 While there are many misconceptions about this time period in American history, some of the most egregious surround the institution of slavery in the mainland colonies of British North America. It is common to read back into colonial times an understanding of slavery that is based on conditions that existed just prior to the Civil War. It is also important to understand slavery as an historical institution that changed over time and differed from place to place. To that end, one of the most common misconceptions is that slavery was a uniquely or distinctively Southern institution prior to the American Revolution.
 
@@ -50,16 +54,29 @@ Nonetheless, during and immediately after the American Revolution, many individu
 ---
 
 **PBS. [*Africans in America*](http://www.pbs.org/wgbh/aia/rb_index_hd.html).** 
+
 This site, associated with the PBS documentary series of the same name, contains numerous primary source documents relating to slaves and slavery in colonial British North America.
+
 **University of Virginia and Virginia Foundation for the Humanities. [*The Atlantic Slave Trade and Slave Life in the Americas: A Visual Record*](http://www.slaveryimages.org/).**
+
 This website contains over 1,200 images of various aspects of the slave trade, including contemporaneous drawings of the capture in Africa, the Middle Passage, and life in the Americas.
+
 **[*The Trans-Atlantic Slave Trade Database*](http://www.slavevoyages.org).**
+
 This site contains information on over 35,000 slaving voyages throughout the entire world. The site, which includes interactive maps, provides information on specific slave ships; estimates of the numbers of enslaved people brought from specific parts of Africa to specific parts of the Americas; and an African names database as well as several scholarly essays which analyze the data.
+
 **Berlin, Ira. *Many Thousands Gone: The First Two Centuries of Slavery in North America*. Cambridge: Harvard University Press, 1998.** 
+
 This book sketches out regional differences in the institution of slavery in various parts of North America and explores the relationship between slave labor and the economy. It also explores how regions changed over time to allow slavery to have more or less importance in defining the society's characteristics.
+
 **Carretta, Vincent. *Equiano the African: Biography of a Self-Made Man*. New York, Penguin, 2005.** 
+
 This is a critical analysis of one of the most famous autobiographies of an enslaved person who traveled throughout the Atlantic world in the colonial era.
+
 **Jordan, Winthrop D. *White Over Black: American Attitudes toward the Negro, 1550-1812*. Chapel Hill: University of North Carolina Press, 1968.** 
+
 This is a classic work that discusses changing American attitudes toward Africans and African Americans over time. The book includes a discussion of slavery in the colonial North as well as the South, and explores the effects of the American Revolution on slavery.
+
 **Morgan, Edmund S. *American Slavery, American Freedom: The Ordeal of Colonial Virginia*. New York: W.W. Norton and Company, 1975.** 
+
 This is a classic work which in the first half discusses the evolution in 17th-century Virginia from a labor force consisting primarily of white indentured servants to one dominated by slaves. The second part of the book grapples with the paradox of how some of the most fervent leaders of the American Revolution could at the same time hold human beings as slaves.

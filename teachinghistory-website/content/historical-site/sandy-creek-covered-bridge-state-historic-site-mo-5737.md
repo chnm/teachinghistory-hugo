@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 5737
 website_url: http://mostateparks.com/park/sandy-creek-covered-bridge-state-historic-site
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Midwestern States
+tags:
+- Missouri
+- bridges
+- covered bridges
+- infrastructure
+- parks
 ---
 
 Sandy Creek Covered Bridge boasts the appearance of an old red barn. It was one of six bridges built in 1872 to allow passage from the Jefferson County seat of Hillsboro to St. Louis.
+
 The site is open to the public, but unstaffed; however, interpretive programs for groups may be arranged.

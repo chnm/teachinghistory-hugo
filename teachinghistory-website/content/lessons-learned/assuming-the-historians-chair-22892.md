@@ -25,8 +25,14 @@ author_image_fid: '2335
 summary: Sit in the *Historian's Chair* to engage with primary and secondary sources.
 splash_image: /files/Assuming_The_Historians_Chair_-_432x240.jpg
 image: /files/HistoriansChair2LoC.jpg
+tags:
+- Evaluation
+- classroom activities
+- historians
+- historical thinking
+- primary sources
+- secondary sources
 ---
-
 
 The [Chicago History Project](http://www.newberry.org/chicago-and-midwest) (CHP), focused on significantly increasing the depth of historical content and the integration of historical thinking skills in middle and high school American history courses. CHP promoted this scholarly approach in several ways, particularly in the *Historian's Chair* sessions introduced during the summer institute in the 2nd year of the project.
 
@@ -36,6 +42,7 @@ This aspect of the summer institute was modeled after the *Author's Chair* strat
 > The strategy required each participant to don the role of the historian and participate in "doing history."
 
 The *Historian's Chair* sessions allowed teachers to enter into a community of inquiry and in this case the scholarly community of historians. According to Seixas (1993), being a part of such a community can enhance a teacher's understanding of historiography and the practice of history.
+
 In these sessions, teachers learned from an experienced historian in the field as well as one another as they presented their historical arguments and received feedback from the historian-facilitator and their colleagues. In this forum, teachers received feedback on the selection of their documents and how well those documents supported the lesson. One teacher commented that these sessions "gave me insight on how to teach different eras/themes in history. The various readings refreshed my knowledge."
 
 ## Teacher Ratings of the Historian's Chair
@@ -55,4 +62,5 @@ One teacher noted that CHP "changed my views on using secondary sources in my cl
 ## References
 
 Keith Barton and Linda Levstik, [*Teaching History for the Common Good*](http://books.google.com/books?id=ejN-aWJsGfgC&dq=Teaching+History+for+the+Common+Good&source=gbs_navlinks_s) (Mahwah, NJ: Lawrence Erlbaum Associates, 2004).
+
 Peter Seixas, "The Community of Inquiry as a Basis for Knowledge and Learning: The Case of History," *American Educational Research Journal* 30, no. 2 (1993): 305-324.

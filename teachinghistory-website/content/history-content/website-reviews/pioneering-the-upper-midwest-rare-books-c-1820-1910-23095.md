@@ -14,8 +14,42 @@ summary: Explore Michigan, Minnesota, and Wisconsin life through rare books.
 splash_image: /files/splash-wr-mmwbooks.jpg
 thumbnail: /files/Images_of_Native_Americans_432x240.jpg
 image: /files/website_image/PionUppeImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Economy
+- Environment
+- Global Contact
+- Immigration
+- Labor
+- Midwestern States
+- Military History
+- Politics
+- Popular Culture, Leisure
+- Radicalism
+- Reform
+- Religion
+- Rural Life
+- Women
+evidence_types:
+- Literary Sources
+- Personal Accounts
+resource_types:
+- Images
+- Text
+tags:
+- Michigan
+- Minnesota
+- Wisconsin
 ---
 
-
 This American Memory website traces the history of the Upper Midwest (Michigan, Minnesota, and Wisconsin) from the 17th century to the early 20th century, through 138 volumes drawn from the Library of Congress General Collection and the Rare Books and Special Collection Division. Selected works include first-person accounts, biographies, promotional literature, local histories, ethnographic and antiquarian texts, and colonial archival documents that depict the region's land and resources, cross-cultural encounters, experiences of pioneers and missionaries, soldiers, immigrants, reformers, growth of communities, and development of local culture and society. Each work is available in full-text transcription or page image, and is accompanied by notes giving the title, author, publication information, and a 300–350 word summary of the contents.
+
 The site also offers a 2,000-word essay on the history of the Upper Midwest that covers the discovery, exploration, settlement, and development of the region from pre-contact to the early 20th century; a regional map dated 1873; links to more than 40 related websites; and a bibliography of nine related works, three of which are ideal for younger readers. The site can be searched by keyword and browsed by author, subject, and title. For those interested in the history of the Upper Midwest and Great Lakes region, this site offers some informative resources.

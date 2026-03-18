@@ -11,7 +11,29 @@ keywords: birth rate, demographics, families, family, fertility, Victorian, Vict
 website_url: http://lincoln.lib.niu.edu/theme1video.html
 date_published: '2008-05-14T00:00:00'
 series_name: Economic Development and Labor Video
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- Children
+- Daily Life
+- Family Life
+- Gender
+- Ideas & Ideologies
+- Reform
+- Women
+tags:
+- Victorian
+- Victorian era
+- Victorian family
+- Victorian period
+- birth rate
+- demographics
+- families
+- family
+- fertility
 ---
 
 Kathryn Kish Sklar of SUNY-Binghamton discusses the change in family structure in the mid-19th century which heralded the institutionalization of the "Victorian family," in which the husband and the wife were seen as inhabiting separate "spheres" of work and home.
+
 To listen to this lecture, select "Family Life and the Development of the Middle Classes in Antebellum America" under "Economic Development and Labor Video."

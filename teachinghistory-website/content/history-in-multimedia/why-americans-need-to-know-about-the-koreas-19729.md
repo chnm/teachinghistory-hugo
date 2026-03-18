@@ -11,7 +11,24 @@ keywords: North Korea, South Korea, foreign policy, foreign affairs, foreign rel
 website_url: http://www.fpri.org/multimedia/20050409.schultz.americanskorea.html
 date_published: '2005-04-09T00:00:00'
 series_name: Understanding the Koreas
+time_periods:
+- All
+- General
+topics:
+- Education
+- Global Contact
+- International Relations
+- Military History
+- Politics
+tags:
+- Korea
+- North Korea
+- South Korea
+- foreign affairs
+- foreign policy
+- foreign relations
 ---
 
 Edward Schultz of the University of Hawaii gives a basic outline of the history of Korea, focusing on its importance to the global community and on resources educators can use to teach about Korea.
+
 Audio and video options are available.

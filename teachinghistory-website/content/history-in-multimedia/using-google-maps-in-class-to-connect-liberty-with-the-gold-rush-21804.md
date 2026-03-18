@@ -10,6 +10,21 @@ keywords: Gold Rush, trees, teaching strategies, Missouri
 website_url: http://speakingofhistory.blogspot.com/2009/03/using-google-maps-in-class-to-connect.html
 date_published: '2009-03-08T00:00:00'
 series_name: Speaking of History
+time_periods:
+- Expansion & Reform, 1801-1861
+- General
+topics:
+- Education
+- Environment
+- Global Contact
+- Midwestern States
+- Science & Tech.
+- Western States
+tags:
+- Missouri
+- gold rush
+- teaching strategies
+- trees
 ---
 
 Eighth-grade American history educator Eric Langhorst demonstrates how he uses Google Maps in class to show students historic sites.

@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 22453
 website_url: http://www.mining-museum.blackhills.com/
+time_periods:
+- General
+topics:
+- Economy
+- Midwestern States
+- Science & Tech.
 ---
 
 The Black Hills Mining Museum preserves and presents the history of the mining industry in the Black Hills region, from its earliest days to the present.
+
 The museum offers exhibits, guided tours of a simulated mine, and gold panning.

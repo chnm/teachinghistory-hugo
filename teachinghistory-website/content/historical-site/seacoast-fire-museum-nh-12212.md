@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 12212
 website_url: http://www.hamptonhistoricalsociety.org/fire.htm
+time_periods:
+- General
+topics:
+- New England
+- Science & Tech.
+tags:
+- New Hampshire
 ---
 
 The Seacoast Fire Museum is located in Hampton, NH, along New Hampshire's coastline. The museum chronicles the history of the Seacoast Fireman's Union and features a 19th century fire pumper along with other antique firefighting equipment such as a Whiting Light.
+
 The museum offers exhibits on firefighting history. The website offers historic photographs of the Seacoast Fireman's Union, photographs of the museum's exhibits, and basic visitor information.

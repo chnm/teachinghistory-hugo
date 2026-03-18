@@ -6,7 +6,13 @@ content_type: historical_site
 draft: false
 drupal_nid: 12946
 website_url: http://www.nhantiquarian.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- New England
 ---
 
 The New Hampshire Antiquarian Society seeks to preserve and share the history of Hopkinton, NH. To this end, the society operates a museum of local history.
+
 The society offers exhibits, school tours, a historical and genealogical research library, and research services. Appointments are appreciated for library use. A fee is charged for research conducted on request.

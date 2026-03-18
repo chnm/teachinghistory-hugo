@@ -12,10 +12,13 @@ summary: Are your students learning enough from their history textbooks? Connect
 splash_image: /files/textbookslearn.jpg
 image: /files/histtextbooks.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
+time_periods:
+- Revolution & New Nation, 1754-1820s
+tags:
+- textbooks
 ---
-
 
 * Review your textbook and analyze how particular topics are covered.
 * Give students a meaningful introduction before assigning readings from the text.

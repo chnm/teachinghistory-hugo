@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 8138
 website_url: http://needhamhistory.org/
+time_periods:
+- General
+topics:
+- Daily Life
+- New England
+tags:
+- Massachusetts
 ---
 
 The Needham Historical Society seeks to preserve and share the history of Needham, Massachusetts. Society artifacts date from the 18th century to present.
+
 The society offers exhibits and outreach programs. The website offers digital exhibits.

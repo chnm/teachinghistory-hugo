@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21430
 grade_levels:
-  - high
+- high
 ---
 
 ### SC.USHC-1. Standard / Course—United States History and the Constitution

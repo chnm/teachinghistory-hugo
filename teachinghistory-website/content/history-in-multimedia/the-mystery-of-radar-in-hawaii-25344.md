@@ -12,8 +12,16 @@ splash_image_fid: '8670'
 summary: Radar was a new technology during World War II. What role did it play in
   Pearl Harbor?
 splash_image: /files/splash-him-radar.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+- Science & Tech.
+tags:
+- Pearl Harbor
+- radar
 ---
 
-
 From C-SPAN's Video Library:
+
 "Historian Harry Butowsky discussed 'The Mystery of Radar in Hawaii.' In 1941 radar was a new technology that was being utilized at Pearl Harbor, but the infrastructure surrounding its monitoring was not fully developed. Mr. Butowsky used many slides while telling the December 7, 1941, story from the point that the Japanese planes were detected on radar to the ongoing discussion of assigning blame for the success of the surprise attack."

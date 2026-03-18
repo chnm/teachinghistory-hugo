@@ -11,6 +11,22 @@ keywords: MIT, colleges, universities, politicians, Secretaries of State, Secret
 website_url: http://video.mit.edu/watch/reflections-9013/
 date_published: '2003-04-09T00:00:00'
 series_name: Robert A. Muh Alumni Award
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+tags:
+- MIT
+- Secretaries of Labor
+- Secretaries of State
+- Secretaries of the Treasury
+- colleges
+- politicians
+- universities
 ---
 
 Former Secretary of State and MIT alum George Shultz speaks on his acceptance of the Robert A. Muh Award. He reflects on his time at the Massachusetts Institute of Technology and his views on the current state of world affairs and U.S. foreign policy.

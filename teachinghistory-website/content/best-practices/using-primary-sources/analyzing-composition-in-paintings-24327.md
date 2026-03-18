@@ -12,9 +12,15 @@ summary: Incorporate art into lesson plans with this resource from The Metropoli
   Museum of Art.
 splash_image: /files/compositionsplash.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- analyzing images
+- art analysis
+- historical paintings
+- images
+- models of analysis
+- teaching art
 ---
-
 
 The Metropolitan Museum of Art’s site provides a straightforward [explanation](https://www.metmuseum.org/learn/educators/lesson-plans/bravery-stands-tall) of how to analyze the composition of historical paintings. Using Emanuel Leutze’s famous painting of George Washington crossing the Delaware, the site explains how artists use various elements of composition like lighting to convey particular messages about the events depicted in paintings. For lesson plans on how to interpret historical paintings check out this site.

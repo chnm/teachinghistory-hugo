@@ -11,9 +11,32 @@ keywords: chocolate, food, foodways, colonies, colonists, Virginia, Williamsburg
 website_url: http://podcast.history.org/2009/02/09/colonial-chocolate/
 date_published: '2009-02-09T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Consumer Culture
+- Economy
+- Global Contact
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- beverages
+- chocolate
+- colonies
+- colonists
+- drinks
+- food
+- foodways
+- sugar
+- trade
 ---
 
 From the Colonial Williamsburg [website](http://www.history.org/):
+
 "Chocolate held the same appeal in the 18th century as it does in the 21st. Colonists spiced it, baked it, drank it, and drizzled it with an eagerness which makes the past seem not such a distant place."
+
 A journeyman cook in Historic Foodways at Colonial Williamsburg, Jim Gay, talks about making chocolate.
+
 Learn more about colonial foods by clicking [here](http://www.history.org/Almanack/life/trades/tradefood.cfm).

@@ -13,7 +13,17 @@ summary: Can you answer these questions about the "exploration race" that brough
   Europeans to North and South America?
 splash_image: /files/splash-quiz-earlyex.jpg
 thumbnail: /files/quiz_thumbnail/PapeJohnThumbnail.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Global Contact
+tags:
+- France
+- Portugal
+- Spain
+- The Netherlands
 ---
-
 
 As the 16th century began, the nations of Europe kicked off an "exploration race," scrambling to explore and lay claim to areas of North and South America. Dreams of international wealth and power hinged on the acquisition of colonies. Answer these questions about European exploration and colonization in the Western Hemisphere.

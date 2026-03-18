@@ -14,8 +14,31 @@ splash_image_fid: '7832'
 summary: Patrick Clawson, Deputy Director of Research at the Washington Institute
   for Near East Policy, looks at Iran's nuclear program and its development.
 splash_image: /files/splash-91161.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- General
+topics:
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+- Radicalism
+tags:
+- Al-Qaeda
+- Iran
+- War on Terror
+- War on Terrorism
+- foreign affairs
+- foreign policy
+- foreign relations
+- terror
+- terrorism
+- terrorists
+- war
+- wars
 ---
 
-
 Patrick Clawson, Deputy Director of Research at the Washington Institute for Near East Policy, looks at Iran's development of nuclear weapons.
+
 Audio and video options are available.

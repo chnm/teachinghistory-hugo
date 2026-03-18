@@ -10,11 +10,36 @@ splash_image_fid: '3605'
 summary: What if you could meet Clara Barton? Josephine Baker? Who says you can't!
 splash_image: /files/WomeninHistM2SplshNYPL.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- General
+topics:
+- African Americans
+- Art
+- Daily Life
+- Ethnicity
+- Family Life
+- Gender
+- Health & Medicine
+- Ideas & Ideologies
+- Immigration
+- Legal History
+- Literature
+- Midwestern States
+- Military History
+- Politics
+- Popular Culture, Leisure
+- Reform
+- Religion
+- Science & Tech.
+- Women
+tags:
+- Ohio
+- re-enactors
 ---
 
-
 Women in History seeks to increase awareness of women's impact on U.S. history through dramatic re-creations of the lives of notable female figures. Costumes are period or patterned from period pieces, and hairstyles are created by a specialist in historic hair design. The organization is able to portray more than 100 historical figures.
+
 The organization offers presentations, which generally include two 25-minute living history presentations by costumed "historical figures," an opening and closing, and time for questions and answers. The organization also offers two programs designed specifically for elementary and middle school students.

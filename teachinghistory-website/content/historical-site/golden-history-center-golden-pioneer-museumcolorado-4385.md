@@ -6,6 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 4385
 website_url: http://www.goldenhistorymuseums.org/goldenhistorycenter.php
+time_periods:
+- All
+- General
+topics:
+- Western States
+tags:
+- Colorado
+- museums
 ---
 
 The Golden History Center, formerly known as the Golden Pioneer Museum, is located in the heart of Golden's historic downtown. Our permanent exhibits provide a wonderful walk through Golden history, and our special exhibits highlight fascinating lesser-known subjects.

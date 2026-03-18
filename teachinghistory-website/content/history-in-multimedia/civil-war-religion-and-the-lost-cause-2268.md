@@ -12,7 +12,41 @@ keywords: Civil War, wars, war, religious tension, religious conflict, Antebellu
 website_url: http://teachingamericanhistory.org/institutes/2003/lincoln_readings.html
 date_published: '2003-06-23T00:00:00'
 series_name: Abraham Lincoln, Slavery, and the Civil War
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Daily Life
+- Ethnicity
+- Ideas & Ideologies
+- Media
+- Military History
+- Politics
+- Religion
+- Slavery
+- Southern States
+tags:
+- Antebellum
+- Civil War
+- Gods and Generals
+- abolition
+- abolitionism
+- abolitionists
+- film
+- films
+- movies
+- politicians
+- race
+- race relations
+- racism
+- religious conflict
+- religious tension
+- slaves
+- soldiers
+- war
+- wars
 ---
 
 Professor Steven E. Woodworth examines the "Lost Cause" view of the Civil War—as the South as justified in going to war. Woodworth also looks at the religious life and beliefs of Civil-War-era soldiers and civilians and how religion contributed to the war and the perspectives of those waging it. He refers to the film *Gods and Generals* and scholarly criticism of it.
+
 To listen to this lecture, scroll to the guest lecture after session four, and select the RealAudio link to the left of the text.

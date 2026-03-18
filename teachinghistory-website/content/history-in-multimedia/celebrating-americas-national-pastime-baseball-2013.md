@@ -10,7 +10,22 @@ keywords: baseball, media coverage, sports, mass media, reporting, reportage
 website_url: http://dev.forum-network.org/lecture/celebrating-americas-national-pastime-baseball
 date_published: '2004-03-30T00:00:00'
 series_name: 'Ken Burns: Baseball'
+time_periods:
+- General
+topics:
+- Business
+- Consumer Culture
+- Media
+- Popular Culture, Leisure
+tags:
+- baseball
+- mass media
+- media coverage
+- reportage
+- reporting
+- sports
 ---
 
 A panel including sports columnists and announcers and the Boston Red Sox president discusses how perception and management of baseball has changed over time. The panel addresses contemporary material as well as historical.
+
 Video and audio options are available.

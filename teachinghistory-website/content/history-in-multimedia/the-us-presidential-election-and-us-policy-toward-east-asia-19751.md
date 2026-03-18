@@ -12,7 +12,27 @@ keywords: East Asia, China, presidents, presidential elections, elections, forei
 website_url: http://www.fpri.org/multimedia/20080414.uselectionpolicyeastasia.html
 date_published: '2008-04-14T00:00:00'
 series_name: Elections, Political Transitions, and Foreign Policy in East Asia
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+tags:
+- China
+- East Asia
+- elections
+- foreign policy
+- foreign relations
+- political campaigns
+- politicians
+- presidential campaigns
+- presidential elections
+- presidents
 ---
 
 Harvey Sicherman of the Foreign Policy Research Institute, Walter A. McDougall of the University of Pennsylvania, Lowell Dittmer of the University of California at Berkeley, and Robert G. Sutter of Georgetown University examine U.S. policy toward East Asia during the George W. Bush administration; and consider the impact which the 2008 presidential campaign and the upcoming change in leadership might have on policy.
+
 Video and audio options area available.

@@ -12,7 +12,29 @@ keywords: U.S. Supreme Court, courts, law, laws, trials, U.S. Constitution, guns
 website_url: http://teachingamericanhistory.org/institutes/2003/supremecourt_readings.html
 date_published: '2003-07-11T00:00:00'
 series_name: The Origins and Development of the Supreme Court
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Daily Life
+- Ideas & Ideologies
+- Legal History
+- Literature
+tags:
+- Bill of Rights
+- National Firearms Act
+- Second Amendment
+- U.S. Constitution
+- U.S. Supreme Court
+- U.S. v. Miller
+- courts
+- firearms
+- gun control
+- guns
+- law
+- laws
+- trials
 ---
 
 Professor Jeffrey Sikkenga looks at the Second Amendment and its interpretation. He focuses on the 1939 U.S. Supreme Court case *U.S. v. Miller*, which has been interpreted as both supporting gun control and supporting the right to bear arms.
+
 To listen to this lecture, scroll to session 12, and select the corresponding RealAudio link to the left.

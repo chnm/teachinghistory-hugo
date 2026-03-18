@@ -17,8 +17,9 @@ summary: Looking for an open-source way to network with students and colleagues?
 splash_image: /files/moodlesplash.jpg
 image: /files/moodleimage.jpg
 author_image: /files/author_image/dlaufenberg1_1_2.jpg
+tags:
+- Collaboration
+- management
 ---
-
-
 
 Moodle is an open-source learning management system that can greatly enhance a teacher's ability to measure, monitor, and provide feedback for student work.

@@ -12,10 +12,25 @@ thumbnail_fid: '3013'
 summary: There’s more to it than Seneca Falls.
 splash_image: /files/quiz-splash-whq_0.jpg
 thumbnail: /files/quiz_thumbnail/ChinUSThumbnail.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Gender
+- Reform
+- Women
+tags:
+- Seneca Falls
+- suffrage
+- suffragism
+- women's rights movement
 ---
 
-
 Textbooks often emphasize the Seneca Falls Convention of 1848 and the Declaration of Sentiments calling for women’s suffrage as the core of the 19th-century women’s reform movement. Many women, however, had other ideas for promoting social change.
+
 Read about four 19th-century activists, below, and then decide which woman held each of the views that follow:
 
 * Catharine Beecher, a supporter of education for women and of valuing women’s domestic and child-rearing roles;

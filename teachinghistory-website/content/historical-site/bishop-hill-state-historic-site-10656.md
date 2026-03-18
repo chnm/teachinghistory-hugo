@@ -6,7 +6,31 @@ content_type: historical_site
 draft: false
 drupal_nid: 10656
 website_url: http://www.illinoishistory.gov/hs/bishop_hill.htm
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- Daily Life
+- Ethnicity
+- Global Contact
+- Ideas & Ideologies
+- Immigration
+- Midwestern States
+- Religion
+tags:
+- Illinois
+- Sweden
+- Swedish Americans
+- barns
+- churches
+- hotels
+- immigrants
+- pietists
+- utopian communities
+- villages
 ---
 
 Bishop Hill was the site of a utopian religious community founded in 1846 by Swedish pietist Eric Janson (1808–1850) and his followers. A number of historically significant buildings have survived and are scattered throughout the village, four of which are owned by the state and managed as part of the Bishop Hill State Historic Site. The 1848 Colony Church is a two-story frame building. The three-story stuccoed-brick 1850s Colony Hotel served commercial travelers and provided a link to the outside world. The 1850 "Boys' Dormitory" is a small two-story frame structure believed to have provided housing for boys making the transition to working adulthood. An 1850s Colony barn was relocated behind the Hotel to the site of the original Hotel stable. In addition to the historic structures, the state owns the village park with a gazebo and memorials to the town's early settlers and Civil War soldiers. The brick museum building houses a valuable collection of primitivist paintings by colonist Olof Krans (1838–1916).
+
 The site offers exhibits, a short film, and occasional recreational and educational events.

@@ -6,9 +6,9 @@ content_type: tah_grant
 draft: false
 drupal_nid: 24923
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
 
 The districts participating in this project are all New York City charter schools with limited funds for professional development; this consortium will help them meet a common need. During the school year, teachers will have seven 3-hour workshops as well as six hours of classroom-based modeling and guided practice; summer activities will include three 5-hour sessions. All of these events will include both content and pedagogy, and locations will be split between Columbia University, the home school, local museums and historic sites. Five cohorts of 32 teachers, one each year of the grant, will participate. Each will study the same time periods, but will have a different annual focus (see topics, above). One project goal is to create a community of learners that will expand to other charter schools. Teachers will all study the same historical content, then learn grade-appropriate approaches to teaching it. For example, when studying Jacksonian Democracy (universal suffrage for white males, an economy that depended on slavery, the shifting understanding of citizenship), elementary students might work from an old photo to create a short biography showing how events impacted the person's life. Middle school students might create a board game based on an important industry of the time, and high school students might write newspaper editorials that take opposing views of an issue. Teachers will create a variety of products, including lesson plans, journal articles, conference presentations and videos; all will be available on the Web sites of local, regional and national organizations as well as through professional conferences and publications.

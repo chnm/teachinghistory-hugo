@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21022
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### GA.SS8H. Strand/topic: Georgia Studies

@@ -15,10 +15,13 @@ splash_image: /files/WebPoster432x240.jpg
 thumbnail: /files/quiz_thumbnail/FatsWallThumbnail.jpg
 image: /files/WebPosterImage.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+tags:
+- Collaboration
+- management
+- presentation
 ---
-
 
 Web Poster Wizard is an all-purpose web publication tool used for both project and classroom management and for projects and presentations.

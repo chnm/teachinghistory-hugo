@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21372
 grade_levels:
-  - middle
+- middle
 ---
 
 * ### OK.1. Content Standard / Course: United States History (1760-1877)

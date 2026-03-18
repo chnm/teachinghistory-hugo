@@ -6,6 +6,11 @@ content_type: historical_site
 draft: false
 drupal_nid: 4324
 website_url: http://www.koshkonong.org/
+time_periods:
+- All
+- General
+topics:
+- Midwestern States
 ---
 
 "Koshkonong Prairie Historical Society, KPHS, is a non-stock and non-profit corporation organized under the provisions of Chapter 181 of the Wisconsin Statutes, and was created for the purpose of preserving, advancing and disseminating knowledge of the history of Koshkonong Prairie."

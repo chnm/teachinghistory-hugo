@@ -18,9 +18,12 @@ summary: Classroom discussions need not be argumentative and unproductive. Disco
 splash_image: /files/discussionsplash.jpg
 image: /files/discussionimage.jpg
 author_image: /files/author_image/author_4.jpg
+tags:
+- DBQ
+- DBQs
+- class discussion
+- discussion
 ---
-
-
 
 ## What Is It?
 

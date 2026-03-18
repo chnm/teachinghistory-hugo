@@ -22,13 +22,20 @@ summary: Listen in on a conversation about curriculum, technology, and commonali
   Mabel Scaltritti.
 splash_image: /files/arg_naps2.jpg
 author_image: /files/author_image/tho_1.jpg
+tags:
+- Argentina
+- common core standards
+- curriculum
+- curriculum development
+- technology
 ---
 
-
-
 "Globalization" is a term that educators often overuse. Perhaps influenced by books such as Thomas Friedman's *The World is Flat* and Franklin Foer's *How Soccer Explains the World*, the term gained attention in the late 1990s. A more globalized curriculum opened new possibilities for U.S. historians and educators, but suggestions on how to implement such an approach were often vague and muddled.
+
 Between 1997 and 2000, the Organization of American Historians and the New York University Project on Internationalizing the Study of American History organized the [Pietra Conference](http://www.oah.org/activities/lapietra/index.html) to address globalization in history education. The basic premise of this project was to move beyond a treatment of the nation as "self-contained and undifferentiated." If educators could reassess the interrelated aspects of historical events, transnational themes could become a far more integral part of U.S. history courses. Emphasis, then, could shift towards the varying contexts and scales of experience in U.S. history. Students exploring British America, for example, can view the 13 colonies within the context of empires and the Atlantic World. Native Americans in the West could be studied in relation to other indigenous groups of the Pacific Rim. Likewise, the American Revolution could be analyzed as the initiating event of a global system of democratic revolutions—especially influential in the hemispheric context. The New Deal, for its part, could be presented as one example of a transnational age of social politics.
+
 Sounds interesting, right? Although some international contextualization has seeped into the U.S. history curriculum at the collegiate and secondary school level, the story of the United States remains rather insulated from the larger world. Moreover, U.S. educators rarely take advantage of digital communication tools, like [Skype](http://teachinghistory.org/digital-classroom/tech-for-teachers/23569), in order to conference with other teachers around the world concerning the various ways that history courses are taught in global classrooms.
+
 Taking advantage of research travel that took me to South America, I interviewed the social studies curriculum specialist at the Argentine Ministry of Education in Buenos Aires. Addressing a variety of topics—technology, national standards, revisions and changes in social studies curriculum, and thematic instruction—Mabel Scaltritti provided an insightful look into the national educational system and what U.S. and Argentine social studies educators can learn from each other.
 
 ### On the structure of Argentina's social studies curriculum
@@ -54,5 +61,7 @@ Some training is starting to take place on the use of digital tools in the class
 ## Conclusion
 
 Although differences between the Argentine and U.S. social studies curriculum and educational systems are readily apparent, we can also learn from the similarities. The challenges teachers face in Buenos Aires are not vastly different than those encountered by my teaching colleagues in Washington, DC. Barriers to a more sophisticated, and digital, history curriculum are also the same: lack of financial resources, local administrative concerns that override curriculum needs, and a need for more qualified trainers and faculty.
+
 One lesson U.S. educators could learn from their Argentine colleagues is to consistently integrate the story of the U.S. into a more transnational context through thematic instruction. Although U.S. history is important and unique in many ways, an insular approach limits the complexity of America's relationship to the world over several centuries. Rather than minimizing the influence of neighboring countries, U.S. history teachers could emphasize, for example, the interconnectivity that made New Orleans and Ybor City (to name two examples) key cities of a Caribbean world.
+
 With state and national standards already reflecting a variety of themes and objectives that encourages global connections, the goals of the Pietra conference do not conflict with the teaching of U.S. history. My conversation with Scaltritti only illuminated the need for more open communication between history educators across the world, which could go a long ways towards a more dynamic U.S. history curriculum for students.

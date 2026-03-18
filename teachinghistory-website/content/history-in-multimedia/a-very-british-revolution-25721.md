@@ -9,7 +9,10 @@ duration: 00:10:59
 website_url: http://podcast.history.org/2012/08/06/a-very-british-revolution/
 date_published: '2012-08-06T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
 ---
 
 From the Colonial Williamsburg: Past and Present Podcasts website—
+
 "The American Revolution came from an old British tradition. Hear how the English were in the habit of rebelling in “A Very British Revolution,” a tour at The Colonial Williamsburg Art Museums led by Emma Ross."

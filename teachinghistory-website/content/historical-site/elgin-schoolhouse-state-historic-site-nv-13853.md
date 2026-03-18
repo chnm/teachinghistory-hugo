@@ -6,7 +6,21 @@ content_type: historical_site
 draft: false
 drupal_nid: 13853
 website_url: http://parks.nv.gov/parks/elgin-schoolhouse-state-historic-site/
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Children
+- Daily Life
+- Education
+- Western States
+tags:
+- Nevada
+- schoolhouses
+- schools
 ---
 
 The Elgin Schoolhouse is a historic school in rural Nevada's Lincoln County. The schoolhouse was used from 1922 through 1967, when its last student reached eighth grade. Today, the Elgin Schoolhouse State Historic Site features half of the house's original items. The rest are authentic to the time period.
+
 The site offers exhibits and tours.

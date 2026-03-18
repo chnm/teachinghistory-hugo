@@ -122,12 +122,13 @@ author_image_fid: '6228
   6228'
 splash_image: /files/flowermaking_splash.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
 
-
 Kathryn Lindholm-Leavy and Graciela Borsato, “Academic Achievement,” in F. Genesee (Ed.), *Educating English language learners* (New York: Cambridge University Press, 2006), 192.
+
 Cruz & Thornton, "Social Studies for English Language Learners: Teaching Social Studies that Matters," *Social Education*, in press.
+
 See Cruz & Thornton book, 2009; see also, Jennifer Truran Rothwell, History Making and the Plains Indians, *Social Education*, 61, no. 1, pp., 4-9, 1996.

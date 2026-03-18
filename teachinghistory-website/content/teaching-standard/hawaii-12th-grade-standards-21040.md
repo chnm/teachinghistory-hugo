@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21040
 grade_levels:
-  - high
+- high
 ---
 
 * ### Content Standard / Course: Hawaii does not have Social Studies standards for Grade 12

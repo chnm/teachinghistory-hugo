@@ -10,6 +10,26 @@ keywords: Mexican-American War, Mexico, books, textbooks, texts
 website_url: http://www.npr.org/templates/story/story.php?storyId=6517854
 date_published: '2006-11-21T00:00:00'
 series_name: Morning Edition
+time_periods:
+- All
+- Expansion & Reform, 1801-1861
+- General
+topics:
+- Children
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Literature
+- Military History
+- Politics
+- Reform
+tags:
+- Mexican-American War
+- Mexico
+- books
+- textbooks
+- texts
 ---
 
 Historian Kyle Ward speaks with Steve Inskeep about his book, *History in the Making*. It chronicles the ways that U.S. history textbooks change over time in their portrayal of events like the Mexican-American War.

@@ -19,12 +19,22 @@ summary: Teaching the Reconstruction? Ford's Theatre's Sarah Jencks leads teache
 splash_image: /files/Fords.jpg
 author_image: /files/author_image/jencks_author_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- African Americans
+- Military History
+- Politics
+- Slavery
+- Southern States
+tags:
+- Abraham Lincoln
+- presidential inaugurations
+- presidents
 ---
-
-
 
 /files/media/video/Fords1.mp4
 

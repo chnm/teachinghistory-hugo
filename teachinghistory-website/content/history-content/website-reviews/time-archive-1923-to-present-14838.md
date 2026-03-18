@@ -14,9 +14,29 @@ summary: From its March 23, 1923 first edition to the present, *Time* presents a
   database of cover art.
 splash_image: /files/Time_Archive_1923_to_Present_432x240.jpg
 image: /files/website_image/14838.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Art
+- Consumer Culture
+- Media
+evidence_types:
+- Paintings and Prints
+- Photographs
+resource_types:
+- Images
+tags:
+- Time Magazine
+- magazines
+- mass media
+- periodicals
 ---
 
-
 *Time* magazine published its first edition on March 23, 1923. This website features all 4,428 *Time* magazine covers published since that time. Covers can be searched by keyword or browsed by year.
+
 Exploring *Time* covers from the early years shows that individuals (generally men in political leadership positions) were featured up until the late 1960s. Indeed, House of Representatives Speaker Joseph G. Cannon occupies *Time*'s first cover, China's General Chiang Kai-shek appears several times between the late 1920s and 1940s, African leaders surface at decolonization in the late 1950s, and Ralph Nader can be found trumpeting the "consumer revolt" on a cover from December 1969.
+
 Those interested in U.S. foreign policy (search China, Russia, Vietnam, or Latin America), popular culture and entertainment, the environment, religion, and legal history also will find valuable resources. Within each keyword search, suggestions for related topics are helpful.

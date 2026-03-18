@@ -5,7 +5,16 @@ lastmod: '2017-12-01T13:56:09'
 content_type: historical_site
 draft: false
 drupal_nid: 11215
+time_periods:
+- General
+topics:
+- Science & Tech.
+- Western States
+tags:
+- Washington
+- firefighting
 ---
 
 The Fire Service Museum of the Northwest presents firefighting history via photographs and historic firefighting equipment and apparatus.
+
 The museum offers exhibits and educational programs. Reservations are required for educational programs.

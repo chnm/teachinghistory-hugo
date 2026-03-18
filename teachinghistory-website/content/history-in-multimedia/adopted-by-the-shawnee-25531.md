@@ -9,7 +9,13 @@ duration: 00:10:59
 website_url: http://podcast.history.org/2012/03/19/adopted-by-the-shawnee/
 date_published: '2012-03-19T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+topics:
+- African Americans
+- American Indians
 ---
 
 From the Colonial Williamsburg: Past and Present Podcasts website—
+
 "Runaway slave Elizabeth found freedom, family, and equality when she was adopted into the Shawnee tribe. After ten years, she returned to slavery. Hope Smith shares the heartbreaking story behind this selfless act."

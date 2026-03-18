@@ -11,6 +11,23 @@ keywords: Boston, historical sites, Bunker Hill, meeting houses, Nantucket Afric
 website_url: http://dev.forum-network.org/lecture/boston-sites-and-insights-guide-historical-landmarks
 date_published: '2004-05-18T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- All
+- General
+topics:
+- Cities & Suburbs
+- Daily Life
+- Education
+- Environment
+- Literature
+- Military History
+- New England
+tags:
+- Boston
+- Bunker Hill
+- Nantucket African Meeting House
+- historical sites
+- meeting houses
 ---
 
 Susan Wilson, author of *Boston Sites and Insights: A Guide to Historical Landmarks*, examines Boston landmarks, from the African Meeting House and the famously misunderstood Bunker Hill, to reveal the lesser-known stories and facts about them. Her presentation includes slides.

@@ -6,7 +6,21 @@ content_type: historical_site
 draft: false
 drupal_nid: 13079
 website_url: http://www.fortdelaware.org/
+time_periods:
+- General
+topics:
+- Military History
+- Southern States
+tags:
+- Civil War
+- Delaware
+- WWII
+- War of 1812
+- World War II
+- forts
+- prisons
 ---
 
 The Fort Delaware Society operates the Fort Delaware Museum, Sutler Shop, and W. Emerson Wilson Research Library. Fort Delaware protected the Delaware River area between the War of 1812 and World War II. It is best known for its stint as a Civil War prison.
+
 The society offers exhibits and archive and reading library access. The archives and library are open to the public between October and April.

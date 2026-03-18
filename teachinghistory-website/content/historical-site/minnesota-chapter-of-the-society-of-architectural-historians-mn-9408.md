@@ -6,7 +6,17 @@ content_type: historical_site
 draft: false
 drupal_nid: 9408
 website_url: http://www.mnsah.org
+time_periods:
+- General
+topics:
+- Art
+- Midwestern States
+tags:
+- Minnesota
+- architecture
+- historical society
 ---
 
 The Minnesota Chapter of the Society of Architectural Historians is an interest group focused on the historical architecture of Minnesota.
+
 The society offers occasional guided tours of areas and structures of architectural historic interest.

@@ -6,7 +6,23 @@ content_type: historical_site
 draft: false
 drupal_nid: 9115
 website_url: http://www.hardinmuseums.org
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- General
+topics:
+- Art
+- Daily Life
+- Midwestern States
+- Military History
+tags:
+- Civil War
+- Fred Machetanz
+- Jacob Parrot
+- Kenton toys
+- Medal of Honor
+- Ohio
 ---
 
 The Sullivan-Johnson House presents the local history of Hardin County, Ohio. Collections include late 1800s Kenton toys and the Civil War medals of Jacob Parrot (1843-1908), the first recipient of the Medal of Honor. The home includes an 1890s parlor and paintings by Fred Machetanz (1908-2002).
+
 The house offers exhibits, period room, and group tours.

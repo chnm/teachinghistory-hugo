@@ -13,7 +13,32 @@ keywords: Civil War, war, wars, battles, the North, the South, Port Hudson, Vick
 website_url: http://teachingamericanhistory.org/institutes/2004/lincoln_readings.html
 date_published: '2004-06-24T00:00:00'
 series_name: Abraham Lincoln, Slavery, and the Civil War
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Cities & Suburbs
+- Military History
+tags:
+- Army of Northern Virginia
+- Army of Tennessee
+- Army of the Cumberland
+- Army of the Potomac
+- Chancellorsville
+- Chattanooga
+- Civil War
+- Duck River
+- Gettysburg
+- Mississippi River
+- Pennsylvania
+- Port Hudson
+- Vicksburg
+- Virginia
+- battles
+- generals
+- war
+- wars
 ---
 
 Professor Mackubin T. Owens details the Civil War campaigns—not just the battles—surrounding Vicksburg and Gettysburg. He looks at the choices and strategies of the generals involved in these campaigns.
+
 To listen to this lecture, scroll to the Thursday, June 24th, 9:00 am-10:30 am session; and select the corresponding RealAudio link to the left.

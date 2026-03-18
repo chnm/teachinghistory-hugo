@@ -6,7 +6,15 @@ content_type: historical_site
 draft: false
 drupal_nid: 9193
 website_url: http://www.vacavilleheritagecouncil.org
+time_periods:
+- General
+topics:
+- Daily Life
+- Western States
+tags:
+- California
 ---
 
 The Vacaville Heritage Council is an archival organization focused on the history of Solano County, California.
+
 The council offers public access to archive materials.

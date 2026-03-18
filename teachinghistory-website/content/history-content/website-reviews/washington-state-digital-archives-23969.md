@@ -13,10 +13,31 @@ summary: Attention Washington State educators! Looking for primary sources? With
   than 84.5 million documents, this archive has what you need.
 splash_image: /files/Downriver_Bridge_432x240.jpg
 image: /files/website_image/image-washingtonuniv-fwr.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Western States
+evidence_types:
+- Maps
+- Official Documents
+- Photographs
+- Political Documents
+resource_types:
+- Audio
+- Images
+- Text
+tags:
+- Washington
 ---
 
-
 This massive archive contains more than 84.5 million documents, more than 26 million of which are fully keyword searchable, from Washington State and local agencies. These documents include contracts, birth, marriage, military, naturalization, death, cemetery, and census records, land records and surveys, oaths of office, maps, photographs, power of attorney records, and date from the late 19th century to the present.
+
 A detailed list of collections is available through the [Collections](http://www.digitalarchives.wa.gov/Collections) section. Here, users will find detailed information on all record collections, including dates and counties available, and options to search by county or within sub-collections.
+
 The casual user may want to begin with several browsable featured collections, which contain [photographs](http://www.digitalarchives.wa.gov/Collections/TitleInfo/333) from the Spokane city planning department, [audio recordings](http://www.digitalarchives.wa.gov/Collections/TitleInfo/509) of the Washington House of Representatives Committee Meetings, and [200 photographs](http://www.digitalarchives.wa.gov/Collections/TitleInfo/459) of daily life in the Big Bend region of the Columbia Basin.
+
 Useful for teachers and historical researchers interested in many aspects of life in the West, and those interested in genealogy with connections to Washington State.

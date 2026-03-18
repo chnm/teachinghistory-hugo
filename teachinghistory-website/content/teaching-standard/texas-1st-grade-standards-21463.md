@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21463
 grade_levels:
-  - elementary
+- elementary
 ---
 
 ## §113.12. Social Studies, Grade 1, Beginning with School Year 2011-2012.

@@ -16,14 +16,20 @@ splash_image: /files/NationalArchives432x240.jpg
 thumbnail: /files/quiz_thumbnail/1930Theater_Thumb.jpg
 ---
 
-
 The National Archives and Records Administration (NARA) holds more than 10 billion items addressing the social, economic, political, and cultural history of the U.S.
+
 In the recent site redesign NARA created a new [Teacher's Resources](http://www.archives.gov/education/) section. Check out the [training](http://www.archives.gov/nae/education/training.html) page for videoconference and summer workshops.
+
 Don't pass on their new page [DocTeach](http://docsteach.org/activities), which offers access to thousands of primary source documents and activities based on them.
+
 The previous version of this section is still available at [Educators and Students](http://www.archives.gov/nae/education/), a gateway to online resources and professional development opportunities for teachers. Links to the [Declaration of Independence,](http://www.archives.gov/exhibits/charters/declaration_sign.html) the [Constitution of the United States,](http://www.archives.gov/exhibits/charters/constitution.html) and the [Bill of Rights](http://www.archives.gov/exhibits/charters/bill_of_rights.html) with accompanying instructional materials are among the highlights.
+
 [Digital Vaults](http://www.digitalvaults.org/) is an interactive resource enabling visitors to manipulate digitized archive holdings to create historical scrapbooks and narratives.
+
 [Visit Presidential Libraries](http://www.archives.gov/presidential-libraries/visit/) is a gateway to the holdings, programs, and events of Presidential libraries across the country.
+
 [Regional Archives](http://www.archives.gov/locations/regional-archives.html) maps the locations of branches of the archives by state and territory and describes their holdings, events, and activities.
+
 Or search NARA's catalog through the [Archival Research Catalog (ARC).](http://www.archives.gov/research/arc/index.html) ARC offers approximately 78,000 digital images of governmental textual records, photographs, and maps. Materials date from the colonial period to the recent past. To access digitized materials only, check the box marked "Descriptions of Archival Materials linked to digital copies." A newer, more streamlined way to search is the [Online Public Access search](http://www.archives.gov/research/search/). Enter your keyword, and then select appropriate limitations (images, etc.) in the bar to the left of the search results.
 
 ## Regional Branches

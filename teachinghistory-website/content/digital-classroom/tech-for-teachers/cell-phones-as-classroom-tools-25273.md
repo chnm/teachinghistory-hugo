@@ -17,8 +17,14 @@ summary: 'Cell phones: classroom menace or handy learning tool?'
 splash_image: /files/cellphonesplash.jpg
 image: /files/cellphoneimage.jpg
 author_image: /files/author_image/mail_3.jpeg
+tags:
+- cell phones
+- classroom management
+- collecting and organizing
+- polls
+- surveys
+- teaching strategies
+- visuals and visualizing
 ---
-
-
 
 Cell phones are usually forbidden in the classroom; however, these tools can transform the cell phone into a useful learning device.

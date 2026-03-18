@@ -12,6 +12,32 @@ keywords: French, France, maps, cartography, cartographers, Williamsburg, Virgin
 website_url: http://podcast.history.org/2008/04/21/the-frenchmans-map/
 date_published: '2008-04-21T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Cities & Suburbs
+- Global Contact
+- Military History
+- Southern States
+tags:
+- American Revolution
+- Battle of Yorktown
+- France
+- French
+- Maps
+- Reconstruction
+- Revolutionary War
+- Siege of Yorktown
+- Virginia
+- Williamsburg
+- Yorktown
+- billeting
+- cartographers
+- cartography
+- militaries
+- military
+- restoration
+- troops
 ---
 
 Architectural researcher Ed Chappell describes the 1782 [Frenchman's Map](http://www.history.org/foundation/journal/Autumn07/map.cfm), an overhead view of the town of Williamsburg referred to in the restoration and reconstruction of Colonial Williamsburg.

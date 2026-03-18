@@ -9,7 +9,17 @@ duration: 00:10:16
 website_url: http://podcast.history.org/2011/11/14/a-method-for-madness/
 date_published: '2011-11-14T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Reform
+- Science & Tech.
+tags:
+- Colonial Williamsburg
+- mental illness
+- psychological treatment
 ---
 
 From the Colonial Williamsburg: Past and Present Podcasts site—
+
 "Doctors treating madness in 1773 embraced methods like bleeding, vomiting, restraint and intimidation. Interpreter Donna Wolf researched the topic for her program, 'A Method for Madness.'"

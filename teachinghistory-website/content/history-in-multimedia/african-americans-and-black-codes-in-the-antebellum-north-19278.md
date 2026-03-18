@@ -11,7 +11,29 @@ keywords: Illinois, free blacks, free African Americans, race, racism, race rela
 website_url: http://lincoln.lib.niu.edu/themevideo.html
 date_published: '2008-05-14T00:00:00'
 series_name: African-American Experience Video
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Cities & Suburbs
+- Ethnicity
+- Midwestern States
+- Politics
+- Reform
+- Rural Life
+- Slavery
+tags:
+- Antebellum
+- Illinois
+- free African Americans
+- free blacks
+- race
+- race relations
+- racism
+- slaves
 ---
 
 James O. Horton of George Washington University discusses the "black codes" put in place to discourage free blacks settling in antebellum Illinois and also examines the thriving urban free black communities which sprang up regardless of these codes.
+
 To view this clip, select "African Americans and Black Codes in the Antebellum North" under "African-American Experience Video."

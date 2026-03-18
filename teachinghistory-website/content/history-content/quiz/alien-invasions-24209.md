@@ -13,8 +13,21 @@ summary: For each pair of animal and plant species, identify the one that is *no
   native to America.
 splash_image: /files/Aliens_0.jpg
 thumbnail: /files/website_image/GothComeImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+topics:
+- Environment
+- Global Contact
+tags:
+- animals
+- ecology
+- plants
 ---
 
-
 America's wildlife looks different than it did before Columbus: Newcomers to North America introduced many plants and animals. Some introductions were accidental, but others were made to "improve" the New World.
+
 In each pair of species, one is native to America and one was introduced. Select the introduced species:

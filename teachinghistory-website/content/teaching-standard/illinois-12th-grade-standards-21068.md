@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21068
 grade_levels:
-  - high
+- high
 ---
 
 * ### IL.14. State Goal / Strand: Political Systems

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 20902
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### AR.G. Strand / Content Standard: Geography

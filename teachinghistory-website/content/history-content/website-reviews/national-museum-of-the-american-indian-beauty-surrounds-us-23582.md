@@ -15,7 +15,20 @@ summary: Online exhibit of more than 65 objects from Native cultures in North an
 splash_image: /files/NMAI_432x240.jpg
 thumbnail: /files/quiz_thumbnail/mlk_image-thumbnail_0.jpg
 image: /files/website_image/beautysurrounds.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- American Indians
+evidence_types:
+- Artifacts and Objects
+- Maps
+- Photographs
+resource_types:
+- Images
+- Text
 ---
-
 
 This exhibit features more than 65 objects from Native American cultures in North and South America. Beautifully displayed in 10 showcases, these objects address many aspects of American Indian life, such as identity, recreation, communication, dress, adornment, music, and dance. All images can be zoomed for detailed viewing and are accompanied by a brief description, information about Native cultures, and other facts. Some images are accompanied by related photographs. The "Containing Culture" case, for example, includes a Paviotso (Northern Paiute) carrying basket, c. 1900, make from willow shoots and leather and used by women to carry seed-foods or personal possessions on their backs. An accompanying undated photograph shows Kaibab Paiute women in Arizona using the baskets. Each case also includes a map locating the objects throughout the Americas, as well as an interactive activity that allows users to manipulate the objects onscreen—by placing instruments in "wind," "percussion," or "string" categories, for example.

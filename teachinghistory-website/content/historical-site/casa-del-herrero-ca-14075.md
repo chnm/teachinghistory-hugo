@@ -6,7 +6,34 @@ content_type: historical_site
 draft: false
 drupal_nid: 14075
 website_url: http://www.casadelherrero.com/index.html
+time_periods:
+- Emergence of Modern US, 1890-1930
+- Great Depression & WWII, 1929-1945
+topics:
+- Art
+- Business
+- Consumer Culture
+- Daily Life
+- Western States
+tags:
+- California
+- George Fox Steedman
+- George Steedman
+- Montecito
+- Spanish Colonial Revival
+- architecture
+- blacksmiths
+- estates
+- furnishings
+- furniture
+- homes
+- houses
+- museums
+- smithing
+- smiths
+- workshops
 ---
 
 The 1925 Casa del Herrero, meaning "house of the blacksmith," is a Spanish Colonial-style estate. The home is furnished with pieces original to the site; and contains drawings, sketchbooks, horticultural records, antiques, and books, which once belonged to the family in residence. The grounds contain extensive gardens. During the 1920s, a new form of distinctive California landscape design inspired by Spanish land and gardens rose to prominence. While the site name includes the word "blacksmith," the owner George Fox Steedman was an engineer by trade and a silversmith for enjoyment.
+
 The site offers period rooms; gardens; guided tours of the residence, workshop, and gardens; and guided group tours. Tours are by reservation only, and all participating children must be at least 10 years of age. With the exception of holiday tours, tours are available between mid-February and mid-November only.

@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21512
 grade_levels:
-  - middle
+- middle
 ---
 
 (Note: By the completion of eighth grade, Vermont students are expected to master the following standards.)

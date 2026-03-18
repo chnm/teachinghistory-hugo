@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21305
 grade_levels:
-  - high
+- high
 ---
 
 (Note: By the completion of twelfth grade, New Jersey students are expected to master the following standards.)

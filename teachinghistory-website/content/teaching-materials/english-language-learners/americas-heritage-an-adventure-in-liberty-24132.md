@@ -29,13 +29,15 @@ splash_image_fid: '6188'
 splash_image: /files/amheritage_img1.jpg
 image: /files/amheritage_img2.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
 
-
 [America's Heritage: An Adventure in Liberty](http://www.americanheritage.org/k-12_lessons.html) is a curriculum designed to teach students about the roots of our heritage and the responsibilities of American citizenship. The elementary-level plans in this curriculum are presented in both Spanish and English for English language learners.
+
 Spanish translations of all handouts and activities, including source documents such as the [Declaration of Independence](http://www.americanheritage.org/AHEF_National_Elementary_Spanish_Extraction_08_4_DeclarationofIndependence.pdf) and lyrics to the [Star Spangled Banner](http://www.americanheritage.org/AHEF_National_Elementary_Spanish_Extraction_08_11_StarSpangledBanner.pdf)
+
 are available in downloadable pdfs.
+
 The lessons are available free on Compact Disc (CD) or they may be downloaded from the website. Paper copies of the lessons are available in binders for $19.50.

@@ -14,9 +14,18 @@ summary: The American West meets the New Deal—how did the latter change the fo
   Professor Richard White explores the question.
 splash_image: /files/splash-lectures-glwest.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Economy
+- Western States
+tags:
+- New Deal
+- the West
 ---
 
-
 From the Gilder Lehrman Institute:
+
 Richard White, Margaret Byrne Professor of American History at Stanford University, explores the history of the American West in the 1930s and 1940s. He examines the broad transformations that took place in the West during the New Deal, but also draws attention to some deeper structures in the West that did not change during that time.

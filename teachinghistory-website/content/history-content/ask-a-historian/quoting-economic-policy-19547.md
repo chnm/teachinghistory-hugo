@@ -17,8 +17,20 @@ splash_image_fid: '4987'
 thumbnail_fid: '276'
 summary: Milton Friedman and Herbert Hoover are excellent sources.
 splash_image: /files/hoover-speech-new.jpg
+topics:
+- Economy
+- Education
+- Literature
+- Media
+- Politics
+tags:
+- command economies
+- politicians
+- presidents
+- primary sources
+- quotations
+- quotes
 ---
-
 
 Our resident historian suggests the following quotations. Here is a quote from Milton Friedman, from a column he wrote in *Newsweek,* dated July 14, 1975, on p. 71, entitled *National Economic Planning*:
 > The central planners want planning by them for us. They want the government—by which they really mean themselves—to decide "social priorities" (*i.e.* tell us what is good for us); "rationalize production" (*i.e.* tell us where and how we should work); assure "equitable distribution" (*i.e.* take from some of us to give to others of us). Of course, all this can be voluntary—if we are willing to turn our lives over to them. Otherwise, "antisocial behavior" must be restrained—who can gainsay that? The iron fist must be there—just in case.

@@ -16,9 +16,19 @@ summary: How did the women's suffrage movement use the rise of journalism to its
   TJ Boisseau looks at what photographs reveal.
 splash_image: /files/boisseausplash2.jpg
 author_image: /files/author_image/tj_headshot_with_brown_blurred_background_6.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Gender
+- Labor
+- Politics
+- Reform
+- Women
+tags:
+- Women's Movement
+- photographs
+- suffrage
 ---
-
-
 
 /files/media/video/Boisseau2a.mp4
 

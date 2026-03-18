@@ -11,6 +11,24 @@ keywords: fifes, drums, drumming, drummers, battles, American Revolution, Revolu
 website_url: http://podcast.history.org/2007/05/14/drummers-call/
 date_published: '2007-05-14T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Children
+- Military History
+- Southern States
+tags:
+- American Revolution
+- Revolutionary War
+- Virginia
+- Williamsburg
+- battles
+- drummers
+- drumming
+- drums
+- fifes
+- musical instruments
+- musicians
 ---
 
 Lance Pedigo, drum major of Fifes and Drums at Colonial Williamsburg, discusses preparations for the fourth annual weekend of "Drummer's Call," as well as the use of the fife and drum during the American Revolution.

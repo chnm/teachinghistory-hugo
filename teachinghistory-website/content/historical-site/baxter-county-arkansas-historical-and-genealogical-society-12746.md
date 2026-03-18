@@ -6,7 +6,22 @@ content_type: historical_site
 draft: false
 drupal_nid: 12746
 website_url: http://www.baxtercountyonline.com/bchgs/
+time_periods:
+- General
+topics:
+- American Indians
+- Business
+- Daily Life
+- Education
+- Family Life
+- Health & Medicine
+- Legal History
+- Science & Tech.
+- Southern States
+tags:
+- Arkansas
 ---
 
 The Baxter County, Arkansas, Historical and Genealogical Society preserves and shares the history of Baxter County, Arkansas. To this end, the society operates an archive. Collections include school records, military uniforms, photographs, railroad artifacts, Native American artifacts, historical hospital equipment, court records, genealogical records, and store records.
+
 The society offers archival access.

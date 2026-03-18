@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 22081
 website_url: http://www.accmuseum.org
+time_periods:
+- General
+topics:
+- American Indians
+- Western States
+tags:
+- Cahuilla
+- California
 ---
 
 The Agua Caliente Cultural Museum preserves the history and culture of the Agua Caliente Band of Cahuilla Indians and other Native cultures.
+
 The museum offers exhibits, lectures, traditional crafts classes for all ages, guided museum tours and canyon hikes for school groups, in-class outreach presentations, research library access by appointment, and other recreational and educational events.

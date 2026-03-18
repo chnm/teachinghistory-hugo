@@ -69,10 +69,8 @@ splash_image: /files/strugglesplash.jpg
 image: /files/struggleimage.jpg
 author_image: /files/author_image/author_2.jpg
 grade_levels:
-  - elementary
-  - middle
+- elementary
+- middle
 ---
-
-
 
 This is just a slice of a much broader work entitled, *Freedom to Express: Promoting Civic Literacy, Reading, and Writing for the English Language Learner*. This curriculum uses the First Amendment, namely, Freedom of Expression, as a frame of reference to launch and systematically teach ELLs how to successfully write a persuasive essay. To secure a copy please contact Michelle Herzog at Herczog\_Michelle at lacoe dot edu.

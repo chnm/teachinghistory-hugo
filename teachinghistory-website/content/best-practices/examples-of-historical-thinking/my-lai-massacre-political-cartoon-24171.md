@@ -17,10 +17,18 @@ summary: Professor Meredith Lair examines a 1971 political cartoon and what it s
 splash_image: /files/mylai.jpg
 author_image: /files/author_image/author_lair.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Legal History
+- Media
+- Military History
+tags:
+- My Lai
+- My Lai Massacre
+- Vietnam
 ---
-
-
 
 /files/media/video/Meredith1.mp4
 

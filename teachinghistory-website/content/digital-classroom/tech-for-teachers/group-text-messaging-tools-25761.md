@@ -12,7 +12,11 @@ summary: Students pay more attention to texts than emails? Speak to them in thei
   own language with tools that protect professional distance and privacy.
 splash_image: /files/splash-texting-tft.jpg
 image: /files/image-texting-tft.jpg
+tags:
+- cell phones
+- digital tools
+- management
+- texting
 ---
-
 
 Group text-messaging tools let teachers and students text without endangering privacy or professional distance.

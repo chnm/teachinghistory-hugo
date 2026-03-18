@@ -14,15 +14,27 @@ summary: Happy Presidents Day! What better place to turn to for presidential his
 splash_image: /files/splash-blog-presd11.jpg
 image: /files/image-blog-presday11.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Politics
+tags:
+- Presidents Day
+- presidential libraries
+- presidents
 ---
 
-
 Happy (almost) Presidents Day! Have your ever thought about all of the papers a presidency must create? Emails, memoranda, schedules, notes, speeches, letters, drafts, on and on and on, an entire term (or terms) set down in a sea of potential primary sources. But how can educators access this wealth of materials?
+
 In many cases, all you have to do is go online. Before the 20th century, presidents had ownership of their papers, and many were lost to time or split up in private collections. However, in 1939, President Franklin D. Roosevelt decided that his papers should become the property of the American people following his presidency. He donated both his papers and part of his Hyde Park estate to the government, and the first presidential library was born.
+
 In 1955, the [Presidential Libraries Act](http://www.archives.gov/presidential-libraries/laws/1955-act.html) set rules for gifting the government with property and other resources to be used to establish the libraries, and in 1978, the [Presidential Records Act](http://www.archives.gov/presidential-libraries/laws/1978-act.html) made it official—presidential papers were government property.
+
 Today, 13 presidential libraries house the papers of the last 13 presidents. The National Archives and Records Administration, which oversees the libraries, describes them as combination archive-museums, “bringing together in one place the documents and artifacts of a President and his administration and presenting them to the public for study and discussion without regard for political considerations or affiliation.”
 
 ## Presidential Libraries Online

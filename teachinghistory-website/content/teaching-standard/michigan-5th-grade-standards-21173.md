@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21173
 grade_levels:
-  - elementary
+- elementary
 ---
 
 * ### MI.U1. Strand / Standard Category: U.S. History and Geography (USHG) Era 1 - Beginnings to 1620

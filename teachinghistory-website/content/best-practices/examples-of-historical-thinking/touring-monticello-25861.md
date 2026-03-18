@@ -10,8 +10,21 @@ splash_image_fid: '10207'
 summary: Tour Monticello with TAH teachers and learn about the history behind Thomas
   Jefferson's home.
 splash_image: /files/housetoursplash_0.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Daily Life
+- Mid-Atlantic
+- Science & Tech.
+tags:
+- Monticello
+- Thomas Jefferson
+- architecture
+- historical architecture
+- presidents
 ---
-
 
 /files/media/video/monticellotour1.mp4
 

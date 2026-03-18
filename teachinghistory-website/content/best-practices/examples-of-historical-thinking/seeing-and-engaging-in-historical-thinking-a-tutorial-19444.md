@@ -14,10 +14,15 @@ summary: This interactive tutorial models a four-step process for analyzing hist
 splash_image: /files/Seeing_and_Engaging_-_432x240.jpg
 image: /files/Picture-18.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+tags:
+- George Washington
+- SCIM
+- Tom Ewing
+- historical thinking
 ---
 
-
 In this tutorial, viewers practice the SCIM strategies—Summarizing, Contextualizing, Inferring, and Monitoring—through analyzing a letter written by George Washington to a spy for the Continental Army.
+
 Historian Tom Ewing narrates this interactive tutorial and asks viewers questions requiring them to apply each strategy. After viewers select an answer, they are immediately given specific feedback. Ewing explains right and wrong answers using highlighted passages from the document. This interactive video, drawn from [*Historical Inquiry: Scaffolding Wise Practices in the History Classroom,*](http://www.historicalinquiry.com/) models historical reading and directly engages the viewer in the process.

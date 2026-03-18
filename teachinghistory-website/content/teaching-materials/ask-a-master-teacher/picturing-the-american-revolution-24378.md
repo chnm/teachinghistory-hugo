@@ -21,10 +21,18 @@ splash_image: /files/picturingsplash2.jpg
 image: /files/picturingimage.jpg
 author_image: /files/author_image/author.jpg
 grade_levels:
-  - elementary
+- elementary
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ideas & Ideologies
+- Literature
+- Military History
+- Reform
+tags:
+- American Revolution; picture books; 5th graders; ELA writing activities; resources;
+  literacy; history content
 ---
-
-
 
 My answer to your question will be based on the following assumptions:
 
@@ -35,6 +43,7 @@ My answer to your question will be based on the following assumptions:
 5. It’s impossible to choose only five books!
 
 Enjoy!
+
 **Here are some suggestions for the American Revolution:**
 
 1. *Boston Tea Party* by Pamela Duncan Edwards: This book sets the stage for the Revolution. Students will gain an understanding as to why the colonists were upset with the British king and took such action. The book offers a clear and concise explanation of the causes and effects of the Boston Tea Party while providing a humorous touch with mice conversing at the bottom of each page. Their chattering provides a simplified version of the events reaching students who might find too many details overwhelming.

@@ -11,8 +11,28 @@ splash_image_fid: '6885'
 summary: How the cotton gin revolutionized the use of slaves and the production of
   cotton in the Southern United States.
 splash_image: /files/cottongin_splash.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Economy
+- Environment
+- Labor
+- Reform
+- Rural Life
+- Slavery
+- Southern States
+tags:
+- Eli Whitney
+- cotton gin
+- plantation system
+- production
+- slavery
+- slaves
 ---
-
 
 Eli Whitney patented his cotton engine, or “gin,” in 1794. A mechanical device to separate cotton fibers from cotton seed, it dramatically lowered the cost of producing cotton fiber. Formerly, workers (usually slaves) had separated the seeds from the lint by hand, painstaking work that required hours of work to produce a pound of lint. By mechanizing the process, the gin could produce more than 50 pounds of lint per day. Cotton fabric, formerly quite expensive due to the high cost of production, became dramatically cheaper, and cotton clothing became commonplace. In the early decades of the 19th century, Southern farmers shifted more and more of their acreage into highly profitable cotton production, and large-scale plantation agriculture became common in the Deep South states of Georgia, Mississippi, Alabama, and Louisiana. The gin’s effect on the economy and on the lives of the slaves who made up a significant part of that economy was complex. The cotton gin freed slaves from the arthritic labor of separating seeds from the lint by hand. At the same time, the dramatically lowered cost of producing cotton fiber, the corresponding increase in the amount of cotton fabric demanded by textile mills, and the increasing prevalence of large-scale plantation agriculture resulted in a dramatic increase in the demand for more slaves to work those plantations. Overall, the slave population in the South grew from 700,000 before Whitney’s patent to more than three million in 1850—striking evidence of the changing Southern economy and its growing dependence on the slave system to keep the economy running. Cotton cultivation proved especially well-suited to slave labor. A relatively delicate plant, growing and harvesting cotton was a labor-intensive process. On large Southern plantations, much of that labor was provided by slaves working in gangs. Gang labor fit the slave system particularly well: dozens of slaves collected into a work crew could be supervised by a single white overseer, which made for more efficient work. Unlike solitary jobs like shepherding, which made constant supervision of individual slave workers extremely difficult from a practical standpoint, gang labor in the cotton fields allowed one overseer to supervise (and, when necessary, to discipline and punish) large numbers of slaves simultaneously.
 

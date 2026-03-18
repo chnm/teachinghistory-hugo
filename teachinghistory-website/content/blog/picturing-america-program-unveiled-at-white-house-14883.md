@@ -10,8 +10,16 @@ featured: true
 date_published: '2008-04-01T00:00:00'
 summary: Bring some of America’s greatest works of art into your classroom as teaching
   tools to foster historical thinking and analysis.
+tags:
+- American Library Association
+- art
+- art history
+- national endowment for the humanities
+- posters
 ---
 
 The [National Endowment for the Humanites](http://www.neh.gov) recently launched [*Picturing America*](http://picturingamerica.neh.gov/) at the White House. The initiative offers 40 images of American art for use in social studies and history classrooms to K-12 schools and public libraries. Educational materials include an illustrated, 119-page teachers resource book as well as the web site containing additional information and lesson plans.
+
 Images range from early North American archaeological artifacts to contemporary work and illustrate key eras and events in American history. Grant Wood, Normal Rockwell, Gilbert Stuart, Winslow Homer, George Catlin, and N.C. Wyeth are among featured artists. The 20 two-sided laminated posters are free and do not have to be returned. To apply to get these materials you have to represent a US school or library and complete an application on-line.
+
 Applications are due by April 15, 2008. The [press release of the White House launch summarizes the program. Further information and application procedures appear on the [*Picturing America* website](http://www.neh.gov).](http://www.neh.gov/news/archive/20080227.html)

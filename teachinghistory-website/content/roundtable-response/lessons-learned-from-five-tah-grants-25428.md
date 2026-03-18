@@ -14,18 +14,29 @@ summary: Professional development is not a summer-exclusive activity. In fact, i
   is often easier to integrate information learned during professional development
   experiences if they occur during the school year.
 author_image: /files/author_image/author_bareilles.jpg
+tags:
+- TAH
+- TAH Grants
+- professional development
 ---
-
 
 I’ve been asked why our five Teaching American History (TAH) grants don’t meet during the summer. There are many reasons, starting with the survey I did back in May 2002 while writing our first TAH in which teachers indicated they didn’t want to meet in the summer and wanted the opportunity to earn an MA (which over 50 will have by the end of our current grant). This predicated a three-year schedule of regular meetings (five evenings and five Saturdays per semester) with 100 hours of meeting time per school year and infrequent summer activities (aside from one study-trip per cohort).
 > Even as a young teacher I realized that if I could bring back one or two things from an inservice and implement them in my classes I was doing well.
 
 While the first two reasons for our school-year focus are structural, the third reason combines personal experience and research. Even as a young teacher I realized that if I could bring back one or two things from an inservice *and* implement them in my classes I was doing well. The lack of follow-up made it difficult to integrate much more. While writing our first grant someone sent me a quote from North Central Regional Educational Laboratory (NCREL) which states “Effective professional development is embedded in the daily life of teachers.” The only way to achieve this level of integration is for grant activities to be ongoing throughout the year.
+
 I’m not opposed to summer institutes. My teachers and I have attended many through Gilder Lehrman, National Endowment for the Humanities (NEH), and others which have intensely focused on one topic or era. But it’s hard to continue to integrate learning from the summer without ongoing reinforcement.
+
 What we found is that school-year TAH classes become as regular a part of our lives as our third-period history class and thus we couldn’t push TAH to the back of our thoughts. Furthermore the regular meeting schedule (every three to four weeks) built a sense of collegiality among the teachers, while the graduate units added a seriousness of purpose.
+
 This isn’t to say our programs were perfect (anything but). There are numerous things we’d change if we could.
+
 **Focus on classroom instruction:** At first we focused intensely on content, as was TAH’s emphasis at the time, but didn’t follow through with coaching and class visits. Thus many early TAH alumni never changed how they teach. We wouldn’t change the amount of time spent on content (typically the evening session and the following Saturday morning) because teachers need time to absorb the content, but we’ve become better at focusing on how to teach this new content.
+
 If we were to start over we would include a substantial number of classroom visits for every teacher—both by TAH staff *and*  the teachers themselves. Collegial coaching is a wonderful way to support the implementation of new content-rich teaching methods.
+
 **Just in time delivery:** Years ago the car industry popularized the idea of “just in time delivery” where the parts arrived at the factory just before they were needed. Schools aren’t factories and new content isn’t an alternator waiting to be installed on a Buick, but when teachers study content and pedagogy one week and then use it in their classrooms the following weeks it greatly increases the likelihood of implementation. They have a vested interest in the topic because they are going to be teaching it shortly. However, this requires a single-grade-level cohort.
+
 **Student data:** Student achievement is what teachers are increasingly judged on. Some grants have had great success by providing, or better yet, having the teachers select standards-aligned formative assessments to use in the coming unit. When teachers meet to review the results of these local low-stakes formative assessments they discover what their students don’t know (on the pre-test) and can discuss ways to best teach the content or skills. Then when they meet again (often at a TAH meeting) to review their post-test data, the conversation naturally turns to what practices were most effective.
+
 Listening to content instruction, participating in workshops focused on effective teaching strategies and assessments, reflecting upon the content to develop lessons and assessments, delivering the lessons, administering assessments, and participating in a reflective coaching session after the assessment greatly increases the impact of the PD and the likelihood that the teacher will internalize what they have learned and positively change their instructional routine.

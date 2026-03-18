@@ -16,9 +16,18 @@ summary: What were the consequences of and motivations for Japanese American rem
 splash_image: /files/Incarceration432x240.jpg
 image: /files/lesson_image/homephoto1.jpg
 grade_levels:
-  - high
-duration: '1-6 class sessions (or longer)'
+- high
+duration: 1-6 class sessions (or longer)
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Asian Americans
+- Children
+tags:
+- Japanese American internment
+- Japanese Americans
+- World War II
+- internment
 ---
-
 
 In this [lesson](https://densho.org/civil-liberties-curriculum/#hs-digdeep) students view and take notes on a 10-minute newsreel describing the evacuation and relocation of Japanese Americans from western states during World War II. Students analyze the movie [using a handout.](https://densho.org/learning/civilliberties/densho2-s.pdf) Questions focus students' attention on analyzing the government's case for the necessity of the incarceration. This newsreel activity and a set of introductory readings, pictures, and interviews make up the recommended core of the lesson. Most of the remaining eight activities, by contrast, illustrate the Japanese American perspective on the incarceration. Each activity is organized around a different type of primary source, including photographs, diaries, autobiographies, poetry, and theater. Classroom activities range from analyzing textual and visual sources to performing scripted dramatic readings. Some activities include potentially challenging reading material, but teachers can tailor the lesson to the needs of their students by choosing from the many options available. We think that teachers will appreciate the diversity, high quality, clear presentation, and emotional resonance of the materials provided by this lesson.

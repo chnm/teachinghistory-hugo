@@ -16,7 +16,21 @@ summary: The Library of Congress presents 35 of the most important documents fro
   early American history.
 splash_image: /files/Primary_Documents_in_American_History_432x240.jpg
 image: /files/website_image/14799.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+evidence_types:
+- Official Documents
+- Paintings and Prints
+- Political Documents
+resource_types:
+- Images
+- Text
+tags:
+- George Washington; Federalist Papers; Alien and Sedition Acts; Louisiana Purchase;
+  Missouri Compromise; Indian Removal Act; Dred Scott; Emancipation Proclamation;
+  Constitutional Amendments
 ---
-
 
 Thirty-five of the most important documents in the early history of the United States are presented here, accompanied by ample contextualization from the Library of Congress's vast collections. In addition to the "founding documents," the collection includes George Washington's Commission as Commander in Chief (1775), the Federalist Papers (1787–1788), the Alien and Sedition Acts (1798), the Louisiana Purchase (1803), the Missouri Compromise (1820), the Indian Removal Act (1830), *Dred Scott v. Sandford* (1857) case, the Emancipation Proclamation (1863), and the Thirteenth, Fourteenth, and Fifteenth Amendments to the Constitution. Each document is annotated and accompanied by a related primary source image. Links to American Memory collections and Library of Congress Exhibitions containing additional contextual documents and other secondary source interpretations are also provided, as are links to external websites and a selected bibliography.

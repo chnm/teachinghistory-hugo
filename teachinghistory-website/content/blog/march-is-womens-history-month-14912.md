@@ -10,8 +10,15 @@ date_published: '2008-02-12T00:00:00'
 splash_image_fid: '8907'
 summary: March is Women's History Month and classroom resources and lesson plans abound.
 splash_image: /files/marchiswomens432x240.jpg
+tags:
+- holidays and heritage
+- inventors
+- lesson plans
+- material and visual culture
+- teaching materials
+- women
+- women's history
 ---
-
 
 March is Women's History Month and classroom resources and lesson plans abound.
 

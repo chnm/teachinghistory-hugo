@@ -6,7 +6,18 @@ content_type: historical_site
 draft: false
 drupal_nid: 5404
 website_url: http://www.dchsmuseum.com/
+time_periods:
+- All
+- General
+topics:
+- Midwestern States
+tags:
+- Dawson County
+- Nebraska
+- counties
+- museums
 ---
 
 Exhibits at the Society's museum display mammoth bones; the McCabe Aeroplane, or "Baby Biplane"; and artifacts from local pioneer history, railroad and highway building, military history, and daily life throughout the county's existence.
+
 The site offers exhibits and research library access.

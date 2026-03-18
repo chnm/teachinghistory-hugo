@@ -11,6 +11,31 @@ keywords: slaves, racism, race relations, Boston, Antebellum, cities, abolitioni
 website_url: http://dev.forum-network.org/lecture/bostons-19th-century-african-american-communities
 date_published: '2003-01-25T00:00:00'
 series_name: Boston's 375th Anniversary
+time_periods:
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Cities & Suburbs
+- Daily Life
+- Ethnicity
+- Ideas & Ideologies
+- New England
+- Politics
+- Radicalism
+- Reform
+- Religion
+- Slavery
+tags:
+- Antebellum
+- Boston
+- abolition
+- abolitionism
+- abolitionists
+- cities
+- race relations
+- racism
+- slaves
 ---
 
 This lecture discusses African-American social organization and antislavery activism in Antebellum Boston.

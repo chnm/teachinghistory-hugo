@@ -6,8 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 22070
 website_url: http://www.arizonahistoricalsociety.org/museums/
+time_periods:
+- All
+- General
+topics:
+- Military History
+- Western States
+tags:
+- Arizona
+- World War II
 ---
 
 From the Arizona Historical Society [website](http://www.arizonahistoricalsociety.org/museums/):
+
 "The Museum at Papago Park interprets central Arizona's history with special emphasis on the 20th century. Exhibits include desert water use and Arizona's World War II Home Front."
+
 The museum offers exhibits, lectures, guided tours for school groups, and in-class outreach presentations.

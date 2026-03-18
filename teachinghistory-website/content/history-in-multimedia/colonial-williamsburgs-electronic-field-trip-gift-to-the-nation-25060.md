@@ -11,11 +11,21 @@ splash_image_fid: '7886'
 summary: Visit Williamsburg and learn about the founding of the U.S.—virtually. Registration
   opens for this free program Sept. 6!
 splash_image: /files/splash-eft.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Politics
+tags:
+- Colonial Williamsburg
+- Founding Fathers
+- Williamsburg
+- electronic field trips
 ---
 
-
 [![Logo, Gift to the Nation, Colonial Williamsburg](http://teachinghistory.org/files/GTTN_small_logo.gif "Logo, Gift to the Nation, Colonial Williamsburg")](http://giftnation.history.org/)
+
 From September 6–30, The Colonial Williamsburg Foundation will offer complimentary access to the first in its annual series of electronic field trips, *A More Perfect Union,* aimed at grades 4–8. Streaming video draws students in to the conflict and compromises that accompanied the ratification of the U.S. Constitution. In addition to the video, Colonial Williamsburg is also offering a teacher guide and student Web activities, including the opportunity to email Benjamin Franklin, free of charge to any school, home school family, or individual interested in learning more about the story of the ratification of the U.S. Constitution.
+
 To learn more about the program:
 
 * Watch a [sample](http://www.history.org/history/teaching/eft/explore.cfm) from the first of three eight-minute acts.

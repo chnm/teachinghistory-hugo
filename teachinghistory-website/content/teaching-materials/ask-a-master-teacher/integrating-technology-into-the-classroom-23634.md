@@ -16,11 +16,17 @@ spotlight: Tired of ho-hum lesson plans? Want to add a little spark to your teac
 splash_image: /files/splash-aamt-tic.jpg
 image: /files/ClassroomTechImage.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- General
+topics:
+- Education
+- Science & Tech.
+tags:
+- resources
 ---
-
 
 Teaching history with technology can be a great way to engage students while also building bridges between the history classroom and the technology department at your school.
 
@@ -34,7 +40,9 @@ In terms of blogs, the American Historical Association has an [article](http://w
 ## Technological Resources Specifically for History Classrooms
 
 Another angle you can take in looking for resources is to pursue sites that specifically explore technology-related content for the history classroom. One great resource is [National Council for the Social Studies Community Network](http://ncssnetwork.ning.com/) which has a variety of resources for teaching with technology. You can also join their [Teaching with Technology group](http://ncssnetwork.ning.com/group/teachingwithtechnology) to be connected with other teachers who are interested in integrating technology into history and social studies classrooms. Many other sites have resources to help you.The Center for History and New Media’s [Episodes](http://chnm.gmu.edu/episodes/) page, for instance, has multimedia resources for a number of different historical periods. [SCORE](http://score.rims.k12.ca.us/virtual/), the Schools of California Online Resources for Education webpage, also has some great materials that utilize technology in the history and social science classroom. The page has a virtual web museum, virtual interactive projects, and virtual field trips. [Science, Technology, and the CIA](http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB54/), a project of the National Security Archive, provides 44 government documents that track the organizational and operational history of various CIA departments designed to coordinate science and technology research with intelligence operations.
+
 Another way to approach your question is to look for models of projects merging technology and history. On the National History Education Clearinghouse site, there’s a [blog entry](http://teachinghistory.org/nhec-blog/22339) describing a project conducted at Harpers Ferry National Historic Park in which students used a host of new technologies to explore the history of Harpers Ferry and John Brown—definitely worth checking out.
+
 Good luck with your lesson planning!
 
 ---
@@ -51,5 +59,7 @@ In terms of blogs, the American Historical Association has an [article](http://w
 ## Technological Resources Specifically for History Classrooms
 
 Another angle you can take in looking for resources is to pursue sites that specifically explore technology-related content for the history classroom. One great resource is [National Council for the Social Studies Community Network](http://ncssnetwork.ning.com/) which has a variety of resources for teaching with technology. You can also join their [Teaching with Technology group](http://ncssnetwork.ning.com/group/teachingwithtechnology) to be connected with other teachers who are interested in integrating technology into history and social studies classrooms. Many other sites have resources to help you.The Center for History and New Media’s [Episodes](http://chnm.gmu.edu/episodes/) page, for instance, has multimedia resources for a number of different historical periods. [SCORE](http://score.rims.k12.ca.us/virtual/), the Schools of California Online Resources for Education webpage, also has some great materials that utilize technology in the history and social science classroom. The page has a virtual web museum, virtual interactive projects, and virtual field trips. [Science, Technology, and the CIA](http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB54/), a project of the National Security Archive, provides 44 government documents that track the organizational and operational history of various CIA departments designed to coordinate science and technology research with intelligence operations.
+
 Another way to approach your question is to look for models of projects merging technology and history. On the National History Education Clearinghouse site, there’s a [blog entry](http://teachinghistory.org/nhec-blog/22339) describing a project conducted at Harpers Ferry National Historic Park in which students used a host of new technologies to explore the history of Harpers Ferry and John Brown—definitely worth checking out.
+
 Good luck with your lesson planning!

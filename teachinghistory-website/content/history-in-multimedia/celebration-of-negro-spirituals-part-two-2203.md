@@ -11,6 +11,30 @@ keywords: music, songs, spirituals, singers, song, musicians, race, race relatio
 website_url: http://dev.forum-network.org/lecture/celebration-negro-spirituals-part-ii
 date_published: '2007-10-27T00:00:00'
 series_name: 'Ken Burns: Jazz'
+time_periods:
+- All
+- General
+topics:
+- African Americans
+- Ethnicity
+- Global Contact
+- Media
+- Popular Culture, Leisure
+- Religion
+- Slavery
+tags:
+- blues
+- gospel
+- hip-hop
+- jazz
+- music
+- musicians
+- race
+- race relations
+- singers
+- song
+- songs
+- spirituals
 ---
 
 A series of speakers, primarily professors, open a symposium celebrating the history and impact of African-American spirituals. This presentation continues from the presentation "Celebration of Negro Spirituals, Part One."

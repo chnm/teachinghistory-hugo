@@ -6,7 +6,19 @@ content_type: historical_site
 draft: false
 drupal_nid: 10780
 website_url: http://heywardhouse.org/
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- General
+topics:
+- Daily Life
+- Southern States
+tags:
+- Antebellum
+- South Carolina
+- historic kitchen
+- historic slave quarters
 ---
 
 The Heyward House is a circa 1840 antebellum house museum which also serves as the welcome center for Bluffton, South Carolina. The site includes the original slave cabin and a portion of the summer kitchen; and is located within Bluffton's historic district.
+
 The house offers period rooms, 30-minute guided home and grounds tours, two-hour guided area walking tours, and self-guided area walking tours. Reservations are required for guided walking tours and for all groups of 10 or more.

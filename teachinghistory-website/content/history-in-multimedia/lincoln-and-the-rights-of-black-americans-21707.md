@@ -10,6 +10,24 @@ keywords: presidents, politicians, slaves, Africa, colonization, race, race rela
 website_url: http://www.gilderlehrman.org/multimedia#3444
 date_published: '2008-11-28T00:00:00'
 series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institute'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Politics
+- Slavery
+tags:
+- Africa
+- colonization
+- politicians
+- presidents
+- race
+- race relations
+- slaves
 ---
 
 Professor Eric Foner argues that the idea of sending African American slaves to colonize Africa (an idea which Abraham Lincoln at times embraced) was part of the larger idea of emancipation for American slaves, but it did not allow its supporters to consider how freed slaves might become part of American society. It was Lincoln's consideration of this very issue, Foner says, that distinguishes him from other advocates of emancipation.

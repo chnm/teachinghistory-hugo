@@ -13,8 +13,14 @@ splash_image_fid: '8401'
 summary: This *American Experience* documentary recounts the story of the Anglo-American
   bombing campaign against Germany
 splash_image: /files/splash-him-vd19.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+tags:
+- Germany
 ---
 
-
 From PBS:
+
 Through interviews with veterans, historians, and ethicists from all the countries engaged in World War II, this *American Experience* recounts the story of the Anglo-American bombing campaign against Germany, exploring the moral conundrums imposed by the reality of the war.

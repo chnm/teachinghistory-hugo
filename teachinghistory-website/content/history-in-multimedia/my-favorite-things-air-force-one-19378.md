@@ -10,7 +10,15 @@ keywords: aviation, presidents
 website_url: http://www.trumanlibrary.org/video/index.php
 date_published: '2007-06-13T00:00:00'
 series_name: My Favorite Things
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Politics
+tags:
+- aviation
+- presidents
 ---
 
 Director of the Ronald Reagan Presidential Library Duke Blackwood describes the installation at the library which displays Air Force One.
+
 To view this lecture, scroll to "Duke Blackwood."

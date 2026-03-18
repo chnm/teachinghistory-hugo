@@ -11,7 +11,28 @@ keywords: colonies, colonists, colonization, Jamestown, Virginia, Massachusetts 
 website_url: http://www.learner.org/biographyofamerica/prog02/index.html
 date_published: '2009-03-04T00:00:00'
 series_name: A Biography of America
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- African Americans
+- Economy
+- Global Contact
+- International Relations
+- Labor
+- New England
+- Rural Life
+- Southern States
+tags:
+- Jamestown
+- Massachusetts Bay
+- Puritans
+- Virginia
+- colonies
+- colonists
+- colonization
 ---
 
 Two dramatically different English settlements, New England in the North and Virginia in the South, develop in the 17th century, beginning a collision of values, cultures, and economies that prevails throughout U.S. history. This presentation explores the founding of these settlements and their development.
+
 To view this video, click the small "VoD" graphic in the left hand column. In the new window, if you cannot see the play button, try clicking near the left corner just under the video.

@@ -10,7 +10,21 @@ keywords: disasters, nautical disasters, maritime disasters, the Portland, steam
   archaeology
 website_url: http://dev.forum-network.org/lecture/lost-steamer-portland
 date_published: '2002-11-06T00:00:00'
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- New England
+- Science & Tech.
+tags:
+- archaeology
+- disasters
+- maritime disasters
+- nautical disasters
+- steamers
+- the Portland
 ---
 
 John Fish, director of the Historical Maritime Group, outlines the 1898 sinking of the New England passenger steamer *Portland* and his group's modern-day search for its remains. The lecture is accompanied by slides.
+
 Audio and video options are available.

@@ -78,11 +78,10 @@ splash_image_fid: '6214'
 splash_image: /files/sq3r_image3.jpg
 image: /files/sq3r_image2.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
 ---
-
 
 SQ3R is an effective note-taking system that helps English Language Learners self-monitor their comprehension *before*, *during*, and *after* reading a passage in a textbook. This instructional strategy helps students understand key historical content and vocabulary. My version also incorporates a *cloze* paragraph--in which words are deleted (according to a given criteria) so that students can insert words as they read to complete and construct meaning from the text. This requires students to clearly summarize what they have read (ex. George Washington \_\_\_\_\_\_\_\_\_\_\_\_\_\_ the Delaware.) Below I explain the strategy and include two handouts. The [first](http://teachinghistory.org/system/files/SQ3R_example.pdf) serves as a guide for students, the [second](http://teachinghistory.org/system/files/SQ3R_handout.pdf) shows a sample student’s responses when using SQ3R to understand our textbook’s account of the Underground Railroad. **The SQ3R Process**
 

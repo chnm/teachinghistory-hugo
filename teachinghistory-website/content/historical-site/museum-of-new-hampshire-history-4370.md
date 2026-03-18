@@ -6,6 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 4370
 website_url: http://www.nhhistory.org/
+time_periods:
+- All
+- General
+topics:
+- New England
+tags:
+- New Hampshire
+- museums
 ---
 
 The mission of the New Hampshire Historical Society's is to educate a diverse public about the significance of New Hampshire's past and its relationship to our lives today. In support of this mission, the Society collects, preserves, and interprets materials pertaining to New Hampshire history.

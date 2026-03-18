@@ -11,6 +11,34 @@ keywords: presidents, secession, states, state rights, Civil War, war, wars, sla
 website_url: http://teachingamericanhistory.org/seminars/2004/mcpherson.html
 date_published: '2005-02-12T00:00:00'
 series_name: Free Saturday Seminars for Social Studies Teachers
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Daily Life
+- Economy
+- Ideas & Ideologies
+- Legal History
+- Military History
+- Politics
+- Radicalism
+- Reform
+- Slavery
+- Southern States
+tags:
+- Civil War
+- politicians
+- presidents
+- race
+- race relations
+- racism
+- secession
+- slaves
+- state rights
+- states
+- war
+- wars
 ---
 
 Professor James M. McPherson analyzes the many different causes of the Civil War, including slavery, leadership decisions, and cultural differences. He focuses on the question "Why did the South secede?" as a framework for discussion.

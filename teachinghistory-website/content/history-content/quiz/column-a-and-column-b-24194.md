@@ -13,7 +13,16 @@ summary: In the 19th century, no one expected Chinese food to take off in the Un
   States.
 splash_image: /files/quiz-chinesefood-splash_0.jpg
 thumbnail: /files/website_image/WestSeaImage.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Asian Americans
+- Immigration
+- Popular Culture, Leisure
+tags:
+- Chinese Americans
+- food
+- foodways
 ---
-
 
 Some of the first who ventured to eat Chinese cooking reported back unfavorably—New York journalist Edwin Trafton wrote in *Frank Leslie’s Popular Monthly*, "I feel as though I had eaten a rare-done nightmare," after eating a Chinese meal—but the cuisine soon took off. Answer the following questions.

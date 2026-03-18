@@ -12,6 +12,17 @@ keywords: presidents, politicians, presidential inaugurations, inaugurations, ba
 website_url: http://memory.loc.gov/ammem/pihtml/pivid10.html
 date_published: '2008-05-29T00:00:00'
 series_name: 'Presidential Inaugurations: Historical Insights'
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- Cities & Suburbs
+- Politics
+- Popular Culture, Leisure
+tags:
+- Washington DC
+- architecture
+- presidents
 ---
 
 Library of Congress historian Marvin Kranz describes the Pension Building in Washington, DC, used as the site for McKinley's First Inaugural Ball.

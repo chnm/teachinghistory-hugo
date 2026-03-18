@@ -10,6 +10,21 @@ keywords: military, militaries, war, wars, guerilla warfare
 website_url: http://www.fpri.org/multimedia/20070324.linn.usuncoventionalwar.html
 date_published: '2007-03-24T00:00:00'
 series_name: Teaching about the Military in American History
+time_periods:
+- All
+- General
+topics:
+- Education
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+tags:
+- guerilla warfare
+- militaries
+- military
+- war
+- wars
 ---
 
 Brian McAllister Linn of Texas A&M University examines the importance of many of the less-memorialized, smaller-scale, and less often taught military actions in U.S. history. He looks at how military tactics have been adapted to local conditions in these wars and the varying success of these adaptations (and failures to adapt).

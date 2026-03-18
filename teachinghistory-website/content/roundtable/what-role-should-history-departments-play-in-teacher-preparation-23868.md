@@ -9,6 +9,9 @@ splash_image_fid: '4375'
 summary: It's all about content, but do history teachers and historians need the same
   academic background?
 splash_image: /files/FutureTeachers.jpg
+tags:
+- history departments
+- pre-service
+- teacher training
 ---
-
 

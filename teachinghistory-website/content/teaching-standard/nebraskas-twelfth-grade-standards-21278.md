@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21278
 grade_levels:
-  - high
+- high
 ---
 
 * ### NE.12.1. Content Standard: United States History

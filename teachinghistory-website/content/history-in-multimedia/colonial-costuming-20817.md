@@ -11,6 +11,24 @@ keywords: fashion, clothing, clothes, dress, Virginia, Williamsburg, colonies, c
 website_url: http://podcast.history.org/2005/06/16/colonial-costuming/
 date_published: '2005-05-17T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Consumer Culture
+- Daily Life
+- Southern States
+tags:
+- Virginia
+- Williamsburg
+- class
+- classes
+- clothes
+- clothing
+- colonies
+- colonists
+- dress
+- fashion
 ---
 
 Brenda Rosseau, supervisor of Research and Design in the Costume Design Center at Colonial Williamsburg, talks about the work involved in accurately costuming historical interpreters and the place of clothing and fashion in colonial society.

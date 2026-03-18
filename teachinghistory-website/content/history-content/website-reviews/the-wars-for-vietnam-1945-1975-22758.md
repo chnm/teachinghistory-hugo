@@ -14,7 +14,19 @@ summary: Visit this website for a comprehensive introduction to the Vietnam War.
 splash_image: /files/WarsforVietnam432x240.jpg
 thumbnail: /files/author_image/Lepore.jpg
 image: /files/website_image/VietnamWars_Image.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- International Relations
+- Military History
+- Politics
+evidence_types:
+- Newspapers and Periodicals
+- Official Documents
+- Political Documents
+resource_types:
+- Text
 ---
-
 
 An introduction to the history of the Vietnam War, this site was developed for a course taught by Robert Brigham, "the first American scholar given access to the Vietnamese archives on the war in Hanoi." The site offers a 3,000-word overview of the war and features 20 primary documents, including the 1954 Geneva Peace Accords, the 1964 Gulf of Tonkin Resolution, and several items translated by Brigham, such as a 1965 letter from the Hanoi Politburo to the Communist Party in the South. Also includes 47 links to related resources, historical and contemporary. A useful site that concentrates on the military and diplomatic dimensions of the war.

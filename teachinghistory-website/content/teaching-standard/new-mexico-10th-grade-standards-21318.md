@@ -6,7 +6,7 @@ content_type: teaching_standard
 draft: false
 drupal_nid: 21318
 grade_levels:
-  - high
+- high
 ---
 
 (Note: By the completion of grades 9–12, Oregon students are expected to master the following standards.)

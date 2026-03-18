@@ -6,7 +6,14 @@ content_type: historical_site
 draft: false
 drupal_nid: 9109
 website_url: http://www.wellesleyhsoc.com/
+time_periods:
+- General
+topics:
+- Daily Life
+tags:
+- Massachusetts
 ---
 
 The Wellesley Historical Society seeks to preserve and share the history of Wellesley, Massachusetts.
+
 The society offers research opportunities. Appointments are required.

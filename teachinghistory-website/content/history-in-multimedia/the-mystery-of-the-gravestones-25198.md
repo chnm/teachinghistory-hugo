@@ -9,8 +9,18 @@ duration: 00:13:24
 website_url: http://podcast.history.org/2011/10/03/the-mystery-of-the-gravestones/
 date_published: '2011-10-03T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+tags:
+- Colonial Williamsburg
+- burial practices
+- funerary history
+- virginia history
 ---
 
 From Colonial Williamsburg: Past and Present Podcasts
+
 "Two gravestones are unearthed during a construction project. Historians and curators work to solve the mysteries below. Emily Williams tells their story."
+
 To discover more about death and burials in colonial Virginia, check out [this essay](http://www.history.org/Foundation/journal/Spring05/funerals.cfm) by Ivor Noël Hume.

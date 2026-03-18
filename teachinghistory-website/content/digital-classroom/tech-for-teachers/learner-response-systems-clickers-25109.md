@@ -20,10 +20,14 @@ splash_image: /files/clickersplash.jpg
 image: /files/clickerimage.jpg
 author_image: /files/author_image/mcdougall.jpg
 grade_levels:
-  - middle
-  - high
+- high
+- middle
+time_periods:
+- General
+tags:
+- Collaboration
+- classroom management
+- collecting and organizing
 ---
-
-
 
 Clickers are handheld remote-control devices that let students respond to classroom questions silently, instantly, and (if wanted) anonymously.

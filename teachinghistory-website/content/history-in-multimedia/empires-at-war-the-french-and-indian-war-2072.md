@@ -11,6 +11,26 @@ keywords: French and Indian War, colonists, colonization, Native Americans, colo
 website_url: http://dev.forum-network.org/lecture/empires-war-french-and-indian-war
 date_published: '2005-09-07T00:00:00'
 series_name: Native American Culture
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- American Indians
+- Global Contact
+- International Relations
+- Military History
+tags:
+- Britain
+- England
+- France
+- French and Indian War
+- Great Britain
+- Native Americans
+- colonies
+- colonists
+- colonization
+- war
+- wars
 ---
 
 Massachusetts Historical Society director William F. Fowler, Jr., follows the course of the French and Indian War and details its impact on North American history.

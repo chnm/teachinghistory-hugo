@@ -13,7 +13,20 @@ summary: 'It''s in the name: "Desert." How did the environment affect the Persia
   Gulf War?'
 splash_image: /files/splash-gulfwar.jpg
 thumbnail: /files/quiz_thumbnail/BrieTimeThumbnail.jpg
+time_periods:
+- Contemporary US, 1968-Present
+topics:
+- Environment
+- Military History
+tags:
+- Gulf War
+- Iraq
+- Kuwait
+- Madrid Middle East Peace Conference
+- Operation Desert Shield
+- Operation Desert Storm
+- Persian Gulf War
+- oil
 ---
-
 
 The 1990–1991 Persian Gulf War, fought following Iraq's invasion of Kuwait, took place in a unique environment—arid, oil-rich desert, bordering on the Persian Gulf. How did the environment contribute to the character of the war? How was it damaged by the war? Decide if the statements are true or false.

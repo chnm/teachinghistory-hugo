@@ -13,7 +13,13 @@ summary: Trade in your old Cabriolet for a new 1876 Landau? Test your knowledge 
   the trendiest 19th century carriages.
 splash_image: /files/Carriage_0_0.jpg
 thumbnail: /files/quiz_thumbnail/AustTreaThumbnail.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Science & Tech.
+tags:
+- carriages
+- transportation
 ---
-
 
 One of the crowd-pleasers at the 1876 Centennial Exhibition in Philadelphia was a vast hall in which carriage-makers from America and Europe exhibited examples of the models of carriages and wagons they made. Match the images of the horse-drawn vehicles displayed at the Fair with the names of the models.

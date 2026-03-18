@@ -14,9 +14,38 @@ summary: What were people reading around the time of the Civil War?
 thumbnail: /files/NJPublicArchive432x240.jpg
 splash_image: /files/splash-wr-19thcenturyprint.jpg
 image: /files/website_image/19thCentImage.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- American Indians
+- Consumer Culture
+- Economy
+- Education
+- Health & Medicine
+- Ideas & Ideologies
+- Legal History
+- Literature
+- Military History
+- Politics
+- Popular Culture, Leisure
+- Religion
+- Science & Tech.
+- Slavery
+- Southern States
+- Western States
+evidence_types:
+- Literary Sources
+resource_types:
+- Text
+tags:
+- books
 ---
 
-
 This site, part of the Library of Congress American Memory project, features over 1,500 full-text images of 19th-century books digitized by the University of Michigan as part of the "Making of America" project. Books in the collection primarily date from 1850 to 1880 and cover such subjects as education, psychology, American history, sociology, religion, science and technology, and poetry.
+
 The collection is divided into seven general themes: Civil War, Slavery and Abolition, Religion, Education, Self-Help and Self-Improvement, Travel and Westward Expansion, and Poetry. Each section opens with a 200-word descriptive essay, and each book featured on the site is accompanied by notes on the author, full title of the work, date and place of publication, and the publisher.
+
 The site is keyword searchable and can be browsed by subject, author, and title. The site is ideal for exploring late 19th-century literature and popular culture.

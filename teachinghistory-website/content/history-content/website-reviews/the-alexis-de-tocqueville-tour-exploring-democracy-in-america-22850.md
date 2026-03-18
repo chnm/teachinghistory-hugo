@@ -15,9 +15,25 @@ summary: Everything you never knew you wanted to know about Alexis de Tocquevill
 splash_image: /files/splash-wr-tocqueville.jpg
 thumbnail: /files/origin-stars-and-bars-new_0.jpg
 image: /files/website_image/TocquevilleTour_Image.jpg
+time_periods:
+- Expansion & Reform, 1801-1861
+topics:
+- Ideas & Ideologies
+- Literature
+- Politics
+evidence_types:
+- Literary Sources
+- Newspapers and Periodicals
+- Photographs
+resource_types:
+- Audio
+- Images
+- Text
+- Video
 ---
 
-
 Designed to accompany a nine-month C-SPAN "road trip" in 1997–98 that retraced Alexis de Tocqueville's travels in 19th-century America, this site contains information about Tocqueville, his travels, and his writings; the full text of *Democracy in America*; a map of Tocqueville's trip; and selections—organized by state—from the journal he kept while in America.
+
 Also provides a short list of references to Tocqueville by modern-day Americans ranging from President Bill Clinton to Newt Gingrich; 26 present-day photographs of Tocqueville's hometown; a 13-title bibliography; access to "A Conversation on Democracy," a two-hour video special; a preview of the book and video *Traveling Tocqueville's America*; links to seven sites on France; and approximately 30 lesson plans.
+
 A useful introduction to the man and his influence.

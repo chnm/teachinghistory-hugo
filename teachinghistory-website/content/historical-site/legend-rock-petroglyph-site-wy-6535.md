@@ -6,7 +6,22 @@ content_type: historical_site
 draft: false
 drupal_nid: 6535
 website_url: http://www.yellowstonegeotourism.org/content/legend-rock-petroglyph-site/yel5F39D64005B31A27E
+time_periods:
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- American Indians
+- Art
+- Daily Life
+- Rural Life
+- Western States
+tags:
+- Native Americans
+- Wyoming
+- parks
+- petroglyphs
+- rock art
 ---
 
 Legend Rock enables visitors to view over 300 petroglyphs spanning a time period of thousands of years. These petroglyphs introduce visitors to multiple cultures and eras long past.
+
 The site offers tours.

@@ -11,11 +11,21 @@ summary: What does architecture say about the past and the present? TAH teachers
   strategies for close examination of buildings in Washington, DC.
 splash_image: /files/buildingmuseumsplash_0.jpg
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+topics:
+- Art
+- Mid-Atlantic
+tags:
+- DC
+- District of Columbia
+- architecture
+- buildings
+- memorials
+- monuments
+- teaching strategies
 ---
-
 
 /files/media/video/buildingmuseum1.mp4
 

@@ -14,8 +14,22 @@ url: /history-content/ask-a-historian/24290
 splash_image_fid: '6689'
 summary: Spain sent several expeditions to find the Lewis and Clark Corps of Discovery.
 splash_image: /files/old_petroglyphs.jpg
+tags:
+- Corps of Discovery
+- Facundo Melgares
+- James Wilkinson
+- Lewis and Clark Expedition
+- Louisiana Purchase
+- Louisiana Territory
+- Merriwether Lewis
+- Nemesio Salcedo
+- New Mexico
+- New Spain
+- Santa Fe
+- Spain
+- Thomas Jefferson
+- William Clark
 ---
-
 
 The Spanish believed that any American expedition into the Louisiana Territory would lead to attempts to conquer Spanish territories to the west and south. President Jefferson, in fact, did believe that the United States would eventually expand across the continent out to the Pacific Ocean, and he had long planned in secret for at least one expedition of explorers to be sent out to the far west, even before he acted on the fortuitous opportunity to purchase the Louisiana Territory from France (which had just reacquired it from the King of Spain).
 

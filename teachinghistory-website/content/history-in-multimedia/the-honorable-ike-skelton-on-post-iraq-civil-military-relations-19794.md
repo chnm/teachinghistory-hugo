@@ -9,7 +9,28 @@ duration: 00:20:23
 website_url: http://www.fpri.org/multimedia/20071015.mindthegap.keynote.html
 date_published: '2007-10-15T00:00:00'
 series_name: '"Mind the Gap": Post-Iraq Civil-Military Relations in America'
+time_periods:
+- Contemporary US, 1968-Present
+- General
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- Ideas & Ideologies
+- Legal History
+- Military History
+- Politics
+tags:
+- House Armed Services Committee
+- U.S. Congress
+- congress
+- courts
+- law
+- laws
+- militaries
+- military
+- soldiers
 ---
 
 Ike Skelton of Chair of the House Armed Services Committee discusses the civilian-military relationship in the U.S., and expresses concern over the current relationship between military officers and Congress, in which pressure is placed on officers to express opinions that may be acted on politically.
+
 Audio and video options are available.

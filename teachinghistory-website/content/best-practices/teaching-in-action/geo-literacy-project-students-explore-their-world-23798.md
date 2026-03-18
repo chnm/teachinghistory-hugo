@@ -19,9 +19,16 @@ spotlight: What exactly are elementary students capable of? Third grade teacher 
 splash_image: /files/GeoLiteracy-Splash.jpg
 image: /files/Geo-Literacy-150x113.jpg
 grade_levels:
-  - elementary
+- elementary
+time_periods:
+- General
+topics:
+- Labor
+- Rural Life
+- Science & Tech.
+tags:
+- local history
 ---
-
 
 Edutopia's Geo-Literacy Project is an interdisciplinary, project-based, approach to teaching local history that can be adapted for different locations. The goal of the project was to develop students' literacies. Throughout the project, students were guided by the essential question, why is the preservation of a local historical site—in this case, Rush Ranch—important? They explored the site from a number of perspectives, working with local experts and community partners to understand the local environment. They then built websites using primary sources, images, videos, and student-created reports. Older students helped them prepare the content for this website and use the technologies. Specifically, this project demonstrates two promising practices:
 

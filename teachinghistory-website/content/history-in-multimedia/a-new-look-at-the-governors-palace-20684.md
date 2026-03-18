@@ -11,6 +11,25 @@ keywords: governors, Governor's Palace, Williamsburg, Virginia, weapons, guns, m
 website_url: http://podcast.history.org/2006/04/03/a-new-look-at-the-governors-palace/
 date_published: '2006-04-03T00:00:00'
 series_name: 'Colonial Williamsburg: Past and Present, Podcasts'
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Revolution & New Nation, 1754-1820s
+topics:
+- Military History
+- Science & Tech.
+- Southern States
+tags:
+- American Revolution
+- Governor's Palace
+- Revolutionary War
+- Virginia
+- Williamsburg
+- arms displays
+- governors
+- guns
+- muskets
+- pistols
+- weapons
 ---
 
 Erik Goldstein, curator of mechanical arts and numismatics at Colonial Williamsburg, discusses the arms display in Williamsburg's Governor's Palace, including the history of arms displays and of this display in particular, a recreation of that in the Palace in 1775.

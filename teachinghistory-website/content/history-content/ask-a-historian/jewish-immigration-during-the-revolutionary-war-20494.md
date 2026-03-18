@@ -15,16 +15,38 @@ splash_image_fid: '4933'
 thumbnail_fid: '296'
 summary: Just before the Revolution, between 2,000 and 3,000 Jews lived in the colonies.
 splash_image: /files/haym-salomon-statue-new.jpg
+time_periods:
+- Revolution & New Nation, 1754-1820s
+topics:
+- Ethnicity
+- Immigration
+- Military History
+- Religion
+tags:
+- American Revolution
+- Jewish Americans
+- Jews
+- Judaism
+- Revolutionary War
+- colonies
+- colonists
+- colonization
+- freedom of religion
+- immigrants
+- religious freedom
 ---
 
-
 Not many Jews immigrated to the United States before about 1820, but the 350th anniversary of Jewish settlement in America was celebrated in 2004 to mark the arrival in New Amsterdam (New York City) in 1654 of a group of two dozen Jewish settlers from the Netherlands, by way of Brazil. Over the next century and more, Jewish immigrants to America came mostly from Spain, Portugal, and the West Indies. They were of Sephardic descent, although a few were Ashkenazim from Germany or England. Jews who settled in the American colonies often made their living by being merchants, land speculators, and importers and exporters, dealing especially in fur, whale oil, candles, wine, rum, cocoa, and textiles. They welcomed the New World's economic opportunities, but also hoped to find in America a refuge from the religious persecution they had experienced in Europe.
+
 Jews were not welcomed everywhere in the colonies, but they established small communities in New York City; Newport, Rhode Island (1695); Charleston, South Carolina (1745); Savannah, Georgia (1735); and Philadelphia, Pennsylvania (1739): Roger Williams had founded Rhode Island on the principle of religious tolerance. English liberal philosopher John Locke had drawn up the Constitutions of Carolina, which were strongly tolerant in matters of religion. Quaker William Penn also welcomed settlers of different religious beliefs into the colony of Pennsylvania, and James Oglethorpe, Georgia's first governor, established a precedent of tolerance when he assisted a group of Jews to settle in the colony, shortly after it was founded, where they opened Congregation Mickva Israel in 1735.
+
 The oldest synagogue building in North America, Touro Synagogue, was opened in Newport in 1763. It is still in use today. Charleston's Kahal Kadosh Beth Elohim was organized in 1749. Its present building, finished in 1794, is the second oldest in the United States and the oldest in continuous use. Until well after the Revolutionary War, the Jewish center of gravity in America was Charleston. Only later did New York City overtake it in influence.
 > ...New England, well into the 19th century, was generally less tolerant of Jewish immigration than other areas in the country...
 
 Early Puritan New England was highly attuned to the traditions and culture of ancient Israel, but saw its own society as the "New Jerusalem," governed by covenantal relationships among its own "chosen people." Ironically, perhaps, this meant that New England, well into the 19th century, was generally less tolerant of Jewish immigration than other areas in the country, and when it was allowed, it was sometimes done because of the Puritan conviction that it would give the Jews the opportunity to be evangelized and converted to Christianity.
+
 On the eve of the American Revolution, between 2,000 and 3,000 Jews lived in the colonies, which had a total population of 3 million. By and large, Jews were sympathetic to the effort to achieve independence from Britain. Especially attractive to Jews, because of their experience in Europe, were American efforts to create a society in which no particular religion would be established by the State. The Enlightenment influence on Revolutionary and early Republican ideals—as in Thomas Jefferson's notion of a "wall of separation between church and state"—greatly appealed to the Jewish community.
+
 The Jewish communities in the cities were temporarily dispersed when many of their members fled British occupation forces. Perhaps 100 Jewish men served as soldiers for the American cause. Many of them were recognized for their distinguished military service. Haym Salomon, a Polish Jew who came to America in 1772, joined the Sons of Liberty in New York and became probably the greatest financier of the Revolution. Francis Salvador, who immigrated from England in 1773, was a prominent colonial legislator and American patriot in Charleston, and was killed in battle in 1776.
 
 ## Books of Special Interest to Pre-college Students on the History of Jews in Colonial and Revolutionary America
@@ -48,8 +70,11 @@ The Jewish communities in the cities were temporarily dispersed when many of the
 ## Scholarly Books
 
 Pencak, William. *Jews & Gentiles in Early America, 1654–1800.* Ann Arbor: University of Michigan Press, 2005.
+
 Faber, Eli. *A Time for Planting: The First Migration 1654–1820.* The Jewish People in America, Volume 1. Baltimore: Johns Hopkins University Press, 1992.
+
 Reiss. Oscar. *The Jews in Colonial America.* Jefferson, N.C.: McFarland & Company, 2004.
+
 Marcus, Jacob Rader. *Early American Jewry.* 2 volumes. Philadelphia: Jewish Publication Society of America, 1951–53.
 > -----. The Colonial American Jew, 1492–1776. 3 volumes. Detroit: Wayne State University Press, 1970.
 > -----. United States Jewry, 1776–1985. Volume 1. Detroit: Wayne State University Press, 1989.
@@ -57,17 +82,22 @@ Marcus, Jacob Rader. *Early American Jewry.* 2 volumes. Philadelphia: Jewish Pub
 > Hertzburg, Arthur. The Jews in America. New York: Simon and Schuster, 1989, pages 17–73.
 
 Sachar, Howard M. *A History of the Jews in America.* New York: Vintage Books, 1993, pages 9–37.
+
 Diner, Hasia R. *Jews of the United States, 1654–2000.* Berkeley: University of California Press, 2004, pages 13–57.
 
 ---
 
 Not many Jews immigrated to the United States before about 1820, but the 350th anniversary of Jewish settlement in America was celebrated in 2004 to mark the arrival in New Amsterdam (New York City) in 1654 of a group of two dozen Jewish settlers from the Netherlands, by way of Brazil. Over the next century and more, Jewish immigrants to America came mostly from Spain, Portugal, and the West Indies. They were of Sephardic descent, although a few were Ashkenazim from Germany or England. Jews who settled in the American colonies often made their living by being merchants, land speculators, and importers and exporters, dealing especially in fur, whale oil, candles, wine, rum, cocoa, and textiles. They welcomed the New World's economic opportunities, but also hoped to find in America a refuge from the religious persecution they had experienced in Europe.
+
 Jews were not welcomed everywhere in the colonies, but they established small communities in New York City; Newport, Rhode Island (1695); Charleston, South Carolina (1745); Savannah, Georgia (1735); and Philadelphia, Pennsylvania (1739): Roger Williams had founded Rhode Island on the principle of religious tolerance. English liberal philosopher John Locke had drawn up the Constitutions of Carolina, which were strongly tolerant in matters of religion. Quaker William Penn also welcomed settlers of different religious beliefs into the colony of Pennsylvania, and James Oglethorpe, Georgia's first governor, established a precedent of tolerance when he assisted a group of Jews to settle in the colony, shortly after it was founded, where they opened Congregation Mickva Israel in 1735.
+
 The oldest synagogue building in North America, Touro Synagogue, was opened in Newport in 1763. It is still in use today. Charleston's Kahal Kadosh Beth Elohim was organized in 1749. Its present building, finished in 1794, is the second oldest in the United States and the oldest in continuous use. Until well after the Revolutionary War, the Jewish center of gravity in America was Charleston. Only later did New York City overtake it in influence.
 > ...New England, well into the 19th century, was generally less tolerant of Jewish immigration than other areas in the country...
 
 Early Puritan New England was highly attuned to the traditions and culture of ancient Israel, but saw its own society as the "New Jerusalem," governed by covenantal relationships among its own "chosen people." Ironically, perhaps, this meant that New England, well into the 19th century, was generally less tolerant of Jewish immigration than other areas in the country, and when it was allowed, it was sometimes done because of the Puritan conviction that it would give the Jews the opportunity to be evangelized and converted to Christianity.
+
 On the eve of the American Revolution, between 2,000 and 3,000 Jews lived in the colonies, which had a total population of 3 million. By and large, Jews were sympathetic to the effort to achieve independence from Britain. Especially attractive to Jews, because of their experience in Europe, were American efforts to create a society in which no particular religion would be established by the State. The Enlightenment influence on Revolutionary and early Republican ideals—as in Thomas Jefferson's notion of a "wall of separation between church and state"—greatly appealed to the Jewish community.
+
 The Jewish communities in the cities were temporarily dispersed when many of their members fled British occupation forces. Perhaps 100 Jewish men served as soldiers for the American cause. Many of them were recognized for their distinguished military service. Haym Salomon, a Polish Jew who came to America in 1772, joined the Sons of Liberty in New York and became probably the greatest financier of the Revolution. Francis Salvador, who immigrated from England in 1773, was a prominent colonial legislator and American patriot in Charleston, and was killed in battle in 1776.
 
 ## Books of Special Interest to Pre-college Students on the History of Jews in Colonial and Revolutionary America
@@ -91,8 +121,11 @@ The Jewish communities in the cities were temporarily dispersed when many of the
 ## Scholarly Books
 
 Pencak, William. *Jews & Gentiles in Early America, 1654–1800.* Ann Arbor: University of Michigan Press, 2005.
+
 Faber, Eli. *A Time for Planting: The First Migration 1654–1820.* The Jewish People in America, Volume 1. Baltimore: Johns Hopkins University Press, 1992.
+
 Reiss. Oscar. *The Jews in Colonial America.* Jefferson, N.C.: McFarland & Company, 2004.
+
 Marcus, Jacob Rader. *Early American Jewry.* 2 volumes. Philadelphia: Jewish Publication Society of America, 1951–53.
 > -----. The Colonial American Jew, 1492–1776. 3 volumes. Detroit: Wayne State University Press, 1970.
 > -----. United States Jewry, 1776–1985. Volume 1. Detroit: Wayne State University Press, 1989.
@@ -100,4 +133,5 @@ Marcus, Jacob Rader. *Early American Jewry.* 2 volumes. Philadelphia: Jewish Pub
 > Hertzburg, Arthur. The Jews in America. New York: Simon and Schuster, 1989, pages 17–73.
 
 Sachar, Howard M. *A History of the Jews in America.* New York: Vintage Books, 1993, pages 9–37.
+
 Diner, Hasia R. *Jews of the United States, 1654–2000.* Berkeley: University of California Press, 2004, pages 13–57.

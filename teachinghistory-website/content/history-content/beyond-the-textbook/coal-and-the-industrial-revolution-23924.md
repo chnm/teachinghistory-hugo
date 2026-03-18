@@ -12,6 +12,15 @@ splash_image_fid: '4587'
 summary: How can the story of coal help students understand the nature of today's
   fossil-fueled world?
 splash_image: /files/BtT-Coal-Splash.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Devel. of the Industrial US, 1870-1900
+topics:
+- Economy
+- Science & Tech.
+tags:
+- Industrial Revolution
+- coal
 ---
 
 ## What Textbooks Say

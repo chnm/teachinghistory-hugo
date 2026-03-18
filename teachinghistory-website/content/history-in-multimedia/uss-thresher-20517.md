@@ -15,7 +15,25 @@ splash_image_fid: '8397'
 summary: John McNish, a former Captain on the USS *Thresher*, talks to Gwen Wright
   of PBS's *History Detectives* about life on the submarine.
 splash_image: /files/splash-him-vd14.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Global Contact
+- International Relations
+- Military History
+- Science & Tech.
+tags:
+- Cold War
+- U.S. Navy
+- USS Thresher
+- interview
+- nautical disasters
+- nuclear weapons
+- oral history
+- sailors
+- submariners
+- submarines
+- veterans
 ---
-
 
 John McNish, a former Captain on the USS *Thresher*, talks to Gwen Wright of PBS's *History Detectives* about life on the submarine.

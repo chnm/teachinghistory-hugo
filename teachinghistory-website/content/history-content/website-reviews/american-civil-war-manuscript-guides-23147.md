@@ -15,8 +15,20 @@ summary: Through these writings, you can see how soldiers saw themselves as acto
 image: /files/website_image/CiviManuImage.jpg
 splash_image: /files/civil.jpg
 thumbnail: /files/American_Experience-_Jimmy_Carter_432x240.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+topics:
+- Military History
+- Politics
+- Rural Life
+- Southern States
+evidence_types:
+- Personal Accounts
+resource_types:
+- Images
+- Text
 ---
 
-
 This site contains more than 10,000 documents and monographs from the Civil War era, including roughly 6,000 monographs from the Elden E. Josh Billings Collection. The site also contains transcriptions of Union and Confederate soldiers' letters and diaries, homefront letters, memoirs, and contemporary research files drawn from 19 collections. Each document group is accompanied by a 300-word biography of the principal author(s), a 150-word description of the scope and content of the collection, a 75-word account of the provenance, and a list of the collection's contents organized chronologically, with a roughly 15-word description of each item.
+
 The site also includes links to nine online Virginia Tech theses and dissertations on Civil War topics as well as a guide to other Special Collections Civil War sources. This site is ideal for researching the lives of Civil War soldiers and the homefront during the Civil War.

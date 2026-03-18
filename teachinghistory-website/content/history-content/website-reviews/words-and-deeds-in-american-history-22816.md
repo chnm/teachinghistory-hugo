@@ -14,8 +14,36 @@ summary: View primary documents that helped to shape America's history.
 thumbnail: /files/Downriver_Bridge_432x240.jpg
 splash_image: /files/Words_and_Deeds_in_American_History-_Selected_Documents_Celebrating_the_Manuscript_Divisions_First_100_Years_432x240.jpg
 image: /files/website_image/WordsandDeeds_Image.jpg
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Colonization & Settlement, 1585-1763
+- Contemporary US, 1968-Present
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+- Expansion & Reform, 1801-1861
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+- Revolution & New Nation, 1754-1820s
+- Three Worlds Meet, Beginnings to 1620
+topics:
+- African Americans
+- International Relations
+- Legal History
+- Military History
+- Politics
+- Popular Culture, Leisure
+- Science & Tech.
+- Women
+evidence_types:
+- Newspapers and Periodicals
+- Official Documents
+- Personal Accounts
+- Political Documents
+- Speeches
+resource_types:
+- Text
 ---
 
-
 This site displays approximately 90 primary documents from the 15th century to the mid 20th century. Features eight subjects: the presidency; Congress, law, and politics; military affairs; diplomacy and foreign policy; arts and literature; science, medicine, exploration, and invention; African-American history and culture; and women's history. The collection emphasizes "prominent Americans whose lives reflect our country's evolution," including 23 presidents and figures such as Carter Woodson, Thurgood Marshall, pioneer physician Elizabeth Blackwell, Wilbur Wright, and Alexander Graham Bell.
+
 Each subject is accompanied by a useful 100- to 400-word background essay and a link to the document's host collection. Also includes a 2,000-word essay entitled "Collecting, Preserving, and Researching History: A Peek into the Library of Congress Manuscript Division." Although limited in size, this site provides an eclectic group of documents of national interest.

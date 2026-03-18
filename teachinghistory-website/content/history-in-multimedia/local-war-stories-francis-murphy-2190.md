@@ -15,8 +15,23 @@ splash_image_fid: '8395'
 summary: World War II U.S. Navy veteran Francis Murphy talks about his experiences
   during the war, in the Atlantic theater.
 splash_image: /files/splash-him-vd12.jpg
+time_periods:
+- Great Depression & WWII, 1929-1945
+topics:
+- Military History
+tags:
+- U.S. Navy
+- World War II
+- navies
+- recordings
+- records
+- sailors
+- soldiers
+- veterans
+- war
+- wars
 ---
 
-
 World War II U.S. Navy veteran Francis Murphy talks about his experiences during the war, in the Atlantic theater.
+
 Audio and video options are available.

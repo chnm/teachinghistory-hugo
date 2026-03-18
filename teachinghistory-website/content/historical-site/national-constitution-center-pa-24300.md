@@ -7,10 +7,22 @@ draft: false
 drupal_nid: 24300
 website_url: http://constitutioncenter.org/
 grade_levels:
-  - elementary
-  - middle
-  - high
+- elementary
+- high
+- middle
+time_periods:
+- General
+topics:
+- Ideas & Ideologies
+- Legal History
+- Politics
+- Reform
+tags:
+- Independence
+- constitution
+- freedom
 ---
 
 The National Constitution Center is an independent, non-partisan, and non-profit organization dedicated to increasing public understanding of, and appreciation for, the Constitution, its history, and its contemporary relevance, through an interactive, interpretive facility within Independence National Historic Park and a program of national outreach, so that "We the People" may better secure the Blessings of Liberty to ourselves and our Posterity.
+
 The Center has exhibits, programs for teachers and students, and outreach events.

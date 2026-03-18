@@ -13,7 +13,15 @@ summary: You know Mother's Day is all about mom, but do you know the history of 
   holiday?
 splash_image: /files/As-American_0.jpg
 thumbnail: /files/website_image/AlgeHissImage.jpg
+time_periods:
+- Emergence of Modern US, 1890-1930
+topics:
+- Family Life
+- Gender
+- Women
+tags:
+- Mother's Day
+- holidays
 ---
-
 
 In 1914, President Wilson declared May 9th the first national Mother's Day. Efforts to celebrate mothers on an official holiday began in 1908 and the public responded positively through letters, reports, editorials, and newspaper columns. In this quiz, select the correct answer from the choices.

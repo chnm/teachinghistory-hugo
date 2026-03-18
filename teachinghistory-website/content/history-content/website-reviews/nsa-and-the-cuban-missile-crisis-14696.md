@@ -15,9 +15,34 @@ summary: Provides access to facsimiles of 100 declassified documents relating to
   Cuban Missile Crisis.
 splash_image: /files/_NSA_and_the_Cuban_Missile_Crisis_432x240.jpg
 image: /files/website_image/NSA.jpg
+time_periods:
+- Postwar US, 1945-Early 1970s
+topics:
+- Economy
+- Global Contact
+- Ideas & Ideologies
+- International Relations
+- Military History
+- Politics
+- Science & Tech.
+evidence_types:
+- Official Documents
+resource_types:
+- Text
+tags:
+- Cold War
+- Cuban Missile Crisis
+- Fidel; Soviet Union
+- John F.; Cuba; Castro
+- National Security Agency
+- Russia
+- U.S.S.R.
+- WMDs
+- nuclear weapons; Kennedy
 ---
 
-
 This website provides access to facsimiles of 100 declassified documents relating to the Cuban Missile Crisis.
+
 Documents include reports from Signal and Communications Intelligence and NSA memos, 20 written by the Director of National Security. For example, the first document from 1960 is entitled, "Indications of Soviet arms shipments to Cuba, weekly COMINT Economic Briefing."
+
 Documents are indexed by date and include brief descriptions. The documents describe Soviet involvement in Cuba and Cuban military activities by year, focusing on 1960, 1961, 1962, 1963, and 1969. This site also provides a synopsis of the crisis, emphasizing the Cuban arms buildup, the growing crisis, and the moments of crisis.

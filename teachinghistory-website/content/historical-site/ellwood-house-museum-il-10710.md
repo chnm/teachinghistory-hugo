@@ -6,7 +6,21 @@ content_type: historical_site
 draft: false
 drupal_nid: 10710
 website_url: http://www.ellwoodhouse.org/
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- General
+topics:
+- Business
+- Daily Life
+- Midwestern States
+tags:
+- Illinois
+- Isaac Ellwood
+- Isaac L. Ellwood
+- Victorian
+- barbed wire
 ---
 
 The Ellwood House Museum presents the home of barbed wire magnate, Isaac L. Ellwood (1833-1910). Built in 1879, the Victorian mansion still contains its original furnishings. A visitor's center offers a number of exhibits, including a gallery displaying the history of barbed wire.
+
 The museum offers period rooms, exhibits, and one-hour guided tours.

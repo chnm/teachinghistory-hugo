@@ -12,8 +12,15 @@ series_name: 'Historians on the Record: Podcasts from the Gilder Lehrman Institu
 splash_image_fid: '6143'
 splash_image: /files/splash-him-supremecourtgl.jpg
 grade_levels:
-  - high
+- high
+time_periods:
+- Contemporary US, 1968-Present
+- Postwar US, 1945-Early 1970s
+topics:
+- Legal History
+tags:
+- Supreme Court
+- U.S. Supreme Court
 ---
-
 
 A.E. Dick Howard, White Burkett Miller Professor of Law and Public Affairs at the University of Virginia, analyzes the changes in the Supreme Court from the Warren Court of the 1960s to the Rehnquist era.

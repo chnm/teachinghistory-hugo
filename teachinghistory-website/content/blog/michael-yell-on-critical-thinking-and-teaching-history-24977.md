@@ -25,14 +25,17 @@ summary: Don't think once. Think twice. Demand concise, thought-provoking work f
 splash_image: /files/mikeyellon432x240.jpg
 author_image: /files/author_image/myell_1.jpg
 grade_levels:
-  - middle
+- middle
+tags:
+- Richard Paul
+- michael yell
+- mike yell
 ---
-
-
 
 > *The advance of knowledge has been achieved not because the mind is capable of memorizing what teachers say but because it can be disciplined to ask probing questions and pursue them in a reasonable, self-critical way. Scholars pursuing knowledge submit their thinking to rigorous discipline.* —Dr. Richard Paul ([1](#note1))
 
 One of the most worn and used books in my professional library is *Critical Thinking: How to Prepare Students for a Rapidly Changing World* by Richard Paul. Paul has been an international leader in critical thinking, and his work has been very influential in my teaching. While there are many different approaches to, and definitions of, critical thinking, Paul's view of critical thinking is that it is the development of disciplined organized thinking that monitors itself and is guided by certain intellectual standards. Further, he holds that the heart of good teaching is reasoning. It is his philosophical approach to critical thinking that, I believe, puts his ideas and concepts head and shoulders above others. It is not a "cookie cutter," "fact or opinion worksheet," "use these words when asking questions" approach.
+
 One of the aspects of Richard Paul's work that I find so appealing, and important, is his belief that reasoning must be the center of our teaching—that we must use intellectual standards in our teaching. Noting that critical thinkers analyze and assess their thinking to improve it, he states that holding certain standards as criteria to aim for in our thinking and reasoning should be an important part of our teaching. As a normal part of their history class, students can be taught to strive for and monitor their own thinking, discussion, and writing with these standards.
 ![Poster, Standards, Submitted by Mike Yell](http://teachinghistory.org/files/mikeyelloncriticalthinking113x115.jpg "Poster, Standards, Submitted by Mike Yell")These standards include *clarity*, *precision*, *accuracy*, *relevance*, *completeness*, and depth. Having these standards as a target, students can learn to regularly assess their own thinking by asking such questions as "is my writing clear," "am I being complete in my discussion," and "does my response show the depth of my thinking?" That these are excellent targets at which to aim becomes obvious when we ask if it is even conceivable to state that a person is a good thinker, except that they usually give unclear, imprecise, incomplete, and shallow answers. Of course not; these standards are of the essence. ([2](#note2))
 

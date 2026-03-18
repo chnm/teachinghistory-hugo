@@ -6,7 +6,20 @@ content_type: historical_site
 draft: false
 drupal_nid: 5758
 website_url: http://www.thequincymuseum.com
+time_periods:
+- All
+- Emergence of Modern US, 1890-1930
+- General
+topics:
+- Daily Life
+- Midwestern States
+tags:
+- Illinois
+- homes
+- houses
+- museums
 ---
 
 The Quincy Museum is housed in the 1891 Richard F. Newcomb House, a remarkable example of Victorian elegance. It displays exhibits showcasing local history.
+
 The museum offers exhibits, classes and educational programs, and occasional recreational and educational events.

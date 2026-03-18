@@ -10,8 +10,30 @@ splash_image_fid: '10204'
 summary: What do the contents of pockets say about their owners? TAH teachers model
   strategies for examining and questioning artifacts.
 splash_image: /files/mysterypocketsplash_0.jpg
+time_periods:
+- Colonization & Settlement, 1585-1763
+- Expansion & Reform, 1801-1861
+- Revolution & New Nation, 1754-1820s
+topics:
+- African Americans
+- Children
+- Daily Life
+- Education
+- Family Life
+- Labor
+- Popular Culture, Leisure
+- Slavery
+- Southern States
+tags:
+- First Ladies
+- Martha Jefferson
+- Monticello
+- Thomas Jefferson
+- Thomas Jefferson Randolph
+- artifacts
+- material culture
+- presidents
 ---
-
 
 /files/media/video/mysterypocket1.mp4
 

@@ -12,8 +12,27 @@ splash_image_fid: '7163'
 summary: Part of a series of laws that displaced Native Americans from land allotted
   to them through treaties with the U.S. government.
 splash_image: /files/Guipago240.jpg
+time_periods:
+- Devel. of the Industrial US, 1870-1900
+- Emergence of Modern US, 1890-1930
+topics:
+- American Indians
+- Ethnicity
+- Ideas & Ideologies
+- Legal History
+- Politics
+tags:
+- Court
+- Indian rights
+- Native American Indian
+- due process
+- land ownership
+- land rights
+- law
+- property
+- supreme court decision
+- trial
 ---
-
 
 *Lone Wolf* v *Hitchcock* (187 U.S. 553, 1903) was part of a long string of treaties and legislative and judicial measures that displaced North America’s First Peoples from their ancestral lands, hemmed them into “reservations,” and eventually detribalized them. This Supreme Court decision originated on the Kiowa-Comanche reservation, which the Medicine Lodge Treaty (1867) had established in Indian Territory. The treaty guaranteed the Kiowa and Comanche “absolute and undisturbed use and occupation” of these reservation lands and stipulated that in order for any portion of the reservation lands to be ceded to the U.S., three-fourths of the adult males in the tribe had to give their approval. However, in 1900, without Native American consent, Congress passed an Allotment Act that divided the Kiowa-Comanche lands into 160-acre allotments to give to the Native American residents of the reservation. Those who accepted the allotments were also given American citizenship. The “surplus” lands left after the allotment were to be sold to whites, and the Kiowa and Comanche were to receive about one dollar per acre for these lands. In 1902, Kiowa headman Lone Wolf sued newly-appointed Secretary of the Interior Ethan Allen Hitchcock to stop the allotment of the Reservation. Lone Wolf argued that the allotment was a denial of due process and a violation of the consent requirement in the Medicine Lodge treaty. The federal government’s lawyers asserted that Congress had a right to alter the terms of the treaty through legislation, because it had paramount authority over Indian affairs. Justice A.C. Bradley of the Supreme Court of the District of Columbia rejected the Kiowa claim that the 1900 Act deprived tribes of due process. He stated that lack of consent was not relevant because Native American matters were under the exclusive control of Congress. The Court of Appeals upheld Bradley’s decision, and the United States Supreme Court agreed.
 

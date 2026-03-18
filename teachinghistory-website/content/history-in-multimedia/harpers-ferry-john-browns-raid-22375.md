@@ -9,7 +9,18 @@ duration: 00:28:02
 website_url: http://www.civilwartraveler.com/audio/index.html#HarpersFerry
 date_published: '2009-06-19T00:00:00'
 series_name: 'Civil War Traveler: Podcasts'
+time_periods:
+- Civil War & Reconstruction, 1850-1877
+- Expansion & Reform, 1801-1861
+topics:
+- African Americans
+- Mid-Atlantic
+- Radicalism
+- Reform
+- Slavery
+- Southern States
 ---
 
 From the Civil War Traveler [website](http://www.civilwartraveler.com/):
+
 "Late in the evening on Oct. 16, 1859, John Brown and a small band of insurgents entered Harpers Ferry (then Virginia), planning to ignite and arm a slave insurrection. This tour covers raid-related sites in the national park at Harpers Ferry (now West Virginia)."

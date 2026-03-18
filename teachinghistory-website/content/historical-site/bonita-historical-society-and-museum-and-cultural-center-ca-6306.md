@@ -6,7 +6,16 @@ content_type: historical_site
 draft: false
 drupal_nid: 6306
 website_url: http://www.sweetwatervalleyca.org/Museum.html
+time_periods:
+- All
+- General
+topics:
+- Western States
+tags:
+- California
+- museums
 ---
 
 The Society works to preserve, for public education and enjoyment, the culture, history, art, crafts, and aesthetic facets of the region, specifically El Rancho de la Nacion in South San Diego County. It operates a museum which displays exhibits on local history.
+
 The museum offers exhibits
