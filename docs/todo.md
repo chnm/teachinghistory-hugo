@@ -24,9 +24,9 @@ Action items and known issues for the TeachingHistory.org Hugo rebuild.
 
 ## Infrastructure
 
-- [ ] **Set up CI/CD deployment.** Triggers configured for `main` and `preview` branches but deployment target needs to be configured.
+- [x] **Set up CI/CD deployment.** Triggers configured for `main` and `preview` branches but deployment target needs to be configured.
 - [ ] **Consider Git LFS or server-side hosting for large media.** The 16 BTC video files are currently in the repo (~485 MB). The additional ~253 best-practices videos would add several more GB. Consider moving all video files to server-side storage.
 
 ---
 
-*Last updated: 2026-03-11*
+*Last updated: 2026-03-18*

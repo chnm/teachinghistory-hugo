@@ -2,8 +2,6 @@
 
 Teachinghistory.org is a K–12 history education resource site created by the Roy Rosenzweig Center for History and New Media (CHNM) at George Mason University, with funding from the U.S. Department of Education. The site provides lesson plans, teaching guides, primary source reviews, best practices, and historian Q&A resources for elementary, middle, and high school teachers.
 
-NOTE: For some of the pages to work we may want to think about restructuring our `content/` for Hugo.
-
 ## Tech Stack
 
 - Framework: Hugo 
