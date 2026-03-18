@@ -13,7 +13,9 @@ RUN apk add --no-cache \
     wget \
     ca-certificates \
     gcompat \
-    libstdc++ && \
+    libstdc++ \
+    nodejs \
+    npm && \
     ARCH=$(uname -m) && \
     case ${ARCH} in \
         x86_64) HUGO_ARCH="Linux-64bit" ;; \
@@ -34,6 +36,8 @@ RUN hugo version
 WORKDIR /app
 
 ADD . .
+
+RUN npm ci
 
 RUN hugo ${HUGO_BUILD_ARGS}
 
