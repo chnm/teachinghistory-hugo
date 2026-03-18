@@ -58,6 +58,28 @@
           {{ .Content }}
         </div>
 
+        {{/* Related Topics */}}
+        {{ $related := site.RegularPages.Related . | first 2 }}
+        {{ if not $related }}
+          {{ $siblings := .Parent.RegularPages | first 10 }}
+          {{ $related = slice }}
+          {{ range $siblings }}
+            {{ if and (ne .RelPermalink $.RelPermalink) (lt (len $related) 2) }}
+              {{ $related = $related | append . }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        {{ with $related }}
+        <section class="mt-10 pt-6 border-t border-gray-light">
+          <h3 class="font-heading text-lg font-bold uppercase mb-4">Related Topics</h3>
+          <div class="flex gap-4">
+            {{ range . }}
+              {{ partial "content-card.html" (dict "page" . "width" "w-1/2") }}
+            {{ end }}
+          </div>
+        </section>
+        {{ end }}
+
         <footer class="mt-10 pt-4 border-t border-gray-light">
           <a href="/best-practices/" class="text-sm hover:underline">&larr; Back to Best Practices</a>
         </footer>

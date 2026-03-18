@@ -13,22 +13,37 @@ title = 'TeachingHistory.org'
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+  topic = 'topics'
+  time_period = 'time_periods'
+  evidence_type = 'evidence_types'
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-# Related content — used for "Related Topics" on detail pages
+# Related content — used for "Related Topics" on detail pages.
+# Weights control how much each index contributes to the relevance score.
 [related]
   includeNewer = true
-  threshold = 50
+  threshold = 30
+  toLower = true
   [[related.indices]]
-    name = "keywords"
+    name = "topics"
     weight = 100
+    toLower = true
   [[related.indices]]
     name = "tags"
     weight = 80
+    toLower = true
+  [[related.indices]]
+    name = "time_periods"
+    weight = 60
+    toLower = true
+  [[related.indices]]
+    name = "keywords"
+    weight = 40
+    toLower = true
   [[related.indices]]
     name = "date"
     weight = 10
