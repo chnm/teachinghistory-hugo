@@ -97,4 +97,23 @@
     color: var(--color-dark);
     font-style: italic;
   }
+
+  /* Pull quotes — emphasized callout excerpts */
+  .pull-quote {
+    border-left-width: 4px;
+    padding: 1rem 1.25rem;
+    margin: 1.5rem 0;
+    font-family: var(--font-heading);
+    font-size: var(--text-lg);
+    font-style: italic;
+    line-height: 1.6;
+    background-color: var(--color-pale-blue-tint);
+  }
+  .pull-quote p {
+    margin-bottom: 0;
+  }
+  .pull-quote--orange { border-left-color: var(--color-orange); }
+  .pull-quote--yellow { border-left-color: var(--color-yellow); }
+  .pull-quote--green  { border-left-color: var(--color-green);  }
+  .pull-quote--pale-blue { border-left-color: var(--color-pale-blue); }
 }
