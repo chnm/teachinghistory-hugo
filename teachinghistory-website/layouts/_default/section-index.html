@@ -10,7 +10,7 @@
 
 {{ $tint := partial "section-tint.html" .Section }}
 <main class="flex-1 {{ $tint }}">
-  <div class="max-w-7xl mx-auto px-6 py-10">
+  <div class="max-w-7xl mx-auto px-4 md:px-6 py-6 md:py-10">
     {{ range .Sections.ByWeight }}
       {{ partial "horizontal-carousel.html" (dict
           "id"          .File.ContentBaseName
