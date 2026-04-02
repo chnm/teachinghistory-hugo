@@ -1,5 +1,6 @@
 {{/*
   SubsectionList — 1/3-2/3 filterable listing for subsection pages.
+  Mobile: stacks sidebar above content.
 
   Usage:
     {{ partial "subsection-list.html" (dict
@@ -25,11 +26,11 @@
 {{ $pages := $ctx.RegularPages }}
 
 <main class="flex-1">
-  <div class="flex min-h-screen">
+  <div class="flex flex-col md:flex-row min-h-screen">
 
     {{/* ── Left column — 1/3, section tint ── */}}
-    <aside class="{{ $tint }} w-1/3 p-8">
-      <div class="sticky top-[76px] flex flex-col gap-6">
+    <aside class="{{ $tint }} w-full md:w-1/3 p-6 md:p-8">
+      <div class="md:sticky md:top-[76px] flex flex-col gap-6">
 
         {{/* Section header + View all link */}}
         <div>
@@ -47,7 +48,7 @@
     </aside>
 
     {{/* ── Right column — 2/3, white background, card grid ── */}}
-    <div class="w-2/3 bg-white p-8">
+    <div class="w-full md:w-2/3 bg-white p-6 md:p-8">
       <h2 class="font-heading text-2xl mb-2 normal-case">{{ $ctx.Title }}</h2>
       {{ with $ctx.Params.description }}
         <p class="font-body text-sm text-gray-600 mb-6">{{ . }}</p>
@@ -57,7 +58,7 @@
         Showing <span id="visible-count">{{ len $pages }}</span> of {{ len $pages }} results
       </p>
 
-      <div id="listing-grid" class="grid grid-cols-2 gap-6">
+      <div id="listing-grid" class="grid grid-cols-1 sm:grid-cols-2 gap-6">
         {{ range $pages }}
           {{ $img := .Params.splash_image | default .Params.image | default .Params.thumbnail }}
           <a href="{{ .RelPermalink }}"

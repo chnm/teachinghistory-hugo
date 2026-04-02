@@ -27,9 +27,9 @@
 {{ $color := .color | default "orange" }}
 {{ $pages := .pages }}
 
-<div class="flex gap-8 py-8">
+<div class="flex flex-col md:flex-row gap-4 md:gap-8 py-6 md:py-8">
   {{/* Left column — label + description + View All */}}
-  <div class="w-[200px] shrink-0 flex flex-col">
+  <div class="md:w-[200px] md:shrink-0 flex flex-col">
     <h2 class="font-heading text-xl font-bold mb-2">{{ $heading }}</h2>
     <p class="font-body text-xs text-gray-600 leading-relaxed mb-4">{{ $description }}</p>
     {{ partial "arrow-button.html" (dict "text" "View All" "href" $viewAllURL "color" $color) }}
@@ -38,14 +38,14 @@
   {{/* Right column — scrollable card row + arrows */}}
   <div class="flex-1 min-w-0">
     {{/* Scrollable card container */}}
-    <div id="carousel-{{ $id }}" class="flex gap-4 overflow-x-hidden scroll-smooth">
+    <div id="carousel-{{ $id }}" class="flex gap-4 overflow-x-auto md:overflow-x-hidden scroll-smooth -mx-4 px-4 md:mx-0 md:px-0">
       {{ range $pages }}
         {{ partial "content-card.html" (dict "page" .) }}
       {{ end }}
     </div>
 
-    {{/* Arrow navigation */}}
-    <div class="flex gap-2 mt-3">
+    {{/* Arrow navigation — hidden on mobile where swipe works */}}
+    <div class="hidden md:flex gap-2 mt-3">
       <button
         type="button"
         aria-label="Scroll left"

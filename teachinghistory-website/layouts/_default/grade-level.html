@@ -39,10 +39,10 @@
   {{ if $heroPool }}
     {{ $picked := index ($heroPool | shuffle) 0 }}
     <section class="bg-white">
-      <div class="max-w-7xl mx-auto flex min-h-[320px]">
+      <div class="max-w-7xl mx-auto flex flex-col md:flex-row md:min-h-[320px]">
 
         {{/* Left — Teacher's Pick card */}}
-        <div class="w-1/2 flex flex-col justify-center px-10 py-10">
+        <div class="w-full md:w-1/2 flex flex-col justify-center px-6 py-8 md:px-10 md:py-10">
           <p class="font-heading text-xs uppercase tracking-widest mb-3">Teacher's Pick</p>
           <h2 class="font-heading text-3xl leading-tight mb-4 normal-case">{{ $picked.Title }}</h2>
           <p class="font-body text-sm leading-relaxed mb-6">
@@ -52,7 +52,7 @@
         </div>
 
         {{/* Right — splash image */}}
-        <div class="w-1/2">
+        <div class="w-full md:w-1/2">
           <img src="{{ $picked.Params.splash_image }}"
                alt="{{ $picked.Title }}"
                class="w-full h-full object-cover">
