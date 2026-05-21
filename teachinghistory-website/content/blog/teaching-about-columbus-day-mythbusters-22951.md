@@ -63,7 +63,7 @@ A wealth of historical fiction, biography, and other nonfiction books for all ag
 ## Clearinghouse Resources
 
 And here at the Clearinghouse, please visit these materials:
-> Answers to [American Myths: Christopher Columbus](http://teachinghistory.org/history-content/quiz/20401) in our past quizzes section clarifies misconceptions about the man, his explorations, and the holiday.
+> Answers to [American Myths: Christopher Columbus](/history-content/quiz/20401) in our past quizzes section clarifies misconceptions about the man, his explorations, and the holiday.
 > The website review [Columbus and the Age of Discovery](/history-content/website-reviews/22823) leads to a cumbersome, but useful, website for searching and accessing background materials on the man and the era.
-> The website review [1492: An Ongoing Voyage](http://teachinghistory.org/history-content/website-reviews/22782) introduces exhibit-based materials from the Library of Congress.
-> In the Research Brief [Learning to Think Historically: Columbus, Exploration, and the Idea of the Flat Earth](http://teachinghistory.org/issues-and-research/research-brief/19265), educator Bob Bain models a lesson encouraging students to challenge and examine inherited beliefs about history through exploring historical evidence.
+> The website review [1492: An Ongoing Voyage](/history-content/website-reviews/22782) introduces exhibit-based materials from the Library of Congress.
+> In the Research Brief [Learning to Think Historically: Columbus, Exploration, and the Idea of the Flat Earth](/issues-and-research/research-brief/19265), educator Bob Bain models a lesson encouraging students to challenge and examine inherited beliefs about history through exploring historical evidence.

@@ -61,4 +61,4 @@ Carp, Benjamin. [*Defiance of the Patriots: The Boston Tea Party and the Making 
 
 Jensen, Merill. *The Founding of a Nation, A History of the American Revolution 1763-1776* Oxford: Oxford University Press, 1968.
 
-[**Picturing the American Revolution**](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/24378)
+[**Picturing the American Revolution**](/teaching-materials/ask-a-master-teacher/24378)

@@ -63,7 +63,7 @@ Be sure to ask a question that elicits historical debates, not moral judgments. 
 * causal questions: "What caused x?"
 * explanatory questions: "Why did x happen?"
 * evaluating questions: "Was x a success?"
-* Be sure to use documents and sources that your students can read and access. Consider using short excerpts or modifying difficult language in documents, especially if you are working with struggling readers. Checkout this [guide](http://teachinghistory.org/teaching-materials/teaching-guides/23560) for tips about making primary sources accessible for all students.
+* Be sure to use documents and sources that your students can read and access. Consider using short excerpts or modifying difficult language in documents, especially if you are working with struggling readers. Checkout this [guide](/teaching-materials/teaching-guides/23560) for tips about making primary sources accessible for all students.
 
   ## Example
 

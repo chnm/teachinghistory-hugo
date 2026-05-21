@@ -62,7 +62,7 @@ The second step is to contextualize the item in historical time and space. Have 
 3. What was happening within the immediate and broader context at the     time the source was produced?
 4. What summarizing information can place the source in time and place?
 
-Extend the activity by having students digitize their historical ephemera. Make the process simple by having students take pictures of the item and then post one to [Flickr.com](http://teachinghistory.org/digital-classroom/tech-for-teachers/24600) or some other photo sharing website. Once the item has been digitized and posted, it can be embedded in additional work aimed at producing an historical interpretation. See an example of a personal memento that I digitized [here](http://flic.kr/s/aHsjv1XymW). This is a report card from my grandmother issued in May 1917.
+Extend the activity by having students digitize their historical ephemera. Make the process simple by having students take pictures of the item and then post one to [Flickr.com](/digital-classroom/tech-for-teachers/24600) or some other photo sharing website. Once the item has been digitized and posted, it can be embedded in additional work aimed at producing an historical interpretation. See an example of a personal memento that I digitized [here](http://flic.kr/s/aHsjv1XymW). This is a report card from my grandmother issued in May 1917.
 
 > Print broadsides are perhaps the most popular form of historical ephemera.
 

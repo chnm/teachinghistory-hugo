@@ -22,9 +22,9 @@ tags:
 - holidays
 ---
 
-Have you finished preparing for the holiday next week? If you haven't (or even if you have), take a look at our [spotlight page](http://teachinghistory.org/spotlight/thanksgiving) on Thanksgiving. From teaching ideas to online quizzes to primary and secondary sources, we've gathered all of our Thanksgiving material in one place.
+Have you finished preparing for the holiday next week? If you haven't (or even if you have), take a look at our [spotlight page](/spotlight/thanksgiving) on Thanksgiving. From teaching ideas to online quizzes to primary and secondary sources, we've gathered all of our Thanksgiving material in one place.
 
-[![](/files/splash-spotlight-tg.jpg)](http://teachinghistory.org/spotlight/thanksgiving)
+[![](/files/splash-spotlight-tg.jpg)](/spotlight/thanksgiving)
 
 If you need more materials on the holiday, its history, and the myths and facts about contact between Native peoples and Pilgrim colonists, other history resource sites have pulled together useful ideas and materials, too.
 

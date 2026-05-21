@@ -43,7 +43,7 @@ Ideally, students can learn to ask the same questions of daily life and sources 
 
 ## Fiction & Nonfiction
 
-You ask particularly about the use of fiction and nonfiction to teach multiple perspectives. See [this entry](http://teachinghistory.org/teaching-materials/teaching-guides/22365) about “book sets” a strategy for including both to engage students and guide them toward deep understanding of historical events. Also see [this roundtable](http://teachinghistory.org/issues-and-research/roundtable/25284) where panelists discuss the use of fiction in the elementary classroom or [this blog](http://teachinghistory.org/nhec-blog/24679).
+You ask particularly about the use of fiction and nonfiction to teach multiple perspectives. See [this entry](/teaching-materials/teaching-guides/22365) about “book sets” a strategy for including both to engage students and guide them toward deep understanding of historical events. Also see [this roundtable](/issues-and-research/roundtable/25284) where panelists discuss the use of fiction in the elementary classroom or [this blog](/nhec-blog/24679).
 
 Using both fiction and nonfiction allows students to engage with multiple kinds of text and it allows you, as teacher, to use the texts for different purposes. Good fiction can be used to engage and interest students in the past and help them imagine that past or create a picture of the historical context of the events you are studying. Non-fictional texts, such as primary sources, can be used to explore an experience or perspective in more depth and to represent missing perspectives. Both can be used to challenge students to look across and synthesize texts to create a fuller picture of the past.
 > A critical aspect of using both fiction and nonfiction texts together is that they give you an opportunity to teach students the difference between the two.
@@ -54,4 +54,4 @@ Teaching young students that history includes multiple stories and perspectives 
 
 ---
 
-Also see [this](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/23610) *Ask a Master Teacher* answer about the manner in which multiperspectivity can be used in the history classroom.
+Also see [this](/teaching-materials/ask-a-master-teacher/23610) *Ask a Master Teacher* answer about the manner in which multiperspectivity can be used in the history classroom.

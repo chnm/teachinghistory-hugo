@@ -19,9 +19,9 @@ tags:
 
 With Teachinghistory.org's women's history resources and the rich resources available elsewhere on the Web, you can find ideas and materials for any time period, topic, or grade level. Whether you're covering well-known events like the Seneca Falls Convention or helping your students *un*cover little-known figures from history, primary sources, digital tools, and thoughtful teaching strategies can bring women's history to life in March—and in every month of the year!
 
-[![](/files/splash-sp-whm.jpg)](http://teachinghistory.org/spotlight/womens-history)
+[![](/files/splash-sp-whm.jpg)](/spotlight/womens-history)
 
-Start your search for resources on our Women's History Month [spotlight page](http://teachinghistory.org/spotlight/womens-history), where you'll find website reviews, lesson plans, quizzes, videos, and other materials that encourage historical thinking.
+Start your search for resources on our Women's History Month [spotlight page](/spotlight/womens-history), where you'll find website reviews, lesson plans, quizzes, videos, and other materials that encourage historical thinking.
 
 Need even more resources? Try these suggestions for exploring Women's History Month materials beyond Teachinghistory.org:
 

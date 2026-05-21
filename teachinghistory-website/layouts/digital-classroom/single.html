@@ -1,7 +1,7 @@
 {{/*
   Digital Classroom detail page — two-column layout.
   Left 1/3: subsection breadcrumb + At a Glance card.
-  Right 2/3: content + list-style Related Topics.
+  Right 2/3: content + Related Topics cards.
 */}}
 
 {{ define "main" }}
@@ -94,13 +94,13 @@
           {{ .Content }}
         </div>
 
-        {{/* Related Topics — list style with bottom borders, orange links */}}
-        {{ $related := site.RegularPages.Related . | first 7 }}
+        {{/* Related Topics */}}
+        {{ $related := site.RegularPages.Related . | first 2 }}
         {{ if not $related }}
-          {{ $siblings := .Parent.RegularPages | first 20 }}
+          {{ $siblings := .Parent.RegularPages | first 10 }}
           {{ $related = slice }}
           {{ range $siblings }}
-            {{ if and (ne .RelPermalink $.RelPermalink) (lt (len $related) 7) }}
+            {{ if and (ne .RelPermalink $.RelPermalink) (lt (len $related) 2) }}
               {{ $related = $related | append . }}
             {{ end }}
           {{ end }}
@@ -108,11 +108,9 @@
         {{ with $related }}
         <section class="mt-10 pt-6 border-t border-gray-light">
           <h3 class="font-heading text-lg font-bold uppercase mb-4">Related Topics</h3>
-          <div>
+          <div class="flex gap-4">
             {{ range . }}
-              <a href="{{ .RelPermalink }}" class="block py-3 border-b border-gray-light text-orange hover:underline">
-                {{ .Title }}
-              </a>
+              {{ partial "content-card.html" (dict "page" . "width" "w-1/2") }}
             {{ end }}
           </div>
         </section>

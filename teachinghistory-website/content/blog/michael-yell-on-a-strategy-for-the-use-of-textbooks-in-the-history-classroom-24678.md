@@ -36,7 +36,7 @@ tags:
 
 —Richard Paul
 
-In recent [blogs](http://teachinghistory.org/nhec-blog/24485) I have [written](http://teachinghistory.org/nhec-blog/24402) about teaching strategies for involving students in inquiry and using primary sources, strategies that I have found engage students and help them “enter into” the content. And while we should be engaging our history students in inquiry by using primary sources, we also have textbooks that we are to use in our classes. Can we use the textbook in thoughtful active ways, ways that help the reader understand the text, or is “read these pages and do the chapter questions” part and parcel of history instruction?
+In recent [blogs](/nhec-blog/24485) I have [written](/nhec-blog/24402) about teaching strategies for involving students in inquiry and using primary sources, strategies that I have found engage students and help them “enter into” the content. And while we should be engaging our history students in inquiry by using primary sources, we also have textbooks that we are to use in our classes. Can we use the textbook in thoughtful active ways, ways that help the reader understand the text, or is “read these pages and do the chapter questions” part and parcel of history instruction?
 
 This blog will examine a teaching strategy, and some variations, that I have found make reading text material a more engaging, interactive, and thoughtful learning experience for my students. The strategy is known as GIST.
 

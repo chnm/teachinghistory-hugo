@@ -48,7 +48,7 @@ While we frequently think of lectures as straight delivery of information, lectu
 
 Do students have the chance to use what they have learned? Do they need further support or practice with new content or skills? Does an activity connect to the central learning goals for the unit or course?
 
-***Fourth, you may want to look at [this research brief](http://teachinghistory.org/issues-and-research/research-briefs/19265)*** for an account of how one experienced teacher used both lecture and document-based activities.
+***Fourth, you may want to look at [this research brief](/issues-and-research/research-briefs/19265)*** for an account of how one experienced teacher used both lecture and document-based activities.
 
 Your question asks about how you can help students learn the entire curriculum. This is the real challenge that we have no short or easy answer for, but both these instructional strategies can be helpful in meeting that challenge.
 
@@ -78,6 +78,6 @@ While we frequently think of lectures as straight delivery of information, lectu
 
 Do students have the chance to use what they have learned? Do they need further support or practice with new content or skills? Does an activity connect to the central learning goals for the unit or course?
 
-***Fourth, you may want to look at [this research brief](http://teachinghistory.org/issues-and-research/research-briefs/19265)*** for an account of how one experienced teacher used both lecture and document-based activities.
+***Fourth, you may want to look at [this research brief](/issues-and-research/research-briefs/19265)*** for an account of how one experienced teacher used both lecture and document-based activities.
 
 Your question asks about how you can help students learn the entire curriculum. This is the real challenge that we have no short or easy answer for, but both these instructional strategies can be helpful in meeting that challenge.

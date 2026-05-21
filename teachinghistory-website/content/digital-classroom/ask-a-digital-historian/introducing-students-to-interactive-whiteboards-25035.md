@@ -54,7 +54,7 @@ Students could also use the IWB to review a [cloze passage](http://www.ehow.com/
 
 > Any excuse to get students up and interacting with their classmates and the IWB is worthwhile.
 
-Projecting images on an IWB opens up a number of activity possibilities. Simply having students highlight important symbols in a piece of propaganda or political cartoon may be useful. Another idea is to place tiles over an image to have students come up to the board to slowly reveal the image and hypothesize about what it shows. Another way to get students interacting with the IWB and hypothesizing about images is by using the spotlight tool that comes with most software packages. Using the spotlight tool you, or the students, can reveal select elements of an image to eventually make a meaningful interpretation of the image as a whole. See a [Zoom-In Inquiry](http://teachinghistory.org/digital-classroom/beyond-the-chalkboard/24158) in action.
+Projecting images on an IWB opens up a number of activity possibilities. Simply having students highlight important symbols in a piece of propaganda or political cartoon may be useful. Another idea is to place tiles over an image to have students come up to the board to slowly reveal the image and hypothesize about what it shows. Another way to get students interacting with the IWB and hypothesizing about images is by using the spotlight tool that comes with most software packages. Using the spotlight tool you, or the students, can reveal select elements of an image to eventually make a meaningful interpretation of the image as a whole. See a [Zoom-In Inquiry](/digital-classroom/beyond-the-chalkboard/24158) in action.
 
 ## Review Activities
 

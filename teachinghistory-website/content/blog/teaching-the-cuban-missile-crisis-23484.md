@@ -48,10 +48,10 @@ The PBS American Experience series [*The Presidents*](http://www.pbs.org/wgbh/am
 
 ## At the Clearinghouse
 
-Featured website reviews lead you to [NSA and the Cuban Missile Crisis](http://teachinghistory.org/history-content/website-reviews/14696), a resource for 100 declassified documents related to Soviet and American involvement in Cuba.
+Featured website reviews lead you to [NSA and the Cuban Missile Crisis](/history-content/website-reviews/14696), a resource for 100 declassified documents related to Soviet and American involvement in Cuba.
 
-[Learn about 19 short video clips where scholars discuss](http://teachinghistory.org/history-content/history-in-multimedia/22119) *The Cuban Missile Crisis: Considering Its Place in Cold War History*.
+[Learn about 19 short video clips where scholars discuss](/history-content/history-in-multimedia/22119) *The Cuban Missile Crisis: Considering Its Place in Cold War History*.
 
-Explore using [Wordle](http://teachinghistory.org/digital-classroom/tech-for-teachers/20785) to help your students wend their ways through some of the more complex [vocabulary, documents, and issues](http://www.wordle.net/show/wrdl/262880/Cuban_Missile_Crisis) of the Cuban missile crisis.
+Explore using [Wordle](/digital-classroom/tech-for-teachers/20785) to help your students wend their ways through some of the more complex [vocabulary, documents, and issues](http://www.wordle.net/show/wrdl/262880/Cuban_Missile_Crisis) of the Cuban missile crisis.
 
-Download a quiz from the Clearinghouse archive—[Textbook Twisters: Cuban Missile Crisis](http://teachinghistory.org/history-content/quiz/19824)—and see if you can tell which which country wrote which account of the event in their school textbooks.
+Download a quiz from the Clearinghouse archive—[Textbook Twisters: Cuban Missile Crisis](/history-content/quiz/19824)—and see if you can tell which which country wrote which account of the event in their school textbooks.

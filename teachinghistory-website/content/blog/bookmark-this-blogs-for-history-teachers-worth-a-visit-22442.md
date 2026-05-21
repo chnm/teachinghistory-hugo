@@ -16,7 +16,7 @@ tags:
 - teaching materials
 ---
 
-Cyberspace teems with noteworthy (and yes, not so noteworthy) blogs. At the Clearinghouse, we encourage their appropriate use in teaching American History (see [Tools for Teachers: Blogs](http://teachinghistory.org/digital-classroom/tech-for-teachers/14590) and [Using Blogs in a History Classroom](/digital-classroom/tech-for-teachers/14590)), but what about blogs as resources for teachers to help find things to use in the classroom and to share teaching methods?
+Cyberspace teems with noteworthy (and yes, not so noteworthy) blogs. At the Clearinghouse, we encourage their appropriate use in teaching American History (see [Tools for Teachers: Blogs](/digital-classroom/tech-for-teachers/14590) and [Using Blogs in a History Classroom](/digital-classroom/tech-for-teachers/14590)), but what about blogs as resources for teachers to help find things to use in the classroom and to share teaching methods?
 
 The three blogs below are full of suggestions for teaching materials, teaching ideas, and examples of teaching, and their authors encourage discussion and comment.
 > Teacher blogs highlight wordless Wednesdays, Best of lists and the process of historical inquiry.

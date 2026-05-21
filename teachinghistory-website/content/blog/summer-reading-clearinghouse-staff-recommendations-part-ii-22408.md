@@ -19,7 +19,7 @@ tags:
 - publications
 ---
 
-Earlier this summer, Clearinghouse staff members [shared some ideas for summer reading](http://teachinghistory.org/nhec-blog/22337). In this installment, other staff members highlight their choices—a graphic novel, a maritime log book, film, and a political thriller.
+Earlier this summer, Clearinghouse staff members [shared some ideas for summer reading](/nhec-blog/22337). In this installment, other staff members highlight their choices—a graphic novel, a maritime log book, film, and a political thriller.
 > When is a comic book not a comic book, but a novel?
 
 If you've been in a bookstore lately, you've undoubtedly noticed sections and shelf space devoted to the graphic novel. Research Associate Lara Harmon is a fan of [*Watchmen*](http://www.amazon.com/Watchmen-Alan-Moore/dp/0930289234/ref=sr_1_10?ie=UTF8&s=books&qid=1248280301&sr=8-10), a 450-plus page graphic novel first published in the mid-1980s and [released as a film](http://www.wbshop.com/product/code/1000089879.do) in March 2009. [One reviewer described *Watchmen*](http://hnn.us/blogs/entries/18529.html) as the *Citizen Kane* of graphic novels, a multi-layered narrative that has not dulled with age. Lara agrees. "It changed perceptions of the comic book as a medium and remains a tightly-plotted, cynical look at politics, science, war, and human nature."

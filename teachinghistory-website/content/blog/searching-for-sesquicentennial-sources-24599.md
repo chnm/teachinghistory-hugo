@@ -26,7 +26,7 @@ tags:
 - sesquicentennial
 ---
 
-In February, Teachinghistory.org rounded up sesquicentennial resources [state by state](http://teachinghistory.org/nhec-blog/24465). Now, with April and the anniversary of the April 12 bombardment of Fort Sumter upon us, let's look at some materials that aren't state-specific.
+In February, Teachinghistory.org rounded up sesquicentennial resources [state by state](/nhec-blog/24465). Now, with April and the anniversary of the April 12 bombardment of Fort Sumter upon us, let's look at some materials that aren't state-specific.
 
 ## Blogosphere
 
@@ -55,7 +55,7 @@ Looking for some orientation to all of those sources? Sign up for one of the Smi
 
 The National Archives and Records Administration (NARA) invites you to examine the Civil War through "little-known stories, seldom-seen documents, and unusual perspectives" in their new exhibit ["Discovering the Civil War"](http://www.archives.gov/exhibits/civil-war/), including lesson plans and other teaching resources.
 
-The Library of Virginia's online exhibit ["Union or Succession"](http://teachinghistory.org/history-content/website-reviews/24531) also focuses on primary sources from the debate over secession. Check out the Library's ["CW 150 Legacy Project,"](http://www.virginiamemory.com/collections/cw150) too—are any organizations in your area working on collecting sources?
+The Library of Virginia's online exhibit ["Union or Succession"](/history-content/website-reviews/24531) also focuses on primary sources from the debate over secession. Check out the Library's ["CW 150 Legacy Project,"](http://www.virginiamemory.com/collections/cw150) too—are any organizations in your area working on collecting sources?
 
 How about primary sources such as letters from Lincoln, Grant, Lee, and other Civil War era figures? [Today in the Civil War: Dispatches from the Rosenbach Collection](http://rosenbach.org/civilwar/)  reproduces Civil War-era documents from the Rosenbach Collection 150 years after their creation. Each day a new item is posted, accompanied by a full or partial transcript.
 

@@ -55,6 +55,6 @@ Famously, Roosevelt believed in the “melting pot,” a phrase that we have com
 
 ---
 
-[The Modern Civil Rights Movement: A Rise of Purposeful Anger](http://www.teachinghistory.org/history-content/beyond-the-textbook/24317)
+[The Modern Civil Rights Movement: A Rise of Purposeful Anger](/history-content/beyond-the-textbook/24317)
 
 U.S. Department of the State: Office of the Historian. [Milestones: 1921-1936](https://history.state.gov/milestones/1921-1936/immigration-act). Accessed January 12, 2011.

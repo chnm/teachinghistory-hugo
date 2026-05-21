@@ -49,7 +49,7 @@ Looking at the [original document](http://www.archives.gov/exhibits/charters/dec
 
 [Sign the document](http://www.archives.gov/exhibits/charters/declaration.html). Have students find the anomaly (your signature) on a handout or decide whether to sign on themselves after considering the [stories behind the signers](http://www.archives.gov/exhibits/charters/constitution_founding_fathers_overview.html) and the historical moment.
 
-Look at the [rough draft of the Declaration](http://www.loc.gov/exhibits/treasures/trt001.html) or use this [lesson plan](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/19572) which involves a careful comparison between the drafts.
+Look at the [rough draft of the Declaration](http://www.loc.gov/exhibits/treasures/trt001.html) or use this [lesson plan](/teaching-materials/lesson-plan-reviews/19572) which involves a careful comparison between the drafts.
 
 For a primer on the document, see this historian’s helpful [discussion](http://chnm.gmu.edu/mcpstah/source-analysis/declaration-of-independence/scholar-analysis/) that includes a consideration of the historical events surrounding the Declaration, analyses of particular excerpts and its consequences and legacy.
 
@@ -86,7 +86,7 @@ Looking at the [original document](http://www.archives.gov/exhibits/charters/dec
 
 [Sign the document](http://www.archives.gov/exhibits/charters/declaration.html). Have students find the anomaly (your signature) on a handout or decide whether to sign on themselves after considering the [stories behind the signers](http://www.archives.gov/exhibits/charters/constitution_founding_fathers_overview.html) and the historical moment.
 
-Look at the [rough draft of the Declaration](http://www.loc.gov/exhibits/treasures/trt001.html) or use this [lesson plan](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/19572) which involves a careful comparison between the drafts.
+Look at the [rough draft of the Declaration](http://www.loc.gov/exhibits/treasures/trt001.html) or use this [lesson plan](/teaching-materials/lesson-plan-reviews/19572) which involves a careful comparison between the drafts.
 
 For a primer on the document, see this historian’s helpful [discussion](http://chnm.gmu.edu/mcpstah/source-analysis/declaration-of-independence/scholar-analysis/) that includes a consideration of the historical events surrounding the Declaration, analyses of particular excerpts and its consequences and legacy.
 

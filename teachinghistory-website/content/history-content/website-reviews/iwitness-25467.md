@@ -39,4 +39,4 @@ You can also register as an educator or a student. Educators can assign activiti
 
 For a quick introduction to the site, consider watching the six-minute demonstration video linked at the top of the [About Us](http://iwitness.usc.edu/SFI/About.aspx) page.
 
-*Interested in learning more about IWitness? Read teacher Brandon Haas's *Tech for Teachers* [article](http://teachinghistory.org/digital-classroom/tech-for-teachers/25604).*
+*Interested in learning more about IWitness? Read teacher Brandon Haas's *Tech for Teachers* [article](/digital-classroom/tech-for-teachers/25604).*

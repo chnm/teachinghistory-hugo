@@ -55,4 +55,4 @@ In addition to the equity issues that this system poses, Lerner points to conseq
 
 ---
 
-Please visit [Ask-a-Master Teacher](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/20298) on the Clearinghouse for another perspective on this question.
+Please visit [Ask-a-Master Teacher](/teaching-materials/ask-a-master-teacher/20298) on the Clearinghouse for another perspective on this question.

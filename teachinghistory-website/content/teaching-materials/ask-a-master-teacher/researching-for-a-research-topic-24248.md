@@ -59,7 +59,7 @@ Use your questions to help you look into a topic more deeply and extensively. Ul
 
 One thing you will have to figure out is: are there sources available and accessible that address this topic and question? Remember you can’t do a project on a topic that has no available sources!
 
-You will want to use a variety of sources, including texts, photos, and so on. Using [primary](http://teachinghistory.org/best-practices/using-primary-sources/19079) and [secondary sources](http://teachinghistory.org/best-practices/using-primary-sources/19080) truly allows you to engage in historical research, as you investigate the voices of the past while learning about how previous historians have made sense of them. And to do this, you will have to go beyond google and explore archives and library holdings. This may sound daunting, but at the end of this answer are some resources that can help.
+You will want to use a variety of sources, including texts, photos, and so on. Using [primary](/best-practices/using-primary-sources/19079) and [secondary sources](/best-practices/using-primary-sources/19080) truly allows you to engage in historical research, as you investigate the voices of the past while learning about how previous historians have made sense of them. And to do this, you will have to go beyond google and explore archives and library holdings. This may sound daunting, but at the end of this answer are some resources that can help.
 
 **Next Steps**
 
@@ -87,7 +87,7 @@ Good Luck!
 
 * Historian William Cronon’s helpful [site](http://www.williamcronon.net/researching/index.htm). Especially helpful for choosing a topic is the section titled [“asking good questions.”](http://www.williamcronon.net/researching/questions.htm)
 * National History Day’s [Eight Steps of Historical Research](http://www.nationalhistoryday.org/EightSteps.htm). Steps 2, 3, and 4 are most relevant to your question.
-* Local resources including school and local librarians, professors, teachers, museums, and historical societies. Use the search function at our  [page to find local museums and historical sites (scroll down and look in the right column).](http://teachinghistory.org/history-content>)
+* Local resources including school and local librarians, professors, teachers, museums, and historical societies. Use the search function at our  [page to find local museums and historical sites (scroll down and look in the right column).](/history-content>)
 
 Places you may want to browse to do some background reading and look for topics specific to spies include:
 

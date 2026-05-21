@@ -42,7 +42,7 @@ Beale, David *In Pursuit of Purity: American Fundamentalism Since 1850* (Greenvi
 
 Lawrence, Bruce B. *Defenders of God: The Fundamentalist Revolt against the Modern Age* (San Francisco: Harper & Row, 1989).
 
-[**Left, Right, and Center:Teaching about Conservatism>**](http://teachinghistory.org/nhec-blog/23938)
+[**Left, Right, and Center:Teaching about Conservatism>**](/nhec-blog/23938)
 
 Marsden, George *Fundamentalism and American Culture: The Shaping of Twentieth-Century Evangelicalism, 1870-1925* (New York: Oxford, 1980).
 

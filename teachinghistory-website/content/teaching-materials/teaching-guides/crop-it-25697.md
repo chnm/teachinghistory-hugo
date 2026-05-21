@@ -52,8 +52,8 @@ This routine helps young students look carefully at a primary source to focus on
      + sources depicting the people, places, and events that will be tested in a unit;
      + sources representing perspectives that are missing from the textbook’s account.
 2. Print enough copies so each student can have one source: it’s fine if some students have the same image.
-3. Print and cut out enough [*Crop It* tools](https://www.teachinghistory.org/sites/default/files/2018-08/crop_it_tools.pdf) so that each student has a set of two tools.
-4. Prepare to display a series of questions either through a [PowerPoint presentation](http://teachinghistory.org/sites/default/files/crop_it.pptx) or on chart paper.
+3. Print and cut out enough [*Crop It* tools](/sites/default/files/2018-08/crop_it_tools.pdf) so that each student has a set of two tools.
+4. Prepare to display a series of questions either through a [PowerPoint presentation](/sites/default/files/crop_it.pptx) or on chart paper.
 
 ## In the Classroom
 
@@ -73,7 +73,7 @@ Ask students to choose a source from the collection that either:
 
 1. Pass out a set of two *Crop It* tools to each student. Demonstrate how to use the *Crop It* tools to focus on a particular piece of a source. Students can make various sizes of triangles, rectangles, and lines to “crop” or focus attention on an important part of the source.
 2. Invite students to carefully explore their image by using the tools. Pose a question and ask students to look carefully and “crop” to an answer. For example, ask students to:
-3. (See [Question Sets Handout](https://www.teachinghistory.org/sites/default/files/2018-08/question_sets.pdf) for additional sample questions.) Invite students to revise their answer by choosing another crop that could answer the same question. Encourage students to consider: if they could only have one answer, then which crop would be best? Why? Allow students to look at the crops of other students. Students can explain their crop to a partner. Or ask students to place their source and crop on their desk, and invite students to silently walk around and notice the different types of evidence that students used to answer the same question.
+3. (See [Question Sets Handout](/sites/default/files/2018-08/question_sets.pdf) for additional sample questions.) Invite students to revise their answer by choosing another crop that could answer the same question. Encourage students to consider: if they could only have one answer, then which crop would be best? Why? Allow students to look at the crops of other students. Students can explain their crop to a partner. Or ask students to place their source and crop on their desk, and invite students to silently walk around and notice the different types of evidence that students used to answer the same question.
 
 ### Step Three: Identify the Evidence
 
@@ -89,4 +89,4 @@ Avoid asking too many questions during Step Two: Explore. Keep the questions and
 
 ## Example
 
-See [Image Set Handout](https://www.teachinghistory.org/sites/default/files/2018-08/image_set_for_crop_it_0.pdf) for samples that you might use with this strategy. These images represent some events key to understanding the Great Depression of the 1930s (e.g., FDR’s inauguration and the Bonus Army’s march on Washington) and could be used to review or preview a unit of study.
+See [Image Set Handout](/sites/default/files/2018-08/image_set_for_crop_it_0.pdf) for samples that you might use with this strategy. These images represent some events key to understanding the Great Depression of the 1930s (e.g., FDR’s inauguration and the Bonus Army’s march on Washington) and could be used to review or preview a unit of study.

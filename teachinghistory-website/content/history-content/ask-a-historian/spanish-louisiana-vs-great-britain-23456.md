@@ -25,7 +25,7 @@ tags:
 - Spain
 ---
 
-Perhaps this question was stimulated by another recent question and answer. Please consider [that exchange](http://teachinghistory.org/history-content/ask-a-historian/22894) as preliminary background for what follows here.
+Perhaps this question was stimulated by another recent question and answer. Please consider [that exchange](/history-content/ask-a-historian/22894) as preliminary background for what follows here.
 
 After Spain's public acknowledgment in June 1779 that it would join with France to wage war on Britain, the Governor General of Spanish Louisiana, Bernardo de Gálvez, began his successful military campaign against British forces in Florida, Louisiana, and in the Mississippi River Valley.
 

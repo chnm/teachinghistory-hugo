@@ -45,7 +45,7 @@ Once you've developed your essential questions, build your lesson plans around t
 
 ### Description:
 
-Your class has been chosen to serve as the awards committee for the “[Progressive Awards](https://teachinghistory.org/sites/default/files/progressive_awards_2.pdf).” The final product is an awards show and live Twitter reflection to highlight the people—past and present—who have best championed the ideas of the Progressive movement. ***Knowledge objectives****:* Students will . . .
+Your class has been chosen to serve as the awards committee for the “[Progressive Awards](/sites/default/files/progressive_awards_2.pdf).” The final product is an awards show and live Twitter reflection to highlight the people—past and present—who have best championed the ideas of the Progressive movement. ***Knowledge objectives****:* Students will . . .
 
 * Describe the main people, events, and ideas of the Progressive Era; and
 * Identify the living legacy of the Progressive movement today.
@@ -65,7 +65,7 @@ Your class has been chosen to serve as the awards committee for the “[Progress
 
 You will . . .
 
-* Define the award criteria beforehand or as a class (see [handout](https://teachinghistory.org/sites/default/files/progressive_awards_2.pdf) for examples).
+* Define the award criteria beforehand or as a class (see [handout](/sites/default/files/progressive_awards_2.pdf) for examples).
 * Have each student research four people (two past and two present) for a specific category and serve as their advocate at the selection committee meeting. Research can be assigned as homework or spend one class day in the computer lab. Students can consult books and websites. Pre-selecting useful resources may be necessary depending on your students’ experiences and abilities with research).
 * Conduct a selection committee meeting where students present their three-minute speeches to small groups based on specific award (i.e., Social Justice Award, Government Transparency Award, Muckraker Award, etc.). Another idea is to have students record their three-minute arguments and the teacher can post them for viewing as a homework assignment.
 * Select four finalists.
@@ -78,7 +78,7 @@ This will be . . . A final review of the information along with a way to summari
 
 * + Master of Ceremonies (“emcee”);
   + Finalists (two past and two present), who reread their three minute presentations (or replay the videos they made);
-  + Voters, who vote via [Poll Everywhere](http://teachinghistory.org/digital-classroom/tech-for-teachers/25273) or another voting tool; and
+  + Voters, who vote via [Poll Everywhere](/digital-classroom/tech-for-teachers/25273) or another voting tool; and
   + Live tweeters using backchannel hashtag.
 
 ### Follow-up:
@@ -89,7 +89,7 @@ You can . . . Present the complexities within each movement in the Progressive e
 
 ### Description:
 
-Your class must create a “Progressive University.” Students use their knowledge of the Progressive era to choose the departments at the university, the classes within these departments (along with the outline of a syllabus with readings), and the professors who will teach each class. One example might be the Department of Social Justice with classes on Labor Rights, Women’s Rights, and Racial Equality taught by Samuel Gompers, Carrie Chapman Catt, and W.E.B. DuBois respectively (see [handout](https://teachinghistory.org/sites/default/files/progressive_university_2.pdf)). ***Knowledge objectives:*** Students will . . . Describe the main people, events, and ideas of the Progressive era. ***Skill objectives:***  Students will . . . Organize information into categories and assess importance of people and ideas. ***Background information (context):*** You will . . .
+Your class must create a “Progressive University.” Students use their knowledge of the Progressive era to choose the departments at the university, the classes within these departments (along with the outline of a syllabus with readings), and the professors who will teach each class. One example might be the Department of Social Justice with classes on Labor Rights, Women’s Rights, and Racial Equality taught by Samuel Gompers, Carrie Chapman Catt, and W.E.B. DuBois respectively (see [handout](/sites/default/files/progressive_university_2.pdf)). ***Knowledge objectives:*** Students will . . . Describe the main people, events, and ideas of the Progressive era. ***Skill objectives:***  Students will . . . Organize information into categories and assess importance of people and ideas. ***Background information (context):*** You will . . .
 
 * Provide in-class lecture or flipped-class video; and
 * Offer text or supplemental reading about the time period.
@@ -135,7 +135,7 @@ Once you've developed your essential questions, build your lesson plans around t
 
 ### Description:
 
-Your class has been chosen to serve as the awards committee for the “[Progressive Awards](https://teachinghistory.org/sites/default/files/progressive_awards_2.pdf).” The final product is an awards show and live Twitter reflection to highlight the people—past and present—who have best championed the ideas of the Progressive movement. ***Knowledge objectives****:* Students will . . .
+Your class has been chosen to serve as the awards committee for the “[Progressive Awards](/sites/default/files/progressive_awards_2.pdf).” The final product is an awards show and live Twitter reflection to highlight the people—past and present—who have best championed the ideas of the Progressive movement. ***Knowledge objectives****:* Students will . . .
 
 * Describe the main people, events, and ideas of the Progressive Era; and
 * Identify the living legacy of the Progressive movement today.
@@ -155,7 +155,7 @@ Your class has been chosen to serve as the awards committee for the “[Progress
 
 You will . . .
 
-* Define the award criteria beforehand or as a class (see [handout](https://teachinghistory.org/sites/default/files/progressive_awards_2.pdf) for examples).
+* Define the award criteria beforehand or as a class (see [handout](/sites/default/files/progressive_awards_2.pdf) for examples).
 * Have each student research four people (two past and two present) for a specific category and serve as their advocate at the selection committee meeting. Research can be assigned as homework or spend one class day in the computer lab. Students can consult books and websites. Pre-selecting useful resources may be necessary depending on your students’ experiences and abilities with research).
 * Conduct a selection committee meeting where students present their three-minute speeches to small groups based on specific award (i.e., Social Justice Award, Government Transparency Award, Muckraker Award, etc.). Another idea is to have students record their three-minute arguments and the teacher can post them for viewing as a homework assignment.
 * Select four finalists.
@@ -168,7 +168,7 @@ This will be . . . A final review of the information along with a way to summari
 
 * + Master of Ceremonies (“emcee”);
   + Finalists (two past and two present), who reread their three minute presentations (or replay the videos they made);
-  + Voters, who vote via [Poll Everywhere](http://teachinghistory.org/digital-classroom/tech-for-teachers/25273) or another voting tool; and
+  + Voters, who vote via [Poll Everywhere](/digital-classroom/tech-for-teachers/25273) or another voting tool; and
   + Live tweeters using backchannel hashtag.
 
 ### Follow-up:
@@ -179,7 +179,7 @@ You can . . . Present the complexities within each movement in the Progressive e
 
 ### Description:
 
-Your class must create a “Progressive University.” Students use their knowledge of the Progressive era to choose the departments at the university, the classes within these departments (along with the outline of a syllabus with readings), and the professors who will teach each class. One example might be the Department of Social Justice with classes on Labor Rights, Women’s Rights, and Racial Equality taught by Samuel Gompers, Carrie Chapman Catt, and W.E.B. DuBois respectively (see [handout](https://teachinghistory.org/sites/default/files/progressive_university_2.pdf)). ***Knowledge objectives:*** Students will . . . Describe the main people, events, and ideas of the Progressive era. ***Skill objectives:***  Students will . . . Organize information into categories and assess importance of people and ideas. ***Background information (context):*** You will . . .
+Your class must create a “Progressive University.” Students use their knowledge of the Progressive era to choose the departments at the university, the classes within these departments (along with the outline of a syllabus with readings), and the professors who will teach each class. One example might be the Department of Social Justice with classes on Labor Rights, Women’s Rights, and Racial Equality taught by Samuel Gompers, Carrie Chapman Catt, and W.E.B. DuBois respectively (see [handout](/sites/default/files/progressive_university_2.pdf)). ***Knowledge objectives:*** Students will . . . Describe the main people, events, and ideas of the Progressive era. ***Skill objectives:***  Students will . . . Organize information into categories and assess importance of people and ideas. ***Background information (context):*** You will . . .
 
 * Provide in-class lecture or flipped-class video; and
 * Offer text or supplemental reading about the time period.

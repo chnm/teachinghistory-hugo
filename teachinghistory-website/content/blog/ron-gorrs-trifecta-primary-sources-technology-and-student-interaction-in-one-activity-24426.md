@@ -55,13 +55,13 @@ I think it is important to note that my objectives DID NOT include a stringent P
 
 The foundations for this project actually started earlier in the year with simple searches of the Teachinghistory.org site and one practice Wiki discussion surrounding electoral politics. But, for those of you who have never done a Wiki, blog, or other type of online discussion board, don't freak out. They are very user-friendly and odds are, the kids have already taken part in one. I prefer [PBWorks](http://pbworks.com/education?utm_campaign=nav-tracking&utm_source=Home%2520navigation), but there are many to choose from. See if your school or colleagues have a favorite.
 
-I also spent some time going over online discussion norms. See the [main page](http://teachinghistory.org/system/files/GORRWEBWIKI_licensed_for_non-commercial_use_only__Chapter_13_Primary_Documents.pdf) of my Wiki!
+I also spent some time going over online discussion norms. See the [main page](/system/files/GORRWEBWIKI_licensed_for_non-commercial_use_only__Chapter_13_Primary_Documents.pdf) of my Wiki!
 
 ## Step Two: Assignment
 
 In class, I assigned one of four topics to each student: Corrupt Bargain 1824, the Nullification Crisis 1832–33, The Alamo 1836, and the Trail of Tears 1838–39. These topics were specific enough to focus, but generic enough to provide ample research.
 
-Student were told to use the Teachinghistory.org website's [History Content Gateway](http://teachinghistory.org/history-content/gateway-to-history-websites?cx=015291029838648875433%3Ab9pr4apkg5w&cof=FORID%3A11&ie=UTF-8&as_q=&query=) to find, read, and analyze ONE primary document pertaining to their assigned topic.
+Student were told to use the Teachinghistory.org website's [History Content Gateway](/history-content/gateway-to-history-websites?cx=015291029838648875433%3Ab9pr4apkg5w&cof=FORID%3A11&ie=UTF-8&as_q=&query=) to find, read, and analyze ONE primary document pertaining to their assigned topic.
 
 They were then asked to share their findings with their classmates via the Wiki by answering four basic questions about their source. If they completed this part of the assignment thoroughly and with attention to detail, they received 75% of the total points possible.
 
@@ -70,7 +70,7 @@ The final 25% was earned by engaging in a discussion (certainly defined differen
 To see the actual assignment, the Wiki, and the student responses, click the link below.
 > <http://gorrwebwiki.pbworks.com/w/page/31880259/GORRWEB-WIKI>
 
-> (Note: Wiki access requires a username and password. If you'd like to see the Wiki in full, follow the link, click the "Request Access" button on the right side, and fill out the form. It may take some time for you to receive a response. Alternatively, download this [PDF](http://teachinghistory.org/system/files/GORRWEBWIKI_licensed_for_non-commercial_use_only__Chapter_13_Primary_Documents.pdf) of the page.)
+> (Note: Wiki access requires a username and password. If you'd like to see the Wiki in full, follow the link, click the "Request Access" button on the right side, and fill out the form. It may take some time for you to receive a response. Alternatively, download this [PDF](/system/files/GORRWEBWIKI_licensed_for_non-commercial_use_only__Chapter_13_Primary_Documents.pdf) of the page.)
 
 ## Step Three: Discussion
 

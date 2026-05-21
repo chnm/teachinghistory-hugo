@@ -44,7 +44,7 @@ Students must understand that while citizenship is a right it is also a responsi
 
 Many textbooks have sections regarding the roles of citizenship that can prove quite useful when introducing the concept of civic republicanism. This [lesson plan](http://www.civiced.org/index.php?page=wtp_ms28_sb) and [this plan](http://www.civiced.org/index.php?page=pc_sample_sb), both from the [Center for Civic Education](http://www.civiced.org/index.php ), can be used to help students explore and identify what it means to play an active role in our republic. This would also be an appropriate time to review ideas from students’ 6th- and 7th-grade classes, such as Pericles’s praise of public service and the Roman Republic’s expectation of its citizens to perform public service, and various Enlightenment ideas from thinkers like Locke, Rousseau, and Montesquieu.
 
-[This handout](http://teachinghistory.org/system/files/handout.pdf) can be used as part of a class discussion. The first page would be done by students in groups or as an entire class while sharing common ideas. (It may also be helpful to identify pages in your textbook that can help students answer these questions.) The second page includes some of the content that could come out in the discussion of the second question and particular principles.
+[This handout](/system/files/handout.pdf) can be used as part of a class discussion. The first page would be done by students in groups or as an entire class while sharing common ideas. (It may also be helpful to identify pages in your textbook that can help students answer these questions.) The second page includes some of the content that could come out in the discussion of the second question and particular principles.
 
 ## An Important Idea!
 
@@ -52,8 +52,8 @@ Again, this concept is not an easy one to teach, especially with the limited tim
 
 ---
 
-Students can learn more about the responsibilities of modern-day citizens and the workings of U.S. government at [iCivics](http://teachinghistory.org/history-content/website-reviews/25018). Online games explore the responsibilities of citizens and each of the three branches of government.
+Students can learn more about the responsibilities of modern-day citizens and the workings of U.S. government at [iCivics](/history-content/website-reviews/25018). Online games explore the responsibilities of citizens and each of the three branches of government.
 
-What resources can you use to teach about civics and civic republicanism? A previous [*Ask a Master Teacher*](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/25062) shares more suggestions.
+What resources can you use to teach about civics and civic republicanism? A previous [*Ask a Master Teacher*](/teaching-materials/ask-a-master-teacher/25062) shares more suggestions.
 
-Do you teach ELL students? You don't need advanced English comprehension to learn about the rights and responsibilities that are part of living in a republic! Michael Long shares a [teaching strategy](http://teachinghistory.org/teaching-materials/english-language-learners/24139).
+Do you teach ELL students? You don't need advanced English comprehension to learn about the rights and responsibilities that are part of living in a republic! Michael Long shares a [teaching strategy](/teaching-materials/english-language-learners/24139).

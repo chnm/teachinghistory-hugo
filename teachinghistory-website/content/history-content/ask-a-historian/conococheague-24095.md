@@ -39,6 +39,6 @@ In 1822, the Moravian missionary, John Gottlieb Heckewelder (1743-1823), widely 
 
 Visit the Conococheague Institute's [website](http://conococheague.org/), to learn about its mission, "dedicated to promoting and interpreting the history of the French and Indian War in Pennsylvania, Maryland, West Virginia and Virginia."
 
-[**Resources on Native American History**](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/22901)
+[**Resources on Native American History**](/teaching-materials/ask-a-master-teacher/22901)
 
 The National Park Service operates the [Williamsport Visitor Center](http://www.nps.gov/choh/planyourvisit/williamsportvisitorcenter.htm), which is located at the confluence of the Conococheague Creek and the Potomac River.

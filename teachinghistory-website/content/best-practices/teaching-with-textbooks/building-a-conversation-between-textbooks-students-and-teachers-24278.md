@@ -35,7 +35,7 @@ One of my goals while teaching 11th grade U.S. History at a large urban high sch
 
 ## What Is It?
 
-**What Students Do** Each time students read the textbook they worked on a core activity where they selected important people and events, generated questions about and reactions to the excerpt, and analyzed images in the text. They used questions from the [Reading your Textbook worksheet](https://teachinghistory.org/sites/default/files/reading_your_textbook_worksheet.pdf) to guide their responses. **What the Teacher Does** 1. Collect and read over the student responses to parts I, II, and III of the core activity. 2. Use student work to create a handout to be used in class on the next day. This handout listed:
+**What Students Do** Each time students read the textbook they worked on a core activity where they selected important people and events, generated questions about and reactions to the excerpt, and analyzed images in the text. They used questions from the [Reading your Textbook worksheet](/sites/default/files/reading_your_textbook_worksheet.pdf) to guide their responses. **What the Teacher Does** 1. Collect and read over the student responses to parts I, II, and III of the core activity. 2. Use student work to create a handout to be used in class on the next day. This handout listed:
 
 * terms the students thought were important;
 * questions they had; and

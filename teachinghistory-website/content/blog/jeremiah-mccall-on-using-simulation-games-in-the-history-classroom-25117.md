@@ -25,7 +25,7 @@ tags:
 - gaming
 ---
 
-*(Note: This blog entry is the first part of a six-part series. Read more on using games in the classroom in parts [two](http://teachinghistory.org/nhec-blog/25225), [three](http://teachinghistory.org/nhec-blog/25338), [four](http://teachinghistory.org/nhec-blog/25451), [five](http://teachinghistory.org/nhec-blog/25523), and [six](http://teachinghistory.org/nhec-blog/25624).)*
+*(Note: This blog entry is the first part of a six-part series. Read more on using games in the classroom in parts [two](/nhec-blog/25225), [three](/nhec-blog/25338), [four](/nhec-blog/25451), [five](/nhec-blog/25523), and [six](/nhec-blog/25624).)*
 
 Using simulation games effectively in the classroom poses challenges. The power of such games to offer compelling and unique learning opportunities is very real, however, and well worth the effort. I invite readers to use the guidelines in this series to harness the power of simulation games. I encourage teachers to engage in their own play, experimenting with simulations thoughtfully, taking calculated risks in the classroom, wading into the chaos, and guiding students towards a more meaningful and relevant study of the past.
 
@@ -58,4 +58,4 @@ Knowing the hardware basics is all very good, but where can one find appropriate
 
 One can also hunt through video game review websites looking for reviews of historical games. [*PC Gamer*](http://www.pcgamer.com/), both the website and the magazine, is my favorite of these resources when it comes to browsing for appropriate desktop games with historical themes.
 
-In the [next installment](http://teachinghistory.org/nhec-blog/25225), I’ll look at what makes a simulation game effective for classroom use.
+In the [next installment](/nhec-blog/25225), I’ll look at what makes a simulation game effective for classroom use.

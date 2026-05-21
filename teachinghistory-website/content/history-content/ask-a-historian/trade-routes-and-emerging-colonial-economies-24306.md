@@ -73,7 +73,7 @@ Evans, Chris and Goran Ryden. **Baltic Iron in the Atlantic World** Leiden: Bril
 
 Hart, Michael. **A Trading Nation: Canadian Trade Policy from Colonialism to Globalization.** Vancouver: University of British Columbia Press, 2002.
 
-[**Jamestown-Yorktown Foundation, Jamestown Settlement, and Yorktown Victory Center[VA]**](http://teachinghistory.org/history-content/historical-places/6354)
+[**Jamestown-Yorktown Foundation, Jamestown Settlement, and Yorktown Victory Center[VA]**](/history-content/historical-places/6354)
 
 Ostrander, Gilman. “The Making of the Transatlantic Slave Trade Myth,” **William and Mary Quarterly** 30 (1973): 635-44.
 

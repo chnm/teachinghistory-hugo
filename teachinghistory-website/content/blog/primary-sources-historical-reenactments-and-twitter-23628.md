@@ -44,4 +44,4 @@ Projects such as twhistory offer the possibility of bridging the gap between stu
 
 The free industry brief in PDF, *Pockets of Potential: Using Mobile Technologies to Promote Children's Learning* found on the Center's [publications page](http://www.joanganzcooneycenter.org/publications/index.html) offers a thorough exposition on the state-of-the-art, the potential, and the pluses and minuses of the technologies that enable learning experiences such as twhistory's Twitter reenactments.
 
-(For another look at tweeting with primary sources, revisit our earlier blog post [ROTFLOL?\* President John Quincy Adams Twittered?](http://teachinghistory.org/nhec-blog/22627))
+(For another look at tweeting with primary sources, revisit our earlier blog post [ROTFLOL?\* President John Quincy Adams Twittered?](/nhec-blog/22627))

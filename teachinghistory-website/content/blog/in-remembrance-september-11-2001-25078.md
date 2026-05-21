@@ -43,9 +43,9 @@ How many people witnessed those events? How many of them witnessed them in perso
 
 ## Teachinghistory.org Resources
 
-[![September 11 Spotlight](/files/spotlight-blog-9112011.jpg)](http://teachinghistory.org/spotlight/september11)
+[![September 11 Spotlight](/files/spotlight-blog-9112011.jpg)](/spotlight/september11)
 
-Regardless of how you choose to teach 9/11 and whether or not you contrast it with other historical events, approach the subject thoughtfully and with clear goals. To honor the anniversary and to help you as you learn about, teach, and remember the day and its effects, we've gathered together our 9/11 resources on one page: "[In Remembrance: Teaching 9/11](http://teachinghistory.org/spotlight/september11)."
+Regardless of how you choose to teach 9/11 and whether or not you contrast it with other historical events, approach the subject thoughtfully and with clear goals. To honor the anniversary and to help you as you learn about, teach, and remember the day and its effects, we've gathered together our 9/11 resources on one page: "[In Remembrance: Teaching 9/11](/spotlight/september11)."
 
 ## Teaching the Recent Past
 

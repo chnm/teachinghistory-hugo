@@ -38,4 +38,4 @@ This collection includes primary documents about the food conservation program t
 
 Although the 45 sources are listed without annotations and in no particular order, the website has a solid search feature. Teachers could introduce this website by searching the word “poster” and using the images of government-created posters to start a classroom discussion on limited resources during World War I. In addition, students should be shown the use of the “display gallery view” feature when looking at their search results. This feature makes it much easier to find relevant information at a glance.
 
-*Teachinghistory.org Teacher Representative Todd Beuke wrote this* Website Review*. [Learn more](http://teachinghistory.org/about/teacher-representatives) about our Teacher Representatives.*
+*Teachinghistory.org Teacher Representative Todd Beuke wrote this* Website Review*. [Learn more](/about/teacher-representatives) about our Teacher Representatives.*

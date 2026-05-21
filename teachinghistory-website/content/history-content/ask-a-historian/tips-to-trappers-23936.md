@@ -60,4 +60,4 @@ After 34 years in the fur buying business, Sears Roebuck decided in 1958 to focu
 
 ---
 
-[**Heritage Museum[MT]**](http://teachinghistory.org/history-content/historical-places/9716)
+[**Heritage Museum[MT]**](/history-content/historical-places/9716)

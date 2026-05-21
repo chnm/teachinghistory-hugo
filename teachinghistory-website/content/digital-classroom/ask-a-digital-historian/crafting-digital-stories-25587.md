@@ -63,6 +63,6 @@ Prezi is already being used by a lot of teachers as an alternative to PowerPoint
 
 ---
 
-Learn more about [VoiceThread](http://teachinghistory.org/digital-classroom/tech-for-teachers/21844), [Prezi](http://teachinghistory.org/digital-classroom/tech-for-teachers/24457), [Wallwisher](http://teachinghistory.org/digital-classroom/tech-for-teachers/24636), and other digital tools in [*Tech for Teachers*](http://teachinghistory.org/digital-classroom/tech-for-teachers).
+Learn more about [VoiceThread](/digital-classroom/tech-for-teachers/21844), [Prezi](/digital-classroom/tech-for-teachers/24457), [Wallwisher](/digital-classroom/tech-for-teachers/24636), and other digital tools in [*Tech for Teachers*](/digital-classroom/tech-for-teachers).
 
-Watch 1st-grade teacher Jennifer Orr and her students put VoiceThread to work in [*Beyond the Chalkboard*](http://teachinghistory.org/digital-classroom/beyond-the-chalkboard/24589). Orr shares her thoughts on the project in our [blog](http://teachinghistory.org/nhec-blog/24649).
+Watch 1st-grade teacher Jennifer Orr and her students put VoiceThread to work in [*Beyond the Chalkboard*](/digital-classroom/beyond-the-chalkboard/24589). Orr shares her thoughts on the project in our [blog](/nhec-blog/24649).

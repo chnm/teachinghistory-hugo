@@ -49,4 +49,4 @@ Clicking on "Explore" also lets you click on "Transcribe." "Transcribe" pops up 
 
 Teachers as well as students in grades 6-12 will find this website useful in learning about the history of each of the three major primary sources and about where the ideas in these documents come from.
 
-*Teachinghistory.org Teacher Representative Karla Galdamez wrote this* Website Review*. [Learn more](http://teachinghistory.org/about/teacher-representatives) about our Teacher Representatives.*
+*Teachinghistory.org Teacher Representative Karla Galdamez wrote this* Website Review*. [Learn more](/about/teacher-representatives) about our Teacher Representatives.*

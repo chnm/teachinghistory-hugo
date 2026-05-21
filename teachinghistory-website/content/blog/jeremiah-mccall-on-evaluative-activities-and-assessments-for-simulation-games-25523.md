@@ -25,9 +25,9 @@ tags:
 - games
 ---
 
-*(Note: This blog entry is the fifth part of a six-part series. Read more on using games in the classroom in parts [one](http://teachinghistory.org/nhec-blog/25117), [two](http://teachinghistory.org/nhec-blog/25225), [three](http://teachinghistory.org/nhec-blog/25338), [four](http://teachinghistory.org/nhec-blog/25451), and [six](http://teachinghistory.org/nhec-blog/25624).)*
+*(Note: This blog entry is the fifth part of a six-part series. Read more on using games in the classroom in parts [one](/nhec-blog/25117), [two](/nhec-blog/25225), [three](/nhec-blog/25338), [four](/nhec-blog/25451), and [six](/nhec-blog/25624).)*
 
-[Part Four](http://teachinghistory.org/nhec-blog/25451) dealt with activities and assessments focused on analyzing and understanding the models presented by a simulation game. Now it is time to consider exercises evaluating and critiquing the models in a game, determining the overall validity of the game as an interpretation. After a sample of activities we will consider the core principles that should guide all efforts to evaluate historical simulations as interpretations of the past.
+[Part Four](/nhec-blog/25451) dealt with activities and assessments focused on analyzing and understanding the models presented by a simulation game. Now it is time to consider exercises evaluating and critiquing the models in a game, determining the overall validity of the game as an interpretation. After a sample of activities we will consider the core principles that should guide all efforts to evaluate historical simulations as interpretations of the past.
 
 ## Annotated Screenshots for Evaluation
 
@@ -39,7 +39,7 @@ For a quick research and evaluation exercise, students can find (or be provided 
 
 **Examples:**
 
-* Read a primary source written by a Boston Loyalist and compare it to the    Loyalist reasoning expressed in [*Mission US: For Crown or Colony*](http://teachinghistory.org/digital-classroom/tech-for-teachers/25111).
+* Read a primary source written by a Boston Loyalist and compare it to the    Loyalist reasoning expressed in [*Mission US: For Crown or Colony*](/digital-classroom/tech-for-teachers/25111).
 * Study a map of major army placements in the U.S. at any point in the    American Civil War and compare it to the setup for that same year in a    Civil War simulation.
 
 These smaller-scale evaluations can pave the way for an excellent full-class discussion where each student presents his or her findings. As a summative exercise after all the presentations, each student can write a reflection or formal paper on the overall accuracy of the game.

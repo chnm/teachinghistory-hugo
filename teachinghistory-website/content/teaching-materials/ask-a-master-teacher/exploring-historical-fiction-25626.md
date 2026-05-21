@@ -54,8 +54,8 @@ And finally, consider one experienced middle school history teacher’s response
 
 ---
 
-Teachinghistory.org addresses World War I and II literature in another *Ask a Master Teacher* [response](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/25505) and 20th-century literature for the high school classroom in [another](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/20685).
+Teachinghistory.org addresses World War I and II literature in another *Ask a Master Teacher* [response](/teaching-materials/ask-a-master-teacher/25505) and 20th-century literature for the high school classroom in [another](/teaching-materials/ask-a-master-teacher/20685).
 
-See [this response](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/24378) for five picture books for teaching the American Revolution to fifth graders.
+See [this response](/teaching-materials/ask-a-master-teacher/24378) for five picture books for teaching the American Revolution to fifth graders.
 
-Also see this [*Teaching Guide*](http://teachinghistory.org/teaching-materials/teaching-guides/22365) on using “book sets” that include fiction and nonfiction texts.
+Also see this [*Teaching Guide*](/teaching-materials/teaching-guides/22365) on using “book sets” that include fiction and nonfiction texts.

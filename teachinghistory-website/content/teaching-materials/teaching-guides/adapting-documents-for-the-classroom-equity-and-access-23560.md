@@ -83,15 +83,15 @@ Extension: As students become more adept with using documents, discontinue some 
 
 ## An Example for High School Education
 
-See [here](http://www.ourdocuments.gov/doc.php?flash=false&doc=31) for original document, [here](http://www.ourdocuments.gov/doc.php?flash=false&doc=31&page=transcript) for a transcribed version, and [here](http://teachinghistory.org/system/files/adapting_documents-homestead_act.pdf) for an adapted version of the Homestead Act of 1862.
+See [here](http://www.ourdocuments.gov/doc.php?flash=false&doc=31) for original document, [here](http://www.ourdocuments.gov/doc.php?flash=false&doc=31&page=transcript) for a transcribed version, and [here](/system/files/adapting_documents-homestead_act.pdf) for an adapted version of the Homestead Act of 1862.
 
 ## An Example for Middle School Education
 
-See [here](http://teachingamericanhistory.org/library/index.asp?document=162) for a transcribed version of "What to the Slave is the Fourth of July?" by Fredrick Douglass, and [here](https://teachinghistory.org/sites/default/files/adapting_documents-frederick_douglass.pdf) for an adapted version of the document for use in a middle school classroom. To view the original document, see Foner, Philip. *The Life and Writings of Frederick Douglass, Volume II Pre-Civil War Decade 1850-1860* (New York: International Publishers, 1950).
+See [here](http://teachingamericanhistory.org/library/index.asp?document=162) for a transcribed version of "What to the Slave is the Fourth of July?" by Fredrick Douglass, and [here](/sites/default/files/adapting_documents-frederick_douglass.pdf) for an adapted version of the document for use in a middle school classroom. To view the original document, see Foner, Philip. *The Life and Writings of Frederick Douglass, Volume II Pre-Civil War Decade 1850-1860* (New York: International Publishers, 1950).
 
 ## An Example for Elementary Education
 
-See [here](http://www.americanjourneys.org/aj-074/) for an original version of John Smith’s "A True Relation." See [here](https://teachinghistory.org/sites/default/files/adapting_documents-john_smith.pdf) for an adapted version appropriate for an elementary school classroom.
+See [here](http://www.americanjourneys.org/aj-074/) for an original version of John Smith’s "A True Relation." See [here](/sites/default/files/adapting_documents-john_smith.pdf) for an adapted version appropriate for an elementary school classroom.
 
 ## Further Resources
 

@@ -7,7 +7,7 @@ draft: false
 drupal_nid: 22890
 url: /best-practices/examples-of-historical-thinking/22890
 author_bio: Dr. Roger Horowitz is Associate Director of the Center for the History
-  of Business, Technology, and Society at the [Hagley Museum and Library](http://teachinghistory.org/history-content/historical-places/8230)
+  of Business, Technology, and Society at the [Hagley Museum and Library](/history-content/historical-places/8230)
   in Wilmington, DE. He has published widely on labor, business, and food history.
   His most recent book is *Putting Meat on the American Table*.
 splash_image_fid: '4072'

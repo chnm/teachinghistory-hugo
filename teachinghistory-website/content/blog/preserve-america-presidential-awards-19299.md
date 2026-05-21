@@ -21,4 +21,4 @@ The winners? African Burial Ground Project in New York City, the Corinth and Alc
 
 John Nau III, chairman of the Advisory Council on Historic Preservation (ACHP), pointed out, "This year's honorees each represent a significant period in our nation's history. Their preservation efforts ensure Americans gain a greater knowledge of our nation's past while impacting the economic vitality of their communities, states and the nation."
 
-Learn more about the Preserve America initiative [here](http://teachinghistory.org/history-content/national-resource-centers/19185) and read about 2008 award winners [here](http://www.preserveamerica.gov/news-08paawards.html).
+Learn more about the Preserve America initiative [here](/history-content/national-resource-centers/19185) and read about 2008 award winners [here](http://www.preserveamerica.gov/news-08paawards.html).

@@ -64,7 +64,7 @@ Use the textbook in small doses. Do not ask students learning English to read th
 * Use the graphs, photos, and illustrations in the text to build background knowledge
 * Do a [picture walk](http://www.nationalserviceresources.org/learns/literacy-picture-walk) of the chapter. This can be very helpful.
 * Use historical picture books (fiction and nonfiction) that tell stories not only with words, but also with illustrations.
-* If you have access, use [Thinking Maps](http://www.thinkingmaps.com/) frequently to help students organize information and/or define terminology. ([Graphic organizers](http://teachinghistory.org/teaching-materials/english-language-learners/24130) can also help.)
+* If you have access, use [Thinking Maps](http://www.thinkingmaps.com/) frequently to help students organize information and/or define terminology. ([Graphic organizers](/teaching-materials/english-language-learners/24130) can also help.)
 * Finally, and these are essential for ELLs, create [sentence frames](http://www.primary-education-oasis.com/vocabulary-sentences.html) that allow students to respond like historians. Post these frames up in your room so that students can access them easily and use them in their responses.
 
 ## Videos Are OKAY!
@@ -101,6 +101,6 @@ I am sure this site is not new to most, but it is great for our ELLs. The text i
 
 ---
 
-Visit [our section](http://teachinghistory.org/teaching-materials/english-language-learners) on teaching English Language Learners in the history classroom.
+Visit [our section](/teaching-materials/english-language-learners) on teaching English Language Learners in the history classroom.
 
-See [this entry](http://teachinghistory.org/teaching-materials/english-language-learners/24617) for examples of history-specific sentence starters for middle schoolers and [this one](http://teachinghistory.org/teaching-materials/english-language-learners/24142) for cause and effect examples.
+See [this entry](/teaching-materials/english-language-learners/24617) for examples of history-specific sentence starters for middle schoolers and [this one](/teaching-materials/english-language-learners/24142) for cause and effect examples.

@@ -42,6 +42,6 @@ The changing nature of tactics and technology during the Civil War led to a dram
 
 Baggett, James. [*Homegrown Yankees: Tennessee's Union Cavalry in the Civil War. Baton Rouge: Louisiana State University Press, 2009.
 
-[**The Crisis of the Union**](http://teachinghistory.org/history-content/website-reviews/23297)
+[**The Crisis of the Union**](/history-content/website-reviews/23297)
 
 Woodworth, Steven, ed. *Civil War Generals in Defeat*. Lawrence, KS: University Press of Kansas, 1999.*](https://lsupress.org/books/detail/homegrown-yankees/)

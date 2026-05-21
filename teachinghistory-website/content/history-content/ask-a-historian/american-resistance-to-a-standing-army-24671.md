@@ -60,7 +60,7 @@ The experience with professional armies during the 40 years before the Constitut
 
 ---
 
-Watch Professor Whitman Ridgway analyze the [Bill of Rights](http://teachinghistory.org/best-practices/examples-of-historical-thinking/24424) in an [Example of Historical Thinking](http://teachinghistory.org/best-practices/examples-of-historical-thinking)
+Watch Professor Whitman Ridgway analyze the [Bill of Rights](/best-practices/examples-of-historical-thinking/24424) in an [Example of Historical Thinking](/best-practices/examples-of-historical-thinking)
 
 Kohn, Richard H. [*Eagle and Sword: The Federalists and the Creation of the Military Establishment in America, 1783-1802.*](http://books.google.com/books?id=8F_fAAAAMAAJ) New York: Free Press, 1975.
 

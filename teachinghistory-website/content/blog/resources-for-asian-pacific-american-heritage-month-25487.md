@@ -25,9 +25,9 @@ tags:
 
 Every May, the U.S. observes Asian Pacific American Heritage Month. Americans whose families had roots in the nations of Asia and the Pacific Islands have experienced and shaped U.S. history in many ways. Teachinghistory.org's resources can help you explore these experiences with your students.
 
-[![](/files/splash-sp-apahm1.jpg)](http://teachinghistory.org/spotlight/asian-pacific-american)
+[![](/files/splash-sp-apahm1.jpg)](/spotlight/asian-pacific-american)
 
-We've gathered together website reviews, lesson plans, quizzes, teaching strategies, primary sources, and more on our Asian Pacific American Heritage Month [spotlight page](http://teachinghistory.org/spotlight/asian-pacific-american). Available year-round and constantly expanding, this page, like our [other spotlight pages](http://teachinghistory.org/spotlight), is a valuable resource you can turn to for materials and inspiration.
+We've gathered together website reviews, lesson plans, quizzes, teaching strategies, primary sources, and more on our Asian Pacific American Heritage Month [spotlight page](/spotlight/asian-pacific-american). Available year-round and constantly expanding, this page, like our [other spotlight pages](/spotlight), is a valuable resource you can turn to for materials and inspiration.
 
 Here are some suggestions for other ways to inspire your teaching:
 

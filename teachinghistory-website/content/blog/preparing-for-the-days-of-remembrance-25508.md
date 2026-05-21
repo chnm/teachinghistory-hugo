@@ -61,6 +61,6 @@ The museum also maintains online exhibits, including:
 
 ## More Resources
 
-[![](/files/image-blog-dor1.jpg)](http://teachinghistory.org/spotlight/days-of-remembrance)
+[![](/files/image-blog-dor1.jpg)](/spotlight/days-of-remembrance)
 
-The U.S. Holocaust Memorial Museum is one of many institutions offering materials on the Holocaust. For more resources, visit our Days of Remembrance [spotlight page](http://teachinghistory.org/spotlight/days-of-remembrance). The page also features materials on Jewish American history.
+The U.S. Holocaust Memorial Museum is one of many institutions offering materials on the Holocaust. For more resources, visit our Days of Remembrance [spotlight page](/spotlight/days-of-remembrance). The page also features materials on Jewish American history.

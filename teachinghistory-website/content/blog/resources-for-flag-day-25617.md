@@ -41,9 +41,9 @@ Since 1777, the flag has gained 37 stars and exact specifications for color and 
 
 ## On Teachinghistory.org
 
-* Historian John Buescher describes the [history](http://teachinghistory.org/history-content/ask-a-historian/23852) of the flag—and the history of the story of Betsy Ross.
-* Historian Alan Gevinson looks at the [design](http://teachinghistory.org/history-content/ask-a-historian/19424) of the Confederate flag and how it differs from the U.S. flag.
-* In *Lesson Plan Reviews*, we explore the strong points of a Smithsonian Institution [lesson](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/24315) on "The Star-Spangled Banner" and the War of 1812.
+* Historian John Buescher describes the [history](/history-content/ask-a-historian/23852) of the flag—and the history of the story of Betsy Ross.
+* Historian Alan Gevinson looks at the [design](/history-content/ask-a-historian/19424) of the Confederate flag and how it differs from the U.S. flag.
+* In *Lesson Plan Reviews*, we explore the strong points of a Smithsonian Institution [lesson](/teaching-materials/lesson-plan-reviews/24315) on "The Star-Spangled Banner" and the War of 1812.
 
 ## The Wider Web
 

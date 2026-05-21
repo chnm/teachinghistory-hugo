@@ -37,4 +37,4 @@ Peter Muhlenberg is perhaps the most iconic figure associated with the Black Rob
 
 ---
 
-For more primary sources on religion in the colonies and early U.S., check out the Library of Congress exhibit [*Religion and the Founding of the American Republic*](http://teachinghistory.org/history-content/website-reviews/14649)
+For more primary sources on religion in the colonies and early U.S., check out the Library of Congress exhibit [*Religion and the Founding of the American Republic*](/history-content/website-reviews/14649)

@@ -33,7 +33,7 @@ tags:
 - whiteboards
 ---
 
-In a [recent post](http://teachinghistory.org/nhec-blog/24452) I argued the importance of both history and technology in primary grades. I also made the case that both are significant challenges for teachers of young children for a variety of reasons. However, I’m a firm believer that we can do anything we think is important.
+In a [recent post](/nhec-blog/24452) I argued the importance of both history and technology in primary grades. I also made the case that both are significant challenges for teachers of young children for a variety of reasons. However, I’m a firm believer that we can do anything we think is important.
 
 ## Technological Hardware in the 1st-grade Classroom
 
@@ -44,7 +44,7 @@ Another use of technology I continue with in first grade is movie making. Someti
 
 ## And What About Software?
 
-First graders in Virginia also learn about the difference between past and present. It is great fun to look at pictures of the past (especially schools, transportation, and daily life) and then send small groups of first graders off with a camera to capture images to contrast with the past. We can then put those into [Windows Movie Maker](http://teachinghistory.org/digital-classroom/beyond-the-chalkboard/24169) or [Photo Story](http://windows.microsoft.com/en-US/windows-live/photo-gallery-get-started) to create a video explaining past and present.
+First graders in Virginia also learn about the difference between past and present. It is great fun to look at pictures of the past (especially schools, transportation, and daily life) and then send small groups of first graders off with a camera to capture images to contrast with the past. We can then put those into [Windows Movie Maker](/digital-classroom/beyond-the-chalkboard/24169) or [Photo Story](http://windows.microsoft.com/en-US/windows-live/photo-gallery-get-started) to create a video explaining past and present.
 > The structure is set for brief writing, which is comforting to young children.
 
 As the year is progressing and my students are gaining literacy skills, I’m introducing them to [Wallwisher](http://wallwisher.com/). This free site allows me to create a wall with a question or topic and my students can add Post-It like items with their thoughts. As they are working around the classroom exploring a topic they can head to our interactive whiteboard to add their thinking. I can also place the wall on our class blog for students to come back to or to add more thoughts. The structure is set for brief writing, which is comforting to young children. It is a great way for us to record our learning and return to it later.

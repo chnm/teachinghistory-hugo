@@ -29,7 +29,7 @@ You may want to start with the go-to site for teaching K–12 California history
 
 Search the site using the key phrase ”child immigrant” and you get hundreds of results including texts and images. Learn more about four groups, including African Americans and Hispanic Americans, by starting on their page, “[California Cultures](http://www.calisphere.universityofcalifornia.edu/calcultures/).”
 
-Also check out the Library of Congress’s American Memory sites, *[California As I Saw It: California, 1849–1900](http://teachinghistory.org/history-content/website-reviews/14660)* or *[Chinese in California, 1850–1925](http://teachinghistory.org/history-content/website-reviews/14682)*. At the latter site, one of the things you can find through an “immigration” search are official “certificates of residence.” Using one of these can provoke all kinds of questions from students and enable making connections to the present.
+Also check out the Library of Congress’s American Memory sites, *[California As I Saw It: California, 1849–1900](/history-content/website-reviews/14660)* or *[Chinese in California, 1850–1925](/history-content/website-reviews/14682)*. At the latter site, one of the things you can find through an “immigration” search are official “certificates of residence.” Using one of these can provoke all kinds of questions from students and enable making connections to the present.
 
 ### Focus on Children and Immigration
 
@@ -59,7 +59,7 @@ You may want to start with the go-to site for teaching K–12 California history
 
 Search the site using the key phrase ”child immigrant” and you get hundreds of results including texts and images. Learn more about four groups, including African Americans and Hispanic Americans, by starting on their page, “[California Cultures](http://www.calisphere.universityofcalifornia.edu/calcultures/).”
 
-Also check out the Library of Congress’s American Memory sites, *[California As I Saw It: California, 1849–1900](http://teachinghistory.org/history-content/website-reviews/14660)* or *[Chinese in California, 1850–1925](http://teachinghistory.org/history-content/website-reviews/14682)*. At the latter site, one of the things you can find through an “immigration” search are official “certificates of residence.” Using one of these can provoke all kinds of questions from students and enable making connections to the present.
+Also check out the Library of Congress’s American Memory sites, *[California As I Saw It: California, 1849–1900](/history-content/website-reviews/14660)* or *[Chinese in California, 1850–1925](/history-content/website-reviews/14682)*. At the latter site, one of the things you can find through an “immigration” search are official “certificates of residence.” Using one of these can provoke all kinds of questions from students and enable making connections to the present.
 
 ### Focus on Children and Immigration
 

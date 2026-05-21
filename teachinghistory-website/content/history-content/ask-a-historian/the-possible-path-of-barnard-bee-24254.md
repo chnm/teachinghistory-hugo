@@ -51,4 +51,4 @@ National Park Service, U.S. Department of the Interior, [**Antietam**](http://ww
 
 [**Civil War Preservation Trust: The Battle of Antietam**](http://www.civilwar.org/battlefields/antietam.html) 2009
 
-[**Civil War and Digital Storytelling**](http://teachinghistory.org/tah-grants/project-spotlight/20759)
+[**Civil War and Digital Storytelling**](/tah-grants/project-spotlight/20759)

@@ -30,7 +30,7 @@ tags:
 - resources
 ---
 
-There are several resources available for teaching about the transcontinental railroad. As always, we recommend using the search function on bottom right of our [history content page](http://teachinghistory.org/history-content). Here are a few resources that may be of some use.
+There are several resources available for teaching about the transcontinental railroad. As always, we recommend using the search function on bottom right of our [history content page](/history-content). Here are a few resources that may be of some use.
 
 The [Central Pacific Railroad History Museum's site](http://cprr.org/Museum/index.html#Read) offers a detailed history and several primary sources regarding the construction of the transcontinental railroad, including, for example, [photographs](http://cprr.org/Museum/AA_Hart-Mead_Kibbey_CSLF/Willumson.html), [legislation](http://cprr.org/Museum/Pacific_Railroad_Acts.html), and [letters](http://cprr.org/Museum/Ephemera/Travel_Letter_1875.html). They also have an extensive [bibliography](http://cprr.org/Museum/Books/index.html) of print resources.
 
@@ -44,7 +44,7 @@ Lastly, PBS has a [lesson plan](http://www.pbs.org/weta/thewest/lesson_plans/les
 
 ---
 
-There are several resources available for teaching about the transcontinental railroad. As always, we recommend using the search function on bottom right of our [history content page](http://teachinghistory.org/history-content). Here are a few resources that may be of some use.
+There are several resources available for teaching about the transcontinental railroad. As always, we recommend using the search function on bottom right of our [history content page](/history-content). Here are a few resources that may be of some use.
 
 The [Central Pacific Railroad History Museum's site](http://cprr.org/Museum/index.html#Read) offers a detailed history and several primary sources regarding the construction of the transcontinental railroad, including, for example, [photographs](http://cprr.org/Museum/AA_Hart-Mead_Kibbey_CSLF/Willumson.html), [legislation](http://cprr.org/Museum/Pacific_Railroad_Acts.html), and [letters](http://cprr.org/Museum/Ephemera/Travel_Letter_1875.html). They also have an extensive [bibliography](http://cprr.org/Museum/Books/index.html) of print resources.
 

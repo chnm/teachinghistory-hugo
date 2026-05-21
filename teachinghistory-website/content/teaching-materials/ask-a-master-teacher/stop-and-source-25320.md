@@ -60,4 +60,4 @@ Wineburg, S. and D. Martin. "Seeing Thinking on the Web." *The History Teacher* 
 
 The Bringing History Home project's Source, Observe, Contextualize, Corroborate [Visual Image Analysis Guide](http://www.bringinghistoryhome.org/assets/bringinghistoryhome/socc%20visual%20image%20analysis%20worksheet.pdf) can help guide your students' sourcing.
 
-Or check out this [*Ask a Master Teacher*](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/24676) by Teachinghistory.org on using scrapbooking in the history classroom.
+Or check out this [*Ask a Master Teacher*](/teaching-materials/ask-a-master-teacher/24676) by Teachinghistory.org on using scrapbooking in the history classroom.

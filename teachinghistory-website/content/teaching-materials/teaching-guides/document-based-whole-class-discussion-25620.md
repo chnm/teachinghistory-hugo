@@ -49,11 +49,11 @@ The importance of the teacher’s role in leading effective discussion about his
 
 ## In the Classroom
 
-1. Have students fill out discussion preparation ([Handout 1](http://teachinghistory.org/system/files/worksheet_1.pdf)).
-2. Review norms for classroom discussion ([Handout 2](http://teachinghistory.org/system/files/worksheet_2.pdf)).
+1. Have students fill out discussion preparation ([Handout 1](/system/files/worksheet_1.pdf)).
+2. Review norms for classroom discussion ([Handout 2](/system/files/worksheet_2.pdf)).
 3. Call on students to share their initial thoughts. As a discussion facilitator, your role is two-fold:
    * + **Monitor participation:** As discussion unfolds, keep a list of students who want to speak so that they don’t have to keep their hands raised. You may also choose to call on students who have not participated.
-     + **Push student thinking:** Your questions and prompts should serve to push student thinking “consistently and consecutively in a positive direction.” A list of some [effective teacher "moves"](http://teachinghistory.org/system/files/worksheet_3.pdf) describes some key strategies for facilitating effective discussion about historical texts.
+     + **Push student thinking:** Your questions and prompts should serve to push student thinking “consistently and consecutively in a positive direction.” A list of some [effective teacher "moves"](/system/files/worksheet_3.pdf) describes some key strategies for facilitating effective discussion about historical texts.
 
 ## Arc of Document-Based Whole Class Discussion
 
@@ -85,5 +85,5 @@ The importance of the teacher’s role in leading effective discussion about his
 ## Common Pitfalls
 
 * **Wrong facts:** Students will inevitably present historical inaccuracies or anachronisms. Sometimes it’s difficult to correct students in the middle of a discussion because we’re so excited that they’re participating and engaged. However, it’s important to ensure that the discussion proceeds on the basis of sound and accurate information.
-* **The “same” students:** In every classroom, there are 2–3 students who love to talk and a larger number who never participate in discussion. It’s important to establish early on that you will call on students and expect them to at least share what they wrote on their [Handout 1](http://teachinghistory.org/system/files/worksheet_1.pdf).
+* **The “same” students:** In every classroom, there are 2–3 students who love to talk and a larger number who never participate in discussion. It’s important to establish early on that you will call on students and expect them to at least share what they wrote on their [Handout 1](/system/files/worksheet_1.pdf).
 * **All over the place:** Very few discussions will clearly follow the three-phase discussion arc described above. That’s okay. The goal is to corral student comments so that they generally move in the right direction.

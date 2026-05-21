@@ -26,7 +26,7 @@ tags:
 - games
 ---
 
-*(Note: This blog entry is the fourth part of a six-part series. Read more on using games in the classroom in parts [one](http://teachinghistory.org/nhec-blog/25117), [two](http://teachinghistory.org/nhec-blog/25225), [three](http://teachinghistory.org/nhec-blog/25338), [five](http://teachinghistory.org/nhec-blog/25523), and [six](http://teachinghistory.org/nhec-blog/25624).)*
+*(Note: This blog entry is the fourth part of a six-part series. Read more on using games in the classroom in parts [one](/nhec-blog/25117), [two](/nhec-blog/25225), [three](/nhec-blog/25338), [five](/nhec-blog/25523), and [six](/nhec-blog/25624).)*
 
 The goal of lessons involving simulation games is twofold: to explore systems in the past by making choices and experiencing the resulting consequences and to critique simulation games as interpretations of the past in order to develop historical criticism skills and appreciate the role of modern media in shaping our views of the past. Accordingly, after students have had sufficient time to play and observe a game, they should be provided with learning activities and assessments that facilitate these two goals.
 
@@ -38,15 +38,15 @@ Before beginning it is worth remembering that recent position statements from th
 
 Gaining familiarity with how a game functions and models the past depends upon regular opportunities for play and reflection. Keeping a regular journal of gameplay is an excellent way to give students writing exercises and encourage them to consider and engage with the models involved in gameplay. As an added benefit, teachers can use the information in these journals to monitor students’ progress and understanding, and adapt lessons accordingly.
 
-The game journal can be used to take observation notes along the lines of those explored in the [previous segment](http://teachinghistory.org/nhec-blog/25338). Providing opportunities for reflective writing is also a good idea. Consider variations on prompts that ask students how the game presents the past as a way to introduce them to critiquing the game. For example:
+The game journal can be used to take observation notes along the lines of those explored in the [previous segment](/nhec-blog/25338). Providing opportunities for reflective writing is also a good idea. Consider variations on prompts that ask students how the game presents the past as a way to introduce them to critiquing the game. For example:
 
-* What does *[Mission US](http://teachinghistory.org/digital-classroom/tech-for-teachers/25111)* suggest the key divisions in colonial Boston were?
+* What does *[Mission US](/digital-classroom/tech-for-teachers/25111)* suggest the key divisions in colonial Boston were?
 * How important is money in winning a presidential election, according to *Political Machine*?
-* Does *[Energyville](http://teachinghistory.org/digital-classroom/tech-for-teachers/25173)* suggest it is possible for U.S. cities to shift to renewable fuels in the near future?
+* Does *[Energyville](/digital-classroom/tech-for-teachers/25173)* suggest it is possible for U.S. cities to shift to renewable fuels in the near future?
 
 Reflections like this should be accompanied with observations from the game that support the students' conclusions.
 
-Where the resources are available, students can also log their ideas and observations in the 21st-century analog of the journal, the [blog](http://teachinghistory.org/digital-classroom/tech-for-teachers/14590). There are many sites dedicated to providing free blogging capabilities to individuals and groups, most notably [Wordpress](http://wordpress.com/) and [Blogger](https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=http://www.blogger.com/home&followup=http://www.blogger.com/home<mpl=start#s01).
+Where the resources are available, students can also log their ideas and observations in the 21st-century analog of the journal, the [blog](/digital-classroom/tech-for-teachers/14590). There are many sites dedicated to providing free blogging capabilities to individuals and groups, most notably [Wordpress](http://wordpress.com/) and [Blogger](https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=http://www.blogger.com/home&followup=http://www.blogger.com/home<mpl=start#s01).
 
 ## Strategy 2: Annotating Screenshots
 

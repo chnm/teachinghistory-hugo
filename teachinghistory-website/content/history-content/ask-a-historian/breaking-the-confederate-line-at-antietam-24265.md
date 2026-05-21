@@ -50,4 +50,4 @@ Burnside’s ineffective leadership at the bridge during led McClellan to write 
 
 Kennedy, Frances H., ed. *The Civil War Battlefield Guide.* 2nd ed. Boston: Houghton Mifflin Co., 1998.
 
-[**Roads to Antietam**](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/23729)
+[**Roads to Antietam**](/teaching-materials/lesson-plan-reviews/23729)

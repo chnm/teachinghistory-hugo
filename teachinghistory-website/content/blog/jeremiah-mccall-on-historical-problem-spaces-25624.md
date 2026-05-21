@@ -26,7 +26,7 @@ tags:
 - video games
 ---
 
-*Years of working with simulation games have prompted me to re-examine and re-evaluate the content, methods, and skills of studying the past. Since last May, I have been slowly developing a new framework for using simulations games and simulation game thinking in the study of the past that I’d like to share in this last [installment](http://teachinghistory.org/nhec-blog?keys=jeremiah+mccall). This is still very much in the initial conceptual stages, but already proving successful in my own classes.*
+*Years of working with simulation games have prompted me to re-examine and re-evaluate the content, methods, and skills of studying the past. Since last May, I have been slowly developing a new framework for using simulations games and simulation game thinking in the study of the past that I’d like to share in this last [installment](/nhec-blog?keys=jeremiah+mccall). This is still very much in the initial conceptual stages, but already proving successful in my own classes.*
 
 Spending time with simulation games suggests that countless human situations past and present can be studied as **problem spaces**. In this context, the term “problem space” borrows elements from the field of problem solving and game theory. A problem space in the historical or current political, economic, social, etc. sense can be likened to a simulation game. There are **players** with **roles**, though we would more likely term these players ***agents*** or ***actors***. These players have **motives** and **goals**, though they may not always seek them or know them—the goals may not be rational or achievable. Player/agents have **choices** and **strategies**, though not all choices or strategies are always readily perceived, and those that observers outside the space identify may not have been choices at all at the time. Finally, the environment itself—the physical space, objects, and resources—offers **affordances** (aids to carrying out decisions and strategies) and **constraints** (limits to carrying out decisions and strategies). Additional affordances and constraints are posed by psychological and cultural factors.
 
@@ -34,7 +34,7 @@ That simulation games represent the world in these terms is self-evident, but it
 
 ---
 
-***[Energyville](http://teachinghistory.org/digital-classroom/tech-for-teachers/25173)***
+***[Energyville](/digital-classroom/tech-for-teachers/25173)***
 
 *Player/Agent & Roles:*
 
@@ -80,6 +80,6 @@ How can this conceptual framework be put into practice? History educators can us
 
 **Assess the problem spaces in games in light of historical evidence:**  In critique, focus on how the game represents a historical problem space. When all is said and done, how reasonably, in the light of historical evidence, does the simulation game cast the player’s role and the choices available?
 
-**Start to analyze historical scenarios in terms of problem spaces:**  This is where simulation games, beyond being important tools for studying the past in their own right, can start to shape the way history is taught. In between readings, discussions, and lectures, have students diagram problem spaces. There are many ways one might do so. Click [here](http://teachinghistory.org/system/files/sample_problem_space_diagram.pdf) to see a diagram representing one possibility. Players and roles are listed at the top, then goals, followed by choices. At the bottom left are affordances and motivations and at the bottom right are constraints and prohibitions.
+**Start to analyze historical scenarios in terms of problem spaces:**  This is where simulation games, beyond being important tools for studying the past in their own right, can start to shape the way history is taught. In between readings, discussions, and lectures, have students diagram problem spaces. There are many ways one might do so. Click [here](/system/files/sample_problem_space_diagram.pdf) to see a diagram representing one possibility. Players and roles are listed at the top, then goals, followed by choices. At the bottom left are affordances and motivations and at the bottom right are constraints and prohibitions.
 
 Once students have sifted through the evidence and plotted out the problem space, they should be presented with some historical or hypothetical scenarios and consider how they think historical players could have and did respond given their situations. Here, the lessons of simulation gaming about the importance of choice and systems-thinking come full circle and students begin to game the past in another meaningful way.

@@ -23,7 +23,7 @@ tags:
 
 *EDITORIAL NOTE (9/30/10): Our Courts has since changed its name to iCivics. Please change your bookmarks to http://www.icivics.org.*
 
-When President Obama nominated Judge Sonia Sotomayor to the U.S. Supreme Court, we pointed out that the judicial system is perhaps the least understood and the most complicated to teach among the three branches of the U.S. government. (Please see [The Supreme Court: Connections Between Past and Present](http://teachinghistory.org/nhec-blog/22244).)
+When President Obama nominated Judge Sonia Sotomayor to the U.S. Supreme Court, we pointed out that the judicial system is perhaps the least understood and the most complicated to teach among the three branches of the U.S. government. (Please see [The Supreme Court: Connections Between Past and Present](/nhec-blog/22244).)
 
 Retired Supreme Court Justice Sandra Day O'Connor is helping teachers solve the problem, hooking students into understanding the judicial system and civic involvement via a new website, [Our Courts](http://www.icivics.org/). Planned especially for middle school students, the site engages visitors in [online games](http://www.icivics.org/games) that teach about legal decision-making, the role of various components of government, and the judicial system.
 > The website encourages critical and analytical thinking through interactive games.

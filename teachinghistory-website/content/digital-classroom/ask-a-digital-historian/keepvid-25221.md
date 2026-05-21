@@ -39,6 +39,6 @@ While teachers and students do have more freedom under the Fair Use clause of th
 
 ---
 
-Read up on copyright in "[When Copyright Meets the Classroom](http://www.teachinghistory.org/digital-classroom/ask-a-digital-historian/24710)" and "[Beyond Google Searching](http://teachinghistory.org/digital-classroom/ask-a-digital-historian/24089)," two *Ask a Digital Historian* answers.
+Read up on copyright in "[When Copyright Meets the Classroom](/digital-classroom/ask-a-digital-historian/24710)" and "[Beyond Google Searching](/digital-classroom/ask-a-digital-historian/24089)," two *Ask a Digital Historian* answers.
 
 Or try American University's "[Code of Best Practices in Fair Use for Media Literacy Education](http://cmsimpact.org/wp-content/uploads/2016/01/CodeofBestPracticesinFairUse_0.pdf)," or Education World's five-part "[The Educator’s Guide to Copyright and Fair Use](https://www.educationworld.com/a_curr/curr280.shtml)."

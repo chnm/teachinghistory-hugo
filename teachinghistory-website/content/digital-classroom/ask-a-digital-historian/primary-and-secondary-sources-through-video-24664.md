@@ -33,17 +33,17 @@ Historians and educators working through the University of Wisconsin, Whitewater
 
 ## Print Resources
 
-If you are looking for visuals or print materials, why not start by downloading Teachinghistory.org's free [historical thinking poster](http://teachinghistory.org/outreach/print-materials)?
+If you are looking for visuals or print materials, why not start by downloading Teachinghistory.org's free [historical thinking poster](/outreach/print-materials)?
 
-![](http://teachinghistory.org/sites/all/themes/carlisle/images/ht_poster.jpg)
+![](/sites/all/themes/carlisle/images/ht_poster.jpg)
 
 Click image to enlarge
 
 ## Other Resources
 
-Explore Teachinghistory.org for more resources, including a recent blog on [Historical Thinking](http://teachinghistory.org/nhec-blog/24434) or resources for [analyzing](http://teachinghistory.org/best-practices/using-primary-sources) or [teaching with](http://teachinghistory.org/teaching-materials) primary sources.
+Explore Teachinghistory.org for more resources, including a recent blog on [Historical Thinking](/nhec-blog/24434) or resources for [analyzing](/best-practices/using-primary-sources) or [teaching with](/teaching-materials) primary sources.
 
-Or try watching [examples of historical thinking](http://teachinghistory.org/best-practices/examples-of-historical-thinking) or [Teaching in Action](http://teachinghistory.org/best-practices/teaching-in-action) in classrooms around the country.
+Or try watching [examples of historical thinking](/best-practices/examples-of-historical-thinking) or [Teaching in Action](/best-practices/teaching-in-action) in classrooms around the country.
 
 ---
 
@@ -59,14 +59,14 @@ Historians and educators working through the University of Wisconsin, Whitewater
 
 ## Print Resources
 
-If you are looking for visuals or print materials, why not start by downloading Teachinghistory.org's free [historical thinking poster](http://teachinghistory.org/outreach/print-materials)?
+If you are looking for visuals or print materials, why not start by downloading Teachinghistory.org's free [historical thinking poster](/outreach/print-materials)?
 
-![](http://teachinghistory.org/sites/all/themes/carlisle/images/ht_poster.jpg)
+![](/sites/all/themes/carlisle/images/ht_poster.jpg)
 
 Click image to enlarge
 
 ## Other Resources
 
-Explore Teachinghistory.org for more resources, including a recent blog on [Historical Thinking](http://teachinghistory.org/nhec-blog/24434) or resources for [analyzing](http://teachinghistory.org/best-practices/using-primary-sources) or [teaching with](http://teachinghistory.org/teaching-materials) primary sources.
+Explore Teachinghistory.org for more resources, including a recent blog on [Historical Thinking](/nhec-blog/24434) or resources for [analyzing](/best-practices/using-primary-sources) or [teaching with](/teaching-materials) primary sources.
 
-Or try watching [examples of historical thinking](http://teachinghistory.org/best-practices/examples-of-historical-thinking) or [Teaching in Action](http://teachinghistory.org/best-practices/teaching-in-action) in classrooms around the country.
+Or try watching [examples of historical thinking](/best-practices/examples-of-historical-thinking) or [Teaching in Action](/best-practices/teaching-in-action) in classrooms around the country.

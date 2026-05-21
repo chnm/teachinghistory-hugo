@@ -42,4 +42,4 @@ Another area of this site clearly designed for ease of use is the primary docume
 
 Finally, for teachers and students looking for a little variety in their study of the Bill of Rights, this site offers some interactive games. While the “Life Without the Bill of Rights?” and “Constitution Duel Quiz” games could be good for lesson introduction or class discussion, the “Madison’s Notes are Missing” game offers an opportunity for more in-depth student inquiry and requires interaction beyond just the click of a mouse.
 
-*Teachinghistory.org Teacher Representative Seth Swihart wrote this* Website Review*. [Learn more](http://teachinghistory.org/about/teacher-representatives) about our Teacher Representatives.*
+*Teachinghistory.org Teacher Representative Seth Swihart wrote this* Website Review*. [Learn more](/about/teacher-representatives) about our Teacher Representatives.*

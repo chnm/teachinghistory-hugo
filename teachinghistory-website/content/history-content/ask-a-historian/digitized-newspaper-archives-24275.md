@@ -28,8 +28,8 @@ No blanket method exists for researchers—whether they are educators or not—t
 
 ---
 
-[Review](https://teachinghistory.org/history-content/website-reviews/14622) of "Stars and Stripes: The American Soldiers' Newspaper of World War I, 1918-1919."
+[Review](/history-content/website-reviews/14622) of "Stars and Stripes: The American Soldiers' Newspaper of World War I, 1918-1919."
 
-[Review](http://teachinghistory.org/best-practices/using-primary-sources/14575) of "Scholars in Action: Analyzing a Colonial Newspaper."
+[Review](/best-practices/using-primary-sources/14575) of "Scholars in Action: Analyzing a Colonial Newspaper."
 
-[Review](https://teachinghistory.org/history-content/website-reviews/22670) of the Historic Missouri Newspaper Project.
+[Review](/history-content/website-reviews/22670) of the Historic Missouri Newspaper Project.

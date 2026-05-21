@@ -44,7 +44,7 @@ You will want to pay attention to instructional steps 1-7 and don’t miss the "
 * counterfactual questioning, or "what if" questions; and
 * using cause and effect in a student's daily life to illustrate the concept before applying it to historic events.
 
-For another example of a "What if" question, see [this one](http://teachinghistory.org/history-content/ask-a-historian/24107) about U.S. involvement in World War II or check out the series of ["What if" books](http://books.google.com/books?id=KedlQwhZ7b4C&dq=what+ifs+of+american+history+robert+cowley&printsec=frontcover&source=bn&hl=en&ei=imtETK6WNsGclgfenqWiDw&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDQQ6AEwAw#v=onepage&q&f=false) edited by Robert Cowley.
+For another example of a "What if" question, see [this one](/history-content/ask-a-historian/24107) about U.S. involvement in World War II or check out the series of ["What if" books](http://books.google.com/books?id=KedlQwhZ7b4C&dq=what+ifs+of+american+history+robert+cowley&printsec=frontcover&source=bn&hl=en&ei=imtETK6WNsGclgfenqWiDw&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDQQ6AEwAw#v=onepage&q&f=false) edited by Robert Cowley.
 
 ## Difficult, Yet Crucial
 
@@ -73,7 +73,7 @@ You will want to pay attention to instructional steps 1-7 and don’t miss the "
 * counterfactual questioning, or "what if" questions; and
 * using cause and effect in a student's daily life to illustrate the concept before applying it to historic events.
 
-For another example of a "What if" question, see [this one](http://teachinghistory.org/history-content/ask-a-historian/24107) about U.S. involvement in World War II or check out the series of ["What if" books](http://books.google.com/books?id=KedlQwhZ7b4C&dq=what+ifs+of+american+history+robert+cowley&printsec=frontcover&source=bn&hl=en&ei=imtETK6WNsGclgfenqWiDw&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDQQ6AEwAw#v=onepage&q&f=false) edited by Robert Cowley.
+For another example of a "What if" question, see [this one](/history-content/ask-a-historian/24107) about U.S. involvement in World War II or check out the series of ["What if" books](http://books.google.com/books?id=KedlQwhZ7b4C&dq=what+ifs+of+american+history+robert+cowley&printsec=frontcover&source=bn&hl=en&ei=imtETK6WNsGclgfenqWiDw&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDQQ6AEwAw#v=onepage&q&f=false) edited by Robert Cowley.
 
 ## Difficult, Yet Crucial
 

@@ -54,6 +54,6 @@ In the South, the deprivations of war affected individual soldiers more acutely.
 
 Burns, Ken. [**The Civil War**](http://www.pbs.org/civilwar/). WETA, 2002.
 
-[**Farmer's Museum[NY]**](http://teachinghistory.org/history-content/historical-places/9935)
+[**Farmer's Museum[NY]**](/history-content/historical-places/9935)
 
 McPherson, James. [*For Cause and Comrades: Why Men Fought in the Civil War*](http://www.oup.com/us/catalog/general/subject/HistoryAmerican/CivilWarReconstruction/?view=usa&ci=9780195090239). Oxford University Press, USA, 1998.

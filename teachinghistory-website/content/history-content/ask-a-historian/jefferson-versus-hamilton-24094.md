@@ -49,4 +49,4 @@ Thomas Jefferson to George Washington, May 23, 1792 and Alexander Hamilton to Ed
 
 Thomas Jefferson, First Inaugural Address, 1801. *Papers of Thomas Jefferson*, ed. by Barbara Oberg. Princeton University Press, 2006. vol. 33: 148-152.
 
-[**Thomas Jefferson Papers**](http://teachinghistory.org/history-content/website-reviews/23201)
+[**Thomas Jefferson Papers**](/history-content/website-reviews/23201)

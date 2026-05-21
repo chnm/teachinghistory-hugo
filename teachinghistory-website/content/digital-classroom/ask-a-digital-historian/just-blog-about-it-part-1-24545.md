@@ -23,7 +23,7 @@ tags:
 - research
 ---
 
-These questions are all important to academic historians and those who teach history at every level, and they’re worthy of separate answers. I’ll address two in this post, and the final question in the [next post](http://teachinghistory.org/digital-classroom/ask-a-digital-historian/24546).
+These questions are all important to academic historians and those who teach history at every level, and they’re worthy of separate answers. I’ll address two in this post, and the final question in the [next post](/digital-classroom/ask-a-digital-historian/24546).
 
 ## What do digital historians think of blogs?
 
@@ -47,6 +47,6 @@ Of course we want to teach students ultimately to look at all sources with a cri
 
 ---
 
-For the answer to the third question posed in this Ask a Digital Historian [click here](http://teachinghistory.org/digital-classroom/ask-a-digital-historian/24546).
+For the answer to the third question posed in this Ask a Digital Historian [click here](/digital-classroom/ask-a-digital-historian/24546).
 
 This ["Introduction to U.S. History Research Online"](https://rrchnm.org/essay/an-introduction-to-u-s-history-research-online/) provides strategies for finding reliable resources.

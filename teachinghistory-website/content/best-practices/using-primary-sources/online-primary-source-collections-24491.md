@@ -30,4 +30,4 @@ It can be time-consuming to find and prepare primary sources for your lessons. O
 
 **[Smithsonian Source](http://www.smithsoniansource.org/), from the Smithsonian Institute:** This collection of primary sources can be searched by keyword, type, or topic, and includes documents on Westward Expansion, Transportation, Civil Rights, Invention, Colonial America, and Native American history. Each [set](http://www.smithsoniansource.org/his/viewdetails.aspx ) includes selected and excerpted documents.
 
-**You can also visit [this entry](http://teachinghistory.org/best-practices/using-primary-sources/24490) for places to find online sets of primary sources.**
+**You can also visit [this entry](/best-practices/using-primary-sources/24490) for places to find online sets of primary sources.**

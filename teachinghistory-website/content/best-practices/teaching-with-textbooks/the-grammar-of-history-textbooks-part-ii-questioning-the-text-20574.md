@@ -93,4 +93,4 @@ Learn more about The History Project at UC Davis: [historyproject.ucdavis.edu](h
 
 Mary J. Schleppegrell, Stacey Greer, and Sarah Taylor, ["Literacy in history: Language and meaning,"](http://www.alea.edu.au/documents/item/70) *Australian Journal of Language and Literacy* 31, no.2 (2008): 174–187.
 
-This project is also discussed in [another article](http://teachinghistory.org/best-practices/teaching-with-textbooks/19439) on this website.
+This project is also discussed in [another article](/best-practices/teaching-with-textbooks/19439) on this website.
