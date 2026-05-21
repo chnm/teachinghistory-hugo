@@ -37,4 +37,14 @@ tags:
 - visuals and visualizing
 ---
 
-A collaborative online tool for creating easily-shared diagrams and flowcharts
+## Overview
+
+LucidChart is a web-based tool for creating and sharing diagrams and flowcharts collaboratively. The platform features a clean interface that enables users to visualize complex ideas in an accessible, shareable format.
+
+## Getting Started
+
+Registration requires only a valid email address. The platform offers tours, examples, forums, and tutorials to help new users. A key advantage for educators: LucidChart provides free access to K–12 teachers and students through its educational account option, with no expiration on educational accounts and premium features equivalent to a paid team account. The drag-and-drop interface makes the tool intuitive, allowing users to become functional quickly.
+
+## Example
+
+Diana Laufenberg's American Government students used LucidChart to document bureaucratic processes. Students selected government tasks (such as the FAFSA application or green card process) and created flowcharts detailing each step, including links and helpful tips. The resulting projects demonstrated deep understanding of complex governmental structures while creating shareable digital resources.

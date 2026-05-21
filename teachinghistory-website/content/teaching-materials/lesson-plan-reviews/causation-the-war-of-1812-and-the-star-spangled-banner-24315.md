@@ -36,3 +36,20 @@ The strength of this lesson is that it provides a succinct, yet informative, nar
 The discussion questions at the end of the narrative focus on the American and British motives for going to war and the importance of Washington, DC in the war. While these questions summarize important content, we recommend that teachers use the information from this lesson to help students analyze "The Star-Spangled Banner" as an historical text. For that purpose, the lesson contains several links to both background information and resources pertaining to both the [anthem](http://www.smithsonianmag.com/people-places/Reluctant_Patriot.html) and the [flag](http://www.americanhistory.si.edu/starspangledbanner/interactive-flag.aspx). (Note that this interactive feature also helps students understand the nature of historic preservation.)
 
 This lesson provides such rich contextual information about the War of 1812 and about Francis Scott Key that we recommend modifying it and using it to inquire about the origins of "The Star-Spangled Banner" as it relates to the War of 1812.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes — main resource is a background essay: brief, informative, and establishes groundwork |
+| **Historical Content** | Requires students to read and write? | Yes for reading; writing activities could easily be developed |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Not explicitly, though extensions and resources encourage source interpretation |
+| **Analytic Thinking** | Requires close reading and source attention? | No — main text is an authorless overview, but available information supports anthem analysis |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | No |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes — discussion questions address multiple perspectives; no specific criteria provided |
+| **Lesson Structure** | Defines clear learning goals and logical progression? | No — mostly narrative about the War; useful resources but unclear structure |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes — reading level and language suit young learners |

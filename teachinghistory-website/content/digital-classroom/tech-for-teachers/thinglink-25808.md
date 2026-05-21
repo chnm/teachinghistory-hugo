@@ -25,4 +25,14 @@ tags:
 - visualization
 ---
 
-A multimedia tool that lets users annotate images with text, videos, links, and more
+## Overview
+
+ThingLink is a multimedia tool that lets users annotate images with text, videos, links, and more. The platform is accessible on both Mac and PC, requiring only account registration at ThingLink.com or through their app—no additional downloads needed.
+
+## Getting Started
+
+Users begin by selecting a background image from their computer, Facebook, Flickr, or the web. After naming the project, content gets added through interactive "tags"—clickable icons appearing on hover that embed images, videos, and descriptions. The tool allows flexible content sourcing from Etsy, Amazon, Vimeo, YouTube, Soundcloud, and external links. Tags can be positioned anywhere on the image and rearranged afterward. Sharing options let creators make projects public or unlisted, and even permit collaborative editing where others can add tags.
+
+## Example
+
+Educational applications include student presentations where classmates collaboratively research and present information, information aggregation organizing multiple details with linked media and descriptions, and instructional use for demonstrating concepts, explaining locations, showing spatial relationships, or teaching research skills.

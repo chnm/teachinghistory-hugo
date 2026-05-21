@@ -20,6 +20,14 @@ image: /files/PollEverywhere.png
 author_image: /files/author_image/petricini_6.png
 ---
 
+## Overview
 
+Poll Everywhere is a comprehensive surveying tool that enables student participation through teacher-created quizzes, polls, and surveys. This platform facilitates classroom engagement by allowing instructors to poll students about homework, conduct exit surveys, or encourage full-class participation. Students can participate using smartphones, tablets, and computers with the appropriate access code.
 
-Poll Everywhere is a comprehensive surveying tool that offers a variety of polling options.
+## Getting Started
+
+Create a free account and log in to Poll Everywhere, then designate yourself as the presenter while students select the participating option. The platform offers over 23 different polling tools, including multiple choice questions, word clouds, question and answer formats, clickable images, rank ordering, surveys, and open-ended questions. After finishing your survey, you receive a code that allows students to join. Note that Poll Everywhere offers different pricing tiers for educators with varying limits on responses per survey and monthly quiz creation.
+
+## Example
+
+Hosting a poll after finishing a lesson allows students to rethink the material they just learned while giving shy students a comfortable way to participate anonymously. Clickable images represent an innovative feature—social studies instructors might upload battlefields or primary source documents, asking students to identify key locations or components.
