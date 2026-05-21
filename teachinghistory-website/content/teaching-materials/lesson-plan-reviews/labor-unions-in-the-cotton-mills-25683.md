@@ -35,3 +35,20 @@ The lesson introduces oral history as primary source and can be used to help str
 Students, in groups, write a speech about the merits of joining (or not joining) the union. We suggest that teachers be explicit that this speech be composed as if addressing this early 20th-century audience, and ensure that students have sufficient background knowledge about the specific historical circumstances to construct a realistic speech. Asking students to consider how similar or different the stated concerns are to those of modern-day workers confronted with a similar choice may help with illuminating historical context, as will additional background information. Teachers could also add a “context checker” to group roles to ensure this is taken into account.
 
 The short, contrasting oral history excerpts included make this lesson a good way to introduce oral history and show its usefulness to understanding the past as well as to learning more about the labor movement.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. Includes additional helpful resources on cotton mills and labor unions. |
+| **Historical Content** | Requires students to read and write? | Yes. Written transcripts provided for oral histories; students write speeches. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Students closely analyze each oral history. |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. May need additional support for struggling readers and ELL students. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | No. Teachers can use the persuasive speech as assessment. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

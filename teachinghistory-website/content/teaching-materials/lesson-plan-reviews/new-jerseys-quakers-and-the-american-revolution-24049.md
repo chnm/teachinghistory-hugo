@@ -43,3 +43,20 @@ The [lesson plan](https://nj.gov/state/njhistorypartnership/americanRevolution/q
 Next, students are asked to read a set of documents written by Quakers in the 18th century, and identify the various reasons Quakers were opposed to slavery. The documents are rich and informative. However, the language is challenging; and teachers may need to modify and shorten the documents, and create guiding questions to help students analyze them.
 
 For an assessment, middle school students create protest pamphlets expressing the reasons behind Quaker opposition to slavery. High school students analyze the Declaration of Independence from the Quaker perspective. High school teachers may want to consider having students also analyze the [original draft of the Declaration of Independence](http://www.princeton.edu/~tjpapers/declaration/declaration.html) which had much stronger language opposing slavery. The original draft of the Declaration of Independence reflects more of Jefferson’s personal views, while the final version reflects more of the consensus view of congress.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. Brief historical overview and a historian's lecture. |
+| **Historical Content** | Requires students to read and write? | Yes. Students read primary sources and respond with written assessment. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Students determine reasons behind Quaker opposition to slavery. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes |
+| **Scaffolding** | Appropriate for stated audience? | No. Language of documents may need modification, especially for middle school. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | No. Teachers should provide focusing questions for each document. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. Different assessments for high school and middle school. No rubrics included. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes. Could be completed in one or two class periods. |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

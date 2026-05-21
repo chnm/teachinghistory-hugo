@@ -36,3 +36,20 @@ In [this teaching module](https://www.shapell.org/historical-perspectives/teache
 Students work in small groups to analyze sources to better understand Theodore Roosevelt, the person, and the issues that most concerned Americans during the 1912 campaign. Primary sources include letters from Roosevelt providing an account of his assassination and an update on his recovery. Other sources relate to the campaign itself and the Bull Moose or Progressive Party that Roosevelt ran under. Students are also encouraged to think through how Roosevelt's personality made him an attractive candidate.  
   
 After analyzing these primary sources students work in groups to create their own campaign materials for Roosevelt. Teachers have the option of having students create physical posters or pamphlets or to have students use digital tools to create their promotional materials. The modules also contain guidance on differentiation for diverse learners and connections to standards.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes |
+| **Historical Content** | Requires students to read and write? | Yes |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

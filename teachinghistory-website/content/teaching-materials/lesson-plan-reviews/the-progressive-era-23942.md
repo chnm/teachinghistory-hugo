@@ -46,3 +46,20 @@ This [unit](http://www.bringinghistoryhome.org/fourth/unit-1) on the Progressive
 Activities 3, 4, and 5 utilize primary source documents and photographs, and ask students to analyze documents and draw conclusions from them. Activity 3, for instance, prompts students to examine child labor and its impact by looking at two collections of photographs—Kids at Work and Kids on Strike. It then asks students to consider questions such as "How did the people that wrote these books put their stories together?" and "What sources did they use to be successful history detectives?"
 
 While each part of this lesson builds on the last, teachers can pick and choose among the seven activities. For teachers looking for more direction, the lesson includes a [narrative script](http://www.bringinghistoryhome.org/assets/bringinghistoryhome/4th-grade/unit-1/4_narrative_flow.pdf) that can be used to frame each activity. It also includes a [vocabulary list](http://www.bringinghistoryhome.org/assets/bringinghistoryhome/4th-grade/unit-1/4_progressive_vocabulary.pdf), a student learning chart/grading [rubric](http://www.bringinghistoryhome.org/assets/bringinghistoryhome/bhh_rubric.pdf), and a collection of [links to selected websites](http://www.bringinghistoryhome.org/fourth/unit-1/select-websites).
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. Brief overview included for each activity. |
+| **Historical Content** | Requires students to read and write? | Yes. Read primary documents; opportunities for original writing. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Close analysis of text and photographic primary sources. |
+| **Scaffolding** | Appropriate for stated audience? | Yes. Scaffolding is well-done with student-friendly language. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. Process for each activity is clear. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. Rubric included for content and process goals. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes. Open to teacher adaptation. |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes. Rubrics divided into content and process goals. |

@@ -36,3 +36,20 @@ This collection of [activities](http://www.bringinghistoryhome.org/first/unit-2)
 > Understanding history as a story is a central theme throughout the plan. . .
 
 Activities three, four, and five introduce students to various types of evidence historians use to make sense of the past, through examining school artifacts such as a newsletter and cafeteria menu. In the final activity, students work as a class to construct a mind map about the history of their year at school. Students are then asked to draw a picture that illustrates one of the concepts from the mind map. Finally, students can be [assessed](http://www.bringinghistoryhome.org/assets/bringinghistoryhome/1st-grade/unit-2/my_h_essential_learning.pdf) by asking them to identify types of evidence that can provide particular types of information about the school. With a focus on making connections to students' experiences and teaching them that history is a story based on evidence, these clear and kid-friendly activities are an elegant way to introduce key aspects of history to young elementary students. Designed for first graders, these activities can be useful for both younger and older students.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes. Introduces core characteristics of the historical discipline. |
+| **Historical Content** | Includes historical background? | Yes |
+| **Historical Content** | Requires students to read and write? | Yes. Teachers must find text-based artifacts about their school. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Students analyze multiple pieces of evidence to construct a history. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Students are introduced to sourcing. |
+| **Scaffolding** | Appropriate for stated audience? | Yes. An accessible introduction to the idea that history is more than facts. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. Includes an assessment activity and rubric. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes. No estimated times provided. A few activities rely on specific texts. |

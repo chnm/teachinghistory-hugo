@@ -34,3 +34,20 @@ In [this teaching module](https://www.shapell.org/historical-perspectives/teache
 Students work in small groups to analyze these documents and think through the kinds of service Kennedy engaged in. Kennedy's service include his military service in the navy during World War II that he volunteered for despite the fact that his medical issues excused him from the draft. Students also learn about Kennedy's policies such as the Peace Corps which promoted the idea that young people could serve the world in a variety of ways.  
   
 After analyzing these primary sources students work in groups to create their "Ask Not" video to encourage young people to engage in service to their communities. As a possible extension, teachers can invite community leaders into the classroom to view the video presentations and offer feedback on what local service opportunities exist for young people.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes |
+| **Historical Content** | Requires students to read and write? | Yes |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

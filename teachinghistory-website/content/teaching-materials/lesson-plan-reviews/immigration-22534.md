@@ -38,3 +38,20 @@ These materials are supplemented by Digital History’s larger [Immigration Lear
 Links to [primary source sets](http://www.loc.gov/teachers/classroommaterials/primarysourcesets/immigration/)  from the Library of Congress and other features of the Ethnic America section of the Digital History site are also provided.
 
 Overall we feel that the basic lesson plan provides an excellent set of teaching materials, but we encourage you to explore the interrelated hyperlinks of the Learning Module to find additional materials that will inspire you and your students.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. Much information available on the website. Digital History's online textbook provides detailed background. |
+| **Historical Content** | Requires students to read and write? | Yes |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Students draw conclusions from immigration data. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes |
+| **Scaffolding** | Appropriate for stated audience? | Yes. Materials suitable for middle school. Other site resources useful for all grades. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | No. Teachers will want to provide scaffolds for understanding texts and data. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | No. Teachers must determine how to assess student learning. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | No. Teachers must provide structure and goals. |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes. Unstructured, but questions and activities are clearly presented. |

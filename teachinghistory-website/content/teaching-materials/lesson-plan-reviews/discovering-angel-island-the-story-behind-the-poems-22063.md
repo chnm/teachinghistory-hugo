@@ -32,3 +32,20 @@ tags:
 ---
 
 Many U.S. history classrooms devote significant time to understanding the immigrant experience. In teaching the immigrant experience, however, many classrooms focus exclusively on European immigration through Ellis Island. This lesson, [*The Story Behind the Poems*](http://www.kqed.org/w/pacificlink/lessonplans/poems.pdf?trackurl=true), provides students with an excellent opportunity to learn about Asian immigration through Angel Island, and the ways in which the Asian immigrant experience differed from the European immigrant experience. The topics covered in this lesson would be an excellent addition to a unit on immigration, and would couple nicely with lessons on Chinese Exclusion and nativism in the West. The lesson first provides students with excellent historical background through an  [on-line video](http://www.kqed.org/w/pacificlink/history/angelisland/video/)  about Angel Island. The lesson then positions students to better understand the Asian immigrant experience through an [analysis of poetry](http://www.kqed.org/w/pacificlink/history/angelisland/poetry/ ) left by Asian immigrants on the cell walls of Angel Island. The poetry analysis allows students to connect with the words of the immigrants and hone the skill of analyzing the perspective of an author in a literary piece from the past. The lesson is highly structured and provides plenty of guidance for teachers who are not experienced in using poems as primary historical documents. The lesson includes sample questions to pose with students while analyzing the poems and also provides students with a graphic organizer to help them organize their thoughts as they prepare to write a reflection on a poem.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Background and resources are accurate with links to supplementary materials. |
+| **Historical Content** | Includes historical background? | A high-quality video introduces students to the Angel Island immigrant experience. |
+| **Historical Content** | Requires students to read and write? | Students interpret poems and compose a written reflection on the author's perspective. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Poetry analysis requires close attention to meaning and intent. |
+| **Scaffolding** | Appropriate for stated audience? | Suits late elementary to early middle school learners. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Materials include teacher guidelines for analysis and a graphic organizer. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Assessment relies on discussion and reflection but lacks specific criteria. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Teaches about Angel Island experience and provides poetry analysis opportunities. |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Clear and easily adapted to various classroom environments. |

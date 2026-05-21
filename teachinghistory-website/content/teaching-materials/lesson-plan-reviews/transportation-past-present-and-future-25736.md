@@ -40,3 +40,20 @@ The [Henry Ford Museum](http://www.thehenryford.org/education/teachers.aspx)’s
 Dubbed an Educator DigiKit, the unit includes extensive materials for teachers. The Teacher’s Guide includes timelines on various historic themes relevant to the lesson topics, a glossary, bibliographies, connections to Michigan and national standards, and field trip suggestions. The lesson plans introduce the assembly line concept, technological and economic forces that cause large-scale migration, fair labor issues, challenges faced by immigrants, and the ongoing changing nature of work up to the present. All of the lessons include links to primary sources in the Henry Ford Museum [Online Collection](http://collections.thehenryford.org/Collection.aspx) and they utilize a range of activities, including simulations, math-based problem solving, and source analysis.
 
 Teachers will want to consider supplementing this unit by incorporating a rigorous, systematic approach to analyzing primary sources. Borrowing one from another site (see possibilities [here](/best-practices/using-primary-sources/category/Worksheets)) could strengthen the individual lessons and unit. A rich resource, *20th Century Migration* honors middle elementary children by challenging them to ponder and interpret significant topics in history that continue to affect their world today.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes. Breadth of perspectives helps develop complex understanding. |
+| **Historical Content** | Includes historical background? | Yes. Brief secondary sources provide context. |
+| **Historical Content** | Requires students to read and write? | Yes. Includes writing exercises, short-answer assessments, and discussion prompts. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Primary source analysis appears late; a systematic model would strengthen it. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | No. Source analysis guides don't address creator/author. |
+| **Scaffolding** | Appropriate for stated audience? | Yes. Adapts well for grades 3-5 and middle school. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. Activities engage children in interpreting documents. Assessment criteria absent. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

@@ -27,3 +27,20 @@ Teaching the events leading up to the Declaration of Independence is routine in 
 While the activity is simple and short, it can help to lay the foundation for a lesson on [contextualization](/best-practices/examples-of-historical-thinking/24029), as students place documents in chronological order and see them in the context of surrounding events. Additionally, this lesson provides an excellent opportunity to analyze the nature of cause and effect and teachers could augment the lesson by having students explain how specific events are related to one another as well as to the Declaration of Independence.
 
 This lesson is one of a large collection of [similar activities](http://docsteach.org/activities) in which students engage with historical documents. Teachers can [register](https://docsteach.org/account/register) with the website for free and create their own activities using a large searchable database of primary and secondary sources.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. Limited, but brief explanation and background included with each document. |
+| **Historical Content** | Requires students to read and write? | Yes. Students write a brief essay explaining how documents fit together. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | No. Students put events in chronological order. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | No |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | No. Handwriting in some documents may be difficult to decipher. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. Teacher may receive student accuracy reports. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

@@ -42,3 +42,20 @@ This [lesson](http://www.loc.gov/teachers/classroommaterials/lessons/civil-war/)
 While the lesson focuses on one particular photograph, it includes a remarkably useful collection of Civil War photographs to provide context for the featured image. We especially like the encouragement given students to re-evaluate their conclusions about the first image after looking at subsequent pictures. Openness to new evidence and new conclusions is an attitude that is important for students of history to maintain.
 
 In addition to being a great lesson for teaching close analysis, this lesson also provides an excellent link between a single source and a much larger theme. It bridges two important topics in American history—the Civil War and Industrialization. The lesson concludes with a class discussion surrounding a set of <a href="hotlink: http://www.loc.gov/teachers/classroommaterials/lessons/civil-war/procedure.html>questions about how the process of industrialization influenced the way in which the Civil War was waged. So often in our classrooms, historical events and themes turn into discrete, isolated units; this lesson provides a valuable reminder that all of the periods and events we study are interconnected: students have the opportunity to see how industrialization influenced the process and outcome of the war, and perhaps even how the war in many ways drove industrialization.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. Answers to specific questions plus text and additional photographs provide context. |
+| **Historical Content** | Requires students to read and write? | Yes. Questions can be used as writing prompts. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Close analysis of photographic sources with minimal reading. |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. The photograph is broken into sections with built-in guiding questions. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | No. Assessment strategies mentioned but no specific tools or criteria. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

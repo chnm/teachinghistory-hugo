@@ -31,3 +31,20 @@ tags:
 ---
 
 With iconic historical events such as the Boston Massacre it can be difficult to separate historical fact from myth. This lesson acquaints students with some of the subtleties of constructing historical accounts. It allows them to see firsthand the role of point of view, motive for writing, and historical context in doing history. The lesson opens with an anticipatory activity that helps illustrate to students how unreliable memory can be, and how accounts of the past change over time. Students then analyze a set of three different accounts of the Boston Massacre: a first-hand recollection recorded 64 years after the fact, an account written by an historian in 1877, and [an engraving](https://learninglab.si.edu/resources/view/45539) made by Paul Revere shortly after the event. We especially like the fact that with the first document, the teacher models the cognitive process of analyzing the source information by engaging in a “think aloud” with the document. This provides a great opportunity to uncover for students the kinds of thoughts and questions with which an historian approaches an historical source. The primary source reading is challenging, and students will likely require significant additional scaffolding to understand the meaning of the texts. Teachers may want to consider pre-teaching some of the difficult vocabulary, excerpting or modifying the text, or perhaps reading the text dramatically together as a whole class.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. Supplemental image information for teachers. Minimal background for students. |
+| **Historical Content** | Requires students to read and write? | Yes. Teachers must help with challenging texts and may want to augment writing. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Teacher models think aloud; students replicate in groups and individually. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Identifying and evaluating source information is key. |
+| **Scaffolding** | Appropriate for stated audience? | Yes. Appropriate for elementary; adaptable for middle school. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | No. Very limited vocabulary support. Teachers will need to provide additional scaffolding. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. Assessment activity not thorough and no evaluation criteria. Extension activity provides a good opportunity. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

@@ -39,3 +39,20 @@ In [this teaching module](https://www.shapell.org/historical-perspectives/teache
 Students work in small groups to analyze sources and think through what kinds of expectations Americans might have had about the Holy Land before they travelled there. Students are also encouraged to explore what technological changes allowed tourists the opportunity to travel across the ocean. Primary sources such as travel posters present an idealized version of the places that Americans were familiar with from the Bible.   
   
 After analyzing these primary sources students work in groups to create their own travel itineraries and promotional posters or pamphlets to advertise tours in the Holy Land. These can be physical materials or students may use digital tools to create their promotional materials. The modules also contain guidance on differentiation for diverse learners and connections to standards.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes |
+| **Historical Content** | Requires students to read and write? | Yes. Students demonstrate understanding through primary source analysis and visual media. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |
