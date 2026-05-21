@@ -22,10 +22,14 @@ topics:
 tags:
 - Maryland
 - historical architecture
+videos:
+- src: /files/media/video/Piscataway1.mp4
+  thumb: /files/media/video/thumbs/Piscataway1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/Piscataway2.mp4
+  thumb: /files/media/video/thumbs/Piscataway2.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/Piscataway3.mp4
+  thumb: /files/media/video/thumbs/Piscataway3.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/Piscataway1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/Piscataway1.jpg)](/files/media/video/Piscataway1.mp4) [![Establishing the Theme](/files/media/video/thumbs/Piscataway2.jpg)](/files/media/video/Piscataway2.mp4) [![Establishing the Theme](/files/media/video/thumbs/Piscataway3.jpg)](/files/media/video/Piscataway3.mp4)

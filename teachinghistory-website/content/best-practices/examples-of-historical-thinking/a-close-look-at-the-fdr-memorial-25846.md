@@ -24,10 +24,11 @@ tags:
 - memorials
 - monuments
 - professional development
+videos:
+- src: /files/media/video/fdr1.mp4
+  thumb: /files/media/video/thumbs/fdr1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/fdr2.mp4
+  thumb: /files/media/video/thumbs/fdr2.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/fdr1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/fdr1.jpg)](/files/media/video/fdr1.mp4) [![Establishing the Theme](/files/media/video/thumbs/fdr2.jpg)](/files/media/video/fdr2.mp4)

@@ -26,10 +26,17 @@ tags:
 - music
 - singers
 - songs
+videos:
+- src: /files/media/video/levine1.mp4
+  thumb: /files/media/video/thumbs/levine1.jpg
+  title: 'How did you get interested in these documents?'
+- src: /files/media/video/levine2.mp4
+  thumb: /files/media/video/thumbs/levine2.jpg
+  title: 'Worry Blues'
+- src: /files/media/video/levine3.mp4
+  thumb: /files/media/video/thumbs/levine3.jpg
+  title: 'Two White Horses Standin'' in Line'
+- src: /files/media/video/levine4.mp4
+  thumb: /files/media/video/thumbs/levine4.jpg
+  title: 'What other knowledge helps you to understand these songs?'
 ---
-
-/files/media/video/levine1.mp4
-
-video/mp4
-
-[![How did you get interested in these documents?](/files/media/video/thumbs/levine1.jpg)](/files/media/video/levine1.mp4) [![Worry Blues](/files/media/video/thumbs/levine2.jpg)](/files/media/video/levine2.mp4) [![Two White Horses Standin' in Line](/files/media/video/thumbs/levine3.jpg)](/files/media/video/levine3.mp4) [![What other knowledge helps you to understand these songs?](/files/media/video/thumbs/levine4.jpg)](/files/media/video/levine4.mp4)

@@ -33,10 +33,17 @@ tags:
 - lyrics
 - music
 - songs
+videos:
+- src: /files/media/video/JBrownScholar1.mp4
+  thumb: /files/media/video/thumbs/JBrownScholar1.jpg
+  title: 'Analyzing the Song'
+- src: /files/media/video/JBrownScholar2.mp4
+  thumb: /files/media/video/thumbs/JBrownScholar2.jpg
+  title: 'Soldiers in Relation to the Song'
+- src: /files/media/video/JBrownScholar3.mp4
+  thumb: /files/media/video/thumbs/JBrownScholar3.jpg
+  title: 'John Brown''s Life'
+- src: /files/media/video/JBrownScholar4.mp4
+  thumb: /files/media/video/thumbs/JBrownScholar4.jpg
+  title: 'Teaching the Aftermath'
 ---
-
-/files/media/video/JBrownScholar1.mp4
-
-video/mp4
-
-[![Analyzing the Song](/files/media/video/thumbs/JBrownScholar1.jpg)](/files/media/video/JBrownScholar1.mp4) [![Soldiers in Relation to the Song](/files/media/video/thumbs/JBrownScholar2.jpg)](/files/media/video/JBrownScholar2.mp4) [![John Brown's Life](/files/media/video/thumbs/JBrownScholar3.jpg)](/files/media/video/JBrownScholar3.mp4) [![Teaching the Aftermath](/files/media/video/thumbs/JBrownScholar4.jpg)](/files/media/video/JBrownScholar4.mp4)

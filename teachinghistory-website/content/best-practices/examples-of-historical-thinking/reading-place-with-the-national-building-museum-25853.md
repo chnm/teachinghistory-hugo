@@ -25,10 +25,17 @@ tags:
 - memorials
 - monuments
 - teaching strategies
+videos:
+- src: /files/media/video/buildingmuseum1.mp4
+  thumb: /files/media/video/thumbs/buildingmuseum1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/buildingmuseum2.mp4
+  thumb: /files/media/video/thumbs/buildingmuseum2.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/buildingmuseum3.mp4
+  thumb: /files/media/video/thumbs/buildingmuseum3.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/buildingmuseum4.mp4
+  thumb: /files/media/video/thumbs/buildingmuseum4.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/buildingmuseum1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/buildingmuseum1.jpg)](/files/media/video/buildingmuseum1.mp4) [![Establishing the Theme](/files/media/video/thumbs/buildingmuseum2.jpg)](/files/media/video/buildingmuseum2.mp4) [![Establishing the Theme](/files/media/video/thumbs/buildingmuseum3.jpg)](/files/media/video/buildingmuseum3.mp4) [![Establishing the Theme](/files/media/video/thumbs/buildingmuseum4.jpg)](/files/media/video/buildingmuseum4.mp4)

@@ -24,10 +24,14 @@ tags:
 - FDR
 - New Deal
 - presidents
+videos:
+- src: /files/media/video/TIA_FDR1.mp4
+  thumb: /files/media/video/thumbs/TIA_FDR1.jpg
+  title: 'Drawing on Context'
+- src: /files/media/video/TIA_FDR2.mp4
+  thumb: /files/media/video/thumbs/TIA_FDR2.jpg
+  title: 'A Critical View'
+- src: /files/media/video/TIA_FDR3.mp4
+  thumb: /files/media/video/thumbs/TIA_FDR3.jpg
+  title: 'Performing Criticism'
 ---
-
-/files/media/video/TIA\_FDR1.mp4
-
-video/mp4
-
-[![Drawing on Context](/files/media/video/thumbs/TIA_FDR1.jpg)](/files/media/video/TIA_FDR1.mp4) [![A Critical View](/files/media/video/thumbs/TIA_FDR2.jpg)](/files/media/video/TIA_FDR2.mp4) [![Performing Criticism](/files/media/video/thumbs/TIA_FDR3.jpg)](/files/media/video/TIA_FDR3.mp4)

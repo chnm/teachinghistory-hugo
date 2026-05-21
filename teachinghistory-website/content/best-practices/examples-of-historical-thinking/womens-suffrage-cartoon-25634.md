@@ -29,10 +29,14 @@ tags:
 - editorial cartoons
 - political cartoons
 - suffrage
+videos:
+- src: /files/media/video/Boisseau1a.mp4
+  thumb: /files/media/video/thumbs/Boisseau1a.jpg
+  title: 'The Dirty Pool of Politics'
+- src: /files/media/video/Boisseau1b.mp4
+  thumb: /files/media/video/thumbs/Boisseau1b.jpg
+  title: 'Reading Visually'
+- src: /files/media/video/Boisseau1c.mp4
+  thumb: /files/media/video/thumbs/Boisseau1c.jpg
+  title: 'Public Perception of Women'
 ---
-
-/files/media/video/Boisseau1a.mp4
-
-video/mp4
-
-[![The Dirty Pool of Politics](/files/media/video/thumbs/Boisseau1a.jpg)](/files/media/video/Boisseau1a.mp4) [![Reading Visually](/files/media/video/thumbs/Boisseau1b.jpg)](/files/media/video/Boisseau1b.mp4) [![Public Perception of Women](/files/media/video/thumbs/Boisseau1c.jpg)](/files/media/video/Boisseau1c.mp4)

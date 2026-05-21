@@ -28,10 +28,17 @@ tags:
 - Rhode Island
 - newspapers
 - tea
+videos:
+- src: /files/media/video/csmith5.mp4
+  thumb: /files/media/video/thumbs/csmith5.jpg
+  title: 'What interests you about this newspaper article?'
+- src: /files/media/video/csmith6.mp4
+  thumb: /files/media/video/thumbs/csmith6.jpg
+  title: 'What do you notice when you read this article closely?'
+- src: /files/media/video/csmith7.mp4
+  thumb: /files/media/video/thumbs/csmith7.jpg
+  title: 'What questions aren''t answered by the document?'
+- src: /files/media/video/csmith8.mp4
+  thumb: /files/media/video/thumbs/csmith8.jpg
+  title: 'What would help you understand the context of this article?'
 ---
-
-/files/media/video/csmith5.mp4
-
-video/mp4
-
-[![What interests you about this newspaper article? ](/files/media/video/thumbs/csmith5.jpg)](/files/media/video/csmith5.mp4) [![What do you notice when you read this article closely? ](/files/media/video/thumbs/csmith6.jpg)](/files/media/video/csmith6.mp4) [![What questions aren't answered by the document?](/files/media/video/thumbs/csmith7.jpg)](/files/media/video/csmith7.mp4) [![What would help you understand the context of this article?](/files/media/video/thumbs/csmith8.jpg)](/files/media/video/csmith8.mp4)

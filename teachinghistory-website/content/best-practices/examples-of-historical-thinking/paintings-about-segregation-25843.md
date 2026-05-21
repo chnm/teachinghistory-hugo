@@ -24,10 +24,11 @@ tags:
 - artists
 - norman lewis
 - paintings
+videos:
+- src: /files/media/video/segregation1.mp4
+  thumb: /files/media/video/thumbs/segregation1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/segregation2.mp4
+  thumb: /files/media/video/thumbs/segregation2.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/segregation1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/segregation1.jpg)](/files/media/video/segregation1.mp4) [![Establishing the Theme](/files/media/video/thumbs/segregation2.jpg)](/files/media/video/segregation2.mp4)

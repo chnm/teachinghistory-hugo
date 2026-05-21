@@ -33,10 +33,17 @@ tags:
 - orators
 - sojourner truth
 - speeches
+videos:
+- src: /files/media/video/peterson1.mp4
+  thumb: /files/media/video/thumbs/peterson1.jpg
+  title: 'Harper''s Language'
+- src: /files/media/video/peterson2.mp4
+  thumb: /files/media/video/thumbs/peterson2.jpg
+  title: 'Truth''s Language'
+- src: /files/media/video/peterson3.mp4
+  thumb: /files/media/video/thumbs/peterson3.jpg
+  title: 'Addressing an Audience'
+- src: /files/media/video/peterson4.mp4
+  thumb: /files/media/video/thumbs/peterson4.jpg
+  title: 'Comparing Versions'
 ---
-
-/files/media/video/peterson1.mp4
-
-video/mp4
-
-[![Harper's Language](/files/media/video/thumbs/peterson1.jpg)](/files/media/video/peterson1.mp4) [![Truth's Language](/files/media/video/thumbs/peterson2.jpg)](/files/media/video/peterson2.mp4) [![Addressing an Audience](/files/media/video/thumbs/peterson3.jpg)](/files/media/video/peterson3.mp4) [![Comparing Versions](/files/media/video/thumbs/peterson4.jpg)](/files/media/video/peterson4.mp4)

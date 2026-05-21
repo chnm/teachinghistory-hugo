@@ -23,10 +23,17 @@ tags:
 - Iran
 - Iran Hostage Crisis
 - robert ode
+videos:
+- src: /files/media/video/Hahn1.mp4
+  thumb: /files/media/video/thumbs/Hahn1.jpg
+  title: 'Day-to-day Experience'
+- src: /files/media/video/Hahn2.mp4
+  thumb: /files/media/video/thumbs/Hahn2.jpg
+  title: 'The Context of the Diary'
+- src: /files/media/video/Hahn3.mp4
+  thumb: /files/media/video/thumbs/Hahn3.jpg
+  title: 'The Context of the Hostage Crisis'
+- src: /files/media/video/Hahn4.mp4
+  thumb: /files/media/video/thumbs/Hahn4.jpg
+  title: 'The Impact of the Crisis'
 ---
-
-/files/media/video/Hahn1.mp4
-
-video/mp4
-
-[![Day-to-day Experience](/files/media/video/thumbs/Hahn1.jpg)](/files/media/video/Hahn1.mp4) [![The Context of the Diary](/files/media/video/thumbs/Hahn2.jpg)](/files/media/video/Hahn2.mp4) [![The Context of the Hostage Crisis](/files/media/video/thumbs/Hahn3.jpg)](/files/media/video/Hahn3.mp4) [![The Impact of the Crisis](/files/media/video/thumbs/Hahn4.jpg)](/files/media/video/Hahn4.mp4)

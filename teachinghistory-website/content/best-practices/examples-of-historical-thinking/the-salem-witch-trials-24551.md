@@ -34,10 +34,17 @@ tags:
 - elizabeth reis
 - witchcraft
 - witches
+videos:
+- src: /files/media/video/Reis1.mp4
+  thumb: /files/media/video/thumbs/Reis1.jpg
+  title: 'Dynamics of Confession'
+- src: /files/media/video/Reis2.mp4
+  thumb: /files/media/video/thumbs/Reis2.jpg
+  title: 'The Dangers of Innocence'
+- src: /files/media/video/Reis3.mp4
+  thumb: /files/media/video/thumbs/Reis3.jpg
+  title: 'Elements of a Successful Confession'
+- src: /files/media/video/Reis4.mp4
+  thumb: /files/media/video/thumbs/Reis4.jpg
+  title: 'Leading Students through the Material'
 ---
-
-/files/media/video/Reis1.mp4
-
-video/mp4
-
-[![Dynamics of Confession](/files/media/video/thumbs/Reis1.jpg)](/files/media/video/Reis1.mp4) [![The Dangers of Innocence](/files/media/video/thumbs/Reis2.jpg)](/files/media/video/Reis2.mp4) [![Elements of a Successful Confession](/files/media/video/thumbs/Reis3.jpg)](/files/media/video/Reis3.mp4) [![Leading Students through the Material](/files/media/video/thumbs/Reis4.jpg)](/files/media/video/Reis4.mp4)

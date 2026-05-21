@@ -27,10 +27,17 @@ tags:
 - baseball
 - martin luther king jr
 - sports
+videos:
+- src: /files/media/video/Pellom1.mp4
+  thumb: /files/media/video/thumbs/Pellom1.jpg
+  title: 'Qualities of Character'
+- src: /files/media/video/Pellom2.mp4
+  thumb: /files/media/video/thumbs/Pellom2.jpg
+  title: 'Mallie Robinson'
+- src: /files/media/video/Pellom3.mp4
+  thumb: /files/media/video/thumbs/Pellom3.jpg
+  title: 'The Right to Be Treated as a Human Being'
+- src: /files/media/video/Pellom4.mp4
+  thumb: /files/media/video/thumbs/Pellom4.jpg
+  title: 'Historical Moments and Anticipating Opportunities'
 ---
-
-/files/media/video/Pellom1.mp4
-
-video/mp4
-
-[![Qualities of Character](/files/media/video/thumbs/Pellom1.jpg)](/files/media/video/Pellom1.mp4) [![Mallie Robinson](/files/media/video/thumbs/Pellom2.jpg)](/files/media/video/Pellom2.mp4) [![The Right to Be Treated as a Human Being](/files/media/video/thumbs/Pellom3.jpg)](/files/media/video/Pellom3.mp4) [![Historical Moments and Anticipating Opportunities](/files/media/video/thumbs/Pellom4.jpg)](/files/media/video/Pellom4.mp4)

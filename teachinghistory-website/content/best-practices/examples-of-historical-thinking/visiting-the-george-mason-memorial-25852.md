@@ -24,10 +24,8 @@ tags:
 - george mason memorial
 - memorials
 - monuments
+videos:
+- src: /files/media/video/georgemasonmem.mp4
+  thumb: /files/media/video/thumbs/georgemasonmem.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/georgemasonmem.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/georgemasonmem.jpg)](/files/media/video/georgemasonmem.mp4)

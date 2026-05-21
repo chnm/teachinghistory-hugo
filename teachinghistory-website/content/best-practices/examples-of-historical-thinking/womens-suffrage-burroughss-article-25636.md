@@ -30,10 +30,14 @@ topics:
 tags:
 - Women's Movement
 - suffrage
+videos:
+- src: /files/media/video/Boisseau3a.mp4
+  thumb: /files/media/video/thumbs/Boisseau3a.jpg
+  title: 'Nannie H. Burroughs'
+- src: /files/media/video/Boisseau3b.mp4
+  thumb: /files/media/video/thumbs/Boisseau3b.jpg
+  title: 'The Role of Black Women'
+- src: /files/media/video/Boisseau3c.mp4
+  thumb: /files/media/video/thumbs/Boisseau3c.jpg
+  title: 'Concluding Her Argument'
 ---
-
-/files/media/video/Boisseau3a.mp4
-
-video/mp4
-
-[![Nannie H. Burroughs](/files/media/video/thumbs/Boisseau3a.jpg)](/files/media/video/Boisseau3a.mp4) [![The Role of Black Women](/files/media/video/thumbs/Boisseau3b.jpg)](/files/media/video/Boisseau3b.mp4) [![Concluding Her Argument](/files/media/video/thumbs/Boisseau3c.jpg)](/files/media/video/Boisseau3c.mp4)

@@ -29,10 +29,11 @@ tags:
 - abolition
 - abolitionists
 - autobiographies
+videos:
+- src: /files/media/video/Jerome1.mp4
+  thumb: /files/media/video/thumbs/Jerome1.jpg
+  title: 'Reading the Document'
+- src: /files/media/video/Jerome2.mp4
+  thumb: /files/media/video/thumbs/Jerome2.jpg
+  title: 'Teaching Strategies'
 ---
-
-/files/media/video/Jerome1.mp4
-
-video/mp4
-
-[![Reading the Document](/files/media/video/thumbs/Jerome1.jpg)](/files/media/video/Jerome1.mp4) [![Teaching Strategies](/files/media/video/thumbs/Jerome2.jpg)](/files/media/video/Jerome2.mp4)

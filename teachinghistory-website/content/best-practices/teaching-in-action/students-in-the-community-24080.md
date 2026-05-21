@@ -23,10 +23,11 @@ grade_levels:
 tags:
 - Boston
 - Massachusetts
+videos:
+- src: /files/media/video/TIA_James1.mp4
+  thumb: /files/media/video/thumbs/TIA_James1.jpg
+  title: 'Researching Their Own Questions'
+- src: /files/media/video/TIA_James2.mp4
+  thumb: /files/media/video/thumbs/TIA_James2.jpg
+  title: 'Schools as Part of Communities'
 ---
-
-/files/media/video/TIA\_James1.mp4
-
-video/mp4
-
-[![Researching Their Own Questions](/files/media/video/thumbs/TIA_James1.jpg)](/files/media/video/TIA_James1.mp4) [![Schools as Part of Communities](/files/media/video/thumbs/TIA_James2.jpg)](/files/media/video/TIA_James2.mp4)

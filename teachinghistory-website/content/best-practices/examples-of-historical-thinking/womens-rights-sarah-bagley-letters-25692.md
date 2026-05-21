@@ -32,10 +32,14 @@ tags:
 - Women's Movement
 - factories
 - women's rights
+videos:
+- src: /files/media/video/Murphy1.mp4
+  thumb: /files/media/video/thumbs/Murphy1.jpg
+  title: 'What interests you in these documents?'
+- src: /files/media/video/Murphy2.mp4
+  thumb: /files/media/video/thumbs/Murphy2.jpg
+  title: 'How do you analyze letters from the past?'
+- src: /files/media/video/Murphy3.mp4
+  thumb: /files/media/video/thumbs/Murphy3.jpg
+  title: 'What advice would you give to a student reading these?'
 ---
-
-/files/media/video/Murphy1.mp4
-
-video/mp4
-
-[![What interests you in these documents?](/files/media/video/thumbs/Murphy1.jpg)](/files/media/video/Murphy1.mp4) [![How do you analyze letters from the past?](/files/media/video/thumbs/Murphy2.jpg)](/files/media/video/Murphy2.mp4) [![What advice would you give to a student reading these?](/files/media/video/thumbs/Murphy3.jpg)](/files/media/video/Murphy3.mp4)

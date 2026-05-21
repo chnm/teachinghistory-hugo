@@ -29,10 +29,17 @@ topics:
 - Slavery
 tags:
 - slave receipts
+videos:
+- src: /files/media/video/Thurston1.mp4
+  thumb: /files/media/video/thumbs/Thurston1.jpg
+  title: 'Looking at the Document'
+- src: /files/media/video/Thurston2.mp4
+  thumb: /files/media/video/thumbs/Thurston2.jpg
+  title: 'Close Reading'
+- src: /files/media/video/Thurston3.mp4
+  thumb: /files/media/video/thumbs/Thurston3.jpg
+  title: 'Slavery and the Law'
+- src: /files/media/video/Thurston4.mp4
+  thumb: /files/media/video/thumbs/Thurston4.jpg
+  title: 'Historical Context'
 ---
-
-/files/media/video/Thurston1.mp4
-
-video/mp4
-
-[![Looking at the Document](/files/media/video/thumbs/Thurston1.jpg)](/files/media/video/Thurston1.mp4) [![Close Reading](/files/media/video/thumbs/Thurston2.jpg)](/files/media/video/Thurston2.mp4) [![Slavery and the Law](/files/media/video/thumbs/Thurston3.jpg)](/files/media/video/Thurston3.mp4) [![Historical Context](/files/media/video/thumbs/Thurston4.jpg)](/files/media/video/Thurston4.mp4)

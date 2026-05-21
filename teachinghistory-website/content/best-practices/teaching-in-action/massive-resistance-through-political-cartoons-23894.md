@@ -34,10 +34,17 @@ tags:
 - desegregation
 - schools
 - segregation
+videos:
+- src: /files/media/video/TIA_Stacy1.mp4
+  thumb: /files/media/video/thumbs/TIA_Stacy1.jpg
+  title: 'Identifying the Parts of a Cartoon'
+- src: /files/media/video/TIA_Stacy2.mp4
+  thumb: /files/media/video/thumbs/TIA_Stacy2.jpg
+  title: 'Identifying the Parts of a Cartoon Cont'
+- src: /files/media/video/TIA_Stacy3.mp4
+  thumb: /files/media/video/thumbs/TIA_Stacy3.jpg
+  title: 'Introducing the Second Cartoon'
+- src: /files/media/video/TIA_Stacy4.mp4
+  thumb: /files/media/video/thumbs/TIA_Stacy4.jpg
+  title: 'Drawing Conclusions and Extending the Lesson'
 ---
-
-/files/media/video/TIA\_Stacy1.mp4
-
-video/mp4
-
-[![Identifying the Parts of a Cartoon](/files/media/video/thumbs/TIA_Stacy1.jpg)](/files/media/video/TIA_Stacy1.mp4) [![Identifying the Parts of a Cartoon Cont](/files/media/video/thumbs/TIA_Stacy2.jpg)](/files/media/video/TIA_Stacy2.mp4) [![Introducing the Second Cartoon](/files/media/video/thumbs/TIA_Stacy3.jpg)](/files/media/video/TIA_Stacy3.mp4) [![Drawing Conclusions and Extending the Lesson](/files/media/video/thumbs/TIA_Stacy4.jpg)](/files/media/video/TIA_Stacy4.mp4)

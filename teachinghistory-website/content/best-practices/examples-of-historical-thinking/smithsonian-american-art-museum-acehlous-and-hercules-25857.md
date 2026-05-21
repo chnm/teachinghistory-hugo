@@ -21,10 +21,11 @@ tags:
 - murals
 - professional development
 - smithsonian
+videos:
+- src: /files/media/video/achelous1.mp4
+  thumb: /files/media/video/thumbs/achelous1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/achelous2.mp4
+  thumb: /files/media/video/thumbs/achelous2.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/achelous1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/achelous1.jpg)](/files/media/video/achelous1.mp4) [![Establishing the Theme](/files/media/video/thumbs/achelous2.jpg)](/files/media/video/achelous2.mp4)

@@ -22,10 +22,17 @@ tags:
 - smartboards
 - teaching strategies
 - whiteboards
+videos:
+- src: /files/media/video/Kendrat1.mp4
+  thumb: /files/media/video/thumbs/Kendrat1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/Kendrat2.mp4
+  thumb: /files/media/video/thumbs/Kendrat2.jpg
+  title: 'Examining Viewpoints'
+- src: /files/media/video/Kendrat3.mp4
+  thumb: /files/media/video/thumbs/Kendrat3.jpg
+  title: 'Making Decisions'
+- src: /files/media/video/Kendrat4.mp4
+  thumb: /files/media/video/thumbs/Kendrat4.jpg
+  title: 'Comparing with the Actual Outcome'
 ---
-
-/files/media/video/Kendrat1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/Kendrat1.jpg)](/files/media/video/Kendrat1.mp4) [![Examining Viewpoints](/files/media/video/thumbs/Kendrat2.jpg)](/files/media/video/Kendrat2.mp4) [![Making Decisions](/files/media/video/thumbs/Kendrat3.jpg)](/files/media/video/Kendrat3.mp4) [![Comparing with the Actual Outcome](/files/media/video/thumbs/Kendrat4.jpg)](/files/media/video/Kendrat4.mp4)

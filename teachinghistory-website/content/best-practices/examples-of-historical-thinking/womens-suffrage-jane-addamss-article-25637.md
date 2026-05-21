@@ -28,10 +28,11 @@ tags:
 - Jane Addams
 - Women's Movement
 - suffrage
+videos:
+- src: /files/media/video/Boisseau4a.mp4
+  thumb: /files/media/video/thumbs/Boisseau4a.jpg
+  title: 'Why Women Should Vote'
+- src: /files/media/video/Boisseau4b.mp4
+  thumb: /files/media/video/thumbs/Boisseau4b.jpg
+  title: 'Issues Then and Now'
 ---
-
-/files/media/video/Boisseau4a.mp4
-
-video/mp4
-
-[![Why Women Should Vote](/files/media/video/thumbs/Boisseau4a.jpg)](/files/media/video/Boisseau4a.mp4) [![Issues Then and Now](/files/media/video/thumbs/Boisseau4b.jpg)](/files/media/video/Boisseau4b.mp4)

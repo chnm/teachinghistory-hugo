@@ -35,10 +35,17 @@ tags:
 - polio
 - presidential campaigns
 - presidential elections
+videos:
+- src: /files/media/video/Ritchie5.mp4
+  thumb: /files/media/video/thumbs/Ritchie5.jpg
+  title: 'The Photograph and Its Context'
+- src: /files/media/video/Ritchie6.mp4
+  thumb: /files/media/video/thumbs/Ritchie6.jpg
+  title: 'Mark Trice and the Photograph'
+- src: /files/media/video/Ritchie7.mp4
+  thumb: /files/media/video/thumbs/Ritchie7.jpg
+  title: 'Reading the Photograph'
+- src: /files/media/video/Ritchie8.mp4
+  thumb: /files/media/video/thumbs/Ritchie8.jpg
+  title: 'Polio and Roosevelt'
 ---
-
-/files/media/video/Ritchie5.mp4
-
-video/mp4
-
-[![The Photograph and Its Context](/files/media/video/thumbs/Ritchie5.jpg)](/files/media/video/Ritchie5.mp4) [![Mark Trice and the Photograph](/files/media/video/thumbs/Ritchie6.jpg)](/files/media/video/Ritchie6.mp4) [![Reading the Photograph](/files/media/video/thumbs/Ritchie7.jpg)](/files/media/video/Ritchie7.mp4) [![Polio and Roosevelt](/files/media/video/thumbs/Ritchie8.jpg)](/files/media/video/Ritchie8.mp4)

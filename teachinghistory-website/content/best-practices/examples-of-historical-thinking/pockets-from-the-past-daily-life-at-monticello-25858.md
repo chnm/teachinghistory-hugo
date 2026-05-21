@@ -33,10 +33,14 @@ tags:
 - artifacts
 - material culture
 - presidents
+videos:
+- src: /files/media/video/mysterypocket1.mp4
+  thumb: /files/media/video/thumbs/mysterypocket1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/mysterypocket2.mp4
+  thumb: /files/media/video/thumbs/mysterypocket2.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/mysterypocket3.mp4
+  thumb: /files/media/video/thumbs/mysterypocket3.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/mysterypocket1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/mysterypocket1.jpg)](/files/media/video/mysterypocket1.mp4) [![Establishing the Theme](/files/media/video/thumbs/mysterypocket2.jpg)](/files/media/video/mysterypocket2.mp4) [![Establishing the Theme](/files/media/video/thumbs/mysterypocket3.jpg)](/files/media/video/mysterypocket3.mp4)

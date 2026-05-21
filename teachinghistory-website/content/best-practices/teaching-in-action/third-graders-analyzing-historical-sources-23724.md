@@ -35,10 +35,17 @@ topics:
 tags:
 - Lewis Hine
 - photography
+videos:
+- src: /files/media/video/BHH_classroom1.mp4
+  thumb: /files/media/video/thumbs/BHH_classroom1.jpg
+  title: 'Group Analysis'
+- src: /files/media/video/BHH_classroom2.mp4
+  thumb: /files/media/video/thumbs/BHH_classroom2.jpg
+  title: 'Critical Thinking'
+- src: /files/media/video/BHH_classroom3.mp4
+  thumb: /files/media/video/thumbs/BHH_classroom3.jpg
+  title: 'Connecting the Source'
+- src: /files/media/video/BHH_classroom4.mp4
+  thumb: /files/media/video/thumbs/BHH_classroom4.jpg
+  title: 'Teacher Interview'
 ---
-
-/files/media/video/BHH\_classroom1.mp4
-
-video/mp4
-
-[![Group Analysis](/files/media/video/thumbs/BHH_classroom1.jpg)](/files/media/video/BHH_classroom1.mp4) [![Critical Thinking](/files/media/video/thumbs/BHH_classroom2.jpg)](/files/media/video/BHH_classroom2.mp4) [![Connecting the Source](/files/media/video/thumbs/BHH_classroom3.jpg)](/files/media/video/BHH_classroom3.mp4) [![Teacher Interview](/files/media/video/thumbs/BHH_classroom4.jpg)](/files/media/video/BHH_classroom4.mp4)

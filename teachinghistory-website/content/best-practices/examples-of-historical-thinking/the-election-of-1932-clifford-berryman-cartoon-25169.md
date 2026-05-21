@@ -33,10 +33,17 @@ tags:
 - political cartoons
 - presidential campaigns
 - presidential elections
+videos:
+- src: /files/media/video/Ritchie1.mp4
+  thumb: /files/media/video/thumbs/Ritchie2.jpg
+  title: 'Introducing Clifford Berryman''s Cartoons'
+- src: /files/media/video/Ritchie2.mp4
+  thumb: /files/media/video/thumbs/Ritchie3.jpg
+  title: 'Explaining the Context'
+- src: /files/media/video/Ritchie3.mp4
+  thumb: /files/media/video/thumbs/Ritchie4.jpg
+  title: 'Examining the Conventions'
+- src: /files/media/video/Ritchie4.mp4
+  thumb: /files/media/video/thumbs/Ritchie8.jpg
+  title: 'How Cartoons Have Changed'
 ---
-
-/files/media/video/Ritchie1.mp4
-
-video/mp4
-
-[![Introducing Clifford Berryman's Cartoons](/files/media/video/thumbs/Ritchie2.jpg)](/files/media/video/Ritchie1.mp4) [![Explaining the Context](/files/media/video/thumbs/Ritchie3.jpg)](/files/media/video/Ritchie2.mp4) [![Examining the Conventions](/files/media/video/thumbs/Ritchie4.jpg)](/files/media/video/Ritchie3.mp4) [![How Cartoons Have Changed](/files/media/video/thumbs/Ritchie8.jpg)](/files/media/video/Ritchie4.mp4)

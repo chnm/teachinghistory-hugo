@@ -29,10 +29,17 @@ tags:
 - inventing
 - inventions
 - inventors
+videos:
+- src: /files/media/video/MontExperiment1.mp4
+  thumb: /files/media/video/thumbs/MontExperiment1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/MontExperiment2.mp4
+  thumb: /files/media/video/thumbs/MontExperiment2.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/MontExperiment3.mp4
+  thumb: /files/media/video/thumbs/MontExperiment3.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/MontExperiment4.mp4
+  thumb: /files/media/video/thumbs/MontExperiment4.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/MontExperiment1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/MontExperiment1.jpg)](/files/media/video/MontExperiment1.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExperiment2.jpg)](/files/media/video/MontExperiment2.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExperiment3.jpg)](/files/media/video/MontExperiment3.mp4) [![Establishing the Theme](/files/media/video/thumbs/MontExperiment4.jpg)](/files/media/video/MontExperiment4.mp4)

@@ -23,10 +23,14 @@ tags:
 - paintings
 - primary sources
 - secondary sources
+videos:
+- src: /files/media/video/Eanes1.mp4
+  thumb: /files/media/video/thumbs/Eanes1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/Eanes2.mp4
+  thumb: /files/media/video/thumbs/Eanes2.jpg
+  title: 'Examining Viewpoints'
+- src: /files/media/video/Eanes3.mp4
+  thumb: /files/media/video/thumbs/Eanes3.jpg
+  title: 'Making Decisions'
 ---
-
-/files/media/video/Eanes1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/Eanes1.jpg)](/files/media/video/Eanes1.mp4) [![Examining Viewpoints](/files/media/video/thumbs/Eanes2.jpg)](/files/media/video/Eanes2.mp4) [![Making Decisions](/files/media/video/thumbs/Eanes3.jpg)](/files/media/video/Eanes3.mp4)

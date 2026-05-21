@@ -31,10 +31,17 @@ tags:
 - photos
 - tourism
 - tourists
+videos:
+- src: /files/media/video/goodyear1.mp4
+  thumb: /files/media/video/thumbs/goodyear1.jpg
+  title: 'What did you first notice about this image?'
+- src: /files/media/video/goodyear2.mp4
+  thumb: /files/media/video/thumbs/goodyear2.jpg
+  title: 'What is your general approach to reading photographs?'
+- src: /files/media/video/goodyear3.mp4
+  thumb: /files/media/video/thumbs/goodyear3.jpg
+  title: 'What additonal questions would you ask of this photograph?'
+- src: /files/media/video/goodyear4.mp4
+  thumb: /files/media/video/thumbs/goodyear4.jpg
+  title: 'Where would you find evidence to give context to this image?'
 ---
-
-/files/media/video/goodyear1.mp4
-
-video/mp4
-
-[![What did you first notice about this image? ](/files/media/video/thumbs/goodyear1.jpg)](/files/media/video/goodyear1.mp4) [![What is your general approach to reading photographs?](/files/media/video/thumbs/goodyear2.jpg)](/files/media/video/goodyear2.mp4) [![What additonal questions would you ask of this photograph?](/files/media/video/thumbs/goodyear3.jpg)](/files/media/video/goodyear3.mp4) [![Where would you find evidence to give context to this image?](/files/media/video/thumbs/goodyear4.jpg)](/files/media/video/goodyear4.mp4)

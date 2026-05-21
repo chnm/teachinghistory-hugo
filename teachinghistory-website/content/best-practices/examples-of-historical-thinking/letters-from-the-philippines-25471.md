@@ -26,10 +26,17 @@ tags:
 - Philippine American War
 - Philippines
 - letters
+videos:
+- src: /files/media/video/Kramer1.mp4
+  thumb: /files/media/video/thumbs/Kramer1.jpg
+  title: 'The U.S. in the Philippines'
+- src: /files/media/video/Kramer2.mp4
+  thumb: /files/media/video/thumbs/Kramer2.jpg
+  title: 'Changing Views'
+- src: /files/media/video/Kramer3.mp4
+  thumb: /files/media/video/thumbs/Kramer3.jpg
+  title: 'The Language of Liberation'
+- src: /files/media/video/Kramer4.mp4
+  thumb: /files/media/video/thumbs/Kramer4.jpg
+  title: 'Letting Sources Speak'
 ---
-
-/files/media/video/Kramer1.mp4
-
-video/mp4
-
-[![The U.S. in the Philippines](/files/media/video/thumbs/Kramer1.jpg)](/files/media/video/Kramer1.mp4) [![Changing Views](/files/media/video/thumbs/Kramer2.jpg)](/files/media/video/Kramer2.mp4) [![The Language of Liberation](/files/media/video/thumbs/Kramer3.jpg)](/files/media/video/Kramer3.mp4) [![Letting Sources Speak](/files/media/video/thumbs/Kramer4.jpg)](/files/media/video/Kramer4.mp4)

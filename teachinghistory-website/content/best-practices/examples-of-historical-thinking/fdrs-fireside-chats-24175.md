@@ -27,10 +27,17 @@ tags:
 - FDR
 - New Deal
 - presidents
+videos:
+- src: /files/media/video/Allida1.mp4
+  thumb: /files/media/video/thumbs/Allida1.jpg
+  title: 'FDR''s Push for Recovery'
+- src: /files/media/video/Allida2.mp4
+  thumb: /files/media/video/thumbs/Allida2.jpg
+  title: 'First Steps and Beyond'
+- src: /files/media/video/Allida3.mp4
+  thumb: /files/media/video/thumbs/Allida3.jpg
+  title: 'Laying Out Principals'
+- src: /files/media/video/Allida4.mp4
+  thumb: /files/media/video/thumbs/Allida4.jpg
+  title: 'The New Deal Today'
 ---
-
-/files/media/video/Allida1.mp4
-
-video/mp4
-
-[![FDR's Push for Recovery](/files/media/video/thumbs/Allida1.jpg)](/files/media/video/Allida1.mp4) [![First Steps and Beyond](/files/media/video/thumbs/Allida2.jpg)](/files/media/video/Allida2.mp4) [![Laying Out Principals](/files/media/video/thumbs/Allida3.jpg)](/files/media/video/Allida3.mp4) [![The New Deal Today](/files/media/video/thumbs/Allida4.jpg)](/files/media/video/Allida4.mp4)

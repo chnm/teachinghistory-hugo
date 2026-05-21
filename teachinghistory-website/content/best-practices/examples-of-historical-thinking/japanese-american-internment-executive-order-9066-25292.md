@@ -26,10 +26,17 @@ tags:
 - Executive Order 9066
 - Japanese American internment
 - Japanese Americans
+videos:
+- src: /files/media/video/Wu5.mp4
+  thumb: /files/media/video/thumbs/Wu5.jpg
+  title: 'A Mistake from the Beginning'
+- src: /files/media/video/Wu6.mp4
+  thumb: /files/media/video/thumbs/Wu6.jpg
+  title: 'Putting the Words in Context'
+- src: /files/media/video/Wu7.mp4
+  thumb: /files/media/video/thumbs/Wu7.jpg
+  title: 'Reading the Order'
+- src: /files/media/video/Wu8.mp4
+  thumb: /files/media/video/thumbs/Wu8.jpg
+  title: 'History in the Details'
 ---
-
-/files/media/video/Wu5.mp4
-
-video/mp4
-
-[![A Mistake from the Beginning](/files/media/video/thumbs/Wu5.jpg)](/files/media/video/Wu5.mp4) [![Putting the Words in Context](/files/media/video/thumbs/Wu6.jpg)](/files/media/video/Wu6.mp4) [![Reading the Order](/files/media/video/thumbs/Wu7.jpg)](/files/media/video/Wu7.mp4) [![History in the Details](/files/media/video/thumbs/Wu8.jpg)](/files/media/video/Wu8.mp4)

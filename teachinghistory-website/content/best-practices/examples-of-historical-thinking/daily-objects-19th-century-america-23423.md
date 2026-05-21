@@ -37,10 +37,14 @@ topics:
 tags:
 - furniture
 - portraits
+videos:
+- src: /files/media/video/David1.mp4
+  thumb: /files/media/video/thumbs/David1.jpg
+  title: 'Hitchcock Chair'
+- src: /files/media/video/David2.mp4
+  thumb: /files/media/video/thumbs/David2.jpg
+  title: 'Moore Family Portrait'
+- src: /files/media/video/David3.mp4
+  thumb: /files/media/video/thumbs/David3.jpg
+  title: 'Across the Continent Lithograph'
 ---
-
-/files/media/video/David1.mp4
-
-video/mp4
-
-[![Hitchcock Chair](/files/media/video/thumbs/David1.jpg)](/files/media/video/David1.mp4) [![Moore Family Portrait ](/files/media/video/thumbs/David2.jpg)](/files/media/video/David2.mp4) [![Across the Continent Lithograph](/files/media/video/thumbs/David3.jpg)](/files/media/video/David3.mp4)

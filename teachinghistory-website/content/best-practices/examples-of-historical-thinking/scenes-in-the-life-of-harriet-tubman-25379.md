@@ -27,10 +27,17 @@ tags:
 - biographies
 - harriet tubman
 - sarah h. bradford
+videos:
+- src: /files/media/video/Tiya1.mp4
+  thumb: /files/media/video/thumbs/Tiya1.jpg
+  title: 'Who Was Harriet Tubman?'
+- src: /files/media/video/Tiya2.mp4
+  thumb: /files/media/video/thumbs/Tiya2.jpg
+  title: 'Context: Tubman and the Autobiography'
+- src: /files/media/video/Tiya3.mp4
+  thumb: /files/media/video/thumbs/Tiya3.jpg
+  title: 'Slavery and Escape'
+- src: /files/media/video/Tiya4.mp4
+  thumb: /files/media/video/thumbs/Tiya4.jpg
+  title: 'The Importance of the Autobiography'
 ---
-
-/files/media/video/Tiya1.mp4
-
-video/mp4
-
-[![Who Was Harriet Tubman?](/files/media/video/thumbs/Tiya1.jpg)](/files/media/video/Tiya1.mp4) [![Context: Tubman and the Autobiography](/files/media/video/thumbs/Tiya2.jpg)](/files/media/video/Tiya2.mp4) [![Slavery and Escape](/files/media/video/thumbs/Tiya3.jpg)](/files/media/video/Tiya3.mp4) [![The Importance of the Autobiography](/files/media/video/thumbs/Tiya4.jpg)](/files/media/video/Tiya4.mp4)

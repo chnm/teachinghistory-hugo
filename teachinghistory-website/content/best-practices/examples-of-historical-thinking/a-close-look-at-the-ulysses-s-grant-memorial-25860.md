@@ -25,10 +25,17 @@ tags:
 - memorials
 - monuments
 - professional development
+videos:
+- src: /files/media/video/Grant1.mp4
+  thumb: /files/media/video/thumbs/Grant1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/Grant2.mp4
+  thumb: /files/media/video/thumbs/Grant2.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/Grant3.mp4
+  thumb: /files/media/video/thumbs/Grant3.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/Grant4.mp4
+  thumb: /files/media/video/thumbs/Grant4.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/Grant1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/Grant1.jpg)](/files/media/video/Grant1.mp4) [![Establishing the Theme](/files/media/video/thumbs/Grant2.jpg)](/files/media/video/Grant2.mp4) [![Establishing the Theme](/files/media/video/thumbs/Grant3.jpg)](/files/media/video/Grant3.mp4) [![Establishing the Theme](/files/media/video/thumbs/Grant4.jpg)](/files/media/video/Grant4.mp4)

@@ -27,10 +27,14 @@ topics:
 tags:
 - My Lai
 - Vietnam
+videos:
+- src: /files/media/video/TIA_MyLai1.mp4
+  thumb: /files/media/video/thumbs/TIA_MyLai1.jpg
+  title: 'Perspectives: Those Portrayed and Those Overlooked'
+- src: /files/media/video/TIA_MyLai2.mp4
+  thumb: /files/media/video/thumbs/TIA_MyLai2.jpg
+  title: 'Zoom-In Inquiry'
+- src: /files/media/video/TIA_MyLai3.mp4
+  thumb: /files/media/video/thumbs/TIA_MyLai3.jpg
+  title: 'Primary Sources Challenge Concepts of Truth'
 ---
-
-/files/media/video/TIA\_MyLai1.mp4
-
-video/mp4
-
-[![Perspectives: Those Portrayed and Those Overlooked](/files/media/video/thumbs/TIA_MyLai1.jpg)](/files/media/video/TIA_MyLai1.mp4) [![Zoom-In Inquiry](/files/media/video/thumbs/TIA_MyLai2.jpg)](/files/media/video/TIA_MyLai2.mp4) [![Primary Sources Challenge Concepts of Truth](/files/media/video/thumbs/TIA_MyLai3.jpg)](/files/media/video/TIA_MyLai3.mp4)

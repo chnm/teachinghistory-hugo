@@ -29,10 +29,14 @@ tags:
 - Supreme Court
 - U.S. Supreme Court
 - amendments
+videos:
+- src: /files/media/video/BillofRights1.mp4
+  thumb: /files/media/video/thumbs/BillofRights1.jpg
+  title: 'Introducing Students to Primary Sources'
+- src: /files/media/video/BillofRights2.mp4
+  thumb: /files/media/video/thumbs/BillofRights2.jpg
+  title: 'Comparing and Contrasting'
+- src: /files/media/video/BillofRights3.mp4
+  thumb: /files/media/video/thumbs/BillofRights3.jpg
+  title: 'A New Way to Look at History'
 ---
-
-/files/media/video/BillofRights1.mp4
-
-video/mp4
-
-[![Introducing Students to Primary Sources](/files/media/video/thumbs/BillofRights1.jpg)](/files/media/video/BillofRights1.mp4) [![Comparing and Contrasting](/files/media/video/thumbs/BillofRights2.jpg)](/files/media/video/BillofRights2.mp4) [![A New Way to Look at History](/files/media/video/thumbs/BillofRights3.jpg)](/files/media/video/BillofRights3.mp4)

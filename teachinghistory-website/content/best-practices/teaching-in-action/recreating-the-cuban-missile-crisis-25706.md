@@ -22,10 +22,17 @@ tags:
 - WMDs
 - atomic bombs
 - nuclear weapons
+videos:
+- src: /files/media/video/Jamie1.mp4
+  thumb: /files/media/video/thumbs/Jamie1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/Jamie2.mp4
+  thumb: /files/media/video/thumbs/Jamie2.jpg
+  title: 'Examining Viewpoints'
+- src: /files/media/video/Jamie3.mp4
+  thumb: /files/media/video/thumbs/Jamie3.jpg
+  title: 'Making Decisions'
+- src: /files/media/video/Jamie4.mp4
+  thumb: /files/media/video/thumbs/Jamie4.jpg
+  title: 'Comparing with the Actual Outcome'
 ---
-
-/files/media/video/Jamie1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/Jamie1.jpg)](/files/media/video/Jamie1.mp4) [![Examining Viewpoints](/files/media/video/thumbs/Jamie2.jpg)](/files/media/video/Jamie2.mp4) [![Making Decisions](/files/media/video/thumbs/Jamie3.jpg)](/files/media/video/Jamie3.mp4) [![Comparing with the Actual Outcome](/files/media/video/thumbs/Jamie4.jpg)](/files/media/video/Jamie4.mp4)

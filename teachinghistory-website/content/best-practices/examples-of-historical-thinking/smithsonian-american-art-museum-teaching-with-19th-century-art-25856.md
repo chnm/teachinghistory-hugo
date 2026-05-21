@@ -18,10 +18,17 @@ topics:
 tags:
 - art
 - artists
+videos:
+- src: /files/media/video/AmArt1.mp4
+  thumb: /files/media/video/thumbs/AmArt1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/AmArt2.mp4
+  thumb: /files/media/video/thumbs/AmArt2.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/AmArt3.mp4
+  thumb: /files/media/video/thumbs/AmArt3.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/AmArt4.mp4
+  thumb: /files/media/video/thumbs/AmArt4.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/AmArt1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/AmArt1.jpg)](/files/media/video/AmArt1.mp4) [![Establishing the Theme](/files/media/video/thumbs/AmArt2.jpg)](/files/media/video/AmArt2.mp4) [![Establishing the Theme](/files/media/video/thumbs/AmArt3.jpg)](/files/media/video/AmArt3.mp4) [![Establishing the Theme](/files/media/video/thumbs/AmArt4.jpg)](/files/media/video/AmArt4.mp4)

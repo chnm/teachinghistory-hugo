@@ -23,10 +23,11 @@ tags:
 - emaneul gottlieb leutze
 - manifest destin
 - westward expansion
+videos:
+- src: /files/media/video/AmArt5.mp4
+  thumb: /files/media/video/thumbs/AmArt5.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/AmArt6.mp4
+  thumb: /files/media/video/thumbs/AmArt6.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/AmArt5.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/AmArt5.jpg)](/files/media/video/AmArt5.mp4) [![Establishing the Theme](/files/media/video/thumbs/AmArt6.jpg)](/files/media/video/AmArt6.mp4)

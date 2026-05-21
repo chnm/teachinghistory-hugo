@@ -23,10 +23,17 @@ tags:
 - mount vernon
 - presidents
 - professional development
+videos:
+- src: /files/media/video/mountvernon1.mp4
+  thumb: /files/media/video/thumbs/mountvernon1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/mountvernon2.mp4
+  thumb: /files/media/video/thumbs/mountvernon2.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/mountvernon3.mp4
+  thumb: /files/media/video/thumbs/mountvernon3.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/mountvernon4.mp4
+  thumb: /files/media/video/thumbs/mountvernon4.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/mountvernon1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/mountvernon1.jpg)](/files/media/video/mountvernon1.mp4) [![Establishing the Theme](/files/media/video/thumbs/mountvernon2.jpg)](/files/media/video/mountvernon2.mp4) [![Establishing the Theme](/files/media/video/thumbs/mountvernon3.jpg)](/files/media/video/mountvernon3.mp4) [![Establishing the Theme](/files/media/video/thumbs/mountvernon4.jpg)](/files/media/video/mountvernon4.mp4)

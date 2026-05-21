@@ -34,10 +34,17 @@ tags:
 - free blacks
 - letters
 - soldiers
+videos:
+- src: /files/media/video/Manning1.mp4
+  thumb: /files/media/video/thumbs/Manning1.jpg
+  title: 'Introducing the Letters and a Union Soldier''s Letter'
+- src: /files/media/video/Manning2.mp4
+  thumb: /files/media/video/thumbs/Manning2.jpg
+  title: 'Union and Confederate Soldiers'' Letters'
+- src: /files/media/video/Manning3.mp4
+  thumb: /files/media/video/thumbs/Manning3.jpg
+  title: 'A Confederate Soldier''s Letter and a Black Union Soldier''s'
+- src: /files/media/video/Manning4.mp4
+  thumb: /files/media/video/thumbs/Manning4.jpg
+  title: 'A Black Union Soldier''s Letter'
 ---
-
-/files/media/video/Manning1.mp4
-
-video/mp4
-
-[![Introducing the Letters and a Union Soldier's Letter](/files/media/video/thumbs/Manning1.jpg)](/files/media/video/Manning1.mp4) [![Union and Confederate Soldiers' Letters](/files/media/video/thumbs/Manning2.jpg)](/files/media/video/Manning2.mp4) [![A Confederate Soldier's Letter and a Black Union Soldier's](/files/media/video/thumbs/Manning3.jpg)](/files/media/video/Manning3.mp4) [![A Black Union Soldier's Letter](/files/media/video/thumbs/Manning4.jpg)](/files/media/video/Manning4.mp4)

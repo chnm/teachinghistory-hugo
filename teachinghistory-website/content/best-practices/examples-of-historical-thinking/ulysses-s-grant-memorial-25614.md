@@ -34,10 +34,8 @@ tags:
 - memorials
 - monuments
 - statues
+videos:
+- src: /files/media/video/warmemorial1.mp4
+  thumb: /files/media/video/thumbs/warmemorial1.jpg
+  title: 'Ulysses S. Grant Memorial'
 ---
-
-/files/media/video/warmemorial1.mp4
-
-video/mp4
-
-[![Ulysses S. Grant Memorial](/files/media/video/thumbs/warmemorial1.jpg)](/files/media/video/warmemorial1.mp4)

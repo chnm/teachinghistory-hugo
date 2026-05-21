@@ -26,10 +26,17 @@ tags:
 - Bill of Rights
 - U.S. Congress
 - congress
+videos:
+- src: /files/media/video/Ridgway1.mp4
+  thumb: /files/media/video/thumbs/Ridgway1.jpg
+  title: 'The Bill of Rights in Context'
+- src: /files/media/video/Ridgway2.mp4
+  thumb: /files/media/video/thumbs/Ridgway2.jpg
+  title: 'Federalist vs. Anti-Federalists'
+- src: /files/media/video/Ridgway3.mp4
+  thumb: /files/media/video/thumbs/Ridgway3.jpg
+  title: 'Looking at the Amendments'
+- src: /files/media/video/Ridgway4.mp4
+  thumb: /files/media/video/thumbs/Ridgway4.jpg
+  title: 'Having the Right'
 ---
-
-/files/media/video/Ridgway1.mp4
-
-video/mp4
-
-[![The Bill of Rights in Context](/files/media/video/thumbs/Ridgway1.jpg)](/files/media/video/Ridgway1.mp4) [![Federalist vs. Anti-Federalists](/files/media/video/thumbs/Ridgway2.jpg)](/files/media/video/Ridgway2.mp4) [![Looking at the Amendments](/files/media/video/thumbs/Ridgway3.jpg)](/files/media/video/Ridgway3.mp4) [![Having the Right](/files/media/video/thumbs/Ridgway4.jpg)](/files/media/video/Ridgway4.mp4)

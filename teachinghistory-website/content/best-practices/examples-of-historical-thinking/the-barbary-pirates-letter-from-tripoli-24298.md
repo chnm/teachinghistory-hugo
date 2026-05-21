@@ -30,10 +30,17 @@ tags:
 - Barbary States
 - First Barbary War
 - Tripoli
+videos:
+- src: /files/media/video/Sears1.mp4
+  thumb: /files/media/video/thumbs/Sears1.jpg
+  title: 'Primary Source: Exchange of Diplomatic Letters'
+- src: /files/media/video/Sears2.mp4
+  thumb: /files/media/video/thumbs/Sears2.jpg
+  title: 'Historical and Geographical Context'
+- src: /files/media/video/Sears3.mp4
+  thumb: /files/media/video/thumbs/Sears3.jpg
+  title: 'Helping Students Question the Text'
+- src: /files/media/video/Sears4.mp4
+  thumb: /files/media/video/thumbs/Sears4.jpg
+  title: 'What Happened Later?'
 ---
-
-/files/media/video/Sears1.mp4
-
-video/mp4
-
-[![Primary Source: Exchange of Diplomatic Letters](/files/media/video/thumbs/Sears1.jpg)](/files/media/video/Sears1.mp4) [![Historical and Geographical Context](/files/media/video/thumbs/Sears2.jpg)](/files/media/video/Sears2.mp4) [![Helping Students Question the Text](/files/media/video/thumbs/Sears3.jpg)](/files/media/video/Sears3.mp4) [![What Happened Later?](/files/media/video/thumbs/Sears4.jpg)](/files/media/video/Sears4.mp4)

@@ -26,10 +26,17 @@ tags:
 - Japanese American internment
 - Japanese Americans
 - Manzanar
+videos:
+- src: /files/media/video/Wu1.mp4
+  thumb: /files/media/video/thumbs/Wu1.jpg
+  title: 'Capturing a Sense of Uncertainty'
+- src: /files/media/video/Wu2.mp4
+  thumb: /files/media/video/thumbs/Wu2.jpg
+  title: 'Striving for Normalcy'
+- src: /files/media/video/Wu3.mp4
+  thumb: /files/media/video/thumbs/Wu3.jpg
+  title: 'Artifacts, Images, and Oral History'
+- src: /files/media/video/Wu4.mp4
+  thumb: /files/media/video/thumbs/Wu4.jpg
+  title: 'Responding to Injustice'
 ---
-
-/files/media/video/Wu1.mp4
-
-video/mp4
-
-[![Capturing a Sense of Uncertainty](/files/media/video/thumbs/Wu1.jpg)](/files/media/video/Wu1.mp4) [![Striving for Normalcy](/files/media/video/thumbs/Wu2.jpg)](/files/media/video/Wu2.mp4) [![Artifacts, Images, and Oral History](/files/media/video/thumbs/Wu3.jpg)](/files/media/video/Wu3.mp4) [![Responding to Injustice](/files/media/video/thumbs/Wu4.jpg)](/files/media/video/Wu4.mp4)

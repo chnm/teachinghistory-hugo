@@ -28,10 +28,17 @@ tags:
 - My Lai
 - My Lai Massacre
 - Vietnam
+videos:
+- src: /files/media/video/Meredith1.mp4
+  thumb: /files/media/video/thumbs/Meredith1.jpg
+  title: 'Introducing the Cartoon'
+- src: /files/media/video/Meredith2.mp4
+  thumb: /files/media/video/thumbs/Meredith2.jpg
+  title: 'Introducing the Massacre'
+- src: /files/media/video/Meredith3.mp4
+  thumb: /files/media/video/thumbs/Meredith3.jpg
+  title: 'Word Spreads'
+- src: /files/media/video/Meredith4.mp4
+  thumb: /files/media/video/thumbs/Meredith4.jpg
+  title: 'Reacting to the Sources'
 ---
-
-/files/media/video/Meredith1.mp4
-
-video/mp4
-
-[![Introducing the Cartoon](/files/media/video/thumbs/Meredith1.jpg)](/files/media/video/Meredith1.mp4) [![Introducing the Massacre](/files/media/video/thumbs/Meredith2.jpg)](/files/media/video/Meredith2.mp4) [![Word Spreads](/files/media/video/thumbs/Meredith3.jpg)](/files/media/video/Meredith3.mp4) [![Reacting to the Sources](/files/media/video/thumbs/Meredith4.jpg)](/files/media/video/Meredith4.mp4)

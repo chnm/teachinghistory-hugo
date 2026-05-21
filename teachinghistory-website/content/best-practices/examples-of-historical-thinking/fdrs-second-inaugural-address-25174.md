@@ -33,10 +33,14 @@ tags:
 - Franklin D. Roosevelt
 - inaugural addresses
 - presidential inaugurations
+videos:
+- src: /files/media/video/Kennedy1.mp4
+  thumb: /files/media/video/thumbs/Kennedy1.jpg
+  title: 'The Document'
+- src: /files/media/video/Kennedy2.mp4
+  thumb: /files/media/video/thumbs/Kennedy2.jpg
+  title: 'What is FDR doing?'
+- src: /files/media/video/Kennedy3.mp4
+  thumb: /files/media/video/thumbs/Kennedy3.jpg
+  title: 'FDR as Visionary'
 ---
-
-/files/media/video/Kennedy1.mp4
-
-video/mp4
-
-[![The Document](/files/media/video/thumbs/Kennedy1.jpg)](/files/media/video/Kennedy1.mp4) [![What is FDR doing? ](/files/media/video/thumbs/Kennedy2.jpg)](/files/media/video/Kennedy2.mp4) [![FDR as Visionary](/files/media/video/thumbs/Kennedy3.jpg)](/files/media/video/Kennedy3.mp4)

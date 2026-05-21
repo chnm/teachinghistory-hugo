@@ -24,10 +24,17 @@ tags:
 - paintings
 - primary sources
 - smithsonian
+videos:
+- src: /files/media/video/americanart1.mp4
+  thumb: /files/media/video/thumbs/americanart1.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/americanart2.mp4
+  thumb: /files/media/video/thumbs/americanart2.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/americanart3.mp4
+  thumb: /files/media/video/thumbs/americanart3.jpg
+  title: 'Establishing the Theme'
+- src: /files/media/video/americanart4.mp4
+  thumb: /files/media/video/thumbs/americanart4.jpg
+  title: 'Establishing the Theme'
 ---
-
-/files/media/video/americanart1.mp4
-
-video/mp4
-
-[![Establishing the Theme](/files/media/video/thumbs/americanart1.jpg)](/files/media/video/americanart1.mp4) [![Establishing the Theme](/files/media/video/thumbs/americanart2.jpg)](/files/media/video/americanart2.mp4) [![Establishing the Theme](/files/media/video/thumbs/americanart3.jpg)](/files/media/video/americanart3.mp4) [![Establishing the Theme](/files/media/video/thumbs/americanart4.jpg)](/files/media/video/americanart4.mp4)

@@ -28,10 +28,14 @@ topics:
 tags:
 - Cherokee
 - Cherokee Nation
+videos:
+- src: /files/media/video/Malinda1.mp4
+  thumb: /files/media/video/thumbs/Malinda1.jpg
+  title: 'Reading the Document'
+- src: /files/media/video/Malinda2.mp4
+  thumb: /files/media/video/thumbs/Malinda2.jpg
+  title: 'Understanding the Document'
+- src: /files/media/video/Malinda3.mp4
+  thumb: /files/media/video/thumbs/Malinda3.jpg
+  title: 'Teaching Strategies'
 ---
-
-/files/media/video/Malinda1.mp4
-
-video/mp4
-
-[![Reading the Document](/files/media/video/thumbs/Malinda1.jpg)](/files/media/video/Malinda1.mp4) [![Understanding the Document](/files/media/video/thumbs/Malinda2.jpg)](/files/media/video/Malinda2.mp4) [![Teaching Strategies](/files/media/video/thumbs/Malinda3.jpg)](/files/media/video/Malinda3.mp4)

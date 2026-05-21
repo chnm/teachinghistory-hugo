@@ -28,10 +28,14 @@ tags:
 - Women's Movement
 - photographs
 - suffrage
+videos:
+- src: /files/media/video/Boisseau2a.mp4
+  thumb: /files/media/video/thumbs/Boisseau2a.jpg
+  title: 'Women Workers and Suffrage'
+- src: /files/media/video/Boisseau2b.mp4
+  thumb: /files/media/video/thumbs/Boisseau2b.jpg
+  title: 'Using the Press'
+- src: /files/media/video/Boisseau2c.mp4
+  thumb: /files/media/video/thumbs/Boisseau2c.jpg
+  title: 'A Change in Tone'
 ---
-
-/files/media/video/Boisseau2a.mp4
-
-video/mp4
-
-[![Women Workers and Suffrage](/files/media/video/thumbs/Boisseau2a.jpg)](/files/media/video/Boisseau2a.mp4) [![Using the Press](/files/media/video/thumbs/Boisseau2b.jpg)](/files/media/video/Boisseau2b.mp4) [![A Change in Tone ](/files/media/video/thumbs/Boisseau2c.jpg)](/files/media/video/Boisseau2c.mp4)

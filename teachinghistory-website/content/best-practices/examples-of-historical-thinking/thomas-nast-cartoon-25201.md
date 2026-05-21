@@ -26,10 +26,17 @@ tags:
 - editorial cartoons
 - money
 - political cartoons
+videos:
+- src: /files/media/video/Omalley1.mp4
+  thumb: /files/media/video/thumbs/Omalley1.jpg
+  title: 'How did you first get interested in this cartoon?'
+- src: /files/media/video/Omalley2.mp4
+  thumb: /files/media/video/thumbs/Omalley2.jpg
+  title: 'How do you begin to understand this cartoon?'
+- src: /files/media/video/Omalley3.mp4
+  thumb: /files/media/video/thumbs/Omalley3.jpg
+  title: 'What would you want a student to ask about this cartoon?'
+- src: /files/media/video/Omalley4.mp4
+  thumb: /files/media/video/thumbs/Omalley4.jpg
+  title: 'What do you need to know to make sense of this cartoon?'
 ---
-
-/files/media/video/Omalley1.mp4
-
-video/mp4
-
-[![How did you first get interested in this cartoon? ](/files/media/video/thumbs/Omalley1.jpg)](/files/media/video/Omalley1.mp4) [![How do you begin to understand this cartoon?](/files/media/video/thumbs/Omalley2.jpg)](/files/media/video/Omalley2.mp4) [![What would you want a student to ask about this cartoon?](/files/media/video/thumbs/Omalley3.jpg)](/files/media/video/Omalley3.mp4) [![What do you need to know to make sense of this cartoon?](/files/media/video/thumbs/Omalley4.jpg)](/files/media/video/Omalley4.mp4)
