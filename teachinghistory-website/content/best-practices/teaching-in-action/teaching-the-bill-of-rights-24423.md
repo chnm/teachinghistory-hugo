@@ -40,3 +40,11 @@ videos:
   thumb: /files/media/video/thumbs/BillofRights3.jpg
   title: 'A New Way to Look at History'
 ---
+
+Daunted by teaching the Bill of Rights and its complex vocabulary to students? Middle-school teacher Christine Valenti explains how she introduces her students to the Amendments.
+
+## Transcript
+
+We spent two days looking at eight Supreme Court cases that I selected that really related to eight out of the 10 Amendments. And I tried to get court cases from the Supreme Court that include student issues, high-interest levels like lethal injection, and then also there was student drug testing for extracurricular activities. So I tried to choose Supreme Court cases that were not only current, but really would have been a high interest level to them.
+
+And then they answered, like, a debriefing after that. Like, what did you find the most interesting about these cases? Were you surprised that there are so many cases that involve students? And pretty much we wrapped it up from there. And, I know that—I feel like they're much more aware of their rights and also how these rights are just evolving in front of them, every day, with news events.

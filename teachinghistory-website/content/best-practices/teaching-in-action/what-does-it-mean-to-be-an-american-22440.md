@@ -50,3 +50,17 @@ videos:
   thumb: /files/media/video/thumbs/cruz_classroom4.jpg
   title: 'Teaching Strategies'
 ---
+
+Jessica Cruz and her 8th-grade students explore immigration and what it means to be an American through photographs and other primary sources.
+
+## Transcript
+
+**Jessica Cruz:** I was definitely trying to get them to go further with their questioning and even with their just analysis of the document with themselves.
+
+*Jessica Cruz, in classroom:* I'm having an issue with this sheet, she said. She goes, I don't think that any of them are going to view themselves as American, because all immigrants have a struggle. You're saying that these were immigrants who have assimilated and are now successful and doing well for themselves.
+
+*Student, in classroom:* I view Americans as, they're not themselves, they just have other cultures mixing up. Like, American's not original culture, it's just a bunch of other cultures mixed up into one.
+
+*Student, in classroom:* So like you can still, remember your nationality but you can still be yourself at the same time. So like, like Ms. Cruz, you assimilated with all these other cultures but you're still, like, Puerto Rican and you're American at the same time.
+
+**Jessica Cruz:** My philosophy in teaching is always to ask questions that don't have a yes or no answer and pretty much to just have them start thinking. And to become young historians in the sense that they would go and try to find information. So I didn't want, I want them to look at the idea of immigration and primarily the question what does it mean to be an American? Because it is a question I think people still today are battling with. The idea of what is an American? Or, who is an American? Is a very hard question to answer and, that in reality there is no true answer.

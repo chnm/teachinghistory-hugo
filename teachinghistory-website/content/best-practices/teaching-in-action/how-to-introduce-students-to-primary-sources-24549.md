@@ -41,3 +41,15 @@ videos:
   thumb: /files/media/video/thumbs/Marti4.jpg
   title: 'Scaffolding and Reflection'
 ---
+
+Fourth-grade teacher Marti MacKenzie, of Frederick Douglass Elementary School, Winchester, VA, introduces her students to primary sources. Together, she and her students analyze John White's drawings of the Powhatan and compare and contrast them to engravings made based on the drawings.
+
+## Transcript
+
+**Marti MacKenzie:** I had my certification in gifted and talented; and if I were doing this for totally a gifted group, I would leave a lot more for them to discover, and then also go into some of the actual descriptions that came with the primary sources. I know I would adapt that. 
+
+Now, I have a lot of struggling non-readers and non-writers, and we may just be drawing parts of the drawing. Let’s pick out the part of the drawing where you think you understand why the Indians have their bows drawn, and they would then maybe draw the deer. 
+
+I wish my role could have been less in this, and it probably would be the second or third time they had had a chance to analyze a primary source like this, but I thought I had to do a lot of leading, not just facilitating, but, you know, especially walking through the first one together, maybe adding more than I would like to, but realizing that they weren’t always coming up with information that would help them go down to the second, third, and fourth drawings, and make their own analysis. 
+
+There are other pictures available. I tried to select a variety—some that wouldn’t make 4th-graders giggle too much, if you know what I mean, and I may go with a different selection now that I saw how those four played. They’re so many places, the archives out there, and just National Archives and LoC. You know, you can find something. Then you just have to see is this worth it for getting the essential knowledge across to my kids.
