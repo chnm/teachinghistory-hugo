@@ -49,7 +49,7 @@ Start with our [*Website Reviews*](/history-content/website-reviews) . Candidate
 
 We have lots of resources for helping candidates think through and structure classwork with materials common to the history classroom, such as textbooks, primary sources, and video. Visit the [*Using Primary Sources feature*](/best-practices/using-primary-sources) to find relevant models and worksheets. Make sure to check out these entries on finding primary sources that list stellar websites that have compiled collections of primary sources with teachers in mind. [*Teaching with Textbooks*](/best-practices/teaching-with-textbooks) includes methods for introducing the textbook as a historical account in need of questioning and as a reference book. [*Beyond the Textbook*](/history-content/beyond-the-textbook)  takes topics common to the U.S. history curriculum and explains the flaws and holes in standard textbook narratives while providing sources that a teacher could use to counteract such inaccuracies and silences.
 
-And allow me to plug *Teaching Guides* once again as they focus on using particular instructional strategies in the history classroom and provide not only examples of the strategies, but also steps for using them with additional historical topics. (See [here](/teaching-materials/teaching-guides/24299) for one about teaching with historic footage.)
+And allow me to plug *Teaching Guides* once again as they focus on using particular instructional strategies in the history classroom and provide not only examples of the strategies, but also steps for using them with additional historical topics. (See here for one about teaching with historic footage.)
 
 ## Going Beyond This Guide
 
@@ -72,7 +72,7 @@ Finally, given that we have more than 10,000 pieces of content, here are my curr
 * *Teaching in Action*—[Using Maps as Primary Sources](/best-practices/teaching-in-action/15772)
 * *Teaching Guide*—[Teaching with Timelines](/teaching-materials/teaching-guides/24347)
 * *Teaching Guide*—[Concept Formation](/teaching-materials/teaching-guides/25184)
-* *Using Primary Sources*—[See-Think-Wonder: A Method for Analyzing Sources](/best-practices/using-primary-sources/25434)
+* *Using Primary Sources*—See-Think-Wonder: A Method for Analyzing Sources
 * *Lesson Plan Review*—[My History at School](/teaching-materials/lesson-plan-reviews/24075)
 * *Ask a Digital Historian*—[Historic Images are Everywhere](/digital-classroom/ask-a-digital-historian/23885)
 * *Beyond the Chalkboard*—[VoiceThread in a First-Grade Classroom](/digital-classroom/beyond-the-chalkboard/24589)

@@ -63,7 +63,7 @@ Let’s start with the big question: What do students learn when watching histor
 
 Here are a few resources found on Teachinghistory.org related to the Lincoln assassination:
 
-* For a gripping retelling of the Lincoln assassination, listen to this NPR [podcast](/history-content/history-in-multimedia/21735) at Fords’ Theatre with James Swanson, *NY Times* best-selling author of *Manhunt*.
+* For a gripping retelling of the Lincoln assassination, listen to this NPR podcast at Fords’ Theatre with James Swanson, *NY Times* best-selling author of *Manhunt*.
 * Find answers to the question of why John Wilkes Booth wanted to assassinate the president in this [Ask a Historian](/history-content/ask-a-historian/24242) Q&A.
 * In another [Ask a Historian](/history-content/ask-a-historian/19423), explore the question of whether President Lincoln had premonitions of his own death.
 * For information about Mary Surratt, visit the Surratt House Museum.

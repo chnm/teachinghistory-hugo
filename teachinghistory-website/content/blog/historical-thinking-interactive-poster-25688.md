@@ -28,7 +28,7 @@ tags:
 
 So how do we top the popularity of our historical thinking poster? We make a good thing even better! Check out *Teachinghistory.org’s* interactive version of the historical thinking poster for the 2012–2013 school year!
 
-Just like the original poster, we created a version specifically for [elementary](/historical-thinking-poster-1) classrooms and another for [secondary](/historical-thinking-poster-2) grade use.
+Just like the original poster, we created a version specifically for elementary classrooms and another for secondary grade use.
 
 ## What will you find?
 

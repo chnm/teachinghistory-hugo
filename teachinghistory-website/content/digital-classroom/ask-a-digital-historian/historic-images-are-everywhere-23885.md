@@ -39,4 +39,4 @@ Once you've entered your search terms, remember that thumbnails comprise the Gal
 
 ---
 
-Check out other resources on [teachinghistory.org](/); particularly, see [Website Reviews](/history-content/website-reviews), [National Resources](/history-content/national-resource-centers), and [Teaching Materials](/teaching-materials).
+Check out other resources on [teachinghistory.org](/); particularly, see [Website Reviews](/history-content/website-reviews), National Resources, and [Teaching Materials](/teaching-materials).

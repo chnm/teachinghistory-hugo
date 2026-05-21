@@ -87,7 +87,7 @@ Good Luck!
 
 * Historian William Cronon’s helpful [site](http://www.williamcronon.net/researching/index.htm). Especially helpful for choosing a topic is the section titled [“asking good questions.”](http://www.williamcronon.net/researching/questions.htm)
 * National History Day’s [Eight Steps of Historical Research](http://www.nationalhistoryday.org/EightSteps.htm). Steps 2, 3, and 4 are most relevant to your question.
-* Local resources including school and local librarians, professors, teachers, museums, and historical societies. Use the search function at our  [page to find local museums and historical sites (scroll down and look in the right column).](/history-content>)
+* Local resources including school and local librarians, professors, teachers, museums, and historical societies. Use the search function at our  page to find local museums and historical sites (scroll down and look in the right column).
 
 Places you may want to browse to do some background reading and look for topics specific to spies include:
 

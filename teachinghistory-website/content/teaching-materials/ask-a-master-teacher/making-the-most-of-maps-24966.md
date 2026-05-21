@@ -53,7 +53,7 @@ The Library of Congress has a [large collection of maps](http://memory.loc.gov/a
 
 High school students with weaker geography backgrounds may require a review of terms and fundamental spatial concepts. But it is even more important for this age group for you to teach dynamic geographic analysis skills. See this [Teaching Guide](/teaching-materials/teaching-guides/24070) that includes an easy-to-use 12-step [handout](/system/files/handout_1-_maps_in_12_steps.pdf) to guide questioning about a map. It not only lists what to look for in a map, but also engages students in asking their own questions about what is represented (and what is not) and how that influences our understanding of the map. As with other print media, students must learn to ask why was this document made, for whom, and in what context.
 
-Finally, I am excited by the new uses for older maps that are afforded by the new Geographical Information Systems (GIS) technologies. An example of a high school lesson plan using interactive mapping features can be found [here](/teaching-materials/lesson-plan-reviews/22531). This is just [one of several history lesson plans](http://www.gisforhistory.org/projects/index.php?user=teacher) based on GIS technology that are becoming available.
+Finally, I am excited by the new uses for older maps that are afforded by the new Geographical Information Systems (GIS) technologies. An example of a high school lesson plan using interactive mapping features can be found here. This is just [one of several history lesson plans](http://www.gisforhistory.org/projects/index.php?user=teacher) based on GIS technology that are becoming available.
 
 ## Creativity is Key
 

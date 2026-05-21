@@ -20,7 +20,7 @@ Are you looking for a hook to teach about life in post-war America or strategies
 
 ## History Content
 
-Instead of searching the endless sea of online resources, simply click on History Content, and then [Website Reviews](/history-content/website-reviews). Imagine you're teaching about women's lives in the first half of the 20th century. Here's a [website](/history-content/website-reviews/14675) with more than 7,000 ads—from beauty culture to World War II campaigns. These show gendered ideals, as well as the changing roles of women in the workplace and the marketplace. Looking for multimedia to use in tomorrow’s class or a way to learn more about a complicated topic? Search [History in Multimedia](/history-content/history-in-multimedia) to find everything from a short history of the Triangle Shirtwaist Fire to an electronic field trip on the history of music to a lecture on the origins of the Vietnam War.
+Instead of searching the endless sea of online resources, simply click on History Content, and then [Website Reviews](/history-content/website-reviews). Imagine you're teaching about women's lives in the first half of the 20th century. Here's a [website](/history-content/website-reviews/14675) with more than 7,000 ads—from beauty culture to World War II campaigns. These show gendered ideals, as well as the changing roles of women in the workplace and the marketplace. Looking for multimedia to use in tomorrow’s class or a way to learn more about a complicated topic? Search History in Multimedia to find everything from a short history of the Triangle Shirtwaist Fire to an electronic field trip on the history of music to a lecture on the origins of the Vietnam War.
 
 ## Teaching Materials and Best Practices
 

@@ -39,7 +39,7 @@ All in all, unfamiliar GOs or ones that are visually busy and complicated can be
 
 [Teaching Strategies for Museums: Graphic Organizers](/best-practices/teaching-in-action/24216)
 
-See example [here](/teaching-materials/teaching-guides/24313) (look in the “Download” box) that demonstrates how you can use graphic organizers to help students analyze and compare historical sources.
+See example here (look in the “Download” box) that demonstrates how you can use graphic organizers to help students analyze and compare historical sources.
 
 The blog entry "[Teaching with Timelines]( /nhec-blog/24425)," by high-school teacher Joe Jelen, looks at timeline tools.
 

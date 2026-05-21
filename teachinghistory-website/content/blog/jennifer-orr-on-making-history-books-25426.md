@@ -22,7 +22,7 @@ tags:
 - picture books
 ---
 
-In the primary grades the focus on reading and writing is quite strong. Teaching other things often seems like an afterthought. As a 1st-grade teacher I’ve often addressed this by [integrating other areas](/nhec-blog/2465) into our literacy time.
+In the primary grades the focus on reading and writing is quite strong. Teaching other things often seems like an afterthought. As a 1st-grade teacher I’ve often addressed this by integrating other areas into our literacy time.
 
 Writing books with first graders is something I greatly enjoy. It also happens to be an easy way to integrate history. We have written books about famous people, George Washington, Benjamin Franklin, or George Washington Carver; about the past in general (first graders work to understand the difference between the past and the present); and about the history of certain items (the Statue of Liberty, the Washington Monument) or holidays (the Fourth of July or Presidents’ Day).
 > Preparing to write a book requires that we take time to reflect on what we have learned and organize the information.

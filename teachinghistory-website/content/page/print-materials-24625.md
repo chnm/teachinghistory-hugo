@@ -21,11 +21,11 @@ Get students thinking like historians to learn about the Civil War.
 
 Get students excited about historical thinking!  
 
-[View the elementary interactive version »](/teachinghistory-d8/historical-thinking-poster-1)  
+View the elementary interactive version »  
 
-[View the secondary interactive version »](/teachinghistory-d8/historical-thinking-poster-2)  
+View the secondary interactive version »  
 
-[Download (PDF 5.6MB) »](/teachinghistory-d8/sites/default/files/ht-poster.pdf)
+Download (PDF 5.6MB) »
 
 ## Lesson Plan Rubric
 
@@ -33,7 +33,7 @@ Get students excited about historical thinking!
 
 Use teachinghistory.org’s free Lesson Plan Rubric to evaluate lesson plans that you find online.  
 
-[Download (PDF 115KB) »](/teachinghistory-d8/sites/default/files/rubric.pdf)
+Download (PDF 115KB) »
 
 ## Promotional Flyer
 
@@ -41,4 +41,4 @@ Use teachinghistory.org’s free Lesson Plan Rubric to evaluate lesson plans tha
 
 Share this flyer to introduce others to Teachinghistory.org.  
 
-[Download (PDF 1.4MB) »](/teachinghistory-d8/sites/default/files/NHE_Flyer_P09.pdf)
+Download (PDF 1.4MB) »
