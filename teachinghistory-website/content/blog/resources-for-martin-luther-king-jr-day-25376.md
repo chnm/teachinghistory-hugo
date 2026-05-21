@@ -26,7 +26,7 @@ This year, Martin Luther King Jr. Day falls on January 16. Created and first obs
 
 [![](/files/splash-blog-mlkjd12.jpg)](/spotlight/mlk-day)
 
-No matter how you approach the day, our [Martin Luther King Jr. Day spotlight page](/spotlight/mlk-day) can help. Browse the page to find teaching strategies, quizzes, website reviews, online lectures, and more on Martin Luther King Jr., the Civil Rights Movement, and active citizenship.
+No matter how you approach the day, our Martin Luther King Jr. Day spotlight page can help. Browse the page to find teaching strategies, quizzes, website reviews, online lectures, and more on Martin Luther King Jr., the Civil Rights Movement, and active citizenship.
 
 Explore materials on other websites as well:
 

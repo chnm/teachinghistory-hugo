@@ -35,7 +35,7 @@ For rich and relevant primary resources, the Library of Congress (LoC) has sever
 
 Go to [The Bringing History Home](http://www.bringinghistoryhome.org/) website for comprehensive examples of unit plans that support an inquiry approach for grades K-5. This site has several fully developed units with lesson plans and assessments where students are encouraged and supported to engage in rigorous history explorations.
 
-As for textbooks, *A History of US*, a series of history textbooks written by Joy Hakim, is considered by many to be an engaging narrative that pushes students to think critically about the past. Teachers may also wish to use a textbook from the major publishers. When selecting any textbook, teachers may want to consider the points raised by researchers about [how textbooks present information](/issues-and-research/research-briefs/22019).
+As for textbooks, *A History of US*, a series of history textbooks written by Joy Hakim, is considered by many to be an engaging narrative that pushes students to think critically about the past. Teachers may also wish to use a textbook from the major publishers. When selecting any textbook, teachers may want to consider the points raised by researchers about how textbooks present information.
 
 There are several online and print resources available to teachers to help them develop an inquiry approach to teaching history. We highlighted a few, but also recommend that you search [our history content page](/history-content) where you can search for a variety of history resources based on topic.
 
@@ -56,7 +56,7 @@ For rich and relevant primary resources, the Library of Congress (LoC) has sever
 
 Go to [The Bringing History Home](http://www.bringinghistoryhome.org/) website for comprehensive examples of unit plans that support an inquiry approach for grades K-5. This site has several fully developed units with lesson plans and assessments where students are encouraged and supported to engage in rigorous history explorations.
 
-As for textbooks, *A History of US*, a series of history textbooks written by Joy Hakim, is considered by many to be an engaging narrative that pushes students to think critically about the past. Teachers may also wish to use a textbook from the major publishers. When selecting any textbook, teachers may want to consider the points raised by researchers about [how textbooks present information](/issues-and-research/research-briefs/22019).
+As for textbooks, *A History of US*, a series of history textbooks written by Joy Hakim, is considered by many to be an engaging narrative that pushes students to think critically about the past. Teachers may also wish to use a textbook from the major publishers. When selecting any textbook, teachers may want to consider the points raised by researchers about how textbooks present information.
 
 There are several online and print resources available to teachers to help them develop an inquiry approach to teaching history. We highlighted a few, but also recommend that you search [our history content page](/history-content) where you can search for a variety of history resources based on topic.
 

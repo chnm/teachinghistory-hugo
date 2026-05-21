@@ -33,13 +33,13 @@ tags:
 
 Learning history through a local lens can be an engaging and powerful way to study the past. It sounds like your town (in Indiana, I presume?) has a rich history to mine with elementary students. For curricular resources, first try local museums, libraries, and historic sites. Their local collections often have interesting and evocative primary sources and orienting secondary material that can be curricular building blocks.
 
-Some of these local institutions even provide lessons, resources, and field trips designed especially for the K-5 classroom. See this site's [Museum and Historic Sites search](/history-content/historical-places) for locating institutions near your community.
+Some of these local institutions even provide lessons, resources, and field trips designed especially for the K-5 classroom. See this site's Museum and Historic Sites search for locating institutions near your community.
 
 But even without specific curriculum, repositories of historic photographs, documents, maps, and other sources can get you well on your way to creating classroom plans.
 
 Here are some tips for creating local history curricula for the elementary classroom:
 
-Remember your state's standards—these can help you identify important topics, themes, and concepts at each of the grade levels. ([Click here](/teaching-materials/state-standards) to search state standards.)
+Remember your state's standards—these can help you identify important topics, themes, and concepts at each of the grade levels. (Click here to search state standards.)
 
 Timelines and maps are invaluable tools for helping students of all ages study history. From using a timeline to understand photographs that show a changing town landscape to using maps to understand settlement patterns, these tools help young students locate primary sources in concrete ways and read and analyze these sources. Connections between local and regional or national events can also be more transparent for students when timelines and maps are compared. For instance, compare a timeline of national events with a timeline of local events to help students see these connections.
 
@@ -57,13 +57,13 @@ Please come back and tell us about your successes and challenges—this is a top
 
 Learning history through a local lens can be an engaging and powerful way to study the past. It sounds like your town (in Indiana, I presume?) has a rich history to mine with elementary students. For curricular resources, first try local museums, libraries, and historic sites. Their local collections often have interesting and evocative primary sources and orienting secondary material that can be curricular building blocks.
 
-Some of these local institutions even provide lessons, resources, and field trips designed especially for the K-5 classroom. See this site's [Museum and Historic Sites search](/history-content/historical-places) for locating institutions near your community.
+Some of these local institutions even provide lessons, resources, and field trips designed especially for the K-5 classroom. See this site's Museum and Historic Sites search for locating institutions near your community.
 
 But even without specific curriculum, repositories of historic photographs, documents, maps, and other sources can get you well on your way to creating classroom plans.
 
 Here are some tips for creating local history curricula for the elementary classroom:
 
-Remember your state's standards—these can help you identify important topics, themes, and concepts at each of the grade levels. ([Click here](/teaching-materials/state-standards) to search state standards.)
+Remember your state's standards—these can help you identify important topics, themes, and concepts at each of the grade levels. (Click here to search state standards.)
 
 Timelines and maps are invaluable tools for helping students of all ages study history. From using a timeline to understand photographs that show a changing town landscape to using maps to understand settlement patterns, these tools help young students locate primary sources in concrete ways and read and analyze these sources. Connections between local and regional or national events can also be more transparent for students when timelines and maps are compared. For instance, compare a timeline of national events with a timeline of local events to help students see these connections.
 

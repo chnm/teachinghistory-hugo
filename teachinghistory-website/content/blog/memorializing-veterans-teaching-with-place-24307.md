@@ -39,7 +39,7 @@ How about teaching with monuments and memorials?
 ## National Memorials
 
 ![](/files/image-blog-vd20101.jpg)
-Everyone knows the [Vietnam Veterans National Memorial](/history-content/historical-places/11255), with its simple, iconic design, preserving the names of servicemen killed or missing in action. But what about the additions to the memorial? What prompted the creation of the two figural statues, *The Three Servicemen* and the Vietnam Women's Memorial? If you are far from Washington, D.C., your students can examine photographs (try [Flickr Creative Commons](http://www.flickr.com/creativecommons/) for copyright-free images of many major memorials), read about the history of memorials, and draw their own conclusions.
+Everyone knows the Vietnam Veterans National Memorial, with its simple, iconic design, preserving the names of servicemen killed or missing in action. But what about the additions to the memorial? What prompted the creation of the two figural statues, *The Three Servicemen* and the Vietnam Women's Memorial? If you are far from Washington, D.C., your students can examine photographs (try [Flickr Creative Commons](http://www.flickr.com/creativecommons/) for copyright-free images of many major memorials), read about the history of memorials, and draw their own conclusions.
 
 What needs do the different pieces of the memorial fill? What do they say about Vietnam and its veterans? Who designed them? Who chose these designers? Where did the money to build them come from? When were they unveiled? What controversies have surrounded their design? Are there any special observances at these memorials on Veterans Day?
 
@@ -54,4 +54,4 @@ High-school teacher James A. Percoco shares his own experience engaging students
 
 If you can't arrange a field trip to a memorial, but would still like to have students visit and analyze one, try designing an individual field trip (IFT) for students. James A. Percoco [tells you how](/teaching-materials/teaching-guides/23480).
 
-Still at a loss for resources? Search our [Website Reviews](/history-content/website-reviews?keys=&tid=All) for online exhibits and archives full of primary sources, or our Museums & Historic Sites [database](/history-content/historical-places?keys=&province=) for sites in your area.
+Still at a loss for resources? Search our Website Reviews for online exhibits and archives full of primary sources, or our Museums & Historic Sites database for sites in your area.

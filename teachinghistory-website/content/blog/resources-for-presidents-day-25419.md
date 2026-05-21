@@ -25,7 +25,7 @@ How do you think of this holiday? What does it mean to your students?
 
 [![](/files/spotlight-image-pd12.jpg)](/spotlight/presidents-day)
 
-Regardless of which presidents you associate with the holiday or how you teach the presidency, you'll find resources to support you on our [Presidents Day spotlight](/spotlight/presidents-day) page. From lesson plan reviews to quizzes to teaching strategies, you'll find materials here to spark new ideas and deepen units and lessons you already teach.
+Regardless of which presidents you associate with the holiday or how you teach the presidency, you'll find resources to support you on our Presidents Day spotlight page. From lesson plan reviews to quizzes to teaching strategies, you'll find materials here to spark new ideas and deepen units and lessons you already teach.
 
 There are plenty of resources available outside of Teachinghistory.org, too. Where else can you explore? Here are some ideas:
 

@@ -56,7 +56,7 @@ A short *introductory activity* where you focus on the difficulties of making se
 
 **More Resources**
 
-In our [lesson plan reviews](/teaching-materials/lesson-plan-reviews), find plans that can inspire ways to work with text that is difficult for students. See [this one](/teaching-materials/lesson-plan-reviews/24213) on the Preamble to the U.S. Constitution or [this one](/teaching-materials/lesson-plan-reviews/19572) on the Declaration of Independence. Both of these are for younger students, but both show the necessities of slowing down to read the documents and focusing on short pieces of text.
+In our [lesson plan reviews](/teaching-materials/lesson-plan-reviews), find plans that can inspire ways to work with text that is difficult for students. See this one on the Preamble to the U.S. Constitution or [this one](/teaching-materials/lesson-plan-reviews/19572) on the Declaration of Independence. Both of these are for younger students, but both show the necessities of slowing down to read the documents and focusing on short pieces of text.
 
 You may want to also check out [this response](/teaching-materials/ask-a-master-teacher/19448) that reiterates some of what I've said here.
 
@@ -87,7 +87,7 @@ A short *introductory activity* where you focus on the difficulties of making se
 
 **More Resources**
 
-In our [lesson plan reviews](/teaching-materials/lesson-plan-reviews), find plans that can inspire ways to work with text that is difficult for students. See [this one](/teaching-materials/lesson-plan-reviews/24213) on the Preamble to the U.S. Constitution or [this one](/teaching-materials/lesson-plan-reviews/19572) on the Declaration of Independence. Both of these are for younger students, but both show the necessities of slowing down to read the documents and focusing on short pieces of text.
+In our [lesson plan reviews](/teaching-materials/lesson-plan-reviews), find plans that can inspire ways to work with text that is difficult for students. See this one on the Preamble to the U.S. Constitution or [this one](/teaching-materials/lesson-plan-reviews/19572) on the Declaration of Independence. Both of these are for younger students, but both show the necessities of slowing down to read the documents and focusing on short pieces of text.
 
 You may want to also check out [this response](/teaching-materials/ask-a-master-teacher/19448) that reiterates some of what I've said here.
 

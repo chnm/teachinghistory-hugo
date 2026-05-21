@@ -27,7 +27,7 @@ Every May, the U.S. observes Asian Pacific American Heritage Month. Americans wh
 
 [![](/files/splash-sp-apahm1.jpg)](/spotlight/asian-pacific-american)
 
-We've gathered together website reviews, lesson plans, quizzes, teaching strategies, primary sources, and more on our Asian Pacific American Heritage Month [spotlight page](/spotlight/asian-pacific-american). Available year-round and constantly expanding, this page, like our [other spotlight pages](/spotlight), is a valuable resource you can turn to for materials and inspiration.
+We've gathered together website reviews, lesson plans, quizzes, teaching strategies, primary sources, and more on our Asian Pacific American Heritage Month spotlight page. Available year-round and constantly expanding, this page, like our other spotlight pages, is a valuable resource you can turn to for materials and inspiration.
 
 Here are some suggestions for other ways to inspire your teaching:
 

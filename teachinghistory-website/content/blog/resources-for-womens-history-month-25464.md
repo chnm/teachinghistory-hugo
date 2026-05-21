@@ -21,7 +21,7 @@ With Teachinghistory.org's women's history resources and the rich resources avai
 
 [![](/files/splash-sp-whm.jpg)](/spotlight/womens-history)
 
-Start your search for resources on our Women's History Month [spotlight page](/spotlight/womens-history), where you'll find website reviews, lesson plans, quizzes, videos, and other materials that encourage historical thinking.
+Start your search for resources on our Women's History Month spotlight page, where you'll find website reviews, lesson plans, quizzes, videos, and other materials that encourage historical thinking.
 
 Need even more resources? Try these suggestions for exploring Women's History Month materials beyond Teachinghistory.org:
 

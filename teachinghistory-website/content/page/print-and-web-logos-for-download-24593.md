@@ -16,7 +16,7 @@ In addition, we have created two “badges” for your use on your website: The 
 
 [Download the teachinghistory.org badge »   ![](/files/th-logo-badge.png)](/files/th-logo-badge.png)
 
-[Download a zip archive of the teachinghistory badge and logos »](/sites/default/files/TeachingHistory-logos-badge.zip)
+[Download a zip archive of the teachinghistory badge and logos »](/files/TeachingHistory-logos-badge.zip)
 
 #### Guidelines
 
@@ -30,7 +30,7 @@ Please do not distort or recolor the logo, or apply textures or other filters to
 
 DOWNLOAD (Click on link, then choose "save page as")  
 
-[Teaching History Logo + Wordmark png (100kb)](/sites/default/files/th-logo-full.png)
+[Teaching History Logo + Wordmark png (100kb)](/files/th-logo-full.png)
 
 ### Print
 
@@ -38,7 +38,7 @@ DOWNLOAD (Click on link, then choose "save page as")
 
 DOWNLOAD (Click on link to get download options)  
 
-[Teaching History Logo + Wordmark cmyk eps (320kb)](/sites/default/files/th-logo-full-cmyk.eps)
+[Teaching History Logo + Wordmark cmyk eps (320kb)](/files/th-logo-full-cmyk.eps)
 
 ### Print
 
@@ -46,7 +46,7 @@ DOWNLOAD (Click on link to get download options)
 
 DOWNLOAD (Click on link to get download options)  
 
-[Teaching History Logo + Wordmark grayscale eps (316kb)](/sites/default/files/th-logo-full-gray.eps)
+[Teaching History Logo + Wordmark grayscale eps (316kb)](/files/th-logo-full-gray.eps)
 
 ### Web
 
@@ -54,7 +54,7 @@ DOWNLOAD (Click on link to get download options)
 
 DOWNLOAD (Click on link, then choose "save page as")  
 
-[Teaching History Wordmark png (80kb)](/sites/default/files/th-logo-wordmark-only.png)
+[Teaching History Wordmark png (80kb)](/files/th-logo-wordmark-only.png)
 
 ### Print
 
@@ -62,7 +62,7 @@ DOWNLOAD (Click on link, then choose "save page as")
 
 DOWNLOAD (Click on link to get download options)  
 
-[Teaching History Wordmark cmyk eps (335kb)](/sites/default/files/th-logo-wordmark-only-cmyk.eps)
+[Teaching History Wordmark cmyk eps (335kb)](/files/th-logo-wordmark-only-cmyk.eps)
 
 ### Print
 
@@ -70,4 +70,4 @@ DOWNLOAD (Click on link to get download options)
 
 DOWNLOAD (Click on link to get download options)  
 
-[Teaching History Wordmark grayscale eps (314kb)](/sites/default/files/th-logo-wordmark-only-gray.eps)
+[Teaching History Wordmark grayscale eps (314kb)](/files/th-logo-wordmark-only-gray.eps)

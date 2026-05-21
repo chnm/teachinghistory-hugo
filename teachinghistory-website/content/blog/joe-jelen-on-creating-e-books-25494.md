@@ -27,7 +27,7 @@ tags:
 
 Not too long ago e-book readers burst onto the scene. These readers allowed users to carry hundreds of books in one hand. Today, e-book readers are quickly succumbing to the power of iPads and tablet computers. The education world did not adopt e-book readers, but has quickly embraced tablets. Both allow students to read text, but the difference has been students' ability to interact with text on the tablet.
 
-Digital text is here to stay and compelling arguments have been made for digital textbooks that extend beyond a simple PDF version of the physical textbook (see Teachinghistory.org's [Digital Textbooks Roundtable Discussion](/issues-and-research/roundtable/25087)). As publishing companies have long had a monopoly on creating content for our classrooms, I will discuss a new push to democratize text authorship that hopes to put the power to create in the hands of teachers.
+Digital text is here to stay and compelling arguments have been made for digital textbooks that extend beyond a simple PDF version of the physical textbook (see Teachinghistory.org's Digital Textbooks Roundtable Discussion). As publishing companies have long had a monopoly on creating content for our classrooms, I will discuss a new push to democratize text authorship that hopes to put the power to create in the hands of teachers.
 
 ## What Are E-books?
 

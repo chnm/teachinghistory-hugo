@@ -57,10 +57,10 @@ Ideally, students would receive three or more parties’ perspectives for each j
 1. Review the historical context of the event. For the conditions prevalent at the time of the Cherokee Removal, these include prevailing attitudes about non-whites among the white population; population pressures in the East and farmers’ and ranchers’ desires to expand their holdings; pressures on Indians to assimilate into white culture by converting to Christianity, building and attending schools, etc.; the institutionalized “theft” of Indian lands; and treaties formed between the Indian Nations and Great Britain and, after independence, with the American and Georgia State governments. Background reading for students can come from their class textbook or from Bradley University’s [Trail of Tears website](http://www.bradley.edu/academic/departments/english/).
 2. Explain to students that the Cherokee were forcibly removed from their land in 1838 and that how the situation got to that point is the day’s lesson.
 3. Group students by constituency groups:
-   > * Members of the [US government on all sides of the issue,](/sites/default/files/Handout_2_US_Government.pdf)
-   > * [Members of the](/system/files/Handout_2_US_Government.pdf) [Cherokee nation](/sites/default/files/Handout_1_Cherokee.pdf) on all sides of the issue,
-   > * The State of [Georgia](/sites/default/files/Handout_3_State_of_Georgia.pdf), and
-   > * Members of the [press](/sites/default/files/Handout_4_The_Press.pdf).
+   > * Members of the [US government on all sides of the issue,](/files/Handout_2_US_Government.pdf)
+   > * [Members of the](/system/files/Handout_2_US_Government.pdf) [Cherokee nation](/files/Handout_1_Cherokee.pdf) on all sides of the issue,
+   > * The State of [Georgia](/files/Handout_3_State_of_Georgia.pdf), and
+   > * Members of the [press](/files/Handout_4_The_Press.pdf).
    > * Be sure that students understand the nuances of the Cherokee Indians’ positions. For example, while there seems to have been unanimous opposition to the removal in the early years, some of the tribe’s leaders later changed their positions to favor removal but only as a means of ensuring the tribe’s safety.
 4. Hand students the documents that pertain to the first critical juncture and have them read them aloud, group by group. Once these are read aloud, Stop Action and have students Assess the Alternatives open to the constituent parties. Keep the students historically honest; ensure that the alternatives they come up with for each party would fit with that party’s positions thus far and with what they know about each party’s values and desires.
 

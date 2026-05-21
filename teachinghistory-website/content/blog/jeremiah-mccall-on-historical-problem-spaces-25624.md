@@ -26,7 +26,7 @@ tags:
 - video games
 ---
 
-*Years of working with simulation games have prompted me to re-examine and re-evaluate the content, methods, and skills of studying the past. Since last May, I have been slowly developing a new framework for using simulations games and simulation game thinking in the study of the past that I’d like to share in this last [installment](/nhec-blog?keys=jeremiah+mccall). This is still very much in the initial conceptual stages, but already proving successful in my own classes.*
+*Years of working with simulation games have prompted me to re-examine and re-evaluate the content, methods, and skills of studying the past. Since last May, I have been slowly developing a new framework for using simulations games and simulation game thinking in the study of the past that I’d like to share in this last [installment](/blog/). This is still very much in the initial conceptual stages, but already proving successful in my own classes.*
 
 Spending time with simulation games suggests that countless human situations past and present can be studied as **problem spaces**. In this context, the term “problem space” borrows elements from the field of problem solving and game theory. A problem space in the historical or current political, economic, social, etc. sense can be likened to a simulation game. There are **players** with **roles**, though we would more likely term these players ***agents*** or ***actors***. These players have **motives** and **goals**, though they may not always seek them or know them—the goals may not be rational or achievable. Player/agents have **choices** and **strategies**, though not all choices or strategies are always readily perceived, and those that observers outside the space identify may not have been choices at all at the time. Finally, the environment itself—the physical space, objects, and resources—offers **affordances** (aids to carrying out decisions and strategies) and **constraints** (limits to carrying out decisions and strategies). Additional affordances and constraints are posed by psychological and cultural factors.
 
@@ -34,7 +34,7 @@ That simulation games represent the world in these terms is self-evident, but it
 
 ---
 
-***[Energyville](/digital-classroom/tech-for-teachers/25173)***
+***Energyville***
 
 *Player/Agent & Roles:*
 

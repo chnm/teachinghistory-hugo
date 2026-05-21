@@ -33,6 +33,6 @@ An accomplished educator, Ms. Hoeflich has taught elementary school for 13 years
 
 On Teachinghistory.org you can watch videos of Stacy Hoeflich [teaching with maps](/best-practices/teaching-in-action/15772) and [teaching with political cartoons](/best-practices/teaching-in-action/23894).
 
-Teachinghistory.org also has materials from previous National History Teacher of the Year winners. Check out 2008 winner David Mitchell's piece for our roundtable on  [organizing a U.S. History Survey Course](/issues-and-research/roundtable-response/24663)  or use 2005 winner Roseanne Lichatin's [teaching guide](/teaching-materials/teaching-guides/24264) on students working in historic preservation.
+Teachinghistory.org also has materials from previous National History Teacher of the Year winners. Check out 2008 winner David Mitchell's piece for our roundtable on  organizing a U.S. History Survey Course  or use 2005 winner Roseanne Lichatin's [teaching guide](/teaching-materials/teaching-guides/24264) on students working in historic preservation.
 
-Teachinghistory.org is full of resources developed by other award-winning teachers, so be sure to check out our [blog](/nhec-blog), [teaching guides](/teaching-materials/teaching-guides), and [best practices videos](/best-practices/teaching-in-action) to learn what outstanding teachers from across the country are doing in their classrooms!
+Teachinghistory.org is full of resources developed by other award-winning teachers, so be sure to check out our [blog](/blog/), [teaching guides](/teaching-materials/teaching-guides), and [best practices videos](/best-practices/teaching-in-action) to learn what outstanding teachers from across the country are doing in their classrooms!

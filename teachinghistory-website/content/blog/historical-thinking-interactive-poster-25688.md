@@ -49,4 +49,4 @@ Here are a few ideas to get you started:
 
 ## Want more?
 
-Be sure to check out Teachinghistory.org’s interactive Civil War [poster](/civil-war) filled with teaching resources related to the primary sources depicted!
+Be sure to check out Teachinghistory.org’s interactive Civil War poster filled with teaching resources related to the primary sources depicted!

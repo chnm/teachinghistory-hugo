@@ -34,4 +34,4 @@ Search [Website Reviews](/history-content/website-reviews) for national parks an
 
 Among our Lesson Plan Reviews, you'll find a prototype [on the African American experience in the Civilian Conservation Corps](/teaching-materials/lesson-plan-reviews/21874), a complement to PBS materials on [The Untold Stories Project](http://www.pbs.org/nationalparks/about/untold-stories/) highlighting underserved and underrepresented communities in our nation's national park system.
 
-Then, visit [our listing of Museums and Historic Sites](/history-content/historical-places) to explore parks and their stories not included in the PBS series.
+Then, visit our listing of Museums and Historic Sites to explore parks and their stories not included in the PBS series.

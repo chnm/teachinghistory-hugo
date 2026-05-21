@@ -34,7 +34,7 @@ Often, textbooks skim over or omit the stories of young people in the past. How 
 * [*Children and Youth in History*](/history-content/website-reviews/24584) — puts childhood in a global context with teaching modules, case studies, and more
 * *[Little Cowpuncher: Rural School Newspaper of Southern Arizona](/history-content/website-reviews/23056)* — issues of a school newspaper written by K-8 southern Arizona students from 1932 to 1943
 
-(Choose topic "Children" and search our [*Website Reviews*](/history-content/website-reviews?keys=&tid=111&tid_1=All&tid_2=All) for more. Search "Children" in our general search to find resources like *Beyond the Textbook* [primary sources](/history-content/beyond-the-textbook/25749) on girls' lives in the Progressive era.)
+(Choose topic "Children" and search our *Website Reviews* for more. Search "Children" in our general search to find resources like *Beyond the Textbook* [primary sources](/history-content/beyond-the-textbook/25749) on girls' lives in the Progressive era.)
 
 Textbooks also omit local history. Where did children play, learn, and work in the past in your area? How might you and your students connect with that past? Teachinghistory.org's Daisy Martin [suggests](/teaching-materials/ask-a-master-teacher/25208) trying local museums, historic sites, and libraries. High school teacher Roseanne Lichatin has had good luck [connecting students](/teaching-materials/teaching-guides/24264) with volunteer opportunities at local history museums.
 

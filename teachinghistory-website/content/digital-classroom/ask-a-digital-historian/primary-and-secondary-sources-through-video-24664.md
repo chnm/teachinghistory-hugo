@@ -33,9 +33,9 @@ Historians and educators working through the University of Wisconsin, Whitewater
 
 ## Print Resources
 
-If you are looking for visuals or print materials, why not start by downloading Teachinghistory.org's free [historical thinking poster](/outreach/print-materials)?
+If you are looking for visuals or print materials, why not start by downloading Teachinghistory.org's free historical thinking poster?
 
-![](/sites/all/themes/carlisle/images/ht_poster.jpg)
+!
 
 Click image to enlarge
 
@@ -59,9 +59,9 @@ Historians and educators working through the University of Wisconsin, Whitewater
 
 ## Print Resources
 
-If you are looking for visuals or print materials, why not start by downloading Teachinghistory.org's free [historical thinking poster](/outreach/print-materials)?
+If you are looking for visuals or print materials, why not start by downloading Teachinghistory.org's free historical thinking poster?
 
-![](/sites/all/themes/carlisle/images/ht_poster.jpg)
+!
 
 Click image to enlarge
 

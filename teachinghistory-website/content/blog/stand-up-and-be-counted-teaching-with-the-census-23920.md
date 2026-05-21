@@ -58,7 +58,7 @@ A simple search on at teachinghistory.org using the term *census* yields numerou
 
 [Featured Website Reviews](/history-content/website-reviews) include [Selected Historical Decennial Census Population and Housing Counts](/history-content/website-reviews/23240) a resource for more than 40 historical census reports, including PDFs of decennial reports dating back to 1790 and extensive histories of census questionnaires.
 
-A September 2009 [blog](/nhec-blog) post on [Hispanic Heritage Month](/nhec-blog/22561) links to census information on the Hispanic American population in the United States.
+A September 2009 [blog](/blog/) post on [Hispanic Heritage Month](/nhec-blog/22561) links to census information on the Hispanic American population in the United States.
 
 Among [Tech for Teachers](/digital-classroom/tech-for-teachers) listings, [Social Explorer](/digital-classroom/tech-for-teachers/14588) describes interactive tools for accessing and utilizing census data.
 

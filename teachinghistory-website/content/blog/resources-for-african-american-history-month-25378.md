@@ -23,7 +23,7 @@ In 1925, historian Carter G. Woodson established Negro History Week. Growing in 
 
 [![](/files/extra-sp-aahm.jpg)](/spotlight/african-american-history)
 
-Looking for resources on African American history? Our African American History Month [spotlight page](/spotlight/african-american-history) brings together website links and reviews, examples of historical thinking, lesson plans, teaching strategies, quizzes, and more. Browse the spotlight to find materials for teaching pre-colonial history to the present day.
+Looking for resources on African American history? Our African American History Month spotlight page brings together website links and reviews, examples of historical thinking, lesson plans, teaching strategies, quizzes, and more. Browse the spotlight to find materials for teaching pre-colonial history to the present day.
 
 Other organizations and websites also round up teacher resources for African American History Month. Check out these examples:
 

@@ -31,6 +31,6 @@ Beeman, Richard. *Plain, Honest Men: The Making of the American Constitution*. N
 
 Duthu, N. Bruce. *American Indians and the Law*. New York: Penguin Books, 2008.
 
-[**History Links:Citizenship and American History**](/tah-grants/tah-project-database/18349)
+**History Links:Citizenship and American History**
 
 Pommersheim, Frank. *Broken Landscape: Indians, Indian Tribes, and the Constitution*. New York: Oxford University Press, 2009.

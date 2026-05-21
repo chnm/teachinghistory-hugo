@@ -31,7 +31,7 @@ tags:
 - Research and Theory
 ---
 
-To get oriented to how maps can be used to teach history and begin exploring links to relevant websites, [this newsletter](/outreach/history-education-news/volume-five) can be a useful first stop. You will find links to videos of teachers using historical maps, checklists for what to focus on when teaching with maps, reviews of best practices, and links to teaching modules. The fundamental idea behind these resources is that geography can provide the context for sophisticated historical thinking if students are encouraged to actively think about what maps show and why they show it.
+To get oriented to how maps can be used to teach history and begin exploring links to relevant websites, this newsletter can be a useful first stop. You will find links to videos of teachers using historical maps, checklists for what to focus on when teaching with maps, reviews of best practices, and links to teaching modules. The fundamental idea behind these resources is that geography can provide the context for sophisticated historical thinking if students are encouraged to actively think about what maps show and why they show it.
 
 One of the clearest rationales for using maps to teach history that I have seen can be found in a recent book by David Rumsey[(1)](#note1) and Meredith Williams entitled [*Historical Maps in GIS*](http://downloads.esri.com/esripress/images/53/ch01.pdf). The authors argue that:
 > *Historical maps often hold information retained by no other written source, such as place-names, boundaries, and physical features that have been modified or erased by modern development. Historical maps capture the attitudes of those who made them and represent worldviews of their time.*
@@ -49,7 +49,7 @@ Good luck with your research and let us know if you discover anything.
 
 ---
 
-To get oriented to how maps can be used to teach history and begin exploring links to relevant websites, [this newsletter](/outreach/history-education-news/volume-five) can be a useful first stop. You will find links to videos of teachers using historical maps, checklists for what to focus on when teaching with maps, reviews of best practices, and links to teaching modules. The fundamental idea behind these resources is that geography can provide the context for sophisticated historical thinking if students are encouraged to actively think about what maps show and why they show it.
+To get oriented to how maps can be used to teach history and begin exploring links to relevant websites, this newsletter can be a useful first stop. You will find links to videos of teachers using historical maps, checklists for what to focus on when teaching with maps, reviews of best practices, and links to teaching modules. The fundamental idea behind these resources is that geography can provide the context for sophisticated historical thinking if students are encouraged to actively think about what maps show and why they show it.
 
 One of the clearest rationales for using maps to teach history that I have seen can be found in a recent book by David Rumsey[(1)](#note1) and Meredith Williams entitled [*Historical Maps in GIS*](http://downloads.esri.com/esripress/images/53/ch01.pdf). The authors argue that:
 > *Historical maps often hold information retained by no other written source, such as place-names, boundaries, and physical features that have been modified or erased by modern development. Historical maps capture the attitudes of those who made them and represent worldviews of their time.*

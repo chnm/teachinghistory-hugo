@@ -35,4 +35,4 @@ Discover more documents that preceded and descended from the Constitution with r
 
 [![](/files/cdspotlight.jpg)](/spotlight/constitution-day)
 
-Deepen your class's exploration further with primary sources, lesson plans, quizzes, and more from our Constitution Day [spotlight page](/spotlight/constitution-day). Drawing on these materials, your students can uncover connections between the Constitution and the Civil Rights Movement, U.S. Supreme Court decisions, the Watergate scandal, and much more. The Constitution didn't just help found the U.S. government—it founded debates that shape the country.
+Deepen your class's exploration further with primary sources, lesson plans, quizzes, and more from our Constitution Day spotlight page. Drawing on these materials, your students can uncover connections between the Constitution and the Civil Rights Movement, U.S. Supreme Court decisions, the Watergate scandal, and much more. The Constitution didn't just help found the U.S. government—it founded debates that shape the country.

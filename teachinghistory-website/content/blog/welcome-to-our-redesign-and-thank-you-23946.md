@@ -24,7 +24,7 @@ We've launched this redesign to reflect what educators have told us. You'll find
 
 ## Don't miss these highlights!
 
-Read conversations on topical issues in history education through [Roundtables](/issues-and-research/roundtable), discussions with historians and educators about the present and future of the field. The current topic: [What should be the role of history departments in the preparation of future teachers?](/issues-and-research/roundtable/23868). Join the debate by adding your comments to those of panel members.
+Read conversations on topical issues in history education through Roundtables, discussions with historians and educators about the present and future of the field. The current topic: What should be the role of history departments in the preparation of future teachers?. Join the debate by adding your comments to those of panel members.
 > Teachinghistory.org integrates content, methdology, and educational context.
 
 Do standard textbook narratives tell educators all they need to know to teach? Visit [Beyond the Textbook](/history-content/beyond-the-textbook) for supplementary materials by expert historians on major topics in American history including essays, critical questions, and key primary sources exploring questions such as [Was economic difference—manufacturing in the North and slave-driven agriculture in the South—/professional-development/ask-a-digital-historianthe primary cause of the Civil War?](/history-content/beyond-the-textbook/23911).
@@ -33,9 +33,9 @@ Teaching with technology can mean anything from using the internet for research 
 
 ## Useful tools
 
-Notice the Bookmark Backpack throughout the site. As the [Directions](/favorites) explain, bookmarking articles enables you to save and annotate articles, then email selections you assembled during your visit.
+Notice the Bookmark Backpack throughout the site. As the Directions explain, bookmarking articles enables you to save and annotate articles, then email selections you assembled during your visit.
 
-Check Quick Links especially for [elementary](/quick-links-elementary), [middle](/quick-links-middle), and [high school](/quick-links-high) consistently linked at the bottom of each page as well as on specialized pages. These selections highlighting content and methodology for each level will rotate periodically to help you find grade-appropriate materials more quickly.
+Check Quick Links especially for elementary, middle, and high school consistently linked at the bottom of each page as well as on specialized pages. These selections highlighting content and methodology for each level will rotate periodically to help you find grade-appropriate materials more quickly.
 
 We hope you'll join a dialogue about teaching American history and comment share your experience and perspectives *via* the comment boxes. You are welcome to post anonymously or to add your name. Your point of view is welcomed.
 

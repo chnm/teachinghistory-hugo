@@ -44,7 +44,7 @@ It may be useful to think about three things as critical to teaching students ho
 * Close reading (and we use the term “reading” broadly here, referring to observing the item closely);
 * Feeling and considering the emotional impact of the piece;
 * Considering the historical context of the piece.
-You’ve started with a good [entry](/tah-grants/lessons-learned/19827) that introduces some key aspects of using art. Author Carolyn Halpin-Healy, talking about how to use material culture, explains that analyzing these kinds of sources should “begin by describing the object--to analyze its structure, to consider the circumstance of its creation--and only then to propose an interpretation of the meaning of the piece.” She goes on to identify specific steps in this process that include the key aspects above.
+You’ve started with a good entry that introduces some key aspects of using art. Author Carolyn Halpin-Healy, talking about how to use material culture, explains that analyzing these kinds of sources should “begin by describing the object--to analyze its structure, to consider the circumstance of its creation--and only then to propose an interpretation of the meaning of the piece.” She goes on to identify specific steps in this process that include the key aspects above.
 > Deliberate methods are required when teaching students to analyze the visual fine arts as a means to learn about the past. Those methods require slowing down when we observe and discuss a piece of art.
 
 **EDSITEMENT**
@@ -53,7 +53,7 @@ We have other resources at teachinghistory.org that address art analysis. Visit 
 
 And don’t miss the NEH’s [Picturing America](http://picturingamerica.neh.gov/) program. It was designed to encourage and support teachers in using art to teach history and social studies. This tremendous resource includes a set of artistic works to use in the classroom, information about the works and artists, links to [other sites](http://picturingamerica.neh.gov/about.php?subPage=about_ad_res) with resources for teaching with art, and a teacher’s resource book.
 
-See this [entry](/tah-grants/lessons-learned/24086) to listen to two educators talk about how they use Picturing America in their Teaching American history grant. The third video in this series may be most helpful to you since it concerns the ideas of slowing down with a piece and closely observing it while considering one’s emotional response to it.
+See this entry to listen to two educators talk about how they use Picturing America in their Teaching American history grant. The third video in this series may be most helpful to you since it concerns the ideas of slowing down with a piece and closely observing it while considering one’s emotional response to it.
 > There are also many resources designed for teaching photo analysis in the history/social studies classroom.
 
 **PHOTOGRAPHS**

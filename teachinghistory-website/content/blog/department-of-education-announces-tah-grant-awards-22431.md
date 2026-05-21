@@ -27,4 +27,4 @@ In 2007, the Department of Education began a four-year evaluation of the program
 
 The Labor, Health, and Education fiscal year 2010 appropriations bill (H.R. 3293) passed by the House (264-153) would slash the TAH program by $19 million from the current fiscal year's level, down to $100 million, according to [The National Coalition for History.](http://historycoalition.org/)
 
-Visit the [TAH Grants section](/tah-grants) of the Clearinghouse for highlights of achievements of TAH grantees and lessons learned from teachers, administrators, and partnering organizations.
+Visit the TAH Grants section of the Clearinghouse for highlights of achievements of TAH grantees and lessons learned from teachers, administrators, and partnering organizations.

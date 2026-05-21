@@ -59,7 +59,7 @@ Providing guidelines helps foster the most effective observations. For example, 
 
 The more sophisticated the game, the more a general set of guidelines for observations will help. Many short web-based games, however, are simple enough that players can record every major choice they make, their reasons for doing so, and the impact of those choices on the game. Either way the goal of note-taking is not only to accustom students to the practice of observation and recording so critical for gathering evidence, but to encourage them to become familiar with the workings of the game—the better to reflect upon it, engage with it, and learn from the experience.
 
-In addition to note-taking, providing students with comprehension and analysis questions helps students explore the details of the game. These are questions about basic gameplay that require an understanding of gameplay fundamentals. Screenshots from the game are helpful illustrations for these sorts of questions. So, for example, given the following screenshot from [*Energyville*](/digital-classroom/tech-for-teachers/25173), students can identify and explain the functions of the:
+In addition to note-taking, providing students with comprehension and analysis questions helps students explore the details of the game. These are questions about basic gameplay that require an understanding of gameplay fundamentals. Screenshots from the game are helpful illustrations for these sorts of questions. So, for example, given the following screenshot from *Energyville*, students can identify and explain the functions of the:
 ![Energyville screenshot](/files/blog-image-jmenergy.jpg)
 > * White buttons listed at the bottom
 > * The exclamation points over buildings

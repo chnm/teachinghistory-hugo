@@ -50,7 +50,7 @@ If photographs aren't enough, branch out into art, journalism, fiction and nonfi
 
 ## Further Resources
 
-Looking for more resources? Take a quiz on women in history, with our [weekly quiz archive](/history-content/quiz?keys=&tid=70)! See how well you do on quizzes with subjects like [women in the West](/history-content/quiz/24198). Search our [Website Reviews](/history-content/website-reviews?keys=&tid=70&tid_1=All&tid_2=All), as well—we've reviewed and annotated more than 200 websites with women's history content.
+Looking for more resources? Take a quiz on women in history, with our [weekly quiz archive](/history-content/quiz?keys=&tid=70)! See how well you do on quizzes with subjects like [women in the West](/history-content/quiz/24198). Search our Website Reviews, as well—we've reviewed and annotated more than 200 websites with women's history content.
 
 If you'd still like more, these organizations feature content and pages created just for Women's History Month:
 

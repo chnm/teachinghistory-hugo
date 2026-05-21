@@ -61,7 +61,7 @@ I also spent some time going over online discussion norms. See the [main page](/
 
 In class, I assigned one of four topics to each student: Corrupt Bargain 1824, the Nullification Crisis 1832–33, The Alamo 1836, and the Trail of Tears 1838–39. These topics were specific enough to focus, but generic enough to provide ample research.
 
-Student were told to use the Teachinghistory.org website's [History Content Gateway](/history-content/gateway-to-history-websites?cx=015291029838648875433%3Ab9pr4apkg5w&cof=FORID%3A11&ie=UTF-8&as_q=&query=) to find, read, and analyze ONE primary document pertaining to their assigned topic.
+Student were told to use the Teachinghistory.org website's History Content Gateway to find, read, and analyze ONE primary document pertaining to their assigned topic.
 
 They were then asked to share their findings with their classmates via the Wiki by answering four basic questions about their source. If they completed this part of the assignment thoroughly and with attention to detail, they received 75% of the total points possible.
 

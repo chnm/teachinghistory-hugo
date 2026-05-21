@@ -30,7 +30,7 @@ tags:
 
 The calendar date of President Abraham Lincoln's 200th birthday on February 12, 2009, by no means circumscribes the exhibits, events, lectures, reenactments, ceremonies, and other tributes commemorating the significance of his life and his presidency. They continue throughout the year in libraries, schools, museums, towns, and cities.
 
-The Clearinghouse will continue to highlight resources on Lincoln that are helpful in the K–12 classroom: lesson plans, projects, and professional development opportunities of particular interest to educators. Please visit the Clearinghouse [Digital Classroom](/digital-classroom) section for information on events and online programs. The Clearinghouse [Project Spotlight](/tah-grants) will also highlight Teaching American History (TAH) grants with modules related to teaching about Abraham Lincoln.
+The Clearinghouse will continue to highlight resources on Lincoln that are helpful in the K–12 classroom: lesson plans, projects, and professional development opportunities of particular interest to educators. Please visit the Clearinghouse [Digital Classroom](/digital-classroom) section for information on events and online programs. The Clearinghouse Project Spotlight will also highlight Teaching American History (TAH) grants with modules related to teaching about Abraham Lincoln.
 
 ## Lincoln Bicentennial Commission
 

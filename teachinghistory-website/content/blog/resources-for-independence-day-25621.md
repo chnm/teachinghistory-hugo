@@ -29,7 +29,7 @@ Why?
 
 [![](/files/image-id12.jpg)](/spotlight/independence-day)
 
-Explore the resources on Teachinghistory.org's Independence Day spotlight page for the answer to this question and others. You'll find website reviews, teaching strategies, lesson plans, quizzes, and more. Though Independence Day falls outside of the school year for many teachers and students, you can use these resources whenever you teach about the holiday or the Declaration of Independence and the American Revolution. (If you're looking for resources on other founding documents, try our [spotlight page](/spotlight/constitution-day) on Constitution Day.)
+Explore the resources on Teachinghistory.org's Independence Day spotlight page for the answer to this question and others. You'll find website reviews, teaching strategies, lesson plans, quizzes, and more. Though Independence Day falls outside of the school year for many teachers and students, you can use these resources whenever you teach about the holiday or the Declaration of Independence and the American Revolution. (If you're looking for resources on other founding documents, try our spotlight page on Constitution Day.)
 
 With the advent of digital archives, anyone with an Internet connection now has access to an embarrassment of historical riches, including hundreds of primary sources from the American Revolution. After browsing our spotlight page, explore some of these resources:
 

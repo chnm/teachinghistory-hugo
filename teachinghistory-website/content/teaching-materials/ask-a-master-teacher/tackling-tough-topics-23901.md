@@ -44,5 +44,5 @@ Here are some other resources that may be of use to Social Studies educators tea
 
 1. [Simulations](/teaching-materials/ask-a-master-teacher/23691)
 2. [Multiple perspectives](/teaching-materials/ask-a-master-teacher/23610)
-3. [Using primary resources to tell both sides of the story](/issues-and-research/research-briefs/23477)
-4. [Confronting the "official story" of American history](/issues-and-research/research-briefs/23488)
+3. Using primary resources to tell both sides of the story
+4. Confronting the "official story" of American history

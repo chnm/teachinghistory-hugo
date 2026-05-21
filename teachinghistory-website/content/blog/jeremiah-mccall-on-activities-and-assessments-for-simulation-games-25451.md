@@ -42,7 +42,7 @@ The game journal can be used to take observation notes along the lines of those 
 
 * What does *[Mission US](/digital-classroom/tech-for-teachers/25111)* suggest the key divisions in colonial Boston were?
 * How important is money in winning a presidential election, according to *Political Machine*?
-* Does *[Energyville](/digital-classroom/tech-for-teachers/25173)* suggest it is possible for U.S. cities to shift to renewable fuels in the near future?
+* Does *Energyville* suggest it is possible for U.S. cities to shift to renewable fuels in the near future?
 
 Reflections like this should be accompanied with observations from the game that support the students' conclusions.
 

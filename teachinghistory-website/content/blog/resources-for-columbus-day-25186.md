@@ -29,6 +29,6 @@ But it also presents an opportunity to discuss and explore these issues, and to 
 
 [![Detail, spotlight page](/files/image-blog-cd20111.jpg "Detail, spotlight page")](/spotlight/columbus-day)
 
-We've gathered all of our resources on Columbus, Columbus Day, and his voyages in one Columbus Day [Spotlight](/spotlight/columbus-day) page to help you and your students answer these questions and more. Take a look at Learning Resources for primary and secondary sources, Teaching Resources for strategies from other teachers, and Quizzes to test your knowledge!
+We've gathered all of our resources on Columbus, Columbus Day, and his voyages in one Columbus Day Spotlight page to help you and your students answer these questions and more. Take a look at Learning Resources for primary and secondary sources, Teaching Resources for strategies from other teachers, and Quizzes to test your knowledge!
 
-(And remember, the [9/11](/spotlight/september11) and [Constitution Day](/spotlight/constitution-day) spotlights are still available. We'll continue to add new resources to [all of our spotlights](/spotlight) throughout the year, so bookmark them and check back frequently. Keep your eye out for new spotlights on Veterans Day and Thanksgiving next month!)
+(And remember, the 9/11 and Constitution Day spotlights are still available. We'll continue to add new resources to all of our spotlights throughout the year, so bookmark them and check back frequently. Keep your eye out for new spotlights on Veterans Day and Thanksgiving next month!)

@@ -24,7 +24,7 @@ With its origins in the rising environmental awareness of the 1960s and '70s, Ea
 
 [![](/files/image-sp-earthday.jpg)](/spotlight/earth-day)
 
-If you're looking for resources to teach the relationship of geography and natural science to U.S. history, visit our Earth Day [spotlight page](/spotlight/earth-day). You'll find website reviews, teaching strategies for using maps and the environment, quizzes, and more.
+If you're looking for resources to teach the relationship of geography and natural science to U.S. history, visit our Earth Day spotlight page. You'll find website reviews, teaching strategies for using maps and the environment, quizzes, and more.
 
 Many other organizations also offer Earth Day resources. Here are some ideas to keep you browsing:
 

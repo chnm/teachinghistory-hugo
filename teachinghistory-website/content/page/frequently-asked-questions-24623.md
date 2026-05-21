@@ -11,7 +11,7 @@ Here are a few commonly asked questions about Teachinghistory.org.
 
 **Q: Is this site really free?**
 
-A: Yes! Teachinghistory.org is funded by the U.S. Department of Education’s Teaching American History grant program (Contract Number ED-07-CO-0088). Everything Teachinghistory.org produces is free and available to all. This includes not only our website, but also all of our printed materials like [History Education News](/outreach/history-education-news), [Historical Thinking poster](/nhec-blog/24174) and [Civil War poster](/civil-war-poster).
+A: Yes! Teachinghistory.org is funded by the U.S. Department of Education’s Teaching American History grant program (Contract Number ED-07-CO-0088). Everything Teachinghistory.org produces is free and available to all. This includes not only our website, but also all of our printed materials like History Education News, [Historical Thinking poster](/nhec-blog/24174) and Civil War poster.
 
 **Q: Do I have to register to use Teachinghistory.org?**
 
@@ -25,4 +25,4 @@ Additionally, all of the [teaching methods](/best-practices) found on Teachinghi
 
 **Q: How do I request multiple copies of your posters or newsletters?**
 
-A: Many people like to request multiple copies of Teachinghistory.org materials for professional development workshops or to distribute at conferences. Please visit [Materials Request](/materials-request) to place your order.
+A: Many people like to request multiple copies of Teachinghistory.org materials for professional development workshops or to distribute at conferences. Please visit Materials Request to place your order.

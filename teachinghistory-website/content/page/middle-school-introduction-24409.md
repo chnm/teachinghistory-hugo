@@ -32,7 +32,7 @@ Watch video of [Teaching in Action](/best-practices/teaching-in-action) as their
 
 ## Expect New Content
 
-Keep exploring Teachighistory.org to find many other features. Visit the [blog](/nhec-blog) or follow us on [Twitter](http://twitter.com/#!/teachinghistory) for the latest content and resources. [Ask a historian](/history-content/ask-a-historian) when you have a puzzling or interesting question, or ask questions of a [master teacher](/teaching-materials/ask-a-master-teacher) or a [digital historian](/digital-classroom/ask-a-digital-historian). Whether you're curious about content or methods, Teachinghistory.org can help you find what you're looking for.
+Keep exploring Teachighistory.org to find many other features. Visit the [blog](/blog/) or follow us on [Twitter](http://twitter.com/#!/teachinghistory) for the latest content and resources. [Ask a historian](/history-content/ask-a-historian) when you have a puzzling or interesting question, or ask questions of a [master teacher](/teaching-materials/ask-a-master-teacher) or a [digital historian](/digital-classroom/ask-a-digital-historian). Whether you're curious about content or methods, Teachinghistory.org can help you find what you're looking for.
 
 ## Image Credits
 

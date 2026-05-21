@@ -18,7 +18,7 @@ image: /files/locatingimage.jpg
 
 **Locating Sources Elsewhere**
 
-For help in locating primary sources, try [these two entries](/best-practices/using-primary-sources/category/Finding%20Sources). Both include excellent websites that have sets or collections of primary sources. The latter (collections) will have many more sources, but may be harder to search.
+For help in locating primary sources, try these two entries. Both include excellent websites that have sets or collections of primary sources. The latter (collections) will have many more sources, but may be harder to search.
 
 Also see [this website](/history-content/website-reviews/23842) that includes information about the Panic of 1873 and the *Beyond the Textbook* entry "[Panic of 1873](/history-content/beyond-the-textbook/24578)" on the topic.
 
@@ -28,7 +28,7 @@ For any American history topic, try using our general search function located at
 
 Also see the [History Content section](/history-content) and search *Website Reviews*. To do this, go to the right-hand side of the content page, scroll down, and look on the right for the box called “Searches.” Then click "*Website Reviews*” and put in a keyword or phrase. If you get no results, try another term or keyword. This search will return our reviews of reputable websites that address your topic. Read our review to get a quick idea about whether it will suit your purposes. If so, enjoy exploring that site.
 
-Then try searching *[Gateway to History Websites](/history-content/gateway-to-history-websites?cx=015291029838648875433%3Ab9pr4apkg5w&cof=FORID%3A11&ie=UTF-8&as_q=panic+of+1873&query=)* located below "*Website Reviews*.” This custom search engine returns results from history websites beyond Teachinghistory.org.
+Then try searching *Gateway to History Websites* located below "*Website Reviews*.” This custom search engine returns results from history websites beyond Teachinghistory.org.
 
 Good luck!
 
@@ -36,7 +36,7 @@ Good luck!
 
 **Locating Sources Elsewhere**
 
-For help in locating primary sources, try [these two entries](/best-practices/using-primary-sources/category/Finding%20Sources). Both include excellent websites that have sets or collections of primary sources. The latter (collections) will have many more sources, but may be harder to search.
+For help in locating primary sources, try these two entries. Both include excellent websites that have sets or collections of primary sources. The latter (collections) will have many more sources, but may be harder to search.
 
 Also see [this website](/history-content/website-reviews/23842) that includes information about the Panic of 1873 and the *Beyond the Textbook* entry "[Panic of 1873](/history-content/beyond-the-textbook/24578)" on the topic.
 
@@ -46,6 +46,6 @@ For any American history topic, try using our general search function located at
 
 Also see the [History Content section](/history-content) and search *Website Reviews*. To do this, go to the right-hand side of the content page, scroll down, and look on the right for the box called “Searches.” Then click "*Website Reviews*” and put in a keyword or phrase. If you get no results, try another term or keyword. This search will return our reviews of reputable websites that address your topic. Read our review to get a quick idea about whether it will suit your purposes. If so, enjoy exploring that site.
 
-Then try searching *[Gateway to History Websites](/history-content/gateway-to-history-websites?cx=015291029838648875433%3Ab9pr4apkg5w&cof=FORID%3A11&ie=UTF-8&as_q=panic+of+1873&query=)* located below "*Website Reviews*.” This custom search engine returns results from history websites beyond Teachinghistory.org.
+Then try searching *Gateway to History Websites* located below "*Website Reviews*.” This custom search engine returns results from history websites beyond Teachinghistory.org.
 
 Good luck!

@@ -47,13 +47,13 @@ and develop ideas for their lessons*.”
 
 Start with our [*Website Reviews*](/history-content/website-reviews) . Candidates can search these to find legitimate websites and archives where they can learn more about a historical topic and find resources for teaching. Even the most expert teachers need to brush up on their knowledge of a particular topic or event. This portal can help ease and focus that process.
 
-We have lots of resources for helping candidates think through and structure classwork with materials common to the history classroom, such as textbooks, primary sources, and video. Visit the [*Using Primary Sources feature*](/best-practices/using-primary-sources) to find [relevant models](/best-practices/using-primary-sources/category/Models%20of%20Analysis) and [worksheets](/best-practices/using-primary-sources/category/Worksheets). Make sure to check out these entries on [finding primary sources](/best-practices/using-primary-sources/category/Finding%20Sources) that list stellar websites that have compiled collections of primary sources with teachers in mind. [*Teaching with Textbooks*](/best-practices/teaching-with-textbooks) includes methods for introducing the textbook as a historical account in need of questioning and as a reference book. [*Beyond the Textbook*](/history-content/beyond-the-textbook)  takes topics common to the U.S. history curriculum and explains the flaws and holes in standard textbook narratives while providing sources that a teacher could use to counteract such inaccuracies and silences.
+We have lots of resources for helping candidates think through and structure classwork with materials common to the history classroom, such as textbooks, primary sources, and video. Visit the [*Using Primary Sources feature*](/best-practices/using-primary-sources) to find relevant models and worksheets. Make sure to check out these entries on finding primary sources that list stellar websites that have compiled collections of primary sources with teachers in mind. [*Teaching with Textbooks*](/best-practices/teaching-with-textbooks) includes methods for introducing the textbook as a historical account in need of questioning and as a reference book. [*Beyond the Textbook*](/history-content/beyond-the-textbook)  takes topics common to the U.S. history curriculum and explains the flaws and holes in standard textbook narratives while providing sources that a teacher could use to counteract such inaccuracies and silences.
 
 And allow me to plug *Teaching Guides* once again as they focus on using particular instructional strategies in the history classroom and provide not only examples of the strategies, but also steps for using them with additional historical topics. (See [here](/teaching-materials/teaching-guides/24299) for one about teaching with historic footage.)
 
 ## Going Beyond This Guide
 
-This gets at some of the features that methods instructors have told us are most useful to them. But continue exploring and you’ll find other possibilities. Do you teach candidates to understand and use research findings? Browse our [*Research Briefs*](/issues-and-research/research-briefs) for instructive studies. Use *Digital Classroom* to help candidates learn new technologies and powerful approaches for using these tools in their history classrooms. And see [here](/issues-and-research/report-on-the-state-of-history-education/23470) for links to searchable databases for each of the 50 states’ history/social studies standards.
+This gets at some of the features that methods instructors have told us are most useful to them. But continue exploring and you’ll find other possibilities. Do you teach candidates to understand and use research findings? Browse our *Research Briefs* for instructive studies. Use *Digital Classroom* to help candidates learn new technologies and powerful approaches for using these tools in their history classrooms. And see here for links to searchable databases for each of the 50 states’ history/social studies standards.
 
 ## Top Picks for Teacher Educators
 
@@ -65,7 +65,7 @@ Finally, given that we have more than 10,000 pieces of content, here are my curr
 * [Rubric](/files/rubric.pdf) for Evaluating Lesson Plans and [video](/lesson-plan-reviews-intro) introducing *Lesson Plan Reviews*.
 * [Content Gateway](/history-content) (Scroll down and look at right sidebar).
 * *[Teaching Guides](/teaching-materials/teaching-guides)*
-* [Spotlight pages](/spotlight) on specific national holidays
+* Spotlight pages on specific national holidays
 
 ### Elementary
 
@@ -79,7 +79,7 @@ Finally, given that we have more than 10,000 pieces of content, here are my curr
 
 ### Secondary
 
-* *Using Primary Sources*—[Finding Sources](/best-practices/using-primary-sources/category/Finding%20Sources)
-* *Roundtable*—[How do You Organize a U.S. History Survey Course?](/issues-and-research/roundtable/24659)
+* *Using Primary Sources*—Finding Sources
+* *Roundtable*—How do You Organize a U.S. History Survey Course?
 * *Teaching Guides*—[What is an “Inquiry Lesson”?](/teaching-materials/teaching-guides/24123)
 * *Teaching with Textbooks*—[Opening Up the Textbook](/best-practices/teaching-with-textbooks/19438)

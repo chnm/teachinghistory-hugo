@@ -24,7 +24,7 @@ September 11, 2011, marked the 10th anniversary of the terrorist attacks on New 
 
 [![](/files/image-blog-pearlh.jpg)](/spotlight/pearl-harbor)
 
-We've gathered all of our resources on the attack on Pearl Harbor on our spotlight page, [*Remembering Pearl Harbor*](/spotlight/pearl-harbor). Learn about the attack and popular memory with [oral history](/history-content/website-reviews/14692), discover lesson plans and more exploring the [context](/teaching-materials/lesson-plan-reviews/25315) of the attack, and uncover [photographs](/history-content/website-reviews/23133) of U.S. participation in World War II.
+We've gathered all of our resources on the attack on Pearl Harbor on our spotlight page, *Remembering Pearl Harbor*. Learn about the attack and popular memory with [oral history](/history-content/website-reviews/14692), discover lesson plans and more exploring the [context](/teaching-materials/lesson-plan-reviews/25315) of the attack, and uncover [photographs](/history-content/website-reviews/23133) of U.S. participation in World War II.
 
 After you've explored our spotlight, check out these websites for more resources on Pearl Harbor and the anniversary:
 
