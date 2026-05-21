@@ -48,3 +48,20 @@ Students first read a textbook passage about the Jamestown colony in 1609 and 16
 Another strength of this lesson is the document collection itself. A wide variety of primary sources offer greater insight into the reasons for the food shortage that resulted in the death of over 400 colonists in Jamestown during the winter of 1609–1610. Particularly helpful to teachers with struggling readers is the fact that the lesson includes not only the original documents, but also "modern" versions of the documents, written in language much more accessible to students.
 
 While the [detective log](https://hsi.wm.edu/cases/jamestown/detective_log.pdf) graphic organizer included in the lesson provides space for students to record source information, and the lesson itself provides a great exercise in sourcing, the documents themselves contain little source information. We recommend that teachers support students in using the available information about each document to understand its perspective and meaning. In general, the lesson provides good opportunities to engage in historical inquiry, to open up and go beyond the textbook, and to use primary sources to analyze the causes of an event.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. A passage from Joy Hakim's Making Thirteen Colonies is included. |
+| **Historical Content** | Requires students to read and write? | Yes |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Teachers will want to support students in using source perspective information. |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. Documents included in original and adapted modern versions. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. No criteria included, but the final writing assignment is a great assessment. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

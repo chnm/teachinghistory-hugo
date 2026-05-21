@@ -167,3 +167,30 @@ He quickly recognized the legitimacy of Panamanian rebels to separate from Colum
 Roosevelt, however, was convinced that a canal would be built across the Isthmus of Panama and that the U.S. must control it. During the war, American ships fought in the Atlantic and the Pacific. Transferring the fleets from one ocean to the other meant sending ships around Cape Horn, a difficult, expensive, and time-consuming operation. When the canal was finished, thought Roosevelt, only if American controlled it, could the U.S. ensure its ability to defend both of its own coasts.
 
 All of Roosevelt's actions fortified the outward-looking expansive trend in U.S. foreign policy. Roosevelt's decisions, such as undertaking the Panama Canal project and strengthening the Navy, had long term consequences for the U.S.
+
+## For Further Reading
+
+Alfred Thayer Mahan. [*The Influence of Sea Power upon History, 1660-1783*]( http://books.google.com/books?id=xv8AAAAAYAAJ&dq=mahan%20role%20of%20sea%20power&pg=PR1#v=onepage&q=&f=false), Boston: Little, Brown, and Company, 1890.
+Alfred Thayer Mahan. [*The Interest of America in Sea Power, Present and Future*](http://books.google.com/books?id=XrUJAAAAIAAJ&dq=mahan%20role%20of%20sea%20power&pg=PR7#v=onepage&q=&f=false), Boston:  Little, Brown, and Company, 1898.
+
+Theodore Roosevelt. *The Naval War of 1812; or the History of the United States Navy during the Last War with Great Britain to Which Is Appended an Account of the Battle of New Orleans*.  New York:  G. P. Putnam's Sons, 1882.
+Mark Twain.  "To the Person Sitting in Darkness," *North American Review*, Vol. 172, issue 531 (February, 1901): 161-176.
+
+U. S. Treasury Department.  [*Annual Report and Statements of the Chief of the Bureau of Statistics on the Foreign Commerce and Navigation, Immigration, and Tonnage of the United States for the Year Ending June 30, 1890*]( http://books.google.com/books?id=InfNAAAAMAAJ&dq=Foreign%20Commerce%20and%20Navigation%20of%20the%20United%20States&pg=PR32#v=onepage&q=&f=false).  Washington: Government Printing Office, 1891.
+
+[Theodore Roosevelt's Corollary to the Monroe Doctrine (1905)](http://www.ourdocuments.gov/doc.php?flash=old&doc=56) at www.ourdocuments.gov. (Theodore Roosevelt's Annual Message to Congress for 1904; House Records HR 58-A-K2; Records of the U.S. House of Representatives; Record Group 233; Center for Legislative Archives; National Archives).
+
+Robert Kagan.  *Dangerous Nation: America's Foreign Policy from Its Earliest Days to the Dawn of the Twentieth Century*.  New York: Vintage Books, 2007.
+
+Warren Zimmermann.  *First Great Triumph: How Five Americans Made Their Country a World Power*.  New York:  Farrar, Straus and Giroux, 2002.
+
+Howard K. Beale.  *Theodore Roosevelt and the Rise of America to World Power*.  Baltimore:  Johns Hopkins University Press, 1956.
+
+James R. Holmes.  *Theodore Roosevelt and World Order: Police Power in International Relations*.  Washington, DC: Potomac Books, 2006.
+
+David McCullough.  The Path between the Seas: The Creation of the Panama Canal, 1870–1914.  New York: Simon and Schuster, 1977.
+
+Images:
+Assistant Secretary of the Navy Theodore Roosevelt (front, center) at the Naval War College, Newport, Rhode Island, circa 1897, with the college's faculty and class members.  U.S. Naval Historical Center.
+
+Battleship USS Connecticut, BB-18, running speed trials off the Maine coast, 1906.  U.S. Naval Historical Center.

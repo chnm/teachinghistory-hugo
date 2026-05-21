@@ -45,4 +45,4 @@ That is also true for history. All children should have the opportunity to learn
 
 Finally, young children feel righteous indignation at the wrongs of the past. They are truly appalled by the idea of slavery, segregation, assassinations, and the need for the suffrage movement. I believe there is value in children coming to understand the past through a lens of righteous indignation. They are less likely to allow such treatment of others in their own lives when they have confronted their feelings about it through history.
 
-Based on a firm belief in the importance of history and technology, I was determined to find a way to integrate the two with primary students. I will write more about ways to do so in an [upcoming post](http://teachinghistory.org/nhec-blog/24523), so keep reading. . . .
+Based on a firm belief in the importance of history and technology, I was determined to find a way to integrate the two with primary students. I will write more about ways to do so in an [upcoming post](/nhec-blog/24523), so keep reading. . . .

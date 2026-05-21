@@ -42,7 +42,7 @@ Lastly, while some teachers find role-playing to be an effective way to teach pe
 
 Here are some other resources that may be of use to Social Studies educators teaching difficult or charged issues:
 
-1. [Simulations](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/23691)
-2. [Multiple perspectives](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/23610)
-3. [Using primary resources to tell both sides of the story](http://teachinghistory.org/issues-and-research/research-briefs/23477)
-4. [Confronting the "official story" of American history](http://teachinghistory.org/issues-and-research/research-briefs/23488)
+1. [Simulations](/teaching-materials/ask-a-master-teacher/23691)
+2. [Multiple perspectives](/teaching-materials/ask-a-master-teacher/23610)
+3. Using primary resources to tell both sides of the story
+4. Confronting the "official story" of American history

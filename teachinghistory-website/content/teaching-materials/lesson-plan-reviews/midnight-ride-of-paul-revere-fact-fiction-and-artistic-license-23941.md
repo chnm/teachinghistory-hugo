@@ -43,3 +43,20 @@ The lesson opens up by asking students to note their initial impressions of Wood
 Following the opening activity, students read a series of primary accounts of the event from the [British perspective](http://www.nps.gov/mima/forteachers/upload/Ensign Jeremy Lister.pdf) and the [colonial perspective](http://www.nps.gov/mima/forteachers/upload/Hannah%20Davis%20Leighton.pdf ). Teachers should consider the lesson plan’s suggestion to jigsaw this activity since the documents range in length and difficulty.
 
 The lesson concludes with multiple assessment options including analyzing the poem "[Paul Revere's Ride](http://164.109.104.189/sites/default/files/worksheets/Midnight%20Ride%20of%20Paul%20Revere_Worksheet%204_Longfellow%20Poem.pdf)" by Henry Wordsworth Longfellow, using evidence to distinguish between fact and fiction, and writing a short story. Teachers could also easily create a document-based question assignment to assess students' historical understanding.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. Wealth of information about Revere's ride, relevant poetry and artwork. |
+| **Historical Content** | Requires students to read and write? | Yes. Read primary and secondary sources; write from the perspective of historical actors. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Students analyze artistic interpretations and construct historical interpretations. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Students consider author's perspective when analyzing primary sources. |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. Guiding questions scaffold thinking. Primary documents may need further editing. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. Multiple assessment options. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

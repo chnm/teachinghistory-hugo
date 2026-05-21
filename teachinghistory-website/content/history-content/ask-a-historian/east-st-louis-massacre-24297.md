@@ -48,3 +48,7 @@ A national outcry immediately arose to oust the East St. Louis police chief and 
 ---
 
 Harper Barnes, *Never Been a Time: The 1917 Race Riot That Sparked the Civil Rights Movement*. New York: Walker & Company, 2008. Elliott M. Ruckwick, *Race Riot at East St. Louis, July 2, 1917*. Carbondale: University of Illinois Press, 1982. Charles L. Lumpkins, *American Pogrom: The East St. Louis Race Riot and Black Politics*. Athens: Ohio University Press, 2008. U. S. House of Representatives, Special Committee on East St. Louis Riots, *East St. Louis Riots*. Washington: GPO, 1918.
+
+## For Further Reading
+
+“Col. Roosevelt and Gompers Clash on Riot,” *Chicago Daily Tribune*, July 7, 1917, pp. 1, 4. “For Action on Race Riot Peril: Radical Propaganda Among Negroes Growing, and Increased Violence Set Out in Senate Brief for Federal Inquiries,” *New York Times*, October 5, 1919. Ida B. Wells-Barnett, *[The East St. Louis Massacre: The Greatest Outrage of the Century](http://gildedage.lib.niu.edu/islandora/object/niu-gildedage%3A24051)*. Chicago: The Negro Fellowship Herald Press, 1917. Marcus Garvey, “The Conspiracy of the East St. Louis Riots,” speech, July 8, 1917, in Robert A. Hill, ed., *The Marcus Garvey and Universal Negro Improvement Association Papers*, Volume 10, Berkeley: University of California Press, 2006, pp. 212-218. W.E.B. Du Bois, "Let Us Reason Together," *The Crisis*, 18.5 (September 1919): 231.

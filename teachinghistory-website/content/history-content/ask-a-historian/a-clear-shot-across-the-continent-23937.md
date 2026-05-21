@@ -51,3 +51,9 @@ Jason Porterfield, *The Treaty of Guadalupe-Hidalgo, 1848: A Primary Source Exam
 Miller Center of Public Affairs, University of Virginia, [Foreign Affairs under James Knox Polk](”).
 
 For an example of a contemporary of Polk’s finding the President’s expansionism darkly ironic, see the *New York Evening Mirror’s* editorial comments on his inauguration speech, “President Polk a Humorist,” reprinted in William Lloyd Garrison’s *The Liberator*, March 21, 1845.
+
+## For Further Reading
+
+Detail of signatures on the last page of the Treaty of Guadalupe-Hidalgo, Library of Congress, Hispanic Reading Room.
+
+Detail of photograph by Matthew Brady of James K. Polk, Library of Congress, Prints and Photographs Division.

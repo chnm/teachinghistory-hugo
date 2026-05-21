@@ -40,3 +40,11 @@ Perdue, Theda, *Cherokee Women: Gender and Culture Change, 1700-1835*. Lincoln: 
 Rountree, Helen. “Powhatan Indian Women: The People Capt. John Smith Barely Saw.” *Ethnohistory*, 45 (1998) 1-29.
 
 Shoemaker, Nancy, ed., *Negotiators of Change: Historical Perspectives on Native American Women*. New York: Routledge, 1995.
+
+## For Further Reading
+
+Adrien Van der Donck, “A Description of the New Netherlands,” 2d ed. (Amsterdam, 1656), trans. Jeremiah Johnson, in *Collections of the New-York Historical Society*, 2d ser., 1 (1841).
+
+James Mooney, *Myths of the Cherokee*. New York: Johnson Reprint Corp., 1970.
+ 
+Lieut. Henry Timberlake, *Memoirs of Lieutenant Henry Timberlake: The Story of a Soldier, Adventurer, and Emissary to the Cherokees, 1756-1765*. Ed. Duane H. King. Chapel Hill: University of North Carolina Press, 2007.

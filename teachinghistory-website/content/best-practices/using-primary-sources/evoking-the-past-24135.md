@@ -11,7 +11,7 @@ author_bio: 'Priya Chhaya is a historian with an MA from American University, co
   but she has interned at the British Museum, the Smithsonian Institution, and the
   National Park Service.
 
-  Jin Prugsawan is a Park Ranger at [Arlington House National Memorial](http://teachinghistory.org/history-content/historical-places/5061)
+  Jin Prugsawan is a Park Ranger at [Arlington House National Memorial](/history-content/historical-places/5061)
   and an undergraduate student at George Mason University.'
 splash_image_fid: '6199'
 author_image_fid: '6195

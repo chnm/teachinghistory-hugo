@@ -24,7 +24,7 @@ tags:
 - social media
 ---
 
-I began [tweeting](http://teachinghistory.org/digital-classroom/tech-for-teachers/21851) a little over a year ago at the 2011 NCSS conference in Denver, CO. I used the hashtag #ncss2011 to see what I was missing in other sessions and to see how others were experiencing the conference. From there, I began to follow fellow social studies teachers and learned about the Monday night [#sschat](http://sschat.ning.com/). I was hooked after the first chat. In Twitter, I found a tribe of teachers who, like me, think about work too much and naively aim for (and miss) perfection in every lesson. I grew my tribe each day by following those who tweeted resources, teaching ideas, challenging questions, and words of comfort.
+I began [tweeting](/digital-classroom/tech-for-teachers/21851) a little over a year ago at the 2011 NCSS conference in Denver, CO. I used the hashtag #ncss2011 to see what I was missing in other sessions and to see how others were experiencing the conference. From there, I began to follow fellow social studies teachers and learned about the Monday night [#sschat](http://sschat.ning.com/). I was hooked after the first chat. In Twitter, I found a tribe of teachers who, like me, think about work too much and naively aim for (and miss) perfection in every lesson. I grew my tribe each day by following those who tweeted resources, teaching ideas, challenging questions, and words of comfort.
 
 My Twitter tribe is now an essential part of my daily learning community and many of those I met online have become both virtual and face-to-face friends. At first, I took far more than I gave (Twitter elders assume this to be the natural first step of entering the tribe) but now I hope I have gained the confidence that true community offers and I give at least as much as I get.
 
@@ -36,7 +36,7 @@ Besides historical resources, Twitter also offers real-time reports from both re
 
 **Two—Teaching Ideas:** Often resource sharing leads to the sharing of ideas. Twitter is a 24/7 brainstorming session that generates rather than saps energy. I am always amazed at the creativity and purposefulness of my Twitter colleagues who are mindful of the tension between entertainment and education. One recent #sschat joined with [#engchat](http://www.engchat.org/) (English) to discuss teaching of [argumentative writing](https://docs.google.com/spreadsheet/ccc?key=0AsYf5TGG8MA-dFFLS0M0X3U3S0RVX2dXOEJyTERWUFE%23gid=0).
 
-For more example of resources and teaching ideas, see the #sschat archive on [Ning](http://teachinghistory.org/digital-classroom/tech-for-teachers/20674) at <www.sschat.ning.com> (you have to join to see all of the content, but it is worth joining).
+For more example of resources and teaching ideas, see the #sschat archive on [Ning](/digital-classroom/tech-for-teachers/20674) at <www.sschat.ning.com> (you have to join to see all of the content, but it is worth joining).
 
 **Three—Challenge and Compassion:** Every day someone on my timeline tweets out a question about creating a safe space in the classroom or honoring student voice that serves as a reminder to me to keep focused on what is important, the students. A few examples are @joe\_bower and @dianeravitch who are powerful advocates for purposeful education reform.
 

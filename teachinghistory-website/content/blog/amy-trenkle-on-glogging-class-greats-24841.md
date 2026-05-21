@@ -65,14 +65,14 @@ During the course of the year, I made sure each class had an activity outside of
 
 ## Memorializing History with Glogs
 
-I've decided that I will definitely continue this for next year’s classes, but that I could never have another Dorie, Daisy, Alice, or Rosie class. So, my last assignment for each class this year was for them to create [glogs](http://teachinghistory.org/digital-classroom/tech-for-teachers/25055) memorializing their class names. Students worked individually or in pairs to create a glog.
+I've decided that I will definitely continue this for next year’s classes, but that I could never have another Dorie, Daisy, Alice, or Rosie class. So, my last assignment for each class this year was for them to create [glogs](/digital-classroom/tech-for-teachers/25055) memorializing their class names. Students worked individually or in pairs to create a glog.
 
 The class then voted on which glog was the best. I will print the final, winning glog for each class in poster form and hang it in my room to teach future classes with and to remind me of the legacy of these classes.
 
 ## What is a Glog?
 
 ![Student glog, Dorie Miller](/files/image-blog-dorie2_0.jpg)But what's a glog? This is a question that my students had.
-At first, they thought I said they were creating a blog—like a blog entry—since they were [used to doing that](http://teachinghistory.org/nhec-blog/24435). I clarified and enunciated the word "glog" again. There were confused looks.
+At first, they thought I said they were creating a blog—like a blog entry—since they were [used to doing that](/nhec-blog/24435). I clarified and enunciated the word "glog" again. There were confused looks.
 
 A glog, as I explained to my students, is a multimedia poster, created on the computer. On a glog you can add text, photos, videos, music, audio recordings, documents—you name it!
 ![Student glog, Daisy Bates](/files/image-blog-daisy2.jpg)One of the first things we did was find a Plan B. [Glogster](http://www.glogster.com/), a glog creation tool and community, is blocked by my school district. Having explored Glogster at home, I did know that they have a teacher's address. I directed my students to [edu.glogster.com](http://edu.glogster.com/) and had them create accounts as "Basic" members (it's free!). The students were soon underway!

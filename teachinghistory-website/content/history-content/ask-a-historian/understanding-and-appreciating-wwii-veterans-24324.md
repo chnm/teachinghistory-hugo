@@ -50,10 +50,10 @@ These are the best sources of information about World War II I have found on the
 
 ---
 
-[**Memorializing Veterans: Teaching with Place**](http://teachinghistory.org/nhec-blog/24307)
+[**Memorializing Veterans: Teaching with Place**](/nhec-blog/24307)
 
 [**National Veterans Art Museum**](https://www.nvam.org/)
 
  [**Remembering All Veterans
 
-[**Veterans Memorial Museum**](http://www.veteransmuseum.org/)**](http://teachinghistory.org/history-content/quiz/24237)
+[**Veterans Memorial Museum**](http://www.veteransmuseum.org/)**](/history-content/quiz/24237)

@@ -24,7 +24,7 @@ tags:
 - theology
 ---
 
-School's out (well, more or less—excluding professional development, workshops and conferences, and planning for next year), and more leisure time for reading may be in. Here is the first in a series of suggestions from [staff at the National History Education Clearinghouse](http://teachinghistory.org/about/staff/14869) for your summertime "must read" booklist!
+School's out (well, more or less—excluding professional development, workshops and conferences, and planning for next year), and more leisure time for reading may be in. Here is the first in a series of suggestions from staff at the National History Education Clearinghouse for your summertime "must read" booklist!
 
 ## Race and Religion
 

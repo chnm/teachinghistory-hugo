@@ -25,11 +25,11 @@ tags:
 - VoiceThread
 ---
 
-I have written about technology and primary students [previously](http://teachinghistory.org/nhec-blog/24452). I want to wrap up my thinking with a focus on a specific tool I believe offers a lot of opportunities in an early elementary classroom.
+I have written about technology and primary students [previously](/nhec-blog/24452). I want to wrap up my thinking with a focus on a specific tool I believe offers a lot of opportunities in an early elementary classroom.
 
 As an upper-grade teacher my students used blogs and wikis frequently. This allowed them to reflect on their learning and connect their thinking during our school day and at other times. In first grade my students are still learning to read and write, and doing so at the levels required for blogs or wikis would be extremely difficult.
 
-Enter [VoiceThread](http://teachinghistory.org/digital-classroom/tech-for-teachers/21844). It allows so many options for learning. It allows you to upload one or more pictures, videos, or documents. Students can then comment on what you have uploaded for them. These comments can be typed, uploaded from an audio recording, or recorded via microphone or webcam.
+Enter [VoiceThread](/digital-classroom/tech-for-teachers/21844). It allows so many options for learning. It allows you to upload one or more pictures, videos, or documents. Students can then comment on what you have uploaded for them. These comments can be typed, uploaded from an audio recording, or recorded via microphone or webcam.
 > I use VoiceThread in every subject area, but it is wonderful for history.
 
 I use VoiceThread in every subject area, but it is wonderful for history. One way we have used it this year is during our study of past and present. First graders in Virginia are expected to be able to determine the difference between the two. I [uploaded pictures](http://voicethread.com/#q.b1600412.i8458390) of schools, transportation, families, and homes from the past and current images. Students then recorded comments about the images. The process of recording comments serves as writing would for older children. The students are pushed to make their thinking and understanding clear and share it. They also have the opportunity to listen to comments left by their classmates and, if they wish, respond to them. It is also a way for me to learn about their thinking and see their understanding.

@@ -63,3 +63,21 @@ Lowery, David and Lee Seligman, “Understanding the Tax Revolt: Eight Explanati
 Pechman, Joseph A. “The Future of the Income Tax,” *The American Economic Review* 80(March 1990): 1-20.
 
 Steurle, C. Eugene. *Contemporary US Tax Policy.* Washington, DC: The Urban Institute, 2008 (second edition).
+
+## For Further Reading
+
+Bureau of the Census, [*Current Population Reports: Consumer Income, Family and Individual Money Income in the United States: 1945.*](http://www2.census.gov/prod2/popscan/p60-002.pdf)  Series P-60, No. 2, March 1948, 1. Accessed 28 January 2011.
+
+Conason, Joe.  *Big Lies.* New York: St. Martins, 2003. 
+
+Rampell, Cathleen. “Tax Burdens Around the World,” [*New York Times*](http://economix.blogs.nytimes.com/2009/11/24/the-tax-burden-around-the-developed-world/).  24 November 2009.
+
+[*Social Security Administration Trust Fund Data.*](http://www.ssa.gov/oact/progdata/taxRates.html)  Accessed 28 January 2011.  As well, the ceiling for earnings for which citizens had to pay Social Security taxes lifted steadily, from $9,000 in 1972 to over $106,00 today (see [*Contributions and Benefits Bases 1937-2011*](http://www.ssa.gov/oact/COLA/cbb.html#Series).  Accessed 28 January 2011). 
+
+*Tax Foundation, Income Tax Rates and Brackets, 1913-2011.* Accessed 28 January 2011.
+
+[*State-Local Tax Burdens, 1977-2008*](http://www.taxfoundation.org/news/show/335.html ) Accessed 28 January 2011.
+
+[*Tax Policy Briefing Book: How do U.S. taxes compare internationally?*](http://www.taxpolicycenter.org/briefing-book/background/numbers/international.cfm) Updated 18 March 2010.  Percent of GDP for taxes is the internationally-recognized indicator for comparison; it does not mean the same thing as percent of individual income for taxes. 
+
+Witte, John F. *The Politics and Development of the Federal Income Tax.*   Madison: University of Wisconsin Press, 1975.

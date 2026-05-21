@@ -59,3 +59,10 @@ Joy Bilharz, “First Among Equals? The Changing Status of Seneca Women” in La
 Theda Perdue, *Cherokee Women: Gender and Culture Change, 1700-1835*. Lincoln, Neb: 1998.
 
 Nancy Shoemaker, ed., *Negotiators of Change: Historical Perspectives on Native American Women*. New York: 1995.
+
+## For Further Reading
+
+Images:
+"Obleka, an Eskimo woman," Frank Nowell, 1907.  Prints and Photographs Division, Library of Congress.
+
+"Kutenai woman," Edward Curtis, 1910.  Prints and Photographs Division, Library of Congress.

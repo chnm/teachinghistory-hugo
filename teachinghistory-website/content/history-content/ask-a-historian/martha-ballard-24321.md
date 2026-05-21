@@ -43,7 +43,7 @@ Second, look at the resources collected for the “case study” on Martha Balla
 
 Third, a “Martha Ballard Study Pack,” a study guide for students of *A Midwife’s Tale*, and a lesson plan for teachers is available from [BookRags](http://www.bookrags.com/Martha_Ballard).
 
-A good website for teachers on the history of Maine with plenty of primary resources is the Maine Historical Society’s [Maine Memory Network](http://teachinghistory.org/history-content/website-reviews/22988). Included on that site is [Religion on Maine’s Frontier,](http://www.mainememory.net/sitebuilder/site/825/page/1235/display?use_mmn=) an online essay with selected images.
+A good website for teachers on the history of Maine with plenty of primary resources is the Maine Historical Society’s [Maine Memory Network](/history-content/website-reviews/22988). Included on that site is [Religion on Maine’s Frontier,](http://www.mainememory.net/sitebuilder/site/825/page/1235/display?use_mmn=) an online essay with selected images.
 
 If you wish to begin digging into the history of the everyday life of the people of Maine, you should also take a look at the available sources on Maine history and genealogy at [Cyndi’s List](http://www.cyndislist.com/me.htm).
 

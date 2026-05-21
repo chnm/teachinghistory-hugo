@@ -49,3 +49,20 @@ Most of the documents (particularly the photos and cartoons) clearly [condemn th
 While students use primary sources as a vehicle for reshaping their initial hypotheses about industrialization, organized labor, and economic justice, information about the circumstances of each source's creation is not always readily available to students. Where this is the case, we recommend that teachers encourage students to use the source's content to identify the perspective of its author.
 
 Overall, this is a good lesson that provides a useful tool in highlighting for students how their perceptions of history can change after exposure to a large mass of evidence. Often when teaching students the historical process, it is helpful to focus on just one aspect of historical thinking; otherwise students easily become overwhelmed. This lesson does just that: it helps students to focus on their own changing perceptions as they encounter the documents—an essential element of historical thinking.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. Wealth of background from the Cornell University website. |
+| **Historical Content** | Requires students to read and write? | Yes. Significant reading with many opportunities for writing. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Students analyze sources to refine their interpretation. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | No. Some source information included; teachers can add requirements. |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | No. Additional adaptation of documents may be necessary. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. The second part of the assessment is especially strong. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

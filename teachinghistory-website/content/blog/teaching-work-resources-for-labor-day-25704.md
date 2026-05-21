@@ -22,7 +22,7 @@ tags:
 
 Declared an official national holiday in 1894, the roots of Labor Day stretch back much further. Long before the Industrial Revolution and the rise of organized labor, colonists and Native peoples labored to provide for themselves and their families and to support their societies. U.S. citizens continue to work in many ways and at many jobs.
 
-[![](/files/splash-lb12.jpg)](http://teachinghistory.org/spotlight/labor-day)
+[![](/files/splash-lb12.jpg)](/spotlight/labor-day)
 
 How has work changed over time? Take a look at our Labor Day spotlight page. We've gathered lesson plans, website reviews, teaching strategies, and more on American labor history. Using these resources, you and your students can ask questions about the nature of work and search for answers.
 

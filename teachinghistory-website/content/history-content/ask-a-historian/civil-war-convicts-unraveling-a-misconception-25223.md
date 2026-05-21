@@ -50,3 +50,7 @@ Reid Mitchell. *Civil War Soldiers: Their Expectations and Their Experiences*. N
 David Madden. *Beyond the Battlefield: The Ordinary Life and Extraordinary Times of the Civil War Soldier*. New York: Touchstone, 2000.
 
 Moore, Albert Burton. *Conscription and Conflict in the Confederacy*. New York: MacMillan, 1924.
+
+## For Further Reading
+
+[Harrison Family Papers](http://dmna.ny.gov/historic/reghist/civil/infantry/19thInf/19thInfMain.htm), Virginia Historical Society, Richmond, VA.

@@ -38,3 +38,20 @@ Encouraging students to work collaboratively in groups, this [lesson](http://www
 Additionally, and maybe more importantly, the lesson engages students in geographic analysis. Using geographic indicators, students must locate each encounter at a specific site on expedition maps. Students consider the varied physical environments that Lewis and Clark encountered and how these connect to cultural variations between the Native American tribes whom they met. This lesson pays special attention to the differences between Native American cultures, countering a common student belief that all Indians lived alike.
 
 We like the closing activity where each group reports back to the whole class before a large group discussion on the similarities and differences between the encounters. The suggested assessment asks students to write about one of the encounters from the perspective of Sacagawea, Lewis and Clark’s Native American guide, or York, a slave on the expedition. Unless this lesson is taught in conjunction with the film or other rich resources providing additional background information, this assessment seems ill-suited as students likely need more background to complete these essays successfully.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes. Uses primary sources from the Lewis and Clark expedition. |
+| **Historical Content** | Includes historical background? | No. Teachers should include additional background information. |
+| **Historical Content** | Requires students to read and write? | Yes. Students read about environments and write about different group perspectives. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Historical and geographic analysis through text and map interpretation. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Students must read documents and maps closely to compare perspectives. |
+| **Scaffolding** | Appropriate for stated audience? | Yes. Mixed-ability grouping can help address comprehension challenges. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | No. Teachers may need additional scaffolding questions for group work. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | No. Assessment is vague; custom assessments recommended. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes. Activities examine events from multiple viewpoints. |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes. Clear directions; web materials easily reproducible. |

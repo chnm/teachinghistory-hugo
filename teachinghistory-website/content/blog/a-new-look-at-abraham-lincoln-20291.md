@@ -43,4 +43,4 @@ Six downloadable [mp3 files](http://www.npg.si.edu/exhibit/lincoln/audio.html) f
 
 A [helpful review of the exhibit](http://www.washingtonpost.com/wp-dyn/content/article/2008/11/07/AR2008110703848.html) appeared in the [*Washington Post*](http://www.washingtonpost.com) on November 8, 2008. The exhibit is on view at the National Portrait Gallery through July 5, 2009.
 
-*(This news item is a continuing series on materials related to the celebration of the 200th anniversary of Lincoln's birth. See [this news item](http://teachinghistory.org/nhec-blog/19950) for other resources.)*
+*(This news item is a continuing series on materials related to the celebration of the 200th anniversary of Lincoln's birth. See [this news item](/nhec-blog/19950) for other resources.)*

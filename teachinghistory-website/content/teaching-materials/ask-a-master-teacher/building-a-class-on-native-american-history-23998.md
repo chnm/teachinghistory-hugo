@@ -31,7 +31,7 @@ tags:
 
 The [National Museum of the American Indian](http://nmai.si.edu/home/) in Washington, DC offers a variety of resources about American Indian history including workshops for teachers.
 
-For resources you can use with students, see our response to a teacher who asked about classroom resources for [teaching a Native American history course](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/22901).
+For resources you can use with students, see our response to a teacher who asked about classroom resources for [teaching a Native American history course](/teaching-materials/ask-a-master-teacher/22901).
 
 We also recommend contacting local tribes and organizations directly to see what resources they recommend that you use to learn about their history. Below are some organizations you might consider:
 > We also recommend contacting local tribes and organizations directly to see what resources they recommend that you use to learn about their history.
@@ -40,13 +40,13 @@ In Connecticut, the Mashantucket Pequot Museum & Research Center provides a weal
 
 If you will be in Minnesota for the summer you may want to check out the [American Indian Policy Center](http://www.airpi.org/aboutus.html ) in St. Paul and [The Minnesota Indian Affairs Council](http://www.indianaffairs.state.mn.us/index.html). These organizations offer resources, and can most likely direct you to additional educational resources.
 
-You can search the NHEC site for relevant [local museums](http://teachinghistory.org/history-content), [websites](http://teachinghistory.org/history-content), and [professional development opportunities](http://teachinghistory.org/digital-classroom). If you have not done so already, remember to also check the course offerings at your local colleges.
+You can search the NHEC site for relevant [local museums](/history-content), [websites](/history-content), and [professional development opportunities](/digital-classroom). If you have not done so already, remember to also check the course offerings at your local colleges.
 
 ---
 
 The [National Museum of the American Indian](http://nmai.si.edu/home/) in Washington, DC offers a variety of resources about American Indian history including workshops for teachers.
 
-For resources you can use with students, see our response to a teacher who asked about classroom resources for [teaching a Native American history course](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/22901).
+For resources you can use with students, see our response to a teacher who asked about classroom resources for [teaching a Native American history course](/teaching-materials/ask-a-master-teacher/22901).
 
 We also recommend contacting local tribes and organizations directly to see what resources they recommend that you use to learn about their history. Below are some organizations you might consider:
 > We also recommend contacting local tribes and organizations directly to see what resources they recommend that you use to learn about their history.
@@ -55,4 +55,4 @@ In Connecticut, the Mashantucket Pequot Museum & Research Center provides a weal
 
 If you will be in Minnesota for the summer you may want to check out the [American Indian Policy Center](http://www.airpi.org/aboutus.html ) in St. Paul and [The Minnesota Indian Affairs Council](http://www.indianaffairs.state.mn.us/index.html). These organizations offer resources, and can most likely direct you to additional educational resources.
 
-You can search the NHEC site for relevant [local museums](http://teachinghistory.org/history-content), [websites](http://teachinghistory.org/history-content), and [professional development opportunities](http://teachinghistory.org/digital-classroom). If you have not done so already, remember to also check the course offerings at your local colleges.
+You can search the NHEC site for relevant [local museums](/history-content), [websites](/history-content), and [professional development opportunities](/digital-classroom). If you have not done so already, remember to also check the course offerings at your local colleges.

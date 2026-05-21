@@ -17,7 +17,7 @@ grade_levels:
 - middle
 ---
 
-In this [blog post](http://kulowiectech.blogspot.com/2011/11/choose-your-own-adventure-videos.html), Greg Kulowiec, a high school history teacher and classroom technology integration specialist, describes how to create your own Choose Your Own Adventure videos on [YouTube](http://teachinghistory.org/digital-classroom/tech-for-teachers/24867). Students plan and shoot videos, and then create clickable hot spots on the videos linking to other videos they've made representing the choices.
+In this [blog post](http://kulowiectech.blogspot.com/2011/11/choose-your-own-adventure-videos.html), Greg Kulowiec, a high school history teacher and classroom technology integration specialist, describes how to create your own Choose Your Own Adventure videos on [YouTube](/digital-classroom/tech-for-teachers/24867). Students plan and shoot videos, and then create clickable hot spots on the videos linking to other videos they've made representing the choices.
 
 Kulowiec's students used the concept to create videos comparing the French Revolution and recent Egyptian revolutions. Two examples of these projects can be selected and viewed at the end of the string of tutorial videos.
 

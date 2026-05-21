@@ -35,3 +35,20 @@ The lesson begins with the teacher introducing an object from his or her own pas
 Activities 2 and 3 focus on students acting as “historical detectives,” as they generate hypotheses for the purposes of unfamiliar objects in the pictures, and then brainstorm methods for verifying these hypotheses—including interviewing older family members for additional information. Finally, students construct their own historical narratives about an object by creating a museum label for that object. In activity 4, students repeat the process using an object found in their own home.
 
 This lesson walks students through the steps of historical inquiry and introduces them to key historical concepts (historical context and evidence) in an engaging and age-appropriate way.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. Several other museum exhibits from the mid to late 20th century available. |
+| **Historical Content** | Requires students to read and write? | Yes. Students write during interviews and create museum labels. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. This is the central feature of the lesson. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | No. Close analysis of photographs and time period attention needed. |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. Discussion questions and organizational chart provided. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | No. Final activity allows independent inquiry assessment. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

@@ -48,3 +48,7 @@ Demos, John. *A Little Commonwealth: Family Life in Plymouth Colony*. New York: 
 Herndon, Ruth Wallis and John E. Murray, eds. *Children Bound to Labor: The Pauper Apprentice System in Early America*. Ithaca: Cornell University Press, 2009.
 
 Marten, James, ed. *Children in Colonial America*. New York: New York University Press, 2007.
+
+## For Further Reading
+
+Eliza Lucas Pinckney. *The Letterbook of Eliza Lucas Pinckney, 1739-1762*. Ed. by Elise Pinckney and Marvin R. Zahniser. Chapel Hill: University of North Carolina Press, 1972.

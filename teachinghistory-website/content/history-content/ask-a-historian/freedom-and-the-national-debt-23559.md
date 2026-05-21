@@ -101,3 +101,26 @@ The requirement to use gold to buy federal lands suddenly deflated the speculati
 ["Gold Standard,"](http://www.econlib.org/library/Enc/GoldStandard.html) Michael D. Bordo, in *The Concise Encyclopedia of Economics*.
 
 ["Sunk in Lucre's Sordid Charms: South Sea Bubble Resources in the Kress Collection at Baker Library"](http://www.library.hbs.edu/hc/ssb/index.html) (Harvard Business School).
+
+## For Further Reading
+
+Howard Bodenhorn, *A History of Banking in Antebellum America* (Cambridge: Cambridge University Press, 2000).
+
+John Steele Gordon, *Hamilton's Blessing: The Extraordinary Life and Times of Our National Debt* (Walker & Company, 1998).
+
+Carl Lane, "For 'A Positive Profit': The Federal Investment in the First Bank of the United States, 1792-1802," *The William and Mary Quarterly*, Third Series, Vol. 54, No. 3 (July 1997): 601-612.
+
+Bruce H. Mann, *Republic of Debtors: Bankruptcy in the Age of American Independence* (Cambridge and London, 2002).
+
+James Parton, *The Life of Andrew Jackson*, vol. 3 (New York: Mason Brothers, 1888).
+
+Charles Sellers, *The Market Revolution: Jacksonian America, 1815-1846* (New York & Oxford, 1992).
+
+Herbert E. Sloan, *Principle & Interest: Thomas Jefferson & the Problem of Debt* (New York & Oxford, 1995).
+
+Robert E. Wright, *One Nation under Debt: Hamilton, Jefferson, and the History of What We Owe* (New York: McGraw-Hill, 2008).
+
+Itemized federal budget for the 1st year of Jackson's administration, from *[The American Almanac and Repository of Useful Knowledge for the Year 1830*](http://books.google.com/books?id=dK4TAAAAYAAJ&pg=PA1825#v=onepage&q=&f=false) (Boston, Gray and Bowen, 1830): 200-208.
+
+Image:  
+"6 cents. Humbug Glory Bank," 1837, mock bank note parody of the shinplasters of the 1837 panic, Prints and Photographs Collection, Library of Congress.

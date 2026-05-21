@@ -70,3 +70,10 @@ Until about the mid-20th century, historians largely worked from the writings of
 [The History of Jamestown](http://apva.org/rediscovery/page.php?page_id=6) at Preservation Jamestown.
 
 [The Plymouth Colony Archive Project](http://www.histarch.uiuc.edu/plymouth/") at the University of Virginia.
+
+## For Further Reading
+
+Images: 
+"The settlers at Jamestown," William Ludwell Sheppard, 1876, from *Pioneers in the settlement of America: from Florida in 1510 to California in 1849*. Boston: Samuel Walker, 1876-1877.  New York Public Library.
+
+"The pot and platter of Miles Standish," detail from Plymouth stereoview collection.  New York Public Library.

@@ -7,9 +7,6 @@ draft: false
 drupal_nid: 24589
 url: /digital-classroom/beyond-the-chalkboard/24589
 featured: true
-author_bio: Jennifer Orr is a 1st-grade teacher at Annandale Terrace Elementary School
-  in Fairfax County, VA. A National Board Certified Teacher in middle childhood, she
-  has taught 4th, 5th, and 1st grades since 1998.
 splash_image_fid: '7274'
 author_image_fid: '7565'
 summary: Students are never too young for digital tools—watch first graders use VoiceThread.

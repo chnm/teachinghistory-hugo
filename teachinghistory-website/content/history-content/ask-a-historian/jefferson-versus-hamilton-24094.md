@@ -49,4 +49,12 @@ Thomas Jefferson to George Washington, May 23, 1792 and Alexander Hamilton to Ed
 
 Thomas Jefferson, First Inaugural Address, 1801. *Papers of Thomas Jefferson*, ed. by Barbara Oberg. Princeton University Press, 2006. vol. 33: 148-152.
 
-[**Thomas Jefferson Papers**](http://teachinghistory.org/history-content/website-reviews/23201)
+[**Thomas Jefferson Papers**](/history-content/website-reviews/23201)
+
+## For Further Reading
+
+Cunningham, Noble E., Jr. ed. *Jefferson vs. Hamilton: Confrontations That Shaped a Nation*. Boston: Bedford St. Martin’s Press, 2000.
+
+Read, James H. *Power versus Liberty: Madison, Hamilton, Wilson, and Jefferson*. 	Charlottesville: University of Virginia Press, 2000.
+
+Staloff, Darren. *Hamilton, Adams, Jefferson: The Politics of the Enlightenment and the American Founding*. New York: Hill and Wang, 2005.

@@ -45,3 +45,11 @@ Most American English dialects are "rhotic," whereas "Received British Pronuncia
 In addition, not all Americans pronounce the *r*. My aunt Virginia, I imagine, was surprised when, growing up as a little girl in Mississippi, she was taught to spell her name and discovered that there was an *r* in it. In my head, I can hear her pronounce the name of our distant kinsman, "Colonel John Singleton Mosby," and I hear no *r* in it at all.
 
 Now here's a question for you to research: When Brits pronounce the rank of Lieutenant Colonel, why do they sometimes pronounce the word "Lieutenant" as if it were spelled "Lef-tenant?"
+
+## For Further Reading
+
+*The Oxford English Dictionary*, 2nd edition.
+
+*Merriam-Webster's Online Dictionary*.
+
+Images of Virginia Colonels George Washington, John Singleton Mosby, and Robert E. Lee are from the New York Public Library Digital Collection and from the Prints and Photographs Division, Library of Congress.

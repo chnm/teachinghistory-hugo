@@ -96,3 +96,15 @@ Rather than look for proof "beyond doubt" of beliefs about the past, historians 
 Historians then will examine evidence that supports rival claims and judge which is the best explanation on the basis of such evidence, an operation he terms "inference to the best explanation." In cases in which one account "is *far* better at accounting for the totality of the data than the alternatives," he insists that "the historian has every right to claim that such-and-such *was* the case."
 
 With regard to John Hanson, historians thus have the right to claim that he was not black, with one caveat. As with all European Americans, Hanson may have had African ancestors in the far distant past if the arguments of scientists who claim that all humans have roots in African hominids are to be accepted, as opposed to the views of scientists who offer claims that humans developed independently in multiple regions.
+
+## For Further Reading
+
+*Journals of the Continental Congress, 1774-1789,* ed. Worthington C. Ford et al. (Washington, D.C., 190437), 19:21314, 222; 23:582.
+
+J. Bruce Kremer, *John Hanson of Mulberry Grove* (New York: Albert and Charles Boni, 1938), 6061.
+
+Gregory B. Keen, "New Sweden, or the Swedes on the Delaware," in Justin Winsor, ed., *Narrative and Critical History of America* (London: Sampson Low, Marston, Searle & Rivington, 1886), 4:460.
+
+Hester Dorsey Richardson, *Side-lights on Maryland History, with Sketches of Early Maryland Families* (Baltimore: Williams and Wilkins, 1913), 37173.
+
+Allan Megill, *Historical Knowledge, Historical Error: A Contemporary Guide to Practice* (Chicago: University of Chicago Press, 2007), 12829.

@@ -24,7 +24,7 @@ While your students likely won't see Timur Bekmambetov's film *Abraham Lincoln: 
 
 In his mashup of historical details and fictional supernatural conspiracy, author Seth Grahame-Smith imagines Abraham Lincoln's life as a secret quest to rid the U.S. of vampires. As Lincoln grows up and becomes a lawyer, politician, and, finally, president, he slays monsters that threaten the safety of his friends, family, and country.
 
-What can teachers do with this meshing of history and fiction? First, remind students that historical fiction presents the past as part of a larger story. *Abraham Lincoln: Vampire Hunter*, with vampires fighting in the Civil War, may be more obvious than most, but even the most carefully-crafted story, based on primary sources and taking [multiple perspectives](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/23610) into account, should be examined as historical fiction.
+What can teachers do with this meshing of history and fiction? First, remind students that historical fiction presents the past as part of a larger story. *Abraham Lincoln: Vampire Hunter*, with vampires fighting in the Civil War, may be more obvious than most, but even the most carefully-crafted story, based on primary sources and taking [multiple perspectives](/teaching-materials/ask-a-master-teacher/23610) into account, should be examined as historical fiction.
 > Remind students to think critically about representations of the past.
 
 Authors must select a viewpoint, develop their plot, and try to make sense of existing secondary and primary sources in a way that engages readers in a tale with a beginning and an end. Students should approach any work of historical fiction with a critical eye.
@@ -38,4 +38,4 @@ So, how can students know if a detail or event reported as "true" in a story lik
 
 For instance, did the young Lincoln actually win the loyalty of the "Clary's Grove Boys" by beating their leader in a fight? Is this story mentioned in any [biographies](http://books.google.com/books?hl=en&lr=&id=HC6dwv9aY84C&oi=fnd&pg=PA1&dq=clary%27s+grove&ots=FAcUT5gaie&sig=6jWxIARw6S0NlUdZpUd4qy69Lkc#v=onepage&q=clary%27s%20grove&f=false) or [other secondary sources](http://memory.loc.gov/cgi-bin/query/r?ammem/mal:@field%28DOCID+@lit%28d0297401%29%29)? Do any firsthand witnesses describe it? How about Lincoln himself?
 
-*Abraham Lincoln: Vampire Hunter* is a flight of fantasy, but its over-the-top combination of history and fiction can help remind students to always [think historically](http://teachinghistory.org/historical-thinking-intro). Never take anything you read for granted (with or without vampires)!
+*Abraham Lincoln: Vampire Hunter* is a flight of fantasy, but its over-the-top combination of history and fiction can help remind students to always [think historically](/historical-thinking-intro). Never take anything you read for granted (with or without vampires)!

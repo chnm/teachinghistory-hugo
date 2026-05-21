@@ -56,3 +56,17 @@ Moody, Anne. [*Coming of Age in Mississippi*](http://www.randomhouse.com/catalog
 Pitrone, Jean Maddern.  [*F. W. Woolworth and the American Five and Dime: A Social History.*](http://www.mcfarlandpub.com/book-2.php?id=978-0-7864-3024-6) Jefferson, NC: McFarland & Company, Inc., 2007.
 
 [**Veterans of the Civil Rights Movement**](http://www.crmvet.org/images/imgcoll.htm) \*for iconic images of the sit in scroll to the bottom half of the page\*](http://books.simonandschuster.com/Pillar-of-Fire/Taylor-Branch/9780684848099)
+
+## For Further Reading
+
+[**Civil Rights in America: Racial Desegregation of Public Accommodations.**](http://www.nps.gov/history/nhl/themes/Public%20Accom.pdf) The National Historic Landmarks, Cultural Resources, National Park Service, U.S. Department of the Interior, Washington, D.C.  (accessed December 1, 2010).
+
+Dittmer, John.  [Local People: The Struggle for Civil Rights in Mississippi.](http://www.press.uillinois.edu/books/catalog/47qng2nh9780252065071.html) Champaign, IL: University of Illinois Press, 1994.  
+
+“Jackson Seizes 19 in Racial Protest.” *New York Times*, May 30, 1963.
+
+“Woolworth Posts Sales Gain, Defends Exclusion of Negroes.” *New York Times*, May 19, 1960.
+
+Wright, Gavin.  [“Southern Business and Public Accommodations: An Economic-Historical Paradox.”](http://www.stanford.edu/~write/papers/ParadoxR.pdf)  Paper presented at Business History Conference, Sacramento, California, April, 2008.
+
+“3 In Sit-In Beaten At Jackson Store.” *New York Times*, May 29, 1963.

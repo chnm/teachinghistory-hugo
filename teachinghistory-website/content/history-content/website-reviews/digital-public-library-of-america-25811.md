@@ -56,6 +56,6 @@ Visitors to the website can search the more than 4,500,000 objects in the collec
 
 Visitors can also browse objects on a map or timeline—a fantastic way to prompt thinking about how primary sources are located in time and space. The timeline stretches from 1000 BCE to the present. (Note that zooming into the map returns finer results.) In addition, more than eight virtual exhibits demonstrate how DPLA sources can be curated to tell stories about themes and events.
 
-The DPLA's API (application programming interface) allows visitors with the know-how to create apps drawing on the DPLA's collections. An eclectic set of more than 10 apps lets visitors browse DPLA's search results as a "river of images," discover primary sources related to their [Zotero](http://teachinghistory.org/digital-classroom/tech-for-teachers/14585) bibliographies, and more.
+The DPLA's API (application programming interface) allows visitors with the know-how to create apps drawing on the DPLA's collections. An eclectic set of more than 10 apps lets visitors browse DPLA's search results as a "river of images," discover primary sources related to their [Zotero](/digital-classroom/tech-for-teachers/14585) bibliographies, and more.
 
 A fantastic starting point for anyone looking for primary sources, teachers can feel confident pointing students towards the DPLA to begin research projects or turning to the DPLA themselves to find resources to support lesson plans.

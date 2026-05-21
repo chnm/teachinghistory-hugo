@@ -31,11 +31,11 @@ The very short answer is that copyright is complicated. For educators, though, t
 
 ## Fair Use
 
-Fair use is an educator's best friend. Start with the [official policy on fair use](http://www.copyright.gov/fls/fl102.html) to learn more about copyright and classroom use. Materials in the public domain, or no longer covered by copyright restrictions, are also valuable to teaching. Learn more at [Beyond Google Searching](http://teachinghistory.org/digital-classroom/ask-a-digital-historian/24089) on copyright and searching for resources in the public domain.
+Fair use is an educator's best friend. Start with the [official policy on fair use](http://www.copyright.gov/fls/fl102.html) to learn more about copyright and classroom use. Materials in the public domain, or no longer covered by copyright restrictions, are also valuable to teaching. Learn more at [Beyond Google Searching](/digital-classroom/ask-a-digital-historian/24089) on copyright and searching for resources in the public domain.
 
 > Generally speaking, if you are using a copyrighted item for educational purposes with no financial gain, you're off to a good start.
 
-Generally speaking, if you are using a copyrighted item for educational purposes with no financial gain, you're off to a good start for fair use. That said, if you plan to make the PowerPoint available in any other way (such as online for students to download), it is more complicated. One of our blog entries, "[Copyright: Finding Images to Tell the Story of History](http://teachinghistory.org/nhec-blog/24592)," offers links to a wide variety of resources for examining copyright, as well as for introducing your students to the concept. Don't be deterred by the fact that this post focuses on image copyright. There's still a wealth of relevant information!
+Generally speaking, if you are using a copyrighted item for educational purposes with no financial gain, you're off to a good start for fair use. That said, if you plan to make the PowerPoint available in any other way (such as online for students to download), it is more complicated. One of our blog entries, "[Copyright: Finding Images to Tell the Story of History](/nhec-blog/24592)," offers links to a wide variety of resources for examining copyright, as well as for introducing your students to the concept. Don't be deterred by the fact that this post focuses on image copyright. There's still a wealth of relevant information!
 
 ## Tools
 
@@ -57,11 +57,11 @@ The very short answer is that copyright is complicated. For educators, though, t
 
 ## Fair Use
 
-Fair use is an educator's best friend. Start with the [official policy on fair use](http://www.copyright.gov/fls/fl102.html) to learn more about copyright and classroom use. Materials in the public domain, or no longer covered by copyright restrictions, are also valuable to teaching. Learn more at [Beyond Google Searching](http://teachinghistory.org/digital-classroom/ask-a-digital-historian/24089) on copyright and searching for resources in the public domain.
+Fair use is an educator's best friend. Start with the [official policy on fair use](http://www.copyright.gov/fls/fl102.html) to learn more about copyright and classroom use. Materials in the public domain, or no longer covered by copyright restrictions, are also valuable to teaching. Learn more at [Beyond Google Searching](/digital-classroom/ask-a-digital-historian/24089) on copyright and searching for resources in the public domain.
 
 > Generally speaking, if you are using a copyrighted item for educational purposes with no financial gain, you're off to a good start.
 
-Generally speaking, if you are using a copyrighted item for educational purposes with no financial gain, you're off to a good start for fair use. That said, if you plan to make the PowerPoint available in any other way (such as online for students to download), it is more complicated. One of our blog entries, "[Copyright: Finding Images to Tell the Story of History](http://teachinghistory.org/nhec-blog/24592)," offers links to a wide variety of resources for examining copyright, as well as for introducing your students to the concept. Don't be deterred by the fact that this post focuses on image copyright. There's still a wealth of relevant information!
+Generally speaking, if you are using a copyrighted item for educational purposes with no financial gain, you're off to a good start for fair use. That said, if you plan to make the PowerPoint available in any other way (such as online for students to download), it is more complicated. One of our blog entries, "[Copyright: Finding Images to Tell the Story of History](/nhec-blog/24592)," offers links to a wide variety of resources for examining copyright, as well as for introducing your students to the concept. Don't be deterred by the fact that this post focuses on image copyright. There's still a wealth of relevant information!
 
 ## Tools
 

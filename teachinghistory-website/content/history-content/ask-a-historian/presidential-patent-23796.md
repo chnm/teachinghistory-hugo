@@ -48,3 +48,12 @@ Ida M. Tarbell, ed. ["Lincoln. … The Building of the Flatboat and the Trip to 
 The National Park Service "Lincoln Boyhood National Memorial" [explanation](https://www.nps.gov/libo/index.htm) of flatboats.
 
 Spencer County, Indiana, in 2008, sponsored a goodwill recreation of Lincoln's 1828 flatboat journey with a 26-day trip down the Ohio and Mississippi rivers from Rockport, Indiana, to New Orleans, on a reconstructed flatboat in an event it called "Lincoln's Journey of Remembrance" as part of the national celebration of the centennial of Lincoln's birth. One of the participants posted a blog of the trip.
+
+## For Further Reading
+
+Images:
+George Caleb Bingham, "Jolly Flatboatmen in Port," 1857. National Gallery of Art, Washington, D.C.
+
+Detail from Lincoln's patent application, U.S. Patent and Trademark Office.
+
+Detail of daguerreotype of Lincoln, ca. 1846-47, perhaps during his Congressional term, Library of Congress.

@@ -129,3 +129,11 @@ By law, the press is limited in its content when such content would be libelous,
 Such skirmishes began in earnest with the passage of the Sedition Act of 1798, which, for a time, made it an offense "To write, print, utter or publish, or cause it to be done, or assist in it, any false, scandalous, and malicious writing against the government of the United States, or either House of Congress, or the President, with intent to defame, or bring either into contempt or disrepute, or to excite against either the hatred of the people of the United States, or to stir up sedition, or to excite unlawful combinations against the government, or to resist it, or to aid or encourage hostile designs of foreign nations."
 
 Nevertheless, it is a sign of how little support the Constitution gave to the government to define for itself the content of what the press could publish that 1st Amendment cases involving questions of the freedom of the press were decided in what historian Lucas Powe calls a "haphazard" fashion until the 1964 Supreme Court decision of *The New York Times* v. *Sullivan*, which clarified what constituted libel and what did not.
+
+## For Further Reading
+
+Herbert Brucker. *Freedom of Information.* New York: Macmillan, 1949, pp. 9-16.
+Douglass Cater. *The Fourth Branch of Government.* Boston: Houghton Mifflin, 1959.
+Lucas A. Powe, Jr. *The Fourth Estate and the Constitution: Freedom of the Press in America.* Berkeley: University of California Press, 1991.
+Lyrissa B. Lidsky and R. George Wright. *Freedom of the Press: A Reference Guide to the United States Constitution.* Westport, CT: Praeger, 2004.
+[Text of the Sedition Act of 1798.](http://www.constitution.org/rf/sedition_1798.htm)

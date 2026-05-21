@@ -11,7 +11,7 @@ Here are definitions to some of the most commonly used terms on Teachinghistory.
 
 **Digital History**: the study of history that uses technology tools to analyze, interpret, and present the past.
 
-**ELL**: acronym for English Language Learners, which refers to students in the process of acquiring English whose first language is other than English. Teachinghistory.org offers [ELL resources](http://www.teachinghistory.org/teaching-materials/english-language-learners) in [Teaching Materials](http://www.teachinghistory.org/teaching-materials).
+**ELL**: acronym for English Language Learners, which refers to students in the process of acquiring English whose first language is other than English. Teachinghistory.org offers [ELL resources](/teaching-materials/english-language-learners) in [Teaching Materials](/teaching-materials).
 
 **Historical Context**: the political, social, cultural, and economic environment related to historical moments, events, and trends . Historical artifacts and sources were created within particular worlds and are tied to the political, social, and economic conditions of those worlds.
 
@@ -23,7 +23,7 @@ Here are definitions to some of the most commonly used terms on Teachinghistory.
 
 **Primary Sources**: materials directly related to the past by time or participation—things created in the past by people living at the time. Primary sources include photographs, prints, paintings, documents, advertisements, music and film, letters, newspaper articles, and objects.
 
-**Rubric**: a set of criteria for evaluating a work or performance. Teachinghistory.org offers a [lesson plan rubric](http://teachinghistory.org/files/rubric.pdf) to assess the effectiveness of lesson plans.
+**Rubric**: a set of criteria for evaluating a work or performance. Teachinghistory.org offers a [lesson plan rubric](/files/rubric.pdf) to assess the effectiveness of lesson plans.
 
 **Secondary Sources**: writings by historians and others who use available sources to interpret the past. They provide analysis and summary, placing events, people, and evidence in historical context and asking questions about their meaning and significance.
 

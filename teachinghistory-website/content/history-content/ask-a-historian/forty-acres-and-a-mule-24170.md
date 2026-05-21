@@ -46,7 +46,7 @@ I have not found a map of it either, but that may be partly because the field or
 General William Sherman issued Special Field Order No. 15 from his temporary headquarters in Savannah on January 16, 1865. It defined an area along the coast north and south of where he had encamped his army: “The islands from Charleston south, the abandoned rice fields along the rivers for thirty miles back from the sea and the country bordering the St. John River, Florida.” A broad interpretation of this would take it to include a continuous 30-mile-wide swath of land extending along the coast south from Charleston, South Carolina, as far as Jacksonville, Florida, and including all the Sea Islands. I have cropped a section of an 1854 map from *Wells’ McNally’s System of Geography* and tinted this area light red.
 
 This is the region of South Carolina, Georgia, and Florida that is known as the “low country.” You can show your students why it is called that by looking at the satellite version of the Google map for the region, which shows that it is a deep shade of green.
-![sherman-reserve.jpg](http://www.teachinghistory.org/files/sherman-reserve.jpg "sherman-reserve.jpg")
+![sherman-reserve.jpg](/files/sherman-reserve.jpg "sherman-reserve.jpg")
 It is flat and almost entirely just above sea level. It was an area where large rice plantations flourished. Growing rice was an extremely labor intensive occupation and the plantation owners owned many slaves. The slave population of the area therefore far exceeded the white population, which, of course, constituted the landholders.
 > a continuous 30-mile-wide swath of land extending along the coast
 
@@ -106,3 +106,13 @@ Claude F. Oubre, *Forty Acres and a Mule: The Freedmen’s Bureau and Black Land
 Barton Myers, ["Sherman's Field Order No. 15,"](http://www.georgiaencyclopedia.org/nge/Article.jsp?id=h-3353) *The New Georgia Encyclopedia, 2005.
 
 Text of [Special Field Order No. 15](http://www.history.umd.edu/Freedmen/sfo15.htm), at the Freedmen & Southern Society Project at the University of Maryland.*
+
+## For Further Reading
+
+William T. Sherman, “Sherman’s Famous Field Order,” *New York Times*, February 3, 1866.
+
+Frank Abial Flower, *Edwin McMasters Stanton: The Autocrat of Rebellion, Emancipation, and Reconstruction*.  Akron: Saalfield Publishing Company, 1904, p. 298.
+
+Jacqueline Jones, *Saving Savannah: The City and the Civil War*.  New York: Vintage Books, 2008, p. 222.
+
+J. Wells,  “Georgia, Alabama, and Florida,” from *Wells’ McNally’s System of Geography*.  New York: McNally, 1854.

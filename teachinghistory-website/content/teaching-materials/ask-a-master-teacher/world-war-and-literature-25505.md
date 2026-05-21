@@ -113,4 +113,4 @@ The narrator of Ruta Sepetys's ***Between Shades of Gray***, 15-year-old Lina, b
 
 See [here](http://www.cde.ca.gov/ci/rl/ll/ap/litsearch.asp) to search the California literature recommendations. Choose “historical fiction” as one of your search parameters.
 
-This *Ask a Master Teacher* [entry](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/20685) has some other helpful resources for finding historical literature.
+This *Ask a Master Teacher* [entry](/teaching-materials/ask-a-master-teacher/20685) has some other helpful resources for finding historical literature.

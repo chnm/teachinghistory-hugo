@@ -47,3 +47,11 @@ Line charges, especially when accompanied by artillery fire that arrived at enem
 Historian Guy Chet has discredited a popular "Americanization thesis" that attributed colonists in militias during the late 17th and early 18th centuries with adopting guerrilla warfare tactics learned in battles with Indians as more appropriate than linear formations for fighting in wilderness terrains. Chet finds a lack of evidence for the claim and maintains that contrary to popular belief, the initial victories of American forces in the first battles of the War of Independence were not due to so-called American tactics, but from the failure of the British forces to adhere to established tactics and strategies.
 
 While guerrilla warfare did break out in the backcountry of the South during the final year of the Revolutionary War, both sides for the most part engaged in battles fought according to tactics developed during the Military Revolution.
+
+## For Further Reading
+
+Clifford J. Rogers, ed., [*The Military Revolution Debate: Readings on the Military Transformation of Early Modern Europe*](http://www.westviewpress.com/book.php?isbn=9780813320540).  Boulder: Westview Press, 1995.
+
+Jeremy Black, [*European Warfare, 16601815*](http://yalepress.yale.edu/book.asp?isbn=9780300061703).  New Haven: Yale University Press, 1994.
+
+Guy Chet, [*Conquering the American Wilderness: The Triumph of European Warfare in the Colonial Northeast*](http://www.umass.edu/umpress/title/conquering-american-wilderness).  Amherst and Boston: University of Massachusetts Press, 2003.

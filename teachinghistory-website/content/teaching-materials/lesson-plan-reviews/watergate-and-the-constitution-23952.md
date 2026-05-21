@@ -42,3 +42,20 @@ The question at the center of the lesson is, "Should the Watergate Special Prose
 An additional strength of this lesson is two activities that use the Constitution as a lens to understand the Watergate affair. One of the [suggested activities](http://www.archives.gov/education/lessons/watergate-constitution/activities.html) asks students to identify the specific role each branch of government played in the Watergate affair. Another activity asks students to apply specific sections of the Constitution and determine the role particular constitutional powers and rights played in the Watergate affair.
 
 This lesson would likely work best after an introductory lesson on Watergate. While there is no formal assessment included in this lesson, the questions presented by the document easily lend themselves to an essay or a discussion.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes. Document from The National Archives. |
+| **Historical Content** | Includes historical background? | Yes. Background for teachers and students, plus a Watergate chronology. |
+| **Historical Content** | Requires students to read and write? | Yes. Centered around a primary document. Students read the Constitution. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Students weigh reasons for and against indicting Nixon. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes |
+| **Scaffolding** | Appropriate for stated audience? | Yes. Appropriate and accessible for most high school students. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. Includes Archives worksheet for analyzing primary documents. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | No |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes. Appropriate for one class period. |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes. Clearly presented. Easily adapted for History or Civic standards. |

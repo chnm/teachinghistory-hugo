@@ -65,3 +65,13 @@ Library of Congress. ["Prints and Photographs Collection Online Catalog."](http:
 Taubman, William. [*Khrushchev: The Man and His Era.*](http://books.wwnorton.com/books/detail.aspx?ID=7524) New York: W. W. Norton & Company, 2004.
 
 University of Kent. ["British Cartoon Archive, Illingsworth Collection"](http://www.cartoons.ac.uk/search/cartoon_item/illingworth) Accessed January 2011.
+
+## For Further Reading
+
+Dobbs, Michael.  [*One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War.*](http://www.amazon.com/One-Minute-Midnight-Kennedy-Khrushchev/dp/1400078911/ref=sr_1_1?s=books&ie=UTF8&qid=1295625472&sr=1-1) New York: Vintage Books, 2008.
+
+Kennedy, Robert F.  [*Thirteen Days.*](http://books.wwnorton.com/books/detail.aspx?ID=6438)  New York: W.W. Norton & Company, 1999.  
+
+Illingsworth, Leslie Gilbert.  ["Kennedy/Khrushchev"](http://www.cartoons.ac.uk/record/ILW3584).  *The Daily Mail*, October 29, 1962.  Accessed January 2011.  
+
+Valtman, Edmund.  ["This hurts me more than it hurts you."](http://www.loc.gov/rr/print/swann/valtman/images/valt04.jpg)  *The Hartford Times*, October 30, 1962.  Accessed January 2011.

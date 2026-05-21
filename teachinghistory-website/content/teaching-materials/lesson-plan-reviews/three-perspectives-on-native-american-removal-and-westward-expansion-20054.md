@@ -30,3 +30,20 @@ The two features that we like best about this [lesson](http://www.teachushistory
 The focus questions for each document which are provided at the end of the document package are also helpful. These questions help to ensure that students understand the documents, but teachers will likely want to add additional questions to meet their specific learning objectives.
 
 The two lessons in this unit use the same basic packet of 10 readings, but neither lesson provides detailed instructions about how the materials should be used. Teachers are encouraged to select readings and questions to meet the needs of their students. Finally while neither lesson requires writing, there are a variety of opportunities to insert meaningful writing tasks into the lessons, particularly in the final assessment of the second lesson.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | No. Background for teachers but not students. |
+| **Historical Content** | Requires students to read and write? | No. Close reading required but little writing. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Group roles require evidence search and interpretation. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Limited information about resource origins. |
+| **Scaffolding** | Appropriate for stated audience? | Yes. Flexible for a wide range of students. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. Tasks arranged in order of difficulty. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. Written response to guiding questions recommended. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes. Clearly stated, but teachers should focus on one or two objectives. |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | No. Very few directions provided. |

@@ -30,6 +30,6 @@ According to [The Beehive](http://www.masshist.org/blog/54), the official blog o
 
 So, historians decided to extend the outreach of the archives and gave Adams his own [Twitter feed](http://twitter.com/JQAdams_MHS). They currently post a daily entry taken verbatim from the Adams diary. Current entries for September follow his journey to St Petersburg begun in August 1809 as America's first Russian ambassador (or Minister Plenipotentiary, as the title was at that time). The posts link to maps tracing his travels, his reading lists, and to other [diary entries digitized](http://www.masshist.org/jqadiaries/how.cfm) on the Historical Society website. Adams's Tweets are generally shorter than Twitter's 140-character limit, and as an added bonus, the digitized diaries reveal that unlike many of his compatriots, Adams's penmanship was impeccable and, therefore, largely readable.
 
-Interested in the educational applications of Twitter? Check out the Clearinghouse  [entry on Twitter](http://teachinghistory.org/digital-classroom/tech-for-teachers/21851) in the [Tools for Teachers](http://teachinghistory.org/digital-classroom) section.
+Interested in the educational applications of Twitter? Check out the Clearinghouse  [entry on Twitter](/digital-classroom/tech-for-teachers/21851) in the [Tools for Teachers](/digital-classroom) section.
 
 \*ROTFLOL: Rolling on the Floor Laughing Out Loud

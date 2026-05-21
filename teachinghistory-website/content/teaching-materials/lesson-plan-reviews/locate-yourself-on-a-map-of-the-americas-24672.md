@@ -38,3 +38,20 @@ Designed for a single-period, the lesson begins with students identifying the co
 The lesson is built around National Geographic’s [MapMaker kit](http://education.nationalgeographic.com/education/program/nat-geo-mapmaker-kits/?ar_a=1) for the Americas—part of their larger MapMaker kit [collection](http://education.nationalgeographic.com/education/program/nat-geo-mapmaker-kits/?ar_a=1). For first-time users, video tutorials are available, and each kit enables the user to download, print, and assemble maps of varying scales. Map sizes range from “mega maps” designed for walls to one-page outline maps designed for individual study.
 
 The strength of this lesson is that it introduces a key concept in historical thinking: geographical location and spatial relationships. By helping students understand the relationships between and among various locations, it establishes an important foundation for students in early elementary grades to learn about historical context. The website isn’t always the most intuitive to navigate, but persistence pays off with high-quality free resources.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | N/A. The focus is geography. |
+| **Historical Content** | Includes historical background? | N/A |
+| **Historical Content** | Requires students to read and write? | No |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | No |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Requires close reading of maps. |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | No. Assessment checks geographic understanding; no criteria. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

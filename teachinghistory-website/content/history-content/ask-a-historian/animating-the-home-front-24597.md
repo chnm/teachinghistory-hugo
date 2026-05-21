@@ -50,3 +50,11 @@ A collection of short cartoons and movies from the Disney Studio during World Wa
 Clayton R. Koppes and Gregory D. Black, *Hollywood Goes to War: How Politics, Profits and Propaganda Shaped World War II Movies.* Berkeley: University of California Press, 1990.
 
 Thomas Doherty, *Projections of War: Hollywood, American Culture, and World War II.* New York: Columbia University Press, 1999.
+
+## For Further Reading
+
+James J. Kimble, *Mobilizing the Home Front.*  College Station: Texas A&M University Press, 2006.
+
+Steven Watts, *The Magic Kingdom: Walt Disney and the American Way of Life.* Boston: Houghton Mifflin, 1997.
+
+Cass Warner-Sperling, Cork Millner, and Jack Warner. *Hollywood Be Thy Name: The Warner Brothers Story.* Lexington: University Press of Kentucky, 1999.

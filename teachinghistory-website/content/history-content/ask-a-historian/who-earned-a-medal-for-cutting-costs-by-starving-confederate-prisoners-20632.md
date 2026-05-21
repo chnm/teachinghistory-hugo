@@ -69,3 +69,11 @@ Colonel Hoffman appears to have handled the management of Point Lookout no diffe
 Many prison camps on both sides during the war were miserable places where many tens of thousands of prisoners from either side died. Prisoners returning from Point Lookout, however, pointed out that whereas some of the privations of Union prisoners in Confederate camps might be attributed to the general deterioration of conditions in the South as the war progressed, the privations of Southern prisoners in Union camps had no such contributing cause, and, in fact, were fostered by a commonly-practiced policy of retribution.
 
 At the end of the war, Colonel Hoffman, having stifled some camp commanders and aid groups who had wished to help Confederate prisoners during the war, was actually able to return to the U.S. Treasury almost $2 million that had been originally allocated to feed Confederate prisoners. He was brevetted Brigadier General on October 7, 1864, for "faithful services," and then brevetted Major General on March 13, 1865, for "faithful, meritorious and distinguished services as Commissary General of Prisoners during war."
+
+## For Further Reading
+
+Robert E. Denney, *Civil War Prisons & Escapes: a day-by-day chronicle* (New York: Sterling Publishing Company, 1993).
+
+Library of Congress, Prints and Photographs Division, *Washington, D.C. Gen. William Hoffman, Commissary General of Prisoners (at right) and staff on steps of office, F. St. at 20th NW*, [http://hdl.loc.gov/loc.pnp/cwpb.03953](http://hdl.loc.gov/loc.pnp/cwpb.03953).  
+
+James Barnes and staff at Point Lookout Prison, 1863.

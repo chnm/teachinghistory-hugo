@@ -6,8 +6,6 @@ content_type: beyond_the_chalkboard
 draft: false
 drupal_nid: 24158
 url: /digital-classroom/beyond-the-chalkboard/24158
-author_bio: Joe Jelen teaches history and civics at Fairfield Warde High School in
-  Connecticut.
 splash_image_fid: '6277'
 author_image_fid: '6261'
 summary: High school teacher Joe Jelen introduces the primary source analysis strategy

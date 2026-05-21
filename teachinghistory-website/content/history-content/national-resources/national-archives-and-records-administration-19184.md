@@ -36,12 +36,12 @@ Or search NARA's catalog through the [Archival Research Catalog (ARC).](http://w
 
 If you would like to learn about your (or any other) region specifically, be sure to take a look at the physical archives and web resources provided by the NARA in various parts of the country. The following list links to each region's listing on teachinghistory.org.
 
-* [Central Plains](http://teachinghistory.org/history-content/historical-site/23957)
-* [Great Lakes](http://teachinghistory.org/history-content/historical-site/23956)
-* [Mid Atlantic](http://teachinghistory.org/history-content/historical-site/24002)
-* [Northeast](http://teachinghistory.org/history-content/historical-site/23963)
-* [Pacific Alaska](http://teachinghistory.org/history-content/historical-places/8813)
-* [Pacific](http://teachinghistory.org/history-content/historical-site/23954)
-* [Rocky Mountain](http://teachinghistory.org/history-content/historical-site/23955)
-* [Southeast](http://teachinghistory.org/history-content/historical-site/23960)
-* [Southwest](http://teachinghistory.org/history-content/historical-site/23959)
+* Central Plains
+* Great Lakes
+* Mid Atlantic
+* Northeast
+* Pacific Alaska
+* Pacific
+* Rocky Mountain
+* Southeast
+* Southwest

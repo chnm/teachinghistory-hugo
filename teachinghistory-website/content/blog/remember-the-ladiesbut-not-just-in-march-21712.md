@@ -47,13 +47,13 @@ A new book, [*Clio in the Classroom: A Guide to Teaching U.S. Women's History*](
 ## Websites
 
 Links below lead to a few of the reviews and websites on women's history included in the [Clearinghouse database of website reviews](/history-content/website-reviews).
-> [Women and Social Movements in the United States, 1600-2000](http://teachinghistory.org/history-content/website-reviews/14712)
-> [Jewish Women's Archives](http://teachinghistory.org/history-content/website-reviews/14754)
-> [Emma Goldman Papers](http://teachinghistory.org/history-content/website-reviews/14806)
-> [Kate and Sue McBeth: Missionary Teachers to the Nez Perce](http://teachinghistory.org/history-content/website-reviews/14663)
->  [Do History: Martha Ballard's Diary Online](http://teachinghistory.org/history-content/website-reviews/14608)
-> [Votes for Women: Selections from the National American Woman Suffrage Association Collection, 1848–1921](http://teachinghistory.org/history-content/website-reviews/14752)
-> [Urban Experience in Chicago: Hull-House and Its Neighborhoods, 1889–1963](http://teachinghistory.org/history-content/website-reviews/14677)
+> [Women and Social Movements in the United States, 1600-2000](/history-content/website-reviews/14712)
+> [Jewish Women's Archives](/history-content/website-reviews/14754)
+> [Emma Goldman Papers](/history-content/website-reviews/14806)
+> [Kate and Sue McBeth: Missionary Teachers to the Nez Perce](/history-content/website-reviews/14663)
+>  [Do History: Martha Ballard's Diary Online](/history-content/website-reviews/14608)
+> [Votes for Women: Selections from the National American Woman Suffrage Association Collection, 1848–1921](/history-content/website-reviews/14752)
+> [Urban Experience in Chicago: Hull-House and Its Neighborhoods, 1889–1963](/history-content/website-reviews/14677)
 
 ## Museums and Historic Sites
 

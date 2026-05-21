@@ -53,3 +53,11 @@ In this account, Lincoln began by commenting on the abundance of dreams in the B
 > Lincoln nevertheless alluded to a recent dream that "has haunted me ever since."
 
 Yet historians Don E. Fehrenbacher and Virginia Fehrenbacher have cited internal inconsistencies and external evidence regarding Lamon's account that lead them to question its veracity. Lamon stated that the incident had occurred only a few days prior to the assassination, yet within Lincoln's monologue he related at one point that the dream occurred "the other night" and also "about ten days ago." The Fehrenbachers pointed out that although Lincoln stated in the account that on the night of the dream he "had been up waiting for important dispatches from the front," during the period of March 24 to April 9, he in fact had been at the front, rather than in the White House. In addition, there was no contemporaneous account of the dream following the assassination. No one mentioned it in the voluminous writings of the period, not Mary Lincoln, Lamon, anyone else at the supposed telling of the dream, or anyone to whom those who heard it may have relayed it. Despite these seeming inconsistencies, the Fehrenbachers note that Lamon's account of the dream has been quoted as fact by a number of respected authors.
+
+## For Further Reading
+
+Ward Hill Lamon, [*Recollections of Abraham Lincoln, 18471865*](https://www.nebraskapress.unl.edu/university-of-nebraska-press/9780803279506/).  Edited by Dorothy Lamon Teillard.  Lincoln, NE: University of Nebraska Press, 1994.
+
+Don E. Fehrenbacher and Virginia Fehrenbacher, comp. and ed., [*Recollected Words of Abraham Lincoln*](https://www.sup.org/books/title/?id=2102).  Stanford: Stanford University Press, 1996.
+
+Dwight G. Anderson, "Quest for Immortality: A Theory of Abraham Lincoln's Political Psychology."  In [*The Historian's Lincoln: Pseudohistory, Psychohistory, and History*](http://www.press.uillinois.edu/books/catalog/32ztz5qs9780252065446.html), edited by Gabor S. Boritt and Norman O. Forness.  Urbana, IL: University of Illinois Press, 1988.

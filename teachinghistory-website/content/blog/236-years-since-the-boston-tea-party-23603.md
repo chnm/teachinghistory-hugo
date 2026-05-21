@@ -42,9 +42,9 @@ A blog entry of the online journal, [Common-Place](http://www.common-place.org),
 
 Clearinghouse resources offer further analysis and background materials on the Boston Tea Party:
 
-[Ask-a-Historian](http://teachinghistory.org/history-content/ask-a-historian/20657) looks at the question, "The Boston Tea Party is well documented, but are there other instances of similar raids?" and traces how the spirit of resistance spread. Another reader asks, [Why were the Sons of Liberty](http://teachinghistory.org/history-content/ask-a-historian/20343) not stopped by British troops as they boarded three ships in Boston Harbor on Dec. 16, 1773?
+[Ask-a-Historian](/history-content/ask-a-historian/20657) looks at the question, "The Boston Tea Party is well documented, but are there other instances of similar raids?" and traces how the spirit of resistance spread. Another reader asks, [Why were the Sons of Liberty](/history-content/ask-a-historian/20343) not stopped by British troops as they boarded three ships in Boston Harbor on Dec. 16, 1773?
 
-In the Clearinghouse [Issues and Research](/issues-and-research) section, the article  [Fifth Graders as Historical Detectives: Reading, Analyzing, and Critiquing Documents to Solve Historical Puzzles](http://teachinghistory.org/issues-and-research/research-briefs/19570) demonstrates how elementary students learn historical thinking using primary source materials centering on the Boston Tea Party.
+In the Clearinghouse Issues and Research section, the article  Fifth Graders as Historical Detectives: Reading, Analyzing, and Critiquing Documents to Solve Historical Puzzles demonstrates how elementary students learn historical thinking using primary source materials centering on the Boston Tea Party.
 
 Boston's Public Television Stations, WGBH, offers a series of lectures from the Old South Meeting House. Among them: [Charles Bahne, writer, historian and tour guide tells the story of events before, during, and after the tea party using artifacts and historic sites to illustrate.
 

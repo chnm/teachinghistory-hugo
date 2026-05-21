@@ -52,3 +52,10 @@ Only 147 Union deserters were executed during the course of the war. Rather than
 The prevalence of desertion from the ranks of both armies speaks to an interesting reality about those soldiers’ conception of military obligation. Long mistrustful of professional armies and fiercely protective of individual liberties, many Americans of the mid-nineteenth century (North and South) adhered to a conception of military service as a contractual—one that involved obligations from the state as well as from the citizen-soldier.
 
 For some Civil War volunteers, their service in the army was predicated on specific treatment from their officers and the government. When they believed that the government had not held up its end of the bargain (by failing to provide essential supplies, for example, or by furnishing incompetent leaders) they assumed that the contract had been voided—and their absence, by extension, did not constitute desertion.
+
+## For Further Reading
+
+Images:
+Part of an editorial, "The Deserter," *New York Evangelist*, September 26, 1861.
+
+"Execution of a Deserter in the Federal Camp, Alexandria," *Illustrated London News*, January 11, 1862.

@@ -41,4 +41,4 @@ Thanks for your question and good luck!
 
 ---
 
-See [more on this topic]( http://teachinghistory.org/teaching-materials/teaching-guides/22206) elsewhere on this website.
+See [more on this topic]( /teaching-materials/teaching-guides/22206) elsewhere on this website.

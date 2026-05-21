@@ -48,3 +48,17 @@ Klein, Maury. [The Life and Legend of Jay Gould](http://www.amazon.com/Life-Lege
 Nasaw, David. [Andrew Carnegie](http://www.amazon.com/Andrew-Carnegie-David-Nasaw/dp/0143112449/ref=sr_1_1?s=books&ie=UTF8&qid=1286902596&sr=1-1), New York: Penguin, 2006.
 
 Tarbell, Ida. [The History of the Standard Oil Company](http://www.amazon.com/The-History-Standard-Company-ebook/dp/B001O0DQZG/ref=sr_1_3?ie=UTF8&qid=1342544024&sr=8-3&keywords=The+History+of+the+Standard+Oil+Company), New York: Cosimo Books, 2009 (reprint of 1904 edition).
+
+## For Further Reading
+
+Chandler, Alfred D.Jr.  [The Visible Hand: The Managerial Revolution in American Business](http://www.amazon.com/Visible-Hand-Managerial-Revolution-American/dp/0674940520/ref=sr_1_1?s=books&ie=UTF8&qid=1286902721&sr=1-1), Cambridge, MA: Harvard University Press, 1977.
+
+Colihan, Christine and Amy Vitcusky. The Great Industrialists: Captains of Industry or Robber Barons.  *Industrialization.*  August 2006.  (for an 11th grade lesson plan on captains of industry vs. robber barons)
+
+Fitch, Stephane.  ["What is Trump Worth?"](http://www.forbes.com/2006/09/20/trump-wealth-biz_06rich400_0921trump.html )  * America's Richest.* 21 September 2006.  (on licensing his name)
+
+Josephson, Matthew.  The Robber Barons: The Great American Capitalists, 1861-1901, New York: Harcourt, Brace and World, 1962.
+
+NYPhilanthropist. "Donald Trump." 2010.  
+
+Pollick, Michael.  ["What Is A Captain of Industry?"](http://www.wisegeek.com/what-is-a-captain-of-industry.htm)  *wiseGeek* 08 September 2010.  (for ‘selflessness’)

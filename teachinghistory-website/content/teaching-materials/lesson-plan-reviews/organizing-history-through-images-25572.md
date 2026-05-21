@@ -36,3 +36,20 @@ This lesson also guides students through the process of revising conclusions bas
 Reading and analyzing primary texts can often be a daunting task for students who struggle with basic literacy skills. However, because this lesson presents historical data in the form of [photographs](https://www.ushmm.org/m/pdfs/20121119-Belfer-organizing-history-teacher-resource.pdf), it is an excellent way to provide all students with access to the historical process, and to support historical thinking with struggling readers or English language learners.
 
 For more advanced or older students, the supplementary activity asks students to read and incorporate [brief testimonies](https://www.ushmm.org/remember/the-holocaust-survivors-and-victims-resource-center/survivors-and-victims/survivor-testimonies) of survivors into their definition of the Holocaust.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. Students read photographs and write a detailed definition of the Holocaust. |
+| **Historical Content** | Requires students to read and write? | Yes. Captions and dates included. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Students construct an interpretation using photographs. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Students closely read photographs and source information. |
+| **Scaffolding** | Appropriate for stated audience? | Yes. Some photographs are disturbing, as expected. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. A student worksheet guides analysis. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. Some general strategies provided. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes |

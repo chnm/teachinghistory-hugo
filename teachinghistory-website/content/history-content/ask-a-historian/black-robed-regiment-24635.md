@@ -37,4 +37,12 @@ Peter Muhlenberg is perhaps the most iconic figure associated with the Black Rob
 
 ---
 
-For more primary sources on religion in the colonies and early U.S., check out the Library of Congress exhibit [*Religion and the Founding of the American Republic*](http://teachinghistory.org/history-content/website-reviews/14649)
+For more primary sources on religion in the colonies and early U.S., check out the Library of Congress exhibit [*Religion and the Founding of the American Republic*](/history-content/website-reviews/14649)
+
+## For Further Reading
+
+Muhlenburg, Henry A. [*The life of Major-General Peter Muhlenburg of the Revolutionary Army*](http://books.google.com/books?id=DP5kBW2FOBUC&printsec=frontcover&dq=Life+of+Major+General+Peter+Muhlenberg&source=bl&ots=WZ97z6eorO&sig=ujsZ8xoJEjq8y6Ncb6fNiSlJ4cM&hl=en&ei=Zf-uTfyFFOOx0QGIj_2nCw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBcQ6AEwAA#v=onepage&q&f=false). Philadelphia: Carey and Hart, 1849.
+
+Paine, Thomas. [*Common Sense*](http://www.gutenberg.org/ebooks/147?msg=welcome_stranger). Philadelphia, 1776.
+
+[*The American Crisis*](http://books.google.com/books?id=qiUwAAAAYAAJ&printsec=frontcover&dq=Thomas+Paine,+The+American+Crisis&hl=en&ei=fQWvTZzLH-bk0QG5iv2YDw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC4Q6AEwAA#v=onepage&q&f=false). London: R. Carlisle, Fleet Street, 1819.

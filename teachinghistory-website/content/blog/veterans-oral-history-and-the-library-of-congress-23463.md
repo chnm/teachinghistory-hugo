@@ -45,4 +45,4 @@ Take a Veteran to School Day is for all grade levels. The online video resources
 
 ## At the Clearinghouse
 
-[Making Sense of Oral History](http://teachinghistory.org/best-practices/using-primary-sources/14561) in the Clearinghouse under [Best Practices](/best-practices) is an excellent guide with examples for teachers and for advanced history students about how to create and interpret oral history interviews.
+[Making Sense of Oral History](/best-practices/using-primary-sources/14561) in the Clearinghouse under [Best Practices](/best-practices) is an excellent guide with examples for teachers and for advanced history students about how to create and interpret oral history interviews.

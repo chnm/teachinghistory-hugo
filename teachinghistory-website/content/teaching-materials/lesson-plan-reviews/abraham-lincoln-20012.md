@@ -36,3 +36,20 @@ tags:
 ---
 
 This [lesson](http://www.nps.gov/history/nr/twhp/wwwlps/lessons/127liho/) provides an opportunity for students to see how Lincoln's home and life in Springfield influenced the way he thought about the important issues of the time. Students answer questions about photographs and maps to develop a context for thinking about documents related to Lincoln and the Civil War. An engaging set of [vintage photographs](http://www.nps.gov/nr/twhp/wwwlps/lessons/127liho/127visual1.htm) and [maps](http://www.nps.gov/nr/twhp/wwwlps/lessons/127liho/127locate1.htm) shows Lincoln's world and helps students better understand the spirit of the times. But the real strength of this lesson is in the excellent text resources and accompanying questions provided for students. We especially like the carefully excerpted passages from [key speeches](http://www.nps.gov/nr/twhp/wwwlps/lessons/127liho/127facts2.htm) by Abraham Lincoln that are provided in the [readings section of the resources.](http://www.nps.gov/nr/twhp/wwwlps/lessons/127liho/127facts1.htm) We suggest that teachers use this excellent set of materials to design their own final writing assignment. We would love to see something that has students make explicit their understanding of how Lincoln's political ideas were influenced by the place and time in which he lived and died. Students could use evidence from both the visual and print media they have studied to write an essay on this topic. Another approach would be to assign separate essays relating to specific texts such as [Lincoln's Farewell Address to Springfield.](http://www.nps.gov/history/nr/twhp/wwwlps/lessons/127liho/127facts3.htm) The suggested [activities,](http://www.nps.gov/nr/twhp/wwwlps/lessons/127liho/127putting.htm) listed in the *Putting it All Together* section of the lesson plan, unfortunately do not focus on helping students do this kind of synthesis.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | The supplementary resources for teachers are excellent. |
+| **Historical Content** | Includes historical background? | Yes. Background readings are provided for students. |
+| **Historical Content** | Requires students to read and write? | Yes. Students read primary and secondary sources and answer questions. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Guided questions help students analyze the resource materials. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. The lesson uses a variety of sources. |
+| **Scaffolding** | Appropriate for stated audience? | Yes. Lower skill level students may require additional guidance. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. Significant portions of texts are excerpted or highlighted. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | No. No assessment strategies or criteria included. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | No. Several different learning goals are attainable with these materials. |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes. Directions are clear and materials suitable for all classrooms. |

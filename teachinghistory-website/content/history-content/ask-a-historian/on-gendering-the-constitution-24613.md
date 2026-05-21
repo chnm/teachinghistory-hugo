@@ -67,3 +67,7 @@ I cannot find a source that gives Bingham himself the responsibility for inserti
 Garrett Epps, *Democracy Reborn: The Fourteenth Amendment and the Fight for Equal Rights in Post-Civil War America.* New York: Macmillan, 2007.
 
 William E. Nelson, *The Fourteenth Amendment: From Political Principle to Judicial Doctrine.* Cambridge: Harvard University Press, 1988.
+
+## For Further Reading
+
+Elizabeth Cady Stanton, Susan B. Anthony, and Matilda Joslyn Gage, eds.  *History of Woman Suffrage.  Volume 2, 1861-1876.*  Rochester: Susan B. Anthony, 1881.

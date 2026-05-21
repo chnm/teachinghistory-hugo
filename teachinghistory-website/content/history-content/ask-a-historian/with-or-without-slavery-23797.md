@@ -40,3 +40,12 @@ Article 7, Section 1, of the Lecompton Constitution stated that "… the right o
 [Manuscript of the Lecompton Constitution](http://www.territorialkansasonline.org/~imlskto/cgi-bin/index.php?SCREEN=show_document&document_id=103081&SCREEN_FROM=keyword&selected_keyword=Lecompton%20Constitution&startsearchat=5)
 
 Thomas Goodrich. *War to the Knife: Bleeding Kansas, 1854-1861.* Mechanicsburg, PA: Stackpole Books, 1998.
+
+## For Further Reading
+
+Images:
+"Forcing Slavery Down the Throat of a Free Soiler," 1856 political cartoon, Prints and Photographs Division, Library of Congress.
+
+Detail of a map of Douglas County, Kansas Territory, 1858, showing the town of Lecompton.
+
+Detail of an engraving of the town of Lecompton, 1859, Kansas State Historical Society.

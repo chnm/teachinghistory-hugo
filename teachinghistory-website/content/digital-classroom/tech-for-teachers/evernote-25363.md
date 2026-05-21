@@ -23,4 +23,14 @@ tags:
 - visualization
 ---
 
-Keep track of research and collect assignments with this web-based note-taking tool.
+## Overview
+
+Evernote is a web-based note-taking tool that operates across desktop, web browser, and mobile platforms, synchronizing notes automatically across all devices. Users can store various content types including text, images, audio, and video.
+
+## Getting Started
+
+Create a free account at evernote.com and download the desktop client (Windows/Mac) and mobile apps. While web and mobile versions work standalone, the desktop version offers superior functionality including drag-and-drop, live updates, encryption, and local notebooks. Key features include OCR technology that recognizes printed and handwritten text within photographs and images, making scanned content searchable. Notes can be tagged with keywords and organized into labeled Notebooks, and Notebooks can be shared via social media or custom URLs.
+
+## Example
+
+Students analyzing the Reconstruction Amendments could gather information from the Our Documents website, paste relevant text into Evernote, and enhance their summaries with photos and audio recordings. Teachers can use Evernote as a paperless assignment delivery system, with students emailing completed work for online access.

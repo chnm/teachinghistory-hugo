@@ -71,3 +71,11 @@ In the autumn of 1944, looking then toward the end of the war, Ford, Chrysler, N
 During the war, the automobile and oil companies continued to advertise heavily to insure that the public did not forget their brand names. Companies also were proud to proclaim their patriotic role in war production, and their advertisements displayed the trucks, aircraft, and munitions that they were making to do their part in combat.
 
 In addition, auto advertisements encouraged the public to patronize local auto dealers’ service departments so that car repairs could help extend the lives of the cars their customers had bought before the war. In the last couple of years of the war, the auto companies also used their advertisements to heighten public anticipation of the end of the war and the resumption of car and truck manufacturing, with advertising copy such as Ford’s “There’s a Ford in Your Future.”
+
+## For Further Reading
+
+John Alfred Heitmann, *The Automobile and American Life*.  Jefferson, NC: McFarland, 2009.  pp. 119-130.
+
+James J. Flink, *The Automobile Age*.  Cambridge:  MIT Press, 1988.  pp. 275-76.
+
+Automobile Manufacturers Association, *Freedom’s Arsenal: The Story of the Automotive Council for War Production*.  Detroit:  Automobile Manufacturers Association, 1950.

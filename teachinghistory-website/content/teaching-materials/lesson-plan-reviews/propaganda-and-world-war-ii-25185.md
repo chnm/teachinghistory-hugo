@@ -32,3 +32,20 @@ After work in small groups that includes each student analyzing a poster, studen
 The strength of this lesson is the collection of documents it brings together. Posters from the United States, Great Britain, Nazi Germany, and the Soviet Union give students insight into the propaganda machines operating in each country during the Second World War. Because each document is visual in nature, it is a good lesson for struggling readers and English Language Learners. The group structure is also a strength as students have the opportunity to analyze a single poster, but also to look for patterns across several posters.
 
 The HERB website can be navigated several different ways: by collection, by historical era, or by approximately 70 different teaching activities.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | Yes. Brief background provided, but additional background may be necessary. |
+| **Historical Content** | Requires students to read and write? | Yes. Students show understanding through writing. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. The poster analysis worksheet is essential. |
+| **Scaffolding** | Appropriate for stated audience? | Yes. Visual sources are useful for a number of audiences. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Partly dependent on writing assignment choice. No criteria included. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes. Directions brief and clear. |

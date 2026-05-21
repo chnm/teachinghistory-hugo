@@ -57,3 +57,11 @@ The Comanche and Lipan Apache continued to defend their territory against immigr
 * "[Stephen F. Austin](https://www.tsl.state.tx.us/treasures/giants/austin/austin-01.html)" at the Texas State Library and Archives Commission.
 * [1839 Map of Mexico and the United States](http://www.lib.utexas.edu/maps/historical/us_texas-1839-atlas-mitchell-school-04.jpg) from the Perry-Castañeda Library Map Collection, University of Texas at Austin.
 * [Daguerrotypes of Mexican civilians](http://www.pbs.org/kera/usmexicanwar/resources/primary_source_window/daguerreotypes1.html) at PBS's The U.S.-Mexican War.
+
+## For Further Reading
+
+- Chasteen, John Charles. *Born in Blood and Fire: A Concise History of Latin America*.  3rd ed.  New York: W. W. Norton & Co., 2011.
+
+- Kirkwood, Burton. *The History of Mexico*.  Westport, CT: Greenwood Press, 2000.
+
+- Vargas, Zaragosa. *Crucible of Struggle: A History of Mexican Americans from Colonial Times to the Present Era*.  New York: Oxford University Press, 2011.

@@ -73,8 +73,18 @@ Evans, Chris and Goran Ryden. **Baltic Iron in the Atlantic World** Leiden: Bril
 
 Hart, Michael. **A Trading Nation: Canadian Trade Policy from Colonialism to Globalization.** Vancouver: University of British Columbia Press, 2002.
 
-[**Jamestown-Yorktown Foundation, Jamestown Settlement, and Yorktown Victory Center[VA]**](http://teachinghistory.org/history-content/historical-places/6354)
+[**Jamestown-Yorktown Foundation, Jamestown Settlement, and Yorktown Victory Center[VA]**](/history-content/historical-places/6354)
 
 Ostrander, Gilman. “The Making of the Transatlantic Slave Trade Myth,” **William and Mary Quarterly** 30 (1973): 635-44.
 
 Rawley, James and Stephen Behrendt. “The Coastal Trade of the British North American Colonies,” **Journal of Economic History** 34 (1972): 783-810.**
+
+## For Further Reading
+
+Canny, Nicholas.  “Writing Atlantic History; or, Reconfiguring the History of Colonial British America,” **Journal of American History** 86 (1999): 1093-1114.
+
+Price, Jacob and Paul Clemens.  “A Revolution of Scale in Overseas Trade: British Firms in the Chesapeake Trade, 1675-1775.” **Journal of Economic History** 47(1987): 1-43.
+
+Rawley, James and Stephen Berendt. **The Transatlantic Slave Trade: A History.**  Lincoln: University of Nebraska Press, 2005. 
+
+[Spanish Colonial Trade Routes](http://srufaculty.sru.edu/james.hughes/201/Andes-Mexico/trade.htm)

@@ -65,26 +65,26 @@ History Book Sets combine a central piece of historical fiction with related non
 
 ## Teacher Preparation
 
-1. Select a piece of well-crafted historical fiction that focuses on a historical experience of separation or segregation ([NCSS Notable Books](http://www.socialstudies.org/resources/notable) is a good    place to start). The [example](http://teachinghistory.org/sites/default/files/Example-Historical_Agency.pdf) focuses on Cynthia Kadohata’s (2006)  [*Weedflower*](http://books.simonandschuster.com/Weedflower/Cynthia-Kadohata/9780689865749)—a story that contrasts a young Japanese-American internee’s    relocation experience with a young Mohave Indian’s reservation experience.
+1. Select a piece of well-crafted historical fiction that focuses on a historical experience of separation or segregation ([NCSS Notable Books](http://www.socialstudies.org/resources/notable) is a good    place to start). The [example](/files/Example-Historical_Agency.pdf) focuses on Cynthia Kadohata’s (2006)  [*Weedflower*](http://books.simonandschuster.com/Weedflower/Cynthia-Kadohata/9780689865749)—a story that contrasts a young Japanese-American internee’s    relocation experience with a young Mohave Indian’s reservation experience.
 2. Select two pieces of related non-fiction that provide context for the historical fiction. Non-fiction should include courses of action taken by    groups and institutions, as well as individuals. This example uses [Joanne Oppenheim’s](http://www.dearmissbreed.com/) (2007) *“Dear Miss Breed”: True Stories of the Japanese    American Incarceration During World War II and a Librarian Who Made a Difference* and Herman Viola’s (1990) [*After Columbus*](http://www.amazon.com/After-Columbus-Smithsonian-Chronicle-American/dp/0895990288).
 3. Select photographs that visually locate the events in the literature. Duplicate two contrasting sets of photographs.
-4. Reproduce templates for poem ([Template A](http://teachinghistory.org/sites/default/files/Template_A-Biographical_Poem_0.pdf)) and recognizing agency chart ([Template B](http://teachinghistory.org/sites/default/files/Template_B-Recognizing_Agency_0.pdf)). The recognizing agency chart works best if students begin    with an 8½x11 chart and then transfer their work to larger chart paper.
+4. Reproduce templates for poem ([Template A](/files/Template_A-Biographical_Poem_0.pdf)) and recognizing agency chart ([Template B](/files/Template_B-Recognizing_Agency_0.pdf)). The recognizing agency chart works best if students begin    with an 8½x11 chart and then transfer their work to larger chart paper.
 5. The time you need will depend on whether you assign the historical fiction for students to read or use it as a read-aloud. Reading a book aloud    generates conversation, ensures that everyone has this experience in common, and lessens concerns about readability. If students read the    book independently, plan on three class periods.
 
 ## In the Classroom
 
 1. Recognizing Changing Perspectives. In making sense of historical agency, it helps if students recognize that different people experience historical    events differently. For instance, the main fictional characters in the example have quite distinct views of relocation camps. The packets of    photographs help children interpret changing perspectives, and the biographical poem provides a literary structure for expressing their    interpretations.
    * + Organize the students in pairs. Give half the pairs [Packet A](http://www.archives.gov/research/arc/topics/japanese-americans/) (Japanese Experiences); half [Packet B](http://www.postonalliance.org/photogallery.asp) (Indian Experiences). Students write captions for the pictures explaining how the experiences pictured influence characters’ view of the relocation camp.
-     + Drawing on their discussion and readings, each pair of students writes a biographical poem (see [Template A](http://teachinghistory.org/sites/default/files/Template_A-Biographical_Poem_0.pdf)) representing how their character’s ideas and attitudes change over the course of the story.
+     + Drawing on their discussion and readings, each pair of students writes a biographical poem (see [Template A](/files/Template_A-Biographical_Poem_0.pdf)) representing how their character’s ideas and attitudes change over the course of the story.
      + Display captioned pictures and poems where students can refer to them during the next activity.
 2. Recognizing Agency: What Can be Done?
-   * + Distribute Recognizing Agency chart ([Template B](http://teachinghistory.org/sites/default/files/Template_B-Recognizing_Agency_0.pdf)). Work through the chart using a secondary character in the historical fiction as an example.
+   * + Distribute Recognizing Agency chart ([Template B](/files/Template_B-Recognizing_Agency_0.pdf)). Work through the chart using a secondary character in the historical fiction as an example.
      + Assign pairs of students to a fictional or historical participant. For example, students might investigate the fictional main character or a family member or friend or students could investigate a historical participant.
      + Display charts. Discuss:
        > 1. Why do some people, groups and institutions seem to have more power than others?
        > 2. How can people work most effectively for change?
        > 3. Can you identify strategies used to alter other historical experiences of separation or segregation?
-3. Agency Today. After considering the kinds of agency expressed by people    during the past, students might write an argument for or against    contemporary issues that surround the topic. For instance in the [example](http://teachinghistory.org/sites/default/files/Example-Historical_Agency.pdf),    students investigate efforts to restore the relocation camp.
+3. Agency Today. After considering the kinds of agency expressed by people    during the past, students might write an argument for or against    contemporary issues that surround the topic. For instance in the [example](/files/Example-Historical_Agency.pdf),    students investigate efforts to restore the relocation camp.
 
 ## Common Pitfalls
 

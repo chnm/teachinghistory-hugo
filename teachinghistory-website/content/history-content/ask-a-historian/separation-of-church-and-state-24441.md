@@ -34,4 +34,10 @@ There were some colonial predecessors to this concept. For example, when Roger W
 
 ---
 
-[**Constitution Day 2010**](http://teachinghistory.org/nhec-blog/24230) Holmes, David. [The Faiths of the Founding Fathers.](http://www.oupcanada.com/catalog/9780195300925.html) Oxford: Oxford University Press, 2006. Mapp, Alf. [*Faiths of Our Fathers: What our Founding Fathers Really Believed.*](https://rowman.com/ISBN/9780742531154/The-Faiths-of-Our-Fathers-What-America's-Founders-Really-Believed) Lanham, Md: Rowman & Littlefield, 2003. Munoz, Vincent P. [*God and the Founders: Madison, Washington, and Jefferson.*](http://www.cambridge.org/gb/knowledge/isbn/item2326713/?site_locale=en_GB) Cambridge: Cambridge University Press, 2009.
+[**Constitution Day 2010**](/nhec-blog/24230) Holmes, David. [The Faiths of the Founding Fathers.](http://www.oupcanada.com/catalog/9780195300925.html) Oxford: Oxford University Press, 2006. Mapp, Alf. [*Faiths of Our Fathers: What our Founding Fathers Really Believed.*](https://rowman.com/ISBN/9780742531154/The-Faiths-of-Our-Fathers-What-America's-Founders-Really-Believed) Lanham, Md: Rowman & Littlefield, 2003. Munoz, Vincent P. [*God and the Founders: Madison, Washington, and Jefferson.*](http://www.cambridge.org/gb/knowledge/isbn/item2326713/?site_locale=en_GB) Cambridge: Cambridge University Press, 2009.
+
+## For Further Reading
+
+[**Constitution of the United States**](http://www.archives.gov/exhibits/charters/constitution.html) The National Archives.  
+
+Thomas Jefferson to Nehemiah Dodge, Ephraim Robbins and Stephen S. Nelson.  [*A committee of the Danbury Baptist association in the State of Connecticut*](http://www.loc.gov/loc/lcib/9806/danpre.html), January 1, 1802, Library of Congress Information Bulletin.

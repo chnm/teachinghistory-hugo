@@ -35,12 +35,12 @@ All in all, unfamiliar GOs or ones that are visually busy and complicated can be
 
 ---
 
-[Scaffolding with Graphic Organizers](http://teachinghistory.org/teaching-materials/english-language-learners/24130)
+[Scaffolding with Graphic Organizers](/teaching-materials/english-language-learners/24130)
 
-[Teaching Strategies for Museums: Graphic Organizers](http://teachinghistory.org/best-practices/teaching-in-action/24216)
+[Teaching Strategies for Museums: Graphic Organizers](/best-practices/teaching-in-action/24216)
 
-See example [here](http://teachinghistory.org/teaching-materials/teaching-guides/24313) (look in the “Download” box) that demonstrates how you can use graphic organizers to help students analyze and compare historical sources.
+See example here (look in the “Download” box) that demonstrates how you can use graphic organizers to help students analyze and compare historical sources.
 
-The blog entry "[Teaching with Timelines]( http://teachinghistory.org/nhec-blog/24425)," by high-school teacher Joe Jelen, looks at timeline tools.
+The blog entry "[Teaching with Timelines]( /nhec-blog/24425)," by high-school teacher Joe Jelen, looks at timeline tools.
 
 Dexter, Douglas D., and Charles A. Hughes. “[Graphic Organizers and Students with Learning Disabilities: A Meta-Analysis](http://www.eric.ed.gov/ERICWebPortal/search/recordDetails.jsp?ERICExtSearch_SearchValue_0=%22Hughes+Charles+A.%22&ERICExtSearch_SearchType_0=au&_pageLabel=RecordDetails&objectId=0900019b80478c88&accno=EJ931412&_nfls=false).” *Learning Disability Quarterly* 34(1) (2011): 51–72.

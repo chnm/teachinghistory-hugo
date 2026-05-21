@@ -37,4 +37,4 @@ It can be time-consuming to find and prepare primary sources for your lessons. O
 
 **[TeacherServe](http://nationalhumanitiescenter.org/tserve/tserve.htm), from the National Humanities Center:** This site brings together dozens of essays by leading historians around three themes—religion in U.S. history, the environment, and the African American experience. What makes TeacherServe unique is that primary source materials are embedded via hyperlinks in the essays themselves, providing context for understanding the documents in relation to the broader theme as well as in relation to each other.
 
-**You can also visit [this entry](http://teachinghistory.org/best-practices/using-primary-sources/24491) for places to find online collections of primary sources.**
+**You can also visit [this entry](/best-practices/using-primary-sources/24491) for places to find online collections of primary sources.**

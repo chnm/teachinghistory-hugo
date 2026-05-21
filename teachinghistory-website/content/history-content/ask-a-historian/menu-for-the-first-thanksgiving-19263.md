@@ -46,3 +46,7 @@ In a letter dated December 11, 1621, one year to the day after the Pilgrims land
 > Corn and kidney beans were staples of the Pilgrim diet.
 
 If these accounts are to be believed, Indian corn, seemingly a staple of the settlers' diet, likely would have been eaten during the three-day harvest feast with the Wampanoags that Winslow also described. A 1674 account of Indian life by Daniel Gookin, superintendent of the Indians in Massachusetts, related, "Their food is generally boiled maize of Indian corn, mixed with kidney beans, or sometimes without."
+
+## For Further Reading
+
+Timothy J. Shannon, [*Indians and Colonists at the Crossroads of Empire: The Albany Congress of 1754*](http://www.cornellpress.cornell.edu/book/?GCOI=80140100696210).  Ithaca: Cornell University Press; Cooperstown: New York State Historical Association, 2000.

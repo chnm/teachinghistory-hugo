@@ -41,3 +41,7 @@ The display of service flags became extremely popular during World War II. One o
 Kerrick, Harrison S. *The Flag of the United States: Your Flag and Mine*. Columbus, OH: Champlin Publishing Company, 1925.
 
 Institute of Heraldry, Office of the Administrative Assistant to the Secretary of the Army. “[Frequently Asked Questions-Service Flag and Service Lapel Button](http://www.tioh.hqda.pentagon.mil/FAQs/fact_sheet.aspx).” Accessed August 21, 2012.
+
+## For Further Reading
+
+[1](#fn1)Blue Star Mothers of America, Inc. “[About the Service Flag](http://www.bluestarmothers.org/service-flag).” Accessed August 22, 2012.

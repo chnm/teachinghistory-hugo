@@ -35,7 +35,7 @@ tags:
 - tennessee
 ---
 
-Tennessee teachers, looking for a state-specific overview of U.S. history? Three years in the making, this project of the [Tennessee State Museum](http://teachinghistory.org/history-content/historical-places/23849) outlines Tennessee state history from pre-history to the present day. Each of nine chronological sections—"First Tennesseans," "Indians & Cultural Encounters," "Frontier," "Age of Jackson," "Civil War & Reconstruction," "Confronting the Modern Era," "Depression & WWII," "Civil Rights/Cold War," and "Information Revolution"—begins with an introductory essay on the time period. Two to three subsections per time period offer essays on daily life and work, military and political history, civil rights issues, and other topics; users can click down from each subsection to further
+Tennessee teachers, looking for a state-specific overview of U.S. history? Three years in the making, this project of the Tennessee State Museum outlines Tennessee state history from pre-history to the present day. Each of nine chronological sections—"First Tennesseans," "Indians & Cultural Encounters," "Frontier," "Age of Jackson," "Civil War & Reconstruction," "Confronting the Modern Era," "Depression & WWII," "Civil Rights/Cold War," and "Information Revolution"—begins with an introductory essay on the time period. Two to three subsections per time period offer essays on daily life and work, military and political history, civil rights issues, and other topics; users can click down from each subsection to further
 
 essays on even more specific topics.
 

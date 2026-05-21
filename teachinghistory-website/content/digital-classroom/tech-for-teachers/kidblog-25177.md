@@ -29,4 +29,14 @@ tags:
 - collecting and organizing
 ---
 
-Kidblog is a blogging service specially designed for teachers and their students.
+## Overview
+
+Kidblog.org is an educational blogging platform created by teachers for classroom use. The site enables teachers and students to build online conversations displayed in reverse-chronological order, similar to traditional blogs. A key feature allows student comments on peers' posts under teacher supervision. The platform is user-friendly, secure, and straightforward to implement.
+
+## Getting Started
+
+Visit Kidblog.org and select "Click to Create a Class." After providing basic account information (name, password, blog title, email), you access the Dashboard with tabs for creating posts, reviewing content, moderating comments, and adjusting settings. Enable SSL Login in the Settings tab for enhanced security. When adding students, use numbers rather than names to save time. Before launching with your class, consider your blogging purpose—is it a single project or ongoing? Will students create new posts or continue conversations through comments?
+
+## Example
+
+Several strategies work well in history instruction. KWL Charts can be blog-based, where students post what they know, want to know, and eventually learn—letting students build understanding from peers' responses while giving teachers immediate assessment data. Media Analysis involves posting video or audio clips for analysis where students compare historical figures and defend conclusions. Historical Roleplay assigns students different historical figures to portray in online conversations, exploring how figures might discuss topics from varying perspectives.

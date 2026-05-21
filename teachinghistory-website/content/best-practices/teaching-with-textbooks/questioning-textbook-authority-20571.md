@@ -43,4 +43,4 @@ Even when your students have learned historical thinking skills like [sourcing](
 
 Bain, R. B. *Rounding Up Unusual Suspects: Facing the Authority Hidden in the History Classroom*. Teachers College Record, 108(10), (2006) 2080-2114.
 
-Also by Bain: [*Learning to Think Historically: Columbus, Exploration, and the Idea of the Flat Earth*](http://teachinghistory.org/issues-and-research/research-briefs/19265)
+Also by Bain: *Learning to Think Historically: Columbus, Exploration, and the Idea of the Flat Earth*

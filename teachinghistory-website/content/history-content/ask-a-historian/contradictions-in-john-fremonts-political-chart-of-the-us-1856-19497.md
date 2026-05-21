@@ -80,3 +80,25 @@ Frémont's Midwestern supporters, who put together the chart, were part of a gro
 ---
 
 A detailed copy of the chart, from the Chicago Historical Society, is online at the <a href="http://publications.newberry.org/lincoln/>Lincoln at 200 website.
+
+## For Further Reading
+
+[*Agriculture of the United States in 1860: Compiled from the Original Returns of the Eighth Census*](http://www2.census.gov/prod2/decennial/documents/1860b-01.pdf)., under the direction of the Secretary of Interior, by Joseph C. G. Kennedy, Superintendent of Census. Washington: Government Printing Office, 1864. 
+
+Jeremy Atack and Fred Bateman, *To Their Own Soil: Agriculture in the Antebellum North*.  Ames: Iowa State University Press, 1987.
+
+Jeremy Atack, Fred Bateman, and William N. Parker, "Northern Agriculture and the Westward Movement," in *The Cambridge Economic History of the United States. Vol. II: The Long Nineteenth Century*.  Edited by Stanley L. Engerman and Robert E. Gallman.  Cambridge, UK: Cambridge University Press, 2000.
+
+Willard W. Cochrane, *The Development of American Agriculture: A Historical Analysis*. 2d Edition.  Minneapolis: University of Minnesota Press, 1993. 
+
+Clarence H. Danhof, *Change in Agriculture: The Northern United States, 18201870*.  Cambridge, Mass.: Harvard University Press, 1969.
+
+Robert E. Gallman, "Commodity Output, 18391899," in *Trends in the American Economy in the Nineteenth Century*.  Edited by William N. Parker Princeton, Princeton University Press, 1960.
+
+Paul W. Gates, *The Farmer's Age: Agriculture, 18511860*.  New York: Holt, Rinehart and Winston, 1960; reprint, Armonk, NY: M. E. Sharpe, 1989.
+
+*Historical Statistics of the United States: Colonial Times to 1970,* Bicentennial ed. Washington: U.S. Dept. of Commerce, Bureau of the Census, 1975.
+
+Douglass C. North, *The Economic Growth of the United States, 17901860*.  New York: W. W. Norton, 1966.
+
+Harold D. Woodman, "Economy from 1815 to 1865," in *Encyclopedia of American Economic History: Studies of the Principal Movements and Ideas*.  Edited by Glenn Porter.  New York: Charles Scribner's Sons, 1980.

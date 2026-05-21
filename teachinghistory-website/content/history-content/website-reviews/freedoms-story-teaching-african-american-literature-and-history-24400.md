@@ -50,7 +50,7 @@ tags:
 - segregation
 ---
 
-This collection of 20 essays on African American history and literature, commissioned from leading scholars and written for secondary teachers, is part of the larger [*TeacherServe*](http://teachinghistory.org/history-content/website-reviews/24356) site. The essays are designed to deepen content knowledge and provide new ideas for teaching. These 3,000-7,000-word essays cover three time periods: 1609-1865, 1865-1917, and 1917 and Beyond.
+This collection of 20 essays on African American history and literature, commissioned from leading scholars and written for secondary teachers, is part of the larger [*TeacherServe*](/history-content/website-reviews/24356) site. The essays are designed to deepen content knowledge and provide new ideas for teaching. These 3,000-7,000-word essays cover three time periods: 1609-1865, 1865-1917, and 1917 and Beyond.
 
 Essays begin with an overview of the topic. A “Guiding Discussion” section offers suggestions on introducing the subject to students, and “Historians Debate” notes secondary sources with varied views on the topic. Notes and additional resources complete each essay. Each essay includes links to primary source texts in the National Humanities Center’s [Toolbox Library](http://americainclass.org/sources/).
 

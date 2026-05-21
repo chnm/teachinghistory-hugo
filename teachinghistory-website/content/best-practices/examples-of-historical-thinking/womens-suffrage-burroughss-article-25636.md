@@ -30,10 +30,20 @@ topics:
 tags:
 - Women's Movement
 - suffrage
+videos:
+- src: /files/media/video/Boisseau3a.mp4
+  thumb: /files/media/video/thumbs/Boisseau3a.jpg
+  title: 'Nannie H. Burroughs'
+- src: /files/media/video/Boisseau3b.mp4
+  thumb: /files/media/video/thumbs/Boisseau3b.jpg
+  title: 'The Role of Black Women'
+- src: /files/media/video/Boisseau3c.mp4
+  thumb: /files/media/video/thumbs/Boisseau3c.jpg
+  title: 'Concluding Her Argument'
 ---
 
-/files/media/video/Boisseau3a.mp4
+In the struggle for women's suffrage, how did African American women represent themselves? What goals did they have and how did they work to reach those goals? Reading an article published in the August 1915 issue of the NAACP newsletter *The Crisis*, TJ Boisseau finds that activist Nannie Helen Burroughs used several arguments in favor of suffrage for African American women. Burroughs emphasized women's roles as social "housekeepers" and their differences from African American men.
 
-video/mp4
+## Transcript
 
-[![Nannie H. Burroughs](/files/media/video/thumbs/Boisseau3a.jpg)](/files/media/video/Boisseau3a.mp4) [![The Role of Black Women](/files/media/video/thumbs/Boisseau3b.jpg)](/files/media/video/Boisseau3b.mp4) [![Concluding Her Argument](/files/media/video/thumbs/Boisseau3c.jpg)](/files/media/video/Boisseau3c.mp4)
+What she is doing is similar to white suffragists, is taking a popular convention of the moment and twisting it to serve her purposes. To say that regardless of what you feel about putting the vote in the hands of black people, here's how it will serve your interests. She's speaking a racist language. She concludes by saying, "The ballot, wisely used, will bring to her," the Negro woman, "the respect and protection that she needs. It is her weapon of moral defense." She has made her point loud and clear and gotten the attention of both white and black readers who then might debate, at least, the argument that she has brought to the fore. And, thereby, she has accomplished her aim—by putting suffrage smack in the middle of race relations and not just gender relations.

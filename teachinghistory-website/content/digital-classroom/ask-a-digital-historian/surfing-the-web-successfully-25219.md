@@ -62,7 +62,7 @@ Your results will include just those websites that have the phrase “civil war�
 
 There are many tools that can help you store and share resources that you find online. Three used by educators:
 
-1. **[Diigo](http://teachinghistory.org/digital-classroom/tech-for-teachers/23471)**: Diigo stores sites that you find online into a password-protected free account that you can access anywhere, anytime. With Diigo, you can create folders for your favorites as well as “tag” each favorite. This makes it easy to find sites that are saved. This “tagging” system also makes it easy for you to share sites with your students. Here's an example of Diigo resources tagged as “[civil war](http://www.diigo.com/user/glennw98/civilwar).”
+1. **[Diigo](/digital-classroom/tech-for-teachers/23471)**: Diigo stores sites that you find online into a password-protected free account that you can access anywhere, anytime. With Diigo, you can create folders for your favorites as well as “tag” each favorite. This makes it easy to find sites that are saved. This “tagging” system also makes it easy for you to share sites with your students. Here's an example of Diigo resources tagged as “[civil war](http://www.diigo.com/user/glennw98/civilwar).”
 2. **[LiveBinders](http://www.livebinders.com/)**: LiveBinders is similar to Diigo. After creating your free account, you create the online equivalent of a 3-ring binder with tabs that hold your favorite websites. These binders can then be shared with your students via a specific URL. The beauty of LiveBinders is that each of the websites will open within the LiveBinder page so that your students travel only to the sites you share. An example of a Civil War LiveBinder can be found [here](http://www.livebinders.com/play/play_or_edit?id=51435).
 
 ---
@@ -74,4 +74,4 @@ Check out these links for guides and tips to using several search engines:
 * [Bing Search Engine Shortcuts](http://websearch.about.com/od/searchenginecheatsheets/a/Bing-Search-Engine-Shortcuts.htm)
 * [Yahoo Search Engine Shortcuts](http://websearch.about.com/library/cheatsheet/blyahoocheatsheet.htm)
 
-And take a look at our *Tech for Teachers* on [search engines](http://teachinghistory.org/digital-classroom/tech-for-teachers/23822) for links to more strategies.
+And take a look at our *Tech for Teachers* on [search engines](/digital-classroom/tech-for-teachers/23822) for links to more strategies.

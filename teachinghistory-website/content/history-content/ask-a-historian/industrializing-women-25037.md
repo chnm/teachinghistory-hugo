@@ -52,3 +52,13 @@ Yet this cultural devaluation of women's household work masked its continuing, d
 * "[Lowell Mill Girl Letters](http://library.uml.edu/clh/All/alet.htm)." University of Massachusetts Lowell Libraries.
 * Dublin, Thomas. "[Women and the Early Industrial Revolution in the United States](http://www.gilderlehrman.org/history-by-era/jackson-lincoln/essays/women-and-early-industrial-revolution-united-states)." The Gilder Lehrman Institute of American History.
 * Library of Congress. "[American Women](http://memory.loc.gov/ammem/awhhtml/index.html)."
+
+## For Further Reading
+
+- Boydston, Jeanne. *[Home and Work: Housework, Wages, and the Ideology of Labor in the Early Republic](http://books.google.com/books?id=NGrRD9hBs8wC&dq=Home+and+Work:+Housework,+Wages,+and+the+Ideology+of+Labor+in+the+Early+Republic&hl=en&ei=HlsbTpbcHei20AGghcGXBQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCkQ6AEwAA)*. New York: Oxford University Press, 1990.
+
+- Baron, Ava, ed. *[Work Engendered: Toward a New History of American Labor](http://books.google.com/books?id=wOiwY1hUg7kC&printsec=frontcover&dq=Work+Engendered:+Toward+a+New+History+of+American+Labor&hl=en&src=bmrr&ei=P1sbTonCD8yr0AGY_42XBQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCkQ6AEwAA#v=onepage&q&f=false)*. Ithaca: Cornell University Press, 1991.
+
+- Kessler-Harris, Alice. *[Out to Work: A History of Wage-Earning Women in the United States](http://books.google.com/books?id=fzIgv1DxZG0C&printsec=frontcover&dq=Out+to+Work:+A+History+of+Wage-Earning+Women+in+the+United+States&hl=en&src=bmrr&ei=XVsbTtmcPOn00gGQwqSXBQ&sa=X&oi=book_result&ct=book-thumbnail&resnum=1&ved=0CC4Q6wEwAA#v=onepage&q&f=false)*. New York: Oxford University Press, 1982.
+
+- Neill, Charles P. and Helen N. Sumner. "[Report on Condition of Woman and Child Wage-Earners in the United States](http://books.google.com/books?id=1soJAAAAIAAJ&printsec=frontcover&dq=Report+on+Condition+of+Woman+and+Child+Wage-Earners+in+the+United+States&hl=en&ei=eVsbTtuhJea40AGQ2qWWBQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCkQ6AEwAA#v=onepage&q&f=false)," vol. 9, *History of Women in Industry in the United States*. Washington, D.C.: Government Printing Office, 1910.

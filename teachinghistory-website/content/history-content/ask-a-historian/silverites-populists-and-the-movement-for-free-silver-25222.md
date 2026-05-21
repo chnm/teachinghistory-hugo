@@ -72,3 +72,17 @@ Populists hoped to win the 1896 election and supplant the Democrats as one of th
 Some historians believe that many urban workers voted for McKinley because they had become convinced that Bryan’s policies would destroy the economy and result in reduced wages and increased unemployment. Some argue that Bryan’s “revivalist” style of campaigning and the Prohibitionist views of some of his supporters were distasteful to Catholics, especially Germans, in the urban labor force. Sanders contends that reporters’ coverage of Bryan’s campaign provides strong evidence that his message, in fact, did resonate with urban workers. She suggests, however, that “the powerful economic warnings of the core establishment” and the claim that a program to benefit farmers would wreck havoc upon the Northern industrial economy “were ultimately persuasive on election day.”
 
 Sanders and others emphasize that labor organizations of the time did not want to rely on government to resolve its disputes with management. Unions sought to effect change through exerting leverage at the work site itself. Burnham writes, “From the perspective of the urban voter committed to the network of urban-industrial social and economic relationships that now existed, currency inflation could only be regarded as irrelevant at best and disruptive at worst.”
+
+## For Further Reading
+
+Burnham, Walter Dean. “The System of 1896: An Analysis.” In *The Evolution of American Electoral Systems*, by Paul Kleppner, et. al. Westport, CT: Greenwood Press, 1981.
+
+Kazin, Michael. *A Godly Hero: The Life of William Jennings Bryan*. New York: Alfred A. Knopf, 2006.
+
+Postel, Charles. *The Populist Vision*. New York: Oxford University Press, 2007.
+
+Ritter, Gretchen. *Goldbugs and Greenbacks: The Antimonopoly Tradition and the Politics of Finance in America*. New York: Cambridge University Press, 1997.
+
+Sanders, Elizabeth. *Roots of Reform: Farmers, Workers, and the American State, 1877-1917*. Chicago: University of Chicago Press, 1999.
+
+Weinstein, Allen. *Prelude to Populism: Origins of the Silver Issue*, 1867-1878. New Haven: Yale University Press, 1970.

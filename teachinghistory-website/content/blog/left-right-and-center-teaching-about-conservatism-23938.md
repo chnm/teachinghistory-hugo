@@ -57,6 +57,6 @@ Perhaps advanced students tackling [*The Fountainhead*](http://www.amazon.com/gp
 
 And at teachinghistory.org, a simple search with the term *conservative* yields a few results.
 
-In multimedia, [A Patriot's History of the United States, Part One: Liberty and Property in the American Past](http://teachinghistory.org/history-content/history-in-multimedia/2460) is the first of a two-part series assessing the liberal bias of American textbooks and exploring history from the conservative perspective.
+In multimedia, A Patriot's History of the United States, Part One: Liberty and Property in the American Past is the first of a two-part series assessing the liberal bias of American textbooks and exploring history from the conservative perspective.
 
-In [True Americans in the Cold War](http://teachinghistory.org/history-content/ask-a-historian/23933), the ask-a-historian question doesn't specifically tackle conservatism vs liberalism, but it does take a look at important ideologies associated with American identity.
+In [True Americans in the Cold War](/history-content/ask-a-historian/23933), the ask-a-historian question doesn't specifically tackle conservatism vs liberalism, but it does take a look at important ideologies associated with American identity.

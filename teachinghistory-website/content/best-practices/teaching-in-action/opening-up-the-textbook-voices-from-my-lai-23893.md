@@ -27,10 +27,22 @@ topics:
 tags:
 - My Lai
 - Vietnam
+videos:
+- src: /files/media/video/TIA_MyLai1.mp4
+  thumb: /files/media/video/thumbs/TIA_MyLai1.jpg
+  title: 'Perspectives: Those Portrayed and Those Overlooked'
+- src: /files/media/video/TIA_MyLai2.mp4
+  thumb: /files/media/video/thumbs/TIA_MyLai2.jpg
+  title: 'Zoom-In Inquiry'
+- src: /files/media/video/TIA_MyLai3.mp4
+  thumb: /files/media/video/thumbs/TIA_MyLai3.jpg
+  title: 'Primary Sources Challenge Concepts of Truth'
 ---
 
-/files/media/video/TIA\_MyLai1.mp4
+## Transcript
 
-video/mp4
+**Joe Jelen**: What students were ultimately being asked to do was to think that their textbook is a living, breathing document that they have some ability to edit and to challenge in some ways.
 
-[![Perspectives: Those Portrayed and Those Overlooked](/files/media/video/thumbs/TIA_MyLai1.jpg)](/files/media/video/TIA_MyLai1.mp4) [![Zoom-In Inquiry](/files/media/video/thumbs/TIA_MyLai2.jpg)](/files/media/video/TIA_MyLai2.mp4) [![Primary Sources Challenge Concepts of Truth](/files/media/video/thumbs/TIA_MyLai3.jpg)](/files/media/video/TIA_MyLai3.mp4)
+They frequently wanted to add more of what Lieutenant Calley had said in his testimony. They were interested in looking at what the Vietnamese people saw that day. They felt that the textbook left out the voice of the villagers as to what they had witnessed; and, by the end of the lesson, they’re including information about the American public.
+
+They understand the importance of primary sources as to being able to construct some meaning from the people who were there or the people who took photographs of events. Students like to hear those voices and like to see those photos and hear those diary entries or whatever it might be, and primary sources have a way of making history for students a little less tidy than they would like. And I think that’s good; that’s challenging what they are thinking about and what they believe to be true. The focus on historical thinking skills has certainly helped build better understanding of history and made them more critical thinkers about—about the world around them, I think.

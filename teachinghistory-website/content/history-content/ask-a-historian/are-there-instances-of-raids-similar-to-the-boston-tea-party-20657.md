@@ -56,7 +56,7 @@ All these pre-arrangements made for a poorly-kept secret: American political act
 
 Nowhere in the American Colonies was the East India Company able to sell its tea. Outside of Boston, colonists, merely by persuasion or by bullying the shippers and consignees, were able to prevent the landing of the tea into port—or at least its sale. In Boston too, more than a month before the Tea Party, a body of men gathered in the street outside the store of tea merchant Richard Clarke, demanded that the proprietor vow not to receive any tea shipments. One merchant wrote that the crowd, "not receiving such an answer as they demanded, they began an attack upon the store and those within, breaking down doors, flinging about mud, &c., for about an hour, when they began to disperse, and a number of gentlemen, friends of those agents coming to their assistance, they left the store and went upon change, but met with no further insult, tho' there is much threatening."
 
-In Lexington, the inhabitants met and resolved not to use tea of any sort, no matter where it had come from, and to show their sincerity, "they brought together every ounce contained in the town, and committed it to one common bonfire." Boston, perhaps, was unique among the other major American ports insofar as its Colonial Governor, Thomas Hutchinson, was relatively eager to demonstrate to the "troublemakers," with whom he had already had a series of confrontations, that he was the supreme authority in the affairs of the Colony of Massachusetts. This certainly contributed to why events played out in Boston as they did. (Visit [this *Ask a Historian* response](http://teachinghistory.org/history-content/ask-a-historian/20343) for details of events in the Boston Harbor.)
+In Lexington, the inhabitants met and resolved not to use tea of any sort, no matter where it had come from, and to show their sincerity, "they brought together every ounce contained in the town, and committed it to one common bonfire." Boston, perhaps, was unique among the other major American ports insofar as its Colonial Governor, Thomas Hutchinson, was relatively eager to demonstrate to the "troublemakers," with whom he had already had a series of confrontations, that he was the supreme authority in the affairs of the Colony of Massachusetts. This certainly contributed to why events played out in Boston as they did. (Visit [this *Ask a Historian* response](/history-content/ask-a-historian/20343) for details of events in the Boston Harbor.)
 
 Events that happened elsewhere, after the Boston Tea Party on December 14, 1773, were also later styled tea parties, linking them to the momentous action in Boston. Like the Boston Tea Party, they were efforts to reject tea shipments and to enforce a boycott of the East India Company's product.
 
@@ -130,7 +130,7 @@ All these pre-arrangements made for a poorly-kept secret: American political act
 
 Nowhere in the American Colonies was the East India Company able to sell its tea. Outside of Boston, colonists, merely by persuasion or by bullying the shippers and consignees, were able to prevent the landing of the tea into port—or at least its sale. In Boston too, more than a month before the Tea Party, a body of men gathered in the street outside the store of tea merchant Richard Clarke, demanded that the proprietor vow not to receive any tea shipments. One merchant wrote that the crowd, "not receiving such an answer as they demanded, they began an attack upon the store and those within, breaking down doors, flinging about mud, &c., for about an hour, when they began to disperse, and a number of gentlemen, friends of those agents coming to their assistance, they left the store and went upon change, but met with no further insult, tho' there is much threatening."
 
-In Lexington, the inhabitants met and resolved not to use tea of any sort, no matter where it had come from, and to show their sincerity, "they brought together every ounce contained in the town, and committed it to one common bonfire." Boston, perhaps, was unique among the other major American ports insofar as its Colonial Governor, Thomas Hutchinson, was relatively eager to demonstrate to the "troublemakers," with whom he had already had a series of confrontations, that he was the supreme authority in the affairs of the Colony of Massachusetts. This certainly contributed to why events played out in Boston as they did. (Visit [this *Ask a Historian* response](http://teachinghistory.org/history-content/ask-a-historian/20343) for details of events in the Boston Harbor.)
+In Lexington, the inhabitants met and resolved not to use tea of any sort, no matter where it had come from, and to show their sincerity, "they brought together every ounce contained in the town, and committed it to one common bonfire." Boston, perhaps, was unique among the other major American ports insofar as its Colonial Governor, Thomas Hutchinson, was relatively eager to demonstrate to the "troublemakers," with whom he had already had a series of confrontations, that he was the supreme authority in the affairs of the Colony of Massachusetts. This certainly contributed to why events played out in Boston as they did. (Visit [this *Ask a Historian* response](/history-content/ask-a-historian/20343) for details of events in the Boston Harbor.)
 
 Events that happened elsewhere, after the Boston Tea Party on December 14, 1773, were also later styled tea parties, linking them to the momentous action in Boston. Like the Boston Tea Party, they were efforts to reject tea shipments and to enforce a boycott of the East India Company's product.
 
@@ -185,3 +185,37 @@ On September 15, 1774, the sloop *Cynthia* sailed into harbor at York, Maine, fr
 In the summer of 1774, the captain of the small ship, *Greyhound*, loaded with East India Company tea, was reluctant to try to unload his shipment in Philadelphia, so just before the Delaware Bay, he put into Cohansey Creek, and anchored at the little hamlet of Greenwich, New Jersey. There he unloaded his cargo, and it was put into the cellar of a Loyalist, Daniel Bowen, who intended to have it eventually carried overland into Philadelphia and to sell it there.
 
 On the night of December 22, 1774, after planning in secret for several months, 40 locals dressed as Indians broke into Bowen's house, carried the cases of tea into a field, dumped the tea in a large pile, and set it all on fire. Those who participated in this tea party were arrested but were not convicted because the jury was in complete sympathy with them.
+
+## For Further Reading
+
+Benjamin W. Labaree, "Boston Tea Party: American Revolution,"*United States at War: Understanding Conflict and Society,* ABC-CLIO, January 7, 2009, [http://www.usatwar.abc-clio.com](http://www.usatwar.abc-clio.com) (accessed January 2009).
+
+T.H. Breen, *The Marketplace of Revolution* (Oxford: Oxford University Press, 2004), 294331.
+
+Francis Samuel Drake, *Tea Leaves: Being a Collection of Letters and Documents Relating to the Shipment of Tea to the American Colonies in the Year 1773, by the East India Tea Company* (Boston: A. O. Crane, 1884), 8485, 256259.
+
+John R. Alden, *A History of the American Revolution* (New York: Da Capo Press, 1989), 138140.
+
+Ruth M. Miller and Ann Taylor Andrus, *Charleston's Old Exchange Building: A Witness to American History* (Charleston: The History Press, 2005), 2628.
+
+David Lee Russell, *The American Revolution in the Southern Colonies* (Jefferson, N.C.: McFarland, 2000), 46.
+
+Edward S. Gifford, Jr, *The American Revolution in the Delaware Valle* (Philadelphia: Pennsylvania Society of Sons of the Revolution, 1976), 21-22.
+
+Isaac Q. Leake, *Memoir of the Life and Times of General John Lamb* (Albany: Joel Munsell, 1850), 8083.
+
+Albert Ulmann, "The Tea Party New York Had," *The New York Times*, January 21, 1899, BR38.
+
+Theresa Barbo, "A Bitter Wellfleet Tea Party," in *True Accounts of Yankee Ingenuity and Grit from the Cape Cod Voice* (Charleston: The History Press, 2007), 2326.
+
+Edwin Mark Norris, *The Story of Princeton* (Boston: Little, Brown, and Company, 1917) 7879.
+
+Willis Rudy, *The Campus and a Nation in Crisis: From the American Revolution to Vietnam* (Madison, N.J.: Fairleigh Dickinson University Press, 1996) 1012.
+
+Charles Edward Banks, *The History of York, Maine, Volume 1* (Boston: Calkins Press, 1931), 386.
+
+George Ernst, *New England Miniature: A History of York, Maine* (Freeport, ME.: Bond Wheelwright Company, 1961), 76.
+
+"The Tea Party at York Maine," http://imaginemaine.com/Tea_Party.html (accessed January 2009).
+
+Website of the annual Chestertown Tea Party Festival, [http://www.chestertownteaparty.com/](http://www.chestertownteaparty.com/)  (accessed January 2009).

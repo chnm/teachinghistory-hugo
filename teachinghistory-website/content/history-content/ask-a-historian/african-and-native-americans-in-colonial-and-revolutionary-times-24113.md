@@ -92,3 +92,11 @@ Woody Holton, *Forced Founders: Indians, Debtors, Slaves, and the Making of the 
 William Lorenz Katz, *Black Indians: A Hidden Heritage*. New York: Atheneum, 1986.
 
 William Loren Katz, *The Black West: a Documentary and Pictorial History of the African American Role in the Expansion of the United States*. New York: Harlem Moon/Broadway Books, 2005.
+
+## For Further Reading
+
+Daniel Mandell, *Tribe, Race, History: Native Americans in Southern New England, 1780-1880*.  Baltimore: Johns Hopkins University Press, 2008.
+
+Celia Naylor, *African Cherokees in Indian Territory: From Chattel to Citizens*.  Chapel Hill: University of North Carolina Press, 2008. 
+
+Alan Taylor, *The Divided Ground: Indians, Settlers, and the Northern Borderlands of the American Revolution*.  New York: Alfred A. Knopf, 2006.

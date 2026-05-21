@@ -16,41 +16,41 @@ video/mp4
 
 ## Visit Digital Classroom
 
-Visit [Digital Classroom](http://teachinghistory.org/digital-classroom) to learn about new digital tools, ask questions, and watch examples of effective history teaching with technology. Explore the many possibilities:
+Visit [Digital Classroom](/digital-classroom) to learn about new digital tools, ask questions, and watch examples of effective history teaching with technology. Explore the many possibilities:
 
-[#### Tech for Teachers: VoiceThread](http://teachinghistory.org/digital-classroom/tech-for-teachers/21844)![](/files/Voicethread150x113.jpg) VoiceThread is a popular web-based tool for creating and collaborating on multimedia presentations, allowing you to combine images and video with text and audio commentary. [[...] »](http://teachinghistory.org/digital-classroom/tech-for-teachers/21844 "Read more")
+[#### Tech for Teachers: VoiceThread](/digital-classroom/tech-for-teachers/21844)![](/files/Voicethread150x113.jpg) VoiceThread is a popular web-based tool for creating and collaborating on multimedia presentations, allowing you to combine images and video with text and audio commentary. [[...] »](/digital-classroom/tech-for-teachers/21844 "Read more")
 
 [#### Ask a Digital Historian: Beyond Google Searching](/digital-classroom/ask-a-digital-historian/24089)![](/files/capital.jpg)How can you find quality digital U.S. history images? It's harder than it looks, but keep reading for some good strategies.[[...] »](/digital-classroom/ask-a-digital-historian/24089 "Read more")
 
 [#### Beyond the Chalkboard: Using Facebook to Engage with Historical Figures](/digital-classroom/beyond-the-chalkboard/24152)![](/files/splash-btc-facebookfan.jpeg)After researching historical figures, this teacher had students created Facebook Fan pages, hosting albums of images, detailed biographies, and continual status updates written "in character." [[...] »](/digital-classroom/beyond-the-chalkboard/24152 "Read more")
 
   
-(Download the video transcript [here](http://teachinghistory.org/system/files/digital_classroom.pdf). You may also download the Digital Classroom rubric, either [completed](http://teachinghistory.org/system/files/dst_rubric.pdf) or [blank](http://teachinghistory.org/system/files/dst_rubric_blank.pdf).)  
+(Download the video transcript [here](/system/files/digital_classroom.pdf). You may also download the Digital Classroom rubric, either [completed](/system/files/dst_rubric.pdf) or [blank](/system/files/dst_rubric_blank.pdf).)  
   
 *## Tools & Resources in Digital Classroom Video
 
 * [Animoto](http://animoto.com/)
-* [Historical Thinking Matters](http://teachinghistory.org/history-content/website-reviews/14693)
+* [Historical Thinking Matters](/history-content/website-reviews/14693)
 * [Magic Lens](http://dohistory.org/diary/exercises/lens/)
-* [iCivics](http://teachinghistory.org/nhec-blog/22482)
-* [Mind Mapping](http://teachinghistory.org/digital-classroom/tech-for-teachers/24177)
-* [The Lost Museum](http://teachinghistory.org/history-content/website-reviews/14659)
-* [Twitter](http://teachinghistory.org/digital-classroom/tech-for-teachers/21851)
+* [iCivics](/nhec-blog/22482)
+* [Mind Mapping](/digital-classroom/tech-for-teachers/24177)
+* [The Lost Museum](/history-content/website-reviews/14659)
+* [Twitter](/digital-classroom/tech-for-teachers/21851)
 * [John Adam's Twitter](http://twitter.com/#!/JQAdams_MHS)
 * [Free Tech for Teachers](http://www.freetech4teachers.com/2010/04/12-resources-every-social-studies.html)
-* [Ning](http://teachinghistory.org/digital-classroom/tech-for-teachers/20674)
-* [Whiteboards](http://teachinghistory.org/digital-classroom/tech-for-teachers/21577)
+* [Ning](/digital-classroom/tech-for-teachers/20674)
+* [Whiteboards](/digital-classroom/tech-for-teachers/21577)
 * [NASA Video](http://www.nasa.gov/multimedia/videogallery/index.html)
 * [Albany Institute Videoconferencing](http://www.albanyinstitute.org/z-%20AIHA%20website/7-Education/Videoconferencing/education.videoconferencing.htm)
-* [Zoom-in Inquiry](http://teachinghistory.org/digital-classroom/beyond-the-chalkboard/24158)
-* [Facebook](http://teachinghistory.org/digital-classroom/beyond-the-chalkboard/24152)
+* [Zoom-in Inquiry](/digital-classroom/beyond-the-chalkboard/24158)
+* [Facebook](/digital-classroom/beyond-the-chalkboard/24152)
 * [Google Earth](http://www.google.com/earth/index.html)
-* [Worlde](http://teachinghistory.org/digital-classroom/tech-for-teachers/20785)
-* [Google Docs](http://teachinghistory.org/digital-classroom/tech-for-teachers/14586)
-* [Web Poster Wizard](http://teachinghistory.org/digital-classroom/tech-for-teachers/14589)
-* [Social Explorer](http://teachinghistory.org/digital-classroom/tech-for-teachers/14588)
-* [Living Room Candidate](http://teachinghistory.org/history-content/website-reviews/14630)
-* [DocsTeach](http://teachinghistory.org/digital-classroom/tech-for-teachers/24268)
+* [Worlde](/digital-classroom/tech-for-teachers/20785)
+* [Google Docs](/digital-classroom/tech-for-teachers/14586)
+* [Web Poster Wizard](/digital-classroom/tech-for-teachers/14589)
+* [Social Explorer](/digital-classroom/tech-for-teachers/14588)
+* [Living Room Candidate](/history-content/website-reviews/14630)
+* [DocsTeach](/digital-classroom/tech-for-teachers/24268)
 * [Markup.io](http://markup.io/)
 * [Google Translate](http://translate.google.com/)
 

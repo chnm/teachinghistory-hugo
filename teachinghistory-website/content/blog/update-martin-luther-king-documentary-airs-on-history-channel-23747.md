@@ -17,7 +17,7 @@ tags:
 - teaching materials
 ---
 
-Here's a supplement to an earlier blog entry, [Teaching About Dr. Martin Luther King](http://teachinghistory.org/nhec-blog/23709).
+Here's a supplement to an earlier blog entry, [Teaching About Dr. Martin Luther King](/nhec-blog/23709).
 
 On Monday, January 18, 2010, The History Channel broadcasts an [unforgettable two hour documentary on the life of Martin Luther King, Jr.](http://www.history.com/shows). The program airs 4pm-6pm.
 

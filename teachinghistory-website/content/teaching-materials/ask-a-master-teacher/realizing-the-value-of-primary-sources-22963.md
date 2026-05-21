@@ -45,13 +45,13 @@ For example, "everyday" activities could include:
 
 More historical activities include:
 
-* Do an [Opening Up the Textbook lesson](http://teachinghistory.org/best-practices/teaching-with-textbooks/19438) where students work with primary sources and their textbook and consider the role each plays in telling the story of the past.
-* Use a lesson like the one reviewed [here](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/22395) about the Boston Massacre to help students understand that primary sources are the raw materials of history.
-* Or try an activity structure like [this one for analyzing photographs](http://teachinghistory.org/teaching-materials/teaching-guides/21806) or this one for [writing structured academic controversies](http://teachinghistory.org/teaching-materials/teaching-guides/21731) to meaningfully engage students with primary sources.
+* Do an [Opening Up the Textbook lesson](/best-practices/teaching-with-textbooks/19438) where students work with primary sources and their textbook and consider the role each plays in telling the story of the past.
+* Use a lesson like the one reviewed [here](/teaching-materials/lesson-plan-reviews/22395) about the Boston Massacre to help students understand that primary sources are the raw materials of history.
+* Or try an activity structure like [this one for analyzing photographs](/teaching-materials/teaching-guides/21806) or this one for [writing structured academic controversies](/teaching-materials/teaching-guides/21731) to meaningfully engage students with primary sources.
 
-Using detective work as a metaphor for introducing primary sources and the central role they play in creating those secondary accounts can be useful. See this [Research Brief](http://teachinghistory.org/issues-and-research/research-briefs/14961) or [this one](http://teachinghistory.org/issues-and-research/research-briefs/19265) for a quick look at studies that included teaching students what primary sources were and how they were used by historians.
+Using detective work as a metaphor for introducing primary sources and the central role they play in creating those secondary accounts can be useful. See this Research Brief or this one for a quick look at studies that included teaching students what primary sources were and how they were used by historians.
 
-You may also get buy-in from your students if you select primary sources that you judge especially interesting for them. For example, try using childrens’ voices from the past (See this [Depression Era lesson](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/19089) or this [Civil War lesson](http://teachinghistory.org/best-practices/teaching-with-textbooks/22467).) or sources addressing topics they are interested in like music or sports.
+You may also get buy-in from your students if you select primary sources that you judge especially interesting for them. For example, try using childrens’ voices from the past (See this Depression Era lesson or this [Civil War lesson](/best-practices/teaching-with-textbooks/22467).) or sources addressing topics they are interested in like music or sports.
 
 But in any case, even if students are initially resistant to primary sources in your classroom, we encourage you to use them and help them learn why studying history without them makes little sense as they are the raw materials of the discipline. Primary sources also offer rich opportunities for helping your students practice and hone their reading and analysis skills, critical abilities for their future.
 
@@ -71,12 +71,12 @@ For example, "everyday" activities could include:
 
 More historical activities include:
 
-* Do an [Opening Up the Textbook lesson](http://teachinghistory.org/best-practices/teaching-with-textbooks/19438) where students work with primary sources and their textbook and consider the role each plays in telling the story of the past.
-* Use a lesson like the one reviewed [here](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/22395) about the Boston Massacre to help students understand that primary sources are the raw materials of history.
-* Or try an activity structure like [this one for analyzing photographs](http://teachinghistory.org/teaching-materials/teaching-guides/21806) or this one for [writing structured academic controversies](http://teachinghistory.org/teaching-materials/teaching-guides/21731) to meaningfully engage students with primary sources.
+* Do an [Opening Up the Textbook lesson](/best-practices/teaching-with-textbooks/19438) where students work with primary sources and their textbook and consider the role each plays in telling the story of the past.
+* Use a lesson like the one reviewed [here](/teaching-materials/lesson-plan-reviews/22395) about the Boston Massacre to help students understand that primary sources are the raw materials of history.
+* Or try an activity structure like [this one for analyzing photographs](/teaching-materials/teaching-guides/21806) or this one for [writing structured academic controversies](/teaching-materials/teaching-guides/21731) to meaningfully engage students with primary sources.
 
-Using detective work as a metaphor for introducing primary sources and the central role they play in creating those secondary accounts can be useful. See this [Research Brief](http://teachinghistory.org/issues-and-research/research-briefs/14961) or [this one](http://teachinghistory.org/issues-and-research/research-briefs/19265) for a quick look at studies that included teaching students what primary sources were and how they were used by historians.
+Using detective work as a metaphor for introducing primary sources and the central role they play in creating those secondary accounts can be useful. See this Research Brief or this one for a quick look at studies that included teaching students what primary sources were and how they were used by historians.
 
-You may also get buy-in from your students if you select primary sources that you judge especially interesting for them. For example, try using childrens’ voices from the past (See this [Depression Era lesson](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/19089) or this [Civil War lesson](http://teachinghistory.org/best-practices/teaching-with-textbooks/22467).) or sources addressing topics they are interested in like music or sports.
+You may also get buy-in from your students if you select primary sources that you judge especially interesting for them. For example, try using childrens’ voices from the past (See this Depression Era lesson or this [Civil War lesson](/best-practices/teaching-with-textbooks/22467).) or sources addressing topics they are interested in like music or sports.
 
 But in any case, even if students are initially resistant to primary sources in your classroom, we encourage you to use them and help them learn why studying history without them makes little sense as they are the raw materials of the discipline. Primary sources also offer rich opportunities for helping your students practice and hone their reading and analysis skills, critical abilities for their future.

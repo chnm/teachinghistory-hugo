@@ -44,3 +44,15 @@ Taxes, custom duties, and many other means of generating revenue bred resentment
 *[Envisaging the West: Thomas Jefferson and the Roots of Lewis and Clark](http://jeffersonswest.unl.edu/)*. University of Nebraska–Lincoln, Center for Digital Research in the Humanities.
 
 “Tax History Museum.” *The Tax History Project*. Paul Milazzo and Joseph J. Thorndike.
+
+## For Further Reading
+
+Adams, Charles. *These Dirty Rotten Taxes: The Tax Revolts that Built America*. New York: Free Press, 1998.
+
+Brownlee, W. Elliott. *Taxation in America: A Short History*. New York: Cambridge UP, 2004.
+
+Chernow, Ron. *Alexander Hamilton*. New York: Penguin Press, 2004.
+
+Forsythe, Dall W. *Taxation and Political Change in the Young Nation, 1781-1833*. New York: Columbia UP, 1977.
+
+Onuf, Peter S. *Statehood and Union: A History of the Northwest Ordinance*. Bloomington: Indiana UP, 1987.

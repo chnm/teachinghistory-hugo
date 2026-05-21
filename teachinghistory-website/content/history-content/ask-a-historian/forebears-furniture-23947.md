@@ -73,7 +73,7 @@ Another place to look is in wills, inventories, and probate records. Specific it
 
 ---
 
-[**Daily Objects, 19th-century America**](http://teachinghistory.org/best-practices/examples-of-historical-thinking/23423)
+[**Daily Objects, 19th-century America**](/best-practices/examples-of-historical-thinking/23423)
 
 [**National Gallery of Art: Press Office**](http://www.nga.gov/press/2010/acqui_kaufman.shtm)
 

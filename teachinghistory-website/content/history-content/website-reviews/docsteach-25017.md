@@ -52,4 +52,4 @@ If you're registered, consider making your own activity for use by yourself and 
 
 Take a moment to peruse the [Teacher Resources](http://docsteach.org/resources#whyteach) as well. Here, you can find information on national history standards, using DocsTeach activities in the classroom, Bloom's taxonomy, and the National Council of Social Studies.
 
-Read our Digital Classroom article on *[DocsTeach](http://teachinghistory.org/digital-classroom/tech-for-teachers/24268)* for more detailed information on using the site.
+Read our Digital Classroom article on *[DocsTeach](/digital-classroom/tech-for-teachers/24268)* for more detailed information on using the site.

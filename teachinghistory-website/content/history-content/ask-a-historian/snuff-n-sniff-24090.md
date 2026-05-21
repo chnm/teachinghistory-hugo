@@ -91,3 +91,11 @@ City smells used to be a lot more pungent than they are today. Humans shared the
 It was not until the early 19th century that many people had the notion that public cleanliness—as a measure against garbage in the street, offal, noxious effluvia from industrial processes going on right in the midst of the city, and polluting smoke—was something that civil authorities should attempt to police. This resulted in street paving, public water supplies to individual dwellings, municipal garbage collection, waste treatment plants, and industrial zoning regulations.
 
 Nevertheless, civil authorities did not consider odor to be the prime offender to public peace. Metropolitan municipalities in the 19th century were spurred to clean up their cities in order to combat the spread of disease, especially at first in port cities such as New York, Philadelphia, San Francisco, and New Orleans. These cities were periodically afflicted by cholera, yellow fever, smallpox, and typhoid. The abatement of odors was a byproduct, rather than a goal, of these efforts.
+
+## For Further Reading
+
+Virginia Sarah Smith, *Clean: A History of Personal Hygiene and Purity.*  New York:  Oxford University Press, 2007.
+
+Jim Drobnick, editor, *The Smell Culture Reader.*  New York: Berg, 2006.
+
+E. R. Billings, *Tobacco: Its History, Varieties, Culture, Manufacture and Commerce, with an account of its various modes of use, from its first discovery until now.*  Hartford, Conn.: American Publishing Company, 1875.

@@ -76,7 +76,7 @@ APPARTS is *not* a test-taking strategy. Document-Based Questions on the Advance
 
 ## Note from Teachinghistory.org
 
-We are not aware of any research done on the use of the APPARTS strategy, but we hope that this information about its origins is helpful. The literature that addresses historical reading and asking questions of text may be useful—please explore [Research Briefs](http://teachinghistory.org/issues-and-research/research-briefs).
+We are not aware of any research done on the use of the APPARTS strategy, but we hope that this information about its origins is helpful. The literature that addresses historical reading and asking questions of text may be useful—please explore Research Briefs.
 
 ---
 
@@ -118,4 +118,4 @@ APPARTS is *not* a test-taking strategy. Document-Based Questions on the Advance
 
 ## Note from Teachinghistory.org
 
-We are not aware of any research done on the use of the APPARTS strategy, but we hope that this information about its origins is helpful. The literature that addresses historical reading and asking questions of text may be useful—please explore [Research Briefs](http://teachinghistory.org/issues-and-research/research-briefs).
+We are not aware of any research done on the use of the APPARTS strategy, but we hope that this information about its origins is helpful. The literature that addresses historical reading and asking questions of text may be useful—please explore Research Briefs.

@@ -84,3 +84,15 @@ Lincoln understood the Founders to expect slavery to wither away in a generation
 > . . .The American people in the Northern States have helped to enslave the black people. Their duty will not have been done till they give them back their plundered rights." — Frederick Douglass
 
 In sum, what made Frederick Douglass an abolitionist was his experience with slavery firsthand: simply stated, he found it a poor fit for his humanity. He became a radical abolitionist, calling for the immediate abolition of slavery, because he came to view the U.S. Constitution as a pro-liberty document that could be interpreted to permit Congress to abolish slavery not only from federal territories but also in the states where it already existed. One might say his aims were radical, while his means, especially after the break from Garrison, were not radical insofar as they remained within the American constitutional context.
+
+## For Further Reading
+
+Blight, David W. [*Frederick Douglass' Civil War: Keeping Faith in Jubilee*](http://books.google.com/books?id=ABWQVKj00-8C).  Baton Rouge: Louisiana State University Press, 1989.
+
+Douglass, Frederick. *The Life and Writings of Frederick Douglass*. 5 vols. Edited by Philip S. Foner. New York: International Publishers, 1950-1975.
+
+_______.  [*Autobiographies: Narrative of the Life of Frederick Douglass, an American Slave, My Bondage and My Freedom, and Life and Times of Frederick Douglass*](http://books.google.com/books?id=XIh6OLN3vtcC).  Edited by Henry Louis Gates, Jr. New York: Library of America, 1994. 
+
+Myers, Peter C. [*Frederick Douglass: Race and the Rebirth of American Liberalism*](http://books.google.com/books?id=UjsaAQAAIAAJ). Lawrence: University Press of Kansas, 2008.
+
+Oakes, James. [*The Radical and the Republican: Frederick Douglass, Abraham Lincoln, and the Triumph of Antislavery Politics*](http://books.google.com/books?id=3pa1LOUvJe0C). New York: W.W. Norton and Company, 2007.

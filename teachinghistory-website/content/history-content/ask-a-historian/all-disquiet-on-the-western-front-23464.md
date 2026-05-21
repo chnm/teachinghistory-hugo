@@ -62,3 +62,10 @@ Paddy Griffith. *Fortifications of the Western Front 1914-18.* Oxford: Osprey, 2
 Nicholas J. Saunders. *Killing Time: Archaeology and the First World War.* Stroud: Sutton, 2007.
 
 Gary Sheffield, ed. *War on the Western Front.: In the Trenches of World War I.* New York: Osprey, 2007.
+
+## For Further Reading
+
+Images: 
+"German machine gunners in a trench," Prints and Photographs Division, Library of Congress.
+
+"Our Boys in France Learning to Correctly Use Gas Masks," Keystone View Company.

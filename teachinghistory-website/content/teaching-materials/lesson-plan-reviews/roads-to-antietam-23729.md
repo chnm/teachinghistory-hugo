@@ -39,3 +39,20 @@ Students will hone these skills as they analyze two documents written by General
 After analyzing the documents, students work in groups to create a [battle plan](http://www.civilwar.org/education/teachers/lesson-plans/civil-war-battle-strategy-lesson-plan/lost-orders-task.pdf) that could be used by the Union Army to counter Lee’s plans as revealed in [Special Orders #191](http://www.civilwar.org/education/teachers/lesson-plans/civil-war-battle-strategy-lesson-plan/road-to-antietam-special.pdf). Each group draws their battle plan on a [laminated map](http://www.civilwar.org/education/teachers/lesson-plans/civil-war-battle-strategy-lesson-plan/lost-orders-map.pdf), and presents it to the class. This portion of the lesson is creative and interactive, but teachers are not provided with clear information about what would be an effective, historically accurate battle plan. Teachers may want to devise clear criteria for students to consider when developing the battle plan to prevent this from devolving into an ahistorical activity in which students draw up unrealistic or anachronistic plans. Alternatively, teachers and students could generate criteria together as they review the groups’ plans, but teachers will still want to be prepared to guide students in judging these plans in reasonable ways.
 
 For homework, the lesson specifies that students are to research the battle tactics used by General McClellan to counter Lee’s plans at Antietam. This has potential to be a very useful assignment; but again, teachers will need to be attentive to the criteria students use for evaluating McClellan’s tactics.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes |
+| **Historical Content** | Includes historical background? | No. Teachers will need to seek background information before class. |
+| **Historical Content** | Requires students to read and write? | No. Students read primary documents and answer focus questions, but no significant writing. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Students use primary documents to draw inferences about Lee's reasons. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Students read two documents and consider the source. |
+| **Scaffolding** | Appropriate for stated audience? | Yes. For grades 8-12; may need adaptation. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. Focus questions provided. Teachers may adapt questions. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | No. Assessed on battle plan quality but no clear criteria provided. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes. Clear directions; works in many secondary US history classrooms. |

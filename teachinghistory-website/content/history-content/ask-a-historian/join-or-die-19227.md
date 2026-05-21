@@ -69,3 +69,13 @@ A longtime advocate of intercolonial union in dealings with Indians, Franklin he
 Robert C. Newbold has speculated that Georgia was probably excluded from the snake image, "because, as a defenseless frontier area, it could contribute nothing to common security." Only three laws had been passed in Georgia since its founding as a colony in 1732, prompting a historian of the colony and state to conclude, "The hope that Georgia might become a self-reliant province of soldier-farmers had not succeeded, and even the early debtor-haven dream had not come to pass." Delaware, Newbold added, "shared the same governor, albeit a different legislature, as Pennsylvania; hence the Gazette probably considered it as included with Pennsylvania."
 
 As with the snake image, the Albany Plan, drafted during the congress, did not include Georgia and Delaware in its proposed colonial union for mutual defense and security, specifying only Massachusetts Bay, New Hampshire, Connecticut, Rhode Island, New York, New Jersey, Pennsylvania, Maryland, Virginia, North Carolina, and South Carolina. The segmented snake image was revived in a number of newspapers during the 1765 Stamp Act conflict, again without reference to Georgia and Delaware. In 1774, when the segmented snake image, along with the "Join or Die" slogan, was employed as a masthead for newspapers in York, Massachusetts, and Pennsylvania, a pointed tail labeled "G" for Georgia had been added.
+
+## For Further Reading
+
+Thomas Bender, [*A Nation Among Nations: America’s Place in World History *](http://us.macmillan.com/anationamongnations/ThomasBender).  New York: Hill and Wang, 2006.
+
+Lester C. Olson, [*Emblems of American Community in the Revolutionary Era: A Study in Rhetorical Iconology*](http://www.amazon.com/Emblems-American-Community-Revolutionary-Era/dp/1560980664) Washington: Smithsonian Institution Press, 1991.
+
+Albert Matthews,[ "The Snake Devices, 1754-1776, and the Constitutional Courant, 1765,"](http://books.google.com/books?id=t7oMAAAAYAAJ&pg=PA409&lpg=PA409&dq=The+Snake+Devices,+1754-1776,+and+the+Constitutional+Courant,+1765&source=bl&ots=6UMcWHX5nK&sig=anmn8uHEtv9q37fE4PD0WPGp1BE&hl=en&ei=84oUTomtNay50AGH7tDHDg&sa=X&oi=book_result&ct=result&resnum=6&ved=0CEAQ6AEwBQ#v=onepage&q=The%20Snake%20Devices%2C%201754-1776%2C%20and%20the%20Constitutional%20Courant%2C%201765&f=false) Publications of *The Colonial Society of Massachusetts*, Volume XI: Transactions, 1906-1907.
+
+Library of Congress.  ["Join or Die"](http://www.loc.gov/exhibits/us.capitol/one.jpg). Accessed February 25, 2011.

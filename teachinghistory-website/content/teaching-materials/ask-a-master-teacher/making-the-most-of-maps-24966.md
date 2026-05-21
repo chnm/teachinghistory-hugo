@@ -45,15 +45,15 @@ Once students have a basic understanding of maps, teachers can begin to explore 
 
 ## Finding the Right Map for Your Classroom
 
-The Library of Congress has a [large collection of maps](http://memory.loc.gov/ammem/browse/ListSome.php?category=Maps) that can be used for historical study. The site also has a [self-directed professional development module](http://www.loc.gov/teachers/professionaldevelopment/selfdirected/maps.html) for teachers about how to access and use maps in social studies lessons. This module is useful if you are new to using maps to teach history. To learn even more about what to look for in historical maps I encourage you to read the short demonstration essay "[Making Sense of Maps](http://www.teachinghistory.org/nhec-blog/23617)" by David Stephens of Youngstown State University.
+The Library of Congress has a [large collection of maps](http://memory.loc.gov/ammem/browse/ListSome.php?category=Maps) that can be used for historical study. The site also has a [self-directed professional development module](http://www.loc.gov/teachers/professionaldevelopment/selfdirected/maps.html) for teachers about how to access and use maps in social studies lessons. This module is useful if you are new to using maps to teach history. To learn even more about what to look for in historical maps I encourage you to read the short demonstration essay "[Making Sense of Maps](/nhec-blog/23617)" by David Stephens of Youngstown State University.
 
 ## Older Students
 
 > As with other print media, students must learn to ask why was this document made, for whom, and in what context.
 
-High school students with weaker geography backgrounds may require a review of terms and fundamental spatial concepts. But it is even more important for this age group for you to teach dynamic geographic analysis skills. See this [Teaching Guide](http://teachinghistory.org/teaching-materials/teaching-guides/24070) that includes an easy-to-use 12-step [handout](http://teachinghistory.org/system/files/handout_1-_maps_in_12_steps.pdf) to guide questioning about a map. It not only lists what to look for in a map, but also engages students in asking their own questions about what is represented (and what is not) and how that influences our understanding of the map. As with other print media, students must learn to ask why was this document made, for whom, and in what context.
+High school students with weaker geography backgrounds may require a review of terms and fundamental spatial concepts. But it is even more important for this age group for you to teach dynamic geographic analysis skills. See this [Teaching Guide](/teaching-materials/teaching-guides/24070) that includes an easy-to-use 12-step [handout](/system/files/handout_1-_maps_in_12_steps.pdf) to guide questioning about a map. It not only lists what to look for in a map, but also engages students in asking their own questions about what is represented (and what is not) and how that influences our understanding of the map. As with other print media, students must learn to ask why was this document made, for whom, and in what context.
 
-Finally, I am excited by the new uses for older maps that are afforded by the new Geographical Information Systems (GIS) technologies. An example of a high school lesson plan using interactive mapping features can be found [here](http://teachinghistory.org/teaching-materials/lesson-plan-reviews/22531). This is just [one of several history lesson plans](http://www.gisforhistory.org/projects/index.php?user=teacher) based on GIS technology that are becoming available.
+Finally, I am excited by the new uses for older maps that are afforded by the new Geographical Information Systems (GIS) technologies. An example of a high school lesson plan using interactive mapping features can be found here. This is just [one of several history lesson plans](http://www.gisforhistory.org/projects/index.php?user=teacher) based on GIS technology that are becoming available.
 
 ## Creativity is Key
 
@@ -61,4 +61,4 @@ In sum, a myriad of historical maps can now be found on the Internet and their u
 
 ---
 
-You may also enjoy reading our Tech for Teachers article on [using Google Maps](http://teachinghistory.org/digital-classroom/tech-for-teachers/24658) in the classroom.
+You may also enjoy reading our Tech for Teachers article on [using Google Maps](/digital-classroom/tech-for-teachers/24658) in the classroom.

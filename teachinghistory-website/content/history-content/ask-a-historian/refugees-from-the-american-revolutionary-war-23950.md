@@ -41,3 +41,10 @@ The 1994 PBS film *Mary Silliman’s War* does an excellent job of demonstrating
 ---
 
 Sarah F. McMahon, ["Mary Silliman's War: A Convincing Social Portrait,"](http://www.historians.org/perspectives/issues/1995/9504/9504FIL.CFM) review of the documentary, at the website of the American Historical Association.
+
+## For Further Reading
+
+Images:
+"A view of the guard-house and Simsbury-mines, now called Newgate - a prison for the confinement of loyalists in Connecticut," published in London, 1781.  Prints and Photographs Division, Library of Congress.
+
+"The Procession" and "The Tory's day of Judgment," prints by Elkanah Tisdale, 1785.  Prints and Photographs Division, Library of Congress.

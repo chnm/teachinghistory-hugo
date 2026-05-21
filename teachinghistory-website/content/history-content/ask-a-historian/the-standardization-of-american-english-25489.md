@@ -48,3 +48,11 @@ Simpson, David. *The Politics of American English, 1776-1850*. New York and Oxfo
 Film Study Center, Harvard University, “How to Read 18th Century British-American Writing.” *[DoHistory.org](http://dohistory.org/on_your_own/toolkit/writing.html)*. Roy Rosenzweig Center for History and New Media.
 
 [Noah Webster biography](http://noahwebsterhouse.org/discover/noah-webster-history.htm) at the Noah Webster House [website](http://noahwebsterhouse.org/).
+
+## For Further Reading
+
+Baron, Dennis E. *Grammar and Good Taste: Reforming the American Language*. New Haven and London: Yale University Press, 1982.
+
+Lepore, Jill. *A Is For American: Letters and Other Characters in the Newly United States*. New York: Vintage Books, 2003.
+
+Webster, Noah. *The Autobiographies of Noah Webster*. Edited by Richard M. Rollins. Columbia, SC: University of South Carolina Press, 1989.

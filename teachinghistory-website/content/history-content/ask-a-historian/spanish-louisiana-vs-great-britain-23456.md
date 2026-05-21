@@ -25,7 +25,7 @@ tags:
 - Spain
 ---
 
-Perhaps this question was stimulated by another recent question and answer. Please consider [that exchange](http://teachinghistory.org/history-content/ask-a-historian/22894) as preliminary background for what follows here.
+Perhaps this question was stimulated by another recent question and answer. Please consider [that exchange](/history-content/ask-a-historian/22894) as preliminary background for what follows here.
 
 After Spain's public acknowledgment in June 1779 that it would join with France to wage war on Britain, the Governor General of Spanish Louisiana, Bernardo de Gálvez, began his successful military campaign against British forces in Florida, Louisiana, and in the Mississippi River Valley.
 
@@ -38,3 +38,10 @@ Nevertheless, his worry did not hinder Spain's pursuit of its own interests in A
 ---
 
 U.S. Department of State, ["John Jay in Madrid."](http://future.state.gov/when/timeline/1776_timeline/john_jay_in_madrid.html)
+
+## For Further Reading
+
+Images:  
+Detail of ceiling painting in the Salon de Carlos III, Palacio Real, Madrid.
+
+Drawing by Pierre Eugène Du Simitière, "His Excellency John Jay, President of Congress & Minister Plenipotentiary from Congress at Madrid," from *Portraits of Generals, Ministers, Magistrates, Members of Congress, and Others, Who Have Rendered Themselves Illustrious in the Revolution of the United States of North America*, Vol. 3. London: R. Wilkinson and J. Debrett, 1783.

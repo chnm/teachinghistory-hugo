@@ -40,7 +40,7 @@ To some extent, teachers have been the victims of a toxic combination of hype an
 
 Where I would advise spending money if there are no restrictions preventing you from doing so, is on professional development opportunities for teachers. Buying time and space for teachers away from the classroom allows them to properly evaluate resources and ask how they could either enhance their existing classroom practice or facilitate a beneficial change. Too often, money is spent on resources that essentially replicate the textbook. Focus instead on professional development that teaches students how to find and use primary sources—materials that provide insight into the attitudes, values, thoughts, fears, and hopes of people in the past.
 
-Teachinghistory.org has some wonderful [teacher guides](http://www.teachinghistory.org/best-practices/using-primary-sources) on making use of primary sources, as well as recommendations on [collections](http://www.teachinghistory.org/history-content) of sources. Perhaps best of all, [*Beyond the Textbook*](http://www.teachinghistory.org/history-content/beyond-the-textbook) presents strategies for using sources to question the versions of events in textbooks, or at least to consider whether the story told in the textbook might have a few missing pages.
+Teachinghistory.org has some wonderful [teacher guides](/best-practices/using-primary-sources) on making use of primary sources, as well as recommendations on [collections](/history-content) of sources. Perhaps best of all, [*Beyond the Textbook*](/history-content/beyond-the-textbook) presents strategies for using sources to question the versions of events in textbooks, or at least to consider whether the story told in the textbook might have a few missing pages.
 > Technology can be a powerful motivator, but it is better used as a facilitator.
 
 Technology can make finding, collecting, and sharing primary sources easier (see websites such as [Smithsonian Source](http://smithsoniansource.org/)). Technology can also help students marshal and manage the work they do and present their understandings of topics in ways that they find interesting and motivational. There are many excellent Web 2.0 resources available now.
@@ -53,4 +53,4 @@ My best advice is to direct funds into technology via people rather than the oth
 
 ---
 
-Learn more about digital tools—for free! See our [*Tech for Teachers*](http://teachinghistory.org/digital-classroom/tech-for-teachers) section.
+Learn more about digital tools—for free! See our [*Tech for Teachers*](/digital-classroom/tech-for-teachers) section.

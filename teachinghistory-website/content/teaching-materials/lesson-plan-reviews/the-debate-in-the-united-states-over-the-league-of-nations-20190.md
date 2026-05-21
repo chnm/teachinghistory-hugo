@@ -37,3 +37,20 @@ This [lesson](http://edsitement.neh.gov/lesson-plan/debate-united-states-over-le
 Some nice features of this lesson are that speeches and public testimony are provided both as transcribed texts and as archived audio recordings. In addition, students receive a [structured worksheet](https://edsitement.neh.gov/sites/edsitement.neh.gov/files/worksheets/LeagueofNations.pdf) to record their thinking. These features make the texts more approachable, but many students will still have difficulty with the language and rhetorical style. We, therefore, suggest that classes investigate at least the first few sources as a whole-class activity. Teachers can model how to highlight the key points and focus on revealing passages as the class completes the worksheet.
 
 The recommended assessment activity in which students categorize hypothetical position statements is engaging, but we suggest that students also complete the alternative assessment in which they write about the various political positions they have studied. Writing such an essay encourages students to articulate their own interpretations of the material.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes. Speeches from the Library of Congress American Memory project. |
+| **Historical Content** | Includes historical background? | No. Prior knowledge about WWI and the League of Nations required. Links to resources provided. |
+| **Historical Content** | Requires students to read and write? | Yes |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Alternative assessment requires students to defend a position with evidence. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes. Close reading and sourcing are the central purpose. |
+| **Scaffolding** | Appropriate for stated audience? | Yes. Readings are difficult. Teachers will need to guide note taking. |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. Worksheet is useful but needs additional sheets for answers. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. First assessment reinforces concepts. Alternative assignment better for final assessment. No criteria. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | No. Final activity does not clearly fit chronologically or topically. |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | Yes. Clear and comprehensive. |

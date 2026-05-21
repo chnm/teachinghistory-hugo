@@ -146,3 +146,67 @@ Robert Martin Owens, *Mr. Jefferson’s Hammer: William Henry Harrison and the O
 Jeffrey B. Snyder, *Canes and Walking Sticks: A Stroll through Time and Place*. Atglen, PA.: Schiffer, 2004.
 
 [Papers of the War Department](http://wardepartmentpapers.org/)
+
+## For Further Reading
+
+“Another ‘Old Roman,’” *Boston Courier*, December 17, 1835.
+
+“Battle Ground of Tippecanoe,” *Cleveland Daily Herald*, October 30, 1835.
+
+Reed Beard, *The Battle of Tippecanoe: historical sketches of the famous field upon which General William Henry Harrison won renown that aided him in reaching the presidency; lives of the Prophet and Tecumseh, with many interesting incidents of their rise and overthrow; the campaign of 1888 and election of General Benjamin Harrison*.  Lafayette, Ind.: Tippecanoe Publishing Company, 1889.
+
+William Monroe Cockrum, *Pioneer History of Indiana: including stories, incidents, and customs of the early settlers*.  Oakland City, Ind.: Press of Oakland City Journal, 1907.
+
+Richard Patten DeHart, ed., *Past and Present of Tippecanoe County, Indiana*, vol. 1.  Indianapolis: B. F. Bowen, 1909.
+
+“Dinner to General Harrison,” *Daily National Intelligencer*, December 25, 1826.
+
+Janie Preston French, *The Crockett Family and Connecting Lines*.  Bristol, Tenn.: King Publishing, 1989.
+
+“Gen. Harrison’s Benevolence,” *Fayetteville Observer*, March 11, 1840.
+
+“Gen. William H. Harrison,” *Indiana Journal*, September 11, 1835.
+
+“The Inauguration,” *Boston Daily Atlas*, March 8, 1841.
+
+Benson J. Lossing, *Pictorial Field-book of the War of 1812*.  New York: Harper and Brothers, 1869.
+
+James Madison, *Message from the President of the United States: transmitting two letters from Gov. Harrison of the Indiana Territory, reporting the particulars and the issue of the expedition under his command, against the hostile Indians on the Wabash*.  Washington: R.C. Weightman, 1811.
+
+Robert B. McAfee, *History of the Late War in the Western Country; comprising a full account of all the transactions in that quarter, from the commencement of hostilities at Tippecanoe, to the termination of the contest at New Orleans on the return of peace*.  Lexington: Worsley & Smith, 1816.
+
+David B. Montgomery, *A Genealogical History of the Montgomerys and Their Descendants*.  Owensville, Ind.: J. P. Cox, 1903.
+
+William Ogden Niles, *The Tippecanoe Text-Book*. Baltimore: D. Green, 1840.
+
+Anthony Banning Norton, *The Great Revolution of 1840: Reminiscences of the Log Cabin and Hard Cider Campaign*.  New York: A. B. Norton and Company, 1888.
+
+M. W. Pershing, *Life of General John Tipton and Early Indiana History*. Tipton, Ind.: Tipton Literary and Suffrage Club, 1900.
+
+Alfred Pirtle, *The Battle of Tippecanoe: read before the Filson club, November 1, 1897*.  Louisville: John P. Morton, 1900.
+
+James Rariden, “A Card,” *Daily National Intelligencer*, June 13, 1840.
+
+Alva O. Reser, *The Tippecanoe Battle-Field Monument: a history of the association formed to promote the enterprise, the action of Congress and the Indiana legislature, the work of the commission and the ceremonies at the dedication of the monument*.  Indianapolis: W. B. Burford, 1909.
+
+“Scenes in the War of 1812: 2. Harrison’s Campaigns,” *Harper’s New Monthly Magazine*, 27.5 (July 1863): 145-150.
+
+Francis W. Shepardson, “The Amenities of a Presidential Campaign,” *The World To-day* 7.4 (October 1904): 1314-1322.
+
+“Soldiers and Civilians Meet to Dedicate Battle Ground Monument,” *Lafayette Daily Courier*, November 7, 1908.
+
+*Speech of General J. Watson Webb, at the Great Mass Meeting on the Battle Ground of Tippecanoe. 60,000 Freemen in Council*.  New York: Courier and Enquirer, 1856.
+
+“Tippecanoe,” *Hagerstown Torch Light and Public Advertiser*, December 2, 1830; reprinted from the *Political (Indiana) Clarion*, November 6, 1830.
+
+“Tippecanoe,” *Natchez Gazette*, December 8, 1830.
+
+“Tippecanoe Battle-Ground,” *Indiana Journal*, November 3, 1830.
+
+“Tippecanoe Celebration,” *Indiana Journal*, November 13, 1835.
+
+“Tippecanoe Club,” *Indiana Journal*, October 3, 1840.
+
+“Tipton: Account of the Battle of Tippecanoe, September 1833,” Letter to the editor of the *Vincennes Gazette* (November 9, 1833) and the *Indiana Journal*, October 19, 1833. 
+
+John Wesley Whicker, *Historical Sketches of the Wabash Valley*.  Attica, Ind.: The Author, 1916.

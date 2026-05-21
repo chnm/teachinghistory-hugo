@@ -73,6 +73,6 @@ You might also give each student a different state. Include wildcards, like Hawa
 
 ## More Resources
 
-If you've looked through the sesquicentennial websites above and can't find resources to suit your needs, try searching our [Website Reviews](http://teachinghistory.org/history-content/website-reviews?keys=&tid=All&tid_1=23&tid_2=All). We've visited more than 300 websites with resources on the years 1850–1877, and annotated all of them.
+If you've looked through the sesquicentennial websites above and can't find resources to suit your needs, try searching our Website Reviews. We've visited more than 300 websites with resources on the years 1850–1877, and annotated all of them.
 
 However you want to approach Civil War history, chances are good you'll find a site with relevant resources cataloged here.

@@ -33,4 +33,14 @@ tags:
 - presidential campaigns
 ---
 
-An online game that gives students a chance to run their own presidential campaign.
+## Overview
+
+"Win the White House" is an online game developed by iCivics that gives students a chance to run their own presidential campaign. The resource allows learners to simulate all aspects of a campaign, from candidate selection through general election strategy.
+
+## Getting Started
+
+Students can participate with or without registration (both free). Registered players can save progress and return later, while unregistered users play single sessions. To begin, players establish their candidate identity by selecting a name, slogan, political party, and campaign issues. Topic options range from environmental policy to healthcare, with advanced civics concepts like gun control available for older students. For instructional support, educators can access the "Win the White House: A Game Guide for Teachers."
+
+## Example
+
+The game naturally introduces students to electoral processes, including how the Electoral College functions and vote weighting mechanics. Visual tools help players track campaign progress through filter buttons displaying state-by-state electoral votes, popular vote totals, political momentum, and fundraising capacity. Built-in assessment features measure whether students achieved their stated objectives, helping teachers evaluate comprehension of both political mechanics and media influence on elections.

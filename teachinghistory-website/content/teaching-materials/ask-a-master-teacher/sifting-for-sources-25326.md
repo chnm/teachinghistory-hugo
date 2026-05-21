@@ -47,9 +47,9 @@ If you are eager to search for primary and secondary sources, but unsure how to 
 
 Teachinghistory.org is also a treasure trove for resources:
 
-* See [this set](http://teachinghistory.org/digital-classroom/ask-a-digital-historian/24664) of resources about primary and secondary sources.
-* Visit [this post](http://teachinghistory.org/best-practices/using-primary-sources/19079) to learn about what constitutes a primary source, as well as [this one](http://teachinghistory.org/best-practices/using-primary-sources/19080) on secondary sources.
-* Learn effective methods to analyze and annotate primary and secondary sources by clicking [here](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/24472).
+* See [this set](/digital-classroom/ask-a-digital-historian/24664) of resources about primary and secondary sources.
+* Visit [this post](/best-practices/using-primary-sources/19079) to learn about what constitutes a primary source, as well as [this one](/best-practices/using-primary-sources/19080) on secondary sources.
+* Learn effective methods to analyze and annotate primary and secondary sources by clicking [here](/teaching-materials/ask-a-master-teacher/24472).
 
 Before you decide to use any online resource, I encourage you to scrutinize it carefully for perspective and integrity. Catherine Denial, Assistant Professor of History at Knox College in Galesburg, IL, wrote a brief guide for [analyzing websites](http://www.bringinghistoryhome.org/assets/bringinghistoryhome/general-resources/evaluating_websites_ten_short_reminders.pdf). For your purposes, sometimes you will find a site that does not meet criteria for integrity but it will include links to sites that do. It’s fine to take advantage of this scenario.
 
@@ -77,9 +77,9 @@ If you are eager to search for primary and secondary sources, but unsure how to 
 
 Teachinghistory.org is also a treasure trove for resources:
 
-* See [this set](http://teachinghistory.org/digital-classroom/ask-a-digital-historian/24664) of resources about primary and secondary sources.
-* Visit [this post](http://teachinghistory.org/best-practices/using-primary-sources/19079) to learn about what constitutes a primary source, as well as [this one](http://teachinghistory.org/best-practices/using-primary-sources/19080) on secondary sources.
-* Learn effective methods to analyze and annotate primary and secondary sources by clicking [here](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/24472).
+* See [this set](/digital-classroom/ask-a-digital-historian/24664) of resources about primary and secondary sources.
+* Visit [this post](/best-practices/using-primary-sources/19079) to learn about what constitutes a primary source, as well as [this one](/best-practices/using-primary-sources/19080) on secondary sources.
+* Learn effective methods to analyze and annotate primary and secondary sources by clicking [here](/teaching-materials/ask-a-master-teacher/24472).
 
 Before you decide to use any online resource, I encourage you to scrutinize it carefully for perspective and integrity. Catherine Denial, Assistant Professor of History at Knox College in Galesburg, IL, wrote a brief guide for [analyzing websites](http://www.bringinghistoryhome.org/assets/bringinghistoryhome/general-resources/evaluating_websites_ten_short_reminders.pdf). For your purposes, sometimes you will find a site that does not meet criteria for integrity but it will include links to sites that do. It’s fine to take advantage of this scenario.
 

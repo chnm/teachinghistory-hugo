@@ -44,7 +44,7 @@ Our research paper process guides students using a system with a seven-part stru
 
 ## Teacher Preparation
 
-Identify and model the qualities of good historical questions, as described in [Handout 1](https://teachinghistory.org/sites/default/files/handout_1_0.pdf), throughout the course (e.g. as lecture openings, test essays, class discussions, and at the beginning or end of structured debates). As they gain understanding, have students develop good questions as part of classroom activities. When the students seem to have grasped the fundamentals of historical writing, (i.e. thesis, claim, logic, evidence) begin the research paper effort.
+Identify and model the qualities of good historical questions, as described in [Handout 1](/files/handout_1_0.pdf), throughout the course (e.g. as lecture openings, test essays, class discussions, and at the beginning or end of structured debates). As they gain understanding, have students develop good questions as part of classroom activities. When the students seem to have grasped the fundamentals of historical writing, (i.e. thesis, claim, logic, evidence) begin the research paper effort.
 
 ## Sequence in the Classroom
 
@@ -52,13 +52,13 @@ Identify and model the qualities of good historical questions, as described in [
 2. The student reads reference sources to establish the basic facts about the     broad topics (who did what, where, and when).
 3. The student narrows the broad topics into manageable subtopics for     which evidence (documents, images, etc.) is likely available.
 4. The student chooses the subtopic that interests her the most but keeps     other subtopics on a list in case the chosen subtopic does not have     sufficient evidence.
-5. The teacher models creating good historical research questions. Students     practice improving weaker historical questions using [Handout 2](https://teachinghistory.org/sites/default/files/handout_2_0.pdf).
+5. The teacher models creating good historical research questions. Students     practice improving weaker historical questions using [Handout 2](/files/handout_2_0.pdf).
 6. Students develop historical questions about their chosen subtopics. They     work in small groups to improve their questions.
 7. Students write a passage that identifies the historical context and the     historical question. These are turned in to the faculty member for     feedback before moving on to locating primary and secondary sources.     Remember: questions can and will change as the student does more     research.
 
 ## Example
 
-As part of preparing students for Step 7 of the process above, show kids [Handout 3](https://teachinghistory.org/sites/default/files/handout_3_0.pdf) so that they can see a completed template.
+As part of preparing students for Step 7 of the process above, show kids [Handout 3](/files/handout_3_0.pdf) so that they can see a completed template.
 
 ## Common Pitfalls
 

@@ -23,7 +23,7 @@ Check with local and state historical societies, libraries and archives, histori
 Looking for something on the national level? These professional development programs are $200 or less:
 
 * **American Red Cross:**
-  Offers a four-day [institute](https://www.signup4.net/public/ap.aspx?EID=EXPL66E&OID=50) introducing middle and high school teachers to its [*Exploring Humanitarian Law*](http://teachinghistory.org/history-content/website-reviews/25229) curriculum. The registration fee is $150, but scholarships of up to $600 are available to a limited number of applicants. The application deadline is May 4, 2012.* **Civil War Trust:**
+  Offers a four-day [institute](https://www.signup4.net/public/ap.aspx?EID=EXPL66E&OID=50) introducing middle and high school teachers to its [*Exploring Humanitarian Law*](/history-content/website-reviews/25229) curriculum. The registration fee is $150, but scholarships of up to $600 are available to a limited number of applicants. The application deadline is May 4, 2012.* **Civil War Trust:**
 
     Offers two-day regional institutes and one four-day [national institute](http://www.civilwar.org/aboutus/events/teacher-institute/). Institutes require a refundable registration deposit. Registration begins February 2012 for the national institute.
   * **C-SPAN Classroom:**

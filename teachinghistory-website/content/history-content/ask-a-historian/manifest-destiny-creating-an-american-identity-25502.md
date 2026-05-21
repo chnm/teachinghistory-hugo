@@ -30,7 +30,7 @@ tags:
 The term "manifest destiny" was first used by journalist John O'Sullivan in the New York *Democratic Review* in 1845. O'Sullivan wrote in favor of the U.S. annexing Texas, a region that the U.S. recognized as independent of any other nation. (Mexico maintained that the region was Mexican territory.) For more than 20 years, Anglo-Americans had migrated into the region, bringing ever-increasing numbers of enslaved men and women with them, tying the region to the economics and politics of the U.S. Sentiment for and against annexation reached fever pitch in 1845 and became a major feature of the presidential election campaigns of Henry Clay and James Polk. It was in this climate that O'Sullivan wrote his column for the July-August edition of the *Review*. Opponents to annexation, he argued, were trying to stop "the fulfillment of our manifest destiny to overspread the continent allotted by Providence for the free development of our yearly multiplying millions" ([1](#note1)).
 > In simple terms, Manifest Destiny was the idea that Americans were destined, by God, to govern the North American continent.
 
-In simple terms, Manifest Destiny was the idea that Americans were destined, by God, to govern the North American continent. This idea, with all the accompanying transformations of landscape, culture, and religious belief it implied, had deep roots in American culture. In 1630, John Winthrop, writing decades before the 13 original colonies declared independence, said that the English men and women who hoped to settle New England "shall be as a Citty upon a Hill, the eies of all people are uppon us; soe that if wee shall deale falsely with our god in this worke wee have undertaken and soe cause him to withdrawe his present help from us, wee shall be made a story and a byword through the world" ([2](#note2)). *[Editor's note: Learn more about colonial spelling [here](http://teachinghistory.org/history-content/ask-a-historian/25489).]*
+In simple terms, Manifest Destiny was the idea that Americans were destined, by God, to govern the North American continent. This idea, with all the accompanying transformations of landscape, culture, and religious belief it implied, had deep roots in American culture. In 1630, John Winthrop, writing decades before the 13 original colonies declared independence, said that the English men and women who hoped to settle New England "shall be as a Citty upon a Hill, the eies of all people are uppon us; soe that if wee shall deale falsely with our god in this worke wee have undertaken and soe cause him to withdrawe his present help from us, wee shall be made a story and a byword through the world" ([2](#note2)). *[Editor's note: Learn more about colonial spelling [here](/history-content/ask-a-historian/25489).]*
 
 The rhetoric of the American Revolution built upon this vision—"the sun never shined on a cause of greater worth," wrote Thomas Paine in *Common Sense*. The Revolution was not, he continued, "the affair of a city, a country, a province, or a kingdom, but of a continent" ([3](#note3)). In 1776, a writer who self-identified as Salus Populi wrote in the New York *Packet* that, "God has formed America to form the last and best plan that can possibly exist." Jefferson, looking back on the Revolution during his later years, opined that "this country remains to preserve light and liberty," in a world marred by political upheaval ([4](#note4)).
 
@@ -44,3 +44,15 @@ It is important to remember that, as originally conceived, Manifest Destiny was 
 Smith, Henry Nash. *Virgin Land: The American West as Symbol and Myth*. 1950; reprint, Cambridge: Harvard University Press, 2005.
 
 Turner, Frederick Jackson. *The Significance of the Frontier in American History*. 1893. E-text at http://xroads.virginia.edu/~Hyper/TURNER/.
+
+## For Further Reading
+
+[1](#fn1) John O'Sullivan, "[Annexation](http://digital.library.cornell.edu/cgi/t/text/text-idx?c=usde;idno=usde0017-1)," *The United States Democratic Review*, 17(85) (July-August 1845): 5, accessed March 9, 2012. 
+
+[2](#fn2) John Winthrop, *[A Model of Christian Charity](http://history.hanover.edu/texts/winthmod.html)*, 1630, accessed March 9, 2012.
+
+ [3](#fn3) Thomas Paine, *Common Sense*, 1776; reprint (New York: Penguin Books, 2005), 25.
+
+ [4](#fn4) Quoted in Leon Dion, "Natural Law and Manifest Destiny in the Era of the American Revolution," *The Canadian Journal of Economics and Political Science* 23(2) (May 1957): 240.
+
+[5](#fn5) John O'Sullivan, "The Great Nation of Futurity," *The United States Democratic Review*, 6(23) (November 1839): 427.

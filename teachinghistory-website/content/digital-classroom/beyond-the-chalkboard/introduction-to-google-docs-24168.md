@@ -6,20 +6,11 @@ content_type: beyond_the_chalkboard
 draft: false
 drupal_nid: 24168
 summary: In this official Google-created [video](http://www.youtube.com/watch?v=TYPjJK6LZdM),
-  educators and other school personnel volunteer ways they've used [Google Docs](http://teachinghistory.org/digital-classroom/tech-for-teachers/14586)
+  educators and other school personnel volunteer ways they've used [Google Docs](/digital-classroom/tech-for-teachers/14586)
   in their classrooms. The video provides some footage of student use, but, more,
   it presents a good general overview of what Google Docs is and does—including how
   it can prevent repetition of work and promote collaboration between students, even
   outside of the classroom.
-author_bio: 'In this official Google-created [video](http://www.youtube.com/watch?v=TYPjJK6LZdM),
-  educators and other school personnel volunteer ways they''ve used [Google Docs](http://teachinghistory.org/digital-classroom/tech-for-teachers/14586)
-  in their classrooms. The video provides some footage of student use, but, more,
-  it presents a good general overview of what Google Docs is and does—including how
-  it can prevent repetition of work and promote collaboration between students, even
-  outside of the classroom.
-
-  NOTE: To view this video, you will need to be connected to a network that allows
-  YouTube access.'
 url: /digital-classroom/beyond-the-chalkboard/24168
 featured: true
 website_url: http://www.youtube.com/watch?v=TYPjJK6LZdM
@@ -33,6 +24,6 @@ grade_levels:
 - middle
 ---
 
-In this official Google-created [video](http://www.youtube.com/watch?v=TYPjJK6LZdM), educators and other school personnel volunteer ways they've used [Google Docs](http://teachinghistory.org/digital-classroom/tech-for-teachers/14586) in their classrooms. The video provides some footage of student use, but, more, it presents a good general overview of what Google Docs is and does—including how it can prevent repetition of work and promote collaboration between students, even outside of the classroom.
+In this official Google-created [video](http://www.youtube.com/watch?v=TYPjJK6LZdM), educators and other school personnel volunteer ways they've used [Google Docs](/digital-classroom/tech-for-teachers/14586) in their classrooms. The video provides some footage of student use, but, more, it presents a good general overview of what Google Docs is and does—including how it can prevent repetition of work and promote collaboration between students, even outside of the classroom.
 
 NOTE: To view this video, you will need to be connected to a network that allows YouTube access.

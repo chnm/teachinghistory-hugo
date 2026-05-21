@@ -51,3 +51,16 @@ The American Huguenots, like the Huguenot emigrants to European nations, quickly
 Sources from the 19th century repeat a story that Huguenots from South Carolina prepared a petition for Louis XIV asking permission to settle in Louisiana when it first was colonized at the end of the 17th century. Louis’ supposed response—that he wanted Louisiana as “a dominion of true believers not a republic for heretics”—is considered by historian Bertrand Van Ruymbeke as “most likely apocryphal.” Van Ruymbeke notes that Huguenots were allowed to migrate to Louisiana, but that the very few who did settle there had to convert to Catholicism.
 
 Following the acquisition of the territory by the United States as part of the Louisiana Purchase, religious restrictions for immigrants to Louisiana were removed, and the first Protestant church in New Orleans was established in 1805. If a Protestant from France had immigrated to Louisiana in 1901, he or she would have found that large communities of Protestants from areas other than France had settled in the northern portion of the state, and that most of Louisiana’s inhabitants had remained Catholic.
+
+## For Further Reading
+
+Jon Butler, *The Huguenots in America: A Refugee People in New World Society* (Cambridge, MA: Harvard University Press, 1983), 199, 213.
+
+Bertrand Van Ruymbeke, “‘A Dominion of True Believers Not a Republic for Heretics’: French Colonial Religious Policy and the Settlement of Early Louisiana, 1699-1730,” in Bradley G. Bond, ed., *French Colonial Louisiana and the Atlantic World* (Baton Rouge: Louisiana State University Press, 2005), 83, 87.
+
+Charles Edwards O’Neill, *Church and State in French Colonial Louisiana: Policy and Politics to 1732* (New Haven, CT: Yale University Press, 1966), 256-82.  
+
+Images: 
+"Jackson Square and St. Louis Cathedral taken from a Pontalba Building balcony," early 20th century, Charles L. Thompson Collection, Louisiana State University Library.
+
+Cover of The Picayune's Little Guide to New Orleans 1902, Anthony J. Stanonis Pamphlet Collection, Loyola University of New Orleans.

@@ -35,4 +35,4 @@ The Teach-In features two Lincoln Scholars: [Matthew Pinsker](http://www.dickins
 
 Questions? Please email lincoln@aetn.com.
 
-Please consult [A New Look at Abraham Lincoln](http://teachinghistory.org/nhec-blog/20291) and [Lincoln Bicentennial](http://teachinghistory.org/nhec-blog/20737) for previous articles on classroom resources for the bicentennial.
+Please consult [A New Look at Abraham Lincoln](/nhec-blog/20291) and [Lincoln Bicentennial](/nhec-blog/20737) for previous articles on classroom resources for the bicentennial.

@@ -50,8 +50,12 @@
       <article>
         <h2 class="font-heading text-2xl mb-4 normal-case">{{ .Title }}</h2>
 
-        {{ with .Params.splash_image }}
-          <img src="{{ . }}" alt="" class="w-full mb-6">
+        {{ with .Params.videos }}
+          {{ partial "video-player.html" (dict "videos" .) }}
+        {{ else }}
+          {{ with $.Params.splash_image }}
+            <img src="{{ . }}" alt="" class="w-full mb-6">
+          {{ end }}
         {{ end }}
 
         <div class="font-body leading-relaxed">

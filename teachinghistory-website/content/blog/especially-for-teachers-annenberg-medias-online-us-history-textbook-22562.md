@@ -24,7 +24,7 @@ tags:
 - websites
 ---
 
-A [recent NHEC Blog entry](http://teachinghistory.org/nhec-blog/22468) brought up the topic of online textbooks for students. But how about an information-laden U.S. history textbook for teachers full of primary sources and multimedia presentations?
+A [recent NHEC Blog entry](/nhec-blog/22468) brought up the topic of online textbooks for students. But how about an information-laden U.S. history textbook for teachers full of primary sources and multimedia presentations?
 
 Annenberg Media and a consortium of educational agencies have developed such a resource, [*America's History in the Making*](http://www.learner.org/courses/amerhistory/), for middle and high school teachers of history, social studies, and related classes. It's intended as a professional development tool to deepen educators' knowledge of American history.
 

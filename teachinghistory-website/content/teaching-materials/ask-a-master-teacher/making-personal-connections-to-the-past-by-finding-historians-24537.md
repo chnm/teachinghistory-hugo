@@ -53,7 +53,7 @@ For elementary students, you may need to do even more preparation. Make sure stu
 
 ## Look for Local Resources
 
-Consider also working with your local university history departments. With collaboration being the operative word in education these days, make it real. You might even be able to get the person to come and visit your classes, taking the whole process to a very different level. Also, for information on museums and historic locations in your area, check out the [Museums and Historic Sites](http://teachinghistory.org/history-content/historical-places) section of our website.
+Consider also working with your local university history departments. With collaboration being the operative word in education these days, make it real. You might even be able to get the person to come and visit your classes, taking the whole process to a very different level. Also, for information on museums and historic locations in your area, check out the Museums and Historic Sites section of our website.
 
 Ambling down this path may at first seem risky, and it is. I was very nervous when I contacted Ken Burns's studio in 1992 to ascertain the possibility of such a conference call. What I have discovered since then is, if you are genuinely sincere about your motives on behalf of your students then you and they will discover the power of making just such a connection. And I honestly believe that the person on the other end of the line from you and your students actually enjoys the outcome, too. I have never received an answer of "no" from anyone of whom I have made the request. And that I think speaks volumes.
 
@@ -79,6 +79,6 @@ For elementary students, you may need to do even more preparation. Make sure stu
 
 ## Look for Local Resources
 
-Consider also working with your local university history departments. With collaboration being the operative word in education these days, make it real. You might even be able to get the person to come and visit your classes, taking the whole process to a very different level. Also, for information on museums and historic locations in your area, check out the [Museums and Historic Sites](http://teachinghistory.org/history-content/historical-places) section of our website.
+Consider also working with your local university history departments. With collaboration being the operative word in education these days, make it real. You might even be able to get the person to come and visit your classes, taking the whole process to a very different level. Also, for information on museums and historic locations in your area, check out the Museums and Historic Sites section of our website.
 
 Ambling down this path may at first seem risky, and it is. I was very nervous when I contacted Ken Burns's studio in 1992 to ascertain the possibility of such a conference call. What I have discovered since then is, if you are genuinely sincere about your motives on behalf of your students then you and they will discover the power of making just such a connection. And I honestly believe that the person on the other end of the line from you and your students actually enjoys the outcome, too. I have never received an answer of "no" from anyone of whom I have made the request. And that I think speaks volumes.

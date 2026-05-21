@@ -61,3 +61,22 @@ The Census Bureau has also devoted part of its website to the [history of the ce
 The enumerator instructions from the Government Printing Office for each census from 1850 through 1950 are also available online from the Minnesota Population Center's [IPUMS-USA website](http://usa.ipums.org/usa/voliii/tEnumInstr.shtml) (Integrated Public Use Microdata Series).
 
 Census questions and enumeration forms from 1850 through 2000 are also available from [IPUMS-USA](http://usa.ipums.org/usa/voliii/tEnumForm.shtml).
+
+## For Further Reading
+
+Carroll D. Wright and William C. Hunt, *The History and Growth of the United States Census, prepared for the Senate Committee on the Census.*  Washington, D.C.: Government Printing Office, 1900.  Reprinted in 1966.  The original 1900 issue is available on Google Books.
+
+Guide to the Records of the Bureau of the Census (Record Group 29) at the National Archives and Records Administration.
+
+"Census in North Alaska: Fourteen Enumerators Taking Their Lives in Their Hands," *New York Times*, December 5, 1899.
+
+"Census-Takers' Wages: Encouraging Words from Congressmen Levi P. Morton and S. S. Cox," *New York Times*, September 14, 1880.
+
+M. M. Trumbull, "Current Topics," *The Open Court* (Chicago), July 3, 1890, page 2372.
+
+George Jean Nathan, "Humors of the Census: Some of the Difficulties Encountered by the Enumerators of Uncle Sam's Increasing Family," *Harper's Weekly*, October 1, 1910, pages 14-15.
+
+Images: 
+"Taking the Census," *Harper's Weekly*, November 19, 1870, page 749.
+
+"Taking the census, 1920," National Photo Company Collection, Prints and Photographs Division, Library of Congress.

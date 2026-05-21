@@ -70,3 +70,26 @@ Calhoun was reacting here to the introduction of the "Wilmot Proviso," an attemp
 The Wilmot Proviso was defeated in the Senate—that was as close as one could say that the South was able to "take advantage of" its strength there—but the battle over it served to turn opposing political forces further into sectional differences, North versus South, free state versus slave state. By doing this, it also helped to redefine the politics of the time away from party affiliation and loyalty to sectional affiliation. Both the Whigs and the Democrats underwent fragmentation and inner realignments during this period.
 
 When California was admitted on September 9, 1850, its formal admission came only five days after the passage of the bills that formed the Compromise of 1850. As part of the Compromise, California came in as a single free state, rather than divided into two parts, one free and one slave, but Utah and New Mexico territories were organized to allow popular votes in the territories to decide later whether slavery would be permitted. In point of fact, the admission of California did not immediately change the balance of anti- vs. pro-slavery votes in the Senate because California, although a free state, sent one anti-slavery senator and one pro-slavery senator to Washington.
+
+## For Further Reading
+
+William J. Cooper, Jr.  *The South and the Politics of Slavery 1828-1856.*  Baton Rouge:  Louisiana State University Press, 1978.
+
+Jonathan Halperin Earle.  *Jacksonian Antislavery and the Politics of Free Soil, 1824-1854.*  Chapel Hill:  University of North Carolina Press, 2004.
+
+Eric Foner.  *Free Soil, Free Labor, Free Men: The Ideology of the Republican Party Before the Civil War.*  New York:  Oxford University Press, 1995.
+
+William W. Freehling.  *The Road to Disunion: Secessionists at Bay 1776-1854.*  2 vols.  New York:  Oxford University Press, 1990-2007.
+
+Michael F. Holt.  *The Political Crisis of the 1850s.*  New York:  Norton, 1983.
+
+Allan Nevins. *Ordeal of the Union: Fruits of Manifest Destiny 1847-1852.*  4 vols.  New York: Collier Books, 1992.
+
+Leonard L. Richards.  *The Slave Power: The Free North and Southern Domination 1780-1860.*  Baton Rouge: Louisiana State University Press, 2000.
+
+Joel H. Silby.  *Storm over Texas: The Annexation Controversy and the Road to the Civil War.* New York:  Oxford University Press, 2005.
+
+Images:
+Map of the United States, showing the free and slave-holding states, 1857.  Slave Heritage Resource Center.
+
+"United States Senate, A.D. 1850," drawn by P. F. Rothermel, 1855.  Prints and Photographs Division, Library of Congress.

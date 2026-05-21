@@ -66,3 +66,11 @@ Ryan Chamberlain, *Pistols, Politics, and the Press: Dueling in 19th-Century Ame
 Joseph J. Ellis, *Founding Brothers: The Revolutionary Generation*. New York: Random House, 2000.
 
 Arnold A. Rogow, *A Fatal Friendship: Alexander Hamilton and Aaron Burr*. New York: Hill and Wang, 1998.
+
+## For Further Reading
+
+Irving Gaylord, *Burr-Hamilton Duel: with correspondence preceding same*.  New York, 1804.
+
+William Coleman, *A Collection of the Facts and Documents, Relative to the Death of Major Alexander Hamilton; together with the various orations, sermons, and eulogies that have been published or written on his life and character*.  New York: 1804.
+
+Thomas J. Fleming, *Duel:  Alexander Hamilton, Aaron Burr, and the Future of America*.  New York: Basic Books, 1999.

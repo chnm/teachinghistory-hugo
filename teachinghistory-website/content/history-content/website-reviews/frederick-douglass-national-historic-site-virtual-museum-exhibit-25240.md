@@ -47,4 +47,4 @@ Additionally, educators could assign this website to students for research using
 
 One of the most useful links for educators is "Lesson Plans." This takes the user to a section of the National Park Service's website called Teaching with Museum Collections, where educators can download two lesson plans on Frederick Douglass, or download lesson plan templates to create their own artifact-based lessons. The lessons are clear and include state standards as well as differentiated instruction ideas. "Frederick Douglass's Hat" is appropriate for middle school students, but can be modified and integrated to the needs of all students. "Forced March," created by an 8th-grade middle school teacher, can also be modified or enhanced to meet the needs of a differentiated classroom.
 
-*Teachinghistory.org Teacher Representative Lynn Roach wrote this* Website Review*. [Learn more](http://teachinghistory.org/about/teacher-representatives) about our Teacher Representatives.*
+*Teachinghistory.org Teacher Representative Lynn Roach wrote this* Website Review*. [Learn more](/about/teacher-representatives) about our Teacher Representatives.*

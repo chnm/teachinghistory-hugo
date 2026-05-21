@@ -46,4 +46,4 @@ Today, most states require a BA from an accredited college or university and bet
 
 ---
 
-In our blog, George Mason University social studies/history education assistant professor Anthony Pellegrino looks at the [challenges of modern teacher training](http://teachinghistory.org/nhec-blog/24447).
+In our blog, George Mason University social studies/history education assistant professor Anthony Pellegrino looks at the [challenges of modern teacher training](/nhec-blog/24447).

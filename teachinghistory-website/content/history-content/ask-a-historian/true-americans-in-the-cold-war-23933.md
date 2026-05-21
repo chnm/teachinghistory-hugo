@@ -154,3 +154,10 @@ Jane Pavitt. *Fear and Fashion in the Cold War*. London: Victoria & Albert Museu
 The University of Washington library, [The Red Scare: A Filmography](http://www.lib.washington.edu/exhibits/AllPowers/film.html).
 
 Transcript of Richard Nixon and Nikita Kruschev's 1959 ["Kitchen Debate."](http://www.watergate.info/nixon/1959_nixon-khrushchev-kitchen-debate.shtml")*
+
+## For Further Reading
+
+Images:
+Confessed Soviet spymaster Elizabeth Bentley, Prints and Photographs Division, Library of Congress.
+
+Inside of membership card of Communist Party U.S.A.

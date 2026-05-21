@@ -30,4 +30,4 @@ The National Museum of American History (NMAH) presents [hour-long programs of m
 
 [University of California Television (UCTV)](http://www.uctv.tv/) offers a multitude of podcasts (and videos) under the topic [Conversations with History](http://globetrotter.berkeley.edu/conversations/). The searchable database of over 400 unedited interviews with prominent scholars and leaders includes discussions on history, politics, economics, foreign relations, and law. Podcasts are available on iTunes; videos, through YouTube.
 
-On this website, the searchable database of [Online History Lectures](http://teachinghistory.org/history-content) leads to further resources.
+On this website, the searchable database of [Online History Lectures](/history-content) leads to further resources.

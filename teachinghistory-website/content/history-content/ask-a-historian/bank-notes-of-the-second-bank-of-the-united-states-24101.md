@@ -52,3 +52,11 @@ Reproductions of 1840 bank notes of the Second Bank of the United States, issued
 The original 1816 charter of the Second Bank of the United States limited the circulation of notes by the bank to $35 million, and required that no notes be issued in denominations less than $5. In practice, the bank never had more than $25 million in notes circulating, and most of the time much less, averaging for one period about $15 million.
 
 In October 1836 (the Second Bank of the United States closed its doors in March of that year), its records showed that about $12 million notes were still in circulation, down from $24 million one year earlier (Cattrell, pps. 427, 512), with the average circulation for 1836 reckoned to have been about $21 million. The mixture of bill denominations in this total was not recorded, so it seems impossible to be certain of how many bills this represented.
+
+## For Further Reading
+
+Ralph Charles Henry Catterall, [*The Second Bank of the United States*](http://www.librarything.com/work/764523).  Chicago: University of Chicago Press, 1903.
+
+Edward S. Kaplan, [*The Bank of the United States and the American Economy*](http://www.librarything.com/work/9261658). Westport, CT: Greenwood Press, 1999.
+
+Peter Temin, [*The Jacksonian Economy*](http://www.librarything.com/work/945092). New York: Norton, 1969.

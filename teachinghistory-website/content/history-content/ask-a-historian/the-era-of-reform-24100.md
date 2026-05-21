@@ -85,3 +85,13 @@ Taken together, many of the reforms coalesced around the larger notion of changi
 ## Persistence of the Reform Movement
 
 Historians have often focused on the antebellum period as the "era of reform" in America, culminating in the anti-slavery crusade of the Civil War, but it is also true that 1865 did not mark the end of the reform movement, but initiated a period that persists until today in which reformers, seemingly vindicated by the end of slavery as a result of the war, shifted their thinking so as to focus on the secular State, particularly the federal government, as the main instrument for reforming society along Progressive lines.
+
+## For Further Reading
+
+Ronald G. Walters, [*American Reformers, 1815-1860*](http://www.librarything.com/work/448257), revised edition.  New York: Hill and Wang, 1997.
+
+Steven L. Piott, [*American Reformers, 1870-1920: Progressives in Word and Deed*](http://books.google.com/books?id=i4e49Jg5HboC&pg=PT1&dq=books+american+reformers+progressives+word+deed&hl=en&ei=lgg2TKHCH4OBlAfvotHSBw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDUQ6AEwAA#v=onepage&q&f=false).  Lanham, MD: Rowman & Littlefield, 2006.
+
+Steven Mintz, [*Moralists and Modernizers: America's Pre-Civil War Reformers*](http://www.librarything.com/work/691326). Baltimore: Johns Hopkins UP, 1995.
+
+Carl J. Guarneri, [*The Utopian Alternative: Fourierism in Nineteenth-Century America*](http://www.librarything.com/work/422870).  Ithaca, NY:  Cornell UP, 1994.

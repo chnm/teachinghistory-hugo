@@ -79,3 +79,16 @@ Edmund Morris. *Theodore Rex.* New York: Random House, 2001.
 Kathleen M. Dalton. *Theodore Roosevelt: A Strenuous Life.* New York: Alfred A. Knopf, 2002.
 
 Sarah Lyons Watts. *Rough Rider in the White House: Theodore Roosevelt and the Politics of Desire.* Chicago: University of Chicago Press, 2003.
+
+## For Further Reading
+
+[*Proceedings of the Congress of Constructive Patriotism, held under the auspices of The National Security League, Washington, D.C., January 25-27, 1917.*](http://books.google.com/books?id=BiwuAAAAYAAJ&dq=%22congress%20of%20constructive%20patriotism%22&pg=PA1#v=onepage&q=&f=false) New York: National Security League, 1917, pp. 172-173.
+
+Joan Paterson Kerr, ed. *A Bully Father: Theodore Roosevelt's Letters to His Children*. New York: Random House, 1995. 
+
+Theodore Roosevelt. "The Strenuous Life," pp. 1-21, and "The American Boy," pp. 155-164, in Theodore Roosevelt, *[The Strenuous Life: Essays and Addresses](http://books.google.com/books?id=srUZAAAAYAAJ&dq=roosevelt%20strenous%20life&pg=PP1#v=onepage&q=&f=false)*. New York: The Century Company, 1905.
+
+Images:
+Theodore Roosevelt in his library at Oyster Bay, New York, 1912, Prints and Photographs Division, Library of Congress.
+
+Detail from Vitagraph Pictures' advertisement for "The Battle Cry of Peace," *New York Times*, September 12, 1915.

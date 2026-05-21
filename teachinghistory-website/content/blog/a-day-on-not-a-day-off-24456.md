@@ -45,13 +45,13 @@ Now consider your curriculum and your local community. Don't limit yourself to M
 
 ## Serving to Preserve
 
-Helping to preserve history can be service, too! Listen to teacher James Percoco speak on [teaching with memorials and monuments](http://teachinghistory.org/best-practices/using-primary-sources/24079) and think about your local history. Are there places that need young volunteers? Locations that students could research and then prepare their own interpretive materials?
+Helping to preserve history can be service, too! Listen to teacher James Percoco speak on [teaching with memorials and monuments](/best-practices/using-primary-sources/24079) and think about your local history. Are there places that need young volunteers? Locations that students could research and then prepare their own interpretive materials?
 
 Use Martin Luther King Jr. Day as a reminder not just to memorialize history, but to empower students to connect with, interpret, and preserve it in the service of the present!
 
 ## Resources on Martin Luther King, Jr.
 
-Sounds good, you say, but maybe you need resources for teaching about Martin Luther King Jr. and the Civil Rights Movement, before you head off onto wider projects. Last year, we recommended a variety of online resources in our [Jan. 13 blog entry](http://teachinghistory.org/nhec-blog/23709). Here are those recommendations again—and a few new ones! Remember to search our [Website Reviews](http://teachinghistory.org/history-content/website-reviews) and try our [Lesson Plan Gateway](http://teachinghistory.org/teaching-materials/gateway-history-lesson-plans?cx=015291029838648875433%3A6ygqhzzlkdu&cof=FORID%3A11&ie=UTF-8&rawSearch=martin+luther+king&query=martin+luther+king+history+lesson+~plan#916) for even more links to great materials.
+Sounds good, you say, but maybe you need resources for teaching about Martin Luther King Jr. and the Civil Rights Movement, before you head off onto wider projects. Last year, we recommended a variety of online resources in our [Jan. 13 blog entry](/nhec-blog/23709). Here are those recommendations again—and a few new ones! Remember to search our [Website Reviews](/history-content/website-reviews) and try our Lesson Plan Gateway for even more links to great materials.
 
 * [King Center](http://www.thekingcenter.org) — *founded in 1968 by Coretta Scott King, the Center works to educate the public on King's life and message and to preserve his spirit of service. It includes information on [the history of Martin Luther King Jr. Day](http://www.thekingcenter.org/making-king-holiday).*
 * [Martin Luther King Jr. Research and Education Institute](http://mlk-kpp01.stanford.edu/) — *includes lesson plans and an extensive collection of primary sources in the [King Papers Project](http://mlk-kpp01.stanford.edu/index.php/kingpapers/index).*

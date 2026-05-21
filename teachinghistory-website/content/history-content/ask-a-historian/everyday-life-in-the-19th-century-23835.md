@@ -195,3 +195,9 @@ Smithsonian Institution's National Anthropological Archives' [Camping With the S
 These websites are just samples of what is now available online. If you become interested in some byway of 19th century life, for example, you can most likely find entire books on that subject, whatever it is, published at the time, via [Google Books](http://books.google.com/), [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page), [Open Library](http://openlibrary.org/), or [The Making of America (Michigan)](http://quod.lib.umich.edu/m/moagrp/). The online attic now is huge and contains far more than anyone could look at.
 
 Good hunting.
+
+## For Further Reading
+
+Images:
+Winslow Homer, "The New Novel," 1877.  The Art Institute of Chicago.
+Childe Hassam, detail from "The Room of Flowers," 1894.

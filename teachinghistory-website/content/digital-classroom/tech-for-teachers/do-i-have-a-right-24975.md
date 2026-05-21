@@ -31,4 +31,16 @@ tags:
 - iCivics
 ---
 
-An engaging, lighthearted game for drilling students on legal applications of the amendments
+## Overview
+
+"Do I Have a Right?" is a free web-based game developed by iCivics, a civics education initiative conceived by Supreme Court Justice O'Connor. The game teaches students about constitutional amendments through engaging gameplay.
+
+Students will be able to identify and summarize 12 U.S. Constitution amendments (1-6, 8, 13-15, 19, and 26), judge whether individuals in hypothetical situations have experienced constitutional rights violations, and apply relevant amendments to cases involving rights violations. The game targets middle school audiences but works effectively from 5th grade through high school.
+
+## Getting Started
+
+Players manage a constitutional law firm over seven rounds representing individual days. The gameplay involves selecting between "Full Edition" or "Bill of Rights" versions, customizing a lawyer avatar, and choosing a specialized partner attorney. Each round follows three steps: greeting clients, determining if rights violations occurred, and matching legitimate cases to appropriate lawyers. Successfully resolving cases earns prestige points, while incorrect decisions subtract points.
+
+## Example
+
+iCivics provides supplementary materials to deepen learning. Pre-game materials include flashcards, worksheets, and pamphlet-creation activities. Post-game PowerPoint debriefing prompts discussion about complex constitutional issues like free expression and unreasonable search and seizure. The game functions well as a lighthearted but worthwhile classroom warm up for high school students while serving core instruction for middle school audiences.

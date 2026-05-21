@@ -37,3 +37,20 @@ Students are given a list of the likeliest decision options available to Lincoln
 Due to the length of this lesson and its reliance on computers, we recommend that teachers consider focusing on only one of the decisions, printing out only the relevant resources to use in class.
 
 The authors of this lesson note the shortcomings of historical simulations, pointing out that students’ simulated policy decisions might be colored by presentism and hindsight. Rather than a simulation, teachers could use these materials to examine the issues Lincoln faced and his responses, and then use the documents to evaluate why Lincoln responded as he did.
+
+## Notes
+
+### Teachinghistory.org Lesson Plan Rubric
+
+| Field | Criteria | Comments |
+|-------|----------|----------|
+| **Historical Content** | Is historically accurate? | Yes. Wealth of bibliographic information provided. |
+| **Historical Content** | Includes historical background? | Yes. Tremendous amount of relevant background. |
+| **Historical Content** | Requires students to read and write? | Yes. Only formal writing is note-taking, but tasks can be turned into writing assignments. |
+| **Analytic Thinking** | Requires analysis/construction of interpretations using evidence? | Yes. Heart of the lesson: using evidence to understand Lincoln's decisions. |
+| **Analytic Thinking** | Requires close reading and attention to source information? | Yes |
+| **Scaffolding** | Appropriate for stated audience? | Yes |
+| **Scaffolding** | Includes scaffolding materials and strategies? | Yes. Students can click on words for additional information. |
+| **Lesson Structure** | Includes assessment criteria focused on historical understanding? | Yes. Reflection questions included but not comprehensive. No specific criteria. |
+| **Lesson Structure** | Defines clear learning goals and progresses logically? | Yes |
+| **Lesson Structure** | Includes clear directions; realistic for classrooms? | No. Requires students to work individually at a computer. |

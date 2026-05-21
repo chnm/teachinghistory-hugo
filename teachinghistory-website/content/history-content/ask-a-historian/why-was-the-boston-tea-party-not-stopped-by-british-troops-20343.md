@@ -108,3 +108,9 @@ The tea party lasted three hours, finishing around nine o'clock. The raiding par
 The next morning a large, winding mound of loose tea still floated in the harbor, and a party of colonists rowed out in boats and sank it down into the waters with their oars. The British fleet witnessed this, too, but did not interfere.
 
 The disguised men's identities were kept secret by their fellow Bostonians, and Governor Hutchinson was unable to charge the members of the raiding party, but Parliament responded five months later (news traveled back and forth across the ocean very slowly then) with a series of measures meant to force Boston to heel.
+
+## For Further Reading
+
+Benjamin Bussey Thatcher ("A Bostonian") et al, *Traits of the Tea Party; being a memoir of George R. T. Hewes, one of the last of its survivors; with a history of that transaction; reminiscences of the massacre, and the siege, and other stories of old times* (New York: Harper & Brothers, 1835).  
+
+Peter Orlando Hutchinson, *The Diary and Letters of His Excellency Thomas Hutchinson, Esq.* (Boston: Houghton, Mifflin, & Co., 1884). Benjamin Woods Labaree, *The Boston Tea Party* (New York: Oxford University Press, 1964).

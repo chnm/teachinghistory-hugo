@@ -14,15 +14,6 @@ summary: 'In this [video](http://www.youtube.com/watch?v=ufVnMDVskLo), Lynne Zal
 
   (Note: To view this video, you will need to be connected to a network that allows
   YouTube access.)'
-author_bio: 'In this [video](http://www.youtube.com/watch?v=ufVnMDVskLo), Lynne Zalesak,
-  an 8th-grade Houston social studies teacher, reflects on her use of digital tools
-  in the classroom, in support of student-created digital storytelling. Zalesak worked
-  with [Photo Story 3](http://windows.microsoft.com/en-US/windows-live/photo-gallery-get-started),
-  a free Windows application with which students can create documentary-style videos
-  with narration.
-
-  (Note: To view this video, you will need to be connected to a network that allows
-  YouTube access.)'
 url: /digital-classroom/beyond-the-chalkboard/24169
 featured: true
 website_url: http://www.youtube.com/watch?v=ufVnMDVskLo
@@ -34,4 +25,4 @@ grade_levels:
 - middle
 ---
 
-The Clearinghouse looks at another digital storytelling tool: [Digital Storyteller](http://teachinghistory.org/digital-classroom/tech-for-teachers/14587) from *PrimaryAccess.org*.
+The Clearinghouse looks at another digital storytelling tool: [Digital Storyteller](/digital-classroom/tech-for-teachers/14587) from *PrimaryAccess.org*.
