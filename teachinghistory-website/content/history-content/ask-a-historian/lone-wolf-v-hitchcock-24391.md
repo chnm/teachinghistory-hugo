@@ -43,3 +43,7 @@ Justice Edward Douglas White’s opinion stated that Congress had the right to a
 ---
 
 Clark, Blue. [*Lone Wolf* v *Hitchcock*: Treaty Rights and Indian Law at the End of the Nineteenth Century.](https://www.nebraskapress.unl.edu/university-of-nebraska-press/9780803264014/) Lincoln: University of Nebraska Press, 1999. Pommersheim, Frank. [*Broken Landscape: Indians, Indian Tribes, and the Constitution.*](https://global.oup.com/academic/product/broken-landscape-9780195373066?cc=us&lang=en&) Oxford: Oxford University Press, 2009.
+
+## For Further Reading
+
+*Lone Wolf* v *Hitchcock* 187 U.S. 553 (1903). [*Treaty with the Kiowa and Comanche (Medicine Lodge Treaty) 1867*](http://digital.library.okstate.edu/kappler/Vol2/treaties/kio0977.htm). In *Indian Affairs: Laws and Treaties*, vol. 2. Washington, D.C.: Government Printing Office, 1904. Digital Library, Oklahoma State University.

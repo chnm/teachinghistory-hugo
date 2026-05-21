@@ -63,3 +63,13 @@ In the short term, Congressional Reconstruction did not seem to be affected adve
 Reconstruction's success in the long run, Trefousse asserts, was impossible without strong presidential support to stop reaction from setting in. “Had Johnson not been as persistent and had the impeachment succeeded,” he concludes, “it is conceivable that the outcome might have been different.” Johnson's latest biographer, Annette Gordon-Reed, concurs with Trefousse, quoting his statement that as a result of the acquittal, Johnson “preserved the South as a white man's country.”
 
 Some reviewers of Trefousse’s monograph on the impeachment have taken issue with his conclusion. Michael Perman criticizes Trefousse for “grossly exaggerating Johnson's impact by suggesting . . . . that his acquittal helped Alabama Conservatives return to power six years later in 1874.” Richard H. Sewell contends that “recent studies . . . . , make it appear doubtful that ‘a real social revolution in the South would have occurred in these years whatever Johnson might have done.”
+
+## For Further Reading
+
+Benedict, Michael Les. [*The Impeachment and Trial of Andrew Johnson*](http://books.google.com/books?id=4SZNiUAqCJAC). New York: W. W. Norton, 1973.
+
+Foner, Eric. [*Reconstruction: America’’s Unfinished Revolution, 1863-1877.*](http://books.google.com/books?id=FhvA0S_op38C) New York: Harper & Row, 1988.
+
+Gordon-Reed, Annette. [*Andrew Johnson*](http://books.google.com/books?id=fia0qfmmnoMC). New York: Henry Holt, Times Books, 2011.
+
+Trefousse, Hans L. [*Impeachment of a President: Andrew Johnson, the Blacks, and Reconstruction*](http://books.google.com/books?id=AlsaAQAAIAAJ). Knoxville: University of Tennessee Press, 1975; New York: Fordham University Press, 1999.

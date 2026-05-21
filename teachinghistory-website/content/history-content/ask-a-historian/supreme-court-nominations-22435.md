@@ -66,3 +66,21 @@ During Reconstruction, Senate opposition to nominees became “politically reput
 From 1894 to 1968, only one nominee was rejected (President Hoover’s nominee, North Carolina Circuit Court of Appeals Judge John J. Parker). Beginning in 1968, confirmation battles began again in earnest, as three nominees were rejected between 1968 and 1970. In 1987, Judge Bork was rejected in a politically charged atmosphere, heightened because the voting behavior of the resigning Justice (Lewis F. Powell), had determined a number of important 5-4 decisions.
 
 A 2008 study argued that at present a nominee’s “ideological compatibility” with that of Senators “now takes precedence” over all other factors with regard to their confirmation.
+
+## For Further Reading
+
+U. S. Senate, “Supreme Court Nominations, Present-1789,” [http://www.senate.gov/pagelayout/reference/nominations/Nominations.htm](http://www.senate.gov/pagelayout/reference/nominations/Nominations.htm).
+
+P. S. Ruckman, Jr., “The Supreme Court, Critical Nominations, and the Senate Confirmation Process,” *Journal of Politics* 55 (August 1993): 793-805.
+
+Richard D. Friedman, “The Transformation in Senate Response to Supreme Court Nominees: From Reconstruction to the Taft Administration and Beyond,” *Cardozo Law Review* 5 (1983): 1-95; Bernard Schwartz, *A History of the Supreme Court* (New York: Oxford University Press, 1993), 17.
+
+John S. Goff, “The Rejection of United States Supreme Court Appointments,” *American Journal of Legal History* 5 (October 1961): 357-68.
+
+Lee Epstein, René Lindstädt, Jeffrey A. Segal, and Chad Westerland, “The Changing Dynamics of Senate Voting on Supreme Court Nominees,” *Journal of Politics* 68 (May 2006): 296-307.
+
+Charles M. Cameron, Albert D. Cover, and Jeffrey A. Segal, “Senate Voting on Supreme Court Nominees: A Neoinstitutional Model,” *American Political Science Review* 84 (1990): 525-34.
+
+Lee Epstein, Jeffrey A. Segal, and Chad Westerland, “The Increasing Importance of Ideology in the Nomination and Confirmation of Supreme Court Justices,” Drake Law Review 56 (2008): 609-35.
+
+Michael Comiskey, Seeking Justices: The Judging of Supreme Court Nominees (Lawrence, KS: University Press of Kansas, 2004).

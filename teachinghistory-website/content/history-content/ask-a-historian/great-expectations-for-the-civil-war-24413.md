@@ -57,3 +57,13 @@ Burns, Ken. [**The Civil War**](http://www.pbs.org/civilwar/). WETA, 2002.
 [**Farmer's Museum[NY]**](/history-content/historical-places/9935)
 
 McPherson, James. [*For Cause and Comrades: Why Men Fought in the Civil War*](http://www.oup.com/us/catalog/general/subject/HistoryAmerican/CivilWarReconstruction/?view=usa&ci=9780195090239). Oxford University Press, USA, 1998.
+
+## For Further Reading
+
+Civil War Preservation Trust.  [**Civil War Primary Sources**](http://www.civilwar.org/education/history/primarysources/) 2009.
+
+McPherson, James.  [The Civil War Era Collection](http://www.lsu.edu/lsupress/bookPages/9780807119044.html>*What They Fought For 1861-1865* Baton Rouge: Louisiana State University Press, 1994.
+
+Special Collections, Musselman Library, Gettysburg College.  <a href=) 2002.
+
+St. John de Crèvecoeur, J. Hector and Albert E. Stone. * Letters from an American Farmer and Sketches of Eighteenth-Century America*  New York: Penguin Books Ltd., 1984.

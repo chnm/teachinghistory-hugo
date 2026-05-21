@@ -47,3 +47,13 @@ Thus, while it would be wrong to say that the members of the Federal Convention 
 ---
 
 Read an [article](http://www.senate.gov/artandhistory/history/common/briefing/Constitutional_Qualifications_Senators.htm) by the United States Senate on the issue.
+
+## For Further Reading
+
+Berkin, Carol. *A Brilliant Solution: Inventing the American Constitution*. New York: Harcourt, 2002.
+
+Farrand, Max. *The Framing of the Constitution of the United States*. New Haven: Yale UP, 1913.
+
+*Notes of Debates in the Federal Convention of 1787 Reported by James Madison*. New York: W.W. Norton, 1966.
+
+*The Federalist*. Edited by J. R. Pole. Indianapolis: Hackett Publishing, 2005.

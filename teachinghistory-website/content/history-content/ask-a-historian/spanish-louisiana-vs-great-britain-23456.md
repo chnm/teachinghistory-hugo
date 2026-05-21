@@ -38,3 +38,10 @@ Nevertheless, his worry did not hinder Spain's pursuit of its own interests in A
 ---
 
 U.S. Department of State, ["John Jay in Madrid."](http://future.state.gov/when/timeline/1776_timeline/john_jay_in_madrid.html)
+
+## For Further Reading
+
+Images:  
+Detail of ceiling painting in the Salon de Carlos III, Palacio Real, Madrid.
+
+Drawing by Pierre Eugène Du Simitière, "His Excellency John Jay, President of Congress & Minister Plenipotentiary from Congress at Madrid," from *Portraits of Generals, Ministers, Magistrates, Members of Congress, and Others, Who Have Rendered Themselves Illustrious in the Revolution of the United States of North America*, Vol. 3. London: R. Wilkinson and J. Debrett, 1783.

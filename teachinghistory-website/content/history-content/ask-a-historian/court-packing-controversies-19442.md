@@ -82,3 +82,25 @@ Many critics noted Strong's and Bradley's previously ties to railroads. *The New
 ## Court Packing Controversies
 
 During the 1872 presidential campaign, Grant's opponents repeated the accusation that he had packed the court with justices who had promised to overturn Hepburn. The controversy was revived periodically until 1935, when Sidney Ratner, later to become a renowned economic historian, presented evidence from the unpublished diary of Grant's Secretary of State, Hamilton Fish, that Grant "required no declaration from Judges Strong and Bradley on the constitutionality of the Legal Tender Act." Fish revealed, however, that Grant did know of Strong's previous ruling and "had reason to believe Judge Bradley's opinion tended in the same direction." While Grant had assured Fish that "he would do nothing to exact anything like a pledge or expression of opinion from the parties he might appoint to the Bench," the president "had desired that the Constitutionality [of the Legal Tender Act] should be sustained by the Supreme Court." Ratner argued that because Grant had not explicitly requested his nominees to decide in favor of Hepburn, "it is not just to say that he 'packed the Court', or that the new judges were 'creatures of the President placed upon the Bench to carry out his instructions.'" A *New York Times* obituary of Ratner indicated that he had been "influential in President Franklin D. Roosevelt's attempt to expand the size of the Supreme Court by discovering a precedent in President Ulysses S. Grant's appointments to the Court."
+
+## For Further Reading
+
+"The Legal-Tender Decision," *Chicago Tribune*, 27 April 1871, 29 April 1871 [which reprints *New York Tribune* and *New York Bulletin* editorials].
+
+Edward S. Corwin, "Curbing the Court," *Annals of the American Academy of Political and Social Sciences* 185 (May 1936).
+
+Kenneth W. Dam, "The Legal Tender Cases," *Supreme Court Review* 1981 (1981).
+
+Charles Fairman, *Reconstruction and Reunion, 186488, History of the Supreme Court of the United States*.  Vol. 6, pt. 1.  New York: Macmillan, 1971.
+
+Stanley I. Kutler, "Reconstruction and the Supreme Court: The Numbers Game Reconsidered," *Journal of Southern History* 32 (Feb. 1966).
+
+William E. Leuchtenburg, *The Supreme Court Reborn: The Constitutional Revolution in the Age of Roosevelt*.  New York: Oxford University Press, 1995.
+
+Lawrence W. Levine and Cornelia R. Levine, *The People and the President: America's Conversation with FDR*.  Boston: Beacon Press, 2002.
+
+Alpheus Thomas Mason, "Politics and the Supreme Court: President Roosevelt's Proposal," *University of Pennsylvania Law Review and American Law Register* 85 (May 1937).
+
+Scholar Specialized in Economic History," *New York Times*, 17 January 1996.
+
+Sidney Ratner, "Was the Supreme Court Packed by President Grant?" *Political Science Quarterly* 50 (September 1935).

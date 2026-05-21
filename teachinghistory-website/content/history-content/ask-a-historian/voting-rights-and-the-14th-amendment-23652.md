@@ -96,3 +96,11 @@ It was a painful irony for many women's rights activists, therefore, that they f
 [National Women's History Project](http://www.nwhp.org/) website.
 
 [HerStory Scrapbook](http://www.herstoryscrapbook.com/) website.
+
+## For Further Reading
+
+Elizabeth Cady Stanton, Susan B. Anthony, Matilda Joslyn Gage, eds., *History of Woman Suffrage, Volume 2: 1861-1876*.  Rochester, NY: Privately Printed, 1881, pp. 90-106, 333-362, 407-416.
+
+Ellen Carol DuBois, *Feminism and Suffrage: The Emergence of an Independent Women's Movement in America, 1848-1869*.  Ithaca: Cornell University Press, 1978, pp. 53-72.
+
+Eleanor Flexner and Ellen Fitzpatrick, *Century of Struggle: The Woman's Rights Movement in the United States*, rev. ed.  Cambridge, MA: Harvard University Press, 1996, pp. 136-148.

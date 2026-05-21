@@ -86,3 +86,17 @@ About the same time, Congregationalist lecturer, Joseph Cook, at one of his week
 The Boston Public Library [Anti-Slavery Collection](http://www.archive.org/details/bplscas/).
 
 Archer Taylor, Bartlett Jere Whiting, *A Dictionary of American Proverbs and Proverbial Phrases, 1820-1880*. Cambridge, Mass.: Belknap Press, 1958.
+
+## For Further Reading
+
+John S. Robb (pseudo. Solitaire), “Fun with a ‘Bar,’ A Night Adventure on the Missouri,” in *Streaks of Squatter Life, and Far-West Scenes*, Philadelphia: Carey and Hart, 1846, p. 105.  Published first in *The Spirit of the Times* (New York), Dec 20, 1845.
+
+“Speech of Theodore Parker at the Annual Meeting of the Massachusetts A. S. Society, Friday Evening, Jan. 28, 1853,” *The Liberator*, Feb 25, 1853, p. 2.
+
+Theodore Parker, correspondence to Samuel J. May, March 1854, in Octavius Brooks Frothingham, *Theodore Parker: A Biography*, Boston: R. Osgood, 1874, p. 289.
+
+William Still, *The Underground Rail Road*.  Philadelphia: Porter & Coates, 1872, p. 91.
+
+Frances Elizabeth Willard, *Woman and Temperance; or, the work and workers of the Woman’s Christian Temperance Union*.  Hartford: James Betts, 1883, p. 198.
+
+Joseph Cook, “Advanced Thought in England and Scotland,” *Christian Advocate*, Jan 18, 1883, p. 37.

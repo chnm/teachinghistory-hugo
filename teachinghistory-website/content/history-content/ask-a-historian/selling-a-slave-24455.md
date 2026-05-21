@@ -67,3 +67,9 @@ Robert Edgar Conrad, ed., *In the Hands of Strangers: Readings on Foreign and Do
 Teachinghistory.org, [*Atlantic Slave Trade and Slave Life in the Americas: A Visual Record*](/history-content/website-reviews/14607).
 
 Thomas Thurston, *Slave Receipts*.
+
+## For Further Reading
+
+Jacob D. Wheeler, *A Practical Treatise on the Law of Slavery; being a compilation of all the decisions made on that subject, in the several courts of the United States and State Courts.*  New York: Allan Pollock, 1837.
+
+William Goodell, *The American Slave Code in Theory and Practice: Its Distinctive Features Shown by Its Statutes, Judicial Decisions, and Illustrative Facts.*  New York: American and Foreign Anti-Slavery Society, 1853.

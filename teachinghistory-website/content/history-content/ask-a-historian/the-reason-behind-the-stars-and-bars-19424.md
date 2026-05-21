@@ -40,3 +40,9 @@ A Confederate battle flag distinct from the flag of the Confederacy, the "Stars 
 After General Pierre Gustav Toutant Beauregard, commander of the Confederate forces at Manassas, demanded a change, the Virginia army's high command, meeting in the Fairfax Court House in September, agreed to a design that earlier had been proposed for the flag of the Confederacy, but rejected in favor of the Stars and Bars. The new battle flag, a perfect square of red with a diagonal St. Andrew's cross of blue punctuated with white or gold stars, was produced by women in Richmond and first issued to soldiers by the end of October. The number of stars, representing the number of seceding states, increased to 13 after Missouri was admitted into the Confederacy on November 28, 1861 and a Kentucky secessionist provisional government that had formed on November 18 was voted into the Confederacy on December 10.
 
 Despite the fact that a pro-Union government replaced the secessionists in Missouri and the Kentucky government voted to end their status of neutrality and stay in the Union, the 13 stars remained on most Confederate battle flags throughout the war, although flags with 12 stars also were produced. Beauregard attempted to standardize the battle flag throughout the Confederacy, but individual units resisted, insisting on retaining their own distinct designs.
+
+## For Further Reading
+
+John M. Coski, [*The Confederate Battle Flag: America's Most Embattled Emblem*](http://www.hup.harvard.edu/catalog.php?isbn=9780674019836).  Cambridge, Mass.: Belknap Press of Harvard University Press, 2005.  
+
+Henry Woodhead, ed. [*Echoes of Glory: Arms and Equipment of the Confederacy*](http://www.amazon.com/Echoes-Glory-Arms-Equipment-Confederacy/dp/0737031557).  Alexandria, Va.: Time-Life Books, 1991.

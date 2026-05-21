@@ -49,3 +49,7 @@ Geoffrey Regan, *Blue on Blue: A History of Friendly Fire*, New York: Avon Books
 Charles R. Shrader, *Amicicide: The Problem of Friendly Fire in Modern War*, Ft Leavenworth, KS: Combat Studies Institute, US Army Command and General Staff College, 1982.
 
 Richard Townshend Bickers, *Friendly Fire: Accidents in Battle from Ancient Greece to the Gulf War*, London: Leo Cooper Books, 1994.
+
+## For Further Reading
+
+"Major General Omar N. Bradley and Lieutenant General Lesley J. McNair during the recent maneuvers of the the Third Army in Louisiana. General Bradley is seen pointing out one ot the maneuver situations to General McNair," 1942, Prints and Photographs Division, Library of Congress.

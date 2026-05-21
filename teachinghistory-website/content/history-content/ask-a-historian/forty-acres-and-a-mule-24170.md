@@ -106,3 +106,13 @@ Claude F. Oubre, *Forty Acres and a Mule: The Freedmen’s Bureau and Black Land
 Barton Myers, ["Sherman's Field Order No. 15,"](http://www.georgiaencyclopedia.org/nge/Article.jsp?id=h-3353) *The New Georgia Encyclopedia, 2005.
 
 Text of [Special Field Order No. 15](http://www.history.umd.edu/Freedmen/sfo15.htm), at the Freedmen & Southern Society Project at the University of Maryland.*
+
+## For Further Reading
+
+William T. Sherman, “Sherman’s Famous Field Order,” *New York Times*, February 3, 1866.
+
+Frank Abial Flower, *Edwin McMasters Stanton: The Autocrat of Rebellion, Emancipation, and Reconstruction*.  Akron: Saalfield Publishing Company, 1904, p. 298.
+
+Jacqueline Jones, *Saving Savannah: The City and the Civil War*.  New York: Vintage Books, 2008, p. 222.
+
+J. Wells,  “Georgia, Alabama, and Florida,” from *Wells’ McNally’s System of Geography*.  New York: McNally, 1854.

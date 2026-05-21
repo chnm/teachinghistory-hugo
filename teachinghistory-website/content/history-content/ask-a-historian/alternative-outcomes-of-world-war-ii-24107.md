@@ -57,3 +57,7 @@ Norman Spinrad, [*The Iron Dream*](http://www.librarything.com/work/49259) (1972
 Jo Walton’s ["Small Change"](http://www.librarything.com/series/Small+Change+%281%29) series [*Farthing* (2006), *Ha’penny* (2007), and *Half a Crown* (2008)], in which the U.S. fails to provide aid to the UK to resist Germany and Britain makes peace with the Nazi Reich. Germany continues a drawn-out war with the Soviet Union, and Britain turns into a fascist state.
 
 Newt Gingrich and William R. Forstchen, [*1945*](http://www.librarything.com/work/48047) (1995), in which the U.S. defeats Japan but not Germany, and a subsequent "cold war" ensues between the U.S. and Germany.
+
+## For Further Reading
+
+Winston Churchill, [*Memoirs of the Second World War, an abridgment of the six volumes of the Second World War*](http://www.librarything.com/work/191654).  New York:  Houghton Mifflin, 1959.

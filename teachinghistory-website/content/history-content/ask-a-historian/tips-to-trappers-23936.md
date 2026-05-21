@@ -61,3 +61,38 @@ After 34 years in the fur buying business, Sears Roebuck decided in 1958 to focu
 ---
 
 [**Heritage Museum[MT]**](/history-content/historical-places/9716)
+
+## For Further Reading
+
+[*Sears Archives*](http://www.searsarchives.com/index.htm)
+
+Jerry R. Hancock, Jr.  ["Dixie Progress: Sears, Roebuck & Co. and How It Became an Icon in Southern Culture,"](http://digitalarchive.gsu.edu/history_theses/32/) M.A. Thesis, Georgia State University (2008): 50-60.
+
+Johnny Muskrat, *Trapping and Fur Farming*.  Chicago: Sears, Roebuck and Company, 1927.
+
+Johnny Muskrat, *Tips to Trappers*.  Chicago: Sears, Roebuck and Company, 1932-1958.
+
+"Johnny Muskrat to Broadcast on Seven Stations," *Pinedale (Wyoming) Roundup*, December 26, 1929.
+Scott Childers, *Chicago's WLS Radio*.  Chicago:  Arcadia Publishing, 2008.
+
+Boris Emmet and John E. Jeuck, *Catalogues and Counters: A History of Sears, Roebuck and Company*.  Chicago:  University of Chicago Press, 1950.
+
+Peter Max Ascoli, *Julius Rosenwald: The Man Who Built Sears, Roebuck and Advanced the Cause of Black Education in the American South*.  Bloomington:  Indiana University Press, 2006.
+
+Gordon L. Weil, *Sears, Roebuck, U. S. A.: The Great American Catalog Store and How It Grew*.  New York: Stein & Day, 1977.
+
+James C. Worthy, *Shaping an American Institution: Robert E. Wood and Sears, Roebuck*.  Urbana: University of Illinois Press, 1984.
+
+Anne Koenen, *Mail-Order Catalogs in the US, 1880-1930: How Sears Brought Modernization to American Farmers*.  Paderborn: Universitat Paderborn, 2001.
+
+Frederick Asher, *Richard Warren Sears, Icon of Inspiration: Fable and Fact about the Founder and Spiritual Genius of Sears, Roebuck & Company*.  New York: Vantage Press, 1997.
+
+Cecil C. Hoge, *The First Hundred Years Are the Toughest: What We Can Learn from the Century of Competition between Sears and Wards*.  Berkeley: Ten Speed Press, 1998.
+
+Frank Brown Latham, *1872-1972: A Century of Serving Consumers: The Story of Montgomery Ward*.  Chicago: Montgomery Ward, 1972.
+
+Thomas J. Schlereth, "Country Stores, County Fairs, and Mail-Order Catalogues: Consumption in Rural America," in Simon J. Bronner, ed., *Consuming Visions: Accumulation and Display of Goods in America*.  New York: W. Norton & Company, 1987.
+
+Doug Golden, *When the Beaver Was King*.  West Conshohocken, PA: Infinity Publishing Company, 2006: 32-35.
+
+Will Troyer, *From Dawn to Dusk: Memoirs of an Amish/Mennonite Farm Boy*.  Coral Springs, FL: Llumina Press, 2003: 153-158.

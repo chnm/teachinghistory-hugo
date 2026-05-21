@@ -145,3 +145,10 @@ Mohrez Mahmoud El Hussini, *Soviet-Egyptian Relations, 1945-85*. New York: St. M
 Karl E. Meyer and Shareen Blair Brysac, *Kingmakers: The Invention of the Modern Middle East*. New York: W.W. Norton, 2008.
 
 Ray Takeyh, *The Origins of the Eisenhower Doctrine: The US, Britain and Nasser's Egypt, 1953-57*. New York: St. Martin's Press, 2001.
+
+## For Further Reading
+
+Images:
+Detail of DOD map of Port Said, Egypt, October 1956. National Archives and Records Administration, Archival Research Catalog 596269.
+
+Photograph of Dwight D. Eisenhower and John Foster Dulles Meeting, August 14, 1956. National Archives and Records Administration, Archival Research Catalog 594350.

@@ -175,3 +175,45 @@ With regard to living conditions, Wilbur Wright described the house of William J
 The community seemed resistant to consumer culture. Orville reported that "Mr. Calhoun, the groceryman," a man who had come to the area to recover his health, "is striving to raise the tastes of the community to better goods, but all in vain. They never had anything good in their lives, and consequently are satisfied with what they have. In all other things they are the same way, satisfied in keeping soul and body together." Calhoun soon sold his store, calling his decision to come to Kitty Hawk "the greatest mistake of my life." Wright stated that Calhoun had not been "greatly beloved by Kitty Hawkers."
 
 The "Bankers," William Tate later wrote in a reminiscence, were a "practical, hard-headed lot who believed in a good God . . . a hot hell . . . and, more than anything else, that the same good God did not intend man should ever fly!" Prior to their arrival in Kitty Hawk, Tate had assured Wilbur Wright that he would find "a hospitable people when you come among us." The Wrights indeed found the people to be "friendly and neighborly," as Wilbur reported. Orville agreed, noting to his sister that "Every place we go we are called Mr. Wright."
+
+## For Further Reading
+
+House. Committee on Rivers and Harbors. 61st Congress, 1st session, Document No. 78,*Point Harbor Channel, North Carolina. Letter from the Acting Secretary of War Transmitting, with a Letter from the Chief of Engineers, Report of Examination of Point Harbor Channel, North Carolina,* in *House Documents*, vol. 7, March 15&#150.
+
+August 5, 1909 (Washington: Government Printing Office, 1909).
+
+John Bronson, "The Quaint Ways of Dare County," *Forest and Stream,* 25 August 1881, 65; State Board of Agriculture, Raleigh, North Carolina, *North Carolina and Its Resources* (Winston: M. I. & J. C. Stewart, 1896), 32829.
+
+William Bullock Clark, "The Physiology of the Coastal Plain of North Carolina," in Clark, *et. al.,* *The Coastal Plain of North Carolina* (Raleigh: E. M. Uzzell, 1912), 33; *National Geographic Magazine* 17, no. 6 (June 1906), 31017, quoted in Clark, 33.
+
+*The Papers of Wilbur and Orville Wright, Including the Chanute-Wright Letters and Other Papers of Octave Chanute,* ed. Marvin W. McFarland (New York: McGraw-Hill, 1953; reprint, 2001), 2526, 30, 31, 33, 40.
+
+David Stick, *The Outer Banks of North Carolina, 15841958* (Chapel Hill: University of North Carolina Press, 1958), 174, 17980, 265.
+
+"Currituck Sound: The Mecca for Sportsmen," * Washington Times,* 3 December 1902, 5.
+
+John Bronson, "The Sportsman Tourist," *Forest and Stream,* 20 October 1881, 225; *Forest and Stream,* 1 December 1881, 344.
+
+"The Kitty Hawk Bay Club," *Forest and Stream,* 28 April 1881, 243.
+
+John Bronson, "In Currituck and Dare," *Forest and Stream,* 27 October 1881, 24445; Gary S. Dunbar, *Historical Geography of the North Carolina Outer Banks,* supervised and ed. by Fred Kniffen (Baton Rouge: Louisiana State University Press, 1958), 62, 71.
+
+Robert Frost, "A Trip to Currituck, Elizabeth City, and Kitty Hawk," *North Carolina Folklore* 16, no. 1 (May 1968), 39, quoted in William D. Crouch, *The Bishop's Boys: A Life of Wilbur and Orville Wright* (New York: W. W. Norton, 1989), 194.
+
+Elisabethe Dupuy, "In a Mutton-Ham Boat," *Atlantic Monthly* 84 (August 1899), 197.
+
+Bureau of the Census, *Twelfth Census of the United States, 1900* (Washington: National Archives and Records Administration, 1900); census place: Atlantic, Currituck, North Carolina; roll: T623 1191; pp. 1A3B.
+
+[www.ancestryinstitution.com](http://www.ancestryinstitution.com); Chris Kidder *Aloft at Last: How the Wright Brothers Made History* (Nags Head, NC: Nags Head Art, 2002), 6768, 70, 75.
+
+*Twelfth Annual Report of the Bureau of Labor Statistics of North Carolina* (Raleigh: Guy V. Barnes, 1899), 119.
+
+*Atlanta Constitution,* 31 March 1902, 6; *Atlanta Constitution,* 25 October 1902, 5.
+
+*Sixteenth Annual Report of the Bureau of Labor and Printing of the State of North Carolina for the Year 1902* (Raleigh: Edwards & Broughton, 1903), vii, 28283.
+
+*Outlook,* 20 April 1907, 870; *Christian Science Monitor,* 20 June 1919, 9.
+
+William Tate, "I Was Host to the Wright Brothers at Kitty Hawk," *U.S. Air Services* (December 1943), 2930, quoted in Crouch, *Bishop's Boys,* 196.
+
+Fred C. Kelly, ed., *Miracle at Kitty Hawk: The Letters of Wilbur and Orville Wright* (New York: Farrar, Straus and Young, 1951), 26.

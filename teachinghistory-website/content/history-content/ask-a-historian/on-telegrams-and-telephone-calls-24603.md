@@ -70,3 +70,11 @@ Taylor Branch, *Pillar of Fire: America in the King Years, 1963-65.* New York: S
 Diane McWhorter, *Carry Me Home: Birmingham, Alabama—The Climactic Battle of the Civil Rights Revolution.* New York: Simon and Schuster, 2001.
 
 Nicholas Andrew Bryant, *The Bystander: John F. Kennedy and the Struggle for Black Equality.* New York: Basic Books, 2006.
+
+## For Further Reading
+
+Dan T. Carter, *The Politics of Rage: George Wallace, the Origins of the New Conservatism, and the Transformation of American Politics.*  Baton Rouge: LSU Press, 2000.
+
+“Crisis,” September 30, 1963.  Papers of John F. Kennedy.  Presidential Papers, White House Central Subject Files, Human Rights: 2: ST 1 (Alabama).
+
+Stephan Lesher, *George Wallace: American Populist.* Reading, MA: Addison-Wesley, 1994.

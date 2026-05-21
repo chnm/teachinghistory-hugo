@@ -79,3 +79,16 @@ Roger Williams, who had been persecuted for his anti-establishment sermons in Ma
 During the 17th and 18th centuries, Baptists found the religious freedom they sought, at the beginning in Rhode Island and Pennsylvania, but then elsewhere. Their ranks were enlarged by converts from Congregationalism, but also from other Nonconformist sects. In addition, they embraced the movement of religious revival during the Second Great Awakening, and found an enthusiastic mass of converts as they spread down the Appalachians into the South and West. Baptists played a crucial role in influencing the framers of the Constitution to insure freedom of religion and conscience in the new Republic, and to promote the idea of a "wall of separation" between church and state.
 
 The highly autonomous nature of a Baptist congregation, recognizing no higher "worldly" authority over the religious beliefs and practices of its members, proved to be a good fit in many ways with the democratic, populist character of America. It also appealed to African Americans, who could found their own churches with little religious interference from others.
+
+## For Further Reading
+
+William H. Brackney, *A Genetic History of Baptist Thought, with Special Reference to Baptists in Britain and North America*, Macon, Ga.: Mercer University Press, 2004.
+
+Bill J. Leonard, *Baptists in America*, New York: Columbia University Press, 2005.
+
+Mark R. Bell, *Apocalypse How? Baptist Movements During the English Revolution*, Macon, Ga.: Mercer University Press, 2000. 
+
+Images:
+Library of Congress, Prints and Photographs Division: Child singing at Sunday School at the Baptist Church, San Augustine, Texas, April 1943, photographed by John Vachon.
+
+Baptism near Mineola, Texas, Summer 1935, photographed by Alan Lomax.

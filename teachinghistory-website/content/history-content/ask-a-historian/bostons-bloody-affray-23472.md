@@ -92,3 +92,28 @@ Historian Pauline Maier points to the reporting in the *Boston Gazette* of March
 After the Boston Massacre, John Lathrop, Pastor of the Second Church in Boston, preached a sermon entitled "Innocent Blood Crying to God from the Streets of Boston," which very deliberately echoed Dr. Free's earlier sermon.
 
 Bostonians interpreted the events in their city as an eerie repetition of the "St. George's Fields Massacre," and their labeling of the affray in Boston as a "massacre"—and even "this horrid Massacre," echoing Wilkes' description of St. George's Fields—cemented that connection.
+
+## For Further Reading
+
+John Free, *[England's Warning Piece](http://books.google.com/books?id=NdxbAAAAQAAJ&source=gbs_navlinks_s); shewing the supreme and indispensable authority of the laws of God; and the impiety, and fatal consequences of screening, and abetting murder. A sermon occasioned by the untimely death of Mr. William Allen the Younger who was most inhumanly murdered near his father's house, by an arbitary [sic] military power, on Tuesday, the 10th of May, 1768.*  London: printed for the author, and sold by W. Bingley; and Mrs Shepherd, at the end of Horsemonger-Lane, Southwark, where the murder was committed, 1768.
+
+John Lathrop, *Innocent Blood crying to God from the Streets of Boston—A sermon occasioned by the horrid Murder of Messrs. Samuel Gray, Samuel Maverick, James Caldwell, and Crispus Attucks, with Patrick Carr, since dead, and Christopher Monk, judged irrecoverable, and several others badly wounded, by a Party of Troops under the Command of Capt. Preston, on the 5th of March, 1770, and preached the Lord's Day following*.  Boston, 1770.
+
+James Bowdoin, Joseph Warren, Samuel Pemberton, *[A Short Narrative of the Horrid Massacre in Boston](http://www.archive.org/details/shortnarrativeof00inbost): perpetrated in the evening of the fifth day of March, 1770, by soldiers of the 29th Regiment, which with the 14th Regiment were then quartered there; with some observations on the state of things prior to that catastrophe, Printed by order of the town of Boston*.  Boston, 1770.
+
+Samuel Adams, Harry Alonzo Cushing, *[The Writings of Samuel Adams: 1770-1773](http://www.gutenberg.org/ebooks/2092)*, Volume 2 (New York, NY: G. P. Putnam's Sons, 1906).
+
+John K. Alexander, *[Samuel Adams: America's Revolutionary Politician](http://books.google.com/books?id=H39E42RWP18C&source=gbs_navlinks_s)* (Lanham, Md.: Rowman & Littlefield, 2002).
+
+Arthur Hill Cash, *[John Wilkes: The Scandalous Father of Civil Liberty](http://books.google.com/books?id=kcnvpr8R2HMC&client=firefox-a&source=gbs_navlinks_s)* (New Haven, Conn.: Yale University Press, 2006).
+
+James Kendall Hosmer, *[Samuel Adams](http://www.archive.org/details/hossamueladams00hosmrich)* (Boston: Houghton, Mifflin, 1885).
+
+Frederic Kidder, *[History of the Boston Massacre, March 5, 1770](http://books.google.com/books?id=r3MBAAAAMAAJ&source=gbs_navlinks_s): consisting of the narrative of the town, the trial of the soldiers; and a historical introduction, containing unpublished documents of John Adams, and explanatory notes* (Albany, N.Y.: Joel Munsell, 1870).
+
+Pauline Maier, *[From Resistance to Revolution: Colonial Radicals and the Development of American Opposition to Britain, 1765-1776](http://books.google.com/books?id=a8qnQGxfPnsC&client=firefox-a&source=gbs_navlinks_s)* (New York: W. W. Norton, 1991).
+
+John C. Miller, [*Sam Adams: Pioneer in Propaganda](http://books.google.com/books?id=AjCsAAAAIAAJ&source=gbs_navlinks_s)* (Stanford, Calif.: Stanford University Press, 1936).
+
+Images:  
+"A particular Account of the most Horrid Massacre…," Heading of a broadside printed in Boston, March, 1770; detail of Paul Revere's engraving, "The Bloody Massacre perpetrated in King-Street Boston on March 5th 1770 by a part of the 29th Reg't."

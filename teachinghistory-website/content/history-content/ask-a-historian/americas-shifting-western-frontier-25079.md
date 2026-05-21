@@ -41,3 +41,9 @@ R. Douglas Hurt, [*The Ohio Frontier: Crucible of the Old Northwest, 1720-1830*]
 Philip D. Jordan, [*Ohio Comes of Age: 1873-1900*](http://www.ohiohistorystore.com/Ohio-Comes-of-Age-1873-1900-P7704C26.aspx). Volume 5 of Carl Wittke, ed., *The History of the State of Ohio*. Columbus, Oh.: Ohio State Archaeological and Historical Society, 1944.
 
 George W. Knepper, [*Ohio and Its People*](http://www.kentstateuniversitypress.com/2010/ohio-and-its-people/). 3rd edition. Kent, Oh.: Kent State University Press, 2003.
+
+## For Further Reading
+
+Grain elevator, “Operated by Union Railroad Elevator Company, Toledo, Ohio,” Calvert Lithographic Company, 1882.  Prints and Photographs Division, Library of Congress.
+
+“Railroad engine.”  W. J. Morgan, Cleveland, Ohio, 1874.  Prints and Photographs Division, Library of Congress.

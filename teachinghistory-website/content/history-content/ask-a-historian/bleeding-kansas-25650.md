@@ -53,3 +53,9 @@ The matter of whether Kansas would enter the Union as a free or slave state was 
 [Territorial Kansas Online: A Primary Source Collection](http://www.territorialkansasonline.org/~imlskto/cgi-bin/index.php).
 
 [The Wyandotte Constitution](http://www.kansasmemory.org/item/90272), 1859 (ratified by Congress, 1861).
+
+## For Further Reading
+
+[1](#fn1) "[Public Meetings. North American National Convention. Third Day](http://chroniclingamerica.loc.gov/lccn/sn83030213/)." *New York Daily Tribune*, June 16, 1856.
+
+[2](#fn2)  "[Fremont and Victory.  The Prize Song By Charles S. Weyman](http://chroniclingamerica.loc.gov/lccn/sn83030213/)."  *New York Daily Tribune*.  September 13, 1856.

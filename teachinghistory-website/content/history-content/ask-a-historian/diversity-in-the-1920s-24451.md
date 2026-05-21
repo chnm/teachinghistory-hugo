@@ -58,3 +58,11 @@ Famously, Roosevelt believed in the “melting pot,” a phrase that we have com
 [The Modern Civil Rights Movement: A Rise of Purposeful Anger](/history-content/beyond-the-textbook/24317)
 
 U.S. Department of the State: Office of the Historian. [Milestones: 1921-1936](https://history.state.gov/milestones/1921-1936/immigration-act). Accessed January 12, 2011.
+
+## For Further Reading
+
+Boyden, Joseph. [*Three Day Road*](https://www.penguinrandomhouse.com/books/295357/three-day-road-by-joseph-boyden/)  New York: Penguin Group, Inc., 2005.
+
+Smythe, Donald.  [*Pershing: General of the Armies*](http://www.iupress.indiana.edu/catalog/product_info.php?products_id=41675) Bloomington, IA: Indiana University Press, 2007.
+
+[U.S. Census Bureau](http://www.census.gov/).  Accessed January 12, 2011.

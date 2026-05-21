@@ -56,3 +56,37 @@ In addition to the equity issues that this system poses, Lerner points to conseq
 ---
 
 Please visit [Ask-a-Master Teacher](/teaching-materials/ask-a-master-teacher/20298) on the Clearinghouse for another perspective on this question.
+
+## For Further Reading
+
+Thomas Bender, ed., *Rethinking American History in a Global Age* (Berkeley: University of California Press, 2002), 6, 12, 19.
+
+Organization of American Historians, ["The La Pietra Report: A Report to the Profession,"](http://www.oah.org/activities/lapietra/index.html#Anchor-20246)  (accessed February 6, 2009).
+
+Thomas Bender, *A Nation among Nations: America’s Place in World History* (New York: Hill and Wang, 2006), 13-14.
+
+*America on the World Stage: A Global Approach to U.S. History*, ed. Gary W. Reichard and Ted Dickson (Urbana: University of Illinois Press, 2008).
+
+Peter N. Stearns and Noralee Frankel, eds., *Globalizing American History: The AHA Guide to Re-Imagining the U.S. Survey Course* (Washington: American Historical Association, 2008).
+
+Sam Wineburg, *Historical Thinking and Other Unnatural Acts: Charting the Future of Teaching the Past* (Philadelphia: Temple University Press, 2001), 7, 5, 12, 24.
+
+Brad Burenheide, "I Can Do This: Revelations on Teaching with Historical Thinking," *History Teacher* 41 (November 2007): 56.
+
+Michael Coventry and others, "Ways of Seeing: Evidence and Learning in the History Classroom," *Journal of American History* 92 (March 2006): 1371-1402.
+
+Rachel G. Ragland, "Changing Secondary Teachers’ Views of Teaching American History," *History Teacher* 40 (February 2007): 219-46.
+
+David Pace, "The Amateur in the Operating Room: History and the Scholarship of Teaching and Learning," *American Historical Review* 109 (October 2004): 1771-92.
+
+Flannery Burke and Thomas Andrews, "The Five Cs of History: Putting the Elements of Historical Thinking into Practice in Teacher Education," in Wilson J. Warren and D. Antonio Cantu, eds., *History Education 101: The Past, Present, and Future of Teacher Preparation* (Charlotte, NC: Information Age Publishing, 2008), 151-66.
+
+Daisy Martin and Chauncey Monte-Sano, “Inquiry, Controversy, and Ambiguous Texts: Learning to Teach for Historical Thinking,” in Warren and Cantu, 167-186.
+
+JBL Associates, Inc., ["Reversing Course: The Troubled State of Academic Staffing and a Path Forward,"](http://www.aft.org/newspubs/) (Washington: American Federation of Teachers, 2008),  (accessed February 6, 2009).
+
+Gerda Lerner, "Corporatizing Higher Education," *History Teacher* 41 (February 2008): 219-27.
+
+Juli A. Jones, "Foundations of Corporatization: Lessons from the Community College," *History Teacher* 41 (February 2008): 213-17.
+
+Leon Fink, "Corporatization and What We Can Do About It," *History Teacher* 41 (February 2008): 229-33.

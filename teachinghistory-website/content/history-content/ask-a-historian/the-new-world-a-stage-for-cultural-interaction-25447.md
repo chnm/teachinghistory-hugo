@@ -49,3 +49,11 @@ Axtell, James. *Natives and Newcomers: The Cultural Origins of North America*. N
 Richter, Daniel K., *Ordeal of the Longhouse: The Peoples of the Iroquois League in the Era of European Colonization*. Chapel Hill, NC: University of North Carolina Press, 1992.
 
 White, Richard. *The Middle Ground: Indians, Empires, and Republics in the Great Lakes Region, 1650-1815*. New York: Cambridge University Press, 1991.
+
+## For Further Reading
+
+Richter, Daniel. *Facing East from Indian Country: A Native History of Early America*. Cambridge, MA.: Harvard University Press, 2001.
+
+Steele, Ian K. *Warpaths: Invasions of North America*. New York: Oxford University Press, 1994.
+
+Van Zandt, Cynthia. *Brothers Among Nations: The Pursuit of Intercultural Alliances in Early America*, 1580-1660. New York: Oxford University Press, 2008.

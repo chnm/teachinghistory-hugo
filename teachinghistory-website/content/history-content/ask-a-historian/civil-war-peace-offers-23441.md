@@ -99,3 +99,18 @@ A third possibility relates to the closing days of the war. Radical Republicans 
 > the legislature would be recognized as the de facto government of the state
 
 Their fears seemed well-founded when they learned that Lincoln, during a trip to Richmond after its fall, early in April 1865, consulted with at least one Virginia politician and had informally encouraged him to help reconvene the Virginia legislature, declare the state's loyalty to the Union, and order Virginia's soldiers to lay down their arms. In return, said Lincoln, the legislature would be recognized as the *de facto* government of the state and it could begin to restore order. Republicans viewed Lincoln's offer as an attempt to usurp the power of Congress and as a "bribe of unconditional forgiveness." The point soon became moot, however, by Lee's surrender of his army at Appomatox. The Virginia Legislature did not reconvene.
+
+## For Further Reading
+
+John Minor Botts, *The Great Rebellion: Its Secret History, Rise, Progress, and Disastrous Failure*. New York: Harper & Brothers, 1866.
+
+Nelson D. Lankford, *Cry Havoc!: The Crooked Road to Civil War, 1861*.  New York: Penguin, 2007, pp. 63-71.
+
+Joint Congressional Committee on Reconstruction, Subcommittee on Arkansas, Georgia, Mississippi, and Alabama, February 10 and 15, 1866, Chairman, Senator Jacob M. Howard, *Report of the Joint Committee on Reconstruction, at the First Session Thirty-Ninth Congress*.  Washington:  Government Printing Office, 1866, Part 2, pp. 102-109, 114-123.
+
+Edgar Thaddeus Welles, editor, *Diary of Gideon Welles, Secretary of the Navy under Lincoln and Johnson*, Volume 2.  Boston:  Houghton Mifflin Company, 1911, pp. 273-274, 279-282.
+
+Image Sources:  
+"Good-by to Sumter—February 3, 1861," the wives and children of the soldiers quartered at Fort Sumter wave good-bye as they leave, evacuated aboard the steamer Marion bound for New York, *Harper's Magazine*, February 23, 1861.
+
+Portrait of Clement Vallandigham, Prints and Photographs Division, Library of Congress.

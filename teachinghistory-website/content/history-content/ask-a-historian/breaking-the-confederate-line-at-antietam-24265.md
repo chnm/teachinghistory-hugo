@@ -51,3 +51,11 @@ Burnside’s ineffective leadership at the bridge during led McClellan to write 
 Kennedy, Frances H., ed. *The Civil War Battlefield Guide.* 2nd ed. Boston: Houghton Mifflin Co., 1998.
 
 [**Roads to Antietam**](/teaching-materials/lesson-plan-reviews/23729)
+
+## For Further Reading
+
+Eicher, David J. *The Longest Night: A Military History of the Civil War*.  New York: Simon & Schuster, 2001.
+
+Sears, Stephen.  *Landscape Turned Red: The Battle of Antietam*.  New York: Houghton Mifflin Company, 2003. 
+ 
+Waugh, John. *Lincoln and McClellan: The Troubled Partnership between a President and His General*.  New York: St. Martin's Press, 2010.

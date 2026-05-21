@@ -36,3 +36,10 @@ Jackson himself became the best-known Civil War victim of friendly fire. While s
 Maps of the [Chancellorsville Campaign](http://www.dean.usma.edu/history/Atlases/AmericanCivilWar/AmericanCivilWar.html), in the American Civil War Atlas assembled by West Point.
 
 Explanation of [The Battle of Chancellorsville](http://www.civilwar.org/battlefields/chancellorsville.html) at the website of the Civil War Preservation Trust.
+
+## For Further Reading
+
+Images:
+Print engraving of Stonewall Jackson.  Prints and Photographs Division, Library of Congress.
+
+"Battle-field of Chancellorsville Trees shattered by artillery fire on south side of Plank Road near where Gen. Stonewall Jackson was shot," photograph, 1865.  Prints and Photographs Division, Library of Congress.

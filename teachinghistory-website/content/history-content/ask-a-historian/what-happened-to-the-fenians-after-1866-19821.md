@@ -130,3 +130,25 @@ Despite failure in North America, the Fenians, after shifting their focus of att
 In response to fears of the British populace stimulated by the return of Irish revolutionary activity, the new Liberal Party Prime Minister, William Ewart Gladstone, in 1869 and 1870, successfully enacted laws to disestablish the Church of Ireland and address longstanding Irish land tenure issues. Gladstone acknowledged that Fenianism had "produced that attitude of attention and preparedness on the whole population of this country which qualified them to embrace, in a manner foreign to their habits in other times, the vast importance of the Irish controversy." Gladstone's actions, historian Oliver P. Rafferty has written, were intended "to alienate Fenian opinion, and enable the mass of the Irish people to differentiate their aspirations from those of the revolutionaries." Subsequently, the Irish Protestant barrister Isaac Butt advocated home rule for Ireland as an alternative to an Irish republic, stating that Fenianism "taught me the depth, the breadth, the sincerity of that love of fatherland that misgovernment had tortured into disaffection and . . . exaggerated into revolt." While a number of leading Fenians supported the home rule movement and entered into mainstream politics, under an agreement characterized as the "New Departure," Fenians also maintained their revolutionary commitment to create through insurrection an independent Irish republic.
 
 Rafferty has contended that "the Fenian idea of the necessity, or inevitability, of armed insurrection passed into Irish historical lore and conditioned the thinking of, perhaps, the majority of those who staged the 1916 insurrection." In a recently published history of the rise of Irish nationalism during the period between the 1880s and the Easter rising of 1916, M. J. Kelly has asserted, "Historians have largely neglected the activities of the Irish Republican Brotherhood in the 1880s, tending to focus on the two great flash-points of 1867 and 1916." In his revisionist history, Kelly has looked anew at a "second generation of Fenians, qualitatively distinct from their fathers and uncles," who developed "a fresh separatist dynamic based on the nurture of a distinctly Irish culture" and significantly influenced subsequent Irish nationalist political activity and ideals.
+
+## For Further Reading
+
+W. S. Neidhardt, *Fenianism in North America* (University Park, Pa.: Pennsylvania State University Press, 1975), 4, 13, 4142.
+
+Hereward Senior, *The Fenians and Canada* (Toronto: Macmillan of Canada, 1978), 24; Donald F. Warner, *The Idea of Continental Union: Agitation for the Annexation of Canada to the United States, 18491893* (Lexington, Ky.: University of Kentucky Press, 1960), 48.
+
+ William D'Arcy, *The Fenian Movement in the United States: 18581886* (Washington: Catholic University of America Press, 1947; reissue, New York: Russell & Russell, 1971), 84.
+
+James D. Richardson, comp.,* A Compilation of the Messages and Papers of the Presidents, 1789-1897* (Washington, 1899), 6:433, 7:85.
+
+ Brian Jenkins, *Fenians and Anglo-American Relations during Reconstruction* (Ithaca: Cornell University Press, 1969), 216.
+
+Oliver P. Rafferty, *The Church, the State and the Fenian Threat, 186175* (New York: St. Martin's Press, 1999), 110, 154, 155, 158.
+
+M. J. Kelly, *The Fenian Ideal and Irish Nationalism, 188219* (Woodbridge, UK: Boydell Press, 2006), 15, 16.
+
+Robert Kee, *The Green Flag: The Turbulent History of the Irish National Movement* (New York: Delacorte Press, 1972).
+
+Hereward Senior,*The Last Invasion of Canada: The Fenian Raids, 18661870* (Toronto: Dundurn Press, in collaboration with the Canadian War Museum and the Canadian Museum of Civilization, 1991).
+
+American Catholic History Research Center and University Archives, "Fenian Brotherhood Collection,"  (accessed September 14, 2008).

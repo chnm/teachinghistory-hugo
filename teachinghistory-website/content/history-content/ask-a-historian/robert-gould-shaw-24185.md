@@ -38,3 +38,7 @@ Colonel Robert Gould Shaw (1837-1863) was the young white Civil War Union army o
 ---
 
 The National Gallery of Art’s [website](https://www.nga.gov/exhibitions/2013/shaw.html) on Augustus Saint-Gaudens Memorial to Robert Gould Shaw and the Massachusetts 54th Regiment, which features lesson plans for grades 3-12. Teach History’s blog entry on “Colonel Shaw, Sergeant Carney and the 54th Massachusetts,” by Ben Edwards.
+
+## For Further Reading
+
+Russell Duncan, ed. *Blue-Eyed Child of Fortune: The Civil War Letters of Colonel Robert Gould Shaw*. Athens, GA: University of Georgia Press, 1992. Peter Burchard, *One Gallant Rush: Robert Gould Shaw and His Brave Black Regiment*. New York: St. Martin’s Press, 1989. Michael G. Kammen, *Digging Up the Dead: A History of Notable American Reburials*. Chicago: University of Chicago Press, 2010. Charles Cowley, *The Romance of History in “the Black County,” and the Romance of War in the Career of Gen. Robert Smalls*. Lowell, Mass: 1882. Lydia Maria Francis Child, ed. *The Freedmen’s Book*. Boston: Ticknor and Fields, 1865.

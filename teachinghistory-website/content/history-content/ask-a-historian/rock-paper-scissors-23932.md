@@ -117,3 +117,39 @@ So that is my theory, and I am sticking to it. At least for now. It seems more r
 Douglas and Graham Walker's [World RPS Society](http://www.worldrps.com/)
 
 [The Straight Dope](http://www.straightdope.com/) ("What's the origin of 'Rock, Paper, Scissors'?" July 10, 2001).
+
+## For Further Reading
+
+John E. Ferling, *Almost a Miracle: American Victory in the War of Independence*, New York:  Oxford University Press, 2007.  pps. 534-539.
+
+Henry P. Johnston, *The Yorktown Campaign and the Surrender of Cornwallis, 1781*, New York:  Harper & Brothers, 1881.  pps. 152-158.
+
+Douglas and Graham Walker, *The Official Rock Paper Scissors Strategy Guide*.  New York: Fireside, 2004.
+
+Len Fisher, *Rock, Paper, Scissors:  Game Theory in Everyday Life*.  New York: Basic Books, 2008.
+Stewart Culin, *Korean Games with Notes on the Corresponding Games of China and Japan*.  Philadelphia:  University of Pennsylvania, 1895.
+
+Ella Gardner, *Handbook for Recreation Leaders*.  Washington, D.C.:  Children's Bureau, Government Printing Office, 1935.
+
+Bernard Sterling Mason, *Social Games for Recreation*.  New York: A. S. Barnes, 1935.  p. 70.
+Iona and Peter Opie, *Children's Games in Street and Playground*.  London:  Oxford University Press, London, 1969.
+
+Post-War U.S. Occupation Forces:
+"Korean 'Boys' Town'," *Stars and Stripes*, July 22, 1952.
+William B. Colton, "Three Bamboo," *Stars and Stripes*, September 21, 1954.
+Sandy Colton, "Jan-Ken-Pon," *Stars and Stripes*, August 11, 1956.
+
+On Ella Gardner:
+"Need of Playground Instructors is Seen: Supervision as necessary as school program, says Miss Gardner," *Washington Pos*t, March 15, 1927.
+"2,000 Will Attend Child Conference," *Washington Post*, August 17, 1930.
+"Recreation Series to Open Tomorrow: Many agencies cooperate in work of annual play institute," *Washington Post*, March 13, 1932.
+"Play Institute Set to Start on Tuesday to Run Six Weeks," *Washington Post*, April 7, 1935.
+"Rochambeau's Tenants Gone; U.S. to Move In," *Washington Post*, December 1, 1935.
+"Government Play Expert Starts Trip: Miss Gardner to aid three states plan recreation; will give instruction in communities lacking directors," *Washington Post*, July 8, 1937.
+"U.S. Leaflet to Teach Small Towns to Play," *Washington Post*, October 18, 1937.
+"Ella Gardner's Rites Scheduled Today at 1 O'Clock," *Washington Post*, April 1, 1942.
+
+Images:
+Rochambeau statue in Lafayette Park, Washington, D.C.
+
+Photo of Ella Gardner, *Washington Post*, April 1, 1942.

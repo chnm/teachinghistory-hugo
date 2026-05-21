@@ -38,3 +38,11 @@ Librarians and archivists generally agree that a “primary source” is one pro
 > Most sources, not just maps, can be both primary and secondary.
 
 A map compiled from many sources, as you describe in your question, is most likely to be a secondary source. There are two points of confusion: in the first instance, most sources, not just maps, can be *both* primary and secondary. In the example above, the 1965 map of 1870s Native American land control is a primary source *for* 1965, but it is a secondary source in relationship to the 1870s. And more confusion arises between “original” and “primary.” That is, if I produce a very clever map showing income inequality state by state, and to do so I draw on information from the General Accounting Office, the U.S. Census, as well as data tables from the U.S. Labor Bureau, I may well produce an “original” and exciting new way of showing income relationships. But, like most works of nonfiction, in order to produce this map I inevitably select bits of the original data sources for use; I use my powers of discrimination and editorial finesse, and I will layer an interpretation over the original data. I may produce an “original” work in the sense that it is a map that no one else has thought of producing, but when you pick it up to use it, it is a secondary source.
+
+## For Further Reading
+
+Lynch, Kevin. *The Image of the City*. Cambridge, MA: MIT Press, 1960.
+
+Wood, Denis. *The Power of Maps*. New York: Guilford Press, 1992.
+
+Yale University. *[Primary Sources at Yale](https://primarysources.yale.edu/)*. 2008. Accessed October 18, 2011.

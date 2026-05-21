@@ -45,3 +45,7 @@ Custalow, Linwood "Little Bear," and Angela L. Daniel "Silver Star." *The True S
 Philbrick, Nathaniel. *Mayflower: A Story of Courage, Community, and War*. New York: Viking, 2006.
 
 Restall, Matthew, Lisa Sousa, and Kevin Terraciano, eds. *Mesoamerican Voices: Native-Language Writings from Colonial Mexico, Oaxaca, Yucatan, and Guatemala*. New York: Cambridge University Press, 2005.
+
+## For Further Reading
+
+[1](#fn1) "Book XII of the Florentine Codex, (compiled 1540-1570 by Fray Barnardino de Sahargún)" in *Mesoamerican Voices: Native-Language Writings from Colonial Mexico, Oaxaca, Yucatan, and Guatemala*, ed. Matthew Restall, Lisa Sousa, and Kevin Terraciano (New York: Cambridge University Press, 2005), 38.

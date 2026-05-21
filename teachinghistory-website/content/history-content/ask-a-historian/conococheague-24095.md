@@ -42,3 +42,7 @@ Visit the Conococheague Institute's [website](http://conococheague.org/), to lea
 [**Resources on Native American History**](/teaching-materials/ask-a-master-teacher/22901)
 
 The National Park Service operates the [Williamsport Visitor Center](http://www.nps.gov/choh/planyourvisit/williamsportvisitorcenter.htm), which is located at the confluence of the Conococheague Creek and the Potomac River.
+
+## For Further Reading
+
+John Heckewelder and Peter S. Du Ponceau, “Names Which the Lenni Lenape or Delaware Indians, Who Once Inhabited This Country, Had Given to Rivers, Streams, Places, &c. &c. within the Now States of Pennsylvania, New Jersey, Maryland and Virginia: And Also Names of Chieftains and Distinguished Men of That Nation; With the Significations of Those Names, and Biographical Sketches of Some of Those Men. By the Late Rev. John Heckewelder, of Bethlehem, Pennsylvania. Communicated to the American Philosophical Society April 5, 1822, and Now Published by Their Order; Revised and Prepared for the Press by Peter S. Du Ponceau, *Transactions of the American Philosophical Society*, New Series, Vol. 4, (1834), pp. 351-396.  Many of Heckewelder’s manuscripts and published materials are at the Historical Society of Pennsylvania in Philadelphia.

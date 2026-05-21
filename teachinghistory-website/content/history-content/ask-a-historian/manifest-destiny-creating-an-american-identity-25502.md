@@ -44,3 +44,15 @@ It is important to remember that, as originally conceived, Manifest Destiny was 
 Smith, Henry Nash. *Virgin Land: The American West as Symbol and Myth*. 1950; reprint, Cambridge: Harvard University Press, 2005.
 
 Turner, Frederick Jackson. *The Significance of the Frontier in American History*. 1893. E-text at http://xroads.virginia.edu/~Hyper/TURNER/.
+
+## For Further Reading
+
+[1](#fn1) John O'Sullivan, "[Annexation](http://digital.library.cornell.edu/cgi/t/text/text-idx?c=usde;idno=usde0017-1)," *The United States Democratic Review*, 17(85) (July-August 1845): 5, accessed March 9, 2012. 
+
+[2](#fn2) John Winthrop, *[A Model of Christian Charity](http://history.hanover.edu/texts/winthmod.html)*, 1630, accessed March 9, 2012.
+
+ [3](#fn3) Thomas Paine, *Common Sense*, 1776; reprint (New York: Penguin Books, 2005), 25.
+
+ [4](#fn4) Quoted in Leon Dion, "Natural Law and Manifest Destiny in the Era of the American Revolution," *The Canadian Journal of Economics and Political Science* 23(2) (May 1957): 240.
+
+[5](#fn5) John O'Sullivan, "The Great Nation of Futurity," *The United States Democratic Review*, 6(23) (November 1839): 427.

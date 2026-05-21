@@ -40,3 +40,7 @@ However, as you might guess, now that the children of the 1960s and 1970s have b
 Mitch Horowitz, *Occult America: The Secret History of How Mysticism Shaped Our Nation*. New York: Bantam Books, 2009.
 
 Alice Felt Tyler, *Freedom’s Ferment: Phases of American Social History to 1860*. Minneapolis: University of Minnesota Press, 1944.
+
+## For Further Reading
+
+Catherine L. Albanese, *A Republic of Mind and Spirit: A Cultural History of American Metaphysical Religion*.  New Haven: Yale University Press, 2007.

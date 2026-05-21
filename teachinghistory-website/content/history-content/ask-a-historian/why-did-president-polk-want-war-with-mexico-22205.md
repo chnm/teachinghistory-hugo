@@ -83,3 +83,38 @@ Although the next day Congress passed a war resolution by overwhelming margins i
 Democratic Senator John C. Calhoun, while abstaining from the vote on the war resolution, vehemently objected to stampede tactics and argued for "dispassionate consideration" to be given to the issue of war. In addition to the attacks on Polk by politicians and members of the press, antiwar sentiments were expressed by the American Peace Society, the American Anti-Slavery Society, and by literary and religious figures such as James Russell Lowell, Henry David Thoreau, Ralph Waldo Emerson, William Ellery Channing, Theodore Parker, and Wendell Phillips.
 
 As fighting intensified, calls for U.S. forces to capture all of Mexico increased in the penny presses of the urban Northeast and in Illinois, but by the time the Treaty of Guadalupe Hidalgo was ratified, Frederick Merk has written, "the nation was utterly weary of the war." Merk argues that had there been less dissent during the course of the war, more Mexican territory would have been acquired. In a recent article, however, Piero Gleijeses criticizes historians for failing to examine the relative lack of dissent during the period leading up to war. He posits that a broad consensus existed for acquiring land from Mexico, but contends that the fierce opposition to Polk following the war resolution derived from the belief that the desired land could have been easily acquired without going to war.
+
+## For Further Reading
+
+Charles Sellers, *James K. Polk, Constitutionalist, 1843-1846* (Princeton: Princeton University Press, 1966), 213, 416-421.
+
+Sam W. Haynes, *James K. Polk and the Expansionist Impulse*, 3d ed. (New York: Pearson Longman, 2006), 114.
+
+[John L. O’Sullivan], "Annexation," *United States Magazine and Democratic Review*, July-August 1845, 5.
+
+Thomas R. Hietala, *Manifest Design: Anxious Aggrandizement in Late Jacksonian America* (Ithaca: Cornell University Press, 1985), 84.
+
+John C. Pinheiro, *Manifest Ambition: James K. Polk and Civil-Military Relations during the Mexican War* (Westport, Conn.: Praeger Security International, 2007), 151.
+
+Frederick Merk, with the collaboration of Lois Bannister Merk, *Manifest Destiny and Mission in American History: A Reinterpretation* (New York: Knopf, 1963).
+
+Reginald Horsman, *Race and Manifest Destiny: The Origins of American Racial Anglo-Saxonism* (Cambridge, Mass.: Harvard University Press, 1981).
+
+Norman A. Graebner, *Empire of the Pacific: A Study in American Continental Expansion* (New York: Ronald Press, 1955).
+
+Sean Wilentz, *The Rise of American Democracy: Jefferson to Lincoln* (New York: W. W. Norton, 2005), 577-586.
+
+"James Polk's Request to Congress," 11 May 1846, http://xroads.virginia.edu/~CAP/smithson/declarwar.html (accessed 4 May 2009).
+
+John H. Schroeder, *Mr. Polk's War: American Opposition and Dissent, 1846-1848* (Madison: University of Wisconsin Press, 1973).
+
+Frederick Merk, "Dissent in the Mexican War," in Samuel Eliot Morison, Frederick Merk, and Frank Freidel, *Dissent in Three American Wars* (Cambridge, Mass.: Harvard University Press, 1970), 33-64.
+
+Piero Gleijeses, "A Brush with Mexico," *Diplomatic History* 29 (April 2005): 223-254.
+
+David M. Pletcher, *The Diplomacy of Annexation: Texas, Oregon, and the Mexican War* (Columbia, Mo.: University of Missouri Press, 1973). 
+
+Images: 
+Detail of engraving made from R.C. Woodville's painting, "Mexican news," ca. 1851, Prints and Photographs Division, Library of Congress.
+
+Detail of daguerreotype, "James K. Polk," Prints and Photographs Division, Library of Congress.

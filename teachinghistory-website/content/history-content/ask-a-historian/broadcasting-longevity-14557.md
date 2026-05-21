@@ -48,3 +48,7 @@ In 1925, Nashville radio station WSM went on the air. Like many early radio stat
 The show that preceded the barn dance was a classical music program called the Music Appreciation Hour. One night in 1927 Hay introduced the barn dance by saying, "For the past hour you have been listening to music taken largely from the Grand Opera, but from now on we will present the Grand Ole Opry." The name stuck, and it continued to be broadcast under that name for the next six decades.
 
 Although some "proper" Nashville residents thought the show was not in tune with the city's genteel reputation, it soon became wildly popular. A new radio tower built in 1932 allowed WSM to reach most of the nation with the show, although southerners remained the core of the audience. Whereas commercial media like radio have sometimes been seen as a threat to "traditional" cultures, WSM and the Grand Ole Opry spread and preserved (while it also transformed) southern white rural music.
+
+## For Further Reading
+
+Charles Reagan Wilson and William Ferris, eds., [*Encyclopedia of Southern Culture*](http://uncpress.unc.edu/browse/book_detail?title_id=720) Chapel Hill, NC: University of North Carolina Press, 1989.

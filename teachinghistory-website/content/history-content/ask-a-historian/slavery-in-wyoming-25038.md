@@ -46,3 +46,11 @@ The purchase of Louisiana by the U.S. in 1803 did not change these conditions ma
 ## Slavery of and Among Native Americans
 
 We need to remember that while the institution of slavery ultimately focused on African Americans, largely working on plantations (though certainly not entirely, particularly in the west), Native Americans were also enslaved. However, by the time the Spanish took over parts of present-day Wyoming in 1764, they had outlawed slavery of Native American peoples. In addition, there was also the capture and enslavement of conquered tribal communities among the Native Americans themselves. As an example, the Comanches certainly took Native American captives and engaged in a slave trade that linked the plains with Santa Fe, among other places in the Southwest. Some of those captives sold into slavery were Shoshone and Paiute peoples, who could have called southeastern Wyoming 'home.'
+
+## For Further Reading
+
+- Lason, T.A. *[History of Wyoming]( http://books.google.com/books?id=9zVKYtdsUDEC&printsec=frontcover&dq=History+of+Wyoming+t.+a.+larson+2nd+edition&hl=en&ei=tWQbTuu2GKT30gHrnbSYBQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CEAQ6AEwAA#v=onepage&q&f=false)*, 2nd edition. Nebraska, 1990.
+
+- Hämäläinen, Pekka. *[The Comanche Empire](http://books.google.com/books?id=Jd4Km3Y8oAwC&printsec=frontcover&dq=the+comanche+empire&hl=en&src=bmrr&ei=C2UbTsvaF4Ks0AHPuMmWBQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCkQ6AEwAA#v=onepage&q&f=false)*. Yale, 2009.
+
+- Fehrenbacher, Don E. *[Slavery, Law, and Politics: The Dred Scott Case in Historical Perspective](http://books.google.com/books?id=3KYFlabs2hQC&printsec=frontcover&dq=Slavery,+Law,+and+Politics:+The+Dred+Scott+Case+in+Historical+Perspective&hl=en&src=bmrr&ei=YGUbTtmbOsfg0QGtp_CWBQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCkQ6AEwAA#v=onepage&q&f=false)*. Oxford, 1981.

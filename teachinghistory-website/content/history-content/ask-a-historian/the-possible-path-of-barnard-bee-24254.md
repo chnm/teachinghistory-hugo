@@ -52,3 +52,11 @@ National Park Service, U.S. Department of the Interior, [**Antietam**](http://ww
 [**Civil War Preservation Trust: The Battle of Antietam**](http://www.civilwar.org/battlefields/antietam.html) 2009
 
 **Civil War and Digital Storytelling**
+
+## For Further Reading
+
+Bunzl, Martin.  “Counterfactual History: A User's Guide.” *The American Historical Review.*  109, no. 3 (Jun., 2004): 845-858. 
+
+Cullum, George W. *Biographical Register of the Officers and Graduates of the U. S. Military Academy at West Point, N.Y., from its Establishment, in 1802, to 1890 with the Early History of the United States Military Academy.* 3rd ed. Boston: Houghton, Mifflin and Company, 1891.
+
+McPherson, James M. *Crossroads of Freedom: Antietam, The Battle That Changed the Course of the Civil War.* New York: Oxford University Press, 2002.

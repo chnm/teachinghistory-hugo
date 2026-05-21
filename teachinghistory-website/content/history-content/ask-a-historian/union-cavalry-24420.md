@@ -45,3 +45,9 @@ Baggett, James. [*Homegrown Yankees: Tennessee's Union Cavalry in the Civil War.
 [**The Crisis of the Union**](/history-content/website-reviews/23297)
 
 Woodworth, Steven, ed. *Civil War Generals in Defeat*. Lawrence, KS: University Press of Kansas, 1999.*](https://lsupress.org/books/detail/homegrown-yankees/)
+
+## For Further Reading
+
+McPherson, James.  [*Battle Cry for Freedom*](https://global.oup.com/ushe/product/battle-cry-of-freedom-9780195168952?cc=us&lang=en&).  New York: Oxford University Press, 1988.
+
+Starr, Stephen.  [*The Union Cavalry in the Civil War: The War in the West, 1861-1865*](https://lsupress.org/books/detail/the-union-cavalry-in-the-civil-war/).  Baton Rouge: Louisiana State University Press, 2007.

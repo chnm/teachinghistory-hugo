@@ -90,3 +90,10 @@ General Charles Lee's letters and dispatches during the 1776 siege of Charleston
 Map of the [disposition of British forces around Charleston](http://en.wikipedia.org/wiki/File:CharlestownSC1780.jpg) during the 1780 siege.
 
 Various other [maps of the Charleston area](http://www.sciway.net/hist/maps/mapsrw.html) during the Revolutionary War.
+
+## For Further Reading
+
+Images:
+Detail from a map of the June 1776 British siege of Charleston, published by R. Phillips, Bridge Street, Blackfriars, London, 1806.
+
+Petticoat, quilted cream silk, 1750-1775.  Colonial Williamsburg Foundation, Williamsburg, Va.

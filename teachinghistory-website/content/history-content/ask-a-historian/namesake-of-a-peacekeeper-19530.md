@@ -78,3 +78,23 @@ In 1872, William J. Reese, Sherman's brother-in-law, wrote that the choice of an
 ## Cultural Perceptions of Native Americans
 
 The oft-repeated use of the term "savage" in describing Tecumseh and Indians in general points to deeply rooted ideological ways of understanding cultural difference that whites at the time had even with respect to individuals such as Tecumseh, whom they clearly admired. Historian Robert F. Berkhofer has traced "persisting fundamental images and themes" of European understandings of Indians, noting the practice of "conceiving of Indians in terms of their deficiencies according to White ideals rather than in terms of their own various cultures." Whites, Berkhofer contended, often used "counterimages of themselves to describe Indians and the counterimages of Indians to describe themselves." The strength of such persistent dichotomies between *savage* Indians and *civilized* whites becomes even more noticeable in light of the irony that in the aftermath of the battle during which Tecumseh died, his corpse was scalped and pieces of skin were removed by American soldiers for souvenir strips and razor strops. Sudgen has written that "Henry Clay was said to have exhibited one in Washington the following winter."
+
+## For Further Reading
+
+Robert F. Berkhofer, Jr., *The White Man's Indian: Images of the American Indian from Columbus to the Present*.  New York: Knopf, 1978.
+
+Benjamin Drake, *Life of Tecumseh, and of His Brother the Prophet; with a Historical Sketch of the Shawanoe Indians*.  Cincinnati: E. Morgan, 1841; reprint: New York: Arno Press & New York Times, 1969.
+
+R. David Edmunds, *Tecumseh and the Quest for Indian Leadership*.  Edited by Oscar Handlin.  Boston: Little, Brown, 1984.
+
+Bill Gilbert, *God Gave Us This Country: Tekamthi and the First American Civil War*.  New York: Atheneum, 1989.
+
+P. C. Headley, *Life and Military Career of Major-General William Tecumseh Sherman*.  New York: William H. Appleton, 1865.
+
+William J. Reese, quoted in Lee Kennett, *Sherman: A Soldier's Life*.  New York: HarperCollins, 2001.
+
+William T. Sherman, *Memoirs of General William T. Sherman*.  2d Edition, revised and corrected.  New York, D. A. Appleton, 1886.
+
+John Sugden, *Tecumseh: A Life*.  New York: Henry Holt, 1997.
+
+Richard White, *The Middle Ground: Indians, Empires, and Republics in the Great Lakes Region, 16501815*.  Cambridge, UK: Cambridge University Press, 1991.

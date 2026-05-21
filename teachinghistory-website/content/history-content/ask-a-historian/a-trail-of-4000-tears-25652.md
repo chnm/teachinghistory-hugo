@@ -38,3 +38,11 @@ McLoughlin, William G.  *After the Trail of Tears: The Cherokees’ Struggle for
 Mooney, James.  *Historical Sketch of the Cherokee*. (1900) Reproduction. New Brunswick, NJ: Aldine Transaction, 2005.
 
 Sturgis, Amy H.  *The Trail of Tears and Indian Removal*. Westport, CT: Greenwood Press, 2007.
+
+## For Further Reading
+
+Burnett, John G. “The Cherokee Removal Through the Eyes of a Private Soldier.” *Journal of Cherokee Studies* 3 (1987): 18085.
+
+Neugin, Rebecca. “Recollections of Removal, 1932.” In * The Cherokee Removal: A Brief History with Documents*, 2nd edition, edited by Theda Perdue and Michael D. Green. Boston: Bedford/St. Martin, 2005.
+
+Perdue, Theda and Michael D. Green. * The Cherokee Nation and the Trail of Tears*. New York: Viking Press, 2007.

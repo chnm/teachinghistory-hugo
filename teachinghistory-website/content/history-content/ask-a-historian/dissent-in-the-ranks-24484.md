@@ -65,3 +65,9 @@ Higginbotham, Don. [*War of American Independence.*](http://www.upne.com/0-93035
 McCullough, David. [*1776.*](http://books.simonandschuster.com/1776/David-McCullough/9781416542100) New York: Simon & Schuster, 2005.
 
 Royster, Charles. [*A Revolutionary People at War: The Continental Army and American Character, 1775-1783.*](http://uncpress.unc.edu/browse/book_detail?title_id=103) Chapel Hill: University of North Carolina Press, 1996.
+
+## For Further Reading
+
+Ellis, Joseph J.  [*His Excellency George Washington.*](http://www.randomhouse.com/catalog/display.pperl?isbn=9781400032532)  New York: Alfred A. Knopf, 2004. 
+
+Heydt, Bruce. “Vexatious Evils: George Washington and the Conway Cabal,” *American History*, December 2005.

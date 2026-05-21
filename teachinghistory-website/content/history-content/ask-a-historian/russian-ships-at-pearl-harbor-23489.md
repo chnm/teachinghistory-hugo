@@ -119,3 +119,50 @@ For the Pearl Harbor attack, the attacking Japanese pilots knew the composition 
 > Japanese pilots knew the composition of the American fleet and targeted specific ships.
 
 The attackers, in other words, were not aiming to cause general chaos and destruction, but rather to destroy specific warships, to the extent that they could locate them. (The Americans' aircraft carriers happened to be out at sea that morning). The Japanese did not attack the merchant docks in Honolulu Harbor, and so, whatever foreign freighters happened to be there were not imperiled. The attack on the Philippines 10 hours later was aimed particularly at destroying U.S. military airpower in the Pacific, the B-17s and P-40s at Clark and Iba air bases. This would give Japan's airplanes uncontested control of the air and, therefore, allow the Japanese army's invasion of the Philippines.
+
+## For Further Reading
+
+Gordon William Prange, *[At Dawn We Slept: The Untold Story of Pearl Harbor](http://books.google.com/books?id=swUL2H5vGfUC&q=at+dawn+we+slept&dq=at+dawn+we+slept&ei=dRL3SpqgMZGGzgTjvoXSDw)* (New York: Penguin, 2001).
+
+William H. Bartsch, *[December 8, 1941: MacArthur's Pearl Harbor](http://books.google.com/books?id=r8PutH7_T2gC&lpg=PP1&dq=Deceember%208%2C%201941&pg=PP1#v=onepage&q=&f=false)*  (College Station: Texas A&M Press, 2003).
+
+Kinoaki Matsuo, *[How Japan Plans to Win](http://books.google.com/books?id=3AZCAAAAIAAJ&q=how+japan+plans+to+win&dq=how+japan+plans+to+win&ei=OhP3SuCVGY7-zQSE0vWLBg)*.  Trans. Kilsoo K. Kaan  (Boston:  Little, Brown and Company, 1942).
+
+Donald M. Goldstein and Katherine V. Dillon, eds.  *[The Pearl Harbor Papers: Inside the Japanese Plans](http://books.google.com/books?id=q2pFnALHfykC&lpg=PP3&dq=pearl%20harbor%20papers&pg=PP3#v=onepage&q=&f=false)* (Washington: Brassey's, 1993).
+
+Ian Kershaw.  *[Fateful Choices: Ten Decisions That Changed the World, 1940-1941](http://books.google.com/books?id=6J0_vJKLzsgC&lpg=PP1&dq=fateful%20choices&pg=PP1#v=onepage&q=&f=false)*  (New York: Penguin, 2007), pp. 331-381.
+
+Donald W. Mitchell, *[A History of Russian and Soviet Sea Power](http://books.google.com/books?id=p-hoAAAAMAAJ&q=history+of+russian+and+soviet&dq=history+of+russian+and+soviet&ei=yxP3SvvQJIauyATPv7X-CA)*  (New York: Macmillan, 1974).
+
+Mairin Mitchell.  *[The Maritime History of Russia, 848-1948](http://books.google.com/books?id=euloAAAAMAAJ&q=maritime+history+of+russia&dq=maritime+history+of+russia&ei=FRT3Sun1KpKwNpyqxeAO)*  (Freeport, NY: Books for Libraries, 1969).
+
+Jurgen Rohwer and Mikhail S. Monakov.  *[Stalin's Ocean-Going Fleet: Soviet Naval Strategy and Shipbuilding Programmes, 1935-1953](http://books.google.com/books?id=xxRlzgYz2eoC&lpg=PP1&dq=stalin's%20ocean-going%20fleet&pg=PP1#v=onepage&q=&f=false)*  (New York: Frank Cass Publishers, 2001).
+
+"Russia, Japan Mobilize; Soviet Gunboat Is Sunk; Ultimatum for Moscow," *Washington Post*, July 1, 1937, p. 1.
+
+"Soviet Ships Quit Panama: Vessels Take Diverse Routes on Trip to Vladivostok," *New York Times*, July 18, 1939, p. 10.
+
+"Soviet Attitude Toward Chinese Influenced by Stand U.S. Takes," *New York Times*, July 14, 1940, p. 29.
+
+Raymond Daniell, "British Seek the Enlistment of U.S. in Economic War on Axis and Allies," *New York Times*, January 29, 1941, p. 1.
+
+Bertram D. Hulen, "Soviet Requests U.S. Help; Offers to Pay for Supplies," *New York Times*, July 2, 1941, p. 1.
+
+"Russian Ship Shelled: Japanese Submarine Driven Off in Attack Off Australia," *New York Times*, June 26, 1942, p. 2.
+
+"Soviet Ship Sunk by Japs," *Los Angeles Times*, June 26, 1942, p. 1.
+
+"Japan Lets Russia Get Our Supplies," *New York Times*, March 13, 1943, p. 4.
+
+John G. Norris, "Knox Sees Little Chance of Russo-Jap War Now," *Washington Post*, June 23, 1943, p. 3.
+
+Barnet Nover, "Japan and Russia: Is Their Truce About to End?" *Washington Post*, August 14, 1943, p. 4.
+
+"It Depends on Who's Winning," *Los Angeles Times*, November 16, 1944, p. A4.
+
+[Pearl Harbor Attack, 7 December 1941.](http://www.history.navy.mil/faqs/faq66-1.htm)  Department of the Navy, Naval History & Heritage Command.
+
+Images:  
+"This is Not [a] Drill" Dispatch, 12/07/1941, National Archives and Records Administration, Waltham, Massachusetts.
+
+Aerial Photograph of Pearl Harbor, Hawaii: 01/07/1941, National Archives and Records Administration, Washington, D.C.

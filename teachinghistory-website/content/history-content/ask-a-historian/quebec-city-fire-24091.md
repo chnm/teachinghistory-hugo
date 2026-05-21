@@ -52,3 +52,11 @@ In all, the two fires destroyed two-thirds of the city, but I have found no evid
 Joseph Légaré, [*The Fire in the Saint-Jean Quarter, Seen Looking Westward*](http://www.ago.net/agoid429) (1848), Art Gallery of Ontario. See also the [copy](http://www.mnba.qc.ca/Contenu.aspx?page=1476&langue=en”) at the Musée national des beaux-arts du Québec.
 
 John Murray, [*View of Québec, Canada, from the river St. Charles, shewing the conflagration of June 28, 1845, and the ruins of the fire of May 28th, 1845*](http://www.musee-mccord.qc.ca/scripts/viewobject.php?section=162&Lang=1&tourID=GE_P1_3_EN&seqNumber=1”) (1845), colored ink on paper, at the McCord Museum in Montreal.
+
+## For Further Reading
+
+Royce G. Tennant, Lerisa Huntingford, *Canada in the 1840: The Nation’s Illustrated Diary*.  Victoria, BC: Trafford, 2004.
+
+George Gale, *Quebec ‘Twixt Old and New*.  Quebec: The Telegraph Printing Company, 1915.
+
+“The Late Calamitous Fire at Quebec,” *The Albion, A Journal of News, Politics and Literature*, September 20 1845, pps. 453-454.

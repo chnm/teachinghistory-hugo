@@ -45,3 +45,9 @@ To mark the event, American filmmaker William Wyler (then a Major in the U.S. Ar
 Wyler, William. [*"Memphis Belle: A Story of a Flying Fortress"*](http://www.wwiireels.com/). First Motion Picture Unit of the U.S. Army Air Corps. Paramount Pictures, Inc. 1944. Found in the right-hand navigation bar of [WWII Reels](http://www.wwiireels.com/).
 
 U.S Air Force. ["B-17 Flying Fortress](http://www.af.mil/news/story.asp?storyID=123006538)." 2004.
+
+## For Further Reading
+
+91st Bomb Group.  "[Dailies of the 323rd Squadron.](http://www.91stbombgroup.com/Dailies/323rddailies.html)"  Accessed August 2011.  
+
+Richard G. Davis, [*Bombing the European Axis Powers. A Historical Digest of the Combined Bomber Offensive 1939–1945*](http://books.google.com/books?id=jzsYcAAACAAJ).  Maxwell Air Force Base, AL: Air University Press, 2006.

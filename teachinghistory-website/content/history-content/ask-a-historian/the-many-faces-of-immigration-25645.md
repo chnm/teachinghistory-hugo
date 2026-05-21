@@ -84,3 +84,39 @@ After the war and during the “Red Scare” that followed, the progressive idea
 President Harding signed an initial immigration quota system into law in 1921. It marked, in Higham’s view, “the most important turning-point in American immigration policy.” Immigration quotas were established based on national origins: for each nationality, three percent of the number of foreign-born persons living in the U.S. in 1910 were allowed to enter the country. Passage of the law, Higham states, “meant that in a generation the foreign-born would cease to be a major factor in American history.” In 1924, a new law was enacted whereby quotas for each national group fell to two percent of the number of foreign-born living in the U.S. in 1890, a time when immigrant groups from southern and eastern Europe represented a much smaller percentage of the population than in 1910.
 
 Higham’s critics have noted that his analysis in *Strangers* does not do justice to the situation of immigrants from Asia and Mexico. More recent scholarship (some of which is listed below) has investigated nativism with regard to these other groups of immigrants and relations amongst various immigrant groups. Newer studies also have focused more closely than Higham on the immigrant groups themselves and have examined immigration from comparative and global perspectives.
+
+## For Further Reading
+
+Barrett, James R., and David Roediger. “Inbetween Peoples: Race, Nationality and the ‘New Immigrants.” *Journal of American Ethnic History* 16 (Spring 1997): 3-44.
+
+Barrett, James R., and David Roediger. “The Irish and the ‘Americanization’ of the ‘New Immigrants’ in the Streets and in the Churches of the Urban United States, 1900-1930.” *Journal of American Ethnic History* 24 (Summer 2005): 3-33.
+
+Benton-Cohen, Katherine. “Other Immigrants: Mexicans and the Dillingham Commission of 1907-1911.” *Journal of American Ethnic History* 30 (Winter 2011): 33-57.
+
+Bodnar, John. “Culture without Power: A Review of John Higham’s Strangers in the Land.” *Journal of American Ethnic History* 10 (Fall 1990-Winter 1991): 80-86.
+
+________. The Transplanted: A History of Immigrants in Urban America. Bloomington: Indiana University Press, 1985.
+
+Gamio, Manuel. *Mexican Immigration to the United States*. New York: Arno Press and The New York Times, 1969.
+
+*Harvard Encyclopedia of American Ethnic Groups*, ed. Stephan Thernstrom. Cambridge, MA: Belknap Press of Harvard University Press, 1980.
+
+Higham, John. “The Amplitude of Ethnic History: An American Story.” In *Not Just Black and White: Historical and Contemporary Perspectives on Immigration, Race, and Ethnicity in the United States*, ed. Nancy Foner and George M. Fredrickson, 61-81. New York: Russell Sage Foundation, 2004.
+
+________. “Another Look at Nativism.” *Catholic Historical Review* 44 (June 1958): 147-58.
+
+________. *Strangers in the Land: Patterns of American Nativism, 1860-1925*. 2nd ed. New Brunswick, NJ: Rutgers University Press, 1988.
+
+Jacobson, Matthew Frye. *Barbarian Virtues: The United States Encounters Foreign Peoples at Home and Abroad, 1876-1917*. New York: Hill and Wang, 2000.
+
+Lee, Erika. *At America’s Gates: Chinese Immigration during the Exclusion Era, 1882-1943*. Chapel Hill: University of North Carolina Press, 2003.
+
+Martin, Susan F. *A Nation of Immigrants*. Cambridge, UK: Cambridge University Press, 2011.
+
+Peck, Gunther. “Reinventing Free Labor: Immigrant Padrones and Contract Laborers in North America, 1885-1925.” In *American Dreaming, Global Realities: Rethinking U.S. Immigration History*, ed. Donna R. Gabaccia and Vicki L. Ruiz, 263-83. Urbana, IL: University of Illinois Press, 2006.
+
+Roediger, David, and James Barrett. “Making New Immigrants ‘Inbetween’: Irish Hosts and White Panethnicity, 1890-1930.” In *Not Just Black and White: Historical and Contemporary Perspectives on Immigration, Race, and Ethnicity in the United States*, ed. Nancy Foner and George M. Fredrickson, 167-96. New York: Russell Sage Foundation, 2004.
+
+Ueda, Reed. “Historical Patterns of Immigration Status and Incorporation in the United States.” In Gary Gerstle and John Mollenkopg, eds. *E Pluribus Unum? Contemporary and Historical Perspectives on Immigrant Political Incorporation*. New York: Russell Sage Foundation, 2001.
+
+Ueda, Reed. “An Immigration Country of Assimilative Pluralism: Immigrant Reception and Absorption in American History.” In Klaus J. Bade and Myron Weiner, eds. *Migration Past, Migration Future: Germany and the United States*. Providence: Berghahn Books, 1997.

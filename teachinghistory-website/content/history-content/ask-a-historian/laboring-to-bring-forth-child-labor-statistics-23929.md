@@ -57,3 +57,9 @@ Donald M. Fisk. ["American Labor in the 20th Century"](http://www.bls.gov/opub/c
 ["Child Labor Laws and Enforcement,"](http://www.bls.gov/opub/rylf/pdf/chapter2.pdf) chapter 2 of the *Report on the Youth Labor Force* (revised 2000) at the Bureau of Labor Statistics. This includes a brief history of child labor in the U.S. and the legislative restrictions governing it, as well as a discussion comparing aspects of youth employment in the U.S., such as temporary or part-time teen employment, with youth employment elsewhere in the world.
 
 The Child Labor Public Education Project's website on [Child Labor in U.S. History]( http://www.continuetolearn.uiowa.edu/laborctr/child_labor/about/us_history.html) provides links to a variety of documents on child labor.
+
+## For Further Reading
+
+Children watching a Labor Day Parade, Silverton Colorado, September 1940.  Prints and Photographs Division, Library of Congress.
+
+Detail of photo of boy laborer in cranberry bog, Burlington County, New Jersey, 1938.  Prints and Photographs Division, Library of Congress.

@@ -91,3 +91,27 @@ The phrase “The only thing to fear is fear” and its variants, therefore, wer
 ---
 
 Text and audio of [FDR's First Inaugural Address](http://historymatters.gmu.edu/d/5057/), March 4, 1933, at History Matters.
+
+## For Further Reading
+
+William Walker Atkinson, *Thought Vibration: or, The law of attraction in the thought world*, Chicago: The Library Shelf, 1908, pp. 46-49.
+
+“Business to Make Stabilization Study: National Commerce Chamber Is Forming Committee to Work Out Formal Program,” *New York Times*, February 9, 1931, p. 3.
+
+Theron Q. Dumont (William Walker Atkinson), *The Power of Concentration*.  Chicago: Advanced Thought Publishing Company, 1918.
+
+Davis W. Houck, *FDR and Fear Itself: The First Inaugural Address*.  College Station: Texas A&M University Press, 2002, pp. 119-120.
+
+William James, *The Varieties of Religious Experience*.  New York: 1929, p. 93.
+
+Henry Lindlahr, *Practice of Natural Therapeutics*. Chicago: The Lindlahr publishing company, 1919, p. 447.
+
+“The Only Thing to Fear Is Fear,” Display ad for E. F. Droop & Sons, Company, Washington Post, July 4, 1917, p. 2.
+
+Frances Perkins, *The Roosevelt I Knew*.  New York: Viking Press, 1946, p. 29.
+
+William Safire, “Nothing to fear but fear itself,” *Safire’s Political Dictionary*, rev. edition.  Oxford: University Press, 2008, pp. 481-483.
+
+Lela Stiles, *The Man Behind Roosevelt: The Story of Louis McHenry Howe*.  New York: The World Publishing Company, 1954, p. 235.
+
+“The Value of a Silver Tongue,” *Bankers’ Magazine* (May 1927): 666.

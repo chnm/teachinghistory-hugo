@@ -37,3 +37,11 @@ After a bloody battle, the Americans ran out of ammunition and were forced to re
 Ketchum, Richard M. *The Battle of Bunker Hill*. New York: Doubleday & Co., 1962.
 
 Shy, John. *A People Numerous and Armed: Reflections on the Military Struggle for American Independence*. Oxford: Oxford UP, 1976.
+
+## For Further Reading
+
+Fleming, Thomas. *Now We Are Enemies: The Story of Bunker Hill*. New York: St. Martin’s Press, 1960.
+
+Middlekauf, Robert. *The Glorious Cause: The American Revolution, 1763-1789*. New York & Oxford: Oxford UP, 1982.
+
+Nelson, James L. *With Fire and Sword: The Battle of Bunker Hill and the Beginning of the  American Revolution*. New York: Thomas Dunne Books/St. Martin’s Press, 2011.

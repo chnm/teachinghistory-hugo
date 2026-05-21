@@ -39,3 +39,13 @@ Although some *Canadiens* fought with the British, others fought with the Patrio
 Middlekauff, Robert. *The Glorious Cause: The American Revolution, 1763-1789*. New York: Oxford University Press, 1982.
 
 Taylor, Alan. *The Divided Ground: Indians, Settlers, and the Northern Borderland in the American Revolution*. New York: Alfred A. Knopf, 2006.
+
+## For Further Reading
+
+Calloway, Colin G. *The American Revolution in Indian Country*. Cambridge: Cambridge 	University Press, 1995.
+
+Graymont, Barbara. *The Iroquois in the American Revolution*. Syracuse: Syracuse University 	Press, 1972.
+
+Lawson, Phillip. *The Imperial Challenge: Quebec and Britain in the Age of the American 	Revolution*. Montreal: McGill-Queens University Press, 1994.
+
+Stanley, George. *Canada Invaded, 1775-1776*. Toronto: Hakkert Press, 1973.

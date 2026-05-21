@@ -73,3 +73,21 @@ All of this takes away from New England’s place of primacy as either most Engl
 > It is for modern historians to look beyond these regional prejudices...
 
 The varying trajectories of the colonies all offered patterns for later American development, and the issue of originary myths did not begin with modern historians, nor even with the Civil War. In the quest for a national identity following the Revolution, each region articulated its own vision and insisted on its own importance to the development of the American character. New Englanders saw their regional characteristics of piety, industry, simplicity, and democracy as essentially American, but felt they were not shared by Southerners due to the widespread institution of slavery. This self-image came to be adopted by other Northern states, and because of migration by New Englanders to Western territories, it was spread there as well. ([7](#note7)) The South was in effect outflanked in its claims to be the repository of American ideals. It is for modern historians to look beyond these regional prejudices and adopt a more nuanced and inclusive view of the formative influences of the American past.
+
+## For Further Reading
+
+[1](#fn1) Greene, Jack P. *Pursuits of Happiness: The Social Development of Early Modern British Colonies and the Formation of American Culture*. Chapel Hill, NC: University of North Carolina Press, 1988.
+Bushman, Richard. *From Puritan to Yankee: Character and the Social Order in Connecticut, 16901765*. Harvard University Press, 1967.
+
+[2](#fn2) Whyte, Ian. *Migration and Society in Britain: 15501830*. New York: St. Martin’s Press, 2000.
+
+[3](#fn3) Wrightson, Keith. *English Society, 15801680*.  New Brunswick, N.J: Rutgers University Press, 1982.
+
+[4](#fn4) Horn, James. *Adapting to a New World: English Society in the 17th-Century Chesapeake*.  Chapel Hill, NC: The University of North Carolina Press, 1994.
+
+[5](#fn5) Kukla, Jon. “Order and Chaos in Early America: Political and Social Stability in Pre-Restoration Virginia.” * The American Historical Review*, 90:2 (April 1985).
+Carr, Lois Green. “Sources of Political Stability and Upheaval in 17th-Century Maryland.” In * Planters and Yeomen: Selected Articles on the Southern Colonies*, edited by Peter Charles Hoffer (New York: Garland Publishing, 1988).
+
+[6](#fn6) Miller, Perry. "The Religious Impulse in the Founding of Virginia: Religion and Society in the Early Literature.” * The William and Mary Quarterly*, 5:4 (October 1948).
+
+[7](#fn7) Kermes, Stephanie. * Creating an American Identity: New England, 1789-1825*.  New York: Palgrave Macmillan, 2008.

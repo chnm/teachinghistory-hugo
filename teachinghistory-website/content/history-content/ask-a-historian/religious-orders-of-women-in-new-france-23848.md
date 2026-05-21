@@ -84,3 +84,21 @@ Dom Claude Martin. *La Vie de la Vénérable Mère Marie de l'Incarnation, premi
 Peter N. Moogk. *La Nouvelle France: The Making of French Canada: A Cultural History*. Lansing: Michigan State University Press, 2000.
 
 Marcel Trudel. *Les Écolières des Ursulines de Québec, 1639-1686: Amérindiennes et Canadiennes*. Montreal: Hurtubise-HMH, 1999.
+
+## For Further Reading
+
+Library of Congress, [France in America](http://memory.loc.gov/intldl/fiahtml/fiahome.html), collection of textual sources.
+This includes links to the full text of the following:
+Pierre Francois Xavier de Charlevoix.  *History and General Description of New France*, 6 vols.  New York: Francis P. Harper, 1900.
+Chrestien Le Clercq.  *First Establishment of the Faith in New France*, 2 vols.  New York:  John G. Shea, 1881.
+John Gilmary Shea.  *Discovery and Exploration of the Mississippi Valley*.  Clinton Hall, NY: Redfield, 1852. Vol. 4 of Benjamin Franklin French, ed., *Historical Collections of Louisiana*.
+
+The Library and Archives of Canada, full text of the 40 volumes of the [*Jesuit Relations*](http://epe.lac-bac.gc.ca/100/206/301/lac-bac/jesuit_relations-ef/jesuit-relations/index-e.html).
+
+An anthology of selections from the *Relations*:
+Allan Greer.  *The Jesuit Relations: Natives and Missionaries in Seventeenth-Century North America*.  New York: Bedford/St. Martin's, 2000.  Bedford Series in History and Culture.
+
+Images:  
+Detail of illustration of Marie de l'Incarnation, from Claude Martin, *Marie de l'Incarnation, Ursuline de Tours: Fondatrice des Ursulines de la Nouvelle-France*.
+
+Marguerite Bourgeoys, Musée Virtuel Canada, "Des saisons en Nouvelle-France."

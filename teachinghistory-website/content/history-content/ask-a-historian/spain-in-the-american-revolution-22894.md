@@ -62,3 +62,20 @@ Spain began a military campaign of its own against the British in Florida and Lo
 ## Naval Support
 
 A very substantial form of Spain's support for the Americans involved a strategy of joining Britain's other European competitors in tying up British naval resources by engaging them elsewhere than in Britain's American colonies. Spain did this, for example, against Gibraltar and Minorca, and together with France sent a fleet into the English Channel to menace the British coast and tie up more British ships. Most of the European maritime powers, including Spain, united against Britain's effort to interrupt their trade with America. With both France and Spain (and Holland) indirectly in the fray, Britain's navy was outmatched and could not effectively concentrate its military force in America. Spanish ships joined with French ships in the naval blockade of the British army at Yorktown in 1781, preventing General Cornwallis's resupply by the British navy, resulting in his surrender.
+
+## For Further Reading
+
+Thomas E. Chàvez, *Spain and the Independence of the United States: An Intrinsic Gift* (Albuquerque: University of New Mexico Press, 2002).
+
+Light Townsend Cummins, *Spanish Observers and the American Revolution, 1775-1783* (Baton Rouge: Louisiana State University Press, 1991).
+
+Winston De Ville, ed., *Yo Solo: The Battle Journal of Bernardo de Gàlvez during the American Revolution* (New Orleans: Polyanthos, 1978).
+
+David French, *The British Way in Warfare, 1688-2000* (London: Unwin Hyman, 1990).  
+
+Images: 
+"Prise de Pensacola," Illus. in: Recueil d'estampes representant les différents événements de la Guerre qui a procuré l'indépendance aux Etats Unis de l'Amérique ... / Nicolas Ponce. Paris : Ponce et Godefroy, [1784?], Prints and Photographs Division, Library of Congress.
+
+"El Ecsmo Senor Conde De Galves," Museo Nacional de Historia, Castillo de Chapultepec, Mexico.
+
+Detail from A. R. Mengs' 1761 portrait of Carlos III, Museo Nacional del Prado, Madrid.

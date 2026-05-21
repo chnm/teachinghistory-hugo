@@ -43,3 +43,7 @@ On large cotton plantations both the work and the punishments were unremitting a
 ---
 
 Economic History Association. [**EH.net**](http://eh.net/?s=phillips+cotton+gin) Hounshell, David. *From the American System to Mass Production, 1800-1932: The Development of Manufacturing Technology in the United States*. Baltimore: Johns Hopkins University Press, 1984. [**Patents as Primary Sources**](/nhec-blog/24215) **Plantation Agriculture Museum** The University Library at the University of North Carolina at Chapel Hill. [**Documenting the American South**](http://docsouth.unc.edu/index.html), 2004.
+
+## For Further Reading
+
+Gray, Lewis Cecil. *History of Agriculture in the Southern United States to 1860*, vol. 2. Gloucester, MA: Peter Smith, 1958. Reidy, Joseph P. *From Slavery to Agrarian Capitalism in the Cotton Plantation South, Central Georgia, 1800–1880*. Chapel Hill: University of North Carolina Press, 1992.

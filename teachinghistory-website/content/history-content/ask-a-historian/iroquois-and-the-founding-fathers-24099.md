@@ -58,3 +58,9 @@ Tooker, Elisabeth, “Rejoinder to Johansen,” *Ethnohistory*, 37 (1990): 291-2
 See also the exchanges located in:
 
 Forum: “The Iroquois Influence Thesis—Con and Pro,” *William and Mary Quarterly*, 3d Ser., 53 (1996): 587-636.
+
+## For Further Reading
+
+Canasatego’s speech to the British colonists at the Treaty of Lancaster negotiations, in *Indian Treaties Printed by Benjamin Franklin, 1736-1762*. ed. by Julian P. Boyd. Philadelphia: Historical Society of Pennsylvania, 1938.
+
+Benjamin Franklin to James Parker, March 20, 1751, *Papers of Benjamin Franklin*, vol. 3, Jan. 2, 1745-June 30, 1750. ed. by Leonard Labaree et al. New Haven: Yale University Press, 1962.

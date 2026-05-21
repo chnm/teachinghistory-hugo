@@ -53,3 +53,13 @@ Roger J. Norton, [Abraham Lincoln’s Assassination](http://rogerjnorton.com/Lin
 [The Abraham Lincoln Association](http://www.abrahamlincolnassociation.org/), 2010.
 
 [Abraham Lincoln Papers](http://lcweb2.loc.gov/ammem/alhtml/malhome.html) at the library of Congress.
+
+## For Further Reading
+
+Michael W. Kauffman. *American Brutus: John Wilkes Booth and the Lincoln Conspiracies*.  New York: Random House, 2004.
+
+[**Lincoln Archives Digital Project**](http://teachinghistory.org/history-content/website-reviews/24016)
+
+John Rhodehamel and Louise Taper, eds. *Right or Wrong, God Judge Me: The Writings of John Wilkes Booth*. Urbana: University of Illinois Press, 1997. 
+
+Marjorie Spruill Wheeler and William A. Link. *The South in the History of the Nation*, vol. II: From Reconstruction.  New York: St. Martin’s, 1999.

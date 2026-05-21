@@ -49,3 +49,20 @@ The states ratified the last 10 of the 12 amendments. They became the first 10 a
 The first of these would have established how members of the House of Representatives would be apportioned to the states. It was drafted to ensure that members of the House would continue to represent small constituencies even as the general population grew, small enough that Representatives would not be too far removed from the concerns of citizens. In addition, keeping the House of Representatives from being too small was thought to protect against its becoming a kind of oligarchy. Congress did send this amendment to the states, but the number of states that ratified it was just short of the number needed. Although the proposed amendment did not become law, Congressional apportionment is nevertheless grounded in the Constitution (Article 1, Section 2, Paragraph 3) and the total number of members of the House of Representatives is set by federal statute (currently at 435).
 
 The second of Madison's 12 amendments forbade Congress from giving itself a pay raise: Congress could vote for a raise but it would only apply from the beginning of the next Congress. This amendment also failed to gather the required number of state ratifications in the years after it was introduced. In 1982, however, Gregory Watson, a university student doing research for a government class, ran across a description of this amendment and realized that it remained "alive" because it had included no language in it about a window of time in which it had to gain the needed number of state ratifications. Watson organized a successful effort to lobby various state legislatures, seeking their ratification of the amendment. As a result, the needed number was eventually reached and this amendment, first proposed in 1789, became the 27th (and most recent) amendment to the U.S. Constitution in 1992.
+
+## For Further Reading
+
+Richard E. Labunski, *James Madison and the Struggle for the Bill of Rights* (New York: Oxford University Press, 2006).
+
+Jackson Turner Main, *The Anti-federalists: critics of the Constitution, 1781-1788* (Chapel Hill: UNC Press, 2004)
+
+David J. Siemers, *The Antifederalists: men of great faith and forbearance* (Lanham, Md.: Rowman & Littlefield, 2003).
+
+John R. Vile, *A Companion to the United States Constitution and Its Amendments*, 4th edition (Westport, Ct.: Greenwood Publishing Group, 2006).  
+
+John W. Dean, "The Telling Tale of the Twenty-Seventh Amendment: A Sleeping Amendment Concerning Congressional Compensation Is Later Revived," September 27, 2002 (at FindLaw).
+
+Images: 
+Portrait etching of James Madison and detail of broadside, printed by Bennett Wheeler, Providence, R.I., 1789.
+
+James Madison medallion, frontispiece of William Cabell Rives, *History of the Life and Times of James Madison* (Boston: Little, Brown and Company, 1859).

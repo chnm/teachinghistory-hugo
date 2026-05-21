@@ -69,3 +69,22 @@ In 1900, newspapers shared news with one another. Papers across the country had 
 > The trivial and the important sat side by side.
 > Joseph Pulitzer at The New York World and William Randolph Hearst at The New York Journal had begun to deploy teams of investigative reporters who tagged along on police calls and interviewed and reported the observations of bystanders and victims. They aggressively pumped witnesses at the scene and followed their own leads into back alleys and to criminal informants, very much in the style of detectives. This was a novel way of getting a news story. Many people felt that a line of propriety was being crossed, although it certainly made "good copy," in the sense that it sold well. Paradoxically, perhaps (because of the assumed moral judgment that motivates such muckraking), newspaper editors and publishers at the time made a point of disavowing any moral dimension to news writing and insisted that they were simply bringing to light things that were hidden.
 > In 1900, the Spanish-American War had recently ended. It was around that conflict that Pulitzer and Hearst pushed an aggressive array of journalistic tactics to an extreme. The New York Press accused them of what it called "yellow journalism," informally linking their trafficking in exaggeration, rumors, lurid imagery, and sensationalism (as well as clandestine tactics to file stories that bypassed military censors on the telegraph lines) to the mischievous "Yellow Kid" comic character that ran in both papers.
+
+## For Further Reading
+
+*American Newspaper Directory*, New York, George P. Rowell, publisher, vol. 32, issue 1 (March 1900).
+
+Arthur Reed Kimball, "The Invasion of Journalism," *The Atlantic Monthly*, vol. 86, issue 513 (July 1900): 119-125. 
+
+*National Newspaper Directory and Gazetteer*, 1899, Pettingill & Co., Boston and New York.
+H. L. Mencken, *[Newspaper Days, 1899-1906](http://books.google.com/books?id=8NDUL13uMN8C&lpg=PP1&dq=Newspaper%20days&pg=PP1#v=onepage&q=&f=false)* (Baltimore: The Johns Hopkins University Press, 1996).  
+Frank Michael O'Brien, *[The Story of the Sun, New York, 1833-1918](http://books.google.com/books?id=_U4CAAAAYAAJ&dq=story+of+the+sun+new+york&client=firefox-a&source=gbs_navlinks_s)* (New York, N.Y.: George H. Doran, 1918). 
+
+H. Elton Smith, "Modern Journalism," *Overland Monthly and Out West Magazine*, San Francisco, vol. 15, issue 89 (May 1890): 474-476.
+
+David R. Spencer, *[The Yellow Journalism: The Press and America's Emergence as a World Power](http://books.google.com/books?id=d79fyolBDgAC&dq=yellow+journalism+spencer&client=firefox-a&source=gbs_navlinks_s)* (Evanston: Northwestern University Press, 2007). 
+
+Grant Squires, "Experiences of a War Censor," *The Atlantic Monthly*, vol. 83, issue 497 (March 1899): 425-432.
+
+Image: 
+"[The mention of Mr. Tagg's name in the social column attracts some gentlemen of the press: Mr. Tagg gracefully submits to an interview](http://hdl.loc.gov/loc.pnp/cai.2a12835 )," drawing by Charles Dana Gibson, 1903, Prints and Photographs Division, Library of Congress.

@@ -48,3 +48,13 @@ Sacvan Bercovitch, *The Puritan Origins of the American Self*. New Haven: Yale U
 David D. Hall, *Worlds of Wonder, Days of Judgment: Popular Religious Belief in Early New England*. Cambridge: Harvard University Press, 1990.
 
 Alan Heimert and Andrew Delbanco, eds. *The Puritans in America: A Narrative Anthology*. Cambridge: Harvard University Press, 1985.
+
+## For Further Reading
+
+John Demos, *A Little Commonwealth: Family Life in Plymouth Colony*.  2nd edition.  New York: Oxford University Press, 2000.
+
+John Demos, *Remarkable Providences: Readings on Early American History*, rev. edition.  Boston: Northeastern University Press, 1991.
+
+David Hackett Fischer, *Albion’s Seed: Four British Folkways in America*.  New York: Oxford University Press, 1989.
+
+Perry Miller, *Errand into the Wilderness*.  Cambridge: Harvard University Press, 1956

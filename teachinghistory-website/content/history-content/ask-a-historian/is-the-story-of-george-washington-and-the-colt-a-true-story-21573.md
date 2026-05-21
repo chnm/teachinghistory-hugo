@@ -74,3 +74,25 @@ Custis, Cunliffe surmised, "did more than anyone to propagate the cult of the Mo
 Horace E. Scudder (1838–1902), a biographer, author of children's books, compiler of stories, and also the editor of *Atlantic Monthly*, was one of the many 19th- and early 20th-century authors who related the story, especially in books intended to educate children. David Ramsay dedicated his 1807 book on Washington to the "Youth of the United States," while John Corry offered his 1809 biography to "the Youth of America." James K. Paulding included the colt story, while omitting that of the cherry tree, in his 1835 biography of Washington dedicated to "the pious, retired, domestic MOTHERS OF THE UNITED STATES. . . . for the use of their children."
 
 Historian Barbara Welter has noted that according to the dominant domestic ideology of the time, "mothers must do the inculcating of virtue [in children] since the fathers, alas, were too busy chasing the dollar." During the Revolutionary era, mothers especially were urged to instill virtue in their sons. In his biography of Washington that was published as part of the "Riverside School Library," Scudder asserted that Washington "owed two strong traits to his mother—a governing spirit and a spirit of order and method." The mother of the father of our country, Scudder related, "taught him many lessons and gave him many rules; but, after all, it was her character shaping his which was most powerful. She taught him to be truthful, but her lessons were not half so forcible as her own truthfulness." While Washington himself honored "my revered Mother; by whose Maternal hand (early deprived of a Father) I was led from Childhood," historians have found no evidence with which to validate the truth of the sorrel colt story.
+
+## For Further Reading
+
+Horace E. Scudder, *George Washington: An Historical Biography* (Boston and New York: Houghton, Mifflin; Cambridge: Riverside Press, 1889), 2628
+
+Marcus Cunliffe, "Introduction," in Mason L. Weems *The Life of Washington*, ed. Marcus Cunliffe (Cambridge: Harvard University Press, 1962), xlixlii
+
+George Washington Parke Custis,*Recollections and Private Memoirs of Washington* (New York: Derry & Jackson, 1860), 13234
+
+Caroline M. Kirkland, *Memoirs of Washington* (New York: D. Appleton, 1857), 59; Henry Cabot Lodge, *George Washington* (Boston: Houghton, Mifflin; Cambridge: Riverside Press, 1889), 1: 4344
+
+François Furstenberg, *In the Name of the Father: Washington's Legacy, Slavery, and the Making of the Nation* (New York: Penguin Press, 2006), 289
+
+James K. Paulding, *A Life of Washington* (New York: Harper & Brothers, 1835)
+
+Barbara Welter, "The Cult of True Womanhood: 18201860," *American Quarterly* 18 (Summer 1966): 17172
+
+Mary Beth Norton, *Liberty's Daughters: The Revolutionary Experience of American Women, 17501800* (Ithaca: Cornell University Press, 1980), 248
+
+George Washington to Fredericksburg, Virginia, Citizens, February 14, 1784, Letterbox 5, Image 165, [George Washington Papers at the Library of Congress](http://memory.loc.gov/ammem/gwhtml/gwhome.html)
+
+Barry Schwartz, *George Washington: The Making of an American Symbol* (Ithaca: Cornell University Press, 1987).

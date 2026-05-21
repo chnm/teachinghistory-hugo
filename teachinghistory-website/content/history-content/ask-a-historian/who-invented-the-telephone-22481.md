@@ -58,3 +58,11 @@ http://www.acmi.net.au/AIC/GRAY\_PATENT.html.
 "Antonio Meucci Revisited":
 
 http://www.chezbasilio.it/antenna.htm.
+
+## For Further Reading
+
+Lewis Coe, *[The Telephone and Its Several Inventors: A History](http://books.google.com/books?id=b7M5AnlZJYcC&dq=telephone+several+inventors&client=firefox-a&source=gbs_navlinks_s)* (Jefferson, N.C.: McFarland, 1995).
+A.  Edward Evenson, *[The Telephone Patent Conspiracy of 1876: The Elisha Gray - Alexander Graham Bell Controversy and Its Many Players](http://books.google.com/books?id=KiJJ7Bp-xtcC&client=firefox-a&source=gbs_navlinks_s)* (Jefferson, N.C.: McFarland, 2000).
+Seth Shulman, *[The Telephone Gambit: Chasing Alexander Graham Bell's Secret](http://books.google.com/books?id=I3RAPgAACAAJ&client=firefox-a&source=gbs_navlinks_s)* (New York, N.Y.: W.W. Norton, 2008).
+
+Image source: "[Helen of Many Glacier Hotel, June 25, 1925](http://hdl.loc.gov/loc.pnp/ggbain.38272)," Bain News Service, Library of Congress, Prints and Photographs Division.

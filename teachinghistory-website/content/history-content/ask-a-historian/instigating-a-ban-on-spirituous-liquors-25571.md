@@ -42,3 +42,11 @@ For supporters of the temperance movement, public drunkenness became a distressi
 Rush, Benjamin. "[An Inquiry into the Effects of Spirituous Liquors on the Human Body : To Which is Added, a Moral and Physical Thermometer](http://archive.org/details/2569022R.nlm.nih.gov)." Boston: Thomas and Andrews, 1790.
 
 Brown University Library Center for Digital Scholarship. [*Alcohol, Temperance, & Prohibition*](http://library.brown.edu/cds/temperance/).
+
+## For Further Reading
+
+Gusfield, Joseph. *Symbolic Crusade: Status Politics and The American Temperance Movement*. Urbana: University of Illinois Press, 1963.
+
+Rorabaugh, W. J. *The Alcoholic Republic: An American Tradition*. New York: Oxford University Press, 1979.
+
+Borden, Ruth. *Women and Temperance The Quest for Power and Liberty*. Philadelphia: Temple University Press, 1981.

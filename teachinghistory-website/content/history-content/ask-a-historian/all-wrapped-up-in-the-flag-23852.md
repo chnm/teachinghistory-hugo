@@ -103,3 +103,10 @@ Ed Crews. ["The Truth About Betsy Ross: Popular Lore Says She Made First Flag, b
 Federal Citizen Information Page, [The History of the Stars and Stripes.
 
 [The Star-Spangled Banner]( http://americanhistory.si.edu/starspangledbanner/) at the Smithsonian Institution's National Museum of American History.](http://publications.usa.gov/epublications/ourflag/history1.htm)
+
+## For Further Reading
+
+Images:
+Detail of "Birth of Our Nation's Flag," by Charles H. Weisgerber, from a reproduction print distributed at the Chicago "Century of Progress" Fair, 1934, by the Betsy Ross House.
+
+Detail of 19th-century postcard, "Betsy Ross Making the First Flag with Stars and Stripes."
