@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Teachinghistory.org — a K–12 history education resource site (CHNM / George Mason University). This repo is a Drupal-to-Hugo migration: ~9,600 content files converted from a Drupal SQL database, now being rebuilt as a static Hugo site with a custom Tailwind CSS theme.
 
-The Hugo site lives in `teachinghistory-website/`. The `utils/` directory contains the one-time Drupal conversion scripts (see `utils/CLAUDE.md` for those details).
+The Hugo site lives in `teachinghistory-website/`. The `utils/` directory contains the one-time Drupal conversion scripts (see `utils/CLAUDE.md` for those details) and a link checker for auditing external URLs.
 
 ## Build Commands
 
@@ -21,6 +21,18 @@ just check         # Hugo warnings: unused templates, broken paths
 ```
 
 npm scripts exist in `teachinghistory-website/package.json` but Hugo Pipes handles PostCSS internally — you typically only need `npm install` once for the Tailwind/PostCSS devDependencies.
+
+### External Link Checker
+
+`utils/link_checker.py` audits external links across all content files. Run with `uv`:
+
+```bash
+uv run utils/link_checker.py extract          # Build link inventory from content/
+uv run utils/link_checker.py check --resume   # Check HTTP status of each URL
+uv run utils/link_checker.py wayback --resume # Look up Wayback Machine snapshots for dead links
+```
+
+Outputs CSVs in `utils/`: `link_inventory.csv`, `link_results.csv`, `link_review.csv`, `link_review_priority.csv`, `link_wayback.csv`.
 
 ## Architecture
 
