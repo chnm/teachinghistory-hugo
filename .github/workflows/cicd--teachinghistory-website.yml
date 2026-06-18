@@ -8,15 +8,18 @@ on:
       - "preview"
     paths:
       - "teachinghistory-website/**"
+      - ".github/workflows/cicd--teachinghistory-website.yml"
 
 jobs:
   build-release:
     uses: chnm/.github/.github/workflows/hugo--build-release.yml@main
     secrets: inherit
     with:
+      runner_labels: '["self-hosted","IncusOS"]'
       container-registry: "ghcr.io"
       container-image-name: "teachinghistory-website"
       hugo-context-root: "teachinghistory-website"
+      hugo-content-path: "/srv"
       hugo-devl-url: "https://dev.teachinghistory.org"
       hugo-prod-url: "https://dev.teachinghistory.org"
 
