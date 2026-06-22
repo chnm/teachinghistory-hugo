@@ -14,8 +14,8 @@ tags:
 - public history
 ---
 
-Vacation with living history outside the classroom. Each year since 2000, the National Trust for Historic Preservation selects a [Dozen Distinctive Destinations](http://www.preservationnation.org/travel-and-sites/travel/dozen-distinctive-destinations/) across the country where visitors can have terrific vacations in communities committed to historic preservation and revitalization.
+Vacation with living history outside the classroom. Each year since 2000, the National Trust for Historic Preservation selects a [Dozen Distinctive Destinations](http://web.archive.org/web/20130306054208/http://www.preservationnation.org:80/travel-and-sites/travel/dozen-distinctive-destinations/) across the country where visitors can have terrific vacations in communities committed to historic preservation and revitalization.
 
 This year's distinctive dozen represent north, south, east, west, and the heartland from Florida to New Hampshire, Minnesota, Colorado, Texas, and Washington. The destinations selected in 2008 range from a French colonial village along the banks of the Mississippi River that captures the pioneer spirit of the early settlers, to a small Texas town that serves as a gateway to the unspoiled terrain of the 19th-century western frontier, to a gorgeous Southern city with roots three centuries deep, and a coastal town renowned for its seafood and historic buildings.
 
-To date, there are [108 Distinctive Destinations](http://www.preservationnation.org/travel-and-sites/travel/dozen-distinctive-destinations/listings.html). They are located in 42 states where residents have taken forceful action to protect their town's character and sense of place.
+To date, there are [108 Distinctive Destinations](http://web.archive.org/web/20130306054208/http://www.preservationnation.org:80/travel-and-sites/travel/dozen-distinctive-destinations/listings.html). They are located in 42 states where residents have taken forceful action to protect their town's character and sense of place.

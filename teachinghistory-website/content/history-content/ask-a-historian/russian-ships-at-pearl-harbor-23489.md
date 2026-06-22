@@ -160,7 +160,7 @@ Barnet Nover, "Japan and Russia: Is Their Truce About to End?" *Washington Post*
 
 "It Depends on Who's Winning," *Los Angeles Times*, November 16, 1944, p. A4.
 
-[Pearl Harbor Attack, 7 December 1941.](http://web.archive.org/web/20150105060104/http://www.history.navy.mil/faqs/faq66-1.htm)  Department of the Navy, Naval History & Heritage Command.
+[Pearl Harbor Attack, 7 December 1941.](http://web.archive.org/web/20150105060104/http://web.archive.org/web/20150105060104/http://www.history.navy.mil/faqs/faq66-1.htm)  Department of the Navy, Naval History & Heritage Command.
 
 Images:  
 "This is Not [a] Drill" Dispatch, 12/07/1941, National Archives and Records Administration, Waltham, Massachusetts.

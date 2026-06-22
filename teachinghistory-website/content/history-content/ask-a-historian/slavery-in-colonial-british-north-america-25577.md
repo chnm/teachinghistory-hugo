@@ -61,7 +61,7 @@ This site, associated with the PBS documentary series of the same name, contains
 
 This website contains over 1,200 images of various aspects of the slave trade, including contemporaneous drawings of the capture in Africa, the Middle Passage, and life in the Americas.
 
-**[*The Trans-Atlantic Slave Trade Database*](http://www.slavevoyages.org).**
+**[*The Trans-Atlantic Slave Trade Database*](http://web.archive.org/web/20260619191619/https://www.slavevoyages.org/).**
 
 This site contains information on over 35,000 slaving voyages throughout the entire world. The site, which includes interactive maps, provides information on specific slave ships; estimates of the numbers of enslaved people brought from specific parts of Africa to specific parts of the Americas; and an African names database as well as several scholarly essays which analyze the data.
 

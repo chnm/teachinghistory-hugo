@@ -19,7 +19,7 @@ tags:
 - websites
 ---
 
-The website [100 Milestone Documents](http://www.ourdocuments.gov) chronicles United States history from 1776 to 1965 through a chronologically-ordered compilation of primary sources. Cosponsored by [National History Day](http://web.archive.org/web/20190125205834/http://www.nationalhistoryday.org:80/) and the [National Archives](http://www.archives.gov/index.html), the selected materials range from [Richard Henry Lee's resolution for independence in 1776](http://www.ourdocuments.gov/doc.php?doc=1) to the [Voting Rights Act of 1965](http://www.ourdocuments.gov/doc.php?flash=false&doc=100).
+The website [100 Milestone Documents](http://www.ourdocuments.gov) chronicles United States history from 1776 to 1965 through a chronologically-ordered compilation of primary sources. Cosponsored by [National History Day](http://web.archive.org/web/20190125205834/http://web.archive.org/web/20190125205834/http://www.nationalhistoryday.org:80/:80/) and the [National Archives](http://www.archives.gov/index.html), the selected materials range from [Richard Henry Lee's resolution for independence in 1776](http://www.ourdocuments.gov/doc.php?doc=1) to the [Voting Rights Act of 1965](http://www.ourdocuments.gov/doc.php?flash=false&doc=100).
 
 Each entry includes background information, images of the document (online or accessible as PDFs), a transcription, links to related documents, and teaching suggestions. The section [Tools for Educators](http://www.ourdocuments.gov/content.php?page=tools) also includes a sourcebook for working with the documents and other ideas for teachers.
 > Questioning what's not there can be as educational as looking at what's included.

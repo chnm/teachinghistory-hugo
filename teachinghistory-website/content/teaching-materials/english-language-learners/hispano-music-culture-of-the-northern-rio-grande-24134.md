@@ -28,5 +28,5 @@ Essays include:
 
 * [Juan Bautista Rael, 1900-1993: Pioneer Hispano Folklorist](http://memory.loc.gov/ammem/rghtml/rgrael.html)
 * [Nuevo Mexicanos of the Upper Rio Grande: Culture, History, and Society](http://web.archive.org/web/20150915220453/http://memory.loc.gov:80/ammem/rghtml/rgculture.html)
-* [La Musica Nuevo Mexicana: Religious and Secular Music from the Juan B. Rael Collection](http://web.archive.org/web/20150906135828/http://memory.loc.gov/ammem/rghtml/rgmusic.html)
+* [La Musica Nuevo Mexicana: Religious and Secular Music from the Juan B. Rael Collection](http://web.archive.org/web/20150906135828/http://web.archive.org/web/20150906135828/http://memory.loc.gov/ammem/rghtml/rgmusic.html)
 * [Hispano Folk Theater in New Mexico](http://memory.loc.gov/ammem/rghtml/rgtheater.html)

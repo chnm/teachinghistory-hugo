@@ -18,7 +18,7 @@ The Eisenhower Memorial Commission website explores Dwight D. Eisenhower’s lif
 
 An [interactive timeline](https://timeline.eisenhowermemorial.gov/) connects the viewer with key events in Eisenhower’s life and in world history during his lifetime. His life spanned an era of great change – from the closing of the Western frontier to the opening of another frontier – outer space. The timeline contextualizes Eisenhower’s achievements within national and world events.
 
-Of particular interest to middle and high school teachers are [curriculum units](http://web.archive.org/web/20210419193022/https://timeline.eisenhowermemorial.gov/lessonplans) based on these seven pivotal moments. Teachers can download the freely available lesson plans for classroom use.
+Of particular interest to middle and high school teachers are [curriculum units](http://web.archive.org/web/20210419193022/http://web.archive.org/web/20210419193022/https://timeline.eisenhowermemorial.gov/lessonplans) based on these seven pivotal moments. Teachers can download the freely available lesson plans for classroom use.
 
 In “D-Day: Advising Eisenhower,” for example, students explore the complexity of preparing for a massive invasion by acting as advisors to General Eisenhower. They provide him with vital information about geography, weather, German air capabilities, and French Resistance support in the region.
 

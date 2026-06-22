@@ -28,4 +28,4 @@ tags:
 - visuals and visualizing
 ---
 
-[Pixton](http://www.pixton.com) and [ToonDoo](http://www.toondoo.com/) are web-based comic/cartoon creation tools. They can help foster creative thinking in the classroom through the ability to create original characters, or to develop unique forms of historical analysis.
+[Pixton](http://www.pixton.com) and [ToonDoo](http://web.archive.org/web/20260520155538/https://www.toondoo.com/) are web-based comic/cartoon creation tools. They can help foster creative thinking in the classroom through the ability to create original characters, or to develop unique forms of historical analysis.

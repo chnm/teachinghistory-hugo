@@ -23,7 +23,7 @@ tags:
 - websites
 ---
 
-The [American Civil War Center at Historic Tredegar](http://www.tredegar.org/) and the [Virginia Center for Digital History (VCDH)](http://web.archive.org/web/20231017061424/http://www.vcdh.virginia.edu/index.php?page=VCDH), administered through the [University of Virginia](http://www.virginia.edu), launched the [American Civil War Center (ACWC) at Historic Tredegar: Educational Web Companion (Web Companion)](http://web.archive.org/web/20150813004425/http://www2.vcdh.virginia.edu/civilwar/index.php?section=Tredegar&page=Home). This 18-month project is funded by a $198,000 grant from the U.S. Department of Education.
+The [American Civil War Center at Historic Tredegar](http://www.tredegar.org/) and the [Virginia Center for Digital History (VCDH)](http://web.archive.org/web/20231017061424/http://web.archive.org/web/20231017061424/http://www.vcdh.virginia.edu/index.php?page=VCDH), administered through the [University of Virginia](http://www.virginia.edu), launched the [American Civil War Center (ACWC) at Historic Tredegar: Educational Web Companion (Web Companion)](http://web.archive.org/web/20150813004425/http://web.archive.org/web/20150813004425/http://www2.vcdh.virginia.edu/civilwar/index.php?section=Tredegar&page=Home). This 18-month project is funded by a $198,000 grant from the U.S. Department of Education.
 
 The Web Companion is an interactive teaching tool. While the Companion complements student and teacher experience at the American Civil War Center, the material also creates an online history lab where educators may analyze the Civil War with assistance from leading historians and scholars.
 

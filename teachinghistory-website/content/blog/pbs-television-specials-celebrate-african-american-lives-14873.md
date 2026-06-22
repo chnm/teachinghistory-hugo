@@ -20,4 +20,4 @@ tags:
 
 During Black History Month in February, Harvard professor Henry Louis Gates Jr. returns to [PBS](http://www.pbs.org) with African-American Lives 2, following genealogical expeditions deep into the African-American experience to uncover unknown or forgotten histories. Poet Maya Angelou, author Bliss Broyard, actors Don Cheadle and Morgan Freeman, and theologian Peter Gomes are among the guests. Episodes 1 and 2 (original airdate, February 6) focus on The Road Home and A Way Out of No Way. Episodes Three and Four (original airdate, February 13) explore the topics We Come From People and The Past Is Another Country.
 
-Consult [PBS](http://www.pbs.org/services/newsletters/) for program summaries and local broadcast times and visit the [the African American Lives 2 website](http://www.pbs.org/wnet/aalives/aal2/),
+Consult [PBS](http://web.archive.org/web/20130801204245/http://www.pbs.org:80/services/newsletters/) for program summaries and local broadcast times and visit the [the African American Lives 2 website](http://www.pbs.org/wnet/aalives/aal2/),

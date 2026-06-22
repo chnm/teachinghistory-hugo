@@ -33,7 +33,7 @@ tags:
 - internment camps
 ---
 
-This 11th-grade honors U.S. history class, using [Reading Apprenticeship](http://web.archive.org/web/20130314081306/http://www.wested.org:80/cs/ra/print/docs/ra/home.htm) techniques developed by WestEd, shows students engaged in the process of reading primary source documents as a means of better understanding the internment of Japanese Americans during World War II. The students in this [video](https://readingapprenticeship.org/video/honors-u-s-history/) are in an honors classroom. The class is in an ethnically, linguistically, and economically diverse school in a high immigrant, rural community. This video provides examples of two promising practices:
+This 11th-grade honors U.S. history class, using [Reading Apprenticeship](http://web.archive.org/web/20130314081306/http://www.wested.org:80/cs/ra/print/docs/ra/home.htm) techniques developed by WestEd, shows students engaged in the process of reading primary source documents as a means of better understanding the internment of Japanese Americans during World War II. The students in this [video](http://web.archive.org/web/20210124023710/https://www.readingapprenticeship.org/video/honors-u-s-history/) are in an honors classroom. The class is in an ethnically, linguistically, and economically diverse school in a high immigrant, rural community. This video provides examples of two promising practices:
 
 * Putting students in pairs to conduct "read aloud/think aloud" work
 * Providing students with strategic vocabulary for reading primary sources

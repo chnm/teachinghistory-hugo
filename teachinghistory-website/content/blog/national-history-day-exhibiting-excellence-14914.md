@@ -15,7 +15,7 @@ tags:
 - teaching materials
 ---
 
-In January, the online journal, [*Common-Place*](http://www.common-place.org) featured the article, [*Exhibiting Excellence: National History Day and American Educational Reform*](http://web.archive.org/web/20150425131715/http://common-place.org/vol-08/no-02/school/) by Jim Cullen, author of *The American Dream: A Short History of and Idea that Shaped a Nation (2003)* and history teacher at the Ethical Culture Fieldston School in New York.
+In January, the online journal, [*Common-Place*](http://web.archive.org/web/20260108062155/http://www.common-place.org/) featured the article, [*Exhibiting Excellence: National History Day and American Educational Reform*](http://web.archive.org/web/20150425131715/http://common-place.org/vol-08/no-02/school/) by Jim Cullen, author of *The American Dream: A Short History of and Idea that Shaped a Nation (2003)* and history teacher at the Ethical Culture Fieldston School in New York.
 
 Cullen traces the background of National History Day, explains how it works, and how the competition influences teaching and learning history.
 

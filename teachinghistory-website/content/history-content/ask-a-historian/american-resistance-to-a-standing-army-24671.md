@@ -64,6 +64,6 @@ Watch Professor Whitman Ridgway analyze the [Bill of Rights](/best-practices/exa
 
 Kohn, Richard H. [*Eagle and Sword: The Federalists and the Creation of the Military Establishment in America, 1783-1802.*](http://books.google.com/books?id=8F_fAAAAMAAJ) New York: Free Press, 1975.
 
-The Library of Congress. [*The Federalist Papers.*](http://web.archive.org/web/20160219133717/http://thomas.loc.gov/home/histdox/fedpapers.html) Last accessed 6 May, 2011.
+The Library of Congress. [*The Federalist Papers.*](http://web.archive.org/web/20160219133717/http://web.archive.org/web/20160219133717/http://thomas.loc.gov/home/histdox/fedpapers.html) Last accessed 6 May, 2011.
 
 The National Archives. [*The Constitution.*](http://www.archives.gov/exhibits/charters/constitution.html) Last accessed 6 May, 2011.

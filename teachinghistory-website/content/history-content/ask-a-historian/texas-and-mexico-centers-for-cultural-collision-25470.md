@@ -53,8 +53,8 @@ The Comanche and Lipan Apache continued to defend their territory against immigr
 
 ---
 
-* [*The Texas Slavery Project*](http://www.texasslaveryproject.org/)
-* "[Stephen F. Austin](https://www.tsl.state.tx.us/treasures/giants/austin/austin-01.html)" at the Texas State Library and Archives Commission.
+* [*The Texas Slavery Project*](http://web.archive.org/web/20260404111205/https://www.texasslaveryproject.org/)
+* "[Stephen F. Austin](http://web.archive.org/web/20131118203331/https://www.tsl.state.tx.us/treasures/giants/austin/austin-01.html)" at the Texas State Library and Archives Commission.
 * [1839 Map of Mexico and the United States](http://www.lib.utexas.edu/maps/historical/us_texas-1839-atlas-mitchell-school-04.jpg) from the Perry-Castañeda Library Map Collection, University of Texas at Austin.
 * [Daguerrotypes of Mexican civilians](http://www.pbs.org/kera/usmexicanwar/resources/primary_source_window/daguerreotypes1.html) at PBS's The U.S.-Mexican War.
 

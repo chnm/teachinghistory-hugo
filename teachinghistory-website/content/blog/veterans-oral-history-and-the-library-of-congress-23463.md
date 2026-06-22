@@ -39,7 +39,7 @@ If you're thinking about developing materials in your own classroom to submit to
 
 In 2009, the History Channel, together with the Veterans History Project hosted a [National Teach-in on Veterans History](http://www.youtube.com/watch?v=rbAhXEiTe4A). The archived hour-long broadcast from the Library of Congress is available online.
 
-The History Channel encourages students and teachers to engage with veterans through [Take a Veteran to School Day](http://web.archive.org/web/20110202102332/http://www.history.com/topics/take-a-vet) and the project comes complete with [Teacher Resources](http://web.archive.org/web/20110202102332/http://www.history.com/topics/take-a-vet), from setting up the project to asking questions to sending follow-up thank you notes.
+The History Channel encourages students and teachers to engage with veterans through [Take a Veteran to School Day](http://web.archive.org/web/20110202102332/http://web.archive.org/web/20110202102332/http://www.history.com/topics/take-a-vet) and the project comes complete with [Teacher Resources](http://web.archive.org/web/20110202102332/http://web.archive.org/web/20110202102332/http://www.history.com/topics/take-a-vet), from setting up the project to asking questions to sending follow-up thank you notes.
 
 Take a Veteran to School Day is for all grade levels. The online video resources about Veterans Day are most useful from upper elementary through high school, and their materials also include PDFs of primary sources, how-to-do oral histories, and Spanish-language guides.
 

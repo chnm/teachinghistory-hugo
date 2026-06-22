@@ -36,7 +36,7 @@ Consider putting an old newspaper in the hands of students. It does not need to 
 
 If laying hands on an actual old newspaper seems unnecessary, there are plenty of sites that will help you find articles related to your desired era of study. *[Chronicling America](http://chroniclingamerica.loc.gov/)* is part of the Library of Congress’s collection and contains searchable newspaper pages from 1860 to 1922. The [Google News Archive](http://news.google.com/news/advanced_news_search?as_drrb=a) contains a searchable database of many newspapers, largely from the 20th and 21st centuries. Finally, [this site](http://www.sonofthesouth.net/leefoundation/the-civil-war.htm) contains a great collection of Civil War-era copies of *Harper’s Weekly*.
 
-In addition, many newspapers like the *New York Times* maintain a [searchable archive](http://www.nytimes.com/ref/membercenter/nytarchive.html) of old articles, some viewable for free and others for a fee. However, many of these same types of big newspaper archives can be searched using subscription services from your school library.
+In addition, many newspapers like the *New York Times* maintain a [searchable archive](http://web.archive.org/web/20180305152657/http://www.nytimes.com/ref/membercenter/nytarchive.html) of old articles, some viewable for free and others for a fee. However, many of these same types of big newspaper archives can be searched using subscription services from your school library.
 
 ## Newspapers of Today
 
@@ -44,7 +44,7 @@ While there are lots of ways to use your local newspaper in the classroom, there
 
 [Newspapermap.com](http://newspapermap.com/) displays a clickable map of available online newspapers from around the world. The site also offers to translate foreign newspapers. I've found that students get a sense of population distribution in the world and language distribution using this map.
 
-[The Newseum](http://www.newseum.org/todaysfrontpages/flash/) has a cool map that displays the day’s front pages from around the world. This can provide students an opportunity to see what makes news in different parts of the world and different parts of the United States.
+[The Newseum](http://web.archive.org/web/20140711104404/http://www.newseum.org:80/todaysfrontpages/flASH/) has a cool map that displays the day’s front pages from around the world. This can provide students an opportunity to see what makes news in different parts of the world and different parts of the United States.
 
 ## Lesson Ideas
 

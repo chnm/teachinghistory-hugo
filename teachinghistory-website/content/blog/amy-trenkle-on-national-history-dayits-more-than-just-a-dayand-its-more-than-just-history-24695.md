@@ -62,7 +62,7 @@ The website and documentary categories are particularly wonderful for integratin
 
 **Cons of Documentary:**
 
-* Students need to come to the project with at least a basic working knowledge of [iMovie](http://www.apple.com/ilife/imovie/) or [Moviemaker](http://windows.microsoft.com/en-US/windows-live/movie-maker-get-started).
+* Students need to come to the project with at least a basic working knowledge of [iMovie](http://web.archive.org/web/20131018011142/http://www.apple.com:80/ilife/imovie/) or [Moviemaker](http://web.archive.org/web/20130512121513/http://windows.microsoft.com/en-us/windows-live/movie-maker-get-started).
 * Students have to be prepared to spend a lot of time on the making and editing of the movie—it doesn’t have as much to do with the history of the topic, but rather presentation. This also becomes a tempting choice for the student who would rather not do as much historical work.
 
 I think it's important to remember that it's about balance. As a teacher, I have seen students spend an inordinate amount of time on the creation of their website or documentary only to neglect the history. I've also seen students do a dynamic job of researching their topic, only to not present it in the best format because they don't allow enough time or have the background knowledge to create their presentation in the format they chose. It's very important to have a pulse of the students' strengths and time constraints when choosing the format for the project. One of the neat things is that NHD allows students to experiment with the presentation format and is a great way to highlight the integration of social studies and technology!

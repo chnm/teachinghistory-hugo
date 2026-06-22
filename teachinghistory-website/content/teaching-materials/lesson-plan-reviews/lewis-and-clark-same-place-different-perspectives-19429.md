@@ -8,7 +8,7 @@ drupal_nid: 19429
 url: /teaching-materials/lesson-plan-reviews/19429
 flexibility_scale: '4'
 topic: Lewis and Clark Expedition
-website_url: http://www.nationalgeographic.com/xpeditions/lessons/06/g35/sameplace.html
+website_url: http://web.archive.org/web/20120822022143/http://www.nationalgeographic.com:80/xpeditions/lessons/06/g35/sameplace.html
 image_fid: '219'
 splash_image_fid: '4687'
 summary: How geography influenced interactions among Lewis, Clark, & Native Americans.
@@ -33,7 +33,7 @@ tags:
 - geography
 ---
 
-Encouraging students to work collaboratively in groups, this [lesson](http://www.nationalgeographic.com/xpeditions/lessons/06/g35/sameplace.html) asks students to think and write about history from multiple viewpoints. The primary source excerpts, primarily from the expedition members’ journals, are a bit challenging, but they are brief and informative. Short expository passages describe different Native American groups and their encounter with the expedition. The absence of primary documents from the Native American perspective provides an opportunity to discuss what sources of information make up the historical record.
+Encouraging students to work collaboratively in groups, this [lesson](http://web.archive.org/web/20120822022143/http://www.nationalgeographic.com:80/xpeditions/lessons/06/g35/sameplace.html) asks students to think and write about history from multiple viewpoints. The primary source excerpts, primarily from the expedition members’ journals, are a bit challenging, but they are brief and informative. Short expository passages describe different Native American groups and their encounter with the expedition. The absence of primary documents from the Native American perspective provides an opportunity to discuss what sources of information make up the historical record.
 
 Additionally, and maybe more importantly, the lesson engages students in geographic analysis. Using geographic indicators, students must locate each encounter at a specific site on expedition maps. Students consider the varied physical environments that Lewis and Clark encountered and how these connect to cultural variations between the Native American tribes whom they met. This lesson pays special attention to the differences between Native American cultures, countering a common student belief that all Indians lived alike.
 

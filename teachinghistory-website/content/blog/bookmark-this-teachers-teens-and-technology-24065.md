@@ -28,7 +28,7 @@ Also from Pew Research Center: [Teens, Cell Phones and Texting](http://pewresear
 
 Simultaneously, [Social Media & Mobile Internet Use Among Teens and Young Adults](http://pewresearch.org/pubs/1484/social-media-mobile-internet-use-teens-millennials-fewer-blog) reports that blogging is down, texting is up, and twittering hasn't yet seen huge use among teens.
 
-And from Nielson, [How Teens Use Media](http://blog.nielsen.com/nielsenwire/consumer/teens-more-normal-than-you-think-regarding-media-usage/) (June 2009) reinforces the importance of text messaging and offers some perhaps surprising evidence that teens spend less time online that we might expect.
+And from Nielson, [How Teens Use Media](http://web.archive.org/web/20121208162511/http://blog.nielsen.com/nielsenwire/consumer/teens-more-normal-than-you-think-regarding-media-usage/) (June 2009) reinforces the importance of text messaging and offers some perhaps surprising evidence that teens spend less time online that we might expect.
 
 ## Clearinghouse Roundtable
 

@@ -352,7 +352,13 @@ def lookup_wayback(url: str, session: requests.Session) -> dict:
 
 
 def run_wayback(resume: bool = False, limit: int | None = None):
-    """Look up Wayback Machine snapshots for dead links."""
+    """Look up Wayback Machine snapshots for dead links.
+
+    Processes two sources of URLs:
+    1. Dead URLs from link_results.csv (based on DEAD_STATUSES)
+    2. Any URLs already in link_wayback.csv that lack a wayback_status
+       (e.g. manually added flagged 200s)
+    """
     if not RESULTS_CSV.exists():
         print(f"No results found at {RESULTS_CSV}. Run 'check' first.")
         sys.exit(1)
@@ -361,23 +367,33 @@ def run_wayback(resume: bool = False, limit: int | None = None):
     with open(RESULTS_CSV, encoding="utf-8") as f:
         results = list(csv.DictReader(f))
 
-    # Get unique dead URLs
-    dead_urls = sorted({
+    # Get unique dead URLs from results
+    target_urls = {
         r["link_url"] for r in results
         if r.get("http_status", "") in DEAD_STATUSES
-    })
-    print(f"Found {len(dead_urls)} unique dead URLs to look up in Wayback Machine.")
+    }
+
+    # Also include any URLs in the wayback CSV that don't have a status yet
+    wayback_rows = []
+    if WAYBACK_CSV.exists():
+        with open(WAYBACK_CSV, encoding="utf-8") as f:
+            wayback_rows = list(csv.DictReader(f))
+        for row in wayback_rows:
+            if not row.get("wayback_status", ""):
+                target_urls.add(row["link_url"])
+
+    target_urls = sorted(target_urls)
+    print(f"Found {len(target_urls)} unique URLs to look up in Wayback Machine.")
 
     # Load already-looked-up URLs if resuming
     checked = {}
-    if resume and WAYBACK_CSV.exists():
-        with open(WAYBACK_CSV, encoding="utf-8") as f:
-            for row in csv.DictReader(f):
-                if row.get("wayback_status", ""):
-                    checked[row["link_url"]] = row
+    if resume:
+        for row in wayback_rows:
+            if row.get("wayback_status", ""):
+                checked[row["link_url"]] = row
         print(f"Resuming: {len(checked)} URLs already looked up.")
 
-    urls_to_check = [u for u in dead_urls if u not in checked]
+    urls_to_check = [u for u in target_urls if u not in checked]
     if limit:
         urls_to_check = urls_to_check[:limit]
     total = len(urls_to_check)
@@ -399,18 +415,31 @@ def run_wayback(resume: bool = False, limit: int | None = None):
             "wayback_status": row.get("wayback_status", ""),
         }
 
-    # Build output: only dead links, enriched with wayback data
+    # Build results-based rows (dead links from results CSV)
+    results_urls = {
+        r["link_url"] for r in results
+        if r.get("http_status", "") in DEAD_STATUSES
+    }
+
     fieldnames = [
         "section", "page_title", "page_url", "source_file",
         "link_url", "link_text",
         "http_status", "reason",
         "wayback_url", "wayback_timestamp", "wayback_status",
     ]
+
     output_rows = []
+    seen_keys = set()
+
+    # First: rows from results CSV with dead statuses
     for r in results:
         if r.get("http_status", "") not in DEAD_STATUSES:
             continue
         url = r["link_url"]
+        key = (r["source_file"], url)
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
         wb = wayback_results.get(url, {})
         output_rows.append({
             "section": r["section"],
@@ -426,6 +455,29 @@ def run_wayback(resume: bool = False, limit: int | None = None):
             "wayback_status": wb.get("wayback_status", ""),
         })
 
+    # Second: rows from existing wayback CSV that aren't dead-status
+    # (e.g. flagged 200s added manually)
+    for row in wayback_rows:
+        key = (row["source_file"], row["link_url"])
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
+        url = row["link_url"]
+        wb = wayback_results.get(url, {})
+        output_rows.append({
+            "section": row["section"],
+            "page_title": row["page_title"],
+            "page_url": row["page_url"],
+            "source_file": row["source_file"],
+            "link_url": url,
+            "link_text": row["link_text"],
+            "http_status": row["http_status"],
+            "reason": row["reason"],
+            "wayback_url": wb.get("wayback_url", ""),
+            "wayback_timestamp": wb.get("wayback_timestamp", ""),
+            "wayback_status": wb.get("wayback_status", ""),
+        })
+
     with open(WAYBACK_CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -434,7 +486,7 @@ def run_wayback(resume: bool = False, limit: int | None = None):
     found = sum(1 for r in output_rows if r["wayback_status"] == "found")
     not_archived = sum(1 for r in output_rows if r["wayback_status"] == "not_archived")
     print(f"\nResults written to {WAYBACK_CSV}")
-    print(f"Total dead link references: {len(output_rows)}")
+    print(f"Total link references: {len(output_rows)}")
     print(f"Wayback snapshot found:     {found}")
     print(f"Not archived:               {not_archived}")
 

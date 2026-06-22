@@ -37,7 +37,7 @@ Here's an instance of using multiple perspectives: When studying the voyages of 
 
 Consequently, for Wiener, "students end up learning not just about what happened during Reconstruction, but about how history itself gets reconstructed."
 
-If not yet universal, this approach is widely accepted. In its most recent [Position Statement](http://www.socialstudies.org/positions/powerful), the National Council for the Social Studies in the United States recommended students learn to "think critically, and make personal and civic decisions based on information from multiple perspectives."
+If not yet universal, this approach is widely accepted. In its most recent [Position Statement](http://web.archive.org/web/20250623005315/http://www.socialstudies.org/positions/powerful), the National Council for the Social Studies in the United States recommended students learn to "think critically, and make personal and civic decisions based on information from multiple perspectives."
 
 So what can a classroom teacher do? Try incorporating primary sources that represent a range of views on a historical issue. Then, ask students to spend some time thinking about why different groups may see the same event in different ways. Oftentimes a different story emerges when those multiple perspectives are put together. The result is enriched historical understanding.
 
@@ -55,6 +55,6 @@ Here's an instance of using multiple perspectives: When studying the voyages of 
 
 Consequently, for Wiener, "students end up learning not just about what happened during Reconstruction, but about how history itself gets reconstructed."
 
-If not yet universal, this approach is widely accepted. In its most recent [Position Statement](http://www.socialstudies.org/positions/powerful), the National Council for the Social Studies in the United States recommended students learn to "think critically, and make personal and civic decisions based on information from multiple perspectives."
+If not yet universal, this approach is widely accepted. In its most recent [Position Statement](http://web.archive.org/web/20250623005315/http://www.socialstudies.org/positions/powerful), the National Council for the Social Studies in the United States recommended students learn to "think critically, and make personal and civic decisions based on information from multiple perspectives."
 
 So what can a classroom teacher do? Try incorporating primary sources that represent a range of views on a historical issue. Then, ask students to spend some time thinking about why different groups may see the same event in different ways. Oftentimes a different story emerges when those multiple perspectives are put together. The result is enriched historical understanding.

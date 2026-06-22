@@ -32,17 +32,17 @@ He published his last book, *Mirror to America: The Autobiography of John Hope F
 
 In the almost-60 intervening years, John Hope Franklin wrote history, taught history, and made history. The articles and multimedia links below highlight his life and hint at the depth of his influence.
 
-[News from the American Historical Association](http://web.archive.org/web/20130531231205/http://blog.historians.org/news/753/john-hope-franklin-scholar-and-mirror-to-america-dead-at-the-age-of-94) includes links to Franklin's work and online interviews.
+[News from the American Historical Association](http://web.archive.org/web/20130531231205/http://web.archive.org/web/20130531231205/http://blog.historians.org/news/753/john-hope-franklin-scholar-and-mirror-to-america-dead-at-the-age-of-94) includes links to Franklin's work and online interviews.
 > One might argue that the historian is the conscience of the nation. (John Hope Franklin)
 
 [Duke University Remembers John Hope Franklin](http://web.archive.org/web/20170408232613/http://jhfc.duke.edu:80/johnhopefranklin/) is a website dedicated to accomplishments, quotes, statements, and images. The site (including the detailed [obituary](http://web.archive.org/web/20170408232646/http://jhfc.duke.edu:80/johnhopefranklin/obituary.html) cited earlier) offers the opportunity to share condolences and memories. The [Gallery](http://web.archive.org/web/20170408232613/http://jhfc.duke.edu:80/johnhopefranklin/gallery.html) includes filmed interviews with Franklin, courtesy of University of North Carolina TV.
 
-Franklin was the James B. Duke Professor Emeritus of History at [Duke University](http://www.duke.edu) where he founded the [John Hope Franklin Center for Interdisciplinary and International Studies](http://web.archive.org/web/20120308053742/http://www.jhfc.duke.edu/index2.php) and whose Rare Book, Manuscript, and Special Collections Library houses the [John Hope Franklin Collection of African and African American Documentation](http://library.duke.edu/rubenstein/franklin/).
+Franklin was the James B. Duke Professor Emeritus of History at [Duke University](http://www.duke.edu) where he founded the [John Hope Franklin Center for Interdisciplinary and International Studies](http://web.archive.org/web/20120308053742/http://web.archive.org/web/20120308053742/http://www.jhfc.duke.edu/index2.php) and whose Rare Book, Manuscript, and Special Collections Library houses the [John Hope Franklin Collection of African and African American Documentation](http://library.duke.edu/rubenstein/franklin/).
 
 The [John Hope Franklin Humanities Institute](http://www.fhi.duke.edu/), a part of the Center for Interdisciplinary and International Studies, has also posted biographical interviews with Franklin on his work as a historian, including [Dr. Franklin on the Role of the Historian in the World](http://www.youtube.com/watch?v=NOJUlKPN-CE).
 
 Franklin is memorialized in a comprehensive biography in [*The New York Times*](http://www.nytimes.com/2009/03/26/us/26franklin.html?hpw).
 
-He spoke with journalist Gwen Ifill about his autobiography and the state of race in America in 2005 during [a PBS interview](http://web.archive.org/web/20140121234423/http://www.pbs.org/newshour/bb/entertainment/jan-june06/franklin_06-15.html).
+He spoke with journalist Gwen Ifill about his autobiography and the state of race in America in 2005 during [a PBS interview](http://web.archive.org/web/20140121234423/http://web.archive.org/web/20140121234423/http://www.pbs.org/newshour/bb/entertainment/jan-june06/franklin_06-15.html).
 
 Under [Historians in the News](http://hnn.us/roundup/entries/70909.html), the [History News Network](http://hnn.us) encourages readers to post their memories of John Hope Franklin, links to news articles and videos, and offers articles from the HNN archives by and about Franklin.

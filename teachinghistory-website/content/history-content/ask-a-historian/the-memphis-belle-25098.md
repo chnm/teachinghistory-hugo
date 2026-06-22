@@ -44,7 +44,7 @@ To mark the event, American filmmaker William Wyler (then a Major in the U.S. Ar
 
 Wyler, William. [*"Memphis Belle: A Story of a Flying Fortress"*](http://www.wwiireels.com/). First Motion Picture Unit of the U.S. Army Air Corps. Paramount Pictures, Inc. 1944. Found in the right-hand navigation bar of [WWII Reels](http://www.wwiireels.com/).
 
-U.S Air Force. ["B-17 Flying Fortress](http://web.archive.org/web/20121011232352/http://www.af.mil/news/story.asp?storyID=123006538)." 2004.
+U.S Air Force. ["B-17 Flying Fortress](http://web.archive.org/web/20121011232352/http://web.archive.org/web/20121011232352/http://www.af.mil/news/story.asp?storyID=123006538)." 2004.
 
 ## For Further Reading
 

@@ -27,7 +27,7 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Maggie Crawford**
 
-[Newseum](http://www.newseum.org/education/plan-a-field-trip/policies-and-procedures/index.html)
+[Newseum](http://web.archive.org/web/20140703074114/http://newseum.org/education/plan-a-field-trip/policies-and-procedures/index.html)
 
 **Clare Cuddy**
 
@@ -95,7 +95,7 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Barbara McCormack**
 
-[Newseum](http://www.newseum.org/education/plan-a-field-trip/policies-and-procedures/index.html)
+[Newseum](http://web.archive.org/web/20140703074114/http://newseum.org/education/plan-a-field-trip/policies-and-procedures/index.html)
 
 **Bruce Milhans**
 
@@ -127,7 +127,7 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Heather Paisley-Jones**
 
-[National Museum of American History](http://web.archive.org/web/20121009210459/http://historyexplorer.americanhistory.si.edu/home/)
+[National Museum of American History](http://web.archive.org/web/20121009210459/http://web.archive.org/web/20121009210459/http://historyexplorer.americanhistory.si.edu/home/)
 
 **Ann Post**
 

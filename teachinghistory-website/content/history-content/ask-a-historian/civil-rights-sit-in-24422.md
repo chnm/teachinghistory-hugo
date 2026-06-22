@@ -49,7 +49,7 @@ Hoping to avoid further disturbances, the owner of the Jackson Woolworth’s clo
 
 Branch, Taylor. [*Pillar of Fire: America in the King Years, 1963-1965.*New York: Simon and Schuster, 1998.
 
-Moody, Anne. [*Coming of Age in Mississippi*](http://www.randomhouse.com/catalog/display.pperl?isbn=9780385337816). New York: Bantam Dell, 2004.
+Moody, Anne. [*Coming of Age in Mississippi*](http://web.archive.org/web/20211127133804/http://www.randomhouse.com/catalog/display.pperl?isbn=9780385337816). New York: Bantam Dell, 2004.
 
 [**International Civil Rights Center and Museum**](http://www.sitinmovement.org/home.asp)
 
@@ -59,7 +59,7 @@ Pitrone, Jean Maddern.  [*F. W. Woolworth and the American Five and Dime: A Soci
 
 ## For Further Reading
 
-[**Civil Rights in America: Racial Desegregation of Public Accommodations.**](http://web.archive.org/web/20120415024836/http://www.nps.gov/history/nhl/themes/Public%20Accom.pdf) The National Historic Landmarks, Cultural Resources, National Park Service, U.S. Department of the Interior, Washington, D.C.  (accessed December 1, 2010).
+[**Civil Rights in America: Racial Desegregation of Public Accommodations.**](http://web.archive.org/web/20120415024836/http://web.archive.org/web/20120415024836/http://www.nps.gov/history/nhl/themes/Public%20Accom.pdf) The National Historic Landmarks, Cultural Resources, National Park Service, U.S. Department of the Interior, Washington, D.C.  (accessed December 1, 2010).
 
 Dittmer, John.  [Local People: The Struggle for Civil Rights in Mississippi.](http://www.press.uillinois.edu/books/catalog/47qng2nh9780252065071.html) Champaign, IL: University of Illinois Press, 1994.  
 

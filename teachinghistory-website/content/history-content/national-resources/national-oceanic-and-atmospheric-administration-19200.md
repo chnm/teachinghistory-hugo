@@ -18,7 +18,7 @@ thumbnail: /files/quiz_thumbnail/Freedmen_Thumb.jpg
 
 The [National Oceanic and Atmospheric Administration (NOAA)](http://www.history.noaa.gov/) provides online exhibits, video clips, photographs, artifacts, interviews, and essays to provide a glimpse into maritime history, the history of science and technology, and its pivotal role in peace and war.
 
-[Hurricane History](http://web.archive.org/web/20120406084104/http://www.nhc.noaa.gov/HAW2/english/history.shtml) tracks the path of selected notable hurricanes since 1900; each description includes an interactive map.
+[Hurricane History](http://web.archive.org/web/20120406084104/http://web.archive.org/web/20120406084104/http://www.nhc.noaa.gov/HAW2/english/history.shtml) tracks the path of selected notable hurricanes since 1900; each description includes an interactive map.
 
 NOAA administers the [Monitor National Marine Sanctuary,](http://monitor.noaa.gov/) preserving the wreck of the Civil War ironclad *USS Monitor* at Hampton Roads, VA.
 

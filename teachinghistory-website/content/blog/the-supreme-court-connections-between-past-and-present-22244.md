@@ -48,4 +48,4 @@ The Thirteen/PBS website evolving from [the PBS series on the Supreme Court](htt
 Other useful resources include
 > [The Supreme Court Historical Society](http://www.supremecourthistory.org/) explains how the Supreme Court works and its history.
 > [Landmark Supreme Court Cases](http://www.streetlaw.org/en/landmark.aspx) provides teachers with a full range of resources and activities to explore the key issues of major court decisions and presents the Constitutional concepts around which they evolve.
-> [The Supreme Court's website](http://web.archive.org/web/20100311083654/http://www.supremecourtus.gov/index.html) includes current as well as historic information and materials.
+> [The Supreme Court's website](http://web.archive.org/web/20100311083654/http://web.archive.org/web/20100311083654/http://www.supremecourtus.gov/index.html) includes current as well as historic information and materials.

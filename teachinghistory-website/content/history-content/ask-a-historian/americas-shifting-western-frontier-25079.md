@@ -36,7 +36,7 @@ Even at the beginning of the postwar period, Ohio had been thoroughly domesticat
 
 ---
 
-R. Douglas Hurt, [*The Ohio Frontier: Crucible of the Old Northwest, 1720-1830*](http://web.archive.org/web/20191216082228/http://www.iupress.indiana.edu/product_info.php?products_id=21975). Bloomington: Indiana University Press, 1996.
+R. Douglas Hurt, [*The Ohio Frontier: Crucible of the Old Northwest, 1720-1830*](http://web.archive.org/web/20191216082228/http://web.archive.org/web/20191216082228/http://www.iupress.indiana.edu/product_info.php?products_id=21975). Bloomington: Indiana University Press, 1996.
 
 Philip D. Jordan, [*Ohio Comes of Age: 1873-1900*](http://web.archive.org/web/20110105205140/https://www.ohiohistorystore.com/Ohio-Comes-of-Age-1873-1900-P7704C26.aspx). Volume 5 of Carl Wittke, ed., *The History of the State of Ohio*. Columbus, Oh.: Ohio State Archaeological and Historical Society, 1944.
 

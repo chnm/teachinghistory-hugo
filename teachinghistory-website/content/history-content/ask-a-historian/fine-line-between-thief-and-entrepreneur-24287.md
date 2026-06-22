@@ -61,4 +61,4 @@ Josephson, Matthew.  The Robber Barons: The Great American Capitalists, 1861-190
 
 NYPhilanthropist. "Donald Trump." 2010.  
 
-Pollick, Michael.  ["What Is A Captain of Industry?"](http://www.wisegeek.com/what-is-a-captain-of-industry.htm)  *wiseGeek* 08 September 2010.  (for ‘selflessness’)
+Pollick, Michael.  ["What Is A Captain of Industry?"](http://web.archive.org/web/20210122234152/https://www.wisegeek.com/what-is-a-captain-of-industry.htm)  *wiseGeek* 08 September 2010.  (for ‘selflessness’)

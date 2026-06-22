@@ -16,7 +16,7 @@ tags:
 - web 2.0
 ---
 
-The [New Media Consortium](http://www.nmc.org/) (NMC) and the [Educause Learning Initiative](http://www.educause.edu/eli) (ELI) recently released the sixth annual [*Horizon Report*](http://wp.nmc.org/horizon2009/). *The Horizon Report* examines six emerging technologies, their potential impact on "teaching, learning, research, or creative expression within learning-focused organizations," and places them within the likely timeframe for their absorption into the user mainstream. Each technology profile provides specific examples of applications and supplemental resources.
+The [New Media Consortium](http://web.archive.org/web/20190909155523/https://www.nmc.org/) (NMC) and the [Educause Learning Initiative](http://www.educause.edu/eli) (ELI) recently released the sixth annual [*Horizon Report*](http://web.archive.org/web/20150223103039/http://wp.nmc.org:80/horizon2009/). *The Horizon Report* examines six emerging technologies, their potential impact on "teaching, learning, research, or creative expression within learning-focused organizations," and places them within the likely timeframe for their absorption into the user mainstream. Each technology profile provides specific examples of applications and supplemental resources.
 
 This year's focus: mobiles, cloud computing, geo-everything, the personal web, semantic-aware applications, and smart objects.
 

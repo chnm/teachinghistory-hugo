@@ -23,7 +23,7 @@ tags:
 - websites
 ---
 
-The [After Slavery Project](http://web.archive.org/web/20130905165822/http://153.9.241.55:80/atlanticworld/afterslavery/index.html), a transatlantic research collaboration directed from Queen's University Belfast, launched its [Online Classroom](http://web.archive.org/web/20120724043319/http://153.9.241.55/atlanticworld/afterslavery/units.html), ­a set of 10 online units that explore the aftermath of emancipation in the Carolinas. Organized thematically, the teaching units cover a range of topics, richly illustrated with an array of primary source materials from dozens of archival collections.
+The [After Slavery Project](http://web.archive.org/web/20130905165822/http://153.9.241.55:80/atlanticworld/afterslavery/index.html), a transatlantic research collaboration directed from Queen's University Belfast, launched its [Online Classroom](http://web.archive.org/web/20120724043319/http://web.archive.org/web/20120724043319/http://153.9.241.55/atlanticworld/afterslavery/units.html), ­a set of 10 online units that explore the aftermath of emancipation in the Carolinas. Organized thematically, the teaching units cover a range of topics, richly illustrated with an array of primary source materials from dozens of archival collections.
 
 The unit [Freed Slaves Mobilize](http://153.9.241.55/atlanticworld/afterslavery/chapter2.html), for example, includes a background essay, transcriptions of nine primary source documents and illustrations, questions related to each document, and suggestions for further reading.
 > After Slavery emphasizes the variety of African American experiences after the Civil War.

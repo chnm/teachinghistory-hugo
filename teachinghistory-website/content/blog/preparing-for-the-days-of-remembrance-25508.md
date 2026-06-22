@@ -36,28 +36,28 @@ How do people talk about and understand the Holocaust today in the U.S. and arou
 
 ## The U.S. Holocaust Memorial Museum
 
-The U.S. Holocaust Memorial Museum can help introduce students to these questions. Every year, the museum chooses a theme for the Days of Remembrance. This year, the theme is "Choosing to Act: Stories of Rescue," focusing on the stories of those who risked their lives to help protect Jews from persecution, imprisonment, and death. Learn more about the theme (and request CDs and DVDs of free resources) at the museum's [website](http://web.archive.org/web/20130916001713/http://www.ushmm.org/remembrance/dor/).
+The U.S. Holocaust Memorial Museum can help introduce students to these questions. Every year, the museum chooses a theme for the Days of Remembrance. This year, the theme is "Choosing to Act: Stories of Rescue," focusing on the stories of those who risked their lives to help protect Jews from persecution, imprisonment, and death. Learn more about the theme (and request CDs and DVDs of free resources) at the museum's [website](http://web.archive.org/web/20130916001713/http://web.archive.org/web/20130916001713/http://www.ushmm.org/remembrance/dor/).
 
 Explore the website further to uncover:
 
-* [In-depth information](http://web.archive.org/web/20130916001631/http://www.ushmm.org/education/foreducators/) for middle school and high school educators on how and why to teach the Holocaust
-* The [Holocaust Encyclopedia](http://www.ushmm.org/wlc/en/), featuring more than 700 articles and more than 500 ID cards describing the lives of Holocaust victims
-* [Lesson plans and activities](http://web.archive.org/web/20130916001631/http://web.archive.org/web/20130914022807/http://www.ushmm.org/education/foreducators/lesson/) covering topics ranging from pre-World War II Jewish life to genocide today
-* Guides to resources on the U.S. [response](http://www.ushmm.org/museum/exhibit/focus/american_responses/) to the Holocaust, [rescue efforts](http://web.archive.org/web/20130912153250/http://www.ushmm.org/museum/exhibit/focus/dor_02/) during the Holocaust, and the [aftereffects](http://web.archive.org/web/20130912164650/http://www.ushmm.org/museum/exhibit/focus/aftermath/) of the Holocaust
-* Materials for [Jewish American Heritage Month](http://web.archive.org/web/20130912115301/http://www.ushmm.org/museum/exhibit/focus/jah/) and [African American History Month](http://web.archive.org/web/20130912155034/http://www.ushmm.org/museum/exhibit/focus/bhistory/)
-* [Video](http://web.archive.org/web/20130827035731/http://www.ushmm.org/research/center/church/kristallnacht/) of U.S. reactions to Kristallnacht
-* Maps, video, testimonies, and more on the [liberation](http://web.archive.org/web/20130912124105/http://www.ushmm.org/museum/exhibit/focus/liberation/) of Holocaust prison camps
+* [In-depth information](http://web.archive.org/web/20130916001631/http://web.archive.org/web/20130916001631/http://www.ushmm.org/education/foreducators/) for middle school and high school educators on how and why to teach the Holocaust
+* The [Holocaust Encyclopedia](http://web.archive.org/web/20191112082157/https://www.ushmm.org/wlc/en/), featuring more than 700 articles and more than 500 ID cards describing the lives of Holocaust victims
+* [Lesson plans and activities](http://web.archive.org/web/20130916001631/http://web.archive.org/web/20130914022807/http://web.archive.org/web/20130916001631/http://web.archive.org/web/20130914022807/http://www.ushmm.org/education/foreducators/lesson/) covering topics ranging from pre-World War II Jewish life to genocide today
+* Guides to resources on the U.S. [response](http://www.ushmm.org/museum/exhibit/focus/american_responses/) to the Holocaust, [rescue efforts](http://web.archive.org/web/20130912153250/http://web.archive.org/web/20130912153250/http://www.ushmm.org/museum/exhibit/focus/dor_02/) during the Holocaust, and the [aftereffects](http://web.archive.org/web/20130912164650/http://web.archive.org/web/20130912164650/http://www.ushmm.org/museum/exhibit/focus/aftermath/) of the Holocaust
+* Materials for [Jewish American Heritage Month](http://web.archive.org/web/20130912115301/http://web.archive.org/web/20130912115301/http://www.ushmm.org/museum/exhibit/focus/jah/) and [African American History Month](http://web.archive.org/web/20130912155034/http://web.archive.org/web/20130912155034/http://www.ushmm.org/museum/exhibit/focus/bhistory/)
+* [Video](http://web.archive.org/web/20130827035731/http://web.archive.org/web/20130827035731/http://www.ushmm.org/research/center/church/kristallnacht/) of U.S. reactions to Kristallnacht
+* Maps, video, testimonies, and more on the [liberation](http://web.archive.org/web/20130912124105/http://web.archive.org/web/20130912124105/http://www.ushmm.org/museum/exhibit/focus/liberation/) of Holocaust prison camps
 * President Barack Obama's [remarks](http://www.ushmm.org/museum/exhibit/focus/buchenwald/) on visiting the site of the Buchenwald concentration camp
 * [Artifacts](http://www.ushmm.org/museum/exhibit/focus/warcrimetrials/index.php) related to the Nuremberg trials
 
 The museum also maintains online exhibits, including:
 
-* [*Life After the Holocaust*](http://web.archive.org/web/20130826141859/http://www.ushmm.org/museum/exhibit/online/life_after_holocaust/) — the lives of six survivors who came to the U.S.
-* [*Fighting the Fires of Hate: America and the Nazi Book Burnings*](http://web.archive.org/web/20121207222410/http://www.ushmm.org/museum/exhibit/online/bookburning/burning.php)
-* [*The Nazi Olympics: Berlin 1936*](http://web.archive.org/web/20130912122430/http://www.ushmm.org/museum/exhibit/online/olympics/)
-* [*Life Reborn: Jewish Displaced Persons 1945–1951*](http://web.archive.org/web/20130312052646/http://www.ushmm.org/museum/exhibit/online/dp/) — a look at the lives of displaced Holocaust survivors
+* [*Life After the Holocaust*](http://web.archive.org/web/20130826141859/http://web.archive.org/web/20130826141859/http://www.ushmm.org/museum/exhibit/online/life_after_holocaust/) — the lives of six survivors who came to the U.S.
+* [*Fighting the Fires of Hate: America and the Nazi Book Burnings*](http://web.archive.org/web/20121207222410/http://web.archive.org/web/20121207222410/http://www.ushmm.org/museum/exhibit/online/bookburning/burning.php)
+* [*The Nazi Olympics: Berlin 1936*](http://web.archive.org/web/20130912122430/http://web.archive.org/web/20130912122430/http://www.ushmm.org/museum/exhibit/online/olympics/)
+* [*Life Reborn: Jewish Displaced Persons 1945–1951*](http://web.archive.org/web/20130312052646/http://web.archive.org/web/20130312052646/http://www.ushmm.org/museum/exhibit/online/dp/) — a look at the lives of displaced Holocaust survivors
 * [*Voyage of the Saint Louis*](http://web.archive.org/web/20130510044705/http://www.ushmm.org:80/museum/exhibit/online/stlouis/) — the voyage of Jewish refugees denied entrance to Cuba, Canada, and the U.S.
-* [*Flight and Rescue*](http://web.archive.org/web/20130826141744/http://www.ushmm.org/museum/exhibit/online/flight_rescue/index.php) — escape from Nazi-controlled Europe was only the beginning
+* [*Flight and Rescue*](http://web.archive.org/web/20130826141744/http://web.archive.org/web/20130826141744/http://www.ushmm.org/museum/exhibit/online/flight_rescue/index.php) — escape from Nazi-controlled Europe was only the beginning
 
 ## More Resources
 

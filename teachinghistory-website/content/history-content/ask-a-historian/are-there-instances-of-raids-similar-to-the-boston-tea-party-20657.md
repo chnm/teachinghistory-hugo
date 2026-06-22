@@ -218,4 +218,4 @@ George Ernst, *New England Miniature: A History of York, Maine* (Freeport, ME.: 
 
 "The Tea Party at York Maine," http://imaginemaine.com/Tea_Party.html (accessed January 2009).
 
-Website of the annual Chestertown Tea Party Festival, [http://www.chestertownteaparty.com/](http://www.chestertownteaparty.com/)  (accessed January 2009).
+Website of the annual Chestertown Tea Party Festival, [http://web.archive.org/web/20250224075141/https://chestertownteaparty.com/](http://web.archive.org/web/20250224075141/https://chestertownteaparty.com/)  (accessed January 2009).

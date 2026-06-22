@@ -45,7 +45,7 @@ As a starting point, to transport your students back into the period you might s
 
 As they try to get a closer understanding of the specific experiences of particular service people and their units, your students can look at the materials prepared by the military services, which have substantial resources on the web (though they are a pretty clunky). For information on ground forces, they should check out the [Army’s U.S. Center for Military History](http://web.archive.org/web/20250202224112/https://www.history.army.mil/html/bookshelves/resmat/ww2list.html). Much of the material here consists of digitized version of print publication (hence the rather look), but it provides very comprehensive information about particular events.
 
-[The Naval History Center](http://web.archive.org/web/20260502000954/https://www.history.navy.mil/) offers similar information for the U.S. Navy and Marine corps. Those are probably your best sources for information on the web at the unit level.
+[The Naval History Center](http://web.archive.org/web/20260502000954/http://web.archive.org/web/20260502000954/https://www.history.navy.mil/) offers similar information for the U.S. Navy and Marine corps. Those are probably your best sources for information on the web at the unit level.
 
 [The National Archives](http://www.archives.gov/research/ww2/) also offers a treasure trove of information digitized from their collections, which includes everything from enlistment records of particular soldiers to photographs from the period. It can be hit-or-miss the closer you try to get to a specific person or unit, but it does provide some excellent examples of their specific experiences at the time.
 
@@ -61,7 +61,7 @@ As a starting point, to transport your students back into the period you might s
 
 As they try to get a closer understanding of the specific experiences of particular service people and their units, your students can look at the materials prepared by the military services, which have substantial resources on the web (though they are a pretty clunky). For information on ground forces, they should check out the [Army’s U.S. Center for Military History](http://web.archive.org/web/20250202224112/https://www.history.army.mil/html/bookshelves/resmat/ww2list.html). Much of the material here consists of digitized version of print publication (hence the rather look), but it provides very comprehensive information about particular events.
 
-[The Naval History Center](http://web.archive.org/web/20260502000954/https://www.history.navy.mil/) offers similar information for the U.S. Navy and Marine corps. Those are probably your best sources for information on the web at the unit level.
+[The Naval History Center](http://web.archive.org/web/20260502000954/http://web.archive.org/web/20260502000954/https://www.history.navy.mil/) offers similar information for the U.S. Navy and Marine corps. Those are probably your best sources for information on the web at the unit level.
 
 [The National Archives](http://www.archives.gov/research/ww2/) also offers a treasure trove of information digitized from their collections, which includes everything from enlistment records of particular soldiers to photographs from the period. It can be hit-or-miss the closer you try to get to a specific person or unit, but it does provide some excellent examples of their specific experiences at the time.
 

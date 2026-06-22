@@ -8,7 +8,7 @@ drupal_nid: 24693
 url: /history-content/beyond-the-textbook/24693
 author_bio: 'Katherine Mellen Charron is an Associate Professor of History at North
   Carolina State University. She is the author of the award-winning [*Freedom''s Teacher:
-  The Life of Septima Clark*](http://web.archive.org/web/20160822233945/http://www.uncpress.unc.edu/browse/book_detail?title_id=1637)
+  The Life of Septima Clark*](http://web.archive.org/web/20160822233945/http://web.archive.org/web/20160822233945/http://www.uncpress.unc.edu/browse/book_detail?title_id=1637)
   (UNC Press, 2009), and the co-editor of [*Recollections of My Slavery Days*](http://docsouth.unc.edu/neh/singleton/menu.html)
   by William Henry Singleton (1999). Her teaching and research interests include African
   American, Women''s, and Southern history.'

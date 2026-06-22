@@ -34,10 +34,10 @@ tags:
 - San Francisco
 ---
 
-This collection of 30,000 historical photographs contains scenes of San Francisco from 1850 to the present and includes views of streets, buildings, and neighborhoods, as well as photographs of famous San Francisco personalities. Visitors can search for photographs by [neighborhoods](http://web.archive.org/web/20071018172804/http://sfpl.lib.ca.us/librarylocations/sfhistory/map.htm) using the interactive map, one of the site's most engaging options. There are also miniature tours of such locales as the Barbary Coast, Nob Hill, and Telegraph Hill.
+This collection of 30,000 historical photographs contains scenes of San Francisco from 1850 to the present and includes views of streets, buildings, and neighborhoods, as well as photographs of famous San Francisco personalities. Visitors can search for photographs by [neighborhoods](http://web.archive.org/web/20071018172804/http://web.archive.org/web/20071018172804/http://sfpl.lib.ca.us/librarylocations/sfhistory/map.htm) using the interactive map, one of the site's most engaging options. There are also miniature tours of such locales as the Barbary Coast, Nob Hill, and Telegraph Hill.
 
-The San Francisco neighborhoods are searchable through a list of [subjects](http://web.archive.org/web/20100211012813/http://sfpl.lib.ca.us/librarylocations/sfhistory/browse.htm), which includes monuments, nightclubs, orphanages, parks, and stadiums.
+The San Francisco neighborhoods are searchable through a list of [subjects](http://web.archive.org/web/20100211012813/http://web.archive.org/web/20100211012813/http://sfpl.lib.ca.us/librarylocations/sfhistory/browse.htm), which includes monuments, nightclubs, orphanages, parks, and stadiums.
 
-There are several specialized collections, such as the [James A. Scott](http://web.archive.org/web/20071018175430/http://sfpl.lib.ca.us/librarylocations/sfhistory/jamesscott/jamesscottmap.htm) Collection featuring 27 pairs of "before-and-after" images of the city with the photographer's notes and comments.
+There are several specialized collections, such as the [James A. Scott](http://web.archive.org/web/20071018175430/http://web.archive.org/web/20071018175430/http://sfpl.lib.ca.us/librarylocations/sfhistory/jamesscott/jamesscottmap.htm) Collection featuring 27 pairs of "before-and-after" images of the city with the photographer's notes and comments.
 
 A photo morgue of the daily newspaper, *San Francisco News-Call Bulletin*, dating from the 1920s to 1965, completes the site.

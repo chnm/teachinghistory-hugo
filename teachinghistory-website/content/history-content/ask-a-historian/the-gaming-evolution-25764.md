@@ -51,7 +51,7 @@ However, video game history has not been a straight line towards larger, more co
 
 [Atarimania](http://www.atarimania.com/index.html). Last modified October 7, 2012. Accessed October 10, 2012.
 
-National Museum of Play. [Online collections](http://www.thestrong.org/online-collections/nmop/3). Accessed October 10, 2012.
+National Museum of Play. [Online collections](http://web.archive.org/web/20131231035737/http://www.thestrong.org/online-collections/nmop/3). Accessed October 10, 2012.
 
 PBS. *[The Video Game Revolution](http://www.pbs.org/kcts/videogamerevolution/index.html)*. Accessed October 10, 2012.
 

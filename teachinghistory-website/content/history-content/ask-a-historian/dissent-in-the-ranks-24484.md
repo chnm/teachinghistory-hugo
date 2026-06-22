@@ -60,7 +60,7 @@ Cowley, Robert and Parker, Geoffrey, eds. [*The Reader’s Companion to Military
 
 Fischer, David Hackett. [*Washington’s Crossing.*](http://www.oup.com/us/catalog/general/subject/HistoryAmerican/ColonialRevolutionary/?view=usa&ci=9780195181593) New York: Oxford University Press, 2004.
 
-Higginbotham, Don. [*War of American Independence.*](http://www.upne.com/0-930350-43-X.html) Northeastern University Press, 1983.
+Higginbotham, Don. [*War of American Independence.*](http://web.archive.org/web/20201026043910/http://www.upne.com/0-930350-43-X.html) Northeastern University Press, 1983.
 
 McCullough, David. [*1776.*](http://web.archive.org/web/20160517130748/http://books.simonandschuster.com:80/1776/David-McCullough/9781416542100) New York: Simon & Schuster, 2005.
 
@@ -68,6 +68,6 @@ Royster, Charles. [*A Revolutionary People at War: The Continental Army and Amer
 
 ## For Further Reading
 
-Ellis, Joseph J.  [*His Excellency George Washington.*](http://www.randomhouse.com/catalog/display.pperl?isbn=9781400032532)  New York: Alfred A. Knopf, 2004. 
+Ellis, Joseph J.  [*His Excellency George Washington.*](http://web.archive.org/web/20251223181536/http://www.randomhouse.com/catalog/display.pperl?isbn=9781400032532)  New York: Alfred A. Knopf, 2004. 
 
 Heydt, Bruce. “Vexatious Evils: George Washington and the Conway Cabal,” *American History*, December 2005.

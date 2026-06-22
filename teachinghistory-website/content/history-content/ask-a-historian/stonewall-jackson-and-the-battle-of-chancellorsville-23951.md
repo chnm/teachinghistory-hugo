@@ -35,7 +35,7 @@ Jackson himself became the best-known Civil War victim of friendly fire. While s
 
 Maps of the [Chancellorsville Campaign](http://www.dean.usma.edu/history/Atlases/AmericanCivilWar/AmericanCivilWar.html), in the American Civil War Atlas assembled by West Point.
 
-Explanation of [The Battle of Chancellorsville](http://www.civilwar.org/battlefields/chancellorsville.html) at the website of the Civil War Preservation Trust.
+Explanation of [The Battle of Chancellorsville](http://web.archive.org/web/20161218030153/http://www.civilwar.org:80/battlefields/chancellorsville.html) at the website of the Civil War Preservation Trust.
 
 ## For Further Reading
 

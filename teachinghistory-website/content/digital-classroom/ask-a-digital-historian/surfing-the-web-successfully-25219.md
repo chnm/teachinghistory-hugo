@@ -72,6 +72,6 @@ Check out these links for guides and tips to using several search engines:
 * [Four NETS for Better Searching](http://web.archive.org/web/20210724202842/https://webquest.org/sdsu/searching/fournets.htm)
 * [Google Guide](http://www.googleguide.com)
 * [Bing Search Engine Shortcuts](http://web.archive.org/web/20151019160844/http://websearch.about.com:80/od/searchenginecheatsheets/a/Bing-Search-Engine-Shortcuts.htm)
-* [Yahoo Search Engine Shortcuts](http://web.archive.org/web/20160306022615/http://websearch.about.com/library/cheatsheet/blyahoocheatsheet.htm)
+* [Yahoo Search Engine Shortcuts](http://web.archive.org/web/20160306022615/http://web.archive.org/web/20160306022615/http://websearch.about.com/library/cheatsheet/blyahoocheatsheet.htm)
 
 And take a look at our *Tech for Teachers* on [search engines](/digital-classroom/tech-for-teachers/23822) for links to more strategies.

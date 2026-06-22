@@ -61,7 +61,7 @@ Some from Marie de l'Incarnation to her brother.
 
 Montreal's [Musée des Hospitalières de l'Hôtel-Dieu](http://www.museedeshospitalieres.qc.ca/).
 
-Montreal's [Marguerite-Bourgeoys Museum, Notre-Dame-de-Bon-Secour Chapel](http://web.archive.org/web/20221127044438/http://www.marguerite-bourgeoys.com/en/index.asp).
+Montreal's [Marguerite-Bourgeoys Museum, Notre-Dame-de-Bon-Secour Chapel](http://web.archive.org/web/20221127044438/http://web.archive.org/web/20221127044438/http://www.marguerite-bourgeoys.com/en/index.asp).
 
 Canada's First Hospital, Hôtel-Dieu of Quebec City.
 

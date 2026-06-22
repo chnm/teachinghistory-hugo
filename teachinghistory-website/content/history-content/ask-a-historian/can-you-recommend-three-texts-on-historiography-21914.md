@@ -42,7 +42,7 @@ The book also addresses issues of objectivity, memory, identity, narrative, hist
 
 ## Davidson and Lytle
 
-Davidson and Lytle's *After the Fact* offers an "apprentice approach to history" through 18 case studies that explore a variety of approaches to historical investigation. (Chapter titles can be found [online](http://catalogs.mhhe.com/mhhe/viewProductDetails.do?isbn=0072994010)). The CD includes hundreds of primary sources students could use for research papers, in addition to three chapters from previous editions not included in the main text.
+Davidson and Lytle's *After the Fact* offers an "apprentice approach to history" through 18 case studies that explore a variety of approaches to historical investigation. (Chapter titles can be found [online](http://web.archive.org/web/20041030090019/http://catalogs.mhhe.com:80/mhhe/viewProductDetails.do?isbn=0072994010)). The CD includes hundreds of primary sources students could use for research papers, in addition to three chapters from previous editions not included in the main text.
 
 The authors emphasize the process of *doing history* and the need for historians to craft a good story. Their examinations of diverse historical problems—covering events from the colonial period to the recent past—and historiographical issues exploring a wide range of types of history will expose beginning students to the sophisticated inquiries that professional historians address when they confront historical problems.
 
@@ -77,7 +77,7 @@ The book also addresses issues of objectivity, memory, identity, narrative, hist
 
 ## Davidson and Lytle
 
-Davidson and Lytle's *After the Fact* offers an "apprentice approach to history" through 18 case studies that explore a variety of approaches to historical investigation. (Chapter titles can be found [online](http://catalogs.mhhe.com/mhhe/viewProductDetails.do?isbn=0072994010)). The CD includes hundreds of primary sources students could use for research papers, in addition to three chapters from previous editions not included in the main text.
+Davidson and Lytle's *After the Fact* offers an "apprentice approach to history" through 18 case studies that explore a variety of approaches to historical investigation. (Chapter titles can be found [online](http://web.archive.org/web/20041030090019/http://catalogs.mhhe.com:80/mhhe/viewProductDetails.do?isbn=0072994010)). The CD includes hundreds of primary sources students could use for research papers, in addition to three chapters from previous editions not included in the main text.
 
 The authors emphasize the process of *doing history* and the need for historians to craft a good story. Their examinations of diverse historical problems—covering events from the colonial period to the recent past—and historiographical issues exploring a wide range of types of history will expose beginning students to the sophisticated inquiries that professional historians address when they confront historical problems.
 

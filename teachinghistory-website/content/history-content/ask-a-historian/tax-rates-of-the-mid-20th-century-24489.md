@@ -70,7 +70,7 @@ Bureau of the Census, [*Current Population Reports: Consumer Income, Family and 
 
 Conason, Joe.  *Big Lies.* New York: St. Martins, 2003. 
 
-Rampell, Cathleen. “Tax Burdens Around the World,” [*New York Times*](http://economix.blogs.nytimes.com/2009/11/24/the-tax-burden-around-the-developed-world/).  24 November 2009.
+Rampell, Cathleen. “Tax Burdens Around the World,” [*New York Times*](http://web.archive.org/web/20210928004151/https://economix.blogs.nytimes.com/2009/11/24/the-tax-burden-around-the-developed-world/).  24 November 2009.
 
 [*Social Security Administration Trust Fund Data.*](http://www.ssa.gov/oact/progdata/taxRates.html)  Accessed 28 January 2011.  As well, the ceiling for earnings for which citizens had to pay Social Security taxes lifted steadily, from $9,000 in 1972 to over $106,00 today (see [*Contributions and Benefits Bases 1937-2011*](http://www.ssa.gov/oact/COLA/cbb.html#Series).  Accessed 28 January 2011). 
 

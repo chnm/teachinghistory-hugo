@@ -72,4 +72,4 @@ Enjoy!
 3. *Twice a Hero* by Dirk Wales: Tells the story of Polish American heroes of the Revolution.
 4. *Now & Ben—The Modern Inventions of Benjamin Franklin* by Gene Barretta: Connects Ben Franklin to our lives today.
 
-Look for more ideas [here](http://www.socialstudies.org/resources/notable), where you will find books for the K-12 classroom that have been designated as notable by social studies teachers who are members of the National Council for the Social Studies.
+Look for more ideas [here](http://web.archive.org/web/20170311164659/http://www.socialstudies.org/resources/notable), where you will find books for the K-12 classroom that have been designated as notable by social studies teachers who are members of the National Council for the Social Studies.

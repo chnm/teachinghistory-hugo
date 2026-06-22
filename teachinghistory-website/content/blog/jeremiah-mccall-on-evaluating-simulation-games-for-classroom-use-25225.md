@@ -76,7 +76,7 @@ These games are relatively simple to learn and play.
 * [*Jamestown Online Adventure*](http://www.historyglobe.com/jamestown/)
 * One episode of [*For Crown or Colony*](http://www.mission-us.org/pages/mission-1)
 * Chevron’s [*Energyville*](http://www.energyville.com/energyville/)
-* Most [*ICivics*](http://www.icivics.org/games) Games
+* Most [*ICivics*](http://web.archive.org/web/20240815113952/https://www.icivics.org/games) Games
 
 ## Category B: More Detailed Browser Based and Simpler Commercial Simulation Games (45 minutes to two hours)
 
@@ -84,7 +84,7 @@ These games require a bit more time to learn and/or play and consist of lengthie
 
 * *The Political Machine* (commercial)
 * All of *[For Crown or Colony](http://www.mission-us.org/pages/mission-1)*
-* USC’s *[The Redistricting Game](http://web.archive.org/web/20240620193422/http://www.redistrictinggame.org/)*
+* USC’s *[The Redistricting Game](http://web.archive.org/web/20240620193422/http://web.archive.org/web/20240620193422/http://www.redistrictinggame.org/)*
 * *Sid Meier’s Pirates *(commercial)**
 
 ## Category C: Commercial Simulation Games (two to six hours)

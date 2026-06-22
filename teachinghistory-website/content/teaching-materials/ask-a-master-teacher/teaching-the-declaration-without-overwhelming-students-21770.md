@@ -34,7 +34,7 @@ Below are some ideas:
 
 How about starting with an idea or line from the document? One of our favorites is the line regarding the right and duty for those threatened with absolute tyranny to “throw off such government.” This is one of several powerful ideas in the Declaration that can engage students before they confront the entire document. (It could also be just considering the document’s title! Declaring independence is something most adolescents can get their heads around and this can lead into exploring when and why this might happen and how one might frame such a declaration to win supporters. Consider what “The unanimous Declaration of the thirteen united States of America,” signaled to readers on both sides of the Atlantic and how they had gotten to this radical place.)
 
-Considering the historical and contemporary significance of the document can also engage. Do students have a grasp of the road to Revolution, do they understand the chain of events and rising discontent in the Colonies? The risk to the signers? The historical moment? This background knowledge can help students in understanding the import of the document and its prose. Or look at instances where the document serves as a model ([the Seneca Falls Declaration](http://www.fordham.edu/halsall/mod/senecafalls.html))
+Considering the historical and contemporary significance of the document can also engage. Do students have a grasp of the road to Revolution, do they understand the chain of events and rising discontent in the Colonies? The risk to the signers? The historical moment? This background knowledge can help students in understanding the import of the document and its prose. Or look at instances where the document serves as a model ([the Seneca Falls Declaration](http://web.archive.org/web/20141108090245/http://www.fordham.edu:80/halsall/mod/senecafalls.html))
 
 or reference point (MLK’s reference to it as “promissory note” in his [I Have a Dream Speech](http://web.archive.org/web/20260310193126/https://usconstitution.net/dream.html/))
 
@@ -55,7 +55,7 @@ For a primer on the document, see this historian’s helpful [discussion](http:/
 
 See the Library of Congress’ [Web Guide](http://www.loc.gov/rr/program/bib/ourdocs/DeclarInd.html)
 
-Connect with images. For example, [this one](http://rickwolff.files.wordpress.com/2008/07/d-of-i.jpg) or  [this one](http://questionitnow.com/educationb/uploaded_images/QuestionItNow%20Drafting%20Declaration%20of%20Independence-717976.jpg).
+Connect with images. For example, [this one](http://web.archive.org/web/20181220185924/https://rickwolff.files.wordpress.com/2008/07/d-of-i.jpg) or  [this one](http://web.archive.org/web/20110307233517/http://questionitnow.com/educationb/uploaded_images/QuestionItNow%20Drafting%20Declaration%20of%20Independence-717976.jpg).
 
 Admittedly, we focus on the reading of the document. There are several resources like the recent film [National Treasure](http://www.imdb.com/title/tt0368891/), the older film [1776](http://www.imdb.com/title/tt0068156/), or the Independence episode of the recent TV miniseries [John Adams](http://www.imdb.com/title/tt1257755/) that some teachers use to talk about the Declaration of Independence.
 
@@ -71,7 +71,7 @@ Below are some ideas:
 
 How about starting with an idea or line from the document? One of our favorites is the line regarding the right and duty for those threatened with absolute tyranny to “throw off such government.” This is one of several powerful ideas in the Declaration that can engage students before they confront the entire document. (It could also be just considering the document’s title! Declaring independence is something most adolescents can get their heads around and this can lead into exploring when and why this might happen and how one might frame such a declaration to win supporters. Consider what “The unanimous Declaration of the thirteen united States of America,” signaled to readers on both sides of the Atlantic and how they had gotten to this radical place.)
 
-Considering the historical and contemporary significance of the document can also engage. Do students have a grasp of the road to Revolution, do they understand the chain of events and rising discontent in the Colonies? The risk to the signers? The historical moment? This background knowledge can help students in understanding the import of the document and its prose. Or look at instances where the document serves as a model ([the Seneca Falls Declaration](http://www.fordham.edu/halsall/mod/senecafalls.html))
+Considering the historical and contemporary significance of the document can also engage. Do students have a grasp of the road to Revolution, do they understand the chain of events and rising discontent in the Colonies? The risk to the signers? The historical moment? This background knowledge can help students in understanding the import of the document and its prose. Or look at instances where the document serves as a model ([the Seneca Falls Declaration](http://web.archive.org/web/20141108090245/http://www.fordham.edu:80/halsall/mod/senecafalls.html))
 
 or reference point (MLK’s reference to it as “promissory note” in his [I Have a Dream Speech](http://web.archive.org/web/20260310193126/https://usconstitution.net/dream.html/))
 
@@ -92,7 +92,7 @@ For a primer on the document, see this historian’s helpful [discussion](http:/
 
 See the Library of Congress’ [Web Guide](http://www.loc.gov/rr/program/bib/ourdocs/DeclarInd.html)
 
-Connect with images. For example, [this one](http://rickwolff.files.wordpress.com/2008/07/d-of-i.jpg) or  [this one](http://questionitnow.com/educationb/uploaded_images/QuestionItNow%20Drafting%20Declaration%20of%20Independence-717976.jpg).
+Connect with images. For example, [this one](http://web.archive.org/web/20181220185924/https://rickwolff.files.wordpress.com/2008/07/d-of-i.jpg) or  [this one](http://web.archive.org/web/20110307233517/http://questionitnow.com/educationb/uploaded_images/QuestionItNow%20Drafting%20Declaration%20of%20Independence-717976.jpg).
 
 Admittedly, we focus on the reading of the document. There are several resources like the recent film [National Treasure](http://www.imdb.com/title/tt0368891/), the older film [1776](http://www.imdb.com/title/tt0068156/), or the Independence episode of the recent TV miniseries [John Adams](http://www.imdb.com/title/tt1257755/) that some teachers use to talk about the Declaration of Independence.
 

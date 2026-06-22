@@ -49,7 +49,7 @@ Yet this cultural devaluation of women's household work masked its continuing, d
 
 * "[Women Working](http://ocp.hul.harvard.edu/ww/index.html)." Harvard University Library Open Collections Program.
 * [Lowell National Historical Park](http://www.nps.gov/lowe/photosmultimedia/prologue.htm). National Park Service
-* "[Lowell Mill Girl Letters](http://library.uml.edu/clh/All/alet.htm)." University of Massachusetts Lowell Libraries.
+* "[Lowell Mill Girl Letters](http://web.archive.org/web/20180519020342/http://library.uml.edu:80/clh/All/alet.htm)." University of Massachusetts Lowell Libraries.
 * Dublin, Thomas. "[Women and the Early Industrial Revolution in the United States](http://www.gilderlehrman.org/history-by-era/jackson-lincoln/essays/women-and-early-industrial-revolution-united-states)." The Gilder Lehrman Institute of American History.
 * Library of Congress. "[American Women](http://web.archive.org/web/20220419235500/https://memory.loc.gov/ammem/awhhtml/index.html)."
 

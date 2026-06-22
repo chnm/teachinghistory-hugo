@@ -25,6 +25,6 @@ The national winner receives $10,000; state winners, $1,000 and an archive of bo
 
 ## National History Club Essay Competition
 
-Full scholarship to attend [*Lead*America's National Leadership Summit](http://web.archive.org/web/20130616202035/http://www.lead-america.org/conferences/nls/nls_hs.asp) this summer at Georgetown of Johns Hopkins Universities are among the essay contest awards the [National History Club](http://www.nationalhistoryclub.org/index.php) offers to winners of a 2,000-word essay contest.
+Full scholarship to attend [*Lead*America's National Leadership Summit](http://web.archive.org/web/20130616202035/http://web.archive.org/web/20130616202035/http://www.lead-america.org/conferences/nls/nls_hs.asp) this summer at Georgetown of Johns Hopkins Universities are among the essay contest awards the [National History Club](http://www.nationalhistoryclub.org/index.php) offers to winners of a 2,000-word essay contest.
 
 This year's essay contest is about Historical Leadership. Students are asked to study a past event and write about how leadership from a group or an individual contributed to the development of society and what we can learn from this. Essay submission deadline is April 1, 2010. For further information, contact Bob Nasson of the National History Club a rnasson@nationalhistoryclub.org.

@@ -23,9 +23,9 @@ The National Park Service oversees a wealth of places and resources to visit and
 
 [Teaching with Museum Collections](http://www.nps.gov/history/museum/tmc/index.htm) is a guide to teaching history with material culture.
 
-[Teacher Resources for Archaeology](http://web.archive.org/web/20221013233554/http://www.nps.gov/history/archeology/PUBLIC/teach.htm) show how to explore archaeology to bring the earliest history of North America alive.
+[Teacher Resources for Archaeology](http://web.archive.org/web/20221013233554/http://web.archive.org/web/20221013233554/http://www.nps.gov/history/archeology/PUBLIC/teach.htm) show how to explore archaeology to bring the earliest history of North America alive.
 
-[Discover Our Shared Heritage](http://web.archive.org/web/20140712174556/http://www.nps.gov/history/nr/travel/index.htm) lists America's historic places, alphabetically and state-by-state.
+[Discover Our Shared Heritage](http://web.archive.org/web/20140712174556/http://web.archive.org/web/20140712174556/http://www.nps.gov/history/nr/travel/index.htm) lists America's historic places, alphabetically and state-by-state.
 
 [A Place for Kids and Teachers](http://www.nps.gov/learn/) links to professional development opportunities for educators.
 

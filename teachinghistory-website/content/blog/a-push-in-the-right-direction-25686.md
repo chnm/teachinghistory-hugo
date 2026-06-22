@@ -37,7 +37,7 @@ It was in the midst of this mid-season reflection that I remembered two importan
 1. Students need authentic assessment.
 2. Just because I taught it, doesn’t necessarily mean they learned it.
 
-Then I remembered an idea I had before the year began: the [@apushhelp Twitter feed](https://twitter.com/apushhelp).
+Then I remembered an idea I had before the year began: the [@apushhelp Twitter feed](http://web.archive.org/web/20231121004319/https://twitter.com/apushhelp).
 
 The purpose of this assignment was twofold. First, I wanted the kids to demonstrate their knowledge in a way that benefited other teachers and students. Second, I wanted to create a means of assessment in which students were asked to communicate complex ideas in an accessible way.
 

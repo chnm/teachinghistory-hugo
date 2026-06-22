@@ -20,7 +20,7 @@ tags:
 
 [Footnote.com](http://www.fold3.com/) is a pre-eminent web resource for digitized primary source documents. It's a subscription service costing about $50 annually or $12 monthly, but the site regularly offers free access to some of its resources for specified time periods.
 
-During December, Footnote is granting free access to [WWII records](http://go.fold3.com/wwii/). Read first-hand accounts of submarine missions or reports of missing air crews. Explore the [USS Arizona Memorial](http://web.archive.org/web/20230609040740/https://go.fold3.com/arizona_memorial) or view over [80,000 photos](http://go.fold3.com/wwii_photos/) from the US Army Air Force. Other WWII records on Footnote.com include:
+During December, Footnote is granting free access to [WWII records](http://web.archive.org/web/20230323152432/https://go.fold3.com/wwii). Read first-hand accounts of submarine missions or reports of missing air crews. Explore the [USS Arizona Memorial](http://web.archive.org/web/20230609040740/https://go.fold3.com/arizona_memorial) or view over [80,000 photos](http://web.archive.org/web/20230329071005/https://go.fold3.com/wwii_photos) from the US Army Air Force. Other WWII records on Footnote.com include:
 
 * [Japanese Air Target Analysis](http://web.archive.org/web/20151001225309/https://www.fold3.com/documents/26149246/japanese_air_target_analyses/?xid=605)
 * [Army JAG Case Files](http://web.archive.org/web/20150926190205/https://www.fold3.com/documents/27412754/wwii_jag_case_files_pacific_army/?xid=605)

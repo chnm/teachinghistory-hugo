@@ -33,7 +33,7 @@ Despite the strong language of the proclamation, the British could not, or would
 
 ## Primary Sources
 
-[Royal Proclamation](http://web.archive.org/web/20121024205146/http://www.collectionscanada.gc.ca/whats-on/treaties-exhibition/014001-1000-e.html), October 7, 1763. This is an image of the actual proclamation.
+[Royal Proclamation](http://web.archive.org/web/20121024205146/http://web.archive.org/web/20121024205146/http://www.collectionscanada.gc.ca/whats-on/treaties-exhibition/014001-1000-e.html), October 7, 1763. This is an image of the actual proclamation.
 
 [Royal Proclamation](http://avalon.law.yale.edu/18th_century/proc1763.asp), October 7, 1763. This is a transcript of the King's proclamation.
 
@@ -72,7 +72,7 @@ Despite the strong language of the proclamation, the British could not, or would
 
 ## Primary Sources
 
-[Royal Proclamation](http://web.archive.org/web/20121024205146/http://www.collectionscanada.gc.ca/whats-on/treaties-exhibition/014001-1000-e.html), October 7, 1763. This is an image of the actual proclamation.
+[Royal Proclamation](http://web.archive.org/web/20121024205146/http://web.archive.org/web/20121024205146/http://www.collectionscanada.gc.ca/whats-on/treaties-exhibition/014001-1000-e.html), October 7, 1763. This is an image of the actual proclamation.
 
 [Royal Proclamation](http://avalon.law.yale.edu/18th_century/proc1763.asp), October 7, 1763. This is a transcript of the King's proclamation.
 

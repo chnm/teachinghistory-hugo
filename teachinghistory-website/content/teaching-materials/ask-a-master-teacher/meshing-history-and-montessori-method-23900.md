@@ -31,7 +31,7 @@ You might find that an inquiry approach to teaching history aligns nicely with t
 Primary sources, and to a lesser extent textbooks, can support inquiry-based instruction.
 > Primary sources, and to a lesser extent textbooks, can support inquiry-based instruction.
 
-For rich and relevant primary resources, the Library of Congress (LoC) has several [documents sets](http://www.loc.gov/teachers/classroommaterials/primarysourcesets/) that have been created for teachers. The LoC also provides teachers with [document analysis worksheets](http://www.loc.gov/teachers/usingprimarysources/guides.html) for students as well as several [document-based lesson plans](http://web.archive.org/web/20200815144829/http://www.loc.gov/teachers/classroommaterials/lessons/index.html).
+For rich and relevant primary resources, the Library of Congress (LoC) has several [documents sets](http://www.loc.gov/teachers/classroommaterials/primarysourcesets/) that have been created for teachers. The LoC also provides teachers with [document analysis worksheets](http://www.loc.gov/teachers/usingprimarysources/guides.html) for students as well as several [document-based lesson plans](http://web.archive.org/web/20200815144829/http://web.archive.org/web/20200815144829/http://www.loc.gov/teachers/classroommaterials/lessons/index.html).
 
 Go to [The Bringing History Home](http://www.bringinghistoryhome.org/) website for comprehensive examples of unit plans that support an inquiry approach for grades K-5. This site has several fully developed units with lesson plans and assessments where students are encouraged and supported to engage in rigorous history explorations.
 
@@ -52,7 +52,7 @@ You might find that an inquiry approach to teaching history aligns nicely with t
 Primary sources, and to a lesser extent textbooks, can support inquiry-based instruction.
 > Primary sources, and to a lesser extent textbooks, can support inquiry-based instruction.
 
-For rich and relevant primary resources, the Library of Congress (LoC) has several [documents sets](http://www.loc.gov/teachers/classroommaterials/primarysourcesets/) that have been created for teachers. The LoC also provides teachers with [document analysis worksheets](http://www.loc.gov/teachers/usingprimarysources/guides.html) for students as well as several [document-based lesson plans](http://web.archive.org/web/20200815144829/http://www.loc.gov/teachers/classroommaterials/lessons/index.html).
+For rich and relevant primary resources, the Library of Congress (LoC) has several [documents sets](http://www.loc.gov/teachers/classroommaterials/primarysourcesets/) that have been created for teachers. The LoC also provides teachers with [document analysis worksheets](http://www.loc.gov/teachers/usingprimarysources/guides.html) for students as well as several [document-based lesson plans](http://web.archive.org/web/20200815144829/http://web.archive.org/web/20200815144829/http://www.loc.gov/teachers/classroommaterials/lessons/index.html).
 
 Go to [The Bringing History Home](http://www.bringinghistoryhome.org/) website for comprehensive examples of unit plans that support an inquiry approach for grades K-5. This site has several fully developed units with lesson plans and assessments where students are encouraged and supported to engage in rigorous history explorations.
 

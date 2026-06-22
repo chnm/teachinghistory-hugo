@@ -25,7 +25,7 @@ tags:
 - youtube
 ---
 
-There are several different options available for teachers who would like to download and save online clips. Perhaps the easiest is to use a free service such as [KeepVid](http://www.keepvid.com/).
+There are several different options available for teachers who would like to download and save online clips. Perhaps the easiest is to use a free service such as [KeepVid](http://web.archive.org/web/20221129063900/https://keepvid.com/).
 
 Using KeepVid is a simple process. First, find the video clip that you wish to download. This might be at YouTube or another video sharing site such as DailyMotion or Vimeo. Copy the URL of your video clip and paste it into the Search box at KeepVid.
 

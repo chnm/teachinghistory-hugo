@@ -7,7 +7,7 @@ draft: false
 drupal_nid: 24526
 url: /nhec-blog/24526
 author_bio: Rwany Sibaja is a PhD student of History at George Mason University and
-  a Graduate Research Assistant at the [Center for History and New Media](http://chnm.gmu.edu).
+  a Graduate Research Assistant at the [Center for History and New Media](http://web.archive.org/web/20210825024449/https://chnm.gmu.edu/).
   He previously taught high school history (World and AP European) and Spanish, later
   working as a K-12 curriculum program manager in NC.
 date_published: '2011-03-11T00:00:00'
@@ -47,7 +47,7 @@ One educator, nearing retirement, was curious about digital tools as I shared wi
 
 Besides, where would she even begin searching for new media tools? She found herself regretting her earlier decision to skip panels on digital tools. It seemed that her own dilemma—where to start looking for digital tools—is not unique. The goal of the presentation was to help educators like her gain exposure to technology that is easily available. My advice to her was the same as I provided the audience: *Start with what feels comfortable*.
 
-Some educators might enjoy exploring complex tools, “going under the hood,” and learning new skills. Other educators might want a ready-made tool, like Wordpress, to help build a course website. The open-source nature of platforms and browsers like [Wordpress](http://wordpress.org/), [Firefox](http://www.mozilla.com/en-US/firefox/), [Zotero](/digital-classroom/tech-for-teachers/14585), and [Omeka](http://omeka.org/) allow daring educators to invent the new plug-ins that can radically transform educational tools. For the less adventurous educators, these platforms allow them to take advantage of the work of others.
+Some educators might enjoy exploring complex tools, “going under the hood,” and learning new skills. Other educators might want a ready-made tool, like Wordpress, to help build a course website. The open-source nature of platforms and browsers like [Wordpress](http://wordpress.org/), [Firefox](http://web.archive.org/web/20110322012821/http://www.mozilla.com/en-US/firefox/), [Zotero](/digital-classroom/tech-for-teachers/14585), and [Omeka](http://omeka.org/) allow daring educators to invent the new plug-ins that can radically transform educational tools. For the less adventurous educators, these platforms allow them to take advantage of the work of others.
 
 ## So . . . What Can Educators Do on the Web?
 
@@ -63,7 +63,7 @@ The presentation at AHA, then, was structured to address three or four key areas
 
 * [Google Maps](http://maps.google.com/) is a good instrument for examining memorials, battlefields, and other historical sites, while also allowing users to create new and interesting links between locations.
 * [Google Earth](http://www.google.com/earth/index.html) allows users to create placemarks, polygon shapes, paths, and images on Google's database of satellite images. This is ideal for creating original maps or recreating routes on military campaigns, plotting the Underground Railroad, or analyzing the Great Migration patterns of African Americans to see if new relationships emerge.
-* [ManyEyes](http://www-958.ibm.com/software/data/cognos/manyeyes/) users can upload data and choose visualization preferences that might reveal new information about the past.
+* [ManyEyes](http://web.archive.org/web/20141020114322/http://www-958.ibm.com/software/data/cognos/manyeyes/) users can upload data and choose visualization preferences that might reveal new information about the past.
 * [Hypercities](http://hypercities.com/) uses historical overlays on geographic maps to show change over time
 * [Prezi](/digital-classroom/tech-for-teachers/24457) is a structural and/or non-structural approach to presentations where you can type text, embed media files, graphically organize items, and highlight the importance of elements—relative to other ones on the infinite canvas platform—based on size and colors. The presentation at the AHA conference used a Prezi.
 
@@ -77,18 +77,18 @@ The presentation at AHA, then, was structured to address three or four key areas
 
 **Digital Tools for *Production***
 
-* [Anthologize](http://anthologize.org/) puts together an original book or compilation from blogs and other sites across the web.
+* [Anthologize](http://web.archive.org/web/20220308105438/https://anthologize.org/) puts together an original book or compilation from blogs and other sites across the web.
 * [Wiki](/digital-classroom/tech-for-teachers/14592) allows users to develop wiki pages for class projects (upload maps, images, and other files) or research project items.
 * [Wordle](/digital-classroom/tech-for-teachers/20785) graphically produces a word cloud based on text-mining activities, which often reveals interesting insights otherwise difficult to see in large chunks of text.
 * [YouTube](http://www.youtube.com/) and [Vimeo](http://vimeo.com/) are hosting platforms for any original video production.
 * [Picasa](http://picasa.google.com/) and [Flickr](http://www.flickr.com/) have potential as forums for hosting photo collections (privately or publicly), helping educators and students find visual sources, annotate information, understand copyright laws, and connect images to historical events that are not visible at first (good places to search for images largely in the public domain include the Creative Commons search engine, Library of Congress, National Archives, NY Public Library Digital Collection, and the Smithsonian).
-* [iMovie](http://www.apple.com/ilife/imovie/) and [MovieMaker](http://windows.microsoft.com/en-US/windows-live/movie-maker-get-started) put users in the driver's seat in using images, text, music, and voiceovers—simple elements of a digital storytelling project—to create original documentaries or short films.
+* [iMovie](http://web.archive.org/web/20131018011142/http://www.apple.com:80/ilife/imovie/) and [MovieMaker](http://web.archive.org/web/20130512121513/http://windows.microsoft.com/en-us/windows-live/movie-maker-get-started) put users in the driver's seat in using images, text, music, and voiceovers—simple elements of a digital storytelling project—to create original documentaries or short films.
 * [Animoto](http://animoto.com/) is a simple tool that uses images, uploaded with music and text, to create small videos.
 
 **Digital Tools for *Miscellaneous Tasks***
 
 * [Mindmeister](http://www.mindmeister.com/), [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page), and [OmniGraffle](http://www.omnigroup.com/products/omnigraffle/) create graphic organizers for study or for lesson/unit plans, and many of them can be placed online for collaborative work.
-* **Gaming** has untapped potential as a teaching tool; see: [*Mission US*](http://www.mission-us.org/), [*Do I Have a Right?*](http://www.icivics.org/games/do-i-have-right), [BBC History Games](http://www.bbc.co.uk/history/interactive/games/), and [Playinghistory.org](http://playinghistory.org/) (a good collection of games).
+* **Gaming** has untapped potential as a teaching tool; see: [*Mission US*](http://www.mission-us.org/), [*Do I Have a Right?*](http://web.archive.org/web/20240809003353/https://www.icivics.org/games/do-i-have-right), [BBC History Games](http://www.bbc.co.uk/history/interactive/games/), and [Playinghistory.org](http://playinghistory.org/) (a good collection of games).
 * [Diigo](/digital-classroom/tech-for-teachers/23471) provides a way to annotate the web (highlighting and Post-it notes). It can be added to your browser toolbar and, as long as you are logged in, notes will always appear as you re-visit the page.
 
 With such a long list, but one that barely touches the surface of what scholars can do with new media, it is easy to see that free and open-access tools are readily found online. The problem, however, is that many educators feel the same way as our curious veteran educator at AHA. The question *“Where can I find these tools?”* is still a bit too commonplace these days. As a result, teachers are often hesitant to seek out new technology—not necessarily due to a lack of will, but rather because many simply don't know what (or where) to search.
