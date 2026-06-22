@@ -34,7 +34,7 @@ Take advantage of this rich history by asking questions about the foods students
 * Time to eat out! The [*Miss Frank E. Buttolph American Menu Collection*](http://digitalgallery.nypl.org/nypldigital/explore/dgexplore.cfm?topic=all&collection=MissFrankEButtolphAm&col_id=159) features restaurant menus from 1851 to 1930.
 * The first uniquely American cookbook was Amelia Simmon's *American Cookery*, published in 1796. Thousands of cookbooks followed. [*Feeding America: The Historic American Cookbook Project*](/history-content/website-reviews/23815) shares 75 published from 1798 through 1922.
 * Sometimes food was scarce. University of Wisconsin's [*Recipe for Victory: Food and Cooking in Wartime*](/history-content/website-reviews/25302) shares booklets and cookbooks from World War I.
-* How do you get people to buy a new food? Advertise! From postcards to board games, see how food was sold at Michigan State University's [*Little Cookbooks*](http://www.lib.msu.edu/exhibits/sliker/index.jsp).
+* How do you get people to buy a new food? Advertise! From postcards to board games, see how food was sold at Michigan State University's [*Little Cookbooks*](http://web.archive.org/web/20190917152225/https://lib.msu.edu/exhibits/sliker/index.jsp).
 * Cookbooks let communities, clubs, religious groups, and more come together around favorite recipes. The Library of Congress's [guide](http://www.loc.gov/rr/scitech/SciRefGuides/americancookbooks.html) to digitized cookbooks peeks into 19th- and 20th-century kitchens.
 * From farm to factory and kitchen to table, what does the government have to say about the foods we eat? The National Archives' [*What's Cooking, Uncle Sam?*](http://www.archives.gov/exhibits/whats-cooking/preview/index.html) takes a look.
 

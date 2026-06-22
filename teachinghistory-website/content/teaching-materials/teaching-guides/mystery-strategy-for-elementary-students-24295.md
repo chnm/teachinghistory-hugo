@@ -94,10 +94,10 @@ The goals of the mystery strategy are to learn to: 1. gather, organize, and proc
 * images from [fashion catalogs](http://www.victoriana.com/Mens-Clothing/) from the mid-1800s;
 * real beaver pelt and/or beaver trap, scraps of commercial felt, or [images of    beaver fur and hats](http://stories.washingtonhistory.org/leschi/closeties/fur-trading.htm);
 * short biographical sketches of mountain men such as [Kit Carson](http://www.desertusa.com/mag99/jan/papr/kitcarson.html), John    Liver-Eating Johnston, and William Sublette;
-* Advertisements for beaver products such as [top hats](http://www.arthurlloyd.co.uk/Ancestry/RobertLloyd.htm) and ads from [trading    companies seeking hunters](http://www.springfieldohiohistory.net/adstradecards.htm). Scroll down through each page for the    aforementioned images.
+* Advertisements for beaver products such as [top hats](http://www.arthurlloyd.co.uk/Ancestry/RobertLloyd.htm) and ads from [trading    companies seeking hunters](http://web.archive.org/web/20180828030756/http://www.springfieldohiohistory.net:80/adstradecards.htm). Scroll down through each page for the    aforementioned images.
 * newspaper accounts regarding skirmishes/battles between the Iroquois    Confederation/other tribes in the Great Lakes region in the [Beaver Wars](http://www.ohiohistorycentral.org/entry.php?rec=483);
 * Quotes from all parties involved in the fur trade (Native American chiefs,    trading company owners such as Manuel Lisa, mountain men, etc.)
 * Pictures of people wearing beaver hats;
-* [John Jacob Astor](http://www.thefreemanonline.org/features/john-jacob-astor-and-the-fur-trade-testing-the-role-of-government/).
+* [John Jacob Astor](http://web.archive.org/web/20180828031606/http://www.thefreemanonline.org:80/features/john-jacob-astor-and-the-fur-trade-testing-the-role-of-government/).
 
 ***Be sure to use some visuals!*** **Reflection:** Students reflect on the original question by presenting their hypotheses in written form. Along with their response about the disappearance of the beaver, students are asked to think about the process of historical inquiry and how it relates to the steps they followed to arrive at a hypothesis.

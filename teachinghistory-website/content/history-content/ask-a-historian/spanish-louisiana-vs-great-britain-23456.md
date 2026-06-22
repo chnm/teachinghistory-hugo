@@ -37,7 +37,7 @@ Nevertheless, his worry did not hinder Spain's pursuit of its own interests in A
 
 ---
 
-U.S. Department of State, ["John Jay in Madrid."](http://future.state.gov/when/timeline/1776_timeline/john_jay_in_madrid.html)
+U.S. Department of State, ["John Jay in Madrid."](http://web.archive.org/web/20160319032448/http://future.state.gov:80/when/timeline/1776_timeline/john_jay_in_madrid.html)
 
 ## For Further Reading
 

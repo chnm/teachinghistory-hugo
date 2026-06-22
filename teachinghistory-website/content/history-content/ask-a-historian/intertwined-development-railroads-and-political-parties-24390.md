@@ -54,4 +54,4 @@ The People’s Party, or the Populists, emerged in the 1890s calling for strict 
 
 Martin, Albro.  [**Railroads Triumphant**](http://www.amazon.com/Railroads-Triumphant-Rejection-Rebirth-American/dp/0195038533/ref=sr_1_3?s=books&ie=UTF8&qid=1290261543&sr=1-3) (Oxford: Oxford University Press, 1992).
 
-The National Atlas of the United States of America. ["Presidential Elections 1908-1920."](http://www.nationalatlas.gov/printable/images/pdf/elections/elect08.pdf)  Last modified August 03 2010.
+The National Atlas of the United States of America. ["Presidential Elections 1908-1920."](http://web.archive.org/web/20140904093141/http://nationalatlas.gov/printable/images/pdf/elections/elect08.pdf)  Last modified August 03 2010.

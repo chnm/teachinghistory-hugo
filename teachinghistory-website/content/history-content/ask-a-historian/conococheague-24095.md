@@ -31,13 +31,13 @@ The U.S. Geological Survey’s Geographic Names Information System (GNIS) [publi
 
 Some people are determined that the word is pronounced with the accent on the last syllable—“Kahn-uh-kuh-JIG.” However, the bulk of the evidence gives pride of place to putting the accent on the second to the last syllable.
 
-The accepted pronunciation, according to [AllRefer.com](http://reference.allrefer.com/gazetteer/C/C10097-conococheague-creek.html) is “KAH-no-KAH-cheek,” with the accent on the penultimate syllable. And, listening to the folks at the Conococheague Institute in Mercersburg, Pennsylvania, pronounce it, I heard “KAH-no-KAH-cheeg.”
+The accepted pronunciation, according to [AllRefer.com](http://web.archive.org/web/20051117095739/http://reference.allrefer.com:80/gazetteer/C/C10097-conococheague-creek.html) is “KAH-no-KAH-cheek,” with the accent on the penultimate syllable. And, listening to the folks at the Conococheague Institute in Mercersburg, Pennsylvania, pronounce it, I heard “KAH-no-KAH-cheeg.”
 
 In 1822, the Moravian missionary, John Gottlieb Heckewelder (1743-1823), widely traveled among the Delaware Indians, sent to the American Philosophical Society a long descriptive list he had compiled of Indian names of geographical features. On his list (p. 373, as published by the American Philosophical Society in 1834) was “Conococheague,” which he then phoneticized as “Guneukìtschik,” with the accent on the penultimate syllable. He offered the translation as “long indeed, very long indeed.”
 
 ---
 
-Visit the Conococheague Institute's [website](http://conococheague.org/), to learn about its mission, "dedicated to promoting and interpreting the history of the French and Indian War in Pennsylvania, Maryland, West Virginia and Virginia."
+Visit the Conococheague Institute's [website](http://web.archive.org/web/20231130104331/http://www.conococheague.org/), to learn about its mission, "dedicated to promoting and interpreting the history of the French and Indian War in Pennsylvania, Maryland, West Virginia and Virginia."
 
 [**Resources on Native American History**](/teaching-materials/ask-a-master-teacher/22901)
 

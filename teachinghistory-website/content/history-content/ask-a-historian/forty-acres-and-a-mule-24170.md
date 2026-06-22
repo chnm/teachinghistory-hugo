@@ -105,7 +105,7 @@ Claude F. Oubre, *Forty Acres and a Mule: The Freedmen’s Bureau and Black Land
 
 Barton Myers, ["Sherman's Field Order No. 15,"](http://www.georgiaencyclopedia.org/nge/Article.jsp?id=h-3353) *The New Georgia Encyclopedia, 2005.
 
-Text of [Special Field Order No. 15](http://www.history.umd.edu/Freedmen/sfo15.htm), at the Freedmen & Southern Society Project at the University of Maryland.*
+Text of [Special Field Order No. 15](http://web.archive.org/web/20130604031802/http://www.history.umd.edu:80/Freedmen/sfo15.htm), at the Freedmen & Southern Society Project at the University of Maryland.*
 
 ## For Further Reading
 

@@ -53,13 +53,13 @@ Moody, Anne. [*Coming of Age in Mississippi*](http://www.randomhouse.com/catalog
 
 [**International Civil Rights Center and Museum**](http://www.sitinmovement.org/home.asp)
 
-Pitrone, Jean Maddern.  [*F. W. Woolworth and the American Five and Dime: A Social History.*](http://www.mcfarlandpub.com/book-2.php?id=978-0-7864-3024-6) Jefferson, NC: McFarland & Company, Inc., 2007.
+Pitrone, Jean Maddern.  [*F. W. Woolworth and the American Five and Dime: A Social History.*](http://web.archive.org/web/20120108202520/http://www.mcfarlandpub.com:80/book-2.php?id=978-0-7864-3024-6) Jefferson, NC: McFarland & Company, Inc., 2007.
 
 [**Veterans of the Civil Rights Movement**](http://www.crmvet.org/images/imgcoll.htm) \*for iconic images of the sit in scroll to the bottom half of the page\*](http://books.simonandschuster.com/Pillar-of-Fire/Taylor-Branch/9780684848099)
 
 ## For Further Reading
 
-[**Civil Rights in America: Racial Desegregation of Public Accommodations.**](http://www.nps.gov/history/nhl/themes/Public%20Accom.pdf) The National Historic Landmarks, Cultural Resources, National Park Service, U.S. Department of the Interior, Washington, D.C.  (accessed December 1, 2010).
+[**Civil Rights in America: Racial Desegregation of Public Accommodations.**](http://web.archive.org/web/20120415024836/http://www.nps.gov/history/nhl/themes/Public%20Accom.pdf) The National Historic Landmarks, Cultural Resources, National Park Service, U.S. Department of the Interior, Washington, D.C.  (accessed December 1, 2010).
 
 Dittmer, John.  [Local People: The Struggle for Civil Rights in Mississippi.](http://www.press.uillinois.edu/books/catalog/47qng2nh9780252065071.html) Champaign, IL: University of Illinois Press, 1994.  
 

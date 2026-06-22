@@ -67,6 +67,6 @@ Jensen, Merill. *The Founding of a Nation, A History of the American Revolution 
 
 Maier, Pauline.  [*From Resistance to Revolution: Colonial Radicals and the Development of Opposition to Britain, 1765-1776*](http://books.wwnorton.com/books/detail.aspx?ID=12727).  New York: W. W. Norton & Company, 1992.
 
-Morgan, Helen and Edmund S. Morgan. [*The Stamp Act Crisis: Prologue to Revolution*](http://uncpress.unc.edu/browse/book_detail?title_id=562) Chapel Hill: The University of North Carolina Press, 1995.
+Morgan, Helen and Edmund S. Morgan. [*The Stamp Act Crisis: Prologue to Revolution*](http://web.archive.org/web/20160823045207/http://www.uncpress.unc.edu/browse/book_detail?title_id=562) Chapel Hill: The University of North Carolina Press, 1995.
 
 Thomas, P.D.G. (Peter). [*Townshend Duties Crisis: The Second Phase of the American Revolution, 1767-1773*](http://www.amazon.com/Townshend-Duties-Crisis-Revolution-1767-1773/dp/0198229674/ref=sr_1_2?s=books&ie=UTF8&qid=1291168929&sr=1-2) Claredon Press, Oxford University Press, 1987.

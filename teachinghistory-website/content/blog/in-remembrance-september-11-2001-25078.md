@@ -62,11 +62,11 @@ If you are contrasting 9/11 with other traumatic events in U.S. history, you may
 
 **From 2011:**
 
-* Recordings of [presentations](http://smithsonianconference.org/september11/) from *September 11: Teaching Contemporary History*, a two-day conference presented by the Smithsonian National Museum of American History, National September 11 Memorial and Museum, Pentagon Memorial Fund, and Flight 93 National Memorial, consider how understanding of 9/11 has changed.
+* Recordings of [presentations](http://web.archive.org/web/20250207003916/http://smithsonianconference.org/september11/) from *September 11: Teaching Contemporary History*, a two-day conference presented by the Smithsonian National Museum of American History, National September 11 Memorial and Museum, Pentagon Memorial Fund, and Flight 93 National Memorial, consider how understanding of 9/11 has changed.
 * [Articles](http://magazine.oah.org/issues/253/) from the Organization of American Historians on teaching 9/11 draw on memories of 9/11 submitted to websites (follow the link and scroll down to the "Editor's Choice" selections).
 * A free [curriculum guide](https://sites.google.com/site/the4actioninitiative/home) from the 4 Action Initiative includes more than 130 lesson plans for K-12.
 * A call for teachers from the *New York Times* asks educators to [contribute their strategies](http://learning.blogs.nytimes.com/2011/07/19/how-do-you-teach-about-911/?nl=learning&emc=learninga1) for teaching 9/11, and a later [article](http://learning.blogs.nytimes.com/2011/09/02/resources-teaching-and-learning-about-911-with-the-new-york-times/?nl=learning&emc=learninga1) pulls together NYT resources
-* Two simple [timelines](http://www.onlinelearningexchange.com/content/assets/asset.html?id=8&type=sco&w=955&h=515) look at themes related to the attacks at Pearson's *Online Learning Exchange*
+* Two simple [timelines](http://web.archive.org/web/20201114003501/https://onlinelearningexchange.com/content/assets/asset.html?id=8&type=sco&w=955&h=515) look at themes related to the attacks at Pearson's *Online Learning Exchange*
 * A free oral history [lesson plan](http://www.choices.edu/resources/twtn/twtn-911-10-year.php) from Brown University's Choices program
 * EDSITEment's [lesson plans](http://edsitement.neh.gov/virtual-visit-national-september-11-memorial-and-museum) on 9/11 and heroism
 
@@ -75,8 +75,8 @@ If you are contrasting 9/11 with other traumatic events in U.S. history, you may
 Many websites and publications also offer primary sources, yet to be interpreted for educational use or packaged into lesson plans. If you have the time to search for and browse these materials, they can provide a rich base from which to assemble your own comparison of past and present. Here are some examples:
 
 * The *New York Times'* "[Times Topics](http://topics.nytimes.com/top/reference/timestopics/subjects/s/sept_11_2001/index.html)" page collects all *NYT* articles and photographs that mention 9/11. It archives original coverage of September 11 and NYT anniversary pages from 2002 to 2006, as well as short biographies memorializing the victims of the attack (see "[Portraits of Grief](http://www.nytimes.com/interactive/us/sept-11-reckoning/portraits-of-grief.html)").
-* [Lectures and panels](http://ci.columbia.edu/ci/eresources/wtc.html) from Columbia University respond to and attempt to contextualize 9/11.
-* Columbia University also created a [guide](http://library.columbia.edu/indiv/usgd/wtc.html) to key documents on presidential, administrative, congressional, and international responses to 9/11.
+* [Lectures and panels](http://web.archive.org/web/20190923194830/http://ci.columbia.edu/ci/eresources/wtc.html) from Columbia University respond to and attempt to contextualize 9/11.
+* Columbia University also created a [guide](http://web.archive.org/web/20130405012424/http://library.columbia.edu/indiv/usgd/wtc.html) to key documents on presidential, administrative, congressional, and international responses to 9/11.
 * [Archived television footage](http://www.archive.org/details/sept_11_tv_archive) from ABC, BBC, CBS, CNN, FOX, and NBC spans September 11–13.
 * Legacy.com's [*Remember: September 11*](http://www.legacy.com/Sept11/Home.aspx) preserves biographies of the 9/11 victims, searchable by name, home city and state, and flight.
 * [Sourcebooks](http://www.gwu.edu/~nsarchiv/NSAEBB/sept11/index.html) from the National Security Archive gather up primary sources related to U.S. policies on terrorism, Afghanistan, biological warfare, anthrax attacks, the Taliban, and Osama Bin Laden.

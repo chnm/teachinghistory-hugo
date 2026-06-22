@@ -16,6 +16,8 @@ Usage:
     uv run utils/link_checker.py check --limit 100    # Check only first N unchecked links
     uv run utils/link_checker.py wayback              # Look up Wayback Machine snapshots for dead links
     uv run utils/link_checker.py wayback --resume     # Resume interrupted wayback run
+    uv run utils/link_checker.py replace              # Dry run: show what would be replaced
+    uv run utils/link_checker.py replace --apply      # Actually replace dead links with Wayback URLs
 """
 
 import argparse
@@ -437,6 +439,72 @@ def run_wayback(resume: bool = False, limit: int | None = None):
     print(f"Not archived:               {not_archived}")
 
 
+# --- Replace phase ---
+
+def run_replace(dry_run: bool = True):
+    """Replace dead links in content files with Wayback Machine URLs."""
+    if not WAYBACK_CSV.exists():
+        print(f"No wayback results found at {WAYBACK_CSV}. Run 'wayback' first.")
+        sys.exit(1)
+
+    # Build replacement map: {(source_file, old_url): wayback_url}
+    replacements = {}
+    with open(WAYBACK_CSV, encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            if row["wayback_status"] == "found" and row["wayback_url"]:
+                key = (row["source_file"], row["link_url"])
+                replacements[key] = row["wayback_url"]
+
+    # Group by source file
+    by_file: dict[str, list[tuple[str, str]]] = {}
+    for (source_file, old_url), new_url in replacements.items():
+        by_file.setdefault(source_file, []).append((old_url, new_url))
+
+    print(f"Found {len(replacements)} link replacements across {len(by_file)} files.")
+    if dry_run:
+        print("DRY RUN — no files will be modified. Use --apply to make changes.\n")
+
+    files_modified = 0
+    links_replaced = 0
+    skipped = []
+
+    for source_file, swaps in sorted(by_file.items()):
+        file_path = CONTENT_DIR / source_file
+        if not file_path.exists():
+            skipped.append((source_file, "file not found"))
+            continue
+
+        text = file_path.read_text(encoding="utf-8")
+        original = text
+        file_replacements = 0
+
+        for old_url, new_url in swaps:
+            if old_url in text:
+                text = text.replace(old_url, new_url)
+                file_replacements += 1
+            else:
+                skipped.append((source_file, f"URL not found in file: {old_url[:80]}"))
+
+        if text != original:
+            if dry_run:
+                print(f"  Would modify {source_file} ({file_replacements} links)")
+            else:
+                file_path.write_text(text, encoding="utf-8")
+                print(f"  Modified {source_file} ({file_replacements} links)")
+            files_modified += 1
+            links_replaced += file_replacements
+
+    print(f"\n{'Would replace' if dry_run else 'Replaced'} {links_replaced} links in {files_modified} files.")
+    if skipped:
+        print(f"Skipped {len(skipped)} replacements:")
+        for source_file, reason in skipped[:20]:
+            print(f"  {source_file}: {reason}")
+        if len(skipped) > 20:
+            print(f"  ... and {len(skipped) - 20} more")
+    if dry_run:
+        print("\nRun with --apply to make changes.")
+
+
 # --- CLI ---
 
 def main():
@@ -453,6 +521,9 @@ def main():
     wayback_parser.add_argument("--resume", action="store_true", help="Skip already-looked-up URLs")
     wayback_parser.add_argument("--limit", type=int, default=None, help="Max URLs to look up this run")
 
+    replace_parser = sub.add_parser("replace", help="Replace dead links with Wayback Machine URLs")
+    replace_parser.add_argument("--apply", action="store_true", help="Actually modify files (default is dry run)")
+
     args = parser.parse_args()
     if args.command == "extract":
         run_extract()
@@ -460,6 +531,8 @@ def main():
         run_check(resume=args.resume, limit=args.limit)
     elif args.command == "wayback":
         run_wayback(resume=args.resume, limit=args.limit)
+    elif args.command == "replace":
+        run_replace(dry_run=not args.apply)
     else:
         parser.print_help()
 

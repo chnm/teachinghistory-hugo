@@ -28,7 +28,7 @@ Teachinghistory.org goes beyond easy access to content and resources. It also de
 
 ## More Resources
 
-Keep exploring Teachinghistory.org to find many other features. Visit the [blog](/blog/) or follow us on [Twitter](http://twitter.com/#!/teachinghistory) for the latest content and resources. Ask a [Historian](/history-content/ask-a-historian), [Master Teacher](/teaching-materials/ask-a-master-teacher), or a [Digital Historian](/digital-classroom/ask-a-digital-historian) when you come across a problem or interesting question. Whether you're looking for content or methods, Teachinghistory.org can lead the way.
+Keep exploring Teachinghistory.org to find many other features. Visit the [blog](/blog/) or follow us on [Twitter](http://web.archive.org/web/20260621152758/https://twitter.com/) for the latest content and resources. Ask a [Historian](/history-content/ask-a-historian), [Master Teacher](/teaching-materials/ask-a-master-teacher), or a [Digital Historian](/digital-classroom/ask-a-digital-historian) when you come across a problem or interesting question. Whether you're looking for content or methods, Teachinghistory.org can lead the way.
 
 ## Image Credits
 

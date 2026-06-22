@@ -62,9 +62,9 @@ Fischer, David Hackett. [*Washington’s Crossing.*](http://www.oup.com/us/catal
 
 Higginbotham, Don. [*War of American Independence.*](http://www.upne.com/0-930350-43-X.html) Northeastern University Press, 1983.
 
-McCullough, David. [*1776.*](http://books.simonandschuster.com/1776/David-McCullough/9781416542100) New York: Simon & Schuster, 2005.
+McCullough, David. [*1776.*](http://web.archive.org/web/20160517130748/http://books.simonandschuster.com:80/1776/David-McCullough/9781416542100) New York: Simon & Schuster, 2005.
 
-Royster, Charles. [*A Revolutionary People at War: The Continental Army and American Character, 1775-1783.*](http://uncpress.unc.edu/browse/book_detail?title_id=103) Chapel Hill: University of North Carolina Press, 1996.
+Royster, Charles. [*A Revolutionary People at War: The Continental Army and American Character, 1775-1783.*](http://web.archive.org/web/20160823045713/http://www.uncpress.unc.edu/browse/book_detail?title_id=103) Chapel Hill: University of North Carolina Press, 1996.
 
 ## For Further Reading
 

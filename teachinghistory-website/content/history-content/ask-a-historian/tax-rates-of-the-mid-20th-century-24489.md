@@ -76,7 +76,7 @@ Rampell, Cathleen. “Tax Burdens Around the World,” [*New York Times*](http:/
 
 *Tax Foundation, Income Tax Rates and Brackets, 1913-2011.* Accessed 28 January 2011.
 
-[*State-Local Tax Burdens, 1977-2008*](http://www.taxfoundation.org/news/show/335.html ) Accessed 28 January 2011.
+[*State-Local Tax Burdens, 1977-2008*](http://web.archive.org/web/20221026162531/https://taxfoundation.org/news/show/335.html ) Accessed 28 January 2011.
 
 [*Tax Policy Briefing Book: How do U.S. taxes compare internationally?*](http://www.taxpolicycenter.org/briefing-book/background/numbers/international.cfm) Updated 18 March 2010.  Percent of GDP for taxes is the internationally-recognized indicator for comparison; it does not mean the same thing as percent of individual income for taxes. 
 

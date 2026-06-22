@@ -29,7 +29,7 @@ For American history, the nation's largest library, the [Library of Congress (LO
 * You're then invited to [Browse Collections by Topic](https://memory.loc.gov/ammem/browse/)
 * Select *More browse options* at the bottom of the lefthand column.
 * On the linked page, under *Browse Collections Containing* on the right, select *Photos, Prints*
-* From there, you're led to the search page for [LOC Photos and Prints collections](http://memory.loc.gov/ammem/browse/ListSome.php?format=Photograph)
+* From there, you're led to the search page for [LOC Photos and Prints collections](http://web.archive.org/web/20200121214350/http://memory.loc.gov:80/ammem/browse/ListSome.php?format=Photograph)
 
 Once you've entered your search terms, remember that thumbnails comprise the Gallery View—sometimes more helpful than the text listing. (And to shorten future searches, consider adding these URLs to your browser bookmarks or to your Delicious tags or Diigo folders.) The [Prints and Photographs Online Catalog](http://www.loc.gov/rr/print/catalog.html) is another route through LOC photographic collections. As you'd expect, the more specific your search, the more helpful the results. The broad search term, *Civil War*, for example, yields 10,000 hits!
 

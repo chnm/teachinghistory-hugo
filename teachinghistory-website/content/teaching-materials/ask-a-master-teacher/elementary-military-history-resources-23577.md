@@ -47,7 +47,7 @@ Libraries are another obvious choice for booklists. One great source is the Spri
 
 Another approach you can take is to check out social studies reading lists with works for students of all ages, which will include some elementary-level works dealing with military history. One great list is the [recommended books archive](http://www.pbs.org/teachers/bookslinks/bookspages/socialstudies-archive.html) for social studies on the PBS Teachers website. Bear in mind, though, that these books are for all readers, not just elementary students.
 
-Finally, there are other websites available online that compile booklists by topic and by grade-level. One relatively comprehensive example is the "[Children’s Books about War](http://school.familyeducation.com/war/reading/37950.html)" page on the Family Education website. The forty books on the list range by grade level, but all focus in some way on military conflict and war.
+Finally, there are other websites available online that compile booklists by topic and by grade-level. One relatively comprehensive example is the "[Children’s Books about War](http://web.archive.org/web/20150925201649/http://school.familyeducation.com/war/reading/37950.html)" page on the Family Education website. The forty books on the list range by grade level, but all focus in some way on military conflict and war.
 
 ## Timelines
 
@@ -57,7 +57,7 @@ In terms of a timeline, one of the more comprehensive military timelines on the 
 
 As for field trips for students interested in war and military history, there is a wide range of museums and historic sites. A wide range of museums exists, from the [American Civil War Museum](http://www.gettysburgmuseum.com/) in Gettysburg, PA, to the United States Holocaust Memorial Museum in Washington, DC, to the [Korean War National Museum](http://www.theforgottenvictory.org/) in Springfield, IL, dealing with specific wars, and those museums frequently have educational outreach programs.
 
-Other, state-specific museums, like the Virginia War Museum, or the [Texas Civil War Museum](http://www.texascivilwarmuseum.com/), look more closely at military history within particular states. Another great resource is the National Park Service, which maintains both [Revolutionary War Sites](http://www.nps.gov/pub_aff/rev1812/primary_sites.htm) and [Civil War Sites](http://www.nps.gov/civilwar/places.htm)—sites that students can visit in a number of different states and that frequently offer educational outreach.
+Other, state-specific museums, like the Virginia War Museum, or the [Texas Civil War Museum](http://web.archive.org/web/20260508135120/https://texascivilwarmuseum.com/), look more closely at military history within particular states. Another great resource is the National Park Service, which maintains both [Revolutionary War Sites](http://www.nps.gov/pub_aff/rev1812/primary_sites.htm) and [Civil War Sites](http://www.nps.gov/civilwar/places.htm)—sites that students can visit in a number of different states and that frequently offer educational outreach.
 
 Of course, one of the easiest ways to find potential field trip locations is by using the Museums and Historic Sites search engine on the National History Education Clearinghouse website.
 
@@ -76,7 +76,7 @@ Libraries are another obvious choice for booklists. One great source is the Spri
 
 Another approach you can take is to check out social studies reading lists with works for students of all ages, which will include some elementary-level works dealing with military history. One great list is the [recommended books archive](http://www.pbs.org/teachers/bookslinks/bookspages/socialstudies-archive.html) for social studies on the PBS Teachers website. Bear in mind, though, that these books are for all readers, not just elementary students.
 
-Finally, there are other websites available online that compile booklists by topic and by grade-level. One relatively comprehensive example is the "[Children’s Books about War](http://school.familyeducation.com/war/reading/37950.html)" page on the Family Education website. The forty books on the list range by grade level, but all focus in some way on military conflict and war.
+Finally, there are other websites available online that compile booklists by topic and by grade-level. One relatively comprehensive example is the "[Children’s Books about War](http://web.archive.org/web/20150925201649/http://school.familyeducation.com/war/reading/37950.html)" page on the Family Education website. The forty books on the list range by grade level, but all focus in some way on military conflict and war.
 
 ## Timelines
 
@@ -86,6 +86,6 @@ In terms of a timeline, one of the more comprehensive military timelines on the 
 
 As for field trips for students interested in war and military history, there is a wide range of museums and historic sites. A wide range of museums exists, from the [American Civil War Museum](http://www.gettysburgmuseum.com/) in Gettysburg, PA, to the United States Holocaust Memorial Museum in Washington, DC, to the [Korean War National Museum](http://www.theforgottenvictory.org/) in Springfield, IL, dealing with specific wars, and those museums frequently have educational outreach programs.
 
-Other, state-specific museums, like the Virginia War Museum, or the [Texas Civil War Museum](http://www.texascivilwarmuseum.com/), look more closely at military history within particular states. Another great resource is the National Park Service, which maintains both [Revolutionary War Sites](http://www.nps.gov/pub_aff/rev1812/primary_sites.htm) and [Civil War Sites](http://www.nps.gov/civilwar/places.htm)—sites that students can visit in a number of different states and that frequently offer educational outreach.
+Other, state-specific museums, like the Virginia War Museum, or the [Texas Civil War Museum](http://web.archive.org/web/20260508135120/https://texascivilwarmuseum.com/), look more closely at military history within particular states. Another great resource is the National Park Service, which maintains both [Revolutionary War Sites](http://www.nps.gov/pub_aff/rev1812/primary_sites.htm) and [Civil War Sites](http://www.nps.gov/civilwar/places.htm)—sites that students can visit in a number of different states and that frequently offer educational outreach.
 
 Of course, one of the easiest ways to find potential field trip locations is by using the Museums and Historic Sites search engine on the National History Education Clearinghouse website.

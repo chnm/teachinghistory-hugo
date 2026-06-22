@@ -58,6 +58,6 @@ http://findarticles.com/p/articles/mi\_pric/is\_200211/ai\_3178660388/
 Images:
 1876 facsimile of the text of the Declaration of Independence as it appeared in the *Pennsylvania Packet*, July 8, 1776. 
 
-Signature of George Mason, 1785, from the [George Mason Manuscript Collection](http://www.gunstonhall.org/library/archives/finding_aids/gm_finding_aid.html), [Gunston Hall](http://teachinghistory.org/history-content/historical-places/11833), Virginia. 
+Signature of George Mason, 1785, from the [George Mason Manuscript Collection](http://web.archive.org/web/20181023084355/http://www.gunstonhall.org:80/library/archives/finding_aids/gm_finding_aid.html), [Gunston Hall](http://teachinghistory.org/history-content/historical-places/11833), Virginia. 
 
 Detail of copy of the Constitution of the United States, National Archives and Records Administration, Washington, DC.

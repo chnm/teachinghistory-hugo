@@ -36,7 +36,7 @@ How about starting with an idea or line from the document? One of our favorites 
 
 Considering the historical and contemporary significance of the document can also engage. Do students have a grasp of the road to Revolution, do they understand the chain of events and rising discontent in the Colonies? The risk to the signers? The historical moment? This background knowledge can help students in understanding the import of the document and its prose. Or look at instances where the document serves as a model ([the Seneca Falls Declaration](http://www.fordham.edu/halsall/mod/senecafalls.html))
 
-or reference point (MLK’s reference to it as “promissory note” in his [I Have a Dream Speech](http://www.usconstitution.net/dream.html))
+or reference point (MLK’s reference to it as “promissory note” in his [I Have a Dream Speech](http://web.archive.org/web/20260310193126/https://usconstitution.net/dream.html/))
 
 As far as reading the document, we suggest two intertwined approaches (both to be used with a transcribed version).
 > 1. Help students see the structure of the document so they know what to expect. Show them how it moves from initial paragraphs that get what the states are doing and why, to a list of specific grievances, to assurances that these are not capricious complaints or actions and then the ultimate declaration.
@@ -73,7 +73,7 @@ How about starting with an idea or line from the document? One of our favorites 
 
 Considering the historical and contemporary significance of the document can also engage. Do students have a grasp of the road to Revolution, do they understand the chain of events and rising discontent in the Colonies? The risk to the signers? The historical moment? This background knowledge can help students in understanding the import of the document and its prose. Or look at instances where the document serves as a model ([the Seneca Falls Declaration](http://www.fordham.edu/halsall/mod/senecafalls.html))
 
-or reference point (MLK’s reference to it as “promissory note” in his [I Have a Dream Speech](http://www.usconstitution.net/dream.html))
+or reference point (MLK’s reference to it as “promissory note” in his [I Have a Dream Speech](http://web.archive.org/web/20260310193126/https://usconstitution.net/dream.html/))
 
 As far as reading the document, we suggest two intertwined approaches (both to be used with a transcribed version).
 > 1. Help students see the structure of the document so they know what to expect. Show them how it moves from initial paragraphs that get what the states are doing and why, to a list of specific grievances, to assurances that these are not capricious complaints or actions and then the ultimate declaration.

@@ -48,7 +48,7 @@ Any excuse to get students up and interacting with their classmates and the IWB 
 
 Place primary source text on the IWB and have students highlight the main idea, or write reactions/questions in the margins. This activity encourages students to interact with primary sources and ask questions of text, something students must do to think like a historian.
 
-Students could also use the IWB to review a [cloze passage](http://www.ehow.com/how_4425024_make-cloze-passage.html). The cloze passage could be projected with the answers blocked out. Students would then approach the board to guess as to the correct word and "rub and reveal" the correct answer lying beneath the color block. IWB software tools allow you to write text, layer text, and lock text so that when a student uses the eraser function, he/she reveals the correct answer beneath.
+Students could also use the IWB to review a [cloze passage](http://web.archive.org/web/20151003105440/http://www.ehow.com/how_4425024_make-cloze-passage.html). The cloze passage could be projected with the answers blocked out. Students would then approach the board to guess as to the correct word and "rub and reveal" the correct answer lying beneath the color block. IWB software tools allow you to write text, layer text, and lock text so that when a student uses the eraser function, he/she reveals the correct answer beneath.
 
 ## Analyzing Images
 
@@ -63,5 +63,5 @@ With an IWB in the classroom, students are often itching to get a chance to use 
 ---
 
 * PBS. [Interactive White Board Games](http://pbskids.org/whiteboard/).
-* Hoy, Amy and Eric Kastor. [bfuddlr!](http://befuddlr.com/).
+* Hoy, Amy and Eric Kastor. [bfuddlr!](http://web.archive.org/web/20220916051123/http://befuddlr.com/).
   Make an interactive puzzle out of any image as a fun warm up activity.

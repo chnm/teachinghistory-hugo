@@ -44,7 +44,7 @@ Gertrude Folks Zimand, General Secretary of the National Child Labor Committee, 
 
 ---
 
-Robert Whaples. ["Child Labor in the United States."](http://eh.net/encyclopedia/article/whaples.childlabor) EH.Net Encyclopedia, edited by Robert Whaples. October 7, 2005.
+Robert Whaples. ["Child Labor in the United States."](http://web.archive.org/web/20250329222759/http://eh.net/encyclopedia/article/whaples.childlabor) EH.Net Encyclopedia, edited by Robert Whaples. October 7, 2005.
 
 The text of the [Fair Labor Standards Act of 1938, as amended](http://docs.google.com/viewer?a=v&q=cache:UU0RyE4kuxQJ:www.osha.gov/pls/epub/wageindex.download%3Fp_file%3DF15794/FairLaborStandAct.pdf+Fair+Labor+Standards+Act&hl=en&gl=us&pid=bl&srcid=ADGEESiW6vg0k1He4h4sW_QkGphBqp0tdvjFAdNqiQ8yGgyq7rztmow_CMvommQ93A_wJk_hld-QncJGMGwkF5LKlCoWahwt2DcmKohox0KP5lSQD2MSwvRGL8KrET_8jtZaUI-tPy00&sig=AHIEtbQ3qfnL5QKoSJ16PYqrN03vFP9djQ).
 
@@ -52,11 +52,11 @@ The National Child Labor Committee [website](http://www.nationalchildlabor.org/)
 
 [Child Labor Statistics]( http://www.dol.gov/dol/topic/youthlabor/childlaborstatistics.htm) at the United States Department of Labor.
 
-Donald M. Fisk. ["American Labor in the 20th Century"](http://www.bls.gov/opub/cwc/cm20030124ar02p1.htm) at the Bureau of Labor Statistics.
+Donald M. Fisk. ["American Labor in the 20th Century"](http://web.archive.org/web/20130709133814/http://www.bls.gov/opub/cwc/cm20030124ar02p1.htm) at the Bureau of Labor Statistics.
 
-["Child Labor Laws and Enforcement,"](http://www.bls.gov/opub/rylf/pdf/chapter2.pdf) chapter 2 of the *Report on the Youth Labor Force* (revised 2000) at the Bureau of Labor Statistics. This includes a brief history of child labor in the U.S. and the legislative restrictions governing it, as well as a discussion comparing aspects of youth employment in the U.S., such as temporary or part-time teen employment, with youth employment elsewhere in the world.
+["Child Labor Laws and Enforcement,"](http://web.archive.org/web/20180113074613/https://www.bls.gov/opub/rylf/pdf/chapter2.pdf) chapter 2 of the *Report on the Youth Labor Force* (revised 2000) at the Bureau of Labor Statistics. This includes a brief history of child labor in the U.S. and the legislative restrictions governing it, as well as a discussion comparing aspects of youth employment in the U.S., such as temporary or part-time teen employment, with youth employment elsewhere in the world.
 
-The Child Labor Public Education Project's website on [Child Labor in U.S. History]( http://www.continuetolearn.uiowa.edu/laborctr/child_labor/about/us_history.html) provides links to a variety of documents on child labor.
+The Child Labor Public Education Project's website on [Child Labor in U.S. History]( http://web.archive.org/web/20171010172721/http://www.continuetolearn.uiowa.edu/laborctr/child_labor/about/us_history.html) provides links to a variety of documents on child labor.
 
 ## For Further Reading
 

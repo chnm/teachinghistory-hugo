@@ -17,4 +17,4 @@ tags:
 - university students
 ---
 
-Designed for college-age students, this page walks users through the process of appraising a source. In Part I, it describes the “Initial Appraisal” that should be conducted by looking at elements like author, date of publication, and publisher. In Part II, it describes the process of content analysis, in which students should consider aspects like the work’s intended audience and writing style. A related [page](https://olinuris.library.cornell.edu/ref/research/webeval.html)  provides tools for evaluating websites.
+Designed for college-age students, this page walks users through the process of appraising a source. In Part I, it describes the “Initial Appraisal” that should be conducted by looking at elements like author, date of publication, and publisher. In Part II, it describes the process of content analysis, in which students should consider aspects like the work’s intended audience and writing style. A related [page](http://web.archive.org/web/20170106180652/https://olinuris.library.cornell.edu/ref/research//webeval.html)  provides tools for evaluating websites.

@@ -47,7 +47,7 @@ Carol Berkin, a historian at Baruch College, mentions Prudence Patterson in her 
 
 For this information, Berkin' cites the *Year Book, 2003-2004*, of the Harriet Prudence Patterson Hall Chapter of the National Society of the Daughters of the American Revolution of North Little Rock, Arkansas. You might contact the Prudence Hall Chapter through their [website](http://arkansas-dar.org/prudencehall.htm) and ask them about the source of their information. According to their website, Harriet Hetley West, a descendant of Prudence and John Hall, emigrated to Arkansas in the 1850s, and it was through her and her descendants that the North Little Rock Chapter of the DAR was formed in 1963.
 
-Another source for more information would be the [Southern Revolutionary War Institute](http://chmuseums.org/southern-rev-war-institute-mc/), at the McCelvey Center in York, South Carolina, at the Museum of York County. A description on their website of their holdings of [family histories](http://chmuseums.org/mccelvey/hc-family-genealogy.php/) related to York County, says they have a copy of *The Hall Family*, by Claudia Hall O'Driscoll, which may never have been published, since it doesn't show up in online library catalogs. I would guess that your ancestor appears in it, perhaps with some documentation.
+Another source for more information would be the [Southern Revolutionary War Institute](http://web.archive.org/web/20230117201606/http://chmuseums.org/southern-rev-war-institute-mc/), at the McCelvey Center in York, South Carolina, at the Museum of York County. A description on their website of their holdings of [family histories](http://web.archive.org/web/20210624021531/https://chmuseums.org/mccelvey/hc-family-genealogy.php/) related to York County, says they have a copy of *The Hall Family*, by Claudia Hall O'Driscoll, which may never have been published, since it doesn't show up in online library catalogs. I would guess that your ancestor appears in it, perhaps with some documentation.
 
 ## A Family Letter
 
@@ -77,13 +77,13 @@ Annie Lumpkins' letter, however, does not say when the letter-in-the-petticoat i
 
 At any rate, the British conducted another siege of Charleston, from April through May of 1780, which was successful. Among the more than 5,000 colonial soldiers under Major General Benjamin Lincoln who surrendered to the British on May 12th was the 2nd South Carolina Regiment, which was John Hall's unit. For more on this siege (although there is no mention of John and Prudence Hall), see Carl P. Borick's *A Gallant Defense: The Siege of Charleston, 1780* (Columbia, SC: University of South Carolina Press, 2003) and Walter J. Fraser's *Patriots, Pistols, and Petticoats: "Poor Sinful Charles Town" During the Revolutionary War Era* (Columbia, SD: University of South Carolina Press, 2003).
 
-The British commander of both sieges of Charleston was Sir Henry Clinton. His collected papers eventually found their way to the Clements Library at the University of Michigan. From Clinton's papers, the library has created a fascinating web exhibit, [Spy Letters of the American Revolution](http://www2.si.umich.edu/spies/). The exhibit has no documentation on Prudence Hall, but it draws on only a very small number of items in the collection.
+The British commander of both sieges of Charleston was Sir Henry Clinton. His collected papers eventually found their way to the Clements Library at the University of Michigan. From Clinton's papers, the library has created a fascinating web exhibit, [Spy Letters of the American Revolution](http://web.archive.org/web/20130308110723/http://www2.si.umich.edu:80/spies/). The exhibit has no documentation on Prudence Hall, but it draws on only a very small number of items in the collection.
 
 ---
 
 A [cemetery listing](http://www.rootsweb.ancestry.com/~scyork/Cemetery/Bethel.html?) of graves at Bethel Presbyterian Church in Clover, South Carolina, includes the inscriptions on the gravestones for Prudence Hall, who died at 96 years of age, on August 13, 1839, and for John Hall, who died at 47 years of age, in March, 1784.
 
-Bethel Presbyterian's [webpage](http://www.bethelpresbyterian.org/the_revolutionary_war.html) about its cemetery, including notes on the Revolutionary War soldiers buried there.
+Bethel Presbyterian's [webpage](http://web.archive.org/web/20110126073628/http://www.bethelpresbyterian.org:80/the_revolutionary_war.html) about its cemetery, including notes on the Revolutionary War soldiers buried there.
 
 General Charles Lee's letters and dispatches during the 1776 siege of Charleston are collected in [*The Lee Papers, Vol. II, 1776-1778*](http://books.google.com/books?id=T1gOAAAAIAAJ&vq=moultrie&pg=PP9#v=onepage&q=moultrie&f=false). Collections of the New York Historical Society, 1872.
 

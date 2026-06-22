@@ -7,7 +7,7 @@ draft: false
 drupal_nid: 19185
 url: /history-content/national-resources/19185
 featured: true
-website_url: http://www.preserveamerica.gov
+website_url: http://web.archive.org/web/20180707091606/http://www.preserveamerica.gov:80/
 splash_image_fid: '5044'
 summary: Preserve America is a White House initiative uniting the work of 11 federal
   agencies to support community efforts to preserve America's cultural and natural
@@ -15,7 +15,7 @@ summary: Preserve America is a White House initiative uniting the work of 11 fed
 splash_image: /files/PreserveAmerica432x240.jpg
 ---
 
-[Preserve America](http://www.preserveamerica.gov) is a White House initiative. The goal is to unite the efforts of 11 federal agencies working to support community initiatives to develop management strategies and sound business practices to save and use America's cultural and natural heritage. The program offers grants to help communities develop preservation programs and encourages educators to involve students in learning about and using local history. Look for a Preserve America Community near you: almost 600 are designated from Florida to Alaska.
+[Preserve America](http://web.archive.org/web/20180707091606/http://www.preserveamerica.gov:80/) is a White House initiative. The goal is to unite the efforts of 11 federal agencies working to support community initiatives to develop management strategies and sound business practices to save and use America's cultural and natural heritage. The program offers grants to help communities develop preservation programs and encourages educators to involve students in learning about and using local history. Look for a Preserve America Community near you: almost 600 are designated from Florida to Alaska.
 
 The Information Clearinghouse links to resources within federal agencies partnering in the Preserve America initiative.
 

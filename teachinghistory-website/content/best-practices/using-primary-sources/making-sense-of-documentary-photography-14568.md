@@ -6,7 +6,7 @@ content_type: primary_source_guide
 draft: false
 drupal_nid: 14568
 url: /best-practices/using-primary-sources/14568
-website_url: http://historymatters.gmu.edu/mse/photos/
+website_url: http://web.archive.org/web/20250317142003/https://historymatters.gmu.edu/mse/photos/
 splash_image_fid: '7407'
 summary: Textbook illustrations are often overlooked as historical evidence.
 splash_image: /files/DocumentaryPhotography432x240.jpg
@@ -17,4 +17,4 @@ tags:
 - photography
 ---
 
-A picture may be worth a thousand words, but you need to know how to analyze the picture to gain any understanding of it at all. "Making Sense of Documentary Photography" provides a place for students and teachers to grapple with the documentary images that often illustrate textbooks but are almost never considered as historical evidence in their own right. Written by James Curtis, this [guide](http://historymatters.gmu.edu/mse/photos/) offers a brief history of documentary photography, examples of what questions to ask when examining a documentary photograph, and an annotated bibliography and list of online resources for documentary photography.
+A picture may be worth a thousand words, but you need to know how to analyze the picture to gain any understanding of it at all. "Making Sense of Documentary Photography" provides a place for students and teachers to grapple with the documentary images that often illustrate textbooks but are almost never considered as historical evidence in their own right. Written by James Curtis, this [guide](http://web.archive.org/web/20250317142003/https://historymatters.gmu.edu/mse/photos/) offers a brief history of documentary photography, examples of what questions to ask when examining a documentary photograph, and an annotated bibliography and list of online resources for documentary photography.

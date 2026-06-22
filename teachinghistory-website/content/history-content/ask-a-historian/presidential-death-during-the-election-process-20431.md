@@ -28,7 +28,7 @@ No presidential candidate of a major party has ever died or withdrawn before a p
 
 However, one vice-presidential candidate died after he was nominated, but before the general election, and another dropped off his party's ticket.
 
-The procedures for finding replacements for candidate vacancies are guided by federal and state laws and party regulations. They are not exactly a patchwork, but they have evolved in response to practical problems that have arisen during the presidential elections, and in response to the growth of political parties as integral [players](http://www.deceptionpass3.com/) in the election process.
+The procedures for finding replacements for candidate vacancies are guided by federal and state laws and party regulations. They are not exactly a patchwork, but they have evolved in response to practical problems that have arisen during the presidential elections, and in response to the growth of political parties as integral [players](http://web.archive.org/web/20230401233954/http://www.deceptionpass3.com/) in the election process.
 
 In this respect, the procedures for filling vacancies in the parties' nominated tickets are like those that have evolved for the succession of the presidency when the person holding that office vacates it for one reason or another: When William Henry Harrison contracted pneumonia after giving a three-hour-long speech in the snow at his 1841 inauguration and died barely a month later, he was succeeded in office by John Tyler. It was not until confronting the issues raised in the transition of power from Harrison to Tyler that Congress thought through the rules for the succession of the President when the office is vacated during mid-term.
 
@@ -68,7 +68,7 @@ No presidential candidate of a major party has ever died or withdrawn before a p
 
 However, one vice-presidential candidate died after he was nominated, but before the general election, and another dropped off his party's ticket.
 
-The procedures for finding replacements for candidate vacancies are guided by federal and state laws and party regulations. They are not exactly a patchwork, but they have evolved in response to practical problems that have arisen during the presidential elections, and in response to the growth of political parties as integral [players](http://www.deceptionpass3.com/) in the election process.
+The procedures for finding replacements for candidate vacancies are guided by federal and state laws and party regulations. They are not exactly a patchwork, but they have evolved in response to practical problems that have arisen during the presidential elections, and in response to the growth of political parties as integral [players](http://web.archive.org/web/20230401233954/http://www.deceptionpass3.com/) in the election process.
 
 In this respect, the procedures for filling vacancies in the parties' nominated tickets are like those that have evolved for the succession of the presidency when the person holding that office vacates it for one reason or another: When William Henry Harrison contracted pneumonia after giving a three-hour-long speech in the snow at his 1841 inauguration and died barely a month later, he was succeeded in office by John Tyler. It was not until confronting the issues raised in the transition of power from Harrison to Tyler that Congress thought through the rules for the succession of the President when the office is vacated during mid-term.
 

@@ -33,7 +33,7 @@ On the material culture of Plymouth Colony, including descriptions of housing, f
 
 Easily the most influential book about the New England Puritans' religion has been Perry Miller's 1956, *Errand into the Wilderness*. More recent and well-regarded books include Sacvan Bercovitch, *The Puritan Origins of the American Self* and David D. Hall, *Worlds of Wonder, Days of Judgment: Popular Religious Belief in Early New England*.
 
-Online, Professor Donna M. Campbell’s valuable web pages on [“Puritanism in New England”](http://www.wsu.edu/~campbelld/amlit/purdef.htm) may help begin to clarify some of the Puritans’ religious beliefs.
+Online, Professor Donna M. Campbell’s valuable web pages on [“Puritanism in New England”](http://web.archive.org/web/20110514010910/http://www.wsu.edu/~campbelld/amlit/purdef.htm) may help begin to clarify some of the Puritans’ religious beliefs.
 
 Also online, you can find plenty to read and assign in volumes [1](http://books.google.com/books?id=WY0PAQAAIAAJ&pg=PR3#v=onepage&q&f=false) and [2](http://books.google.com/books?id=rI0PAQAAIAAJ&dq=library%20of%20american%20literature%20%22Benjamin%20Church%22&pg=PA63#v=thumbnail&q&f=false) of *A Library of American Literature*, edited by Edmund Stedman and Ellen Hutchinson, and compiled and published in 1887, and which is available via Google Books. The editors included diverse short selections from Puritan writers describing their inner and outer lives and their adventures in settling in America.
 

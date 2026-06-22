@@ -43,7 +43,7 @@ Dred Scott, however, was not alive to see either that political contest or the w
 
 ---
 
-Arenson, Adam. “[Freeing Dred Scott](http://www.common-place.org/vol-08/no-03/arenson/).” *Common-Place* 8:3 (April 2008)
+Arenson, Adam. “[Freeing Dred Scott](http://web.archive.org/web/20150906112549/http://www.common-place.org/vol-08/no-03/arenson/).” *Common-Place* 8:3 (April 2008)
 
 Ehrlich, Walter. *They Have No Rights: Dred Scott’s Struggle for Freedom*. Westport, CT: Greenwood Press, 1979.
 

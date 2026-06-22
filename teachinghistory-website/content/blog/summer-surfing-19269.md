@@ -19,7 +19,7 @@ tags:
 
 Summer is a great time to while away some hours on the internet. Here are some starting points we recommend, and you're invited to use the comment tool below to share some of your own favorites.
 
-Besides serving as a centralized site for current discussions about the state of history, the relationship of history to current events, and a guide to just about anything else an educator might need, the [History News Network](http://hnn.us/) offers a [categorized list of history and humanities blogs](http://hnn.us/blogs/entries/9665.html) grouped under topics such as *Historians Who Write about Many Things*, *United States History*, *Museums*, and *K–12*.
+Besides serving as a centralized site for current discussions about the state of history, the relationship of history to current events, and a guide to just about anything else an educator might need, the [History News Network](http://hnn.us/) offers a [categorized list of history and humanities blogs](http://web.archive.org/web/20130831061737/http://hnn.us:80/blogs/entries/9665.html) grouped under topics such as *Historians Who Write about Many Things*, *United States History*, *Museums*, and *K–12*.
 
 At the [American Historical Association](http://www.historians.org:), the [blog](http://blog.historians.org/) highlights topics in history from pedagogy to policy. Posts during July 2008 look at teaching history and teaching teachers of history, including an article from the May issue of Perspectives, K–12 Teaching: Why Should We Care?
 

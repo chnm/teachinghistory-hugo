@@ -38,7 +38,7 @@ tags:
 - songwriting
 ---
 
-Growing up in the '70’s, I can recall *Schoolhouse Rock* being a wonderful respite from the otherwise frenetic and vacuous menagerie of Saturday morning cartoons. It still had funk (who can forget the red-bell-bottoms-with-star-top ensemble and get-down voice featured in “[Sufferin’ ‘Till Suffrage](http://www.schooltube.com/video/547d1ffda7c6829c4545/School-House-Rock-Sufferin-Till-Suffrage)”), but it called to my inner [Barbara Tuchman](http://en.wikipedia.org/wiki/Barbara_W._Tuchman).
+Growing up in the '70’s, I can recall *Schoolhouse Rock* being a wonderful respite from the otherwise frenetic and vacuous menagerie of Saturday morning cartoons. It still had funk (who can forget the red-bell-bottoms-with-star-top ensemble and get-down voice featured in “[Sufferin’ ‘Till Suffrage](http://web.archive.org/web/20110211172930/http://www.schooltube.com:80/video/547d1ffda7c6829c4545/School-House-Rock-Sufferin-Till-Suffrage)”), but it called to my inner [Barbara Tuchman](http://en.wikipedia.org/wiki/Barbara_W._Tuchman).
 
 A decade later all that flew out the window as my generation became known as the “MTV generation,” unified by the power of fast-paced, self-indulgent, visually-stimulating music videos. Bopping around in my room in a neon mini to Culture Club, I had no idea then that someday I’d marry the two concepts together for use in my teaching career.
 

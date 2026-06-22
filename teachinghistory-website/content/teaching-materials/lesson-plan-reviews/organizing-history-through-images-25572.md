@@ -29,7 +29,7 @@ tags:
 - Holocaust
 ---
 
-In this [lesson](https://www.ushmm.org/educators/lesson-plans/organizing-the-history/narrative), students organize photographs in order to tell the story of the Holocaust and construct an evidentiary narrative that makes sense to them. The lesson does not include any “correct” ordering or organization of the photographs and instead encourages students to experiment with organizing them both chronologically and thematically.
+In this [lesson](http://web.archive.org/web/20190915100913/https://www.ushmm.org/educators/lesson-plans/organizing-the-history/narrative), students organize photographs in order to tell the story of the Holocaust and construct an evidentiary narrative that makes sense to them. The lesson does not include any “correct” ordering or organization of the photographs and instead encourages students to experiment with organizing them both chronologically and thematically.
 
 This lesson also guides students through the process of revising conclusions based on the discovery of additional historical evidence. Students are given a definition of the Holocaust and asked to consider or revise the definition with each new photograph in order to illustrate how historical narratives change depending on the available evidence.
 

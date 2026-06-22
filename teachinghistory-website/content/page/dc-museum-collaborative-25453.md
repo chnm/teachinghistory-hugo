@@ -15,7 +15,7 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Beth Boland**
 
-[National Park Service, Teaching with Historic Places](http://www.nps.gov/nr/twhp/)
+[National Park Service, Teaching with Historic Places](http://web.archive.org/web/20240412024437/https://nps.gov/nr/twhp/)
 
 **Megan Byrnes**
 
@@ -23,7 +23,7 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Christina Chavarria**
 
-[U.S. Holocaust Memorial Museum](http://www.ushmm.org/education/)
+[U.S. Holocaust Memorial Museum](http://web.archive.org/web/20140718005601/https://ushmm.org/education/)
 
 **Maggie Crawford**
 
@@ -35,15 +35,15 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Jacqueline Eyl**
 
-[International Spy Museum](http://www.spymuseum.org/learn)
+[International Spy Museum](http://web.archive.org/web/20120701091728/http://www.spymuseum.org:80/learn)
 
 **Jake Flack**
 
-[Fords' Theatre](http://www.fordstheatre.org/home/education)
+[Fords' Theatre](http://web.archive.org/web/20160206191814/http://www.fordstheatre.org:80/home/education)
 
 **Peter Fredlake**
 
-[U.S. Holocaust Memorial Museum](http://www.ushmm.org/education/)
+[U.S. Holocaust Memorial Museum](http://web.archive.org/web/20140718005601/https://ushmm.org/education/)
 
 **Susan Glimcher**
 
@@ -59,7 +59,7 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Linda Harper**
 
-[Cultural Tourism DC](http://www.culturaltourismdc.org/)
+[Cultural Tourism DC](http://web.archive.org/web/20171120073638/http://www.culturaltourismdc.org:80/)
 
 **Callie Hawkins**
 
@@ -71,27 +71,27 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Mary Hendrickse**
 
-[National Building Museum](http://www.nbm.org/schools-educators/)
+[National Building Museum](http://web.archive.org/web/20170206190437/http://www.nbm.org:80/schools-educators/)
 
 **Lisa Hershey Zurer**
 
-[Jewish Historical Society of Greater Washington](http://jhsgw.org/education/)
+[Jewish Historical Society of Greater Washington](http://web.archive.org/web/20141211142602/http://jhsgw.org:80/education/)
 
 **Pamela Jafari**
 
-[Cultural Tourism DC](http://www.culturaltourismdc.org/)
+[Cultural Tourism DC](http://web.archive.org/web/20171120073638/http://www.culturaltourismdc.org:80/)
 
 **Sarah Jencks**
 
-[Fords' Theatre](http://www.fordstheatre.org/home/education)
+[Fords' Theatre](http://web.archive.org/web/20160206191814/http://www.fordstheatre.org:80/home/education)
 
 **Rebecca Kasemeyer**
 
-[National Portrait Gallery](http://www.npg.si.edu/education/exhibitresource.html)
+[National Portrait Gallery](http://web.archive.org/web/20151218092135/http://npg.si.edu/education/exhibitresource.html)
 
 **Lauren Krizner**
 
-[Department of State Diplomacy Museum](http://diplomacy.state.gov/education/c24122.htm)
+[Department of State Diplomacy Museum](http://web.archive.org/web/20120122091119/http://diplomacy.state.gov:80/education/c24122.htm)
 
 **Barbara McCormack**
 
@@ -103,11 +103,11 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Talia Mosconi**
 
-[Tudor Place](http://www.tudorplace.org/education.html)
+[Tudor Place](http://web.archive.org/web/20131210031922/http://tudorplace.org/education.html)
 
 **Lara Marks Finder**
 
-[National Building Museum](http://www.nbm.org/schools-educators/)
+[National Building Museum](http://web.archive.org/web/20170206190437/http://www.nbm.org:80/schools-educators/)
 
 **Wally Mertes**
 
@@ -115,7 +115,7 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Reagan Moore**
 
-[Institute of Museum and Library Services](http://www.imls.gov/)
+[Institute of Museum and Library Services](http://web.archive.org/web/20260620222654/https://www.imls.gov/)
 
 **Suzannah Niepold**
 
@@ -127,7 +127,7 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Heather Paisley-Jones**
 
-[National Museum of American History](http://historyexplorer.americanhistory.si.edu/home/)
+[National Museum of American History](http://web.archive.org/web/20121009210459/http://historyexplorer.americanhistory.si.edu/home/)
 
 **Ann Post**
 
@@ -147,7 +147,7 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **John Riley**
 
-[White House Historical Association](http://www.whha.org/whha_classroom/classroom.html)
+[White House Historical Association](http://web.archive.org/web/20150706124341/http://whha.org/whha_classroom/classroom.html)
 
 **David Rosenbaum**
 
@@ -159,7 +159,7 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Joanne Seelig**
 
-[National Building Museum](http://www.nbm.org/schools-educators/)
+[National Building Museum](http://web.archive.org/web/20170206190437/http://www.nbm.org:80/schools-educators/)
 
 **Genevieve Sinermeyer**
 
@@ -167,15 +167,15 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Courtney Speaker**
 
-[White House Historical Association](http://www.whha.org/whha_classroom/classroom.html)
+[White House Historical Association](http://web.archive.org/web/20150706124341/http://whha.org/whha_classroom/classroom.html)
 
 **Jennifer Squire**
 
-[Dumbarton House](http://dumbartonhouse.org/schoolprograms.htm)
+[Dumbarton House](http://web.archive.org/web/20110807011841/http://dumbartonhouse.org:80/schoolprograms.htm)
 
 **Jamee Telford**
 
-[National Building Museum](http://www.nbm.org/schools-educators/)
+[National Building Museum](http://web.archive.org/web/20170206190437/http://www.nbm.org:80/schools-educators/)
 
 **Jenice View**
 
@@ -187,4 +187,4 @@ The goal of this partnership is to bring together representatives from DC area m
 
 **Briana Zavadil White**
 
-[National Portrait Gallery](http://www.npg.si.edu/education/exhibitresource.html)
+[National Portrait Gallery](http://web.archive.org/web/20151218092135/http://npg.si.edu/education/exhibitresource.html)

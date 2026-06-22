@@ -33,10 +33,10 @@ Are you ready for September 17? The National Endowment for the Humanities (NEH) 
 
 From the NEH's [Emancipation Resource Portal](http://emancipation.neh.gov/?et_cid=45149216&et_rid=704445214&linkid=http%3a%2f%2femancipation.neh.gov), you can access resources and learn more about planned events. Highlights include:
 
-* A live, streamed [performance](http://emancipation.neh.gov/emancipation-day-events/live-performance/) on Constitution Day. A panel of Civil War scholars will "recreate the national scene and the dilemmas facing Americans on Sept. 22, 1862." Students will be able to submit questions via Twitter or email. (Register your "watch party" [here](http://emancipation.neh.gov/live/register/).)
-* A [contest](http://emancipation.neh.gov/student-contest/) asking students to interpret a primary source from the [Freedmen and Southern Society Project](/history-content/website-reviews/22827) or [*Visualizing Emancipation*](http://dsl.richmond.edu/emancipation/). (The contest is limited to students 18 years of age or older, but consider adapting the contest concept for your own school or classroom.)
-* Related [lesson plans](http://emancipation.neh.gov/resources/) from EDSITEment.
-* An interactive [timeline](http://emancipation.neh.gov/resources/emancipation-timeline/) of emancipation from 1850 to 1877.
+* A live, streamed [performance](http://emancipation.neh.gov/emancipation-day-events/live-performance/) on Constitution Day. A panel of Civil War scholars will "recreate the national scene and the dilemmas facing Americans on Sept. 22, 1862." Students will be able to submit questions via Twitter or email. (Register your "watch party" [here](http://web.archive.org/web/20130218040447/http://emancipation.neh.gov/live/register/).)
+* A [contest](http://web.archive.org/web/20130218020134/http://emancipation.neh.gov/student-contest/) asking students to interpret a primary source from the [Freedmen and Southern Society Project](/history-content/website-reviews/22827) or [*Visualizing Emancipation*](http://dsl.richmond.edu/emancipation/). (The contest is limited to students 18 years of age or older, but consider adapting the contest concept for your own school or classroom.)
+* Related [lesson plans](http://web.archive.org/web/20130218024520/http://emancipation.neh.gov/resources/) from EDSITEment.
+* An interactive [timeline](http://web.archive.org/web/20130218024520/http://emancipation.neh.gov/resources/emancipation-timeline/) of emancipation from 1850 to 1877.
 
 For more on the Emancipation Proclamation, check out materials highlighted here on Teachinghistory.org. Watch 8th-grade teacher Jason Fitzgerald [introduce](/best-practices/teaching-in-action/21706) his students to the Proclamation using letters from Civil War soldiers. (Download the letters [here](/best-practices/examples-of-historical-thinking/25048) as you listen to historian Chandra Manning analyze their contents.)
 

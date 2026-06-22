@@ -14,7 +14,7 @@ tags:
 - overview
 ---
 
-*[National History Day,](http://www.nationalhistoryday.org/) an annual program for elementary and secondary students designed to "teach essential historical literacy that motivates students to secure the future of democracy," defines secondary sources as follows:*
+*[National History Day,](http://web.archive.org/web/20190125205834/http://www.nationalhistoryday.org:80/) an annual program for elementary and secondary students designed to "teach essential historical literacy that motivates students to secure the future of democracy," defines secondary sources as follows:*
 
 What are secondary sources? Secondary sources are works of synthesis and interpretation based upon primary sources and the work of other authors. They may take a variety of forms. The authors of secondary sources develop their interpretations and narratives of events based on primary sources, that is, documents and other evidence created by participants or eyewitnesses. Frequently, they also take advantage of the work of other historians by using other secondary sources. For example, the author of the history textbook which you use in school probably did not use too many primary sources. Instead, textbook authors usually rely on secondary sources written by other historians. Given the wide range of topics covered by a typical textbook, textbook authors could not possibly find and use all the relevant primary sources themselves.
 

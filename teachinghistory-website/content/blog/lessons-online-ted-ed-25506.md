@@ -23,6 +23,6 @@ Have you heard of [TED](http://www.ted.com/)? Short for Technology, Entertainmen
 
 In April, TED plans to add even more educational resources to its repertoire. According to TED, TED-Ed will feature videos of outstanding educators presenting innovative lessons enhanced by animation. TED has already released 19 videos. Check out "[How Containerization Shaped the World](http://www.youtube.com/watch?v=Gn7IoT_WSRA&noredirect=1)" for the story of one American's invention of steel shipping containers.
 
-Do you have a fantastic lesson you want to share with the world? Do you know someone who teaches lessons with clarity, energy, and a passion for historical thinking and student engagement? TED-Ed is accepting [nominations](http://education.ted.com/educator/) for educators to be featured in future videos, as well as nominations for [lesson ideas](http://education.ted.com/lesson/).
+Do you have a fantastic lesson you want to share with the world? Do you know someone who teaches lessons with clarity, energy, and a passion for historical thinking and student engagement? TED-Ed is accepting [nominations](http://education.ted.com/educator/) for educators to be featured in future videos, as well as nominations for [lesson ideas](http://web.archive.org/web/20120315082510/http://education.ted.com:80/lesson/).
 
 Nominate yourself or an educator you admire, suggest a U.S. history lesson you think TED-Ed should cover, and help use this new free platform for sharing critical thinking skills!

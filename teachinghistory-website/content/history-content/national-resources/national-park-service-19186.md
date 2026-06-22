@@ -19,13 +19,13 @@ The National Park Service oversees a wealth of places and resources to visit and
 
 [For Teachers](http://www.nps.gov/history/teachers.htm) introduces educational materials focusing on history and culture available through the National Park Service.
 
-[Teaching with Historic Places](http://www.nps.gov/history/NR/twhp/) offers lesson plans, classroom activities, and professional development opportunities to help educators bring places on the National Register of Historic Places into the classroom and to prepare for local field trips. Curriculum modules are based on national U.S. History Standards.
+[Teaching with Historic Places](http://web.archive.org/web/20140712171503/http://www.nps.gov/history/nr/twhp/) offers lesson plans, classroom activities, and professional development opportunities to help educators bring places on the National Register of Historic Places into the classroom and to prepare for local field trips. Curriculum modules are based on national U.S. History Standards.
 
 [Teaching with Museum Collections](http://www.nps.gov/history/museum/tmc/index.htm) is a guide to teaching history with material culture.
 
-[Teacher Resources for Archaeology](http://www.nps.gov/history/archeology/PUBLIC/teach.htm) show how to explore archaeology to bring the earliest history of North America alive.
+[Teacher Resources for Archaeology](http://web.archive.org/web/20221013233554/http://www.nps.gov/history/archeology/PUBLIC/teach.htm) show how to explore archaeology to bring the earliest history of North America alive.
 
-[Discover Our Shared Heritage](http://www.nps.gov/history/nr/travel/index.htm) lists America's historic places, alphabetically and state-by-state.
+[Discover Our Shared Heritage](http://web.archive.org/web/20140712174556/http://www.nps.gov/history/nr/travel/index.htm) lists America's historic places, alphabetically and state-by-state.
 
 [A Place for Kids and Teachers](http://www.nps.gov/learn/) links to professional development opportunities for educators.
 

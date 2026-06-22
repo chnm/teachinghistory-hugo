@@ -40,4 +40,4 @@ This website narrates the history of this event, from the rising racial tensions
 
 Each section is illustrated with links to primary sources, including political cartoons, newspaper clippings, laws, court cases, and photographs of prominent Wilmington African Americans.
 
-The website also includes the [1898 Wilmington Race Riot Report](http://www.history.ncdcr.gov/1898-wrrc/report/report.htm) published in 2006 by the North Carolina Department of Cultural Resources' Wilmington Race Riot Commission, which includes maps, photographs, and other primary source materials, and a link to an interactive map allowing visitors to visualize the events of November 10, 1898.
+The website also includes the [1898 Wilmington Race Riot Report](http://web.archive.org/web/20180505174712/http://www.history.ncdcr.gov:80/1898-wrrc/report/report.htm) published in 2006 by the North Carolina Department of Cultural Resources' Wilmington Race Riot Commission, which includes maps, photographs, and other primary source materials, and a link to an interactive map allowing visitors to visualize the events of November 10, 1898.

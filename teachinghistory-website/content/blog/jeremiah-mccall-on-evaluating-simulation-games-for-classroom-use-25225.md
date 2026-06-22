@@ -84,7 +84,7 @@ These games require a bit more time to learn and/or play and consist of lengthie
 
 * *The Political Machine* (commercial)
 * All of *[For Crown or Colony](http://www.mission-us.org/pages/mission-1)*
-* USC’s *[The Redistricting Game](http://www.redistrictinggame.org/)*
+* USC’s *[The Redistricting Game](http://web.archive.org/web/20240620193422/http://www.redistrictinggame.org/)*
 * *Sid Meier’s Pirates *(commercial)**
 
 ## Category C: Commercial Simulation Games (two to six hours)

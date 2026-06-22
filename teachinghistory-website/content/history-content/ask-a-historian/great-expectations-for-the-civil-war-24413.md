@@ -60,7 +60,7 @@ McPherson, James. [*For Cause and Comrades: Why Men Fought in the Civil War*](ht
 
 ## For Further Reading
 
-Civil War Preservation Trust.  [**Civil War Primary Sources**](http://www.civilwar.org/education/history/primarysources/) 2009.
+Civil War Preservation Trust.  [**Civil War Primary Sources**](http://web.archive.org/web/20170417175526/http://www.civilwar.org:80/education/history/primarysources/) 2009.
 
 McPherson, James.  [The Civil War Era Collection](http://www.lsu.edu/lsupress/bookPages/9780807119044.html>*What They Fought For 1861-1865* Baton Rouge: Louisiana State University Press, 1994.
 

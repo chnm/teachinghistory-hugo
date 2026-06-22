@@ -14,7 +14,7 @@ splash_image: /files/QuestioningTextbook432x240_0.jpg
 
 ## Why Do It?
 
-Do you teach your students to read documents carefully and critically, but then watch in dismay as they fail to apply these skills while reading their textbooks? As a high school history teacher in Cleveland, [Robert Bain](http://sitemaker.soe.umich.edu/soe/faculty_introduction&mode=single&recordID=50709) did. "The problem," he writes, "was greater than sharpening their tools for critical reading, but rather involved transformation in my students’ relationships to the books, to the historical content in the books, and to the authors who wrote them."
+Do you teach your students to read documents carefully and critically, but then watch in dismay as they fail to apply these skills while reading their textbooks? As a high school history teacher in Cleveland, [Robert Bain](http://web.archive.org/web/20130521191518/http://sitemaker.soe.umich.edu/soe/faculty_introduction&mode=single&recordID=50709) did. "The problem," he writes, "was greater than sharpening their tools for critical reading, but rather involved transformation in my students’ relationships to the books, to the historical content in the books, and to the authors who wrote them."
 
 Bain hypothesized that the problem lay in the authority gap between his students and the textbook. History textbooks often take an omniscient tone, smoothing over historical complexities and competing narratives. Students come to most historical topics without enough knowledge to question the textbook account, and they have long been taught to treat their books with deference. Bain developed the following method to raise students’ sense of their own authority so they can read more critically.
 

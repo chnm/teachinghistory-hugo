@@ -46,6 +46,6 @@ Knowles, Anne Kelly and Amy Hillier, eds. [*Placing History: How Maps, Spatial D
  
 Moretti, Franco. [*Graphs, Maps, Trees: Abstract Models for a Literary History*](http://books.google.com/books?id=YL2kvMIF8hEC&source=gbs_navlinks_s). London: Verso, 2005.  
 
-Scheinfeldt, Tom. ["Where’s the Beef? Does Digital Humanities Have to Answer Questions?"](http://www.foundhistory.org/2010/05/12/wheres-the-beef-does-digital-humanities-have-to-answer-questions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+FoundHistory+%28Found+History%29) [*Found History*](http://www.foundhistory.org/) (12 May 2010).
+Scheinfeldt, Tom. ["Where’s the Beef? Does Digital Humanities Have to Answer Questions?"](http://web.archive.org/web/20130511050710/http://www.foundhistory.org:80/2010/05/12/wheres-the-beef-does-digital-humanities-have-to-answer-questions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+FoundHistory+%28Found+History%29) [*Found History*](http://www.foundhistory.org/) (12 May 2010).
 
-Seefeldt, Douglas and William G. Thomas. [“What is Digital History?  A Look at Some Exemplar Projects.”](http://www.historians.org/perspectives/issues/2009/0905/0905for8.cfm) [*Perspectives on History*](http://www.historians.org/Perspectives/index.cfm) (May 2009).
+Seefeldt, Douglas and William G. Thomas. [“What is Digital History?  A Look at Some Exemplar Projects.”](http://www.historians.org/perspectives/issues/2009/0905/0905for8.cfm) [*Perspectives on History*](http://web.archive.org/web/20240604144158/https://www.historians.org/perspectives/index.cfm) (May 2009).

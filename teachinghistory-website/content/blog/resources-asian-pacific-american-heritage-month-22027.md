@@ -31,7 +31,7 @@ The U.S. Census Bureau lists over 25 Asian and Pacific Islander groups. This inc
 
 ## What online resources do you recommend?
 
-The [2008 website on Asian Pacific Heritage Month](http://asianpacificheritage.gov/) from the [Library of Congress](http://www.loc.gov/index.html) offers a gateway to collections and exhibitions that emphasize the individual cultures of Asian Pacific Americans such as this [collection of art from ancient Cambodia](http://www.nga.gov/exhibitions/cambodia/camrmenter-0.htm) at the [National Gallery of Art](http://www.nga.gov) or this presentation on [The Chinese in California](http://memory.loc.gov/ammem/award99/cubhtml/) which includes essays, images, and primary source materials.
+The [2008 website on Asian Pacific Heritage Month](http://asianpacificheritage.gov/) from the [Library of Congress](http://www.loc.gov/index.html) offers a gateway to collections and exhibitions that emphasize the individual cultures of Asian Pacific Americans such as this [collection of art from ancient Cambodia](http://www.nga.gov/exhibitions/cambodia/camrmenter-0.htm) at the [National Gallery of Art](http://www.nga.gov) or this presentation on [The Chinese in California](http://web.archive.org/web/20150920170336/http://memory.loc.gov/ammem/award99/cubhtml/) which includes essays, images, and primary source materials.
 
 The [Veterans History Project](http://www.loc.gov/vets/stories/ex-war-asianpacific.html) highlights the contributions of Asian Pacific Americans to America's wartime efforts. The presentation highlights eight stories from World War II, Korea, Vietnam, and Iraq, with special emphasis on the 442nd Regimental Combat Team, the "Go for Broke" outfit of Japanese Americans who fought valiantly in Europe during World War II. Many of these men put their lives on the line for their country while their families were confined to internment camps back in the States.
 
@@ -39,7 +39,7 @@ The [Veterans History Project](http://www.loc.gov/vets/stories/ex-war-asianpacif
 
 [AskAsia.org](http://www.askasia.org/) is an educational website for students and teachers. This presentation looks at 30 countries that comprise Asia today and offers dozens of educational activities, from short skill builders to project-based curriculum units. Master teachers created the units; scholars edited them. Maps, images, and an annotated national directory of Asia-related resources are also available.
 
-The special [For Students](http://askasia.org/students/) section looks at global issues, politics, and daily lives through student-created essays and documentaries. This dense multimedia resource emphasizes current issues, people, and points of view.
+The special [For Students](http://web.archive.org/web/20190725134451/http://askasia.org:80/students/) section looks at global issues, politics, and daily lives through student-created essays and documentaries. This dense multimedia resource emphasizes current issues, people, and points of view.
 
 ## Does the Clearinghouse have any materials related to Asian Pacific Americans?
 

@@ -28,7 +28,7 @@ tags:
 - video
 ---
 
-The best way to use video in [teaching](http://en.wikipedia.org/wiki/Education) history is short [student](http://en.wikipedia.org/wiki/Student)-created segments for direct instruction. This post discusses what a group of teachers at the [Education Study Group](http://edustudygroup.com/) found works best for at-risk populations.
+The best way to use video in [teaching](http://en.wikipedia.org/wiki/Education) history is short [student](http://en.wikipedia.org/wiki/Student)-created segments for direct instruction. This post discusses what a group of teachers at the [Education Study Group](http://web.archive.org/web/20220808132453/http://edustudygroup.com/) found works best for at-risk populations.
 
 At my school, the figures are dismal: On the first day of school, you look at 23 students. Seventeen didn't eat breakfast at home, 16 struggle with English, five are designated [Special Needs](http://en.wikipedia.org/wiki/Special_education). On the last day of school, you still have 23, but nine of the faces changed without warning at some time during the year, due to high student mobility.
 > In this environment, the correct use of video can be a lifesaver. In general, a large percentage of at-risk kids learn visually, in short bursts which can be repeated, at will.

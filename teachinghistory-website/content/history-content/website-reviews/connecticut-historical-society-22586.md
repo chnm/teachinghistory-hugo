@@ -38,7 +38,7 @@ tags:
 
 A nonprofit museum, library, and education center, the Connecticut Historical Society offers an abundance of resources through its website. Its collections document the cultural, social, political, economic, and military history of Connecticut.
 
-Visit [*Online Exhibits*](https://chs.org/online-exhibition/) to see resources the society currently offers online. As of July 10, 2012, the site features an exhibit on the department store G. Fox & Co., which operated in Hartford from 1847 until 1993. In *Research*, "Collection Highlights" features 25 artifacts pulled from the society's collections, ranging from Silly Putty to one of the flags that decorated Abraham Lincoln's box in Ford's Theatre on the day he was assassinated.
+Visit [*Online Exhibits*](http://web.archive.org/web/20220307185556/http://chs.org/online-exhibition/) to see resources the society currently offers online. As of July 10, 2012, the site features an exhibit on the department store G. Fox & Co., which operated in Hartford from 1847 until 1993. In *Research*, "Collection Highlights" features 25 artifacts pulled from the society's collections, ranging from Silly Putty to one of the flags that decorated Abraham Lincoln's box in Ford's Theatre on the day he was assassinated.
 
 Educators will be most interested in three other resources found in *Research*:
 

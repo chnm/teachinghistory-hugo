@@ -38,7 +38,7 @@ tags:
 - William Livingston
 ---
 
-The [lesson plan](https://nj.gov/state/njhistorypartnership/americanRevolution/quakers/lesson/quakersLesson.pdf) suggests that teachers begin by delivering a lecture based on an online talk by historian Jean Soderlund. (Adobe Flash Player and Acrobat Reader are required to access the lecture). However, the historian’s lecture is brief, informative, and fairly engaging, so teachers may want to consider playing the lecture for students.
+The [lesson plan](http://web.archive.org/web/20260118210655/https://nj.gov/state/njhistorypartnership/americanRevolution/quakers/lesson/quakersLesson.pdf) suggests that teachers begin by delivering a lecture based on an online talk by historian Jean Soderlund. (Adobe Flash Player and Acrobat Reader are required to access the lecture). However, the historian’s lecture is brief, informative, and fairly engaging, so teachers may want to consider playing the lecture for students.
 
 Next, students are asked to read a set of documents written by Quakers in the 18th century, and identify the various reasons Quakers were opposed to slavery. The documents are rich and informative. However, the language is challenging; and teachers may need to modify and shorten the documents, and create guiding questions to help students analyze them.
 

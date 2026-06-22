@@ -68,4 +68,4 @@ To prioritize your feedback, think about the three P’s: Preparation, Purpose, 
 > See, for example:
 >
 > * [California](http://www.cde.ca.gov/be/st/ss/documents/englangdevstnd.pdf) or
-> * [Massachussetts](http://www.doe.mass.edu/ell/benchmark.pdf).
+> * [Massachussetts](http://web.archive.org/web/20201109220910/https://www.doe.mass.edu/ell/benchmark.pdf).

@@ -29,4 +29,4 @@ Here are definitions to some of the most commonly used terms on Teachinghistory.
 
 **Sourcing**: a technique that invites students to question the validity of their sources: Who created it? For whom? Why? When and where did the source appear? Where was it discovered?
 
-**TAH**: acronym for [Teaching American History](http://www2.ed.gov/programs/teachinghistory/index.html), a grant program of the U.S. Department of Education.
+**TAH**: acronym for [Teaching American History](http://web.archive.org/web/20210704010038/https://www2.ed.gov/programs/teachinghistory/index.html), a grant program of the U.S. Department of Education.

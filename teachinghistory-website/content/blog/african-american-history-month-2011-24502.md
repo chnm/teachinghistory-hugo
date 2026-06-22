@@ -50,8 +50,8 @@ You can also explore the African American History Month pages of history and edu
 
 * [The Library of Congress](http://www.africanamericanhistorymonth.gov/)
 * [EDSITEment](http://edsitement.neh.gov/black-history-month)
-* [Verizon Thinkfinity](http://www.thinkfinity.org/black-history-month)
+* [Verizon Thinkfinity](http://web.archive.org/web/20120128111206/http://www.thinkfinity.org:80/black-history-month)
 * [Smithsonian Museum of American History](http://www.smithsonianeducation.org/educators/resource_library/african_american_resources.html) and [*History Explorer*](http://www.historyexplorer.si.edu/search/index.asp?keywords=African-American+history)
 * [Scholastic](http://teacher.scholastic.com/africanamericanheritage/)
 * [The History Channel](http://www.history.com/topics/black-history-month?et_cid=20906227&et_rid=704445214&linkid=http%3a%2f%2fwww.history.com%2ftopics%2fblack-history-month)
-* [Biography.com](http://www.biography.com/people/groups/black-history)
+* [Biography.com](http://web.archive.org/web/20140404185356/http://www.biography.com/people/groups/black-history)

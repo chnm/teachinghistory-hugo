@@ -5,7 +5,7 @@ lastmod: '2017-10-06T15:37:32'
 content_type: english_language_learners
 draft: false
 drupal_nid: 24132
-summary: '[America''s Heritage: An Adventure in Liberty](http://www.americanheritage.org/k-12_lessons.html)
+summary: '[America''s Heritage: An Adventure in Liberty](http://web.archive.org/web/20150430135225/http://americanheritage.org:80/k-12_lessons.html)
   is a curriculum designed to teach students about the roots of our heritage and the
   responsibilities of American citizenship. The elementary-level plans in this curriculum
   are presented in both Spanish and English for English language learners.'
@@ -21,9 +21,9 @@ grade_levels:
 - middle
 ---
 
-[America's Heritage: An Adventure in Liberty](http://www.americanheritage.org/k-12_lessons.html) is a curriculum designed to teach students about the roots of our heritage and the responsibilities of American citizenship. The elementary-level plans in this curriculum are presented in both Spanish and English for English language learners.
+[America's Heritage: An Adventure in Liberty](http://web.archive.org/web/20150430135225/http://americanheritage.org:80/k-12_lessons.html) is a curriculum designed to teach students about the roots of our heritage and the responsibilities of American citizenship. The elementary-level plans in this curriculum are presented in both Spanish and English for English language learners.
 
-Spanish translations of all handouts and activities, including source documents such as the [Declaration of Independence](http://www.americanheritage.org/AHEF_National_Elementary_Spanish_Extraction_08_4_DeclarationofIndependence.pdf) and lyrics to the [Star Spangled Banner](http://www.americanheritage.org/AHEF_National_Elementary_Spanish_Extraction_08_11_StarSpangledBanner.pdf)
+Spanish translations of all handouts and activities, including source documents such as the [Declaration of Independence](http://web.archive.org/web/20150405053638/http://www.americanheritage.org:80/AHEF_National_Elementary_Spanish_Extraction_08_4_DeclarationofIndependence.pdf) and lyrics to the [Star Spangled Banner](http://web.archive.org/web/20150221170105/http://www.americanheritage.org:80/AHEF_National_Elementary_Spanish_Extraction_08_11_StarSpangledBanner.pdf)
 
 are available in downloadable pdfs.
 

@@ -75,6 +75,6 @@ Newcitizen.us. ["Dual citizenship."](http://www.newcitizen.us/dual.html) 2011 (a
 
 U.S. Supreme Court Media.  "*Dred Scott* v. *Sandford*," 60 U.S. 393 (1857). [*The Oyez Project*](http://www.oyez.org/cases/1851-1900/1856/1856_0) (accessed on March 31, 2011). 
 
-U.S. Department of State.  ["US Department of State Services Dual Nationality"](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/Advice-about-Possible-Loss-of-US-Nationality-Dual-Nationality/Dual-Nationality.html) (accessed on April 8, 2011).
+U.S. Department of State.  ["US Department of State Services Dual Nationality"](http://web.archive.org/web/20240116072947/https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/Advice-about-Possible-Loss-of-US-Nationality-Dual-Nationality/Dual-Nationality.html) (accessed on April 8, 2011).
 
-U.S. Immigration Support. ["US Dual Citizenship."](https://www.usimmigrationsupport.org/dual-citizenship.html) 2010 (accessed on April 8, 2011).
+U.S. Immigration Support. ["US Dual Citizenship."](http://web.archive.org/web/20220701223834/https://www.usimmigrationsupport.org/dual-citizenship.html) 2010 (accessed on April 8, 2011).

@@ -19,6 +19,6 @@ Founded in 1853, the United States Secret Service existed solely to prevent the 
 
 This site provides very little which is directly applicable to the history classroom. However, the site deserves to be recognized in this listing regardless.
 
-If you're interested in the organization itself, the [timeline of Secret Service history](https://www.secretservice.gov/about/history/events/) is a natural place to start.
+If you're interested in the organization itself, the [timeline of Secret Service history](http://web.archive.org/web/20201210083415/https://www.secretservice.gov/about/history/events/) is a natural place to start.
 
 The service also offers a short section on monetary history.

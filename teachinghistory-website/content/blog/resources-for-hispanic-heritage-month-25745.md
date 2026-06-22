@@ -38,7 +38,7 @@ Go further afield with materials from across the web. Check out these dedicated 
 * The National Park System catalogs details on more than 40 historical sites, monuments, and memorials related to Hispanic American history and features nine related *Teaching with Historic Places* lesson plans.
 * [EDSITEment](http://edsitement.neh.gov/feature/national-hispanic-heritage-month) pulls together five lesson plans, 10 featured websites, recommendations for bilingual resources, and a virtual field trip.
 * Publisher Scholastic invites students to explore their own heritage, meet famous present-day and historical Latinos, and more with its interactive "[Celebrate Hispanic Heritage](http://teacher.scholastic.com/activities/hispanic/index.htm)" feature.
-* The [U.S. Census Bureau](http://www.census.gov/newsroom/releases/archives/facts_for_features_special_editions/cb12-ff19.html) displays statistics related to Hispanic American heritage.
-* [Biography.com](http://www.biography.com/people/groups/hispanic-heritage) gives you a peek into the lives of Hispanic American artists, political figures, and more.
+* The [U.S. Census Bureau](http://web.archive.org/web/20250115053859/https://www.census.gov/newsroom/releases/archives/facts_for_features_special_editions/cb12-ff19.html) displays statistics related to Hispanic American heritage.
+* [Biography.com](http://web.archive.org/web/20140313133304/http://www.biography.com:80/people/groups/hispanic-heritage) gives you a peek into the lives of Hispanic American artists, political figures, and more.
 
 (So why *does* Hispanic Heritage Month start on September 15? The day marks the anniversary of the independence of Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua. Once part of the Captaincy General of Guatemala, these nations formed the United Provinces of Central America after becoming independent from both Mexico and Spain in 1821.)

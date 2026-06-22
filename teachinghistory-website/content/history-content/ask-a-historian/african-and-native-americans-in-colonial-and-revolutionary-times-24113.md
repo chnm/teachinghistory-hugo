@@ -20,7 +20,7 @@ url: /history-content/ask-a-historian/24113
 author_bio: '[Malinda Maynor Lowery](http://malindamaynorlowery.wordpress.com/) is
   the Assistant Professor & Director of Honors Program at the University of North
   Carolina at Chapel Hill. Her book [*Lumbee Indians in the Jim Crow South: Race,
-  Identity, and the Making of a Nation*](http://uncpress.unc.edu/browse/book_detail?title_id=1696)
+  Identity, and the Making of a Nation*](http://web.archive.org/web/20160822230648/http://www.uncpress.unc.edu/browse/book_detail?title_id=1696)
   was published by University of North Carolina Press in March 2010. She has taught
   at Stanford and Harvard. Her interests include race, ethnicity, and identity; 19th-
   and 20th-century U.S. history; and Southern and Native American history.'

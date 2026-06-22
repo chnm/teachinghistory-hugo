@@ -6,7 +6,7 @@ content_type: primary_source_guide
 draft: false
 drupal_nid: 25226
 url: /best-practices/using-primary-sources/25226
-website_url: http://www.uww.edu/cls/history/for-teachers
+website_url: http://web.archive.org/web/20160308161242/http://www.uww.edu:80/cls/history/for-teachers
 splash_image_fid: '8321'
 summary: Learn how to teach your students historical thinking with this informative
   video from the University of Wisconsin-Whitewater.
@@ -15,6 +15,6 @@ tags:
 - overview
 ---
 
-This 30-min. [video](http://www.uww.edu/cls/history/for-teachers), introduces the *Thinking Like a Historian* approach developed by Dr. Nikki Mandel and Dr. Bobbie Malone. The approach frames history as detective work and focuses on steps such as asking questions, using multiple sources, and synthesizing information and ideas. This video includes vignettes from elementary, middle, and high school classrooms showing the approach in action with accompanying teacher commentaries, as well as commentaries by the authors.
+This 30-min. [video](http://web.archive.org/web/20160308161242/http://www.uww.edu:80/cls/history/for-teachers), introduces the *Thinking Like a Historian* approach developed by Dr. Nikki Mandel and Dr. Bobbie Malone. The approach frames history as detective work and focuses on steps such as asking questions, using multiple sources, and synthesizing information and ideas. This video includes vignettes from elementary, middle, and high school classrooms showing the approach in action with accompanying teacher commentaries, as well as commentaries by the authors.
 
 Note: Scroll to the bottom of the webpage to view the video.

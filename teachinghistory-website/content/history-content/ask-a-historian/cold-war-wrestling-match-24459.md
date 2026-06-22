@@ -74,4 +74,4 @@ Kennedy, Robert F.  [*Thirteen Days.*](http://books.wwnorton.com/books/detail.as
 
 Illingsworth, Leslie Gilbert.  ["Kennedy/Khrushchev"](http://www.cartoons.ac.uk/record/ILW3584).  *The Daily Mail*, October 29, 1962.  Accessed January 2011.  
 
-Valtman, Edmund.  ["This hurts me more than it hurts you."](http://www.loc.gov/rr/print/swann/valtman/images/valt04.jpg)  *The Hartford Times*, October 30, 1962.  Accessed January 2011.
+Valtman, Edmund.  ["This hurts me more than it hurts you."](http://web.archive.org/web/20201109215546/https://www.loc.gov/rr/print/swann/valtman/images/valt04.jpg)  *The Hartford Times*, October 30, 1962.  Accessed January 2011.

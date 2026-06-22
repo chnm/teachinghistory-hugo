@@ -30,7 +30,7 @@ tags:
 - monuments
 ---
 
-Veterans Day approaches! Last year, Teachinghistory.org introduced you to [resources](/nhec-blog/23463) for collecting oral histories from veterans. Most of these resources still hold good—if you're interested in inviting a veteran into your classroom or leading your class in an oral history project, try History.com's [Take a Veteran to School Day](http://www.history.com/topics/take-a-vet) or the Library of Congress's [Veterans History Project](http://www.loc.gov/vets/).
+Veterans Day approaches! Last year, Teachinghistory.org introduced you to [resources](/nhec-blog/23463) for collecting oral histories from veterans. Most of these resources still hold good—if you're interested in inviting a veteran into your classroom or leading your class in an oral history project, try History.com's [Take a Veteran to School Day](http://web.archive.org/web/20110202102332/http://www.history.com/topics/take-a-vet) or the Library of Congress's [Veterans History Project](http://www.loc.gov/vets/).
 
 But what if you don't have the time or resources to arrange a speaker or manage oral history collection? What if your students are too young to appreciate a veteran's stories and their context? How can you honor the holiday and draw your students in?
 

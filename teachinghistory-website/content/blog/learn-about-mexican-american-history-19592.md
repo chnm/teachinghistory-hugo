@@ -18,7 +18,7 @@ tags:
 - teaching materials
 ---
 
-Mexican Americans comprise almost 10 percent of the population of the United States. [Learn About Mexican American History]( http://www.digitalhistory.uh.edu/modules/mex_am/index.cfm), a website produced by Steve Mintz, John and Rebeca Moore Professor at the University of Houston, provides resources for weaving their voices into the history curriculum. The guide is a directory to resources of the [Gilder Lehrman Institute](http://www.gilderlehrman.org).
+Mexican Americans comprise almost 10 percent of the population of the United States. [Learn About Mexican American History]( http://web.archive.org/web/20120520044427/http://www.digitalhistory.uh.edu/modules/mex_am/index.cfm), a website produced by Steve Mintz, John and Rebeca Moore Professor at the University of Houston, provides resources for weaving their voices into the history curriculum. The guide is a directory to resources of the [Gilder Lehrman Institute](http://www.gilderlehrman.org).
 
 Mexican Voices from [Digital History](http://www.digitalhistory.uh.edu/) and [*A History of the Mexican American People*](http://web.archive.org/web/20070814042247/http://www.jsri.msu.edu/museum/pubs/MexAmHist/) by Julian Samora and Patricia Vandel Simon, provide extensive online textual narratives. Primary source documents, a supplemental bibliography, and links to other internet resources round out the extensive materials consolidated on this site.
 

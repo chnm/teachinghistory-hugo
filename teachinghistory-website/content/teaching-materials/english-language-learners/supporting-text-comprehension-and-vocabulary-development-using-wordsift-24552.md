@@ -22,4 +22,4 @@ splash_image: /files/wordshiftsplash.jpg
 ---
 
 
-Look to Professor Kenji Hakuta’s [website]( http://www.stanford.edu/~hakuta/) and [here]( http://www.wordsift.com/site/resources) for additional ESL resources developed at Stanford University.
+Look to Professor Kenji Hakuta’s [website]( http://www.stanford.edu/~hakuta/) and [here]( http://web.archive.org/web/20160111070315/http://www.wordsift.com:80/site/resources) for additional ESL resources developed at Stanford University.

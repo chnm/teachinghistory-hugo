@@ -12,7 +12,7 @@ summary: More than $4.3 million distributed to 24 states.
 image: /files/Gift_Shop_024.jpg
 ---
 
-The second round of [Preserve America](http://www.preserveamerica.gov/) Grants for 2008 includes 44 projects in 24 states totaling more than $4.3 million. The range of projects is impressive. Hinton, West Virginia, plans to capture the collective chronicles through oral histories from the city's elders and share these stories through podcasts and downtown walking tours.
+The second round of [Preserve America](http://web.archive.org/web/20180707091606/http://www.preserveamerica.gov:80/) Grants for 2008 includes 44 projects in 24 states totaling more than $4.3 million. The range of projects is impressive. Hinton, West Virginia, plans to capture the collective chronicles through oral histories from the city's elders and share these stories through podcasts and downtown walking tours.
 
 The Texas Historical Commission will work through the Texas Main Street Program to enhance local inventories of historic properties, promote cultural diversity, measure the economic benefits of historic preservation to small cities and towns, and then provide detailed technical assistance to local communities in the promotion of their historic resources and heritage tourism.
 
@@ -20,4 +20,4 @@ Pueblo, Colorado, will develop materials to educate community members and visito
 
 The application process for 2009 Preserve America grants opens October 1.
 
-In the meantime, the Advisory Council on Historic Preservation (ACHP) is accepting nominations through November 1, 2008, for the [2009 Preserve America Presidential Awards](http://www.preserveamerica.gov/papaawards09.html). These are honorific awards (non-monetary), and since 2004, 20 preservation programs were honored for heritage tourism projects and programs that emphasized sustainable use of cultural and natural historic resources.
+In the meantime, the Advisory Council on Historic Preservation (ACHP) is accepting nominations through November 1, 2008, for the [2009 Preserve America Presidential Awards](http://web.archive.org/web/20180707091606/http://www.preserveamerica.gov:80/papaawards09.html). These are honorific awards (non-monetary), and since 2004, 20 preservation programs were honored for heritage tourism projects and programs that emphasized sustainable use of cultural and natural historic resources.

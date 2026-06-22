@@ -20,7 +20,7 @@ tags:
 
 Oh March 11, 2009, President Obama signed into law the the omnibus fiscal year (FY) 2009 budget. The bill provides funding for federal agencies left unfunded by the previous Congress, and it's good news for history, history education, and historians.
 
-Who benefits? The current Congress rejected massive cuts proposed under President Bush—cuts that would have eliminated the national [Historic Publications and Records Commission (NHPRC)](http://www.archives.gov/nhprc/) and decreased funding for the [National Endowment for the Humanities (NEH)](http://www.neh.gov), [Teaching American History Grants (TAH)](http://www2.ed.gov/programs/teachinghistory/index.html), and various historic preservation efforts.
+Who benefits? The current Congress rejected massive cuts proposed under President Bush—cuts that would have eliminated the national [Historic Publications and Records Commission (NHPRC)](http://www.archives.gov/nhprc/) and decreased funding for the [National Endowment for the Humanities (NEH)](http://www.neh.gov), [Teaching American History Grants (TAH)](http://web.archive.org/web/20210704010038/https://www2.ed.gov/programs/teachinghistory/index.html), and various historic preservation efforts.
 
 Instead, NHPRC will receive its highest level of funding in five years, and the NEH and TAH budgets are among those receiving increased funding. For TAH—the Bush administration had proposed cutting more than 50 percent of the program budget; new allocations raise the funding level from $117.9 million to $118.9 million.
 

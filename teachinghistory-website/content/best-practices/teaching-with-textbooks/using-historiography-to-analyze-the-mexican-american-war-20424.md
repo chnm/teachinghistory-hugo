@@ -65,7 +65,7 @@ Students will quickly see that there are many interpretations of an event. They 
 
 PBS Website. [*The U.S.-Mexican War: 1846–1848*](http://www.pbs.org/kera/usmexicanwar/index_flash.html)
 
-The Descendants of Mexican War Veterans. [The U.S.-Mexican War](http://www.dmwv.org/mexwar/mexwar1.htm)
+The Descendants of Mexican War Veterans. [The U.S.-Mexican War](http://web.archive.org/web/20210222132250/http://www.dmwv.org/mexwar/mexwar1.htm)
 
 NPR Interview. [How the Understanding of U.S. History Changes.](http://www.npr.org/templates/story/story.php?storyId=6517854) Steve Inskeep interviews Kyle Ward, *Morning Edition,* November 21, 2006.
 

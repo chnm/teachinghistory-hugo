@@ -53,7 +53,7 @@ Historypin is great for establishing a local connection to history. It is very s
 
 This may seem a little crazy but it is such fun! Essentially students script animated films for selections of characters. I have used it with students of all ages. Younger students create short films in which they play different characters and either explain particular events or share their confusion over an issue. I have found Xtranormal a very effective tool to get older students collaborating outside the classroom, principally preparing for tests—essentially they present an answer to a test question and then their peers comment on that answer. Movies can be posted on YouTube.
 
-**[Stripgenerator](http://stripgenerator.com/)**
+**[Stripgenerator](http://web.archive.org/web/20201106232808/http://stripgenerator.com/)**
 
 This is a tool similar to Xtranormal, but it uses still images. It is very simple to use and allows students to take a range of characters and tell a story with them.
 

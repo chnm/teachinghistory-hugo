@@ -46,9 +46,9 @@ After reviewing this document, head over to NAEP to try your hand at [answering 
 
 Once you've gotten a handle on the tools NAEP used to collect data for the Nation's Report Card, read over the [Report](http://www.nationsreportcard.gov/ushistory_2010/ushistory_2010_report/). It includes charts and graphs with short summaries of conclusions drawn from the data.
 
-NCES commissioner Jack Buckley offered a [brief interpretation](http://nces.ed.gov/whatsnew/commissioner/remarks2011/06_14_2011.asp) of the Report's findings, and the [press release](http://nagb.org/history/) for the Report Card included further remarks.
+NCES commissioner Jack Buckley offered a [brief interpretation](http://nces.ed.gov/whatsnew/commissioner/remarks2011/06_14_2011.asp) of the Report's findings, and the [press release](http://web.archive.org/web/20120305083131/http://www.nagb.org/history/) for the Report Card included further remarks.
 
-(For comparison, you may want to read Commissioner Mark Schneider's [remarks](http://nces.ed.gov/whatsnew/commissioner/remarks2007/5_16_2007.asp) on the 2006 findings, as well as the official 2006 [release remarks](http://nagb.org/newsroom/press-releases.htm) of other experts. Follow the link and scroll down to "2007," "History and Civics.")
+(For comparison, you may want to read Commissioner Mark Schneider's [remarks](http://nces.ed.gov/whatsnew/commissioner/remarks2007/5_16_2007.asp) on the 2006 findings, as well as the official 2006 [release remarks](http://web.archive.org/web/20120623013204/http://www.nagb.org:80/newsroom/press-releases.htm) of other experts. Follow the link and scroll down to "2007," "History and Civics.")
 
 ## Delving into the Data
 

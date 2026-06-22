@@ -35,6 +35,6 @@ In order to find information about my grandparents and great-grandparents, I use
 
 The following organizations are organizing the digitized data sheets so that searches can be made by the name of the family member. Each contains some free information, as well as more complete information that requires a monthly or annual fee:
 
-* [HeritageQuest Online](http://www.heritagequest.com)
+* [HeritageQuest Online](http://web.archive.org/web/20091130140918/http://www.heritagequest.com:80/)
 * [Ancestry.com](http://www.ancestry.com)
 * [MyHeritage.com](http://www.myheritage.com)

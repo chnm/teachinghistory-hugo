@@ -67,7 +67,7 @@ Until about the mid-20th century, historians largely worked from the writings of
 
 ---
 
-[The History of Jamestown](http://apva.org/rediscovery/page.php?page_id=6) at Preservation Jamestown.
+[The History of Jamestown](http://web.archive.org/web/20150315050941/http://apva.org/rediscovery/page.php?page_id=6) at Preservation Jamestown.
 
 [The Plymouth Colony Archive Project](http://www.histarch.uiuc.edu/plymouth/") at the University of Virginia.
 

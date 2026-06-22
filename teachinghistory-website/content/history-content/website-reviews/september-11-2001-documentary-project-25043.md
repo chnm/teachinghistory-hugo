@@ -39,4 +39,4 @@ Here, you can listen to and/or watch nearly 200 audio and visual oral histories,
 
 Sources can be browsed by type, title, or subject, as well as keyword searched.
 
-[Classroom Connection](http://www.loc.gov/teachers/classroommaterials/connections/september11/) offers a list of Library of Congress and external related resources, as well as a grade level, state, and subject search which can show you how the collection relates to your particular curriculum standards.
+[Classroom Connection](http://web.archive.org/web/20200712004242/http://www.loc.gov:80/teachers/classroommaterials/connections/september11/) offers a list of Library of Congress and external related resources, as well as a grade level, state, and subject search which can show you how the collection relates to your particular curriculum standards.

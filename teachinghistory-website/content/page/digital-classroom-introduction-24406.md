@@ -67,21 +67,21 @@ Visuals (in order of appearance):
 * iCivics. [*Do I Have a Right?*](http://www.icivics.org/games/do-i-have-right)
 * Classroom of Loudoun County Public Schools.
 * Winchester Public Schools, classroom of Marti McKenzie.
-* American Social History Productions. [*The Lost Museum.*](http://www.lostmuseum.cuny.edu/home.html) 2002-2006.
+* American Social History Productions. [*The Lost Museum.*](http://web.archive.org/web/20150504133554/http://www.lostmuseum.cuny.edu:80/home.html) 2002-2006.
 * Foundation for the National Archives. [*DocsTeach.*](http://docsteach.org/)
 * Pew Internet & American Life Project. ["Change in internet use by Age 2000-2010."](http://www.pewinternet.org/Infographics/2010/Internet-acess-by-age-group-over-time-Update.aspx) 2010.
 * Arafeh, Sousan et al. *Pew Internet.* ["The Digital Disconnect: The widening gap between Internet-savvy students and their schools."](http://www.pewinternet.org/Reports/2002/The-Digital-Disconnect-The-widening-gap-between-Internetsavvy-students-and-their-schools.aspx) Aug. 14, 2002.
 * Museum of the Moving Image. [*The Living Room Candidate*](http://www.livingroomcandidate.org/). 2010.
 * Advertisement, Eastman Kodak Company. ["Brownie Camera."](http://library.duke.edu/digitalcollections/eaa_K0430/) 1900.
-* Social Explorer. *[Social Explorer](http://www.socialexplorer.com/pub/home/home.aspx)*. 2011.
+* Social Explorer. *[Social Explorer](http://web.archive.org/web/20130610180623/http://www.socialexplorer.com/pub/home/home.aspx)*. 2011.
 * Zimmerman, Susie. Bullis School. *YouTube.* ["Using Facebook to Teach."](http://www.youtube.com/watch?v=Vj-XCUIbbcE)
 * mickey@gearthhacks. ["Pearl Harbor X (Overlay), December 10, 1941."](http://www.gearthhacks.com/dlfile4024/Pearl-Harbor-X-(Overlay),-December-10,-1941.htm) Aug. 17, 2005.
 * Everist, Burton. *Mindmeister.* ["Two Teaching Tools."](http://www.mindmeister.com/7065755/two-teaching-tools) April 2008.
 * Film Study Center. [*DoHistory*](http://dohistory.org/).
 * Feinberg, Jonathan. [*Wordle*](http://www.wordle.net/). 2009.
 * ALTEC at the University of Kansas. [*Web Poster Wizard*](http://poster.4teachers.org/). 2000-2009.
-* Massachusetts Historical Society. Twitter feed ["JQAdams\_MHS."](http://twitter.com/JQAdams_MHS) Jan. 21, 2011.
-* Lee, John. Ning account ["Teaching with Digital History."](http://teachingdigitalhistory.ning.com/) Dec. 6, 2010.
+* Massachusetts Historical Society. Twitter feed ["JQAdams\_MHS."](http://web.archive.org/web/20251011230041/https://twitter.com/JQAdams_MHS) Jan. 21, 2011.
+* Lee, John. Ning account ["Teaching with Digital History."](http://web.archive.org/web/20150905224749/http://teachingdigitalhistory.ning.com/) Dec. 6, 2010.
 * Byrne, Richard. [*Free Technology for Teachers*](http://www.freetech4teachers.com/). Jan. 21, 2011.
 * Montgomery County Public Schools, classroom of Christine Valenti.
 * Montgomery County Public Schools, TAH professional development workshop.*

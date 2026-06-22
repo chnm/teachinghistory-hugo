@@ -36,11 +36,11 @@ Plenty of information about the housing market during the Depression has been co
 Nowadays, the housing market is primarily tracked through three reports:
 
 * Existing-home sales: The National Association of Realtors (NAR) collects and reports these figures. Existing-home sales typically comprise 85 percent of transactions, although recently they have been at 90 percent). The NAR reports are available [online](http://www.realtor.org/topics/existing-home-sales).
-* New-home sales: The U.S. Census Bureau and the U.S. Department of Housing and Urban Development (HUD) collect and report these figures. New-home sales typically comprise 15 percent of housing transactions. These reports are also available [online](http://www.census.gov/const/newressales.pdf).
+* New-home sales: The U.S. Census Bureau and the U.S. Department of Housing and Urban Development (HUD) collect and report these figures. New-home sales typically comprise 15 percent of housing transactions. These reports are also available [online](http://web.archive.org/web/20200616194719/https://www.census.gov/const/newressales.pdf).
 
 These first two reports describe housing sales, which is a demand-side indicator of the market.
 
-* Housing starts: The supply-side indicator is reflected in the number of housing units begun (foundations started or building permits issued). The U.S. Census Bureau and HUD provide these figures [online](http://www.census.gov/const/www/newresconstindex.html).
+* Housing starts: The supply-side indicator is reflected in the number of housing units begun (foundations started or building permits issued). The U.S. Census Bureau and HUD provide these figures [online](http://web.archive.org/web/20191117031038/https://www.census.gov/const/www/newresconstindex.html).
 
 > Comprehensive data collection about housing developed in stages.
 
@@ -48,7 +48,7 @@ Some figures on housing construction and on numbers and values of mortgages are 
 
 ## Other Housing Market Statistics from the Depression Era
 
-The Census Bureau also makes available figures on housing vacancies and, from 1900, rates of homeownership (based on federal census figures) [online](http://www.census.gov/hhes/www/housing/census/historic/owner.html). The homeownership rate declined from 1900 to 1920. During the 1920s, it increased, but then during the Depression it dropped again, and was at about 44 percent (percentage of heads of households who owned their homes) by 1940. After World War II, the rate increased dramatically, recently approaching 70 percent.
+The Census Bureau also makes available figures on housing vacancies and, from 1900, rates of homeownership (based on federal census figures) [online](http://web.archive.org/web/20200801014800/https://www.census.gov/hhes/www/housing/census/historic/owner.html). The homeownership rate declined from 1900 to 1920. During the 1920s, it increased, but then during the Depression it dropped again, and was at about 44 percent (percentage of heads of households who owned their homes) by 1940. After World War II, the rate increased dramatically, recently approaching 70 percent.
 > The housing market in the 1930s was fundamentally different than it is today.
 
 Economist Robert Shiller, author of *Irrational Exuberance* (Princeton University Press, 2000), provides data on home prices since 1890 (in 10-year intervals), [online](http://www.econ.yale.edu/~shiller/data.htm) and downloadable as an Excel file.

@@ -30,8 +30,8 @@ tags:
 
 The U.S. Geological Survey exists as a federal organization created to study the nation's flora, fauna, biology, geography, bodies of water, geology, and geospatial information.
 
-The USGS provides access to their entire [photographic collection](http://libraryphoto.cr.usgs.gov/), which is sub-divided into portraiture, photographers, "pioneer photographers," and images of earthquakes; mines, mills, and quarries; national parks; and Mt. St. Helens.
+The USGS provides access to their entire [photographic collection](http://web.archive.org/web/20140926053816/http://libraryphoto.cr.usgs.gov:80/), which is sub-divided into portraiture, photographers, "pioneer photographers," and images of earthquakes; mines, mills, and quarries; national parks; and Mt. St. Helens.
 
-In addition, educators can access nine sub-sites and resources optimal for [K-6 education](http://education.usgs.gov/common/primary.htm), covering land use and exploration. Sample topics include "A Satellite View of the Journey of Lewis and Clark" and "Urban Growth in American Cities." Twelve resources, also addressing land use and exploration, are available for [grades 7-12](http://education.usgs.gov/common/secondary.htm).
+In addition, educators can access nine sub-sites and resources optimal for [K-6 education](http://education.usgs.gov/common/primary.htm), covering land use and exploration. Sample topics include "A Satellite View of the Journey of Lewis and Clark" and "Urban Growth in American Cities." Twelve resources, also addressing land use and exploration, are available for [grades 7-12](http://web.archive.org/web/20110904015540/http://education.usgs.gov:80/common/secondary.htm).
 
-Available [teacher packets](http://education.usgs.gov/common/TeacherPackets.html), like the majority of the site, will primarily be of use to science educators. However, the three packets on maps could be used in conjunction with units on westward expansion or exploration.
+Available [teacher packets](http://web.archive.org/web/20090825014425/http://education.usgs.gov/common/TeacherPackets.html), like the majority of the site, will primarily be of use to science educators. However, the three packets on maps could be used in conjunction with units on westward expansion or exploration.

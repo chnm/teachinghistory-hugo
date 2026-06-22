@@ -45,6 +45,6 @@ The [Richard Throssel](http://digitalcollections.uwyo.edu:8180/luna/servlet/ahc-
 
 Other highlights include a small collection of journals, manuscripts, photographs, and articles surrounding the life of writer Owen Wister and his travels in the West; close to 500 photographs and more than 4,000 documents relating to ranch life in Wyoming; and a collection of photographs of Roscoe Turner and the early history of aviation.
 
-The website also presents two collections of research projects conducted by University of Wyoming undergraduates, as well as a collection entitled [Digital Herbaria](http://www.rmh.uwyo.edu/digitalherbaria/about.php), which contains high-resolution photographs and data for 6,014 vascular plant specimens found in the Grand Teton National Park.
+The website also presents two collections of research projects conducted by University of Wyoming undergraduates, as well as a collection entitled [Digital Herbaria](http://web.archive.org/web/20150905063201/http://www.rmh.uwyo.edu/digitalherbaria/about.php), which contains high-resolution photographs and data for 6,014 vascular plant specimens found in the Grand Teton National Park.
 
 Teachers will be especially interested in the website's Teacher Resources section, which includes links to a substantial number of lesson plans emphasizing critical analysis of primary sources.

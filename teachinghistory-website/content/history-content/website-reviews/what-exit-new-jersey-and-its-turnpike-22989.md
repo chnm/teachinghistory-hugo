@@ -37,11 +37,11 @@ tags:
 
 This site uses about 45 sources to document the planning and construction of the New Jersey Turnpike, opened after two years of construction in 1952.
 
-[Building It](http://www.jerseyhistory.org/what_exit/building.html) contains a 1,000-word history of the turnpike's construction, as well as eight primary documents from the planning stages of the highway, including an early map of the proposed route. A dozen promotional documents (pamphlets, public announcements, bond solicitations) and newspaper coverage are also available as is a narrative account of tensions in Elizabeth, NJ, where more than 200 citizens were displaced to build the highway.
+[Building It](http://web.archive.org/web/20160624043847/http://www.jerseyhistory.org/what_exit/building.html) contains a 1,000-word history of the turnpike's construction, as well as eight primary documents from the planning stages of the highway, including an early map of the proposed route. A dozen promotional documents (pamphlets, public announcements, bond solicitations) and newspaper coverage are also available as is a narrative account of tensions in Elizabeth, NJ, where more than 200 citizens were displaced to build the highway.
 
-[Driving It](http://www.jerseyhistory.org/what_exit/driving.html) includes 10 accounts from many of the first to drive along the turnpike, advertisements from Howard Johnson's and other turnpike concessionaires, and an excerpt from a 1950s film on highway safety.
+[Driving It](http://web.archive.org/web/20160624044337/http://www.jerseyhistory.org/what_exit/driving.html) includes 10 accounts from many of the first to drive along the turnpike, advertisements from Howard Johnson's and other turnpike concessionaires, and an excerpt from a 1950s film on highway safety.
 
-[Telling It](http://www.jerseyhistory.org/what_exit/telling.html) features 16 primary sources, 10 driver stories, and accounts from toll collectors, as well as the story of the first highway worker to lose his life on duty in 1967.
+[Telling It](http://web.archive.org/web/20160624045058/http://www.jerseyhistory.org/what_exit/telling.html) features 16 primary sources, 10 driver stories, and accounts from toll collectors, as well as the story of the first highway worker to lose his life on duty in 1967.
 
 Three *Detour* sections allow visitors a little diversion with short activities: visitors can match up song lyrics that mention the turnpike with the artists who wrote them (Bruce Springsteen and Simon and Garfunkel are included).
 

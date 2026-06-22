@@ -28,7 +28,7 @@ Learning Menus are forms of [differentiated learning](http://differentiationcent
 
 ## Example
 
-For an example of a Learning Menu in action, see the video [Differentiating with Learning Menus](https://www.teachingchannel.org/video/differentiating-instruction-strategy) on the [Teaching Channel website](https://www.teachingchannel.org/). In this video, Mary Vagenas uses a “dinner menu” strategy with her 7th-grade social studies students at the Queens School of Inquiry in Flushing, NY. Below the video and in the right-hand column under “Supporting Materials” one can find a sample Learning Menu and a full transcript of the video in Word (DOC) format.
+For an example of a Learning Menu in action, see the video [Differentiating with Learning Menus](http://web.archive.org/web/20191112061243/http://web.archive.org/web/20191215063245/https://www.teachingchannel.org/video/differentiating-instruction-strategy) on the [Teaching Channel website](http://web.archive.org/web/20191215063245/https://www.teachingchannel.org/). In this video, Mary Vagenas uses a “dinner menu” strategy with her 7th-grade social studies students at the Queens School of Inquiry in Flushing, NY. Below the video and in the right-hand column under “Supporting Materials” one can find a sample Learning Menu and a full transcript of the video in Word (DOC) format.
 
 ## Why is this a best practice?
 

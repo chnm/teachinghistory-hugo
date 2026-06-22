@@ -29,7 +29,7 @@ Watch Teachinghistory.org's [introductory video](/historical-thinking-intro) on 
 
 ## Thinking Like a Historian: Rethinking History Instruction
 
-Historians and educators working through the University of Wisconsin, Whitewater, have created materials on teaching historical thinking, including an introductory [video](http://www.uww.edu/cls/history/for-teachers) that explores strategies for analyzing historical evidence and learning about the past. The video shows these strategies in action in elementary and middle-school classrooms.
+Historians and educators working through the University of Wisconsin, Whitewater, have created materials on teaching historical thinking, including an introductory [video](http://web.archive.org/web/20160308161242/http://www.uww.edu:80/cls/history/for-teachers) that explores strategies for analyzing historical evidence and learning about the past. The video shows these strategies in action in elementary and middle-school classrooms.
 
 ## Print Resources
 
@@ -55,7 +55,7 @@ Watch Teachinghistory.org's [introductory video](/historical-thinking-intro) on 
 
 ## Thinking Like a Historian: Rethinking History Instruction
 
-Historians and educators working through the University of Wisconsin, Whitewater, have created materials on teaching historical thinking, including an introductory [video](http://www.uww.edu/cls/history/for-teachers) that explores strategies for analyzing historical evidence and learning about the past. The video shows these strategies in action in elementary and middle-school classrooms.
+Historians and educators working through the University of Wisconsin, Whitewater, have created materials on teaching historical thinking, including an introductory [video](http://web.archive.org/web/20160308161242/http://www.uww.edu:80/cls/history/for-teachers) that explores strategies for analyzing historical evidence and learning about the past. The video shows these strategies in action in elementary and middle-school classrooms.
 
 ## Print Resources
 

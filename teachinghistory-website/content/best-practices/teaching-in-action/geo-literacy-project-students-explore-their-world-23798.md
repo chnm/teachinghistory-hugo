@@ -7,7 +7,7 @@ draft: false
 drupal_nid: 23798
 url: /best-practices/teaching-in-action/23798
 featured: true
-website_url: http://www.edutopia.org/geography-literacy-elementary-project-video
+website_url: http://web.archive.org/web/20220123203235/https://www.edutopia.org/geography-literacy-elementary-project-video
 image_fid: '4103'
 splash_image_fid: '3930'
 summary: Teacher Eva La Mar's third graders become historians, writers, and videographers
@@ -43,4 +43,4 @@ This project-based approach teaches students to think about how the past relates
 
 ## Viewing Instructions
 
-To view this example, either play it directly on the [website](http://www.edutopia.org/geography-literacy-elementary-project-video) or download it for free in iTunes.
+To view this example, either play it directly on the [website](http://web.archive.org/web/20220123203235/https://www.edutopia.org/geography-literacy-elementary-project-video) or download it for free in iTunes.
