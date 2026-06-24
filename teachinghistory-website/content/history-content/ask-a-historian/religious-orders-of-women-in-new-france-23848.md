@@ -61,7 +61,7 @@ Some from Marie de l'Incarnation to her brother.
 
 Montreal's [Musée des Hospitalières de l'Hôtel-Dieu](http://www.museedeshospitalieres.qc.ca/).
 
-Montreal's [Marguerite-Bourgeoys Museum, Notre-Dame-de-Bon-Secour Chapel](http://www.marguerite-bourgeoys.com/en/index.asp).
+Montreal's [Marguerite-Bourgeoys Museum, Notre-Dame-de-Bon-Secour Chapel](http://web.archive.org/web/20221127044438/http://web.archive.org/web/20221127044438/http://www.marguerite-bourgeoys.com/en/index.asp).
 
 Canada's First Hospital, Hôtel-Dieu of Quebec City.
 
@@ -87,7 +87,7 @@ Marcel Trudel. *Les Écolières des Ursulines de Québec, 1639-1686: Amérindien
 
 ## For Further Reading
 
-Library of Congress, [France in America](http://memory.loc.gov/intldl/fiahtml/fiahome.html), collection of textual sources.
+Library of Congress, [France in America](http://web.archive.org/web/20211101180610/https://memory.loc.gov/intldl/fiahtml/fiahome.html), collection of textual sources.
 This includes links to the full text of the following:
 Pierre Francois Xavier de Charlevoix.  *History and General Description of New France*, 6 vols.  New York: Francis P. Harper, 1900.
 Chrestien Le Clercq.  *First Establishment of the Faith in New France*, 2 vols.  New York:  John G. Shea, 1881.

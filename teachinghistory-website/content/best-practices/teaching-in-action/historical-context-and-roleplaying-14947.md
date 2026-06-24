@@ -9,7 +9,7 @@ url: /best-practices/teaching-in-action/14947
 featured: true
 author_bio: Martha Andrews teaches 4th and 5th grade (loop) in a public elementary
   school in the Bronx. She studied at Brown University and received her MA from NYU.
-website_url: http://www.tc.edu/ncrest/teachers/andrews/index.htm
+website_url: http://web.archive.org/web/20120928051948/http://www.tc.edu:80/ncrest/teachers/andrews/index.htm
 image_fid: '12'
 splash_image_fid: '5007'
 author_image_fid: '4163'
@@ -29,7 +29,7 @@ time_periods:
 - Revolution & New Nation, 1754-1820s
 ---
 
-This [website](http://www.tc.edu/ncrest/teachers/andrews/index.htm)'s videos document the practice of a 5th-grade teacher in New York teaching a unit titled *Colonial New York: Developing Perspectives through Historical Role Play*. This 14-week, standards-based unit covers colonial America up to the signing of the Declaration of Independence in 1776. The site provides a rich cache of materials documenting the teaching of the unit, including the teacher's initial plan; video clips of classroom activities and teacher reflections; classroom handouts and historical sources; and student work.
+This [website](http://web.archive.org/web/20120928051948/http://www.tc.edu:80/ncrest/teachers/andrews/index.htm)'s videos document the practice of a 5th-grade teacher in New York teaching a unit titled *Colonial New York: Developing Perspectives through Historical Role Play*. This 14-week, standards-based unit covers colonial America up to the signing of the Declaration of Independence in 1776. The site provides a rich cache of materials documenting the teaching of the unit, including the teacher's initial plan; video clips of classroom activities and teacher reflections; classroom handouts and historical sources; and student work.
 
 The site provides examples of two promising practices:
 

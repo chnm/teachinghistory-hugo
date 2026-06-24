@@ -25,7 +25,7 @@ The quarterly journal of [The Gilder Lehrman Institute of American History](http
 
 What's there? An in-depth ideological and historiographic look at the Revolution and materials to help teach about the era—including, but not limited to the following:
 
-Three short original documentaries, featuring historian Carol Berkin and produced by [NBC Learn](http://archives.nbclearn.com/portal/site/k-12), explore Thomas Paine, Women in America, and the Articles of Confederation.
+Three short original documentaries, featuring historian Carol Berkin and produced by [NBC Learn](http://web.archive.org/web/20200621044505/https://archives.nbclearn.com/portal/site/k-12), explore Thomas Paine, Women in America, and the Articles of Confederation.
 
 Lesson plans [From the Teacher's Desk](http://www.gilderlehrman.org/history-now/11467/resources) include units on [Revolutionary Propaganda](http://www.gilderlehrman.org/history-by-era/war-for-independence/resources/revolutionary-propaganda-persuasion-and-colonial-suppo) for high school; [Colonists Divided: a Revolution and a Civil War](http://www.gilderlehrman.org/history-by-era/road-revolution/resources/colonists-divided-revolution-and-civil-war) for middle school; and a look at [The Boston Massacre](http://www.gilderlehrman.org/history-by-era/road-revolution/resources/boston-massacre) for elementary school students.
 

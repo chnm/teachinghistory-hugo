@@ -38,14 +38,14 @@ In [Rediscovering American Conservatism Again](http://hnn.us/articles/38415.html
 
 In [these video clips](http://hnn.us/roundup/63.html#125402) from a Roundtable discussion at the 2010 OAH annual meeting, historians Angus Burgin, Beverly Gage, and Jennifer Burns highlight past and present historic interpretations of conservatism.
 
-In [clips from the 2009 meeting](http://hnn.us/roundup/archives/63/2009/3/#72078), historians Joseph Crespine, Rick Perlstein, and Angela Dillard discuss the state of the field.
+In [clips from the 2009 meeting](http://web.archive.org/web/20101227152613/http://hnn.us/roundup/archives/63/2009/3/), historians Joseph Crespine, Rick Perlstein, and Angela Dillard discuss the state of the field.
 
 ## A few classroom resources
 
 Online teaching materials on Conservatism are difficult to find. The OAH Magazine of History issue on conservatism cites places to find information, acknowledging the touchy nature of politics in the classroom. [Teaching with the Web: Using the Internet to Teach American Conservatism](http://magazine.oah.org/issues/172/), points out that "many web sites about political leaders or influential movements have an obvious bias to the Right or Left...Although teachers can use these heavily biased sites to help students understand all points of view, documents are available that allow students to make their own decisions without appearing to endorse one view or the other."
 > Classroom lesson plans on conservatism, per se, are rare.
 
-Since the OAH magazine is a 2003 publication, not all links remain equally pertinent; however, referred sites such as the [National Archives](http://www.archives.gov/index.html) are rife with easily-retrieved materials. The article [LBJ Fights the White Backlash:The Racial Politics of the 1964 Presidential Campaign](a href=) summarizes the conflict among candidates Lyndon Baines Johnson, Barry Goldwater, and George Wallace. (A full-text of [*Conscience of a Conservative*](http://www.questia.com/PM.qst?a=o&d=1347479) by Arizona Senator Barry Goldwater, political leader of the Conservative rally of the 1960s is available at [Questia](http://www.questia.com).)
+Since the OAH magazine is a 2003 publication, not all links remain equally pertinent; however, referred sites such as the [National Archives](http://www.archives.gov/index.html) are rife with easily-retrieved materials. The article [LBJ Fights the White Backlash:The Racial Politics of the 1964 Presidential Campaign](a href=) summarizes the conflict among candidates Lyndon Baines Johnson, Barry Goldwater, and George Wallace. (A full-text of [*Conscience of a Conservative*](http://web.archive.org/web/20050103100420/http://web.archive.org/web/20201218091343/https://www.questia.com/:80/PM.qst?a=o&d=1347479) by Arizona Senator Barry Goldwater, political leader of the Conservative rally of the 1960s is available at [Questia](http://web.archive.org/web/20201218091343/https://www.questia.com/).)
 
 Also from OAH, the lesson plan [Comparative Decades: Conservatism in the 1920s and 1980s](http://magazine.oah.org/issues/172/) by AP history teacher Ted Dickson provides a handout and discussion guidelines for approaching longer-term chronology of conservative fiscal policy, government scandals, foreign policy, religion, and issues of law-and-order.
 

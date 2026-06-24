@@ -90,7 +90,7 @@ The phrase “The only thing to fear is fear” and its variants, therefore, wer
 
 ---
 
-Text and audio of [FDR's First Inaugural Address](http://historymatters.gmu.edu/d/5057/), March 4, 1933, at History Matters.
+Text and audio of [FDR's First Inaugural Address](http://web.archive.org/web/20260503093447/https://historymatters.gmu.edu/d/5057/), March 4, 1933, at History Matters.
 
 ## For Further Reading
 

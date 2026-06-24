@@ -8,7 +8,7 @@ drupal_nid: 25750
 url: /history-content/beyond-the-textbook/25750
 author_bio: 'Miriam Forman-Brunell is a professor of history, women, and gender at
   the University of Missouri-Kansas City. She is co-director of [*Children and Youth
-  in History*](http://chnm.gmu.edu/cyh/), author of *Babysitter: An American History*,
+  in History*](http://web.archive.org/web/20250329193203/https://chnm.gmu.edu/cyh/), author of *Babysitter: An American History*,
   and editor of *The Girls'' History and Culture Readers*, among other works.'
 image_fid: '9522
 

@@ -36,11 +36,11 @@ The difficulty lies in finding the *best* of the many websites attempting to do 
 
 I will focus my answer on the best **free** websites for high school teachers and students. Each of these sites has concise background information on each issue and presents a thorough explanation of the opposing positions.
 
-There are also many outstanding resources that require a fee or subscription. Among the best pay sites are [CQ Researcher]( http://www.cqpress.com/researcher) and [Opposing Viewpoints]( http://www.gale.cengage.com/InContext/portal.htm); check with your media specialist to see if your school or community library subscribes to these.
+There are also many outstanding resources that require a fee or subscription. Among the best pay sites are [CQ Researcher]( http://web.archive.org/web/20160222004435/http://www.cqpress.com/researcher) and [Opposing Viewpoints]( http://web.archive.org/web/20141003033123/http://www.gale.cengage.com:80/InContext/portal.htm); check with your media specialist to see if your school or community library subscribes to these.
 
 Which site works best for you depends on what type of issue you are learning about.
 
-For **current public policy issues**, like health care reform and immigration policy, the best three sites are below. For a quick look at how each site presents the health care debate, click here: [ProCon.org]( http://healthcarereform.procon.org/); [National Discussion and Debate Series]( http://millercenter.org/public/debates/healthcare);  [Debatepedia](http://debatepedia.idebate.org/en/index.php/Debate:_Single-payer_universal_health_care).
+For **current public policy issues**, like health care reform and immigration policy, the best three sites are below. For a quick look at how each site presents the health care debate, click here: [ProCon.org]( http://web.archive.org/web/20241102201259/https://healthcarereform.procon.org/); [National Discussion and Debate Series]( http://web.archive.org/web/20121030093254/http://millercenter.org:80/public/debates/healthcare);  [Debatepedia](http://web.archive.org/web/20200205073449/http://debatepedia.idebate.org:80/en/index.php/Debate:_Single-payer_universal_health_care).
 
 1. [ProCon.org](http://www.procon.org/): an independent non-profit founded by Steven C. Markoff “to provide resources for critical thinking and to educate without bias.”
 > **Strengths:**
@@ -57,7 +57,7 @@ For **current public policy issues**, like health care reform and immigration po
 > * No hyperlinks to original sources
 > * Some issues are not related to public policy or the Constitution
 
-2. [National Discussion and Debate Series](http://millercenter.org/public/debates): video, text, and links from debates at the University of Virginia’s Miller Center of Public Affairs. This program was created “to encourage a vigorous, well-informed discussion on the national stage about the major issues of our time.”
+2. [National Discussion and Debate Series](http://web.archive.org/web/20121030093254/http://millercenter.org:80/public/debates): video, text, and links from debates at the University of Virginia’s Miller Center of Public Affairs. This program was created “to encourage a vigorous, well-informed discussion on the national stage about the major issues of our time.”
 > **Strengths:**
 >
 > * Centered around video footage of a live debate among well-known experts in a formal setting
@@ -71,7 +71,7 @@ For **current public policy issues**, like health care reform and immigration po
 > * Only 13 current controversial public policy issues
 > * Updated annually, does not include very recent developments
 
-3. [Debatepedia](http://debatepedia.idebate.org/en/index.php/Welcome_to_Debatepedia!): “the Wikipedia of debates…an encyclopedia of pro and con arguments and quotes. A project of the [International Debate Education Association (IDEA)](http://idebate.org/), "Debatepedia utilizes . . .wiki technology . . . to engage you and other editors in centralizing arguments and quotes found in editorials, op-eds, books, and around the web into comprehensive pro/con articles.”
+3. [Debatepedia](http://web.archive.org/web/20210218210204/http://debatepedia.idebate.org/en/index.php/Welcome_to_Debatepedia%21): “the Wikipedia of debates…an encyclopedia of pro and con arguments and quotes. A project of the [International Debate Education Association (IDEA)](http://web.archive.org/web/20231206194819/https://idebate.org/), "Debatepedia utilizes . . .wiki technology . . . to engage you and other editors in centralizing arguments and quotes found in editorials, op-eds, books, and around the web into comprehensive pro/con articles.”
 
 > **Strengths:**
 >
@@ -91,9 +91,9 @@ For **very recent events that have not yet been clearly defined as a policy or c
 
 ## Other sites for teaching about current controversial issues:
 
-[Teaching With the News](http://choices.edu/resources/current.php): Created by the CHOICES program at Brown University. Frequently updated with free lesson plans, video clips, and multiple perspectives on current global issues and foreign policy controversies.
+[Teaching With the News](http://web.archive.org/web/20170815090726/http://www.choices.edu:80/resources/current.php): Created by the CHOICES program at Brown University. Frequently updated with free lesson plans, video clips, and multiple perspectives on current global issues and foreign policy controversies.
 
-[TeachableMoment.org](http://www.teachablemoment.org/index.html): Created by the Morningstar Center for Teaching Social Responsibility. Updated with a new topic from the news each week. Less balanced than the three sites above, it relies primarily on the *New York Times* for content.
+[TeachableMoment.org](http://web.archive.org/web/20120807200626/http://www.teachablemoment.org:80/index.html): Created by the Morningstar Center for Teaching Social Responsibility. Updated with a new topic from the news each week. Less balanced than the three sites above, it relies primarily on the *New York Times* for content.
 
 [Today’s Best Political Cartoons](http://www.cagle.com/politicalcartoons/): Updated daily, archived by topic, and searchable. Political cartoons are an engaging tool for students to probe current issues and controversies.
 

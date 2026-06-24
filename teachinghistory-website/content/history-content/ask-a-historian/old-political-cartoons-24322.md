@@ -39,10 +39,10 @@ Why note this seemingly obvious point? Because surrounding a political cartoon w
 
 Michael O’Malley, “Analyzing Political Cartoons,” [History Matters](http://historymatters.gmu.edu/mse/sia/cartoon.htm)
 
-Online examples of how teachers use political cartoons in the classroom: a [Vietnam War-era cartoon](http://chnm.gmu.edu/loudountah/source-analysis/vietnam-war-cartoon/), and cartoons about [school desegregation and “massive resistance”](http://chnm.gmu.edu/loudountah/source-analysis/massive-resistance-cartoons/) in Virginia during the 1950s.
+Online examples of how teachers use political cartoons in the classroom: a [Vietnam War-era cartoon](http://web.archive.org/web/20191228022415/http://chnm.gmu.edu:80/loudountah/source-analysis/vietnam-war-cartoon/), and cartoons about [school desegregation and “massive resistance”](http://chnm.gmu.edu/loudountah/source-analysis/massive-resistance-cartoons/) in Virginia during the 1950s.
 
 "Teaching with Documents: Lesson Plans” at the National Archives and Records Administration includes a [cartoon analysis worksheet](http://www.archives.gov/education/lessons/worksheets/cartoon.html) that can be used to help guide students into understanding historical political cartoons.
 
-The Library of Congress has a collection of [online exhibitions and presentations](http://www.loc.gov/teachers/classroommaterials/themes/political-cartoons/exhibitions.html) about political cartoons.
+The Library of Congress has a collection of [online exhibitions and presentations](http://web.archive.org/web/20200222205357/http://www.loc.gov:80/teachers/classroommaterials/themes/political-cartoons/exhibitions.html) about political cartoons.
 
-*Harper’s Weekly*, [Cartoon of the Day](http://www.harpweek.com/09cartoon/CartoonOfTheDay.asp).
+*Harper’s Weekly*, [Cartoon of the Day](http://web.archive.org/web/20250601051024/https://www.harpweek.com/09Cartoon/CartoonOfTheDay.asp).

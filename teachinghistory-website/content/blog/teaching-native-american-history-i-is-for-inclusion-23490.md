@@ -19,7 +19,7 @@ tags:
 - teaching materials
 ---
 
-Stereotypes and inadequate or incorrect information continue to haunt Native American historiography and literature. According to the [American Indian Library Association](http://www.ailanet.org/faq.htm) (AILA) (a unit within the [American Library Association](http://www.ala.org)), "The predominant ideas and images about Indians held by non-Indians are still very much rooted in the past, or poisoned by stereotypical images, such as sports team mascots."
+Stereotypes and inadequate or incorrect information continue to haunt Native American historiography and literature. According to the [American Indian Library Association](http://web.archive.org/web/20121108145631/http://web.archive.org/web/20121108145631/http://www.ailanet.org/faq.htm) (AILA) (a unit within the [American Library Association](http://www.ala.org)), "The predominant ideas and images about Indians held by non-Indians are still very much rooted in the past, or poisoned by stereotypical images, such as sports team mascots."
 
 For decades, the AILA has tackled the intricacies of the representation of American Indians to help educators present accurate materials. Their work grew out of a standing-room-only workshop at the American Library Association Annual Conference in 1991, when the association answered two frequently-asked-questions from school librarians: "How can I tell good books about Indians from bad ones?" and "Where can I find reliable reviews?"
 > Not only are there more books about American Indians, but more of them are written by Native Americans.
@@ -32,7 +32,7 @@ The introductory paragraphs and *what to look for* section help teachers and lib
 
 ## Native American Authors
 
-Increased visibility of Native American writers led the AILA to take a unique look at this author category. AILA offers a PDF, [*"I" is for Inclusion: the Portrayal of Native Americans in Books for Young People*](http://www.ailanet.org/publications/index.htm), that recommends and annotates the works of Native authors. This bibliography includes books on contemporary Native Americans; books in series; and a focus on Pocahantas, Jamestown, and the Powhatan Indians.
+Increased visibility of Native American writers led the AILA to take a unique look at this author category. AILA offers a PDF, [*"I" is for Inclusion: the Portrayal of Native Americans in Books for Young People*](http://web.archive.org/web/20121108145527/http://web.archive.org/web/20121108145527/http://www.ailanet.org/publications/index.htm), that recommends and annotates the works of Native authors. This bibliography includes books on contemporary Native Americans; books in series; and a focus on Pocahantas, Jamestown, and the Powhatan Indians.
 
 The listing also points to popular titles that encourage retention of stereotypes and explains why. Some might surprise you: the award-winning *Brother Eagle, Sister Sky* by Susan Jeffers (the clear message about Native people is that there are none left, about as harmful as it comes) and Newberry Award winner *The Matchlock Gun* by Walter Edmonds (stereotypes are voiced, unchallenged and without context, by the narrator) are on the list.
 > AILA Youth Literature Award Winners belong on every school library shelf.

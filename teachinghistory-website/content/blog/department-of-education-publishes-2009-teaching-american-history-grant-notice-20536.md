@@ -23,4 +23,4 @@ Two pre-application workshops are scheduled. The first will occur in New York Ci
 
 The second takes place in Washington, DC, in the U.S. Department of Education Auditorium, 400 Maryland Avenue, SW, on Monday, January 12, 10am–12pm and again, 2–4pm.
 
-Please check the [Teaching American History website](http://www2.ed.gov/programs/teachinghistory/index.html) for further information.
+Please check the [Teaching American History website](http://web.archive.org/web/20210704010038/https://www2.ed.gov/programs/teachinghistory/index.html) for further information.

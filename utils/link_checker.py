@@ -16,6 +16,8 @@ Usage:
     uv run utils/link_checker.py check --limit 100    # Check only first N unchecked links
     uv run utils/link_checker.py wayback              # Look up Wayback Machine snapshots for dead links
     uv run utils/link_checker.py wayback --resume     # Resume interrupted wayback run
+    uv run utils/link_checker.py replace              # Dry run: show what would be replaced
+    uv run utils/link_checker.py replace --apply      # Actually replace dead links with Wayback URLs
 """
 
 import argparse
@@ -350,7 +352,13 @@ def lookup_wayback(url: str, session: requests.Session) -> dict:
 
 
 def run_wayback(resume: bool = False, limit: int | None = None):
-    """Look up Wayback Machine snapshots for dead links."""
+    """Look up Wayback Machine snapshots for dead links.
+
+    Processes two sources of URLs:
+    1. Dead URLs from link_results.csv (based on DEAD_STATUSES)
+    2. Any URLs already in link_wayback.csv that lack a wayback_status
+       (e.g. manually added flagged 200s)
+    """
     if not RESULTS_CSV.exists():
         print(f"No results found at {RESULTS_CSV}. Run 'check' first.")
         sys.exit(1)
@@ -359,23 +367,33 @@ def run_wayback(resume: bool = False, limit: int | None = None):
     with open(RESULTS_CSV, encoding="utf-8") as f:
         results = list(csv.DictReader(f))
 
-    # Get unique dead URLs
-    dead_urls = sorted({
+    # Get unique dead URLs from results
+    target_urls = {
         r["link_url"] for r in results
         if r.get("http_status", "") in DEAD_STATUSES
-    })
-    print(f"Found {len(dead_urls)} unique dead URLs to look up in Wayback Machine.")
+    }
+
+    # Also include any URLs in the wayback CSV that don't have a status yet
+    wayback_rows = []
+    if WAYBACK_CSV.exists():
+        with open(WAYBACK_CSV, encoding="utf-8") as f:
+            wayback_rows = list(csv.DictReader(f))
+        for row in wayback_rows:
+            if not row.get("wayback_status", ""):
+                target_urls.add(row["link_url"])
+
+    target_urls = sorted(target_urls)
+    print(f"Found {len(target_urls)} unique URLs to look up in Wayback Machine.")
 
     # Load already-looked-up URLs if resuming
     checked = {}
-    if resume and WAYBACK_CSV.exists():
-        with open(WAYBACK_CSV, encoding="utf-8") as f:
-            for row in csv.DictReader(f):
-                if row.get("wayback_status", ""):
-                    checked[row["link_url"]] = row
+    if resume:
+        for row in wayback_rows:
+            if row.get("wayback_status", ""):
+                checked[row["link_url"]] = row
         print(f"Resuming: {len(checked)} URLs already looked up.")
 
-    urls_to_check = [u for u in dead_urls if u not in checked]
+    urls_to_check = [u for u in target_urls if u not in checked]
     if limit:
         urls_to_check = urls_to_check[:limit]
     total = len(urls_to_check)
@@ -397,18 +415,31 @@ def run_wayback(resume: bool = False, limit: int | None = None):
             "wayback_status": row.get("wayback_status", ""),
         }
 
-    # Build output: only dead links, enriched with wayback data
+    # Build results-based rows (dead links from results CSV)
+    results_urls = {
+        r["link_url"] for r in results
+        if r.get("http_status", "") in DEAD_STATUSES
+    }
+
     fieldnames = [
         "section", "page_title", "page_url", "source_file",
         "link_url", "link_text",
         "http_status", "reason",
         "wayback_url", "wayback_timestamp", "wayback_status",
     ]
+
     output_rows = []
+    seen_keys = set()
+
+    # First: rows from results CSV with dead statuses
     for r in results:
         if r.get("http_status", "") not in DEAD_STATUSES:
             continue
         url = r["link_url"]
+        key = (r["source_file"], url)
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
         wb = wayback_results.get(url, {})
         output_rows.append({
             "section": r["section"],
@@ -424,6 +455,29 @@ def run_wayback(resume: bool = False, limit: int | None = None):
             "wayback_status": wb.get("wayback_status", ""),
         })
 
+    # Second: rows from existing wayback CSV that aren't dead-status
+    # (e.g. flagged 200s added manually)
+    for row in wayback_rows:
+        key = (row["source_file"], row["link_url"])
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
+        url = row["link_url"]
+        wb = wayback_results.get(url, {})
+        output_rows.append({
+            "section": row["section"],
+            "page_title": row["page_title"],
+            "page_url": row["page_url"],
+            "source_file": row["source_file"],
+            "link_url": url,
+            "link_text": row["link_text"],
+            "http_status": row["http_status"],
+            "reason": row["reason"],
+            "wayback_url": wb.get("wayback_url", ""),
+            "wayback_timestamp": wb.get("wayback_timestamp", ""),
+            "wayback_status": wb.get("wayback_status", ""),
+        })
+
     with open(WAYBACK_CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -432,9 +486,75 @@ def run_wayback(resume: bool = False, limit: int | None = None):
     found = sum(1 for r in output_rows if r["wayback_status"] == "found")
     not_archived = sum(1 for r in output_rows if r["wayback_status"] == "not_archived")
     print(f"\nResults written to {WAYBACK_CSV}")
-    print(f"Total dead link references: {len(output_rows)}")
+    print(f"Total link references: {len(output_rows)}")
     print(f"Wayback snapshot found:     {found}")
     print(f"Not archived:               {not_archived}")
+
+
+# --- Replace phase ---
+
+def run_replace(dry_run: bool = True):
+    """Replace dead links in content files with Wayback Machine URLs."""
+    if not WAYBACK_CSV.exists():
+        print(f"No wayback results found at {WAYBACK_CSV}. Run 'wayback' first.")
+        sys.exit(1)
+
+    # Build replacement map: {(source_file, old_url): wayback_url}
+    replacements = {}
+    with open(WAYBACK_CSV, encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            if row["wayback_status"] == "found" and row["wayback_url"]:
+                key = (row["source_file"], row["link_url"])
+                replacements[key] = row["wayback_url"]
+
+    # Group by source file
+    by_file: dict[str, list[tuple[str, str]]] = {}
+    for (source_file, old_url), new_url in replacements.items():
+        by_file.setdefault(source_file, []).append((old_url, new_url))
+
+    print(f"Found {len(replacements)} link replacements across {len(by_file)} files.")
+    if dry_run:
+        print("DRY RUN — no files will be modified. Use --apply to make changes.\n")
+
+    files_modified = 0
+    links_replaced = 0
+    skipped = []
+
+    for source_file, swaps in sorted(by_file.items()):
+        file_path = CONTENT_DIR / source_file
+        if not file_path.exists():
+            skipped.append((source_file, "file not found"))
+            continue
+
+        text = file_path.read_text(encoding="utf-8")
+        original = text
+        file_replacements = 0
+
+        for old_url, new_url in swaps:
+            if old_url in text:
+                text = text.replace(old_url, new_url)
+                file_replacements += 1
+            else:
+                skipped.append((source_file, f"URL not found in file: {old_url[:80]}"))
+
+        if text != original:
+            if dry_run:
+                print(f"  Would modify {source_file} ({file_replacements} links)")
+            else:
+                file_path.write_text(text, encoding="utf-8")
+                print(f"  Modified {source_file} ({file_replacements} links)")
+            files_modified += 1
+            links_replaced += file_replacements
+
+    print(f"\n{'Would replace' if dry_run else 'Replaced'} {links_replaced} links in {files_modified} files.")
+    if skipped:
+        print(f"Skipped {len(skipped)} replacements:")
+        for source_file, reason in skipped[:20]:
+            print(f"  {source_file}: {reason}")
+        if len(skipped) > 20:
+            print(f"  ... and {len(skipped) - 20} more")
+    if dry_run:
+        print("\nRun with --apply to make changes.")
 
 
 # --- CLI ---
@@ -453,6 +573,9 @@ def main():
     wayback_parser.add_argument("--resume", action="store_true", help="Skip already-looked-up URLs")
     wayback_parser.add_argument("--limit", type=int, default=None, help="Max URLs to look up this run")
 
+    replace_parser = sub.add_parser("replace", help="Replace dead links with Wayback Machine URLs")
+    replace_parser.add_argument("--apply", action="store_true", help="Actually modify files (default is dry run)")
+
     args = parser.parse_args()
     if args.command == "extract":
         run_extract()
@@ -460,6 +583,8 @@ def main():
         run_check(resume=args.resume, limit=args.limit)
     elif args.command == "wayback":
         run_wayback(resume=args.resume, limit=args.limit)
+    elif args.command == "replace":
+        run_replace(dry_run=not args.apply)
     else:
         parser.print_help()
 

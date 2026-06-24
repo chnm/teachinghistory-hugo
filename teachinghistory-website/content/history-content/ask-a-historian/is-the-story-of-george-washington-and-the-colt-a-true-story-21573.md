@@ -93,6 +93,6 @@ Barbara Welter, "The Cult of True Womanhood: 18201860," *American Quarterly* 1
 
 Mary Beth Norton, *Liberty's Daughters: The Revolutionary Experience of American Women, 17501800* (Ithaca: Cornell University Press, 1980), 248
 
-George Washington to Fredericksburg, Virginia, Citizens, February 14, 1784, Letterbox 5, Image 165, [George Washington Papers at the Library of Congress](http://memory.loc.gov/ammem/gwhtml/gwhome.html)
+George Washington to Fredericksburg, Virginia, Citizens, February 14, 1784, Letterbox 5, Image 165, [George Washington Papers at the Library of Congress](http://web.archive.org/web/20170201094910/http://web.archive.org/web/20170201094910/http://memory.loc.gov/ammem/gwhtml/gwhome.html)
 
 Barry Schwartz, *George Washington: The Making of an American Symbol* (Ithaca: Cornell University Press, 1987).

@@ -83,7 +83,7 @@ Flannery Burke and Thomas Andrews, "The Five Cs of History: Putting the Elements
 
 Daisy Martin and Chauncey Monte-Sano, “Inquiry, Controversy, and Ambiguous Texts: Learning to Teach for Historical Thinking,” in Warren and Cantu, 167-186.
 
-JBL Associates, Inc., ["Reversing Course: The Troubled State of Academic Staffing and a Path Forward,"](http://www.aft.org/newspubs/) (Washington: American Federation of Teachers, 2008),  (accessed February 6, 2009).
+JBL Associates, Inc., ["Reversing Course: The Troubled State of Academic Staffing and a Path Forward,"](http://web.archive.org/web/20140918225009/http://www.aft.org:80/newspubs/) (Washington: American Federation of Teachers, 2008),  (accessed February 6, 2009).
 
 Gerda Lerner, "Corporatizing Higher Education," *History Teacher* 41 (February 2008): 219-27.
 

@@ -41,6 +41,6 @@ This online archive features images of photographs taken by women that represent
 
 The archive contains 17 separate collections, arranged according to four main themes: Community, Identity, Spirituality, and Locality. Each of these categories features relevant essays composed by art historians, curators, and artists. As a whole, the site offers the works and biographies of approximately 180 artists and photographers.
 
-For educators, the site also offers a comprehensive [eight-week syllabus]( http://www.cla.purdue.edu/waaw/Themes/TOC.html) that covers the website's four main themes.
+For educators, the site also offers a comprehensive [eight-week syllabus]( http://web.archive.org/web/20190323152313/https://www.cla.purdue.edu/waaw/Themes/TOC.html) that covers the website's four main themes.
 
 Although navigating the website can take some getting used to, it is worth the effort. The site is a valuable resource for often lesser-know perspectives on the American West.

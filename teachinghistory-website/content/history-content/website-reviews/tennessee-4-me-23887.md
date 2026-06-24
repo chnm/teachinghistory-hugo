@@ -39,7 +39,7 @@ Tennessee teachers, looking for a state-specific overview of U.S. history? Three
 
 essays on even more specific topics.
 
-Links within the essays lead to extracts from primary sources (such as the journal of early explorer Casper Mansker or a recipe for soap), answers to "Dig Deeper" historical questions, interactive activities (including a [Chart of Traditional Cherokee Kinships](http://www.tn4me.org/article.cfm/a_id/47/minor_id/11/major_id/7/era_id/2)), and related articles and sources on other websites. A slideshow of enlargeable images of primary sources (artifacts and documents) accompanies most essays, and several essays include embedded audio clips.
+Links within the essays lead to extracts from primary sources (such as the journal of early explorer Casper Mansker or a recipe for soap), answers to "Dig Deeper" historical questions, interactive activities (including a [Chart of Traditional Cherokee Kinships](http://web.archive.org/web/20200209051226/http://www.tn4me.org:80/article.cfm/a_id/47/minor_id/11/major_id/7/era_id/2)), and related articles and sources on other websites. A slideshow of enlargeable images of primary sources (artifacts and documents) accompanies most essays, and several essays include embedded audio clips.
 
 Each time period includes a "Teacher's Page" (linked from the bottom of the section's top essay), with lessons and extension activities. Thirty-seven lessons and three extension activities are currently live on the site; broken links may be repaired in future.
 

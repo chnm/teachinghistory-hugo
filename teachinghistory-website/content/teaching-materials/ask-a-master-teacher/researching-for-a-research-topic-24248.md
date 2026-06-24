@@ -74,7 +74,7 @@ Spend at most a few hours on each topic. In that time, you will hopefully get a 
 
 **A Recursive Process**
 
-One thing to keep in mind throughout your research is that it is an iterative process. As you read more about spies, you encounter more options for topics. As you search for sources about a specific topic (for example, French Spy in 1775, [Julien-Alexandre Achard de Bonvouloir](http://www.ushistory.org/carpentershall/history/french.htm)), you will have additional questions. At some point, you will need to finalize your topic and question, but in these early stages, be open to changing and tweaking them. And while your topic will become more fixed as you proceed, you may find that the question you answer continues to be refined for months to come as you learn what the sources reveal.
+One thing to keep in mind throughout your research is that it is an iterative process. As you read more about spies, you encounter more options for topics. As you search for sources about a specific topic (for example, French Spy in 1775, [Julien-Alexandre Achard de Bonvouloir](http://web.archive.org/web/20160629132738/http://web.archive.org/web/20160629132738/http://www.ushistory.org/carpentershall/history/french.htm)), you will have additional questions. At some point, you will need to finalize your topic and question, but in these early stages, be open to changing and tweaking them. And while your topic will become more fixed as you proceed, you may find that the question you answer continues to be refined for months to come as you learn what the sources reveal.
 > Remember, researching the past is a complex process, these tips only scratch the surface
 
 Finally, remember that espionage is a secret enterprise. If you pick a less current topic, you may find that more sources are available.
@@ -86,10 +86,10 @@ Good Luck!
 **Here are some other resources that may help you think through the process:**
 
 * Historian William Cronon’s helpful [site](http://www.williamcronon.net/researching/index.htm). Especially helpful for choosing a topic is the section titled [“asking good questions.”](http://www.williamcronon.net/researching/questions.htm)
-* National History Day’s [Eight Steps of Historical Research](http://www.nationalhistoryday.org/EightSteps.htm). Steps 2, 3, and 4 are most relevant to your question.
+* National History Day’s [Eight Steps of Historical Research](http://web.archive.org/web/20150215102553/http://www.nationalhistoryday.org:80/EightSteps.htm). Steps 2, 3, and 4 are most relevant to your question.
 * Local resources including school and local librarians, professors, teachers, museums, and historical societies. Use the search function at our  page to find local museums and historical sites (scroll down and look in the right column).
 
 Places you may want to browse to do some background reading and look for topics specific to spies include:
 
 * [The International Spy Museum website](http://www.spymuseum.org/): Spend some time with the “From Spy” and “exhibits” sections to find ideas for topics.
-* [The National Security Archives](http://www.gwu.edu/~nsarchiv/): Browse the search function and explore some of those results.
+* [The National Security Archives](http://web.archive.org/web/20150319080441/http://www2.gwu.edu/~nsarchiv/): Browse the search function and explore some of those results.

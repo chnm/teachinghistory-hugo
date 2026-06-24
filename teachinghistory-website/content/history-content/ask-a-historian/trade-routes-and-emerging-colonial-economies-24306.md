@@ -87,4 +87,4 @@ Price, Jacob and Paul Clemens.  “A Revolution of Scale in Overseas Trade: Brit
 
 Rawley, James and Stephen Berendt. **The Transatlantic Slave Trade: A History.**  Lincoln: University of Nebraska Press, 2005. 
 
-[Spanish Colonial Trade Routes](http://srufaculty.sru.edu/james.hughes/201/Andes-Mexico/trade.htm)
+[Spanish Colonial Trade Routes](http://web.archive.org/web/20150510065420/http://srufaculty.sru.edu:80/james.hughes/201/Andes-Mexico/trade.htm)

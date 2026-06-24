@@ -100,7 +100,7 @@ The requirement to use gold to buy federal lands suddenly deflated the speculati
 
 ["Gold Standard,"](http://www.econlib.org/library/Enc/GoldStandard.html) Michael D. Bordo, in *The Concise Encyclopedia of Economics*.
 
-["Sunk in Lucre's Sordid Charms: South Sea Bubble Resources in the Kress Collection at Baker Library"](http://www.library.hbs.edu/hc/ssb/index.html) (Harvard Business School).
+["Sunk in Lucre's Sordid Charms: South Sea Bubble Resources in the Kress Collection at Baker Library"](http://web.archive.org/web/20201030214345/https://www.library.hbs.edu/hc/ssb/index.html) (Harvard Business School).
 
 ## For Further Reading
 

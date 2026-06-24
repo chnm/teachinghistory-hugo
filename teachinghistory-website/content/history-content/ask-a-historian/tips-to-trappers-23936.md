@@ -64,9 +64,9 @@ After 34 years in the fur buying business, Sears Roebuck decided in 1958 to focu
 
 ## For Further Reading
 
-[*Sears Archives*](http://www.searsarchives.com/index.htm)
+[*Sears Archives*](http://web.archive.org/web/20221005032734/http://www.searsarchives.com/index.htm)
 
-Jerry R. Hancock, Jr.  ["Dixie Progress: Sears, Roebuck & Co. and How It Became an Icon in Southern Culture,"](http://digitalarchive.gsu.edu/history_theses/32/) M.A. Thesis, Georgia State University (2008): 50-60.
+Jerry R. Hancock, Jr.  ["Dixie Progress: Sears, Roebuck & Co. and How It Became an Icon in Southern Culture,"](http://web.archive.org/web/20100729135506/http://web.archive.org/web/20100729135506/http://digitalarchive.gsu.edu/history_theses/32/) M.A. Thesis, Georgia State University (2008): 50-60.
 
 Johnny Muskrat, *Trapping and Fur Farming*.  Chicago: Sears, Roebuck and Company, 1927.
 

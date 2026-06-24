@@ -50,6 +50,6 @@ resource_types:
 
 If you're registered, consider making your own activity for use by yourself and others. There are tools which help students to create sequences, participate in analytical discussion, connect documents, geographically map documents, use documents to gain an understanding of the bigger picture, weigh evidence, and examine source context.
 
-Take a moment to peruse the [Teacher Resources](http://docsteach.org/resources#whyteach) as well. Here, you can find information on national history standards, using DocsTeach activities in the classroom, Bloom's taxonomy, and the National Council of Social Studies.
+Take a moment to peruse the [Teacher Resources](http://web.archive.org/web/20250704014805/https://www.docsteach.org/resources) as well. Here, you can find information on national history standards, using DocsTeach activities in the classroom, Bloom's taxonomy, and the National Council of Social Studies.
 
 Read our Digital Classroom article on *[DocsTeach](/digital-classroom/tech-for-teachers/24268)* for more detailed information on using the site.

@@ -7,7 +7,7 @@ draft: false
 drupal_nid: 24175
 url: /best-practices/examples-of-historical-thinking/24175
 author_bio: Professor Allida Black is project director and editor of [The Eleanor
-  Roosevelt Papers](http://www.gwu.edu/~erpapers/). She is an author and lecturer
+  Roosevelt Papers](http://web.archive.org/web/20260616061530/https://www2.gwu.edu/~erpapers/). She is an author and lecturer
   on 20th-century history and history education as well as a member of the Board of
   Directors of the Franklin and Eleanor Roosevelt Institute, the Eleanor Roosevelt
   Legacy Committee, and the Center for New Deal Studies.

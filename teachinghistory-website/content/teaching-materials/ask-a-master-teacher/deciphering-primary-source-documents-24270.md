@@ -37,7 +37,7 @@ Ah yes…your question captures a problem many history teachers face. First, let
 
 **Careful Preparation of Documents**
 
-See our [guide](/teaching-materials/teaching-guides/23560) on adapting and modifying documents for ways to make difficult documents more accessible for students. Keeping those documents short, defining difficult vocabulary, and even simplifying syntax (while letting students know that you’ve done so) can help. See the [Reading Like a Historian](http://sheg.stanford.edu/?q=node/45) curriculum from the Stanford History Education Group for examples of carefully prepared 18th century documents. The Hamilton vs. Jefferson plan includes two 18th century letters that have been modified. Find our entry about this curriculum [here](/best-practices/using-primary-sources/24001).
+See our [guide](/teaching-materials/teaching-guides/23560) on adapting and modifying documents for ways to make difficult documents more accessible for students. Keeping those documents short, defining difficult vocabulary, and even simplifying syntax (while letting students know that you’ve done so) can help. See the [Reading Like a Historian](http://web.archive.org/web/20231205023646/https://sheg.stanford.edu/?q=node/45) curriculum from the Stanford History Education Group for examples of carefully prepared 18th century documents. The Hamilton vs. Jefferson plan includes two 18th century letters that have been modified. Find our entry about this curriculum [here](/best-practices/using-primary-sources/24001).
 
 One thing to remember is that students need to experience some success with reading difficult documents to want to persevere with them. Carefully prepared documents, especially at the beginning of the school year, can be critical to this.
 
@@ -68,7 +68,7 @@ Ah yes…your question captures a problem many history teachers face. First, let
 
 **Careful Preparation of Documents**
 
-See our [guide](/teaching-materials/teaching-guides/23560) on adapting and modifying documents for ways to make difficult documents more accessible for students. Keeping those documents short, defining difficult vocabulary, and even simplifying syntax (while letting students know that you’ve done so) can help. See the [Reading Like a Historian](http://sheg.stanford.edu/?q=node/45) curriculum from the Stanford History Education Group for examples of carefully prepared 18th century documents. The Hamilton vs. Jefferson plan includes two 18th century letters that have been modified. Find our entry about this curriculum [here](/best-practices/using-primary-sources/24001).
+See our [guide](/teaching-materials/teaching-guides/23560) on adapting and modifying documents for ways to make difficult documents more accessible for students. Keeping those documents short, defining difficult vocabulary, and even simplifying syntax (while letting students know that you’ve done so) can help. See the [Reading Like a Historian](http://web.archive.org/web/20231205023646/https://sheg.stanford.edu/?q=node/45) curriculum from the Stanford History Education Group for examples of carefully prepared 18th century documents. The Hamilton vs. Jefferson plan includes two 18th century letters that have been modified. Find our entry about this curriculum [here](/best-practices/using-primary-sources/24001).
 
 One thing to remember is that students need to experience some success with reading difficult documents to want to persevere with them. Carefully prepared documents, especially at the beginning of the school year, can be critical to this.
 

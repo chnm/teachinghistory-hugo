@@ -151,7 +151,7 @@ Thomas Doherty. *Cold War, Cool Medium: Television, McCarthyism, and American Cu
 
 Jane Pavitt. *Fear and Fashion in the Cold War*. London: Victoria & Albert Museum, 2008.
 
-The University of Washington library, [The Red Scare: A Filmography](http://www.lib.washington.edu/exhibits/AllPowers/film.html).
+The University of Washington library, [The Red Scare: A Filmography](http://web.archive.org/web/20170223211719/http://web.archive.org/web/20170223211719/http://www.lib.washington.edu/exhibits/AllPowers/film.html).
 
 Transcript of Richard Nixon and Nikita Kruschev's 1959 ["Kitchen Debate."](http://www.watergate.info/nixon/1959_nixon-khrushchev-kitchen-debate.shtml")*
 

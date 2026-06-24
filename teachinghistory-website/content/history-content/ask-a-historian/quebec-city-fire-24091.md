@@ -49,9 +49,9 @@ In all, the two fires destroyed two-thirds of the city, but I have found no evid
 
 ---
 
-Joseph Légaré, [*The Fire in the Saint-Jean Quarter, Seen Looking Westward*](http://www.ago.net/agoid429) (1848), Art Gallery of Ontario. See also the [copy](http://www.mnba.qc.ca/Contenu.aspx?page=1476&langue=en”) at the Musée national des beaux-arts du Québec.
+Joseph Légaré, [*The Fire in the Saint-Jean Quarter, Seen Looking Westward*](http://web.archive.org/web/20220119044624/http://web.archive.org/web/20220119044624/http://www.ago.net/agoid429) (1848), Art Gallery of Ontario. See also the [copy](http://www.mnba.qc.ca/Contenu.aspx?page=1476&langue=en”) at the Musée national des beaux-arts du Québec.
 
-John Murray, [*View of Québec, Canada, from the river St. Charles, shewing the conflagration of June 28, 1845, and the ruins of the fire of May 28th, 1845*](http://www.musee-mccord.qc.ca/scripts/viewobject.php?section=162&Lang=1&tourID=GE_P1_3_EN&seqNumber=1”) (1845), colored ink on paper, at the McCord Museum in Montreal.
+John Murray, [*View of Québec, Canada, from the river St. Charles, shewing the conflagration of June 28, 1845, and the ruins of the fire of May 28th, 1845*](http://web.archive.org/web/20140829102304/http://www.musee-mccord.qc.ca/scripts/viewobject.php?section=162&Lang=1&tourID=GE_P1_3_EN&seqNumber=1%E2%80%9D) (1845), colored ink on paper, at the McCord Museum in Montreal.
 
 ## For Further Reading
 

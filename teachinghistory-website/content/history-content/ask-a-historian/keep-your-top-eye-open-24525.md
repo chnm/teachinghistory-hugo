@@ -33,7 +33,7 @@ tags:
 - slaves
 ---
 
-The [original](http://chnm.gmu.edu/lostmuseum/lm/307/) of this handbill is in the Boston Public Library’s Rare Book collection. It is part of the papers, manuscripts, and diaries of abolitionist and controversial Unitarian clergyman Theodore Parker, who composed it and had it printed and distributed.
+The [original](http://web.archive.org/web/20150603090647/http://chnm.gmu.edu:80/lostmuseum/lm/307) of this handbill is in the Boston Public Library’s Rare Book collection. It is part of the papers, manuscripts, and diaries of abolitionist and controversial Unitarian clergyman Theodore Parker, who composed it and had it printed and distributed.
 
 ## Boston Vigilance Committee
 

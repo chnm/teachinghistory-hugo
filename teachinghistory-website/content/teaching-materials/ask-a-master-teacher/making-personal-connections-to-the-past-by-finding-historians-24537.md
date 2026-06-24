@@ -40,7 +40,7 @@ It matters not what grade level you teach. If you are interested in hooking up w
 
 Since the inception of the collaborative Teaching American History Grants I believe that historians, more than ever, are willing to talk with you and your students. *So how do you get started and once you have the process in place what do you do?*
 
-Say you are studying the American Revolution and George Washington and you want your students to interact with a Revolutionary War era historian or biographer. Start with where George lived, his home in [Mount Vernon, VA](http://www.mountvernon.org/visit-his-estate/virtual-tour-flash). Most top-drawer historic sites have a direct pipeline or e-connection to historians who are working in the site-specific subject matter. Chances are these sites have educational curators or specialists on staff that can help you find someone who can speak articulately to the topic at hand.
+Say you are studying the American Revolution and George Washington and you want your students to interact with a Revolutionary War era historian or biographer. Start with where George lived, his home in [Mount Vernon, VA](http://web.archive.org/web/20130920070624/http://www.mountvernon.org:80/visit-his-estate/virtual-tour-flash). Most top-drawer historic sites have a direct pipeline or e-connection to historians who are working in the site-specific subject matter. Chances are these sites have educational curators or specialists on staff that can help you find someone who can speak articulately to the topic at hand.
 
 ## Plan Carefully
 
@@ -66,7 +66,7 @@ It matters not what grade level you teach. If you are interested in hooking up w
 
 Since the inception of the collaborative Teaching American History Grants I believe that historians, more than ever, are willing to talk with you and your students. *So how do you get started and once you have the process in place what do you do?*
 
-Say you are studying the American Revolution and George Washington and you want your students to interact with a Revolutionary War era historian or biographer. Start with where George lived, his home in [Mount Vernon, VA](http://www.mountvernon.org/visit-his-estate/virtual-tour-flash). Most top-drawer historic sites have a direct pipeline or e-connection to historians who are working in the site-specific subject matter. Chances are these sites have educational curators or specialists on staff that can help you find someone who can speak articulately to the topic at hand.
+Say you are studying the American Revolution and George Washington and you want your students to interact with a Revolutionary War era historian or biographer. Start with where George lived, his home in [Mount Vernon, VA](http://web.archive.org/web/20130920070624/http://www.mountvernon.org:80/visit-his-estate/virtual-tour-flash). Most top-drawer historic sites have a direct pipeline or e-connection to historians who are working in the site-specific subject matter. Chances are these sites have educational curators or specialists on staff that can help you find someone who can speak articulately to the topic at hand.
 
 ## Plan Carefully
 

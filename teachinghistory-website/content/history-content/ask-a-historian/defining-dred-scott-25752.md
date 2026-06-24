@@ -43,7 +43,7 @@ Dred Scott, however, was not alive to see either that political contest or the w
 
 ---
 
-Arenson, Adam. “[Freeing Dred Scott](http://www.common-place.org/vol-08/no-03/arenson/).” *Common-Place* 8:3 (April 2008)
+Arenson, Adam. “[Freeing Dred Scott](http://web.archive.org/web/20150906112549/http://web.archive.org/web/20150906112549/http://www.common-place.org/vol-08/no-03/arenson/).” *Common-Place* 8:3 (April 2008)
 
 Ehrlich, Walter. *They Have No Rights: Dred Scott’s Struggle for Freedom*. Westport, CT: Greenwood Press, 1979.
 
@@ -53,6 +53,6 @@ Konig, David Thomas, Paul Finkelman, and Christopher Alan Bracey, eds. *The Dred
 
 Pinsker, Matthew. “[Dred and Harriet Scott: A Family Story of Slavery and Freedom](http://vimeo.com/47762696).” Video presentation. Gilder Lehrman Institute for American History.
 
-Washington University in St. Louis. “[The Revised Dred Scott Case Collection](http://digital.wustl.edu/d/dre/index.html).”
+Washington University in St. Louis. “[The Revised Dred Scott Case Collection](http://web.archive.org/web/20240809183102/http://www.digital.wustl.edu/d/dre/index.html).”
 
 VanderVelde, Lea. *Mrs. Dred Scott: A Life on Slavery’s Frontier*. New York: Oxford University Press, 2009.

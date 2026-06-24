@@ -10,7 +10,7 @@ summary: '## Introduction
   Classroom discussions provide important learning opportunities for students in history
   classrooms, helping learners to articulate central ideas, develop and compare points
   of view, and assess the value of different types of textual evidence—all important
-  skills noted in the History/Social Studies [Common Core Standards](http://www.corestandards.org/the-standards/english-language-arts-standards/history-social-studies/grades-6-8/).'
+  skills noted in the History/Social Studies [Common Core Standards](http://web.archive.org/web/20120529061218/http://www.corestandards.org:80/the-standards/english-language-arts-standards/history-social-studies/grades-6-8).'
 url: /teaching-materials/english-language-learners/25699
 image_fid: '9460'
 splash_image_fid: '9459'

@@ -16,6 +16,6 @@ grade_levels:
 - middle
 ---
 
-The [Picturing America](http://picturingamerica.neh.gov) website, created by the National Endowment for the Humanities, presents 27 iconic images in American history designed specifically to encourage educators to use images as primary source documents in the classroom. The images range in time from 17th-century depictions of the Catholic mission in San Antonio to the contemporary art of Washington, DC native Martin Puryear.
+The [Picturing America](http://web.archive.org/web/20221110125509/https://picturingamerica.neh.gov/) website, created by the National Endowment for the Humanities, presents 27 iconic images in American history designed specifically to encourage educators to use images as primary source documents in the classroom. The images range in time from 17th-century depictions of the Catholic mission in San Antonio to the contemporary art of Washington, DC native Martin Puryear.
 
 **The printed materials are no longer available, but you can read more about the online resources [here](/history-content/website-reviews/19087).**

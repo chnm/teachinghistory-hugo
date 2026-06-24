@@ -31,4 +31,4 @@ To access the articles, you can choose a category subset (agriculture, arts and 
 
 Other sections worth exploring on the site include "features" which groups together articles on Alabama musicians and "galleries" where you can find image collections of John Kelly Fitzpatrick and Dale Kennington's paintings, photos by Erik Overbey and Mary Morgan Keipp, Magnolia Cemetery, the Ava Maria Grotto, folk pottery, barbecue, and far more.
 
-Don't forget to explore the Beta version of the [For Teacher's Section](http://www.encyclopediaofalabama.org/Teachers/index.jsp). Here, you will discover a wide variety of articles organized in accordance with Alabama teaching standards.
+Don't forget to explore the Beta version of the [For Teacher's Section](http://web.archive.org/web/20190101062739/http://www.encyclopediaofalabama.org:80/Teachers/index.jsp). Here, you will discover a wide variety of articles organized in accordance with Alabama teaching standards.

@@ -72,7 +72,7 @@ As with the snake image, the Albany Plan, drafted during the congress, did not i
 
 ## For Further Reading
 
-Thomas Bender, [*A Nation Among Nations: America’s Place in World History *](http://us.macmillan.com/anationamongnations/ThomasBender).  New York: Hill and Wang, 2006.
+Thomas Bender, [*A Nation Among Nations: America’s Place in World History *](http://web.archive.org/web/20140901215350/http://us.macmillan.com/anationamongnations/thomasbender).  New York: Hill and Wang, 2006.
 
 Lester C. Olson, [*Emblems of American Community in the Revolutionary Era: A Study in Rhetorical Iconology*](http://www.amazon.com/Emblems-American-Community-Revolutionary-Era/dp/1560980664) Washington: Smithsonian Institution Press, 1991.
 

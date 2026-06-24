@@ -8,7 +8,7 @@ drupal_nid: 22432
 url: /best-practices/using-primary-sources/22432
 author_bio: The [National Park Service](http://www.nps.gov/) offers a wealth of information
   about historic places, as well as resources for in-person visits and for hands-on
-  and classroom instruction in American history. [Teaching with Historic Places](http://www.nps.gov/history/NR/twhp/)
+  and classroom instruction in American history. [Teaching with Historic Places](http://web.archive.org/web/20140712171503/http://www.nps.gov/history/nr/twhp/)
   offers lesson plans, classroom activities, and professional development opportunities
   to help educators bring places on the National Register of Historic Places into
   the classroom and to prepare for local field trips. Curriculum modules are based

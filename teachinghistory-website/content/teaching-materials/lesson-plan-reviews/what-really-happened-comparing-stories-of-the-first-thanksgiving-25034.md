@@ -8,7 +8,7 @@ drupal_nid: 25034
 url: /teaching-materials/lesson-plan-reviews/25034
 flexibility_scale: '4'
 topic: Colonial history
-website_url: http://learning.blogs.nytimes.com/2010/11/23/what-really-happened-comparing-stories-of-the-first-thanksgiving/
+website_url: http://web.archive.org/web/20220120112852/https://learning.blogs.nytimes.com/2010/11/23/what-really-happened-comparing-stories-of-the-first-thanksgiving/
 image_fid: '7789'
 splash_image_fid: '7790'
 summary: Take a variety of perspectives into account before moving past the first
@@ -32,7 +32,7 @@ tags:
 - holidays
 ---
 
-This [lesson](http://learning.blogs.nytimes.com/2010/11/23/what-really-happened-comparing-stories-of-the-first-thanksgiving/) does a good job of positioning students to understand and evaluate the perspectives of secondary sources on the First Thanksgiving. Students begin by establishing a common understanding of the "mainstream narrative" of the First Thanksgiving, either from their own experience, books on Thanksgiving written for young children, or a website like this [one](http://kids.nationalgeographic.com/kids/stories/history/first-thanksgiving/) from [National Geographic Kids](http://kids.nationalgeographic.com/kids/stories/history/). (Other, similar sites are also linked near the bottom of the lesson).
+This [lesson](http://web.archive.org/web/20220120112852/https://learning.blogs.nytimes.com/2010/11/23/what-really-happened-comparing-stories-of-the-first-thanksgiving/) does a good job of positioning students to understand and evaluate the perspectives of secondary sources on the First Thanksgiving. Students begin by establishing a common understanding of the "mainstream narrative" of the First Thanksgiving, either from their own experience, books on Thanksgiving written for young children, or a website like this [one](http://web.archive.org/web/20260423103822/https://kids.nationalgeographic.com/kids/stories/history/first-thanksgiving/) from [National Geographic Kids](http://web.archive.org/web/20140420012036/http://kids.nationalgeographic.com:80/kids/stories/history/). (Other, similar sites are also linked near the bottom of the lesson).
 
 In groups, students then read accounts of the first Thanksgiving from one of four points of view: mainstream accounts, Native American educators and public school leaders, conservative and Tea Party activists, and Native Americans critical of the holiday. Multiple articles are provided for each category so teachers may choose the articles most appropriate for their students. After analyzing each category of sources in small groups, students come together as a class to discuss the various perspectives of the accounts they read. This is an ideal opportunity for teachers to highlight the importance of paying attention to source information and reading historical accounts with a critical eye.
 

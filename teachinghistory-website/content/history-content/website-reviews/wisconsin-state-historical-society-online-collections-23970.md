@@ -43,4 +43,4 @@ Highlights include full-text access to 80 histories of Wisconsin counties, and 1
 
 Other objects can be viewed at the website's [Online Exhibits](http://www.wisconsinhistory.org/museum/exhibits/) section, which includes objects from exhibits on Presidential elections, Wisconsin's Olympic speed skaters, the Milwaukee Braves, Jewish women, and family labor in Milwaukee after World War II.
 
-The website also provides a vast collection of images available through [Wisconsin Historical Images](http://www.wisconsinhistory.org/whi/), including photographs, drawings, and prints relating to both regional history, as well as more national histories of 19th-century exploration, mass communications, and social action movements.
+The website also provides a vast collection of images available through [Wisconsin Historical Images](http://web.archive.org/web/20140421030141/http://www.wisconsinhistory.org:80/whi/), including photographs, drawings, and prints relating to both regional history, as well as more national histories of 19th-century exploration, mass communications, and social action movements.

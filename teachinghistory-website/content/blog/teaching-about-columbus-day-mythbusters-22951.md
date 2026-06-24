@@ -50,7 +50,7 @@ The [History Channel](http://www.history.com/) gives a [biographical overview](h
 
 [Edsitement](http://edsitement.neh.gov) provides a particularly comprehensive lesson plan to teach about Christopher Columbus. [What Was Columbus Thinking](http://edsitement.neh.gov/lesson-plan/what-was-columbus-thinking) encourages students to read and talk about primary and secondary sources to discern the intentions behind the voyages of Columbus and the consequences in the lives of Native Americans and Europeans. Although billed as lesson plans for third through fifth grade, the primary sources (including a letter from Columbus and excerpts from his journal) seem a bit advanced for that age group; however, the lesson plan offers detailed guidance for document analysis.
 
-The [New York Times](http://www.nytimes.com) [lesson plan](http://learning.blogs.nytimes.com), scaffolded for intermediate and high school students, uses the vehicle of Columbus Day protests to research "exploration and colonization from the point of view of a stakeholder of that nation."
+The [New York Times](http://www.nytimes.com) [lesson plan](http://web.archive.org/web/20160918203026/http://learning.blogs.nytimes.com:80/), scaffolded for intermediate and high school students, uses the vehicle of Columbus Day protests to research "exploration and colonization from the point of view of a stakeholder of that nation."
 
 ## Books
 

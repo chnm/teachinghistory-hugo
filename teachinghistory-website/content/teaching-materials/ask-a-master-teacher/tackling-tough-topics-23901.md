@@ -31,7 +31,7 @@ The broad scope of Social Studies that examines past and present human behaviors
 
 Issues around personal values, race, ethics, and stereotypes highlight just a few of the topics that can be potentially charged and consequently challenging for the Social Studies teacher. Teachers can also struggle with how to present controversial or contested interpretations of the past.
 
-The [Curriculum Guidelines for Multicultural Education](http://www.socialstudies.org/positions/multicultural) issued by the NCSS recommends "Students should also be encouraged to examine alternative interpretations of the discrepancies between ideals and realities in the life and history of the United States."
+The [Curriculum Guidelines for Multicultural Education](http://web.archive.org/web/20120107075404/http://www.socialstudies.org:80/positions/multicultural) issued by the NCSS recommends "Students should also be encouraged to examine alternative interpretations of the discrepancies between ideals and realities in the life and history of the United States."
 > Students should also be encouraged to examine alternative interpretations of the discrepancies between ideals and realities in the life and history of the United States.
 
 The NCSS suggests that teachers provide students with a conceptual framework for understanding and identifying multiple perspectives. The [Canadian Benchmarks of Historical Thinking](http://www.histori.ca/benchmarks/sites/default/files/Benchmarks of Historical Thinking A Framework for Assessment in Canada.pdf) offers some guidance for teachers to develop such frameworks for their students. The document describes the aspects of perspective taking as well as identifies two potential tasks that ask students to assume or critique perspectives.

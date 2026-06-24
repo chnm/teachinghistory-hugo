@@ -23,4 +23,4 @@ The new technology plan is a four-point focus: learning, teaching, productivity,
 
 Teachers need to ensure that technology helps them teach what matters.
 
-Preliminary comments about the National Educational Technology Plan are [online](http://edtechfuture.org/), including exemplary cases of current uses of educational technologies and on the Department of Education's [National Educational Technology Plan](http://www2.ed.gov/about/offices/list/os/technology/plan/2004/site/edlite-default.html) homepage.
+Preliminary comments about the National Educational Technology Plan are [online](http://web.archive.org/web/20251007124037/https://edtechfuture.org/), including exemplary cases of current uses of educational technologies and on the Department of Education's [National Educational Technology Plan](http://web.archive.org/web/20120720070818/http://www2.ed.gov:80/about/offices/list/os/technology/plan/2004/site/edlite-default.html) homepage.

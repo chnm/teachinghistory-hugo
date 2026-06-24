@@ -8,7 +8,7 @@ drupal_nid: 24169
 summary: 'In this [video](http://www.youtube.com/watch?v=ufVnMDVskLo), Lynne Zalesak,
   an 8th-grade Houston social studies teacher, reflects on her use of digital tools
   in the classroom, in support of student-created digital storytelling. Zalesak worked
-  with [Photo Story 3](http://windows.microsoft.com/en-US/windows-live/photo-gallery-get-started),
+  with [Photo Story 3](http://web.archive.org/web/20130513160220/http://windows.microsoft.com/en-US/windows-live/photo-gallery-get-started),
   a free Windows application with which students can create documentary-style videos
   with narration.
 

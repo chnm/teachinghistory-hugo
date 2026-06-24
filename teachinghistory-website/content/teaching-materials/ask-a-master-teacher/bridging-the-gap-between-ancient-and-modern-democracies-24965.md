@@ -50,14 +50,14 @@ We then take on the role of the enlightenment philosophers living in the modern 
 
 * [Plato's Republic](http://classics.mit.edu/Plato/republic.html)
 * [Ten Commandments](http://en.wikipedia.org/wiki/Ten_Commandments)
-* [Magna Carta](http://www.fordham.edu/halsall/source/magnacarta.html)
+* [Magna Carta](http://web.archive.org/web/20140910155351/http://www.fordham.edu/halsall/source/magnacarta.html)
 
 Once we understand how and why these documents are influential to us, we then turn our attention to excerpts from documents associated with the Atlantic Revolutions.
 
 * [Declaration of Independence](http://avalon.law.yale.edu/18th_century/declare.asp)
 * [Bill of Rights](http://www.law.cornell.edu/constitution/billofrights)
 * [Declaration of Rights of Man and of the Citizen](http://avalon.law.yale.edu/18th_century/rightsof.asp)
-* [Simón de Bolívar's Message to the Congress of Angostura, 1819](http://www.fordham.edu/halsall/mod/1819bolivar.html)
+* [Simón de Bolívar's Message to the Congress of Angostura, 1819](http://web.archive.org/web/20141015183442/http://www.fordham.edu:80/halsall/mod/1819bolivar.html)
 
 We write the titles down in the appropriate space on the graphic organizer so that students see that our work, in turn, becomes very influential in the revolutions of the modern Atlantic world. And lastly we connect the modern democratic documents to the Greek, Judeo-Christian, and English documents.
 
@@ -84,14 +84,14 @@ We then take on the role of the enlightenment philosophers living in the modern 
 
 * [Plato's Republic](http://classics.mit.edu/Plato/republic.html)
 * [Ten Commandments](http://en.wikipedia.org/wiki/Ten_Commandments)
-* [Magna Carta](http://www.fordham.edu/halsall/source/magnacarta.html)
+* [Magna Carta](http://web.archive.org/web/20140910155351/http://www.fordham.edu/halsall/source/magnacarta.html)
 
 Once we understand how and why these documents are influential to us, we then turn our attention to excerpts from documents associated with the Atlantic Revolutions.
 
 * [Declaration of Independence](http://avalon.law.yale.edu/18th_century/declare.asp)
 * [Bill of Rights](http://www.law.cornell.edu/constitution/billofrights)
 * [Declaration of Rights of Man and of the Citizen](http://avalon.law.yale.edu/18th_century/rightsof.asp)
-* [Simón de Bolívar's Message to the Congress of Angostura, 1819](http://www.fordham.edu/halsall/mod/1819bolivar.html)
+* [Simón de Bolívar's Message to the Congress of Angostura, 1819](http://web.archive.org/web/20141015183442/http://www.fordham.edu:80/halsall/mod/1819bolivar.html)
 
 We write the titles down in the appropriate space on the graphic organizer so that students see that our work, in turn, becomes very influential in the revolutions of the modern Atlantic world. And lastly we connect the modern democratic documents to the Greek, Judeo-Christian, and English documents.
 

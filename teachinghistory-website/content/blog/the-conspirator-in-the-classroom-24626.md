@@ -51,9 +51,9 @@ Aiken eventually decides that Surratt deserves a fair trial and it is through Ai
 
 ## Teaching Resources
 
-In conjunction with the film, the producers of *The Conspirator* developed an [Educators’ Page](http://www.theamericanfilmcompany.com/teachers) with links to a downloadable Educational Resource Guide (41 pages) and movie poster. Free registration is required.
+In conjunction with the film, the producers of *The Conspirator* developed an [Educators’ Page](http://web.archive.org/web/20171001062631/http://www.theamericanfilmcompany.com:80/teachers) with links to a downloadable Educational Resource Guide (41 pages) and movie poster. Free registration is required.
 
-The [guide](http://www.theamericanfilmcompany.com/teachers) offers three lessons: Women and the Civil War, Impact of Presidential Assassinations, and Right to a Fair Trial, all geared toward students ages 13 and older.
+The [guide](http://web.archive.org/web/20171001062631/http://www.theamericanfilmcompany.com:80/teachers) offers three lessons: Women and the Civil War, Impact of Presidential Assassinations, and Right to a Fair Trial, all geared toward students ages 13 and older.
 
 ## Classroom Connections
 
@@ -69,10 +69,10 @@ Here are a few resources found on Teachinghistory.org related to the Lincoln ass
 * For information about Mary Surratt, visit the Surratt House Museum.
 * For younger students, this [review](/teaching-materials/lesson-plan-reviews/22269) of the Gilder Lehrman Institute lesson, What Events Led to the Lincoln Assassination?, is suitable for grades 4 and 5.
 * The Chicago Historical Society produced an interesting online exhibit, [Wet with Blood](/history-content/website-reviews/23376), that invites you to join historians and scientists to look at the artifacts related to the Lincoln assassination.
-* Looking for primary source materials related directly to the conspirators’ trial and execution? The [Daniel Weinberg Collection](http://www.indianahistory.org/our-collections/digital-image-collections/lincoln-collections) at the [Indiana Historical Society](/history-content/website-reviews/22619 ) has over 90 items related to the assassination conspiracy, including the handwritten execution order.
+* Looking for primary source materials related directly to the conspirators’ trial and execution? The [Daniel Weinberg Collection](http://web.archive.org/web/20171204191048/http://www.indianahistory.org:80/our-collections/digital-image-collections/lincoln-collections) at the [Indiana Historical Society](/history-content/website-reviews/22619 ) has over 90 items related to the assassination conspiracy, including the handwritten execution order.
 
-For other resources beyond Teachinghistory.org, the University of Missouri-Kansas City School of Law offers the [Trial of the Lincoln Assassination Conspirators](http://law2.umkc.edu/faculty/projects/ftrials/lincolnconspiracy/lincolnconspiracy.html) that includes images, newspaper articles, and excerpts from the trial transcripts. Your students can compare the primary source material related to the trial to the movie’s version of events.
+For other resources beyond Teachinghistory.org, the University of Missouri-Kansas City School of Law offers the [Trial of the Lincoln Assassination Conspirators](http://web.archive.org/web/20260121032558/http://law2.umkc.edu/faculty/projects/FTrials/lincolnconspiracy/lincolnconspiracy.html) that includes images, newspaper articles, and excerpts from the trial transcripts. Your students can compare the primary source material related to the trial to the movie’s version of events.
 
-The Library of Congress’ [Teaching with Lincoln](http://www.teachingwithlincoln.com/personal/) has a section of materials related to the assassination, which includes resources for teachers, resources for students, and primary sources.
+The Library of Congress’ [Teaching with Lincoln](http://web.archive.org/web/20150222011116/http://teachingwithlincoln.com/personal/) has a section of materials related to the assassination, which includes resources for teachers, resources for students, and primary sources.
 
 Films offer a great way to introduce young people to the stories of history and with the right teaching tools they can help engage students in historical inquiry. Try incorporating a few ideas in your next lesson and let us know what works!

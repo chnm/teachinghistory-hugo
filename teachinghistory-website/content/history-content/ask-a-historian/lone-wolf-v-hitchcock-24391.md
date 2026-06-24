@@ -46,4 +46,4 @@ Clark, Blue. [*Lone Wolf* v *Hitchcock*: Treaty Rights and Indian Law at the End
 
 ## For Further Reading
 
-*Lone Wolf* v *Hitchcock* 187 U.S. 553 (1903). [*Treaty with the Kiowa and Comanche (Medicine Lodge Treaty) 1867*](http://digital.library.okstate.edu/kappler/Vol2/treaties/kio0977.htm). In *Indian Affairs: Laws and Treaties*, vol. 2. Washington, D.C.: Government Printing Office, 1904. Digital Library, Oklahoma State University.
+*Lone Wolf* v *Hitchcock* 187 U.S. 553 (1903). [*Treaty with the Kiowa and Comanche (Medicine Lodge Treaty) 1867*](http://web.archive.org/web/20171003164015/http://digital.library.okstate.edu:80/kappler/Vol2/treaties/kio0977.htm). In *Indian Affairs: Laws and Treaties*, vol. 2. Washington, D.C.: Government Printing Office, 1904. Digital Library, Oklahoma State University.

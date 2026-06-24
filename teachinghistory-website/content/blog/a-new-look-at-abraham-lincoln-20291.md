@@ -33,13 +33,13 @@ In 1960, the first televised debate between presidential candidates Senator John
 
 And in the 19th century, President Abraham Lincoln turned to the developing field of photography to broaden his public presence.
 
-A new exhibit, [*One Life: The Mask of Lincoln,*](http://www.npg.si.edu/exhibit/lincoln/index.html) at the [National Portrait Gallery](http://www.npg.si.edu/) in Washington, DC, and [the companion online exhibit](http://www.npg.si.edu/exhibit/lincoln/)  show the role of media—in this case, presidential photography and portraiture—200 years ago.
+A new exhibit, [*One Life: The Mask of Lincoln,*](http://web.archive.org/web/20250528075700/https://npg.si.edu/exhibit/lincoln/index.html) at the [National Portrait Gallery](http://www.npg.si.edu/) in Washington, DC, and [the companion online exhibit](http://web.archive.org/web/20250711171507/https://npg.si.edu/exhibit/lincoln/)  show the role of media—in this case, presidential photography and portraiture—200 years ago.
 
 Many of the images are familiar; Lincoln realized that photographs were a way of maintaining a public presence, and the exhibit demonstrates how media technology of the 19th century began to enable this process. As the caption accompanying the 1861 Alexander Gardner photograph states, "Although Lincoln knew, and joked about, the fact that he was a difficult subject, he was not camera-shy, producing a continuous portrait record of his time in office. Attuned to public opinion, Lincoln used portraits to keep himself in the eye of his fellow citizens." The exhibit leads to analysis of how he did this and what the images reveal.
 
 Covering more than presidential campaigns, the 31 images of Lincoln, 1857–1865, in the gallery exhibit are reproduced in the web exhibit as well as additional photographs of Lincoln's contemporaries. Accompanying text and excerpts from Lincoln's speeches and writings caption the images, including Matthew Brady and Alexander Gardner photographs.
 
-Six downloadable [mp3 files](http://www.npg.si.edu/exhibit/lincoln/audio.html) from prominent scholars discuss the portraits, their artistic presentation, and the events they commemorate. The audio files are also available via cell phone for visitors to the exhibition.
+Six downloadable [mp3 files](http://web.archive.org/web/20250711171507/https://npg.si.edu/exhibit/lincoln/audio.html) from prominent scholars discuss the portraits, their artistic presentation, and the events they commemorate. The audio files are also available via cell phone for visitors to the exhibition.
 
 A [helpful review of the exhibit](http://www.washingtonpost.com/wp-dyn/content/article/2008/11/07/AR2008110703848.html) appeared in the [*Washington Post*](http://www.washingtonpost.com) on November 8, 2008. The exhibit is on view at the National Portrait Gallery through July 5, 2009.
 

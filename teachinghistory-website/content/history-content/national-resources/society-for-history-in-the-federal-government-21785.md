@@ -6,7 +6,7 @@ content_type: national_resource_centers
 draft: false
 drupal_nid: 21785
 url: /history-content/national-resources/21785
-website_url: http://www.shfg.org/
+website_url: http://web.archive.org/web/20260312123520/https://www.shfg.org/
 splash_image_fid: '5068'
 thumbnail_fid: '2131'
 summary: Represents historians across executive, judicial, and congressional government
@@ -15,8 +15,8 @@ splash_image: /files/SocietyforHistory432x240.jpg
 thumbnail: /files/quiz_thumbnail/DigitalClassroom_Thumb.jpg
 ---
 
-The [Society for History in the Federal Government (SHFG)](http://www.shfg.org/) is the voice of the federal historical community, uniting offices of historians from all branches of the federal government. In addition to two offices of the Judicial Branch and four Congressional Agencies, the SHFG offers alphabetized links to 22 Executive Branch history offices.
+The [Society for History in the Federal Government (SHFG)](http://web.archive.org/web/20260312123520/https://www.shfg.org/) is the voice of the federal historical community, uniting offices of historians from all branches of the federal government. In addition to two offices of the Judicial Branch and four Congressional Agencies, the SHFG offers alphabetized links to 22 Executive Branch history offices.
 
 These range from the [Advisory Council on Historic Preservation](http://www.achp.gov/) to the [White House Historical Association](http://www.whitehousehistory.org/), with agencies such as the [Defense Threat Reduction Agency](http://www.dtra.mil/Home.aspx) (DTRA), [National Aeronautics and Space Administration](http://history.nasa.gov/) (NASA), and the [Social Security Administration](http://www.ssa.gov/history/history.html) (SSA) in between.
 
-SHFG publishes [digital materials](http://www.shfg.org/SHFGv3PUB.html), including a monthly newsletter, [*The Federalist*](http://www.shfg.org/SHFGv3FEDERALIST.html), and the journal [*Federal History*](http://www.shfg.org/SHFGv3JournalIssues.html). The January 2009 volume takes a look at the American People during the Depression and the start of the Bureau of Printing and Engraving under Abraham Lincoln.
+SHFG publishes [digital materials](http://web.archive.org/web/20260312123520/https://www.shfg.org/SHFGv3PUB.html), including a monthly newsletter, [*The Federalist*](http://web.archive.org/web/20100804001215/http://web.archive.org/web/20100804001215/http://web.archive.org/web/20260312123520/https://www.shfg.org/SHFGv3FEDERALIST.html), and the journal [*Federal History*](http://web.archive.org/web/20180126065458/http://www.shfg.org:80/SHFGv3JournalIssues.html). The January 2009 volume takes a look at the American People during the Depression and the start of the Bureau of Printing and Engraving under Abraham Lincoln.

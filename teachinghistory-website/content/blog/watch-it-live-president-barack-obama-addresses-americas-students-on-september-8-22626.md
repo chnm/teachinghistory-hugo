@@ -26,7 +26,7 @@ The [White House website](http://www.whitehouse.gov/live) and [C-SPAN](http://ww
 The U.S. Department of Education encourages students of all ages, teachers, and administrators to participate in this historic moment. Secretary of Education Arne Duncan sent a message directly to schools about the event and the content of the President's address. He says, "The president will challenge students to work hard, set educational goals, and take responsibility for their learning. He will also call for shared responsibility and commitment on the part of students, parents, and educators to ensure that every child in school receives the best education possible."
 > What do you think? Create your own video and let people know!
 
-The Department of Education also encourages students to respond to the President’s Back to School challenge by creating videos, up to two minutes in length, describing the steps they will take to improve their education and the role education will play in fulfilling their dreams. Visit [I Am What I Learn](http://www2.ed.gov/iamwhatilearn/index.html) for further information on September 8.
+The Department of Education also encourages students to respond to the President’s Back to School challenge by creating videos, up to two minutes in length, describing the steps they will take to improve their education and the role education will play in fulfilling their dreams. Visit [I Am What I Learn](http://web.archive.org/web/20210826054914/https://www2.ed.gov/iamwhatilearn/index.html) for further information on September 8.
 
 Students age 13 and older should upload their videos to YouTube by October 8. Submissions can be in the form of video blogs, public service announcements (PSAs), music videos, or documentaries. Have fun and be creative with this project! The public will then vote on their favorites to determine the top 20 finalists. These 20 videos will be reviewed by a panel of judges including U.S. Secretary of Education Arne Duncan. Three winners will receive a $1,000 cash prize!
 
@@ -46,7 +46,7 @@ White House television will make the address available via satellite for access 
 
 Galaxy 28/Transponder 17, Slot C (9 MHz); Uplink Frequency 14344.5 Horizontal; Downlink Frequency 12044.5 Vertical.
 
-For updates related to the president's speech, please visit the  [White House website](http://www.whitehouse.gov/mediaresources/) or the [Department of Education](http://www.ed.gov).
+For updates related to the president's speech, please visit the  [White House website](http://web.archive.org/web/20160205050257/https://www.whitehouse.gov/mediaresources/) or the [Department of Education](http://www.ed.gov).
 
 **3. What is the duration of the president’s address?**
 
@@ -58,7 +58,7 @@ The White House website is equipped with the appropriate amount of bandwidth to 
 
 **5. Will the address be available in some form after the original broadcast date and time?**
 
-Downloadable video of the speech will be made available at [White House Media Resources](http://www.whitehouse.gov/mediaresources/) as well as through the [Department of Education.](http://www.ed.gov) [C-SPAN](http://www.c-span.org/) will provide archived and "on-demand" viewing options .
+Downloadable video of the speech will be made available at [White House Media Resources](http://web.archive.org/web/20160205050257/https://www.whitehouse.gov/mediaresources/) as well as through the [Department of Education.](http://www.ed.gov) [C-SPAN](http://www.c-span.org/) will provide archived and "on-demand" viewing options .
 
 **6. Will the address include captioning for deaf and hard-of-hearing viewers?**
 

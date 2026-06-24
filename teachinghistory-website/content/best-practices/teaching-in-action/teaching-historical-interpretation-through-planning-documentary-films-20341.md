@@ -35,7 +35,7 @@ tags:
 
 ## World War I and the Battle of the Somme
 
-Before beginning work on their films, students spent a week developing deeper understandings of World War I, particularly the [Battle of the Somme,](http://www.firstworldwar.com/battles/somme.htm) the subject of the [documentary film](http://www.imdb.com/title/tt0006405/) that students viewed in the first part of this two-part video. Students then spend time collecting accounts of the battle that they will use for their projects.
+Before beginning work on their films, students spent a week developing deeper understandings of World War I, particularly the [Battle of the Somme,](http://web.archive.org/web/20260509204827/https://www.firstworldwar.com/battles/somme.htm) the subject of the [documentary film](http://www.imdb.com/title/tt0006405/) that students viewed in the first part of this two-part video. Students then spend time collecting accounts of the battle that they will use for their projects.
 
 ## Constructing a Historical Interpretation
 

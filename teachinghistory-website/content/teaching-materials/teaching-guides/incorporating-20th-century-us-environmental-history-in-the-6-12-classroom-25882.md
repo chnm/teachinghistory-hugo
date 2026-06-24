@@ -322,7 +322,7 @@ Link: <https://www.pbslearningmedia.org/resource/ecological-disaster-ken-burns-
 
 Interview with Flora Robertson, 1940
 
-[Link: https://history.iowa.gov/history/education/educator-resources/primary-source-sets/dust-bowl/interview-flora-robertson-about](https://history.iowa.gov/history/education/educator-resources/primary-source-sets/dust-bowl/interview-flora-robertson-about)
+[Link: http://web.archive.org/web/20240726172617/http://web.archive.org/web/20240726172617/https://history.iowa.gov/history/education/educator-resources/primary-source-sets/dust-bowl/interview-flora-robertson-about](http://web.archive.org/web/20240726172617/http://web.archive.org/web/20240726172617/https://history.iowa.gov/history/education/educator-resources/primary-source-sets/dust-bowl/interview-flora-robertson-about)
 
 Discussion Questions:
 
@@ -409,7 +409,7 @@ By the early 1960s and 1970s, what had been a burgeoning environmental movement 
 
 ![DDT Poster by the Penn Salt Chemicals Manufacturing Company. Poster touts the many beneficial uses of DDT. ](/files/inline-images/DDT Poster.png)
 
-(see [https://digital.sciencehistory.org/works/1831ck18w](//digital.sciencehistory.org/works/1831ck18w))
+(see [https:http://web.archive.org/web/20260312171923/https:http://web.archive.org/web/20260312171923/https://digital.sciencehistory.org/works/1831ck18w](http://web.archive.org/web/20260312171923/https:http://web.archive.org/web/20260312171923/https://digital.sciencehistory.org/works/1831ck18w))
 
 Background
 
@@ -431,7 +431,7 @@ Discussion Questions
 * Taking the document as a whole, what do you think the argument of this document is?
 * Given what has been discussed about DDT, how might this document be misleading?
 
-Extend: "DDT: The Britney Spears of Chemicals" Podcast, <https://digital.sciencehistory.org/works/1831ck18w>.
+Extend: "DDT: The Britney Spears of Chemicals" Podcast, <https:http://web.archive.org/web/20260312171923/https:http://web.archive.org/web/20260312171923/https://digital.sciencehistory.org/works/1831ck18w>.
 
 * What were some of the initial uses of DDT?
 * When did the public start to question the use of DDT and why?

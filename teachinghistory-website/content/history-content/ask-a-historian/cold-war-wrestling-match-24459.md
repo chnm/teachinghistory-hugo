@@ -5,7 +5,7 @@ lastmod: '2017-12-05T08:46:32'
 content_type: ask_a_historian
 draft: false
 drupal_nid: 24459
-question: There is a [political cartoon](http://www.cartoons.ac.uk/record/ILW3584)
+question: There is a [political cartoon](http://web.archive.org/web/20150602010816/http://www.cartoons.ac.uk:80/record/ILW3584)
   of Kennedy arm wrestling Khrushchev, and they are both sitting on hydrogen bombs.
   I would like to know who drew that, when it was drawn, and where was it first seen.
 url: /history-content/ask-a-historian/24459
@@ -56,7 +56,7 @@ That the Illingworth cartoon was published in a British newspaper bears witness 
 
 ---
 
-Gaddis, John Lewis. [*The Cold War: A New History.*](http://us.penguingroup.com/nf/Book/BookDisplay/0,,9780143038276,00.html?The_Cold_War_John_Lewis_Gaddis) New York: The Penguin Group, 2005.
+Gaddis, John Lewis. [*The Cold War: A New History.*](http://web.archive.org/web/20121001185530/http://us.penguingroup.com/nf/Book/BookDisplay/0,,9780143038276,00.html?The_Cold_War_John_Lewis_Gaddis) New York: The Penguin Group, 2005.
 
 Frankel, Max. [*High Noon in the Cold War: Kennedy, Khrushchev, and the Cuban Missile Crisis*](http://www.randomhouse.com/catalog/display.pperl?isbn=9780345480491). New York: Presidio Press, 2004.
 
@@ -70,8 +70,8 @@ University of Kent. ["British Cartoon Archive, Illingsworth Collection"](http://
 
 Dobbs, Michael.  [*One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War.*](http://www.amazon.com/One-Minute-Midnight-Kennedy-Khrushchev/dp/1400078911/ref=sr_1_1?s=books&ie=UTF8&qid=1295625472&sr=1-1) New York: Vintage Books, 2008.
 
-Kennedy, Robert F.  [*Thirteen Days.*](http://books.wwnorton.com/books/detail.aspx?ID=6438)  New York: W.W. Norton & Company, 1999.  
+Kennedy, Robert F.  [*Thirteen Days.*](http://web.archive.org/web/20170331164833/http://books.wwnorton.com:80/books/detail.aspx?ID=6438)  New York: W.W. Norton & Company, 1999.  
 
-Illingsworth, Leslie Gilbert.  ["Kennedy/Khrushchev"](http://www.cartoons.ac.uk/record/ILW3584).  *The Daily Mail*, October 29, 1962.  Accessed January 2011.  
+Illingsworth, Leslie Gilbert.  ["Kennedy/Khrushchev"](http://web.archive.org/web/20150602010816/http://www.cartoons.ac.uk:80/record/ILW3584).  *The Daily Mail*, October 29, 1962.  Accessed January 2011.  
 
-Valtman, Edmund.  ["This hurts me more than it hurts you."](http://www.loc.gov/rr/print/swann/valtman/images/valt04.jpg)  *The Hartford Times*, October 30, 1962.  Accessed January 2011.
+Valtman, Edmund.  ["This hurts me more than it hurts you."](http://web.archive.org/web/20201109215546/https://www.loc.gov/rr/print/swann/valtman/images/valt04.jpg)  *The Hartford Times*, October 30, 1962.  Accessed January 2011.

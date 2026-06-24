@@ -64,7 +64,7 @@ When the students come into my room on the first day of school, they find desks 
 2. this year you will enjoy learning history; and
 3. this year you will never, never do a worksheet.
 
-We then spend the remainder of the period playing a team-building game called [*Whatzits*](http://in.answers.yahoo.com/question/index?qid=20100109213542AAZVxbM).
+We then spend the remainder of the period playing a team-building game called [*Whatzits*](http://web.archive.org/web/20150929063105/https://in.answers.yahoo.com/question/index?qid=20100109213542AAZVxbM).
 
 ## Fulfilling Expectations
 

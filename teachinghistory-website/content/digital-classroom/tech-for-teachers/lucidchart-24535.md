@@ -11,7 +11,7 @@ author_bio: Diana Laufenberg has taught grade levels from 7-12 in Social Studies
   project-based high school focused on modern learning. She has also taught in Flagstaff,
   AZ, and was named Technology Teacher of the Year for Arizona and a member of the
   Governor's Master Teacher Corps.  Her work has been published in, among other places,
-  the [*New York Times Learning* blog](http://learning.blogs.nytimes.com/2010/08/27/teaching-with-infographics-a-student-project-model/).
+  the [*New York Times Learning* blog](http://web.archive.org/web/20220407160818/https://learning.blogs.nytimes.com/2010/08/27/teaching-with-infographics-a-student-project-model/).
 website_url: http://www.lucidchart.com/
 image_fid: '7200'
 splash_image_fid: '7262'

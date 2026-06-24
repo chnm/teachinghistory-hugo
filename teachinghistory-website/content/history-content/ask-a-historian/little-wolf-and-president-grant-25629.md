@@ -48,6 +48,6 @@ Simon, John Y., ed. *The Papers of Ulysses S. Grant*. Vol. 24: 1873. Carbondale,
 
 ## For Further Reading
 
-[1](#fn1) "[Treaty with the Northern Cheyenne and Northern Arapaho, 1868](http://digital.library.okstate.edu/kappler/vol2/treaties/nor1012.htm)," in *Indian Affairs: Laws and Treaties*, ed. Charles J. Kappler, vol. 2 (Washington, DC: Government Printing Office, 1904). 
+[1](#fn1) "[Treaty with the Northern Cheyenne and Northern Arapaho, 1868](http://web.archive.org/web/20171028014555/http://digital.library.okstate.edu:80/kappler/Vol2/treaties/nor1012.htm)," in *Indian Affairs: Laws and Treaties*, ed. Charles J. Kappler, vol. 2 (Washington, DC: Government Printing Office, 1904). 
 
 [2](#fn2) "Indians at the White House," *Washington Evening Star*. November 14, 1878, front page.

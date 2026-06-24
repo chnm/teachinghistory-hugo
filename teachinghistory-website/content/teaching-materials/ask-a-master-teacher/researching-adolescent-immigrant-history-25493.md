@@ -35,10 +35,10 @@ Also check out the Library of Congress’s American Memory sites, *[California A
 
 Additional potentially useful sites that address this topic include:
 
-* *Collage*, or [*Collection Online: Visual Materials of American Immigration and Ethnic History*](http://ihrc.umn.edu/research/collage.php), produced by the [University of Minnesota’s Immigration History Research Center](http://ihrc.umn.edu/), has collections of resources categorized by country of origin. Read a review of this site [here](http://chnm.gmu.edu/cyh/website-reviews/280).
+* *Collage*, or [*Collection Online: Visual Materials of American Immigration and Ethnic History*](http://web.archive.org/web/20251009105649/https://ihrc.umn.edu/research/collage.php), produced by the [University of Minnesota’s Immigration History Research Center](http://web.archive.org/web/20251009105649/https://ihrc.umn.edu/), has collections of resources categorized by country of origin. Read a review of this site [here](http://web.archive.org/web/20211129000819/https://chnm.gmu.edu/cyh/website-reviews/280).
 * *[Children in Urban America](http://www.marquette.edu/cuap/)* produced by Marquette University.
-* *[Children & Youth in History](http://chnm.gmu.edu/cyh/)*, produced by the Roy Rosenzweig Center for History and New Media.
-* *[Korean American Digital Archives](http://digitallibrary.usc.edu/search/controller/collection/kada-m1.html/)*, produced by the USC Digital Library and USC libraries.
+* *[Children & Youth in History](http://web.archive.org/web/20250329193203/https://chnm.gmu.edu/cyh/)*, produced by the Roy Rosenzweig Center for History and New Media.
+* *[Korean American Digital Archives](http://web.archive.org/web/20121122172646/http://web.archive.org/web/20121122172646/http://digitallibrary.usc.edu/search/controller/collection/kada-m1.html/)*, produced by the USC Digital Library and USC libraries.
 * [Densho](http://www.densho.org/) focuses on Japanese Americans and has many resources relevant to the World War II incarceration.
 
 ### Print and Community Resources
@@ -65,10 +65,10 @@ Also check out the Library of Congress’s American Memory sites, *[California A
 
 Additional potentially useful sites that address this topic include:
 
-* *Collage*, or [*Collection Online: Visual Materials of American Immigration and Ethnic History*](http://ihrc.umn.edu/research/collage.php), produced by the [University of Minnesota’s Immigration History Research Center](http://ihrc.umn.edu/), has collections of resources categorized by country of origin. Read a review of this site [here](http://chnm.gmu.edu/cyh/website-reviews/280).
+* *Collage*, or [*Collection Online: Visual Materials of American Immigration and Ethnic History*](http://web.archive.org/web/20251009105649/https://ihrc.umn.edu/research/collage.php), produced by the [University of Minnesota’s Immigration History Research Center](http://web.archive.org/web/20251009105649/https://ihrc.umn.edu/), has collections of resources categorized by country of origin. Read a review of this site [here](http://web.archive.org/web/20211129000819/https://chnm.gmu.edu/cyh/website-reviews/280).
 * *[Children in Urban America](http://www.marquette.edu/cuap/)* produced by Marquette University.
-* *[Children & Youth in History](http://chnm.gmu.edu/cyh/)*, produced by the Roy Rosenzweig Center for History and New Media.
-* *[Korean American Digital Archives](http://digitallibrary.usc.edu/search/controller/collection/kada-m1.html/)*, produced by the USC Digital Library and USC libraries.
+* *[Children & Youth in History](http://web.archive.org/web/20250329193203/https://chnm.gmu.edu/cyh/)*, produced by the Roy Rosenzweig Center for History and New Media.
+* *[Korean American Digital Archives](http://web.archive.org/web/20121122172646/http://web.archive.org/web/20121122172646/http://digitallibrary.usc.edu/search/controller/collection/kada-m1.html/)*, produced by the USC Digital Library and USC libraries.
 * [Densho](http://www.densho.org/) focuses on Japanese Americans and has many resources relevant to the World War II incarceration.
 
 ### Print and Community Resources

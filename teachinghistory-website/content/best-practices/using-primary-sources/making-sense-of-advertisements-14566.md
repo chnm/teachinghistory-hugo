@@ -6,7 +6,7 @@ content_type: primary_source_guide
 draft: false
 drupal_nid: 14566
 url: /best-practices/using-primary-sources/14566
-website_url: http://historymatters.gmu.edu/mse/ads/
+website_url: http://web.archive.org/web/20250403014531/https://historymatters.gmu.edu/mse/ads/
 splash_image_fid: '4789'
 summary: Advertisements have surrounded us for years. How can you interpret them?
   Where can you find them?
@@ -27,4 +27,4 @@ tags:
 - models of analysis
 ---
 
-Advertisements are all around us today and have been for a long time; advertising-free "good old days" just don't exist. This [guide](http://historymatters.gmu.edu/mse/ads/) offers an overview of advertisements as historical sources and how historians use them; a brief history of advertising; questions to ask when interpreting ads as historical evidence; an annotated bibliography; and a guide to finding advertisements online.
+Advertisements are all around us today and have been for a long time; advertising-free "good old days" just don't exist. This [guide](http://web.archive.org/web/20250403014531/https://historymatters.gmu.edu/mse/ads/) offers an overview of advertisements as historical sources and how historians use them; a brief history of advertising; questions to ask when interpreting ads as historical evidence; an annotated bibliography; and a guide to finding advertisements online.

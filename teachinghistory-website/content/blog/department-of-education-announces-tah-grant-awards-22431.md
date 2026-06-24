@@ -16,7 +16,7 @@ tags:
 - professional development
 ---
 
-On July 14, the U.S. Department of Education [announced the 2009 Teaching American History (TAH) grants awarded](http://www2.ed.gov/news/pressreleases/2009/07/07142009a.html) to 123 school districts in 38 states.
+On July 14, the U.S. Department of Education [announced the 2009 Teaching American History (TAH) grants awarded](http://web.archive.org/web/20210419082454/https://www2.ed.gov/news/pressreleases/2009/07/07142009a.html) to 123 school districts in 38 states.
 
 According to U.S. Secretary of Education Arne Duncan, "These grants give school districts an ideal opportunity to partner with other organizations that possess content expertise to embark on a journey to enhance American history education and student academic achievement."
 > The Department of Education is at the mid-point of a four-year evaluation of the effects of TAH grants.

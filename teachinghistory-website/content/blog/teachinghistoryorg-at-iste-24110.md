@@ -18,7 +18,7 @@ tags:
 
 What is it like when almost 20,000 educators dedicated to promoting, collaborating, and communicating about teaching with technology all converge on a single location?
 
-That was the story at the [2010 conference of the International Society for Technology in Education](http://center.uoregon.edu/ISTE/2010/program/) held in Denver June 27-30 this year. The Clearinghouse was there both presenting information about teachinghistory.org and other resources available through the [Center for History and New Media](http://chnm.gmu.edu) and participating in workshops and information sessions.
+That was the story at the [2010 conference of the International Society for Technology in Education](http://center.uoregon.edu/ISTE/2010/program/) held in Denver June 27-30 this year. The Clearinghouse was there both presenting information about teachinghistory.org and other resources available through the [Center for History and New Media](http://web.archive.org/web/20210825024449/https://chnm.gmu.edu/) and participating in workshops and information sessions.
 
 An elementary school principal from a Texas summed up the mindset of these thousands of participants as she sat exploring her new iPad in the conference coffee shop. "We've been given this technology," she explained. "Now we have to figure out the best way to use it in the classroom—for the teachers and to prepare the students for the world outside school."
 

@@ -28,4 +28,4 @@ In this short video, created by the [Historical Inquiry](http://www.historicalin
 * Monitor, and
 * Corroborate
 
-For a more detailed explanation of the SCIM-C method, check out this [section](http://www.historicalinquiry.com/scim/index.cfm) of [*Historical Inquiry: Scaffolding Wise Practices in the History Classroom*](http://www.historicalinquiry.com/).
+For a more detailed explanation of the SCIM-C method, check out this [section](http://web.archive.org/web/20221020125013/http://web.archive.org/web/20221020125013/http://www.historicalinquiry.com/scim/index.cfm) of [*Historical Inquiry: Scaffolding Wise Practices in the History Classroom*](http://www.historicalinquiry.com/).

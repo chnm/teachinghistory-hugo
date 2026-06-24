@@ -38,7 +38,7 @@ Why did Roanoke colony fail? It was, like later English colonies, poorly supplie
 
 ---
 
-List (by occupation) of the [original settlers](http://www.virtualjamestown.org/census2a.html) at Jamestown (at *Virtual Jamestown*).
+List (by occupation) of the [original settlers](http://web.archive.org/web/20260606212248/https://www.virtualjamestown.org/census2a.html) at Jamestown (at *Virtual Jamestown*).
 
 Custalow, Linwood "Little Bear," and Angela L. Daniel "Silver Star." *The True Story of Pocahontas: The Other Side of History*. Golden, CO: Fulcrum Publishing, 2007.
 

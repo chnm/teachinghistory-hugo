@@ -22,7 +22,7 @@ resource_types:
 
 The National Jukebox gives you free access to more than 10,000 historical recordings—the iPod of America.
 
-Recordings can be [browsed](http://www.loc.gov/jukebox/recordings/browse) by date, location, and language. [Genres](http://www.loc.gov/jukebox/genres) lets you sort by category—classical, ethnic characterizations, popular music (with several subsets), religious, and spoken word. You can even figure out what music was recorded any [day of the year](http://www.loc.gov/jukebox/recordings/daybyday). Today in history or a new birthday song, anyone?
+Recordings can be [browsed](http://www.loc.gov/jukebox/recordings/browse) by date, location, and language. [Genres](http://web.archive.org/web/20200922044418/http://web.archive.org/web/20200922044418/http://www.loc.gov/jukebox/genres) lets you sort by category—classical, ethnic characterizations, popular music (with several subsets), religious, and spoken word. You can even figure out what music was recorded any [day of the year](http://www.loc.gov/jukebox/recordings/daybyday). Today in history or a new birthday song, anyone?
 
 You can also explore existing playlists or create your own for use in class. Why not have your students pick a few songs for their own playlists, and then describe how the pieces relate to each other in terms of historical context?
 

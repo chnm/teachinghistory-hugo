@@ -51,4 +51,4 @@ Although some "proper" Nashville residents thought the show was not in tune with
 
 ## For Further Reading
 
-Charles Reagan Wilson and William Ferris, eds., [*Encyclopedia of Southern Culture*](http://uncpress.unc.edu/browse/book_detail?title_id=720) Chapel Hill, NC: University of North Carolina Press, 1989.
+Charles Reagan Wilson and William Ferris, eds., [*Encyclopedia of Southern Culture*](http://web.archive.org/web/20170120130624/http://www.uncpress.unc.edu/browse/book_detail?title_id=720) Chapel Hill, NC: University of North Carolina Press, 1989.

@@ -43,9 +43,9 @@ What do historians' reviews focus on? Do they talk about the same things as "nor
 
 Take a look at these reviews to get started:
 
-* James Grossman, Executive Director of the American Historical Association, [says](http://historians.org/Perspectives/issues/2012/1211/Lincoln-Hollywood-and-an-Opportunity-for-Historians.cfm) *Lincoln* does "what a film like this should do: stimulate discussion about history."
+* James Grossman, Executive Director of the American Historical Association, [says](http://web.archive.org/web/20130903145522/http://www.historians.org/perspectives/issues/2012/1211/Lincoln-Hollywood-and-an-Opportunity-for-Historians.cfm) *Lincoln* does "what a film like this should do: stimulate discussion about history."
 * Kate Masur, associate professor of history at Northwestern University, [criticizes](http://www.nytimes.com/2012/11/13/opinion/in-spielbergs-lincoln-passive-black-characters.html?pagewanted=1&_r=1&nl=opinion&emc=edit_ty_20121113) the movie as "more to entertain and inspire than to educate."
-* David Thomson, film historian and critic, [considers](http://www.tnr.com/article/books-and-arts/110113/spielbergs-lincoln-film-our-political-moment) the film "necessary" and its release right after the 2012 presidential election significant.
+* David Thomson, film historian and critic, [considers](http://web.archive.org/web/20130125092024/http://www.tnr.com/article/books-and-arts/110113/spielbergs-lincoln-film-our-political-moment) the film "necessary" and its release right after the 2012 presidential election significant.
 * Allen Guelzo, director of the Civil War studies department at Gettysburg College, [questions](http://www.thedailybeast.com/articles/2012/11/27/a-civil-war-professor-reviews-lincoln.html) whether highlighting Lincoln's conflict between ending the war quickly and holding out until passage of the Thirteenth Amendment made the movie too complicated.
 
 Students not ready for reading these reviews? Ask them where they think the sound in films comes from. The *Washington Post* [reveals](http://www.washingtonpost.com/entertainment/movies/historical-sound-effects-captured-in-spielbergs-lincoln/2012/11/13/f1aa9b0c-2ce2-11e2-9ac2-1c61452669c3_story.html) that many of the sounds in *Lincoln* come from historic buildings and artifacts—including one of Abraham Lincoln's pocketwatches.

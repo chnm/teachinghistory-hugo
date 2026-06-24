@@ -15,7 +15,7 @@ tags:
 - teaching materials
 ---
 
-Are students ever too young to start learning to think like historians? Not according to the historians and educators working through the University of Wisconsin, Whitewater, to develop [*Thinking Like a Historian: Rethinking History Instruction*](http://www.uww.edu/cls/history/for-teachers). Written materials and accompanying DVD demonstrate how educators always teach critical thinking to students of all grade levels.
+Are students ever too young to start learning to think like historians? Not according to the historians and educators working through the University of Wisconsin, Whitewater, to develop [*Thinking Like a Historian: Rethinking History Instruction*](http://web.archive.org/web/20160308161242/http://www.uww.edu:80/cls/history/for-teachers). Written materials and accompanying DVD demonstrate how educators always teach critical thinking to students of all grade levels.
 
 "History as I learned it in the classroom had a lot to do with memorization of facts," explains Dr. Nikki Mandell of the University of Wisconsin. What *Thinking like a Historian* helps us do as historians and teachers is to help understand how those names facts and figures fit into historical knowledge. They are not history in and of themselves. They need to lead us to interpretation of what matters and why it matters."
 

@@ -26,7 +26,7 @@ tags:
 
 The Center for Disease Prevention and Control exists to disperse information and techniques useful to prevent disease, disability, and injury, as well as to promote readiness for potential widespread threats to U.S. citizens' physical wellness.
 
-While, the CDC offers an extensive [children's page](http://www.bam.gov/index.html) and [education resource collection](http://www.cdc.gov/education/), the vast majority of the content is geared toward health/physical education and science courses. A select number of resources may prove useful to history teachers.
+While, the CDC offers an extensive [children's page](http://web.archive.org/web/20150205111230/http://web.archive.org/web/20150205111230/http://www.bam.gov/index.html) and [education resource collection](http://web.archive.org/web/20210801045037/https://www.cdc.gov/education/), the vast majority of the content is geared toward health/physical education and science courses. A select number of resources may prove useful to history teachers.
 
 Did a historical figure suffer a given condition with which you aren't particularly familiar? If so, the CDC has a handy list of [condition and disease overviews](http://www.cdc.gov/DiseasesConditions/) which will prevent you from being unable to explain its meaning to curious students. Note, though, that if you are reading a historical primary source, you may have to search elsewhere for an explanation, as the site does not include conditions, such as Bright's Disease, which are no longer recognized or have since been divided into several more specific health anomalies.
 

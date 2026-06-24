@@ -47,7 +47,7 @@ Simpson, David. *The Politics of American English, 1776-1850*. New York and Oxfo
 
 Film Study Center, Harvard University, “How to Read 18th Century British-American Writing.” *[DoHistory.org](http://dohistory.org/on_your_own/toolkit/writing.html)*. Roy Rosenzweig Center for History and New Media.
 
-[Noah Webster biography](http://noahwebsterhouse.org/discover/noah-webster-history.htm) at the Noah Webster House [website](http://noahwebsterhouse.org/).
+[Noah Webster biography](http://web.archive.org/web/20171226102308/https://www.noahwebsterhouse.org/discover/noah-webster-history.htm) at the Noah Webster House [website](http://noahwebsterhouse.org/).
 
 ## For Further Reading
 

@@ -12,7 +12,7 @@ summary: Alarmed by the large dropout rate among new teachers, public and privat
   to the classroom.
 ---
 
-According to [the summary of a report](http://www.nctaf.org/documents/charts.pdf) from the [National Commission on Teaching and America's Future](http://www.nctaf.org/), after 3 years, 1/3 of new teachers leave the field; after 5 years, almost half of those new teachers are gone.
+According to [the summary of a report](http://web.archive.org/web/20120105110829/http://www.nctaf.org:80/documents/charts.pdf) from the [National Commission on Teaching and America's Future](http://web.archive.org/web/20181216085238/https://nctaf.org/), after 3 years, 1/3 of new teachers leave the field; after 5 years, almost half of those new teachers are gone.
 
 School systems, colleges and universities and other organizations in the business of education increasingly extend help to teachers entering the classroom for the first time. On the web, numerous publications and gateway projects offer a range of materials, advice, and ideas for the new educator.
 

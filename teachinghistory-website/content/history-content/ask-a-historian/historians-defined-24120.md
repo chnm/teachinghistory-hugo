@@ -33,6 +33,6 @@ Curtis, L. Perry. [*The Historian's Workshop: Original Essays by Sixteen Histori
 
 Gardner, James B. and Peter S. LaPaglia, eds. *Public History: Essays from the Field*. Malabar, FL: Krieger, 1999.
 
-Hunt, Lynn. ["How Writing Leads to Thinking (And not the other way around)."](http://www.historians.org/perspectives/issues/2010/1002/1002art1.cfm) [*Perspectives on History*](http://www.historians.org/Perspectives/index.cfm) (February 2010). http://www.historians.org/perspectives/issues/2010/1002/1002art1.cfm (accessed July 22, 2010). This is the first in a series of articles reflecting on what historians do and why.
+Hunt, Lynn. ["How Writing Leads to Thinking (And not the other way around)."](http://www.historians.org/perspectives/issues/2010/1002/1002art1.cfm) [*Perspectives on History*](http://web.archive.org/web/20240604144158/https://www.historians.org/perspectives/index.cfm) (February 2010). http://www.historians.org/perspectives/issues/2010/1002/1002art1.cfm (accessed July 22, 2010). This is the first in a series of articles reflecting on what historians do and why.
 
 Schulz, Constance, Page Putnam Miller, Aaron Marrs, and Kevin Allen. [*Careers for Students of History*](http://books.google.com/books?id=BptmAAAAMAAJ&q=careers+for+students+of+history&dq=careers+for+students+of+history&hl=en&ei=FJJITK6PFYH78AalxNSkDg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDIQ6AEwAA). Washington, DC: American Historical Association, 2002.

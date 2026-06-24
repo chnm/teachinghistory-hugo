@@ -36,6 +36,6 @@ This site captures the recollections of 23 former slaves, born between 1823 and 
 
 Each of the 23 subjects' testimony is presented in four formats: Real Audio sound, MP3, Windows WAV, and transcription. Many of the subjects sang as part of their testimony; those songs are collected here, as well.
 
-Visitors should not miss the [Faces and Voices from the Presentation](http://memory.loc.gov/ammem/collections/voices/vfssp.html) section, where photographs and short biographies are posted for seven of the subjects. The father and grandfather of one of the subjects, George Johnson, were owned by Confederate president Jefferson Davis. Johnson shares his recollections of Davis.
+Visitors should not miss the [Faces and Voices from the Presentation](http://web.archive.org/web/20180913184620/http://memory.loc.gov:80/ammem/collections/voices/vfssp.html) section, where photographs and short biographies are posted for seven of the subjects. The father and grandfather of one of the subjects, George Johnson, were owned by Confederate president Jefferson Davis. Johnson shares his recollections of Davis.
 
 This site contains extraordinary primary sources, and is a tremendous resource for research into slavery and Reconstruction.

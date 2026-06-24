@@ -89,9 +89,9 @@ It was a painful irony for many women's rights activists, therefore, that they f
 
 ---
 
-"Petition of E. Cady Stanton, Susan B. Anthony, Lucy Stone, and others asking for an amendment of the Constitution that shall prohibit the several States from disfranchising any of their citizens on the ground of sex, ca. 1865," Records of the U.S. House of Representatives, [National Archives and Records Administration](http://arcweb.archives.gov/arc/action/BasicMultimediaSearchForm), Washington, DC. ARC Identifier 306684.
+"Petition of E. Cady Stanton, Susan B. Anthony, Lucy Stone, and others asking for an amendment of the Constitution that shall prohibit the several States from disfranchising any of their citizens on the ground of sex, ca. 1865," Records of the U.S. House of Representatives, [National Archives and Records Administration](http://web.archive.org/web/20130407015838/http://arcweb.archives.gov:80/arc/action/BasicMultimediaSearchForm), Washington, DC. ARC Identifier 306684.
 
-"Form letter from E. Cady Stanton, Susan B. Anthony, and Lucy Stone asking friends to send petitions for women's suffrage to their representatives in Congress, 12/26/1865," Records of the U.S. House of Representatives, [National Archives and Records Administration](http://arcweb.archives.gov/arc/action/BasicMultimediaSearchForm), Washington, DC. ARC Identifier 306686.
+"Form letter from E. Cady Stanton, Susan B. Anthony, and Lucy Stone asking friends to send petitions for women's suffrage to their representatives in Congress, 12/26/1865," Records of the U.S. House of Representatives, [National Archives and Records Administration](http://web.archive.org/web/20130407015838/http://arcweb.archives.gov:80/arc/action/BasicMultimediaSearchForm), Washington, DC. ARC Identifier 306686.
 
 [National Women's History Project](http://www.nwhp.org/) website.
 

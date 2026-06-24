@@ -24,4 +24,4 @@ Fellows can receive up to $12,000 a year and $24,000 total. In return, fellows a
 
 The foundation was created in the 1980s by Congress, and exists within the Executive Branch of the United States.
 
-The foundation website is a useful teaching resource as well. A visit will provide you with Constitutional history [lesson plans](https://www.jamesmadison.gov/lessons.php), many of which are by previous fellows, and [links](https://www.jamesmadison.gov/links.php) to websites on James Madison and the Constitution.
+The foundation website is a useful teaching resource as well. A visit will provide you with Constitutional history [lesson plans](http://web.archive.org/web/20190227040610/http://web.archive.org/web/20190227040610/https://www.jamesmadison.gov/lessons.php), many of which are by previous fellows, and [links](http://web.archive.org/web/20190119162317/http://web.archive.org/web/20190119162317/https://www.jamesmadison.gov/links.php) to websites on James Madison and the Constitution.

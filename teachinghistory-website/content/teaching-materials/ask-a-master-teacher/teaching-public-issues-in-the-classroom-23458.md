@@ -48,7 +48,7 @@ With a growing emphasis on global awareness in the curriculum, you might conside
 
 One resource is [Heifer International](http://www.heifer.org).
 
-Heifer distributes animals like cows, goats, rabbits, and bees to impoverished areas around the world—something your children may take an immediate interest in. In addition to the [resources for teachers](http://www.heifer.org/site/c.edJRKQNiFiG/b.3813431/) available on their website, there is an excellent children's book about one of the early success stories, *Beatrice's Goat*, that can be used in the classroom. Check out this [Sixty Minutes program](http://www.cbsnews.com/stories/2005/01/11/60minutes/main666166.shtml) on the real Beatrice.
+Heifer distributes animals like cows, goats, rabbits, and bees to impoverished areas around the world—something your children may take an immediate interest in. In addition to the [resources for teachers](http://web.archive.org/web/20110111135037/http://www.heifer.org:80/site/c.edJRKQNiFiG/b.3813431/) available on their website, there is an excellent children's book about one of the early success stories, *Beatrice's Goat*, that can be used in the classroom. Check out this [Sixty Minutes program](http://www.cbsnews.com/stories/2005/01/11/60minutes/main666166.shtml) on the real Beatrice.
 > Heifer distributes animals like cows, goats, rabbits, and bees to impoverished areas around the world—something your children may take an immediate interest in.
 
 The Heifer site also contains an interactive section called "Explore the World of Hiefer" that students can use as a resource. It is engaging and can be used on a Smartboard, an LCD, opened on computers and projected onto a Smartboard or large screen via LCD. Students could explore the areas in which Heifer has projects and the history of those areas.
@@ -71,7 +71,7 @@ Another organization working to end poverty and hunger across the globe is [UNIC
 
 UNICEF, which is the United Nations Children's Fund, works for child survival, safety, and education around the world—another approach to global humanitarian issues that your students might take an interest in.
 
-Among their many projects, UNICEF has a new site called "[MAGIC](http://www.unicef.org/magic/)—Media Activities and Good Ideas by, with and for Children." One thing you might do is have students watch videos or listen to broadcasts created by children in other countries. Check out the [MAGICbank](http://www.unicef.org/magic/bank/index.html).
+Among their many projects, UNICEF has a new site called "[MAGIC](http://web.archive.org/web/20180221154541/https://www.unicef.org/magic/)—Media Activities and Good Ideas by, with and for Children." One thing you might do is have students watch videos or listen to broadcasts created by children in other countries. Check out the [MAGICbank](http://web.archive.org/web/20180221154541/https://www.unicef.org/magic/bank/index.html).
 > . . . have students watch videos or listen to broadcasts created by children in other countries.
 
 In your final project, you might have your students do a radio broadcast, create a video, or establish a connection with another school via the internet. They might even decide to raise money for students working on a particular project.
@@ -80,7 +80,7 @@ In your final project, you might have your students do a radio broadcast, create
 
 A fourth great organization that works on international humanitarian concerns is [Doctors Without Borders](http://www.doctorswithoutborders.org/).
 
-Doctors Without Borders has a [Learning Resources page](http://doctorswithoutborders.org/events/refugeecamp/resources/) which provides materials to lead students through research projects. Although the resources are not specifically tailored for grade school students, they are open-ended enough that they can be accessed by younger students.
+Doctors Without Borders has a [Learning Resources page](http://web.archive.org/web/20131222104326/http://www.doctorswithoutborders.org:80/events/refugeecamp/resources/) which provides materials to lead students through research projects. Although the resources are not specifically tailored for grade school students, they are open-ended enough that they can be accessed by younger students.
 
 After your students research conflict and explore the ways that an organization like Doctors Without Borders works to bring aid to conflict regions, they might do a school-wide fundraiser for the organization.
 
@@ -96,7 +96,7 @@ With a growing emphasis on global awareness in the curriculum, you might conside
 
 One resource is [Heifer International](http://www.heifer.org).
 
-Heifer distributes animals like cows, goats, rabbits, and bees to impoverished areas around the world—something your children may take an immediate interest in. In addition to the [resources for teachers](http://www.heifer.org/site/c.edJRKQNiFiG/b.3813431/) available on their website, there is an excellent children's book about one of the early success stories, *Beatrice's Goat*, that can be used in the classroom. Check out this [Sixty Minutes program](http://www.cbsnews.com/stories/2005/01/11/60minutes/main666166.shtml) on the real Beatrice.
+Heifer distributes animals like cows, goats, rabbits, and bees to impoverished areas around the world—something your children may take an immediate interest in. In addition to the [resources for teachers](http://web.archive.org/web/20110111135037/http://www.heifer.org:80/site/c.edJRKQNiFiG/b.3813431/) available on their website, there is an excellent children's book about one of the early success stories, *Beatrice's Goat*, that can be used in the classroom. Check out this [Sixty Minutes program](http://www.cbsnews.com/stories/2005/01/11/60minutes/main666166.shtml) on the real Beatrice.
 > Heifer distributes animals like cows, goats, rabbits, and bees to impoverished areas around the world—something your children may take an immediate interest in.
 
 The Heifer site also contains an interactive section called "Explore the World of Hiefer" that students can use as a resource. It is engaging and can be used on a Smartboard, an LCD, opened on computers and projected onto a Smartboard or large screen via LCD. Students could explore the areas in which Heifer has projects and the history of those areas.
@@ -119,7 +119,7 @@ Another organization working to end poverty and hunger across the globe is [UNIC
 
 UNICEF, which is the United Nations Children's Fund, works for child survival, safety, and education around the world—another approach to global humanitarian issues that your students might take an interest in.
 
-Among their many projects, UNICEF has a new site called "[MAGIC](http://www.unicef.org/magic/)—Media Activities and Good Ideas by, with and for Children." One thing you might do is have students watch videos or listen to broadcasts created by children in other countries. Check out the [MAGICbank](http://www.unicef.org/magic/bank/index.html).
+Among their many projects, UNICEF has a new site called "[MAGIC](http://web.archive.org/web/20180221154541/https://www.unicef.org/magic/)—Media Activities and Good Ideas by, with and for Children." One thing you might do is have students watch videos or listen to broadcasts created by children in other countries. Check out the [MAGICbank](http://web.archive.org/web/20180221154541/https://www.unicef.org/magic/bank/index.html).
 > . . . have students watch videos or listen to broadcasts created by children in other countries.
 
 In your final project, you might have your students do a radio broadcast, create a video, or establish a connection with another school via the internet. They might even decide to raise money for students working on a particular project.
@@ -128,7 +128,7 @@ In your final project, you might have your students do a radio broadcast, create
 
 A fourth great organization that works on international humanitarian concerns is [Doctors Without Borders](http://www.doctorswithoutborders.org/).
 
-Doctors Without Borders has a [Learning Resources page](http://doctorswithoutborders.org/events/refugeecamp/resources/) which provides materials to lead students through research projects. Although the resources are not specifically tailored for grade school students, they are open-ended enough that they can be accessed by younger students.
+Doctors Without Borders has a [Learning Resources page](http://web.archive.org/web/20131222104326/http://www.doctorswithoutborders.org:80/events/refugeecamp/resources/) which provides materials to lead students through research projects. Although the resources are not specifically tailored for grade school students, they are open-ended enough that they can be accessed by younger students.
 
 After your students research conflict and explore the ways that an organization like Doctors Without Borders works to bring aid to conflict regions, they might do a school-wide fundraiser for the organization.
 

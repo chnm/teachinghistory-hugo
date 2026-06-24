@@ -43,7 +43,7 @@ By the time Jefferson and John Adams vied for the presidency in 1796, political 
 
 George Washington, “Farewell Address,” Yale University, *[Avalon Project](http://avalon.law.yale.edu/18th_century/washing.asp)*.
 
-Thomas Jefferson, Notes on the State of Virginia, 1784, in David Waldstreicher, ed., *Notes on the State of Virginia, and Related Documents*. Boston: Bedford St. Martins Press, 2002. Can also be found online at the University of Virginia Library’s [Electronic Text Center](http://etext.virginia.edu/toc/modeng/public/JefVirg.html).
+Thomas Jefferson, Notes on the State of Virginia, 1784, in David Waldstreicher, ed., *Notes on the State of Virginia, and Related Documents*. Boston: Bedford St. Martins Press, 2002. Can also be found online at the University of Virginia Library’s [Electronic Text Center](http://web.archive.org/web/20130120042118/http://web.archive.org/web/20130120042118/http://etext.virginia.edu/toc/modeng/public/JefVirg.html).
 
 Thomas Jefferson to George Washington, May 23, 1792 and Alexander Hamilton to Edward Carrington, May 26, 1792 in *Jefferson vs. Hamilton: Confrontations that Shaped a Nation*, ed. by Noble E. Cunningham, Jr. Boston: Bedford St. Martins Press, 2000.
 

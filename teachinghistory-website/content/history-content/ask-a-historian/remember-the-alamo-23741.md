@@ -83,6 +83,6 @@ In the confusion, Santa Anna attempted to escape by donning the uniform of a cor
 
 ---
 
-The Alamo has an extensive [website](http://www.thealamo.org/main.html) that includes a good [reading list](http://www.thealamo.org/readings.html) on the battle at the Alamo and the Texas Revolution.
+The Alamo has an extensive [website](http://web.archive.org/web/20100218075714/http://www.thealamo.org:80/main.html) that includes a good [reading list](http://web.archive.org/web/20100414171541/http://www.thealamo.org:80/readings.html) on the battle at the Alamo and the Texas Revolution.
 
 The Texas State Library and Archives Commission's [website](http://www.tsl.state.tx.us/treasures/republic/index.html) has a number of primary documents from the events surrounding the Alamo battle.

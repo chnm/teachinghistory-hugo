@@ -98,7 +98,7 @@ Mark Leepson. *Flag: An American Biography*. New York: St. Martin's Press, 2005.
 
 Lonn Taylor. *The Star-Spangled Banner: The Making of an American Icon*. New York: Smithsonian Books, 2008.
 
-Ed Crews. ["The Truth About Betsy Ross: Popular Lore Says She Made First Flag, but Evidence for the Tale Is Scarce,"]( http://www.history.org/Foundation/journal/Summer08/betsy.cfm) *Colonial Williamsburg Journal* (Summer 2008).
+Ed Crews. ["The Truth About Betsy Ross: Popular Lore Says She Made First Flag, but Evidence for the Tale Is Scarce,"]( http://web.archive.org/web/20191115202422/https://www.history.org/foundation/journal/summer08/betsy.cfm) *Colonial Williamsburg Journal* (Summer 2008).
 
 Federal Citizen Information Page, [The History of the Stars and Stripes.
 

@@ -59,7 +59,7 @@ The importance of the teacher’s role in leading effective discussion about his
 
 **Phase One:**  In the early part of the discussion, the goal is to establish the sides of the argument. Students should be prompted to support their claims with textual evidence. *The teacher’s main goal is to highlight and restate the key differences in student responses* so that struggling students can better see the sides and frame of the discussion.
 
-> Example (questions for [Texas Independence Lesson Plan](http://sheg.stanford.edu/upload/Lessons/Unit%204_Expansion%20and%20Slavery/Texas%20Independence%20Lesson%20Plan.pdf) discussion):
+> Example (questions for [Texas Independence Lesson Plan](http://web.archive.org/web/20171031074657/http://sheg.stanford.edu:80/upload/Lessons/Unit%204_Expansion%20and%20Slavery/Texas%20Independence%20Lesson%20Plan.pdf) discussion):
 >
 > * How did you answer the question of why Texans declared independence from Mexico?
 > * What quote from the text supports your answer?
@@ -68,7 +68,7 @@ The importance of the teacher’s role in leading effective discussion about his
 
 **Phase Two:** In the second part of the discussion, the goal is to closely examine one or two quotes and establish multiple interpretations. Students may spontaneously begin to discuss a particular quote, but teachers should be prepared to turn students’ attention to quotes that are particularly generative. *The teacher’s key goal is to help students appreciate the difference between the past and present*. Close analysis of written text should prompt students to focus on the historical actor’s words so that they move away from preconceived judgments.
 
-> Example (questions for [Texas Independence Lesson Plan](http://sheg.stanford.edu/upload/Lessons/Unit%204_Expansion%20and%20Slavery/Texas%20Independence%20Lesson%20Plan.pdf) discussion):
+> Example (questions for [Texas Independence Lesson Plan](http://web.archive.org/web/20171031074657/http://sheg.stanford.edu:80/upload/Lessons/Unit%204_Expansion%20and%20Slavery/Texas%20Independence%20Lesson%20Plan.pdf) discussion):
 >
 > * Let’s take a closer look at Document A. Why do you think it was called the ‘Declaration of Independence?’
 > * Does anyone have a different interpretation?
@@ -77,7 +77,7 @@ The importance of the teacher’s role in leading effective discussion about his
 
 **Phase Three:** In the third part of the discussion, the goal is to *return to the central historical question* and have students formulate answers that are more nuanced and complex. Students should have a better appreciation for the strangeness of the past and perhaps temper earlier judgments leveled at historical actors. They may also develop an appreciation for multiple causality, rather than simple causal understanding.
 
-> Example (questions for [Texas Independence Lesson Plan](http://sheg.stanford.edu/upload/Lessons/Unit%204_Expansion%20and%20Slavery/Texas%20Independence%20Lesson%20Plan.pdf) discussion):
+> Example (questions for [Texas Independence Lesson Plan](http://web.archive.org/web/20171031074657/http://sheg.stanford.edu:80/upload/Lessons/Unit%204_Expansion%20and%20Slavery/Texas%20Independence%20Lesson%20Plan.pdf) discussion):
 >
 > * Let’s return to the main question: Why did Texans declare independence?
 > * Why did the Texans believe they were justified in declaring independence?

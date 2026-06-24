@@ -53,6 +53,6 @@ The following example, written for a California 8th-grade U.S. History classroom
 
          [California English Language Development Standards](http://www.cde.ca.gov/ci/rl/im/elaeldmatrixlinks.asp)
 
-         [New York Learning Standards for English as a Second Language](http://www.emsc.nysed.gov/biling/resource/ESL/standards.html)
+         [New York Learning Standards for English as a Second Language](http://web.archive.org/web/20100721233212/http://web.archive.org/web/20100721233212/http://www.emsc.nysed.gov/biling/resource/ESL/standards.html)
 
-         [Indiana English Language Proficiency Standards](http://dc.doe.in.gov/Standards/AcademicStandards/PrintLibrary/elp.shtml)
+         [Indiana English Language Proficiency Standards](http://web.archive.org/web/20120419120507/http://web.archive.org/web/20120419120507/http://dc.doe.in.gov/Standards/AcademicStandards/PrintLibrary/elp.shtml)

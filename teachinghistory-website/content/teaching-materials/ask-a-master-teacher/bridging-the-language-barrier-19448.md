@@ -6,7 +6,7 @@ content_type: ask_an_educator
 draft: false
 drupal_nid: 19448
 question: I want to have my students analyze primary sources, but too often, language
-  is a barrier. For example, [James Otis's speech on the Writs of Assistance](http://www.nhinet.org/ccs/docs/writs.htm),
+  is a barrier. For example, [James Otis's speech on the Writs of Assistance](http://web.archive.org/web/20240513074548/http://nhinet.org/ccs/docs/writs.htm),
   is too hard for 8th-grade students to understand. How can I use these types of primary
   sources without having to break the whole document down for them?
 url: /teaching-materials/ask-a-master-teacher/19448

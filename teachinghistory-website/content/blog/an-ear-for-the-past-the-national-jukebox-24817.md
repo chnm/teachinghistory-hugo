@@ -56,7 +56,7 @@ You can browse the recordings by vocal artist, composer, lyricist, language, pla
 
 While exploring the Jukebox is entertaining in its own right—I just spent two minutes listening to humorous singer Burt Shepard [trying to lure a lost cat home](http://www.loc.gov/jukebox/recordings/detail/id/7496)—it also makes invaluable primary sources easily accessible.
 
-Teaching about the rise of ragtime and jazz? Make a playlist of [famous (and less famous) songs and artists](http://www.loc.gov/jukebox/search/results?fq=take_genre_id%3A8) and share it with your students.
+Teaching about the rise of ragtime and jazz? Make a playlist of [famous (and less famous) songs and artists](http://web.archive.org/web/20191228082810/http://www.loc.gov:80/jukebox/search/results?fq=take_genre_id:8) and share it with your students.
 
 How about the invention of the airplane? The Haydn Quartet's ["Up in My Aeroplane"](http://www.loc.gov/jukebox/recordings/detail/id/1696) can give students an idea of the romance and novelty of flight six years after the Wright Brothers' first successful test run.
 
@@ -64,4 +64,4 @@ World War I? ["Hooray, the war is over!"](http://www.loc.gov/jukebox/recordings/
 
 Pick a time period, a genre, an artist, a word—and go looking! There's something in this storehouse to accompany almost any topic from 1901–1925, if you look hard enough. Use the recordings to grab your students' attention—or ask them to analyze or compare music and lyrics. What do the words (if you choose a vocal piece) say? What emotions does the piece seem to seek to evoke? When was it recorded? Where? Who audience did the composer, artist, or publisher have in mind?
 
-Finding music by topic can be difficult, as none of the pieces have transcriptions, but a little [creative searching](http://www.loc.gov/jukebox/search) should leave you with at least a handful of catchy new sources to play with. Watch for more to come—the Library of Congress adds new content monthly, and it hopes to provide content from other Sony labels, such as Columbia and Okeh, in the future.
+Finding music by topic can be difficult, as none of the pieces have transcriptions, but a little [creative searching](http://web.archive.org/web/20200922121241/http://web.archive.org/web/20200922121241/http://www.loc.gov/jukebox/search) should leave you with at least a handful of catchy new sources to play with. Watch for more to come—the Library of Congress adds new content monthly, and it hopes to provide content from other Sony labels, such as Columbia and Okeh, in the future.

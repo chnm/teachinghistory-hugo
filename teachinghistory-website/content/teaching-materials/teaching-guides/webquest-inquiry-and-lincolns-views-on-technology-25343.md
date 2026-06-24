@@ -25,7 +25,7 @@ tags:
 
 ## What Is It?
 
-[Webquest](http://webquest.org/) is an inquiry model that supports student investigations of web-based materials. Bernie Dodge at San Diego State University developed the strategy in 1995 to help novice learners make good use of web resources (see http://webquest.org).
+[Webquest](http://web.archive.org/web/20230203061650/https://webquest.org/) is an inquiry model that supports student investigations of web-based materials. Bernie Dodge at San Diego State University developed the strategy in 1995 to help novice learners make good use of web resources (see http://webquest.org).
 
 ## Rationale
 
