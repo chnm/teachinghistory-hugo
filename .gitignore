@@ -9,6 +9,7 @@ CONVERSION_SUMMARY.md
 # utils/redirect_map.csv and utils/old_urls.csv ARE committed for auditing)
 utils/redirect_verify.csv
 utils/redirect_crosscheck.csv
+utils/redirect_parity.csv
 /.idea
 /.vscode
 utils/content-new/

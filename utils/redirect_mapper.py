@@ -38,9 +38,11 @@ Pluggable seams for other CMSes:
 """
 
 import argparse
+import concurrent.futures as cf
 import csv
 import json
 import sys
+import threading
 import time
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -58,6 +60,7 @@ MAP_CSV = OUTPUT_DIR / "redirect_map.csv"
 OLD_URLS_CSV = OUTPUT_DIR / "old_urls.csv"
 CROSSCHECK_CSV = OUTPUT_DIR / "redirect_crosscheck.csv"
 VERIFY_CSV = OUTPUT_DIR / "redirect_verify.csv"
+PARITY_CSV = OUTPUT_DIR / "redirect_parity.csv"
 CADDY_OUT = WEBSITE_DIR / "redirects.caddy"
 
 MAP_FIELDS = ["old_url", "native_url", "match_via", "nid", "source_file", "status", "notes"]
@@ -526,6 +529,100 @@ EXTRACTORS = {
 }
 
 
+# --- parity (old-source exists AND new-target exists) -----------------------
+
+_tls = threading.local()
+
+
+def _session() -> requests.Session:
+    s = getattr(_tls, "s", None)
+    if s is None:
+        s = _tls.s = requests.Session()
+    return s
+
+
+def _final_status(url: str, retries: int = 2) -> tuple:
+    """GET following redirects; return (status_code_or_ERR, final_url)."""
+    for attempt in range(retries + 1):
+        try:
+            r = _session().get(url, timeout=REQUEST_TIMEOUT, allow_redirects=True,
+                               headers={"User-Agent": USER_AGENT})
+            return r.status_code, r.url
+        except requests.exceptions.RequestException as e:
+            if attempt == retries:
+                return "ERR", str(e)[:100]
+            time.sleep(0.5 * (attempt + 1))
+
+
+def run_parity(old_site: str, target: str, resume: bool, limit):
+    """For every redirect, confirm the legacy URL resolves (200) on the live old
+    site AND the native target resolves (200) on the new site."""
+    ob, tb = old_site.rstrip("/"), target.rstrip("/")
+    rows = [r for r in read_map_rows() if r["status"] in ("matched", "parent_fallback")]
+
+    # one native per old_url, conflict-resolved like generate
+    best: dict[str, dict] = {}
+    for r in rows:
+        ou = path_only(r["old_url"])
+        best[ou] = r if ou not in best else _better(best[ou], r)
+
+    fields = ["old_url", "old_status", "old_final_url", "native_url", "new_status", "verdict"]
+    done = {}
+    if resume and PARITY_CSV.exists():
+        with open(PARITY_CSV, encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                if row.get("verdict"):
+                    done[row["old_url"]] = row
+
+    todo = [(ou, best[ou]["native_url"]) for ou in sorted(best) if ou not in done]
+    if limit:
+        todo = todo[:limit]
+
+    # new-target existence: dedupe (many old URLs share a native), check on the new site
+    natives = sorted({n for _, n in todo})
+    print(f"Checking {len(natives)} native targets on {tb} ...")
+    new_status = {}
+    with cf.ThreadPoolExecutor(max_workers=16) as ex:
+        for n, res in zip(natives, ex.map(lambda n: _final_status(tb + n), natives)):
+            new_status[n] = res[0]
+
+    # legacy-source existence: check each old URL on the live old site (gentle concurrency)
+    print(f"Checking {len(todo)} legacy URLs on {ob} (be patient; polite concurrency) ...")
+    old_status = {}
+    olds = [ou for ou, _ in todo]
+    done_ct = 0
+    with cf.ThreadPoolExecutor(max_workers=8) as ex:
+        for ou, res in zip(olds, ex.map(lambda ou: _final_status(ob + ou), olds)):
+            old_status[ou] = res
+            done_ct += 1
+            if done_ct % 250 == 0:
+                print(f"  [{done_ct}/{len(olds)}]")
+
+    results = dict(done)
+    for ou, native in todo:
+        os_code, ofin = old_status.get(ou, ("", ""))
+        ns = new_status.get(native, "")
+        old_ok, new_ok = (os_code == 200), (ns == 200)
+        verdict = ("ok" if old_ok and new_ok else
+                   "both_missing" if not old_ok and not new_ok else
+                   "old_missing" if not old_ok else "new_missing")
+        results[ou] = {"old_url": ou, "old_status": os_code, "old_final_url": ofin,
+                       "native_url": native, "new_status": ns, "verdict": verdict}
+
+    with open(PARITY_CSV, "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=fields)
+        w.writeheader()
+        w.writerows([results[k] for k in sorted(results)])
+
+    summ = Counter(r["verdict"] for r in results.values())
+    print(f"\nWrote {PARITY_CSV}")
+    for k in sorted(summ):
+        print(f"  {k}: {summ[k]}")
+    bad = sum(v for k, v in summ.items() if k != "ok")
+    if bad:
+        print(f"\n{bad} redirects have a missing source or target — see non-ok rows.")
+
+
 # --- CLI --------------------------------------------------------------------
 
 def main():
@@ -554,6 +651,12 @@ def main():
     cr = sub.add_parser("crawl", help="Enumerate old URLs from the old site's sitemap.xml (seam)")
     cr.add_argument("--old-site", required=True)
 
+    pa = sub.add_parser("parity", help="Confirm each legacy URL exists on the old site AND its target exists on the new site")
+    pa.add_argument("--old-site", required=True, help="Base URL of the live old site (source)")
+    pa.add_argument("--target", required=True, help="Base URL of the new site (target)")
+    pa.add_argument("--resume", action="store_true")
+    pa.add_argument("--limit", type=int, default=None)
+
     args = parser.parse_args()
     if args.command == "build":
         run_build(args.manifest)
@@ -567,6 +670,8 @@ def main():
         run_crosscheck(args.old_site, args.manifest, resume=args.resume, limit=args.limit)
     elif args.command == "crawl":
         run_crawl(args.old_site)
+    elif args.command == "parity":
+        run_parity(args.old_site, args.target, resume=args.resume, limit=args.limit)
     else:
         parser.print_help()
 
