@@ -39,6 +39,8 @@ Outputs CSVs in `utils/`: `link_inventory.csv`, `link_results.csv`, `link_waybac
 
 ### Legacy URL Redirects (Drupal → Hugo → Caddy)
 
+> **Full guide: [`docs/REDIRECTS.md`](docs/REDIRECTS.md)** — design, runbook, verification, performance, CMS-agnostic reuse, and deployment. This section is the summary.
+
 Hugo serves **native** URLs (derived from file location); the **web server (Caddy)** owns all 301 redirects from old Drupal URLs. The map is deterministic and built from the Hugo content itself — no Drupal DB / LAMP artifacts required.
 
 Native URLs are clean slugs with **no** node id: content files are named `{slug}.md` (the `-{drupal_nid}` suffix was stripped by `utils/strip_nid_slugs.py`), so `/history-content/website-reviews/statistics-in-schools/`, not `.../statistics-in-schools-25863/`. The nid is kept only on the ~38 files whose slug would otherwise collide (e.g. Beyond-the-Textbook pairs), and always stays in `drupal_nid` frontmatter for provenance + `/node/{nid}` redirects.
@@ -57,6 +59,7 @@ uv run utils/redirect_mapper.py reconcile             # Merge old_urls.csv + par
 uv run utils/redirect_mapper.py generate              # -> teachinghistory-website/redirects.caddy (committed)
 uv run utils/redirect_mapper.py crosscheck --old-site https://teachinghistory.org  # live oracle (QA)
 uv run utils/redirect_mapper.py verify --target http://localhost:8080              # 301->200, no loops
+uv run utils/redirect_mapper.py parity --old-site https://teachinghistory.org --target http://localhost:8080  # source+target both 200
 ```
 
 `redirects.caddy` is a `map {path} {redirect_target}` block imported by the `Dockerfile` Caddy config; it emits both trailing-slash variants, skips self-redirect loops, and resolves conflicts deterministically. It is **committed** (CI only builds Hugo + `docker build`s it; the live-site crosscheck never runs in CI). `redirect_map.csv`/`old_urls.csv` are committed for auditing; `redirect_verify.csv`/`redirect_crosscheck.csv` are gitignored transient reports.
@@ -123,6 +126,7 @@ All design decisions come from `docs/DESIGN_SPEC.md`. Do not invent layout detai
 ## Related Docs
 
 - `docs/DESIGN_SPEC.md` — visual design spec, component inventory, page specifications
+- `docs/REDIRECTS.md` — legacy-URL redirect pipeline (Drupal → Hugo → Caddy): design, runbook, verification, performance, reuse
 - `AGENTS.md` — detailed tech stack, project structure, development workflow
 - `SPEC.md` — business rules, features, user flows
 - `docs/todo.md` — human-readable action items and known issues
