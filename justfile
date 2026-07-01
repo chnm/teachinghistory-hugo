@@ -36,6 +36,35 @@ new path:
 check:
     cd {{site}} && hugo --printUnusedTemplates --printPathWarnings
 
+# --- Legacy-URL redirect pipeline (Drupal -> Hugo -> Caddy) ---
+
+# One-time, idempotent: move legacy `url:` frontmatter into `aliases:` (dry run without --apply)
+redirects-relocate *args:
+    uv run utils/relocate_urls.py {{args}}
+
+# Build the legacy->native map from the Hugo manifest (public/redirects.json)
+redirects-build:
+    uv run utils/redirect_mapper.py build
+
+# Merge any discovered old URLs + apply the parent-section fallback
+redirects-reconcile:
+    uv run utils/redirect_mapper.py reconcile
+
+# Generate teachinghistory-website/redirects.caddy from the map
+redirects-generate:
+    uv run utils/redirect_mapper.py generate
+
+# Regenerate the whole map+snippet (requires a prior `just build`)
+redirects: redirects-build redirects-reconcile redirects-generate
+
+# Cross-check the live old Drupal site: /node/{nid} should 301 to our recorded alias
+redirects-crosscheck old_site="https://teachinghistory.org" *args:
+    uv run utils/redirect_mapper.py crosscheck --old-site {{old_site}} {{args}}
+
+# Verify redirects against a running target (301 -> native 200, no loops)
+redirects-verify target="http://localhost:8080" *args:
+    uv run utils/redirect_mapper.py verify --target {{target}} {{args}}
+
 # Docker build
 docker-build tag="teachinghistory:latest":
     docker build -t {{tag}} {{site}}

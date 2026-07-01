@@ -22,6 +22,9 @@ FROM stagex/user-caddy
 COPY --from=stagex/core-musl / /
 COPY --from=build-stage /app/public /srv
 
+# Generated legacy-Drupal-URL -> native-Hugo-URL 301 map (utils/redirect_mapper.py).
+COPY redirects.caddy /etc/caddy/redirects.caddy
+
 COPY <<'EOF' /etc/caddy/Caddyfile
 {
 	auto_https off
@@ -31,6 +34,10 @@ COPY <<'EOF' /etc/caddy/Caddyfile
 :80 {
 	root * /srv
 	encode gzip zstd
+
+	# Legacy Drupal URL redirects (301). `map` + `redir` are ordered by Caddy
+	# ahead of `rewrite`/`file_server`, so matched paths redirect before a 404.
+	import /etc/caddy/redirects.caddy
 
 	# Backward compatibility: /img/* serves from /assets/img/*
 	rewrite /img/* /assets{uri}

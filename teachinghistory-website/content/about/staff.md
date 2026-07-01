@@ -1,5 +1,6 @@
 ---
 title: Staff
 layout: staff
-url: /about/staff/
+aliases:
+- /about/staff/
 ---
