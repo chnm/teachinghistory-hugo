@@ -4,6 +4,11 @@
 CONVERSION_SUMMARY.md
 *.log
 .DS_Store
+
+# Redirect pipeline transient HTTP reports (regenerated on demand;
+# utils/redirect_map.csv and utils/old_urls.csv ARE committed for auditing)
+utils/redirect_verify.csv
+utils/redirect_crosscheck.csv
 /.idea
 /.vscode
 utils/content-new/

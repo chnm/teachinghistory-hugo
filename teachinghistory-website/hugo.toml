@@ -2,6 +2,10 @@ baseURL = 'https://dev.teachinghistory.org/'
 languageCode = 'en-us'
 title = 'TeachingHistory.org'
 
+# Legacy Drupal paths live in `aliases:` frontmatter as DATA only. Redirects are
+# owned by the web server (Caddy), so Hugo must not write alias stub HTML.
+disableAliases = true
+
 # Preserve all Drupal metadata
 [frontmatter]
   date = ['date', 'publishDate', 'lastmod']
@@ -79,3 +83,15 @@ title = 'TeachingHistory.org'
     name = 'Digital Classroom'
     url = '/digital-classroom/'
     weight = 50
+
+# Redirect manifest — the deterministic legacy->native bridge for the Caddy
+# redirect pipeline (utils/redirect_mapper.py). The home page emits
+# /redirects.json listing every page's native URL and its legacy paths.
+[outputs]
+  home = ['HTML', 'RSS', 'redirects']
+
+[outputFormats.redirects]
+  mediaType = 'application/json'
+  baseName = 'redirects'
+  isPlainText = true
+  notAlternative = true
