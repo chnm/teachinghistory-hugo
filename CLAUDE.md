@@ -56,13 +56,13 @@ uv run utils/finalize_btt_merge.py --apply            # One-time: retire BTT Par
 just build                                             # Hugo emits public/redirects.json
 uv run utils/redirect_mapper.py build                 # Manifest -> utils/redirect_map.csv
 uv run utils/redirect_mapper.py reconcile             # Merge old_urls.csv + parent-section fallback
-uv run utils/redirect_mapper.py generate              # -> teachinghistory-website/redirects.caddy (committed)
+uv run utils/redirect_mapper.py generate              # -> teachinghistory-website/static/redirects.caddy (committed; Hugo copies to public/)
 uv run utils/redirect_mapper.py crosscheck --old-site https://teachinghistory.org  # live oracle (QA)
 uv run utils/redirect_mapper.py verify --target http://localhost:8080              # 301->200, no loops
 uv run utils/redirect_mapper.py parity --old-site https://teachinghistory.org --target http://localhost:8080  # source+target both 200
 ```
 
-`redirects.caddy` is a `map {path} {redirect_target}` block imported by the `Dockerfile` Caddy config; it emits both trailing-slash variants, skips self-redirect loops, and resolves conflicts deterministically. It is **committed** (CI only builds Hugo + `docker build`s it; the live-site crosscheck never runs in CI). `redirect_map.csv`/`old_urls.csv` are committed for auditing; `redirect_verify.csv`/`redirect_crosscheck.csv` are gitignored transient reports.
+`redirects.caddy` is a `map {path} {redirect_target}` block imported by the `Dockerfile` Caddy config; it emits both trailing-slash variants, skips self-redirect loops, and resolves conflicts deterministically. It is generated into `teachinghistory-website/static/`, so Hugo copies it to `public/redirects.caddy` (shipping it in the build/release artifact); the container imports it from `/srv/redirects.caddy`. The `static/` copy is **committed** (CI only builds Hugo + `docker build`s it; the live-site crosscheck never runs in CI). `redirect_map.csv`/`old_urls.csv` are committed for auditing; `redirect_verify.csv`/`redirect_crosscheck.csv` are gitignored transient reports.
 
 The pipeline is CMS-agnostic by design (pluggable map-source / identity-extractor / URL-enumerator seams in `redirect_mapper.py`), so it can be reused for other Omeka/Drupal/WordPress → Hugo migrations.
 
