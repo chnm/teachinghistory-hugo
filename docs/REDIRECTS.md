@@ -23,8 +23,8 @@ flowchart LR
   FM["content/**/*.md<br/>aliases: + drupal_nid:"] --> H["hugo build<br/>layouts/index.redirects.json"]
   H --> J["/redirects.json<br/>native + legacy_paths"]
   J --> B["redirect_mapper build + reconcile<br/>utils/redirect_map.csv"]
-  B --> G["redirect_mapper generate<br/>teachinghistory-website/redirects.caddy"]
-  G --> C["Caddyfile: import redirects.caddy<br/>(map {path} → redir 301)"]
+  B --> G["redirect_mapper generate<br/>teachinghistory-website/static/redirects.caddy → public/redirects.caddy"]
+  G --> C["Dockerfile Caddy: import /srv/redirects.caddy<br/>(map {path} → redir 301)"]
   C --> S["Caddy: legacy URL → 301 → native URL"]
   B -. "verify / crosscheck / parity" .-> V["HTTP audits (utils/*.csv)"]
 ```
@@ -81,7 +81,7 @@ uv run utils/finalize_btt_merge.py --apply    # retire BTT Part-1 drafts, keep t
 just build                                    # Hugo emits public/redirects.json
 uv run utils/redirect_mapper.py build         # manifest -> utils/redirect_map.csv
 uv run utils/redirect_mapper.py reconcile     # merge old_urls.csv (if any) + parent-section fallback
-uv run utils/redirect_mapper.py generate      # -> teachinghistory-website/redirects.caddy
+uv run utils/redirect_mapper.py generate      # -> teachinghistory-website/static/redirects.caddy (Hugo copies to public/)
 
 # Verify / audit (see §5)
 uv run utils/redirect_mapper.py verify   --target http://localhost:8080
@@ -137,17 +137,24 @@ survivor's `aliases:`, then regenerate.
 ## 7. Caddy integration
 
 `redirects.caddy` is a **snippet** (directives, not a full server), imported **inside a site
-block**. In this repo the wiring is baked into `teachinghistory-website/Dockerfile`:
+block**. It is generated into `teachinghistory-website/static/`, so Hugo publishes it to
+`public/redirects.caddy` — that is what ships it in the build/release artifact, and it lands
+at `/srv/redirects.caddy` in the container. In this repo the wiring is baked into
+`teachinghistory-website/Dockerfile`:
 
 ```caddy
 :80 {
 	root * /srv
 	encode gzip zstd
-	import /etc/caddy/redirects.caddy    # map {path} {redirect_target} + redir 301
+	import /srv/redirects.caddy          # map {path} {redirect_target} + redir 301
 	rewrite /img/* /assets{uri}
 	file_server
 }
 ```
+
+One side effect of shipping it inside `public/`: the snippet is also fetchable at
+`/redirects.caddy`. That's harmless (it's derived from public URLs); add a matcher to 404 it
+if you'd rather not serve it.
 
 Generated snippet shape:
 
@@ -231,10 +238,12 @@ then `build → reconcile → generate → verify/parity`.
 
 ## 11. Deployment & operations
 
-- **Docker:** two-stage build (`Dockerfile`) — Hugo builds `public/`, then a Caddy stage
-  serves `/srv` and imports `redirects.caddy`. `.dockerignore` keeps the build context small.
+- **Docker:** two-stage build (`Dockerfile`) — Hugo builds `public/` (which now includes
+  `redirects.caddy`, copied from `static/`), then a Caddy stage serves `/srv` and imports
+  `/srv/redirects.caddy`. `.dockerignore` keeps the build context small.
 - **CI/CD:** on push to `main`/`preview`, the `chnm/.github` reusable Hugo workflow builds
-  Hugo + `docker build`s the committed `redirects.caddy`. **The live-site crosscheck/parity
+  Hugo (the `public/` release artifact then contains `redirects.caddy`) + `docker build`s the
+  committed `static/redirects.caddy`. **The live-site crosscheck/parity
   never run in CI** — they hit the live Drupal site and are run manually before a cutover.
 - **Staging on moby (remote Docker over SSH):**
   ```bash
@@ -248,8 +257,8 @@ then `build → reconcile → generate → verify/parity`.
 ### Committed vs generated
 
 - **Committed:** content, `utils/*.py`, `utils/redirect_map.csv`, `hugo.toml`,
-  `layouts/index.redirects.json`, `teachinghistory-website/redirects.caddy`, `Dockerfile`,
+  `layouts/index.redirects.json`, `teachinghistory-website/static/redirects.caddy`, `Dockerfile`,
   `.dockerignore`, `justfile`.
 - **Gitignored (regenerated on demand):** `teachinghistory-website/public/` (incl.
-  `redirects.json`), `utils/redirect_verify.csv`, `utils/redirect_crosscheck.csv`,
+  `redirects.json` and the copied `redirects.caddy`), `utils/redirect_verify.csv`, `utils/redirect_crosscheck.csv`,
   `utils/redirect_parity.csv`.

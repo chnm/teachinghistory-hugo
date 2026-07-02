@@ -17,7 +17,7 @@ Subcommands:
     build       Read the Hugo manifest -> base legacy->native map (utils/redirect_map.csv).
     reconcile   Merge externally-discovered old URLs (utils/old_urls.csv) and apply the
                 parent-section fallback to anything unmatched. Rewrites redirect_map.csv.
-    generate    Emit teachinghistory-website/redirects.caddy (a `map` block, 301s).
+    generate    Emit teachinghistory-website/static/redirects.caddy (a `map` block, 301s); Hugo copies it to public/.
     verify      HTTP-check every mapping against a running target (Caddy+Hugo).
     crosscheck  Oracle: for each nid, confirm the LIVE old site's /node/{nid} 301s to the
                 alias we recorded (no sitemap needed). QA only; does not change the map.
@@ -61,7 +61,7 @@ OLD_URLS_CSV = OUTPUT_DIR / "old_urls.csv"
 CROSSCHECK_CSV = OUTPUT_DIR / "redirect_crosscheck.csv"
 VERIFY_CSV = OUTPUT_DIR / "redirect_verify.csv"
 PARITY_CSV = OUTPUT_DIR / "redirect_parity.csv"
-CADDY_OUT = WEBSITE_DIR / "redirects.caddy"
+CADDY_OUT = WEBSITE_DIR / "static" / "redirects.caddy"  # Hugo copies static/ -> public/, so this ships in the release artifact
 
 MAP_FIELDS = ["old_url", "native_url", "match_via", "nid", "source_file", "status", "notes"]
 
@@ -310,6 +310,7 @@ def run_generate():
         "redir @hasRedirect {redirect_target} 301",
         "",
     ]
+    CADDY_OUT.parent.mkdir(parents=True, exist_ok=True)  # static/ is normally present, but don't assume
     CADDY_OUT.write_text("\n".join(lines), encoding="utf-8")
 
     print(f"Wrote {len(mapping)} redirect keys ({len(by_old)} unique old URLs) -> {CADDY_OUT}")
@@ -635,7 +636,7 @@ def main():
     r = sub.add_parser("reconcile", help="Merge old_urls.csv + apply parent-section fallback")
     r.add_argument("--manifest", default=str(MANIFEST_DEFAULT), help="Path or URL to redirects.json")
 
-    sub.add_parser("generate", help="Emit redirects.caddy from the map")
+    sub.add_parser("generate", help="Emit static/redirects.caddy from the map (Hugo copies it to public/)")
 
     v = sub.add_parser("verify", help="HTTP-verify redirects against a target")
     v.add_argument("--target", required=True, help="Base URL of running Caddy+Hugo (e.g. http://localhost:8080)")

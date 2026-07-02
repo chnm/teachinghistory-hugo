@@ -50,7 +50,7 @@ redirects-build:
 redirects-reconcile:
     uv run utils/redirect_mapper.py reconcile
 
-# Generate teachinghistory-website/redirects.caddy from the map
+# Generate teachinghistory-website/static/redirects.caddy (Hugo then copies it to public/redirects.caddy)
 redirects-generate:
     uv run utils/redirect_mapper.py generate
 
