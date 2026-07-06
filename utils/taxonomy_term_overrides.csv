@@ -1,0 +1,90 @@
+term_id,native_url,drupal_title,note
+48,/topics/african-americans/,African Americans,title-exact
+273,/evidence_types/official-documents/,Official Documents,title-exact
+274,/evidence_types/,Text,title-fallback
+275,/tags/audio/,Audio,title-exact
+276,/evidence_types/political-documents/,Political Documents,title-exact
+277,/evidence_types/speeches/,Speeches,title-exact
+278,/evidence_types/film-and-video/,Film and Video,title-exact
+279,/evidence_types/photographs/,Photographs,title-exact
+280,/evidence_types/paintings-and-prints/,Paintings and Prints,title-exact
+281,/evidence_types/personal-accounts/,Personal Accounts,title-exact
+282,/tags/images/,Images,title-exact
+283,/tags/video/,Video,title-exact
+284,/tags/advertising/,Advertising,title-exact
+285,/evidence_types/architecture/,Architecture,title-exact
+286,/evidence_types/maps/,Maps,title-exact
+287,/evidence_types/artifacts-and-objects/,Artifacts and Objects,title-exact
+288,/evidence_types/newspapers-and-periodicals/,Newspapers and Periodicals,title-exact
+289,/evidence_types/religious-texts/,Religious Texts,title-exact
+290,/evidence_types/travel/,Travel,title-exact
+291,/,Subscription,title-fallback
+292,/evidence_types/quantitative-evidence/,Quantitative Evidence,title-exact
+293,/tags/data/,Data,title-exact
+294,/tags/cartoons/,Cartoons,title-exact
+295,/tags/oral-history/,Oral History,title-exact
+296,/evidence_types/literary-sources/,Literary Sources,title-exact
+297,/evidence_types/music/,Music,title-exact
+298,/evidence_types/archeology/,Archeology,title-exact
+304,/tags/primary-sources/,primary sources,title-exact
+306,/tags/world-war-i/,World War I,title-exact
+322,/evidence_types/photographs/,photographs,title-exact
+354,/tags/posters/,posters,title-exact
+379,/topics/women/,women,title-exact
+414,/tags/california/,California,title-exact
+446,/tags/agriculture/,agriculture,title-exact
+449,/tags/museums/,museums,title-exact
+452,/tags/race/,race,title-exact
+453,/tags/racism/,racism,title-exact
+454,/tags/native-americans/,Native Americans,title-exact
+455,/tags/war/,war,title-exact
+466,/tags/industry/,industry,title-exact
+473,/tags/new-york/,New York,title-exact
+479,/tags/hospitals/,hospitals,title-exact
+503,/tags/folklore/,folklore,title-exact
+514,/tags/transportation/,transportation,title-exact
+538,/tags/politicians/,politicians,title-exact
+553,/tags/explorers/,explorers,title-exact
+568,/tags/civil-rights/,civil rights,title-exact
+570,/tags/race-relations/,race relations,title-exact
+575,/tags/propaganda/,propaganda,title-exact
+579,/tags/newspapers/,newspapers,title-exact
+583,/tags/mass-media/,mass media,title-exact
+603,/tags/soldiers/,soldiers,title-exact
+606,/tags/teachers/,teachers,title-exact
+611,/tags/elections/,elections,title-exact
+612,/tags/presidents/,presidents,title-exact
+640,/tags/civil-war/,Civil War,title-exact
+654,/tags/world-war-ii/,World War II,title-exact
+661,/tags/911/,9/11,title-exact
+675,/tags/writers/,writers,title-exact
+676,/tags/authors/,authors,title-exact
+678,/tags/colonies/,colonies,title-exact
+679,/tags/colonists/,colonists,title-exact
+680,/tags/colonization/,colonization,title-exact
+688,/tags/schools/,schools,title-exact
+719,/tags/films/,films,title-exact
+720,/tags/film/,film,title-exact
+721,/tags/movies/,movies,title-exact
+722,/tags/documentaries/,documentaries,title-exact
+737,/tags/civil-rights-movement/,Civil Rights Movement,title-exact
+743,/tags/maine/,Maine,title-exact
+746,/tags/segregation/,segregation,title-exact
+757,/tags/u.s.-supreme-court/,U.S. Supreme Court,title-exact
+761,/tags/reconstruction/,Reconstruction,title-exact
+853,/tags/japan/,Japan,title-exact
+855,/tags/japanese/,Japanese,title-exact
+873,/tags/immigrants/,immigrants,title-exact
+898,/tags/biographies/,biographies,title-exact
+1740,/evidence_types/speeches/,speeches,title-exact
+1741,/tags/oratory/,oratory,title-exact
+1776,/tags/my-lai/,My Lai,title-exact
+1781,/tags/internment-camps/,internment camps,title-exact
+1782,/tags/prison-camps/,prison camps,title-exact
+1795,/tags/russia/,Russia,title-exact
+1828,/tags/crime/,crime,title-exact
+1845,/tags/michigan/,Michigan,title-exact
+1866,/tags/jews/,Jews,title-exact
+1882,/tags/workers/,workers,title-exact
+1898,/tags/military/,military,title-exact
+10889,/tags/alexandria-national-cemetery/,Alexandria National Cemetery,title-exact

@@ -5,8 +5,12 @@ CONVERSION_SUMMARY.md
 *.log
 .DS_Store
 
-# Redirect pipeline transient HTTP reports (regenerated on demand;
-# utils/redirect_map.csv and utils/old_urls.csv ARE committed for auditing)
+# Redirect pipeline transient HTTP reports (regenerated on demand). The committed
+# inputs/outputs are: utils/node_redirects.tsv, utils/taxonomy_aliases.tsv (Drupal
+# path_alias dumps), utils/taxonomy_term_overrides.csv (aliasless term-id map),
+# utils/curated_redirects.csv (renamed-page map), utils/taxonomy_redirects.csv +
+# utils/redirect_map.csv + utils/old_urls.csv (generated, kept for auditing),
+# and static/redirects.caddy.
 utils/redirect_verify.csv
 utils/redirect_crosscheck.csv
 utils/redirect_parity.csv
