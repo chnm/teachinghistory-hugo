@@ -169,7 +169,8 @@ land in `utils/*.csv`, gitignored):
   site vs. the new map. *July 2026: 404s **520 → 154** (366 rescued, **0 regressions**). The 154
   residual are all correctly 404: ~89 malformed bot faceted-search junk, ~56 unpublished/removed
   nodes (no Hugo target), and a few pages already dead on the live Drupal source. The recoverable
-  renamed pages are handled by `curated_redirects.csv`.*
+  renamed pages are handled by `curated_redirects.csv`.* **Confirmed live after deploy:** all 981
+  URLs behaved exactly as simulated — **0/981** live-vs-simulated mismatches, 0 regressions.
 
 ---
 
