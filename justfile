@@ -42,11 +42,15 @@ check:
 redirects-relocate *args:
     uv run utils/relocate_urls.py {{args}}
 
-# Build the legacy->native map from the Hugo manifest (public/redirects.json)
+# Build the legacy->native map: Hugo manifest + node_redirects.tsv (Drupal path_alias dump)
 redirects-build:
     uv run utils/redirect_mapper.py build
 
-# Merge any discovered old URLs + apply the parent-section fallback
+# Generate utils/taxonomy_redirects.csv from taxonomy_aliases.tsv + the Hugo manifest
+redirects-taxonomy:
+    uv run utils/redirect_mapper.py taxonomy
+
+# Merge old_urls.csv + taxonomy_redirects.csv + apply the parent-section fallback
 redirects-reconcile:
     uv run utils/redirect_mapper.py reconcile
 
@@ -55,7 +59,14 @@ redirects-generate:
     uv run utils/redirect_mapper.py generate
 
 # Regenerate the whole map+snippet (requires a prior `just build`)
-redirects: redirects-build redirects-reconcile redirects-generate
+redirects: redirects-build redirects-taxonomy redirects-reconcile redirects-generate
+
+# Regenerate against the deployed Hugo manifest instead of a local build (no Hugo needed)
+redirects-remote manifest="https://dev.teachinghistory.org/redirects.json":
+    uv run utils/redirect_mapper.py build --manifest {{manifest}}
+    uv run utils/redirect_mapper.py taxonomy --manifest {{manifest}}
+    uv run utils/redirect_mapper.py reconcile --manifest {{manifest}}
+    uv run utils/redirect_mapper.py generate
 
 # Cross-check the live old Drupal site: /node/{nid} should 301 to our recorded alias
 redirects-crosscheck old_site="https://teachinghistory.org" *args:

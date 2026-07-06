@@ -10,30 +10,39 @@
 Deterministic legacy -> native URL redirect pipeline for Drupal/Omeka/WordPress ->
 Hugo migrations. Generates a Caddy redirect snippet and verifies it over HTTP.
 
-The authoritative map is the Hugo build artifact `public/redirects.json` (emitted by
-layouts/index.redirects.json). See docs in that template and utils/relocate_urls.py.
+The authoritative record of what Hugo serves is the build artifact `public/redirects.json`
+(emitted by layouts/index.redirects.json). The /node/{id} legacy form and the Drupal taxonomy
+facets are sourced from committed dumps of Drupal's path_alias table (utils/node_redirects.tsv,
+utils/taxonomy_aliases.tsv) and joined against that manifest — so node ids and term slugs don't
+have to live in content front matter. See docs/REDIRECTS.md.
 
 Subcommands:
-    build       Read the Hugo manifest -> base legacy->native map (utils/redirect_map.csv).
-    reconcile   Merge externally-discovered old URLs (utils/old_urls.csv) and apply the
-                parent-section fallback to anything unmatched. Rewrites redirect_map.csv.
+    build       Hugo manifest + node_redirects.tsv (path_alias dump) -> base legacy->native
+                map (utils/redirect_map.csv). /node/{id} is the UNION of front-matter
+                drupal_nid and the dump (the dump adds nodes with no front-matter nid).
+    taxonomy    Join utils/taxonomy_aliases.tsv (Drupal /category/{vocab}/{slug} dump) to the
+                Hugo manifest -> utils/taxonomy_redirects.csv (exact term page, else a verified
+                vocabulary-level landing). Merged by `reconcile`.
+    reconcile   Merge externally-discovered old URLs (utils/old_urls.csv) + taxonomy_redirects.csv,
+                and apply the parent-section fallback to anything unmatched. Rewrites redirect_map.csv.
     generate    Emit teachinghistory-website/static/redirects.caddy (a `map` block, 301s); Hugo copies it to public/.
     verify      HTTP-check every mapping against a running target (Caddy+Hugo).
-    crosscheck  Oracle: for each nid, confirm the LIVE old site's /node/{nid} 301s to the
+    crosscheck  Oracle: for each dump nid, confirm the LIVE old site's /node/{nid} 301s to the
                 alias we recorded (no sitemap needed). QA only; does not change the map.
     crawl       CMS-agnostic seam: enumerate old URLs from the old site's sitemap.xml.
 
 Usage:
-    uv run utils/redirect_mapper.py build
+    uv run utils/redirect_mapper.py build       [--manifest https://dev.teachinghistory.org/redirects.json]
+    uv run utils/redirect_mapper.py taxonomy    [--manifest https://dev.teachinghistory.org/redirects.json]
     uv run utils/redirect_mapper.py reconcile
     uv run utils/redirect_mapper.py generate
-    uv run utils/redirect_mapper.py verify --target http://localhost:8080
+    uv run utils/redirect_mapper.py verify --target https://dev.teachinghistory.org
     uv run utils/redirect_mapper.py crosscheck --old-site https://teachinghistory.org --limit 200
     uv run utils/redirect_mapper.py crawl --old-site https://example.org
 
 Pluggable seams for other CMSes:
     * map source        -> load_manifest() (any Hugo site emits the same manifest shape)
-    * identity extractor -> EXTRACTORS[cms] (Drupal here needs none; nid comes from the manifest)
+    * identity source   -> load_node_aliases() (Drupal path_alias dump; swap per CMS)
     * URL enumerator    -> run_crawl() (sitemap parsing is generic; add per-CMS fallbacks)
 """
 
@@ -41,6 +50,7 @@ import argparse
 import concurrent.futures as cf
 import csv
 import json
+import re
 import sys
 import threading
 import time
@@ -58,6 +68,11 @@ OUTPUT_DIR = REPO_ROOT / "utils"
 MANIFEST_DEFAULT = WEBSITE_DIR / "public" / "redirects.json"
 MAP_CSV = OUTPUT_DIR / "redirect_map.csv"
 OLD_URLS_CSV = OUTPUT_DIR / "old_urls.csv"
+NODE_REDIRECTS_TSV = OUTPUT_DIR / "node_redirects.tsv"       # Drupal path_alias dump: nid -> pretty alias (source of /node/{id})
+TAXONOMY_ALIASES_TSV = OUTPUT_DIR / "taxonomy_aliases.tsv"   # Drupal path_alias dump: taxonomy facet aliases (input to `taxonomy`)
+TAXONOMY_TERM_OVERRIDES = OUTPUT_DIR / "taxonomy_term_overrides.csv"  # curated: aliasless /taxonomy/term/{id} -> Hugo term (resolved by Drupal title)
+TAXONOMY_CSV = OUTPUT_DIR / "taxonomy_redirects.csv"         # GENERATED Drupal facet alias -> Hugo term/section URL (merged by reconcile)
+CURATED_CSV = OUTPUT_DIR / "curated_redirects.csv"          # curated old -> new for renamed/moved pages the dumps can't cover (merged by reconcile)
 CROSSCHECK_CSV = OUTPUT_DIR / "redirect_crosscheck.csv"
 VERIFY_CSV = OUTPUT_DIR / "redirect_verify.csv"
 PARITY_CSV = OUTPUT_DIR / "redirect_parity.csv"
@@ -131,30 +146,91 @@ def write_map_rows(rows: list[dict]):
 
 # --- build ------------------------------------------------------------------
 
+def load_node_aliases() -> list[tuple[int, str]]:
+    """Load (nid, drupal_alias) pairs from the committed path_alias dump
+    (utils/node_redirects.tsv). Comment/header lines (non-digit col 1) are skipped."""
+    if not NODE_REDIRECTS_TSV.exists():
+        return []
+    out = []
+    with open(NODE_REDIRECTS_TSV, encoding="utf-8") as f:
+        for line in f:
+            parts = line.rstrip("\n").split("\t")
+            if len(parts) != 2 or not parts[0].strip().isdigit():
+                continue
+            out.append((int(parts[0].strip()), path_only(parts[1].strip())))
+    return out
+
+
+def served_index(manifest: dict) -> dict[str, str]:
+    """norm(path) -> current native URL, for every native path AND every `aliases:`
+    path Hugo serves. Lets a Drupal pretty alias (from the path_alias dump) resolve to
+    the page's current native URL — even for a retired node whose alias was moved onto a
+    surviving page (the alias -> survivor's native)."""
+    served: dict[str, str] = {}
+    for pg in manifest.get("pages", []):
+        native = pg["native"]
+        served[norm(native)] = native
+        for legacy in pg.get("legacy_paths", []):
+            if is_node_path(legacy):
+                continue  # /node/{id} is synthetic, not a served slug
+            served.setdefault(norm(legacy), native)
+    return served
+
+
 def run_build(manifest_src):
     manifest = load_manifest(manifest_src)
     pages = manifest.get("pages", [])
+    served = served_index(manifest)
+    src_by_native = {norm(pg["native"]): pg.get("source_file", "") for pg in pages}
     rows = []
+    seen_old: set[str] = set()
+
+    def add(old, native, via, nid, src, note=""):
+        key = path_only(old)
+        if key in seen_old:
+            return False
+        seen_old.add(key)
+        rows.append({
+            "old_url": key, "native_url": native, "match_via": via,
+            "nid": "" if nid in (None, "") else str(nid),
+            "source_file": src, "status": "matched", "notes": note,
+        })
+        return True
+
+    # 1. Manifest legacy_paths: `aliases:` (pretty Drupal paths) + the synthesized
+    #    /node/{drupal_nid} path. This keeps every front-matter node covered — including
+    #    the handful whose nid has no row in the path_alias dump (Drupal served them only
+    #    at /node/{id}, no pretty alias).
     for pg in pages:
-        native = pg["native"]
-        nid = pg.get("nid")
-        src = pg.get("source_file", "")
+        native, nid, src = pg["native"], pg.get("nid"), pg.get("source_file", "")
         for legacy in pg.get("legacy_paths", []):
-            rows.append({
-                "old_url": path_only(legacy),
-                "native_url": native,
-                "match_via": "node" if is_node_path(legacy) else "alias",
-                "nid": "" if nid is None else nid,
-                "source_file": src,
-                "status": "matched",
-                "notes": "",
-            })
+            if is_node_path(legacy):
+                add(legacy, native, "node", nid, src)
+            else:
+                add(legacy, native, "alias", "", src)
+
+    # 2. /node/{id} from the path_alias dump (utils/node_redirects.tsv) — the authoritative
+    #    source. Joined to the page's current native via served_index, so it tracks URL
+    #    moves. UNION with step 1: adds nodes whose /node/{id} isn't derivable from front
+    #    matter (e.g. retired Beyond-the-Textbook parts whose alias lives on the survivor).
+    #    A dump slug Hugo doesn't serve (unpublished/removed node) is skipped, not 404'd.
+    node_added = node_skipped = 0
+    for nid, slug in load_node_aliases():
+        native = served.get(norm(slug))
+        if native is None:
+            node_skipped += 1
+            continue
+        if add(f"/node/{nid}", native, "node", nid, src_by_native.get(norm(native), ""), "path_alias"):
+            node_added += 1
+
     write_map_rows(rows)
     aliases = sum(1 for r in rows if r["match_via"] == "alias")
     nodes = sum(1 for r in rows if r["match_via"] == "node")
     print(f"Built {len(rows)} legacy->native pairs from {len(pages)} pages.")
-    print(f"  alias paths: {aliases}")
-    print(f"  node paths:  {nodes}")
+    print(f"  alias paths:                       {aliases}")
+    print(f"  node paths (front matter + dump):  {nodes}")
+    print(f"  node paths added by path_alias dump ({NODE_REDIRECTS_TSV.name}): {node_added}"
+          + (f"  ({node_skipped} dump slugs skipped — not served on Hugo: unpublished/removed)" if node_skipped else ""))
     print(f"Wrote {MAP_CSV}")
 
 
@@ -200,6 +276,7 @@ def run_reconcile(manifest_src):
     rows = read_map_rows()
     manifest = load_manifest(manifest_src)
     valid_targets = set(manifest.get("valid_targets", []))
+    served = served_index(manifest)
     nid_index = {}
     path_index = {}
     for pg in manifest.get("pages", []):
@@ -207,7 +284,13 @@ def run_reconcile(manifest_src):
         if pg.get("nid") is not None:
             nid_index[str(pg["nid"])] = native
         for legacy in pg.get("legacy_paths", []):
-            path_index[norm(legacy)] = native
+            if not is_node_path(legacy):
+                path_index[norm(legacy)] = native
+    # Also index nids from the path_alias dump (covers nodes absent from front matter).
+    for nid, slug in load_node_aliases():
+        native = served.get(norm(slug))
+        if native is not None:
+            nid_index.setdefault(str(nid), native)
 
     known = {norm(r["old_url"]) for r in rows}
     remap = learn_prefix_remap(rows)
@@ -243,13 +326,250 @@ def run_reconcile(manifest_src):
             "nid": "", "source_file": "", "status": status, "notes": note,
         })
 
+    # --- Curated redirects (renamed/moved pages the dumps can't cover) --------------
+    # Hand-authored old->new for pages that were renamed or folded post-migration (e.g.
+    # /nhec-blog -> /blog/, /quick-links-elementary -> the elementary quick-links page).
+    # These have no path_alias/node/taxonomy row, so they'd 404 or hit a weak parent
+    # fallback. Every target is HTTP-verified 200 before being added here.
+    cur_added = cur_skipped = 0
+    if CURATED_CSV.exists():
+        with open(CURATED_CSV, encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                old = (row.get("old_url") or "").strip()
+                native = (row.get("native_url") or "").strip()
+                if not old or not native:
+                    continue
+                key = norm(old)
+                if key in known:  # already covered by a manifest alias/native; don't override
+                    cur_skipped += 1
+                    continue
+                known.add(key)
+                rows.append({
+                    "old_url": path_only(old), "native_url": native, "match_via": "curated",
+                    "nid": "", "source_file": "", "status": "matched",
+                    "notes": (row.get("note") or "curated").strip(),
+                })
+                cur_added += 1
+
+    # --- Taxonomy facet redirects (generated by the `taxonomy` subcommand) ---------
+    # Drupal browsed content at /category/{vocab}/{slug}; Hugo emits its taxonomies at
+    # /tags|/topics|/time_periods|/evidence_types/{slug}/ with differing term slugs, and
+    # many Drupal vocabularies have no Hugo taxonomy at all. Those pairs can't flow through
+    # the manifest, so utils/taxonomy_redirects.csv (produced by `taxonomy`, every target
+    # HTTP-200 in the manifest) is merged here as pre-resolved matched rows.
+    tax_added = tax_skipped = 0
+    if TAXONOMY_CSV.exists():
+        with open(TAXONOMY_CSV, encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                old = (row.get("old_url") or "").strip()
+                native = (row.get("native_url") or "").strip()
+                if not old or not native:
+                    continue
+                key = norm(old)
+                if key in known:  # a manifest alias already covers it; don't double-map
+                    tax_skipped += 1
+                    continue
+                known.add(key)
+                rows.append({
+                    "old_url": path_only(old), "native_url": native, "match_via": "taxonomy",
+                    "nid": "", "source_file": "", "status": "matched",
+                    "notes": (row.get("notes") or "taxonomy facet").strip(),
+                })
+                tax_added += 1
+
     write_map_rows(rows)
     print(f"Reconciled. Learned prefix remaps: {remap or '(none)'}")
     print(f"  external old URLs considered: {len(old_urls)} (new: {added})")
     print(f"  newly matched: {matched} | parent-fallback: {fallback}")
+    print(f"  curated redirects: {cur_added}" + (f" ({cur_skipped} already covered)" if cur_skipped else ""))
+    print(f"  taxonomy facet redirects: {tax_added}" + (f" ({tax_skipped} already covered)" if tax_skipped else ""))
     print(f"Map now has {len(rows)} rows -> {MAP_CSV}")
     if not old_urls:
         print("Note: no utils/old_urls.csv found (no sitemap on this site) — map = manifest only.")
+
+
+# --- taxonomy (Drupal facet alias -> Hugo term/section URL) -----------------
+
+# Hugo taxonomies (from hugo.toml [taxonomies]). Term URLs look like /{tax}/{slug}/.
+HUGO_TAXONOMIES = ["tags", "topics", "time_periods", "evidence_types", "categories"]
+
+# Drupal vocabulary -> ordered Hugo taxonomies to try for an exact term match.
+# (A term may live in more than one; the first hit wins.)
+VOCAB_TO_TAXONOMIES = {
+    "tags": ["tags", "topics", "time_periods", "evidence_types"],
+    "keywords": ["tags", "topics"],
+    "topic": ["topics"],
+    "time-periods": ["time_periods"],
+    "media-format": ["evidence_types", "tags"],
+    "history-multimedia-type": ["evidence_types", "tags"],
+    "history-in-multimedia-type": ["evidence_types", "tags"],
+    "ell-languages": ["tags"],
+    "ell-type": ["tags"],
+    "us-states-and-territories": ["tags"],
+    "section": ["tags"],
+    "historical-sites-types": ["tags"],
+}
+
+
+_TAX_STOPWORDS = {"of", "the", "to", "a", "an", "and", "in", "on", "for", "with", "at", "by", "from"}
+
+
+def _taxkey(slug: str) -> str:
+    """Normalize a term slug for matching Drupal pathauto slugs against Hugo's urlize output.
+    Collapses to [a-z0-9] (health-disease ~ health--disease, science-tech ~ science--tech.)
+    AND drops common stopwords, which Drupal's pathauto stripped but Hugo keeps — so the NCHS
+    eras match (e.g. `emergence-modern-us-1890-1930` ~ `emergence-of-modern-us-1890-1930`).
+    Dropping stopwords only *adds* matches (both sides transform identically); if a slug is
+    all stopwords, keep the raw tokens so it still has a key."""
+    toks = [t for t in re.split(r"[^a-z0-9]+", slug.lower()) if t]
+    kept = [t for t in toks if t not in _TAX_STOPWORDS]
+    return "".join(kept or toks)
+
+
+def _vocab_fallback(vocab: str, leaf: str, segs: list[str], valid: set[str]) -> tuple[str, str]:
+    """Best verified landing page for a Drupal facet whose term has no Hugo term page.
+    Returns (target, reason); target is always present in `valid` (or '/')."""
+    def ok(u):
+        return u if u in valid else None
+
+    if vocab in ("tags", "keywords", "us-states-and-territories", "historical-sites-types"):
+        return ok("/tags/") or "/", "index tags"
+    if vocab == "topic":
+        return ok("/topics/") or "/", "index topics"
+    if vocab == "time-periods":
+        return ok("/time_periods/") or "/", "index time_periods"
+    if vocab in ("media-format", "history-multimedia-type", "history-in-multimedia-type"):
+        return ok("/evidence_types/") or "/", "index evidence_types"
+    if vocab in ("ell-languages", "ell-type"):
+        return ok("/teaching-materials/english-language-learners/") or "/", "section ELL"
+    if vocab == "vetted-lesson-plan-characteristics":
+        return ok("/teaching-materials/lesson-plan-reviews/") or "/", "section lesson-plan-reviews"
+    if vocab == "grade-level":
+        elem = {"pre-k", "prekindergarten", "k", "kindergarten", "1", "first-grade", "2",
+                "second-grade", "3", "third-grade", "4", "fourth-grade", "5", "fifth-grade"}
+        mid = {"6", "sixth-grade", "7", "seventh-grade", "8", "eighth-grade"}
+        high = {"9", "ninth-grade", "10", "tenth-grade", "11", "eleventh-grade", "12", "twelfth-grade"}
+        band = ("/elementary-quick-links/" if leaf in elem else
+                "/middle-quick-links/" if leaf in mid else
+                "/high-quick-links/" if leaf in high else None)
+        return (ok(band) or "/", f"grade-band {leaf}") if band else ("/", "grade-band unknown")
+    if vocab == "quicklinks":
+        blob = "/".join(segs[2:])
+        band = ("/elementary-quick-links/" if re.search(r"element|k-2|3-5", blob) else
+                "/middle-quick-links/" if re.search(r"middle|6-8", blob) else
+                "/high-quick-links/" if re.search(r"high|9-12", blob) else
+                "/teaching-materials/")
+        return ok(band) or "/", "quick-links"
+    if vocab == "section":
+        sect = {
+            "history-content": "/history-content/", "best-practices": "/best-practices/",
+            "digital-classroom": "/digital-classroom/", "teaching-materials": "/teaching-materials/",
+            "about": "/about/", "nhec-blog": "/blog/", "blog": "/blog/",
+        }.get(segs[2] if len(segs) > 2 else "", None)
+        return (ok(sect) or "/", f"section {segs[2]}") if sect else ("/", "section other")
+    return "/", "root"
+
+
+def run_taxonomy(manifest_src):
+    """Generate utils/taxonomy_redirects.csv from the committed Drupal taxonomy alias dump
+    (utils/taxonomy_aliases.tsv) joined to the Hugo manifest. Every /category/{vocab}/{slug}
+    facet maps to the exact Hugo term page when that term still exists, else to a verified
+    vocabulary-level index/section landing page. The canonical /taxonomy/term/{id} form is
+    also emitted (aliased term-ids from the dump; aliasless high-traffic ones from
+    utils/taxonomy_term_overrides.csv). /feed variants are intentionally not emitted."""
+    if not TAXONOMY_ALIASES_TSV.exists():
+        print(f"No {TAXONOMY_ALIASES_TSV} — nothing to do.")
+        return
+    manifest = load_manifest(manifest_src)
+    valid = set(manifest.get("valid_targets", []))
+    # normkey(slug) -> term URL, per Hugo taxonomy
+    tax_index: dict[str, dict[str, str]] = {t: {} for t in HUGO_TAXONOMIES}
+    for t in valid:
+        mm = re.match(r"^/([a-z_]+)/(.+)/$", t)
+        if mm and mm.group(1) in tax_index:
+            tax_index[mm.group(1)].setdefault(_taxkey(mm.group(2)), t)
+
+    # Load + dedupe aliases (drop the /feed suffix to a base; remember which had a feed and the
+    # raw /taxonomy/term/{id} source, so we can also redirect the raw term URL — Drupal served
+    # both the pretty /category/… alias AND the canonical /taxonomy/term/{id}, and the latter is
+    # itself top traffic).
+    bases: dict[str, None] = {}
+    termid_of: dict[str, str] = {}  # base alias -> /taxonomy/term/{id}
+    with open(TAXONOMY_ALIASES_TSV, encoding="utf-8") as f:
+        for line in f:
+            parts = line.rstrip("\n").split("\t")
+            if len(parts) != 2 or not parts[0].startswith("/"):
+                continue
+            alias = path_only(parts[0].strip())
+            source = parts[1].strip()
+            if alias.endswith("/feed"):
+                bases.setdefault(alias[: -len("/feed")], None)  # register base; feeds not emitted
+            else:
+                bases.setdefault(alias, None)
+                m = re.match(r"^/taxonomy/term/(\d+)", source)
+                if m:
+                    termid_of[alias] = f"/taxonomy/term/{m.group(1)}"
+
+    def resolve(alias: str) -> tuple[str, str]:
+        segs = alias.strip("/").split("/")
+        vocab = segs[1] if len(segs) >= 3 and segs[0] == "category" else None
+        leaf = segs[-1]
+        if vocab is not None:
+            for tax in VOCAB_TO_TAXONOMIES.get(vocab, ["tags", "topics", "time_periods", "evidence_types"]):
+                url = tax_index[tax].get(_taxkey(leaf))
+                if url:
+                    return url, "exact"
+            return _vocab_fallback(vocab, leaf, segs, valid)
+        return "/", "root"
+
+    out_rows = []
+    stats = Counter()
+    termid_target: dict[str, tuple[str, str, bool]] = {}  # term URL -> (target, note, is_exact)
+    for base in bases:
+        target, reason = resolve(base)
+        note = ("taxonomy exact" if reason == "exact" else f"taxonomy fallback ({reason})")
+        stats["exact" if reason == "exact" else "fallback"] += 1
+        out_rows.append({"old_url": base, "native_url": target, "notes": note})
+        tid = termid_of.get(base)
+        if tid:
+            prev = termid_target.get(tid)
+            if prev is None or (reason == "exact" and not prev[2]):  # prefer an exact resolution
+                termid_target[tid] = (target, note, reason == "exact")
+
+    # Aliasless term-ids: Drupal served some terms ONLY at /taxonomy/term/{id} (no /category
+    # alias, so no dump row) — yet they're heavy traffic (evidence-type / topic / tag browse
+    # facets). utils/taxonomy_term_overrides.csv resolves them (Drupal term title -> Hugo term).
+    ov_added = 0
+    if TAXONOMY_TERM_OVERRIDES.exists():
+        with open(TAXONOMY_TERM_OVERRIDES, encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                tid = (row.get("term_id") or "").strip()
+                native = (row.get("native_url") or "").strip()
+                if not tid.isdigit() or not native:
+                    continue
+                termid_target[f"/taxonomy/term/{tid}"] = (native, f"taxonomy term-override ({row.get('note','')})", True)
+                ov_added += 1
+
+    # Raw canonical term URLs: /taxonomy/term/{id} -> the resolved Hugo target. (No /feed
+    # variants — old per-term RSS URLs get no measurable traffic and would ~double the map.)
+    for tid, (target, note, _) in termid_target.items():
+        out_rows.append({"old_url": tid, "native_url": target, "notes": note + ", term-id"})
+        stats["term_id"] += 1
+    stats["overrides"] = ov_added
+
+    out_rows.sort(key=lambda r: r["old_url"])
+    with open(TAXONOMY_CSV, "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=["old_url", "native_url", "notes"])
+        w.writeheader()
+        w.writerows(out_rows)
+
+    # Sanity: every target must be a served page (or root).
+    bad = sorted({r["native_url"] for r in out_rows if r["native_url"] != "/" and r["native_url"] not in valid})
+    print(f"Wrote {len(out_rows)} taxonomy redirects -> {TAXONOMY_CSV}")
+    print(f"  exact term matches: {stats['exact']} | vocabulary fallbacks: {stats['fallback']} "
+          f"| raw /taxonomy/term/ URLs: {stats['term_id']} (of which {stats['overrides']} aliasless overrides)")
+    if bad:
+        print(f"  WARNING: {len(bad)} targets not in manifest valid_targets: {bad[:10]}")
 
 
 # --- generate (Caddy) -------------------------------------------------------
@@ -411,13 +731,22 @@ def run_crosscheck(old_site: str, manifest_src, resume: bool, limit: int | None)
     manifest = load_manifest(manifest_src)
     base = old_site.rstrip("/")
 
-    # nid -> (expected alias, native) from the manifest
-    targets = []
+    # nid -> (expected alias(es), native). nids come from the path_alias dump
+    # (utils/node_redirects.tsv); the native is resolved via the manifest. A dump slug
+    # Hugo doesn't serve is skipped (nothing to cross-check).
+    served = served_index(manifest)
+    aliases_by_native: dict[str, list[str]] = {}
     for pg in manifest.get("pages", []):
-        if pg.get("nid") is None:
+        aliases_by_native[pg["native"]] = [path_only(l) for l in pg.get("legacy_paths", []) if not is_node_path(l)]
+    targets = []
+    for nid, slug in load_node_aliases():
+        native = served.get(norm(slug))
+        if native is None:
             continue
-        aliases = [path_only(l) for l in pg.get("legacy_paths", []) if not is_node_path(l)]
-        targets.append((str(pg["nid"]), aliases, pg["native"]))
+        aliases = list(aliases_by_native.get(native) or [path_only(native)])
+        if path_only(slug) not in aliases:
+            aliases.append(path_only(slug))
+        targets.append((str(nid), aliases, native))
 
     done = {}
     fields = ["nid", "node_url", "live_status", "live_location", "expected_alias", "agrees", "reason"]
@@ -636,6 +965,9 @@ def main():
     r = sub.add_parser("reconcile", help="Merge old_urls.csv + apply parent-section fallback")
     r.add_argument("--manifest", default=str(MANIFEST_DEFAULT), help="Path or URL to redirects.json")
 
+    t = sub.add_parser("taxonomy", help="Generate utils/taxonomy_redirects.csv from taxonomy_aliases.tsv + manifest")
+    t.add_argument("--manifest", default=str(MANIFEST_DEFAULT), help="Path or URL to redirects.json")
+
     sub.add_parser("generate", help="Emit static/redirects.caddy from the map (Hugo copies it to public/)")
 
     v = sub.add_parser("verify", help="HTTP-verify redirects against a target")
@@ -663,6 +995,8 @@ def main():
         run_build(args.manifest)
     elif args.command == "reconcile":
         run_reconcile(args.manifest)
+    elif args.command == "taxonomy":
+        run_taxonomy(args.manifest)
     elif args.command == "generate":
         run_generate()
     elif args.command == "verify":
