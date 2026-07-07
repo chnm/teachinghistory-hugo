@@ -291,6 +291,7 @@ No automated test suite currently. Verify changes by:
 - The site is a migration from Drupal — content files contain legacy frontmatter fields that should be preserved
 - The "Ask a Historian" feature has been dropped — do not implement AskAHistorianBanner
 - Nav active state always uses orange (`text-orange`), not per-section accent colors
+- External link auditing lives in `utils/link_checker.py` (extract → check → recheck → wayback → classify); see CLAUDE.md's "External Link Checker" section for the full pipeline and output files
 
 **When making changes:**
 - Read existing code before modifying — understand the partial's parameter interface

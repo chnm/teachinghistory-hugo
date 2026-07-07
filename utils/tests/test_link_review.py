@@ -122,3 +122,18 @@ def test_confidence_and_action():
     assert lc.suggested_action("A", "none", "found") == "salvage-wayback"
     assert lc.suggested_action("C-candidate", "none", "not_archived") == "needs-subjective-review"
     assert lc.suggested_action("live", "none", "") == "ok"
+
+
+def test_write_master_xlsx(tmp_path):
+    import openpyxl
+    rows = [{k: "" for k in lc.MASTER_FIELDNAMES}]
+    rows[0]["link_url"] = "https://example.org/x"
+    rows[0]["bucket"] = "bookseller"
+    out = tmp_path / "sheet.xlsx"
+    lc.write_master_xlsx(rows, out)
+    assert out.exists()
+    wb = openpyxl.load_workbook(out)
+    ws = wb.active
+    assert [c.value for c in ws[1]] == lc.MASTER_FIELDNAMES
+    assert ws.freeze_panes == "A2"
+    assert ws.auto_filter.ref is not None

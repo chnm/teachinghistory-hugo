@@ -4,6 +4,7 @@
 #     "requests",
 #     "beautifulsoup4",
 #     "pyyaml",
+#     "openpyxl",
 # ]
 # ///
 """
@@ -809,6 +810,31 @@ MASTER_FIELDNAMES = [
 ]
 
 
+def write_master_xlsx(rows: list[dict], path: Path) -> None:
+    """Write the master sheet as .xlsx with a frozen header and autofilter."""
+    from openpyxl import Workbook
+    from openpyxl.styles import Font
+
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "link_review"
+    ws.append(MASTER_FIELDNAMES)
+    for cell in ws[1]:
+        cell.font = Font(bold=True)
+    for row in rows:
+        ws.append([row.get(col, "") for col in MASTER_FIELDNAMES])
+
+    ws.freeze_panes = "A2"
+    ws.auto_filter.ref = f"A1:{ws.cell(row=1, column=len(MASTER_FIELDNAMES)).column_letter}{ws.max_row}"
+
+    widths = {"page_title": 40, "source_file": 40, "link_url": 50,
+              "link_text": 30, "final_url": 40, "remote_title": 30}
+    for i, col in enumerate(MASTER_FIELDNAMES, 1):
+        ws.column_dimensions[ws.cell(row=1, column=i).column_letter].width = widths.get(col, 16)
+
+    wb.save(path)
+
+
 def _load_csv(path: Path) -> list[dict]:
     if not path.exists():
         return []
@@ -879,6 +905,9 @@ def run_classify():
     cats = collections.Counter(r["broken_category"] for r in rows)
     for cat, n in cats.most_common():
         print(f"  {cat}: {n}")
+
+    write_master_xlsx(rows, MASTER_XLSX)
+    print(f"Wrote {MASTER_XLSX}")
 
 
 # --- CLI ---
