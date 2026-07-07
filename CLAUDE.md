@@ -34,7 +34,7 @@ uv run utils/link_checker.py wayback --resume # Look up Wayback snapshots for de
 uv run utils/link_checker.py classify         # Build the master review sheet (CSV + XLSX)
 ```
 
-Outputs CSVs in `utils/`: `link_inventory.csv`, `link_results.csv`, `link_review.csv`, `link_review_priority.csv`, `link_wayback.csv`, `link_review_master.csv`. The `classify` step also writes `link_review_master.xlsx` (frozen header row + autofilter) — the human-friendly sheet for manual triage.
+Outputs CSVs in `utils/`: `link_inventory.csv`, `link_results.csv`, `link_wayback.csv`, `link_review_master.csv`. The `classify` step also writes `link_review_master.xlsx` (frozen header row + autofilter) — the human-friendly sheet for manual triage.
 
 ## Architecture
 

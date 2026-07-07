@@ -25,6 +25,7 @@ Usage:
 """
 
 import argparse
+import collections
 import csv
 import re
 import sys
@@ -84,19 +85,6 @@ def parse_frontmatter(text: str) -> dict:
         return {}
 
 
-def extract_links(text: str) -> list[tuple[str, str]]:
-    """Extract (link_text, url) pairs from markdown + HTML content."""
-    links = []
-    # Markdown links: [text](url)
-    for m in re.finditer(r"\[([^\]]*)\]\(([^)]+)\)", text):
-        links.append((m.group(1).strip(), m.group(2).strip()))
-    # HTML href links: <a href="url">text</a>
-    for m in re.finditer(r'<a\s[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', text, re.IGNORECASE | re.DOTALL):
-        link_text = re.sub(r"<[^>]+>", "", m.group(2)).strip()
-        links.append((link_text, m.group(1).strip()))
-    return links
-
-
 BIBLIOGRAPHY_HEADINGS = {
     "for further reading", "further reading", "bibliography",
     "references", "works cited", "further resources",
@@ -111,7 +99,11 @@ CAPTION_HINTS = re.compile(
 
 
 def build_heading_index(text: str) -> list[tuple[int, str]]:
-    """List of (char_offset, heading_text) for each ATX heading, in order."""
+    """List of (char_offset, heading_text) for each ATX heading, in order.
+
+    Only recognizes ATX headings (`#`-prefixed); setext headings (underlined
+    with `===`/`---`) are not detected.
+    """
     index = []
     offset = 0
     for line in text.splitlines(keepends=True):
@@ -439,8 +431,9 @@ def run_recheck(limit: int | None = None):
         sys.exit(1)
 
     with open(RESULTS_CSV, encoding="utf-8") as f:
-        rows = list(csv.DictReader(f))
-        fieldnames = list(csv.DictReader(open(RESULTS_CSV, encoding="utf-8")).fieldnames)
+        reader = csv.DictReader(f)
+        rows = list(reader)
+        fieldnames = list(reader.fieldnames)
 
     target_urls = sorted({
         r["link_url"] for r in rows if is_reverifiable_status(r.get("http_status", ""))
@@ -901,13 +894,18 @@ def run_classify():
     n_candidates = sum(1 for r in rows if r["bulk_delete_candidate"])
     print(f"\nWrote {MASTER_CSV} ({len(rows)} rows).")
     print(f"Bulk-delete candidates: {n_candidates}")
-    import collections
     cats = collections.Counter(r["broken_category"] for r in rows)
     for cat, n in cats.most_common():
         print(f"  {cat}: {n}")
 
     write_master_xlsx(rows, MASTER_XLSX)
     print(f"Wrote {MASTER_XLSX}")
+
+    unchecked = sum(1 for r in rows if not r["http_status"])
+    if unchecked:
+        print(f"\nWARNING: {unchecked} links have no HTTP status (never checked) — "
+              f"they are categorized 'needs-human' until you run `check` to cover them. "
+              f"Filter http_status == '' in the sheet to find them.")
 
 
 # --- CLI ---

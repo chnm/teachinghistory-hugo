@@ -111,6 +111,7 @@ def test_broken_category():
     assert lc.broken_category("200", "none", "404 Page Not Found") == "B?"
     assert lc.broken_category("200", "benign", "Real Article Title") == "live"
     assert lc.broken_category("429", "none", "") == "needs-human"
+    assert lc.broken_category("", "none", "") == "needs-human"
 
 
 def test_confidence_and_action():
