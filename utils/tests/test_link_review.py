@@ -83,3 +83,42 @@ def test_check_url_uses_supplied_user_agent():
     session = _StubSession()
     lc.check_url("https://example.org/", session, user_agent=lc.BROWSER_UA)
     assert session.last_headers["User-Agent"] == lc.BROWSER_UA
+
+
+def test_classify_redirect():
+    assert lc.classify_redirect("http://x.org/a", "https://x.org/a") == "benign"
+    assert lc.classify_redirect("http://x.org/a", "http://www.x.org/a/") == "benign"
+    assert lc.classify_redirect("http://x.org/a", "https://other.com/z") == "substantive"
+    assert lc.classify_redirect("http://x.org/a", "") == "none"
+
+
+def test_is_bookseller_and_bucket_priority():
+    assert lc.is_bookseller("https://www.amazon.com/dp/123") is True
+    assert lc.is_bookseller("https://books.google.com/books?id=1") is True
+    assert lc.is_bookseller("https://loc.gov/item/1") is False
+    # Bookseller wins even when under a bibliography heading:
+    assert lc.bucket_for("https://amazon.com/x", True, False) == "bookseller"
+    assert lc.bucket_for("https://loc.gov/x", True, False) == "bibliography"
+    assert lc.bucket_for("https://loc.gov/x", False, True) == "caption_maybe"
+    assert lc.bucket_for("https://loc.gov/x", False, False) == "none"
+
+
+def test_broken_category():
+    assert lc.broken_category("404", "none", "") == "A"
+    assert lc.broken_category("CONN_ERROR", "none", "") == "A"
+    assert lc.broken_category("403", "none", "") == "blocked-unknown"
+    assert lc.broken_category("200", "substantive", "Padlet") == "C-candidate"
+    assert lc.broken_category("200", "none", "404 Page Not Found") == "B?"
+    assert lc.broken_category("200", "benign", "Real Article Title") == "live"
+    assert lc.broken_category("429", "none", "") == "needs-human"
+
+
+def test_confidence_and_action():
+    assert lc.confidence_for("A", "none") == "high"
+    assert lc.confidence_for("C-candidate", "none") == "medium"
+    assert lc.confidence_for("needs-human", "caption_maybe") == "low"
+
+    assert lc.suggested_action("A", "bookseller", "not_archived") == "bulk-unlink"
+    assert lc.suggested_action("A", "none", "found") == "salvage-wayback"
+    assert lc.suggested_action("C-candidate", "none", "not_archived") == "needs-subjective-review"
+    assert lc.suggested_action("live", "none", "") == "ok"

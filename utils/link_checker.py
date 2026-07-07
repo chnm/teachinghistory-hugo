@@ -20,6 +20,7 @@ Usage:
     uv run utils/link_checker.py recheck --limit 100  # Re-check only first N 403 URLs
     uv run utils/link_checker.py replace              # Dry run: show what would be replaced
     uv run utils/link_checker.py replace --apply      # Actually replace dead links with Wayback URLs
+    uv run utils/link_checker.py classify             # Join inventory+results+wayback into master review sheet
 """
 
 import argparse
@@ -723,6 +724,163 @@ def run_replace(dry_run: bool = True):
         print("\nRun with --apply to make changes.")
 
 
+# --- Classify phase ---
+
+MASTER_CSV = OUTPUT_DIR / "link_review_master.csv"
+MASTER_XLSX = OUTPUT_DIR / "link_review_master.xlsx"
+
+BOOKSELLER_DOMAINS = {
+    "amazon.", "barnesandnoble.", "bn.com", "abebooks.",
+    "powells.", "bookshop.org", "thriftbooks.", "alibris.",
+    "books.google.",
+}
+
+
+def _host(url: str) -> str:
+    return urlparse(url).netloc.lower().removeprefix("www.")
+
+
+def classify_redirect(orig_url: str, final_url: str) -> str:
+    """'none' if no redirect, 'benign' if same host, 'substantive' if host changed."""
+    if not final_url or final_url == orig_url:
+        return "none"
+    if _host(orig_url) == _host(final_url):
+        return "benign"
+    return "substantive"
+
+
+def is_bookseller(url: str) -> bool:
+    host = _host(url)
+    return any(token in host for token in BOOKSELLER_DOMAINS)
+
+
+def bucket_for(url: str, in_bibliography: bool, in_caption: bool) -> str:
+    if is_bookseller(url):
+        return "bookseller"
+    if in_bibliography:
+        return "bibliography"
+    if in_caption:
+        return "caption_maybe"
+    return "none"
+
+
+def broken_category(http_status: str, redirect_kind: str, remote_title: str) -> str:
+    status = str(http_status)
+    if status in DEAD_STATUSES:
+        return "A"
+    if status == "403":
+        return "blocked-unknown"
+    if status.startswith("2"):
+        title = (remote_title or "").lower()
+        if any(w in title for w in SUSPICIOUS_TITLE_WORDS):
+            return "B?"
+        if redirect_kind == "substantive":
+            return "C-candidate"
+        return "live"
+    return "needs-human"
+
+
+def confidence_for(category: str, bucket: str) -> str:
+    if category == "A" or bucket == "bookseller" or category == "live":
+        return "high"
+    if category in ("C-candidate", "B?") or bucket == "bibliography":
+        return "medium"
+    return "low"
+
+
+def suggested_action(category: str, bucket: str, wayback_status: str) -> str:
+    if bucket != "none":
+        return "bulk-unlink"
+    if category == "A" and wayback_status == "found":
+        return "salvage-wayback"
+    if category in ("A", "C-candidate", "B?", "blocked-unknown"):
+        return "needs-subjective-review"
+    return "ok"
+
+
+MASTER_FIELDNAMES = [
+    "section", "page_title", "page_url", "source_file",
+    "link_url", "link_text", "link_kind",
+    "doc_heading", "in_bibliography", "in_caption",
+    "http_status", "final_url", "redirect_kind", "remote_title",
+    "broken_category", "bucket", "bulk_delete_candidate",
+    "confidence", "suggested_action",
+    "wayback_url", "wayback_status",
+]
+
+
+def _load_csv(path: Path) -> list[dict]:
+    if not path.exists():
+        return []
+    with open(path, encoding="utf-8") as f:
+        return list(csv.DictReader(f))
+
+
+def run_classify():
+    """Join inventory + results + wayback into the master review sheet."""
+    inventory = _load_csv(INVENTORY_CSV)
+    if not inventory:
+        print(f"No inventory found at {INVENTORY_CSV}. Run 'extract' first.")
+        sys.exit(1)
+
+    results = {(r["source_file"], r["link_url"]): r for r in _load_csv(RESULTS_CSV)}
+    wayback = {(r["source_file"], r["link_url"]): r for r in _load_csv(WAYBACK_CSV)}
+
+    rows = []
+    for inv in inventory:
+        key = (inv["source_file"], inv["link_url"])
+        res = results.get(key, {})
+        wb = wayback.get(key, {})
+
+        http_status = res.get("http_status", "")
+        final_url = res.get("final_url", "")
+        remote_title = res.get("remote_title", "")
+        in_bib = str(inv.get("in_bibliography", "")) == "True"
+        in_cap = str(inv.get("in_caption", "")) == "True"
+
+        redirect_kind = classify_redirect(inv["link_url"], final_url)
+        bucket = bucket_for(inv["link_url"], in_bib, in_cap)
+        category = broken_category(http_status, redirect_kind, remote_title)
+        wb_status = wb.get("wayback_status", "")
+
+        rows.append({
+            "section": inv["section"],
+            "page_title": inv["page_title"],
+            "page_url": inv["page_url"],
+            "source_file": inv["source_file"],
+            "link_url": inv["link_url"],
+            "link_text": inv["link_text"],
+            "link_kind": inv.get("link_kind", ""),
+            "doc_heading": inv.get("doc_heading", ""),
+            "in_bibliography": in_bib,
+            "in_caption": in_cap,
+            "http_status": http_status,
+            "final_url": final_url,
+            "redirect_kind": redirect_kind,
+            "remote_title": remote_title,
+            "broken_category": category,
+            "bucket": bucket,
+            "bulk_delete_candidate": bucket != "none",
+            "confidence": confidence_for(category, bucket),
+            "suggested_action": suggested_action(category, bucket, wb_status),
+            "wayback_url": wb.get("wayback_url", ""),
+            "wayback_status": wb_status,
+        })
+
+    with open(MASTER_CSV, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=MASTER_FIELDNAMES, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(rows)
+
+    n_candidates = sum(1 for r in rows if r["bulk_delete_candidate"])
+    print(f"\nWrote {MASTER_CSV} ({len(rows)} rows).")
+    print(f"Bulk-delete candidates: {n_candidates}")
+    import collections
+    cats = collections.Counter(r["broken_category"] for r in rows)
+    for cat, n in cats.most_common():
+        print(f"  {cat}: {n}")
+
+
 # --- CLI ---
 
 def main():
@@ -745,6 +903,8 @@ def main():
     replace_parser = sub.add_parser("replace", help="Replace dead links with Wayback Machine URLs")
     replace_parser.add_argument("--apply", action="store_true", help="Actually modify files (default is dry run)")
 
+    sub.add_parser("classify", help="Join inventory + results + wayback into the master review sheet")
+
     args = parser.parse_args()
     if args.command == "extract":
         run_extract()
@@ -756,6 +916,8 @@ def main():
         run_recheck(limit=args.limit)
     elif args.command == "replace":
         run_replace(dry_run=not args.apply)
+    elif args.command == "classify":
+        run_classify()
     else:
         parser.print_help()
 
