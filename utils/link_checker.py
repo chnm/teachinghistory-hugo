@@ -88,6 +88,104 @@ def extract_links(text: str) -> list[tuple[str, str]]:
     return links
 
 
+BIBLIOGRAPHY_HEADINGS = {
+    "for further reading", "further reading", "bibliography",
+    "references", "works cited", "further resources",
+    "related resources", "sources", "notes", "endnotes",
+}
+
+CAPTION_HINTS = re.compile(
+    r"(library of congress|courtesy of|courtesy,|source:|photo:|image:|"
+    r"credit:|national archives|smithsonian)",
+    re.IGNORECASE,
+)
+
+
+def build_heading_index(text: str) -> list[tuple[int, str]]:
+    """List of (char_offset, heading_text) for each ATX heading, in order."""
+    index = []
+    offset = 0
+    for line in text.splitlines(keepends=True):
+        m = re.match(r"\s{0,3}#{1,6}\s+(.*?)\s*#*\s*$", line)
+        if m:
+            index.append((offset, m.group(1).strip()))
+        offset += len(line)
+    return index
+
+
+def heading_at(index: list[tuple[int, str]], pos: int) -> str:
+    """Nearest heading at or before character offset `pos` ("" if none)."""
+    current = ""
+    for off, head in index:
+        if off <= pos:
+            current = head
+        else:
+            break
+    return current
+
+
+def normalize_heading(h: str) -> str:
+    stripped = re.sub(r"^#+\s*", "", h).strip()
+    return re.sub(r"[^a-z0-9 ]", "", stripped.lower()).strip()
+
+
+def is_bibliography_heading(h: str) -> bool:
+    return normalize_heading(h) in BIBLIOGRAPHY_HEADINGS
+
+
+def looks_like_caption(line: str) -> bool:
+    if "![" in line:
+        return True
+    return bool(CAPTION_HINTS.search(line))
+
+
+def _line_at(text: str, pos: int) -> str:
+    start = text.rfind("\n", 0, pos) + 1
+    end = text.find("\n", pos)
+    if end == -1:
+        end = len(text)
+    return text[start:end]
+
+
+def extract_links_with_context(text: str) -> list[dict]:
+    """Extract links with document context. Captures markdown links, HTML
+    anchors, and written-out bare URLs (marked link_kind='bare_url')."""
+    index = build_heading_index(text)
+    spans: list[tuple[int, int]] = []
+    results: list[dict] = []
+
+    def add(pos: int, url: str, link_text: str, kind: str) -> None:
+        heading = heading_at(index, pos)
+        results.append({
+            "link_url": url,
+            "link_text": link_text,
+            "link_kind": kind,
+            "doc_heading": heading,
+            "in_bibliography": is_bibliography_heading(heading),
+            "in_caption": looks_like_caption(_line_at(text, pos)),
+        })
+
+    for m in re.finditer(r"\[([^\]]*)\]\(([^)]+)\)", text):
+        spans.append((m.start(), m.end()))
+        add(m.start(), m.group(2).strip(), m.group(1).strip(), "hyperlink")
+
+    for m in re.finditer(
+        r'<a\s[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
+        text, re.IGNORECASE | re.DOTALL,
+    ):
+        spans.append((m.start(), m.end()))
+        link_text = re.sub(r"<[^>]+>", "", m.group(2)).strip()
+        add(m.start(), m.group(1).strip(), link_text, "hyperlink")
+
+    for m in re.finditer(r"https?://[^\s<>)\"'\]]+", text):
+        if any(s <= m.start() < e for s, e in spans):
+            continue  # already captured inside a markdown/HTML link
+        url = m.group(0).rstrip(".,;")
+        add(m.start(), url, url, "bare_url")
+
+    return results
+
+
 def is_external(url: str) -> bool:
     """Check if a URL is external (not teachinghistory.org or relative)."""
     if not url or url.startswith("#") or url.startswith("mailto:") or url.startswith("tel:"):
@@ -121,7 +219,8 @@ def run_extract():
         rel_path = md_file.relative_to(CONTENT_DIR)
         section = get_section(rel_path)
 
-        for link_text, url in extract_links(text):
+        for link in extract_links_with_context(text):
+            url = link["link_url"]
             if is_external(url):
                 rows.append({
                     "section": section,
@@ -129,7 +228,11 @@ def run_extract():
                     "page_url": page_url,
                     "source_file": str(rel_path),
                     "link_url": url,
-                    "link_text": link_text,
+                    "link_text": link["link_text"],
+                    "link_kind": link["link_kind"],
+                    "doc_heading": link["doc_heading"],
+                    "in_bibliography": link["in_bibliography"],
+                    "in_caption": link["in_caption"],
                 })
 
     # Dedupe exact (source_file, link_url) pairs
@@ -141,7 +244,11 @@ def run_extract():
             seen.add(key)
             deduped.append(row)
 
-    fieldnames = ["section", "page_title", "page_url", "source_file", "link_url", "link_text"]
+    fieldnames = [
+        "section", "page_title", "page_url", "source_file",
+        "link_url", "link_text", "link_kind",
+        "doc_heading", "in_bibliography", "in_caption",
+    ]
     with open(INVENTORY_CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -301,7 +408,7 @@ def run_check(resume: bool = False, limit: int | None = None):
         })
 
     with open(RESULTS_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(output_rows)
 
