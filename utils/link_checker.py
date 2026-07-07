@@ -16,6 +16,8 @@ Usage:
     uv run utils/link_checker.py check --limit 100    # Check only first N unchecked links
     uv run utils/link_checker.py wayback              # Look up Wayback Machine snapshots for dead links
     uv run utils/link_checker.py wayback --resume     # Resume interrupted wayback run
+    uv run utils/link_checker.py recheck              # Re-check 403s with a browser User-Agent
+    uv run utils/link_checker.py recheck --limit 100  # Re-check only first N 403 URLs
     uv run utils/link_checker.py replace              # Dry run: show what would be replaced
     uv run utils/link_checker.py replace --apply      # Actually replace dead links with Wayback URLs
 """
@@ -60,6 +62,11 @@ SUSPICIOUS_TITLE_WORDS = [
 REQUEST_TIMEOUT = 15
 REQUEST_DELAY = 0.3  # seconds between requests
 USER_AGENT = "TeachingHistory-LinkChecker/1.0 (educational site maintenance)"
+BROWSER_UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/125.0.0.0 Safari/537.36"
+)
 
 
 # --- Extract phase ---
@@ -262,7 +269,7 @@ def run_extract():
 
 # --- Check phase ---
 
-def check_url(url: str, session: requests.Session) -> dict:
+def check_url(url: str, session: requests.Session, user_agent: str = USER_AGENT) -> dict:
     """Check a single URL. Returns status info dict."""
     result = {
         "http_status": "",
@@ -277,7 +284,7 @@ def check_url(url: str, session: requests.Session) -> dict:
             url,
             timeout=REQUEST_TIMEOUT,
             allow_redirects=True,
-            headers={"User-Agent": USER_AGENT},
+            headers={"User-Agent": user_agent},
         )
         result["http_status"] = resp.status_code
         result["final_url"] = resp.url
@@ -416,6 +423,58 @@ def run_check(resume: bool = False, limit: int | None = None):
     print(f"\nResults written to {RESULTS_CSV}")
     print(f"Total link references: {len(output_rows)}")
     print(f"Flagged for review: {flagged}")
+
+
+def is_reverifiable_status(status: str) -> bool:
+    """Statuses worth re-checking with a browser UA (bot-block false positives)."""
+    return str(status) == "403"
+
+
+def run_recheck(limit: int | None = None):
+    """Re-check 403 URLs in RESULTS_CSV with a browser-like User-Agent."""
+    if not RESULTS_CSV.exists():
+        print(f"No results found at {RESULTS_CSV}. Run 'check' first.")
+        sys.exit(1)
+
+    with open(RESULTS_CSV, encoding="utf-8") as f:
+        rows = list(csv.DictReader(f))
+        fieldnames = list(csv.DictReader(open(RESULTS_CSV, encoding="utf-8")).fieldnames)
+
+    target_urls = sorted({
+        r["link_url"] for r in rows if is_reverifiable_status(r.get("http_status", ""))
+    })
+    if limit:
+        target_urls = target_urls[:limit]
+    print(f"Re-checking {len(target_urls)} URLs (403) with browser User-Agent...")
+
+    session = requests.Session()
+    updated: dict[str, dict] = {}
+    for i, url in enumerate(target_urls, 1):
+        if i % 50 == 0 or i == 1:
+            print(f"  [{i}/{len(target_urls)}] rechecking {url[:80]}...")
+        updated[url] = check_url(url, session, user_agent=BROWSER_UA)
+        time.sleep(REQUEST_DELAY)
+
+    changed = 0
+    for r in rows:
+        u = r["link_url"]
+        if u in updated:
+            res = updated[u]
+            if str(r["http_status"]) != str(res["http_status"]):
+                changed += 1
+            r["http_status"] = res["http_status"]
+            r["final_url"] = res["final_url"]
+            r["remote_title"] = res["remote_title"]
+            r["redirect_domain_changed"] = res["redirect_domain_changed"]
+            r["needs_review"] = res["needs_review"]
+            r["reason"] = res["reason"]
+
+    with open(RESULTS_CSV, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(rows)
+
+    print(f"\nRewrote {RESULTS_CSV}. {changed} rows changed status after re-check.")
 
 
 # --- Wayback phase ---
@@ -680,6 +739,9 @@ def main():
     wayback_parser.add_argument("--resume", action="store_true", help="Skip already-looked-up URLs")
     wayback_parser.add_argument("--limit", type=int, default=None, help="Max URLs to look up this run")
 
+    recheck_parser = sub.add_parser("recheck", help="Re-check 403 URLs with a browser User-Agent")
+    recheck_parser.add_argument("--limit", type=int, default=None, help="Max URLs to re-check")
+
     replace_parser = sub.add_parser("replace", help="Replace dead links with Wayback Machine URLs")
     replace_parser.add_argument("--apply", action="store_true", help="Actually modify files (default is dry run)")
 
@@ -690,6 +752,8 @@ def main():
         run_check(resume=args.resume, limit=args.limit)
     elif args.command == "wayback":
         run_wayback(resume=args.resume, limit=args.limit)
+    elif args.command == "recheck":
+        run_recheck(limit=args.limit)
     elif args.command == "replace":
         run_replace(dry_run=not args.apply)
     else:

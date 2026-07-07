@@ -54,3 +54,32 @@ def test_extract_links_with_context_classifies_kind_and_bucket_context():
     assert loc["link_kind"] == "bare_url"
     assert loc["in_bibliography"] is True
     assert loc["in_caption"] is True  # "Library of Congress" hint on the line
+
+
+def test_is_reverifiable_status():
+    assert lc.is_reverifiable_status("403") is True
+    assert lc.is_reverifiable_status("404") is False
+    assert lc.is_reverifiable_status("200") is False
+
+
+class _StubResp:
+    def __init__(self):
+        self.status_code = 200
+        self.url = "https://example.org/"
+        self.headers = {"content-type": "text/html"}
+        self.text = "<title>Fine</title>"
+
+
+class _StubSession:
+    def __init__(self):
+        self.last_headers = None
+
+    def get(self, url, timeout, allow_redirects, headers):
+        self.last_headers = headers
+        return _StubResp()
+
+
+def test_check_url_uses_supplied_user_agent():
+    session = _StubSession()
+    lc.check_url("https://example.org/", session, user_agent=lc.BROWSER_UA)
+    assert session.last_headers["User-Agent"] == lc.BROWSER_UA
