@@ -203,12 +203,13 @@ uv run utils/link_checker.py classify
   `needs-human`/`live`, not auto-decided — this is by design; they require the
   subjective review.
 
-**Known deferred item (out of scope here):** `check_url` computes its
+**Resolved follow-up:** `check_url` previously computed its
 `redirect_domain_changed` flag with `.lstrip("www.")`, which strips a leading
-character *set* (any of `w`/`.`), not the `www.` prefix. `classify` does NOT
-consume that column — it recomputes `redirect_kind` via `removeprefix("www.")`
-— so the master sheet is unaffected. Fix `check_url` if that column is ever
-used directly.
+character *set* (any of `w`/`.`), not the `www.` prefix (e.g. `web.com` →
+`eb.com`). Fixed in `227b641f` to use `removeprefix("www.")`, with a regression
+test. `classify` never consumed that column (it recomputes `redirect_kind` via
+`removeprefix`), so the master sheet was unaffected and no data regeneration
+was needed.
 
 **Bare-URL capture note:** `extract` now also captures written-out URLs (not
 just `[text](url)` / `<a>`), tagged `link_kind=bare_url`. This raised the
