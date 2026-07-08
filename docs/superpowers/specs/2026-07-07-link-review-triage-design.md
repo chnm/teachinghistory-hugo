@@ -167,3 +167,51 @@ No automated suite in this repo (per AGENTS.md). Verify by:
    `bulk_delete_candidate=TRUE` and by `broken_category`.
 5. Manually audit ~20 rows across categories to confirm labels are sane before
    the team relies on the sheet.
+
+## Status & Handoff (as of 2026-07-07)
+
+**Built and merged to branch `fix/dead-links`** (commits `41648d7d`..`8ab7853a`):
+extract-with-context, `recheck`, `classify`, and xlsx output, with a 12-test
+unit suite. All four plan tasks passed spec + quality review; the whole-branch
+review returned "ready to finish, no blockers."
+
+**Deliverable produced:** `utils/link_review_master.csv` / `.xlsx`, 5,913 links
+with full HTTP coverage. Category counts: live 3,444; A (dead) 1,218;
+blocked-unknown 655; C-candidate 500; B? 54; needs-human 42. 929 bulk-delete
+candidates; 1,800 dead links have a Wayback snapshot.
+
+**To regenerate the sheet** (full run; the `check` phase is slow — it makes
+~5,300 live HTTP requests and many citation/bare URLs hit the 15s timeout, so
+budget 30–60+ min):
+```
+uv run utils/link_checker.py extract          # only if content changed
+uv run utils/link_checker.py check --resume
+uv run utils/link_checker.py recheck
+uv run utils/link_checker.py wayback --resume
+uv run utils/link_checker.py classify
+```
+
+**What is intentionally NOT built yet (the next session's work):**
+- There is **no `apply`/removal command** that acts on the sheet. Steps 2–4 of
+  `utils/Link Check & Review Process.md` (remove/salvage decisions and
+  enactment) are still manual/team-driven. A future `apply` step should be
+  sheet-driven: read a human-approved `decision` column and unlink/replace
+  accordingly, dry-run first, and — like this build — never touch content until
+  approved. (The existing `replace` subcommand only swaps dead links for Wayback
+  URLs; it is not the general apply step.)
+- `broken_category` B and D (per the process doc) are surfaced as
+  `needs-human`/`live`, not auto-decided — this is by design; they require the
+  subjective review.
+
+**Known deferred item (out of scope here):** `check_url` computes its
+`redirect_domain_changed` flag with `.lstrip("www.")`, which strips a leading
+character *set* (any of `w`/`.`), not the `www.` prefix. `classify` does NOT
+consume that column — it recomputes `redirect_kind` via `removeprefix("www.")`
+— so the master sheet is unaffected. Fix `check_url` if that column is ever
+used directly.
+
+**Bare-URL capture note:** `extract` now also captures written-out URLs (not
+just `[text](url)` / `<a>`), tagged `link_kind=bare_url`. This raised the
+inventory from ~4,549 to 5,913 refs. A partial/interrupted `check` leaves some
+rows with an empty `http_status`; `classify` labels those `needs-human` and
+prints a coverage warning — run a full `check` before relying on the sheet.

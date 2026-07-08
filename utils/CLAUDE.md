@@ -157,3 +157,11 @@ head -20 content/blog/some-file-12345.md
 - `conversion.log` - Detailed conversion output with row counts and processing stats
 - `CONVERSION_SUMMARY.md` - Human-readable summary of conversion results and next steps
 - Both regenerated on each conversion run
+
+## Related tool: external link checker
+
+Besides the one-time Drupal conversion, `utils/` also holds `link_checker.py` —
+an external-link audit/triage pipeline for the Hugo site (`extract` → `check` →
+`recheck` → `wayback` → `classify`), producing `link_review_master.csv`/`.xlsx`.
+It is unrelated to the conversion. See the repo-root `CLAUDE.md` ("External Link
+Checker") and `docs/superpowers/specs/2026-07-07-link-review-triage-design.md`.

@@ -16,6 +16,28 @@ Action items and known issues for the TeachingHistory.org Hugo rebuild.
 - [ ] **Audit History Content topic/time period data.** The History Content subsection list pages have Topic and Time Period dropdown filters, but content doesn't have structured frontmatter for these — the dropdowns filter against combined title + summary + keywords text. Consider adding structured `topic` and `time_period` fields to content if more precise filtering is needed.
 - [ ] **Review `keywords` field formatting.** Some history-content pages have `keywords` as a string, others as an array. The template handles both, but normalizing to one format would be cleaner.
 
+## Link Review & Cleanup
+
+The automated triage (Steps 1 & 1.5 of `utils/Link Check & Review Process.md`)
+is done. `utils/link_checker.py` produces `utils/link_review_master.xlsx` /
+`.csv` — 5,913 external links classified by broken-ness (`broken_category`),
+bulk-delete bucket (`bucket`, `bulk_delete_candidate`), `confidence`, and a
+suggested action. Full design + handoff: `docs/superpowers/specs/2026-07-07-link-review-triage-design.md`.
+
+- [ ] **Team review + sign-off on the sheet.** Add a `decision` column
+  (Remove / Salvage-Wayback / Salvage-New-Link / Keep). Start with
+  `bulk_delete_candidate = TRUE` (929 links: booksellers, bibliography,
+  captions), then `broken_category = A` with a Wayback snapshot (1,800 dead
+  links are archived), then `C-candidate` (500 moved sites). No content changes
+  until the sheet is approved.
+- [ ] **Build the sheet-driven `apply` step.** No command yet acts on approved
+  decisions (unlink text / replace with Wayback or new URL). Must be dry-run
+  first and never mutate content without approval. See the design doc's
+  "Status & Handoff" section.
+- [ ] **Subjective review (Steps 2–4).** `needs-human` (42) and
+  `blocked-unknown` (655) rows, plus salvage-vs-remove calls, need human
+  judgment per the process guide.
+
 ## Design & Layout
 
 - [ ] **Responsive / mobile design.** Desktop layouts are implemented but no mobile breakpoints exist. Confirm with design team and implement.
@@ -29,4 +51,4 @@ Action items and known issues for the TeachingHistory.org Hugo rebuild.
 
 ---
 
-*Last updated: 2026-03-18*
+*Last updated: 2026-07-07*
