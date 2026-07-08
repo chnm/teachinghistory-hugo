@@ -284,8 +284,8 @@ def check_url(url: str, session: requests.Session, user_agent: str = USER_AGENT)
         result["final_url"] = resp.url
 
         # Check if redirect changed domain
-        orig_domain = urlparse(url).netloc.lower().lstrip("www.")
-        final_domain = urlparse(resp.url).netloc.lower().lstrip("www.")
+        orig_domain = urlparse(url).netloc.lower().removeprefix("www.")
+        final_domain = urlparse(resp.url).netloc.lower().removeprefix("www.")
         if orig_domain != final_domain:
             result["redirect_domain_changed"] = True
 

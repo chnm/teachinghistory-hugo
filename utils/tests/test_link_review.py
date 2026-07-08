@@ -85,6 +85,36 @@ def test_check_url_uses_supplied_user_agent():
     assert session.last_headers["User-Agent"] == lc.BROWSER_UA
 
 
+class _RedirectStubResp:
+    def __init__(self, final_url):
+        self.status_code = 200
+        self.url = final_url
+        self.headers = {"content-type": "text/html"}
+        self.text = "<title>Fine</title>"
+
+
+class _RedirectStubSession:
+    def __init__(self, final_url):
+        self._final_url = final_url
+
+    def get(self, url, timeout, allow_redirects, headers):
+        return _RedirectStubResp(self._final_url)
+
+
+def test_check_url_redirect_domain_change_detection():
+    # A genuine domain change is flagged. Regression guard for the old
+    # `.lstrip("www.")` bug: lstrip strips a char SET, so "web.com" -> "eb.com",
+    # which made web.com -> eb.com look like the SAME domain. removeprefix fixes it.
+    session = _RedirectStubSession("http://eb.com/page")
+    result = lc.check_url("http://web.com/page", session)
+    assert result["redirect_domain_changed"] is True
+
+    # www normalization on the same host is NOT a domain change.
+    session = _RedirectStubSession("http://example.org/")
+    result = lc.check_url("http://www.example.org/", session)
+    assert result["redirect_domain_changed"] is False
+
+
 def test_classify_redirect():
     assert lc.classify_redirect("http://x.org/a", "https://x.org/a") == "benign"
     assert lc.classify_redirect("http://x.org/a", "http://www.x.org/a/") == "benign"
