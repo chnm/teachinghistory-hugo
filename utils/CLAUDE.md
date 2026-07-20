@@ -162,6 +162,7 @@ head -20 content/blog/some-file-12345.md
 
 Besides the one-time Drupal conversion, `utils/` also holds `link_checker.py` —
 an external-link audit/triage pipeline for the Hugo site (`extract` → `check` →
-`recheck` → `wayback` → `classify`), producing `link_review_master.csv`/`.xlsx`.
+`recheck` → `wayback` → `classify` → `pages`), producing `link_review_master.csv`/`.xlsx`
+and `link_review_pages.csv`/`.xlsx`.
 It is unrelated to the conversion. See the repo-root `CLAUDE.md` ("External Link
 Checker") and `docs/superpowers/specs/2026-07-07-link-review-triage-design.md`.
