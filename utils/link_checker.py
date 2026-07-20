@@ -743,6 +743,39 @@ def classify_redirect(orig_url: str, final_url: str) -> str:
     return "substantive"
 
 
+HOMEPAGE_PATHS = {"", "index.html", "index.htm", "index.php", "home", "default.aspx"}
+
+HISTORY_VOCAB = [
+    "history", "historical", "primary source", "museum", "archive",
+    "education", "teaching", "teacher", "library", "heritage",
+    "humanities", "smithsonian", "social studies", "civics", "k-12",
+    "learning", "lesson", "curriculum", "university", ".edu", ".gov",
+]
+
+
+def is_homepage_url(url: str) -> bool:
+    """True when the URL points at a site root (trivial path, no query)."""
+    parsed = urlparse(url)
+    if parsed.query:
+        return False
+    return parsed.path.strip("/").lower() in HOMEPAGE_PATHS
+
+
+def history_site_signal(remote_title: str, final_url: str) -> list[str]:
+    """History/education vocabulary matched in the page title or final URL."""
+    haystack = f"{remote_title or ''} {final_url or ''}".lower()
+    return [word for word in HISTORY_VOCAB if word in haystack]
+
+
+def rebrand_verdict(final_url: str, remote_title: str) -> str:
+    """Triage a C-candidate: homepage redirect beats any history signal."""
+    if is_homepage_url(final_url):
+        return "probably-broken"
+    if history_site_signal(remote_title, final_url):
+        return "probably-fine"
+    return "needs-human"
+
+
 def is_bookseller(url: str) -> bool:
     host = _host(url)
     return any(token in host for token in BOOKSELLER_DOMAINS)

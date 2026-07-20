@@ -168,3 +168,40 @@ def test_write_master_xlsx(tmp_path):
     assert [c.value for c in ws[1]] == lc.MASTER_FIELDNAMES
     assert ws.freeze_panes == "A2"
     assert ws.auto_filter.ref is not None
+
+
+def test_is_homepage_url():
+    assert lc.is_homepage_url("https://rrchnm.org") is True
+    assert lc.is_homepage_url("https://rrchnm.org/") is True
+    assert lc.is_homepage_url("https://example.org/index.html") is True
+    assert lc.is_homepage_url("https://example.org/HOME/") is True
+    assert lc.is_homepage_url("https://example.org/default.aspx") is True
+    # Real paths and query strings are NOT homepages:
+    assert lc.is_homepage_url("https://www.thirteen.org/wnet/historyofus/web07/segment2b.html") is False
+    assert lc.is_homepage_url("https://example.org/?page_id=12") is False
+    assert lc.is_homepage_url("https://www.c-span.org:443/series/?americanWriters") is False
+
+
+def test_history_site_signal():
+    # Title hit:
+    assert "history" in lc.history_site_signal("A History of US", "https://x.com/a")
+    # URL-only hit (row with no captured title):
+    assert ".edu" in lc.history_site_signal("", "https://chnm.gmu.edu/page")
+    # No hit:
+    assert lc.history_site_signal("Casino online", "https://vn88.com/x") == []
+    # Multiple hits all reported (sheet shows WHY something matched):
+    hits = lc.history_site_signal("Museum of Education", "https://x.org/history/")
+    assert set(hits) >= {"museum", "education", "history"}
+
+
+def test_rebrand_verdict():
+    # Homepage wins even when the title screams history (content gone, site survives):
+    assert lc.rebrand_verdict("https://rrchnm.org", "Center for History and New Media") == "probably-broken"
+    # Deep link + history signal:
+    assert lc.rebrand_verdict(
+        "https://www.thirteen.org/wnet/historyofus/web07.html",
+        "Freedom: A History of US") == "probably-fine"
+    # Deep link, no signal anywhere:
+    assert lc.rebrand_verdict("https://vn88.com/casino", "Casino online") == "needs-human"
+    # Missing title still matches on URL text:
+    assert lc.rebrand_verdict("https://chnm.gmu.edu/loudountah/x", "") == "probably-fine"
