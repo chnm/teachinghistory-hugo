@@ -222,3 +222,73 @@ def test_suggested_action_rebrand_verdicts():
     # Bucket still wins over any verdict:
     assert lc.suggested_action("C-candidate", "bookseller", "",
                                rebrand_verdict="probably-fine") == "bulk-unlink"
+
+
+def _mk_link(source_file="history-content/website-reviews/foo-123.md",
+             section="history-content", category="live", verdict="",
+             wayback="", bulk=False):
+    return {
+        "section": section, "page_title": "Foo", "page_url": "/x/123",
+        "source_file": source_file, "broken_category": category,
+        "rebrand_verdict": verdict, "wayback_status": wayback,
+        "bulk_delete_candidate": str(bulk),
+    }
+
+
+def test_subsection_of():
+    assert lc.subsection_of("history-content/website-reviews/foo-1.md") == "website-reviews"
+    assert lc.subsection_of("blog/a-post-2.md") == ""
+
+
+def test_suggested_page_action():
+    # Link-centric page with an un-archived broken link → delete candidate:
+    assert lc.suggested_page_action("website-reviews", broken=1, broken_no_wayback=1) == "delete-page-candidate"
+    # Link-centric, every broken link archived → salvage:
+    assert lc.suggested_page_action("national-resources", broken=2, broken_no_wayback=0) == "salvage-wayback"
+    # Link-centric but nothing broken → just fix links:
+    assert lc.suggested_page_action("website-reviews", broken=0, broken_no_wayback=0) == "fix-links-only"
+    # Content-centric sections never get delete suggestions:
+    assert lc.suggested_page_action("teaching-guides", broken=5, broken_no_wayback=5) == "fix-links-only"
+
+
+def test_aggregate_pages_counts_and_filtering():
+    rows = [
+        # Page 1: website review — one dead link without wayback, one live:
+        _mk_link(category="A", wayback="not_archived"),
+        _mk_link(category="live"),
+        # Page 2: all live → excluded from the sheet:
+        _mk_link(source_file="blog/fine-1.md", section="blog", category="live"),
+        # Page 3: teaching guide — probably-broken rebrand that HAS a snapshot:
+        _mk_link(source_file="teaching-materials/teaching-guides/g-9.md",
+                 section="teaching-materials", category="C-candidate",
+                 verdict="probably-broken", wayback="found", bulk=True),
+    ]
+    pages = {p["source_file"]: p for p in lc.aggregate_pages(rows)}
+
+    assert "blog/fine-1.md" not in pages  # all-live pages excluded
+
+    review = pages["history-content/website-reviews/foo-123.md"]
+    assert review["subsection"] == "website-reviews"
+    assert review["total_links"] == 2
+    assert review["live"] == 1
+    assert review["dead_A"] == 1
+    assert review["broken_no_wayback"] == 1
+    assert review["suggested_page_action"] == "delete-page-candidate"
+
+    guide = pages["teaching-materials/teaching-guides/g-9.md"]
+    assert guide["rebrand_probably_broken"] == 1
+    assert guide["broken_with_wayback"] == 1
+    assert guide["bulk_delete_candidates"] == 1
+    assert guide["suggested_page_action"] == "fix-links-only"
+
+
+def test_write_review_xlsx_generic(tmp_path):
+    import openpyxl
+    fieldnames = ["a", "b"]
+    out = tmp_path / "pages.xlsx"
+    lc.write_review_xlsx([{"a": 1, "b": "x"}], out, fieldnames, "page_review", {"a": 20})
+    wb = openpyxl.load_workbook(out)
+    ws = wb.active
+    assert ws.title == "page_review"
+    assert [c.value for c in ws[1]] == fieldnames
+    assert ws.freeze_panes == "A2"

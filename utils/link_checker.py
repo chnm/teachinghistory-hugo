@@ -844,30 +844,107 @@ MASTER_FIELDNAMES = [
 ]
 
 
-def write_master_xlsx(rows: list[dict], path: Path) -> None:
-    """Write the master sheet as .xlsx with a frozen header and autofilter."""
+def write_review_xlsx(rows: list[dict], path: Path, fieldnames: list[str],
+                      sheet_title: str, widths: dict[str, int]) -> None:
+    """Write a review sheet as .xlsx with a frozen header and autofilter."""
     from openpyxl import Workbook
     from openpyxl.styles import Font
 
     wb = Workbook()
     ws = wb.active
-    ws.title = "link_review"
-    ws.append(MASTER_FIELDNAMES)
+    ws.title = sheet_title
+    ws.append(fieldnames)
     for cell in ws[1]:
         cell.font = Font(bold=True)
     for row in rows:
-        ws.append([row.get(col, "") for col in MASTER_FIELDNAMES])
+        ws.append([row.get(col, "") for col in fieldnames])
 
     ws.freeze_panes = "A2"
-    ws.auto_filter.ref = f"A1:{ws.cell(row=1, column=len(MASTER_FIELDNAMES)).column_letter}{ws.max_row}"
-
-    widths = {"page_title": 40, "source_file": 40, "link_url": 50,
-              "link_text": 30, "final_url": 40, "remote_title": 30,
-              "history_signal": 30}
-    for i, col in enumerate(MASTER_FIELDNAMES, 1):
+    ws.auto_filter.ref = f"A1:{ws.cell(row=1, column=len(fieldnames)).column_letter}{ws.max_row}"
+    for i, col in enumerate(fieldnames, 1):
         ws.column_dimensions[ws.cell(row=1, column=i).column_letter].width = widths.get(col, 16)
-
     wb.save(path)
+
+
+MASTER_XLSX_WIDTHS = {"page_title": 40, "source_file": 40, "link_url": 50,
+                      "link_text": 30, "final_url": 40, "remote_title": 30,
+                      "history_signal": 30}
+
+
+def write_master_xlsx(rows: list[dict], path: Path) -> None:
+    write_review_xlsx(rows, path, MASTER_FIELDNAMES, "link_review", MASTER_XLSX_WIDTHS)
+
+
+LINK_CENTRIC_SUBSECTIONS = {"website-reviews", "national-resources"}
+
+PAGES_FIELDNAMES = [
+    "section", "subsection", "page_title", "page_url", "source_file",
+    "total_links", "live", "dead_A",
+    "rebrand_probably_broken", "rebrand_probably_fine", "rebrand_needs_human",
+    "soft404_B", "blocked_unknown", "needs_human", "bulk_delete_candidates",
+    "broken_with_wayback", "broken_no_wayback",
+    "suggested_page_action",
+]
+
+
+def subsection_of(source_file: str) -> str:
+    """Second path segment (section/subsection/file.md), or '' when flat."""
+    parts = Path(source_file).parts
+    return parts[1] if len(parts) > 2 else ""
+
+
+def suggested_page_action(subsection: str, broken: int, broken_no_wayback: int) -> str:
+    """Advisory page-level verdict. 'Broken' = dead_A + rebrand_probably_broken."""
+    if subsection in LINK_CENTRIC_SUBSECTIONS:
+        if broken_no_wayback >= 1:
+            return "delete-page-candidate"
+        if broken >= 1:
+            return "salvage-wayback"
+    return "fix-links-only"
+
+
+def aggregate_pages(rows: list[dict]) -> list[dict]:
+    """One row per page with >=1 non-live link. Accepts CSV rows (str values)."""
+    by_page: dict[str, list[dict]] = {}
+    for r in rows:
+        by_page.setdefault(r["source_file"], []).append(r)
+
+    out = []
+    for source_file, links in sorted(by_page.items()):
+        cats = collections.Counter(r["broken_category"] for r in links)
+        if cats.get("live", 0) == len(links):
+            continue
+        verdicts = collections.Counter(
+            r.get("rebrand_verdict", "") for r in links if r.get("rebrand_verdict"))
+        broken = [r for r in links
+                  if r["broken_category"] == "A"
+                  or r.get("rebrand_verdict") == "probably-broken"]
+        with_wayback = sum(1 for r in broken if r.get("wayback_status") == "found")
+        subsection = subsection_of(source_file)
+        first = links[0]
+        out.append({
+            "section": first["section"],
+            "subsection": subsection,
+            "page_title": first["page_title"],
+            "page_url": first["page_url"],
+            "source_file": source_file,
+            "total_links": len(links),
+            "live": cats.get("live", 0),
+            "dead_A": cats.get("A", 0),
+            "rebrand_probably_broken": verdicts.get("probably-broken", 0),
+            "rebrand_probably_fine": verdicts.get("probably-fine", 0),
+            "rebrand_needs_human": verdicts.get("needs-human", 0),
+            "soft404_B": cats.get("B?", 0),
+            "blocked_unknown": cats.get("blocked-unknown", 0),
+            "needs_human": cats.get("needs-human", 0),
+            "bulk_delete_candidates": sum(
+                1 for r in links if str(r.get("bulk_delete_candidate")) == "True"),
+            "broken_with_wayback": with_wayback,
+            "broken_no_wayback": len(broken) - with_wayback,
+            "suggested_page_action": suggested_page_action(
+                subsection, len(broken), len(broken) - with_wayback),
+        })
+    return out
 
 
 def _load_csv(path: Path) -> list[dict]:
