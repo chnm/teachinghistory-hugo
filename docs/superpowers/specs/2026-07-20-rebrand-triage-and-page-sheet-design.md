@@ -1,7 +1,7 @@
 # Rebrand Triage Refinement & Page-Level Sheet — Design
 
 **Date:** 2026-07-20
-**Status:** Approved design
+**Status:** Implemented
 **Scope:** Team-feedback follow-up to the link review triage (see
 `2026-07-07-link-review-triage-design.md`); responds to `feedback.md`
 **Related:** `utils/link_checker.py`, `utils/link_review_master.csv`,
@@ -155,3 +155,13 @@ Then verify against real data:
 ## Status & handoff
 
 Design approved 2026-07-20. Next: implementation plan via writing-plans.
+
+Implemented on `fix/dead-links` (2026-07-20): rebrand triage columns
+(`final_is_homepage`, `history_signal`, `rebrand_verdict`) are in
+`link_review_master.csv`/`.xlsx`, and the `pages` subcommand produces
+`utils/link_review_pages.csv`/`.xlsx`. Real-data run confirms the prototype
+counts: 147 probably-broken / 293 probably-fine / 60 needs-human across the
+500 C-candidates, and 1,206 pages with ≥1 non-live link, split
+691 fix-links-only / 286 salvage-wayback / 229 delete-page-candidate. The
+`apply` step (link-level or page-level) remains deferred pending the team's
+`decision` column.

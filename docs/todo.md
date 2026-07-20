@@ -22,9 +22,19 @@ The automated triage (Steps 1 & 1.5 of `utils/Link Check & Review Process.md`)
 is done. `utils/link_checker.py` produces `utils/link_review_master.xlsx` /
 `.csv` — 5,913 external links classified by broken-ness (`broken_category`),
 bulk-delete bucket (`bucket`, `bulk_delete_candidate`), `confidence`, and a
-suggested action. Full design + handoff: `docs/superpowers/specs/2026-07-07-link-review-triage-design.md`.
+suggested action. The 500 `C-candidate` (moved-site) links are further split
+by `rebrand_verdict`: 147 probably-broken / 293 probably-fine / 60
+needs-human, using `final_is_homepage` and `history_signal` as supporting
+columns. A `pages` subcommand aggregates the master sheet into
+`utils/link_review_pages.xlsx` / `.csv` — one row per page with a
+`suggested_page_action` (delete-page-candidate / salvage-wayback /
+fix-links-only) for bulk page-level decisions. Full design + handoff:
+`docs/superpowers/specs/2026-07-07-link-review-triage-design.md` and
+`docs/superpowers/specs/2026-07-20-rebrand-triage-and-page-sheet-design.md`.
 
-- [ ] **Team review + sign-off on the sheet.** Add a `decision` column
+- [ ] **Team review + sign-off on the sheet.** Start from
+  `link_review_pages.xlsx` for page-delete calls (`suggested_page_action`),
+  and the master sheet for link-level calls. Add a `decision` column
   (Remove / Salvage-Wayback / Salvage-New-Link / Keep). Start with
   `bulk_delete_candidate = TRUE` (929 links: booksellers, bibliography,
   captions), then `broken_category = A` with a Wayback snapshot (1,800 dead
@@ -51,4 +61,4 @@ suggested action. Full design + handoff: `docs/superpowers/specs/2026-07-07-link
 
 ---
 
-*Last updated: 2026-07-07*
+*Last updated: 2026-07-20*

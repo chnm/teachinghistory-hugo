@@ -32,9 +32,10 @@ uv run utils/link_checker.py check --resume   # Check HTTP status of each URL
 uv run utils/link_checker.py recheck          # Re-verify 403s with a browser user-agent
 uv run utils/link_checker.py wayback --resume # Look up Wayback snapshots for dead links
 uv run utils/link_checker.py classify         # Build the master review sheet (CSV + XLSX)
+uv run utils/link_checker.py pages            # Aggregate master sheet into a per-page review sheet
 ```
 
-Outputs CSVs in `utils/`: `link_inventory.csv`, `link_results.csv`, `link_wayback.csv`, `link_review_master.csv`. The `classify` step also writes `link_review_master.xlsx` (frozen header row + autofilter) — the human-friendly sheet for manual triage.
+Outputs CSVs in `utils/`: `link_inventory.csv`, `link_results.csv`, `link_wayback.csv`, `link_review_master.csv`, `link_review_pages.csv`. The `classify` step also writes `link_review_master.xlsx` (frozen header row + autofilter) — the human-friendly sheet for manual triage. The `pages` step writes `link_review_pages.xlsx` the same way, for bulk page-level (delete/salvage/keep) decisions.
 
 ## Architecture
 

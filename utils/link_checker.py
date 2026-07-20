@@ -22,6 +22,7 @@ Usage:
     uv run utils/link_checker.py replace              # Dry run: show what would be replaced
     uv run utils/link_checker.py replace --apply      # Actually replace dead links with Wayback URLs
     uv run utils/link_checker.py classify             # Join inventory+results+wayback into master review sheet
+    uv run utils/link_checker.py pages                # Aggregate master sheet into per-page review sheet
 """
 
 import argparse
@@ -722,6 +723,9 @@ def run_replace(dry_run: bool = True):
 
 MASTER_CSV = OUTPUT_DIR / "link_review_master.csv"
 MASTER_XLSX = OUTPUT_DIR / "link_review_master.xlsx"
+PAGES_CSV = OUTPUT_DIR / "link_review_pages.csv"
+PAGES_XLSX = OUTPUT_DIR / "link_review_pages.xlsx"
+PAGES_XLSX_WIDTHS = {"page_title": 40, "source_file": 50, "page_url": 30}
 
 BOOKSELLER_DOMAINS = {
     "amazon.", "barnesandnoble.", "bn.com", "abebooks.",
@@ -1043,6 +1047,32 @@ def run_classify():
               f"Filter http_status == '' in the sheet to find them.")
 
 
+def run_pages():
+    """Aggregate the master sheet into one row per page with problem links."""
+    rows = _load_csv(MASTER_CSV)
+    if not rows:
+        print(f"No master sheet at {MASTER_CSV}. Run 'classify' first.")
+        sys.exit(1)
+    if "rebrand_verdict" not in rows[0]:
+        print(f"{MASTER_CSV} predates the rebrand-verdict columns. Re-run 'classify' first.")
+        sys.exit(1)
+
+    pages = aggregate_pages(rows)
+
+    with open(PAGES_CSV, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=PAGES_FIELDNAMES, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(pages)
+    print(f"Wrote {PAGES_CSV} ({len(pages)} pages with problem links).")
+
+    write_review_xlsx(pages, PAGES_XLSX, PAGES_FIELDNAMES, "page_review", PAGES_XLSX_WIDTHS)
+    print(f"Wrote {PAGES_XLSX}")
+
+    actions = collections.Counter(p["suggested_page_action"] for p in pages)
+    for action, n in actions.most_common():
+        print(f"  {action}: {n}")
+
+
 # --- CLI ---
 
 def main():
@@ -1066,6 +1096,7 @@ def main():
     replace_parser.add_argument("--apply", action="store_true", help="Actually modify files (default is dry run)")
 
     sub.add_parser("classify", help="Join inventory + results + wayback into the master review sheet")
+    sub.add_parser("pages", help="Aggregate master sheet into one row per page (run classify first)")
 
     args = parser.parse_args()
     if args.command == "extract":
@@ -1080,6 +1111,8 @@ def main():
         run_replace(dry_run=not args.apply)
     elif args.command == "classify":
         run_classify()
+    elif args.command == "pages":
+        run_pages()
     else:
         parser.print_help()
 
