@@ -205,3 +205,20 @@ def test_rebrand_verdict():
     assert lc.rebrand_verdict("https://vn88.com/casino", "Casino online") == "needs-human"
     # Missing title still matches on URL text:
     assert lc.rebrand_verdict("https://chnm.gmu.edu/loudountah/x", "") == "probably-fine"
+
+
+def test_suggested_action_rebrand_verdicts():
+    # probably-fine → mechanical repoint at the final URL:
+    assert lc.suggested_action("C-candidate", "none", "",
+                               rebrand_verdict="probably-fine") == "update-to-final-url"
+    # probably-broken → wayback if archived, else remove/replace:
+    assert lc.suggested_action("C-candidate", "none", "found",
+                               rebrand_verdict="probably-broken") == "salvage-wayback"
+    assert lc.suggested_action("C-candidate", "none", "not_archived",
+                               rebrand_verdict="probably-broken") == "remove-or-replace"
+    # needs-human keeps the old behavior:
+    assert lc.suggested_action("C-candidate", "none", "",
+                               rebrand_verdict="needs-human") == "needs-subjective-review"
+    # Bucket still wins over any verdict:
+    assert lc.suggested_action("C-candidate", "bookseller", "",
+                               rebrand_verdict="probably-fine") == "bulk-unlink"

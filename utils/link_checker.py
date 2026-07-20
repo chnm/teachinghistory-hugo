@@ -815,12 +815,19 @@ def confidence_for(category: str, bucket: str) -> str:
     return "low"
 
 
-def suggested_action(category: str, bucket: str, wayback_status: str) -> str:
+def suggested_action(category: str, bucket: str, wayback_status: str,
+                     rebrand_verdict: str = "") -> str:
     if bucket != "none":
         return "bulk-unlink"
+    if category == "C-candidate":
+        if rebrand_verdict == "probably-fine":
+            return "update-to-final-url"
+        if rebrand_verdict == "probably-broken":
+            return "salvage-wayback" if wayback_status == "found" else "remove-or-replace"
+        return "needs-subjective-review"
     if category == "A" and wayback_status == "found":
         return "salvage-wayback"
-    if category in ("A", "C-candidate", "B?", "blocked-unknown"):
+    if category in ("A", "B?", "blocked-unknown"):
         return "needs-subjective-review"
     return "ok"
 
@@ -833,6 +840,7 @@ MASTER_FIELDNAMES = [
     "broken_category", "bucket", "bulk_delete_candidate",
     "confidence", "suggested_action",
     "wayback_url", "wayback_status",
+    "final_is_homepage", "history_signal", "rebrand_verdict",
 ]
 
 
@@ -854,7 +862,8 @@ def write_master_xlsx(rows: list[dict], path: Path) -> None:
     ws.auto_filter.ref = f"A1:{ws.cell(row=1, column=len(MASTER_FIELDNAMES)).column_letter}{ws.max_row}"
 
     widths = {"page_title": 40, "source_file": 40, "link_url": 50,
-              "link_text": 30, "final_url": 40, "remote_title": 30}
+              "link_text": 30, "final_url": 40, "remote_title": 30,
+              "history_signal": 30}
     for i, col in enumerate(MASTER_FIELDNAMES, 1):
         ws.column_dimensions[ws.cell(row=1, column=i).column_letter].width = widths.get(col, 16)
 
@@ -895,6 +904,13 @@ def run_classify():
         category = broken_category(http_status, redirect_kind, remote_title)
         wb_status = wb.get("wayback_status", "")
 
+        if category == "C-candidate":
+            is_home = is_homepage_url(final_url)
+            signal = history_site_signal(remote_title, final_url)
+            verdict = rebrand_verdict(final_url, remote_title)
+        else:
+            is_home, signal, verdict = "", [], ""
+
         rows.append({
             "section": inv["section"],
             "page_title": inv["page_title"],
@@ -914,9 +930,12 @@ def run_classify():
             "bucket": bucket,
             "bulk_delete_candidate": bucket != "none",
             "confidence": confidence_for(category, bucket),
-            "suggested_action": suggested_action(category, bucket, wb_status),
+            "suggested_action": suggested_action(category, bucket, wb_status, verdict),
             "wayback_url": wb.get("wayback_url", ""),
             "wayback_status": wb_status,
+            "final_is_homepage": is_home,
+            "history_signal": "; ".join(signal),
+            "rebrand_verdict": verdict,
         })
 
     with open(MASTER_CSV, "w", newline="", encoding="utf-8") as f:
@@ -930,6 +949,12 @@ def run_classify():
     cats = collections.Counter(r["broken_category"] for r in rows)
     for cat, n in cats.most_common():
         print(f"  {cat}: {n}")
+
+    verdicts = collections.Counter(r["rebrand_verdict"] for r in rows if r["rebrand_verdict"])
+    if verdicts:
+        print("Rebrand verdicts (C-candidate):")
+        for v, n in verdicts.most_common():
+            print(f"  {v}: {n}")
 
     write_master_xlsx(rows, MASTER_XLSX)
     print(f"Wrote {MASTER_XLSX}")
