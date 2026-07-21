@@ -165,3 +165,12 @@ counts: 147 probably-broken / 293 probably-fine / 60 needs-human across the
 691 fix-links-only / 286 salvage-wayback / 229 delete-page-candidate. The
 `apply` step (link-level or page-level) remains deferred pending the team's
 `decision` column.
+
+Follow-up (same day): the final review found the `wayback` stage never looked
+up C-candidate URLs (they return 200, and selection was dead-statuses only),
+leaving most probably-broken rows without snapshot data. Fixed in `47ea1e5c` /
+`7eaac7bb`: wayback now covers cross-host redirects and retries errored rows.
+With full coverage the page split is 691 fix-links-only / 346 salvage-wayback /
+169 delete-page-candidate — every delete candidate now rests on a confirmed
+"not archived" — and 102 of the 147 probably-broken links gained a
+`salvage-wayback` action. Verdict counts were unchanged.
