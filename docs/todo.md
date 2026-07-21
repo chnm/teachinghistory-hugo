@@ -50,6 +50,34 @@ fix-links-only) for bulk page-level decisions. Full design + handoff:
   `blocked-unknown` (655) rows, plus salvage-vs-remove calls, need human
   judgment per the process guide.
 
+## Cleanup (eventually — after link review wraps and migration is final)
+
+Nothing here is urgent; do not delete anything while the link review is in
+flight. Listed so we don't lose track:
+
+- [ ] **Remove orphaned link-checker CSVs from git.** `utils/link_review.csv`,
+  `utils/link_review_priority.csv`, and `utils/link_review_manual.csv` are
+  outputs of an earlier checker iteration; the current pipeline produces only
+  `link_inventory` / `link_results` / `link_wayback` / `link_review_master` /
+  `link_review_pages`. Confirm nothing references them, then `git rm`.
+- [ ] **Drop `utils/content/` from git.** 9,604 tracked files (~55 MB) of raw
+  one-time Drupal conversion output, superseded by
+  `teachinghistory-website/content/`. Remove once the site content is
+  considered final (history stays in git if we ever need it).
+- [ ] **Delete untracked local conversion artifacts.** `utils/content-new/`
+  (~56 MB), `utils/th_db.sql` (873 MB, gitignored), `utils/conversion.log` —
+  local-only; safe to delete from disk whenever the conversion is truly done.
+- [ ] **Archive or remove one-time conversion scripts.** `drupal_to_hugo.py`,
+  `extract_duration.py`, `extract_grade_levels.py`, `fetch_images.py`,
+  `fix_btc_transcripts.py`, `merge_btt_pairs.py`, `merge_content.py`,
+  `reprocess_content.py` (plus `CONVERSION_SUMMARY.md` / `DEVNOTES.md` and the
+  conversion sections of `utils/CLAUDE.md`). Post-launch, either delete or move
+  to a `utils/conversion/` subfolder so `utils/` is just the link tooling.
+- [ ] **Retire intermediate link-checker CSVs post-apply.** Once the team's
+  decisions are applied and verified, `link_inventory` / `link_results` /
+  `link_wayback` are reproducible intermediates; keep only the master/pages
+  sheets (with decisions) as the record, or archive the lot outside the repo.
+
 ## Design & Layout
 
 - [ ] **Responsive / mobile design.** Desktop layouts are implemented but no mobile breakpoints exist. Confirm with design team and implement.
@@ -63,4 +91,4 @@ fix-links-only) for bulk page-level decisions. Full design + handoff:
 
 ---
 
-*Last updated: 2026-07-20*
+*Last updated: 2026-07-21*

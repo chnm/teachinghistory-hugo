@@ -1,5 +1,14 @@
 # Link Check & Review Process
 
+> **Tooling status (2026-07-21):** Steps 1 and 1.5 below are now automated by
+> `utils/link_checker.py` (see the repo-root `CLAUDE.md`, "External Link
+> Checker"). The deliverables for team review are `utils/link_review_master.xlsx`
+> (one row per link, incl. auto-triaged "Rebranded"/C-candidate verdicts) and
+> `utils/link_review_pages.xlsx` (one row per page, for bulk delete/salvage
+> calls). Record decisions in each sheet's `decision` dropdown column — nothing
+> touches content until the sheets are approved and a (future) apply step runs.
+> Steps 2–4 remain human judgment, informed by the sheets.
+
 # Step 1: Fix Link Checker
 
 Best case scenario, the process of finding broken links is able to be automated. If not, it can be done by a human or a combination of human/automation.

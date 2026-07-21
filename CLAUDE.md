@@ -35,7 +35,7 @@ uv run utils/link_checker.py classify         # Build the master review sheet (C
 uv run utils/link_checker.py pages            # Aggregate master sheet into a per-page review sheet
 ```
 
-Outputs CSVs in `utils/`: `link_inventory.csv`, `link_results.csv`, `link_wayback.csv`, `link_review_master.csv`, `link_review_pages.csv`. The `classify` step also writes `link_review_master.xlsx` (frozen header row + autofilter) — the human-friendly sheet for manual triage. The `pages` step writes `link_review_pages.xlsx` the same way, for bulk page-level (delete/salvage/keep) decisions.
+Outputs CSVs in `utils/`: `link_inventory.csv`, `link_results.csv`, `link_wayback.csv`, `link_review_master.csv`, `link_review_pages.csv`. The `classify` step also writes `link_review_master.xlsx` (frozen header row + autofilter) — the human-friendly sheet for manual triage. The `pages` step writes `link_review_pages.xlsx` the same way, for bulk page-level (delete/salvage/keep) decisions. Both xlsx sheets end with a blank `decision` dropdown column where the team records their calls; the CSVs never contain decisions.
 
 ## Architecture
 
