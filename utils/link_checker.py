@@ -867,22 +867,40 @@ MASTER_FIELDNAMES = [
 
 
 def write_review_xlsx(rows: list[dict], path: Path, fieldnames: list[str],
-                      sheet_title: str, widths: dict[str, int]) -> None:
-    """Write a review sheet as .xlsx with a frozen header and autofilter."""
+                      sheet_title: str, widths: dict[str, int],
+                      decision_options: list[str] | None = None) -> None:
+    """Write a review sheet as .xlsx with a frozen header and autofilter.
+
+    decision_options adds a blank `decision` column with a dropdown so the
+    team can record their call on each row.
+    """
     from openpyxl import Workbook
     from openpyxl.styles import Font
+    from openpyxl.worksheet.datavalidation import DataValidation
 
     wb = Workbook()
     ws = wb.active
     ws.title = sheet_title
     ws.append(fieldnames)
-    for cell in ws[1]:
-        cell.font = Font(bold=True)
     for row in rows:
         ws.append([row.get(col, "") for col in fieldnames])
 
+    n_cols = len(fieldnames)
+    if decision_options:
+        n_cols += 1
+        letter = ws.cell(row=1, column=n_cols).column_letter
+        ws.cell(row=1, column=n_cols, value="decision")
+        dv = DataValidation(type="list",
+                            formula1='"' + ",".join(decision_options) + '"',
+                            allow_blank=True)
+        dv.add(f"{letter}2:{letter}{max(ws.max_row, 2)}")
+        ws.add_data_validation(dv)
+        ws.column_dimensions[letter].width = 22
+
+    for cell in ws[1]:
+        cell.font = Font(bold=True)
     ws.freeze_panes = "A2"
-    ws.auto_filter.ref = f"A1:{ws.cell(row=1, column=len(fieldnames)).column_letter}{ws.max_row}"
+    ws.auto_filter.ref = f"A1:{ws.cell(row=1, column=n_cols).column_letter}{ws.max_row}"
     for i, col in enumerate(fieldnames, 1):
         ws.column_dimensions[ws.cell(row=1, column=i).column_letter].width = widths.get(col, 16)
     wb.save(path)
@@ -892,9 +910,15 @@ MASTER_XLSX_WIDTHS = {"page_title": 40, "source_file": 40, "link_url": 50,
                       "link_text": 30, "final_url": 40, "remote_title": 30,
                       "history_signal": 30}
 
+# Dropdown choices for the team's decision column (per link / per page).
+LINK_DECISIONS = ["remove", "update-to-final-url", "salvage-wayback",
+                  "salvage-new-link", "keep"]
+PAGE_DECISIONS = ["delete-page", "salvage-wayback", "fix-links", "keep"]
+
 
 def write_master_xlsx(rows: list[dict], path: Path) -> None:
-    write_review_xlsx(rows, path, MASTER_FIELDNAMES, "link_review", MASTER_XLSX_WIDTHS)
+    write_review_xlsx(rows, path, MASTER_FIELDNAMES, "link_review", MASTER_XLSX_WIDTHS,
+                      decision_options=LINK_DECISIONS)
 
 
 LINK_CENTRIC_SUBSECTIONS = {"website-reviews", "national-resources"}
@@ -1083,7 +1107,8 @@ def run_pages():
         writer.writerows(pages)
     print(f"Wrote {PAGES_CSV} ({len(pages)} pages with problem links).")
 
-    write_review_xlsx(pages, PAGES_XLSX, PAGES_FIELDNAMES, "page_review", PAGES_XLSX_WIDTHS)
+    write_review_xlsx(pages, PAGES_XLSX, PAGES_FIELDNAMES, "page_review", PAGES_XLSX_WIDTHS,
+                      decision_options=PAGE_DECISIONS)
     print(f"Wrote {PAGES_XLSX}")
 
     actions = collections.Counter(p["suggested_page_action"] for p in pages)

@@ -240,7 +240,7 @@ def test_write_master_xlsx(tmp_path):
     assert out.exists()
     wb = openpyxl.load_workbook(out)
     ws = wb.active
-    assert [c.value for c in ws[1]] == lc.MASTER_FIELDNAMES
+    assert [c.value for c in ws[1]] == lc.MASTER_FIELDNAMES + ["decision"]
     assert ws.freeze_panes == "A2"
     assert ws.auto_filter.ref is not None
 
@@ -367,3 +367,21 @@ def test_write_review_xlsx_generic(tmp_path):
     assert ws.title == "page_review"
     assert [c.value for c in ws[1]] == fieldnames
     assert ws.freeze_panes == "A2"
+
+
+def test_write_review_xlsx_decision_dropdown(tmp_path):
+    import openpyxl
+    out = tmp_path / "sheet.xlsx"
+    lc.write_review_xlsx([{"a": 1}], out, ["a"], "s", {},
+                         decision_options=["remove", "keep"])
+    ws = openpyxl.load_workbook(out).active
+    # Decision header appended after the data columns, bold like the rest:
+    assert ws.cell(row=1, column=2).value == "decision"
+    assert ws.cell(row=1, column=2).font.bold
+    # One list validation covering the decision column's data rows:
+    dvs = ws.data_validations.dataValidation
+    assert len(dvs) == 1
+    assert dvs[0].formula1 == '"remove,keep"'
+    assert str(dvs[0].sqref) == "B2"  # openpyxl collapses the single-cell range
+    # Autofilter extends over the decision column:
+    assert ws.auto_filter.ref == "A1:B2"

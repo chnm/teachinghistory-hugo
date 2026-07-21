@@ -34,8 +34,10 @@ fix-links-only) for bulk page-level decisions. Full design + handoff:
 
 - [ ] **Team review + sign-off on the sheet.** Start from
   `link_review_pages.xlsx` for page-delete calls (`suggested_page_action`),
-  and the master sheet for link-level calls. Add a `decision` column
-  (Remove / Salvage-Wayback / Salvage-New-Link / Keep). Start with
+  and the master sheet for link-level calls. Both xlsx files have a `decision`
+  dropdown column: pages sheet (delete-page / salvage-wayback / fix-links /
+  keep), master sheet (remove / update-to-final-url / salvage-wayback /
+  salvage-new-link / keep). Start with
   `bulk_delete_candidate = TRUE` (929 links: booksellers, bibliography,
   captions), then `broken_category = A` with a Wayback snapshot (1,800 dead
   links are archived), then `C-candidate` (500 moved sites). No content changes
