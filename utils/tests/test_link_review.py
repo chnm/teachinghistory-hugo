@@ -122,6 +122,81 @@ def test_classify_redirect():
     assert lc.classify_redirect("http://x.org/a", "") == "none"
 
 
+def test_needs_wayback_lookup():
+    # Dead statuses always qualify:
+    assert lc.needs_wayback_lookup(
+        {"link_url": "http://x.org/a", "http_status": "404", "final_url": ""}) is True
+    # 200 with a substantive cross-host redirect (the C-candidate population):
+    assert lc.needs_wayback_lookup(
+        {"link_url": "http://x.org/a", "http_status": "200",
+         "final_url": "https://other.com/z"}) is True
+    # Same-host redirect is benign — no lookup:
+    assert lc.needs_wayback_lookup(
+        {"link_url": "http://x.org/a", "http_status": "200",
+         "final_url": "https://www.x.org/a/"}) is False
+    # Plain live link, no redirect:
+    assert lc.needs_wayback_lookup(
+        {"link_url": "http://x.org/a", "http_status": "200",
+         "final_url": "http://x.org/a"}) is False
+    # Never-checked row:
+    assert lc.needs_wayback_lookup(
+        {"link_url": "http://x.org/a", "http_status": "", "final_url": ""}) is False
+
+
+def test_is_wayback_status_final():
+    assert lc.is_wayback_status_final("found") is True
+    assert lc.is_wayback_status_final("not_archived") is True
+    # Blanks and transient failures get retried on --resume:
+    assert lc.is_wayback_status_final("") is False
+    assert lc.is_wayback_status_final("api_error_429") is False
+    assert lc.is_wayback_status_final("api_error_503") is False
+    assert lc.is_wayback_status_final(
+        "error: HTTPSConnectionPool(host='archive.org', port=443): Read timed out.") is False
+
+
+class _WaybackStubResp:
+    def __init__(self, status_code, payload=None):
+        self.status_code = status_code
+        self._payload = payload or {}
+
+    def json(self):
+        return self._payload
+
+
+class _RateLimitedThenOkSession:
+    """First call returns 429, second returns a found snapshot."""
+    def __init__(self):
+        self.calls = 0
+
+    def get(self, url, params, timeout, headers):
+        self.calls += 1
+        if self.calls == 1:
+            return _WaybackStubResp(429)
+        return _WaybackStubResp(200, {"archived_snapshots": {"closest": {
+            "available": True, "url": "http://web.archive.org/web/1/x", "timestamp": "1"}}})
+
+
+def test_lookup_wayback_retries_on_429(monkeypatch):
+    sleeps = []
+    monkeypatch.setattr(lc.time, "sleep", sleeps.append)
+    session = _RateLimitedThenOkSession()
+    result = lc.lookup_wayback("http://x.org/a", session)
+    assert session.calls == 2
+    assert result["wayback_status"] == "found"
+    assert sleeps  # backed off before retrying
+
+
+def test_lookup_wayback_gives_up_after_retries(monkeypatch):
+    monkeypatch.setattr(lc.time, "sleep", lambda s: None)
+
+    class _Always429:
+        def get(self, url, params, timeout, headers):
+            return _WaybackStubResp(429)
+
+    result = lc.lookup_wayback("http://x.org/a", _Always429())
+    assert result["wayback_status"] == "api_error_429"
+
+
 def test_is_bookseller_and_bucket_priority():
     assert lc.is_bookseller("https://www.amazon.com/dp/123") is True
     assert lc.is_bookseller("https://books.google.com/books?id=1") is True

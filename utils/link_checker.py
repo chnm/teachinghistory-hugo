@@ -487,39 +487,65 @@ DEAD_STATUSES = {
 }
 
 
+WAYBACK_429_BACKOFF = 60  # seconds to wait before retrying a rate-limited lookup
+WAYBACK_429_RETRIES = 2
+
+
 def lookup_wayback(url: str, session: requests.Session) -> dict:
     """Query the Wayback Machine Availability API for a snapshot."""
     result = {"wayback_url": "", "wayback_timestamp": "", "wayback_status": ""}
-    try:
-        resp = session.get(
-            WAYBACK_API,
-            params={"url": url},
-            timeout=REQUEST_TIMEOUT,
-            headers={"User-Agent": USER_AGENT},
-        )
-        if resp.status_code == 200:
-            data = resp.json()
-            snapshot = data.get("archived_snapshots", {}).get("closest", {})
-            if snapshot and snapshot.get("available"):
-                result["wayback_url"] = snapshot.get("url", "")
-                result["wayback_timestamp"] = snapshot.get("timestamp", "")
-                result["wayback_status"] = "found"
+    for attempt in range(WAYBACK_429_RETRIES + 1):
+        try:
+            resp = session.get(
+                WAYBACK_API,
+                params={"url": url},
+                timeout=REQUEST_TIMEOUT,
+                headers={"User-Agent": USER_AGENT},
+            )
+            if resp.status_code == 429 and attempt < WAYBACK_429_RETRIES:
+                time.sleep(WAYBACK_429_BACKOFF)
+                continue
+            if resp.status_code == 200:
+                data = resp.json()
+                snapshot = data.get("archived_snapshots", {}).get("closest", {})
+                if snapshot and snapshot.get("available"):
+                    result["wayback_url"] = snapshot.get("url", "")
+                    result["wayback_timestamp"] = snapshot.get("timestamp", "")
+                    result["wayback_status"] = "found"
+                else:
+                    result["wayback_status"] = "not_archived"
             else:
-                result["wayback_status"] = "not_archived"
-        else:
-            result["wayback_status"] = f"api_error_{resp.status_code}"
-    except requests.exceptions.RequestException as e:
-        result["wayback_status"] = f"error: {str(e)[:100]}"
+                result["wayback_status"] = f"api_error_{resp.status_code}"
+        except requests.exceptions.RequestException as e:
+            result["wayback_status"] = f"error: {str(e)[:100]}"
+        break
     return result
 
 
+def needs_wayback_lookup(result_row: dict) -> bool:
+    """A results row worth a Wayback lookup: dead, or a cross-host redirect
+    (the C-candidate population, whose original URL may still be archived)."""
+    if result_row.get("http_status", "") in DEAD_STATUSES:
+        return True
+    return classify_redirect(
+        result_row.get("link_url", ""), result_row.get("final_url", "")) == "substantive"
+
+
+def is_wayback_status_final(status: str) -> bool:
+    """Statuses --resume keeps; blanks and transient failures get retried."""
+    if not status:
+        return False
+    return not (status.startswith("api_error") or status.startswith("error:"))
+
+
 def run_wayback(resume: bool = False, limit: int | None = None):
-    """Look up Wayback Machine snapshots for dead links.
+    """Look up Wayback Machine snapshots for dead and rebrand-suspect links.
 
     Processes two sources of URLs:
-    1. Dead URLs from link_results.csv (based on DEAD_STATUSES)
-    2. Any URLs already in link_wayback.csv that lack a wayback_status
-       (e.g. manually added flagged 200s)
+    1. URLs from link_results.csv that are dead (DEAD_STATUSES) or redirect
+       cross-host (the C-candidate population) — see needs_wayback_lookup
+    2. Any URLs already in link_wayback.csv without a final wayback_status
+       (blank, api_error_*, or error: rows get looked up again)
     """
     if not RESULTS_CSV.exists():
         print(f"No results found at {RESULTS_CSV}. Run 'check' first.")
@@ -529,19 +555,17 @@ def run_wayback(resume: bool = False, limit: int | None = None):
     with open(RESULTS_CSV, encoding="utf-8") as f:
         results = list(csv.DictReader(f))
 
-    # Get unique dead URLs from results
-    target_urls = {
-        r["link_url"] for r in results
-        if r.get("http_status", "") in DEAD_STATUSES
-    }
+    # Get unique dead/cross-host-redirect URLs from results
+    target_urls = {r["link_url"] for r in results if needs_wayback_lookup(r)}
 
-    # Also include any URLs in the wayback CSV that don't have a status yet
+    # Also include any URLs in the wayback CSV without a final status yet
+    # (e.g. manually added flagged 200s, or earlier rate-limited lookups)
     wayback_rows = []
     if WAYBACK_CSV.exists():
         with open(WAYBACK_CSV, encoding="utf-8") as f:
             wayback_rows = list(csv.DictReader(f))
         for row in wayback_rows:
-            if not row.get("wayback_status", ""):
+            if not is_wayback_status_final(row.get("wayback_status", "")):
                 target_urls.add(row["link_url"])
 
     target_urls = sorted(target_urls)
@@ -551,7 +575,7 @@ def run_wayback(resume: bool = False, limit: int | None = None):
     checked = {}
     if resume:
         for row in wayback_rows:
-            if row.get("wayback_status", ""):
+            if is_wayback_status_final(row.get("wayback_status", "")):
                 checked[row["link_url"]] = row
         print(f"Resuming: {len(checked)} URLs already looked up.")
 
@@ -577,12 +601,6 @@ def run_wayback(resume: bool = False, limit: int | None = None):
             "wayback_status": row.get("wayback_status", ""),
         }
 
-    # Build results-based rows (dead links from results CSV)
-    results_urls = {
-        r["link_url"] for r in results
-        if r.get("http_status", "") in DEAD_STATUSES
-    }
-
     fieldnames = [
         "section", "page_title", "page_url", "source_file",
         "link_url", "link_text",
@@ -593,9 +611,9 @@ def run_wayback(resume: bool = False, limit: int | None = None):
     output_rows = []
     seen_keys = set()
 
-    # First: rows from results CSV with dead statuses
+    # First: rows from results CSV needing lookups (dead or cross-host redirect)
     for r in results:
-        if r.get("http_status", "") not in DEAD_STATUSES:
+        if not needs_wayback_lookup(r):
             continue
         url = r["link_url"]
         key = (r["source_file"], url)
@@ -617,7 +635,7 @@ def run_wayback(resume: bool = False, limit: int | None = None):
             "wayback_status": wb.get("wayback_status", ""),
         })
 
-    # Second: rows from existing wayback CSV that aren't dead-status
+    # Second: remaining rows from the existing wayback CSV
     # (e.g. flagged 200s added manually)
     for row in wayback_rows:
         key = (row["source_file"], row["link_url"])
