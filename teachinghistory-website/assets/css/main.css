@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ==========================================================================
+   Design Tokens — TeachingHistory.org
+   ========================================================================== */
+
+@layer base {
+  :root {
+    /* Colors */
+    --color-orange: #F26522;
+    --color-orange-tint: #FFFAF8;
+    --color-yellow: #FFC20E;
+    --color-yellow-tint: #FBF9F4;
+    --color-green: #37A99C;
+    --color-green-tint: #F5FBFA;
+    --color-black: #000000;
+    --color-pale-blue: #DCEBF9;
+    --color-pale-blue-tint: #F5FAFF;
+    --color-dark: #1a1a1a;
+    --color-white: #FFFFFF;
+    --color-gray-light: #E5E5E5;
+
+    /* Typography — Font Families */
+    --font-heading: 'Lora', serif;
+    --font-body: 'Roboto Slab', serif;
+
+    /* Typography — Scale */
+    --text-xs: 0.75rem;
+    --text-sm: 0.875rem;
+    --text-base: 1rem;
+    --text-lg: 1.125rem;
+    --text-xl: 1.25rem;
+    --text-2xl: 1.5rem;
+    --text-3xl: 1.875rem;
+    --text-4xl: 2.25rem;
+  }
+
+  /* Global resets & defaults */
+  html {
+    font-family: var(--font-body);
+    font-size: var(--text-base);
+    color: var(--color-black);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+
+  article h2 {
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+
+  p {
+    margin-bottom: 1em;
+  }
+
+  ul, ol {
+    margin-bottom: 1em;
+    padding-left: 1.5em;
+  }
+
+  ul {
+    list-style-type: disc;
+  }
+
+  ol {
+    list-style-type: decimal;
+  }
+
+  li + li {
+    margin-top: 0.25em;
+  }
+
+  /* Body content links — visible but not distracting */
+  .font-body a:not([class]),
+  article a:not([class]),
+  dialog a:not([class]) {
+    color: var(--color-orange);
+    text-decoration: underline;
+    text-decoration-color: var(--color-orange-tint);
+    text-underline-offset: 2px;
+    transition: text-decoration-color 0.15s;
+  }
+
+  .font-body a:not([class]):hover,
+  article a:not([class]):hover,
+  dialog a:not([class]):hover {
+    text-decoration-color: var(--color-orange);
+  }
+
+  blockquote {
+    border-left: 4px solid var(--color-gray-light);
+    padding-left: 1em;
+    color: var(--color-dark);
+    font-style: italic;
+  }
+
+  /* Pull quotes — emphasized callout excerpts */
+  .pull-quote {
+    border-left-width: 4px;
+    padding: 1rem 1.25rem;
+    margin: 1.5rem 0;
+    font-family: var(--font-heading);
+    font-size: var(--text-lg);
+    font-style: italic;
+    line-height: 1.6;
+    background-color: var(--color-pale-blue-tint);
+  }
+  .pull-quote p {
+    margin-bottom: 0;
+  }
+  .pull-quote--orange { border-left-color: var(--color-orange); }
+  .pull-quote--yellow { border-left-color: var(--color-yellow); }
+  .pull-quote--green  { border-left-color: var(--color-green);  }
+  .pull-quote--pale-blue { border-left-color: var(--color-pale-blue); }
+}

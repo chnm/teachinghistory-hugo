@@ -1,0 +1,17 @@
+{{/*
+  pullquote — Styled pull-quote callout for emphasized excerpts.
+
+  Usage:
+    {{< pullquote >}}Quoted text here{{< /pullquote >}}
+
+  Renders as a visually distinct blockquote with left accent border,
+  larger italic text, and section-aware color.
+*/}}
+{{ $color := "orange" }}
+{{ with .Page.CurrentSection }}
+  {{ $color = partial "section-color.html" . }}
+{{ end }}
+
+<blockquote class="pull-quote pull-quote--{{ $color }}">
+  <p>{{ .Inner }}</p>
+</blockquote>

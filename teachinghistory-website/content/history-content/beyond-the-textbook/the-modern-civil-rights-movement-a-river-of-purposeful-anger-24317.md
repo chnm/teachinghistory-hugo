@@ -1,0 +1,185 @@
+---
+title: 'The Modern Civil Rights Movement: A River of Purposeful Anger'
+date: '2010-10-31T10:42:03'
+lastmod: '2017-12-05T08:46:32'
+content_type: beyond_the_textbook
+draft: true
+drupal_nid: 24317
+summary: The modern Civil Rights Movement is often marked as beginning with the 1954
+  U.S. Supreme Court decision banning school segregation or the day in 1955 when Rosa
+  Parks refused to move from a bus seat in Montgomery, AL and ends with the passage
+  of the 1965 Voting Rights Act or with the assassination of Dr. Martin Luther King,
+  Jr. in 1968 (Or, more recently, with the election of President Barack Obama). In
+  some textbooks, the context for this movement are the years following the 1896 U.S.
+  Supreme Court case of Plessy V.
+author_bio: 'The modern Civil Rights Movement is often marked as beginning with the
+  1954 U.S. Supreme Court decision banning school segregation or the day in 1955 when
+  Rosa Parks refused to move from a bus seat in Montgomery, AL and ends with the passage
+  of the 1965 Voting Rights Act or with the assassination of Dr. Martin Luther King,
+  Jr. in 1968 (Or, more recently, with the election of President Barack Obama). In
+  some textbooks, the context for this movement are the years following the 1896 U.S.
+  Supreme Court case of Plessy V. Ferguson in which federal and state laws enforced
+  legal racial segregation, to which the Civil Rights Movement was a response.
+
+  The contemporary “story” of the Civil Rights Movement is that bad things did, indeed,
+  happen to innocent African Americans who merely wanted to live the American dream
+  but that individual racist men were responsible for the violence and Dr. Martin
+  Luther King, Jr., Rosa Parks and the federal government (including individual U.S.
+  presidents) solved the problem.
+
+  Textbook glossaries fail to define racism and the root word "race" (a concept debated
+  by scholars); They define segregation benignly with little reference to the ways
+  in which northern and southern state governments and businesses systematically –
+  and over the course of several decades -- reinforced an ideology of white supremacy
+  through violence. Other groups of people affected by these same laws and practices
+  – including American Indians, Mexican Americans, Asian Americans and Pacific Islanders,
+  Native Hawaiians, Native Alaskans, Jews and Arabs – are seldom included in textbook
+  discussions of racism. These absences strip away the underlying motivation for collective
+  anger and social action.
+
+  With the exception of Booker T. Washington and his pubic debates with W.E.B. Du
+  Bois (who helped create the NAACP in 1909), there is little mention of the countless
+  individuals and organizations in the first half of the 20th century who actively
+  resisted white supremacist ideology and its practices such as lynchings, chain gang
+  labor, sharecropping, the destruction of thriving business communities, and forcing
+  people to leave town by sundown.
+
+  Rather than addressing the outrage of systematically being denied basic human rights
+  by the U.S. Supreme Court, while citizens in a democracy, textbooks suggest that
+  individual African Americans were merely sad or angry because individual white people
+  did not want to fight wars, play baseball, learn, ride public transportation or
+  eat lunch with them. Connections between the fight for racial and economic justice
+  are almost never identified in textbooks, such that the enforced poverty of large
+  groups of people, and their social and political exclusion, are justified by their
+  own personal inadequacies, or solely because of the color of their skin.
+
+  Any efforts to form labor unions or to join with poor whites (such as the Southern
+  Tenant Farmers Union in the 1930s) to gain economic power are overlooked in textbooks.
+  Nor is there mention of anti-racism activism in the decades since the late 1960s,
+  in the face of actions such as the Rodney King beating in California, the MOVE bombing
+  in Philadelphia, the Atlanta child murders, the Bensonhurst and Howard Beach beatings,
+  Bernard Goetz and Amadou Diallo killings in New York City, and the Jasper Byrd dragging
+  in Texas.
+
+  A more accurate telling would address directly the long and continuing river of
+  racial oppression in the United States, and the organized resistance to swim upstream,
+  if not to redirect the river. What is called The Civil Rights Movement might be
+  more accurately called the Modern Civil Rights Movement, or the African American
+  Southern Freedom Movement, to distinguish it from other social movements for citizenship,
+  self-determination, sovereignty, fair treatment, full exercise of the rights articulated
+  in the U.S. Constitution and Universal Declaration of Human Rights, and the freedom
+  to exercise the ensuing responsibilities, such as voting.
+
+  The 1963 March on Washington was the March for Jobs and Freedom, not the “I Have
+  a Dream March.” The leadership of women and youth was essential in gaining important
+  victories such as the Birmingham Children’s March of 1963 and the Voting Rights
+  Act of 1965. The tedious task of organizing thousands of people to change their
+  attitudes, behaviors, votes, and spending habits determined more successful outcomes
+  than did charismatic individuals. Mid-20th century racism came in faces other than
+  the white-sheeted Klan member and the law enforcement officer with attack dogs and
+  fire hoses. The attempt to eliminate legal segregation was only one part of dismantling
+  the continuing vestiges of institutionalized racism, and American culture was partially
+  transformed for the good by these attempts.
+
+  In analyzing textbook accounts of the modern Civil Rights Movement, readers would
+  do well to ask: What were the women and youth doing during this event? What were
+  the connections to other movements, either in the U.S. or in other parts of the
+  world? What form of institutionalized racism was the target of a particular organizing
+  strategy? How did culture (or a clash of cultures) influence the strategy or outcome
+  of an event? What were the visible and invisible organizing steps taken to produce
+  a particular action? Did Dr. King say more than four words and if so, what was he
+  saying? Some answers to these questions might be found in primary sources such as
+  the oral histories of the women activists featured in Hands on the Freedom Plow:
+  Personal Accounts by Women in SNCC, Holsaert, etal. (eds.) (2010), or the CD entitled
+  Dr. King: War peace and poverty, available at http://www.radicalking.com/.
+
+  However, the most important lessons of the modern Civil Rights Movement will not
+  be gained from passively reading textbooks. Examining primary sources will place
+  students closer to the scenes of the modern Civil Rights Movement and its antecedent
+  movements. Some examples of important primary sources are the evidence of sundown
+  towns in northern states, a letter from First Lady Eleanor Roosevelt regarding efforts
+  to create a federal anti-lynching law, documents from the Mississippi Sovereignty
+  Commission and COINTELPRO, and the text of various state and U.S. Supreme Court
+  decisions. More importantly, students will learn more by "doing justice" -- by examining
+  the ways that racial oppression is still alive in their community institutions and
+  acting strategically with one another to create racial, economic, social and political
+  equity.
+
+  Primary sources that complicate the story
+
+  State and U.S. Supreme Court decisions of the late 19th and early 20th centuries
+  demonstrate the ways in which “race” and racism were arbitrarily and socially constructed
+  and institutionalized into law. Examples include: Plessy v. Ferguson, that created
+  the doctrine of “separate but equal” public accommodations; Takao Ozawa v. United
+  States; and U.S. v. Bhagat Singh Thind that arbitrarily defined the “race” of people
+  from what we now call Asia; and, [Roberto Alvarez vs. the Board of Trustees of the
+  Lemon Grove School District](”http://www.sandiegohistory.org/journal/86spring/lemongrove.htm”),
+  the first successful school desegregation court decision in the history of the United
+  States, and involved Mexican American families in San Diego, CA in the 1930s.
+
+  Sundown town signs: In the first half of the 20th century, signs throughout the
+  U.S., particularly in the northern states, were evidence of the concerted effort
+  to keep people of color out of local communities after sundown, even if they were
+  permitted to work or do business in town during the day. These were known as [“sundown
+  towns”](”http://sundown.afro.illinois.edu/sundowntowns.php) and the segregation
+  was often enforced by violence.
+
+  First Lady Eleanor Roosevelt’s secret letter to Walter White, president of the NAACP
+  regarding unsuccessful efforts to create a federal law against mob violence and
+  lynchings in the early part of the 20th century: Despite President Franklin D. Roosevelt’s
+  reputation as a liberal, his influential wife was unable to persuade him to intervene
+  in the [murders](”http://memory.loc.gov/cgi-bin/ampage?collId=mcc&fileName=015/page.db&recNum=0&itemLink=r?ammem/mcc:@field(DOCID+@lit(mcc/015”)
+  of thousands of African Americans and other people of color by racist mobs.
+
+  Documents from secret government spy operations: The Mississippi Sovereignty Commission
+  was a state-funded agency that spied on civil rights activists and infiltrated organizations
+  beginning in 1956. All levels of state government were involved in gathering information
+  on the activities of all people working to secure civil, human, and voting rights
+  for African Americans and poor whites in Mississippi. The Counter Intelligence Program
+  (COINTELPRO) of the U.S. Federal Bureau of Investigation (FBI) also engaged in spying
+  on civil rights organizations and activists, ordering FBI agents to "expose, disrupt,
+  misdirect, discredit, or otherwise neutralize" the activities of these movements
+  and their leaders. http://mdah.state.ms.us/arrec/digital\_archives/sovcom/scagencycasehistory.php
+  http://www.icdc.com/~paulwolf/cointelpro/riotssncc.jpg http://whatreallyhappened.com/RANCHO/POLITICS/COINTELPRO/COINTELPRO-FBI.docs.html
+
+  Photo of the Occupation of Alcatraz Island by the American Indian Movement: this
+  is an example of the 20th century resistance of American Indians to oppression that
+  occurred at the same time as the modern Civil Rights Movement. http://irisjrgens.ifunnyblog.com/aimtakeoverofalcatraz/'
+question: Did individual African American activists spark the Civil Rights Movement?
+url: /history-content/beyond-the-textbook/24317
+splash_image_fid: '7113'
+thumbnail_fid: '731'
+thumbnail: /files/nysarchives.jpg
+splash_image: /files/Dynamics_of_Idealism-_Volunteers_for_Civil_Rights_1965-1982_432x240_1.jpg
+time_periods:
+- Contemporary US, 1968-Present
+- Great Depression & WWII, 1929-1945
+- Postwar US, 1945-Early 1970s
+topics:
+- African Americans
+- Cities & Suburbs
+- Ethnicity
+- Ideas & Ideologies
+- Legal History
+- Midwestern States
+- New England
+- Reform
+- Southern States
+- Western States
+tags:
+- civil rights; slavery; slaves; race; racism; race relations; abolition; abolitionists;
+  abolitionism; African-Americans; propaganda; activism; activists; newspapers; reporting;
+  reportage; media coverage;
+---
+
+## What Textbooks Say
+
+Textbooks are silent about defining race and racism, even though the modern Civil Rights Movement and its antecedent movements were efforts to challenge and eliminate racism. Rather than addressing the outrage of systematically being denied basic human rights by the U.S. Supreme Court, while citizens in a democracy, textbooks suggest that individual African Americans were merely sad or angry because individual white people did not want to fight wars, play baseball, learn, ride public transportation or eat lunch with them.
+
+## What Historians Say
+
+Textbooks define segregation benignly with little reference to the ways in which northern and southern state governments and businesses systematically – and over the course of several decades -- reinforced an ideology of white supremacy through violence. Other groups of people affected by these same laws and practices – including American Indians, Mexican Americans, Asian Americans and Pacific Islanders, Native Hawaiians, Native Alaskans, Jews and Arabs – are seldom included in textbook discussions of racism. These absences strip away the underlying motivation for collective anger and social action.
+
+## What Sources Say
+
+The most important lessons of the modern Civil Rights Movement will not be gained from passively reading textbooks. Examining primary sources will place students closer to the scenes of the modern Civil Rights Movement and its antecedent movements. Too often Dr. King is represented in textbooks as the person who was sent to save African Americans from racism, or the most powerful leader of the modern Civil Rights Movement, or as a political moderate. Instead, he was one of many powerful leaders.

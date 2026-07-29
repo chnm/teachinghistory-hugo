@@ -1,0 +1,48 @@
+{{/*
+  Video player with thumbnail tab selector.
+
+  Usage:
+    {{ partial "video-player.html" (dict "videos" .Params.videos) }}
+
+  Params:
+    - videos: array of {src, thumb, title}
+
+  Uses vanilla JS — no frameworks. First video loads by default.
+  Clicking a thumbnail swaps the video source.
+*/}}
+
+{{ $videos := .videos }}
+{{ if $videos }}
+{{ $id := printf "vp-%s" (delimit (slice (index $videos 0).src) "" | md5) }}
+
+<div class="mb-8">
+  {{/* Video element */}}
+  <video
+    id="{{ $id }}"
+    controls
+    preload="metadata"
+    class="w-full rounded bg-black"
+    src="{{ (index $videos 0).src }}">
+    Your browser does not support the video tag.
+  </video>
+
+  {{/* Thumbnail selector */}}
+  {{ if gt (len $videos) 1 }}
+  <div class="flex gap-3 mt-3 overflow-x-auto">
+    {{ range $i, $v := $videos }}
+    <button
+      type="button"
+      class="shrink-0 text-left group"
+      aria-label="Play: {{ $v.title }}"
+      onclick="document.getElementById('{{ $id }}').src='{{ $v.src }}';document.getElementById('{{ $id }}').play();this.parentElement.querySelectorAll('button').forEach(b=>b.querySelector('img').classList.remove('ring-2','ring-orange'));this.querySelector('img').classList.add('ring-2','ring-orange');">
+      <img
+        src="{{ $v.thumb }}"
+        alt="{{ $v.title }}"
+        class="w-32 h-20 object-cover rounded{{ if eq $i 0 }} ring-2 ring-orange{{ end }}">
+      <span class="block text-xs mt-1 text-dark leading-tight">{{ $v.title }}</span>
+    </button>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

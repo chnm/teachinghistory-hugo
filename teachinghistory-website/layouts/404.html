@@ -1,0 +1,25 @@
+{{ define "main" }}
+<section class="flex-1 flex items-center justify-center bg-pale-blue-tint py-20">
+  <div class="max-w-2xl mx-auto px-6 text-center">
+
+    <span class="inline-block font-heading text-8xl font-bold bg-pale-blue px-8 py-4 rounded-lg mb-6">
+      404
+    </span>
+
+    <h1 class="font-heading text-3xl font-semibold mb-4">Page not found</h1>
+
+    <p class="font-body text-lg text-gray-600 mb-10">
+      The page you're looking for may have been moved or no longer exists.
+    </p>
+
+    <div class="flex flex-col sm:flex-row flex-wrap items-center justify-center gap-3">
+      {{ partial "arrow-button.html" (dict "text" "Home" "href" "/" "color" "black") }}
+      {{ partial "arrow-button.html" (dict "text" "Teaching Materials" "href" "/teaching-materials/" "color" "orange") }}
+      {{ partial "arrow-button.html" (dict "text" "History Content" "href" "/history-content/" "color" "yellow") }}
+      {{ partial "arrow-button.html" (dict "text" "Best Practices" "href" "/best-practices/" "color" "green") }}
+      {{ partial "arrow-button.html" (dict "text" "Digital Classroom" "href" "/digital-classroom/" "color" "black") }}
+    </div>
+
+  </div>
+</section>
+{{ end }}

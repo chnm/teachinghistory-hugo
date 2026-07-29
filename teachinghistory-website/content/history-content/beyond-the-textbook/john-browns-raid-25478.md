@@ -1,0 +1,67 @@
+---
+title: John Brown's Raid
+date: '2012-03-05T13:56:48'
+lastmod: '2018-07-03T10:41:00'
+content_type: beyond_the_textbook_part_2
+draft: false
+drupal_nid: 25478
+url: /history-content/beyond-the-textbook/25478
+question: Did Northerners all respond the same way to Brown's infamous raid? Southerners?
+summary: Did Northerners all respond the same way to Brown's infamous raid? Southerners?
+splash_image: /files/johnbrownsplash.jpg
+splash_image_fid: '8972'
+what_textbooks_say: Textbooks present the response to John Brown’s 1859 raid on Harpers
+  Ferry as polarized according to geographic sections, with Southerners condemning
+  Brown as a dangerous fanatic and many Northerners supporting his bold and violent
+  strike against slavery. That portrayal reaffirms the deep and growing sectional
+  divide and depicts a nation barreling towards secession and war.
+what_historians_say: Historians detect more variation in the responses to Brown’s
+  raid, and more nuance even among Northerners and Southerners. In particular, the
+  raid provoked deep and complicated reactions in the North, ranging from celebration
+  to political censure. Those responses reveal a country deeply divided over the institution
+  of slavery, but far from uniform in thought.
+what_sources_say: As one of the most riveting events of the antebellum era, Brown’s
+  raid precipitated passionate responses in newspapers, sermons, and political speeches.
+  Those sources provide a compelling glimpse into a vast nation’s complicated responses
+  to the captivating moment in time.
+---
+
+## Brown and the Raid
+
+John Brown was active in the abolition movement for decades before the Civil War, and had earned a notorious reputation for his antislavery activities in Kansas during the 1850s. But he is best known to history for his raid on the federal arsenal at Harpers Ferry and his abortive attempt to spark a slave uprising, an event that helped transform the sectional crisis into a full-blown civil war in 1861. In October 1859, Brown and a small band of followers seized the arsenal, intending to distribute the weapons to escaped slaves and thereby fashion a crusading army that would march south and end the institution of slavery once and for all. From the start, however, poor planning plagued Brown’s raid. Though Brown and his men successfully occupied the arsenal, they became paralyzed when slaves failed to rally to them and quickly found themselves surrounded. Within hours, Brown was captured by federal troops and his supporters were either dead or in custody. Brown was tried by the state of Virginia for treason, murder, and conspiring with slaves to rebel. He was hanged that December.
+
+## What the Textbooks Say
+
+Brown’s raid often appears in the narrative of the Civil War as the point of no return—the moment in which the country’s deep divide between free and slave interests polarized with the injection of violence. Textbooks tend to describe the responses to Brown’s raid and trial in binary terms, with Northerners and Southerners displaying unified, and starkly opposite, reactions.
+
+> Brown's raid often appears in the narrative of the Civil War as the point of no return. . . .
+
+*The Americans*, a 2006 textbook, holds that in the North, “bells tolled, guns fired salutes, and huge crowds gathered to hear fiery speakers denounce the South.” The authors paint the Southern reaction with a similarly broad brush: “The response was equally extreme in the South, where mobs assaulted whites who were suspected of holding antislavery views.” Another textbook, *The American Vision*, echoes this one-dimensional portrayal of the responses to the raid. The authors argue that “Many Northerners viewed Brown as a martyr in a noble cause,” citing Henry David Thoreau’s prediction that Brown’s execution “would strengthen abolitionist feeling in the North.” The Southern answer, according to the authors, was similarly united: “For most Southerners, however, Brown’s raid offered all the proof they needed that Northerners were actively plotting the murder of slaveholders. ‘Defend yourselves!’ cried Georgia senator Robert Toombs. ‘The enemy is at your door!’” Daniel Boorstin and Brooks Mather Kelly’s 2005 *A History of the United States* calls Brown’s raid “a wild plan.” Like other accounts, their characterization of the Northern response to the abortive insurrection glosses over the complexity of Northern sentiments. In the North, according to the authors, Brown’s “spirit marched on. Celebrated in song and legend, the impractical John Brown, who had not the force to hold a single arsenal, became a spirit leading thousands to risk their lives against slavery.”
+
+> The response to the attack on Harpers Ferry was more complex than textbooks usually convey.
+
+Boorstin and Kelly go a step further in describing the Southern response, arguing that Southerners connected the raid with party politics in the North: in Northern eyes, Brown’s “rash exploit at Harpers Ferry seemed part of a widespread abolitionist plot, supported by the ‘black’ Republican party, to incite slave rebellion throughout the South.” Indeed, Brown’s raid had a profound effect on the deepening sectional divide between North and South, and it infused the dispute with violence in a new and profound way. However, texts often ignore the complex and multifaceted response to Brown’s raid and the complicated way that it revealed not just divisions between the free and slaveholding sections of the nation, but also the important disagreements within those sections. None of these textbook descriptions is inaccurate, but they are incomplete. While the responses they depict certainly characterize *some* Northerners and *some* Southerners, they overlook a variety of passionate and competing reactions, particularly in the North. It is difficult to capture the richness and variety of responses that Brown’s raid elicited in different parts of the nation in just a few sentences. In a country that numbered nearly 100 million people in 1859, and was composed of many competing economic, social, and political interests, the response to the attack on Harpers Ferry was more complex than textbooks usually convey.
+
+## Northern Reaction
+
+Northern abolitionists, the most militant and vocal champions of the struggle to free enslaved African Americans immediately, might have been expected to uniformly lionize Brown with the aura of a saint. Indeed, many committed abolitionists responded in exactly this way. But even this group of passionate antislavery disciples did not display unified support of the raid. Horace Greeley’s antislavery *New-York Tribune* referred to the “deplorable affair” as “the work of a madman.” To William Lloyd Garrison, publisher of the abolitionist newspaper *The Liberator*, the raid was “misguided, wild, and apparently insane,” though Garrison conceded that in spirit it was a “well intended effort.” Clearly, not every abolitionist concurred with Ralph Waldo Emerson’s grandiose statement that Brown would make “the gallows as glorious as the cross.”
+
+> Not every abolitionist concurred with Ralph Waldo Emerson's grandiose statement that Brown would make “the gallows as glorious as the cross.”
+
+Among more mainstream Northerners, responses to Brown’s raid were even more varied. In cities, many Northern wage laborers found Brown’s vision of a bloody and abrupt end to slavery and the establishment of a racially equal society profoundly threatening. The image of millions of illiterate, unskilled African Americans living amongst them, competing with them for jobs, and driving down wages was not a welcome one for this large constituency in the North. The new Republican Party in the North struggled even more severely with the fallout of Brown’s raid and trial. Members of the party found themselves confronted with a particularly difficult conundrum. Their party’s appeal was almost purely sectional: its uncompromising opposition to the expansion of slavery meant that it received virtually no support in the South. While Brown’s violent attack on the South’s “peculiar institution” might seem on the surface consistent with the most important plank in their political platform, Brown’s decidedly extralegal tactics were wholly inconsistent with the party’s emphasis on lawful challenge to the legitimacy of slavery. Brown’s attempt to incite a violent uprising against white Southerners and his attack upon a federal installation threatened to become a dangerous political liability for the fledgling party. In the North, Republicans’ political opponents in the Democratic Party sought to discredit them by associating Brown’s raid with their antislavery policies. In response, Republican politicians (including Abraham Lincoln, then pursuing the party’s nomination for the presidency) urgently sought to distance themselves from Brown, characterizing his attack on federal property as a dangerous prelude to insurrection. In his speech at Cooper Union just months after Brown’s execution, Lincoln argued that “John Brown was no Republican; and you have failed to implicate a single Republican in his Harpers Ferry enterprise.” A Republican newspaper in the Midwest dismissed the raid as “the attempt of an insane old man and his handful of confederates,” fixing the blame not on Republican policies but on the Democrats’ own support for the extension of slavery past its existing borders.
+
+## Southern Reaction
+
+> To some Southerners, Brown’s behavior was that of an aberrant lunatic.
+
+The Southern response to Brown’s raid was far more homogenous, but it, too, contained some significant variation. White Southerners vilified Brown, almost without exception; his attempt to ignite an armed rebellion of enslaved African Americans played upon some of their deepest and most feverish fears. Even their hatred, however, contained shades of difference. To some Southerners, Brown’s behavior was that of an aberrant lunatic. For most Southerners, however, Brown’s fanatic and violent attack on their “peculiar institution” was all too typical of what they imagined to be unified Northern popular opinion. A handful of Southerners (including Virginia’s governor Henry Wise, who visited Brown in his jail cell while he awaited execution) tempered their disgust for Brown’s means and goals with a grudging respect for Brown’s physical courage, the strength of his convictions, and his steadfast refusal to plead insanity in the hopes of sparing his own life. Even as they despised the cause in which Brown employed these traits, a few Southerners thought that those qualities gave Brown more in common with their Southern ideals of manhood than with the milquetoast, mercenary souls they imagined populated the North.
+
+## Changing Beliefs
+
+Depicting responses to Brown’s raid sharply and strictly according to section also implies a static set of beliefs about slavery and its place in the nation. In fact, those attitudes changed over time, often dramatically. Northern men who flooded recruiting stations in the spring of 1861 went to war primarily to restore Constitutional authority in the rebellious states, not to destroy slavery. The majority of those volunteers had little sympathy for enslaved African Americans and in 1861, most would have refused to join a war presented principally as a crusade against slavery. After several years of war, however, this began to change. Brown’s belief that slavery was a national crime that would only be purged “with Blood” began to appear less the ranting of a madman and more the vision of a prophet. With the issuance of the Emancipation Proclamation, and the growing Northern consensus that the Confederacy could only be defeated through the destruction of slavery, even the rank and file of the Union Army channeled Brown’s abolitionist spirit as they marched into battle to the anthem “John Brown’s Body.”
+
+## Complex Responses
+
+> It is important to remember that when Brown ascended the gallows, the war was still nearly a year and a half away.
+
+Close reading of primary sources from the weeks and months following the raid reveals far more variety in opinion than is usually accounted for in traditional textbook narratives. That version of the story allows for more complex responses to Brown’s raid both between and within the two sections. Interpretations that emphasize only two facets of that response—with Northerners uniformly embracing Brown as a hero, and Southerners condemning him as a dangerous lunatic—emphasize the sectional differences and imply a far higher degree of unity within each section than actually existed. By stressing the differences between the two sections and implying uniformity of opinion within them, that binary portrayal fits comfortably within a narrative in which the Civil War had become all but inevitable by January 1860. It is important to remember that when Brown ascended the gallows, the war was still nearly a year and a half away. Treating the raid as a point of no return discounts the serious attempts to derail the crisis through political negotiation during that period, and threatens to overemphasize Southern unity towards the remedy of secession. Only the states of the Deep South seceded immediately in response to Lincoln’s election. States in the Upper South region, which maintained many connections to the North, maintained their allegiance to the Union for months after November 1860.

@@ -1,0 +1,47 @@
+{{/*
+  Search card fields for History Content subsections.
+  Keyword search + Topic dropdown + Time Period dropdown.
+  Note: Topic and Time Period are placeholder filters — the content
+  doesn't have structured data for these yet. They filter against
+  the combined title + summary + keywords text.
+*/}}
+
+<div class="flex flex-col gap-4">
+  <div>
+    <label for="filter-keyword" class="font-heading text-xs font-bold uppercase tracking-wide text-gray-500 mb-1 block">Keyword</label>
+    <input id="filter-keyword" type="text" placeholder="Search by keyword..."
+           class="w-full border border-gray-light rounded px-3 py-2 text-sm font-body focus:outline-none focus:ring-2 focus:ring-yellow">
+  </div>
+
+  <div>
+    <label for="filter-topic" class="font-heading text-xs font-bold uppercase tracking-wide text-gray-500 mb-1 block">Topic</label>
+    <select id="filter-topic"
+            class="w-full border border-gray-light rounded px-3 py-2 text-sm font-body focus:outline-none focus:ring-2 focus:ring-yellow bg-white">
+      <option value="">All Topics</option>
+      <option value="civil war">Civil War</option>
+      <option value="revolution">American Revolution</option>
+      <option value="civil rights">Civil Rights</option>
+      <option value="colonial">Colonial America</option>
+      <option value="constitution">Constitution</option>
+      <option value="immigration">Immigration</option>
+      <option value="slavery">Slavery</option>
+      <option value="world war">World Wars</option>
+    </select>
+  </div>
+
+  <div>
+    <label for="filter-period" class="font-heading text-xs font-bold uppercase tracking-wide text-gray-500 mb-1 block">Time Period</label>
+    <select id="filter-period"
+            class="w-full border border-gray-light rounded px-3 py-2 text-sm font-body focus:outline-none focus:ring-2 focus:ring-yellow bg-white">
+      <option value="">All Time Periods</option>
+      <option value="colonial">Colonial Era (1600s–1763)</option>
+      <option value="revolution">Revolution & New Nation (1763–1815)</option>
+      <option value="expansion">Expansion & Reform (1815–1860)</option>
+      <option value="civil war">Civil War & Reconstruction (1860–1877)</option>
+      <option value="industrial">Industrial Era (1877–1914)</option>
+      <option value="world war">World Wars (1914–1945)</option>
+      <option value="cold war">Cold War & Postwar (1945–1991)</option>
+      <option value="contemporary">Contemporary (1991–present)</option>
+    </select>
+  </div>
+</div>

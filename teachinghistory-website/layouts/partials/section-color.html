@@ -1,0 +1,22 @@
+{{/*
+  Returns the accent color name for a given section.
+
+  With the nested content structure, .Section returns the top-level
+  parent (e.g., "teaching-materials") even for deeply nested pages.
+
+  Usage:
+    {{ $color := partial "section-color.html" .Section }}
+
+  Returns: "orange", "yellow", "green", or "pale-blue"
+*/}}
+
+{{ $section := . }}
+{{ $color := "pale-blue" }}
+{{ if eq $section "teaching-materials" }}
+  {{ $color = "orange" }}
+{{ else if eq $section "history-content" }}
+  {{ $color = "yellow" }}
+{{ else if eq $section "best-practices" }}
+  {{ $color = "green" }}
+{{ end }}
+{{ return $color }}

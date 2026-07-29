@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{ $color := partial "section-color.html" .Section }}
+{{ partial "page-hero.html" (dict "title" .Title "color" $color) }}
+
+<main class="flex-1">
+  <div class="max-w-5xl mx-auto px-6 py-10">
+    {{ with .Content }}
+      <article class="mb-8">{{ . }}</article>
+    {{ end }}
+
+    <section>
+      {{ range .Pages.ByDate.Reverse }}
+        <article class="border-b border-gray-light pb-4 mb-4">
+          <h2 class="font-heading text-xl mb-1">
+            <a href="{{ .Permalink }}" class="hover:underline">{{ .Title }}</a>
+          </h2>
+          {{ with .Params.date }}
+            <time class="text-xs text-gray-400">{{ dateFormat "January 2, 2006" . }}</time>
+          {{ end }}
+          <p class="text-sm mt-2 text-gray-600 line-clamp-2">
+            {{ with .Params.summary }}{{ . | plainify | truncate 150 }}{{ else }}{{ .Summary | plainify | truncate 150 }}{{ end }}
+          </p>
+        </article>
+      {{ end }}
+    </section>
+  </div>
+</main>
+{{ end }}
