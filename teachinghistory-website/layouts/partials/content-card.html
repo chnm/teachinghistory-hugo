@@ -20,14 +20,16 @@
     </h3>
   </div>
 
-  {{/* Image or placeholder — try splash_image, image, thumbnail */}}
+  {{/* Image or fallback — try splash_image, image, thumbnail */}}
   {{ $img := $page.Params.splash_image | default $page.Params.image | default $page.Params.thumbnail }}
   {{ with $img }}
     <div class="h-[160px] overflow-hidden">
       <img src="{{ . }}" alt="" class="w-full h-full object-cover">
     </div>
   {{ else }}
-    <div class="h-[160px] bg-gray-light"></div>
+    <div class="h-[160px] overflow-hidden">
+      {{ partial "fallback-image.html" (dict "class" "w-full h-full object-cover") }}
+    </div>
   {{ end }}
 
   {{/* Body text */}}

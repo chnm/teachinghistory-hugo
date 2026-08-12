@@ -1,0 +1,21 @@
+{{/*
+  FallbackImage — neutral placeholder used when content has no image.
+
+  Usage:
+    {{ partial "fallback-image.html" (dict
+        "alt"     ""
+        "class"   "w-full h-full object-cover"
+        "loading" "lazy"
+    ) }}
+
+  Params:
+    - alt: optional alternative text (default "")
+    - class: optional Tailwind classes
+    - loading: optional browser loading behavior (default "lazy")
+*/}}
+
+<img src="/images/image-fallback.svg"
+     alt="{{ .alt | default "" }}"
+     class="{{ .class | default "w-full h-full object-cover" }}"
+     loading="{{ .loading | default "lazy" }}"
+     data-fallback-applied="true">

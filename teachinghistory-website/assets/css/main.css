@@ -98,6 +98,63 @@
     font-style: italic;
   }
 
+  /* Markdown tables inside article content */
+  article > .font-body table {
+    width: 100%;
+    margin: 1.5rem 0 2rem;
+    border: 1px solid var(--color-gray-light);
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    font-size: var(--text-sm);
+    line-height: 1.5;
+  }
+
+  article > .font-body thead {
+    background-color: var(--color-pale-blue);
+  }
+
+  article > .font-body th,
+  article > .font-body td {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  article > .font-body th {
+    border-bottom: 2px solid var(--color-black);
+    font-family: var(--font-heading);
+    font-weight: 700;
+  }
+
+  article > .font-body td {
+    border-bottom: 1px solid var(--color-gray-light);
+  }
+
+  article > .font-body th + th,
+  article > .font-body td + td {
+    border-left: 1px solid var(--color-gray-light);
+  }
+
+  article > .font-body tbody tr:nth-child(even) {
+    background-color: var(--color-pale-blue-tint);
+  }
+
+  article > .font-body tbody tr:last-child td {
+    border-bottom: 0;
+  }
+
+  @media (max-width: 640px) {
+    article > .font-body {
+      overflow-x: auto;
+    }
+
+    article > .font-body table {
+      min-width: 42rem;
+    }
+  }
+
   /* Pull quotes — emphasized callout excerpts */
   .pull-quote {
     border-left-width: 4px;

@@ -14,7 +14,7 @@ splash_image_fid: '10220'
 summary: Students learn about the sixteenth president's relationship with Jewish Americans
   and his policy of religious tolerance.
 spotlight: Student explore ideas about religious tolerance during the Civil War
-splash_image: /files/LincolnSplash.jpg
+splash_image: /files/lincolnsplash.jpg
 image: /files/lesson_image/LincolnLetter.jpg
 grade_levels:
 - high
