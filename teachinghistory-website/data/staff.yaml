@@ -30,7 +30,7 @@ groups:
   - name: Web Design and Development
     members:
       - name: Jason A. Heppler
-        role: Senior Developer-Scholar
+        role: Senior Developer/Scholar
         bio: >
           Jason A. Heppler is a historian and senior web developer at the Roy 
           Rosenzweig Center for History and New Media. He specializes in the 
@@ -44,6 +44,9 @@ groups:
           digital history projects. Additionally, he is an Affiliate Fellow 
           at the Center for Great Plains Studies at the University of 
           Nebraska-Lincoln.
+
+      - name: Tony Trinh 
+        role: Systems Administrator
       
       - name: Igor Jovivic
         role: Designer, Big Yellow Taxi
