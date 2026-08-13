@@ -36,6 +36,10 @@ new path:
 check:
     cd {{site}} && hugo --printUnusedTemplates --printPathWarnings
 
+# Reconcile the normalized remediation tracker against current Hugo content
+content-audit:
+    python3 utils/content_remediation_audit.py
+
 # Docker build
 docker-build tag="teachinghistory:latest":
     docker build -t {{tag}} {{site}}
