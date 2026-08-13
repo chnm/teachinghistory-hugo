@@ -27,6 +27,22 @@ time_periods:
 - General
 tags:
 - scaffolding
+attachments:
+- delta: 0
+  title: 'Adapting Documents: Homestead Act.pdf'
+  url: https://teachinghistory.org/sites/default/files/2018-08/adapting_documents-homestead_act.pdf
+  mime_type: application/pdf
+  size: 120249
+- delta: 1
+  title: 'Adapting Documents: Frederick Douglass.pdf'
+  url: https://teachinghistory.org/sites/default/files/2018-08/adapting_documents-frederick_douglass.pdf
+  mime_type: application/pdf
+  size: 122185
+- delta: 2
+  title: 'Adapting Documents: John Smith.pdf'
+  url: https://teachinghistory.org/sites/default/files/2018-08/adapting_documents-john_smith.pdf
+  mime_type: application/pdf
+  size: 98657
 ---
 
 ## What Is It?

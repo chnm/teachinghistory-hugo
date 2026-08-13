@@ -26,6 +26,12 @@ tags:
 - Great Awakening
 - Middle Passage
 - slave trade
+attachments:
+- delta: 0
+  title: Naming Colonial History
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-naming-colonial-history.pdf
+  mime_type: application/pdf
+  size: 71663
 ---
 
 Awakenings, enlightenments, passages, revolutions—historical events and phenomena gain colorful names that say little about what they stand for, when taken out of context. Identify the meanings of the following names, all taken from narratives of English colonial history.

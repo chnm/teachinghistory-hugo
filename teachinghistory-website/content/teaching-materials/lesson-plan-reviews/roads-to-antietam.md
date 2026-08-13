@@ -31,6 +31,11 @@ tags:
 - Battle of Antietam
 - Civil War
 - military
+features:
+- Focus on historical thinking
+- Multiple Sources
+- Scaffolding of close analysis of text
+- Useful for differentiating instruction
 ---
 
 With so many topics to teach and so little time, many teachers find it difficult to cover military history. This [lesson](http://www.civilwar.org/education/teachers/lesson-plans/civil-war-battle-strategy-lesson-plan/the-roads-to-antietam.html) on the Battle of Antietam provides an excellent opportunity to both teach military history and promote historical thinking skills.

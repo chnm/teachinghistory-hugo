@@ -30,16 +30,22 @@ tags:
 videos:
 - src: /files/media/video/Omalley1.mp4
   thumb: /files/media/video/thumbs/Omalley1.jpg
-  title: 'How did you first get interested in this cartoon?'
+  title: How did you first get interested in this cartoon?
 - src: /files/media/video/Omalley2.mp4
   thumb: /files/media/video/thumbs/Omalley2.jpg
-  title: 'How do you begin to understand this cartoon?'
+  title: How do you begin to understand this cartoon?
 - src: /files/media/video/Omalley3.mp4
   thumb: /files/media/video/thumbs/Omalley3.jpg
-  title: 'What would you want a student to ask about this cartoon?'
+  title: What would you want a student to ask about this cartoon?
 - src: /files/media/video/Omalley4.mp4
   thumb: /files/media/video/thumbs/Omalley4.jpg
-  title: 'What do you need to know to make sense of this cartoon?'
+  title: What do you need to know to make sense of this cartoon?
+attachments:
+- delta: 0
+  title: Thomas Nast Cartoon
+  url: https://teachinghistory.org/sites/default/files/2018-08/thomas_nast_cartoon.pdf
+  mime_type: application/pdf
+  size: 162930
 ---
 
 U.S. citizens today are all familiar with "greenbacks," the paper money we use to conduct daily business. We're even comfortable with electronic money! But in the late 19th century, not everyone was ready to accept greenbacks, originally issued during the Civil War, as "real" money.

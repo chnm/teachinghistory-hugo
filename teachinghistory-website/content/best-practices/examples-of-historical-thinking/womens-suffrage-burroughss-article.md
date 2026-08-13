@@ -34,13 +34,19 @@ tags:
 videos:
 - src: /files/media/video/Boisseau3a.mp4
   thumb: /files/media/video/thumbs/Boisseau3a.jpg
-  title: 'Nannie H. Burroughs'
+  title: Nannie H. Burroughs
 - src: /files/media/video/Boisseau3b.mp4
   thumb: /files/media/video/thumbs/Boisseau3b.jpg
-  title: 'The Role of Black Women'
+  title: The Role of Black Women
 - src: /files/media/video/Boisseau3c.mp4
   thumb: /files/media/video/thumbs/Boisseau3c.jpg
-  title: 'Concluding Her Argument'
+  title: Concluding Her Argument
+attachments:
+- delta: 0
+  title: '"Black Women and Reform"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/black_women_and_reform.pdf
+  mime_type: application/pdf
+  size: 84973
 ---
 
 In the struggle for women's suffrage, how did African American women represent themselves? What goals did they have and how did they work to reach those goals? Reading an article published in the August 1915 issue of the NAACP newsletter *The Crisis*, TJ Boisseau finds that activist Nannie Helen Burroughs used several arguments in favor of suffrage for African American women. Burroughs emphasized women's roles as social "housekeepers" and their differences from African American men.

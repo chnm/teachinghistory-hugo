@@ -34,6 +34,12 @@ tags:
 - pets
 - radio
 - telephones
+attachments:
+- delta: 0
+  title: Historical Improbabilities Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-historical-improbabilities.pdf
+  mime_type: application/pdf
+  size: 68049
 ---
 
 You can view history as an inevitable progression of events—or you can see it as a kaleidoscope of strange details and small surprises. Read the following statements and decide if they're true or false.

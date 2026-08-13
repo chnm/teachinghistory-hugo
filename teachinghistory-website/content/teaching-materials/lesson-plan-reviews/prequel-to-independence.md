@@ -21,6 +21,9 @@ grade_levels:
 duration: 1 Class Session (or less)
 time_periods:
 - Revolution & New Nation, 1754-1820s
+features:
+- Multiple Sources
+- Opportunity to analyze causation
 ---
 
 Teaching the events leading up to the Declaration of Independence is routine in many American history classrooms. This [lesson](http://web.archive.org/web/20160508223420/http://docsteach.org:80/activities/7168/detail?) consists of a brief sequencing activity followed by a written assessment and is a good activity to use in conjunction with other activities on this topic. Students view a collection of 10 historical documents representing events leading up to the Declaration of Independence. Each document includes an image of the original document and brief explanatory details. After putting the documents in their proper sequence, students are prompted to write one to three paragraphs describing the sequence of events leading to the publication of the Declaration of Independence, using the documents they have just sequenced as specific examples.

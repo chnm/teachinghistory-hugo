@@ -23,6 +23,17 @@ topics:
 - International Relations
 tags:
 - global history
+attachments:
+- delta: 0
+  title: Resource List for Internationalizing U.S. History
+  url: https://teachinghistory.org/sites/default/files/2018-08/internationalizing_u.s._history_0_0.pdf
+  mime_type: application/pdf
+  size: 162056
+- delta: 1
+  title: Sample Lessons for Internationalizing U.S. History
+  url: https://teachinghistory.org/sites/default/files/2018-08/sample_lessons_0.pdf
+  mime_type: application/pdf
+  size: 186121
 ---
 
 ## What Is It?

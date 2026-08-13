@@ -31,6 +31,22 @@ tags:
 - photographs
 - primary sources
 - visuals
+attachments:
+- delta: 0
+  title: Crop It Tools
+  url: https://teachinghistory.org/sites/default/files/2018-08/crop_it_tools.pdf
+  mime_type: application/pdf
+  size: 22364
+- delta: 1
+  title: Question Sets Handout
+  url: https://teachinghistory.org/sites/default/files/2018-08/question_sets.pdf
+  mime_type: application/pdf
+  size: 84148
+- delta: 2
+  title: Image Set Handout
+  url: https://teachinghistory.org/sites/default/files/2018-08/image_set_for_crop_it_0.pdf
+  mime_type: application/pdf
+  size: 6191865
 ---
 
 ## What is it?

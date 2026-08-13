@@ -32,6 +32,12 @@ tags:
 - music
 - performing arts
 - theatre
+attachments:
+- delta: 0
+  title: Theatre of the People Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-theatre-of-the-people.pdf
+  mime_type: application/pdf
+  size: 72964
 ---
 
 Arriving in the U.S. by choice or against their will, minority groups sought ways to express their uniqueness and maintain a sense of community. How better to come together than as an audience—or as a group of performers? Answer the following questions on multicultural performing arts in the U.S.

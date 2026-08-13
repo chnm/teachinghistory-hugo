@@ -36,13 +36,29 @@ tags:
 videos:
 - src: /files/media/video/Murphy1.mp4
   thumb: /files/media/video/thumbs/Murphy1.jpg
-  title: 'What interests you in these documents?'
+  title: What interests you in these documents?
 - src: /files/media/video/Murphy2.mp4
   thumb: /files/media/video/thumbs/Murphy2.jpg
-  title: 'How do you analyze letters from the past?'
+  title: How do you analyze letters from the past?
 - src: /files/media/video/Murphy3.mp4
   thumb: /files/media/video/thumbs/Murphy3.jpg
-  title: 'What advice would you give to a student reading these?'
+  title: What advice would you give to a student reading these?
+attachments:
+- delta: 0
+  title: Sarah Bagley Letter (January 1, 1846)
+  url: https://teachinghistory.org/sites/default/files/2018-08/sarah_bagley_letter_01_01_1846.pdf
+  mime_type: application/pdf
+  size: 91923
+- delta: 1
+  title: Sarah Bagley Letter (March 13, 1846)
+  url: https://teachinghistory.org/sites/default/files/2018-08/sarah_bagley_letter_03_13_1846.pdf
+  mime_type: application/pdf
+  size: 81296
+- delta: 2
+  title: Sarah Bagley Letter (March 13, 1848)
+  url: https://teachinghistory.org/sites/default/files/2018-08/sarah_bagley_letter_03_13_1848.pdf
+  mime_type: application/pdf
+  size: 88005
 ---
 
 When you write a letter (or an email), what language do you choose? How does it change if you're writing to your parents, a coworker, or a friend? Historian Teresa Murphy considers the choices labor activist Sarah Bagley made in writing letters to reformer Angelique Martin. Was she formal? Familiar? Passionate? What did she choose to tell Martin?

@@ -23,6 +23,12 @@ topics:
 - Reform
 tags:
 - civil rights
+attachments:
+- delta: 0
+  title: Voices in the Whirlwind Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-voices-in-the-whirlwind.pdf
+  mime_type: application/pdf
+  size: 80694
 ---
 
 Great orators have spoken up for civil and human rights in the U.S. since the founding of the country. Match the person to what he or she spoke or wrote.

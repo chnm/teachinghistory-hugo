@@ -25,6 +25,12 @@ tags:
 - foodways
 - propaganda
 - victory gardens
+attachments:
+- delta: 0
+  title: Victory Vegetables Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-victory-vegetables.pdf
+  mime_type: application/pdf
+  size: 72979
 ---
 
 In an effort to raise wartime morale, the U.S. called a National Garden Conference in 1941. Could growing their own food help citizens feel involved in the war effort and less oppressed by rationing? Representatives from garden clubs, trade associations, government agencies, and youth groups from across the country agreed that it could, and Victory Gardens were born. Answer the following questions about the Victory Garden program.

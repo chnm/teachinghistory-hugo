@@ -21,6 +21,12 @@ topics:
 - Popular Culture, Leisure
 tags:
 - games
+attachments:
+- delta: 0
+  title: Playing History Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-playing-history.pdf
+  mime_type: application/pdf
+  size: 75851
 ---
 
 Since the early 19th century, Americans have played games about American settings, governed by American rules. Space by space, children and adults have learned, consciously and unconsciously, about mathematics, economics, ethics, history, politics, and other subjects through these settings and their rules. Answer these questions about board games.

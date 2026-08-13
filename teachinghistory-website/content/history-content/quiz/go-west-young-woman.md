@@ -27,6 +27,12 @@ tags:
 - diaries
 - the West
 - westward expansion
+attachments:
+- delta: 0
+  title: Go West Young Woman Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-go-west-young-woman.pdf
+  mime_type: application/pdf
+  size: 87796
 ---
 
 It’s Women’s History Month, a good time to remember that women, as well as men, settled the West—and recorded their experiences. Answer the following questions on excerpts from the records of 19th-century (and one early 20th-century) women.

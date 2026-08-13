@@ -45,6 +45,12 @@ topics:
 - Gender
 - Ideas & Ideologies
 - Women
+attachments:
+- delta: 0
+  title: Environmental History in the Classroom K-12_0.pdf
+  url: https://teachinghistory.org/sites/default/files/2024-12/Environmental%20History%20in%20the%20Classroom%20K-12_0.pdf
+  mime_type: application/pdf
+  size: 3468036
 ---
 
 ## Introduction: How to Use this Guide

@@ -37,13 +37,19 @@ tags:
 videos:
 - src: /files/media/video/Kennedy1.mp4
   thumb: /files/media/video/thumbs/Kennedy1.jpg
-  title: 'The Document'
+  title: The Document
 - src: /files/media/video/Kennedy2.mp4
   thumb: /files/media/video/thumbs/Kennedy2.jpg
-  title: 'What is FDR doing?'
+  title: What is FDR doing?
 - src: /files/media/video/Kennedy3.mp4
   thumb: /files/media/video/thumbs/Kennedy3.jpg
-  title: 'FDR as Visionary'
+  title: FDR as Visionary
+attachments:
+- delta: 0
+  title: FDR's Second Inaugural Address
+  url: https://teachinghistory.org/sites/default/files/2018-08/fdr_2nd_inaugural.doc
+  mime_type: application/msword
+  size: 55296
 ---
 
 David Kennedy questions Franklin D. Roosevelt's second inaugural address. What, he asks, were FDR's intentions in making his speech? What are the key lines that reveal his intentions? What changes did he make to U.S. politics and society, and were they in keeping with the ideas in this speech?

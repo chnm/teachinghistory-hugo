@@ -21,6 +21,12 @@ topics:
 - Military History
 tags:
 - food rationing
+attachments:
+- delta: 0
+  title: Thanksgiving Dinner in 1943 Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-thanksgiving-1943.pdf
+  mime_type: application/pdf
+  size: 66682
 ---
 
 During World War II, the Office of Price Administration (OPA) instituted rationing, limiting the amount of goods, including food items, that civilians could purchase, affecting daily life and traditions on the homefront. What was it like to plan a holiday meal in 1943?

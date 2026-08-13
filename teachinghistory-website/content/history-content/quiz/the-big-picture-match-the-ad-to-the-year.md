@@ -22,6 +22,12 @@ topics:
 - Popular Culture, Leisure
 tags:
 - advertisements
+attachments:
+- delta: 0
+  title: 'Big Picture: Match the Ad Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-big-picture-ads.pdf
+  mime_type: application/pdf
+  size: 215198
 ---
 
 What people sold—and how they were selling it—can tell you a lot about a society at any given time period. What do ads seem to *want* people to want? What needs or desires do the products sell themselves as fulfilling? Who do ads leave out? Who do they include? Select the year that the following advertisements were published.

@@ -24,6 +24,12 @@ topics:
 - Reform
 tags:
 - kindergarten
+attachments:
+- delta: 0
+  title: The Garden of Infants Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-kindergarten.pdf
+  mime_type: application/pdf
+  size: 76523
 ---
 
 "Kindergarten"—the name gives it away. Advocated by the Prussian education reformer Friedrich Fröbel as an environment in which to nurture children like young plants in a garden, kindergarten came to the U.S. with German immigrants in the late 19th century. The first English-language kindergarten opened in 1860. Answer these questions about the institution.

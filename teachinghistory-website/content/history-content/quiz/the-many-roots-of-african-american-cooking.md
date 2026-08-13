@@ -24,6 +24,12 @@ topics:
 tags:
 - food
 - foodways
+attachments:
+- delta: 0
+  title: The Many Roots of African American Cooking
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-african-american-cooking.pdf
+  mime_type: application/pdf
+  size: 74528
 ---
 
 From the beginning of African American history, African Americans freely combined foodways and ingredients from their African heritage with foods native to Europe and North America. Sometimes, these foodways first met in Africa; sometimes, in the Americas. In each list, check the item that does ***not*** belong.

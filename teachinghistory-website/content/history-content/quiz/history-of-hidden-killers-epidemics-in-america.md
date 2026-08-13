@@ -22,6 +22,12 @@ tags:
 - disease
 - diseases
 - epidemics
+attachments:
+- delta: 0
+  title: 'History of Hidden Killers: Epidemics in America'
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-epidemics.pdf
+  mime_type: application/pdf
+  size: 83160
 ---
 
 Swine flu, avian flu, SARS, MRSA—what do modern-day epidemics bring to mind for you? The Black Plague? Or how about more recent outbreaks, closer to home? Match the descriptions of diseases that have troubled North America with their names. (Each is used once and only once.)

@@ -21,6 +21,12 @@ tags:
 - colonies
 - plantations
 - tobacco
+attachments:
+- delta: 0
+  title: A Culture Productive of Infinite Wretchedness Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-tobacco.pdf
+  mime_type: application/pdf
+  size: 76903
 ---
 
 Thomas Jefferson described the system of growing tobacco that prevailed in Tidewater Virginia and Maryland as "a culture of infinite wretchedness." What do you know about tobacco and the tobacco farming of his time?

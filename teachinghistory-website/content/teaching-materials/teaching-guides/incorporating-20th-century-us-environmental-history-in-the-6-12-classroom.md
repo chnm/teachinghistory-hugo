@@ -63,6 +63,12 @@ tags:
 - environmental history
 - progressive era
 - victory gardens
+attachments:
+- delta: 0
+  title: Environmental History in the Classroom K-12.pdf
+  url: /sites/default/files/2024-12/Environmental%20History%20in%20the%20Classroom%20K-12.pdf
+  mime_type: application/pdf
+  size: 3468036
 ---
 
 ## Introduction: How to Use this Guide

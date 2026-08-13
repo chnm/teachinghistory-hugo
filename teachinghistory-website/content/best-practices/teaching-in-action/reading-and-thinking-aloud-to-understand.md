@@ -32,6 +32,12 @@ tags:
 - Japanese Americans
 - World War II
 - internment camps
+attachments:
+- delta: 0
+  title: Opinions from Korematsu vs. U.S.
+  url: https://teachinghistory.org/sites/default/files/2018-08/opinions_from_korematsu_vs_us.doc
+  mime_type: application/msword
+  size: 118272
 ---
 
 This 11th-grade honors U.S. history class, using [Reading Apprenticeship](http://web.archive.org/web/20130314081306/http://www.wested.org:80/cs/ra/print/docs/ra/home.htm) techniques developed by WestEd, shows students engaged in the process of reading primary source documents as a means of better understanding the internment of Japanese Americans during World War II. The students in this [video](http://web.archive.org/web/20210124023710/https://www.readingapprenticeship.org/video/honors-u-s-history/) are in an honors classroom. The class is in an ethnically, linguistically, and economically diverse school in a high immigrant, rural community. This video provides examples of two promising practices:

@@ -27,6 +27,12 @@ tags:
 - kwakwaka'wakw
 - photographs
 - photography
+attachments:
+- delta: 0
+  title: 'Native American Heritage Month: Questioning Photos Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/questioning_photographs_quiz_0.pdf
+  mime_type: application/pdf
+  size: 98543
 ---
 
 Photographs capture particular moments in time, but don't tell us who designed those moments. Who chose the clothing, poses, and setting? The subject? The photographer? What were those choices meant to represent, and who was the intended audience?

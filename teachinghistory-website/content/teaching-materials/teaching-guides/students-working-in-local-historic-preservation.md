@@ -36,6 +36,17 @@ tags:
 - local history
 - museum studies
 - preservation
+attachments:
+- delta: 0
+  title: Permission Slip for Volunteer Service
+  url: https://teachinghistory.org/sites/default/files/2018-08/permission_slip_for_volunteer_service.pdf
+  mime_type: application/pdf
+  size: 133654
+- delta: 1
+  title: Museum Survey for Students
+  url: https://teachinghistory.org/sites/default/files/2018-08/museum_survey_for_students.pdf
+  mime_type: application/pdf
+  size: 79469
 ---
 
 ## What Is It?

@@ -40,16 +40,27 @@ tags:
 videos:
 - src: /files/media/video/MassRes1.mp4
   thumb: /files/media/video/thumbs/MassRes1.jpg
-  title: 'Cartoons and Newspapers'
+  title: Cartoons and Newspapers
 - src: /files/media/video/MassRes2.mp4
   thumb: /files/media/video/thumbs/MassRes2.jpg
-  title: 'Segregation'
+  title: Segregation
 - src: /files/media/video/MassRes3.mp4
   thumb: /files/media/video/thumbs/MassRes3.jpg
-  title: 'Looking at the Cartoons'
+  title: Looking at the Cartoons
 - src: /files/media/video/MassRes4.mp4
   thumb: /files/media/video/thumbs/MassRes4.jpg
-  title: 'Teaching Massive Resistance'
+  title: Teaching Massive Resistance
+attachments:
+- delta: 0
+  title: 'Massive Resistance Cartoon #1: "Now What?"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/mass-res-cartoon1_0.pdf
+  mime_type: application/pdf
+  size: 53071
+- delta: 1
+  title: 'Massive Resistance Cartoon #2: "Riding Out the Storm"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/mass-res-cartoon2.pdf
+  mime_type: application/pdf
+  size: 156844
 ---
 
 Historian J. Douglas Smith contextualizes and analyzes two political cartoons commenting on Virginia government's reactions to *Brown* vs. *Board of Education* and the call for desegregation.

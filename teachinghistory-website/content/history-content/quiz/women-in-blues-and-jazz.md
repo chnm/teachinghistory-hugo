@@ -27,6 +27,12 @@ tags:
 - music
 - musicians
 - singers
+attachments:
+- delta: 0
+  title: Women in Blues (and Jazz) Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-women-in-jazz.pdf
+  mime_type: application/pdf
+  size: 77758
 ---
 
 As the music recording industry and radio expanded in the early 20th century, allowing individual performers to reach widespread audiences, women found new opportunities. Their work opened doors to other women and, often, to racial and ethnic groups previously ignored by the mainstream. Answer these questions about women in jazz and blues.

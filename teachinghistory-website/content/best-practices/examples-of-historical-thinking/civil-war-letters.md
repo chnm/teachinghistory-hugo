@@ -38,16 +38,32 @@ tags:
 videos:
 - src: /files/media/video/Manning1.mp4
   thumb: /files/media/video/thumbs/Manning1.jpg
-  title: 'Introducing the Letters and a Union Soldier''s Letter'
+  title: Introducing the Letters and a Union Soldier's Letter
 - src: /files/media/video/Manning2.mp4
   thumb: /files/media/video/thumbs/Manning2.jpg
-  title: 'Union and Confederate Soldiers'' Letters'
+  title: Union and Confederate Soldiers' Letters
 - src: /files/media/video/Manning3.mp4
   thumb: /files/media/video/thumbs/Manning3.jpg
-  title: 'A Confederate Soldier''s Letter and a Black Union Soldier''s'
+  title: A Confederate Soldier's Letter and a Black Union Soldier's
 - src: /files/media/video/Manning4.mp4
   thumb: /files/media/video/thumbs/Manning4.jpg
-  title: 'A Black Union Soldier''s Letter'
+  title: A Black Union Soldier's Letter
+attachments:
+- delta: 0
+  title: Jasper Barney's Letter (White Union Soldier) and Transcript
+  url: https://teachinghistory.org/sites/default/files/2018-08/ps-barney-letter-1.pdf
+  mime_type: application/pdf
+  size: 790898
+- delta: 1
+  title: John White's Letter (Confederate Soldier) and Transcript
+  url: https://teachinghistory.org/sites/default/files/2018-08/ps-white-letter-2.pdf
+  mime_type: application/pdf
+  size: 1036365
+- delta: 2
+  title: Macy's Letter (Black Soldier) and Transcript
+  url: https://teachinghistory.org/sites/default/files/2018-08/ps-macy-letter-3.pdf
+  mime_type: application/pdf
+  size: 441144
 ---
 
 Is one primary source sufficient to give a rounded view of a subject? How about three? Professor Chandra Manning analyzes Civil War letters from a white Union soldier, a black Union soldier, and a Confederate soldier, paying particular attention to the different concerns of the soldiers. She concludes that no array of sources can give a complete view of a subject, but that multiple sources allow valuable contrast and comparison.

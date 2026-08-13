@@ -32,16 +32,22 @@ tags:
 videos:
 - src: /files/media/video/csmith1.mp4
   thumb: /files/media/video/thumbs/csmith1.jpg
-  title: 'What questions do you bring to reading a document like this?'
+  title: What questions do you bring to reading a document like this?
 - src: /files/media/video/csmith2.mp4
   thumb: /files/media/video/thumbs/csmith2.jpg
-  title: 'What do you learn by reading this inventory?'
+  title: What do you learn by reading this inventory?
 - src: /files/media/video/csmith3.mp4
   thumb: /files/media/video/thumbs/csmith3.jpg
-  title: 'How do you contextualize material objects in an inventory?'
+  title: How do you contextualize material objects in an inventory?
 - src: /files/media/video/csmith4.mp4
   thumb: /files/media/video/thumbs/csmith4.jpg
-  title: 'Are you curious about anything after reading the inventory?'
+  title: Are you curious about anything after reading the inventory?
+attachments:
+- delta: 0
+  title: 1804 Inventory
+  url: https://teachinghistory.org/sites/default/files/2018-08/1804_inventory.pdf
+  mime_type: application/pdf
+  size: 346903
 ---
 
 An inventory—a list of someone's belongings made at his or her death—can tell you something about a person's life. But what does it leave out? Barbara Clark Smith examines an 1804 inventory, asking what it does and does not record.

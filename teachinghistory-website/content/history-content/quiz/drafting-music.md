@@ -26,6 +26,12 @@ tags:
 - sheet music
 - song
 - songs
+attachments:
+- delta: 0
+  title: Drafting Music Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-civil-war-draft-music.pdf
+  mime_type: application/pdf
+  size: 72758
 ---
 
 The Civil War began on a volunteer basis, but both North and South soon initiated drafts—the South's first in 1862 and the North's in 1863. Contemporary song lyrics commented on the situation, both satirically and seriously. Are the following lyrics from Northern or Southern songs?

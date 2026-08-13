@@ -27,6 +27,12 @@ tags:
 - Constitution Day
 - Founding Fathers
 - constitution
+attachments:
+- delta: 0
+  title: We the People Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-we-the-people.pdf
+  mime_type: application/pdf
+  size: 76210
 ---
 
 September 17, Constitution Day, commemorates the 1787 signing of the Constitution. Ever since its creation, the Constitution has provoked patriotic passion and heated debate. Match the quotes below to the historical figure whose view of the Constitution they reveal.

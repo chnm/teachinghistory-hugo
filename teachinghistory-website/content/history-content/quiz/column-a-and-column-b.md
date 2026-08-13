@@ -24,6 +24,12 @@ tags:
 - Chinese Americans
 - food
 - foodways
+attachments:
+- delta: 0
+  title: Column A and Column B
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-chinese-cuisine.pdf
+  mime_type: application/pdf
+  size: 77243
 ---
 
 Some of the first who ventured to eat Chinese cooking reported back unfavorably—New York journalist Edwin Trafton wrote in *Frank Leslie’s Popular Monthly*, "I feel as though I had eaten a rare-done nightmare," after eating a Chinese meal—but the cuisine soon took off. Answer the following questions.

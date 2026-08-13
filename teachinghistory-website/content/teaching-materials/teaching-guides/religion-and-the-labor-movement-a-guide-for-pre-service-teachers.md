@@ -31,6 +31,12 @@ topics:
 - Women
 tags:
 - labor movement
+attachments:
+- delta: 0
+  title: Source Excerpts and Annotations
+  url: https://teachinghistory.org/sites/default/files/2022-09/SourceExcerptsandAnnotationsLabor.pdf
+  mime_type: application/pdf
+  size: 68003
 ---
 
 **What is it?**

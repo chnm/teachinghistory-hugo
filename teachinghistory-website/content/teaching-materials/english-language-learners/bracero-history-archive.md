@@ -25,6 +25,10 @@ topics:
 - Immigration
 - Latinos
 - Western States
+resources:
+- delta: 0
+  url: http://braceroarchive.org/
+  title: Bracero History Archive
 ---
 
 The [Bracero History Archive](http://braceroarchive.org/)—a collaborative project of George Mason University, the Smithsonian, Brown University, and the University of Texas, El Paso—is an online collection of resources that documents the Bracero program, a guest worker initiative where millions of Mexicans came to work in American agriculture during the mid-20th century.

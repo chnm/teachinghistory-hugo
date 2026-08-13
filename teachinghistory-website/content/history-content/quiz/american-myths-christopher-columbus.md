@@ -23,6 +23,12 @@ tags:
 - Christopher Columbus
 - exploration
 - holidays
+attachments:
+- delta: 0
+  title: 'American Myths: Christopher Columbus Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-american-myths-columbus.pdf
+  mime_type: application/pdf
+  size: 68985
 ---
 
 The story of Christopher Columbus—how much of it *is* story? Throughout the growth of Columbus into a near-mythological figure, additions and subtractions have been made to and from his life, accompanied by shifts in how he is perceived and memorialized. Decide whether these statements about Columbus (and his holiday) are true or false.

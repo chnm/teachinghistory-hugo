@@ -33,16 +33,22 @@ tags:
 videos:
 - src: /files/media/video/Thurston1.mp4
   thumb: /files/media/video/thumbs/Thurston1.jpg
-  title: 'Looking at the Document'
+  title: Looking at the Document
 - src: /files/media/video/Thurston2.mp4
   thumb: /files/media/video/thumbs/Thurston2.jpg
-  title: 'Close Reading'
+  title: Close Reading
 - src: /files/media/video/Thurston3.mp4
   thumb: /files/media/video/thumbs/Thurston3.jpg
-  title: 'Slavery and the Law'
+  title: Slavery and the Law
 - src: /files/media/video/Thurston4.mp4
   thumb: /files/media/video/thumbs/Thurston4.jpg
-  title: 'Historical Context'
+  title: Historical Context
+attachments:
+- delta: 0
+  title: Slave Receipt
+  url: https://teachinghistory.org/sites/default/files/2018-08/slave-receipt.pdf
+  mime_type: application/pdf
+  size: 527863
 ---
 
 Historian Tom Thurston analyzes a slave receipt that records the sale of a female slave named Mary and her child, Louisianna, for $1,000 on September 17, 1853. Thurston models several historical thinking skills, including:

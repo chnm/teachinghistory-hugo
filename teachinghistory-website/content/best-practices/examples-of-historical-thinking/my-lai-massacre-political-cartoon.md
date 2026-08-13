@@ -32,16 +32,22 @@ tags:
 videos:
 - src: /files/media/video/Meredith1.mp4
   thumb: /files/media/video/thumbs/Meredith1.jpg
-  title: 'Introducing the Cartoon'
+  title: Introducing the Cartoon
 - src: /files/media/video/Meredith2.mp4
   thumb: /files/media/video/thumbs/Meredith2.jpg
-  title: 'Introducing the Massacre'
+  title: Introducing the Massacre
 - src: /files/media/video/Meredith3.mp4
   thumb: /files/media/video/thumbs/Meredith3.jpg
-  title: 'Word Spreads'
+  title: Word Spreads
 - src: /files/media/video/Meredith4.mp4
   thumb: /files/media/video/thumbs/Meredith4.jpg
-  title: 'Reacting to the Sources'
+  title: Reacting to the Sources
+attachments:
+- delta: 0
+  title: My Lai Massacre Political Cartoon
+  url: https://teachinghistory.org/sites/default/files/2018-08/my-lai-cartoon.pdf
+  mime_type: application/pdf
+  size: 141518
 ---
 
 Professor Meredith Lair examines a 1971 political cartoon and what it says about U.S. reaction to the My Lai Massacre and the trial of Lt. Willam Calley. She also looks at how important photographs were in proving that the Massacre happened, and at the conflicting information offered by primary sources.

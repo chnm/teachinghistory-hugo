@@ -23,6 +23,12 @@ topics:
 tags:
 - Mother's Day
 - holidays
+attachments:
+- delta: 0
+  title: As American As Mom Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-mothers-day.pdf
+  mime_type: application/pdf
+  size: 76881
 ---
 
 In 1914, President Wilson declared May 9th the first national Mother's Day. Efforts to celebrate mothers on an official holiday began in 1908 and the public responded positively through letters, reports, editorials, and newspaper columns. In this quiz, select the correct answer from the choices.

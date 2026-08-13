@@ -18,9 +18,18 @@ summary: In order to understand topics, you must first understand concepts. Lear
 splash_image: /files/constructionsplash.jpg
 image: /files/constructionimage.jpg
 author_image: /files/author_image/author_parker.jpg
+attachments:
+- delta: 0
+  title: Handout One
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_one.pdf
+  mime_type: application/pdf
+  size: 72716
+- delta: 1
+  title: Handout Two
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_two_0.pdf
+  mime_type: application/pdf
+  size: 71870
 ---
-
-
 
 ## What Is It?
 

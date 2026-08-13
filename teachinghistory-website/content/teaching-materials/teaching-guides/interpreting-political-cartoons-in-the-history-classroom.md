@@ -26,6 +26,22 @@ grade_levels:
 - middle
 tags:
 - political cartoons
+attachments:
+- delta: 0
+  title: Cartoon Analysis Checklist
+  url: https://teachinghistory.org/sites/default/files/2018-08/Cartoon_Analysis_0.pdf
+  mime_type: application/pdf
+  size: 106539
+- delta: 1
+  title: Political Cartoons 1-3
+  url: https://teachinghistory.org/sites/default/files/2018-08/Political_Cartoon_Docs_1-3_1.pdf
+  mime_type: application/pdf
+  size: 348996
+- delta: 2
+  title: Political Cartoon 4-6
+  url: https://teachinghistory.org/sites/default/files/2018-08/Political_Cartoon_Docs_4-6_0.pdf
+  mime_type: application/pdf
+  size: 423191
 ---
 
 ## What Is It?

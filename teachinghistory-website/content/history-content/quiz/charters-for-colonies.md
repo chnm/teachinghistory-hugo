@@ -33,6 +33,12 @@ tags:
 - Roger Williams
 - Virginia
 - charters
+attachments:
+- delta: 0
+  title: Charter for Colonies Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-charters-for-colonies.pdf
+  mime_type: application/pdf
+  size: 75938
 ---
 
 English colonists in North America required charters from the monarchy to legally exist. Charters could be taken away, as well as granted, and varied widely from colony to colony, presenting a record of how a colony and its power structure were envisioned by a charter's drafters. Answer the following questions about colonies and their charters.

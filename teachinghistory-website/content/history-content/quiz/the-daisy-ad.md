@@ -24,6 +24,12 @@ tags:
 - advertisements
 - commercials
 - presidential campaigns
+attachments:
+- delta: 0
+  title: The "Daisy" Ad Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/the_daisy_ad_0.pdf
+  mime_type: application/pdf
+  size: 217228
 ---
 
 During the 1964 presidential campaign, the advertising firm Doyle Dane Bernbach created one of the most famous political commercials of all time for President Lyndon Johnson, a democrat who was running for reelection against republican Senator Barry Goldwater. The ad ran only once, on September 7, 1964, during NBC's "Monday Night Movie," but was re-aired in its entirety the following night during all three network news broadcasts. Johnson won the election by a large margin in November 1964, with 61.1% of the popular vote. First, watch the ad. As you’re watching, think about the ad's imagery, what it is trying to convey, the sounds in the ad, and the central message.

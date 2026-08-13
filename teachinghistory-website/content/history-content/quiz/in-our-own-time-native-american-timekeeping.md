@@ -24,6 +24,12 @@ topics:
 - American Indians
 - Daily Life
 - Science & Tech.
+attachments:
+- delta: 0
+  title: Native American Timekeeping
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-native-american-timekeeping.pdf
+  mime_type: application/pdf
+  size: 74994
 ---
 
 When Europeans arrived in North American, they brought their own calendars and understanding of the passage of time. Native peoples, they found, related to time in ways both similar and very different. Decide whether the following statements on Native timekeeping practices are true or false.

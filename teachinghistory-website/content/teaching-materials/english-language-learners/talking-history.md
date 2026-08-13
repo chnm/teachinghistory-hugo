@@ -20,9 +20,23 @@ author_image_fid: '7337'
 splash_image: /files/talkingsplash.jpg
 image: /files/talkingimage.jpg
 author_image: /files/author_image/carey_0.jpg
+attachments:
+- delta: 0
+  title: What_is_a_Soc_Sem?.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/1-What_is_a_Socratic_Seminar.pdf
+  mime_type: application/pdf
+  size: 75237
+- delta: 1
+  title: Notes_for_Soc_Sem.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/2-Notes_for_Socratic_Seminar.pdf
+  mime_type: application/pdf
+  size: 77606
+- delta: 2
+  title: Soc_Sem_Sentence_Starters.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/3-Socratic_Seminar_Sentence_Starters.pdf
+  mime_type: application/pdf
+  size: 93278
 ---
-
-
 
 One of the difficulties of teaching history to English language learners is that their thinking is very often far ahead of their ability to express themselves in English. In building language and historical proficiency in the English language learners at our small middle school, we strive to build a “place of plenty”: we want students so familiar with historical content and particular historical thinking skills *before* they begin a writing assignment that we can then focus on the structure of the writing, and not struggle with the content. In order to build this place of plenty, we use as many cooperative, interactive activities as possible. We want our classrooms to buzz with content chatter. To do this, we must adapt and use several different structures, from brief mode of response structures to more in-depth seminar formats.
 

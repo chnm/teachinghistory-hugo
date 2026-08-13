@@ -27,6 +27,12 @@ tags:
 - political campaigns
 - presidential campaigns
 - television
+attachments:
+- delta: 0
+  title: 'Spot the President: Presidential Campaign Ads Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-presidential-campaign-ads.pdf
+  mime_type: application/pdf
+  size: 68671
 ---
 
 Every four years, television programs break for ads for those most American of products—the U.S. president and the ideals of democracy. For more than half a century, presidential candidates have used television ads to communicate their platforms and criticize their opponents. Decide whether the following statements are true or false.

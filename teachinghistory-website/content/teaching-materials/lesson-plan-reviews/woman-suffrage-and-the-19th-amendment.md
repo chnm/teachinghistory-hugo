@@ -35,6 +35,11 @@ topics:
 tags:
 - Women's Suffrage
 - suffrage
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Opportunity to analyze causation
 ---
 
 This [lesson](http://www.archives.gov/education/lessons/woman-suffrage/) is anchored by nine primary source documents related to the women's suffrage movement, from 1868 to 1920. Students and teachers alike will appreciate that the site includes images of the original documents—not simply transcriptions.

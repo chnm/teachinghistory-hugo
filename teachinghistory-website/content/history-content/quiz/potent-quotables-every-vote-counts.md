@@ -26,6 +26,12 @@ topics:
 - Women
 tags:
 - voting
+attachments:
+- delta: 0
+  title: Potent Quotables Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-quotables-vote.pdf
+  mime_type: application/pdf
+  size: 77492
 ---
 
 Since the founding of the U.S., writers and speakers have stressed individual agency and the importance of the vote, holding voting up as both a right and a responsibility. In politics and rhetoric, being able to vote defines citizenship—and exercising that right is the duty of all citizens. Match the quotations on voting rights with the appropriate speakers.

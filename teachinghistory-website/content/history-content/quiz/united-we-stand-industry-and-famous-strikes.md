@@ -33,6 +33,12 @@ tags:
 - Seattle
 - flint
 - strikes
+attachments:
+- delta: 0
+  title: 'United We Stand: Industry and Famous Strikes Quiz'
+  url: https://teachinghistory.org/sites/default/files/2018-08/industry-quiz_1.pdf
+  mime_type: application/pdf
+  size: 174511
 ---
 
 As the work of another school year begins, Labor Day reminds us to honor the nation's workers. Since the rise of industry, workers have used strikes and other forms of protest to demand change and recognition. Select the correct answer for each of the labor-related questions below.

@@ -33,6 +33,12 @@ tags:
 - religion
 - tourism
 - travel
+features:
+- Focus on historical thinking
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Scaffolding of close analysis of text
+- Useful for differentiating instruction
 ---
 
 In [this teaching module](https://www.shapell.org/historical-perspectives/teacher-resources/americans-tourists-in-the-holy-land-1865-1900) from the [Shapell Manuscript Foundation](https://www.shapell.org/) in collaboration with the [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/)students learn how to examine engaging primary sources including travel posters, train tickets, maps, and a letter written by Mark Twain to better understand the attitudes and experiences of Americans who travelled to British Palestine in the late 1800s.

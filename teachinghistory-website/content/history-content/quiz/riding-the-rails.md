@@ -27,6 +27,12 @@ tags:
 - the West
 - trains
 - transportation
+attachments:
+- delta: 0
+  title: Riding the Rails Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-riding-the-rails.pdf
+  mime_type: application/pdf
+  size: 75648
 ---
 
 The advanced industrial development of the United States and much of the white settlement of the Western portion of the country coincided with, and was spurred by, the invention and spread of the railroad in the 19th century. How much do you know about this history?

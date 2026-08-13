@@ -33,6 +33,12 @@ topics:
 - Southern States
 tags:
 - Civil War
+attachments:
+- delta: 0
+  title: Source Excerpts and Annotations
+  url: https://teachinghistory.org/sites/default/files/2022-09/CivilWarandReligionSourcesAnnotations.pdf
+  mime_type: application/pdf
+  size: 66993
 ---
 
 **What is it?**

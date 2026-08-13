@@ -30,6 +30,17 @@ tags:
 - Hawaii
 - statehood
 - territories
+more_information: '[An Act to Provide for the Admission of the State of Hawaii into
+  the Union](http://www.hawaii-nation.org/admission.html). Act of March 18, 1959,
+  Pub L 86-3, §1, 73 Stat 4.
+
+
+  Daws, Gavin. *Shoal of Time: A History of the Hawaiian Islands*. Honolulu: University
+  of Hawaii Press, 1968.
+
+
+  National Archives and Records Administration. “[Hawaii Statehood, August 21, 1959](http://www.archives.gov/legislative/features/hawaii/index.html).”
+  Accessed November 13, 2012.'
 ---
 
 Hawaii—a U.S. territory since 1898—became the 50th state in August, 1959, following a referendum in Hawaii in which more than 93% of the voters approved the proposition that the territory should be admitted as a state.
@@ -50,11 +61,3 @@ Part of the decades-long reluctance to change Hawaii’s status from territory t
 At the time of the vote, 90% of the population of Hawaii consisted of U.S. citizens. Hawaii’s importance in World War II had secured its identity as fully American in the minds of both Hawaiians and mainlanders. In addition, persistent and effective lobbying of Congressional representatives during this initial period of the modern Civil Rights Movement convinced enough members of Congress that this was the right moment to accept Hawaiian statehood, no matter what its racial makeup was.
 
 Hawaiians themselves had been awaiting this for years, so much so that the “49th State” Record Label had been selling popular Hawaiian music since shortly after the War. As it turned out, Alaska entered as a state at the very beginning of 1959, making it the 49th, and when Hawaii came in several months later, it became the 50th state of the Union.
-
----
-
-[An Act to Provide for the Admission of the State of Hawaii into the Union](http://www.hawaii-nation.org/admission.html). Act of March 18, 1959, Pub L 86-3, §1, 73 Stat 4.
-
-Daws, Gavin. *Shoal of Time: A History of the Hawaiian Islands*. Honolulu: University of Hawaii Press, 1968.
-
-National Archives and Records Administration. “[Hawaii Statehood, August 21, 1959](http://www.archives.gov/legislative/features/hawaii/index.html).” Accessed November 13, 2012.

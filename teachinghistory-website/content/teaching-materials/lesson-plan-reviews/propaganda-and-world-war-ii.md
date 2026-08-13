@@ -24,6 +24,13 @@ tags:
 - military history
 - politics
 - politics of war
+features:
+- Focus on historical thinking
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Scaffolding of close analysis of text
+- Useful for differentiating instruction
+- Useful for English language learners
 ---
 
 In [this lesson](http://web.archive.org/web/20201126160635/https://herb.ashp.cuny.edu/items/show/1826) from HERB—a website produced by the [American Social History Project/Center for Media and Learning](http://ashp.cuny.edu/)—students learn how to examine posters as primary sources and work with them to write essays. In addition to a collection of wartime propaganda posters, the site includes a brief essay providing historical context, as well as a well-designed “[propaganda poster analysis worksheet](http://web.archive.org/web/20210118084022/http://web.archive.org/web/20210118084022/https://herb.ashp.cuny.edu/items/show/1827)” that students can use to explore the meaning of each document.

@@ -23,6 +23,12 @@ topics:
 tags:
 - media
 - politics
+attachments:
+- delta: 0
+  title: Stamping Out Free Speech Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-stamp-act.pdf
+  mime_type: application/pdf
+  size: 69338
 ---
 
 The 1765 Stamp Act taxed paper goods in the colonies. Many colonists saw the tax as a deliberate attack on the development of colonial business, political power, and press—even though England may not have intended it as such. Answer the following questions about the Stamp Act.

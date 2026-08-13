@@ -32,6 +32,12 @@ topics:
 - Slavery
 tags:
 - advertisements
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Scaffolding of close analysis of text
 ---
 
 This well-planned [lesson](http://www.gilderlehrman.org/history-by-era/slavery-and-anti-slavery/resources/look-slavery-through-posters-and-broadsides), which uses posters on slavery and abolition, teaches students to ask important questions as they read a primary source. First, the teacher models the task by analyzing a [representative poster](http://www.gilderlehrman.org/sites/default/files/inline-pdfs/Posters_0.pdf) in front of the classroom. In small groups, students then analyze additional posters, locating such information as author, audience, purpose, and message. They use this information to consider the attitudes towards slavery that the posters convey.

@@ -45,16 +45,22 @@ tags:
 videos:
 - src: /files/media/video/TIA_Stacy5.mp4
   thumb: /files/media/video/thumbs/TIA_Stacy5.jpg
-  title: 'What is Important to John Smith?'
+  title: What is Important to John Smith?
 - src: /files/media/video/TIA_Stacy6.mp4
   thumb: /files/media/video/thumbs/TIA_Stacy6.jpg
-  title: 'What Do You See?'
+  title: What Do You See?
 - src: /files/media/video/TIA_Stacy7.mp4
   thumb: /files/media/video/thumbs/TIA_Stacy7.jpg
-  title: 'Present and Past Perspectives'
+  title: Present and Past Perspectives
 - src: /files/media/video/TIA_Stacy8.mp4
   thumb: /files/media/video/thumbs/TIA_Stacy8.jpg
-  title: 'Arriving at Conclusions'
+  title: Arriving at Conclusions
+attachments:
+- delta: 0
+  title: John Smith Map
+  url: https://teachinghistory.org/sites/default/files/2018-08/john_smith_map_15772.pdf
+  mime_type: application/pdf
+  size: 1342062
 ---
 
 Watch 4th-grade students carefully analyze a 1612 map of Virginia drawn by Captain John Smith and compare it to a 21st-century map to discover what was important to Smith and to the Virginia Company. View John Smith Map: Classroom Practice video.

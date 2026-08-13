@@ -26,6 +26,12 @@ tags:
 - Valentine’s Day
 - holidays
 - presidents
+attachments:
+- delta: 0
+  title: Presidential Valentines Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-presidential-valentines.pdf
+  mime_type: application/pdf
+  size: 74491
 ---
 
 What sort of note do you send your sweetheart when he's the head of state—or if she's the First Lady? A cardboard Valentine might not be enough. Read each of the selections below, and match them with the presidents (in the pull-down menu) who received or sent them.

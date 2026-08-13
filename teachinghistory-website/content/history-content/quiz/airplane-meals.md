@@ -30,6 +30,12 @@ tags:
 - Great Britain
 - Russia
 - USSR
+attachments:
+- delta: 0
+  title: Airplane Meals Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-berlin-airlift.pdf
+  mime_type: application/pdf
+  size: 73990
 ---
 
 After World War II, the Allies divided Germany among themselves, and also divided its capital, Berlin. When the USSR blockaded Allied ground routes to West Berlin on June 24, 1948, crisis struck—how to get food and fuel to the West Berliners, 110 miles deep in Soviet-controlled East Germany? By air! The Berlin Airlift lasted more than 10 months, successfully flying supplies into West Berlin.

@@ -23,6 +23,37 @@ grade_levels:
 tags:
 - close reading
 - historical thinking
+attachments:
+- delta: 0
+  title: Four Reads Handout
+  url: https://teachinghistory.org/sites/default/files/2018-08/four_reads_handout.pdf
+  mime_type: application/pdf
+  size: 80833
+- delta: 1
+  title: 'Handout: Jackson Reading'
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout-jackson_reading.pdf
+  mime_type: application/pdf
+  size: 111146
+- delta: 2
+  title: Jackson Reading 1
+  url: https://teachinghistory.org/sites/default/files/2018-08/jackson_reading_1.pdf
+  mime_type: application/pdf
+  size: 137542
+- delta: 3
+  title: Jackson Reading 2
+  url: https://teachinghistory.org/sites/default/files/2018-08/jackson_reading_2.pdf
+  mime_type: application/pdf
+  size: 138562
+- delta: 4
+  title: Jackson Reading 3
+  url: https://teachinghistory.org/sites/default/files/2018-08/jackson_reading_3.pdf
+  mime_type: application/pdf
+  size: 144523
+- delta: 5
+  title: Jackson Reading 4
+  url: https://teachinghistory.org/sites/default/files/2018-08/jackson_reading_4.pdf
+  mime_type: application/pdf
+  size: 153536
 ---
 
 ## What is it?

@@ -32,6 +32,12 @@ topics:
 tags:
 - Lewis and Clark Expedition
 - geography
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Opportunity to analyze causation
 ---
 
 Encouraging students to work collaboratively in groups, this [lesson](http://web.archive.org/web/20120822022143/http://www.nationalgeographic.com:80/xpeditions/lessons/06/g35/sameplace.html) asks students to think and write about history from multiple viewpoints. The primary source excerpts, primarily from the expedition members’ journals, are a bit challenging, but they are brief and informative. Short expository passages describe different Native American groups and their encounter with the expedition. The absence of primary documents from the Native American perspective provides an opportunity to discuss what sources of information make up the historical record.

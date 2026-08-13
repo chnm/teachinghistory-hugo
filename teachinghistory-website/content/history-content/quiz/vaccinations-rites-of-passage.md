@@ -25,6 +25,12 @@ topics:
 - Media
 tags:
 - vaccinations
+attachments:
+- delta: 0
+  title: 'Vaccinations: Rites of Passage Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-vaccinations.pdf
+  mime_type: application/pdf
+  size: 152720
 ---
 
 Vaccination—introducing dead or weakened versions of germs into the body to promote the production of antibodies and create immunity to a disease—has been practiced for at least 200 years, making it a chronological "peer" of the United States. Which childhood diseases do these American public health announcements address?

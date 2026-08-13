@@ -25,6 +25,12 @@ topics:
 - Southern States
 tags:
 - Black Codes
+attachments:
+- delta: 0
+  title: Mississippi Black Codes
+  url: https://teachinghistory.org/sites/default/files/2018-08/mississippi_black_codes.doc
+  mime_type: application/msword
+  size: 94720
 ---
 
 [*Learning from Others: Learning in a Social Context*](http://www.learner.org/resources/series172.html?pop=yes&pid=1864#) from [Annenberg Media](http://www.learner.org) is a video made up of two sections, the second half of which documents the practice of Avram Barlowe, a high school history teacher at the Urban Academy in New York City. (Go to Session 7 and view video from 13:58–25:55.) This video provides examples of two promising practices:

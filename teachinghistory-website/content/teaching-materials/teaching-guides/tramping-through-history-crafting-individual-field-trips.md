@@ -32,6 +32,27 @@ tags:
 - fieldtrips
 - historic sites
 - national parks
+attachments:
+- delta: 0
+  title: 1st_Quarter_IFT-Mount_Vernon.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/1st_Quarter_IFT-Mount_Vernon.pdf
+  mime_type: application/pdf
+  size: 190089
+- delta: 1
+  title: 2nd_Quarter_IFT-SMAA__NPG.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/2nd_Quarter_IFT-SMAA__NPG.pdf
+  mime_type: application/pdf
+  size: 143241
+- delta: 2
+  title: 2nd_Quarter_IFT-Civil_War_Sculpture.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/2nd_Quarter_IFT-Civil_War_Sculpture.pdf
+  mime_type: application/pdf
+  size: 153268
+- delta: 3
+  title: 4th_Quarter_IFT-Echoes_from_the_Mall.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/4th_Quarter_IFT-Echoes_from_the_Mall.pdf
+  mime_type: application/pdf
+  size: 171397
 ---
 
 "Teachers," the Greek writer Nikos Kazantzakis wrote, "are those who use themselves as bridges, over which they invite their students to cross; then having facilitated their crossing, joyfully collapse, encouraging them to create bridges of their own." With Kazantzakis’s maxim under my wing, I have nurtured his approach to teaching history for 30 years. Washington, DC, and its environs is the great laboratory of democracy. Given the chance to teach in the Washington, DC, area, I can empower my students with a special kind of learning—one infused by time, place, and space.

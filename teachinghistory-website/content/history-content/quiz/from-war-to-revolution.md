@@ -31,6 +31,12 @@ tags:
 - Jeffrey Amherst
 - political cartoons
 - presidents
+attachments:
+- delta: 0
+  title: From War to Revolution Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-french-indian-war.pdf
+  mime_type: application/pdf
+  size: 107621
 ---
 
 In popular memory, the colonies' military history began with the American Revolution—but the colonies actually fought part of a global war earlier in the 18th century. The French and Indian War, a territorial conflict in the larger Seven Years' War, involved a number of individuals who would take part in the Revolution. Are the following true or false?

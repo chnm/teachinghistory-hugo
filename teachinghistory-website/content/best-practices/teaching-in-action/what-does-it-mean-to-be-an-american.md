@@ -40,16 +40,27 @@ tags:
 videos:
 - src: /files/media/video/cruz_classroom1.mp4
   thumb: /files/media/video/thumbs/cruz_classroom1.jpg
-  title: 'Lesson Introduction'
+  title: Lesson Introduction
 - src: /files/media/video/cruz_classroom2.mp4
   thumb: /files/media/video/thumbs/cruz_classroom2.jpg
-  title: 'Lesson Continued'
+  title: Lesson Continued
 - src: /files/media/video/cruz_classroom3.mp4
   thumb: /files/media/video/thumbs/cruz_classroom3.jpg
-  title: 'Promoting Discussion'
+  title: Promoting Discussion
 - src: /files/media/video/cruz_classroom4.mp4
   thumb: /files/media/video/thumbs/cruz_classroom4.jpg
-  title: 'Teaching Strategies'
+  title: Teaching Strategies
+attachments:
+- delta: 0
+  title: Life History of Philip Dash (Original)
+  url: https://teachinghistory.org/sites/default/files/2018-08/life_story_philip_dash.pdf
+  mime_type: application/pdf
+  size: 3321623
+- delta: 1
+  title: Life History of Philip Dash (Transcript)
+  url: https://teachinghistory.org/sites/default/files/2018-08/life_story_philip_dash.doc
+  mime_type: application/msword
+  size: 62464
 ---
 
 Jessica Cruz and her 8th-grade students explore immigration and what it means to be an American through photographs and other primary sources.

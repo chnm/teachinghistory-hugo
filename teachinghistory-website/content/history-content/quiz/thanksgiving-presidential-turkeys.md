@@ -30,6 +30,12 @@ tags:
 - holidays
 - presidents
 - turkeys
+attachments:
+- delta: 0
+  title: 'Thanksgiving: Presidential Turkeys Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/thanksgiving_2011_quiz_0.pdf
+  mime_type: application/pdf
+  size: 213142
 ---
 
 In 1873, Rhode Island turkey broker Horace Vose sent President Grant a Thanksgiving gift of a magnificent turkey. Every year after that, until his death in 1913, Vose sent a Thanksgiving turkey to whomever was president. The annual arrival of Vose’s gift turkey at the White House was the subject of many newspaper articles through the years.

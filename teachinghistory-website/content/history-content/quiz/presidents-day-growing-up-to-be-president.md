@@ -26,6 +26,12 @@ tags:
 - infants
 - photographs
 - presidents
+attachments:
+- delta: 0
+  title: 'Presidents Day: Growing Up to Be President Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/presidents_day_2012_quiz.pdf
+  mime_type: application/pdf
+  size: 242885
 ---
 
 Politicians kiss babies to bring good luck to the kisser and the kissed. Were our presidents kissed by politicians when they were babies? Would you have kissed these kids?

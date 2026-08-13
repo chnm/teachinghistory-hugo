@@ -40,6 +40,11 @@ tags:
 - muckrakers
 - progressive era
 - tenement housing
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Opportunity to analyze causation
 ---
 
 This [unit](http://www.bringinghistoryhome.org/fourth/unit-1) on the Progressive Era consists of seven teaching activities, which build upon each other and culminate in an optional service learning project exploring modern day progressivism. Each part of the unit can be downloaded as an individual PDF, or the entirety can be downloaded at once. Overall, the complete package is age-appropriate, while also challenging students to develop historical thinking skills.

@@ -32,16 +32,22 @@ tags:
 videos:
 - src: /files/media/video/csmith5.mp4
   thumb: /files/media/video/thumbs/csmith5.jpg
-  title: 'What interests you about this newspaper article?'
+  title: What interests you about this newspaper article?
 - src: /files/media/video/csmith6.mp4
   thumb: /files/media/video/thumbs/csmith6.jpg
-  title: 'What do you notice when you read this article closely?'
+  title: What do you notice when you read this article closely?
 - src: /files/media/video/csmith7.mp4
   thumb: /files/media/video/thumbs/csmith7.jpg
-  title: 'What questions aren''t answered by the document?'
+  title: What questions aren't answered by the document?
 - src: /files/media/video/csmith8.mp4
   thumb: /files/media/video/thumbs/csmith8.jpg
-  title: 'What would help you understand the context of this article?'
+  title: What would help you understand the context of this article?
+attachments:
+- delta: 0
+  title: Colonial Newspaper Article
+  url: https://teachinghistory.org/sites/default/files/2018-08/colonial_newspaper_article.pdf
+  mime_type: application/pdf
+  size: 81068
 ---
 
 In 1775, a colonial newspaper reported on Patriots burning tea in Providence, RI. How much can you learn from this newspaper article? Whose point of view is it written from? What does it include and what does it leave out? Barbara Clark Smith reveals the questions she would ask to get the most from this primary source.

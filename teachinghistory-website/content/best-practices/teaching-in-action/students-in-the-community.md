@@ -27,10 +27,16 @@ tags:
 videos:
 - src: /files/media/video/TIA_James1.mp4
   thumb: /files/media/video/thumbs/TIA_James1.jpg
-  title: 'Researching Their Own Questions'
+  title: Researching Their Own Questions
 - src: /files/media/video/TIA_James2.mp4
   thumb: /files/media/video/thumbs/TIA_James2.jpg
-  title: 'Schools as Part of Communities'
+  title: Schools as Part of Communities
+attachments:
+- delta: 0
+  title: Transcript.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/24080_Transcript.pdf
+  mime_type: application/pdf
+  size: 84440
 ---
 
 While at Boston Community Leadership Academy, James Liou participated in programs aimed at bringing students out into the wider community, through capstone projects, and the community into schools. When students see community results from their work, they become more invested in their projects.

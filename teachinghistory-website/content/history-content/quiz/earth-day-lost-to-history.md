@@ -29,6 +29,12 @@ tags:
 - animals
 - extinction
 - extinctions
+attachments:
+- delta: 0
+  title: 'Earth Day: Lost to History PDF Quiz'
+  url: https://teachinghistory.org/sites/default/files/2018-08/lost_to_history_quiz.pdf
+  mime_type: application/pdf
+  size: 1040908
 ---
 
 Human activity changes the lives of more than just human beings. Humans domesticate animals, hunt them for food and sport, introduce them to new territory—and even wipe them out entirely. In the quiz, match each North American bird to the year when the last known specimen died.

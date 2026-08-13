@@ -26,6 +26,37 @@ topics:
 - Labor
 tags:
 - Haymarket Riot; labor relations; DBQ
+attachments:
+- delta: 0
+  title: Background Essay
+  url: https://teachinghistory.org/sites/default/files/2018-08/Background_Essay_Thesis_Guide.pdf
+  mime_type: application/pdf
+  size: 128104
+- delta: 1
+  title: Primary Sources
+  url: https://teachinghistory.org/sites/default/files/2018-08/Primary_Sources_Thesis_Guide.pdf
+  mime_type: application/pdf
+  size: 486462
+- delta: 2
+  title: Student Activity 1
+  url: https://teachinghistory.org/sites/default/files/2018-08/Student_Activity_1_Thesis_Guide.pdf
+  mime_type: application/pdf
+  size: 122721
+- delta: 3
+  title: Student Activity 2
+  url: https://teachinghistory.org/sites/default/files/2018-08/Student_Activity_2_Thesis_Guide.pdf
+  mime_type: application/pdf
+  size: 149925
+- delta: 4
+  title: Student Activity 3
+  url: https://teachinghistory.org/sites/default/files/2018-08/Studend_Activity_3_Thesis_Guide.pdf
+  mime_type: application/pdf
+  size: 126776
+- delta: 5
+  title: Teacher's Answer Key
+  url: https://teachinghistory.org/sites/default/files/2018-08/Teachers_Answer_Key_Thesis_Guide.pdf
+  mime_type: application/pdf
+  size: 104320
 ---
 
 ## What is it?

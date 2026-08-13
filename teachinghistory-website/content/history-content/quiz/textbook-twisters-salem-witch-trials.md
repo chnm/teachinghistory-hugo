@@ -26,6 +26,12 @@ tags:
 - Salem
 - witch trials
 - witchcraft
+attachments:
+- delta: 0
+  title: Salem Witch Trials Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz_salem_witch_trials.pdf
+  mime_type: application/pdf
+  size: 104552
 ---
 
 History isn't an unchanging entity, set, stable, and untouchable—it's also how historians tell the story of the past, based on both on what they know and what they choose to pass on and emphasize. How has U.S. history changed in the telling? Examine each history textbook passage on the Salem Witch Trials and connect it to the year of publication.

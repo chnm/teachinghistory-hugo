@@ -29,6 +29,12 @@ tags:
 - memorial day
 - poppies
 - symbols
+attachments:
+- delta: 0
+  title: 'Memorial Day: The Poppy Puzzle Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/poppy_puzzle_quiz.pdf
+  mime_type: application/pdf
+  size: 147678
 ---
 
 Have you ever seen someone wearing a red poppy on Memorial Day? Every year, the Veterans of Foreign Wars distributes artificial "buddy poppies," manufactured by disabled veterans, in exchange for donations to support the veterans and their families. But where did this practice come from?

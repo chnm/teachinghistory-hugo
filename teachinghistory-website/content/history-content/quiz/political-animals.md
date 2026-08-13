@@ -26,6 +26,12 @@ tags:
 - language
 - political parties
 - slang
+attachments:
+- delta: 0
+  title: Political Animals Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-political-slang.pdf
+  mime_type: application/pdf
+  size: 75081
 ---
 
 Filibustering and gerrymandering are classic examples of the eccentric words politics ushers into the English language, but there are many, many more—some with clear origins and some more mysterious. Test your knowledge of the origins of these examples of colorful political slang.

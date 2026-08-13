@@ -26,6 +26,22 @@ grade_levels:
 - elementary
 tags:
 - picture books
+attachments:
+- delta: 0
+  title: Handouts for Students
+  url: https://teachinghistory.org/sites/default/files/2018-08/Handouts-Picture_Book_Guide.pdf
+  mime_type: application/pdf
+  size: 171085
+- delta: 1
+  title: Examples Packet
+  url: https://teachinghistory.org/sites/default/files/2018-08/Examples_Packet_Picture_Book_Guide.pdf
+  mime_type: application/pdf
+  size: 196387
+- delta: 2
+  title: Recommended Biographies of Women
+  url: https://teachinghistory.org/sites/default/files/2018-08/Recommended_Biographies_of_Women_0.pdf
+  mime_type: application/pdf
+  size: 97005
 ---
 
 ## Rationale

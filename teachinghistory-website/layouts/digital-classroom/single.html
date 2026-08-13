@@ -26,19 +26,14 @@
       <div class="bg-white rounded shadow-md p-5">
         <h3 class="font-heading text-lg font-bold mb-4 uppercase">At a Glance</h3>
 
-        {{ with .Params.website_url }}
-        <div class="py-3 border-b border-gray-light">
-          <p class="font-heading text-xs font-bold uppercase tracking-wide text-gray-500 mb-1">Website</p>
-          <a href="{{ . }}" class="text-sm text-orange hover:underline break-all" target="_blank" rel="noopener">
-            {{ . | replaceRE "^https?://(www\\.)?" "" | truncate 40 }}
-          </a>
-        </div>
-        {{ end }}
+        {{ partial "sidebar-website.html" . }}
 
         {{ with .Params.summary }}
         <div class="py-3 border-b border-gray-light">
           <p class="font-heading text-xs font-bold uppercase tracking-wide text-gray-500 mb-1">Description</p>
-          <p class="text-sm text-dark leading-relaxed">{{ . | markdownify }}</p>
+          <div class="text-sm text-dark leading-relaxed">
+            {{ partial "render-inline-markdown.html" (dict "page" $ "value" .) }}
+          </div>
         </div>
         {{ end }}
 
@@ -52,6 +47,8 @@
         {{ end }}
       </div>
       {{ end }}
+
+      {{ partial "sidebar-resources.html" . }}
 
       {{/* ── About the Author card ── */}}
       {{ if or .Params.author_bio .Params.author_image }}
@@ -93,6 +90,8 @@
         <div class="font-body leading-relaxed">
           {{ .Content }}
         </div>
+
+        {{ partial "more-information.html" . }}
 
         {{/* Related Topics */}}
         {{ $related := site.RegularPages.Related . | first 2 }}

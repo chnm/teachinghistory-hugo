@@ -34,6 +34,13 @@ tags:
 - erie canal
 - infrastructure
 - transportation
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Opportunity to analyze causation
+- Useful for differentiating instruction
+- Useful for English language learners
 ---
 
 This [lesson](http://web.archive.org/web/20130822191134/http://web.archive.org/web/20250419120745/http://teachersdomain.org/resource/midlit10.soc.splerie/) from [Teachers’ Domain](http://web.archive.org/web/20250419120745/http://teachersdomain.org/) examines how the construction of the Erie Canal affected the geographic, economic, and political landscape of the United States. In exploring these issues, students are presented with four computer-based activities.

@@ -32,13 +32,19 @@ tags:
 videos:
 - src: /files/media/video/Malinda1.mp4
   thumb: /files/media/video/thumbs/Malinda1.jpg
-  title: 'Reading the Document'
+  title: Reading the Document
 - src: /files/media/video/Malinda2.mp4
   thumb: /files/media/video/thumbs/Malinda2.jpg
-  title: 'Understanding the Document'
+  title: Understanding the Document
 - src: /files/media/video/Malinda3.mp4
   thumb: /files/media/video/thumbs/Malinda3.jpg
-  title: 'Teaching Strategies'
+  title: Teaching Strategies
+attachments:
+- delta: 0
+  title: 'Excerpt: Cherokee Nation Court Records'
+  url: https://teachinghistory.org/sites/default/files/2018-08/court_records_excerpt_0.pdf
+  mime_type: application/pdf
+  size: 6494647
 ---
 
 Historian Malinda Lowery analyzes an 1833 record from the Cherokee Nation's Supreme Court to untangle a complicated story of identity, legal authority, slavery, and the Cherokee Law of Blood. Lowery models several historical thinking skills, including:

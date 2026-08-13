@@ -38,16 +38,32 @@ tags:
 videos:
 - src: /files/media/video/Reis1.mp4
   thumb: /files/media/video/thumbs/Reis1.jpg
-  title: 'Dynamics of Confession'
+  title: Dynamics of Confession
 - src: /files/media/video/Reis2.mp4
   thumb: /files/media/video/thumbs/Reis2.jpg
-  title: 'The Dangers of Innocence'
+  title: The Dangers of Innocence
 - src: /files/media/video/Reis3.mp4
   thumb: /files/media/video/thumbs/Reis3.jpg
-  title: 'Elements of a Successful Confession'
+  title: Elements of a Successful Confession
 - src: /files/media/video/Reis4.mp4
   thumb: /files/media/video/thumbs/Reis4.jpg
-  title: 'Leading Students through the Material'
+  title: Leading Students through the Material
+attachments:
+- delta: 0
+  title: Examination of Rebecca Nurse
+  url: https://teachinghistory.org/sites/default/files/2018-08/rebecca_nurse.pdf
+  mime_type: application/pdf
+  size: 93730
+- delta: 1
+  title: Examination of Rebecca Eames
+  url: https://teachinghistory.org/sites/default/files/2018-08/rebecca_eames.pdf
+  mime_type: application/pdf
+  size: 78768
+- delta: 2
+  title: Examination of Mary Osgood
+  url: https://teachinghistory.org/sites/default/files/2018-08/mary_osgood.pdf
+  mime_type: application/pdf
+  size: 89107
 ---
 
 Primary sources provide details the narratives of popular, textbook history often neglect. Historian Elizabeth Reis analyzes testimony from the Salem Witch Trials, looking at what both confessions and denials say about religious and social norms among the Massachusetts communities involved.

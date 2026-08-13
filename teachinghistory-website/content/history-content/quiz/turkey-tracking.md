@@ -26,6 +26,12 @@ tags:
 - foodways
 - holidays
 - presidents
+attachments:
+- delta: 0
+  title: Turkey Tracking Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-turkey-tracking.pdf
+  mime_type: application/pdf
+  size: 64846
 ---
 
 Thanksgiving became a recurring national holiday in 1941, but the celebration of Thanksgiving in the United States had been developing for more than 100 years. Decide if the following statements about the holiday that now occurs on the fourth Thursday every November are true or false.

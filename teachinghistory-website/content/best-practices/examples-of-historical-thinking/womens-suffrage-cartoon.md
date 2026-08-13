@@ -33,13 +33,19 @@ tags:
 videos:
 - src: /files/media/video/Boisseau1a.mp4
   thumb: /files/media/video/thumbs/Boisseau1a.jpg
-  title: 'The Dirty Pool of Politics'
+  title: The Dirty Pool of Politics
 - src: /files/media/video/Boisseau1b.mp4
   thumb: /files/media/video/thumbs/Boisseau1b.jpg
-  title: 'Reading Visually'
+  title: Reading Visually
 - src: /files/media/video/Boisseau1c.mp4
   thumb: /files/media/video/thumbs/Boisseau1c.jpg
-  title: 'Public Perception of Women'
+  title: Public Perception of Women
+attachments:
+- delta: 0
+  title: Suffrage Cartoon
+  url: https://teachinghistory.org/sites/default/files/2018-08/suffrage_cartoon.pdf
+  mime_type: application/pdf
+  size: 258825
 ---
 
 How does a cartoon (c. 1910) supporting suffrage portray women? TJ Boisseau breaks down the popular views of women's roles and abilities that this cartoon uses to convince viewers to support women's right to vote. How does the cartoon make women's perceived talents as housekeepers and guardians of the private, domestic sphere important in the *public* world of politics?

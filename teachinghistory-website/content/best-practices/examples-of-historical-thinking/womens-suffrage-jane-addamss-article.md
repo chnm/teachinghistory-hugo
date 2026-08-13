@@ -32,10 +32,16 @@ tags:
 videos:
 - src: /files/media/video/Boisseau4a.mp4
   thumb: /files/media/video/thumbs/Boisseau4a.jpg
-  title: 'Why Women Should Vote'
+  title: Why Women Should Vote
 - src: /files/media/video/Boisseau4b.mp4
   thumb: /files/media/video/thumbs/Boisseau4b.jpg
-  title: 'Issues Then and Now'
+  title: Issues Then and Now
+attachments:
+- delta: 0
+  title: '"Why Women Should Vote"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/why_women_should_vote.pdf
+  mime_type: application/pdf
+  size: 121299
 ---
 
 What arguments did women in the suffrage movement make to anti-suffrage women? TJ Boisseau suggests analyzing reformer Jane Addams's short essay "Why Women Should Vote," published in 1910. What nuances does Addams put in her arguments? How does what she says differ from other contemporary arguments for suffrage, and how is it the same? Are echoes of anything she writes about still debated today? What complications make the suffrage movement, as represented by this essay, less clear-cut than textbooks may paint it as?

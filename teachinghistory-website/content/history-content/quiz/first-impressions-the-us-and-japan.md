@@ -27,6 +27,12 @@ tags:
 - Japan
 - Japanese
 - Matthew Perry
+attachments:
+- delta: 0
+  title: 'First Impressions: The U.S. and Japan Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-opening-japan.pdf
+  mime_type: application/pdf
+  size: 165237
 ---
 
 In 1853, Commodore Matthew Perry sailed into Uraga Harbor with a fleet of four steamships, demanding that Japan, a nation largely closed to foreign trade and contact, open to the U.S. In 1854, Perry returned to conclude negotiations. Artists on both sides recorded this meeting between two very different cultures. Examine the images and answer the accompanying questions.

@@ -20,6 +20,12 @@ topics:
 tags:
 - Great Depression
 - Stock market crash
+attachments:
+- delta: 0
+  title: Black Days in the Market Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-black-days-in-the-market.pdf
+  mime_type: application/pdf
+  size: 84658
 ---
 
 On three days of panicked selling in late October 1929, the price of stocks traded on the New York Stock Exchange crashed, opening on October 24—"Black Thursday"—at 306, continuing down on October 25—"Black Monday"—and closing on October 29—"Black Tuesday"—at 230. Answer the following questions about the crash.

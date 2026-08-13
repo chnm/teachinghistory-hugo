@@ -10,8 +10,8 @@ summary: 'Teaching history to English Language Learners poses special challenges
   ELLS need additional support and materials to understand content, yet many social
   studies classrooms are ill-stocked in this regard.
 
-  Here we outline how [visuals](/system/files/history_visuals_0.pdf)
-  can help ELLs build interest and understanding.
+  Here we outline how [visuals](/system/files/history_visuals_0.pdf) can help ELLs
+  build interest and understanding.
 
   **Rationale**'
 aliases:
@@ -31,6 +31,17 @@ grade_levels:
 - elementary
 - high
 - middle
+attachments:
+- delta: 0
+  title: handout_questioning_strategy.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_questioning_strategy_0.pdf
+  mime_type: application/pdf
+  size: 100506
+- delta: 1
+  title: history_visuals.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/history_visuals_0.pdf
+  mime_type: application/pdf
+  size: 102908
 ---
 
 Kathryn Lindholm-Leavy and Graciela Borsato, “Academic Achievement,” in F. Genesee (Ed.), *Educating English language learners* (New York: Cambridge University Press, 2006), 192.
