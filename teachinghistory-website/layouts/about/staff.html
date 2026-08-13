@@ -4,6 +4,12 @@
 <main class="flex-1 bg-pale-blue-tint">
   <div class="max-w-5xl mx-auto px-6 py-10">
 
+    {{ with .Content }}
+    <article class="font-body leading-relaxed mb-12">
+      {{ . }}
+    </article>
+    {{ end }}
+
     {{ range $gi, $group := site.Data.staff.groups }}
     <section class="mb-12">
       <h2 class="font-heading text-xl font-bold uppercase tracking-wide mb-6">{{ $group.name }}</h2>
