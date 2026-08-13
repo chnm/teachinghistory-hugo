@@ -19,6 +19,12 @@ time_periods:
 topics:
 - Environment
 - Global Contact
+attachments:
+- delta: 0
+  title: New World Wonders Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-new-world-wonders.pdf
+  mime_type: application/pdf
+  size: 333058
 ---
 
 For explorers and colonists from Europe, North and South America were full of strange new lifeforms—stunning and surprising plants and animals, from insects to birds to sea creatures. Examine the following drawings and descriptions created by European visitors to the Americas. Can you identify what plant or animal is being described or depicted?

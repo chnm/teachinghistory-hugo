@@ -24,6 +24,12 @@ tags:
 - French and Indian War
 - Iroquois
 - Mohawk
+attachments:
+- delta: 0
+  title: War of Invaders Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-war-of-invaders.pdf
+  mime_type: application/pdf
+  size: 74346
 ---
 
 The French and Indian War is often described as a colonial battle between France and England over possession of territory. This narrative, however, leaves little space for the Native peoples who fought to stave off colonization. Answer these questions about primary sources on Natives in the war (all written by Europeans).

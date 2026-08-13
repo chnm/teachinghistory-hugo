@@ -24,6 +24,17 @@ author_image: /files/author_image/author_2.jpg
 grade_levels:
 - elementary
 - middle
+attachments:
+- delta: 0
+  title: The Chant
+  url: https://teachinghistory.org/sites/default/files/2018-08/persuasive_essay_format_chant.pdf
+  mime_type: application/pdf
+  size: 79356
+- delta: 1
+  title: Persuasive Essay Frame
+  url: https://teachinghistory.org/sites/default/files/2018-08/persuasive_essay_frame_.pdf
+  mime_type: application/pdf
+  size: 124627
 ---
 
 This is just a slice of a much broader work entitled, *Freedom to Express: Promoting Civic Literacy, Reading, and Writing for the English Language Learner*. This curriculum uses the First Amendment, namely, Freedom of Expression, as a frame of reference to launch and systematically teach ELLs how to successfully write a persuasive essay. To secure a copy please contact Michelle Herzog at Herczog\_Michelle at lacoe dot edu.

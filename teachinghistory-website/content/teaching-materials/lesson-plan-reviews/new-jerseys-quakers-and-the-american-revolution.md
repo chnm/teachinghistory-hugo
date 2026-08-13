@@ -37,6 +37,12 @@ tags:
 - Samuel Allinson
 - Society of Friends
 - William Livingston
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Opportunity to analyze causation
 ---
 
 The [lesson plan](http://web.archive.org/web/20260118210655/http://web.archive.org/web/20260118210655/https://nj.gov/state/njhistorypartnership/americanRevolution/quakers/lesson/quakersLesson.pdf) suggests that teachers begin by delivering a lecture based on an online talk by historian Jean Soderlund. (Adobe Flash Player and Acrobat Reader are required to access the lecture). However, the historian’s lecture is brief, informative, and fairly engaging, so teachers may want to consider playing the lecture for students.

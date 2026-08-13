@@ -24,6 +24,22 @@ grade_levels:
 tags:
 - KWL
 - KWL guides
+attachments:
+- delta: 0
+  title: KWL Chart
+  url: https://teachinghistory.org/sites/default/files/2018-08/KWL_Chart.pdf
+  mime_type: application/pdf
+  size: 82063
+- delta: 1
+  title: KWL Chart with Knowledge Questions
+  url: https://teachinghistory.org/sites/default/files/2018-08/KWL_Chart_with_Knowledge_Questions.pdf
+  mime_type: application/pdf
+  size: 95177
+- delta: 2
+  title: KWL Photo Analysis
+  url: https://teachinghistory.org/sites/default/files/2018-08/KWL_Photo_Analysis.pdf
+  mime_type: application/pdf
+  size: 146752
 ---
 
 ## What Is It?

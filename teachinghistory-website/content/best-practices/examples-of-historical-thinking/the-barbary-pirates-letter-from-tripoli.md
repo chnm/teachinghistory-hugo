@@ -37,13 +37,24 @@ videos:
   title: 'Primary Source: Exchange of Diplomatic Letters'
 - src: /files/media/video/Sears2.mp4
   thumb: /files/media/video/thumbs/Sears2.jpg
-  title: 'Historical and Geographical Context'
+  title: Historical and Geographical Context
 - src: /files/media/video/Sears3.mp4
   thumb: /files/media/video/thumbs/Sears3.jpg
-  title: 'Helping Students Question the Text'
+  title: Helping Students Question the Text
 - src: /files/media/video/Sears4.mp4
   thumb: /files/media/video/thumbs/Sears4.jpg
-  title: 'What Happened Later?'
+  title: What Happened Later?
+attachments:
+- delta: 0
+  title: Letter from Cathcart
+  url: https://teachinghistory.org/sites/default/files/2018-08/letter_from_cathcart.pdf
+  mime_type: application/pdf
+  size: 79469
+- delta: 1
+  title: Letter from Secretary of State
+  url: https://teachinghistory.org/sites/default/files/2018-08/letter_from_secretary_of_state.pdf
+  mime_type: application/pdf
+  size: 77785
 ---
 
 Christine Sears looks at two 1800 letters between James L. Cathcart, American consul to Tripoli, and the current Secretary of State. Together, the letters give a hint of the political and military tensions that would lead to the First Barbary War.

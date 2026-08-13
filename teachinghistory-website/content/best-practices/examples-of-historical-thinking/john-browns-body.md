@@ -37,16 +37,27 @@ tags:
 videos:
 - src: /files/media/video/JBrownScholar1.mp4
   thumb: /files/media/video/thumbs/JBrownScholar1.jpg
-  title: 'Analyzing the Song'
+  title: Analyzing the Song
 - src: /files/media/video/JBrownScholar2.mp4
   thumb: /files/media/video/thumbs/JBrownScholar2.jpg
-  title: 'Soldiers in Relation to the Song'
+  title: Soldiers in Relation to the Song
 - src: /files/media/video/JBrownScholar3.mp4
   thumb: /files/media/video/thumbs/JBrownScholar3.jpg
-  title: 'John Brown''s Life'
+  title: John Brown's Life
 - src: /files/media/video/JBrownScholar4.mp4
   thumb: /files/media/video/thumbs/JBrownScholar4.jpg
-  title: 'Teaching the Aftermath'
+  title: Teaching the Aftermath
+attachments:
+- delta: 0
+  title: 'John Brown''s Body: Version #1'
+  url: https://teachinghistory.org/sites/default/files/2018-08/ps-john-brown-song-ver1.pdf
+  mime_type: application/pdf
+  size: 153976
+- delta: 1
+  title: 'John Brown''s Body: Version #2'
+  url: https://teachinghistory.org/sites/default/files/2018-08/ps-john-brown-song-ver2.pdf
+  mime_type: application/pdf
+  size: 129685
 ---
 
 Historian Chandra Manning analyzes several different versions of the song “John Brown’s Body,” looking at what students can learn from it. Is “John Brown” always the abolitionist John Brown? Are later versions of the song different than earlier versions? Is there any sense to the order of the verses? What significance did John Brown’s raid on Harper’s Ferry have at the beginning of the Civil War? Later in the war? Is that reflected in the evolution of the song?

@@ -29,6 +29,22 @@ tags:
 - historical thinking
 - research
 - research papers
+attachments:
+- delta: 0
+  title: Handout 1
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_1_0.pdf
+  mime_type: application/pdf
+  size: 122168
+- delta: 1
+  title: Handout 2
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_2_0.pdf
+  mime_type: application/pdf
+  size: 125384
+- delta: 2
+  title: Handout 3
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_3_0.pdf
+  mime_type: application/pdf
+  size: 113572
 ---
 
 ## What Is It?

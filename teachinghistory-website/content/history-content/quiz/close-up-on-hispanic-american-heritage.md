@@ -24,6 +24,12 @@ tags:
 - Hispanic American Heritage Month
 - Hispanic Americans
 - Maria Amparo Ruiz de Burton
+attachments:
+- delta: 0
+  title: Close Up on Hispanic American Heritage Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz_-_lara_-_hispanic-american_heritage_month_-_pdf_0.pdf
+  mime_type: application/pdf
+  size: 434990
 ---
 
 Each of these images is a fragment of a larger whole, and each is related to Hispanic American history. Can you answer the following questions about these words, people, and objects? Take a good, hard look, and give it a try!

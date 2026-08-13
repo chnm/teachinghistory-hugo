@@ -30,6 +30,13 @@ tags:
 - election campaigns
 - presidency
 - progressive era
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Scaffolding of close analysis of text
+- Useful for differentiating instruction
 ---
 
 In [this teaching module](https://www.shapell.org/historical-perspectives/teacher-resources/theodore-roosevelt-and-the-1912-election/) from the [Shapell Manuscript Foundation](https://www.shapell.org/) in collaboration with the [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/)students learn how to examine engaging primary sources that surround the dramatic 1912 presidential campaign in which Roosevelt ran as a third party candidate after having served as president from 1901 to 1909. During the campaign Roosevelt was the victim of an assassination attempt while speaking in Milwaukee and several of the documents relate to this event and how it affected Roosevelt and the campaign.

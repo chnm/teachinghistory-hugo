@@ -1,0 +1,5 @@
+{{- $page := .page -}}
+{{- $value := .value -}}
+{{- with $value -}}
+  {{- $page.RenderString (dict "display" "inline") (printf "%v" .) -}}
+{{- end -}}

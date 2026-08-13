@@ -27,6 +27,13 @@ tags:
 - Fort Sumter
 - Lesson Plan
 - historical dilemmas
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Opportunity to analyze causation
+- Scaffolding of close analysis of text
 ---
 
 This [lesson](http://web.archive.org/web/20241007132446/https://www2.tulane.edu/~sumter/index.html), an interactive historical simulation, presents students with five difficult decisions Abraham Lincoln made between his election in November 1860 and the battle of Fort Sumter in April 1861. The strength of this lesson is the wealth of [primary and secondary source evidence](http://web.archive.org/web/20240530073100/http://www2.tulane.edu/~sumter/Dilemmas/DWeedAdvice.html) that it uses to help students understand the challenging questions Lincoln faced.

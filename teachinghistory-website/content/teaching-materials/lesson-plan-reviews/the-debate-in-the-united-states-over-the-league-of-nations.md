@@ -31,6 +31,13 @@ tags:
 - Woodrow Wilson
 - World War I
 - presidents
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Opportunity to analyze causation
+- Scaffolding of close analysis of text
 ---
 
 This [lesson](http://edsitement.neh.gov/lesson-plan/debate-united-states-over-league-nations-five-camps-voices-consent-voices-dissent) provides a model of how to examine evidence and analyze diverse opinions about a public policy issue. Of particular value is the idea that politicians took a range of positions on the issue of the League, rather than simply being *for* or *against* it.

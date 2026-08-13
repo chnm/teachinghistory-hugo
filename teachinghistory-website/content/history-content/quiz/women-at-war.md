@@ -30,6 +30,12 @@ tags:
 - U.S. Navy
 - army
 - navy
+attachments:
+- delta: 0
+  title: Women at War Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-women-at-war.pdf
+  mime_type: application/pdf
+  size: 110240
 ---
 
 Since the beginning of U.S. history, women have risked everything to serve their country, whether as spies, nurses, workers on the homefront, or soldiers in male disguise. Only recently did the U.S. military begin allowing women to serve officially. Are the following true or false?

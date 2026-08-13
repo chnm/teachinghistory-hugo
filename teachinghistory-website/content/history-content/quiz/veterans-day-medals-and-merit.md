@@ -28,6 +28,12 @@ tags:
 - medals
 - military awards
 - ribbons
+attachments:
+- delta: 0
+  title: 'Veterans Day: Medals and Merit Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/veterans_day_2011_quiz_0.pdf
+  mime_type: application/pdf
+  size: 112883
 ---
 
 Before 1954, November 11 was Armistice Day, a federal holiday honoring veterans of World War I. Beginning in 1954, November 11 became Veterans Day, a holiday to honor all U.S. military veterans.

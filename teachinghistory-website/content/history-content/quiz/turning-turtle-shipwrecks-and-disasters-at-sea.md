@@ -24,6 +24,12 @@ topics:
 - Science & Tech.
 tags:
 - maritime history
+attachments:
+- delta: 0
+  title: Shipwrecks and Disasters at Sea Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-turning-turtle.pdf
+  mime_type: application/pdf
+  size: 75089
 ---
 
 When you think of life at sea, what comes to mind? Excitement? Danger? Shipwrecks and mysterious disappearances? Pirates? Johnny Depp? This quiz has a bit of all of the above, with the exception of Mr. Depp. Test your knowledge of renowned maritime disasters and confrontations.

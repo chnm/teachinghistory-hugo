@@ -21,6 +21,12 @@ time_periods:
 - Revolution & New Nation, 1754-1820s
 topics:
 - Media
+attachments:
+- delta: 0
+  title: Why Lie Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-news-media-hoaxes.pdf
+  mime_type: application/pdf
+  size: 81789
 ---
 
 Back to the beginning of the country, the American media has run stories that were widely regarded as true, but were eventually revealed as hoaxes. A few of them were innocuous. Some were not. Were the following hoaxes really printed?

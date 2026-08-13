@@ -23,6 +23,12 @@ tags:
 - athletes
 - football
 - sports
+attachments:
+- delta: 0
+  title: Plays You Won't See in the Superbowl Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-football.pdf
+  mime_type: application/pdf
+  size: 84930
 ---
 
 Over 30 years, beginning in 1876, football evolved from a slight variation on rugby into (roughly) its present-day form. Along the way, spectators saw some plays that would baffle today's football fans. Choose the answer that best describes each play below.

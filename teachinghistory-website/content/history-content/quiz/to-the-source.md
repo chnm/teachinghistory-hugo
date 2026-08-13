@@ -18,6 +18,12 @@ time_periods:
 tags:
 - primary sources
 - secondary sources
+attachments:
+- delta: 0
+  title: To the Source! Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/to_the_source_quiz.pdf
+  mime_type: application/pdf
+  size: 514692
 ---
 
 How do you study the past, a time that no longer exists? By referring to objects, records, and even people that have survived into the present. Artifacts that existed close in time, place, and experience to the topic being researched are called primary sources. Records that interpret primary sources are called secondary sources.

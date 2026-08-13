@@ -30,6 +30,12 @@ tags:
 - foodways
 - pottery
 - shell middens
+attachments:
+- delta: 0
+  title: Early American Artifacts Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-early-american-artifacts.pdf
+  mime_type: application/pdf
+  size: 75135
 ---
 
 For thousands of years, diverse cultures have inhabited the continent we call North America. Many of those cultures have died out, dispersed, evolved, or been wiped out, but artifacts from their long histories remain. Answer these questions about the physical evidence left behind by four early cultures.

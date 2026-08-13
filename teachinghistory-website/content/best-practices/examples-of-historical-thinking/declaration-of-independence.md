@@ -32,16 +32,27 @@ tags:
 videos:
 - src: /files/media/video/OZagarri1.mp4
   thumb: /files/media/video/thumbs/Zagarri1.jpg
-  title: 'Leading up to the Declaration'
+  title: Leading up to the Declaration
 - src: /files/media/video/Zagarri2.mp4
   thumb: /files/media/video/thumbs/Zagarri2.jpg
-  title: 'Beginning to Read the Declaration'
+  title: Beginning to Read the Declaration
 - src: /files/media/video/Zagarri3.mp4
   thumb: /files/media/video/thumbs/Zagarri3.jpg
-  title: 'The Grievances'
+  title: The Grievances
 - src: /files/media/video/Zagarri4.mp4
   thumb: /files/media/video/thumbs/Zagarri4.jpg
-  title: 'Effects of the Declaration'
+  title: Effects of the Declaration
+attachments:
+- delta: 0
+  title: Declaration of Independence
+  url: https://teachinghistory.org/sites/default/files/2018-08/declaration-small.pdf
+  mime_type: application/pdf
+  size: 226536
+- delta: 1
+  title: Declaration of Independence Transcript
+  url: https://teachinghistory.org/sites/default/files/2018-08/transcript-declaration_document.pdf
+  mime_type: application/pdf
+  size: 69482
 ---
 
 Historian Rosemarie Zagarri reads the Declaration of Independence closely, taking time to define its context and its effects.

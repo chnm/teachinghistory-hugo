@@ -31,6 +31,12 @@ tags:
 - clothing
 - knitting
 - socks
+attachments:
+- delta: 0
+  title: Socks to War Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/war_socks_quiz_0.pdf
+  mime_type: application/pdf
+  size: 269781
 ---
 
 Do common, unremarkable objects have a place in U.S. history? Of course! Take the humble sock, for instance. Whenever the U.S. goes to war, hundreds of knitters take up needles to make socks (and other knitted goods) for soldiers and civilians in need. What is the history of this practice? Answer the questions to learn more.

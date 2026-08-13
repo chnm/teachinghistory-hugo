@@ -37,6 +37,12 @@ tags:
 - golfers
 - jack johnson
 - sports
+attachments:
+- delta: 0
+  title: The Great Black Hope Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-african-american-athletes.pdf
+  mime_type: application/pdf
+  size: 78617
 ---
 
 Part of the history of race relations in 20th-century America was the progressive entry of African Americans into sports where they competed professionally with white players. How much do you know about this story?

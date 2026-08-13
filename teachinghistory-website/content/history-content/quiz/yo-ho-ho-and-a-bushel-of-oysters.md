@@ -35,6 +35,12 @@ tags:
 - crime
 - food
 - pirates
+attachments:
+- delta: 0
+  title: Yo, Ho, Ho and a . . . Bushel of Oysters Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-oyster-pirates.pdf
+  mime_type: application/pdf
+  size: 85753
 ---
 
 With *Talk Like a Pirate Day* on September 19th, students may be rolling their "Arrs." Popular media focuses on pirates pillaging at sea, but pirates didn't limit themselves to the open ocean. Consider these questions on oyster pirates, who made their living thieving shellfish in America's bays.

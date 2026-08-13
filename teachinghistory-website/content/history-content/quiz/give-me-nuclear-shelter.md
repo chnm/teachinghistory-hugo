@@ -25,6 +25,12 @@ tags:
 - fallout shelters
 - nuclear bombs
 - nuclear weapons
+attachments:
+- delta: 0
+  title: Give Me (Nuclear) Shelter Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/fallout_shelter_quiz_0.pdf
+  mime_type: application/pdf
+  size: 204258
 ---
 
 Cold War public fears about a nuclear attack on the United States peaked about 50 years ago. The government encouraged people at that time to build fallout shelters in their homes. How much do you know about this effort?

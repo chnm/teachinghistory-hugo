@@ -22,6 +22,12 @@ topics:
 tags:
 - presidential campaigns
 - presidential elections
+attachments:
+- delta: 0
+  title: 'By the Numbers: Election Maps Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-election-maps.pdf
+  mime_type: application/pdf
+  size: 144185
 ---
 
 During modern presidential campaigns and elections, red-and-blue maps dominate reporting on politics, tracking the success of candidates and their parties state by state. Check out these older maps, drawn from 19th-century presidential elections. The colors indicate Electoral College results for each state then in existence. Figure out what year each election occurred.

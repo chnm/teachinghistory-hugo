@@ -27,6 +27,15 @@ topics:
 tags:
 - Marbury v. Madison
 - U.S. Supreme Court
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Opportunity to analyze causation
+- Scaffolding of close analysis of text
+- Useful for differentiating instruction
+- Useful for English language learners
 ---
 
 During the early years of the American republic, the system of checks and balances between the three branches of the federal government was tested and solidified. This [lesson](http://web.archive.org/web/20251011162151/https://landmarkcases.org/en/landmark/cases/marbury_v_madison) examines the history behind the expansion of the Supreme Court's role and the principal of judicial review that came from the case of *Marbury v. Madison* in 1803. For teachers, one of the helpful things this website provides is secondary background reading and questions at three different ability levels. The easiest level provides help with vocabulary and may be suitable for English language learners. An engaging [political cartoon analysis exercise](http://web.archive.org/web/20190318084519/http://landmarkcases.org:80/en/Page/286/Political_Cartoon_Analysis) is also included. The cartoon illustrates the balance of powers between the three branches of government, equating the Supreme Court to referees in a football game. In addition, excerpts of the most significant passages and other related texts are provided for students to read and interpret. We think teachers will appreciate the flexibility in the recommended sequence of activities. Activities can be tailored to how much time you have to teach about this important topic.

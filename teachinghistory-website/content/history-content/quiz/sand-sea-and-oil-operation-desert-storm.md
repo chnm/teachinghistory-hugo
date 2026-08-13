@@ -28,6 +28,12 @@ tags:
 - Operation Desert Storm
 - Persian Gulf War
 - oil
+attachments:
+- delta: 0
+  title: 'Sand, Sea, and Oil: Operation Desert Storm Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-persian-gulf-war.pdf
+  mime_type: application/pdf
+  size: 68409
 ---
 
 The 1990–1991 Persian Gulf War, fought following Iraq's invasion of Kuwait, took place in a unique environment—arid, oil-rich desert, bordering on the Persian Gulf. How did the environment contribute to the character of the war? How was it damaged by the war? Decide if the statements are true or false.

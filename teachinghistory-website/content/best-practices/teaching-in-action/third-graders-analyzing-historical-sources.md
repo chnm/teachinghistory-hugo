@@ -39,16 +39,42 @@ tags:
 videos:
 - src: /files/media/video/BHH_classroom1.mp4
   thumb: /files/media/video/thumbs/BHH_classroom1.jpg
-  title: 'Group Analysis'
+  title: Group Analysis
 - src: /files/media/video/BHH_classroom2.mp4
   thumb: /files/media/video/thumbs/BHH_classroom2.jpg
-  title: 'Critical Thinking'
+  title: Critical Thinking
 - src: /files/media/video/BHH_classroom3.mp4
   thumb: /files/media/video/thumbs/BHH_classroom3.jpg
-  title: 'Connecting the Source'
+  title: Connecting the Source
 - src: /files/media/video/BHH_classroom4.mp4
   thumb: /files/media/video/thumbs/BHH_classroom4.jpg
-  title: 'Teacher Interview'
+  title: Teacher Interview
+attachments:
+- delta: 0
+  title: 'Photograph: Glass Works Carrying-in Boy'
+  url: https://teachinghistory.org/sites/default/files/2018-08/hine_carryingin_boy.pdf
+  mime_type: application/pdf
+  size: 353547
+- delta: 1
+  title: 'Photograph: Mary, Oyster Shucker'
+  url: https://teachinghistory.org/sites/default/files/2018-08/hine_photo_oyster_shucker.pdf
+  mime_type: application/pdf
+  size: 1527085
+- delta: 2
+  title: 'Photograph: Carrying-in Boys'
+  url: https://teachinghistory.org/sites/default/files/2018-08/hine_photo_carryingin_boys.pdf
+  mime_type: application/pdf
+  size: 345684
+- delta: 3
+  title: 'Photograph: Doffers and Sweepers'
+  url: https://teachinghistory.org/sites/default/files/2018-08/hine_photo_doffers_sweepers.pdf
+  mime_type: application/pdf
+  size: 325574
+- delta: 4
+  title: 'Photograph: Jennie Camillo, Cranberry Picker'
+  url: https://teachinghistory.org/sites/default/files/2018-08/hine_photo_jennie.pdf
+  mime_type: application/pdf
+  size: 398360
 ---
 
 In these clips from Kimberly Heckart's 3rd-grade classroom, we see students learn about child labor during the Industrial Revolution. In carefully sequenced activities, students analyze photos taken by Lewis Hine, consult secondary sources to build background knowledge and answer questions, and generate connections.

@@ -19,6 +19,17 @@ grade_levels:
 - middle
 topics:
 - Politics
+attachments:
+- delta: 0
+  title: SAC-Documents.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/SAC-Documents.pdf
+  mime_type: application/pdf
+  size: 134293
+- delta: 1
+  title: SAC-Handouts 1 and 2.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/SAC-Handouts_12.pdf
+  mime_type: application/pdf
+  size: 97263
 ---
 
 ## What Is It?

@@ -24,6 +24,22 @@ tags:
 - DBQs
 - class discussion
 - discussion
+attachments:
+- delta: 0
+  title: Handout 1
+  url: https://teachinghistory.org/sites/default/files/2018-08/worksheet_1.pdf
+  mime_type: application/pdf
+  size: 73475
+- delta: 1
+  title: Handout 2
+  url: https://teachinghistory.org/sites/default/files/2018-08/worksheet_2.pdf
+  mime_type: application/pdf
+  size: 109625
+- delta: 2
+  title: Handout 3
+  url: https://teachinghistory.org/sites/default/files/2018-08/worksheet_3.pdf
+  mime_type: application/pdf
+  size: 157639
 ---
 
 ## What Is It?

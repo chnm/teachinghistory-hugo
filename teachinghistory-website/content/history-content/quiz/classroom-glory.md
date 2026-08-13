@@ -27,6 +27,12 @@ tags:
 - films
 - historical fiction
 - movies
+attachments:
+- delta: 0
+  title: Classroom Glory Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz_glory_0.pdf
+  mime_type: application/pdf
+  size: 62397
 ---
 
 Film’s dynamic narratives and living characters draw students in—but are they useful teaching tools? The film, "Glory," frequently shown in classrooms, tells the story of the 54th Massachusetts, a famous African American regiment in the Civil War. Decide whether the following “truths” suggested by the film are true or false.

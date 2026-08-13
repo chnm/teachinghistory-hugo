@@ -25,6 +25,12 @@ tags:
 - Martin Luther King Jr.
 - Martin Luther King Jr. Day
 - holidays
+attachments:
+- delta: 0
+  title: In Dr. King's Words Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/mlk_jr_day_2011_quiz_0.pdf
+  mime_type: application/pdf
+  size: 179488
 ---
 
 In 2011, the Martin Luther King Jr. National Memorial opened to the public. On one side of the statue is a direct quote from King; on the other side is a paraphrased quote. Since the monument opened, people have spoken up against the decision to paraphrase King’s words, noting that the paraphrase significantly changes the meaning.

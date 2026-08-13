@@ -27,6 +27,12 @@ tags:
 - ping pong
 - puzzles
 - sports
+attachments:
+- delta: 0
+  title: Manias of the Gilded Age Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-gilded-age-games.pdf
+  mime_type: application/pdf
+  size: 76560
 ---
 
 The Gilded Age saw the introduction of many games, sports, dances, hobbies, and activities that blazed bright for a while, but then dimmed considerably. Test your knowledge of these 19th-century fads.

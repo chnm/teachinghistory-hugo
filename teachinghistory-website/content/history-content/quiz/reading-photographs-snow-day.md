@@ -24,6 +24,17 @@ tags:
 - photographs
 - photography
 - photos
+attachments:
+- delta: 0
+  title: Snow Day Photo
+  url: https://teachinghistory.org/sites/default/files/2018-08/snow_photo_0.pdf
+  mime_type: application/pdf
+  size: 329863
+- delta: 1
+  title: 'Reading Photographs: Snow Day PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/snow_day_photo_quiz_0.pdf
+  mime_type: application/pdf
+  size: 311865
 ---
 
 How carefully do you look at photos? Often, photographs and other visual primary sources come with captions that say when they were created and what they portray. But what if a picture isn't captioned? How can you figure out its date?

@@ -27,6 +27,12 @@ topics:
 tags:
 - ocean
 - whaling
+attachments:
+- delta: 0
+  title: When Whales Lit the World Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-whaling.pdf
+  mime_type: application/pdf
+  size: 75765
 ---
 
 Up to the 20th century, men shipped out whaling—risking their lives and spending up to five years at sea per voyage. Why? Because whalers lit the world, providing oil for lamps and for the machines of the industrial revolution—at no small cost to the whale population. Test your whaling knowledge.

@@ -39,16 +39,22 @@ tags:
 videos:
 - src: /files/media/video/Ritchie5.mp4
   thumb: /files/media/video/thumbs/Ritchie5.jpg
-  title: 'The Photograph and Its Context'
+  title: The Photograph and Its Context
 - src: /files/media/video/Ritchie6.mp4
   thumb: /files/media/video/thumbs/Ritchie6.jpg
-  title: 'Mark Trice and the Photograph'
+  title: Mark Trice and the Photograph
 - src: /files/media/video/Ritchie7.mp4
   thumb: /files/media/video/thumbs/Ritchie7.jpg
-  title: 'Reading the Photograph'
+  title: Reading the Photograph
 - src: /files/media/video/Ritchie8.mp4
   thumb: /files/media/video/thumbs/Ritchie8.jpg
-  title: 'Polio and Roosevelt'
+  title: Polio and Roosevelt
+attachments:
+- delta: 0
+  title: 1932 Photograph of FDR
+  url: https://teachinghistory.org/sites/default/files/2018-08/fdr_inauguration_photo.pdf
+  mime_type: application/pdf
+  size: 1296178
 ---
 
 What can a photograph of Franklin D. Roosevelt in 1932 reveal? Donald A. Ritchie looks at the people captured in this photograph, including FDR, his son James, Eleanor Roosevelt, and later Secretary of the Senate Mark Trice, and considers the significance of how Roosevelt stands and presents himself.

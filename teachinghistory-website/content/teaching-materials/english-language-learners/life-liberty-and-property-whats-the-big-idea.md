@@ -30,6 +30,22 @@ author_image: /files/author_image/Long.jpg
 grade_levels:
 - elementary
 - middle
+attachments:
+- delta: 0
+  title: handout1_framing_discussion.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout1_framing_discussion_0.pdf
+  mime_type: application/pdf
+  size: 92786
+- delta: 1
+  title: handout2_writing_frame.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout2_writing_frame_0.pdf
+  mime_type: application/pdf
+  size: 95749
+- delta: 2
+  title: handout3_locke.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout3_locke_0.pdf
+  mime_type: application/pdf
+  size: 101212
 ---
 
 Ideas for this lesson were inspired by:

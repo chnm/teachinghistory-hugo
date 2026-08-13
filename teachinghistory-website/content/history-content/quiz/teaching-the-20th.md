@@ -29,6 +29,12 @@ tags:
 - feminism
 - presidents
 - textbooks
+attachments:
+- delta: 0
+  title: Teaching the 20th
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-teaching-the-20th.pdf
+  mime_type: application/pdf
+  size: 73752
 ---
 
 We see the past through the filter of the present. How does that filter change perceptions as the distance between past and present widens? Date the following textbook excerpts—two on the women's movement in the later 20th century and two on Ronald Reagan's presidency—and consider the change in how writers interpret the present as it becomes the past.

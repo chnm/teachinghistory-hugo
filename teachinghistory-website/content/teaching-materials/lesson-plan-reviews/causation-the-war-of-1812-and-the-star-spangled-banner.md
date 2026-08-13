@@ -28,6 +28,11 @@ tags:
 - Francis Scott Key
 - Star Spangled Banner
 - War of 1812
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Opportunity to analyze causation
 ---
 
 Noting that textbooks for grades 3 through 8 often exclude the War of 1812, the [Smithsonian’s History Explorer website](/history-content/website-reviews/24310) designed this [lesson](http://web.archive.org/web/20120504174603/http://www.americanhistory.si.edu/starspangledbanner/pdf/SSB_History_Overview.pdf) to teach students about the origins and outcomes of this pivotal event in American history. This lesson also provides students with historical context for understanding one of the most popular and enduring texts in American history: "The Star-Spangled Banner," written by Francis Scott Key.

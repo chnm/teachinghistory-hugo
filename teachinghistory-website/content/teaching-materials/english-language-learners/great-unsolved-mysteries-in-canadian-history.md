@@ -22,6 +22,10 @@ image: /files/mysteries_img1.jpg
 grade_levels:
 - high
 - middle
+resources:
+- delta: 0
+  url: http://www.canadianmysteries.ca/en/
+  title: Great Unsolved Mysteries in Canadian History
 ---
 
 The [Great Unsolved Mysteries in Canadian History](http://web.archive.org/web/20240117035256/https://www.canadianmysteries.ca/en/) project offers teaching resources and guidance for conducting document-centered inquiry in middle and high school classrooms. This wealth of resources includes vast archives of documents, (for example [Montreal is Burning](http://www.canadianmysteries.ca/sites/angelique/archives/indexen.html)) and several [guides](http://web.archive.org/web/20240117035256/https://www.canadianmysteries.ca/en/keyConcepts.php) for teaching students to think critically about history. Materials are available in both French and English.

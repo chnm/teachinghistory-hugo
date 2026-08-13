@@ -30,6 +30,12 @@ topics:
 tags:
 - immigrants
 - immigration
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Opportunity to analyze causation
+- Useful for differentiating instruction
 ---
 
 Primary source documents and statistical tables about immigration in the late 19th and early 20th centuries anchor this [lesson](http://www.digitalhistory.uh.edu/teachers/modules/immigration/index.cfm). Analytical questions about the documents and the tables require students to draw conclusions from the data, as well as evaluate opinions regarding immigration as expressed in the primary sources.

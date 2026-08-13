@@ -3,7 +3,8 @@
 Merge freshly-extracted Drupal content into the existing Hugo site content.
 
 Matches files by drupal_nid in frontmatter.  For each match:
-  - Replaces the Markdown body with the new extraction
+  - Preserves non-empty Markdown bodies unless --replace-body is explicit
+  - Fills an empty body during a full merge (not when --keys limits metadata)
   - Merges new frontmatter fields (adds missing keys, does NOT overwrite
     existing keys like title, url, date, etc.)
   - Preserves the file's location in the nested Hugo directory structure
@@ -14,7 +15,8 @@ organized into sections yet).
 
 Usage:
     python merge_content.py --new content-new --existing ../teachinghistory-website/content
-    python merge_content.py --new content-new --existing ../teachinghistory-website/content --dry-run
+    python merge_content.py --new content-new --existing ../teachinghistory-website/content --write
+    python merge_content.py --new content-new --existing ../teachinghistory-website/content --write --replace-body --nids 25836,25163
 """
 
 import argparse
@@ -93,10 +95,11 @@ PROTECTED_KEYS = {
 }
 
 
-def merge_file(existing_path, new_path, dry_run=False):
+def merge_file(existing_path, new_path, dry_run=True, replace_body=False,
+               allowed_keys=None):
     """Merge new extraction data into an existing Hugo content file.
 
-    - Body: replaced entirely with new extraction
+    - Body: preserved unless empty or replace_body is explicitly enabled
     - Frontmatter: new keys are added, existing keys preserved
     """
     existing_text = existing_path.read_text(encoding='utf-8')
@@ -112,21 +115,37 @@ def merge_file(existing_path, new_path, dry_run=False):
     # Merge frontmatter: add new keys that don't exist yet
     fm_additions = {}
     for key, val in new_fm.items():
+        if allowed_keys is not None and key not in allowed_keys:
+            continue
         if key not in existing_fm and key not in PROTECTED_KEYS:
             fm_additions[key] = val
             existing_fm[key] = val
 
-    if not body_changed and not fm_additions:
-        return 'unchanged'
+    use_new_body = (
+        (body_gained and allowed_keys is None)
+        or (body_changed and replace_body)
+    )
+
+    if not use_new_body and not fm_additions:
+        return 'body_diff_skipped' if body_changed else 'unchanged'
 
     if dry_run:
-        return 'would_update' if body_gained else 'would_refresh'
+        if body_gained and use_new_body:
+            return 'would_gain_body'
+        if use_new_body:
+            return 'would_replace_body'
+        return 'would_add_metadata'
 
     # Write merged content
-    merged = serialize_file(existing_fm, new_body)
+    merged_body = new_body if use_new_body else existing_body
+    merged = serialize_file(existing_fm, merged_body)
     existing_path.write_text(merged, encoding='utf-8')
 
-    return 'gained_body' if body_gained else 'updated'
+    if body_gained:
+        return 'gained_body'
+    if use_new_body:
+        return 'updated'
+    return 'metadata_only'
 
 
 def main():
@@ -136,9 +155,24 @@ def main():
                         help='Path to newly extracted content (e.g. content-new)')
     parser.add_argument('--existing', required=True,
                         help='Path to existing Hugo content (e.g. ../teachinghistory-website/content)')
+    parser.add_argument('--write', action='store_true',
+                        help='Apply changes (default is a dry run)')
     parser.add_argument('--dry-run', action='store_true',
-                        help='Show what would change without writing')
+                        help='Deprecated alias for the default dry-run behavior')
+    parser.add_argument('--replace-body', action='store_true',
+                        help='Replace non-empty bodies that differ (requires explicit review)')
+    parser.add_argument('--nids',
+                        help='Comma-separated Drupal NIDs to review or merge')
+    parser.add_argument('--keys',
+                        help='Only add these comma-separated frontmatter keys')
     args = parser.parse_args()
+    dry_run = not args.write or args.dry_run
+    selected_nids = None
+    if args.nids:
+        selected_nids = {int(value.strip()) for value in args.nids.split(',') if value.strip()}
+    allowed_keys = None
+    if args.keys:
+        allowed_keys = {value.strip() for value in args.keys.split(',') if value.strip()}
 
     print("Building index of existing content by NID...")
     existing_index = build_nid_index(args.existing)
@@ -154,12 +188,23 @@ def main():
     unmatched_types = defaultdict(int)
 
     for nid, new_path in sorted(new_index.items()):
+        if selected_nids is not None and nid not in selected_nids:
+            continue
         if nid in existing_index:
             existing_path = existing_index[nid]
-            status = merge_file(existing_path, new_path, dry_run=args.dry_run)
+            status = merge_file(
+                existing_path,
+                new_path,
+                dry_run=dry_run,
+                replace_body=args.replace_body,
+                allowed_keys=allowed_keys,
+            )
             results[status] += 1
 
-            if status in ('gained_body', 'would_update'):
+            if status not in ('unchanged',):
+                print(f"  {nid}: {status:18s} {existing_path}")
+
+            if status in ('gained_body', 'would_gain_body'):
                 # Track which content types gained body content
                 new_text = new_path.read_text(encoding='utf-8')
                 fm, _ = parse_frontmatter(new_text)
@@ -172,11 +217,13 @@ def main():
             unmatched_types[parent] += 1
 
     # Report
-    prefix = "[DRY RUN] " if args.dry_run else ""
+    prefix = "[DRY RUN] " if dry_run else ""
     print(f"\n{prefix}Merge results:")
     print(f"  Unchanged:          {results.get('unchanged', 0):,}")
-    print(f"  Updated (had body): {results.get('updated', 0) + results.get('would_refresh', 0):,}")
-    print(f"  Gained body (new!): {results.get('gained_body', 0) + results.get('would_update', 0):,}")
+    print(f"  Replaced body:      {results.get('updated', 0) + results.get('would_replace_body', 0):,}")
+    print(f"  Gained body (new!): {results.get('gained_body', 0) + results.get('would_gain_body', 0):,}")
+    print(f"  Metadata only:      {results.get('metadata_only', 0) + results.get('would_add_metadata', 0):,}")
+    print(f"  Body diff skipped:  {results.get('body_diff_skipped', 0):,}")
     print(f"  No match in Hugo:   {results.get('no_match', 0):,}")
 
     if gained_types:

@@ -22,6 +22,27 @@ tags:
 - Abraham Lincoln
 - teaching strategies
 - webquests
+attachments:
+- delta: 0
+  title: Handout 1
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_1.pdf
+  mime_type: application/pdf
+  size: 93644
+- delta: 1
+  title: Handout 2
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_2.pdf
+  mime_type: application/pdf
+  size: 104308
+- delta: 2
+  title: Handout 3
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_3.pdf
+  mime_type: application/pdf
+  size: 124933
+- delta: 3
+  title: Handout 4
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_4.pdf
+  mime_type: application/pdf
+  size: 109221
 ---
 
 ## What Is It?

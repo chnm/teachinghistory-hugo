@@ -28,6 +28,12 @@ tags:
 - Japan
 - princesses
 - royalty
+attachments:
+- delta: 0
+  title: Princesses of the Past Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-princesses-of-the-past.pdf
+  mime_type: application/pdf
+  size: 83664
 ---
 
 The U.S. formed by breaking ties with a king, but its people remain fascinated by royalty—particularly glamorous queens and princesses, whether fictional or real. While we have no royalty of our own, monarchies (and princesses) *do* figure in American history. Choose whether the statements are true or false.

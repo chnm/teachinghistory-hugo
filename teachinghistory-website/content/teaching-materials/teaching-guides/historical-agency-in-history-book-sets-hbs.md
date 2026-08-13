@@ -50,6 +50,22 @@ topics:
 - International Relations
 tags:
 - historical fiction; civil rights; Japanese internment
+attachments:
+- delta: 0
+  title: Template_A-Biographical_Poem.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/Template_A-Biographical_Poem_0.pdf
+  mime_type: application/pdf
+  size: 89858
+- delta: 1
+  title: Template_B-Recognizing_Agency.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/Template_B-Recognizing_Agency_0.pdf
+  mime_type: application/pdf
+  size: 118142
+- delta: 2
+  title: Example-Historical_Agency.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/Example-Historical_Agency.pdf
+  mime_type: application/pdf
+  size: 136333
 ---
 
 ## What Is It?

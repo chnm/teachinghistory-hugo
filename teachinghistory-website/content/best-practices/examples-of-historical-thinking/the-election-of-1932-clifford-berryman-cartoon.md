@@ -37,16 +37,22 @@ tags:
 videos:
 - src: /files/media/video/Ritchie1.mp4
   thumb: /files/media/video/thumbs/Ritchie2.jpg
-  title: 'Introducing Clifford Berryman''s Cartoons'
+  title: Introducing Clifford Berryman's Cartoons
 - src: /files/media/video/Ritchie2.mp4
   thumb: /files/media/video/thumbs/Ritchie3.jpg
-  title: 'Explaining the Context'
+  title: Explaining the Context
 - src: /files/media/video/Ritchie3.mp4
   thumb: /files/media/video/thumbs/Ritchie4.jpg
-  title: 'Examining the Conventions'
+  title: Examining the Conventions
 - src: /files/media/video/Ritchie4.mp4
   thumb: /files/media/video/thumbs/Ritchie8.jpg
-  title: 'How Cartoons Have Changed'
+  title: How Cartoons Have Changed
+attachments:
+- delta: 0
+  title: 'Clifford Berryman Cartoon: "Maine Results"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/berryman_maine_results_cartoon.pdf
+  mime_type: application/pdf
+  size: 684601
 ---
 
 As the 1932 campaign began, no one could know Franklin D. Roosevelt would win. Donald A. Ritchie looks at how political cartoons can capture a moment of change, analyzing Clifford Berryman's cartoon reacting to the results of the September 1932 elections in Maine.

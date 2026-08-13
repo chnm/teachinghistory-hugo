@@ -29,6 +29,17 @@ tags:
 - Civil War
 - Emancipation Proclamation
 - letters
+attachments:
+- delta: 0
+  title: Jasper Barney's Letter (Union Soldier) and Transcript
+  url: https://teachinghistory.org/sites/default/files/2018-08/barney-letter-1.pdf
+  mime_type: application/pdf
+  size: 790898
+- delta: 1
+  title: John White's Letter (Confederate Soldier) and Transcript
+  url: https://teachinghistory.org/sites/default/files/2018-08/white-letter-2.pdf
+  mime_type: application/pdf
+  size: 1036365
 ---
 
 [This website](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/classroom-practice/) shows an 8th-grade teacher in Maryland teaching a lesson based on Civil War letters. [Source Analysis](http://chnm.gmu.edu/mcpstah/source-analysis/), a feature created for the Montgomery County (Maryland) TAH website, has three sections focused on these primary sources: [Scholar Analysis](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/scholar-analysis/), [Teacher Analysis](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/teacher-analysis/), and [Classroom Practice](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/classroom-practice/). The latter two sections show a lesson that asks students to examine what a Union and a Confederate soldier thought about the Emancipation Proclamation. In order to investigate this, the teacher asks students to study [two letters](http://chnm.gmu.edu/mcpstah/source-analysis/civil-war-letters/read-the-letters/) written by soldiers during the Civil War. This series of videos provides examples of two promising practices:

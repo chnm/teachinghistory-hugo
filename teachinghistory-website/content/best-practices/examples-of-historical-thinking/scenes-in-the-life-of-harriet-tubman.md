@@ -31,16 +31,22 @@ tags:
 videos:
 - src: /files/media/video/Tiya1.mp4
   thumb: /files/media/video/thumbs/Tiya1.jpg
-  title: 'Who Was Harriet Tubman?'
+  title: Who Was Harriet Tubman?
 - src: /files/media/video/Tiya2.mp4
   thumb: /files/media/video/thumbs/Tiya2.jpg
   title: 'Context: Tubman and the Autobiography'
 - src: /files/media/video/Tiya3.mp4
   thumb: /files/media/video/thumbs/Tiya3.jpg
-  title: 'Slavery and Escape'
+  title: Slavery and Escape
 - src: /files/media/video/Tiya4.mp4
   thumb: /files/media/video/thumbs/Tiya4.jpg
-  title: 'The Importance of the Autobiography'
+  title: The Importance of the Autobiography
+attachments:
+- delta: 0
+  title: harriet_tubman_excerpt.doc
+  url: https://teachinghistory.org/sites/default/files/2018-08/harriet_tubman_excerpt.doc
+  mime_type: application/msword
+  size: 56832
 ---
 
 Historian Tiya Miles asks what we really know about abolitionist Harriet Tubman. She questions *Scenes in the Life of Harriet Tubman*, her 1869 biography. The author, Sarah H. Bradford, claims that the book is based on Tubman's own narration. But how did Bradford interpret Tubman's life? Was she true to Tubman's words? Who was the intended audience?

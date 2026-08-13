@@ -1,0 +1,17 @@
+{{- $page := . -}}
+{{- $url := $page.Params.website_url -}}
+{{- with $url }}
+  {{- $label := . | replaceRE "^https?://(www\\.)?" "" | truncate 52 -}}
+  {{- with $page.Params.website_links -}}
+    {{- $first := index . 0 -}}
+    {{- with $first.title -}}
+      {{- $label = . -}}
+    {{- end -}}
+  {{- end -}}
+<div class="py-3 border-b border-gray-light">
+  <p class="font-heading text-xs font-bold uppercase tracking-wide text-gray-500 mb-1">Website</p>
+  <a href="{{ . }}" class="text-sm text-orange hover:underline break-words" target="_blank" rel="noopener">
+    {{ $label }}
+  </a>
+</div>
+{{- end }}

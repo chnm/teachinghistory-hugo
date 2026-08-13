@@ -28,6 +28,12 @@ tags:
 - explorers
 - primary sources
 - secondary sources
+attachments:
+- delta: 0
+  title: 'Columbus Day: Stories of Exploration Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-columbus-day-2011.pdf
+  mime_type: application/pdf
+  size: 146351
 ---
 
 Columbus Day memorializes the story of Christopher Columbus's 1492 landing in the present-day Bahamas. Some, however, claim that explorers from other continents reached the Americas years earlier.

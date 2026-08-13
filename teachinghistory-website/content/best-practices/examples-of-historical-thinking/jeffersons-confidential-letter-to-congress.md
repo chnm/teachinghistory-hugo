@@ -37,10 +37,16 @@ tags:
 videos:
 - src: /files/media/video/Leah1.mp4
   thumb: /files/media/video/thumbs/Leah1.jpg
-  title: 'Reading the Document'
+  title: Reading the Document
 - src: /files/media/video/Leah2.mp4
   thumb: /files/media/video/thumbs/Leah2.jpg
-  title: 'Teaching Strategies'
+  title: Teaching Strategies
+attachments:
+- delta: 0
+  title: Jefferson's Confidential Letter
+  url: https://teachinghistory.org/sites/default/files/2018-08/jefferson_confidential_letter_full.pdf
+  mime_type: application/pdf
+  size: 1399625
 ---
 
 Historian Leah Glaser analyzes a letter to the U.S. Congress from Thomas Jefferson requesting funding for the Lewis and Clark expedition. In this letter, Jefferson explains his rationale and his vision for the future of the country. Glaser models several historical thinking skills, including:

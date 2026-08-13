@@ -25,6 +25,12 @@ tags:
 - Sam
 - cartoons
 - propaganda
+attachments:
+- delta: 0
+  title: Uncle Sam and Lady Liberty Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-uncle-sam.pdf
+  mime_type: application/pdf
+  size: 133696
 ---
 
 Uncle Sam and Lady Liberty—for over a century, these two characters have personified the United States and popular conception of the nation’s ideals. Answer these questions about the roles these characters have played, including soldier, tyrant, police officer, financier, judge, deity, and champion of the oppressed.

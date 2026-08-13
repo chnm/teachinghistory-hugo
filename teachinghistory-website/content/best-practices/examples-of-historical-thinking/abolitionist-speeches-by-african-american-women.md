@@ -37,16 +37,27 @@ tags:
 videos:
 - src: /files/media/video/peterson1.mp4
   thumb: /files/media/video/thumbs/peterson1.jpg
-  title: 'Harper''s Language'
+  title: Harper's Language
 - src: /files/media/video/peterson2.mp4
   thumb: /files/media/video/thumbs/peterson2.jpg
-  title: 'Truth''s Language'
+  title: Truth's Language
 - src: /files/media/video/peterson3.mp4
   thumb: /files/media/video/thumbs/peterson3.jpg
-  title: 'Addressing an Audience'
+  title: Addressing an Audience
 - src: /files/media/video/peterson4.mp4
   thumb: /files/media/video/thumbs/peterson4.jpg
-  title: 'Comparing Versions'
+  title: Comparing Versions
+attachments:
+- delta: 0
+  title: Excerpt - Speech by Sojourner Truth
+  url: https://teachinghistory.org/sites/default/files/2018-08/sojourner_truth_excerpt_0.pdf
+  mime_type: application/pdf
+  size: 72939
+- delta: 1
+  title: Excerpt - Speech by Francis Watkins Harper
+  url: https://teachinghistory.org/sites/default/files/2018-08/francis_watkins_harper_excerpt_0.pdf
+  mime_type: application/pdf
+  size: 76198
 ---
 
 Abolitionists used different styles and arguments to speak out against slavery. How do the styles of two African American abolitionist speakers, Sojourner Truth and Frances Ellen Watkins Harper, differ? What do we know about these women? Who recorded their words? Historian Carla Peterson examines primary sources for answer.

@@ -27,6 +27,13 @@ tags:
 - Civil Rights Movement
 - Montgomery Bus Boycott
 - Rosa Parks
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Opportunity to analyze causation
+- Scaffolding of close analysis of text
 ---
 
 This easy-to-follow [lesson](http://historicalthinkingmatters.org/rosaparks/1/materials/textbook/) cuts to the heart of historical thinking. Its strength is that it requires students to go to the sources in order to develop historical knowledge. Not only does it show students how public memory and history textbooks can oversimplify complex events, it gives students the means to craft their own textbook passage by drawing on specific textual evidence, including sources that contradict one another.

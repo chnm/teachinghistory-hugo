@@ -25,6 +25,12 @@ tags:
 - Portugal
 - Spain
 - The Netherlands
+attachments:
+- delta: 0
+  title: Europe Encounters the Western Hemisphere Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-europe-encounters.pdf
+  mime_type: application/pdf
+  size: 76393
 ---
 
 As the 16th century began, the nations of Europe kicked off an "exploration race," scrambling to explore and lay claim to areas of North and South America. Dreams of international wealth and power hinged on the acquisition of colonies. Answer these questions about European exploration and colonization in the Western Hemisphere.

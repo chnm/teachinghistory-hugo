@@ -41,16 +41,22 @@ tags:
 videos:
 - src: /files/media/video/JohnSmith1.mp4
   thumb: /files/media/video/thumbs/JohnSmith1.jpg
-  title: 'Exploring the Map'
+  title: Exploring the Map
 - src: /files/media/video/JohnSmith2.mp4
   thumb: /files/media/video/thumbs/JohnSmith2.jpg
-  title: 'What is Important?'
+  title: What is Important?
 - src: /files/media/video/JohnSmith3.mp4
   thumb: /files/media/video/thumbs/JohnSmith3.jpg
-  title: 'Different Perspectives'
+  title: Different Perspectives
 - src: /files/media/video/JohnSmith4.mp4
   thumb: /files/media/video/thumbs/JohnSmith4.jpg
-  title: 'What Questions Can Students Ask?'
+  title: What Questions Can Students Ask?
+attachments:
+- delta: 0
+  title: John Smith Map
+  url: https://teachinghistory.org/sites/default/files/2018-08/john_smith_map_25096.pdf
+  mime_type: application/pdf
+  size: 1343070
 ---
 
 Curator Barbara Clark Smith examines John Smith's 1612 map of a section of Virginia, asking why Smith included what he did, why he left things out, and what he hoped people who saw this map would take away from it.

@@ -26,6 +26,12 @@ tags:
 - autos
 - cars
 - transportation
+attachments:
+- delta: 0
+  title: America's Love for the Automobile Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-autos-2011.pdf
+  mime_type: application/pdf
+  size: 142586
 ---
 
 The U.S. is a country in love with automobiles. But just how safe are cars? Are they safer now than in the past? Answer these questions to find out!

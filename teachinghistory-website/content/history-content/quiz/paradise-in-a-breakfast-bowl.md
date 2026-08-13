@@ -30,6 +30,12 @@ tags:
 - food
 - foodways
 - religion
+attachments:
+- delta: 0
+  title: Paradise in a Breakfast Bowl Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-paradise-in-a-breakfast-bowl.pdf
+  mime_type: application/pdf
+  size: 71120
 ---
 
 Pre-processed, dry breakfast cereal was largely invented by American "food reformers" who wished to create a food that was convenient, healthy, and tasty, but who also believed that such a food would regenerate mankind. They wished to bring humans back to the original, "natural," spiritual state in which they lived in the Garden of Eden. Try to figure out, for each of the following products, if the inventor was motivated by religious ideas.

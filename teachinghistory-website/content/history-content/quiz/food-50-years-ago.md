@@ -21,6 +21,12 @@ tags:
 - food
 - foodways
 - supermarkets
+attachments:
+- delta: 0
+  title: Food 50 Years Ago Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/supermarkets_quiz_0.pdf
+  mime_type: application/pdf
+  size: 158470
 ---
 
 In 1961, John F. Kennedy was president. The U.S. and the Soviet Union were staring each other down over the divide between West and East Berlin. General Maxwell Taylor traveled to South Vietnam to discuss sending U.S. troops. Joseph Heller’s novel, Catch-22, was published. Breakfast at Tiffany’s, starring Audrey Hepburn, opened in movie theaters. And then, as now, everyone had to eat. But what did they shop for? Select the **one** item in each question that **was available** at a national-chain supermarket 50 years ago in 1961.

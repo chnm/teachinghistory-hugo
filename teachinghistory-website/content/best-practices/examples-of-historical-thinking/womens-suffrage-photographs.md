@@ -32,13 +32,44 @@ tags:
 videos:
 - src: /files/media/video/Boisseau2a.mp4
   thumb: /files/media/video/thumbs/Boisseau2a.jpg
-  title: 'Women Workers and Suffrage'
+  title: Women Workers and Suffrage
 - src: /files/media/video/Boisseau2b.mp4
   thumb: /files/media/video/thumbs/Boisseau2b.jpg
-  title: 'Using the Press'
+  title: Using the Press
 - src: /files/media/video/Boisseau2c.mp4
   thumb: /files/media/video/thumbs/Boisseau2c.jpg
-  title: 'A Change in Tone'
+  title: A Change in Tone
+attachments:
+- delta: 0
+  title: Photograph - Garment Workers (1916)
+  url: https://teachinghistory.org/sites/default/files/2018-08/garment_workers_1916.pdf
+  mime_type: application/pdf
+  size: 188917
+- delta: 1
+  title: Photograph - Suffragists (1917)
+  url: https://teachinghistory.org/sites/default/files/2018-08/suffragists_1917.pdf
+  mime_type: application/pdf
+  size: 328869
+- delta: 2
+  title: Photograph - Suffragists in White (1913)
+  url: https://teachinghistory.org/sites/default/files/2018-08/suffragists_in_white.pdf
+  mime_type: application/pdf
+  size: 359468
+- delta: 3
+  title: Photograph - Inez Milholland Boissevai (1913)
+  url: https://teachinghistory.org/sites/default/files/2018-08/inez_milholland_boissevai_1913.pdf
+  mime_type: application/pdf
+  size: 771610
+- delta: 4
+  title: Photograph - Suffragists with Banners (1918)
+  url: https://teachinghistory.org/sites/default/files/2018-08/suffragists_with_banners.pdf
+  mime_type: application/pdf
+  size: 342306
+- delta: 5
+  title: Photograph - Ida B. Wells-Barnett
+  url: https://teachinghistory.org/sites/default/files/2018-08/ida_b_wells-barnett.pdf
+  mime_type: application/pdf
+  size: 217589
 ---
 
 How did the women's suffrage movement use the rise of journalism to its advantage? TJ Boisseau introduces photographs that show how suffragists staged protests with the press in mind. The photographs also reveal suffragists' debt to techniques used by striking women workers, the influence of new young leaders, and the racism that plagued the suffrage movement (and society at large).

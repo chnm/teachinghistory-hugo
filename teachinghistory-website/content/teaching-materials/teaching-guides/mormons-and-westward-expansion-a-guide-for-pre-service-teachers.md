@@ -29,6 +29,12 @@ topics:
 - Western States
 tags:
 - westward expansion
+attachments:
+- delta: 0
+  title: Sources, Source Excerpts, and Annotations
+  url: https://teachinghistory.org/sites/default/files/2022-09/MormonPrimarySources.pdf
+  mime_type: application/pdf
+  size: 1381744
 ---
 
 **What is it?**

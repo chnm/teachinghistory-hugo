@@ -21,6 +21,12 @@ topics:
 tags:
 - soldiers
 - uniforms
+attachments:
+- delta: 0
+  title: The Blue and the Grey (and Red and Green and Yellow) Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/blue_and_grey_quiz_0.pdf
+  mime_type: application/pdf
+  size: 570379
 ---
 
 Suppose you were fighting in the Civil War and you encountered the uniformed soldiers pictured while scouting in the woods. Would you consider them friend or foe?

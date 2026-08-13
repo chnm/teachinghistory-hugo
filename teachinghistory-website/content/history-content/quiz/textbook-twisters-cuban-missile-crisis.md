@@ -21,6 +21,12 @@ topics:
 - Politics
 tags:
 - Cuban Missile Crisis
+attachments:
+- delta: 0
+  title: Cuban Missile Crisis Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-cuban-missile-crisis.pdf
+  mime_type: application/pdf
+  size: 83592
 ---
 
 The world was watching during the Cuban Missile Crisis—and it wrote down what it saw. Different countries interpreted the Cuban Missile Crisis in different ways, when they constructed historical narratives following the Crisis. Read the following textbooks selections, and choose the country of origin for each.

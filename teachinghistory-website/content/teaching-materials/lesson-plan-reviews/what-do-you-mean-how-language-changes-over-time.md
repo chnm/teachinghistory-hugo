@@ -32,6 +32,10 @@ tags:
 - Jamestowne
 - historical context
 - language
+features:
+- Focus on historical thinking
+- Scaffolding of close analysis of text
+- Useful for English language learners
 ---
 
 This  [lesson](https://historicjamestowne.org/education/for-educators-2/lesson-plans/what-do-you-mean/) provides students with a simple introduction to a fundamental and often elusive component of historical thinking—placing the prose of an historical document in its appropriate context. Students begin with a list of words from 17th-century English that are still in use in the 21st century. Students create sentences using these words based on their modern meanings, then note how their sentences change in meaning with the 17th-century usage of the words. The short follow-up discussion focuses on how such changes in the meanings of words make the historian’s task of analyzing primary sources challenging.

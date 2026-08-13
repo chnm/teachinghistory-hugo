@@ -52,6 +52,17 @@ tags:
 - mystery
 - pelt
 - science
+attachments:
+- delta: 0
+  title: Mystery Writing Guide Worksheet
+  url: https://teachinghistory.org/sites/default/files/2018-08/mysterystrategyworksheet.pdf
+  mime_type: application/pdf
+  size: 57162
+- delta: 1
+  title: Mystery Strategy Clues
+  url: https://teachinghistory.org/sites/default/files/2018-08/mysterystrategyclues.pdf
+  mime_type: application/pdf
+  size: 80829
 ---
 
 ## What Is It?

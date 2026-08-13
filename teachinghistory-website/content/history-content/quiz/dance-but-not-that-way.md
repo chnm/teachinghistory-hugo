@@ -30,6 +30,12 @@ tags:
 - etiquette
 - instruction manuals
 - nineteenth century
+attachments:
+- delta: 0
+  title: Dance, But Not That Way Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-dancing.pdf
+  mime_type: application/pdf
+  size: 116085
 ---
 
 Dance and etiquette manuals in the 19th and early 20th centuries offered instruction on dance steps as well as advice on everything from grooming habits to acceptable dialogue during a dance. How would you have fared? Answer the questions below to see if you would trip or soar on the dance floor.

@@ -43,6 +43,12 @@ tags:
 - programmers
 - programming
 - space
+attachments:
+- delta: 0
+  title: Women in the Lab Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-women-scientists.pdf
+  mime_type: application/pdf
+  size: 79008
 ---
 
 Polish-born French physicist and chemist Marie Curie won two Nobel Prizes for her work with radioactivity. British primatologist Jane Goodall is famous for her work with chimpanzees. British scientist Rosalind Franklin contributed to the discovery of DNA's structure. You might know their names, but do you know the names of these American women scientists?

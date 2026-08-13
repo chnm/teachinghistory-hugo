@@ -33,13 +33,24 @@ tags:
 videos:
 - src: /files/media/video/BillofRights1.mp4
   thumb: /files/media/video/thumbs/BillofRights1.jpg
-  title: 'Introducing Students to Primary Sources'
+  title: Introducing Students to Primary Sources
 - src: /files/media/video/BillofRights2.mp4
   thumb: /files/media/video/thumbs/BillofRights2.jpg
-  title: 'Comparing and Contrasting'
+  title: Comparing and Contrasting
 - src: /files/media/video/BillofRights3.mp4
   thumb: /files/media/video/thumbs/BillofRights3.jpg
-  title: 'A New Way to Look at History'
+  title: A New Way to Look at History
+attachments:
+- delta: 0
+  title: Bill of Rights
+  url: https://teachinghistory.org/sites/default/files/2018-08/bill-of-rights_large_0.pdf
+  mime_type: application/pdf
+  size: 1540533
+- delta: 1
+  title: Bill of Rights Transcript
+  url: https://teachinghistory.org/sites/default/files/2018-08/transcript_bill-of-rights_0.pdf
+  mime_type: application/pdf
+  size: 131450
 ---
 
 Daunted by teaching the Bill of Rights and its complex vocabulary to students? Middle-school teacher Christine Valenti explains how she introduces her students to the Amendments.

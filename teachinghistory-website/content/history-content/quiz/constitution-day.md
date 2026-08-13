@@ -22,6 +22,12 @@ topics:
 tags:
 - Connecticut
 - U.S. Constitution
+attachments:
+- delta: 0
+  title: Constitution Day Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-constitution_day.pdf
+  mime_type: application/pdf
+  size: 72943
 ---
 
 September 17th is Constitution Day in the United States, the anniversary of the day in 1787 when the delegates to the U.S. Constitutional Convention signed the Constitution. Can you choose the right answers to the following questions?

@@ -15,6 +15,10 @@ image_fid: '7309'
 splash_image_fid: '7308'
 splash_image: /files/googletranssplash.jpg
 image: /files/googletransimage.jpg
+resources:
+- delta: 0
+  url: http://translate.google.com/#
+  title: Google Translate
 ---
 
 Google Translate is a web based tool which allows its users to [instantly translate](http://translate.google.com/about/intl/en_ALL/) between 57 different languages. The page can translate words, sentences, web pages, even full documents, and helps make information in any language universally accessible.

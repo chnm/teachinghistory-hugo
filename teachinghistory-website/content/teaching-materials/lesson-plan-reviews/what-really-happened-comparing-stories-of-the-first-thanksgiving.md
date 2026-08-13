@@ -31,6 +31,10 @@ topics:
 tags:
 - Thanksgiving
 - holidays
+features:
+- Focus on historical thinking
+- Inclusion of multiple perspectives
+- Multiple Sources
 ---
 
 This [lesson](http://web.archive.org/web/20220120112852/https://learning.blogs.nytimes.com/2010/11/23/what-really-happened-comparing-stories-of-the-first-thanksgiving/) does a good job of positioning students to understand and evaluate the perspectives of secondary sources on the First Thanksgiving. Students begin by establishing a common understanding of the "mainstream narrative" of the First Thanksgiving, either from their own experience, books on Thanksgiving written for young children, or a website like this [one](http://web.archive.org/web/20260423103822/https://kids.nationalgeographic.com/kids/stories/history/first-thanksgiving/) from [National Geographic Kids](http://web.archive.org/web/20140420012036/http://kids.nationalgeographic.com:80/kids/stories/history/). (Other, similar sites are also linked near the bottom of the lesson).
