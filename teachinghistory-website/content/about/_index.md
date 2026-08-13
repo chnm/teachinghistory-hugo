@@ -2,6 +2,9 @@
 title: "About Us"
 date: 2025-01-20T10:00:00Z
 draft: false
+layout: staff
+aliases:
+  - /about/staff/
 ---
 
 TeachingHistory.org is a comprehensive resource for history educators, providing lesson plans, primary sources, and teaching strategies.
