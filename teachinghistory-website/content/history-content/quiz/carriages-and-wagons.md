@@ -21,6 +21,12 @@ topics:
 tags:
 - carriages
 - transportation
+attachments:
+- delta: 0
+  title: Carriages and Wagons Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz_carriages_waggons.pdf
+  mime_type: application/pdf
+  size: 777965
 ---
 
 One of the crowd-pleasers at the 1876 Centennial Exhibition in Philadelphia was a vast hall in which carriage-makers from America and Europe exhibited examples of the models of carriages and wagons they made. Match the images of the horse-drawn vehicles displayed at the Fair with the names of the models.

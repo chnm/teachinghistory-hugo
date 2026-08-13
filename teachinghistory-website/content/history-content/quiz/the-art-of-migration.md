@@ -26,6 +26,12 @@ tags:
 - artists
 - painters
 - paintings
+attachments:
+- delta: 0
+  title: The Art of Migration Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-art-of-migration.pdf
+  mime_type: application/pdf
+  size: 74230
 ---
 
 Born in 1917, artist Jacob Lawrence grew up at the height of the Great Migration. During the Migration, often defined as 1910–1930, more than 10% of the African American population in the U.S. moved north to find work and in hopes of a better life. Lawrence painted conditions in both North and South from memory. Answer these questions about Lawrence and his work.

@@ -32,6 +32,12 @@ tags:
 - United Farm Workers
 - artifacts
 - farming
+features:
+- Focus on historical thinking
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Useful for differentiating instruction
+- Useful for English language learners
 ---
 
 This lesson uses a simple farming tool, the [short-handled hoe](http://objectofhistory.org/objects/intro/shorthandledhoe/), to introduce students to migrant labor in California and the farm worker labor movement.

@@ -23,6 +23,12 @@ topics:
 - Politics
 tags:
 - presidents
+attachments:
+- delta: 0
+  title: Hail to the Chief Nicknames Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-presidential-nicknames.pdf
+  mime_type: application/pdf
+  size: 70826
 ---
 
 When you're in the public eye (and the press) as much as the U.S. Commander in Chief, it's difficult to avoid gathering a few unofficial titles. What do these names tell us about how presidents were perceived—or how people *wanted* them to be perceived? Match the President to his nickname.

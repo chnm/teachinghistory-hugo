@@ -30,6 +30,12 @@ tags:
 - Canada
 - Congo
 - Ireland
+attachments:
+- delta: 0
+  title: 'African American History Month: Civil Rights Worldwide Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/african_american_history_2012_quiz_0.pdf
+  mime_type: application/pdf
+  size: 168475
 ---
 
 From the founding of the U.S. to the present day, countless individuals have fought to expand the rights and freedoms of specific groups, including African Americans. But did the influence of these individuals end at the borders of the U.S.?

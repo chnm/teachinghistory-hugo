@@ -30,16 +30,37 @@ tags:
 videos:
 - src: /files/media/video/Kramer1.mp4
   thumb: /files/media/video/thumbs/Kramer1.jpg
-  title: 'The U.S. in the Philippines'
+  title: The U.S. in the Philippines
 - src: /files/media/video/Kramer2.mp4
   thumb: /files/media/video/thumbs/Kramer2.jpg
-  title: 'Changing Views'
+  title: Changing Views
 - src: /files/media/video/Kramer3.mp4
   thumb: /files/media/video/thumbs/Kramer3.jpg
-  title: 'The Language of Liberation'
+  title: The Language of Liberation
 - src: /files/media/video/Kramer4.mp4
   thumb: /files/media/video/thumbs/Kramer4.jpg
-  title: 'Letting Sources Speak'
+  title: Letting Sources Speak
+attachments:
+- delta: 0
+  title: Andrew Wadsworth Letter (July 20, 1898)
+  url: https://teachinghistory.org/sites/default/files/2018-08/wadsworth_letter_07_20_1898.pdf
+  mime_type: application/pdf
+  size: 3782800
+- delta: 1
+  title: Andrew Wadsworth Letter (October 14, 1898)
+  url: https://teachinghistory.org/sites/default/files/2018-08/wadsworth_letter_10_14_1898.pdf
+  mime_type: application/pdf
+  size: 3717475
+- delta: 2
+  title: Andrew Wadsworth Letter (February 19, 1899)
+  url: https://teachinghistory.org/sites/default/files/2018-08/wadsworth_letter_02_19_1899.pdf
+  mime_type: application/pdf
+  size: 5367199
+- delta: 3
+  title: Andrew Wadsworth Letter (March 8, 1899)
+  url: https://teachinghistory.org/sites/default/files/2018-08/wadsworth_letter_03_08_1899.pdf
+  mime_type: application/pdf
+  size: 4680098
 ---
 
 Primary sources reveal many different perspectives on historical events. At home, the U.S. government painted the Philippine-American War as an act of liberation, freeing the Philippines from oppression. Paul A. Kramer analyzes letters from American soldiers in the Philippines that show a very different view of the war.

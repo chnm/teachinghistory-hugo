@@ -19,6 +19,12 @@ time_periods:
 - Great Depression & WWII, 1929-1945
 topics:
 - Health & Medicine
+attachments:
+- delta: 0
+  title: Practicing Medicine on the Presidents Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-presidential-health.pdf
+  mime_type: application/pdf
+  size: 69812
 ---
 
 Everyone comes down with a cold or the flu now and then—but what happens when the President of the United States comes down with something worse? Name the presidents who experienced the following medical conditions while in office.

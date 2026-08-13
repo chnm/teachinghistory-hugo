@@ -30,16 +30,27 @@ tags:
 videos:
 - src: /files/media/video/Ridgway1.mp4
   thumb: /files/media/video/thumbs/Ridgway1.jpg
-  title: 'The Bill of Rights in Context'
+  title: The Bill of Rights in Context
 - src: /files/media/video/Ridgway2.mp4
   thumb: /files/media/video/thumbs/Ridgway2.jpg
-  title: 'Federalist vs. Anti-Federalists'
+  title: Federalist vs. Anti-Federalists
 - src: /files/media/video/Ridgway3.mp4
   thumb: /files/media/video/thumbs/Ridgway3.jpg
-  title: 'Looking at the Amendments'
+  title: Looking at the Amendments
 - src: /files/media/video/Ridgway4.mp4
   thumb: /files/media/video/thumbs/Ridgway4.jpg
-  title: 'Having the Right'
+  title: Having the Right
+attachments:
+- delta: 0
+  title: Bill of Rights
+  url: https://teachinghistory.org/sites/default/files/2018-08/bill-of-rights_large.pdf
+  mime_type: application/pdf
+  size: 1540533
+- delta: 1
+  title: Bill of Rights Transcript
+  url: https://teachinghistory.org/sites/default/files/2018-08/transcript_bill-of-rights.pdf
+  mime_type: application/pdf
+  size: 131450
 ---
 
 Whitman Ridgway outlines some of the context in which the Bill of Rights was created and arguments surrounding its creation. He goes on to look at the specific language of several of the Amendments, the reasons for their wording and inclusion, and how he believes they should be interpreted.

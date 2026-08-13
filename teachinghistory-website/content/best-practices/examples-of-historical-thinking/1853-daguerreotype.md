@@ -35,16 +35,22 @@ tags:
 videos:
 - src: /files/media/video/goodyear1.mp4
   thumb: /files/media/video/thumbs/goodyear1.jpg
-  title: 'What did you first notice about this image?'
+  title: What did you first notice about this image?
 - src: /files/media/video/goodyear2.mp4
   thumb: /files/media/video/thumbs/goodyear2.jpg
-  title: 'What is your general approach to reading photographs?'
+  title: What is your general approach to reading photographs?
 - src: /files/media/video/goodyear3.mp4
   thumb: /files/media/video/thumbs/goodyear3.jpg
-  title: 'What additonal questions would you ask of this photograph?'
+  title: What additonal questions would you ask of this photograph?
 - src: /files/media/video/goodyear4.mp4
   thumb: /files/media/video/thumbs/goodyear4.jpg
-  title: 'Where would you find evidence to give context to this image?'
+  title: Where would you find evidence to give context to this image?
+attachments:
+- delta: 0
+  title: 1853 Daguerreotype
+  url: https://teachinghistory.org/sites/default/files/2018-08/1853_daguerreotype.pdf
+  mime_type: application/pdf
+  size: 226209
 ---
 
 What does an 1853 daguerreotype have to say? Plenty, says Frank Goodyear. He examines a photograph taken at Niagara Falls and shows how, with a little analysis and research, the photograph fits into the context of the growth and spread of new technologies in the U.S. (including photography and railroads) and the tourist industry.

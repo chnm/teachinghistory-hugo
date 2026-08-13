@@ -20,6 +20,16 @@ grade_levels:
 - high
 duration: 90-minute period or more depending on how much experience the students have
   had before this lesson
+website_links:
+- delta: 0
+  url: http://herb.ashp.cuny.edu/items/show/1582
+  title: 'Decoding U.S. Foreign Policy: The Iran-Contra Affair'
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Multiple Sources
+- Scaffolding of close analysis of text
+- Useful for differentiating instruction
 ---
 
 This [lesson](http://web.archive.org/web/20210124101937/https://herb.ashp.cuny.edu/items/show/1582), part of the HERB collection at the [American Social History Project](http://web.archive.org/web/20210126033940/https://herb.ashp.cuny.edu/), allows students to examine a series of primary source documents related to the Iran-Contra Affair and discuss the central issues surrounding these events. In addition to great [background information](http://web.archive.org/web/20210124101937/https://herb.ashp.cuny.edu/items/show/1582#historicalcontext) for the teacher, there is a useful [timeline](http://web.archive.org/web/20210126033940/https://herb.ashp.cuny.edu/items/show/1583) and [graphic organizer](http://web.archive.org/web/20210126033940/https://herb.ashp.cuny.edu/items/show/1584) that help students access the content.

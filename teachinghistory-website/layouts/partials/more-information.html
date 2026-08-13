@@ -1,0 +1,8 @@
+{{- with .Params.more_information }}
+<section class="mt-8 pt-6 border-t border-gray-light">
+  <h2 class="font-heading text-xl font-bold mb-3 normal-case">For More Information</h2>
+  <div class="font-body leading-relaxed">
+    {{ $.RenderString . }}
+  </div>
+</section>
+{{- end }}

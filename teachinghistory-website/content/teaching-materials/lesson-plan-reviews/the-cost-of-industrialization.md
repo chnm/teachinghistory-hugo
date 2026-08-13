@@ -37,6 +37,11 @@ tags:
 - labor
 - organized labor
 - progressivism
+features:
+- Focus on historical thinking
+- Multiple Sources
+- Useful for differentiating instruction
+- Useful for English language learners
 ---
 
 One of the greatest strengths of this [lesson](https://investigatinghistory.ashp.cuny.edu/module9.php) is its wealth and variety of primary sources. In addition to firsthand narrative accounts, the site also includes many photographs and political cartoons for students to analyze. Another strength is the way the lesson engages students in discussing sources with each other: students share their perceptions with one another after each step of document analysis, and then comment on one another's perceptions—setting the stage for lively historical discussion and debate.

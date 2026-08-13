@@ -23,6 +23,12 @@ topics:
 tags:
 - presidential campaigns
 - presidents
+attachments:
+- delta: 0
+  title: 'Presidential Moments: Campaigns Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-presidential-campaigns.pdf
+  mime_type: application/pdf
+  size: 84555
 ---
 
 From the U.S.'s earliest elections through the present day, no presidential candidate has campaigned without criticism. Accusations of conspiracy, crime, and corruption dog the footsteps of anyone aiming for the position of Commander in Chief. Identify the candidate by the criticism they received during their campaign.

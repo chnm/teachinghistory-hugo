@@ -19,6 +19,10 @@ image: /files/rael_img2.jpg
 grade_levels:
 - high
 - middle
+resources:
+- delta: 0
+  url: http://memory.loc.gov/ammem/rghtml/rghome.html
+  title: Hispano Music & Culture of the Northern Rio Grande
 ---
 
 [Hispano Music & Culture of the Northern Rio Grande](http://web.archive.org/web/20150915045751/http://memory.loc.gov:80/ammem/rghtml/rghome.html), housed at the Library of Congress’s digital archive [America Memory](http://memory.loc.gov/ammem/index.html), is a collection of religious and secular music of Spanish-speaking residents of rural Northern New Mexico and Southern Colorado.

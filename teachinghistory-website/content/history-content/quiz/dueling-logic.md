@@ -21,6 +21,12 @@ topics:
 tags:
 - colonies
 - dueling
+attachments:
+- delta: 0
+  title: Dueling Logic Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-dueling-logic.pdf
+  mime_type: application/pdf
+  size: 98638
 ---
 
 In 1838, former South Carolina Governor John Lyde Wilson published *The Code of Honor; or, Rules for the Government of Principals and Seconds in Duelling*. You are a respected lawyer and landed gentleman in Charleston, SC, in 1838, and determined to follow the Code in your life (and duels).

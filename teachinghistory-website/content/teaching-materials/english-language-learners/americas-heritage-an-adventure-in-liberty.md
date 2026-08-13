@@ -20,6 +20,10 @@ grade_levels:
 - elementary
 - high
 - middle
+resources:
+- delta: 0
+  url: http://www.americanheritage.org/index.html
+  title: 'America''s Heritage: An Adventure in Liberty'
 ---
 
 [America's Heritage: An Adventure in Liberty](http://web.archive.org/web/20150430135225/http://americanheritage.org:80/k-12_lessons.html) is a curriculum designed to teach students about the roots of our heritage and the responsibilities of American citizenship. The elementary-level plans in this curriculum are presented in both Spanish and English for English language learners.

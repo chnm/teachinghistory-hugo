@@ -28,6 +28,12 @@ tags:
 - War of 1812
 - secondary sources
 - textbooks
+attachments:
+- delta: 0
+  title: Who Won the War (of 1812)? Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/who_won_1812_quiz.pdf
+  mime_type: application/pdf
+  size: 188675
 ---
 
 In 1812, the U.S. declared war on the United Kingdom, officially beginning the War of 1812. What started the war? Did it play a signficant role in history? The answers depend on who tells the story.

@@ -40,6 +40,11 @@ tags:
 - settlement
 - settlers
 - starvation
+features:
+- Focus on historical thinking
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Opportunity to analyze causation
 ---
 
 This [lesson](http://web.archive.org/web/20230922183602/http://web.archive.org/web/20230922183602/https://hsi.wm.edu/cases/jamestown/jamestown_preview.html) provides a great opportunity for students to engage in real historical inquiry with prepared sources. The lesson is displayed in three locations on the site: the [student view](http://web.archive.org/web/20231211113333/http://web.archive.org/web/20231211113333/https://hsi.wm.edu/cases/jamestown/jamestown_student.htm), which guides the student through the activity; [the teacher view](http://web.archive.org/web/20231211123702/http://web.archive.org/web/20231211123702/https://hsi.wm.edu/cases/jamestown/jamestown_teacher.htm), which provides additional background information; and a [PDF](http://web.archive.org/web/20200919094240/http://web.archive.org/web/20200919094240/https://hsi.wm.edu/cases/jamestown/lesson_plans.pdf) file that contains scripted instructions for the lesson.

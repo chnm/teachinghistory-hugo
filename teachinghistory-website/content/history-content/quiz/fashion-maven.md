@@ -25,6 +25,12 @@ tags:
 - clothes
 - clothing
 - fashion
+attachments:
+- delta: 0
+  title: Fashion Maven Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-fashion-maven.pdf
+  mime_type: application/pdf
+  size: 244024
 ---
 
 Identifying changes in fashion throughout history can help you pin an image down to the decade—or even the year—and fashion-related primary sources are diverse and easily come by. Look no further than historical advertisements! What year did each of these fashion ads appear in the newspaper?

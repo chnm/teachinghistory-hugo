@@ -26,16 +26,22 @@ tags:
 videos:
 - src: /files/media/video/Jamie1.mp4
   thumb: /files/media/video/thumbs/Jamie1.jpg
-  title: 'Establishing the Theme'
+  title: Establishing the Theme
 - src: /files/media/video/Jamie2.mp4
   thumb: /files/media/video/thumbs/Jamie2.jpg
-  title: 'Examining Viewpoints'
+  title: Examining Viewpoints
 - src: /files/media/video/Jamie3.mp4
   thumb: /files/media/video/thumbs/Jamie3.jpg
-  title: 'Making Decisions'
+  title: Making Decisions
 - src: /files/media/video/Jamie4.mp4
   thumb: /files/media/video/thumbs/Jamie4.jpg
-  title: 'Comparing with the Actual Outcome'
+  title: Comparing with the Actual Outcome
+attachments:
+- delta: 0
+  title: Speech by President Kennedy (October 22, 1962)
+  url: https://teachinghistory.org/sites/default/files/2018-08/kennedy_speech_1962.pdf
+  mime_type: application/pdf
+  size: 117376
 ---
 
 Jamie Kimbrough, of Winston Churchill High School, MD, asked her students to stand in Kennedy's shoes during the Cuban Missile Crisis. After establishing the context of the Crisis and reading opinions from EXCOMM advisers, students made their decisions. How did they compare to the actual decision made by President Kennedy in 1962?

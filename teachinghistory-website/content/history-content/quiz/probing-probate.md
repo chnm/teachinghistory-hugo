@@ -24,6 +24,12 @@ topics:
 - Women
 tags:
 - probate
+attachments:
+- delta: 0
+  title: Probing Probate Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/probing_probates_quiz_0.pdf
+  mime_type: application/pdf
+  size: 82606
 ---
 
 When someone died in the 18th century, a court often appointed appraisers to create a probate inventory, a list of the person's "goods" (including slaves) and the estimated value of each item. The items listed come from the 1759 probate of Sarah Green (York County, VA).

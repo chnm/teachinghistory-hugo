@@ -21,6 +21,12 @@ tags:
 - Alexander Graham Bell
 - Bell Company
 - telephones
+attachments:
+- delta: 0
+  title: Early Telephone Etiquette Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-early-telephone-etiquette.pdf
+  mime_type: application/pdf
+  size: 78993
 ---
 
 The invention of the telephone modified social communication and called for new forms of etiquette. During the years 1916-1919, the Bell Company created newspaper ads to teach their customers how to adapt to the nature of the telephone conversation and how it was different from face-to-face dialogue. Decide if the following points of etiquette appeared in national ads run by the Bell Company.

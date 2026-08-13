@@ -24,6 +24,12 @@ tags:
 - exploration
 - explorers
 - portraits
+attachments:
+- delta: 0
+  title: Discovering Christopher Columbus Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-columbus-portraits.pdf
+  mime_type: application/pdf
+  size: 189535
 ---
 
 In 1492, Columbus sailed the ocean blue, but we have little idea what he looked like—all portaits of Columbus were made after his death in 1506. Because of this, pictures of Columbus tell more about the artist's intentions than they do about Columbus himself. When were these images created?

@@ -24,6 +24,12 @@ tags:
 - atheletes
 - baseball
 - sports
+attachments:
+- delta: 0
+  title: Baseball in Black and White Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-baseball-in-black-and-white.pdf
+  mime_type: application/pdf
+  size: 77010
 ---
 
 Baseball has been popular in the U.S. for more than 150 years and many things have changed over that period. Are the following statements about African American baseball players and the Negro League true or false?

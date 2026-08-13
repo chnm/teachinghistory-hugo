@@ -19,8 +19,37 @@ splash_image: /files/splash-btc-halla.jpeg
 image: /files/image-btc-ap.jpeg
 grade_levels:
 - high
+producer: Ken Halla, Monte Bourjaily
+website_links:
+- delta: 0
+  url: http://usgovteducatorsblog.blogspot.com/2011/06/teaching-2011-style.html
+  title: US Government Teachers Blog
+more_information: 'Ken Halla blogs about his teaching strategies and online finds
+  at [*US History Teachers Blog*](http://ushistoryeducatorblog.blogspot.com/).
+
+
+  Ash, Katie. “[Digitized Historical Documents Give Students Direct Access to the
+  Past](http://www.edweek.org/ew/articles/2011/06/15/35mm-history.h30.html).” Jun.
+  13, 2011. [*Education Week*](http://www.edweek.org/ew/index.html). 2011. (Accessed
+  Sept. 16, 2011.)'
 ---
 
-Ken Halla blogs about his teaching strategies and online finds at [*US History Teachers Blog*](http://ushistoryeducatorblog.blogspot.com/).
+With AP exams over for the year, AP U.S. History teacher Monte Bourjaily and AP U.S. Government teacher Ken Halla didn’t let the rest of the school year go to waste. Together, Bourjaily and Halla developed a crosscurricular project that brought Bourjaily’s juniors and Halla’s seniors together to develop digital, research, and communication skills.
 
-Ash, Katie. “[Digitized Historical Documents Give Students Direct Access to the Past](http://www.edweek.org/ew/articles/2011/06/15/35mm-history.h30.html).” Jun. 13, 2011. [*Education Week*](http://www.edweek.org/ew/index.html). 2011. (Accessed Sept. 16, 2011.)
+Halla and Bourjaily chose the national debt as the project's subject. Using [Google Docs](http://teachinghistory.org/digital-classroom/tech-for-teachers/14586), they worked around their schedules to collaborate on a digital [outline](https://docs.google.com/document/d/1mz_Abm2a5eQ9LvalTBZ2Z5x7mciwilv06amBJyTFaCs/edit?hl=en_US&authkey=CLTM8kU) for the project, incorporating links to background reading, helpful websites, organizational spreadsheets, and other student aids.
+
+Halla and Bourjaily's students used Google Docs to meet up and work together across classes. Using Google Doc spreadsheets, students signed up in six teams to identify “problems and threats” surrounding national debt, annual deficits, Medicare, and the Social Security system. Each team shared and tracked its work on its own Google Doc document.
+
+Within each team, groups of five worked together to create unique Work Products, such as [documentary videos](http://www.youtube.com/watch?v=R0zrrz6c4gU), [taped debates](http://www.youtube.com/watch?v=jh6UsItVVnc&feature=player_embedded), [digital presentations](http://prezi.com/yq9s9nuxzk3c/ze-current-economic-situation/), [surveys](https://www.icloud.com/mobileme/not_found/), and [written essays](https://sites.google.com/site/reformingmedicareinamerica/home/what-is-medicare). By the end of the project, all of the groups brought their Work Products together to present on [team websites](http://fixthedamnbudget.wordpress.com/), sharing their research and the solutions to national budget problems they'd developed.
+
+Students used a rich mix of digital tools to create their Work Products and websites, among them:
+
+* [YouTube](http://teachinghistory.org/digital-classroom/tech-for-teachers/24867),
+* [WordPress](http://wordpress.org/),
+* [Prezi,](http://teachinghistory.org/digital-classroom/tech-for-teachers/24457)* PowerPoint,
+  * [SurveyMonkey,](http://teachinghistory.org/digital-classroom/tech-for-teachers/25029)
+  * [Wikia](http://www.wikia.com/Wikia),
+  * [Wix](http://www.wix.com/), and
+  * [Google Sites](https://sites.google.com/).
+
+And, of course, Halla and Bourjaily used Google Docs to grade the project together, in real time.

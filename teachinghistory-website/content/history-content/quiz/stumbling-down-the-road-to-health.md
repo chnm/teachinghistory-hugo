@@ -26,6 +26,12 @@ topics:
 - Business
 - Consumer Culture
 - Health & Medicine
+attachments:
+- delta: 0
+  title: Stumbling Down the Road to Health
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-road-to-health.pdf
+  mime_type: application/pdf
+  size: 88972
 ---
 
 In every era, people chase the shining ideal of long life and perfect health—but sometimes the tools they use harm more than help. From poisonous pills to deadly drinking water, the next best thing has often been anything but. Choose the correct answers for the questions.

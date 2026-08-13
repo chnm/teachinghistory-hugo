@@ -25,6 +25,12 @@ tags:
 - Daylight Saving Time
 - calendars
 - time
+attachments:
+- delta: 0
+  title: Saving Daylight Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-saving-daylight.pdf
+  mime_type: application/pdf
+  size: 70474
 ---
 
 The debate over daylight saving time was almost as hot as the sun whose beams it aimed to save. Congressman Charles Rose said it was "Like cutting off one end of a blanket and sewing it to the other end to make the blanket longer." Are the following statements true or false?

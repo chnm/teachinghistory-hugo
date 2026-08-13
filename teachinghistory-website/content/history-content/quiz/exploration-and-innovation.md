@@ -23,6 +23,12 @@ topics:
 tags:
 - exploration
 - navigation
+attachments:
+- delta: 0
+  title: Exploration and Innovation Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-exploration-and-innovation.pdf
+  mime_type: application/pdf
+  size: 68660
 ---
 
 As Europe pushed forward into several centuries of exploration, improving methods of mapping and navigation became a matter of life and death, poverty or profit, for crews at sea and governments at home. Are the following statements about the 15th and 16th centuries true or false?

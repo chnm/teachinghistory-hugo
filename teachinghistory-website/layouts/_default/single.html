@@ -27,6 +27,12 @@
           {{ .Content }}
         </div>
 
+        {{ partial "more-information.html" . }}
+
+        {{ if eq .Params.content_type "blog" }}
+          {{ partial "related-materials.html" . }}
+        {{ end }}
+
         {{ with .Section }}
         <footer class="mt-10 pt-4 border-t border-gray-light">
           <a href="/{{ . }}/" class="text-sm hover:underline">&larr; Back to {{ . | humanize | title }}</a>

@@ -21,6 +21,10 @@ grade_levels:
 - elementary
 - high
 - middle
+resources:
+- delta: 0
+  url: http://www.wdl.org/en/
+  title: World Digital Library
 ---
 
 The [World Digital Library](http://www.wdl.org/en/), a collaborative project of the Library of Congress, UNESCO, and other partners, is a collection of primary documents from around the world. Particularly useful for working with ELL students, the site has a drop-down language menu, which allows teachers to translate the site’s accompanying materials into a number of languages including Spanish and Chinese.

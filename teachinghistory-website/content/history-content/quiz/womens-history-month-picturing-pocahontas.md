@@ -21,6 +21,12 @@ topics:
 tags:
 - Jamestown
 - pocahontas
+attachments:
+- delta: 0
+  title: Download Picturing Pocahontas Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-picturing-pocahontas_0.pdf
+  mime_type: application/pdf
+  size: 125836
 ---
 
 When you hear the name "Pocahontas," what image springs to mind? Is it from Disney's Pocahontas or Terrence Malick's The New World? From a 19th-century print or a modern work of art? Only one life portrait of Pocahontas exists, but that hasn't stopped artists and the media from inventing their own visions of history. Rank the images of Pocahontas into chronological order from oldest to most recent.

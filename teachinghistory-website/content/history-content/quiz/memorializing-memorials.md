@@ -33,6 +33,12 @@ tags:
 - memorial day
 - memorials
 - monuments
+attachments:
+- delta: 0
+  title: Memorializing Memorials Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-memorial-day-2011.pdf
+  mime_type: application/pdf
+  size: 112645
 ---
 
 Visiting a national memorial? Take a picture! It's a tourist tradition, but what do these photos say about the memorials and monuments themselves, and about how we approach them? Look at these photos, and choose the monument they capture.

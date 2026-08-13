@@ -22,6 +22,12 @@ tags:
 - Irish
 - Irish Americans
 - holidays
+attachments:
+- delta: 0
+  title: Celebrate More Than St.Patrick Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/qui-st-patricks-day.pdf
+  mime_type: application/pdf
+  size: 79574
 ---
 
 On March 17, the U.S. celebrates an Irish feast day with parades, food, drink, music, and the color green—but Irish immigrants, and their children, have given more to the U.S. than a spring holiday. Answer the questions about notable Irish Americans.

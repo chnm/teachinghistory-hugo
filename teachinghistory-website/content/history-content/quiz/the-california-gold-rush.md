@@ -24,6 +24,12 @@ tags:
 - gold
 - gold rush
 - prospectors
+attachments:
+- delta: 0
+  title: The California Gold Rush Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-california-goldrush.pdf
+  mime_type: application/pdf
+  size: 69337
 ---
 
 Of the thousands of people who flocked to California during the few years of its Gold Rush, only relatively few made their fortunes there. "Seeing the elephant” was a common expression. It meant undergoing an unparalleled, risky, fantastic experience, while encountering harrowing misfortunes. “And behold I've seen the elephant, yea, verily, I saw him,” wrote unlucky miner James Hutchings in "The Miner's Ten Commandments," his 1853 satirical article, "and bear witness, that from the key of his trunk to the end of his tail, his whole body hath passed before me."

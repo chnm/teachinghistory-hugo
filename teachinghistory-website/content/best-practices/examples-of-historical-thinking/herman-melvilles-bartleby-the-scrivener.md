@@ -29,16 +29,27 @@ tags:
 videos:
 - src: /files/media/video/bergman1.mp4
   thumb: /files/null
-  title: 'What''s interesting about this excerpt of'
+  title: What's interesting about this excerpt of
 - src: /files/media/video/bergman2.mp4
   thumb: /files/media/video/thumbs/bergman2.jpg
-  title: 'What advice would you give to a first-time reader?'
+  title: What advice would you give to a first-time reader?
 - src: /files/media/video/bergman3.mp4
   thumb: /files/media/video/thumbs/bergman3.jpg
-  title: 'How would you put the story in a larger context?'
+  title: How would you put the story in a larger context?
 - src: /files/media/video/bergman4.mp4
   thumb: /files/media/video/thumbs/bergman4.jpg
-  title: 'What tips do you have for teaching literature?'
+  title: What tips do you have for teaching literature?
+attachments:
+- delta: 0
+  title: Bartleby, the Scrivener (Full Story)
+  url: https://teachinghistory.org/sites/default/files/2018-08/bartleby_the_scrivener.pdf
+  mime_type: application/pdf
+  size: 455519
+- delta: 1
+  title: Bartleby, the Scrivener (Excerpt)
+  url: https://teachinghistory.org/sites/default/files/2018-08/bartleby_the_scrivener_excerpt.pdf
+  mime_type: application/pdf
+  size: 80642
 ---
 
 Is reading a piece of historic literature once enough? Not it you want to get the most out of a source. Using Herman Melville's short story "Bartleby, the Scrivener," as an example, Hans Bergmann suggests such as:

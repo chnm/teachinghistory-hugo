@@ -22,6 +22,12 @@ topics:
 - Reform
 tags:
 - Jim Crow
+attachments:
+- delta: 0
+  title: quiz-jim-crow.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-jim-crow.pdf
+  mime_type: application/pdf
+  size: 71448
 ---
 
 Following the 1896 Supreme Court case *Plessy v. Ferguson*, "Jim Crow laws," which discriminated against African Americans, were justified as offering "separate but equal" accommodations. Overturned in 1954 by the case *Brown v. Board of Education*, segregation began long before *Plessy*. Answer these questions on the history of Jim Crow.

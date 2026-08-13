@@ -24,6 +24,11 @@ time_periods:
 - Postwar US, 1945-Early 1970s
 topics:
 - Popular Culture, Leisure
+features:
+- Focus on historical thinking
+- Multiple Sources
+- Useful for differentiating instruction
+- Useful for English language learners
 ---
 
 This [lesson](http://edsitement.neh.gov/lesson-plan/my-piece-history#sect-activities) uses everyday objects from the past to facilitate the development of two foundational historical thinking skills for young students:

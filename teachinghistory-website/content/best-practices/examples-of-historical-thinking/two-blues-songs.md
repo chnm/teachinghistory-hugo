@@ -30,16 +30,22 @@ tags:
 videos:
 - src: /files/media/video/levine1.mp4
   thumb: /files/media/video/thumbs/levine1.jpg
-  title: 'How did you get interested in these documents?'
+  title: How did you get interested in these documents?
 - src: /files/media/video/levine2.mp4
   thumb: /files/media/video/thumbs/levine2.jpg
-  title: 'Worry Blues'
+  title: Worry Blues
 - src: /files/media/video/levine3.mp4
   thumb: /files/media/video/thumbs/levine3.jpg
-  title: 'Two White Horses Standin'' in Line'
+  title: Two White Horses Standin' in Line
 - src: /files/media/video/levine4.mp4
   thumb: /files/media/video/thumbs/levine4.jpg
-  title: 'What other knowledge helps you to understand these songs?'
+  title: What other knowledge helps you to understand these songs?
+attachments:
+- delta: 0
+  title: Two Blues Songs (Lyrics)
+  url: https://teachinghistory.org/sites/default/files/2018-08/two_blues_songs.pdf
+  mime_type: application/pdf
+  size: 83270
 ---
 
 Written primary sources preserve the history of people who could and chose to read, write, and publish. What about people who didn't leave a paper trail? Looking at two blues songs from 1939, Lawrence Levine uncovers information about possible aspects of African American culture in the 1930s. He also cautions that, though you can learn a lot from one or two sources, any source needs context to be best understood.

@@ -34,6 +34,14 @@ tags:
 - infrastructure
 - migration
 - transportation
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Opportunity to analyze causation
+- Scaffolding of close analysis of text
+- Useful for differentiating instruction
 ---
 
 The [Henry Ford Museum](http://web.archive.org/web/20160225030234/https://www.thehenryford.org/education/teachers.aspx)’s "Early 20th Century Migration—Transportation: Past, Present and Future" is a thematically rich teaching unit. Through artifacts, documents and photographs, students explore the overarching question, *What pushes and pulls people into new ways of life?* How did the lure of jobs in U.S. factories “pull” Europeans and people of the American South to northern cities and new ways of living? The lessons are both rigorous and relevant, and continuously engage students in considering the impact of the past on the present.

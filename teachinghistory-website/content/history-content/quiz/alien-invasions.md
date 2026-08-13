@@ -27,6 +27,12 @@ tags:
 - animals
 - ecology
 - plants
+attachments:
+- delta: 0
+  title: Alien Invasions Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-alien-invasions.pdf
+  mime_type: application/pdf
+  size: 69750
 ---
 
 America's wildlife looks different than it did before Columbus: Newcomers to North America introduced many plants and animals. Some introductions were accidental, but others were made to "improve" the New World.

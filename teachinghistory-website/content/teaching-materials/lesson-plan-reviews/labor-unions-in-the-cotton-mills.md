@@ -27,6 +27,11 @@ topics:
 - Economy
 - Labor
 - Southern States
+features:
+- Focus on historical thinking
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Useful for differentiating instruction
 ---
 
 In [this lesson](http://www.learnnc.org/lp/pages/1929), students use oral histories to consider workers’ motivations (and reluctances) about joining labor unions in the cotton mills of North and South Carolina in the early 20th century. The website provides both audio recordings and [transcripts](http://web.archive.org/web/20180203113340/http://web.archive.org/web/20180203113340/http://www.learnnc.org/lp/multimedia/7411) of the oral history excerpts, allowing students multiple access points to the content.

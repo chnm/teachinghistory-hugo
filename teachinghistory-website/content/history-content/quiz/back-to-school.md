@@ -28,6 +28,12 @@ tags:
 - foodways
 - school
 - vaccinations
+attachments:
+- delta: 0
+  title: Back to School Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-backtoschool.pdf
+  mime_type: application/pdf
+  size: 75862
 ---
 
 Many of the common things all around you at school have fascinating histories, from school busses to pencils, from health policies to the food you eat for lunch. Read the questions below and choose the correct answers.

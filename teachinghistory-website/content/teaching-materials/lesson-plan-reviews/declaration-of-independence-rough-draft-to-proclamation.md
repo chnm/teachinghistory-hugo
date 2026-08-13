@@ -26,6 +26,13 @@ topics:
 - Politics
 tags:
 - Declaration of Independence
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Opportunity to analyze causation
+- Scaffolding of close analysis of text
+- Useful for differentiating instruction
+- Useful for English language learners
 ---
 
 We love the way this [lesson](http://www.loc.gov/teachers/classroommaterials/lessons/declaration/index.html) challenges students to closely read and analyze the two versions of the Declaration of Independence. The two versions of the opening paragraphs of the Declaration are placed side-by-side, in small, manageable chunks of text. Even if a teacher were not using this particular lesson plan, this presentation would be especially useful in helping all students access an otherwise difficult text. Other reading and analysis supports include guiding questions and a step where the teacher models the process of comparing the juxtaposed texts.

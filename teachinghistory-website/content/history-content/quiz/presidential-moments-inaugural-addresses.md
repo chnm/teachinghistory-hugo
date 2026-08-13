@@ -24,6 +24,12 @@ tags:
 - inaugurations
 - presidential inaugurations
 - presidents
+attachments:
+- delta: 0
+  title: Inaugural Addresses Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-inaugural-addresses.pdf
+  mime_type: application/pdf
+  size: 78817
 ---
 
 Each U.S. President begins his term with a speech setting the tone for his next four years in office. If they achieve later fame, or are already famous, they may become forever linked with the words they speak in these (relatively) few minutes. Which President spoke these words during an inaugural address?

@@ -19,9 +19,18 @@ author_image_fid: '9455'
 splash_image: /files/increasingsplash.jpg
 image: /files/increasingimage_0.jpg
 author_image: /files/author_image/enright.jpeg
+attachments:
+- delta: 0
+  title: Classroom Discussion Norms
+  url: https://teachinghistory.org/sites/default/files/2018-08/norms_for_classroom2_.pdf
+  mime_type: application/pdf
+  size: 102903
+- delta: 1
+  title: Participation Strategies Resource
+  url: https://teachinghistory.org/sites/default/files/2018-08/participationstrategieresource2.pdf
+  mime_type: application/pdf
+  size: 137815
 ---
-
-
 
 ## Introduction
 

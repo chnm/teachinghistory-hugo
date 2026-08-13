@@ -26,6 +26,12 @@ tags:
 - Rene-Robert Cavelier
 - exploration
 - explorers
+attachments:
+- delta: 0
+  title: European Explorers in North America after Columbus Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/european_explorers_quiz_1.pdf
+  mime_type: application/pdf
+  size: 94989
 ---
 
 Below are the routes of four post-Columbus explorers from Spain, England, and France. Match the expedition routes to the explorers. Connect each explorer with the colored box that matches the color of his route. And remember that these routes are only estimates! Historical records aren't always precise, and it is often impossible to recover the exact paths explorers traveled.

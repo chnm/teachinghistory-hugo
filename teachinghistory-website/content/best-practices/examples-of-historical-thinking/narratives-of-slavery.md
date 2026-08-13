@@ -34,16 +34,27 @@ tags:
 videos:
 - src: /files/media/video/Richard1.mp4
   thumb: /files/media/video/thumbs/Richard1.jpg
-  title: 'Conflicting Accounts'
+  title: Conflicting Accounts
 - src: /files/media/video/Richard2.mp4
   thumb: /files/media/video/thumbs/Richard2.jpg
-  title: 'Olmsted''s Account'
+  title: Olmsted's Account
 - src: /files/media/video/Richard3.mp4
   thumb: /files/media/video/thumbs/Richard3.jpg
-  title: 'Northup''s Account'
+  title: Northup's Account
 - src: /files/media/video/Richard4.mp4
   thumb: /files/media/video/thumbs/Richard4.jpg
-  title: 'Teaching Strategies'
+  title: Teaching Strategies
+attachments:
+- delta: 0
+  title: 'Excerpts: Olmsted''s "The Cotton Kingdom"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/olmsted_excerpt.pdf
+  mime_type: application/pdf
+  size: 152339
+- delta: 1
+  title: 'Excerpt: Northup''s "Twelve Years a Slave"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/northup_excerpt.pdf
+  mime_type: application/pdf
+  size: 82398
 ---
 
 Historian Richard Follett analyzes two narratives of slavery: an investigative report written by Frederick Law Olmsted in 1853 for the *New York Times* and Solomon Northrup's book *Twelve Years A Slave*. He discusses each document separately and then compares their very different perspectives on slavery in Louisiana's sugar growing parishes. Follett models several historical thinking skills, including:

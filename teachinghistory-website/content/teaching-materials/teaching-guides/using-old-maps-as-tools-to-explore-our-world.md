@@ -28,6 +28,32 @@ time_periods:
 - General
 topics:
 - Environment
+attachments:
+- delta: 0
+  title: 'Handout 1: Maps in 12 Steps'
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_1-_maps_in_12_steps.pdf
+  mime_type: application/pdf
+  size: 115539
+- delta: 1
+  title: Map of Southern California, 1924
+  url: https://teachinghistory.org/sites/default/files/2018-08/Map_of_Southern_California_1924.pdf
+  mime_type: application/pdf
+  size: 1685580
+- delta: 2
+  title: Map of Youngstown, Ohio, 1905-1906
+  url: https://teachinghistory.org/sites/default/files/2018-08/Map_of_Youngstown_Ohio_1905-1906.pdf
+  mime_type: application/pdf
+  size: 2443648
+- delta: 3
+  title: Map of the United States, 1864
+  url: https://teachinghistory.org/sites/default/files/2018-08/A_Map_of_the_United_States_1864.pdf
+  mime_type: application/pdf
+  size: 6554187
+- delta: 4
+  title: A World Map, 1792
+  url: https://teachinghistory.org/sites/default/files/2018-08/A_World_Map_1792.pdf
+  mime_type: application/pdf
+  size: 257201
 ---
 
 ## What Is It?

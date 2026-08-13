@@ -22,6 +22,12 @@ topics:
 - Children
 - Politics
 - Reform
+attachments:
+- delta: 0
+  title: 'Monuments to a Dream: Martin Luther King Jr. Memorials Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-mlk-memorials.pdf
+  mime_type: application/pdf
+  size: 84076
 ---
 
 Ever since Martin Luther King Jr.'s assassination in 1968, communities across the U.S. have sought ways to memorialize the ideals King and the civil rights movement came to stand for. Identify the locations of the following monuments to King, each presenting a unique view of his life and legacy.

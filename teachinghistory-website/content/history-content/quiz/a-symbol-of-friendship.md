@@ -31,6 +31,12 @@ tags:
 - Washington DC
 - World War II
 - cherry trees
+attachments:
+- delta: 0
+  title: A Symbol of Friendship Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/symbol_of_friendship_quiz_0.pdf
+  mime_type: application/pdf
+  size: 571050
 ---
 
 In 1912, First Lady Helen Taft and Iwa Chinda, wife of Japanese ambassador Sutemi Chinda, oversaw the planting of the first cherry trees, a gift from Japan, around the Washington, DC, Tidal Basin. This spring, the annual National Cherry Blossom Festival celebrates the 100th anniversary of this first planting.

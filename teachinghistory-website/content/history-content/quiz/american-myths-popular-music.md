@@ -25,6 +25,12 @@ topics:
 tags:
 - music
 - songs
+attachments:
+- delta: 0
+  title: 'American Myths: Popular Music Quiz PDF'
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz_popular_music.pdf
+  mime_type: application/pdf
+  size: 66003
 ---
 
 Some songs have become part of American popular heritage, cultural knowledge passed down on sports fields and in classrooms and children's songbooks. Though sung across the country, the songs' origins on battlefields, in barrooms, or elsewhere are often unknown by today's singers. Match the song title with the story of its composition or use.

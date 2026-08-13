@@ -24,6 +24,17 @@ tags:
 - douglas macarthur
 - photographs
 - photography
+attachments:
+- delta: 0
+  title: 'Reading Photographs: MacArthur and Hirohito'
+  url: https://teachinghistory.org/sites/default/files/2018-08/macarthur_hirohito_photo_0.pdf
+  mime_type: application/pdf
+  size: 129372
+- delta: 1
+  title: MacArthur and Hirohito Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/photographs_macarthur_hirohito_quiz_0.pdf
+  mime_type: application/pdf
+  size: 588530
 ---
 
 On September 27, 1945, at the beginning of the U.S. military occupation of Japan following World War II, a famous photograph was taken of General Douglas MacArthur and Emperor Hirohito of Japan. MacArthur carefully staged this photograph, keeping in mind his goal to demilitarize and democratize an enemy country.

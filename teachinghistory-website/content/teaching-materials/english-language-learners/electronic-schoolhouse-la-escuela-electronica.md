@@ -21,6 +21,10 @@ grade_levels:
 - elementary
 - high
 - middle
+resources:
+- delta: 0
+  url: http://www.archives.nysed.gov/projects/escuela/index.shtml
+  title: Electronic Schoolhouse / La Escuela Electronica
 ---
 
 The [Electronic Schoolhouse / La Escuela Electrónica](http://www.archives.nysed.gov/projects/escuela/index.shtml) is a bilingual educational resource of historical resources developed by the [New York State Archives](http://www.archives.nysed.gov/aindex.shtml), a program of the New York Department of Education that cares for and provides access to more than 200 million documents.

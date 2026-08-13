@@ -41,13 +41,29 @@ tags:
 videos:
 - src: /files/media/video/David1.mp4
   thumb: /files/media/video/thumbs/David1.jpg
-  title: 'Hitchcock Chair'
+  title: Hitchcock Chair
 - src: /files/media/video/David2.mp4
   thumb: /files/media/video/thumbs/David2.jpg
-  title: 'Moore Family Portrait'
+  title: Moore Family Portrait
 - src: /files/media/video/David3.mp4
   thumb: /files/media/video/thumbs/David3.jpg
-  title: 'Across the Continent Lithograph'
+  title: Across the Continent Lithograph
+attachments:
+- delta: 0
+  title: Hitchcock Side Chair
+  url: https://teachinghistory.org/sites/default/files/2018-08/hitchcock_sidechair.pdf
+  mime_type: application/pdf
+  size: 267357
+- delta: 1
+  title: Moore Family Portrait
+  url: https://teachinghistory.org/sites/default/files/2018-08/moore_painting.pdf
+  mime_type: application/pdf
+  size: 1035779
+- delta: 2
+  title: 'Lithograph: "Across the Continent"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/across_the_continent_lithograph_full.pdf
+  mime_type: application/pdf
+  size: 9041791
 ---
 
 Historian David Jaffee analyzes three 19th-century objects (a Hitchcock chair, a family portrait, and a lithograph of the West), discussing how they were made, how they were used, and what they can tell us about the past. Jaffee models several historical thinking skills, including:

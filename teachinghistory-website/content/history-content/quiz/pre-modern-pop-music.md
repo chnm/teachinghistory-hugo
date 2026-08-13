@@ -23,6 +23,12 @@ topics:
 - Popular Culture, Leisure
 tags:
 - music
+attachments:
+- delta: 0
+  title: Pre-Modern Pop Music Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-premodern-pop-music.pdf
+  mime_type: application/pdf
+  size: 75683
 ---
 
 Before Beyonce, before Elvis, and yes, even before Frank, tunes filled the air. What were the hit tunes of earlier decades, and who were the big names? What purposes has music served throughout U.S. history? Test your knowledge of early American pop music by answering the following questions.

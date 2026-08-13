@@ -36,6 +36,10 @@ tags:
 - growth
 - industrialization
 - market economy
+features:
+- Multiple Sources
+- Useful for differentiating instruction
+- Useful for English language learners
 ---
 
 This [lesson](http://www.loc.gov/teachers/classroommaterials/lessons/civil-war/) provides an excellent opportunity to teach students how to analyze historical photographs. Focusing on [one photograph](http://hdl.loc.gov/loc.pnp/cwpb.03851) of a piece of Civil War artillery (though making use of a variety of [other images](http://www.loc.gov/pictures/collection/cwp/)), the lesson guides students step by step in carefully analyzing various elements of the photograph. Different portions of the image are isolated, and students answer questions about details in that portion of the image. Some questions may be difficult for students, and even teachers, to answer on their own, but [answers](http://web.archive.org/web/20200121125705/http://www.loc.gov:80/teachers/classroommaterials/lessons/civil-war/answers.html) to the questions are provided. This portion of the process would be a great opportunity for teachers to encourage students to make educated guesses in response to the more difficult questions before checking their answers.

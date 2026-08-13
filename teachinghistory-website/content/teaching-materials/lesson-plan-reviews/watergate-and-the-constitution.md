@@ -32,6 +32,11 @@ tags:
 - Watergate scandal
 - impeachment
 - presidents
+features:
+- Focus on historical thinking
+- Inclusion of multiple perspectives
+- Opportunity to analyze causation
+- Scaffolding of close analysis of text
 ---
 
 The strength of this [lesson](http://www.archives.gov/education/lessons/watergate-constitution/index.html#documents) is that it is centered around a document which presents compelling arguments both for and against the indictment of former President Nixon for his role in the Watergate scandal. The featured document, a memo to the Watergate Special Prosecutor Leon Jaworski, was written by Jaworski's staff as he was considering whether or not to indict Nixon.

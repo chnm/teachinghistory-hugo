@@ -24,6 +24,13 @@ time_periods:
 - Expansion & Reform, 1801-1861
 topics:
 - American Indians
+features:
+- Focus on historical thinking
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Scaffolding of close analysis of text
+- Useful for differentiating instruction
+- Useful for English language learners
 ---
 
 The two features that we like best about this [lesson](http://www.teachushistory.org/indian-removal/lesson-plans) are the interesting primary source materials and the framework that is provided for group work related to the texts. The readings are presented as a [packet of letters, documents, stories, and speeches](http://www.teachushistory.org/files/indianremoval/Indian-Removal-Documents.pdf) that have been edited to make them easier for students to read. The [group guidelines](http://www.teachushistory.org/files/indianremoval/Primary-Source-Circles.pdf) establish clearly defined roles within the groups. These roles compel students to look at specific features of the texts like source, context, and audience. Thus the group-work guidelines make it easier for students to see what they need to pay attention to when looking at primary sources.

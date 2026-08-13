@@ -30,6 +30,27 @@ tags:
 - Native Americans
 - Trail of Tears
 - contingency
+attachments:
+- delta: 0
+  title: 'Handout 1: The Cherokee'
+  url: https://teachinghistory.org/sites/default/files/2018-08/Handout_1_Cherokee.pdf
+  mime_type: application/pdf
+  size: 145740
+- delta: 1
+  title: 'Handout 2: The US Government'
+  url: https://teachinghistory.org/sites/default/files/2018-08/Handout_2_US_Government.pdf
+  mime_type: application/pdf
+  size: 153073
+- delta: 2
+  title: 'Handout 3: The State of Georgia'
+  url: https://teachinghistory.org/sites/default/files/2018-08/Handout_3_State_of_Georgia.pdf
+  mime_type: application/pdf
+  size: 125245
+- delta: 3
+  title: 'Handout 4: The Press'
+  url: https://teachinghistory.org/sites/default/files/2018-08/Handout_4_The_Press.pdf
+  mime_type: application/pdf
+  size: 127340
 ---
 
 ## What Is It?

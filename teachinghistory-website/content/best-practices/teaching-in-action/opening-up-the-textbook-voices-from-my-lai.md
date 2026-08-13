@@ -34,10 +34,21 @@ videos:
   title: 'Perspectives: Those Portrayed and Those Overlooked'
 - src: /files/media/video/TIA_MyLai2.mp4
   thumb: /files/media/video/thumbs/TIA_MyLai2.jpg
-  title: 'Zoom-In Inquiry'
+  title: Zoom-In Inquiry
 - src: /files/media/video/TIA_MyLai3.mp4
   thumb: /files/media/video/thumbs/TIA_MyLai3.jpg
-  title: 'Primary Sources Challenge Concepts of Truth'
+  title: Primary Sources Challenge Concepts of Truth
+attachments:
+- delta: 0
+  title: My Lai Massacre Cartoon
+  url: https://teachinghistory.org/sites/default/files/2018-08/jelen_my-lai-cartoon_0.pdf
+  mime_type: application/pdf
+  size: 141518
+- delta: 1
+  title: 'My-Lai Courts-Martial Testimony: Lt. William Calley'
+  url: https://teachinghistory.org/sites/default/files/2018-08/calley_testimony_excerpts_0.doc
+  mime_type: application/msword
+  size: 98304
 ---
 
 ## Transcript

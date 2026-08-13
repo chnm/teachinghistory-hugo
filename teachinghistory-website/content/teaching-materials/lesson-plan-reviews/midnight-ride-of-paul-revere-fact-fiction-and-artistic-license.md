@@ -35,6 +35,14 @@ tags:
 - paintings
 - poems
 - poetry
+features:
+- Focus on historical thinking
+- Further resources for teaching this content
+- Inclusion of multiple perspectives
+- Multiple Sources
+- Opportunity to analyze causation
+- Scaffolding of close analysis of text
+- Useful for differentiating instruction
 ---
 
 This [lesson](http://edsitement.neh.gov/lesson-plan/midnight-ride-paul-reveremdashfact-fiction-and-artistic-license) asks students to use primary source evidence to assess Grant Wood’s famous 1931 painting, [*The Midnight Ride of Paul Revere*](http://web.archive.org/web/20220621175457/https://picturingamerica.neh.gov/downloads/pdfs/Resource_Guide_Chapters/PictAmer_Resource_Book_Chapter_3A.pdf). Students must also determine the event's historical significance. This lesson offers a wealth of resources for analyzing artwork as historical evidence and provides a nice example for using artwork along with written documents to learn about the past.

@@ -38,16 +38,32 @@ tags:
 videos:
 - src: /files/media/video/TIA_Stacy1.mp4
   thumb: /files/media/video/thumbs/TIA_Stacy1.jpg
-  title: 'Identifying the Parts of a Cartoon'
+  title: Identifying the Parts of a Cartoon
 - src: /files/media/video/TIA_Stacy2.mp4
   thumb: /files/media/video/thumbs/TIA_Stacy2.jpg
-  title: 'Identifying the Parts of a Cartoon Cont'
+  title: Identifying the Parts of a Cartoon Cont
 - src: /files/media/video/TIA_Stacy3.mp4
   thumb: /files/media/video/thumbs/TIA_Stacy3.jpg
-  title: 'Introducing the Second Cartoon'
+  title: Introducing the Second Cartoon
 - src: /files/media/video/TIA_Stacy4.mp4
   thumb: /files/media/video/thumbs/TIA_Stacy4.jpg
-  title: 'Drawing Conclusions and Extending the Lesson'
+  title: Drawing Conclusions and Extending the Lesson
+attachments:
+- delta: 0
+  title: 'Massive Resistance Cartoon #1: "Now What?"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/cartoon_1-now_what.pdf
+  mime_type: application/pdf
+  size: 309200
+- delta: 1
+  title: 'Massive Resistance Cartoon #2: "Riding Out the Storm"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/cartoon_2-riding_out_the_storm.pdf
+  mime_type: application/pdf
+  size: 361704
+- delta: 2
+  title: Cartoon Analysis Worksheet Packet
+  url: https://teachinghistory.org/sites/default/files/2018-08/massive-resistance-worksheet.pdf
+  mime_type: application/pdf
+  size: 31178
 ---
 
 Stacy Hoeflich's 4th-grade students learn about Virginia's policy of massive resistance to public school desegregation by carefully reading and examining two political cartoons.

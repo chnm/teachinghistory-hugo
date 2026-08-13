@@ -32,6 +32,12 @@ topics:
 - Education
 tags:
 - james a. percoco
+attachments:
+- delta: 0
+  title: Gettysburg Journal Prompt
+  url: https://teachinghistory.org/sites/default/files/2018-08/gettysburg_journal_prompt.pdf
+  mime_type: application/pdf
+  size: 193673
 ---
 
 Dawn. The Blue Ridge Mountains, of Pennsylvania, in the western distance, down Chambersburg Pike have an ethereal purple hue as the sun captures their crest. Closer to the ground where we are standing the mist is beginning to lift this mid-October morning. Students and chaperones huddle close together to ward off the autumn chill. All is quiet for this moment I have planned. Reaching into my satchel I pull out my set of Tibetan bells. Asking for perfect stillness from my students and chaperones I bring the bells together. As their ring echoes and trails off, I invoke the Spirit of History to be with us this day as we explore the site of the largest battle of the Civil War. Seven hours later we will head back to West Springfield High School, and my students will never look at a historic site in the same way again.

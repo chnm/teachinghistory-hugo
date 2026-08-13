@@ -33,10 +33,21 @@ tags:
 videos:
 - src: /files/media/video/Jerome1.mp4
   thumb: /files/media/video/thumbs/Jerome1.jpg
-  title: 'Reading the Document'
+  title: Reading the Document
 - src: /files/media/video/Jerome2.mp4
   thumb: /files/media/video/thumbs/Jerome2.jpg
-  title: 'Teaching Strategies'
+  title: Teaching Strategies
+attachments:
+- delta: 0
+  title: 'Excerpt: "My Bondage and My Freedom"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/bondage_and_freedom_excerpt.pdf
+  mime_type: application/pdf
+  size: 113524
+- delta: 1
+  title: 'Excerpt: "Narrative of the Life of Frederick Douglass"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/narrative_excerpt.pdf
+  mime_type: application/pdf
+  size: 86571
 ---
 
 Historian Jerome Bowers analyzes excerpts from Frederick Douglass's fourth autobiography, *My Bondage and My Freedom* to explore the complicated realities of slavery and the survival of African cultural traditions. Bowers focuses on a story in which Douglass meets Sandy, a conjurer and a slave. Bowers models several historical thinking skills, including:

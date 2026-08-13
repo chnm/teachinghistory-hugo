@@ -30,6 +30,10 @@ tags:
 - geography
 - spatial relationships
 - young learners
+features:
+- Multiple Sources
+- Useful for differentiating instruction
+- Useful for English language learners
 ---
 
 This is a straightforward [lesson](http://web.archive.org/web/20150706085816/http://education.nationalgeographic.com:80/education/activity/locate-yourself-map-americas/?ar_a=1) that introduces K-2 students to the concept of geographical location and scale. Using a variety of different maps, the lesson helps students understand the way that countries are situated within continents, states within countries, and cities within states.

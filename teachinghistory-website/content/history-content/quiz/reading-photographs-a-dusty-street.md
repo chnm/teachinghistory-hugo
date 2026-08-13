@@ -28,6 +28,17 @@ tags:
 - photographs
 - photos
 - primary sources
+attachments:
+- delta: 0
+  title: Dusty Street Photo
+  url: https://teachinghistory.org/sites/default/files/2018-08/dusty_street_photo.pdf
+  mime_type: application/pdf
+  size: 1192788
+- delta: 1
+  title: Dusty Street Photo Quiz
+  url: https://teachinghistory.org/sites/default/files/2018-08/dusty_street_photo_quiz.pdf
+  mime_type: application/pdf
+  size: 752827
 ---
 
 When you look at a photo, do you really take the time to see it? Or do you give it a quick glance before reading the caption?

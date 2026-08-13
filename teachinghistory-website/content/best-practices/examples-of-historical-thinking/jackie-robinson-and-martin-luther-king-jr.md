@@ -31,16 +31,27 @@ tags:
 videos:
 - src: /files/media/video/Pellom1.mp4
   thumb: /files/media/video/thumbs/Pellom1.jpg
-  title: 'Qualities of Character'
+  title: Qualities of Character
 - src: /files/media/video/Pellom2.mp4
   thumb: /files/media/video/thumbs/Pellom2.jpg
-  title: 'Mallie Robinson'
+  title: Mallie Robinson
 - src: /files/media/video/Pellom3.mp4
   thumb: /files/media/video/thumbs/Pellom3.jpg
-  title: 'The Right to Be Treated as a Human Being'
+  title: The Right to Be Treated as a Human Being
 - src: /files/media/video/Pellom4.mp4
   thumb: /files/media/video/thumbs/Pellom4.jpg
-  title: 'Historical Moments and Anticipating Opportunities'
+  title: Historical Moments and Anticipating Opportunities
+attachments:
+- delta: 0
+  title: Telegram from Martin Luther King Jr.
+  url: https://teachinghistory.org/sites/default/files/2018-08/martin_luther_king_jr_telegram.pdf
+  mime_type: application/pdf
+  size: 2033402
+- delta: 1
+  title: Martin Luther King's Speech Honoring Robinson
+  url: https://teachinghistory.org/sites/default/files/2018-08/martin_luther_king_jr_speech_transcribed.pdf
+  mime_type: application/pdf
+  size: 137886
 ---
 
 In a 1962 telegram from Albany, GA, Martin Luther King Jr. called Jackie Robinson "one of the truly great men of our nation." What made Jackie Robinson great?

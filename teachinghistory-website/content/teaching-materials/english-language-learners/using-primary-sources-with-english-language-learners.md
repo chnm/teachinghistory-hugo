@@ -24,6 +24,12 @@ grade_levels:
 - elementary
 - high
 - middle
+attachments:
+- delta: 0
+  title: Source_Analysis_Sheet.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/Source_Analysis_Sheet.pdf
+  mime_type: application/pdf
+  size: 71361
 ---
 
 Finding creative ways to include English Language Learners in classroom activities can be challenging regardless of the teacher’s dedication. One activity that I have found to be successful with all of my students, including those with limited English proficiency, is a primary source analysis activity. This activity can be used in relation to any topic of study. Follow these steps:

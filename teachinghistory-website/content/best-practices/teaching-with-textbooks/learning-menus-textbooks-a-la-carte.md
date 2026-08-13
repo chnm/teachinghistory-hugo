@@ -17,6 +17,17 @@ grade_levels:
 tags:
 - learning menus
 - rubrics
+more_information: 'See [more on this topic](http://teachinghistory.org/teaching-materials/ask-a-master-teacher/25477)
+  elsewhere on Teachinghistory.org.
+
+
+  Graphic organizers are another strategy for scaffolding and breaking down challenging
+  texts. [Learn more](http://teachinghistory.org/teaching-materials/english-language-learners/24130)
+  about them, and consider including them in Learning Menus.
+
+
+  Also see the [Institutes on Academic Diversity](https://curry.virginia.edu/faculty-research/centers-labs-projects/research-labs/institutes-academic-diversity/iad-summer)
+  (IAD) at the University of Virginia''s [Curry School of Education](http://curry.virginia.edu/).'
 ---
 
 ## Why do it?

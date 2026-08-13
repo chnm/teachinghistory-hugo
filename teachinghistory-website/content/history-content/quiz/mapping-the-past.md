@@ -24,6 +24,17 @@ tags:
 - Maps
 - Virginia
 - cartography
+attachments:
+- delta: 0
+  title: John Smith Map
+  url: https://teachinghistory.org/sites/default/files/2018-08/john_smith_map_for_quiz.pdf
+  mime_type: application/pdf
+  size: 2339269
+- delta: 1
+  title: Mapping the Past Quiz
+  url: https://teachinghistory.org/sites/default/files/2018-08/1612_map_quiz.pdf
+  mime_type: application/pdf
+  size: 425589
 ---
 
 John Smith drew a map first published in London in 1612 for the Virginia Company. What does it tell you? Start by looking closely at the details (download a larger version by clicking the John Smith Map to the left) and then answer the questions about what you see.

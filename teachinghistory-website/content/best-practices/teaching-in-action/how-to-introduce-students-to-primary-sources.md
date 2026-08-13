@@ -31,16 +31,37 @@ tags:
 videos:
 - src: /files/media/video/Marti1.mp4
   thumb: /files/media/video/thumbs/Marti1.jpg
-  title: 'Introducing Students to Primary Sources'
+  title: Introducing Students to Primary Sources
 - src: /files/media/video/Marti2.mp4
   thumb: /files/media/video/thumbs/Marti2.jpg
-  title: 'Comparing and Contrasting'
+  title: Comparing and Contrasting
 - src: /files/media/video/Marti3.mp4
   thumb: /files/media/video/thumbs/Marti3.jpg
-  title: 'A New Way to Look at History'
+  title: A New Way to Look at History
 - src: /files/media/video/Marti4.mp4
   thumb: /files/media/video/thumbs/Marti4.jpg
-  title: 'Scaffolding and Reflection'
+  title: Scaffolding and Reflection
+attachments:
+- delta: 0
+  title: 'John White Watercolor: "Man and Woman Eating"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/white_watercolor_man_and_woman_eating.pdf
+  mime_type: application/pdf
+  size: 9172248
+- delta: 1
+  title: 'Theodor De Bry Engraving: "Man and Woman Eating"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/debry_engraving_man_and_woman_eating.pdf
+  mime_type: application/pdf
+  size: 339715
+- delta: 2
+  title: 'John White Watercolor: "Indian Village of Pomeiooc"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/white_watercolor_village.pdf
+  mime_type: application/pdf
+  size: 9627078
+- delta: 3
+  title: 'Theodor De Bry Engraving: "Indian Village of Pomeiooc"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/debry_engraving_village.pdf
+  mime_type: application/pdf
+  size: 310390
 ---
 
 Fourth-grade teacher Marti MacKenzie, of Frederick Douglass Elementary School, Winchester, VA, introduces her students to primary sources. Together, she and her students analyze John White's drawings of the Powhatan and compare and contrast them to engravings made based on the drawings.

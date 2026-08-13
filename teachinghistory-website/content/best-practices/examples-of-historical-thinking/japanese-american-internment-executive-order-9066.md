@@ -30,16 +30,22 @@ tags:
 videos:
 - src: /files/media/video/Wu5.mp4
   thumb: /files/media/video/thumbs/Wu5.jpg
-  title: 'A Mistake from the Beginning'
+  title: A Mistake from the Beginning
 - src: /files/media/video/Wu6.mp4
   thumb: /files/media/video/thumbs/Wu6.jpg
-  title: 'Putting the Words in Context'
+  title: Putting the Words in Context
 - src: /files/media/video/Wu7.mp4
   thumb: /files/media/video/thumbs/Wu7.jpg
-  title: 'Reading the Order'
+  title: Reading the Order
 - src: /files/media/video/Wu8.mp4
   thumb: /files/media/video/thumbs/Wu8.jpg
-  title: 'History in the Details'
+  title: History in the Details
+attachments:
+- delta: 0
+  title: Executive Order 9066
+  url: https://teachinghistory.org/sites/default/files/2018-08/executive_order_9066.pdf
+  mime_type: application/pdf
+  size: 2525123
 ---
 
 Do important historical documents *look* important at first glance? Frank Wu examines Executive Order 9066, which gave the military power to intern Japanese Americans during World War II. What does its legalese mean? What effect did this dry, bureaucratic-sounding document have? Sometimes a document's significance can only be discerned after careful reading, and only if you understand the document's context.

@@ -32,6 +32,17 @@ tags:
 - Harpers Ferry
 - John Brown
 - music
+attachments:
+- delta: 0
+  title: 'John Brown''s Body: Version #1'
+  url: https://teachinghistory.org/sites/default/files/2018-08/ps-john-brown-song-ver1_0.pdf
+  mime_type: application/pdf
+  size: 153976
+- delta: 1
+  title: 'John Brown''s Body: Version #2'
+  url: https://teachinghistory.org/sites/default/files/2018-08/ps-john-brown-song-ver2_0.pdf
+  mime_type: application/pdf
+  size: 129685
 ---
 
 [*Foundations of U.S. History, Virginia History as U.S. History*](http://chnm.gmu.edu/loudountah/) features [4th graders learning about John Brown's raid](http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/classroom-practice/) on Harpers Ferry through analyzing the song ["John Brown's Body](http://web.archive.org/web/20190918095542/http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/get-the-songs/)." Video clips of classroom instruction accompany [short videos of a scholar analyzing the song](http://web.archive.org/web/20190821121001/http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/scholar-analysis/) and the [teacher reflecting on the lesson]( http://web.archive.org/web/20190821110628/http://chnm.gmu.edu/loudountah/source-analysis/john-brown-song/teacher-analysis/). The John Brown song is one of eight documents found on the Source Analysis feature of the [Teaching American History grant website]( http://chnm.gmu.edu/loudountah/) in Loudoun County, Virginia. In the classroom practice section for John Brown's Body we see students analyzing the song to understand how northerners viewed John Brown shortly after his raid on Harpers Ferry. This video provides examples of two promising practices:

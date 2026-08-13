@@ -26,6 +26,12 @@ tags:
 - Maps
 - census
 - migration
+attachments:
+- delta: 0
+  title: California or Bust Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-census-migration.pdf
+  mime_type: application/pdf
+  size: 133404
 ---
 
 Federal Census figures demonstrate the migration of people from state to state and from region to region over the years. There are three maps in this quiz depicting the migration rate (the rate of net domestic migration per 1,000 people), each covering a five-year period. Match each map to the period it represents.

@@ -20,6 +20,12 @@ topics:
 - Asian Americans
 - Legal History
 - Military History
+attachments:
+- delta: 0
+  title: quiz-japanese-american-veterans.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-japanese-american-veterans_0.pdf
+  mime_type: application/pdf
+  size: 67392
 ---
 
 From the Revolution onwards, racial and ethnic minorities have fought for the U.S. as soldiers, even in the face of unequal treatment as civilians. During World War II, Japanese Americans served as soldiers while at home their families were forced into internment camps. Answer these questions on the national memorial to Japanese Americans in World War II.

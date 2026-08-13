@@ -34,13 +34,19 @@ tags:
 videos:
 - src: /files/media/video/RHSegment1.mp4
   thumb: /files/media/video/thumbs/RHSegment1.jpg
-  title: 'Looking at the Document'
+  title: Looking at the Document
 - src: /files/media/video/RHSegment2.mp4
   thumb: /files/media/video/thumbs/RHSegment2.jpg
-  title: 'Reading Between the Lines'
+  title: Reading Between the Lines
 - src: /files/media/video/RHSegment3.mp4
   thumb: /files/media/video/thumbs/RHSegment3.jpg
-  title: 'Teaching Strategies'
+  title: Teaching Strategies
+attachments:
+- delta: 0
+  title: 'Excerpts: "Creative Memo on Lay''s Products"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/lays_products_memo_excerpts.pdf
+  mime_type: application/pdf
+  size: 552313
 ---
 
 Historian Roger Horowitz analyzes a 1957 market research report on the public perception of potato chips. In these videos, Horowitz models several historical thinking skills:

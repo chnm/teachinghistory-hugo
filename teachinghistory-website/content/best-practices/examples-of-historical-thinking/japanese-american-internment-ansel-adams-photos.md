@@ -30,16 +30,27 @@ tags:
 videos:
 - src: /files/media/video/Wu1.mp4
   thumb: /files/media/video/thumbs/Wu1.jpg
-  title: 'Capturing a Sense of Uncertainty'
+  title: Capturing a Sense of Uncertainty
 - src: /files/media/video/Wu2.mp4
   thumb: /files/media/video/thumbs/Wu2.jpg
-  title: 'Striving for Normalcy'
+  title: Striving for Normalcy
 - src: /files/media/video/Wu3.mp4
   thumb: /files/media/video/thumbs/Wu3.jpg
-  title: 'Artifacts, Images, and Oral History'
+  title: Artifacts, Images, and Oral History
 - src: /files/media/video/Wu4.mp4
   thumb: /files/media/video/thumbs/Wu4.jpg
-  title: 'Responding to Injustice'
+  title: Responding to Injustice
+attachments:
+- delta: 0
+  title: 'Ansel Adams Photo: "Manzanar from Guard Tower"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/ansel_adams_photo_manzanar_1.pdf
+  mime_type: application/pdf
+  size: 619596
+- delta: 1
+  title: 'Ansel Adams Photo: "Baseball Game"'
+  url: https://teachinghistory.org/sites/default/files/2018-08/ansel_adams_photo_manzanar_2.pdf
+  mime_type: application/pdf
+  size: 520840
 ---
 
 Ansel Adams's photographs of the World War II-era Manzanar internment camp capture the emotional impact of living in internment. Frank Wu describes how he uses these photos to jump-start conversations with students about community, responsibility, loyalty, and identity in the face of prejudice.

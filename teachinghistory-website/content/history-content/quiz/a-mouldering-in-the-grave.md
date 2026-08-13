@@ -25,6 +25,12 @@ tags:
 - John Brown's Body
 - music
 - songs
+attachments:
+- delta: 0
+  title: A-mouldering in the Grave Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-john-brown.pdf
+  mime_type: application/pdf
+  size: 78796
 ---
 
 March is Music in Our Schools Month! Have you considered using historical tunes in your classroom? Here’s one possibility—the 19th-century popular song “John Brown’s Body.” Answer these questions about the song’s history.

@@ -28,6 +28,12 @@ tags:
 - suffrage
 - suffragism
 - women's rights movement
+attachments:
+- delta: 0
+  title: Voices of Women's Reform Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/voices_of_womens_reform_quiz.pdf
+  mime_type: application/pdf
+  size: 271556
 ---
 
 Textbooks often emphasize the Seneca Falls Convention of 1848 and the Declaration of Sentiments calling for women’s suffrage as the core of the 19th-century women’s reform movement. Many women, however, had other ideas for promoting social change.

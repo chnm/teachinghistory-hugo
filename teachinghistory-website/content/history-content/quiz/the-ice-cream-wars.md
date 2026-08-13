@@ -27,6 +27,12 @@ tags:
 - food
 - foodways
 - ice cream
+attachments:
+- delta: 0
+  title: Ice Cream Wars Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-ice-cream-wars.pdf
+  mime_type: application/pdf
+  size: 79688
 ---
 
 The history of ice cream seems like it should be easy enough to determine, but many of its landmarks are hidden in the fog of historical controversy. Here are milestones in the history of American ice cream. Which ones are highly contested and which are not? (Hint: there are five that are contested)

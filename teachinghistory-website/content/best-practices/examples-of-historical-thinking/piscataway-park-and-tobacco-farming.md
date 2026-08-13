@@ -8,8 +8,9 @@ drupal_nid: 25862
 aliases:
 - /best-practices/examples-of-historical-thinking/25862
 splash_image_fid: '10208'
-summary: What was it like being a small farmer in the 1700s? Follow a tour group through
-  Maryland's Piscataway Park.
+summary: In 1700s Maryland and Virginia, farmers lived and died by the quality of
+  their tobacco. Teachers tour Maryland's Piscataway Park, learning about farmers'
+  struggle against their environment to grow and cure the perfect crop.
 splash_image: /files/piscatawaysplash_0.jpg
 time_periods:
 - Revolution & New Nation, 1754-1820s
@@ -34,8 +35,6 @@ videos:
   thumb: /files/media/video/thumbs/Piscataway3.jpg
   title: 'Establishing the Theme'
 ---
-
-In 1700s Maryland and Virginia, farmers lived and died by the quality of their tobacco. Teachers tour Maryland's Piscataway Park, learning about farmers' struggle against their environment to grow and cure the perfect crop.
 
 ## Transcript
 

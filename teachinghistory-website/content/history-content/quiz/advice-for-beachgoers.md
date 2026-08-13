@@ -19,6 +19,12 @@ time_periods:
 topics:
 - Popular Culture, Leisure
 - Women
+attachments:
+- delta: 0
+  title: Advice for Beachgoers Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-advice-for-beachgoers.pdf
+  mime_type: application/pdf
+  size: 75260
 ---
 
 In the last half of the 19th century, large numbers of Americans discovered the seaside as a place for renewing their health, engaging in physical sports, and socializing. Did authorities really offer the following advice to beachgoers in the late 19th century?

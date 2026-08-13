@@ -33,6 +33,32 @@ tags:
 - illustrators
 - witch trials
 - witches
+attachments:
+- delta: 0
+  title: Frontispiece - "The Discovery of Witches"
+  url: https://teachinghistory.org/sites/default/files/2018-08/witch_frontispiece_0.pdf
+  mime_type: application/pdf
+  size: 1748611
+- delta: 1
+  title: Illustration - "Harper's Young People"
+  url: https://teachinghistory.org/sites/default/files/2018-08/witch_illustration_0.pdf
+  mime_type: application/pdf
+  size: 531508
+- delta: 2
+  title: Poster - "Hansel and Gretel"
+  url: https://teachinghistory.org/sites/default/files/2018-08/witch_poster_0.pdf
+  mime_type: application/pdf
+  size: 1168640
+- delta: 3
+  title: Print - "Witch No. 3"
+  url: https://teachinghistory.org/sites/default/files/2018-08/witch_print.pdf
+  mime_type: application/pdf
+  size: 571404
+- delta: 4
+  title: Which Witch? Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-witches_1.pdf
+  mime_type: application/pdf
+  size: 248515
 ---
 
 How people understand a concept changes over time and according to context. For instance, in 1692 and 1693, during the Salem Witch Trials, participants believed that any human being could strike a deal with devils and become a witch. How did the early colonial view of witches as a clear, present, and danger that could appear in the form of a human change as time went on?

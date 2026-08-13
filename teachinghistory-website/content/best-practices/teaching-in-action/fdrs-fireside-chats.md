@@ -12,7 +12,9 @@ website_url: http://chnm.gmu.edu/mcpstah/source-analysis/fdr-fireside-chat/class
 splash_image_fid: '6298'
 author_image_fid: '6388'
 summary: High school teacher Joe Jelen combines roleplaying and critical analysis—by
-  having students roleplay critics of the New Deal.
+  having students roleplay critics of the New Deal. Jelen's students listen to one
+  of FDR's Fireside Chats and respond to the speech from the perspective of one of
+  FDR's many historical critics.
 splash_image: /files/tiafdr.jpeg
 author_image: /files/author_image/Author-Photo-Joseph-Jelen-75x75.png
 grade_levels:
@@ -28,18 +30,24 @@ tags:
 videos:
 - src: /files/media/video/TIA_FDR1.mp4
   thumb: /files/media/video/thumbs/TIA_FDR1.jpg
-  title: 'Drawing on Context'
+  title: Drawing on Context
 - src: /files/media/video/TIA_FDR2.mp4
   thumb: /files/media/video/thumbs/TIA_FDR2.jpg
-  title: 'A Critical View'
+  title: A Critical View
 - src: /files/media/video/TIA_FDR3.mp4
   thumb: /files/media/video/thumbs/TIA_FDR3.jpg
-  title: 'Performing Criticism'
+  title: Performing Criticism
+website_links:
+- delta: 0
+  url: http://chnm.gmu.edu/mcpstah/source-analysis/fdr-fireside-chat/classroom-practice/
+  title: 'Conflict and Consensus: Key Moments in US History'
+attachments:
+- delta: 0
+  title: Apr. 28, 1935 Fireside Chat Transcript
+  url: /sites/default/files/2018-08/fireside_chat_0.pdf
+  mime_type: application/pdf
+  size: 116016
 ---
-
-High school teacher Joe Jelen combines roleplaying and critical analysis—by having students roleplay critics of the New Deal. Jelen's students listen to one of FDR's Fireside Chats and respond to the speech from the perspective of one of FDR's many historical critics.
-
-For supporting materials, including a lesson plan, check out the website of TAH Grant project Conflict and Consensus: Key Moments in U.S. History.
 
 ## Transcript
 

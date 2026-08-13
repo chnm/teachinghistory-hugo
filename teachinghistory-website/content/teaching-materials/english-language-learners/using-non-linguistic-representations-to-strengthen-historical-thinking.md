@@ -22,6 +22,17 @@ author_image: /files/author_image/author_kovacic.jpg
 grade_levels:
 - high
 - middle
+attachments:
+- delta: 0
+  title: Graphic Organizer.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/graphic_organizer.pdf
+  mime_type: application/pdf
+  size: 80952
+- delta: 1
+  title: Student Sample.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/student_sample.pdf
+  mime_type: application/pdf
+  size: 363795
 ---
 
 The classes at the urban San Diego charter school where I teach are not tracked. As a result, 100% of the juniors on campus are enrolled in AP U.S. History. With a relatively large number of English Language Learners, the challenge is to design a rigorous college-level course that helps students master historical thinking and specific content. I have found that encouraging students to use and produce non-linguistic representations results in deeper thinking and better understanding. These non-linguistic representations can include photographs, political cartoons, graphic organizers, making physical models, generating mental images, and engaging in kinesthetic activities. The use of non-linguistic representations provides students with the chance to illustrate their understanding, ask new questions, refine their thinking, make connections, organize key concepts, and create mental images without being overly concerned about grammar, spelling, and their English proficiency. In addition, as I review visual images drawn by students and listen to their explanations or hear students describe their interpretation of a political cartoon, I often have a much clearer idea of what a student comprehends as well as the skills and content that need more review. There are a number of ways to begin integrating the use of non-linguistic representations into a history classroom to encourage historical thinking:

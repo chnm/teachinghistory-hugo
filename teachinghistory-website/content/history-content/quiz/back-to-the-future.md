@@ -25,6 +25,12 @@ topics:
 - Health & Medicine
 - Popular Culture, Leisure
 - Science & Tech.
+attachments:
+- delta: 0
+  title: Back to the Future Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-back-to-the-future.pdf
+  mime_type: application/pdf
+  size: 75595
 ---
 
 In addition to looking to the past to understand our society, we also look to the future. In 1900, newspapers and magazines printed predictions for the turn of the 21st century. Decide, true or false, whether each of the following was predicted in 1900.

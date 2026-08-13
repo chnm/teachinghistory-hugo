@@ -27,16 +27,22 @@ tags:
 videos:
 - src: /files/media/video/Hahn1.mp4
   thumb: /files/media/video/thumbs/Hahn1.jpg
-  title: 'Day-to-day Experience'
+  title: Day-to-day Experience
 - src: /files/media/video/Hahn2.mp4
   thumb: /files/media/video/thumbs/Hahn2.jpg
-  title: 'The Context of the Diary'
+  title: The Context of the Diary
 - src: /files/media/video/Hahn3.mp4
   thumb: /files/media/video/thumbs/Hahn3.jpg
-  title: 'The Context of the Hostage Crisis'
+  title: The Context of the Hostage Crisis
 - src: /files/media/video/Hahn4.mp4
   thumb: /files/media/video/thumbs/Hahn4.jpg
-  title: 'The Impact of the Crisis'
+  title: The Impact of the Crisis
+attachments:
+- delta: 0
+  title: Robert Ode's Iran Hostage Crisis Diary – Calendar of Events
+  url: https://teachinghistory.org/sites/default/files/2018-08/robert_ode_diary.pdf
+  mime_type: application/pdf
+  size: 93005
 ---
 
 Diaries and other personal accounts give an individual view of historical events, but they can only be understood in context. Peter Hahn describes the events of the Iran Hostage Crisis, and compares and contrasts them with the experiences in the diary of Robert Ode, a retired Foreign Service Officer taken hostage while on temporary service in Iran.

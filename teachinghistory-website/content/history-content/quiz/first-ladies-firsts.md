@@ -25,6 +25,12 @@ topics:
 - Women
 tags:
 - First Ladies
+attachments:
+- delta: 0
+  title: First Ladies' Firsts Quiz PDF
+  url: https://teachinghistory.org/sites/default/files/2018-08/quiz-first-ladies.pdf
+  mime_type: application/pdf
+  size: 77574
 ---
 
 The role of the First Lady has changed over time due to shifting social values as well as the individual personalities of the first ladies. Try to identify the correct first lady in each question based on the following descriptions.

@@ -29,6 +29,27 @@ grade_levels:
 - middle
 time_periods:
 - General
+attachments:
+- delta: 0
+  title: handout_1-annotation.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_1-annotation.pdf
+  mime_type: application/pdf
+  size: 1627952
+- delta: 1
+  title: handout_2-annotation.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/handout_2-annotation.pdf
+  mime_type: application/pdf
+  size: 1647598
+- delta: 2
+  title: Handout_3-Mini-Writes.pdf
+  url: https://teachinghistory.org/sites/default/files/2018-08/Handout_3-Mini-Writes_0.pdf
+  mime_type: application/pdf
+  size: 112953
+- delta: 3
+  title: The Intersection of Reading, Writing and Thinking. . .
+  url: https://teachinghistory.org/sites/default/files/2018-08/Monte-Sano_LylePaper.pdf
+  mime_type: application/pdf
+  size: 1276784
 ---
 
 ## What Is It?
