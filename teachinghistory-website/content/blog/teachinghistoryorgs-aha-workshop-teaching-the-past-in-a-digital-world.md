@@ -14,7 +14,7 @@ author_image_fid: '8751'
 summary: Missed our workshop at the American Historical Association in Chicago? Catch
   a recap here.
 image: /files/img_0530.jpeg
-author_image: /files/author_image/jennifer1.jpg
+author_image: /files/author_image/Jennifer1.jpg
 grade_levels:
 - elementary
 - high

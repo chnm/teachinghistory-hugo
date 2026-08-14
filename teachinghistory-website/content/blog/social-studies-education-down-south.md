@@ -22,7 +22,7 @@ summary: Listen in on a conversation about curriculum, technology, and commonali
   in history education between the United States and Argentina with curriculum specialist
   Mabel Scaltritti.
 splash_image: /files/arg_naps2.jpg
-author_image: /files/author_image/tho_1.jpg
+author_image: /files/author_image/ThO_1.jpg
 tags:
 - Argentina
 - common core standards

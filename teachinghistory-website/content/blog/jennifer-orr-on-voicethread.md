@@ -16,7 +16,7 @@ splash_image_fid: '7398'
 author_image_fid: '7396'
 summary: VoiceThread enables young learners to express their ideas without struggling
   to write them down, says 1st-grade teacher Jennifer Orr.
-splash_image: /files/Voicethreadsplash.jpg
+splash_image: /files/VoiceThreadSplash.jpg
 image: /files/Voicethreadimage.jpg
 author_image: /files/author_image/jennifer-orr_0_2.jpg
 grade_levels:

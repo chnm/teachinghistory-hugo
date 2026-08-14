@@ -15,9 +15,7 @@
       <article>
         <h2 class="font-heading text-2xl mb-4 normal-case">{{ .Title }}</h2>
 
-        {{ with .Params.splash_image }}
-          <img src="{{ . }}" alt="" class="w-full mb-6">
-        {{ end }}
+        {{ partial "main-content-image.html" . }}
 
         {{ with .Params.date }}
           <time class="text-xs text-gray-400 block mb-6">{{ dateFormat "January 2, 2006" . }}</time>

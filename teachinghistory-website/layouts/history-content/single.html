@@ -110,9 +110,7 @@
           <p class="text-sm text-gray-600 italic mb-4">{{ . }}</p>
         {{ end }}
 
-        {{ with .Params.splash_image }}
-          <img src="{{ . }}" alt="" class="w-full mb-6">
-        {{ end }}
+        {{ partial "main-content-image.html" . }}
 
         <div class="font-body leading-relaxed">
           {{ .Content }}

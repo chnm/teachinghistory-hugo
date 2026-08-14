@@ -24,7 +24,7 @@ author_image_fid: '7635'
 summary: Don't think once. Think twice. Demand concise, thought-provoking work from
   students.
 splash_image: /files/mikeyellon432x240.jpg
-author_image: /files/author_image/myell_1.jpg
+author_image: /files/author_image/mYell_1.jpg
 grade_levels:
 - middle
 tags:

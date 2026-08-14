@@ -16,7 +16,7 @@ splash_image_fid: '9103'
 author_image_fid: '9206'
 summary: Do you tweet? With social media, you can turn to the wired world for teaching
   advice and support.
-splash_image: /files/twittersplash.jpg
+splash_image: /files/TwitterSplash.jpg
 image: /files/twitterimage.jpg
 author_image: /files/author_image/author_myers.jpg
 tags:

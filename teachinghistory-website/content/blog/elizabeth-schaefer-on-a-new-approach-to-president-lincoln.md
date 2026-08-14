@@ -20,7 +20,7 @@ summary: Summer is the time for professional development! Eighth-grade teacher E
   Schaefer reports on her professional development experiences at DC's Lincoln's Cottage.
 splash_image: /files/splash-blog-lslc.jpg
 image: /files/image-blog-lslc.jpg
-author_image: /files/author_image/author_photo_elizabeth_schaefer_75x75_0.jpg
+author_image: /files/author_image/Author_Photo_Elizabeth_Schaefer_75x75_0.jpg
 grade_levels:
 - elementary
 - high

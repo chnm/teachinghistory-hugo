@@ -19,7 +19,7 @@ summary: Searching for advanced projects for your eager learners? Teacher Mike Y
   recommends National History Day.
 splash_image: /files/nhdsplash.jpg
 image: /files/nhdimage.jpg
-author_image: /files/author_image/myell.jpg
+author_image: /files/author_image/mYell.jpg
 tags:
 - NHD
 - differentiation

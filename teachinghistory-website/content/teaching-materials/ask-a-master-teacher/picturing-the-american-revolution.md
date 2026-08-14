@@ -20,7 +20,7 @@ summary: Looking for a creative way to teach the American Revolution to struggli
   readers? Check this out!
 splash_image: /files/picturingsplash2.jpg
 image: /files/picturingimage.jpg
-author_image: /files/author_image/author.jpg
+author_image: /files/author_image/AUTHOR.jpg
 grade_levels:
 - elementary
 time_periods:
