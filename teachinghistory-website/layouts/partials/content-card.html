@@ -24,7 +24,7 @@
   {{ $img := $page.Params.splash_image | default $page.Params.image | default $page.Params.thumbnail }}
   {{ with $img }}
     <div class="h-[160px] overflow-hidden">
-      <img src="{{ . }}" alt="" class="w-full h-full object-cover">
+      <img src="{{ . }}" alt="{{ $page.Title }}" class="w-full h-full object-cover">
     </div>
   {{ else }}
     <div class="h-[160px] overflow-hidden">

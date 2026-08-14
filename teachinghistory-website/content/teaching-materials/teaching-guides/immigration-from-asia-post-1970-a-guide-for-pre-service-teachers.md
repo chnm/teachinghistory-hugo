@@ -165,91 +165,91 @@ Yoga studio in the Lakewood neighborhood, Chicago, Illinois | Library of Congre
 
  Chinese women playing cards. Bayard St. and Baxter St., Chinatown, Manhattan | Library of Congress |  [www.loc.gov/item/2022642962/](https://www.loc.gov/item/2022642962/)
 
-![The women sit at tables with each other. The venue appears to be sunny and outdoors. Many of them have suitcases and backpacks with them.](/files/inline-images/Chinese Women Playing Cards_0.jpg)
+![The women sit at tables with each other. The venue appears to be sunny and outdoors. Many of them have suitcases and backpacks with them.](/files/inline-images/Chinese%20Women%20Playing%20Cards_0.jpg)
 
 Elderly men playing Chinese chess. Columbus Park, Bayard St., Chinatown, Manhattan | Library of Congress | [www.loc.gov/item/2022885526/](https://www.loc.gov/item/2022885526/)
 
-![Elderly men gather around an outdoor table in New York City. Four of them sit across from each other on either side of the table on park benches and the rest of the men stand and observe.](/files/inline-images/Men Play Chinese Chess_0.jpg)
+![Elderly men gather around an outdoor table in New York City. Four of them sit across from each other on either side of the table on park benches and the rest of the men stand and observe.](/files/inline-images/Men%20Play%20Chinese%20Chess_0.jpg)
 
 Jolllybee, Filipino Restaurant, 609 8th Ave., Manhattan | Library of Congress | [www.loc.gov/item/2021643708/](https://www.loc.gov/item/2021643708/)
 
-![Three employees taking, assembling, and packaging orders. There are two customers waiting to pick up their orders and two customers placing their orders.](/files/inline-images/Jollybee Restaurant.jpg)
+![Three employees taking, assembling, and packaging orders. There are two customers waiting to pick up their orders and two customers placing their orders.](/files/inline-images/Jollybee%20Restaurant.jpg)
 
 Filipino street vendors, 67-12 Roosevelt Ave., Queens | Library of Congress | <www.loc.gov/item/2022885550/>
 
-![A small group of Filipino women sell headbands and other goods at their booth on a street in New York City](/files/inline-images/Filipino Street Vendors.jpg)
+![A small group of Filipino women sell headbands and other goods at their booth on a street in New York City](/files/inline-images/Filipino%20Street%20Vendors.jpg)
 
 Baptism celebration, Kabayan Bistro, a Filipino Lounge, 6909 Roosevelt Ave., Queens | Library of Congress |[www.loc.gov/item/2024696323/]( www.loc.gov/item/2024696323/)
 
-![A family gathers around tables at a Filipino restaurant to celebrate a baptism. ](/files/inline-images/Baptism Celebration.jpg)
+![A family gathers around tables at a Filipino restaurant to celebrate a baptism. ](/files/inline-images/Baptism%20Celebration.jpg)
 
 The Fil Am float, representing the Filipino American Association of Portland & Vicinity, Inc., passes by in the Fred Meyer Junior Parade, one several events in Portland, Oregon's, annual Rose Festival | Library of Congress | [www.loc.gov/item/2018699497/](https://www.loc.gov/item/2018699497/)
 
-![The float has lots of roses and flowers around the bottom and a crown floating at the top above a group of young girls who sit on the float and wave.](/files/inline-images/Fil Am Parade Float_0.jpg)
+![The float has lots of roses and flowers around the bottom and a crown floating at the top above a group of young girls who sit on the float and wave.](/files/inline-images/Fil%20Am%20Parade%20Float_0.jpg)
 
 Vietnamese laundromat and Pizzeria, Saunders St. at N. 27th St., Camden, NJ, 2023 | Library of Congress |  [www.loc.gov/item/2024695773/](https://www.loc.gov/item/2024695773/)
 
-![Photo taken in 2023 of a brick building with two signs on it written in Vietnamese indicating where to enter for pizza or for laundry service.](/files/inline-images/Vietnamese Laudromat and Pizzeria.jpg)
+![Photo taken in 2023 of a brick building with two signs on it written in Vietnamese indicating where to enter for pizza or for laundry service.](/files/inline-images/Vietnamese%20Laudromat%20and%20Pizzeria.jpg)
 
 Vietnamese laundromat and Mexican Taqueria, Saunders St. at N. 27th St., Camden NJ, 2006 | Library of Congress |  <www.loc.gov/item/2020702024/>
 
-![Photo taken in 2006 of the same brick building as above on Saunders Street in Camden, New Jersey. Two signs on the outside of the building written in Vietnamese indicating where to enter for the mexican restaurant and for laundry service](/files/inline-images/Vietnames Laundromat and Mexican Taqueria_0.jpg)
+![Photo taken in 2006 of the same brick building as above on Saunders Street in Camden, New Jersey. Two signs on the outside of the building written in Vietnamese indicating where to enter for the mexican restaurant and for laundry service](/files/inline-images/Vietnames%20Laundromat%20and%20Mexican%20Taqueria_0.jpg)
 
 Korean musicians, Broad St. at Market St., Newark, NJ | Library of Congress | <www.loc.gov/item/2021635295/>
 
-![At the corner of Broad street and Market Street in Newark, New Jersey a small group of Korean musicians perform for the public. They stand next to the crosswalk lights and one of them plays a guitar.](/files/inline-images/Korean Musicians Newark.jpg)
+![At the corner of Broad street and Market Street in Newark, New Jersey a small group of Korean musicians perform for the public. They stand next to the crosswalk lights and one of them plays a guitar.](/files/inline-images/Korean%20Musicians%20Newark.jpg)
 
 Entrance sign at the Assi Plaza Asian grocery and Korean and Chinese specialty store in the Flushing neighborhood of the New York City borough, or county-like jurisdiction, of Queens | Library of Congress | <www.loc.gov/item/2018701181/>
 
-![Sign over the entrance to Assi plaza where there is an Asian grocery store as well as a Korean and Chinese specialty store. The sign includes Chinese, English, and Korean writing.](/files/inline-images/Assi Plaza.jpg)
+![Sign over the entrance to Assi plaza where there is an Asian grocery store as well as a Korean and Chinese specialty store. The sign includes Chinese, English, and Korean writing.](/files/inline-images/Assi%20Plaza.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | <www.loc.gov/item/2018699994/>
 
-![There are street vendors, resting pedestrians, and people walking by in front of a Chinese pharmacy.](/files/inline-images/Chinatown Manhattan.jpg)
+![There are street vendors, resting pedestrians, and people walking by in front of a Chinese pharmacy.](/files/inline-images/Chinatown%20Manhattan.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | <www.loc.gov/item/2018699995/>
 
-![People walk past the GV Trading store on the corner of a street in Chinatown. Someone rides theirbike past](/files/inline-images/GV Trading Chinatown.jpg)
+![People walk past the GV Trading store on the corner of a street in Chinatown. Someone rides theirbike past](/files/inline-images/GV%20Trading%20Chinatown.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | [www.loc.gov/item/2018699996/](https://www.loc.gov/item/2018699996/)
 
-![Pedestrians walk in front of a store with a red awning reading K.L. Seafood Corps in Chinatown](/files/inline-images/SeaFood Corps China Town.jpg)
+![Pedestrians walk in front of a store with a red awning reading K.L. Seafood Corps in Chinatown](/files/inline-images/SeaFood%20Corps%20China%20Town.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | [www.loc.gov/item/2018699997/](https://www.loc.gov/item/2018699997/)
 
-![Pedestrians walk in front of Huan Jin Vegetable store front in China Town](/files/inline-images/Huang Jin Vegetable China Town Manhattan.jpg)
+![Pedestrians walk in front of Huan Jin Vegetable store front in China Town](/files/inline-images/Huang%20Jin%20Vegetable%20China%20Town%20Manhattan.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | <www.loc.gov/item/2018699998/>
 
-![A small crowd of people walk in front of a store front titled Dahing Seafood Market. ](/files/inline-images/China Town Seafood Market.jpg)
+![A small crowd of people walk in front of a store front titled Dahing Seafood Market. ](/files/inline-images/China%20Town%20Seafood%20Market.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress |  www.loc.gov/item/2018700000/
 
-![Store front reading Vivi Bubble Tea with a pink background. A statue of Marge Simpson sits on a bench in front of the store.](/files/inline-images/Vivi Bubble Tea China Town.jpg)
+![Store front reading Vivi Bubble Tea with a pink background. A statue of Marge Simpson sits on a bench in front of the store.](/files/inline-images/Vivi%20Bubble%20Tea%20China%20Town.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | www.loc.gov/item/2018700001/
 
-![Front of building reading NG Fook Funeral Services. Construction equipment surrounds the building.](/files/inline-images/NG Fook Funeral Services, China Town.jpg)
+![Front of building reading NG Fook Funeral Services. Construction equipment surrounds the building.](/files/inline-images/NG%20Fook%20Funeral%20Services%2C%20China%20Town.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | www.loc.gov/item/2018699941/
 
-![A man sits cross-legged on a chair in front of a store called New China Beauty Salon. ](/files/inline-images/Store fronts in China Town, Manhattan.jpg)
+![A man sits cross-legged on a chair in front of a store called New China Beauty Salon. ](/files/inline-images/Store%20fronts%20in%20China%20Town%2C%20Manhattan.jpg)
 
 Fish market in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | www.loc.gov/item/2018699985/
 
-![Fish arranged on tables in the market as a few people in the background survey the various fish.](/files/inline-images/China Town Fish Market.jpg)
+![Fish arranged on tables in the market as a few people in the background survey the various fish.](/files/inline-images/China%20Town%20Fish%20Market.jpg)
 
 Produce stand in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | www.loc.gov/item/2018699986/
 
-![Crates of spinach, radishes, scallions, and other green vegetables sit in the foreground with prices. A few men stand behind the produce wearing gloves and interacting with the produce. ](/files/inline-images/China Town Produce Stand.jpg)
+![Crates of spinach, radishes, scallions, and other green vegetables sit in the foreground with prices. A few men stand behind the produce wearing gloves and interacting with the produce. ](/files/inline-images/China%20Town%20Produce%20Stand.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | www.loc.gov/item/2018699987/
 
-![A man lens on a fire hydrant in front of a store in China Town. A woman walks behind him. ](/files/inline-images/Man in China Town Manhattan.jpg)
+![A man lens on a fire hydrant in front of a store in China Town. A woman walks behind him. ](/files/inline-images/Man%20in%20China%20Town%20Manhattan.jpg)
 
 Scene in Lower Manhattan's Chinatown neighborhood in New York City | Library of Congress | www.loc.gov/item/2018699988/
 
-![A woman walks past a store-front building in China Town carrying a bag](/files/inline-images/Manhattan China Town_0.jpg)
+![A woman walks past a store-front building in China Town carrying a bag](/files/inline-images/Manhattan%20China%20Town_0.jpg)
 
 Some of the hundreds of participants at the 10th-annual Hmong New Year Celebration in downtown Chico, California, pose | Library of Congress | [www.loc.gov/item/2013631121/](https://www.loc.gov/item/2013631121/)
 

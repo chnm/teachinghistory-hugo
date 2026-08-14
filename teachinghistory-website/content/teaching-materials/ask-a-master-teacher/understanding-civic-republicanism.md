@@ -19,7 +19,7 @@ summary: In order for students to grasp the importance of American civic republi
   they must first understand its origins.
 splash_image: /files/republicanismsplash.jpg
 image: /files/republicanismimage.jpg
-author_image: /files/author_image/matlock_photo.jpg
+author_image: /files/author_image/Matlock_Photo.jpg
 grade_levels:
 - elementary
 - middle

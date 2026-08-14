@@ -137,7 +137,7 @@ Background:
 
 ### “Everybody Plant a Garden,” *Richmond Times-Dispatch*, April 22, 1917.
 
-![Everybody Plant a Garden newspaper article, sponsored by the American National Bank of Richmond, Virginia](/files/inline-images/Everybody Plant a Garden Article .png)
+![Everybody Plant a Garden newspaper article, sponsored by the American National Bank of Richmond, Virginia](/files/inline-images/Everybody%20Plant%20a%20Garden%20Article%20.png)
 
 Background
 
@@ -150,7 +150,7 @@ Background
 
 Link: <https://virginiahistory.org/learn/victory-gardens>.
 
-![Cartoon featuring a line of vegetables with faces like people, and a soldier standing in front of them with a newspaper reading Uncle Sam Expects every war garden to do its duty. ](/files/inline-images/JN Darling Political Cartoon.png)
+![Cartoon featuring a line of vegetables with faces like people, and a soldier standing in front of them with a newspaper reading Uncle Sam Expects every war garden to do its duty. ](/files/inline-images/JN%20Darling%20Political%20Cartoon.png)
 
 Discussion Questions:
 
@@ -160,7 +160,7 @@ Discussion Questions:
 
 ### “Yule Exhibits in Portsmouth,” *Virginian-Pilot,* December 11, 1941.
 
-![Article about a conservation yule show in Portsmouth-Norfolk County, Virginia.](/files/inline-images/Yule Exhibits Article.png)
+![Article about a conservation yule show in Portsmouth-Norfolk County, Virginia.](/files/inline-images/Yule%20Exhibits%20Article.png)
 
 Background
 
@@ -189,7 +189,7 @@ Discussion Questions
 
 Link: <https://www.loc.gov/item/2002712327/>
 
-![Image showing woman dressed in american flag walking and sprinkling seeds into a field](/files/inline-images/Screenshot 2024-12-17 at 12.39.38 PM_0.png)
+![Image showing woman dressed in american flag walking and sprinkling seeds into a field](/files/inline-images/Screenshot%202024-12-17%20at%2012.39.38%E2%80%AFPM_0.png)
 
 Background
 
@@ -242,7 +242,7 @@ President Franklin Roosevelt’s New Deal ushered in a series of federally fund
 
 ### The Dust Bowl and the Great Depression
 
-![“Abandoned farm in the dust bowl area, Oklahoma.” Photographed by Arthur Rothstein of the Farm Security Administration April 1936, Library of Congress.](/files/inline-images/Screenshot 2024-12-17 at 12.55.14 PM_0.png)![Dorothea Lange,“Migrant Mother: Birth of an Icon,” Nipomo, 1936, Oakland Museum of California.](/files/inline-images/Screenshot 2024-12-17 at 12.56.36 PM_0.png)
+![“Abandoned farm in the dust bowl area, Oklahoma.” Photographed by Arthur Rothstein of the Farm Security Administration April 1936, Library of Congress.](/files/inline-images/Screenshot%202024-12-17%20at%2012.55.14%E2%80%AFPM_0.png)![Dorothea Lange,“Migrant Mother: Birth of an Icon,” Nipomo, 1936, Oakland Museum of California.](/files/inline-images/Screenshot%202024-12-17%20at%2012.56.36%E2%80%AFPM_0.png)
 
 Background:
 
@@ -298,7 +298,7 @@ The sources in this section highlight the specific ways outdoor spaces were segr
 
 ### Ownership and Segregation of Beaches
 
-![YWCA camp for girls. Highland Beach, Maryland, 1930, Smithsonian National Museum of American History.](/files/inline-images/Screenshot 2024-12-17 at 1.29.27 PM.png)
+![YWCA camp for girls. Highland Beach, Maryland, 1930, Smithsonian National Museum of American History.](/files/inline-images/Screenshot%202024-12-17%20at%201.29.27%E2%80%AFPM.png)
 
 Annotation:
 
@@ -308,7 +308,7 @@ Annotation:
 * The car and clothing hint at when this was taken, and reveal the presence of Black people in outdoor spaces, specifically beaches, long before desegregation.
 * This photo is of a YWCA camp for girls. Recreation, specifically in the outdoors, was not limited to just boys.
 
-![“Chicago Tribune, July 9, 1961. Police on Guard at Beach Wade-In police stand and look down on group of young African Americans sitting on the beach.](/files/inline-images/Screenshot 2024-12-17 at 1.29.41 PM.png)
+![“Chicago Tribune, July 9, 1961. Police on Guard at Beach Wade-In police stand and look down on group of young African Americans sitting on the beach.](/files/inline-images/Screenshot%202024-12-17%20at%201.29.41%E2%80%AFPM.png)
 
 Annotation:
 
@@ -349,7 +349,7 @@ By the early 1960s and 1970s, what had been a burgeoning environmental movement 
 
 ### "DDT is good for me-e-e," Advertisement, *Time Magazine,*June 30, 1947
 
-![DDT is good for me-e-e magazine page](/files/inline-images/Screenshot 2024-12-17 at 1.45.20 PM.png)
+![DDT is good for me-e-e magazine page](/files/inline-images/Screenshot%202024-12-17%20at%201.45.20%E2%80%AFPM.png)
 
 Link: <https://digital.sciencehistory.org/works/1831ck18w>
 
@@ -406,7 +406,7 @@ Discussion Questions:
 * How do you think the environmental movement has evolved since 1970?
   + In what ways do you think it has succeeded, and where do challenges remain?
 
-![March to wounded knee poster](/files/inline-images/Screenshot 2024-12-17 at 1.53.56 PM.png)
+![March to wounded knee poster](/files/inline-images/Screenshot%202024-12-17%20at%201.53.56%E2%80%AFPM.png)
 
 Discussion Questions:
 

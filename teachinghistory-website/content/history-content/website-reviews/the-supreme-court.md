@@ -12,7 +12,7 @@ image_fid: '7744'
 splash_image_fid: '7746'
 summary: The Supreme Court is the final law of the land. Uncover its intricacies with
   this resource from PBS.
-splash_image: /files/supremecourt432x240.jpg
+splash_image: /files/SupremeCourt432x240.jpg
 image: /files/website_image/supremecourt150x113.jpg
 grade_levels:
 - high

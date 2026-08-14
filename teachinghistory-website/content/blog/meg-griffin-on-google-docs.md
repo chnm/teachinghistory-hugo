@@ -15,7 +15,7 @@ image_fid: '8528'
 splash_image_fid: '8529'
 author_image_fid: '8527'
 summary: What can you do with Google Docs?
-splash_image: /files/googledocssplash.jpg
+splash_image: /files/GoogleDocsSplash.jpg
 image: /files/googledocsimage.jpg
 author_image: /files/author_image/author-griffin_0.jpg
 tags:

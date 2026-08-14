@@ -15,7 +15,7 @@ from pathlib import Path
 import unicodedata
 from collections import defaultdict
 import csv
-from urllib.parse import quote
+from urllib.parse import quote, unquote, urlparse
 
 try:
     from markdownify import markdownify as md
@@ -755,6 +755,30 @@ PULLQUOTE_START = 'XPULLQUOTESTARTX'
 PULLQUOTE_END = 'XPULLQUOTEENDX'
 
 
+def localize_drupal_image_url(url):
+    """Map a legacy Drupal image URL to its encoded Hugo static path."""
+    if not url:
+        return url
+
+    parsed = urlparse(url)
+    if parsed.scheme and parsed.netloc not in {
+        'teachinghistory.org', 'www.teachinghistory.org',
+    }:
+        return url
+
+    path = parsed.path if parsed.scheme or parsed.netloc else url
+    if path.startswith('/sites/default/files/'):
+        relative = path[len('/sites/default/files/'):]
+    elif path.startswith('/files/'):
+        relative = path[len('/files/'):]
+    elif path.startswith('/system/files/'):
+        relative = path[len('/system/files/'):]
+    else:
+        return url
+
+    return f"/files/{quote(unquote(relative), safe='/')}"
+
+
 def apply_filter_autop(text):
     """Replicate Drupal's filter_autop: convert double newlines to <p> tags.
 
@@ -833,6 +857,12 @@ def preprocess_html(html_content):
                 blockquote = soup.new_tag('blockquote')
                 blockquote.string = div.get_text()
                 div.replace_with(blockquote)
+
+        # Drupal body fields keep embedded file images as absolute or
+        # /sites/default/files URLs. Point them at Hugo's static directory and
+        # retain URL encoding so Markdown destinations with spaces stay valid.
+        for image in soup.find_all('img', src=True):
+            image['src'] = localize_drupal_image_url(image.get('src'))
 
         if soup.body:
             return ''.join(str(tag) for tag in soup.body.children)

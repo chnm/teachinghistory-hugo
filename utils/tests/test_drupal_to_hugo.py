@@ -7,6 +7,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from drupal_to_hugo import (  # noqa: E402
     compose_body,
+    html_to_md,
+    localize_drupal_image_url,
     parse_file_field_insert,
     parse_file_managed_insert,
     parse_link_field_insert,
@@ -77,6 +79,25 @@ class StructuredFieldTests(unittest.TestCase):
 
 
 class BodyCompositionTests(unittest.TestCase):
+    def test_embedded_drupal_image_is_localized_and_keeps_url_encoding(self):
+        source = (
+            '<p><img alt="Primary source" '
+            'src="/sites/default/files/inline-images/A%20File%E2%80%AF1.png"></p>'
+        )
+
+        markdown = html_to_md(source)
+
+        self.assertEqual(
+            markdown.strip(),
+            '![Primary source](/files/inline-images/A%20File%E2%80%AF1.png)',
+        )
+
+    def test_external_image_url_is_not_localized(self):
+        self.assertEqual(
+            localize_drupal_image_url('https://example.org/image.png'),
+            'https://example.org/image.png',
+        )
+
     def test_qa_answer_is_not_duplicated(self):
         body, frontmatter = compose_body('ask_a_historian', {
             'field_answer': '<p>The complete answer.</p>',
