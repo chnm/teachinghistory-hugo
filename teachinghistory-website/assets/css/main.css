@@ -98,6 +98,30 @@
     font-style: italic;
   }
 
+  /* Keep branded image fallbacks legible without cropping the logo. */
+  .image-fallback-logo {
+    box-sizing: border-box;
+    object-fit: contain !important;
+    padding: 1.5rem;
+    background-color: var(--color-gray-light);
+  }
+
+  /* Website review lead images sit alongside the opening copy on larger screens. */
+  .website-review-body::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+  @media (min-width: 768px) {
+    .website-review-body > img {
+      float: left;
+      width: min(16rem, 42%);
+      height: auto;
+      margin: 0.25rem 1.5rem 1rem 0;
+    }
+  }
+
   /* Markdown tables inside article content */
   article > .font-body table {
     width: 100%;

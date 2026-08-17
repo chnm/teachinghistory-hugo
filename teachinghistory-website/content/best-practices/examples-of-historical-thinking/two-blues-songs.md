@@ -52,6 +52,65 @@ Written primary sources preserve the history of people who could and chose to re
 
 ## Transcript
 
+The documents I want to look at today are two blues songs, both the music and the words. My interest in blues is really part of my interest, an interest I began to have about 35 years ago, in how do you give voice, restore voice, to those people who have been rendered voiceless because of the kinds of, well, both because of the kinds of sources we use, but I suppose more importantly, because of the kinds of perspectives historians brought to their study. The perspectives they brought were that the significant actors, both in terms of class and race, geographical location, occupation, were the people who left certain kinds, not all kinds, but certain kinds of written sources behind. And one of the most ubiquitous forms of music after slavery—it has roots in slavery, but it really doesn't emerge until the turn of the last century—and that is blues. Blues become one of the most common forms of black music, especially in the North, but in the South as well. They're everywhere. By the early 1900s blues are everywhere. So I began to look at blues.
+
+**"Worry Blues" by Jesse Lockett (1939)**\
+Some people say that the worry blues ain't bad,\
+ Well if some people say that the worry blues ain't bad; \
+But it's the worst old feelin' that I most ever had.\
+Everything that I do seem like I do it wrong,\
+Everything that I do seem like I do it wrong, \
+Sometimes I regret that I was ever born.
+
+Well it's blues and trouble seem to be my best friend,\
+Oh it's blues and trouble seem to be my best friend.
+
+It's a song sung by one person and a guitar. It's a song that, the structure of which are three line stanzas. It has what we now call an AAB pattern. That is the first line is repeated with a slight variation, Sometimes with no variation, sometimes with a large variation. This one very slight variation. So the first line then the second line is a repeat of the first line with a slight variation, then the third line is culmination—a resolution, a supplement to the first line that's repeated twice. It's a soliloquy, that is it’s about the person—it’s all about the person who's singing. This song and many other songs, "Some people say the worried blues ain't bad, but its the worst old feeling, I most ever had."
+
+It has a formula and therefore if you listen for a while it's familiar and because it’s familiar you can make certain judgments about how well the person operates within the formula. These are things that occurred to me just by looking at this. You wouldn't have to read anything about this—just by studying the structure and the sound.
+
+The message is life is hard. Life is difficult for *me*, for "I." Life is hard: "My woman left me. I have no money. The soles of my shoes are thin. I can feel a dime right through them. I haven't got enough food, I'm going to catch a train." There's also humor in them. There doesn't happen to be in these two, that I can see, but you know, "I'm going to lay my head right down the railroad track, when I hear the two-o-nine I'm gonna take my head right back." You know, uh, that's—that's, you know, they fool around. They make jokes. There is humor in these things as well. But there is a lot of trouble. So, you without knowing anything else, you—I want to just stress that—you can learn a lot by just listening carefully, reading carefully, these songs, a lot. And I encourage that because I don't want to make, people say—I don't want people to think that if they don't come as scholars they're not going to be able to understand this music. Yes, they can understand a lot of it. To look carefully at what's happening, to listen to the voice—listen, I think the most important thing that students and scholars can do, both professional and lay, is to listen to the voices.
+
+Listening to other blues you can really tell that they're not sitting in a dark room making all of this up completely by themselves, but they've heard other blues, they've sung other blues, there is a reservoir—a cultural reservoir—of lines they can use to depict their own feelings.
+
+**"Two White Horses Standin' in Line" by Smith Cason (1939)**\
+Now two white horses standin' in line,\
+Now two white horses standin',\
+Now two white horses standin',\
+ Goin' take me to my buryin' ground.\
+Did you ever hear that coffin sound?\
+Did you ever hear that coffin?\
+Did you ever hear that coffin? You know now that poor boy is in the ground.\
+Please dig my grave with a silver spoon,\
+Please dig my grave with a silver,\
+Please dig my grave with a,\
+You can let me down with a golden chain.
+
+It's one kind favor I ask of you,\
+It's one kind favor I ask of you,\
+It's one kind favor I ask of you, \
+Be sure my grave be kept clean.
+
+Did you ever hear the church bell tone?\
+Did you ever hear the church bell?\
+Did you ever hear the church bell? \
+You know now the poor boy's dead an' gone.
+
+Now two white horses standin' in line;\
+Now two white horses standin',\
+Now two white horses standin', \
+Oh, take me to my buryin' ground.\
+Did you ever hear that coffin sound?\
+Did you ever hear that coffin?\
+Did you ever hear that?\
+You know now the poor boy's in the ground.
+
+Well, right off the bat you know you're listening to the blues. It's got a lot of the same structure as the other one—again, you got that most common form of blues, that is, a three line stanza with an AAB pattern: A line, repeated, and then a third line. There are ABB patterns, there are BAA patterns, there are different kinds of things. But the most common form of blues is AAB, and this has it. Once again it's centered around the singer—it’s a lamentation, its about hard times. This guy's about to die, or at least symbolically, metaphorically, he's about to die and he's worried about his grave being cleaned. And he's talking about the church, and horses burying him. You might say that burials are important. If you knew nothing else, you might conclude that burials are an important thing. And you might also conclude that these people are singing out of a certain negative frame of reference. That is, life is hard for them and they're singing. So there are many similarities. It stands right out however that they're not identical musically. You don't have to know a lot about music to hear that. But this guy is using a guitar in a very epiphanal way. It's call and response—very overtly. He's talking to the guitar. He's sometimes letting the guitar finish his sentences for him. He's having a discussion with the guitar and the guitar is taking on a very vocal, human voice. The guitar is speaking. You hear falsetto on the guitar, you can just listen to this without much background and here are these two people having a conversation. So you could say if you know anything about music, that epiphany, that is call and response, is one of the important elements. It is one of the most important elements of slave music. It's continued here.
+
+All kinds of thing are being done musically, and I'm not a musician, but all kinds of things are being done musically that you don't necessarily hear in typical American music. Slides, slurs, falsetto, polyrhythms, where you keep more than one rhythm going at a time—he does that with his guitar and his voice. And he sometimes doesn't finish lines and lets you imagine the finish because he's established a pattern by now and if you come from this culture you know the finish. And he doesn't need to sing it.
+
+So there's a musical diversity. One type of blues does not set the parameters for all types of blues, and you can tell that without knowing very much. Just by listening to these songs. They're both blues, they're both blues sung by nonprofessional singers in prisons. We should say that: these were both recorded in prisons by guys who did not earn their livings singing blues. So, that's another thing. If you know that then you can say, well, maybe you've heard BB King, but these guys ain't BB King. Or they are not BB King. And they nevertheless do a pretty good job. So you might conclude without knowing anything else, that this is community music.
+
 This is pretty definitely the music of freedom, because there is nothing like this in slave music. First of all, all slave music is really antiphonal in a human sense, that is call and response, there is no solo in slave music. There is none, zilch, nada—no solo in slave music. I read these and I said, well, it's acculturation. What freedmen, freed men and women, had done is they had acculturated into the individual consciousness, of post-Emancipation European culture. The individual is in the center of the universe. The individual speaks. The individual assumes that you're interested in the individual's troubles, worries, woes, and they dominate this music. So that's good if you're a scholar trying to write a book because that's a point of change. Slaves have acculturated. They now have mobility. They now have literacy. They hear more different kinds of music. They can see more different kinds of music. They have a variety of different situations. Life is more expansive for them. We always focus on the difficulties blacks have, but they also have great opportunities compared to slavery. And they move around and they're all over the country, and they get different kinds of jobs, and they can even go to school. And they begin, the blues tells us, since its the most ubiquitous African American music we know in this period, the blues tells us, that they begin to take on the kind of consciousness that is typical of the society, the larger society in which they were living, and to which they were not acculturated in slavery, but to which they seem to be becoming acculturated now.
 
 So there's another half to the story if you know what European American music sounded like in the 19th century. And the other half of the story, if you know what African music sounded like, the other half of the story is that at a time when slaves were—they're not slaves anymore—when African Americans were open to a larger variety of cultural materials than ever before, at a time when they could have lost their music, or diluted it, or just contributed to a larger stream of music. They wouldn't have lost it, but they would have contributed to Euro-American music, then seen it meld—pick up the melding and go their way, with this new consciousness. They didn't. Even as they're stepping into the culture with the consciousness—this consciousness of the "I," the individual, the importance of "me," they are stepping back and reaffirming African music, or African American music. This music is *not* Euro-American. It's the kind of music that changes Euro-American music forever—in the boundaries of the United States and in all of South America as well, in Mexico and the Caribbean.

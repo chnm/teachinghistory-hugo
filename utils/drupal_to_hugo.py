@@ -333,6 +333,24 @@ def parse_text_field_insert(lines, fields, field_key):
                 if val:
                     if nid not in fields:
                         fields[nid] = {}
+                    if field_key == 'field_transcript_text':
+                        try:
+                            delta = int(parse_field_value(row[5]) or 0)
+                        except (ValueError, TypeError):
+                            delta = 0
+
+                        items = fields[nid].setdefault(
+                            'field_transcript_text_items', []
+                        )
+                        transcript_item = {'delta': delta, 'value': val}
+                        for index, item in enumerate(items):
+                            if item['delta'] == delta:
+                                items[index] = transcript_item
+                                break
+                        else:
+                            items.append(transcript_item)
+                        items.sort(key=lambda item: item['delta'])
+
                     # Some fields can have multiple deltas (e.g. images).
                     # For text fields we take the first (delta=0) or concatenate.
                     existing = fields[nid].get(field_key)
@@ -893,6 +911,54 @@ def html_to_md(html):
     return result
 
 
+SPEAKER_LABEL = (
+    r'(?:\*\*[^*\n]{1,100}:\*\*|'
+    r'\*(?:\[[^*\n]{1,100}:\]|[^*\n]{1,100}:)\*)'
+)
+SPEAKER_TURN_RE = re.compile(rf'\s*({SPEAKER_LABEL})')
+SPEAKER_LABEL_RE = re.compile(SPEAKER_LABEL)
+
+
+def transcript_html_to_md(transcript_items):
+    """Convert ordered Drupal transcript values to readable Markdown.
+
+    Transcript fields are multi-value: each delta corresponds to a video
+    segment. Some values use blank-line-separated inline HTML while others
+    wrap an entire segment in one ``<p>``. Converting each delta separately
+    preserves Drupal's paragraph filtering, then speaker labels are promoted
+    to paragraph boundaries so a whole segment cannot collapse into one line.
+    """
+    if not transcript_items:
+        return ''
+
+    if isinstance(transcript_items, str):
+        values = [transcript_items]
+    else:
+        values = [
+            item.get('value', '') if isinstance(item, dict) else str(item)
+            for item in sorted(
+                transcript_items,
+                key=lambda item: item.get('delta', 0)
+                if isinstance(item, dict) else 0,
+            )
+        ]
+
+    sections = []
+    for value in values:
+        markdown = html_to_md(value).strip()
+        if not markdown:
+            continue
+        markdown = SPEAKER_TURN_RE.sub(r'\n\n\1', markdown).strip()
+        # Markdownify represents <br> as two trailing spaces. Preserve the
+        # hard break with backslash syntax so generated files pass diff checks.
+        markdown = re.sub(r' {2,}\n', r'\\\n', markdown)
+        markdown = re.sub(r' +\n', '\n', markdown)
+        markdown = re.sub(r'\n{3,}', '\n\n', markdown)
+        sections.append(markdown)
+
+    return '\n\n'.join(sections)
+
+
 # ---------------------------------------------------------------------------
 # Body composition — picks the right fields for each content type
 # ---------------------------------------------------------------------------
@@ -1033,7 +1099,12 @@ def compose_body(content_type, field_data):
     question = field_data.get('field_question', '')
     answer = field_data.get('field_answer', '')
 
-    body_md = html_to_md(body_html)
+    if used_key == 'field_transcript_text':
+        body_md = transcript_html_to_md(
+            field_data.get('field_transcript_text_items', body_html)
+        )
+    else:
+        body_md = html_to_md(body_html)
 
     # If we have an answer and no body, use answer as body
     if answer and not body_md:
@@ -1059,7 +1130,12 @@ def compose_body(content_type, field_data):
         for key in DEFAULT_BODY_PRIORITY:
             val = field_data.get(key)
             if val:
-                body_md = html_to_md(val)
+                if key == 'field_transcript_text':
+                    body_md = transcript_html_to_md(
+                        field_data.get('field_transcript_text_items', val)
+                    )
+                else:
+                    body_md = html_to_md(val)
                 break
 
     # Build extra frontmatter from metadata fields
