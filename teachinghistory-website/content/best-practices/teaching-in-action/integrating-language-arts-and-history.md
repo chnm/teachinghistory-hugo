@@ -40,6 +40,140 @@ Karen Eanes combines language arts, art, and history in 4th-grade Virginia Studi
 
 ## Transcript
 
+**Karen Eanes:** We do a lot of language arts and social studies integration because it is Virginia Studies. So what we try to do is select novels that will support the curriculum. So we are—we just finished the Revolutionary War and building a new nation, which is what my class right now is reviewing for.
+
+*Karen Eanes:* Can anybody kind of refresh our memory about the setting of the story and some important events that have happened in the story?
+
+*Student 1:* It's a historical fiction story. So, like, the kids were fake but the Revolutionary War part of the story was all real. It's mainly about George Washington.
+
+*Karen Eanes:* Perfect. Last one, Lindsey.
+
+*Lindsey:* They were basically in 1776 or 1775, so they were back in the day. They were like where people said weird words from now.
+
+*Karen Eanes:* There's lots of things, like the sneakers weren't there and the Band-Aid and a whole bunch of things.
+
+It's called *George Washington's Socks*, I think it was written in 1990, 1991. It's a historical fiction about a group of children, who start this adventure club, and lo and behold they end up finding this boat and one of the girls gets into the boat and it's like a *Back to the Future* kind of thing. It really focuses on one little boy who is a soldier.
+
+*Karen Eanes:* One of the most important events in the story was when they cross the Delaware River. Remember when they were in that boat? So that's what we're going to explore today and I'm going to start it with a passage that I found in this book. This is called *When Washington Crossed the Delaware* and it's called *A Wintertime Story for Young Patriots*. What's a Patriot? Sophia?
+
+*Sophia:* Someone who goes against the British to be free for the country and they're not loyal to the king or anything.
+
+*Karen Eanes:* But I want you to listen to this passage, and as you're listening I want you to imagine that you yourself are in that boat; because you can feel how bitter cold it is and how frosty it is and how treacherous it is. So just listen:
+
+"On Christmas night, 1776, General Washington led 24 hundred men, the main body of his army, to a crossing point about nine miles upstream from Trenton.
+
+There the soldiers crowded into the large black boats that would take them to the opposite shore. The night was cold and the men faced a difficult crossing. They had to break through the ice to get their boats into the river. They had to fend off large chunks of the floating ice once they were underway. But Washington had seafarers with him that night—"
+
+What do you think a seafarer is? Luke?
+
+*Luke:* Somebody who goes out to sea.
+
+*Karen Eanes:* Okay, somebody who has more experience on the sea.
+
+"—who knew how to navigate treacherous waters. The sailors of Massachusetts's Marblehead Battalion maneuvered boat after boat across the icy river. As soon as they got one group of men to the New Jersey shore, they returned to pick up another."
+
+And guys here is a good primary source, just in this story, it's a quote.
+
+"The force of the current, the sharpness of the frost, the ice which made during the operation . . . rendered the passage of the river extremely difficult."
+
+And that's James Wilkinson, he's a Major in the Continental Army. So we're going to use Washington's crossing the Delaware to explore and analyze some primary sources.
+
+**Karen Eanes:** I feel like the more information and the different modalities that I can use—certainly with this group of students that I have—I think it'll help them when it's time to sit down and remember this mass amount of facts for Virginia Studies.
+
+*Karen Eanes:* These are the questions that I want us to focus on. You know the analysis questions: What do you see? What do you know? What questions do you have about the primary source? But today I'm going to delve a little bit further into sourcing. I want you to think about what the painter is trying to do. And I want you to think about kind of the time frame of when that painting was made, that's going to make a big difference because we're going to explore even deeper into the time.
+
+**Karen Eanes:** I've tried about once a week to pull in a primary source to whatever we're doing. Whether we were looking at the Constitution this week. [I'll] pull up nationalarchives.org and have the real deal in front of them. When we did the Boston Massacre we had an account of a reporter about the 11-year-old that was killed. Trying to make a personal connection.
+
+*Karen Eanes:* Off the top of your head, what are some things that you see? Marissa?
+
+*Marissa:* There are young people.
+
+*Karen Eanes:* Young. Kinda reminds me of the adventure group. Jaden.
+
+*Jaden:* Clouds.
+
+*Karen Eanes:* Clouds. Anything else? Arianna?
+
+*Arianna:* It's sunny.
+
+*Karen Eanes:* Sunny. Well, we've got clouds and we've got sunny. Zack?
+
+*Zack:* There's water.
+
+*Karen Eanes:* Definitely water. Something else? Sadie?
+
+*Sadie:* The American flag.
+
+*Karen Eanes:* Good! And Luke, last one.
+
+*Luke:* Soldiers.
+
+*Karen Eanes:* Alright guys, what are some things that you already know about in this picture?
+
+*Student 1:* Crossing the Delaware.
+
+*Karen Eanes:* Okay, we know that just from the title. Good. Emma?
+
+*Emma:* It was on Christmas Eve.
+
+*Karen Eanes:* Good. Okay, we know that from the passage that I read and also I think from our story, *George Washington's Socks*.
+
+*Student 2:* It's winter. Karen Eanes: Yes. Anything else?
+
+*Lily:* James Monroe is behind George Washington holding the flag.
+
+*Karen Eanes:* Excellent, I'll go further into that. If you remember yesterday we were discussing the Monroe Doctrine. Do you remember that? And it was so cool because I had no idea, and I knew what we were going to do today, but guess who this is? James Monroe! Isn't that cool? I had no idea until we watched that thing on [the] Monroe Doctrine yesterday. Let's go ahead and go back to our paper and this time try to write some good questions.
+
+**Karen Eanes:** There's so much learning that comes from the "developing questions" part. Because they knew some things from the time period because of social studies and they certainly picked up other things from the story, but they were able to really go deeper with the questions.
+
+*Student 1:* How about—
+
+*Student 2:* How many people were on the boat?
+
+*Student 1:* Yeah, that's a good one. Where exactly on the river they were?
+
+*Karen Eanes:* You remember what they said in the passage? It said something about nine miles, remember?
+
+*Student 1:* Nine miles?
+
+*Karen Eanes:* Nine miles upstream from Trenton.
+
+*Student 1 and 2:* Oh! Okay.
+
+*Karen Eanes:* Luke.
+
+*Luke:* Why was Monroe with Washington?
+
+*Karen Eanes:* Very good.
+
+*Student 3:* What time is it?
+
+*Karen Eanes:* Okay, what time is it.
+
+*Student 4:* Why did they go on Christmas Eve?
+
+*Karen Eanes:* Christmas Eve. Sophia, what question do you have?
+
+*Sophia:* Why were they crossing the Delaware River and not a different river?
+
+*Karen Eanes:* Okay, why the Delaware? I'll give you a few more minutes.
+
+*Student 5:* How long did it take to cross the river?
+
+*Karen Eanes:* Good. How long did it take? Especially with, what was it, 250 some men or something? Sadie.
+
+*Sadie:* Exactly how many men were there?
+
+*Karen Eanes:* How many men? And I'll take two more. Lily.
+
+*Lily:* Were all the men in the boat with Washington top-ranking officers?
+
+*Karen Eanes:* Very good question. And last one, Marissa.
+
+*Marissa:* Where exactly were they?
+
+*Karen Eanes:* Now, Marissa and Emma were talking about, well, where exactly were they? And we actually—in the passage that I read they say it's nine miles upstream from Trenton. Very good.
+
 *Karen Eanes:* So now we’re going to delve a little bit further into our analysis. We're going to talk about the sourcing and the time frame as to when this happened. So the first thing that I want you to figure out is: What is the painting trying to tell us?
 
 *Student 1:* It was an important victory.

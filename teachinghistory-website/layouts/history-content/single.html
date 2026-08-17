@@ -110,10 +110,12 @@
           <p class="text-sm text-gray-600 italic mb-4">{{ . }}</p>
         {{ end }}
 
-        {{ partial "main-content-image.html" . }}
+        <div{{ if eq .Params.content_type "website" }} class="website-review-body"{{ end }}>
+          {{ partial "main-content-image.html" . }}
 
-        <div class="font-body leading-relaxed">
-          {{ .Content }}
+          <div class="font-body leading-relaxed">
+            {{ .Content }}
+          </div>
         </div>
 
         {{ partial "more-information.html" . }}
