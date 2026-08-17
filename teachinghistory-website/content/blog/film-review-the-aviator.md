@@ -20,7 +20,7 @@ summary: Historical films like *The Aviator* sacrifice historical context to cre
   character portraits, says historian David Courtwright.
 splash_image: /files/splash-jah-aviator.jpg
 image: /files/image-jah-aviator.jpg
-author_image: /files/author_image/pic
+author_image: /files/author_image/pic---david-courtwright.jpg
 grade_levels:
 - high
 - middle

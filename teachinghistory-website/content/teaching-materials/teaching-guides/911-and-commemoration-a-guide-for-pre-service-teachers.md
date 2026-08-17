@@ -60,11 +60,11 @@ Washington Monument, Washington, D.C. | Library of Congress | <www.loc.gov/item
 
 Aerial view of the Lincoln Memorial, Washington, D.C. | Library of Congress | <www.loc.gov/item/2010630765>
 
-![Aerial view of the Lincoln memorial. White rectangular granite building with stairs leading up to it and columns around the sides.](/files/inline-images/Aerial Lincoln Memorial.jpg)
+![Aerial view of the Lincoln memorial. White rectangular granite building with stairs leading up to it and columns around the sides.](/files/inline-images/Aerial%20Lincoln%20Memorial.jpg)
 
 Memorial Day, Vietnam Memorial, Washington, D.C. | Library of Congress | <www.loc.gov/item/2010630875>
 
-![Close up photo of the Vietnam War Memorial in Washington, DC on Veterans day. There are soldier's boots, letters, photos, flowers, and other sentimental items placed in front of the memorial](/files/inline-images/Vietnam Memorial Washington DC.jpg)
+![Close up photo of the Vietnam War Memorial in Washington, DC on Veterans day. There are soldier's boots, letters, photos, flowers, and other sentimental items placed in front of the memorial](/files/inline-images/Vietnam%20Memorial%20Washington%20DC.jpg)
 
 Note: Teachers may also want to include memorials and monuments from their community or region. 
 
@@ -78,7 +78,7 @@ On the morning of September 11, 2001, a group of 19 men forcibly took control of
 
 The World Trade Centers in an Evolving Skyline | Picture This | blogs.loc.gov/picturethis/2016/09/the-world-trade-centers-in-an-evolving-skyline/
 
-![Four photos of the New York skyline in different years. Those from before 9/11/2001 show the twin towers. Those after show monuments to the attack](/files/inline-images/Screenshot 2024-10-17 at 9.55.15 AM.png)
+![Four photos of the New York skyline in different years. Those from before 9/11/2001 show the twin towers. Those after show monuments to the attack](/files/inline-images/Screenshot%202024-10-17%20at%209.55.15%E2%80%AFAM.png)
 
 ### Activity
 
@@ -103,7 +103,7 @@ What purpose do you think memorials and commemorations serve? What’s their pur
 
  The 9/11 Memorial in Overland Park, Kansas, a Kansas City suburb, includes informational signs about the four aircraft destroyed, and their passengers killed, in the terrorist attacks on the World Trade Center in New York, the Pentagon in Washington, and in a hijacking over rural Pennsylvania by terrorists on September 11, 2001 | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2021756265/](https://www.loc.gov/pictures/collection/highsm/item/2021756265/)
 
-![Four informational panels commemorating the passengers on each of the flights during 9/11. The stories are engraved on tall metallic sheets.](/files/inline-images/Overland Park Kansas 9:11.jpg)
+![Four informational panels commemorating the passengers on each of the flights during 9/11. The stories are engraved on tall metallic sheets.](/files/inline-images/Overland%20Park%20Kansas%209%3A11.jpg)
 
 Memorial to the brave souls of Flight 93 that crashed in Shanksville, Pennsylvania on September 11, 2001 after a terrorist attack. The plaque was donated by a private citizen named Hebert Erdmenger in 2002. | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2011631500/](https://www.loc.gov/pictures/collection/highsm/item/2011631500/)
 
@@ -111,103 +111,103 @@ Memorial to the brave souls of Flight 93 that crashed in Shanksville, Pennsylvan
 
 Informal tributes posted at the first, temporary memorial site in Shanksville, Pennsylvania, to those who perished on United Flight 93, which crashed during an attempt by passengers to recapture the plane, which had been hijacked by terrorists on 9/11/01 | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2011633153/](https://www.loc.gov/pictures/collection/highsm/item/2011633153/)
 
-![Handmade wooden angels painted with the American flag design. Each is labeled with the name of a passenger from flight 93 who did not survive. Some of the angels are accompanied with photos or sentimental items.](/files/inline-images/Shanksville Angels.jpg)
+![Handmade wooden angels painted with the American flag design. Each is labeled with the name of a passenger from flight 93 who did not survive. Some of the angels are accompanied with photos or sentimental items.](/files/inline-images/Shanksville%20Angels.jpg)
 
 Steel beam and rubble from the Twin Towers, displayed at the Milwaukee County War Memorial Center in Milwaukee, Wisconsin | Library of Congress | <www.loc.gov/item/2016631019/>
 
-![A rusted section of steel beam sits on a display. The steel beam was recovered from the Twin Towers after they fell.](/files/inline-images/Steel Beam Milwaukee.jpg)
+![A rusted section of steel beam sits on a display. The steel beam was recovered from the Twin Towers after they fell.](/files/inline-images/Steel%20Beam%20Milwaukee.jpg)
 
 Citizen artwork at an informal memorial to the victims who died on United flight 93 when they attempted to overpower hijackers during the terrorist attacks of 9/11/2001 | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2011634321/](https://www.loc.gov/pictures/collection/highsm/item/2011634321/)
 
-![Handmade wooden angels painted with the American flag design. Each is labeled with the name of a passenger from flight 93 who did not survive. Some of the angels are accompanied with photos or sentimental items.](/files/inline-images/Citizen Artwork Shanksville.jpg)
+![Handmade wooden angels painted with the American flag design. Each is labeled with the name of a passenger from flight 93 who did not survive. Some of the angels are accompanied with photos or sentimental items.](/files/inline-images/Citizen%20Artwork%20Shanksville.jpg)
 
 South Bend, Indiana's, 9/11 Memorial, erected by South Bend fire department personnel in St. Patrick's Park | Library of Congress | <www.loc.gov/item/2016631954/>
 
-[![Two rusted steel beams like those from the Twin Tower rubble rise and each branch off to create four total branches. In the center, a white flag flies that reads "9/11 Remember New York City Washington DC Pennsylvania" with the outline of the Pentagon in the background](/files/inline-images/South Bend 9:11 Fire Memorial.jpg)](www.loc.gov/item/2016631954/)
+[![Two rusted steel beams like those from the Twin Tower rubble rise and each branch off to create four total branches. In the center, a white flag flies that reads "9/11 Remember New York City Washington DC Pennsylvania" with the outline of the Pentagon in the background](/files/inline-images/South%20Bend%209%3A11%20Fire%20Memorial.jpg)](www.loc.gov/item/2016631954/)
 
 A piece of steel from the World Trade Center, destroyed by a terrorist attack on Sept. 11, 2001 in New York City. It is displayed as a memorial at the Texas State Cemetery in Austin, Texas| Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2014632438/](https://www.loc.gov/pictures/collection/highsm/item/2014632438/)
 
-![A piece of mangled and rusted steel from the World Trade center stands and a wall of granite encircles it. Upon entering the small space with the beam, from left to right the granite wall gets increasingly taller. Informational panels and memorial notes are placed at the entrance and along the wall.](/files/inline-images/9:11 Steel Austin TX.jpg)
+![A piece of mangled and rusted steel from the World Trade center stands and a wall of granite encircles it. Upon entering the small space with the beam, from left to right the granite wall gets increasingly taller. Informational panels and memorial notes are placed at the entrance and along the wall.](/files/inline-images/9%3A11%20Steel%20Austin%20TX.jpg)
 
 Memorial gate, where people from all over the world have left momentos to honor the victims of the September 11, 2001 terrorist hijacking of Flight 93. Shanksville, Pennsylvania| Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2011631553/](https://www.loc.gov/pictures/collection/highsm/item/2011631553/)
 
-![Chain link fence/gate that has been adorned with memorial material for Flight 93 and 9/11 generally. Small American flags line the top and larger flags are pinned up throughout alongside caps, firefighter jackets, clothing, photos, and other mementos. ](/files/inline-images/9:11 Memorial Gate.jpg)
+![Chain link fence/gate that has been adorned with memorial material for Flight 93 and 9/11 generally. Small American flags line the top and larger flags are pinned up throughout alongside caps, firefighter jackets, clothing, photos, and other mementos. ](/files/inline-images/9%3A11%20Memorial%20Gate.jpg)
 
 Part of an informal memorial to the victims of United Flight 93, which crashed in a nearby field after passengers fought with hijackers who had taken the plane and directed it to Washington during the terrorist attacks of 9/11/2001 | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2011633798/](https://www.loc.gov/pictures/collection/highsm/item/2011633798/)
 
-![Handmade wooden angels painted with the American flag design. Each is labeled with the name of a passenger from flight 93 who did not survive. Some of the angels are accompanied with photos or sentimental items.](/files/inline-images/Shanksville Angels 3.jpg)
+![Handmade wooden angels painted with the American flag design. Each is labeled with the name of a passenger from flight 93 who did not survive. Some of the angels are accompanied with photos or sentimental items.](/files/inline-images/Shanksville%20Angels%203.jpg)
 
 Part of an informal memorial to the victims of United Flight 93, which crashed in a nearby field after passengers fought with hijackers who had taken the plane and directed it to Washington during the terrorist attacks of 9/11/2001 | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2011633961/](https://www.loc.gov/pictures/collection/highsm/item/2011633961/)
 
-![A closer view of memorial gate in Shanksville that shows the firefighter jacket, a number of caps, several firefighter helmets, American flags, and more that have been placed on the fence.](/files/inline-images/Zoomed Memorial Gate.jpg)
+![A closer view of memorial gate in Shanksville that shows the firefighter jacket, a number of caps, several firefighter helmets, American flags, and more that have been placed on the fence.](/files/inline-images/Zoomed%20Memorial%20Gate.jpg)
 
 Portland, Maine's, modest memorial to those lost in the terrorist attacks on the United States on 9/11/2001, at Fort Allen Park at the busy harbor on Casco Bay in Maine's largest city | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2017882500/](https://www.loc.gov/pictures/collection/highsm/item/2017882500/)
 
-![Black stone memorial resembling a large headstone that reads "If but one life be saved and one soul be comforted... all gave some some gave all and some still give. In honor and memory of all those who lost their lives in the rescue efforts of September, 11, 2001." The stone is painted to look like an American flag is draped over the top.](/files/inline-images/Portland Maine 9:11 Memorial.jpg)
+![Black stone memorial resembling a large headstone that reads "If but one life be saved and one soul be comforted... all gave some some gave all and some still give. In honor and memory of all those who lost their lives in the rescue efforts of September, 11, 2001." The stone is painted to look like an American flag is draped over the top.](/files/inline-images/Portland%20Maine%209%3A11%20Memorial.jpg)
 
 A rusted steel beam recovered from New York City's fallen World Trade Center that fell during infamous terrorist attacks in 2001 stands at this "9/11" memorial in Gila Bend, Arizona. | Library of Congress |[www.loc.gov/pictures/collection/highsm/item/2018663482/]( www.loc.gov/pictures/collection/highsm/item/2018663482/)
 
-![A rusted section of steel beam sits on a display. The steel beam was recovered from the Twin Towers after they fell.](/files/inline-images/Steel Beam Gila Bend AZ.jpg)
+![A rusted section of steel beam sits on a display. The steel beam was recovered from the Twin Towers after they fell.](/files/inline-images/Steel%20Beam%20Gila%20Bend%20AZ.jpg)
 
 Calatrava's Oculus, a 335-foot-long, spiky-skylighted transportation hub attached to the One World Trade Center memorial in downtown Manhattan (borough) in New York City. The structure, designed by Spanish architect Santiago Calatrava, opened on the 16th anniversary of the terrorist attack that brought down the World Trade Center's "Twin Towers" on what has become known simply as "9/11" - September 11, 2001| Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2018699939/](https://www.loc.gov/pictures/collection/highsm/item/2018699939/)
 
-![Walls extend upwards and meet to make a pointed ceiling. Light filters through the skylights. The ceilings are very high and the whole building is white.](/files/inline-images/Calatrava's Oculus.jpg)
+![Walls extend upwards and meet to make a pointed ceiling. Light filters through the skylights. The ceilings are very high and the whole building is white.](/files/inline-images/Calatrava%27s%20Oculus.jpg)
 
 Interior view of the World Trade Center Memorial and Museum in downtown Manhattan (borough) in New York City, built on the site of the terrorist attack that brought down the World Trade Center's "Twin Towers" on what has become known simply as "9/11" - September 11, 2001 | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2018699980/](https://www.loc.gov/pictures/collection/highsm/item/2018699980/)
 
-![View from inside the World Trade Center Memorial and Museum in New York City. Two rusted steel beams several stories tall stand by the window.](/files/inline-images/World Trade Center Memorial.jpg)
+![View from inside the World Trade Center Memorial and Museum in New York City. Two rusted steel beams several stories tall stand by the window.](/files/inline-images/World%20Trade%20Center%20Memorial.jpg)
 
 Interior view of the World Trade Center Memorial and Museum in downtown Manhattan (borough) in New York City, built on the site of the terrorist attack that brought down the World Trade Center's "Twin Towers" on what has become known simply as "9/11" - September 11, 2001 | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2018699981/](https://www.loc.gov/pictures/collection/highsm/item/2018699981/)
 
-![Tall column spanning the height of the building. The column contains written text and photographs from the top to the bottom](/files/inline-images/Interior view of World Trade Center Memorial, Manhattan.jpg)
+![Tall column spanning the height of the building. The column contains written text and photographs from the top to the bottom](/files/inline-images/Interior%20view%20of%20World%20Trade%20Center%20Memorial%2C%20Manhattan.jpg)
 
 Memorial photograph wall of people killed at the World Trade Center Memorial and Museum in downtown Manhattan (borough) in New York City, built on the site of the terrorist attack that brought down the World Trade Center's "Twin Towers" on what has become known simply as "9/11" - September 11, 2001 | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2018700059/](https://www.loc.gov/pictures/collection/highsm/item/2018700059/)
 
-![Seven rows of head shots on a wall in a room. The photographs continue far down the wall out of the frame](/files/inline-images/Memorial photo wall.jpg)
+![Seven rows of head shots on a wall in a room. The photographs continue far down the wall out of the frame](/files/inline-images/Memorial%20photo%20wall.jpg)
 
 Angel memorial near the Shanksville, Pa., crash site of United Airlines Flight 93, which was highjacked in the September 11th terrorist attacks | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2002717287/](https://www.loc.gov/pictures/collection/highsm/item/2002717287/)
 
-![Ten angels erected on wooden posts in a field in Shanksville. Five angels in the back row and five in the front. The angels' dresses are made to look like the American flag.](/files/inline-images/Angel Memorial, Shanksville PA.jpg)
+![Ten angels erected on wooden posts in a field in Shanksville. Five angels in the back row and five in the front. The angels' dresses are made to look like the American flag.](/files/inline-images/Angel%20Memorial%2C%20Shanksville%20PA.jpg)
 
 Wreath memorial, Shanksville, Pa., decorated with photographs of the victims of United Airlines Flight 93, which was highjacked in the September 11th terrorist attacks | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2002717288/](https://www.loc.gov/pictures/collection/highsm/item/2002717288/)
 
-![Wreath containing photographs, American flags, flowers, and crosses held up by a stand close to the ground. Shanksville, PA written across the bottom](/files/inline-images/Wreath Memorial Shanksville, PA.jpg)
+![Wreath containing photographs, American flags, flowers, and crosses held up by a stand close to the ground. Shanksville, PA written across the bottom](/files/inline-images/Wreath%20Memorial%20Shanksville%2C%20PA.jpg)
 
 Sculptor Sassona Norton's 9/11 Memorial outside the Montgomery County Courthouse in Norristown, Pennsylvania The memorial honors those who died in the events of September 11, 2001, when terrorists attacked New York's World Trade Center, the Pentagon in Washington, and an airliner flying over Pennsylvania The memorial is cast in bronze and features a set of hands that hold a 16-foot piece of twisted steel from the wreckage of the Trade Center| Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2019689991/](https://www.loc.gov/pictures/collection/highsm/item/2019689991/)
 
-![Sculpture of two hands holding another item](/files/inline-images/Sculptor Sassona Norton's 9:11 Memorial.jpg)
+![Sculpture of two hands holding another item](/files/inline-images/Sculptor%20Sassona%20Norton%27s%209%3A11%20Memorial.jpg)
 
 A "9/11" memorial at Indiana University of Pennsylvania in the town of the same name, to those killed in three locations in terrorist attacks on the United States on September 11, 2001 | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2019691118/](https://www.loc.gov/pictures/collection/highsm/item/2019691118/)
 
-![Sculpture of two hands holding another item in a green field with brick buildings in the background](/files/inline-images/9-11 Memorial, Indiana University Pennsylvania_0.jpg)
+![Sculpture of two hands holding another item in a green field with brick buildings in the background](/files/inline-images/9-11%20Memorial%2C%20Indiana%20University%20Pennsylvania_0.jpg)
 
 The 93-foot "Tower of Voices" at the Flight 93 National Memorial near Shanksville, Pennsylvania | Library of Congress | [www.loc.gov/pictures/collection/highsm/item/2019690759/](https://www.loc.gov/pictures/collection/highsm/item/2019690759/)
 
-![Grey obelisk in a field with trees ](/files/inline-images/Tower of Voices Flight 93 Memorial_0.jpg)
+![Grey obelisk in a field with trees ](/files/inline-images/Tower%20of%20Voices%20Flight%2093%20Memorial_0.jpg)
 
 9/11 Memorial at the Pentagon, Pentagon City, Virginia | Library of Congress | [www.loc.gov/item/2010630812/](https://www.loc.gov/item/2010630812/)
 
-![Grey and Green sculpture in Pentagon City](/files/inline-images/9-11 Memorial Pentagon City.jpg)
+![Grey and Green sculpture in Pentagon City](/files/inline-images/9-11%20Memorial%20Pentagon%20City.jpg)
 
 Memorial at the Pentagon - Poster | Library of Congress | [www.loc.gov/item/afc911000188/](https://www.loc.gov/item/afc911000188/)
 
-![Cardboard sign on a stone wall reading America we Need to Stand Together. ](/files/inline-images/Poster Memorial at the Pentagon.jpg)
+![Cardboard sign on a stone wall reading America we Need to Stand Together. ](/files/inline-images/Poster%20Memorial%20at%20the%20Pentagon.jpg)
 
 Memorial at the Pentagon-Marine Flag | Library of Congress | Library of Congress | <www.loc.gov/item/afc911000187/>
 
-![Red flag with notes, flowers, and photographs resting on top. Flag reads United States Marine Corps](/files/inline-images/Pentagon 9-11 Memorial .jpg)
+![Red flag with notes, flowers, and photographs resting on top. Flag reads United States Marine Corps](/files/inline-images/Pentagon%209-11%20Memorial%20.jpg)
 
 Memorial at the Pentagon - Flag 2 | Library of Congress | [www.loc.gov/item/afc911000189/](https://www.loc.gov/item/afc911000189/)
 
-![Sign of an American flag reading God Bless America covered in signatures](/files/inline-images/Pentagon Flag Memorial --2 .jpg)
+![Sign of an American flag reading God Bless America covered in signatures](/files/inline-images/Pentagon%20Flag%20Memorial%20--2%20.jpg)
 
 Memorial to Matthew Diaz, a victim of the September 11th terrorist attack on the World Trade Center, New York, N.Y. | Library of Congress | [www.loc.gov/item/2002717256/](https://www.loc.gov/item/2002717256/)
 
-![Open Shoebox with text on the top containing the bible verse Mark 9:2 v 3](/files/inline-images/Matthew Diaz Memorial.jpg)
+![Open Shoebox with text on the top containing the bible verse Mark 9:2 v 3](/files/inline-images/Matthew%20Diaz%20Memorial.jpg)
 
 Memorial for the victims of the September 11th terrorist attack on the World Trade Center, New York City; with candles, flowers, mementos, and photo of the twin towers | Library of Congress | [www.loc.gov/item/2002717255/](https://www.loc.gov/item/2002717255/)
 
-![Candles, stuffed animals, photographs, and flowers gathered together to memorialize 9-11 victims](/files/inline-images/9-11 Memorial Manhattan.jpg)
+![Candles, stuffed animals, photographs, and flowers gathered together to memorialize 9-11 victims](/files/inline-images/9-11%20Memorial%20Manhattan.jpg)
 
 ### General Tips for Teaching Controversial Subjects
 

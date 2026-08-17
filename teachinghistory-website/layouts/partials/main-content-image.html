@@ -1,0 +1,14 @@
+{{/*
+  MainContentImage — render the best available page image.
+
+  Selection order matches cards and subsection listings:
+  splash_image, image, then thumbnail. Broken references are replaced by the
+  global browser fallback handler in baseof.html.
+
+  Params: the current page.
+*/}}
+
+{{ $image := .Params.splash_image | default .Params.image | default .Params.thumbnail }}
+{{ with $image }}
+  <img src="{{ . }}" alt="{{ $.Title }}" class="w-full mb-6">
+{{ end }}

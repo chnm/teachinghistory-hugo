@@ -22,14 +22,15 @@
   <style>[x-cloak] { display: none !important; }</style>
   <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
 
-  {{/* Replace broken local, remote, and Markdown images with a neutral fallback. */}}
+  {{/* Replace broken local, remote, and Markdown images with a branded fallback. */}}
   <script>
     window.addEventListener('error', function (event) {
       var image = event.target;
       if (!(image instanceof HTMLImageElement) || image.dataset.fallbackApplied) return;
 
       image.dataset.fallbackApplied = 'true';
-      image.src = '/images/image-fallback.svg';
+      image.classList.add('image-fallback-logo');
+      image.src = '/images/th_logo_stacked.png';
     }, true);
   </script>
 </head>

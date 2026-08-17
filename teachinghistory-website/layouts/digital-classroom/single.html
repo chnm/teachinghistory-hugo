@@ -82,9 +82,7 @@
         {{ with .Params.videos }}
           {{ partial "video-player.html" (dict "videos" .) }}
         {{ else }}
-          {{ with $.Params.splash_image }}
-            <img src="{{ . }}" alt="" class="w-full mb-6">
-          {{ end }}
+          {{ partial "main-content-image.html" $ }}
         {{ end }}
 
         <div class="font-body leading-relaxed">

@@ -16,7 +16,7 @@ author_image_fid: '8129'
 summary: Newspapers are alive and well in the U.S. history classroom.
 splash_image: /files/newspaperssplash.jpg
 image: /files/newspapersimage.jpg
-author_image: /files/author_image/author_image_joe_jelen_75x75_3.jpg
+author_image: /files/author_image/Author_Image_Joe_Jelen_75x75_3.jpg
 grade_levels:
 - high
 time_periods:

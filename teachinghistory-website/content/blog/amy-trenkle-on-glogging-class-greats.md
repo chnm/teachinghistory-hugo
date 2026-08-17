@@ -35,7 +35,7 @@ summary: Posterboard and rubber cement may work for some projects, but students 
   also avoid the mess—and incorporate audiovisuals—by making glogs (virtual posters)
   online.
 splash_image: /files/splash-blog-glogs.jpg
-author_image: /files/author_image/amy_trenkle.jpg
+author_image: /files/author_image/Amy_Trenkle.jpg
 grade_levels:
 - elementary
 - high

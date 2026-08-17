@@ -7,11 +7,15 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from drupal_to_hugo import (  # noqa: E402
     compose_body,
+    html_to_md,
+    localize_drupal_image_url,
     parse_file_field_insert,
     parse_file_managed_insert,
     parse_link_field_insert,
+    parse_text_field_insert,
     public_file_url,
     resolve_attachments,
+    transcript_html_to_md,
 )
 
 
@@ -77,6 +81,112 @@ class StructuredFieldTests(unittest.TestCase):
 
 
 class BodyCompositionTests(unittest.TestCase):
+    def test_compose_body_uses_ordered_transcript_items(self):
+        body, _ = compose_body('ex_of_historical_thinking', {
+            'field_transcript_text': '<p><strong>Second:</strong> Later.</p>',
+            'field_transcript_text_items': [
+                {
+                    'delta': 1,
+                    'value': '<p><strong>Second:</strong> Later.</p>',
+                },
+                {
+                    'delta': 0,
+                    'value': '<p><strong>First:</strong> Earlier.</p>',
+                },
+            ],
+        })
+
+        self.assertEqual(
+            body,
+            '**First:** Earlier.\n\n**Second:** Later.',
+        )
+
+    def test_transcript_parser_preserves_delta_order(self):
+        fields = {}
+        insert = [
+            "INSERT INTO `node__field_transcript_text` VALUES ",
+            "('video',0,42,42,'en',1,'<strong>Second:</strong> B.','full_html'),",
+            "('video',0,42,42,'en',0,'<strong>First:</strong> A.','full_html');\n",
+        ]
+
+        parse_text_field_insert(insert, fields, 'field_transcript_text')
+
+        self.assertEqual(
+            [item['delta'] for item in fields[42]['field_transcript_text_items']],
+            [0, 1],
+        )
+
+    def test_transcript_splits_speaker_turns_inside_one_paragraph(self):
+        markdown = transcript_html_to_md([{
+            'delta': 0,
+            'value': (
+                '<p><strong>Teacher:</strong> First response. '
+                '<strong>Student 1:</strong> Second response with '
+                '<a href="/source">a source</a>.</p>'
+            ),
+        }])
+
+        self.assertEqual(
+            markdown,
+            '**Teacher:** First response.\n\n'
+            '**Student 1:** Second response with [a source](/source).',
+        )
+
+    def test_transcript_converts_each_delta_before_joining(self):
+        markdown = transcript_html_to_md([
+            {
+                'delta': 1,
+                'value': '<p><strong>Speaker 2:</strong> Later.</p>',
+            },
+            {
+                'delta': 0,
+                'value': (
+                    '<strong>Speaker 1:</strong> Earlier.\r\n\r\n'
+                    '<em>[Audience reacts]</em>'
+                ),
+            },
+        ])
+
+        self.assertEqual(
+            markdown,
+            '**Speaker 1:** Earlier.\n\n*[Audience reacts]*\n\n'
+            '**Speaker 2:** Later.',
+        )
+
+    def test_transcript_splits_italic_speakers_and_preserves_hard_breaks(self):
+        markdown = transcript_html_to_md([{
+            'delta': 0,
+            'value': (
+                '<p><em>Teacher:</em> First line.<br>'
+                'Continuation.<br><em>[Group 1:]</em> Second line.</p>'
+            ),
+        }])
+
+        self.assertEqual(
+            markdown,
+            '*Teacher:* First line.\\\nContinuation.\n\n'
+            '*[Group 1:]* Second line.',
+        )
+
+    def test_embedded_drupal_image_is_localized_and_keeps_url_encoding(self):
+        source = (
+            '<p><img alt="Primary source" '
+            'src="/sites/default/files/inline-images/A%20File%E2%80%AF1.png"></p>'
+        )
+
+        markdown = html_to_md(source)
+
+        self.assertEqual(
+            markdown.strip(),
+            '![Primary source](/files/inline-images/A%20File%E2%80%AF1.png)',
+        )
+
+    def test_external_image_url_is_not_localized(self):
+        self.assertEqual(
+            localize_drupal_image_url('https://example.org/image.png'),
+            'https://example.org/image.png',
+        )
+
     def test_qa_answer_is_not_duplicated(self):
         body, frontmatter = compose_body('ask_a_historian', {
             'field_answer': '<p>The complete answer.</p>',

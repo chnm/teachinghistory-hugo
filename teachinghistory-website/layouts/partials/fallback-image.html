@@ -1,5 +1,5 @@
 {{/*
-  FallbackImage — neutral placeholder used when content has no image.
+  FallbackImage — branded placeholder used when content has no image.
 
   Usage:
     {{ partial "fallback-image.html" (dict
@@ -14,8 +14,8 @@
     - loading: optional browser loading behavior (default "lazy")
 */}}
 
-<img src="/images/image-fallback.svg"
+<img src="/images/th_logo_stacked.png"
      alt="{{ .alt | default "" }}"
-     class="{{ .class | default "w-full h-full object-cover" }}"
+     class="{{ .class | default "w-full h-full" }} image-fallback-logo"
      loading="{{ .loading | default "lazy" }}"
      data-fallback-applied="true">

@@ -60,6 +60,7 @@
 
       <div id="listing-grid" class="grid grid-cols-1 sm:grid-cols-2 gap-6">
         {{ range $pages }}
+          {{ $page := . }}
           {{ $img := .Params.splash_image | default .Params.image | default .Params.thumbnail }}
           <a href="{{ .RelPermalink }}"
              class="listing-card block bg-white rounded shadow border border-gray-light overflow-hidden hover:shadow-md transition group"
@@ -69,7 +70,7 @@
              data-grade="{{ with .Params.grade_levels }}{{ delimit . "," }}{{ end }}">
             {{ with $img }}
               <div class="h-[160px] overflow-hidden">
-                <img src="{{ . }}" alt="" class="w-full h-full object-cover" loading="lazy">
+                <img src="{{ . }}" alt="{{ $page.Title }}" class="w-full h-full object-cover" loading="lazy">
               </div>
             {{ else }}
               <div class="h-[160px] overflow-hidden">
