@@ -11,7 +11,7 @@
 {{- with $related }}
 <section class="mt-10 pt-6 border-t border-gray-light">
   <h2 class="font-heading text-xl font-bold uppercase mb-4">Related Materials</h2>
-  <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
     {{ range . }}
       {{ partial "content-card.html" (dict "page" . "width" "w-full") }}
     {{ end }}
