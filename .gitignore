@@ -32,6 +32,8 @@ utils/redirect_parity.csv
 /.vscode
 utils/content-new/
 feedback/
+/outputs/
+/.secrets/
 
 teachinghistory-website/.hugo_build.lock
 teachinghistory-website/public

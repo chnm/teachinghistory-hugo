@@ -15,7 +15,11 @@
       <article>
         <h2 class="font-heading text-2xl mb-4 normal-case">{{ .Title }}</h2>
 
-        {{ partial "main-content-image.html" . }}
+        {{ with .Params.videos }}
+          {{ partial "video-player.html" (dict "videos" .) }}
+        {{ else }}
+          {{ partial "main-content-image.html" $ }}
+        {{ end }}
 
         {{ with .Params.date }}
           <time class="text-xs text-gray-400 block mb-6">{{ dateFormat "January 2, 2006" . }}</time>
