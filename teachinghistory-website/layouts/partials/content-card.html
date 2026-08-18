@@ -36,7 +36,7 @@
   <div class="px-3 py-3">
     <p class="font-body text-xs leading-relaxed line-clamp-3 text-gray-600">
       {{ with $page.Params.summary }}
-        {{- . | plainify | truncate 120 -}}
+        {{- partial "render-inline-markdown.html" (dict "page" $page "value" .) | plainify | htmlUnescape | truncate 120 -}}
       {{ else }}
         {{- $page.Summary | plainify | truncate 120 -}}
       {{ end }}

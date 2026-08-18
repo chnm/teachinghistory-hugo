@@ -46,7 +46,8 @@
           <p class="font-heading text-xs uppercase tracking-widest mb-3">Teacher's Pick</p>
           <h2 class="font-heading text-3xl leading-tight mb-4 normal-case">{{ $picked.Title }}</h2>
           <p class="font-body text-sm leading-relaxed mb-6">
-            {{ $picked.Params.summary | truncate 200 }}
+            {{ $pickedSummary := $picked.Params.summary | default $picked.Title }}
+            {{ partial "render-inline-markdown.html" (dict "page" $picked "value" $pickedSummary) | plainify | htmlUnescape | truncate 200 }}
           </p>
           {{ partial "arrow-button.html" (dict "text" "Read More" "href" $picked.RelPermalink "color" "black") }}
         </div>

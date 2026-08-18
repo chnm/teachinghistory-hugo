@@ -65,7 +65,7 @@
           <a href="{{ .RelPermalink }}"
              class="listing-card block bg-white rounded shadow border border-gray-light overflow-hidden hover:shadow-md transition group"
              data-title="{{ .Title | lower }}"
-             data-summary="{{ with .Params.summary }}{{ . | plainify | lower }}{{ end }}"
+             data-summary="{{ with .Params.summary }}{{ partial "render-inline-markdown.html" (dict "page" $page "value" .) | plainify | htmlUnescape | lower }}{{ end }}"
              data-keywords="{{ with .Params.keywords }}{{ if reflect.IsSlice . }}{{ delimit . " " | plainify | lower }}{{ else }}{{ . | plainify | lower }}{{ end }}{{ end }}"
              data-grade="{{ with .Params.grade_levels }}{{ delimit . "," }}{{ end }}">
             {{ with $img }}
@@ -85,7 +85,7 @@
             <div class="px-4 pb-4">
               <p class="font-body text-xs leading-relaxed line-clamp-3 text-gray-600">
                 {{ with .Params.summary }}
-                  {{- . | plainify | truncate 160 -}}
+                  {{- partial "render-inline-markdown.html" (dict "page" $page "value" .) | plainify | htmlUnescape | truncate 160 -}}
                 {{ else }}
                   {{- .Summary | plainify | truncate 160 -}}
                 {{ end }}
