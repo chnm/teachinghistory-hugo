@@ -80,6 +80,14 @@ redirects-crosscheck old_site="https://teachinghistory.org" *args:
 redirects-verify target="http://localhost:8080" *args:
     uv run utils/redirect_mapper.py verify --target {{target}} {{args}}
 
+# Reconcile a local normalized remediation tracker against current Hugo content
+content-audit tracker="reports/content_remediation_tracker.csv":
+    python3 utils/content_remediation_audit.py --tracker "{{tracker}}"
+
+# Inventory the Drupal field tables consumed by the extractor
+drupal-field-inventory sql_dump="utils/th_db.sql":
+    python3 utils/drupal_field_inventory.py --sql-dump "{{sql_dump}}"
+
 # Docker build
 docker-build tag="teachinghistory:latest":
     docker build -t {{tag}} {{site}}

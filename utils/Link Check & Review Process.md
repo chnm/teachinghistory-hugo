@@ -2,7 +2,7 @@
 
 > **Tooling status (2026-07-21):** Steps 1 and 1.5 below are now automated by
 > `utils/link_checker.py` (see the repo-root `CLAUDE.md`, "External Link
-> Checker"). The deliverables for team review are `utils/link_review_master.xlsx`
+> Checker"). The local, git-ignored deliverables for team review are `utils/link_review_master.xlsx`
 > (one row per link, incl. auto-triaged "Rebranded"/C-candidate verdicts) and
 > `utils/link_review_pages.xlsx` (one row per page, for bulk delete/salvage
 > calls). Record decisions in each sheet's `decision` dropdown column — nothing
