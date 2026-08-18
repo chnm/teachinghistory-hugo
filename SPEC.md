@@ -204,6 +204,24 @@ Lets teachers find specific resources within a subsection using keyword search a
 
 ---
 
+### Feature: Site-wide Search
+
+**Description:**
+A dedicated search page that indexes published site content at build time with Pagefind.
+
+**User Value:**
+Lets teachers find resources across content sections without knowing where a page lives in the site hierarchy.
+
+**Functionality:**
+- `/search/` page linked from the primary navigation
+- Full-text client-side search backed by a static Pagefind index
+- Content-area filter for Teaching Materials, History Content, Best Practices, Digital Classroom, and other site content
+- Accessible keyboard navigation, result counts, excerpts, highlighted matches, and no-results feedback
+- Responsive single-column layout through tablet widths and filter/results columns on desktop
+- Search index generated after Hugo in local and Docker production builds
+
+---
+
 ### Feature: About Us / Staff Grid
 
 **Description:**
@@ -262,7 +280,6 @@ Team page showing staff members with a bio modal.
 
 ### Explicitly Excluded
 - **Ask a Historian feature** — removed from this rebuild
-- **Site-wide search** — subsection-level keyword filtering exists; full-text site-wide search not planned for V1
 - **User authentication / accounts** — site is fully public, no login
 - **CMS admin interface** — content managed as Markdown files in the repository
 - **Faceted search** on section index pages (subsection list pages have basic keyword/dropdown filtering)
@@ -274,7 +291,6 @@ Team page showing staff members with a bio modal.
 - **Responsive / mobile design** — not explicitly specified in Figma; inferred breakpoints to be confirmed with design team
 
 ### Future Considerations
-- Full-text search across all content
 - Interactive quiz functionality (currently static content)
 - RSS feeds for blog/new content
 
