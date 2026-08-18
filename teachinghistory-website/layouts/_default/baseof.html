@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en" }}">
 <head>
+  {{/* Pagefind content-area facet. Search and error pages are excluded below. */}}
+  {{ $searchSection := "More from TeachingHistory.org" }}
+  {{ if eq .Section "teaching-materials" }}
+    {{ $searchSection = "Teaching Materials" }}
+  {{ else if eq .Section "history-content" }}
+    {{ $searchSection = "History Content" }}
+  {{ else if eq .Section "best-practices" }}
+    {{ $searchSection = "Best Practices" }}
+  {{ else if eq .Section "digital-classroom" }}
+    {{ $searchSection = "Digital Classroom" }}
+  {{ end }}
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
@@ -33,8 +45,15 @@
       image.src = '/images/th_logo_stacked.png';
     }, true);
   </script>
+
+  {{ block "head" . }}{{ end }}
 </head>
-<body class="min-h-screen flex flex-col font-body text-black bg-white">
+<body
+  class="min-h-screen flex flex-col font-body text-black bg-white"
+  {{ if and (ne .Layout "search") (ne .Kind "404") }}
+    data-pagefind-body
+    data-pagefind-filter="section:{{ $searchSection }}"
+  {{ end }}>
 
   {{ partial "navbar.html" . }}
 

@@ -84,6 +84,12 @@ disableAliases = true
     url = '/digital-classroom/'
     weight = 50
 
+  [[menu.main]]
+    identifier = 'search'
+    name = 'Search'
+    url = '/search/'
+    weight = 60
+
 # Redirect manifest — the deterministic legacy->native bridge for the Caddy
 # redirect pipeline (utils/redirect_mapper.py). The home page emits
 # /redirects.json listing every page's native URL and its legacy paths.

@@ -18,10 +18,13 @@
   {{ $currentSection = "about" }}
 {{ else if hasPrefix $url "/digital-classroom/" }}
   {{ $currentSection = "digital-classroom" }}
+{{ else if hasPrefix $url "/search/" }}
+  {{ $currentSection = "search" }}
 {{ end }}
 
 <nav class="h-[60px] fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-light shadow-md flex items-center px-4 sm:px-6 lg:px-8"
      aria-label="Main navigation"
+     data-pagefind-ignore
      x-data="{ open: false }">
   <div class="flex items-center justify-between w-full max-w-7xl mx-auto">
     <a href="/" class="flex items-center shrink-0">
@@ -39,7 +42,7 @@
           {{- .Name -}}
         </a>
 
-        {{ if not (eq .Identifier "digital-classroom") }}
+        {{ if not (eq .Identifier "search") }}
           <span class="text-gray-light select-none" aria-hidden="true">|</span>
         {{ end }}
       {{ end }}
