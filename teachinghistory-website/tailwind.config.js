@@ -1,6 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./layouts/**/*.html", "./content/**/*.md"],
+  // Four layout bands use Tailwind's defaults: mobile base, sm, md, and lg.
+  // xl and 2xl remain available for isolated wide-screen refinements.
   theme: {
     extend: {
       colors: {
