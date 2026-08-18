@@ -13,7 +13,7 @@ serve:
 
 # Build the site for production
 build:
-    cd {{site}} && hugo --minify
+    cd {{site}} && npm run build
 
 # Build the site including drafts
 build-drafts:
@@ -23,6 +23,10 @@ build-drafts:
 css:
     rm -rf {{site}}/resources/_gen
     cd {{site}} && hugo --minify
+
+# Generate the Pagefind index from an existing production build
+search:
+    cd {{site}} && npm run build:search
 
 # Clean generated files
 clean:

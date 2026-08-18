@@ -23,7 +23,7 @@ draft: false
 - [ ] Verify navigation menus are complete
 
 **Functionality**
-- [ ] Test search functionality (eventually...)
+- [x] Test site-wide search functionality
 - [ ] Verify any forms are working
 - [ ] Check RSS feeds are generating correctly
 - [ ] Test 404 error page

@@ -16,6 +16,7 @@ COPY . .
 
 RUN npm ci
 RUN hugo ${HUGO_BUILD_ARGS}
+RUN npm run build:search
 
 FROM stagex/user-caddy
 
