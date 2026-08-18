@@ -34,12 +34,10 @@ jobs:
     secrets: inherit
     with:
       runner_labels: '["self-hosted","IncusOS"]'
-      container-registry: "ghcr.io"
-      container-image-name: "teachinghistory-website"
       hugo-context-root: "teachinghistory-website"
       hugo-content-path: "/srv"
       hugo-devl-url: "https://dev.teachinghistory.org"
-      hugo-prod-url: "https://dev.teachinghistory.org"
+      hugo-prod-url: "https://teachinghistory.org"
 
       release-tag-name-type: "iso"
 
@@ -57,4 +55,4 @@ jobs:
       # ever happens.
 
       website-devl-fqdn: "dev.teachinghistory.org"
-      website-prod-fqdn: "dev.teachinghistory.org"
+      website-prod-fqdn: "teachinghistory.org"
