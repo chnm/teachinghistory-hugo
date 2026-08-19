@@ -11,8 +11,12 @@ site := "teachinghistory-website"
 serve:
     cd {{site}} && hugo server --navigateToChanged
 
-# Build the site for production
-build:
+# Install npm dependencies (Tailwind/PostCSS devDependencies, pagefind's native binary)
+install:
+    cd {{site}} && npm install
+
+# Build the site for production (Hugo + Pagefind index)
+build: install
     cd {{site}} && npm run build
 
 # Build the site including drafts
@@ -25,7 +29,7 @@ css:
     cd {{site}} && hugo --minify
 
 # Generate the Pagefind index from an existing production build
-search:
+search: install
     cd {{site}} && npm run build:search
 
 # Clean generated files
