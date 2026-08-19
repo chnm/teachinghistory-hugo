@@ -37,8 +37,15 @@
   {{/* Bottom bar */}}
   <div class="border-t border-gray-light">
     <div class="max-w-7xl mx-auto px-6 py-4 text-center text-xs text-gray-500">
-      {{/* TODO: Confirm correct link destinations for Outreach and Privacy Policy */}}
-      <a href="/outreach/" class="hover:underline">Teachinghistory.Org Outreach</a> | <a href="/privacy/" class="hover:underline">Privacy Policy</a> | <a href="https://rrchnm.org/accessibility/" class="hover:underline">Accessibility Statement</a>
+      <a href="#" id="contact-us-link" class="hover:underline">Contact Us</a> | <a href="https://rrchnm.org/accessibility/" class="hover:underline">Accessibility Statement</a>
     </div>
   </div>
 </footer>
+
+{{/* Build the contact mailto link at runtime so plain-text scrapers never see the address in the HTML source. */}}
+<script>
+  (function() {
+    var link = document.getElementById('contact-us-link');
+    if (link) link.href = 'mailto:' + ['chnm', 'gmu.edu'].join('@');
+  })();
+</script>
