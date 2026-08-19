@@ -7,13 +7,11 @@ draft: false
 drupal_nid: 24408
 aliases:
 - /elementary-school-intro
+videos:
+- youtube_id: HY7Sc-B46vo
+  title: Elementary Introduction
+
 ---
-
-themes/teachinghistory/homevid/elementary\_intro.mp4
-
-video/mp4
-
- 
 
 ## Video Transcript
 

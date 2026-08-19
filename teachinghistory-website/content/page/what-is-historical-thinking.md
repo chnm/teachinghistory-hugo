@@ -7,13 +7,11 @@ draft: false
 drupal_nid: 24407
 aliases:
 - /historical-thinking-intro
+videos:
+- youtube_id: mSJLmWnxrPg
+  title: What is Historical Thinking?
+
 ---
-
-/themes/teachinghistory/homevid/historical\_thinking.mp4
-
-video/mp4
-
- 
 
 Watch this introductory video (or download the [transcript](/system/files/historical_thinking.pdf)) for an overview of ways of thinking inherent in knowing and doing history. Historical thinking is complex and multi-faceted; we focus on five key aspects particularly relevant to the K-12 classroom. These are:
 

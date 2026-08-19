@@ -7,13 +7,11 @@ draft: false
 drupal_nid: 24410
 aliases:
 - /high-school-intro
+videos:
+- youtube_id: Nz0vO2zrN_k
+  title: High School Introduction
+
 ---
-
-/themes/teachinghistory/homevid/high\_intro.mp4
-
-video/mp4
-
- 
 
 ## Transcript
 

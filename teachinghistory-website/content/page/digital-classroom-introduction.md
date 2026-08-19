@@ -7,13 +7,11 @@ draft: false
 drupal_nid: 24406
 aliases:
 - /digital-classroom-intro
+videos:
+- youtube_id: PnZ51EXtrQU
+  title: Digital Classroom Introduction
+
 ---
-
-themes/teachinghistory/homevid/high\_intro.mp4
-
-video/mp4
-
- 
 
 ## Visit Digital Classroom
 
