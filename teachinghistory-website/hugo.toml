@@ -1,6 +1,11 @@
 baseURL = 'https://dev.teachinghistory.org/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'TeachingHistory.org'
+
+# Emit /robots.txt from layouts/robots.txt. That template invites crawlers only
+# for a production build served from a canonicalHosts entry (below); dev,
+# preview and local builds get a blanket Disallow.
+enableRobotsTXT = true
 
 # Legacy Drupal paths live in `aliases:` frontmatter as DATA only. Redirects are
 # owned by the web server (Caddy), so Hugo must not write alias stub HTML.
@@ -13,6 +18,11 @@ disableAliases = true
 
 [params]
   description = 'TeachingHistory.org - Resources for History Educators'
+
+  # Hosts that may invite search-engine crawlers. layouts/robots.txt opens the
+  # site up only for a production build served from one of these; every other
+  # build gets `Disallow: /`. Update this whenever the public hostname changes.
+  canonicalHosts = ['teachinghistory.org', 'www.teachinghistory.org']
 
 [taxonomies]
   category = 'categories'

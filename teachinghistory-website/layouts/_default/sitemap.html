@@ -97,7 +97,7 @@
                 <span class="font-heading text-base font-medium text-gray-700">
                   {{ .Title | default (.Section | humanize | title) }}
                 </span>
-                <span class="text-sm text-gray-400 ml-2 whitespace-nowrap">{{ $subCount }} pages</span>
+                <span class="text-sm text-gray-500 ml-2 whitespace-nowrap">{{ $subCount }} pages</span>
               </summary>
 
               <div class="divide-y divide-gray-100">
@@ -107,7 +107,7 @@
                       {{ .Title }}
                     </a>
                     {{ with .Date }}
-                      <span class="text-gray-400 whitespace-nowrap text-xs">{{ .Format "2006-01-02" }}</span>
+                      <span class="text-gray-500 whitespace-nowrap text-xs">{{ .Format "2006-01-02" }}</span>
                     {{ end }}
                     {{ with .Params.content_type }}
                       <span class="text-xs bg-gray-100 text-gray-500 px-1.5 py-0.5 rounded whitespace-nowrap">{{ . }}</span>
@@ -141,7 +141,7 @@
                 <span class="font-heading text-base font-medium text-gray-700 italic">
                   (Top-level pages)
                 </span>
-                <span class="text-sm text-gray-400 ml-2 whitespace-nowrap">{{ len $directPages }} pages</span>
+                <span class="text-sm text-gray-500 ml-2 whitespace-nowrap">{{ len $directPages }} pages</span>
               </summary>
               <div class="divide-y divide-gray-100">
                 {{ range $directPages.ByTitle }}
@@ -150,7 +150,7 @@
                       {{ .Title }}
                     </a>
                     {{ with .Date }}
-                      <span class="text-gray-400 whitespace-nowrap text-xs">{{ .Format "2006-01-02" }}</span>
+                      <span class="text-gray-500 whitespace-nowrap text-xs">{{ .Format "2006-01-02" }}</span>
                     {{ end }}
                     {{ with .Params.content_type }}
                       <span class="text-xs bg-gray-100 text-gray-500 px-1.5 py-0.5 rounded whitespace-nowrap">{{ . }}</span>
@@ -179,7 +179,7 @@
                     {{ .Title }}
                   </a>
                   {{ with .Date }}
-                    <span class="text-gray-400 whitespace-nowrap text-xs">{{ .Format "2006-01-02" }}</span>
+                    <span class="text-gray-500 whitespace-nowrap text-xs">{{ .Format "2006-01-02" }}</span>
                   {{ end }}
                   {{ with .Params.content_type }}
                     <span class="text-xs bg-gray-100 text-gray-500 px-1.5 py-0.5 rounded whitespace-nowrap">{{ . }}</span>

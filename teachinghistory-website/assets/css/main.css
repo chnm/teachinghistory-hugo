@@ -11,13 +11,17 @@
     /* Colors */
     --color-orange: #F26522;
     --color-orange-tint: #FFFAF8;
+    --color-orange-ink: #CE4B0C;
     --color-yellow: #FFC20E;
     --color-yellow-tint: #FBF9F4;
+    --color-yellow-ink: #946F00;
     --color-green: #37A99C;
     --color-green-tint: #F5FBFA;
+    --color-green-ink: #2A8278;
     --color-black: #000000;
     --color-pale-blue: #DCEBF9;
     --color-pale-blue-tint: #F5FAFF;
+    --color-pale-blue-ink: #2278C8;
     --color-dark: #1a1a1a;
     --color-white: #FFFFFF;
     --color-gray-light: #E5E5E5;
@@ -78,7 +82,7 @@
   .font-body a:not([class]),
   article a:not([class]),
   dialog a:not([class]) {
-    color: var(--color-orange);
+    color: var(--color-orange-ink);
     text-decoration: underline;
     text-decoration-color: var(--color-orange-tint);
     text-underline-offset: 2px;
@@ -88,7 +92,7 @@
   .font-body a:not([class]):hover,
   article a:not([class]):hover,
   dialog a:not([class]):hover {
-    text-decoration-color: var(--color-orange);
+    text-decoration-color: var(--color-orange-ink);
   }
 
   blockquote {

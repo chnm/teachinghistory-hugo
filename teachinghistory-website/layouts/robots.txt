@@ -1,0 +1,36 @@
+{{- /*
+  robots.txt — emitted by Hugo (`enableRobotsTXT` in hugo.toml).
+
+  Crawlers are invited only when BOTH hold:
+
+    1. it is a production build — CI passes `--environment production` on main
+       and `--environment development` for dev.teachinghistory.org; and
+    2. it is published at a canonical host (`canonicalHosts` in hugo.toml,
+       kept there so it sits next to the baseURL it has to agree with).
+
+  (1) is the intended signal. (2) is the backstop: `hugo` defaults to
+  environment=production whenever the flag is absent, so a bare `docker build`
+  with no `hugobuildargs` would otherwise emit a crawl invitation while still
+  carrying the dev baseURL from hugo.toml.
+
+  Every other build — dev, preview, `hugo server`, a plain local `hugo` — ships
+  a blanket Disallow, so a staging copy never competes with the real site.
+*/ -}}
+{{- $host := (urls.Parse site.BaseURL).Host -}}
+{{- if and hugo.IsProduction (in site.Params.canonicalHosts $host) -}}
+User-agent: *
+Allow: /
+
+# Client-side search: /search/ renders no crawlable results, and /pagefind/ is
+# the machine-readable index behind it, not pages.
+Disallow: /search/
+Disallow: /pagefind/
+
+Sitemap: {{ "sitemap.xml" | absURL }}
+{{- else -}}
+# Not a public production build (environment={{ hugo.Environment }}, host={{ $host }}).
+# Staging copies stay out of search indexes so they never compete with
+# https://teachinghistory.org/.
+User-agent: *
+Disallow: /
+{{- end }}

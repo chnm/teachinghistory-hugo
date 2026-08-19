@@ -15,7 +15,7 @@
       {{ range . }}
         {{ if .url }}
         <li>
-          <a href="{{ .url }}" class="text-sm font-semibold text-orange hover:underline break-words"{{ if strings.HasPrefix .url "http" }} target="_blank" rel="noopener"{{ end }}>
+          <a href="{{ .url }}" class="text-sm font-semibold text-orange-ink hover:underline break-words"{{ if strings.HasPrefix .url "http" }} target="_blank" rel="noopener"{{ end }}>
             {{ .title | default (.url | replaceRE "^https?://(www\\.)?" "" | truncate 52) }}
           </a>
           {{ with .description }}
@@ -39,7 +39,7 @@
       {{ range . }}
         {{ if .url }}
         <li>
-          <a href="{{ .url }}" class="text-sm font-semibold text-orange hover:underline break-words">
+          <a href="{{ .url }}" class="text-sm font-semibold text-orange-ink hover:underline break-words">
             {{ .title | default "Download file" }}
           </a>
           {{ with .description }}

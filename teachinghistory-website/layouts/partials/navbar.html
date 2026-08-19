@@ -37,7 +37,7 @@
         {{ $isActive := eq .Identifier $currentSection }}
 
         <a href="{{ .URL }}"
-           class="px-3 py-2 hover:underline {{ if $isActive }}font-bold text-orange{{ end }}"
+           class="px-3 py-2 hover:underline {{ if $isActive }}font-bold text-orange-ink{{ end }}"
            {{ if $isActive }}aria-current="true"{{ end }}>
           {{- .Name -}}
         </a>
@@ -76,7 +76,7 @@
       {{ range .Site.Menus.main }}
         {{ $isActive := eq .Identifier $currentSection }}
         <a href="{{ .URL }}"
-           class="px-6 py-3 hover:bg-gray-50 {{ if $isActive }}font-bold text-orange{{ end }}"
+           class="px-6 py-3 hover:bg-gray-50 {{ if $isActive }}font-bold text-orange-ink{{ end }}"
            {{ if $isActive }}aria-current="true"{{ end }}>
           {{- .Name -}}
         </a>
