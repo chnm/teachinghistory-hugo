@@ -50,11 +50,16 @@ def inventory(content_dir: Path) -> list[dict[str, str | int]]:
     for path in content_dir.rglob("*.md"):
         metadata, body = split_front_matter(path.read_text(encoding="utf-8"))
         structured = metadata.get("videos") or []
-        structured_sources = [
-            clean_source(video["src"])
-            for video in structured
-            if isinstance(video, dict) and video.get("src")
-        ]
+        structured_sources = []
+        for video in structured:
+            if not isinstance(video, dict):
+                continue
+            if video.get("youtube_id"):
+                structured_sources.append(
+                    f"https://www.youtube.com/watch?v={video['youtube_id']}"
+                )
+            elif video.get("src"):
+                structured_sources.append(clean_source(video["src"]))
         body_sources = [clean_source(match.group("src")) for match in VIDEO_RE.finditer(body)]
         sources = list(dict.fromkeys(structured_sources + body_sources))
         if not sources:

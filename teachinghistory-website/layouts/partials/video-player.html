@@ -5,11 +5,12 @@
     {{ partial "video-player.html" (dict "videos" .Params.videos) }}
 
   Params:
-    - videos: array of {youtube_id, thumb, title}
+    - videos: array of {youtube_id, thumb, title, transcript}
     - src is temporarily supported while the YouTube migration is incomplete
 
   The first video loads by default. Clicking a thumbnail swaps the YouTube
-  embed (or a legacy source during migration) without navigating away.
+  embed and corresponding transcript (or a legacy source during migration)
+  without navigating away.
 */}}
 
 {{ $videos := .videos }}
@@ -17,8 +18,12 @@
 {{ $first := index $videos 0 }}
 {{ $firstKey := $first.youtube_id | default $first.src }}
 {{ $id := printf "vp-%s" ($firstKey | md5) }}
+{{ $hasTranscripts := false }}
+{{ range $videos }}
+  {{ if .transcript }}{{ $hasTranscripts = true }}{{ end }}
+{{ end }}
 
-<div class="mb-8">
+<div id="{{ $id }}" class="mb-8">
   <div id="{{ $id }}-media" class="aspect-video w-full overflow-hidden rounded bg-black">
     {{ with $first.youtube_id }}
       <iframe
@@ -50,6 +55,8 @@
       data-youtube-id="{{ $v.youtube_id }}"
       data-video-src="{{ $v.src }}"
       data-title="{{ $v.title }}"
+      data-video-index="{{ $i }}"
+      aria-pressed="{{ if eq $i 0 }}true{{ else }}false{{ end }}"
       onclick="window.thSelectVideo('{{ $id }}', this)">
       <img
         src="{{ $thumb }}"
@@ -60,12 +67,32 @@
     {{ end }}
   </div>
   {{ end }}
+
+  {{ if $hasTranscripts }}
+  <section class="mt-8 border-t border-gray-light pt-6" aria-live="polite">
+    <h2 class="font-heading text-xl mb-4 normal-case">Transcript</h2>
+    {{ range $i, $v := $videos }}
+    <div
+      data-video-transcript
+      data-video-index="{{ $i }}"
+      {{ if ne $i 0 }}hidden{{ end }}
+      class="font-body leading-relaxed">
+      {{ with $v.transcript }}
+        {{ . | markdownify }}
+      {{ else }}
+        <p class="text-gray-600 italic">A transcript is not available for this clip.</p>
+      {{ end }}
+    </div>
+    {{ end }}
+  </section>
+  {{ end }}
 </div>
 
 <script>
 window.thSelectVideo = window.thSelectVideo || function (playerId, button) {
+  const player = document.getElementById(playerId);
   const media = document.getElementById(playerId + '-media');
-  if (!media) return;
+  if (!player || !media) return;
 
   media.replaceChildren();
   if (button.dataset.youtubeId) {
@@ -88,11 +115,18 @@ window.thSelectVideo = window.thSelectVideo || function (playerId, button) {
     media.appendChild(video);
   }
 
-  button.parentElement.querySelectorAll('button img').forEach(function (image) {
+  player.querySelectorAll('button[data-video-index]').forEach(function (candidate) {
+    candidate.setAttribute('aria-pressed', candidate === button ? 'true' : 'false');
+  });
+  player.querySelectorAll('button img').forEach(function (image) {
     image.classList.remove('ring-2', 'ring-orange');
   });
   const selected = button.querySelector('img');
   if (selected) selected.classList.add('ring-2', 'ring-orange');
+
+  player.querySelectorAll('[data-video-transcript]').forEach(function (transcript) {
+    transcript.hidden = transcript.dataset.videoIndex !== button.dataset.videoIndex;
+  });
 };
 </script>
 {{ end }}

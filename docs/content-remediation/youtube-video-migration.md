@@ -1,8 +1,10 @@
 # YouTube video migration
 
 This workflow uploads the 87 videos required by current Hugo pages, records
-every returned YouTube ID, and then converts all 287 current Hugo video entries
-from local MP4 sources to YouTube embeds.
+every returned YouTube URL, and then converts all 287 current Hugo video entries
+from local MP4 sources to YouTube embeds. It derives canonical IDs from
+`youtube_url`, including IDs that begin with a hyphen and may be misread by
+spreadsheet software.
 
 The uploader is deliberately gated:
 
@@ -144,33 +146,51 @@ and the checkpoint file will skip completed uploads.
 
 ## 7. Convert Hugo to YouTube IDs
 
-Generate the combined plan. It uses 200 existing matches plus the 87 IDs returned
-by the uploader:
+Generate the combined plan. It uses 200 existing matches plus the 87 IDs derived
+from the reviewed manifest's `youtube_url` values. An upload-state file remains
+supported and takes precedence when present. The planner resolves rows by Drupal
+NID so filename cleanup in the current Hugo tree does not invalidate the audited
+match:
 
 ```sh
 .venv/bin/python utils/youtube_migration.py hugo-plan
 ```
 
-Run the content migration in dry-run mode first:
+Run the content migration in dry-run mode first, providing the Drupal dump so
+each ordered transcript delta is attached to its corresponding video:
 
 ```sh
-.venv/bin/python utils/youtube_migration.py apply-hugo
+.venv/bin/python utils/youtube_migration.py apply-hugo \
+  --drupal-sql /path/to/th_db.sql \
+  --live-base-url https://teachinghistory.org \
+  --transcript-cache /path/to/local/transcript-cache
 ```
 
 The command refuses to proceed while any current Hugo video lacks a YouTube ID.
 Once the dry run reports 287 complete clips, apply it:
 
 ```sh
-.venv/bin/python utils/youtube_migration.py apply-hugo --confirm-apply
+.venv/bin/python utils/youtube_migration.py apply-hugo \
+  --drupal-sql /path/to/th_db.sql \
+  --live-base-url https://teachinghistory.org \
+  --transcript-cache /path/to/local/transcript-cache \
+  --confirm-apply
 ```
 
 This replaces `src` in each page's `videos` frontmatter with `youtube_id` while
-preserving the existing thumbnail and title. The Hugo player uses
-`youtube-nocookie.com` embeds and retains the thumbnail-driven clip selector.
+preserving the existing thumbnail and title. Ordered Drupal transcripts move
+into the matching structured video records, and the old combined transcript
+section is removed. The Hugo player uses `youtube-nocookie.com` embeds and the
+thumbnail-driven selector switches both video and transcript.
+
+Node 24171 (My Lai Massacre Political Cartoon) contains a duplicate Drupal
+transcript segment. The migration's documented override maps its four clips to
+source transcript positions 1, 2, 4, and 5 so later transcripts remain aligned.
 
 Finally:
 
 ```sh
+.venv/bin/python utils/youtube_migration.py validate-hugo
 just build
 just check
 ```

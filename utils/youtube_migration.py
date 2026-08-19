@@ -22,14 +22,32 @@ import random
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import parse_qs, urlparse
 
 try:
     import yaml
 except ImportError:  # pragma: no cover - operator setup path
     yaml = None
+
+
+class LiteralString(str):
+    """Marker for readable YAML block scalars."""
+
+
+if yaml is not None:
+    class FrontMatterDumper(yaml.SafeDumper):
+        pass
+
+    FrontMatterDumper.add_representer(
+        LiteralString,
+        lambda dumper, value: dumper.represent_scalar(
+            "tag:yaml.org,2002:str", value, style="|"
+        ),
+    )
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -48,6 +66,9 @@ YOUTUBE_READ_SCOPE = "https://www.googleapis.com/auth/youtube.readonly"
 YOUTUBE_SCOPES = [YOUTUBE_UPLOAD_SCOPE, YOUTUBE_READ_SCOPE]
 TEACHINGHISTORY_CHANNEL_ID = "UCZBG3EdPK_3O8oUkEE40ZsQ"
 APPROVED_VALUES = {"yes", "true", "approved", "1"}
+# Drupal node 24171 stores a duplicated second segment at transcript delta 2.
+# Its four clip titles align to source transcript positions 1, 2, 4, and 5.
+TRANSCRIPT_POSITION_OVERRIDES = {"24171": [1, 2, 4, 5]}
 UPLOAD_STATE_FIELDS = [
     "upload_key",
     "youtube_id",
@@ -308,6 +329,59 @@ def load_upload_state(path: Path) -> list[dict[str, str]]:
     return read_csv(path) if path.exists() else []
 
 
+def youtube_id_from_url(value: str) -> str:
+    """Return a canonical 11-character YouTube ID from a supported URL."""
+    if not value.strip():
+        return ""
+    parsed = urlparse(value.strip())
+    hostname = (parsed.hostname or "").lower()
+    youtube_id = ""
+    if hostname in {"youtu.be", "www.youtu.be"}:
+        youtube_id = parsed.path.strip("/").split("/", 1)[0]
+    elif hostname == "youtube.com" or hostname.endswith(".youtube.com"):
+        if parsed.path.rstrip("/") == "/watch":
+            youtube_id = parse_qs(parsed.query).get("v", [""])[0]
+        else:
+            parts = [part for part in parsed.path.split("/") if part]
+            if len(parts) >= 2 and parts[0] in {"embed", "live", "shorts"}:
+                youtube_id = parts[1]
+    return youtube_id if re.fullmatch(r"[A-Za-z0-9_-]{11}", youtube_id) else ""
+
+
+def manifest_youtube_id(row: dict[str, str]) -> str:
+    """Use an explicit ID when valid, otherwise derive it from youtube_url."""
+    youtube_id = row.get("youtube_id", "").strip()
+    if re.fullmatch(r"[A-Za-z0-9_-]{11}", youtube_id):
+        return youtube_id
+    return youtube_id_from_url(row.get("youtube_url", ""))
+
+
+def current_hugo_paths_by_nid() -> dict[str, str]:
+    """Index current content paths so plans survive filename cleanup."""
+    paths: dict[str, str] = {}
+    duplicates: set[str] = set()
+    pattern = re.compile(r"(?m)^drupal_nid:\s*['\"]?(\d+)['\"]?\s*$")
+    content_root = SITE_ROOT / "content"
+    for path in content_root.rglob("*.md"):
+        text = path.read_text(encoding="utf-8")
+        if not text.startswith("---\n"):
+            continue
+        delimiter = text.find("\n---\n", 4)
+        match = pattern.search(text, 4, delimiter if delimiter != -1 else len(text))
+        if not match:
+            continue
+        nid = match.group(1)
+        relative = str(path.relative_to(content_root))
+        if nid in paths and paths[nid] != relative:
+            duplicates.add(nid)
+        paths[nid] = relative
+    if duplicates:
+        raise ValueError(
+            "duplicate drupal_nid values in Hugo content: " + ", ".join(sorted(duplicates))
+        )
+    return paths
+
+
 def save_upload_state(path: Path, rows: list[dict[str, str]]) -> None:
     write_csv(path, rows, UPLOAD_STATE_FIELDS)
 
@@ -479,17 +553,19 @@ def command_upload(args: argparse.Namespace) -> int:
 
 def command_hugo_plan(args: argparse.Namespace) -> int:
     reconciliation = read_csv(args.reconciliation)
+    current_paths = current_hugo_paths_by_nid()
     state = {
         row["upload_key"]: row for row in load_upload_state(args.state)
     }
     upload_manifest = {
         row["upload_key"]: row for row in read_csv(args.manifest)
     } if args.manifest.exists() else {}
-    new_ids_by_clip = {
-        (row["hugo_content_path"], row["clip_index"]): state[key]["youtube_id"]
-        for key, row in upload_manifest.items()
-        if key in state and state[key].get("youtube_id")
-    }
+    new_ids_by_clip: dict[tuple[str, str], str] = {}
+    for key, row in upload_manifest.items():
+        state_id = manifest_youtube_id(state.get(key, {}))
+        youtube_id = state_id or manifest_youtube_id(row)
+        if youtube_id:
+            new_ids_by_clip[(row["drupal_nid"], row["clip_index"])] = youtube_id
     plan: list[dict[str, str]] = []
     for row in reconciliation:
         if row["hugo_present"] != "true":
@@ -497,22 +573,46 @@ def command_hugo_plan(args: argparse.Namespace) -> int:
         youtube_id = row["youtube_ids"].split(" | ")[0] if row["youtube_ids"] else ""
         source = "existing_youtube_match" if youtube_id else ""
         if not youtube_id:
-            youtube_id = new_ids_by_clip.get(
-                (row["hugo_content_path"], row["clip_index"]), ""
-            )
+            youtube_id = new_ids_by_clip.get((row["drupal_nid"], row["clip_index"]), "")
             source = "new_upload" if youtube_id else "missing_upload"
+        content_path = row["hugo_content_path"]
+        if not (SITE_ROOT / "content" / content_path).is_file():
+            content_path = current_paths.get(row["drupal_nid"], content_path)
         plan.append({
-            "hugo_content_path": row["hugo_content_path"],
+            "hugo_content_path": content_path,
             "drupal_nid": row["drupal_nid"],
             "clip_index": row["clip_index"],
             "asset_name": row["asset_name"],
             "youtube_id": youtube_id,
             "id_source": source,
+            "transcript_present_live": row.get("transcript_present_live", ""),
         })
     fields = [
         "hugo_content_path", "drupal_nid", "clip_index", "asset_name",
-        "youtube_id", "id_source",
+        "youtube_id", "id_source", "transcript_present_live",
     ]
+    assignments: dict[str, list[str]] = {}
+    clip_keys: set[tuple[str, str]] = set()
+    duplicate_clips: list[str] = []
+    for row in plan:
+        clip_key = (row["hugo_content_path"], row["clip_index"])
+        if clip_key in clip_keys:
+            duplicate_clips.append(f"{clip_key[0]}#{clip_key[1]}")
+        clip_keys.add(clip_key)
+        if row["youtube_id"]:
+            assignments.setdefault(row["youtube_id"], []).append(
+                f"{row['hugo_content_path']}#{row['clip_index']}"
+            )
+    duplicate_ids = {
+        youtube_id: clips
+        for youtube_id, clips in assignments.items()
+        if len(clips) > 1
+    }
+    if duplicate_clips or duplicate_ids:
+        raise ValueError(json.dumps({
+            "duplicate_hugo_clips": duplicate_clips,
+            "duplicate_youtube_assignments": duplicate_ids,
+        }, indent=2))
     write_csv(args.hugo_plan, plan, fields)
     print(json.dumps({
         "hugo_plan": str(args.hugo_plan),
@@ -530,9 +630,147 @@ def normalized_asset(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", "", stem)
 
 
+def normalized_transcript_positions(
+    nid: str, source_clips: dict[int, str]
+) -> dict[int, str]:
+    positions = TRANSCRIPT_POSITION_OVERRIDES.get(nid)
+    if not positions:
+        return source_clips
+    return {
+        clip_index: source_clips[source_index]
+        for clip_index, source_index in enumerate(positions, start=1)
+        if source_index in source_clips
+    }
+
+
+def sanitize_transcript_markdown(value: str) -> str:
+    """Normalize legacy Unicode separators before serializing YAML scalars."""
+    return (
+        value.replace("\r\n", "\n")
+        .replace("\r", "\n")
+        .replace("\u0085", "\n")
+        .replace("\u2028", "\n")
+        .replace("\u2029", "\n")
+    )
+
+
+def load_drupal_transcripts(sql_path: Path) -> dict[str, dict[int, str]]:
+    """Read ordered per-clip transcripts from the Drupal transcript table."""
+    from drupal_to_hugo import parse_text_field_insert, transcript_html_to_md
+
+    buffer: list[str] = []
+    active = False
+    with sql_path.open(encoding="utf-8", errors="ignore") as source:
+        for line in source:
+            if line.startswith("INSERT INTO `node__field_transcript_text`"):
+                active = True
+                buffer = [line]
+                if line.rstrip().endswith(";"):
+                    break
+                continue
+            if active:
+                buffer.append(line)
+                if line.rstrip().endswith(";"):
+                    break
+    if not buffer or not buffer[-1].rstrip().endswith(";"):
+        raise ValueError(f"Drupal transcript table not found or incomplete: {sql_path}")
+
+    fields: dict[int, dict[str, Any]] = {}
+    parse_text_field_insert(buffer, fields, "field_transcript_text")
+    transcripts: dict[str, dict[int, str]] = {}
+    for nid, node_fields in fields.items():
+        items = node_fields.get("field_transcript_text_items", [])
+        clips: dict[int, str] = {}
+        for index, item in enumerate(sorted(items, key=lambda value: value["delta"]), start=1):
+            markdown = sanitize_transcript_markdown(
+                transcript_html_to_md([item])
+            ).strip()
+            if markdown:
+                clips[index] = markdown
+        if clips:
+            nid_text = str(nid)
+            transcripts[nid_text] = normalized_transcript_positions(nid_text, clips)
+    return transcripts
+
+
+def load_live_transcripts(
+    nids: set[str],
+    base_url: str,
+    cache_dir: Path,
+) -> tuple[dict[str, dict[int, str]], list[str]]:
+    """Fetch current Drupal transcript arrays, caching raw JSON outside Git."""
+    from drupal_to_hugo import transcript_html_to_md
+    from reconcile_videos import fetch_node
+
+    cache_dir.mkdir(parents=True, exist_ok=True)
+
+    def fetch(nid: str) -> tuple[str, dict[str, Any] | None, str]:
+        cache_path = cache_dir / f"node-{nid}.json"
+        if cache_path.is_file():
+            try:
+                return nid, json.loads(cache_path.read_text(encoding="utf-8")), ""
+            except (OSError, json.JSONDecodeError):
+                pass
+        result = fetch_node(nid, base_url, timeout=25, attempts=2)
+        data = result.get("data")
+        if not isinstance(data, dict):
+            return nid, None, str(result.get("error") or result.get("http_status"))
+        temporary = cache_path.with_suffix(".json.tmp")
+        temporary.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+        temporary.replace(cache_path)
+        return nid, data, ""
+
+    transcripts: dict[str, dict[int, str]] = {}
+    errors: list[str] = []
+    with ThreadPoolExecutor(max_workers=min(8, max(1, len(nids)))) as executor:
+        futures = {executor.submit(fetch, nid): nid for nid in sorted(nids)}
+        for future in as_completed(futures):
+            nid, data, error = future.result()
+            if error or data is None:
+                errors.append(f"nid {nid}: {error or 'no JSON data'}")
+                continue
+            values = data.get("field_transcript_text") or []
+            clips: dict[int, str] = {}
+            for index, item in enumerate(values if isinstance(values, list) else [], start=1):
+                if not isinstance(item, dict) or not item.get("value"):
+                    continue
+                markdown = sanitize_transcript_markdown(
+                    transcript_html_to_md([
+                        {"delta": index - 1, "value": str(item["value"])}
+                    ])
+                ).strip()
+                if markdown:
+                    clips[index] = markdown
+            if clips:
+                transcripts[nid] = normalized_transcript_positions(nid, clips)
+    return transcripts, sorted(errors)
+
+
+def remove_combined_transcript(text: str) -> str:
+    """Remove the old combined Transcript section after per-clip migration."""
+    delimiter = text.find("\n---\n", 4)
+    if delimiter == -1:
+        return text
+    body_start = delimiter + len("\n---\n")
+    body = text[body_start:]
+    heading = re.search(r"(?m)^## Transcript\s*$", body)
+    if not heading:
+        return text
+    following = body[heading.end():]
+    next_heading = re.search(r"(?m)^## (?!Transcript\s*$).+$", following)
+    section_end = heading.end() + (next_heading.start() if next_heading else len(following))
+    updated_body = body[:heading.start()].rstrip()
+    suffix = body[section_end:].lstrip("\n")
+    if suffix:
+        updated_body += "\n\n" + suffix
+    updated_body = updated_body.rstrip()
+    return text[:body_start] + (updated_body + "\n" if updated_body else "")
+
+
 def replace_video_block(
     path: Path,
     clip_rows: list[dict[str, str]],
+    transcripts_by_index: dict[int, str] | None = None,
 ) -> tuple[str, list[str]]:
     if yaml is None:
         raise SystemExit(
@@ -547,7 +785,9 @@ def replace_video_block(
     metadata_text = text[4:delimiter]
     start_match = re.search(r"(?m)^videos:\s*\n", metadata_text)
     if not start_match:
-        return convert_body_videos(path, text, metadata_text, delimiter, clip_rows)
+        return convert_body_videos(
+            path, text, metadata_text, delimiter, clip_rows, transcripts_by_index
+        )
     block_start = start_match.start()
     following = metadata_text[start_match.end():]
     next_key = re.search(r"(?m)^(?=[A-Za-z_][A-Za-z0-9_-]*:\s*)", following)
@@ -579,12 +819,16 @@ def replace_video_block(
             )
         replacement: dict[str, Any] = {"youtube_id": planned["youtube_id"]}
         for key, value in video.items():
-            if key not in {"src", "youtube_id"}:
+            if key not in {"src", "youtube_id", "transcript"}:
                 replacement[key] = value
+        transcript = (transcripts_by_index or {}).get(index, "")
+        if transcript:
+            replacement["transcript"] = LiteralString(transcript)
         migrated.append(replacement)
 
-    rendered = yaml.safe_dump(
+    rendered = yaml.dump(
         {"videos": migrated},
+        Dumper=FrontMatterDumper,
         sort_keys=False,
         allow_unicode=True,
         default_flow_style=False,
@@ -593,7 +837,10 @@ def replace_video_block(
     if not rendered.endswith("\n"):
         rendered += "\n"
     updated_metadata = metadata_text[:block_start] + rendered + metadata_text[block_end:]
-    return text[:4] + updated_metadata + text[delimiter:], notes
+    updated = text[:4] + updated_metadata + text[delimiter:]
+    if transcripts_by_index:
+        updated = remove_combined_transcript(updated)
+    return updated, notes
 
 
 def convert_body_videos(
@@ -602,6 +849,7 @@ def convert_body_videos(
     metadata_text: str,
     delimiter: int,
     clip_rows: list[dict[str, str]],
+    transcripts_by_index: dict[int, str] | None = None,
 ) -> tuple[str, list[str]]:
     """Promote legacy Markdown body video links into structured front matter."""
     body_start = delimiter + len("\n---\n")
@@ -621,6 +869,12 @@ def convert_body_videos(
             for match in linked
         ]
         body = linked_pattern.sub("", body)
+        for video in extracted:
+            escaped_src = video["src"].replace("_", r"\_")
+            for variant in {video["src"], escaped_src}:
+                body = re.sub(
+                    rf"(?m)^[ \t]*{re.escape(variant)}[ \t]*$\n?", "", body
+                )
     else:
         source_match = re.search(
             r"(?m)^\s*(?P<src>\S+\.(?:mp4|m4v|mov|webm|ogv))\s*$",
@@ -663,16 +917,23 @@ def convert_body_videos(
         }
         if video["thumb"]:
             item["thumb"] = video["thumb"]
+        transcript = (transcripts_by_index or {}).get(index, "")
+        if transcript:
+            item["transcript"] = LiteralString(transcript)
         migrated.append(item)
-    rendered = yaml.safe_dump(
+    rendered = yaml.dump(
         {"videos": migrated},
+        Dumper=FrontMatterDumper,
         sort_keys=False,
         allow_unicode=True,
         default_flow_style=False,
         width=1000,
     )
     updated_metadata = metadata_text.rstrip() + "\n" + rendered
-    return "---\n" + updated_metadata + "---\n" + body, notes
+    updated = "---\n" + updated_metadata + "---\n" + body
+    if transcripts_by_index:
+        updated = remove_combined_transcript(updated)
+    return updated, notes
 
 
 def command_apply_hugo(args: argparse.Namespace) -> int:
@@ -688,12 +949,53 @@ def command_apply_hugo(args: argparse.Namespace) -> int:
     for row in plan:
         grouped.setdefault(row["hugo_content_path"], []).append(row)
 
+    transcripts = load_drupal_transcripts(args.drupal_sql) if args.drupal_sql else {}
+    transcript_fetch_errors: list[str] = []
+    if args.live_base_url:
+        if not args.transcript_cache:
+            raise SystemExit("--transcript-cache is required with --live-base-url")
+        missing_nids = {
+            rows[0]["drupal_nid"]
+            for rows in grouped.values()
+            if rows[0]["drupal_nid"] not in transcripts
+        }
+        live_transcripts, transcript_fetch_errors = load_live_transcripts(
+            missing_nids, args.live_base_url, args.transcript_cache
+        )
+        transcripts.update(live_transcripts)
+
     changes: list[tuple[Path, str, list[str]]] = []
     errors: list[str] = []
+    clips_without_transcripts: list[str] = []
+    unused_transcripts: list[str] = []
+    clips_with_transcripts = 0
     for relative_path, rows in sorted(grouped.items()):
         path = SITE_ROOT / "content" / relative_path
         try:
-            updated, notes = replace_video_block(path, rows)
+            nid = rows[0]["drupal_nid"]
+            page_transcripts = transcripts.get(nid, {})
+            planned_indexes = {int(row["clip_index"]) for row in rows}
+            clips_with_transcripts += len(planned_indexes & page_transcripts.keys())
+            clips_without_transcripts.extend(
+                f"{relative_path}#{row['clip_index']}"
+                for row in rows
+                if int(row["clip_index"]) not in page_transcripts
+            )
+            unused_transcripts.extend(
+                f"{relative_path}#{index}"
+                for index in sorted(page_transcripts.keys() - planned_indexes)
+            )
+            required_transcripts = {
+                int(row["clip_index"])
+                for row in rows
+                if row.get("transcript_present_live") == "true"
+            }
+            missing_required = sorted(required_transcripts - page_transcripts.keys())
+            if missing_required:
+                raise ValueError(
+                    f"required Drupal transcripts missing for {path}: clips {missing_required}"
+                )
+            updated, notes = replace_video_block(path, rows, page_transcripts)
             if updated != path.read_text(encoding="utf-8"):
                 changes.append((path, updated, notes))
         except (OSError, ValueError) as error:
@@ -707,6 +1009,10 @@ def command_apply_hugo(args: argparse.Namespace) -> int:
         "hugo_clips": len(plan),
         "content_files": len(grouped),
         "files_that_would_change": len(changes),
+        "clips_with_transcripts": clips_with_transcripts,
+        "clips_without_transcripts": clips_without_transcripts,
+        "unused_transcripts": unused_transcripts,
+        "transcript_fetch_errors": transcript_fetch_errors,
         "asset_alias_notes": [
             f"{path.relative_to(SITE_ROOT)}: {note}"
             for path, _, notes in changes for note in notes
@@ -721,6 +1027,61 @@ def command_apply_hugo(args: argparse.Namespace) -> int:
         temporary.write_text(updated, encoding="utf-8")
         os.replace(temporary, path)
     return 0
+
+
+def command_validate_hugo(args: argparse.Namespace) -> int:
+    """Verify the applied plan against structured Hugo video records."""
+    plan = read_csv(args.hugo_plan)
+    grouped: dict[str, list[dict[str, str]]] = {}
+    for row in plan:
+        grouped.setdefault(row["hugo_content_path"], []).append(row)
+
+    errors: list[str] = []
+    transcript_count = 0
+    for relative_path, rows in sorted(grouped.items()):
+        path = SITE_ROOT / "content" / relative_path
+        if not path.is_file():
+            errors.append(f"content file missing: {relative_path}")
+            continue
+        metadata = front_matter(path)
+        videos = metadata.get("videos") or []
+        if not isinstance(videos, list):
+            errors.append(f"videos is not a list: {relative_path}")
+            continue
+        rows.sort(key=lambda row: int(row["clip_index"]))
+        if len(videos) != len(rows):
+            errors.append(
+                f"video count mismatch: {relative_path} expected={len(rows)} actual={len(videos)}"
+            )
+            continue
+        for index, (video, row) in enumerate(zip(videos, rows), start=1):
+            if not isinstance(video, dict):
+                errors.append(f"video {index} is not an object: {relative_path}")
+                continue
+            if video.get("youtube_id") != row["youtube_id"]:
+                errors.append(
+                    f"YouTube ID mismatch: {relative_path}#{index} "
+                    f"expected={row['youtube_id']} actual={video.get('youtube_id', '')}"
+                )
+            if video.get("src"):
+                errors.append(f"obsolete local video source remains: {relative_path}#{index}")
+            if video.get("transcript"):
+                transcript_count += 1
+        text = path.read_text(encoding="utf-8")
+        if any(isinstance(video, dict) and video.get("transcript") for video in videos):
+            delimiter = text.find("\n---\n", 4)
+            body = text[delimiter + 5:] if delimiter != -1 else text
+            if re.search(r"(?m)^## Transcript\s*$", body):
+                errors.append(f"combined transcript section remains: {relative_path}")
+
+    print(json.dumps({
+        "hugo_plan": str(args.hugo_plan),
+        "content_files": len(grouped),
+        "video_records": len(plan),
+        "transcript_records": transcript_count,
+        "errors": errors,
+    }, indent=2))
+    return 1 if errors else 0
 
 
 def parser() -> argparse.ArgumentParser:
@@ -783,8 +1144,28 @@ def parser() -> argparse.ArgumentParser:
     apply_hugo.add_argument(
         "--hugo-plan", type=Path, default=DEFAULT_OUTPUT_DIR / "hugo-video-plan.csv"
     )
+    apply_hugo.add_argument(
+        "--drupal-sql", type=Path,
+        help="Drupal SQL dump used to preserve ordered per-video transcripts",
+    )
+    apply_hugo.add_argument(
+        "--live-base-url",
+        help="Current Drupal base URL used when the SQL snapshot lacks transcripts",
+    )
+    apply_hugo.add_argument(
+        "--transcript-cache", type=Path,
+        help="Local-only cache directory for live Drupal transcript JSON",
+    )
     apply_hugo.add_argument("--confirm-apply", action="store_true")
     apply_hugo.set_defaults(function=command_apply_hugo)
+
+    validate_hugo = commands.add_parser(
+        "validate-hugo", help="Verify that the applied Hugo records match the plan"
+    )
+    validate_hugo.add_argument(
+        "--hugo-plan", type=Path, default=DEFAULT_OUTPUT_DIR / "hugo-video-plan.csv"
+    )
+    validate_hugo.set_defaults(function=command_validate_hugo)
     return root
 
 

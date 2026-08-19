@@ -7,13 +7,11 @@ draft: false
 drupal_nid: 24412
 aliases:
 - /lesson-plan-reviews-intro
+videos:
+- youtube_id: 1kgQXXSMt_M
+  title: Lesson Plan Reviews Introduction
+
 ---
-
-/themes/teachinghistory/homevid/lpr\_intro.mp4
-
-video/mp4
-
- 
 
 ## Transcript
 

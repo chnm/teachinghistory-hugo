@@ -7,13 +7,11 @@ draft: false
 drupal_nid: 24409
 aliases:
 - /middle-school-intro
+videos:
+- youtube_id: axFTp_BmH5Q
+  title: Middle School Introduction
+
 ---
-
-themes/teachinghistory/homevid/middle\_intro.mp4
-
-video/mp4
-
- 
 
 ## Video Transcript
 
