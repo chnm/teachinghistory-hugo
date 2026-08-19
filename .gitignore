@@ -4,10 +4,36 @@
 CONVERSION_SUMMARY.md
 *.log
 .DS_Store
+
+# Local content-review inputs and generated reports
+/reports/
+/THist Category Review*.csv
+/THist Category Review*.xlsx
+/youtube_video_page_matches*.csv
+
+# Local link and image review outputs
+/utils/image_audit.csv
+/utils/link_inventory.csv
+/utils/link_results.csv
+/utils/link_review*.csv
+/utils/link_review*.xlsx
+/utils/link_wayback.csv
+
+# Redirect pipeline transient HTTP reports (regenerated on demand). The committed
+# inputs/outputs are: utils/node_redirects.tsv, utils/taxonomy_aliases.tsv (Drupal
+# path_alias dumps), utils/taxonomy_term_overrides.csv (aliasless term-id map),
+# utils/curated_redirects.csv (renamed-page map), utils/taxonomy_redirects.csv +
+# utils/redirect_map.csv + utils/old_urls.csv (generated, kept for auditing),
+# and static/redirects.caddy.
+utils/redirect_verify.csv
+utils/redirect_crosscheck.csv
+utils/redirect_parity.csv
 /.idea
 /.vscode
 utils/content-new/
 feedback/
+/outputs/
+/.secrets/
 
 teachinghistory-website/.hugo_build.lock
 teachinghistory-website/public

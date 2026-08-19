@@ -5,44 +5,128 @@
     {{ partial "video-player.html" (dict "videos" .Params.videos) }}
 
   Params:
-    - videos: array of {src, thumb, title}
+    - videos: array of {youtube_id, thumb, title, transcript}
+    - src is temporarily supported while the YouTube migration is incomplete
 
-  Uses vanilla JS — no frameworks. First video loads by default.
-  Clicking a thumbnail swaps the video source.
+  The first video loads by default. Clicking a thumbnail swaps the YouTube
+  embed and corresponding transcript (or a legacy source during migration)
+  without navigating away.
 */}}
 
 {{ $videos := .videos }}
 {{ if $videos }}
-{{ $id := printf "vp-%s" (delimit (slice (index $videos 0).src) "" | md5) }}
+{{ $first := index $videos 0 }}
+{{ $firstKey := $first.youtube_id | default $first.src }}
+{{ $id := printf "vp-%s" ($firstKey | md5) }}
+{{ $hasTranscripts := false }}
+{{ range $videos }}
+  {{ if .transcript }}{{ $hasTranscripts = true }}{{ end }}
+{{ end }}
 
-<div class="mb-8">
-  {{/* Video element */}}
-  <video
-    id="{{ $id }}"
-    controls
-    preload="metadata"
-    class="w-full rounded bg-black"
-    src="{{ (index $videos 0).src }}">
-    Your browser does not support the video tag.
-  </video>
+<div id="{{ $id }}" class="mb-8">
+  <div id="{{ $id }}-media" class="aspect-video w-full overflow-hidden rounded bg-black">
+    {{ with $first.youtube_id }}
+      <iframe
+        class="h-full w-full"
+        src="https://www.youtube-nocookie.com/embed/{{ . }}?rel=0"
+        title="{{ $first.title }}"
+        loading="lazy"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
+    {{ else }}
+      <video controls preload="metadata" class="h-full w-full bg-black" src="{{ $first.src }}">
+        Your browser does not support the video tag.
+      </video>
+    {{ end }}
+  </div>
 
-  {{/* Thumbnail selector */}}
   {{ if gt (len $videos) 1 }}
-  <div class="flex gap-3 mt-3 overflow-x-auto">
+  <div class="mt-3 flex gap-3 overflow-x-auto">
     {{ range $i, $v := $videos }}
+    {{ $thumb := $v.thumb }}
+    {{ if and (not $thumb) $v.youtube_id }}
+      {{ $thumb = printf "https://i.ytimg.com/vi/%s/hqdefault.jpg" $v.youtube_id }}
+    {{ end }}
     <button
       type="button"
-      class="shrink-0 text-left group"
+      class="group shrink-0 text-left"
       aria-label="Play: {{ $v.title }}"
-      onclick="document.getElementById('{{ $id }}').src='{{ $v.src }}';document.getElementById('{{ $id }}').play();this.parentElement.querySelectorAll('button').forEach(b=>b.querySelector('img').classList.remove('ring-2','ring-orange'));this.querySelector('img').classList.add('ring-2','ring-orange');">
+      data-youtube-id="{{ $v.youtube_id }}"
+      data-video-src="{{ $v.src }}"
+      data-title="{{ $v.title }}"
+      data-video-index="{{ $i }}"
+      aria-pressed="{{ if eq $i 0 }}true{{ else }}false{{ end }}"
+      onclick="window.thSelectVideo('{{ $id }}', this)">
       <img
-        src="{{ $v.thumb }}"
+        src="{{ $thumb }}"
         alt="{{ $v.title }}"
-        class="w-32 h-20 object-cover rounded{{ if eq $i 0 }} ring-2 ring-orange{{ end }}">
-      <span class="block text-xs mt-1 text-dark leading-tight">{{ $v.title }}</span>
+        class="h-20 w-32 rounded object-cover{{ if eq $i 0 }} ring-2 ring-orange{{ end }}">
+      <span class="mt-1 block text-xs leading-tight text-dark">{{ $v.title }}</span>
     </button>
     {{ end }}
   </div>
   {{ end }}
+
+  {{ if $hasTranscripts }}
+  <section class="mt-8 border-t border-gray-light pt-6" aria-live="polite">
+    <h2 class="font-heading text-xl mb-4 normal-case">Transcript</h2>
+    {{ range $i, $v := $videos }}
+    <div
+      data-video-transcript
+      data-video-index="{{ $i }}"
+      {{ if ne $i 0 }}hidden{{ end }}
+      class="font-body leading-relaxed">
+      {{ with $v.transcript }}
+        {{ . | markdownify }}
+      {{ else }}
+        <p class="text-gray-600 italic">A transcript is not available for this clip.</p>
+      {{ end }}
+    </div>
+    {{ end }}
+  </section>
+  {{ end }}
 </div>
+
+<script>
+window.thSelectVideo = window.thSelectVideo || function (playerId, button) {
+  const player = document.getElementById(playerId);
+  const media = document.getElementById(playerId + '-media');
+  if (!player || !media) return;
+
+  media.replaceChildren();
+  if (button.dataset.youtubeId) {
+    const iframe = document.createElement('iframe');
+    iframe.className = 'h-full w-full';
+    iframe.src = 'https://www.youtube-nocookie.com/embed/'
+      + encodeURIComponent(button.dataset.youtubeId) + '?autoplay=1&rel=0';
+    iframe.title = button.dataset.title || 'TeachingHistory.org video';
+    iframe.loading = 'lazy';
+    iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+    iframe.allowFullscreen = true;
+    media.appendChild(iframe);
+  } else if (button.dataset.videoSrc) {
+    const video = document.createElement('video');
+    video.className = 'h-full w-full bg-black';
+    video.controls = true;
+    video.autoplay = true;
+    video.src = button.dataset.videoSrc;
+    media.appendChild(video);
+  }
+
+  player.querySelectorAll('button[data-video-index]').forEach(function (candidate) {
+    candidate.setAttribute('aria-pressed', candidate === button ? 'true' : 'false');
+  });
+  player.querySelectorAll('button img').forEach(function (image) {
+    image.classList.remove('ring-2', 'ring-orange');
+  });
+  const selected = button.querySelector('img');
+  if (selected) selected.classList.add('ring-2', 'ring-orange');
+
+  player.querySelectorAll('[data-video-transcript]').forEach(function (transcript) {
+    transcript.hidden = transcript.dataset.videoIndex !== button.dataset.videoIndex;
+  });
+};
+</script>
 {{ end }}

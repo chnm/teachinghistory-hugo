@@ -35,7 +35,40 @@ uv run utils/link_checker.py classify         # Build the master review sheet (C
 uv run utils/link_checker.py pages            # Aggregate master sheet into a per-page review sheet
 ```
 
-Outputs CSVs in `utils/`: `link_inventory.csv`, `link_results.csv`, `link_wayback.csv`, `link_review_master.csv`, `link_review_pages.csv`. The `classify` step also writes `link_review_master.xlsx` (frozen header row + autofilter) — the human-friendly sheet for manual triage. The `pages` step writes `link_review_pages.xlsx` the same way, for bulk page-level (delete/salvage/keep) decisions. Both xlsx sheets end with a blank `decision` dropdown column where the team records their calls; the CSVs never contain decisions.
+Outputs local, git-ignored CSVs in `utils/`: `link_inventory.csv`, `link_results.csv`, `link_wayback.csv`, `link_review_master.csv`, `link_review_pages.csv`. The `classify` step also writes the local `link_review_master.xlsx` (frozen header row + autofilter) — the human-friendly sheet for manual triage. The `pages` step writes `link_review_pages.xlsx` the same way, for bulk page-level (delete/salvage/keep) decisions. Both xlsx sheets end with a blank `decision` dropdown column where the team records their calls; the CSVs never contain decisions.
+
+### Legacy URL Redirects (Drupal → Hugo → Caddy)
+
+> **Full guide: [`docs/REDIRECTS.md`](docs/REDIRECTS.md)** — design, runbook, verification, performance, CMS-agnostic reuse, and deployment. This section is the summary.
+
+Hugo serves **native** URLs (derived from file location); the **web server (Caddy)** owns all 301 redirects from old Drupal URLs. The map is deterministic and built from the Hugo content itself — no Drupal DB / LAMP artifacts required.
+
+Native URLs are clean slugs with **no** node id: content files are named `{slug}.md` (the `-{drupal_nid}` suffix was stripped by `utils/strip_nid_slugs.py`), so `/history-content/website-reviews/statistics-in-schools/`, not `.../statistics-in-schools-25863/`. The nid is kept only on the ~38 files whose slug would otherwise collide (e.g. Beyond-the-Textbook pairs), and always stays in `drupal_nid` frontmatter for provenance + `/node/{nid}` redirects.
+
+Legacy Drupal paths live in each page's `aliases:` frontmatter as **data only**. `disableAliases = true` (hugo.toml) means Hugo writes **no** alias stub HTML — Caddy is the sole redirect authority. The home page emits `/redirects.json` (via `layouts/index.redirects.json`) listing every page's native URL plus its legacy paths (the `aliases:` values **and** the synthesized `/node/{drupal_nid}` path) and the `valid_targets` (served container/term pages). That manifest is the source of truth for the pipeline.
+
+Two things frontmatter can't carry are sourced from committed dumps of Drupal's `path_alias` table and joined against the manifest:
+- **`utils/node_redirects.tsv`** (nid → alias) — the authoritative source of every `/node/{id}` redirect. `build` unions it with the frontmatter `/node/{drupal_nid}`, so a `/node/{id}` keeps working even for a node with no front-matter nid, and node coverage no longer depends on frontmatter hygiene.
+- **`utils/taxonomy_aliases.tsv`** (Drupal `/category/{vocab}/{slug}` facets) → the `taxonomy` subcommand joins it to the manifest's term URLs, producing `utils/taxonomy_redirects.csv` (exact Hugo term page where the term survives, else a verified vocabulary/section/index landing — no old facet URL 404s). It also emits the canonical `/taxonomy/term/{id}` form (aliased ids from the dump; aliasless high-traffic ids from `utils/taxonomy_term_overrides.csv`, resolved by Drupal term title). `/feed` variants are intentionally not emitted (0 traffic, would ~double the map). `reconcile` merges the CSV. ~18k taxonomy redirects.
+
+**Preserving redirects when pages merge/move:** because each redirect is derived from the surviving page's `aliases:` + `drupal_nid:`, whenever two pages become one you must move the retired page's old URLs onto the survivor — add both its path-alias **and** `/node/{its_nid}` to the survivor's `aliases:` — or those old URLs 404. `utils/finalize_btt_merge.py` does this for the Beyond-the-Textbook Part 1/Part 2 merge (each topic's two nids both redirect to the single merged page).
+
+```bash
+uv run utils/relocate_urls.py --apply                 # One-time: url: -> aliases: (idempotent)
+uv run utils/strip_nid_slugs.py --apply               # One-time: drop -{nid} from filenames (idempotent)
+uv run utils/finalize_btt_merge.py --apply            # One-time: retire BTT Part 1 drafts, keep their redirects
+just build                                             # Hugo emits public/redirects.json
+just redirects                                         # build + taxonomy + reconcile + generate
+# ...or, with no local Hugo, regenerate against the deployed manifest:
+just redirects-remote                                  # --manifest https://dev.teachinghistory.org/redirects.json
+uv run utils/redirect_mapper.py crosscheck --old-site https://teachinghistory.org  # live oracle (QA)
+uv run utils/redirect_mapper.py verify --target http://localhost:8080              # 301->200, no loops
+uv run utils/redirect_mapper.py parity --old-site https://teachinghistory.org --target http://localhost:8080  # source+target both 200
+```
+
+`redirects.caddy` is a `map {path} {redirect_target}` block imported by the `Dockerfile` Caddy config; it emits both trailing-slash variants, skips self-redirect loops, and resolves conflicts deterministically. It is generated into `teachinghistory-website/static/`, so Hugo copies it to `public/redirects.caddy` (shipping it in the build/release artifact); the container imports it from `/srv/redirects.caddy`. The `static/` copy is **committed** (CI only builds Hugo + `docker build`s it; the live-site crosscheck never runs in CI). `redirect_map.csv`, `node_redirects.tsv`, `taxonomy_aliases.tsv`, `taxonomy_term_overrides.csv`, `taxonomy_redirects.csv`, `curated_redirects.csv`, `old_urls.csv` are committed for auditing; `redirect_verify.csv`/`redirect_crosscheck.csv`/`redirect_parity.csv` are gitignored transient reports. **Note:** the taxonomy layer grows the Caddy map to ~45k keys (~0.8 ms linear-scan overhead per native request) — see `docs/REDIRECTS.md` §10 on gating the map.
+
+The pipeline is CMS-agnostic by design (pluggable map-source / identity-extractor / URL-enumerator seams in `redirect_mapper.py`), so it can be reused for other Omeka/Drupal/WordPress → Hugo migrations.
 
 ## Architecture
 
@@ -97,6 +130,7 @@ All design decisions come from `docs/DESIGN_SPEC.md`. Do not invent layout detai
 ## Related Docs
 
 - `docs/DESIGN_SPEC.md` — visual design spec, component inventory, page specifications
+- `docs/REDIRECTS.md` — legacy-URL redirect pipeline (Drupal → Hugo → Caddy): design, runbook, verification, performance, reuse
 - `AGENTS.md` — detailed tech stack, project structure, development workflow
 - `SPEC.md` — business rules, features, user flows
 - `docs/todo.md` — human-readable action items and known issues

@@ -1,10 +1,22 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "en" }}">
+<html lang="{{ .Site.Language.Locale | default "en" }}">
 <head>
+  {{/* Pagefind content-area facet. Search and error pages are excluded below. */}}
+  {{ $searchSection := "More from TeachingHistory.org" }}
+  {{ if eq .Section "teaching-materials" }}
+    {{ $searchSection = "Teaching Materials" }}
+  {{ else if eq .Section "history-content" }}
+    {{ $searchSection = "History Content" }}
+  {{ else if eq .Section "best-practices" }}
+    {{ $searchSection = "Best Practices" }}
+  {{ else if eq .Section "digital-classroom" }}
+    {{ $searchSection = "Digital Classroom" }}
+  {{ end }}
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
-  <meta name="description" content="{{ with .Params.summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="description" content="{{ with .Params.summary }}{{ . | markdownify | plainify }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
   {{/* Google Fonts — Lora (headings) + Roboto Slab (body) */}}
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -22,18 +34,28 @@
   <style>[x-cloak] { display: none !important; }</style>
   <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
 
-  {{/* Replace broken local, remote, and Markdown images with a neutral fallback. */}}
+  {{/* Replace broken local, remote, and Markdown images with a branded fallback. */}}
   <script>
     window.addEventListener('error', function (event) {
       var image = event.target;
       if (!(image instanceof HTMLImageElement) || image.dataset.fallbackApplied) return;
 
       image.dataset.fallbackApplied = 'true';
-      image.src = '/images/image-fallback.svg';
+      image.classList.add('image-fallback-logo');
+      image.src = '/images/th_logo_stacked.png';
     }, true);
   </script>
+
+  {{ block "head" . }}{{ end }}
+
+  {{ partial "matomo.html" . }}
 </head>
-<body class="min-h-screen flex flex-col font-body text-black bg-white">
+<body
+  class="min-h-screen flex flex-col font-body text-black bg-white"
+  {{ if and (ne .Layout "search") (ne .Kind "404") }}
+    data-pagefind-body
+    data-pagefind-filter="section:{{ $searchSection }}"
+  {{ end }}>
 
   {{ partial "navbar.html" . }}
 

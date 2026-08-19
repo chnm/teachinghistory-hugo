@@ -31,6 +31,7 @@ columns. A `pages` subcommand aggregates the master sheet into
 fix-links-only) for bulk page-level decisions. Full design + handoff:
 `docs/superpowers/specs/2026-07-07-link-review-triage-design.md` and
 `docs/superpowers/specs/2026-07-20-rebrand-triage-and-page-sheet-design.md`.
+These review sheets and intermediate CSVs are local, git-ignored artifacts.
 
 - [ ] **Team review + sign-off on the sheet.** Start from
   `link_review_pages.xlsx` for page-delete calls (`suggested_page_action`),
@@ -55,11 +56,8 @@ fix-links-only) for bulk page-level decisions. Full design + handoff:
 Nothing here is urgent; do not delete anything while the link review is in
 flight. Listed so we don't lose track:
 
-- [ ] **Remove orphaned link-checker CSVs from git.** `utils/link_review.csv`,
-  `utils/link_review_priority.csv`, and `utils/link_review_manual.csv` are
-  outputs of an earlier checker iteration; the current pipeline produces only
-  `link_inventory` / `link_results` / `link_wayback` / `link_review_master` /
-  `link_review_pages`. Confirm nothing references them, then `git rm`.
+- [x] **Remove link-checker outputs from git.** Current and legacy review CSVs
+  and workbooks are generated locally and ignored by git.
 - [ ] **Drop `utils/content/` from git.** 9,604 tracked files (~55 MB) of raw
   one-time Drupal conversion output, superseded by
   `teachinghistory-website/content/`. Remove once the site content is
@@ -73,10 +71,9 @@ flight. Listed so we don't lose track:
   `reprocess_content.py` (plus `CONVERSION_SUMMARY.md` / `DEVNOTES.md` and the
   conversion sections of `utils/CLAUDE.md`). Post-launch, either delete or move
   to a `utils/conversion/` subfolder so `utils/` is just the link tooling.
-- [ ] **Retire intermediate link-checker CSVs post-apply.** Once the team's
-  decisions are applied and verified, `link_inventory` / `link_results` /
-  `link_wayback` are reproducible intermediates; keep only the master/pages
-  sheets (with decisions) as the record, or archive the lot outside the repo.
+- [ ] **Archive link-review decisions post-apply.** Once the team's decisions
+  are applied and verified, archive the local master/pages sheets outside the
+  repository if they need to be retained as a project record.
 
 ## Design & Layout
 

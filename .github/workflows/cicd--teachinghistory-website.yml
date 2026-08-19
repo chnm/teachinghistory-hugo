@@ -2,34 +2,57 @@ name: "[teachinghistory-website] Build, Release, Deploy"
 
 on:
   workflow_dispatch:
+  schedule:
+    # Off the top of the hour: GitHub delays on-the-hour crons the most
+    # (11:38 UTC ≈ 7:38 a.m. EDT nominal; scheduled runs are best-effort).
+    - cron: '38 11 * * 1-5'
   push:
     branches:
       - "main"
       - "preview"
     paths:
       - "teachinghistory-website/**"
+      - ".github/workflows/cicd--teachinghistory-website.yml"
 
 jobs:
-  build-release:
-    uses: chnm/.github/.github/workflows/hugo--build-release.yml@main
+
+  # Skips the rest of the run on cron days when nothing crossed its
+  # publishDate/expiryDate. Push and workflow_dispatch always pass.
+  pre-flight:
+    uses: chnm/.github/.github/workflows/hugo--pre-flight-check.yml@main
+    permissions:
+      actions: read
+      contents: read
+    with:
+      context-root: "teachinghistory-website"
+      content-roots: "content"
+
+  hugo-build-release-deploy:
+    needs: pre-flight
+    if: needs.pre-flight.outputs.should_build == 'true'
+    uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
     secrets: inherit
     with:
-      container-registry: "ghcr.io"
-      container-image-name: "teachinghistory-website"
+      runner_labels: '["self-hosted","IncusOS"]'
       hugo-context-root: "teachinghistory-website"
+      hugo-content-path: "/srv"
       hugo-devl-url: "https://dev.teachinghistory.org"
-      hugo-prod-url: "https://dev.teachinghistory.org"
+      hugo-prod-url: "https://teachinghistory.org"
 
-      build-artifact-name: "teachinghistory-website"
       release-tag-name-type: "iso"
 
-      website-devl-fqdn: "dev.teachinghistory.org"
-      website-prod-fqdn: "dev.teachinghistory.org"
+      # build-artifact-name and tag-prefix are both intentionally unset, so
+      # this repo takes the shared defaults: the release asset is
+      # hugo-build.tar.gz, tagged "hugo-build-main-<ts>" on main and
+      # "hugo-build-devl-<ts>" on every other ref. Releases are repo-scoped and
+      # the playbook resolves the repo from the target FQDN, so nothing in the
+      # release needs to name this site.
+      #
+      # NOTE: this repo has the monorepo shape (teachinghistory-website/
+      # alongside utils/). A SECOND Hugo site here would share both the asset
+      # name and the tag family with this one, leaving nothing to tell their
+      # releases apart — set build-artifact-name and tag-prefix on both if that
+      # ever happens.
 
-  deploy:
-    uses: chnm/.github/.github/workflows/docker--deploy.yml@main
-    needs: [build-release]
-    secrets: inherit
-    with:
       website-devl-fqdn: "dev.teachinghistory.org"
-      website-prod-fqdn: "dev.teachinghistory.org"
+      website-prod-fqdn: "teachinghistory.org"

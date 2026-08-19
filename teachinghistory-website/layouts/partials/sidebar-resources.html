@@ -1,0 +1,56 @@
+{{- $page := . -}}
+{{- $resources := $page.Params.resources -}}
+{{- $attachments := $page.Params.attachments -}}
+{{- $visibleResources := slice -}}
+{{- range $resources -}}
+  {{- if ne .url $page.Params.website_url -}}
+    {{- $visibleResources = $visibleResources | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- if or $visibleResources $attachments }}
+<div class="bg-white rounded shadow-md p-5">
+  {{ with $visibleResources }}
+    <h3 class="font-heading text-lg font-bold mb-3 uppercase">Resources</h3>
+    <ul class="flex flex-col gap-3">
+      {{ range . }}
+        {{ if .url }}
+        <li>
+          <a href="{{ .url }}" class="text-sm font-semibold text-orange-ink hover:underline break-words"{{ if strings.HasPrefix .url "http" }} target="_blank" rel="noopener"{{ end }}>
+            {{ .title | default (.url | replaceRE "^https?://(www\\.)?" "" | truncate 52) }}
+          </a>
+          {{ with .description }}
+            <div class="mt-1 text-xs text-dark leading-relaxed">
+              {{ partial "render-inline-markdown.html" (dict "page" $page "value" .) }}
+            </div>
+          {{ end }}
+        </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ if and $visibleResources $attachments }}
+    <hr class="my-4 border-gray-light">
+  {{ end }}
+
+  {{ with $attachments }}
+    <h3 class="font-heading text-lg font-bold mb-3 uppercase">Downloads</h3>
+    <ul class="flex flex-col gap-3">
+      {{ range . }}
+        {{ if .url }}
+        <li>
+          <a href="{{ .url }}" class="text-sm font-semibold text-orange-ink hover:underline break-words">
+            {{ .title | default "Download file" }}
+          </a>
+          {{ with .description }}
+            <div class="mt-1 text-xs text-dark leading-relaxed">
+              {{ partial "render-inline-markdown.html" (dict "page" $page "value" .) }}
+            </div>
+          {{ end }}
+        </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  {{ end }}
+</div>
+{{- end }}

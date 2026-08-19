@@ -1,6 +1,7 @@
 ---
 title: "Privacy Policy"
-url: /privacy
+aliases:
+- /privacy
 ---
 
 ## Web Privacy Policy

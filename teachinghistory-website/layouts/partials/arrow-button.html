@@ -16,6 +16,7 @@
 
 {{ $bgClass := "bg-orange" }}
 {{ $hoverClass := "hover:bg-orange/90" }}
+{{ $textClass := "text-dark" }}
 {{ if eq $color "yellow" }}
   {{ $bgClass = "bg-yellow" }}
   {{ $hoverClass = "hover:bg-yellow/90" }}
@@ -25,9 +26,10 @@
 {{ else if eq $color "black" }}
   {{ $bgClass = "bg-black" }}
   {{ $hoverClass = "hover:bg-gray-800" }}
+  {{ $textClass = "text-white" }}
 {{ end }}
 
 <a href="{{ $href }}"
-   class="inline-flex items-center gap-1.5 {{ $bgClass }} {{ $hoverClass }} text-white text-sm font-body px-5 py-2 rounded-full transition">
+   class="inline-flex self-start items-center gap-1.5 {{ $bgClass }} {{ $hoverClass }} {{ $textClass }} text-sm font-body px-5 py-2 rounded-full transition">
   {{- $text }} &rarr;
 </a>

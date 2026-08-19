@@ -18,10 +18,13 @@
   {{ $currentSection = "about" }}
 {{ else if hasPrefix $url "/digital-classroom/" }}
   {{ $currentSection = "digital-classroom" }}
+{{ else if hasPrefix $url "/search/" }}
+  {{ $currentSection = "search" }}
 {{ end }}
 
-<nav class="h-[60px] fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-light shadow-md flex items-center px-4 md:px-6"
+<nav class="h-[60px] fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-light shadow-md flex items-center px-4 sm:px-6 lg:px-8"
      aria-label="Main navigation"
+     data-pagefind-ignore
      x-data="{ open: false }">
   <div class="flex items-center justify-between w-full max-w-7xl mx-auto">
     <a href="/" class="flex items-center shrink-0">
@@ -29,24 +32,24 @@
     </a>
 
     {{/* Desktop nav links */}}
-    <div class="hidden md:flex items-center font-body text-sm">
+    <div class="hidden lg:flex items-center font-body text-sm">
       {{ range .Site.Menus.main }}
         {{ $isActive := eq .Identifier $currentSection }}
 
         <a href="{{ .URL }}"
-           class="px-3 py-2 hover:underline {{ if $isActive }}font-bold text-orange{{ end }}"
+           class="px-3 py-2 hover:underline {{ if $isActive }}font-bold text-orange-ink{{ end }}"
            {{ if $isActive }}aria-current="true"{{ end }}>
           {{- .Name -}}
         </a>
 
-        {{ if not (eq .Identifier "digital-classroom") }}
+        {{ if not (eq .Identifier "search") }}
           <span class="text-gray-light select-none" aria-hidden="true">|</span>
         {{ end }}
       {{ end }}
     </div>
 
     {{/* Mobile hamburger button */}}
-    <button class="md:hidden flex items-center justify-center w-10 h-10"
+    <button class="lg:hidden flex items-center justify-center w-10 h-10"
             @click="open = !open"
             :aria-expanded="open"
             aria-label="Toggle navigation menu">
@@ -68,12 +71,12 @@
        x-transition:leave="transition ease-in duration-150"
        x-transition:leave-start="opacity-100 translate-y-0"
        x-transition:leave-end="opacity-0 -translate-y-2"
-       class="md:hidden absolute top-[60px] left-0 right-0 bg-white border-b border-gray-light shadow-lg">
+       class="lg:hidden absolute top-[60px] left-0 right-0 bg-white border-b border-gray-light shadow-lg">
     <div class="flex flex-col font-body text-sm py-2">
       {{ range .Site.Menus.main }}
         {{ $isActive := eq .Identifier $currentSection }}
         <a href="{{ .URL }}"
-           class="px-6 py-3 hover:bg-gray-50 {{ if $isActive }}font-bold text-orange{{ end }}"
+           class="px-6 py-3 hover:bg-gray-50 {{ if $isActive }}font-bold text-orange-ink{{ end }}"
            {{ if $isActive }}aria-current="true"{{ end }}>
           {{- .Name -}}
         </a>

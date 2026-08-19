@@ -28,10 +28,12 @@ Usage:
 """
 
 import argparse
+import csv
 import re
 import sys
 import time
 import urllib.parse
+import unicodedata
 from pathlib import Path
 from collections import defaultdict
 
@@ -51,6 +53,9 @@ FID_KEYS = ("splash_image_fid", "thumbnail_fid", "image_fid", "author_image_fid"
 
 # Image extensions we care about
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".svg", ".webp", ".bmp", ".ico"}
+
+# Frontmatter keys used by Hugo templates, in display priority order.
+IMAGE_KEYS = ("splash_image", "image", "thumbnail")
 
 
 # ── SQL parsing ─────────────────────────────────────────────────────────
@@ -106,11 +111,15 @@ def parse_frontmatter(text):
     """Split Hugo markdown into (frontmatter_dict, body_str)."""
     if not text.startswith("---"):
         return {}, text
-    end = text.find("---", 3)
-    if end == -1:
+    match = re.match(
+        r"\A---[ \t]*\r?\n(?P<yaml>.*?)(?:\r?\n)---[ \t]*(?:\r?\n|\Z)",
+        text,
+        flags=re.DOTALL,
+    )
+    if not match:
         return {}, text
-    fm_text = text[3:end].strip()
-    body = text[end + 3:]
+    fm_text = match.group('yaml').strip()
+    body = text[match.end():]
     try:
         fm = yaml.safe_load(fm_text) or {}
     except yaml.YAMLError:
@@ -118,8 +127,19 @@ def parse_frontmatter(text):
     return fm, body
 
 
-# Regex for markdown images: ![alt](url)
-MD_IMAGE_RE = re.compile(r"!\[[^\]]*\]\(([^)\s]+)\)")
+# Markdown images. The legacy conversion created some unescaped destinations
+# containing spaces, so accept both valid angle-bracket destinations and the
+# malformed-but-recoverable form through the closing parenthesis.
+MD_IMAGE_RE = re.compile(
+    r"!\[[^\]]*\]\(\s*"
+    r"(?:<(?P<angle>[^>]+)>|(?P<plain>[^)\n]*?))"
+    r"(?:\s+(?:\"[^\"]*\"|'[^']*'))?\s*\)"
+)
+
+
+def markdown_image_url(match):
+    """Return the destination captured by ``MD_IMAGE_RE``."""
+    return (match.group('angle') or match.group('plain') or '').strip()
 
 
 def scan_content(content_dir):
@@ -152,7 +172,7 @@ def scan_content(content_dir):
 
         # Inline markdown images
         for m in MD_IMAGE_RE.finditer(body):
-            url = m.group(1)
+            url = markdown_image_url(m)
             # Skip external images (Creative Commons badges, etc.)
             if url.startswith("http") and "teachinghistory.org" not in url:
                 continue
@@ -179,7 +199,9 @@ def normalize_url(url):
         # External URL, skip
         return None, None
     else:
-        path = url
+        # Parse local URLs too so cache-busting query strings do not become
+        # part of the downloaded filename.
+        path = urllib.parse.urlparse(url).path
 
     # Normalize the path
     # /sites/default/files/foo.jpg  →  files/foo.jpg
@@ -190,6 +212,8 @@ def normalize_url(url):
 
     if path.startswith("/sites/default/files/"):
         rel = path[len("/sites/default/files/"):]
+    elif path.startswith("/files//files/"):
+        rel = path[len("/files//files/"):]
     elif path.startswith("/files/"):
         rel = path[len("/files/"):]
     elif path.startswith("/system/files/"):
@@ -199,7 +223,10 @@ def normalize_url(url):
         rel = path.lstrip("/")
 
     # URL-decode the path
-    rel = urllib.parse.unquote(rel)
+    rel = urllib.parse.unquote(rel).lstrip('/')
+    # Repair cache-busting queries that an older rewrite encoded as part of
+    # the path (for example image.jpg%3F1301077376).
+    rel = re.sub(r'\?\d+$', '', rel)
 
     download_url = f"{SITE_BASE}/sites/default/files/{urllib.parse.quote(rel, safe='/')}"
     local_rel = rel
@@ -244,10 +271,10 @@ def rewrite_inline_paths(inline_refs, url_map):
         local_rel = url_map.get(old_url)
         if local_rel is None:
             continue
-        new_url = f"/files/{local_rel}"
+        new_url = f"/files/{urllib.parse.quote(local_rel, safe='/')}"
         if old_url != new_url:
             for fpath in file_set:
-                file_rewrites[fpath].append((old_url, new_url))
+                file_rewrites[fpath].append((old_url, local_rel))
 
     rewritten_count = 0
     for fpath, replacements in file_rewrites.items():
@@ -256,9 +283,17 @@ def rewrite_inline_paths(inline_refs, url_map):
         except Exception:
             continue
 
-        modified = text
-        for old_url, new_url in replacements:
-            modified = modified.replace(f"]({old_url})", f"]({new_url})")
+        replacements_by_url = dict(replacements)
+
+        def replace_destination(match):
+            old_url = markdown_image_url(match)
+            local_rel = replacements_by_url.get(old_url)
+            if local_rel is None:
+                return match.group(0)
+            new_url = f"/files/{urllib.parse.quote(local_rel, safe='/')}"
+            return match.group(0).replace(old_url, new_url, 1)
+
+        modified = MD_IMAGE_RE.sub(replace_destination, text)
 
         if modified != text:
             Path(fpath).write_text(modified, encoding="utf-8")
@@ -310,6 +345,189 @@ def rewrite_fid_frontmatter(fid_refs, fid_map):
     return files_changed
 
 
+# ── Auditing ────────────────────────────────────────────────────────────
+
+def _normalized_path(value):
+    return unicodedata.normalize('NFC', value).casefold()
+
+
+def _local_static_path(url, static_dir):
+    """Resolve a local image URL under ``static_dir`` or return ``None``."""
+    if not url or url.startswith(('http://', 'https://', '//', 'data:')):
+        return None
+    parsed = urllib.parse.urlparse(url)
+    path = urllib.parse.unquote(parsed.path).lstrip('/')
+    return Path(static_dir) / path
+
+
+def _asset_status(url, static_dir, case_index):
+    """Return ``(status, resolved_path)`` for an image URL."""
+    local_path = _local_static_path(url, static_dir)
+    if local_path is None:
+        return 'external', ''
+    relative = str(local_path.relative_to(static_dir))
+    case_match = case_index.get(_normalized_path(relative))
+    # Case-insensitive development filesystems can report a path as existing
+    # even when its spelling would fail on the Linux deployment filesystem.
+    if local_path.is_file():
+        if case_match and relative != case_match:
+            return 'case_mismatch', str(Path(static_dir) / case_match)
+        return 'ok', str(local_path)
+
+    if case_match:
+        return 'case_mismatch', str(Path(static_dir) / case_match)
+    return 'missing', str(local_path)
+
+
+def audit_content_images(content_dir, static_dir, fid_map=None):
+    """Audit card, author, and inline image references across Hugo content.
+
+    The returned rows include every page that will use the card fallback plus
+    every explicit image reference. This makes the report both a broken-asset
+    audit and a review queue for genuinely image-less pages.
+    """
+    fid_map = fid_map or {}
+    static_dir = Path(static_dir)
+    case_index = {
+        _normalized_path(str(path.relative_to(static_dir))):
+            str(path.relative_to(static_dir))
+        for path in static_dir.rglob('*') if path.is_file()
+    }
+    rows = []
+
+    for md_file in sorted(Path(content_dir).rglob('*.md')):
+        try:
+            text = md_file.read_text(encoding='utf-8')
+        except OSError:
+            continue
+        frontmatter, body = parse_frontmatter(text)
+        if not frontmatter or md_file.name == '_index.md':
+            continue
+
+        common = {
+            'page': str(md_file),
+            'drupal_nid': frontmatter.get('drupal_nid', ''),
+            'title': frontmatter.get('title', ''),
+        }
+
+        card_key = next((key for key in IMAGE_KEYS if frontmatter.get(key)), '')
+        card_url = frontmatter.get(card_key, '') if card_key else ''
+        if not card_url:
+            for key in IMAGE_KEYS:
+                fid = frontmatter.get(f'{key}_fid')
+                try:
+                    relative = fid_map.get(int(fid))
+                except (TypeError, ValueError):
+                    relative = None
+                if relative:
+                    card_key = f'{key}_fid'
+                    card_url = f"/files/{urllib.parse.quote(relative, safe='/')}"
+                    break
+
+        if card_url:
+            status, resolved = _asset_status(card_url, static_dir, case_index)
+            if status == 'missing' and card_key in IMAGE_KEYS:
+                fid = frontmatter.get(f'{card_key}_fid')
+                try:
+                    fid_relative = fid_map.get(int(fid))
+                except (TypeError, ValueError):
+                    fid_relative = None
+                if fid_relative:
+                    fid_url = (
+                        f"/files/{urllib.parse.quote(fid_relative, safe='/')}"
+                    )
+                    fid_status, fid_path = _asset_status(
+                        fid_url, static_dir, case_index
+                    )
+                    if fid_status in {'ok', 'case_mismatch'}:
+                        status, resolved = 'fid_recoverable', fid_path
+            rows.append({**common, 'usage': 'card', 'field': card_key,
+                         'source': card_url, 'status': status,
+                         'resolved_path': resolved})
+        else:
+            rows.append({**common, 'usage': 'card', 'field': '', 'source': '',
+                         'status': 'fallback_no_image', 'resolved_path': ''})
+
+        author_url = frontmatter.get('author_image')
+        if author_url:
+            status, resolved = _asset_status(author_url, static_dir, case_index)
+            if status == 'missing':
+                fid = frontmatter.get('author_image_fid')
+                try:
+                    fid_relative = fid_map.get(int(fid))
+                except (TypeError, ValueError):
+                    fid_relative = None
+                if fid_relative:
+                    fid_url = (
+                        f"/files/{urllib.parse.quote(fid_relative, safe='/')}"
+                    )
+                    fid_status, fid_path = _asset_status(
+                        fid_url, static_dir, case_index
+                    )
+                    if fid_status in {'ok', 'case_mismatch'}:
+                        status, resolved = 'fid_recoverable', fid_path
+            rows.append({**common, 'usage': 'author', 'field': 'author_image',
+                         'source': author_url, 'status': status,
+                         'resolved_path': resolved})
+
+        for match in MD_IMAGE_RE.finditer(body):
+            url = markdown_image_url(match)
+            status, resolved = _asset_status(url, static_dir, case_index)
+            rows.append({**common, 'usage': 'inline', 'field': 'body',
+                         'source': url, 'status': status,
+                         'resolved_path': resolved})
+
+    return rows
+
+
+def write_audit_report(rows, report_path):
+    """Write image audit rows as CSV and return per-status counts."""
+    fieldnames = [
+        'page', 'drupal_nid', 'title', 'usage', 'field', 'source', 'status',
+        'resolved_path',
+    ]
+    report_path = Path(report_path)
+    report_path.parent.mkdir(parents=True, exist_ok=True)
+    with report_path.open('w', encoding='utf-8', newline='') as handle:
+        writer = csv.DictWriter(handle, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+    counts = defaultdict(int)
+    for row in rows:
+        counts[row['status']] += 1
+    return dict(counts)
+
+
+def rewrite_audit_paths(rows, static_dir):
+    """Rewrite audit-confirmed case mismatches and recoverable FID paths."""
+    static_dir = Path(static_dir)
+    by_page = defaultdict(dict)
+    for row in rows:
+        if (row.get('status') not in {'case_mismatch', 'fid_recoverable'}
+                or not row.get('source')):
+            continue
+        resolved = Path(row['resolved_path'])
+        try:
+            relative = resolved.relative_to(static_dir)
+        except ValueError:
+            continue
+        corrected = '/' + urllib.parse.quote(str(relative), safe='/')
+        by_page[row['page']][row['source']] = corrected
+
+    changed = 0
+    for page, replacements in by_page.items():
+        path = Path(page)
+        text = path.read_text(encoding='utf-8')
+        updated = text
+        for old, new in replacements.items():
+            updated = updated.replace(old, new)
+        if updated != text:
+            path.write_text(updated, encoding='utf-8')
+            changed += 1
+    return changed
+
+
 # ── Main ────────────────────────────────────────────────────────────────
 
 def main():
@@ -327,6 +545,8 @@ def main():
                         help="Show what would be downloaded without downloading")
     parser.add_argument("--delay", type=float, default=0.1,
                         help="Delay between downloads in seconds (default 0.1)")
+    parser.add_argument("--audit-report",
+                        help="Write a CSV audit of card, author, and inline images")
     args = parser.parse_args()
 
     static_files = Path(args.static) / "files"
@@ -434,6 +654,18 @@ def main():
         print("Adding resolved image paths to frontmatter...")
         count = rewrite_fid_frontmatter(fid_refs, fid_map)
         print(f"  Updated frontmatter in {count:,} files")
+
+    if args.audit_report:
+        print(f"\nWriting image audit to {args.audit_report}...")
+        rows = audit_content_images(args.content, args.static, fid_map)
+        if args.rewrite and not args.dry_run:
+            count = rewrite_audit_paths(rows, args.static)
+            print(f"  Corrected audited paths in {count:,} files")
+            if count:
+                rows = audit_content_images(args.content, args.static, fid_map)
+        counts = write_audit_report(rows, args.audit_report)
+        for status, count in sorted(counts.items()):
+            print(f"  {status}: {count:,}")
 
     print("\nDone!")
 

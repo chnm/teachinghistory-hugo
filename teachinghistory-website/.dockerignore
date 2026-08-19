@@ -1,0 +1,8 @@
+# Build artifacts and deps regenerated inside the image (hugo build + npm ci).
+# Keeps the Docker build context small (static/ + content/ + layouts/ only).
+public/
+resources/
+node_modules/
+.hugo_build.lock
+hugo_stats.json
+.DS_Store

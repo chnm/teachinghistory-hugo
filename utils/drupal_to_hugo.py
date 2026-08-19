@@ -14,6 +14,8 @@ from datetime import datetime
 from pathlib import Path
 import unicodedata
 from collections import defaultdict
+import csv
+from urllib.parse import quote, unquote, urlparse
 
 try:
     from markdownify import markdownify as md
@@ -41,6 +43,8 @@ TEXT_FIELD_TABLES = {
     'node__field_html':               'field_html',
     'node__field_page_body':          'field_page_body',
     'node__field_essay':              'field_essay',
+    'node__field_directions':         'field_directions',
+    'node__field_exemplary_practices': 'field_exemplary_practices',
 
     # Description / abstract / overview / glance
     'node__field_description':        'field_description',
@@ -94,11 +98,31 @@ METADATA_FIELD_TABLES = {
     'node__field_topic':              'topic',
     'node__field_keywords':           'keywords',
     'node__field_quiz_id':            'quiz_id',
-    'node__field_website':            'website_url',
     'node__field_date_published':     'date_published',
     'node__field_target_audience':    'target_audience',
     'node__field_thinking_focus':     'thinking_focus',
     'node__field_series_name':        'series_name',
+    'node__field_producer':           'producer',
+}
+
+# Link fields preserve Drupal's delta, title, and URI instead of flattening a
+# multi-value field into one scalar. The first singular website remains
+# available as website_url for backwards-compatible Hugo templates.
+LINK_FIELD_TABLES = {
+    'node__field_website':            'website_links',
+    'node__field_websites':           'resources',
+    'node__field_series_url':         'resources',
+}
+
+# Drupal 7's legacy upload field and the newer file field share the same
+# target/display/description shape.
+FILE_FIELD_TABLES = {
+    'node__upload':                   'attachments',
+    'node__field_file_attachments':   'attachments',
+}
+
+REFERENCE_FIELD_TABLES = {
+    'node__vetted_lesson_plan_characteristi': 'features',
 }
 
 # Image fields — value is a Drupal file entity ID (integer)
@@ -110,7 +134,14 @@ IMAGE_FIELD_TABLES = {
 }
 
 # Combine all tracked tables for detection
-ALL_FIELD_TABLES = set(TEXT_FIELD_TABLES) | set(METADATA_FIELD_TABLES) | set(IMAGE_FIELD_TABLES)
+ALL_FIELD_TABLES = (
+    set(TEXT_FIELD_TABLES)
+    | set(METADATA_FIELD_TABLES)
+    | set(IMAGE_FIELD_TABLES)
+    | set(LINK_FIELD_TABLES)
+    | set(FILE_FIELD_TABLES)
+    | set(REFERENCE_FIELD_TABLES)
+)
 
 # Taxonomy vocabularies to include in Hugo frontmatter
 # Maps Drupal vocabulary machine name → Hugo frontmatter key
@@ -302,6 +333,24 @@ def parse_text_field_insert(lines, fields, field_key):
                 if val:
                     if nid not in fields:
                         fields[nid] = {}
+                    if field_key == 'field_transcript_text':
+                        try:
+                            delta = int(parse_field_value(row[5]) or 0)
+                        except (ValueError, TypeError):
+                            delta = 0
+
+                        items = fields[nid].setdefault(
+                            'field_transcript_text_items', []
+                        )
+                        transcript_item = {'delta': delta, 'value': val}
+                        for index, item in enumerate(items):
+                            if item['delta'] == delta:
+                                items[index] = transcript_item
+                                break
+                        else:
+                            items.append(transcript_item)
+                        items.sort(key=lambda item: item['delta'])
+
                     # Some fields can have multiple deltas (e.g. images).
                     # For text fields we take the first (delta=0) or concatenate.
                     existing = fields[nid].get(field_key)
@@ -311,6 +360,189 @@ def parse_text_field_insert(lines, fields, field_key):
                         fields[nid][field_key] = val
             except (ValueError, IndexError, TypeError):
                 continue
+
+
+def parse_link_field_insert(lines, fields, field_key, table_name):
+    """Parse a Drupal Link field while preserving label and source order."""
+    rows = _extract_values(lines)
+    print(f"    Found {len(rows)} {field_key} link rows")
+    for row in rows:
+        if len(row) < 7:
+            continue
+        try:
+            nid = int(parse_field_value(row[2]))
+            delta = int(parse_field_value(row[5]) or 0)
+        except (ValueError, IndexError, TypeError):
+            continue
+
+        uri = parse_field_value(row[6])
+        if not uri:
+            continue
+        title = parse_field_value(row[7]) if len(row) > 7 else None
+        record = {'delta': delta, 'url': uri}
+        if title:
+            record['title'] = title
+
+        node_fields = fields.setdefault(nid, {})
+        node_fields.setdefault(field_key, []).append(record)
+        if table_name == 'node__field_website' and not node_fields.get('website_url'):
+            node_fields['website_url'] = uri
+
+
+def parse_file_field_insert(lines, fields, field_key):
+    """Parse file entity references for resolution after file_managed loads."""
+    rows = _extract_values(lines)
+    print(f"    Found {len(rows)} {field_key} file rows")
+    for row in rows:
+        if len(row) < 7:
+            continue
+        try:
+            nid = int(parse_field_value(row[2]))
+            delta = int(parse_field_value(row[5]) or 0)
+            fid = int(parse_field_value(row[6]))
+        except (ValueError, IndexError, TypeError):
+            continue
+
+        display = parse_field_value(row[7]) if len(row) > 7 else '1'
+        description = parse_field_value(row[8]) if len(row) > 8 else None
+        record = {'delta': delta, 'fid': fid, 'display': display != '0'}
+        if description:
+            record['description'] = description
+        fields.setdefault(nid, {}).setdefault(field_key, []).append(record)
+
+
+def parse_file_managed_insert(lines, managed_files):
+    """Index Drupal file entities by fid."""
+    rows = _extract_values(lines)
+    print(f"    Found {len(rows)} managed file rows")
+    for row in rows:
+        if len(row) < 6:
+            continue
+        try:
+            fid = int(parse_field_value(row[0]))
+        except (ValueError, IndexError, TypeError):
+            continue
+        managed_files[fid] = {
+            'filename': parse_field_value(row[2]),
+            'uri': parse_field_value(row[3]),
+            'mime_type': parse_field_value(row[4]),
+            'size': int(parse_field_value(row[5]) or 0),
+        }
+
+
+def parse_reference_field_insert(lines, fields, field_key):
+    """Parse ordered entity references for later label resolution."""
+    rows = _extract_values(lines)
+    print(f"    Found {len(rows)} {field_key} reference rows")
+    for row in rows:
+        if len(row) < 7:
+            continue
+        try:
+            nid = int(parse_field_value(row[2]))
+            delta = int(parse_field_value(row[5]) or 0)
+            target_id = int(parse_field_value(row[6]))
+        except (ValueError, IndexError, TypeError):
+            continue
+        fields.setdefault(nid, {}).setdefault(field_key, []).append({
+            'delta': delta,
+            'target_id': target_id,
+        })
+
+
+def public_file_url(uri):
+    """Convert a Drupal public stream URI to its public site path."""
+    if not uri:
+        return ''
+    if uri.startswith('public://'):
+        path = '/sites/default/files/' + uri.removeprefix('public://').lstrip('/')
+        return 'https://teachinghistory.org' + quote(path, safe='/')
+    return uri
+
+
+def resolve_attachments(fields, managed_files):
+    """Resolve attachment fids and preserve label, order, and file metadata."""
+    for node_fields in fields.values():
+        refs = node_fields.get('attachments', [])
+        resolved = []
+        for ref in sorted(refs, key=lambda item: item['delta']):
+            if not ref.get('display', True):
+                continue
+            managed = managed_files.get(ref['fid'])
+            if not managed:
+                ref['missing'] = True
+                resolved.append(ref)
+                continue
+            title = ref.get('description') or managed.get('filename') or f"File {ref['fid']}"
+            resolved.append({
+                'delta': ref['delta'],
+                'title': title,
+                'url': public_file_url(managed.get('uri')),
+                'mime_type': managed.get('mime_type'),
+                'size': managed.get('size'),
+            })
+        if resolved:
+            node_fields['attachments'] = resolved
+        else:
+            node_fields.pop('attachments', None)
+
+        for key in ('website_links', 'resources'):
+            links = node_fields.get(key, [])
+            if links:
+                node_fields[key] = sorted(links, key=lambda item: item['delta'])
+
+
+def resolve_references(fields, taxonomy_terms):
+    """Resolve ordered term references into human-readable frontmatter lists."""
+    for node_fields in fields.values():
+        for field_key in REFERENCE_FIELD_TABLES.values():
+            refs = node_fields.get(field_key, [])
+            if not refs:
+                continue
+            labels = []
+            for ref in sorted(refs, key=lambda item: item['delta']):
+                term = taxonomy_terms.get(ref['target_id'])
+                if term and term.get('name'):
+                    labels.append(term['name'])
+            if labels:
+                node_fields[field_key] = labels
+            else:
+                node_fields.pop(field_key, None)
+
+
+def audit_structured_fields(nodes, fields, report_path):
+    """Write a deterministic CSV inventory of invalid links and file references."""
+    rows = []
+    for nid, node_fields in sorted(fields.items()):
+        for kind in ('website_links', 'resources', 'attachments'):
+            for item in node_fields.get(kind, []):
+                url = item.get('url', '')
+                reason = ''
+                if item.get('missing'):
+                    reason = f"unresolved file id {item.get('fid')}"
+                elif not url:
+                    reason = 'missing URL'
+                elif not re.match(r'^(https?://|/|mailto:)', url):
+                    reason = 'unsupported URI scheme'
+                if reason:
+                    rows.append({
+                        'nid': nid,
+                        'content_type': nodes.get(nid, {}).get('type', ''),
+                        'kind': kind,
+                        'delta': item.get('delta', ''),
+                        'title': item.get('title') or item.get('description') or '',
+                        'url': url,
+                        'reason': reason,
+                    })
+
+    report = Path(report_path)
+    report.parent.mkdir(parents=True, exist_ok=True)
+    with report.open('w', encoding='utf-8', newline='') as handle:
+        writer = csv.DictWriter(handle, fieldnames=[
+            'nid', 'content_type', 'kind', 'delta', 'title', 'url', 'reason'
+        ])
+        writer.writeheader()
+        writer.writerows(rows)
+    print(f"\n✓ Wrote {len(rows):,} invalid resource rows to {report}")
 
 
 def parse_path_alias_insert(lines, paths):
@@ -379,13 +611,16 @@ def _detect_table(line):
     """Detect which tracked table an INSERT INTO line targets.
 
     Returns a (category, table_name) tuple or None.
-    Categories: 'nodes', 'body', 'path', 'text_field', 'meta_field', 'image_field'
+    Categories include nodes, body, path, managed files, and Drupal field types.
     """
     if not line.startswith('INSERT INTO'):
         return None
 
     if 'node_field_data' in line:
         return ('nodes', 'node_field_data')
+
+    if '`file_managed`' in line:
+        return ('managed_files', 'file_managed')
 
     # node__body but NOT node__field_body
     if '`node__body`' in line:
@@ -410,12 +645,19 @@ def _detect_table(line):
                 return ('meta_field', table_name)
             elif table_name in IMAGE_FIELD_TABLES:
                 return ('image_field', table_name)
+            elif table_name in LINK_FIELD_TABLES:
+                return ('link_field', table_name)
+            elif table_name in FILE_FIELD_TABLES:
+                return ('file_field', table_name)
+            elif table_name in REFERENCE_FIELD_TABLES:
+                return ('reference_field', table_name)
 
     return None
 
 
 def _flush_buffer(category, table_name, buffer, nodes, fields, paths,
-                   taxonomy_terms=None, taxonomy_index=None):
+                   taxonomy_terms=None, taxonomy_index=None,
+                   managed_files=None):
     """Process a completed INSERT buffer."""
     if not buffer:
         return
@@ -429,6 +671,8 @@ def _flush_buffer(category, table_name, buffer, nodes, fields, paths,
         parse_body_insert(buffer, fields)
     elif category == 'path':
         parse_path_alias_insert(buffer, paths)
+    elif category == 'managed_files' and managed_files is not None:
+        parse_file_managed_insert(buffer, managed_files)
     elif category == 'text_field':
         field_key = TEXT_FIELD_TABLES[table_name]
         parse_text_field_insert(buffer, fields, field_key)
@@ -436,6 +680,16 @@ def _flush_buffer(category, table_name, buffer, nodes, fields, paths,
         mapping = METADATA_FIELD_TABLES if category == 'meta_field' else IMAGE_FIELD_TABLES
         field_key = mapping[table_name]
         parse_text_field_insert(buffer, fields, field_key)
+    elif category == 'link_field':
+        parse_link_field_insert(
+            buffer, fields, LINK_FIELD_TABLES[table_name], table_name
+        )
+    elif category == 'file_field':
+        parse_file_field_insert(buffer, fields, FILE_FIELD_TABLES[table_name])
+    elif category == 'reference_field':
+        parse_reference_field_insert(
+            buffer, fields, REFERENCE_FIELD_TABLES[table_name]
+        )
     elif category == 'taxonomy_terms' and taxonomy_terms is not None:
         parse_taxonomy_term_field_data(buffer, taxonomy_terms)
     elif category == 'taxonomy_index' and taxonomy_index is not None:
@@ -453,6 +707,7 @@ def parse_sql_file(sql_path):
     paths = {}
     taxonomy_terms = {}   # tid -> {'name': ..., 'vid': ...}
     taxonomy_index = {}   # nid -> [tid, ...]
+    managed_files = {}    # fid -> file metadata
 
     current_category = None
     current_table = None
@@ -472,7 +727,7 @@ def parse_sql_file(sql_path):
                 if current_table and buffer:
                     _flush_buffer(current_category, current_table, buffer,
                                   nodes, fields, paths,
-                                  taxonomy_terms, taxonomy_index)
+                                  taxonomy_terms, taxonomy_index, managed_files)
 
                 current_category, current_table = detected
                 buffer = [line]
@@ -484,7 +739,7 @@ def parse_sql_file(sql_path):
                 if line.rstrip().endswith(';'):
                     _flush_buffer(current_category, current_table, buffer,
                                   nodes, fields, paths,
-                                  taxonomy_terms, taxonomy_index)
+                                  taxonomy_terms, taxonomy_index, managed_files)
                     current_table = None
                     current_category = None
                     buffer = []
@@ -493,7 +748,10 @@ def parse_sql_file(sql_path):
     if current_table and buffer:
         _flush_buffer(current_category, current_table, buffer,
                       nodes, fields, paths,
-                      taxonomy_terms, taxonomy_index)
+                      taxonomy_terms, taxonomy_index, managed_files)
+
+    resolve_attachments(fields, managed_files)
+    resolve_references(fields, taxonomy_terms)
 
     # Count how many nodes have at least one field
     nodes_with_fields = sum(1 for nid in nodes if nid in fields)
@@ -513,6 +771,30 @@ def parse_sql_file(sql_path):
 
 PULLQUOTE_START = 'XPULLQUOTESTARTX'
 PULLQUOTE_END = 'XPULLQUOTEENDX'
+
+
+def localize_drupal_image_url(url):
+    """Map a legacy Drupal image URL to its encoded Hugo static path."""
+    if not url:
+        return url
+
+    parsed = urlparse(url)
+    if parsed.scheme and parsed.netloc not in {
+        'teachinghistory.org', 'www.teachinghistory.org',
+    }:
+        return url
+
+    path = parsed.path if parsed.scheme or parsed.netloc else url
+    if path.startswith('/sites/default/files/'):
+        relative = path[len('/sites/default/files/'):]
+    elif path.startswith('/files/'):
+        relative = path[len('/files/'):]
+    elif path.startswith('/system/files/'):
+        relative = path[len('/system/files/'):]
+    else:
+        return url
+
+    return f"/files/{quote(unquote(relative), safe='/')}"
 
 
 def apply_filter_autop(text):
@@ -594,6 +876,12 @@ def preprocess_html(html_content):
                 blockquote.string = div.get_text()
                 div.replace_with(blockquote)
 
+        # Drupal body fields keep embedded file images as absolute or
+        # /sites/default/files URLs. Point them at Hugo's static directory and
+        # retain URL encoding so Markdown destinations with spaces stay valid.
+        for image in soup.find_all('img', src=True):
+            image['src'] = localize_drupal_image_url(image.get('src'))
+
         if soup.body:
             return ''.join(str(tag) for tag in soup.body.children)
         else:
@@ -623,6 +911,54 @@ def html_to_md(html):
     return result
 
 
+SPEAKER_LABEL = (
+    r'(?:\*\*[^*\n]{1,100}:\*\*|'
+    r'\*(?:\[[^*\n]{1,100}:\]|[^*\n]{1,100}:)\*)'
+)
+SPEAKER_TURN_RE = re.compile(rf'\s*({SPEAKER_LABEL})')
+SPEAKER_LABEL_RE = re.compile(SPEAKER_LABEL)
+
+
+def transcript_html_to_md(transcript_items):
+    """Convert ordered Drupal transcript values to readable Markdown.
+
+    Transcript fields are multi-value: each delta corresponds to a video
+    segment. Some values use blank-line-separated inline HTML while others
+    wrap an entire segment in one ``<p>``. Converting each delta separately
+    preserves Drupal's paragraph filtering, then speaker labels are promoted
+    to paragraph boundaries so a whole segment cannot collapse into one line.
+    """
+    if not transcript_items:
+        return ''
+
+    if isinstance(transcript_items, str):
+        values = [transcript_items]
+    else:
+        values = [
+            item.get('value', '') if isinstance(item, dict) else str(item)
+            for item in sorted(
+                transcript_items,
+                key=lambda item: item.get('delta', 0)
+                if isinstance(item, dict) else 0,
+            )
+        ]
+
+    sections = []
+    for value in values:
+        markdown = html_to_md(value).strip()
+        if not markdown:
+            continue
+        markdown = SPEAKER_TURN_RE.sub(r'\n\n\1', markdown).strip()
+        # Markdownify represents <br> as two trailing spaces. Preserve the
+        # hard break with backslash syntax so generated files pass diff checks.
+        markdown = re.sub(r' {2,}\n', r'\\\n', markdown)
+        markdown = re.sub(r' +\n', '\n', markdown)
+        markdown = re.sub(r'\n{3,}', '\n\n', markdown)
+        sections.append(markdown)
+
+    return '\n\n'.join(sections)
+
+
 # ---------------------------------------------------------------------------
 # Body composition — picks the right fields for each content type
 # ---------------------------------------------------------------------------
@@ -631,20 +967,19 @@ def html_to_md(html):
 # per content type.  First non-empty match wins.
 BODY_FIELD_PRIORITY = {
     'beyond_the_chalkboard': [
-        'field_html', 'field_transcript_text', 'field_body',
-        'field_learn_more_text',
+        'field_html', 'field_transcript_text', 'field_body', 'body',
     ],
     'beyond_the_textbook': [
         'field_body',  # part-2 had field_body
     ],
     'research_tool': [
-        'field_glance', 'field_learn_more_text', 'field_body',
+        'field_description', 'field_body', 'body',
     ],
     'website': [
         'field_abstract', 'field_teaser_text', 'field_body',
     ],
     'english_language_learners': [
-        'field_body', 'field_learn_more_text',
+        'field_body', 'body',
     ],
     'ex_of_historical_thinking': [
         'field_html', 'field_transcript_text', 'field_body',
@@ -690,6 +1025,9 @@ BODY_FIELD_PRIORITY = {
     'lessons_learned': [
         'field_body', 'field_transcript_text', 'field_video_overview',
     ],
+    'ask_a_digital_historian': ['field_answer'],
+    'ask_a_historian': ['field_answer'],
+    'ask_an_educator': ['field_answer'],
 }
 
 # Default fallback order for types not listed above
@@ -697,7 +1035,7 @@ DEFAULT_BODY_PRIORITY = [
     'field_body', 'body', 'field_html', 'field_description',
     'field_abstract', 'field_overview', 'field_glance',
     'field_page_body', 'field_essay', 'field_executive_summary',
-    'field_learn_more_text', 'field_transcript_text',
+    'field_transcript_text',
     'field_quiz_instructions', 'field_answer',
 ]
 
@@ -707,6 +1045,10 @@ SUPPLEMENTAL_FIELDS = {
         ('field_textbook_excerpt', 'What Textbooks Say'),
         ('field_historian_excerpt', 'What Historians Say'),
         ('field_source_excerpt', 'What Sources Say'),
+    ],
+    'research_tool': [
+        ('field_directions', 'Getting Started'),
+        ('field_exemplary_practices', 'Examples'),
     ],
 }
 
@@ -721,7 +1063,18 @@ FRONTMATTER_FIELDS = [
     'field_notes', 'field_bibliography',
     'field_primary_annotated_biblio', 'field_secondary_annotated_bib',
     'field_core_questions',
+    'field_learn_more_text', 'website_links', 'resources', 'attachments', 'producer',
+    'features',
 ]
+
+
+def content_fingerprint(value):
+    """Normalize HTML/Markdown enough to identify conservative exact duplicates."""
+    if not value:
+        return ''
+    text = BeautifulSoup(value, 'html.parser').get_text(' ')
+    text = re.sub(r'[`*_#>\[\]()]', ' ', text)
+    return re.sub(r'\s+', ' ', text).strip().casefold()
 
 
 def compose_body(content_type, field_data):
@@ -741,18 +1094,25 @@ def compose_body(content_type, field_data):
             used_key = key
             break
 
-    # For Q&A types, handle question + answer
+    # Q&A answers are complete bodies. The previous importer appended an answer
+    # to itself whenever field_answer was also selected by the fallback order.
     question = field_data.get('field_question', '')
     answer = field_data.get('field_answer', '')
 
-    body_md = html_to_md(body_html)
+    if used_key == 'field_transcript_text':
+        body_md = transcript_html_to_md(
+            field_data.get('field_transcript_text_items', body_html)
+        )
+    else:
+        body_md = html_to_md(body_html)
 
     # If we have an answer and no body, use answer as body
     if answer and not body_md:
         body_md = html_to_md(answer)
-    elif answer and body_md:
+    elif answer and used_key != 'field_answer' and body_md:
         answer_md = html_to_md(answer)
-        body_md = f"{answer_md}\n\n---\n\n{body_md}"
+        if content_fingerprint(answer_md) != content_fingerprint(body_md):
+            body_md = answer_md
 
     # Append supplemental sections (e.g. Beyond the Textbook excerpts)
     supplements = SUPPLEMENTAL_FIELDS.get(content_type, [])
@@ -760,7 +1120,9 @@ def compose_body(content_type, field_data):
         val = field_data.get(field_key)
         if val:
             section_md = html_to_md(val)
-            if section_md:
+            if section_md and content_fingerprint(section_md) not in {
+                content_fingerprint(body_md),
+            }:
                 body_md = body_md + f"\n\n## {heading}\n\n{section_md}"
 
     # If still no body, try concatenating any remaining text fields
@@ -768,7 +1130,12 @@ def compose_body(content_type, field_data):
         for key in DEFAULT_BODY_PRIORITY:
             val = field_data.get(key)
             if val:
-                body_md = html_to_md(val)
+                if key == 'field_transcript_text':
+                    body_md = transcript_html_to_md(
+                        field_data.get('field_transcript_text_items', val)
+                    )
+                else:
+                    body_md = html_to_md(val)
                 break
 
     # Build extra frontmatter from metadata fields
@@ -778,12 +1145,9 @@ def compose_body(content_type, field_data):
     if summary:
         extra_fm['summary'] = html_to_md(summary).strip()
 
-    bio = field_data.get('field_author_biography', '') or field_data.get('body', '')
-    # Only use 'body' as bio if we used a different field for main content
-    if not bio and used_key != 'body':
-        bio = field_data.get('body', '')
-    elif used_key == 'body':
-        bio = field_data.get('field_author_biography', '')
+    # node__body is a content body on several legacy types; treating it as an
+    # author bio caused entire articles to leak into sidebars.
+    bio = field_data.get('field_author_biography', '')
     if bio:
         bio_md = html_to_md(bio).strip()
         if bio_md:
@@ -801,6 +1165,25 @@ def compose_body(content_type, field_data):
         val = field_data.get(key)
         if val:
             extra_fm[key] = val.strip() if isinstance(val, str) else val
+
+    producer = field_data.get('producer')
+    if producer:
+        extra_fm['producer'] = producer.strip()
+
+    for key in ('website_links', 'resources', 'attachments'):
+        values = field_data.get(key)
+        if values:
+            extra_fm[key] = values
+
+    features = field_data.get('features')
+    if features:
+        extra_fm['features'] = features
+
+    more_information = field_data.get('field_learn_more_text', '')
+    if more_information:
+        more_md = html_to_md(more_information).strip()
+        if more_md and content_fingerprint(more_md) != content_fingerprint(body_md):
+            extra_fm['more_information'] = more_md
 
     # Teaser as summary fallback
     if 'summary' not in extra_fm:
@@ -952,10 +1335,14 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Convert Drupal SQL dump to Hugo markdown')
     parser.add_argument('--sql', default='th_db.sql', help='Path to SQL dump file')
     parser.add_argument('--output', default='content', help='Output directory for Hugo content')
+    parser.add_argument('--audit-report',
+                        help='Write invalid structured resources to this CSV path')
 
     args = parser.parse_args()
 
     nodes, fields, paths, taxonomy_terms, taxonomy_index = parse_sql_file(args.sql)
+    if args.audit_report:
+        audit_structured_fields(nodes, fields, args.audit_report)
     export_to_hugo(nodes, fields, paths, args.output,
                    taxonomy_terms, taxonomy_index)
 

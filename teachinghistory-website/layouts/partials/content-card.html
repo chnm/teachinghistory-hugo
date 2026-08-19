@@ -24,7 +24,7 @@
   {{ $img := $page.Params.splash_image | default $page.Params.image | default $page.Params.thumbnail }}
   {{ with $img }}
     <div class="h-[160px] overflow-hidden">
-      <img src="{{ . }}" alt="" class="w-full h-full object-cover">
+      <img src="{{ . }}" alt="{{ $page.Title }}" class="w-full h-full object-cover">
     </div>
   {{ else }}
     <div class="h-[160px] overflow-hidden">
@@ -36,7 +36,7 @@
   <div class="px-3 py-3">
     <p class="font-body text-xs leading-relaxed line-clamp-3 text-gray-600">
       {{ with $page.Params.summary }}
-        {{- . | plainify | truncate 120 -}}
+        {{- partial "render-inline-markdown.html" (dict "page" $page "value" .) | plainify | htmlUnescape | truncate 120 -}}
       {{ else }}
         {{- $page.Summary | plainify | truncate 120 -}}
       {{ end }}
