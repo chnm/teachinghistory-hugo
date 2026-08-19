@@ -8,7 +8,7 @@
       {{/* Left column — 1/3: headline pinned to bottom */}}
       <div class="lg:w-1/3 flex flex-col justify-end px-6 py-8 sm:px-8 sm:py-10 lg:px-10 lg:py-12 shadow-[4px_4px_12px_rgba(0,0,0,0.15)]">
         <h1 class="font-heading text-2xl md:text-3xl leading-tight mb-4">Explore Our Resources and Materials</h1>
-        <a href="/teaching-materials/" class="text-orange text-xl">&rarr;</a>
+        <a href="/teaching-materials/" class="text-orange-ink text-xl">&rarr;</a>
       </div>
 
       {{/* Right column — 2/3: pale-blue tint with staggered cards */}}
@@ -79,11 +79,11 @@
 
               {{/* Section color bar with summary + arrow */}}
               <div class="bg-{{ $color }} px-3 py-3 flex-1 flex flex-col">
-                <p class="font-body text-xs text-white leading-relaxed mb-3 flex-1" data-hero-summary>
+                <p class="font-body text-xs text-dark leading-relaxed mb-3 flex-1" data-hero-summary>
                   {{ partial "render-inline-markdown.html" (dict "page" $picked "value" $pickedSummary) | plainify | htmlUnescape | truncate 100 }}
                 </p>
                 <a href="{{ $picked.RelPermalink }}"
-                   class="inline-flex items-center gap-1 text-white text-xs font-semibold"
+                   class="inline-flex items-center gap-1 text-dark text-xs font-semibold"
                    data-hero-read-more>
                   Read More &rarr;
                 </a>
@@ -155,7 +155,7 @@
           teaching strategies, resources, and research accessible.
         </p>
         <div>
-          <a href="#"
+          <a href="https://www.youtube.com/watch?v=mSJLmWnxrPg"
              class="inline-flex items-center gap-2 bg-white text-black text-sm font-semibold px-5 py-2 rounded-full hover:bg-gray-light transition">
             <svg class="w-4 h-4" viewBox="0 0 16 16" fill="currentColor"><path d="M4 2l10 6-10 6z"/></svg>
             View Video
@@ -191,7 +191,7 @@
             <img src="{{ $img }}" alt="" class="w-full h-44 object-cover">
             <div class="bg-white px-4 py-4 flex items-center justify-between">
               <span class="font-heading text-sm font-bold">{{ $grade.label }}</span>
-              <span class="text-orange text-lg group-hover:translate-x-1 transition-transform">&rarr;</span>
+              <span class="text-orange-ink text-lg group-hover:translate-x-1 transition-transform">&rarr;</span>
             </div>
           </a>
         {{ end }}
