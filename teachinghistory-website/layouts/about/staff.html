@@ -10,7 +10,7 @@
     </article>
     {{ end }}
 
-    {{ range $gi, $group := site.Data.staff.groups }}
+    {{ range $gi, $group := hugo.Data.staff.groups }}
     <section class="mb-12">
       <h2 class="font-heading text-xl font-bold uppercase tracking-wide mb-6">{{ $group.name }}</h2>
 
@@ -19,7 +19,7 @@
         {{ $id := printf "staff-%d-%d" $gi $mi }}
         <div class="bg-white rounded shadow-md p-6">
           <h3 class="font-heading text-lg font-bold mb-1">{{ $member.name }}</h3>
-          <p class="font-heading text-sm font-semibold uppercase tracking-wide text-orange mb-3">{{ $member.role }}</p>
+          <p class="font-heading text-sm font-semibold uppercase tracking-wide text-orange-ink mb-3">{{ $member.role }}</p>
           <button
             type="button"
             onclick="document.getElementById('{{ $id }}').showModal()"
@@ -33,7 +33,7 @@
         <dialog id="{{ $id }}" class="rounded-lg shadow-xl p-0 max-w-lg w-full backdrop:bg-black/50">
           <div class="p-8">
             <h3 class="font-heading text-xl font-bold mb-1">{{ $member.name }}</h3>
-            <p class="font-heading text-sm font-semibold uppercase tracking-wide text-orange mb-4">{{ $member.role }}</p>
+            <p class="font-heading text-sm font-semibold uppercase tracking-wide text-orange-ink mb-4">{{ $member.role }}</p>
             <div class="font-body text-sm leading-relaxed text-dark mb-6">
               {{ $member.bio | markdownify }}
             </div>
