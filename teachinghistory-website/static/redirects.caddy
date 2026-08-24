@@ -18672,8 +18672,8 @@ map {path} {redirect_target} {
 	/digital-classroom/tech-for-teachers/24536/ /digital-classroom/tech-for-teachers/animoto/
 	/digital-classroom/tech-for-teachers/24600 /digital-classroom/tech-for-teachers/flickr/
 	/digital-classroom/tech-for-teachers/24600/ /digital-classroom/tech-for-teachers/flickr/
-	/digital-classroom/tech-for-teachers/24602 /digital-classroom/tech-for-teachers/little-bird-tales/
-	/digital-classroom/tech-for-teachers/24602/ /digital-classroom/tech-for-teachers/little-bird-tales/
+	/digital-classroom/tech-for-teachers/24602 /
+	/digital-classroom/tech-for-teachers/24602/ /
 	/digital-classroom/tech-for-teachers/24636 /digital-classroom/tech-for-teachers/padlet/
 	/digital-classroom/tech-for-teachers/24636/ /digital-classroom/tech-for-teachers/padlet/
 	/digital-classroom/tech-for-teachers/24655 /digital-classroom/tech-for-teachers/voki/
@@ -25796,8 +25796,8 @@ map {path} {redirect_target} {
 	/node/24600/ /digital-classroom/tech-for-teachers/flickr/
 	/node/24601 /history-content/ask-a-historian/roosevelts-tree-army/
 	/node/24601/ /history-content/ask-a-historian/roosevelts-tree-army/
-	/node/24602 /digital-classroom/tech-for-teachers/little-bird-tales/
-	/node/24602/ /digital-classroom/tech-for-teachers/little-bird-tales/
+	/node/24602 /
+	/node/24602/ /
 	/node/24603 /history-content/ask-a-historian/on-telegrams-and-telephone-calls/
 	/node/24603/ /history-content/ask-a-historian/on-telegrams-and-telephone-calls/
 	/node/24604 /teaching-materials/english-language-learners/google-translate/
