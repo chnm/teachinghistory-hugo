@@ -83,30 +83,14 @@ primary_sources:
   annotation: This letter, written by Anna Hayes Johnson, a white Charleston woman, to a family member,
     represents an excellent example of the power of rumor and hearsay in spreading details of the alleged
     rebellion throughout the area.
-  text: "*Excerpt from Anna Hayes Johnson's letter of July 18, 1822:*  \nMy dear Cousin,\n\n. . . I suppose\
-    \ that by this time you are anxious to hear more about the unhappy business which has filled with\
-    \ consternation all our city and nothing but the merciful interposition of our God has saved us from\
-    \ horror equal if not superior to the scenes acted in St. Domingo—The catalogue is not filled up for\
-    \ we thought that it was ended and that the execution of six of the chiefs would suffice. The court\
-    \ had been dismissed and the town was again sinking into its wanted security when information was\
-    \ given that another attempt would be made at such a time, and the states witness gave information\
-    \ of such a nature as to induce the city council to recall the court, and since that period the alarm\
-    \ has spread most widely, and there are now between 50 & 60 of the leaders in our jail—It is said\
-    \ that twenty of them have been convicted & sentenced, and in all probability the execution will not\
-    \ end under 100, but I was told yesterday that the prisoners had been heard to say that even should\
-    \ there be 500 executed there would be still enough to carry the work into execution. Denmark Vesey\
-    \ one of those already executed and who was the instigator of the whole plot acknowledged that he\
-    \ had been nine years endeavoring to effect the diabolical scheme, how far the mischief has extended\
-    \ heaven only knows—I never heard in my life more deep laid plots or plots more likely to succeed,\
-    \ indeed \"t'was a good plot—an excellent plot.\"\n\nBut t'was a plot that had it succeeded would\
-    \ have told to after ages a most fearful tale—it would be absurd in me to attempt a detail of all\
-    \ the circumstances real or imaginary which I have heard—this much is all that I know of that bears\
-    \ the stamp of truth: that their intention was to take the city and keep it as long as possible and\
-    \ then carry *us &* the common negro's to St D there to be sold as slaves with as much plunder as\
-    \ they could find. It seems that this Vesey had been to St D adn made an agreement that at such a\
-    \ time so many Vessels should be here to assist—it would have been a complete scene of desolation—as\
-    \ yet thank God none of our slaves have been found in the plot, tho' there are 20 of them in [—? illegible]\
-    \ in the yard.\n\n. . . Farewell God Bless you  \nAnna"
+  text: |-
+    *Excerpt from Anna Hayes Johnson's letter of July 18, 1822:* My dear Cousin,
+
+    . . . I suppose that by this time you are anxious to hear more about the unhappy business which has filled with consternation all our city and nothing but the merciful interposition of our God has saved us from horror equal if not superior to the scenes acted in St. Domingo—The catalogue is not filled up for we thought that it was ended and that the execution of six of the chiefs would suffice. The court had been dismissed and the town was again sinking into its wanted security when information was given that another attempt would be made at such a time, and the states witness gave information of such a nature as to induce the city council to recall the court, and since that period the alarm has spread most widely, and there are now between 50 & 60 of the leaders in our jail—It is said that twenty of them have been convicted & sentenced, and in all probability the execution will not end under 100, but I was told yesterday that the prisoners had been heard to say that even should there be 500 executed there would be still enough to carry the work into execution. Denmark Vesey one of those already executed and who was the instigator of the whole plot acknowledged that he had been nine years endeavoring to effect the diabolical scheme, how far the mischief has extended heaven only knows—I never heard in my life more deep laid plots or plots more likely to succeed, indeed "t'was a good plot—an excellent plot."
+
+    But t'was a plot that had it succeeded would have told to after ages a most fearful tale—it would be absurd in me to attempt a detail of all the circumstances real or imaginary which I have heard—this much is all that I know of that bears the stamp of truth: that their intention was to take the city and keep it as long as possible and then carry *us &* the common negro's to St D there to be sold as slaves with as much plunder as they could find. It seems that this Vesey had been to St D adn made an agreement that at such a time so many Vessels should be here to assist—it would have been a complete scene of desolation—as yet thank God none of our slaves have been found in the plot, tho' there are 20 of them in [—? illegible] in the yard.
+
+    . . . Farewell God Bless you Anna
   citation: Anna Hayes Johnson to her cousin, Charleston, July 18, 1822. From the Ernest Haywood Papers,
     Southern Historical Collection, University of North Carolina Library.
 bibliographies:

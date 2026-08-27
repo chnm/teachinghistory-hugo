@@ -9,6 +9,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from restore_btt_subpages import (  # noqa: E402
     content_inventory,
     extract_btt_subpages,
+    normalize_source_text,
     serialize_data,
 )
 
@@ -68,6 +69,23 @@ class RestoreBttSubpagesTests(unittest.TestCase):
         self.assertEqual(data["primary_sources"][0]["subpage"], 6)
         self.assertEqual(
             [item["subpage"] for item in data["bibliographies"]], [7, 8]
+        )
+
+    def test_normalizes_archival_hard_wraps_but_preserves_blocks(self):
+        markdown = (
+            "A sentence broken  \nacross source lines.\n\u00a0\n"
+            "1. First item  \ncontinued here.\n"
+            "2. Second item.\n\n## Heading\nBody line  \nwraps."
+        )
+
+        normalized = normalize_source_text(markdown)
+
+        self.assertEqual(
+            normalized,
+            "A sentence broken across source lines.\n\n"
+            "1. First item continued here.\n\n"
+            "2. Second item.\n\n"
+            "## Heading\n\nBody line wraps.",
         )
 
     def test_inventory_only_selects_surviving_part_two_pages(self):

@@ -16,6 +16,7 @@ from __future__ import annotations
 
 import argparse
 from pathlib import Path
+import re
 import sys
 from typing import Iterable
 
@@ -47,6 +48,8 @@ DEFAULT_DATA_DIR = (
 )
 DEFAULT_STATIC_ROOT = REPO_ROOT / "teachinghistory-website" / "static"
 SOURCE_SUFFIXES = ("title", "annotation", "image", "text", "citation")
+STANDALONE_BLOCK = re.compile(r"^(?:#{1,6}\s|!\[|\|)")
+SEQUENCE_BLOCK_START = re.compile(r"^(?:[-*+]\s|\d+[.)]\s|>\s?)")
 
 
 class LiteralDumper(yaml.SafeDumper):
@@ -71,6 +74,34 @@ def markdown_value(entity: dict, key: str) -> str:
         return ""
     converted = html_to_md("\n\n".join(values)).strip()
     return localize_markdown_assets(converted)
+
+
+def normalize_source_text(markdown: str) -> str:
+    """Remove archival hard wraps while preserving Markdown block structure."""
+    blocks = []
+    current = []
+
+    def flush():
+        if current:
+            blocks.append(" ".join(current))
+            current.clear()
+
+    normalized = markdown.replace("\r\n", "\n").replace("\r", "\n")
+    for raw_line in normalized.split("\n"):
+        line = re.sub(r"[ \t]+", " ", raw_line.replace("\u00a0", " ")).strip()
+        if not line:
+            flush()
+            continue
+        if STANDALONE_BLOCK.match(line):
+            flush()
+            blocks.append(line)
+            continue
+        if SEQUENCE_BLOCK_START.match(line) and current:
+            flush()
+        current.append(line)
+
+    flush()
+    return "\n\n".join(blocks)
 
 
 def plain_title(entity: dict, key: str, fallback: str) -> str:
@@ -99,6 +130,8 @@ def extract_btt_subpages(entity: dict, max_sources: int = 10) -> tuple[dict, set
         }
         for suffix in ("annotation", "text", "citation"):
             value = markdown_value(entity, prefix + suffix)
+            if suffix == "text":
+                value = normalize_source_text(value)
             if value:
                 source[suffix] = value
 

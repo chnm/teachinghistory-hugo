@@ -57,11 +57,11 @@ primary_sources:
   annotation: This newspaper clipping shows the racial disparity that prevailed in the Southern judicial
     system under segregation. It can serve as an introduction for discussions of discrimination in contemporary
     judicial practices that continue to disproportionately imprison people of color today.
-  text: "\"'Colored' Gets Three Years — 'White' Gets Thirty Days.\"  \nColumbia, S.C. — The peculiar workings\
-    \ of justice in Southland when Jas. Davenport, Colored, was sentenced to three years at hard labor\
-    \ for stealing a bicycle, and Clarence D. Gould, white, was sentenced to thirty days in the county\
-    \ hail for stealing an automobile.  \nBoth sentences were imposed the same day and in the same court\
-    \ room — Judge Memminger presiding. Both men were found guilty of stealing."
+  text: '"''Colored'' Gets Three Years — ''White'' Gets Thirty Days." Columbia, S.C. — The peculiar workings
+    of justice in Southland when Jas. Davenport, Colored, was sentenced to three years at hard labor for
+    stealing a bicycle, and Clarence D. Gould, white, was sentenced to thirty days in the county hail
+    for stealing an automobile. Both sentences were imposed the same day and in the same court room —
+    Judge Memminger presiding. Both men were found guilty of stealing.'
   citation: '[“''Colored'' Gets Three Years -- ''White'' Gets Thirty Days.”](http://dbs.ohiohistory.org/africanam/det.cfm?ID=6810)
     *Cleveland Advocate*. February 2, 1918. From the the Ohio Historical Society. Accessed March 20, 2011.'
   image:
@@ -76,13 +76,10 @@ primary_sources:
     250 black men and women died in 25 urban race riots and a racial pogrom in Elaine, AR. By December,
     white mobs had lynched 78 African Americans. Of those victims, 10 wore military uniforms and 11 were
     burned alive at the stake.
-  text: "If we must die, let it not be like hogs  \nHunted and penned in an inglorious spot,   \nWhile\
-    \ round us bark the mad and hungry dogs,  \nMaking their mock at our accursed lot.   \nIf we must\
-    \ die, O let us nobly die,   \nSo that our precious blood may not be shed   \nIn vain; then even the\
-    \ monsters we defy  \nShall be constrained to honor us though dead!\n\nO kinsmen! we must meet the\
-    \ common foe!  \nThough far outnumbered let us show us brave,  \nAnd for their thousand blows deal\
-    \ one death-blow!  \nWhat though before us lies the open grave?  \nLike men we'll face the murderous,\
-    \ cowardly pack,  \nPressed to the wall, dying, but fighting back!"
+  text: |-
+    If we must die, let it not be like hogs Hunted and penned in an inglorious spot, While round us bark the mad and hungry dogs, Making their mock at our accursed lot. If we must die, O let us nobly die, So that our precious blood may not be shed In vain; then even the monsters we defy Shall be constrained to honor us though dead!
+
+    O kinsmen! we must meet the common foe! Though far outnumbered let us show us brave, And for their thousand blows deal one death-blow! What though before us lies the open grave? Like men we'll face the murderous, cowardly pack, Pressed to the wall, dying, but fighting back!
   citation: McKay, Claude. "[If We Must Die](http://books.google.com/books?id=gO0AK7qCvmoC&pg=PA382&dq=%E2%80%A2%09McKay,+Claude.+%E2%80%9CIf+We+Must+Die&hl=en&ei=awWfTb-JAYS3twfy9N33Ag&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q=%E2%80%A2%09McKay%2C%20Claude.%20%E2%80%9CIf%20We%20Must%20Die&f=false)."
     1922. Accessed March 21, 2011.
 - subpage: 4
@@ -143,45 +140,45 @@ primary_sources:
     Writing the opinion, Chief Justice Fred M. Vinson allowed that private parties could voluntarily agree to race-based property restrictions. However, judicial enforcement of racially restrictive covenants represented state action and thus violated the equal protection clause of the 14th Amendment. The opinion also underscores the Court's concern with historical context, which would emerge as a major issue in the *Brown* decision six years later.
 
     (Note: The ellipses in this quote represent deleted footnotes and/or additional court case citations as well as some sentences.)
-  text: "*Excerpt from* **Shelley v. Kraemer***:* We hold that in granting judicial enforcement of the\
-    \ restrictive agreements in these cases, the States have denied petitioners the equal protection of\
-    \ the laws and that, therefore, the action of the state courts cannot stand. We have noted that freedom\
-    \ from discrimination by the States in the enjoyment of property rights was among the basic objectives\
-    \ sought to be effectuated by the framers of the Fourteenth Amendment. That such discrimination has\
-    \ occurred in these cases is clear. Because of the race or color of these petitioners they have been\
-    \ denied rights of ownership or occupancy enjoyed as a matter of course by other citizens of different\
-    \ race or… color…The Fourteenth Amendment declares 'that all persons, whether colored or white, shall\
-    \ stand equal before the laws of the States, and, in regard to the colored race, for whose protection\
-    \ the amendment was primarily designed, that no discrimination shall be made against them by law because\
-    \ of their color…Only recently this Court has had occasion to declare that a state law which denied\
-    \ equal enjoyment of property rights to a designated class of citizens of specified race and ancestry,\
-    \ was not a legitimate exercise of the state's police power but violated the guaranty of the equal\
-    \ protection of the laws...Nor may the discriminations imposed by the state courts in these cases\
-    \ be justified as proper exertions of state police power....  \nRespondents urge, however, that since\
-    \ the state courts stand ready to enforce restrictive covenants excluding white persons from the ownership\
-    \ or occupancy of property covered by such agreements, enforcement of covenants excluding colored\
-    \ persons may not be deemed a denial of equal protection of the laws to the colored persons who are\
-    \ thereby affected…This contention does… not bear scrutiny. The parties have directed our attention\
-    \ to no case in which a court, state or federal, has been called upon to enforce a covenant excluding\
-    \ members of the white majority from ownership or occupancy of real property on grounds of race or\
-    \ color…  \nNor do we find merit in the suggestion that property owners who are parties to these agreements\
-    \ are denied equal protection of the laws if denied access to the courts to enforce the terms of restrictive\
-    \ covenants and to assert property rights which the state courts have held to be created by such agreements.\
-    \ The Constitution confers upon no individual the right to demand action by the State which results\
-    \ in the denial of equal protection of the laws to other individuals. And it would appear beyond question\
-    \ that the power of the State to create and enforce property interests must be exercised within the\
-    \ boundaries defined by the Fourteenth Amendment…  \nThe historical context in which the Fourteenth\
-    \ Amendment became a part of the Constitution should not be forgotten. Whatever else the framers sought\
-    \ to achieve, it is clear that the matter of primary concern was the establishment of equality in\
-    \ the enjoyment of basic civil and political rights and the preservation of those rights from discriminatory\
-    \ action on the part of the States based on considerations of race or color. Seventy-five years ago\
-    \ this Court announced that the provisions of the Amendment are to be construed with this fundamental\
-    \ purpose in mind. Upon full consideration, we have concluded that in these cases the States have\
-    \ acted to deny petitioners the equal protection of the laws guaranteed by the Fourteenth Amendment.\
-    \ Having so decided, we find it unnecessary to consider whether petitioners have also been deprived\
-    \ of property without due process of law or denied privileges and immunities of citizens of the United\
-    \ States.  \nFor the reasons stated, the judgment of the Supreme Court of Missouri and the judgment\
-    \ of the Supreme Court of Michigan must be reversed."
+  text: '*Excerpt from* **Shelley v. Kraemer***:* We hold that in granting judicial enforcement of the
+    restrictive agreements in these cases, the States have denied petitioners the equal protection of
+    the laws and that, therefore, the action of the state courts cannot stand. We have noted that freedom
+    from discrimination by the States in the enjoyment of property rights was among the basic objectives
+    sought to be effectuated by the framers of the Fourteenth Amendment. That such discrimination has
+    occurred in these cases is clear. Because of the race or color of these petitioners they have been
+    denied rights of ownership or occupancy enjoyed as a matter of course by other citizens of different
+    race or… color…The Fourteenth Amendment declares ''that all persons, whether colored or white, shall
+    stand equal before the laws of the States, and, in regard to the colored race, for whose protection
+    the amendment was primarily designed, that no discrimination shall be made against them by law because
+    of their color…Only recently this Court has had occasion to declare that a state law which denied
+    equal enjoyment of property rights to a designated class of citizens of specified race and ancestry,
+    was not a legitimate exercise of the state''s police power but violated the guaranty of the equal
+    protection of the laws...Nor may the discriminations imposed by the state courts in these cases be
+    justified as proper exertions of state police power.... Respondents urge, however, that since the
+    state courts stand ready to enforce restrictive covenants excluding white persons from the ownership
+    or occupancy of property covered by such agreements, enforcement of covenants excluding colored persons
+    may not be deemed a denial of equal protection of the laws to the colored persons who are thereby
+    affected…This contention does… not bear scrutiny. The parties have directed our attention to no case
+    in which a court, state or federal, has been called upon to enforce a covenant excluding members of
+    the white majority from ownership or occupancy of real property on grounds of race or color… Nor do
+    we find merit in the suggestion that property owners who are parties to these agreements are denied
+    equal protection of the laws if denied access to the courts to enforce the terms of restrictive covenants
+    and to assert property rights which the state courts have held to be created by such agreements. The
+    Constitution confers upon no individual the right to demand action by the State which results in the
+    denial of equal protection of the laws to other individuals. And it would appear beyond question that
+    the power of the State to create and enforce property interests must be exercised within the boundaries
+    defined by the Fourteenth Amendment… The historical context in which the Fourteenth Amendment became
+    a part of the Constitution should not be forgotten. Whatever else the framers sought to achieve, it
+    is clear that the matter of primary concern was the establishment of equality in the enjoyment of
+    basic civil and political rights and the preservation of those rights from discriminatory action on
+    the part of the States based on considerations of race or color. Seventy-five years ago this Court
+    announced that the provisions of the Amendment are to be construed with this fundamental purpose in
+    mind. Upon full consideration, we have concluded that in these cases the States have acted to deny
+    petitioners the equal protection of the laws guaranteed by the Fourteenth Amendment. Having so decided,
+    we find it unnecessary to consider whether petitioners have also been deprived of property without
+    due process of law or denied privileges and immunities of citizens of the United States. For the reasons
+    stated, the judgment of the Supreme Court of Missouri and the judgment of the Supreme Court of Michigan
+    must be reversed.'
   citation: '[*Shelley* v. *Kraemer* 334 U.S. 1 (1948)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&vol=334&invol=1).
     Accessed April 6, 2011.'
 bibliographies:
