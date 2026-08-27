@@ -1,0 +1,10 @@
+{{/*
+  annotations — Styled contextual annotation callout.
+
+  Usage:
+    {{< annotations >}}Annotation text with **Markdown**.{{< /annotations >}}
+    {{< annotations title="Historical Context" >}}Custom title.{{< /annotations >}}
+*/}}
+{{- $title := .Get "title" | default "Annotation" -}}
+{{- $content := .Page.RenderString .Inner -}}
+{{- partial "annotation.html" (dict "title" $title "content" $content) -}}

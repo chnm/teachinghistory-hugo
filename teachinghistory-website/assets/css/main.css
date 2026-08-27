@@ -66,6 +66,22 @@
     transform: rotate(90deg);
   }
 
+  .btt-back-to-toc {
+    position: fixed;
+    left: 1.25rem;
+    bottom: 1.25rem;
+    z-index: 40;
+  }
+
+  .annotation-callout p:last-child {
+    margin-bottom: 0;
+  }
+
+  .btt-source-text {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
   @media (min-width: 1024px) {
     .bounded-sticky-sidebar {
       position: sticky;

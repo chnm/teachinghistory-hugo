@@ -15,6 +15,9 @@
         <a href="/{{ .Section }}/" class="text-sm hover:underline">&larr; View all {{ .Section | humanize | title }}</a>
       </div>
 
+      {{/* Lead with the bounded BTT navigation before supporting sidebar cards. */}}
+      {{ partial "btt-table-of-contents.html" . }}
+
       {{/* Beyond the Textbook: collapsible What X Say cards */}}
       {{ if .Params.what_textbooks_say }}
       <div class="flex flex-col gap-3">
@@ -98,8 +101,6 @@
       </div>
       {{ end }}
 
-      {{/* Keep only the bounded BTT navigation sticky, after the sidebar content. */}}
-      {{ partial "btt-table-of-contents.html" . }}
     </aside>
 
     {{/* Right column — 2/3, white background */}}

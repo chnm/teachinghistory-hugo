@@ -18,10 +18,7 @@
         <h3 id="btt-subpage-{{ .subpage }}" class="font-heading text-xl mb-4 scroll-mt-24">{{ .title }}</h3>
 
         {{ with .annotation }}
-        <div class="mb-6">
-          <h4 class="font-heading text-sm font-bold uppercase tracking-wide mb-2">Annotation</h4>
-          <div class="font-body leading-relaxed">{{ . | markdownify }}</div>
-        </div>
+          {{ partial "annotation.html" (dict "title" "Annotation" "content" (. | markdownify)) }}
         {{ end }}
 
         {{ with .image }}
@@ -31,7 +28,7 @@
         {{ end }}
 
         {{ with .text }}
-        <div class="font-body leading-relaxed mb-6">{{ . | markdownify }}</div>
+        <div class="btt-source-text font-body leading-relaxed mb-6">{{ . | markdownify }}</div>
         {{ end }}
 
         {{ with .citation }}
