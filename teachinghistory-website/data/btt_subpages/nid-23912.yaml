@@ -1,0 +1,107 @@
+nid: 23912
+primary_sources:
+- subpage: 1
+  title: Farms Census Data (1860)
+  annotation: This map, based on data from the federal census of 1860, shows the number of farms in the
+    U.S. just prior to the Civil War. The top map plots the total number of farms per state, showing that
+    agriculture was still widespread in northern states. In fact, there were more farms in many northern
+    states than in southern states. The bottom map shows that the South had a higher concentration of
+    large farms (more than 1,000) acres.
+  citation: '[Historical Census Browser](http://fisher.lib.virginia.edu/collections/stats/histcensus/index.html).
+    U.S. Census data, 1860. "Total Number of Farms" and "Farms of 1000 or More Acres." Accessed March
+    24, 2010.'
+  image:
+    url: /files/Farms.jpg
+    alt: Farms Census Data (1860)
+    width: 460
+    height: 575
+- subpage: 2
+  title: List of Urban Areas (1860)
+  annotation: This list of the nation's [largest cities](http://www.census.gov/population/www/documentation/twps0027/tab09.txt)
+    on the eve of the Civil War, drawn from the 1860 Federal Census, shows that the South was not entirely
+    rural. It was home to some of the country's most populous places, such as New Orleans, Louisiana;
+    Baltimore, Maryland; St. Louis, Missouri; Louisville, Kentucky; Richmond, Virginia; Charleston, South
+    Carolina; and Mobile, Alabama.
+  citation: '[U.S. Census Bureau](http://www.census.gov/population/www/documentation/twps0027/twps0027.html).
+    U.S. Census data, 1860. "Population of the 100 Largest Urban Places." Accessed March 24, 2010.'
+  image:
+    url: /files/table9_census2.jpg
+    alt: List of Urban Areas (1860)
+    width: 379
+    height: 612
+- subpage: 3
+  title: Manufacturing Census Data (1860)
+  annotation: This map drawn from data in the 1860 federal census shows that, except for the region centered
+    on New York and lower New England, the density of manufacturing establishments was roughly the same
+    in both North and South.
+  citation: '[Historical Census Browser](http://fisher.lib.virginia.edu/collections/stats/histcensus/index.html).
+    U.S. Census data, 1860. "Manufacturing Establishments." Accessed March 24, 2010.'
+  image:
+    url: /files/BtT-CotCW-PS3-460x.jpg
+    alt: Manufacturing Census Data (1860)
+    width: 460
+    height: 361
+- subpage: 4
+  title: Cotton and Slaves Data (1860)
+  annotation: These maps from the 1860 census show that the regions of the South in which cotton was produced
+    (above map) did not always correspond with the regions with the highest slave populations (lower map),
+    undermining the argument that slavery persisted in the South only because of the peculiar necessities
+    of cotton growing.
+  citation: |-
+    Southeast Archeological Center, National Park Service. "[Cotton Production, 1860](http://www.nps.gov/history/seac/beneathweb/ch13/m21.jpg)." Accessed March 24, 2010.
+
+    [Historical Census Browser](http://fisher.lib.virginia.edu/collections/stats/histcensus/index.html). U.S. Census data, 1860. "Slaves in the U.S." Accessed March 24, 2010.
+  image:
+    url: /files/BtT-CotCW-Combined-Maps.jpg
+    alt: Cotton and Slaves Data (1860)
+    width: 470
+    height: 687
+- subpage: 5
+  title: Editorials (1860-1861)
+  annotation: William W. Holden, editor of the *Weekly Daily Standard* in Raleigh, North Carolina, was
+    a strong Unionist in the years leading up to the Civil War. Holden tried, despite Lincoln's election,
+    to quell his fellow North Carolinians' desire to secede, along with their neighboring states. Like
+    other southerners, however, he believed that each state was sovereign, and when President Lincoln
+    called for recruits in April 1861 to put down the rebellion, Holden saw this as an unconstitutional
+    invasion of the South by the North. Holden then commenced writing editorials urging his fellow citizens
+    to rise up to meet the "invaders."
+  text: |-
+    *Excerpted from* **The Voice of the People** *(December 26, 1860):* We have never felt, in any previous contest, more in need of the sustaining voice of the people than we do in this; and we are more than gratified to state that on no occasion in our long Editorial life have we been more warmly or generally sustained by the people than we are now. The voice of approval and encouragement comes to us from all quarters. It comes to us from Breckinridge men, from Bell men, from Douglas men, from Buchanan men, and from men of all shades of opinions, who are anxious for the preservation of a Constitutional Union, and who would hold North-Carolina back, at least a while longer, from the vortex of disunion now opening to receive South-Carolina. And this, be it remembered, is no voice of submission to arbitrary or undelegated power. It proceeds from men who will never submit to the administration of the government on principles inimical to the rights, the equality, or the safety of the slaveholding States; but who, while preparing for the emergency that may arise, are nevertheless disposed to "watch and wait" for any attempted overt act by a dominant sectional majority. . .
+
+    *Excerpted from* **The News** *(April 17, 1861):* . . . As hostile as we may be to Mr. Lincoln, the cause of our country, now in fearful perils, requires that we should be just even towards him. But the Union cannot be maintained by force. As we said last year, in the Presidential campaign, "The Union would fall to pieces before the first touch of aggressive or coercive power." . . . A Convention of all the States could either reconstruct the Union or permit the seceded States to go in peace. As it is, we appear to be drifting to civil strife against the wish of the people of the United States, and without their having had any opportunity in their primary capacity to remove the evils which threaten all of us, both North and South, with one common ruin.
+
+    *Excerpted from **Proclamation by Governor Ellis** (April 24, 1861):* We publish below the Proclamation of Gov. Ellis, convening the Legislature of this State, in this City, on the 1st day of May.
+
+    We think the Governor acted with patriotic promptness in refusing the call on this State for troops; and that, in convening the Legislature to take action in this great crisis, he will be sustained by the whole people of the State.
+
+    We have heretofore severely censured this functionary for his public conduct. We did this honestly and from a sincere desire to serve and save our country. We were moved to it by no selfish or personal feeling—by no disappointed ambition. We now come forward to sustain him in this day of trial, and to encourage him in our feeble way to stand like a man of iron for the rights and the honor of North-Carolina. May God defend the right! . . .
+  citation: '*Weekly Daily Standard.* Editorials. Raleigh, North Carolina: 1860–1861.'
+bibliographies:
+- subpage: 7
+  title: Primary Sources
+  content: |-
+    Auer, Jeffrey, ed. [*Anti-Slavery and Disunion, 1858-1861: Studies in the Rhetoric of Compromise and Conflict, 1963*](http://openlibrary.org/b/OL14290142M/Antislavery_and_disunion_1858-1861). New York: Harper & Row, 1963. *Auer's work is a collection of essays by historians on the events leading up to the Civil War.*
+
+    Basler, Roy, ed. [*The Collected Works of Abraham Lincoln*](http://openlibrary.org/b/OL22101086M/collected_works_of_Abraham_Lincoln). Piscataway, NJ: Rutgers UP, 1953.  *This eight-volume set is a solid compendium of most of President Lincoln's letters and his important speeches from 1830 until his death. It contains many of his letters to leading political figures of the day, his speeches on his stand on slavery, and correspondence involving his political career.*
+
+    Roswenc, Edwin, ed. [*The Causes of the American Civil War*](http://openlibrary.org/b/OL5816617M/causes_of_the_American_Civil_War.). Boston: Heath, 1961.  *Written to commemorate the 100th anniversary of the Civil War, Roswenc's collection of essays remains a good study on the many and different reasons that brought about the conflict.*
+
+    Rowland, Dunbar, ed. [*Jefferson Davis, Constitutionalist: His Letters, Papers and Speeches*](http://openlibrary.org/b/OL5760013M/Jefferson_Davis_constitutionalist). Jackson, MS: Printed for the Mississippi Dept. of Archives and History, 1923.  *This substantial, 10-volume set covers Davis's career from his days in the army to the his post-war life. It includes his lengthy and emotional speeches on slavery and disunion, letters to his wife, and notes to political colleagues. It offers numerous reasons for the Civil War from his point of view.*
+- subpage: 8
+  title: Secondary Sources
+  content: |-
+    Davis, David Brion. [*The Problem of Slavery in the Age of Revolution, 1770-1823*](http://openlibrary.org/b/OL359499M/problem_of_slavery_in_the_age_of_revolution_1770-1823). Ithaca: Cornell University Press, 1975. *This work by Pulitzer Prize-winner David Davis was originally printed in the 70s, yet it still stands as an important work on the history of slavery.*
+
+    Davis, William. [*Jefferson Davis: The Man and His Hour*](http://openlibrary.org/b/OL1891097M/Jefferson_Davis). New York: HarperCollins, 1991.  *This thick and highly researched biography of the Confederate President captures all of the quirks of his volcanic personality and shows his importance in the South as a politician, war hero and, later, first President of the Confederacy. Historian Davis devotes a considerable amount of time to the causes of the war, seen from both the northern and southern viewpoint.*
+
+    Fehrenbacher, Don. [*Prelude to Greatness: Lincoln in the 1850s*](http://openlibrary.org/b/OL7928448M/Prelude_to_Greatness). Palo Alto, CA: Stanford UP, 1982.  *This is a study of Lincoln's life in the decade preceding the war and the political and cultural storms that surrounded him.*
+
+    Goodwin, Doris. [*Team of Rivals*](http://openlibrary.org/b/OL3422840M/Team_of_rivals). New York: Simon & Schuster, 2007. *Goodwin's lengthy and carefully researched book tells the story of Lincoln's selection of his chief opponents for the Republican nomination as cabinet officers. The book concentrates on the war, but there are numerous chapters and parts of chapters on the causes of the war.*
+
+    McPherson, James. [*Battle Cry of Freedom: The Civil War Era*](http://openlibrary.org/b/OL2382345M/Battle_cry_of_freedom). New York: Oxford UP, 1988.  *This Pulitzer Prize-winning work covers the history of the United States from the Mexican War through the end of the Civil War. Much of it is devoted to the causes of the war and the author shows, through significant research, how complicated they were. The book also probes the politics of the pre-war era and explains what effect Lincoln's election had on secession.*
+
+    Richard, Leonard. [*The California Gold Rush and the Coming of the Civil War*](http://openlibrary.org/b/OL9896075M/The_California_Gold_Rush_and_the_Coming_of_the_Civil_War). New York: Knopf, 2007.  *Richard's study zeroes in on gold mining as the main reason why a large group of people in California wanted slavery in the state. There were no plans for giant cotton production in the state, just an immediate need for enslaved miners who could help their owners turn a large profit. This desire nearly put California in the Democratic column in 1860's close election in that state.*
+
+    Towers, Frank. [*The Urban South and the Coming of the Civil War*](http://openlibrary.org/b/OL3292092M/urban_South_and_the_coming_of_the_Civil_War). Charlottesville, VA: University of Virginia, 2004.  *Towers chronicles the growth of cities in the South prior to the Civil War, noting their 62% jump in population, the arrival of street gangs, and manufacturing. Towers notes, too, that three of the largest eight cities in America were in slave states. He counters the argument that the South was an all-agrarian region.*
+
+    White, Ronald. [*A. Lincoln*](http://openlibrary.org/b/OL18725675M/A._Lincoln). New York: Random House, 2009.  *White's detailed study of Lincoln shows him as the centerpiece of the pre-war era, but it also engages the reader in the different causes of the war. He also details the attack on Fort Sumter as a device to gain freedom for the South, not for cotton production.*

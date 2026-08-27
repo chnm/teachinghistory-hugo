@@ -1,0 +1,69 @@
+{{/*
+  Beyond the Textbook primary sources and annotated bibliographies.
+
+  Params: the current page. Each restored Drupal subpage becomes an anchored
+  section on the static article page. Legacy ?subpage=N requests scroll to the
+  matching section when the query string survives the server redirect.
+*/}}
+{{- $page := . -}}
+{{- $key := printf "nid-%v" .Params.drupal_nid -}}
+{{- $data := index hugo.Data.btt_subpages $key -}}
+{{- with $data }}
+  {{ with .primary_sources }}
+  <section class="mt-12 pt-8 border-t border-gray-light" aria-labelledby="primary-sources">
+    <h2 id="primary-sources" class="font-heading text-2xl mb-6 scroll-mt-24">Primary Sources</h2>
+    <div class="flex flex-col gap-12">
+      {{ range . }}
+      <section aria-labelledby="btt-subpage-{{ .subpage }}">
+        <h3 id="btt-subpage-{{ .subpage }}" class="font-heading text-xl mb-4 scroll-mt-24">{{ .title }}</h3>
+
+        {{ with .annotation }}
+          {{ partial "annotation.html" (dict "title" "Annotation" "content" (. | markdownify)) }}
+        {{ end }}
+
+        {{ with .image }}
+        <figure class="my-6">
+          <img src="{{ .url }}" alt="{{ .alt }}"{{ with .width }} width="{{ . }}"{{ end }}{{ with .height }} height="{{ . }}"{{ end }} loading="lazy" class="max-w-full h-auto">
+        </figure>
+        {{ end }}
+
+        {{ with .text }}
+        <div class="btt-source-text font-body leading-relaxed mb-6">{{ . | markdownify }}</div>
+        {{ end }}
+
+        {{ with .citation }}
+        <div class="border-l-4 border-yellow pl-4">
+          <h4 class="font-heading text-sm font-bold uppercase tracking-wide mb-2">Citation</h4>
+          <div class="font-body text-sm leading-relaxed">{{ . | markdownify }}</div>
+        </div>
+        {{ end }}
+      </section>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{ with .bibliographies }}
+  <section class="mt-12 pt-8 border-t border-gray-light" aria-labelledby="annotated-bibliography">
+    <h2 id="annotated-bibliography" class="font-heading text-2xl mb-6 scroll-mt-24">Annotated Bibliography</h2>
+    <div class="flex flex-col gap-10">
+      {{ range . }}
+      <section aria-labelledby="btt-subpage-{{ .subpage }}">
+        <h3 id="btt-subpage-{{ .subpage }}" class="font-heading text-xl mb-4 scroll-mt-24">{{ .title }}</h3>
+        <div class="font-body leading-relaxed">{{ .content | markdownify }}</div>
+      </section>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <script>
+    (() => {
+      if (window.location.hash) return;
+      const subpage = new URLSearchParams(window.location.search).get('subpage');
+      if (!subpage) return;
+      const target = document.getElementById(`btt-subpage-${subpage}`);
+      if (target) target.scrollIntoView();
+    })();
+  </script>
+{{- end }}
