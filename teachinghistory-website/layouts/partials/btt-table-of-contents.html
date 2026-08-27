@@ -1,0 +1,44 @@
+{{/*
+  Beyond the Textbook table of contents.
+
+  Params: the current page. Supplemental content is looked up by Drupal nid in
+  data/btt_subpages/nid-<nid>.yaml.
+*/}}
+{{- $key := printf "nid-%v" .Params.drupal_nid -}}
+{{- $data := index hugo.Data.btt_subpages $key -}}
+{{- with $data }}
+<nav class="bounded-sticky-sidebar bg-white rounded shadow-md p-5" aria-label="Article contents">
+  <h3 class="font-heading text-lg font-bold uppercase mb-3">Table of Contents</h3>
+  <ul class="flex flex-col gap-3 text-sm">
+    <li><a href="#essay" class="font-semibold text-orange-ink hover:underline">Essay</a></li>
+    {{ with .primary_sources }}
+    <li>
+      <span class="font-heading text-xs font-bold uppercase tracking-wide">Primary Sources</span>
+      <ul class="mt-2 ml-4 flex flex-col gap-2 border-l border-gray-light pl-3">
+        {{ range . }}
+        <li>
+          <a href="#btt-subpage-{{ .subpage }}" class="text-dark hover:text-orange-ink hover:underline">
+            {{ .title }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </li>
+    {{ end }}
+    {{ with .bibliographies }}
+    <li>
+      <span class="font-heading text-xs font-bold uppercase tracking-wide">Annotated Bibliography</span>
+      <ul class="mt-2 ml-4 flex flex-col gap-2 border-l border-gray-light pl-3">
+        {{ range . }}
+        <li>
+          <a href="#btt-subpage-{{ .subpage }}" class="text-dark hover:text-orange-ink hover:underline">
+            {{ .title }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </li>
+    {{ end }}
+  </ul>
+</nav>
+{{- end }}

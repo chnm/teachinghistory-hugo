@@ -57,6 +57,30 @@
     font-weight: bold;
   }
 
+  article h2.btt-central-question {
+    text-transform: none;
+    font-weight: normal;
+  }
+
+  details[open] > summary .btt-summary-chevron {
+    transform: rotate(90deg);
+  }
+
+  @media (min-width: 1024px) {
+    .bounded-sticky-sidebar {
+      position: sticky;
+      top: 76px;
+      max-height: calc(100dvh - 96px);
+      overflow-y: auto;
+      scrollbar-gutter: stable;
+    }
+
+    .bounded-sticky-sidebar-search {
+      top: 84px;
+      max-height: calc(100dvh - 104px);
+    }
+  }
+
   p {
     margin-bottom: 1em;
   }
