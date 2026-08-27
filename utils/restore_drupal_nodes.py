@@ -87,6 +87,12 @@ LINK_KEYS = {
 
 LOCAL_TIMEZONE = ZoneInfo("America/New_York")
 PUBLIC_FILES_PREFIX = "/sites/default/files/"
+LEGACY_FILES_PREFIX = "/files/"
+LEGACY_FILE_HOSTS = {
+    "drupal.teachinghistory.org",
+    "teachinghistory.org",
+    "www.teachinghistory.org",
+}
 
 
 @dataclass
@@ -126,10 +132,17 @@ def public_file_relative(url: str) -> str | None:
     """Return a safe path below Drupal's public files directory."""
     if not url:
         return None
-    path = unquote(urlparse(url).path)
-    if not path.startswith(PUBLIC_FILES_PREFIX):
+    parsed = urlparse(url)
+    path = unquote(parsed.path)
+    if path.startswith(PUBLIC_FILES_PREFIX):
+        prefix = PUBLIC_FILES_PREFIX
+    elif path.startswith(LEGACY_FILES_PREFIX) and (
+        not parsed.hostname or parsed.hostname.lower() in LEGACY_FILE_HOSTS
+    ):
+        prefix = LEGACY_FILES_PREFIX
+    else:
         return None
-    relative = path.removeprefix(PUBLIC_FILES_PREFIX).lstrip("/")
+    relative = path.removeprefix(prefix).lstrip("/")
     pure = PurePosixPath(relative)
     if not relative or pure.is_absolute() or ".." in pure.parts:
         return None
@@ -169,7 +182,7 @@ def collect_asset_urls(entity: dict) -> set[str]:
     for value in all_strings(entity):
         if public_file_relative(value) is not None:
             urls.add(value)
-        if PUBLIC_FILES_PREFIX not in value or "<" not in value:
+        if "<" not in value:
             continue
         soup = BeautifulSoup(value, "html.parser")
         for tag in soup.find_all(True):
@@ -184,11 +197,13 @@ def localize_markdown_assets(markdown: str) -> str:
     """Point converted Markdown public-file links at Hugo's ``/files`` tree."""
     if not markdown:
         return markdown
-    absolute = re.compile(
-        r"https?://[^\s)>]+" + re.escape(PUBLIC_FILES_PREFIX) + r"[^\s)>]+",
-        re.IGNORECASE,
+    absolute = re.compile(r"https?://[^\s)>]+", re.IGNORECASE)
+    markdown = absolute.sub(
+        lambda match: local_file_url(match.group(0))
+        if public_file_relative(match.group(0)) is not None
+        else match.group(0),
+        markdown,
     )
-    markdown = absolute.sub(lambda match: local_file_url(match.group(0)), markdown)
     return markdown.replace(PUBLIC_FILES_PREFIX, "/files/")
 
 

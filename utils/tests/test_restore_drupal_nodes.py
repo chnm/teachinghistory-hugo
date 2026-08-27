@@ -37,6 +37,12 @@ class RestoreDrupalNodesTests(unittest.TestCase):
         source = "https://drupal.example/sites/default/files/2025-11/A%20File.pdf"
         self.assertEqual(public_file_relative(source), "2025-11/A File.pdf")
         self.assertEqual(local_file_url(source), "/files/2025-11/A%20File.pdf")
+        self.assertEqual(public_file_relative("/files/source1.png"), "source1.png")
+        self.assertEqual(
+            local_file_url("http://teachinghistory.org/files/source1.png"),
+            "/files/source1.png",
+        )
+        self.assertIsNone(public_file_relative("https://example.org/files/source1.png"))
         self.assertIsNone(public_file_relative("/sites/default/files/../secret"))
 
     def test_rest_entity_maps_body_images_taxonomy_and_attachment(self):
