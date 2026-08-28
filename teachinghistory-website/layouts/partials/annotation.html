@@ -1,0 +1,14 @@
+{{/*
+  Annotation — reusable contextual note styled for the site design.
+
+  Params:
+    - title: optional callout heading; defaults to "Annotation"
+    - content: rendered HTML
+*/}}
+{{- $title := .title | default "Annotation" -}}
+<aside class="annotation-callout my-6 rounded-r border-l-4 border-orange bg-orange-tint px-5 py-4 shadow-sm" role="note" aria-label="{{ $title }}">
+  <h4 class="font-heading text-sm font-bold uppercase tracking-wide text-orange-ink mb-2">{{ $title }}</h4>
+  <div class="font-body text-sm leading-relaxed text-dark">
+    {{ .content }}
+  </div>
+</aside>

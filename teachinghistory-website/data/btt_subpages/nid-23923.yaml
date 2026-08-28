@@ -1,0 +1,97 @@
+nid: 23923
+primary_sources:
+- subpage: 1
+  title: Coal Consumption (1850-1900)
+  annotation: This graph, developed in 2003, shows the speed with which coal, particularly bituminous
+    coal, took over as the central American energy source at the end of the 20th century.
+  citation: 'Schurr, Sam H. and Bruce C. Netschert. [*Energy in the American Economy, 1850-1975*](http://openlibrary.org/b/OL5800917M/Energy_in_the_American_economy_1850-1975).
+    Baltimore: Johns Hopkins, 1960, 36-37.'
+  image:
+    url: /files/BtT_Coal_S1.jpg
+    alt: Coal Consumption (1850-1900)
+    width: 440
+    height: 263
+- subpage: 2
+  title: Cincinnati Account (1841)
+  annotation: After collecting data for the 1840 census in Cincinnati, Charles Cist used the information
+    he had gathered to write a book on the city—which included, among chapters on the area's geology,
+    commerce, and education systems, this description of city pollution. The full text of the book may
+    be read [online](http://openlibrary.org/b/OL23355233M/Cincinnati_in_1841).
+  text: A dense cloud of darkness and smoke, visible for some distance before [a traveler] reaches it,
+    hides the city from his eyes until he is in its midst; and yet half the volume is furnished by household
+    fires, coal being the only fuel of the place. As he enters the manufacturing region, the hissing of
+    steam, the clanking of chains, the jarring and grinding of wheels and other machinery, and the glow
+    of melted glass and iron, and burning coal beneath, burst upon his eyes and ears in concentrated force.
+    If he visits the warehouses he finds glass, cotton yarns, iron, nails, castings, and machinery, occupying
+    a prominent place. He discovers the whole city under the influence of steam and smoke. The surface
+    of the houses and streets are so discolored as to defy the cleansing power of water, and the dwellings
+    are preserved in any degree of neatness, only by the unremitting labors of their tenants, in morning
+    and evening ablutions. The very soot partakes of the bituminous character of the coal, and falling—color
+    excepted—like snow flakes, fastens on the face and neck, with a tenacity which nothing but the united
+    agency of soap, hot water, and the towel can overcome. Coal and the steam-engine are the pervading
+    influence of the place. . . . It is, in industry, a perfect hive—and without drones.
+  citation: 'Cist, Charles. [*Cincinnati in 1841: Its Early Annals and Future Progress*](http://openlibrary.org/b/OL23355233M/Cincinnati_in_1841).
+    Cincinnati: 1841.'
+- subpage: 3
+  title: Pittsburgh Painting (1843)
+  annotation: This painting captures the pollution in a major American city—Pittsburgh—in the middle of
+    the 19th century. It may also be [viewed online](http://explorepahistory.com/displayimage.php?imgId=3622)
+    at [ExplorePAhistory.com](http://explorepahistory.com").
+  citation: Russell, William T. [*Pittsburgh from the Salt Works at Saw Mill*](http://explorepahistory.com/displayimage.php?imgId=3622),
+    1843. From the Library and Archives Division, Historical Society of Western Pennsylvania, Pittsburgh,
+    PA.
+  image:
+    url: /files/BtT-Coal-S3.jpg
+    alt: Pittsburgh Painting (1843)
+    width: 460
+    height: 326
+- subpage: 4
+  title: Jokerville Coal Mine Explosion (1844)
+  annotation: On Jan. 24th, 1884, an explosion shattered the Jokerville Mine in Crested Butte, CO, killing
+    59 workers. The disaster was reported in the Feb. 16, 1884 edition of *Harper's Weekly*—a record of
+    only one of many industrial revolution mining disasters. The captions read "The Scene of the Disaster"
+    and "Victims and Mourners. The disaster at Crested Butte, Colorado—from photographs by George E. Mellen—[See
+    page 111]."
+  citation: Graham, Charles. "The Disaster at Crested Butte, Colorado." *Harper's Magazine*, February
+    16, 1884.
+  image:
+    url: /files/BtT-Coal-S4..jpg
+    alt: Jokerville Coal Mine Explosion (1844)
+    width: 460
+    height: 690
+- subpage: 5
+  title: Breaker Boys at Work (1911)
+  annotation: |-
+    Lewis Hine traveled the U.S. in the early 20th-century, taking photographs of child laborers for the National Child Labor Committee. This photograph, taken in 1911 Pennsylvania, shows "breaker boys"—boys employed by mines to pick impurities out of newly broken coal as it rolled past on conveyor belts. The boys might cut fingers and hands, lose limbs, or contract lung diseases from working in the hazardous, dusty conditions.
+
+    Hine captioned this photo, "A view of Ewen Breaker of the Pa. Pennsylvania Coal Co. The dust was so dense at times as to obscure the view. This dust penetrates the utmost recesses of the boys' lungs."
+  citation: 'Hine, Lewis. "[A view of Ewen Breaker of the Pa. Pennsylvania Coal Co. The dust was so dense
+    at times as to obscure the view. This dust penetrates the utmost recesses of the boys'' lungs. Location:
+    South Pittston, Pennsylvania]( http://hdl.loc.gov/loc.pnp/nclc.01132)," January 1911.'
+  image:
+    url: /files/BtT-Coal-S5.jpg
+    alt: Breaker Boys at Work (1911)
+    width: 460
+    height: 318
+bibliographies:
+- subpage: 7
+  title: Primary Sources
+  content: "George Eastman House. \"[Lewis Hine: Immigration and the Progressive Era Discovery Kit](http://education.eastmanhouse.org/discover/kits/kit.php?id=8\r\
+    \n).\"  *Though the page itself is not a primary source, it bases its exploration on primary sources—Lewis\
+    \ Hine's photographs.*"
+- subpage: 8
+  title: Secondary Sources
+  content: |-
+    Adams, Sean. "[US Coal Industry in the Nineteenth Century](http://eh.net/encyclopedia/article/adams.industry.coal.us)." [*EH.Net Encyclopedia*](http://eh.net/encyclopedia/).
+
+    Andrews, Thomas G. [*Killing for Coal: America's Deadliest Labor War*](http://openlibrary.org/b/OL16857869M/Killing_for_coal). Cambridge: Harvard UP, 2008.
+
+    Freese, Barbara. [*Coal: A Human History*](http://openlibrary.org/b/OL3575298M/Coal). New York: Penguin Books, 2003.
+
+    Licht, Walter. [*Industrializing America: The Nineteenth Century*](http://openlibrary.org/b/OL1111822M/Industrializing_America)**. Baltimore: Johns Hopkins UP, 1995.**
+
+    **Nye, David E. [*Consuming Power: A Social History of American Energies*](http://openlibrary.org/b/OL9676077M/Consuming_Power). Cambridge: MIT Press, 1998.**
+
+    **Smil, Vaclav. [*Energies: An Illustrated Guide to the Biosphere and Civilization*](http://openlibrary.org/b/OL353725M/Energies). Cambridge: MIT Press, 1999.**
+
+    **U.S. Department of Energy, Energy Information Administration. "[Coal Timeline](http://www.eia.gov/kids/energy.cfm?page=tl_coal)." [Energy Kids](http://www.eia.gov/kids/index.cfm)*.*

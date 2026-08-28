@@ -1,0 +1,73 @@
+{{/*
+  Beyond the Textbook table of contents.
+
+  Params: the current page. Supplemental content is looked up by Drupal nid in
+  data/btt_subpages/nid-<nid>.yaml.
+*/}}
+{{- $key := printf "nid-%v" .Params.drupal_nid -}}
+{{- $data := index hugo.Data.btt_subpages $key -}}
+{{- with $data }}
+<nav id="btt-table-of-contents" class="scroll-mt-24 bg-white rounded shadow-md p-5" aria-label="Article contents">
+  <h3 class="font-heading text-lg font-bold uppercase mb-3">Table of Contents</h3>
+  <ul class="flex flex-col gap-3 text-sm">
+    <li><a href="#essay" class="font-semibold text-orange-ink hover:underline">Essay</a></li>
+    {{ with .primary_sources }}
+    <li>
+      <span class="font-heading text-xs font-bold uppercase tracking-wide">Primary Sources</span>
+      <ul class="mt-2 ml-4 flex flex-col gap-2 pl-3">
+        {{ range . }}
+        <li>
+          <a href="#btt-subpage-{{ .subpage }}" class="text-dark hover:text-orange-ink hover:underline">
+            {{ .title }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </li>
+    {{ end }}
+    {{ with .bibliographies }}
+    <li>
+      <span class="font-heading text-xs font-bold uppercase tracking-wide">Annotated Bibliography</span>
+      <ul class="mt-2 ml-4 flex flex-col gap-2 pl-3">
+        {{ range . }}
+        <li>
+          <a href="#btt-subpage-{{ .subpage }}" class="text-dark hover:text-orange-ink hover:underline">
+            {{ .title }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </li>
+    {{ end }}
+  </ul>
+</nav>
+
+<a id="btt-back-to-toc"
+   href="#btt-table-of-contents"
+   class="btt-back-to-toc hidden fixed rounded-full bg-black px-4 py-2 font-heading text-sm font-semibold text-yellow shadow-lg hover:bg-dark focus:outline-2 focus:outline-offset-2 focus:outline-orange"
+   aria-hidden="true"
+   tabindex="-1">
+  &uarr; Back to TOC
+</a>
+
+<script>
+  (() => {
+    const toc = document.getElementById('btt-table-of-contents');
+    const backLink = document.getElementById('btt-back-to-toc');
+    if (!toc || !backLink || !('IntersectionObserver' in window)) return;
+
+    const observer = new IntersectionObserver(([entry]) => {
+      const hidden = entry.isIntersecting;
+      backLink.classList.toggle('hidden', hidden);
+      backLink.setAttribute('aria-hidden', hidden ? 'true' : 'false');
+      if (hidden) {
+        backLink.setAttribute('tabindex', '-1');
+      } else {
+        backLink.removeAttribute('tabindex');
+      }
+    }, { rootMargin: '-76px 0px 0px 0px' });
+
+    observer.observe(toc);
+  })();
+</script>
+{{- end }}

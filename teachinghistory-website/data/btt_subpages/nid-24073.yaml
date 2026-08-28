@@ -1,0 +1,109 @@
+nid: 24073
+primary_sources:
+- subpage: 1
+  title: Dupont Chassis Photographs (c.1919-1930) and Auto Repair Catalog (1912)
+  annotation: |-
+    The Hagley Museum and Library Digital Archives offers the [DuPont Automobiles, Photograph Collection, 1919-1931](http://digital.hagley.org/cdm4/index_p268001coll18.php?CISOROOT=/p268001coll18), which contains images of DuPont Automobiles produced by the DuPont Motor Company. The following is an interesting shot of the machine's central chassis. Here, students can come to appreciate the function differences between the operations of a car (the engine, chassis, frame, etc.) or the pleasing design elements of the body attached to the chassis. The second image offers the same perspective of the finished product.
+
+    The Hagley also offers a 1912 [catalog](http://digital.hagley.org/cdm4/document.php?CISOROOT=/p268001coll12&CISOPTR=4631&REC=18) for an automobile repair school in Boston, featuring a variety of interesting perspectives. Page 10 discusses the purpose of the school and the need for auto mechanics. Pages 15 and 24 provide images (others are spread throughout the pamphlet) of students in classroom settings. Finally, pages 25-28 are perhaps the most interesting, listing course information, costs, and the ways that the automobile open up new business opportunities for young mechanics.
+  citation: |-
+    DuPont Motors, Inc. ["DuPont Automobile Chassis"](http://digital.hagley.org/cdm4/item_viewer.php?CISOROOT=/p268001coll18&CISOPTR=21&CISOBOX=1&REC=8). c.1919-1930. From the DuPont Automobile Photograph Collection, Hagley Museum and Library.
+
+    DuPont Motors, Inc. ["DuPont Automobile In Front Of House"](http://digital.hagley.org/cdm4/item_viewer.php?CISOROOT=/p268001coll18&CISOPTR=30&CISOBOX=1&REC=19). c.1919-1930. From the DuPont Automobile Photograph Collection, Hagley Museum and Librar.
+
+    Boston Young Men's Christian Association Institution. *[Catalogue of the Automobile School, 1912-1913](http://digital.hagley.org/cdm4/document.php?CISOROOT=/p268001coll12&CISOPTR=4631&REC=18)*. Boston: 1912.
+  image:
+    url: /files/btt-autos-cars.jpg
+    alt: Dupont Chassis Photographs (c.1919-1930) and Auto Repair Catalog (1912)
+    width: 458
+    height: 378
+- subpage: 2
+  title: Early Automobile Advertisements
+  annotation: Duke University's digital library provides a [host](http://library.duke.edu/digitalcollections/eaa/)
+    of searchable advertising images. Here, students can discuss the ways the automobile provided access
+    to the countryside to women and photo enthusiasts. An in-class discussion about other forms of leisure
+    tied to mobility might help in grounding the concept of the cultural ["multiplier effect"](http://encarta.msn.com/dictionary_561547594/multiplier_effect.html)
+    to the car.
+  citation: Kodak. "[Kodak, as you go](http://library.duke.edu/digitalcollections/eaa_K0265/)." 1917.
+    From [*Emergence of Advertising in America, 1850–1920*](http://library.duke.edu/digitalcollections/eaa/),
+    Digital Collections, Duke University Libraries.
+  image:
+    url: /files/btt-auto-ad.jpg
+    alt: Early Automobile Advertisements
+    width: 460
+    height: 428
+- subpage: 3
+  title: Transcontinental Road Map (c.1918)
+  annotation: |-
+    The Library of Congress [American Memory project](http://memory.loc.gov/ammem/index.html) offers a searchable database on thousands of primary sources. Search under automobile accidents, maps, drivers, or races to get a wide range of early images and brochures. Below is a [transcontinental road map](http://hdl.loc.gov/loc.gmd/g3701p.ct001837 ) of the United States, published by the American Automobile Association in 1918. Students can follow the major paved roads and examine which areas of the country were best served by the rapid rise of automobile use.
+
+    To download the map at full size, follow that link above, click on the image of the map, and then choose "Download JPEG2000 image (10721 kilobytes)" from the bottom of the page.
+  citation: American Automobile Association. "[General map of transcontinental routes with principal connections](http://hdl.loc.gov/loc.gmd/g3701p.ct001837
+    )." c.1918. From the Library of Congress.
+  image:
+    url: /files/btt-autos-map.jpg
+    alt: Transcontinental Road Map (c.1918)
+    width: 460
+    height: 289
+- subpage: 4
+  title: Internal Combustion Engine (1909)
+  annotation: 'The New York Public Library''s Digital Gallery created ["Taking the Wheel: Manufacturers''
+    Catalogs from the First Decade of American Automobiles"](http://digitalgallery.nypl.org/nypldigital/explore/dgexplore.cfm?col_id=153)
+    from its vast holdings. The following [image](http://digitalgallery.nypl.org/nypldigital/id?1160156)
+    is a schematic drawing of an internal combustion engine in 1909. Noting its complexity and detail,
+    students might try, like Henry Ford, to think through ways that they could manufacture such an intricate
+    machine. Remembering that an internal combustion engine is simply the application of fuel, air, and
+    a spark, can students examine how this design produces the effect of power?'
+  citation: Franklin Car. "[Plate No. 5 - K-3-4 Engine](http://digitalgallery.nypl.org/nypldigital/id?1160156)/"
+    1909. From the Digital Gallery, New York Public Library.
+  image:
+    url: /files/btt-auto-combustion.jpg
+    alt: Internal Combustion Engine (1909)
+    width: 460
+    height: 300
+- subpage: 5
+  title: Census Statistics (1900-2001)
+  annotation: The U.S. Census Bureau provides the official record for American automobiles. This [link](http://www.census.gov/statab/hist/HS-41.pdf)
+    lists the miles traveled, vehicles registered, and auto-related fatalities recorded from 1900 to 2001.
+    Students can compare trends, particularly in these early years, and discuss reasons for the falling
+    fatality rates.
+  citation: 'U.S. Census Bureau. "[No. HS-41. Transportation Indicators for Motor Vehicles and Airlines:
+    1900 to 2001](http://www.census.gov/statab/hist/HS-41.pdf)." Washington, DC: 2003.'
+  image:
+    url: /files/btt-auto-census.jpg
+    alt: Census Statistics (1900-2001)
+    width: 460
+    height: 595
+bibliographies:
+- subpage: 7
+  title: Primary Sources
+  content: |-
+    University of Michigan, Dearborn, and The Henry Ford. *[Automobile in American Life and Society](http://www.autolife.umd.umich.edu/)*.  *This website was designed as an academic resource for courses focused on the automobile and the automobile industry. Each section—design, environment, gender, labor, and race—has a short introduction and two illustrated scholarly essays (often including annotated bibliographies).*
+
+    New York Public Library Digital Gallery. *[Taking the Wheel: Manufacturers' Catalogs from the First Decade of American Automobiles](http://digitalgallery.nypl.org/nypldigital/explore/dgexplore.cfm?topic=industry&collection=TakingtheWheelManufa&col_id=153)*. *This collection allows the visitor to explore the early history of the American automobile through images from 69 manufacturer's catalogs published in 1909. There are more than 800 total images. Of particular interest are a 27-page Ford catalog with a price list of parts for the company's Model N, R, and S cars; a similar catalog from the E.R. Thomas Motor Company; a Studebaker catalog of "electric pleasure vehicles" featuring a description of the Model 22f Electric Coupe, a car "for evening social engagements, for use in inclement weather in the summer and for winter use, a comfortable and stylish vehicle"; a catalog describing Packard Motor Car Company's "Packard Truck," with images of the truck delivering various types of goods; and a 17-page instruction book on the "Matheson six-cylinder car" with detailed technical diagrams of the car's engine, transmission, and controls.*
+
+    Hagley Museum and Library. *[Hagley Digital Archives](http://digital.hagley.org/)*.  *With a focus on business history and its connections to larger cultural, social, and political trends, the Hagley archive presents a number of digital images related to the early automobile industry. These include a [collection](http://digital.hagley.org/cdm4/index_p268001coll18.php?CISOROOT=/p268001coll18) of DuPont Automobiles (1919-1931). Type "automobile" into the keyword search to uncover a diverse collection of catalogs, advertisements, and other resources.*
+
+    The Henry Ford. [*The Henry Ford Museum*](http://www.hfmgv.org/).  *The Henry Ford Museum provides unique educational experiences based on authentic objects, stories, and lives from America's traditions of ingenuity, resourcefulness and innovation. Its purpose is to inspire people to learn from these traditions to help shape a better future.*
+
+    John W. Hartman Center and Duke University Digital Scriptorium. *[Emergence of Advertising in America: 1850-1920](http://library.duke.edu/digitalcollections/eaa/)*.  *This site focuses on the rise of consumer culture in America and the development of a professionalized advertising industry. Keyword searches on "automobile" and "car" return advertisements, log books, and safety guides from the early years of the industry.*
+- subpage: 8
+  title: Secondary Sources
+  content: |-
+    Belasco, Warren. *Americans on the Road: From Autocamp to Motel: 1910-1945.* Cambridge: MIT Press, 1979.  *A well-written account of early cross-country travel and the culture of mobility spawned by automobile use.*
+
+    Blanke, David. *Hell on Wheels: The Promise and Peril of America's Car Culture, 1900-1940*. Lawrence: University Press of Kansas, 2007.  *An analysis of the rising auto accident crisis in America and the country's response to this peril.*
+
+    Borg, Kevin. *Auto Mechanics: Technology and Expertise in Twentieth-Century America*. Baltimore: Johns Hopkins University Press, 2007.  *Borg examines the role of automobile technology, especially the rising dependence most have on the technical experts who keep our cars running.*
+
+    Flink, James J. *The Automobile Age*. Cambridge: MIT Press, 2001.  *The standard account of America's adaptation to automobile use in the 20th century, Flink's work is comprehensive and highly informative.*
+
+    Lewis, David L. *The Public Image of Henry Ford*. Detroit: Wayne State University Press, 1976.  *An analysis of the life and public legend of Henry Ford.*
+
+    McCarthy, Tom. *Auto Mania: Cars, Consumers, and the Environment*. New Haven: Yale University Press, 2007.  *A study of the economic and environmental costs of automotive use in America.*
+
+    McShane, Clay. *Down the Asphalt Path: The Automobile and the American City*. New York: Columbia University Press, 1994.  *An essential analysis of how the automobile changed and was changed by the American city.*
+
+    Scharff, Virginia. *Taking the Wheel: Women and the Coming of the Motor Age*. Albuquerque: University of New Mexico Press, 1992.  *A well-written account of women motorists in the automobile age.*
+
+    [*The Society of Automotive Historians*](http://www.autohistory.org). *The Society of Automotive Historians includes members from all walks of life and includes authors who write books and articles about automotive history as well as people who simply enjoy reading and researching it.*
