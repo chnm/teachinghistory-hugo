@@ -12,3 +12,7 @@ TeachingHistory.org is a comprehensive resource for history educators, providing
 ## Our Mission
 
 We aim to support teachers in bringing history to life in their classrooms through high-quality educational resources.
+
+## Supporters
+
+Teaching History is made possible with funding from the U.S. Department of Education and generous donations from supporters of history education nationwide. We in particular wish to extend a heartfelt thanks to the David Bruce Smith Foundation for its generous donation. Without these contributions, we would not be able to make the entirety of these resources available to educators around the world.
