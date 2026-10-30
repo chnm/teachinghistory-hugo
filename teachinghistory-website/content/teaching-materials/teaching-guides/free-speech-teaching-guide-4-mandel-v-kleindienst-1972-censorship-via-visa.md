@@ -64,9 +64,9 @@ tags:
 ###### This Teaching Guide is part of a series. Each of the four total teaching guides speaks to one aspect of the history of free speech. Although they work together to tell different parts of this history, it is not necessary to teach all of the guides or to teach them in a certain order. Each guide is a self-contained lesson. (A PDF version of this teaching guide is also available for download-see left)
 
 **Other guides in the series:**  
-[Free Speech Teaching Guide 1: The Birth of the Modern First Amendment: How Oliver Wendell Holmes Changed His Mind]( teachinghistory.org/teaching-materials/teaching-guides/25888)  
-[Free Speech Teaching Guide 2: *Brandenburg v. Ohio* (1969): Defining and Arguing Hate Speech](https://teachinghistory.org/teaching-materials/teaching-guides/25889)  
-[Free Speech Teaching Guide 3: The Problem of National Security Secrets](https://teachinghistory.org/teaching-materials/teaching-guides/25901)
+[Free Speech Teaching Guide 1: The Birth of the Modern First Amendment: How Oliver Wendell Holmes Changed His Mind](/teaching-materials/teaching-guides/free-speech-teaching-guide-1-the-birth-of-the-modern-first-amendment-and-how-oliver-wendell-holmes-c/)  
+[Free Speech Teaching Guide 2: *Brandenburg v. Ohio* (1969): Defining and Arguing Hate Speech](/teaching-materials/teaching-guides/free-speech-teaching-guide-2-brandenburg-v-ohio-1969-defining-and-arguing-hate-speech/)  
+[Free Speech Teaching Guide 3: The Problem of National Security Secrets](/teaching-materials/teaching-guides/free-speech-teaching-guide-3-the-problem-of-national-security-secrets/)
 
 !["Male Immigrants at Ellis Island." A man stands in line waiting while another man who works at Ellis Island handles his paperwork.](/files/inline-images/MenEllisIsland.jpg)
 
@@ -190,7 +190,7 @@ Kristin Helmore, “Would William Shakespeare get a Visa?” *Christian Science 
 
 * Do students think denying visas under this law is a good or a bad thing?
 * Do they agree that there are national security grounds under which someone should be denied entry to the country? Do those grounds extend to political beliefs?
-  + If you have used the other Free Speech Teaching Guides that cover [*Schenk v. US*](https://teachinghistory.org/teaching-materials/teaching-guides/25888) and [*Brandenburg v. Ohio*](https://teachinghistory.org/teaching-materials/teaching-guides/25889), this is an opportunity to discuss what "harm" the law is intended to prevent.
+  + If you have used the other Free Speech Teaching Guides that cover [*Schenk v. US*](/teaching-materials/teaching-guides/free-speech-teaching-guide-1-the-birth-of-the-modern-first-amendment-and-how-oliver-wendell-holmes-c/) and [*Brandenburg v. Ohio*](/teaching-materials/teaching-guides/free-speech-teaching-guide-2-brandenburg-v-ohio-1969-defining-and-arguing-hate-speech/), this is an opportunity to discuss what "harm" the law is intended to prevent.
 
 ## Optional Exercise: Visa Waivers
 
@@ -203,7 +203,7 @@ Kristin Helmore, “Would William Shakespeare get a Visa?” *Christian Science 
 ## Framing Essay
 
 **Scholarly Context:**  
-       How did these **visa laws** intersect with the First Amendment? They are clearly a form of **punishment for political speech**. As early as **1903,** an anarchist being deported under the anarchist exclusion law claimed that his First Amendment rights were being violated. The Supreme Court ruled that foreigners could not claim First Amendment rightsto stay in the country. **As we discussed in the guide,** [***Schenk v. U.S.*** **(1919): The Birth of the Modern First Amendment**](https://teachinghistory.org/teaching-materials/teaching-guides/25888)**,** this was typical of the narrow way that the Supreme Court protected First Amendment rights before the mid-twentieth century. And in **1945,** in a case concerning an attempt to deport an Australian labor leader, the Supreme Court said that noncitizens in the U.S. have the same First Amendment rights as citizens. Of course, in the **early 1950s**, American citizens didn’t have the right to advocate for Communism, and so many communists were deported in the McCarthy period, just as many Americans citizens were jailed. Today, the standards would be different.
+       How did these **visa laws** intersect with the First Amendment? They are clearly a form of **punishment for political speech**. As early as **1903,** an anarchist being deported under the anarchist exclusion law claimed that his First Amendment rights were being violated. The Supreme Court ruled that foreigners could not claim First Amendment rightsto stay in the country. **As we discussed in the guide,** [***Schenk v. U.S.*** **(1919): The Birth of the Modern First Amendment**](/teaching-materials/teaching-guides/free-speech-teaching-guide-1-the-birth-of-the-modern-first-amendment-and-how-oliver-wendell-holmes-c/)**,** this was typical of the narrow way that the Supreme Court protected First Amendment rights before the mid-twentieth century. And in **1945,** in a case concerning an attempt to deport an Australian labor leader, the Supreme Court said that noncitizens in the U.S. have the same First Amendment rights as citizens. Of course, in the **early 1950s**, American citizens didn’t have the right to advocate for Communism, and so many communists were deported in the McCarthy period, just as many Americans citizens were jailed. Today, the standards would be different.
 
 [**Find the text of the First Amendment Here**](https://constitution.congress.gov/constitution/amendment-1/)
 
