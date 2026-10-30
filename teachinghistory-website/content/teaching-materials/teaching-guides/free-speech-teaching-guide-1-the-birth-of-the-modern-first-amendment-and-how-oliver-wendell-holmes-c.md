@@ -58,9 +58,9 @@ tags:
 ###### This Teaching Guide is part of a series. Each of the four total teaching guides speaks to one aspect of the history of free speech. Although they work together to tell different parts of this history, it is not necessary to teach all of the guides or to teach them in a certain order. Each guide is a self-contained lesson. (A PDF version of this teaching guide is also available for download-see left)
 
 **Other guides in the series:**  
-[Free Speech Teaching Guide 2: *Brandenburg v. Ohio* (1969): Defining and Arguing Hate Speech](https://teachinghistory.org/teaching-materials/teaching-guides/25889)  
-[Free Speech Teaching Guide 3: The Problem of National Security Secrets](https://teachinghistory.org/teaching-materials/teaching-guides/25901)  
-[Free Speech Teaching Guide 4: *Mandel v. Kleindienst* (1972): Censorship via Visa](https://teachinghistory.org/teaching-materials/teaching-guides/25887)
+[Free Speech Teaching Guide 2: *Brandenburg v. Ohio* (1969): Defining and Arguing Hate Speech](/teaching-materials/teaching-guides/free-speech-teaching-guide-2-brandenburg-v-ohio-1969-defining-and-arguing-hate-speech/)  
+[Free Speech Teaching Guide 3: The Problem of National Security Secrets](/teaching-materials/teaching-guides/free-speech-teaching-guide-3-the-problem-of-national-security-secrets/)  
+[Free Speech Teaching Guide 4: *Mandel v. Kleindienst* (1972): Censorship via Visa](/teaching-materials/teaching-guides/free-speech-teaching-guide-4-mandel-v-kleindienst-1972-censorship-via-visa/)
 
 ###### 
 

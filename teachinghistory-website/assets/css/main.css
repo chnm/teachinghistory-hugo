@@ -91,9 +91,12 @@
       scrollbar-gutter: stable;
     }
 
+    /* A scroll container clips the Pagefind dropdown's absolutely positioned
+       options list; this sidebar is short enough not to need scrolling. */
     .bounded-sticky-sidebar-search {
       top: 84px;
-      max-height: calc(100dvh - 104px);
+      max-height: none;
+      overflow: visible;
     }
   }
 
